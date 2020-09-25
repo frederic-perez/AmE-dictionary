@@ -143,7 +143,7 @@ __acne__ _n_ :mega::two::hammer:
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintances__ :pencil2:  
-__acquiesce__ _v_ :two: To agree to something or to accept something, although you do not want to.  
+__acquiesce__ _v_ :three: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn't fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
@@ -776,7 +776,7 @@ __backsplash__ _n_ An upright surface or border, as of tile, that protects the w
 __backstop__ _n_ (baseball)  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It's amazing the amount of backup we see from even those most minor crashes._  
-__backwater__ _n_ :three: A place or situation regarded as isolated, stagnant, or backward. _An academic backwater._ _An economic backwater._  
+__backwater__ _n_ :four: A place or situation regarded as isolated, stagnant, or backward. _An academic backwater._ _An economic backwater._ _A quiet backwater of the Empire._  
 __backwoods__  
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
@@ -1868,6 +1868,7 @@ __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole c
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
+__cachinnate__ _v_ To laugh hard, loudly, or convulsively; guffaw.  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
@@ -1928,6 +1929,7 @@ __callousness__
 __callow__ _adj_ :four::hammer:  
 __calm before the storm__ _idiom_ :two: A peaceful and quiet period before a period of activity or trouble.  
 __calm__ :mute:[ca~~l~~m]  
+__caltrops__ _n_  
 __calves__  
 __camaraderie__  
 __Cambodia__  
@@ -1966,7 +1968,7 @@ __canopy__ _n_ _A dense canopy of snow._
 __cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canted__ _v_ :two::hammer:  
-__canteens__  
+__canteen__ _n_ :two::hammer: (canteens) (flask)  
 __canter up__ _v_  
 __canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
@@ -2344,11 +2346,12 @@ __chuckle__ _v_ :three::hammer: (chuckled)
 __chucklers__  
 __chug__ _v_ :three::hammer: _A cocktail to chug._ _We're chugging along._  
 __Chugging beers__  
-__chum__ _n_ :four::hammer: (chums) _Fish chum._ _Two college chums._ _We're old school chums._  
+__chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college chums._ _We're old school chums._ __2__ Bait usually consisting of oily fish ground up and scattered on the water. _Fish chum._  
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
 __chunk__ _n_ _Nine chunks of cheese._  
+__churlish__ _adj_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
 __churn__ _v_  
@@ -2938,7 +2941,7 @@ __coveted__ _v_ :two::hammer:
 __covetous__  
 __covey__  
 __COVID__ _abbr_ Short for coronavirus disease.  
-__cow__ _v_ :two::hammer: (cowed) _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
+__cow__ _v_ :three::hammer: (cowed) _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
@@ -2969,7 +2972,7 @@ __craftman__
 __crafts__ :two::hammer:  
 __crafty__  
 __cragginess__  
-__craggy__ :two::hammer:  
+__craggy__ _adj_ :three::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :three::hammer: (cramps)  
@@ -4223,6 +4226,7 @@ __eminent__
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
+__emollient__ _adj_  
 __emote__ _v_  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
@@ -4377,7 +4381,7 @@ __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
 __ETA__ _I believe we have an ETA of six days._  
-__etch__ _v_ :three::hammer: (etched)  
+__etch__ _v_ :four::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ethereal__ _adj_  
@@ -4627,6 +4631,7 @@ __faux__ _Three faux tombstones._
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
+__favoritism__ _n_  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_  
 __fawning__ :two::hammer:  
@@ -4720,6 +4725,7 @@ __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with reg
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
+__field day__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
@@ -7412,6 +7418,7 @@ __laddie__
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _Checking bills of lading._  
 __Lady Luck__ _I''m riding with Lady Luck._  
+__lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
 __ladybird__ _n_  
 __ladyfinger cookies__  
 __lag__ _v_ :three::hammer: (lags)  
@@ -7641,6 +7648,7 @@ __lifeblood__ _n_ :three: The blood, as being necessary to life.
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
+__lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift__ _n_ :two::hammer: _I could give you a lift home._  
 __liftgate__  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
@@ -8917,6 +8925,7 @@ __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; co
 __on cloud nine__  
 __on deck__  
 __on edge__ _idiom_ :three: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
+__on end__  
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
@@ -9265,7 +9274,7 @@ __parasailing__
 __parasternal__ _adj_ Adjacent to the sternum.  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
-__parched__ _adj_ :three: Very dry. Very thirsty. _The dryness will encompass parched California._  
+__parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
 __parchment paper__ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
@@ -11807,7 +11816,7 @@ __since forever__
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven't been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
 __sine die__  
 __sine qua non__ _n_ :two: An essential element or condition. _"The perfect cake is the sine qua non of the carefully planned modern wedding" (J.M. Hilary)._  
-__sinecure__ _n_ A position or office that requires little or no work but provides a salary.  
+__sinecure__ _n_ :two: A position or office that requires little or no work but provides a salary.  
 __sinergy__ _n_ (sinergies)  
 __sinew__ _n_ :seven::hammer: (sinews)  
 __sinewy__ _adj_ :five::hammer: _A sinewy man._  
@@ -13940,6 +13949,7 @@ __un-American__
 __unabashed__ _adj_ :six: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan._  
 __unabashedly__  
 __unabated__ _adj_ :three::hammer:  
+__unakin__ _adj_ Not related or comparable.  
 __unalienable__  
 __unanimous__  
 __unapologetic__ _adj_ :nine::hammer:  
@@ -14429,6 +14439,7 @@ __washtub__
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
 __wastebasket__ _n_ :two::hammer:  
+__wasted__ _adj_ _slang_ Drunk or intoxicated.  
 __wastrel__ :two::hammer:  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
