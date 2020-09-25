@@ -2,6 +2,17 @@
 
 
 
+__ponderous__ _adj_  
+__plied__ _v_ _He plied Tom with questions._  
+__pickaxe__ _n_  
+__billeting___ _v_  
+__billets__ _n_  
+__hubris__ _n_ :two::hammer:  
+__admonition__ _n_  
+__sally out__ _v_  
+__get wind__  
+__bolt__  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
