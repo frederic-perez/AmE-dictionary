@@ -1,5 +1,16 @@
 
 
+__profusely__  
+__idiosyncratic__ _adj_  
+__throwers__ _n_  
+__battlements__ _n_ :two::hammer:  
+__battery__ _n_ :two::hammer: (military) _The siege battery was complete._  
+__windlass__ _n_  
+__swifts__ _n_ (bird)  
+__glint__ _n_ _The glint of spears._  
+__swooping__ _v_  
+__earthworks__ _n_  
+
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
