@@ -194,7 +194,7 @@ __adjuvant__ _adj_ _The adjuvant setting._
 __admin__ _I was doing just admin stuff._  
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __admixture__ _n_ :two::hammer:  
-__admonition__ _n_ :seven: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
@@ -1180,7 +1180,7 @@ __bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._
 __bilking__ _Durham was guilty of bilking._  
 __bill__ _v_  
 __bill-file__  
-__billeted__ _v_  
+__billeted__ _v_ :two::hammer: (billeted, billeting)  
 __billfold__ _n_  
 __billing__ _Now, the women's contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :two: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -1391,7 +1391,7 @@ __bolony__
 __Bolshevik__  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
-__bolt__ _v_ :two::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
+__bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb__ _v_ :three::mute:[bom~~b~~]:hammer:  
 __bombast__ _n_ :five: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let's drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn't deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you'll understand how the meaning came about.  
@@ -2255,6 +2255,7 @@ __cheeky__
 __cheerfully__  
 __cheese corn__ _n_  
 __cheese wedge__  
+__cheese__ _adj_  
 __cheese-eater__  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ _idiom_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
@@ -2393,6 +2394,7 @@ __claddagh__ _n_
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
 __claimants__ :two::hammer:  
+__clairvoyant__  
 __clam up__ _v_  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
@@ -2937,7 +2939,8 @@ __cover all bases__
 __cover charge__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
-__coveted__ _v_ :two::hammer:  
+__coveted<sup>1</sup>__ _adj_  
+__coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__  
 __covey__  
 __COVID__ _abbr_ Short for coronavirus disease.  
@@ -5317,6 +5320,7 @@ __gambit__ _n_ :three: A maneuver, stratagem, or ploy, especially one used at an
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
+__game-changer__  
 __game-changing__  
 __gamely__  
 __gamine__  
@@ -5447,6 +5451,7 @@ __get the the green light__ _idiom_ To receive permission to proceed with some a
 __get this show on the road__ _idiom_ To promptly begin or get something started.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone's skin__ _idiom_  
+__get wind__  
 __get your act together__  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
@@ -6497,6 +6502,7 @@ __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the lan
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
+__honky tonk__ _n_  
 __honor__ _v_ :two::hammer::mute:[~~h~~onor]  
 __honorary__ _Honorary consul._  
 __honorees__  
@@ -6592,7 +6598,7 @@ __hubbub__ _n_ :three::hammer:
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
-__hubris__ _n_ :four::hammer: _Intellectual hubris._  
+__hubris__ _n_ :six::hammer: _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that's not very well made, or isn't worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team's players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
@@ -7625,7 +7631,7 @@ __lewd__ _adj_ :three::hammer:
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :four::hammer:  
+__liaison__ _n_ :five::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
@@ -9358,7 +9364,7 @@ __patois__
 __patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
-__patronizing__  
+__patronizing__ :two::hammer:  
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
@@ -9569,6 +9575,7 @@ __pick-six__ _Football_
 __pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren't any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pick-up__ _The restaurant was little more than a pick-up joint._  
+__pickaxe__ _n_  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
 __picket fence__ _n_  
 __pickets__ _n_  
@@ -9765,7 +9772,7 @@ __plenty of (something)__
 __plethora__ _n_ :five::hammer:  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
-__plied__ _v_ :two::hammer: _She had been plied with opiates and wine._  
+__plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
 __plies__ _v_  
 __plight__ _n_ :six: Tough situation.  
 __plinian__ _adj_  
@@ -9858,7 +9865,7 @@ __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from
 __pompous__ _adj_ :two::hammer:  
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
-__ponderous__ _adj_ :four::hammer: _He shouldered his ponderous bundle._  
+__ponderous__ _adj_ :five::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
@@ -10558,7 +10565,7 @@ __read it and weep__ _idiom_
 __readily__ _adv_ :six::hammer:  
 __readiness__ _Our career readiness software program._  
 __readings__ _n_  
-__readout__ _n_  
+__readout__ _n_ :two::hammer:  
 __ready cash__ _They haven't enough ready cash to pay the commission._  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
@@ -11082,7 +11089,7 @@ __run-in__ :three::hammer: (run-ins) _A run-in with police._ _He had several run
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
 __runaway__ :three::hammer: _Bryant was a runaway winner._  
 __runaways__  
-__rundown__ _n_  
+__rundown__ _n_ :two::hammer:  
 __rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
@@ -11146,6 +11153,7 @@ __sales force__
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
+__sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::five:  
 __salt away__  
 __salt of the Earth__  
@@ -13957,6 +13965,7 @@ __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
+__unbridled__ _adj_  
 __unburdened__  
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
