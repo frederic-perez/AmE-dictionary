@@ -45,6 +45,7 @@ __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculi
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
+__far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
