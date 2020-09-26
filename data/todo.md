@@ -1,5 +1,16 @@
 
 
+__curb__ _v_  
+__sharkskin__ _n_  
+__betrothed__ _adj_ Engaged to be married.  
+__recalcitrant__  
+__munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
+__deviled egg__ _n_ Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
+__whoopsie__ _n_ __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
+__compulsory__ _adj_  
+__bowdlerize__ _v_  
+__oblige__ _v_
+
 __profusely__  
 __idiosyncratic__ _adj_  
 __throwers__ _n_  
