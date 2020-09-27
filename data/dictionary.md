@@ -932,8 +932,9 @@ __baton__ _n_ :two::hammer:
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
-__battery__ :two::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._  
+__battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
+__battlements__ _n_ :two::hammer:  
 __batty__  
 __bauble__ _n_ :three::hammer: (baubles)  
 __bawdiness__  
@@ -1131,7 +1132,7 @@ __beta__ _n_ :mega:
 __bethren__ _n_  
 __betoken__ _v_  
 __betray__ _v_ :two::hammer:  
-__betrothed__ _v_ :two::hammer:  
+__betrothed__ _adj_ :three: Engaged to be married.  
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
 __bevel__ :two::hammer:  
@@ -1486,6 +1487,7 @@ __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
+__bowdlerize__ _v_ To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good.  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
@@ -2680,7 +2682,7 @@ __comps__ _n_ (Competitors?)
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _adj_ :seven::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :eight::hammer: _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn't compute._  
 __comrade__  
@@ -3157,7 +3159,7 @@ __cuppa__ _n_ :two: A cup of tea.
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curb__ _v_ :two::hammer: _Curb drug resistance._  
+__curb__ _v_ :three::hammer: _Curb drug resistance._  
 __curbs__ _n_ :three::hammer: Bans? _This has created curbs on admission._  
 __curdle__  
 __curdled__ _There has always been a curdled heart at pop's center._  
@@ -3525,7 +3527,7 @@ __development__ _n_ :three: A district that has been developed to serve some pur
 __deviancy__  
 __devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
 __devil-may-care style__  
-__deviled eggs__ _n_ :camera::three::hammer: (also known as stuffed eggs, Russian eggs, or dressed eggs)  
+__deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __deviltry__  
 __devoid__  
 __devoir__ _n_ :two::hammer:  
@@ -4093,6 +4095,7 @@ __earthing__ _n_ Fastening electrical equipment to earth.
 __Earthling__ _n_  
 __earthquake drill__  
 __earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
+__earthworks__ _n_  
 __easement__  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
@@ -5530,7 +5533,7 @@ __glider__ _n_
 __glimmer__ _A glimmer of hope._  
 __glimpse<sup>1</sup>__ _n_  
 __glimpse<sup>2</sup>__ _v_  
-__glint__  
+__glint__ _n_ :two::hammer: _The glint of spears._  
 __glinting__ _v_  
 __glissade__ _v_  
 __glisten__ :mute:[glis~~t~~en]  
@@ -6705,6 +6708,7 @@ __id__ _n_
 __ideation__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiosyncratic__ _adj_  
 __idiot box__  
 __idle__ _v_  
 __idolatry__ :two::hammer:  
@@ -8491,6 +8495,7 @@ __mumbo jumbo__ _n_
 __mumps__  
 __munch__ _v_ :three:hammer: (munches)  
 __muncher__ _n_  
+__munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :three::hammer:  
 __Muni bus__  
 __munificent__ _adj_  
@@ -10115,7 +10120,7 @@ __profiteering__
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
-__profusely__  
+__profusely__ :two::hammer:  
 __profusion__  
 __progeny__  
 __prohibit__  
@@ -10588,6 +10593,7 @@ __rebuke__ _n_ :four::hammer:
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _Damonika has worked as youth and rec leader._  
+__recalcitrant__ _adj_  
 __recall__ _n_ :two::hammer:  
 __recant__ _v_ :two::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
@@ -11569,6 +11575,7 @@ __shape up__ _v_
 __shaping the bullet__  
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that's rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __shark tank__ _Our culture is not a "Shark tank."_  
+__sharkskin__ _n_  
 __sharp elbows__  
 __sharps collector__ :camera:  
 __sharpshooter__ :two::hammer:  
@@ -13004,7 +13011,8 @@ __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
 __swerve<sup>2</sup>__ _v_ :nine::m: (swerves, swerved) __1__ To make a sudden sideways movement while moving forwards, usually in order to avoid hitting something. (swerve violently/sharply) _The car swerved sharply to avoid the dog._ (swerve across/off/into etc) _The bus swerved off the road._ __2__ _[usually in negatives]_ _formal_ To change from an idea, course of action, purpose etc. (swerve from) _He would never swerve from the truth._  
-__swift__ _adj_ :three::hammer: _A swift response._  
+__swift<sup>1</sup>__ _n_ (bird)  
+__swift<sup>2</sup>__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
 __swig<sup>1</sup>__ _n_ :two::hammer: _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
@@ -13413,6 +13421,7 @@ __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, se
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
 __throwback__ :two::hammer: _Throwback uniform._  
+__throwers__ _n_  
 __throws__ _n_  
 __thrum__  
 __thrums__ _v_  
@@ -14649,7 +14658,7 @@ __whoop<sup>1</sup>__ _n_ :two::hammer:
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
-__whoopsie__ _n_ :dart: __1__ A piece of excrement, esp one left by a pet. __2__ An embarrassing mistake.  
+__whoopsie__ _n_ :dart::two: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
 __whorls__ :two::hammer:  
@@ -14694,7 +14703,7 @@ __winch<sup>2</sup>__ _n_ :three::hammer:
 __wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
 __wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
-__windlass__  
+__windlass__ _n_ :two::hammer:  
 __window dressing__  
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  

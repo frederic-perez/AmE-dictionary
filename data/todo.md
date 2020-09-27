@@ -1,27 +1,5 @@
 
 
-__curb__ _v_  
-__sharkskin__ _n_  
-__betrothed__ _adj_ Engaged to be married.  
-__recalcitrant__  
-__munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
-__deviled egg__ _n_ Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
-__whoopsie__ _n_ __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
-__compulsory__ _adj_  
-__bowdlerize__ _v_  
-__oblige__ _v_
-
-__profusely__  
-__idiosyncratic__ _adj_  
-__throwers__ _n_  
-__battlements__ _n_ :two::hammer:  
-__battery__ _n_ :two::hammer: (military) _The siege battery was complete._  
-__windlass__ _n_  
-__swifts__ _n_ (bird)  
-__glint__ _n_ _The glint of spears._  
-__swooping__ _v_  
-__earthworks__ _n_  
-
 __assistance animal__ _n_  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
