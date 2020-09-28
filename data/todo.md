@@ -1,6 +1,17 @@
 
 
 
+__perilous__ _adj_  
+__quandary__ _n_ A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind  
+__contrite__ _adj_  
+__suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
+__impinge__ _v_  
+__clique__ _n_ A narrow exclusive circle or group of persons, esp. one held together by common interests, views, or purposes.  
+__nonchalantly__ _adv_ In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
+__nestled__ _v_  
+__affidavit__ _n_  
+__fibbing__ _v_  
+
 __holistic__ _adj_  
 __so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __hold (one's) nose__ _idiom_  
