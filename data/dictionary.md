@@ -15,6 +15,7 @@ __"duh" department__ :astonished: _From the "duh" department, sit in a shaded ar
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one's) heart's desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart's desire is just to see my husband again._  
+__(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__	One-To-One Relationship.  
@@ -99,7 +100,7 @@ __absconded__ _v_ :two::hammer:
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
-__abstain__ _v_ :pencil2:  
+__abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__  
 __abutted__  
@@ -218,7 +219,7 @@ __aerials__
 __aero-hydroponics__  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
-__affidavit__ _n_ :six::hammer:  
+__affidavit__ _n_ :seven::hammer:  
 __affiliate__  
 __affix__ _v_  
 __afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
@@ -1335,7 +1336,8 @@ __blueprint__ _n_ :six::hammer: (blueprints)
 __bluff<sup>1</sup>__ _v_  
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
 __bluffing__ _v_  
-__blunder__ _I've made a lot of computer blunders over de years._  
+__blunder<sup>1</sup>__ _n_ _I've made a lot of computer blunders over de years._  
+__blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :three::hammer: (blunting)  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
@@ -2474,7 +2476,7 @@ __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initia
 __clip__ _n_ :two::hammer: _A better newspaper clip._  
 __clipped grass__  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
-__clique__ _n_ :six: (cliques) A small exclusive group of friends or associates. :es: camarilla  
+__clique__ _n_ :seven: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :two::hammer:  
@@ -2800,7 +2802,7 @@ __contranym__ _n_ A word that has opposite or nearly opposite meanings, as _clea
 __contraption__  
 __contrarian__  
 __contretemps__  
-__contrite__ _adj_ :seven::hammer:  
+__contrite__ _adj_ :eight::hammer:  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :three::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
@@ -2960,6 +2962,7 @@ __cozen__ _v_ :two::hammer: (cozened)
 __cozy__  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
+__crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
@@ -3442,7 +3445,7 @@ __deluge<sup>1</sup>__ _n_ :five: A lot of things all happening or arriving at t
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _Deluxe album._  
-__delve__ _v_ :dart:  
+__delve__ _v_ :two::dart::hammer:  
 __Dem__ A member of the Democratic Party.  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
@@ -4715,7 +4718,7 @@ __fiancé__ A man who is engaged to be married.
 __fiancée__ A woman who is engaged to be married.  
 __fiat__ _Military fiat._  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
-__fib<sup>2</sup>__ _v_ (fibbed) To tell a trivial and harmless lie.  
+__fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
 __fiber__  
 __fiberglass__  
@@ -6044,6 +6047,7 @@ __haphazard__ :two::hammer:
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
+__happenstance__ _n_ A chance circumstance. _Syn_ coincidence  
 __happy about it__ _I'm not entirely happpy about it._  
 __happy as a clam__ _idiom_ Very happy.  
 __happy feet__  
@@ -6767,7 +6771,7 @@ __impersonation__
 __impervious__ _adj_ :five::hammer:  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
-__impinge__ _v_  
+__impinge__ _v_ :two::hammer:  
 __impish__ _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
@@ -7694,6 +7698,7 @@ __limestone__ _n_ :two::hammer:
 __limned__  
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
+__limpid__ _adj_  
 __linchpin__ _n_ :six::hammer:  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
@@ -7877,6 +7882,7 @@ __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks 
 __lumberjack__ _n_ :four::hammer:  
 __luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
 __luminary__ :two::hammer: _Hollywood luminaries._  
+__lummox__ _n informal_ A clumsy or stupid person.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ :two::hammer: _Lumpy headlights._  
@@ -8645,7 +8651,7 @@ __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :nine::hammer: (nestled)  
+__nestle__ _v_ :nine::m::hammer: (nestled)  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
@@ -8740,7 +8746,7 @@ __non-perishables__
 __nonce__  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
-__nonchalantly__ _adv_ :five: In a nonchalant manner.  
+__nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
@@ -9486,6 +9492,7 @@ __performance__ _n_ _It denigrates your performance considerably._
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __peril__ _n_ :two::hammer: (perils)  
+__perilous__ _adj_  
 __perinatal__  
 __periodontal__ _Periodontal health._  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
@@ -10343,7 +10350,7 @@ __Quaker__
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
-__quandary__ _n_ :nine::m: Difficult dilemma. _All-Star managers face quandary._ _Mel was in a quandary._  
+__quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
 __quantifiable__  
 __quarrelsome__  
 __quarry__  
@@ -12959,6 +12966,7 @@ __surreptitiously__ _adj_ :three::hammer:
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
 __suspensers__ _Firehouse suspenders_  
+__suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __sutra__ _Reafing a sutra._  
@@ -14289,6 +14297,7 @@ __veto__ _v_
 __vetted__ _v_ :three::hammer:  
 __vetting__  
 __vex__ _v_ :three::hammer: (vexed)  
+__vexatious__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
 __vexillology__ _n_ The study of flags.  
 __vexing__ _adj_ :three::hammer: _Vexing problem._ _It's a vexing topic._  
 __viable__ _adj_ :two::hammer:  
@@ -14445,6 +14454,7 @@ __warrant<sup>2</sup>__ _v_ :four: As a verb, it means to make something seem re
 __warren__ _n_ _A warren of hares._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
+__wash (someone's) mouth out (with soap)__ _idiom_ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ To wash your hands and face.  
 __wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  

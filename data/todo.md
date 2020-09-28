@@ -1,28 +1,6 @@
 
 
 
-__lummox__ _n informal_ A clumsy or stupid person.  
-__blunder__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
-__limpid__ _adj_  
-__crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
-__vexatious__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, nettlesome, pesky, pestering, plaguey, teasing, pestiferous  
-__wash (someone's) mouth out (with soap)__ _idiom_ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
-__delve__ _v_  
-__happenstance__ _n_ A chance circumstance. _Syn_ coincidence  
-__(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
-__abstain__ _v_ __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
-
-__perilous__ _adj_  
-__quandary__ _n_ A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind  
-__contrite__ _adj_  
-__suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
-__impinge__ _v_  
-__clique__ _n_ A narrow exclusive circle or group of persons, esp. one held together by common interests, views, or purposes.  
-__nonchalantly__ _adv_ In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
-__nestled__ _v_  
-__affidavit__ _n_  
-__fibbing__ _v_  
-
 __holistic__ _adj_  
 __so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __hold (one's) nose__ _idiom_  
