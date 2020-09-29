@@ -1,5 +1,17 @@
 
 
+
+__decried__ _v_  
+__peccadillo__ _n_ (peccadilloes, peccadillos) :pencil2::astonished:  
+__schizoid__ _adj_ _She had a schizoid personality._  
+__blunt__ _v_ __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
+__rerun__ _n_ The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._  
+__salvo__ _n_ _Joe fired the first salvo._  
+__tiger__ _n_ _Ben was the tiger of the defense._  
+__attaché cases__ _n_  
+__summations__ _n_ _Both sides made their summations._  
+__scalp__ _v_ __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
+
 __barter__ _v_  
 __besotted__ _adj_  
 __Brussels sprout__ _n_  
