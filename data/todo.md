@@ -1,6 +1,17 @@
 
 
 
+__foolhardy__  
+__trampled__ _v_  
+__weary__  
+__exertion__  
+__greave__ _n_ :two::hammer: (greaves) _The man wore a mail vest and greaves._ 
+__scabbard__ _n_  
+__optio__ _n_  
+__clamber__ _v_  
+__buzzard__ _n_  
+__wineskin__ _n_ _He took a sip from his wineskin._  
+
 __decried__ _v_  
 __peccadillo__ _n_ (peccadilloes, peccadillos) :pencil2::astonished:  
 __schizoid__ _adj_ _She had a schizoid personality._  
