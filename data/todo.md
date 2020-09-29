@@ -1,5 +1,15 @@
 
 
+__barter__ _v_  
+__besotted__ _adj_  
+__Brussels sprout__ _n_  
+__subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
+__food for thought__ _idiom_ An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._  
+__everyday__ _adj_  
+__bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
+__MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
+__nocebo__ _n_  
+__fur-ternity leave__  
 
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
