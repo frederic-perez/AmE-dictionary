@@ -392,7 +392,7 @@ __ammonia__ _n_
 __amnesty player__  
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
 __amount to__ _idiom_ :three::hammer:  
-__amp up__ _phr v_ (amping up)  
+__amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ _adj_ :five: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
@@ -631,6 +631,7 @@ __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. 
 __assiduously__ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
+__assistance animal__ _n_  
 __assists__ _Green had 14 rebounds and nine assists._  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
@@ -2324,6 +2325,7 @@ __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_beset, ha
 __chlorophyll__ _n_ :two::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
+__choir__ _n_ :mega:  
 __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of another person in a tight grip, usually from behind.  
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
@@ -4847,7 +4849,7 @@ __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioratio
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
-__flagrant__ _adj_ :three::hammer: _A flagrant foul._  
+__flagrant__ _adj_ :four::hammer: _A flagrant foul._  
 __flagship__ :two::hammer:  
 __flagstaff__  
 __flagstone__ _Flagstone terraces._  
@@ -5953,6 +5955,7 @@ __gyroscopic__ :mega: _Gyroscopic effect._
 __H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of "hell," referring to each L resembling a hockey stick in shape. _"Oh yeah?" said Tommy to the schoolyard bully. "Well, you can go to H-E-double-hockey-sticks!"_  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __ha!__ :two::hammer:  
+__habiliment__ _n_ A covering designed to be worn on a person's body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ :astonished:  
 __habituate__ _v_  
@@ -6448,6 +6451,7 @@ __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
 __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one's) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
+__hold (one's) nose__ _idiom_  
 __hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
@@ -6472,7 +6476,7 @@ __holdout__ :two::hammer: _A weeklong holdout._
 __holdover__  
 __holdup__ _v_  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :seven::hammer: _My holistic system._  
+__holistic__ _adj_ :eight::hammer: _My holistic system._  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -6545,6 +6549,7 @@ __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold
 __horse and rabbit stew__ _idiom_ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word "horse" is awarded for each missed attempt, and the first player to receive all five letters loses.  
+__horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horsepower__ _Physical horsepower._  
@@ -7618,6 +7623,7 @@ __lessons learned__
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :seven::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
+__let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
 __let somebody down__ _idiom_ To disappoint someone.  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
@@ -8254,6 +8260,7 @@ __mince (one's) words__ _idiom_
 __mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ 3. To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don't mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__  
+__mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
 __mind__ _v_ _Mind the gap._  
 __mind-boggling__  
 __minder__ :es: guardaespaldas  
@@ -8982,7 +8989,7 @@ __one-liner__ :dart: A quick joke or quip; a funny observation.
 __one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
-__one-off<sup>2</sup>__ _n_ :two: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
+__one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
 __one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
@@ -9078,7 +9085,7 @@ __outdoorsy__ _adj_ _informal_
 __outer space__  
 __outfield__ _(baseball)_  
 __outfight__ _v_ To fight better than someone.  
-__outfit<sup>1</sup>__ _n_ :two::hammer: (outfits)  
+__outfit<sup>1</sup>__ _n_ :five::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
 __outfitter__  
 __outfly__ _v_ :two: To fly better or faster than someone or something.  
@@ -9755,6 +9762,7 @@ __plaudit__ _n_ :three: (plaudits) An enthusiastic expression of approval.
 __plausibility__ :pencil2:  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father's plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
+__play by the rules__ _idiom_ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down something__ _phr v_ :two: To make something seem less important than it is. _She tried to play down her beauty._  
 __play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
@@ -10395,6 +10403,7 @@ __quinoa__ :two::hammer:
 __quinsy__  
 __quintessential__ _adj_ :four::hammer:  
 __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
+__quire__ _n_ (Not to be confused with _choir_)  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
 __quite a few__ _Quite a few of them came to the party._ :es: bastante  
@@ -10586,7 +10595,7 @@ __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not
 __reality check__  
 __realtor__ _n_ :three::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
-__ream<sup>2</sup>__ _n_ :pencil2::three::hammer: (reams) _He watched reams on tape._  
+__ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
 __reamer__ _n_  
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
@@ -10848,6 +10857,7 @@ __revisit__ _v_
 __revive__ _v_ _To revive unemployment benefits._  
 __revocation__  
 __Revolutionary War__  
+__revolve__ _v_  
 __revue__ _n_ :two::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ :es: revista, show  
 __rezoning__  
 __RGA__ _RGA chairman._  
@@ -11512,6 +11522,7 @@ __sere__ _The sere terrain._
 __Serenity Prayer__  
 __serious condition__ _Critical to serious condition, fair condition._  
 __sermon__  
+__service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __set (someone or something) off__ _idiom_  
@@ -11855,7 +11866,7 @@ __sinter__ _v_
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
-__Sisyphean__  
+__Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
 __sit in__ _I'm sitting in for Ira Glass._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
@@ -12188,6 +12199,7 @@ __snug__ _v_ :three::hammer:
 __snuggles__  
 __snugly__ :two::hammer:  
 __so far, so good__  
+__so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
@@ -13404,7 +13416,7 @@ __three-hour__ _adj_ :pencil2: _A three-hour drive._
 __threequel__ _n_ _There's the original, the sequel, and the threequel._  
 __thrifty__ _adj_ :three::hammer:  
 __thrilling__ _adj_  
-__throb__ _v_ :four::hammer: (throbs, throbbing) _My head is throbbing._  
+__throb__ _v_ :five::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :five::hammer:  
 __thromboembolism__ _n_  

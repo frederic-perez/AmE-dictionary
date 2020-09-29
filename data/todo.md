@@ -1,28 +1,6 @@
 
 
 
-__holistic__ _adj_  
-__so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
-__hold (one's) nose__ _idiom_  
-__throb__ _v_ (throbbing)  
-__outfit__ _n_ :three::hammer:  
-__one-off__ _n_  
-__play by the rules__ _idiom_ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
-__flagrant__ _adj_  
-__revolve__ _v_  
-__amp up__ _v_ (amped up)  
-
-__assistance animal__ _n_  
-__service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
-__horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
-__habiliment__ _n_ A covering designed to be worn on a person's body. _Synonyms_ clothing, wearable, vesture, wear  
-__let me tell you__ _idiom_ Used to emphasize a statement.  
-__mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
-__Sisyphean__ _adj_ Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
-__choir__ _n_ :mega:  
-__quire__ _n_  
-__ream__ _n_  
-
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __hands down__  
