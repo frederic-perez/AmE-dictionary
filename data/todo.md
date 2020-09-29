@@ -1,6 +1,17 @@
 
 
 
+__gauntlet__ _n_  
+__fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
+__I'd say__ _idiom_ In my opinion; it is my estimation that.  
+__annuity__ _n_  
+__caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
+__butyraceous__ _adj_ Of, containing, or resembling butter.  
+__cachinnate__  
+__supernumerary__  
+__illation__  
+__presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
+
 __foolhardy__  
 __trampled__ _v_  
 __weary__  
