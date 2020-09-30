@@ -674,7 +674,7 @@ __atrocious__
 __atrocity__  
 __atrophied__ _v_  
 __attaboy__ _idiom_ :three: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression "that's the boy." _You won the spelling bee? Attaboy!_  
-__attaché case__  
+__attaché case__ _n_ :two::hammer: (attaché cases)  
 __attack dog__ _n_  
 __attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
@@ -909,7 +909,7 @@ __barrette__ :two::hammer:
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
 __barrow__ _n_  
-__barter__ _v_ :two::hammer: (bartered)  
+__barter__ _v_ :three::hammer: (bartered)  
 __base__ _This film is base, moronic, insulting, and vulgar._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
@@ -1122,7 +1122,7 @@ __beseechment__
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
-__besot__ _v_ (besotted) :five: To muddle or stupefy, as with alcoholic liquor or infatuation.  
+__besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
@@ -1143,6 +1143,7 @@ __bewhiskered__
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
+__bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
 __bid farewell__  
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn't bid him farewell._  
@@ -1340,7 +1341,7 @@ __bluffing__ _v_
 __blunder<sup>1</sup>__ _n_ _I've made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
-__blunt<sup>2</sup>__ _v_ :three::hammer: (blunting)  
+__blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
 __blurb__ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
@@ -1650,7 +1651,7 @@ __browse__ _v_ To look through or over (something) casually: _browsed the newspa
 __bruin__  
 __bruited__  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
-__brussels sprout__ _n_  
+__brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
 __brutal__  
 __brutalized__ _v_  
 __brutish__ _adj_ :two::hammer:  
@@ -4418,7 +4419,7 @@ __every other__ _A new cartoon will be published every other Sunday._
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
-__everyday__ _adj_ Very common or completely normal, and often not very interesting.  
+__everyday__ _adj_ :two::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
@@ -5017,6 +5018,7 @@ __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act o
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __FOMO__  
 __food coma__ _idiom_  
+__food for thought__ _idiom_ An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._  
 __food processor__  
 __food stall__  
 __food-handler's permit__  
@@ -5272,6 +5274,7 @@ __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or i
 __funnel__ _v_ :two::hammer:  
 __funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __funny stomach__  
+__fur-ternity leave__  
 __furbish__ _v_  
 __furled__ _v_ :two::hammer:  
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
@@ -8545,6 +8548,7 @@ __mutism__ _n_
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
+__MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
 __Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __my ass__  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
@@ -8736,6 +8740,7 @@ __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
+__nocebo__ _n_  
 __nod__ _n_  
 __noddies__ _n_  
 __noggin__ _n informal_ A person's head. _Syn_ bonce, dome  
@@ -9418,7 +9423,7 @@ __pear martinis__
 __pearl onions__  
 __peat__ :two::hammer: _Battling the blazes in peat swamp forests._  
 __pecan__ :two::hammer: _Pecan pie._  
-__peccadillo__ _n_ _(pl. peccadilloes or peccadillos)_ A small sin or fault.  
+__peccadillo__ _n_ :two: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault.  
 __peccant__  
 __peck away__ _v_  
 __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
@@ -10786,7 +10791,7 @@ __repudiate__ _v_
 __reputedly__ _He reputedly said, "I could stay here forever."_  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
-__rerun__ _n_ _Of course I've seen it! It's a rerun._  
+__rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._ _Of course I've seen it! It's a rerun._  
 __rescind__ _v_ :two::hammer: (rescinded)  
 __reseller__  
 __reservation__ _n_ _Native American reservation._  
@@ -11190,7 +11195,7 @@ __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to pub
 __salvage__ _adj_  
 __Salvation Army__  
 __salve__ _n_ :four::hammer: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
-__salvo__ _n_ :four::hammer: (salvos)  
+__salvo__ _n_ :five::hammer: (salvos) _Joe fired the first salvo._  
 __Sam Browne belt__  
 __Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
@@ -11271,7 +11276,7 @@ __scale up__ _v_ _That's the challenge of scaling up._
 __scallions__ _n_ :three::hammer:  
 __scallop__ :two::hammer: _A scallop-shell logo._  
 __scalp bounties__  
-__scalp__  
+__scalp__ _v_ :two: __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
 __scalpel__  
 __scalper__ _n_ :four::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
@@ -11302,6 +11307,7 @@ __scented__
 __schadenfreude__  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
+__schizoid__ _adj_ _She had a schizoid personality._  
 __schlep__ _v_ :two::hammer:  
 __schlepping__ :two::hammer:  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
@@ -12862,6 +12868,7 @@ __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebod
 __Styrofoam__ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
+__subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ (car?)  
 __subdue__ _v_ :six::hammer: (subdued)  
@@ -12926,6 +12933,7 @@ __sultanate__
 __sultry__ _adj_ :three::hammer:  
 __summarily__ _adv_  
 __summary__ :two::hammer: _Summary deaths._ _Summary killings._  
+__summations__ _n_ _Both sides made their summations._  
 __summertime__ _n_ :three::pencil2::hammer:  
 __summit__ _n_  
 __sump pump__  
@@ -13493,6 +13501,7 @@ __tie-up__ _n_
 __tiebreaking__ _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
 __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
+__tiger__ _n_ _Ben was the tiger of the defense._  
 __tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
 __tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
 __tight-knit__ _We are a tight-knit family._  

@@ -23,28 +23,6 @@ __clamber__ _v_
 __buzzard__ _n_  
 __wineskin__ _n_ _He took a sip from his wineskin._  
 
-__decried__ _v_  
-__peccadillo__ _n_ (peccadilloes, peccadillos) :pencil2::astonished:  
-__schizoid__ _adj_ _She had a schizoid personality._  
-__blunt__ _v_ __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
-__rerun__ _n_ The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._  
-__salvo__ _n_ _Joe fired the first salvo._  
-__tiger__ _n_ _Ben was the tiger of the defense._  
-__attaché cases__ _n_  
-__summations__ _n_ _Both sides made their summations._  
-__scalp__ _v_ __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
-
-__barter__ _v_  
-__besotted__ _adj_  
-__Brussels sprout__ _n_  
-__subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
-__food for thought__ _idiom_ An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._  
-__everyday__ _adj_  
-__bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
-__MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
-__nocebo__ _n_  
-__fur-ternity leave__  
-
 __aw__  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __hands down__  
