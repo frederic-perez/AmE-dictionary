@@ -1,6 +1,17 @@
 
 
 
+__screen__ _v_ (screened) _The horsemen screened the advance of the column._  
+__trinkets__ _n_  
+__lop off__ _v_ _The bastard started lopping off the prisoners' heads._  
+__foragers__ _n_  
+__trambed__ _v_  
+__larking__ _v_  
+__skulking__ _v_  
+__unruffled__ _An unruffled commander._  
+__bucina__ _n_ _The bucina sounded the recall three times._  
+__flagstone__ _n_  
+
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
