@@ -1,28 +1,6 @@
 
 
 
-__ice maiden__ _idiom_ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
-__infamous__  
-__notorious__  
-__rambunctious__ _adj_ _informal_ Boisterous; unruly.  
-__elegy__ _n_ A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend's casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
-__get wise to (someone or something)__ _idiom_ To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention.  
-__reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__exoteric__ _adj_  
-__tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
-__emollient__  
-
-__screen__ _v_ (screened) _The horsemen screened the advance of the column._  
-__trinkets__ _n_  
-__lop off__ _v_ _The bastard started lopping off the prisoners' heads._  
-__foragers__ _n_  
-__trambed__ _v_  
-__larking__ _v_  
-__skulking__ _v_  
-__unruffled__ _An unruffled commander._  
-__bucina__ _n_ _The bucina sounded the recall three times._  
-__flagstone__ _n_  
-
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  

@@ -1662,6 +1662,7 @@ __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._
 __bubbly__ _Bubbly breatlessness._  
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
+__bucina__ _n_ _The bucina sounded the recall three times._  
 __buck off__ _v_  
 __buck private__ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one's courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
@@ -4187,7 +4188,7 @@ __Election Day__
 __elective__ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
 __electrolysis__ _n_  
-__elegy__ :two::hammer:  
+__elegy__ _n_ :three: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend's casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephant in the room__ _idiom_ :two: An obvious problem that people do not want to talk about.  
 __elevator boy__  
 __elevator control box__  
@@ -4238,7 +4239,7 @@ __eminent__
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
-__emollient__ _adj_  
+__emollient__ _adj_ :two::hammer:  
 __emote__ _v_  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
@@ -4461,7 +4462,7 @@ __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To g
 __exiguous__ _adj_ :two::hammer:  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
-__exoteric__ _adj_ __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
+__exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
 __expansively__ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -4853,7 +4854,7 @@ __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
 __flagship__ :two::hammer:  
 __flagstaff__  
-__flagstone__ _Flagstone terraces._  
+__flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
 __flail__ _v_ :six::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
@@ -5061,7 +5062,7 @@ __for__ _3 for 4 (attempts)._
 __for-profit__  
 __forage<sup>1</sup>__ _n_  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
-__forager__ _n_ :two::hammer: (foragers)  
+__forager__ _n_ :three::hammer: (foragers)  
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one's usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor's foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
@@ -5463,6 +5464,7 @@ __get this show on the road__ _idiom_ To promptly begin or get something started
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone's skin__ _idiom_  
 __get wind__  
+__get wise to (someone or something)__ _idiom_ To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention.  
 __get your act together__  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
@@ -6704,6 +6706,7 @@ __Ibuprofen__
 __ice cream cone__  
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
 __ice house__ _Insulated ice houses._  
+__ice maiden__ _idiom_ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-slick chain__  
@@ -6917,7 +6920,7 @@ __inert__ _Helium is inert._
 __inexplicable__ _adj_  
 __inextricably__ :two::hammer:  
 __infallibity__  
-__infamous__ _adj_ :eight: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
+__infamous__ _adj_ :nine: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
 __infant__ _n_  
 __infare__ _n_  
@@ -7493,6 +7496,7 @@ __larder__ _n_ :three::hammer:
 __largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __lark__ :three::hammer: _Stop this jealousy lark!_  
+__larking__ _v_  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
@@ -7835,6 +7839,7 @@ __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
 __loot__ _v_ :two::hammer:  
+__lop off__ _v_ _The bastard started lopping off the prisoners' heads._  
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
@@ -8792,6 +8797,7 @@ __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I w
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
+__notorious__  
 __notwithstanding__ _prep_ :five::hammer:  
 __nought__ :mute:[nou~~gh~~t]  
 __noun__ _n_  
@@ -10484,7 +10490,7 @@ __ram<sup>2</sup>__ _n_
 __ramble__ _v_  
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
-__rambunctious__ _adj_ :three::hammer:  
+__rambunctious__ _adj_ _informal_ :four: Boisterous; unruly.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
@@ -10827,6 +10833,7 @@ __retelling__
 __retention__  
 __rethoric__  
 __reticular__  
+__reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
 __retinue__ _n_ :four::hammer: (retinues)  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
@@ -11368,6 +11375,7 @@ __screaming yellow__
 __screech<sup>1</sup>__ _n_ :two::hammer:  
 __screech<sup>2</sup>__ _v_ :eight::hammer: (screeched, screeching)  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _"he heard the screen slam as she left."_  
+__screen__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
@@ -11928,7 +11936,7 @@ __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear c
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__ :two::hammer:  
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
-__skulking__  
+__skulking__ _v_ :two::hammer:  
 __skullcap__  
 __skunk__ _n_ :two::hammer:  
 __skunworks__  
@@ -13814,7 +13822,7 @@ __trilobite__ _n_ :two::mega::hammer:
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ _Stainless interior trim._  
 __trinity__ _Trinity College in Dublin._  
-__trinkets__ _n_ :four::hammer:  
+__trinkets__ _n_ :five::hammer:  
 __trip wire__ _You hit a trip wire._  
 __triple__  
 __triplex__ _A triplex penthouse._  
@@ -13894,6 +13902,7 @@ __tumblebug__
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
 __tumultuous__  
+__tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunnel vision__ :two::hammer:  
 __tuppence__  
 __turgid__ _adj_ :three::hammer:  
@@ -14097,6 +14106,7 @@ __unremitting__ _v_
 __unrepentant__ _adj_ :three::hammer:  
 __unrequited__ _adj_ :two: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
+__unruffled__ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
 __unsalted__ _Pure Irish butters salted and unsalted._  
 __unsavory__  
