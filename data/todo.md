@@ -1,6 +1,17 @@
 
 
 
+__caterpillar__ _n_  
+__corduroy__ _n_  
+__slaked__ _v_ (?)  
+__banter__ _n_  
+__interspersed__ _v_ :two::hammer:  
+__yokes__ _n_  
+__encumbered__ _v_  
+__parley__ _n_  
+__parapet__ _n_  
+__mail vest__ _n_ _The man wore a mail vest and greaves._  
+
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
