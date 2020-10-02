@@ -1,6 +1,17 @@
 
 
 
+__lithe__ _adj_  
+__supple__ _adj_  
+__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
+__prickly pear__ _n_  
+__yucca__ _n_  
+__ocotillo__ _n_  
+__ray flower__ _n_  
+__abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
+__the idiot box__ _idiom_ A television set, or television in general.  
+__iniquity__ _n_ Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
+
 __spur__ _The command post was on the spur of a hill._  
 __stunted__ _Stunted grass._  
 __mantlet__ _n_  
