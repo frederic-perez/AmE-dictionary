@@ -605,7 +605,7 @@ __ash borers__ _Emerald ash borers._
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
-__asinine__ _adj_ :pencil2::two::hammer: _To have him not get his chances is asinine for us._ _Asinine questions._  
+__asinine__ _adj_ :pencil2::three: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown's asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
@@ -734,6 +734,7 @@ __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
+__awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ _adj_ :three::hammer:  
 __ax__  
@@ -867,7 +868,7 @@ __banquet__ _n_ :mega::two::hammer:
 __banshee__ _n_  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
 __bantamweight__ _n_ :two: _Rousey is the women's bantamweight champ._  
-__banter<sup>1</sup>__ _n_ :five::hammer:  
+__banter<sup>1</sup>__ _n_ :six::hammer:  
 __banter<sup>2</sup>__ _v_  
 __Baptist__ _A Baptist preacher._  
 __bar top__  
@@ -949,6 +950,7 @@ __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone's job, need, or purpose.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
+__be cleaned out__ _idiom_ To be emptied or devoid of money, food, resources, etc.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be friends__ _I was good friends with her._  
 __be full of yourself__ _idiom_ To think that you are very important in a way that annoys other people.  
@@ -2119,6 +2121,7 @@ __catchpenny__
 __catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown's assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
 __catechism__ :two::hammer::pencil2:  
 __cater__ _v_ :three::hammer:  
+__caterpillar__ _n_  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
@@ -2867,6 +2870,7 @@ __cordon sanitaire__ __1__ A barrier designed to prevent a disease or other unde
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
+__corduroy__ _n_  
 __core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __corgi__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
@@ -4266,6 +4270,7 @@ __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :five::hammer:  
+__encumbered__ _v_  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ _n_  
@@ -4710,6 +4715,7 @@ __festinate__ _v_ To hurry, hasten.
 __festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
+__fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
 __feted__ _v_ :four::hammer:  
 __fettered__ _v_  
 __fetus__ _n_  
@@ -6509,6 +6515,7 @@ __homestead<sup>2</sup>__ _v_
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __homophobic__  
+__homophones__  
 __honcho__ _n_ :four::hammer: (honchos)  
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
@@ -6964,7 +6971,7 @@ __innate__
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innumerate__  
 __inobvious__  
-__inordinate__ _adj_ :five::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
+__inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
 __inordinately__ _adv_ :two: _He was inordinately proud of the Roman legions._  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
@@ -7013,7 +7020,7 @@ __international friendly__
 __internecine__ _adj_  
 __internship__  
 __interrelate__ _v_ :two::astonished::hammer:  
-__intersperse__ _v_ :five::hammer: (interspersed)  
+__intersperse__ _v_ :seven::hammer: (interspersed)  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
@@ -7956,6 +7963,7 @@ __magpied__ _v_
 __magpies__  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
 __maiden__ :two::hammer: _Maiden flight._  
+__mail vest__ _n_ _The man wore a mail vest and greaves._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
 __mailman__ _n_  
@@ -9301,6 +9309,7 @@ __paralysis__ _n_ :mega:
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __paramount__ _The reliability of the weather station is paramount._  
 __paranoid__ _adj_  
+__parapet__ _n_  
 __paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
@@ -9324,7 +9333,7 @@ __paring__
 __parishioner__  
 __parkour__  
 __parlay__ _v_ :four::hammer: (parlayed)  
-__parley<sup>1</sup__ _n_  
+__parley<sup>1</sup__ _n_ :two::hammer:  
 __parley<sup>2</sup__ _v_  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
@@ -9888,6 +9897,7 @@ __pollutant__ _n_ :two::hammer:
 __Pollyanna__ _n_ A person regarded as being foolishly or blindly optimistic. [From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.]  
 __pols__ _n_  
 __poltergeist__ :mega:  
+__poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
 __polymath__ _n_ :three::hammer:  
 __polystyrene__  
@@ -11956,7 +11966,7 @@ __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for 
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slackline__ _n_  
 __slag__  
-__slake__ _v_  
+__slake__ _v_ :two::hammer: (slaked)  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
@@ -12257,6 +12267,7 @@ __solemn__ :mute:[solem~~n~~]
 __solemnize__ _v_  
 __solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
 __solicitous__ _adj_ :two::hammer:  
+__solicitude__ A feeling of excessive concern.  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
@@ -14357,7 +14368,7 @@ __vintner__ _n_
 __vinyasa__ _n_  
 __viper__ _n_ :three::hammer: (vipers)  
 __viridity__ Youth; innocence; inexperience.  
-__virtually__ _adv_ :astonished: Practically, almost.  
+__virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
@@ -14620,6 +14631,7 @@ __wheels are turning, the__ _idiom_ Things have begun developing, unfolding, or 
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
 __whelp__  
+__when pigs can fly__ _idiom_ At a time that will never come to pass. (Used to show skepticism or cynicism over someone's hypothetical remark.)  
 __when pigs fly__ _idiom_ Never, impossible.  
 __when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __whence__  
@@ -14978,7 +14990,7 @@ __ylem__ _n_ noun: (cosmology) The original matter that (according to the big ba
 __yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone's attention. __2__ Used to express emphasis: _Today's my birthday, yo._  
 __yo-yo__ _slang_ A stupid or crazy person.  
 __yo-yoing__  
-__yoke__ _n_ _Egg yoke._  
+__yoke__ _n_ :two::hammer: (yokes) _Egg yoke._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ :mute:[yo~~l~~k]  
 __YOLO__ You only live once.  

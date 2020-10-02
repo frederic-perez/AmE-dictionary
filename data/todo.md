@@ -1,28 +1,6 @@
 
 
 
-__asinine__ _adj_ Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown's asinine behavior in the classroom landed him, once again, in detention._  
-__be cleaned out__ _idiom_ To be emptied or devoid of money, food, resources, etc.  
-__virtually__ _adv_ __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
-__solicitude__ A feeling of excessive concern.  
-__poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
-__when pigs can fly__ _idiom_ At a time that will never come to pass. (Used to show skepticism or cynicism over someone's hypothetical remark.)  
-__homophones__  
-__fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
-__awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
-__inordinate__ _adj_  
-
-__caterpillar__ _n_  
-__corduroy__ _n_  
-__slaked__ _v_ (?)  
-__banter__ _n_  
-__interspersed__ _v_ :two::hammer:  
-__yokes__ _n_  
-__encumbered__ _v_  
-__parley__ _n_  
-__parapet__ _n_  
-__mail vest__ _n_ _The man wore a mail vest and greaves._  
-
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
