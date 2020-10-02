@@ -1,6 +1,17 @@
 
 
 
+__spur__ _The command post was on the spur of a hill._  
+__stunted__ _Stunted grass._  
+__mantlet__ _n_  
+__quarter__ _n_ (military)  
+__brother-in-arms__ _I serve Rome, my officers, and my brothers-in-arms._  
+__lob__ _v_ _They were lobbing rocks at the gatehouse and the wall._  
+__gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
+__riddled__ _The interior of the wooden shaft was riddled with the trail of boring insects._  
+__boring__ _v_ _The interior of the wooden shaft was riddled with the trail of boring insects._  
+__skirmishers__ _n_  
+
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
