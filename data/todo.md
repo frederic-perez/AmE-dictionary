@@ -1,6 +1,17 @@
 
 
 
+__(one's) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
+__misgiving__ _n_ _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
+__be as g ood as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
+__kinship__  
+__parakeet__ _n_ :mega: :es: periquito  
+__ferret__  
+__waterbed__  
+__cronyism__ _n_  
+__crony__ _n_ A close friend or companion.  
+__greenhorn__ _n_  A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
+
 __whirred__ _v_ _The arrow whirred over his head._  
 __staunch__ _v_ _He applied pressure to staunch the flow of blood._  
 __blazing__  
