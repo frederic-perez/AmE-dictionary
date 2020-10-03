@@ -87,7 +87,8 @@ __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theat
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
-__no-no__ _n_ _informal_ :nine::m::hammer: _Wives and children were a no-no in anyone's books._  
+__nestle__ _v_ :nine::m::hammer: (nestled)  
+__no-no__ _n_ _informal_ :nine::m::hammer: (no-nos) _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
 __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
@@ -100,7 +101,7 @@ __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb "pencher") A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one's own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
-__quandary__ _n_ :nine::m: Difficult dilemma. _All-Star managers face quandary._ _Mel was in a quandary._  
+__quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
