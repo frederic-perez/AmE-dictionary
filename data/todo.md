@@ -1,6 +1,17 @@
 
 
 
+__whirred__ _v_ _The arrow whirred over his head._  
+__staunch__ _v_ _He applied pressure to staunch the flow of blood._  
+__blazing__  
+__faggots__  
+__scrimmage__  
+__spittle__ _n_ _Spittle and gore clogged his throat._  
+__gore__ _n_ _Spittle and gore clogged his throat._  
+__lolling__ _v_ _His head was lolling against Cato's shoulder._  
+__haunted__ _adj_ _Haunted expression._  
+__rebuffed__ _v_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
