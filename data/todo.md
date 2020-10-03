@@ -1,27 +1,6 @@
 
 
 
-__inarticulate__ _adj_  
-__snub__ _v_  
-__thumb__ _v_ :astonished: _Thumb through the magazine._  
-__hunky-dory__  
-__all of a sudden__ _adv_ Without warning.  
-__daredevil__ _n_  
-__sign up__ _Sign me up—I want to be part of this community!_  
-__laid-back__ _idiom_ __1__ Calm, casual, or at ease. _Oh, I'm sure Tim isn't worried about any of this—he's so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
-__catch up__ _We can catch up in person._  
-
-__bereaved__ _adj_ A bereaved person is someone whose close friend or family member has recently died.  
-__get the better of (someone or something)__ _idiom_ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn't be meddling in other people's business, but my curiosity got the better of me._  
-__hell yes__ Affirmative, positive, only in a more certain and stressing manner.  
-__verbiage__ _n_  
-__no-no__ (no-nos) _What are the no-nos of API testing?_  
-__funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
-__tossup__ _n_  
-__R/O__ _abbr_ Rule out.  
-__shindig__ _n_ A large and noisy party of people. _Syn_ shindy  
-__inanition__ _n_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  

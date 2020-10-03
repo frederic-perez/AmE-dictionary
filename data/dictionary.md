@@ -321,6 +321,7 @@ __alighted__ _v_
 __align__ :mute:[ali~~g~~n]  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all of a sudden__ _adv_ Without warning.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
@@ -1109,7 +1110,7 @@ __bequeath__ _v_ :nine::hammer; (bequeathed)
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
-__bereaved__ _adj_  
+__bereaved__ _adj_ :two: A bereaved person is someone whose close friend or family member has recently died.  
 __bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
@@ -2109,7 +2110,7 @@ __catch hell__ _I'd catch hell for it._
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch onto (something)__ _idiom_  
 __catch some Zs__ _idiom_ To go to sleep, to take a nap.  
-__catch up__ _v_  
+__catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ :two::hammer: (game) _What's the catch?_  
@@ -3279,7 +3280,7 @@ __dankness__ :two::hammer:
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
-__daredevil__ :two::hammer: _The daredevils of the group._  
+__daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
@@ -5279,6 +5280,7 @@ __fundraiser__ _They were at a fundraiser._
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funnel__ _v_ :two::hammer:  
+__funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __funny stomach__  
 __fur-ternity leave__  
@@ -5462,6 +5464,7 @@ __get over__
 __get set__ _v_  
 __get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
+__get the better of (someone or something)__ _idiom_ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn't be meddling in other people's business, but my curiosity got the better of me._  
 __get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the knack of__ _idiom_ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
@@ -6308,6 +6311,7 @@ __heliograph__
 __helipad__ :two::hammer:  
 __heliport__  
 __hell week__ _idiom_ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
+__hell yes__ Affirmative, positive, only in a more certain and stressing manner.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
@@ -6655,7 +6659,7 @@ __hungup__ _informal?_ _What's the hungup?_
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
-__hunky-dory__ _adj_ _slang_ :four: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
+__hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
 __hunt where the ducks are__ _idiom_ To pursue or look for one's objectives, results, or goals in the place where one is most likely to find them.  
 __huramaki__ _n_  
 __hurdle__ _n_ :two::hammer:  
@@ -6859,10 +6863,11 @@ __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentiona
 __inadvertently__  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
 __inane__ _adj_ :seven::hammer:  
+__inanition__ _n_  
 __inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
-__inarticulate__ :four::hammer: _Inarticulate people._ :es: incapaz de expresarse  
+__inarticulate__ _adj_ :five::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugural__  
 __inaugurate__ _v_ _He will be inaugurated for second term._  
@@ -7460,7 +7465,7 @@ __lagged__
 __lagoon__ _n_ _The Venetian lagoon._  
 __lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
 __laid back attitude__  
-__laid-back__ _adj_ _idiom_ :seven: Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._  
+__laid-back__ _adj_ _idiom_ :eight: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia's laid back lifestyle._ _Oh, I'm sure Tim isn't worried about any of this—he's so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
@@ -8748,7 +8753,7 @@ __no way around it__
 __no worries__ _idiom_ :three: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __no-holds-barred__  
-__no-no__ _n_ _informal_ :nine::m::hammer: _Wives and children were a no-no in anyone's books._  
+__no-no__ _n_ _informal_ :nine::m::hammer: (no-nos) _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
@@ -10438,6 +10443,7 @@ __quondam__ _adj_ Of an earlier time; former: _her quondam lover._
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ :two::hammer:  
 __Quran__  
+__R/O__ _abbr_ Rule out.  
 __rabbit hole__ _idiom_ :three::hammer: _We fell into the poop rabbit hole again in this episode._  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
@@ -11674,7 +11680,7 @@ __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._
 __shimmy__ _v_  
 __shimmying__ :two::hammer:  
 __shinbones__  
-__shindig__  
+__shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
 __shine (someone) on__ _Don't shine me on._  
 __shine a light__  
@@ -11836,7 +11842,7 @@ __sieve<sup>2</sup>__ _v_
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ _v_ :two::mega::mute:[si~~gh~~]  
 __sight__ :mute:[si~~gh~~t]  
-__sign up__ _v_  
+__sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ :mute:[si~~g~~n]  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn't honored with signage._  
@@ -13480,7 +13486,7 @@ __thug__ _n_ :three: A tough and violent man, esp a criminal.
 __thumb tacks__  
 __thumb the nose__ _He has the freedom to thumb his nose at the rules set by others._  
 __thumb war__  
-__thumb__ _v_ :three::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._  
+__thumb__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _A thumping majority._  
@@ -13702,7 +13708,7 @@ __toss out__ _One student tossed out expletives._
 __toss__ _v_ :two::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
-__tossup__ _n_ :three::hammer::pencil2: _Diabetes study is a tossup._  
+__tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
 __totem pole__ _n_ _slang_ A hierarchy: _low on the totem pole._  
@@ -14314,6 +14320,7 @@ __Venus flytrap__ _n_ :camera::two::hammer:
 __veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
 __verbatim__  
 __verberize__  
+__verbiage__ _n_  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
