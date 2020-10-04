@@ -1,28 +1,6 @@
 
 
 
-__(one's) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
-__misgiving__ _n_ _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
-__be as g ood as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
-__kinship__  
-__parakeet__ _n_ :mega: :es: periquito  
-__ferret__  
-__waterbed__  
-__cronyism__ _n_  
-__crony__ _n_ A close friend or companion.  
-__greenhorn__ _n_  A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
-
-__whirred__ _v_ _The arrow whirred over his head._  
-__staunch__ _v_ _He applied pressure to staunch the flow of blood._  
-__blazing__  
-__faggots__  
-__scrimmage__  
-__spittle__ _n_ _Spittle and gore clogged his throat._  
-__gore__ _n_ _Spittle and gore clogged his throat._  
-__lolling__ _v_ _His head was lolling against Cato's shoulder._  
-__haunted__ _adj_ _Haunted expression._  
-__rebuffed__ _v_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
