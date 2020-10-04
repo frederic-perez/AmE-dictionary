@@ -1,6 +1,17 @@
 
 
 
+__rollout__ _n_  
+__tautology__ _n_  
+__waffle__  
+__with a vengeance__  
+__icky__  
+__reek__ _v_ (?)  
+__peridontist__ _n_ (?)  
+__methinks__  
+__hit (one's) stride__ _idiom_  
+__sour grapes__  
+
 __rattled__ _v_ _They rattled their swords against the trim of their shields._  
 __trim__ _n_ _They rattled their swords against the trim of their shields._  
 __spoiling__ :two::hammer: _A spoiling attack._  
