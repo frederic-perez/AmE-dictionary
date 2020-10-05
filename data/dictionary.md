@@ -2632,6 +2632,7 @@ __come down with__ _phr v_ To start to suffer from an illness, especially one th
 __come into play__ _Other factors inevitably come into play._  
 __come of age__  
 __come to a stop__ _The train came to a stop at Moscow._  
+__come to fruition__ _idiom_ To successfully be brought into existence or to completion.  
 __come to grips__  
 __come to her senses__  
 __come to terms__ _idiom_ :three::hammer:  
@@ -6402,7 +6403,7 @@ __hillbilly__ :two::hammer:
 __hillocks__  
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
-__hinder__ _v_  
+__hinder__ _v_ :two::hammer:  
 __hindsight is (always) 20/20__ _idiom_ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
@@ -6417,6 +6418,7 @@ __histamine__ _n_
 __historic__ _adj_  
 __historical__ _adj_  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
+__hit (one's) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit and miss__  
 __hit man__  
@@ -6730,7 +6732,7 @@ __icebox__ _n_
 __icicles__  
 __icing on the cake__ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
-__icky__ _adj_  
+__icky__ _adj_ :two::hammer:  
 __iconoclasm__  
 __iconoclast__  
 __iconoclastic__  
@@ -7810,7 +7812,7 @@ __lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._
 __lodges__ _Fishing lodges._  
 __lodging__  
 __lodgings__  
-__loft__ _v_  
+__loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
 __lofty__ _adj_ :seven::hammer: _His lofty perch._ _A lofty professional career._  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone's intelligence.  
@@ -7927,7 +7929,7 @@ __lunge<sup>1</sup>__ _v_ :six::hammer: (lunges, lunged, lunging) _A bull lunges
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :eight::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._  
+__lurch__ _v_ :nine::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._ _The cart rumbled and lurched._  
 __lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
@@ -8006,6 +8008,7 @@ __makeup date__ _Today's game has been postponed; no makeup date has been snnoun
 __makeup game__  
 __maki__ _n_  
 __making waves__ :two::hammer:  
+__malady__  
 __malaise__ _n_ :four: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::four::mega::hammer:  
@@ -8234,6 +8237,7 @@ __meteor__
 __meteoroid__ _n_  
 __meter__ _n_ _The cab driver waited with the meter running._  
 __metheglin__ _n_ :two::hammer:  
+__methinks__  
 __meticulous__ _adj_  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
@@ -9534,6 +9538,7 @@ __peril__ _n_ :two::hammer: (perils)
 __perilous__ _adj_  
 __perinatal__  
 __periodontal__ _Periodontal health._  
+__periodontist__ _n_  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
@@ -10577,8 +10582,7 @@ __rationales__ _n_ _It has four main rationales._
 __rationalize__ _v_  
 __rattan couch__  
 __rattan__  
-__rattle__ _v_ :seven::hammer: (rattled) _Rattle the world._  
-__rattled__  
+__rattle__ _v_ :nine::hammer: (rattled) _Rattle the world._ _They rattled their swords against the trim of their shields._  
 __rattlers__  
 __rattlesnake__  
 __rattling<sup>1</sup>__ _n_  
@@ -10708,9 +10712,8 @@ __reed__ :two::hammer: _A reed basket._
 __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
 __reefer__ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
-__reek__ _n_  
-__reek<sup>1</sup>__ _n_  
-__reek<sup>2</sup>__ _v_ :eight: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
+__reek<sup>1</sup>__ _n_ :two::hammer:  
+__reek<sup>2</sup>__ _v_ :nine: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reel off__ _v_  
 __reel<sup>1</sup>__ _n_  
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
@@ -11032,7 +11035,7 @@ __rolling back__ _v_
 __rolling caisson__  
 __rolling hills__ :two::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
-__rollout__ _n_ :three::hammer: (rollouts)  
+__rollout__ _n_ :four::hammer: (rollouts)  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __romanticize__ _v_ :pencil2:  
@@ -11126,7 +11129,7 @@ __rule out__ _v_
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
-__rumble<sup>2</sup>__ _v_ :eight: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._  
+__rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._ _The cart rumbled and lurched._  
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
@@ -11148,7 +11151,7 @@ __run-of-the-mill__ _adj_ :four: Ordinary, average.
 __runaway__ :three::hammer: _Bryant was a runaway winner._  
 __runaways__  
 __rundown__ _n_ :two::hammer:  
-__rung__ _n informal_ :eight: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._  
+__rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
@@ -12329,7 +12332,7 @@ __soundly__ _Sleep soundly._
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
-__sour grapes__ _n_ :two::dart: Pretending to dislike something you cannot have.  
+__sour grapes__ _n_ :three::dart: Pretending to dislike something you cannot have.  
 __sour__ _adj_ __1__ With a taste like a lemon. __2__ With an unpleasant taste or smell, especially because of no longer being fresh. __3__ Unpleasant, unfriendly, or in a bad mood.  
 __source__ _v_  
 __soured__ _v_ :three::hammer:  
@@ -12445,6 +12448,7 @@ __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs 
 __spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
 __spoilage__ :dart:  
 __spoilers__ (airplane) :camera:  
+__spoiling__ :two::hammer: _A spoiling attack._  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
 __sponge bulllets__  
@@ -13267,6 +13271,7 @@ __taupe__
 __taut__ _adj_  
 __tautened__  
 __tautly__  
+__tautology__ _n_  
 __tawdry__ _adj_ :three: Poor, cheap quality.  
 __tawny__ _n_ :two: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
@@ -13844,7 +13849,7 @@ __trill__ _n_ :four::hammer: (trills) _I felt a trill of excitement._
 __trilling__  
 __trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
-__trim__ _n_ _Stainless interior trim._  
+__trim__ _n_ :two::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._  
 __trinity__ _Trinity College in Dublin._  
 __trinkets__ _n_ :five::hammer:  
 __trip wire__ _You hit a trip wire._  
@@ -14435,7 +14440,7 @@ __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in develo
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle<sup>1</sup>__ _v_ :four::hammer: (waffled, waffling)  
+__waffle<sup>1</sup>__ _v_ :five::hammer: (waffled, waffling)  
 __waffle<sup>2</sup>__ _n_  
 __waffling__  
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
@@ -14822,7 +14827,7 @@ __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
-__with a vengeance__ :two::hammer:  
+__with a vengeance__ _idiom_ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We're going to have to clean with a vengeance to get the house ready in time._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
 __withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  

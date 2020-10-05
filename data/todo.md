@@ -1,28 +1,6 @@
 
 
 
-__rollout__ _n_  
-__tautology__ _n_  
-__waffle__  
-__with a vengeance__  
-__icky__  
-__reek__ _v_ (?)  
-__peridontist__ _n_ (?)  
-__methinks__  
-__hit (one's) stride__ _idiom_  
-__sour grapes__  
-
-__rattled__ _v_ _They rattled their swords against the trim of their shields._  
-__trim__ _n_ _They rattled their swords against the trim of their shields._  
-__spoiling__ :two::hammer: _A spoiling attack._  
-__lofted__ _v_ _The men lofted the shields over their heads._  
-__rungs__ _The Romans climbed the rungs._  
-__come to fruition__  
-__rumbled__ _v_ _The cart rumbled and lurched._  
-__lurched__ _v_ _The cart rumbled and lurched._  
-__hinder__ _v_  
-__malady__  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
