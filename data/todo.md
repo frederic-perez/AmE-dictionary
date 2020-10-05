@@ -1,6 +1,17 @@
 
 
 
+__distressed__  
+__erstwhile__  
+__ranking officer__ _He was the ranking officer the last few days._  
+__messtin__ _n_  
+__steeled__ _v_ _He steeled himself for the climb._  
+__decimation__ _n_ (Roman army punishment)  
+__one way or another__ _If I fail then it will cost me my head one way or another._  
+__canté__ _n_  
+__by the same token__  
+__mincemeat__ _n_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
