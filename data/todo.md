@@ -1,6 +1,17 @@
 
 
 
+__copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
+__copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
+__heaven knows__ _idiom_  
+__unheard of__ _idiom_  
+__whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
+__proponent__  
+__bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
+__Rubenesque__ _adj_  
+__conflagration__ _n_ _An astonishing conflagration of biodiversity._  
+__hit and miss__  
+
 __distressed__  
 __erstwhile__  
 __ranking officer__ _He was the ranking officer the last few days._  
