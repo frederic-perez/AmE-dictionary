@@ -1,9 +1,20 @@
 
 
 
+__as it happens__  
+__dissent__ _n_  
+__levity__ _n_ _His levity faded._  
+__forestall__ _v_  
+__burped__ _v_ _He burped loudly and said, “What? Better out than in!”_  
+__jibe__ _n_ _Cato refused to respond to the jibe._  
+__fore and aft__ _Printed on book paper with sixteen pages of slick stock fore and aft._  
+__preposterous__  
+__sweepstakes__  
+__furnished__ _v_ _The propulsive power was furnished by rockets tied to the “space ship.”_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
-__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
+__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __prickly pear__ _n_  
 __yucca__ _n_  
 __ocotillo__ _n_  
