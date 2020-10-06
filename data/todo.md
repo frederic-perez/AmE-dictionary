@@ -1,28 +1,6 @@
 
 
 
-__copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
-__copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
-__heaven knows__ _idiom_  
-__unheard of__ _idiom_  
-__whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
-__proponent__  
-__bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
-__Rubenesque__ _adj_  
-__conflagration__ _n_ _An astonishing conflagration of biodiversity._  
-__hit and miss__  
-
-__distressed__  
-__erstwhile__  
-__ranking officer__ _He was the ranking officer the last few days._  
-__messtin__ _n_  
-__steeled__ _v_ _He steeled himself for the climb._  
-__decimation__ _n_ (Roman army punishment)  
-__one way or another__ _If I fail then it will cost me my head one way or another._  
-__canté__ _n_  
-__by the same token__  
-__mincemeat__ _n_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  

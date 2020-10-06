@@ -927,6 +927,7 @@ __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._
 __baster__ _n_  
 __bastion__ _n_ :three::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
 __bat an eye__ _idiom_ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
+__bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
@@ -1853,7 +1854,7 @@ __By many accounts,__ _By many accounts, Americans are tired of the Democratic a
 __by storm__  
 __by the book__ _idiom_ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
-__by the same token__  
+__by the same token__ :two::hammer:  
 __by trade__ _idiom_ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
@@ -1980,6 +1981,7 @@ __canoe__ _n_ :mega:
 __canopy__ _n_ _A dense canopy of snow._  
 __cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
+__canté__ _n_  
 __canted__ _v_ :two::hammer:  
 __canteen__ _n_ :two::hammer: (canteens) (flask)  
 __canter up__ _v_  
@@ -2750,7 +2752,7 @@ __confidant__ _n_ :seven::hammer: (also confidante)
 __confide__ _v_ :four::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
-__conflagration__ _n_ :two: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._  
+__conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
 __conflate__ _v_  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
@@ -2867,6 +2869,8 @@ __copse__ _n_ :three::hammer: _A brushy copse._
 __copter__ _n_ :three::hammer: _Navy copter._  
 __Coptic__  
 __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
+__copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
+__copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
 __coracle__ :two::hammer: (coracles)  
 __cord blood__  
 __cord__ _n_ :camera:  
@@ -3367,7 +3371,7 @@ __decathlon__
 __deceit__ _n_  
 __decidious__ _adj_  
 __decimate__ _v_ _It decimated their relationship._  
-__decimation__  
+__decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
 __deck<sup>1</sup>__ _n informal_ The ground or floor.  
 __deck<sup>2</sup>__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
@@ -3735,7 +3739,7 @@ __distinct__ :two::hammer:
 __distinctly__ :two::hammer:  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
-__distressed__  
+__distressed__ :two::hammer:  
 __disused__  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
@@ -4381,7 +4385,7 @@ __err__ _"The well-being of your child os of paramount concern," he wrote in his
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
-__erstwhile__ _adj_ :four::hammer:  
+__erstwhile__ _adj_ :five::hammer:  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
@@ -6276,6 +6280,7 @@ __heathy__
 __heatwave__ _n_  
 __heave into view__ _idiom_ (heave into sight) To move or rise into sight, especially from a distance. _We'd been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
 __heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heaven knows__ _idiom_  
 __heavily__ _He was drinking heavily._  
 __heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn't willing to do the heavy lifting._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
@@ -6420,7 +6425,7 @@ __historical__ _adj_
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit (one's) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
-__hit and miss__  
+__hit and miss__ :two::hammer:  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it's not hitting on all eight._  
@@ -8228,6 +8233,7 @@ __mess around__ _idiom_
 __mess up__ _phr v_  
 __messiah__ :mute:[messia~~h~~]  
 __Messrs.__ _Messrs. Reagan and Busch..._  
+__messtin__ _n_  
 __metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
@@ -8290,7 +8296,7 @@ __mimicker__
 __mince (one's) words__ _idiom_  
 __mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ 3. To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don't mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
-__mincemeat__  
+__mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
 __mind__ _v_ _Mind the gap._  
 __mind-boggling__  
@@ -9019,6 +9025,7 @@ __once in a while__
 __once-over__  
 __oncoming__ _The oncoming winter's patterns._  
 __one too many__ _We drank one too many._  
+__one way or another__ _If I fail then it will cost me my head one way or another._  
 __one-liner__ :dart: A quick joke or quip; a funny observation.  
 __one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-note__  
@@ -10202,6 +10209,7 @@ __propaganda__ _n_ :astonished:
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
+__proponent__  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
 __propriety__  
@@ -10539,6 +10547,7 @@ __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming do
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
+__ranking officer__ _He was the ranking officer the last few days._  
 __rankle__ _v_ :three::hammer: (rankles, rankled)  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
@@ -11106,6 +11115,7 @@ __rubbings__ _n_
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :two::hammer:  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
+__Rubenesque__ _adj_  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
@@ -12668,7 +12678,7 @@ __steamer trunk__ _A steamer trunk lay opened by the couch._
 __steamrolled__ _v_  
 __steed__ _n_ :two::hammer: (steeds)  
 __steel drum__ :two::hammer:  
-__steel__ _v_  
+__steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :nine: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
@@ -14112,7 +14122,7 @@ __unfurl__ (unfurling) :two::hammer:
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  
 __ungulate__  
-__unheard of__ _idiom_ :three: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It's not unheard of for individual contributors to question their superiors' decisions._  
+__unheard of__ _idiom_ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It's not unheard of for individual contributors to question their superiors' decisions._  
 __unheralded__ :two::hammer:  
 __unhindered__ :two::hammer:  
 __unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
@@ -14709,6 +14719,7 @@ __white-knuckle ride__
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whitelist__ _v_  
 __whiteout__  
+__whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
 __whitewash__ _v_ :four::hammer:  
 __whithered__  
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
