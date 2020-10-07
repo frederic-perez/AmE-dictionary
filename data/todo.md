@@ -1,28 +1,6 @@
 
 
 
-__flounder__ _v_  
-__homophone__ _n_  
-__OTT__ _abbr_ Over the top.  
-__tide someone over (until something)__ _idiom_ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
-__whale on (someone or something)__ _idiom_  
-__at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
-__rebus__ _n_  
-__fain__ _adj_  
-__compelling__ _adj_  
-__mark up__ _phr v_  To mark for sale at a higher price.  
-
-__as it happens__  
-__dissent__ _n_  
-__levity__ _n_ _His levity faded._  
-__forestall__ _v_  
-__burped__ _v_ _He burped loudly and said, “What? Better out than in!”_  
-__jibe__ _n_ _Cato refused to respond to the jibe._  
-__fore and aft__ _Printed on book paper with sixteen pages of slick stock fore and aft._  
-__preposterous__  
-__sweepstakes__  
-__furnished__ _v_ _The propulsive power was furnished by rockets tied to the “space ship.”_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  

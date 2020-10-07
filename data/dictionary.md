@@ -587,7 +587,7 @@ __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, excep
 __as far as__ _As far as I'm concerned, if you can't do the crawl you can't swim._  
 __as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it gets__ :two::hammer:  
-__as it happens,__ _idiom_ :two: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as it happens,__ _idiom_ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today's Stateman as much as $215 in coupon savings._  
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
@@ -652,6 +652,7 @@ __astronomical unit__ _n_ A unit of length used in measuring astronomical distan
 __astute__  
 __asunder__ _adv_ :three::hammer: _A world torn asunder by evil and hate._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
+__at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at heart__ _Most people are crooks at heart._  
@@ -1780,7 +1781,7 @@ __burners__ (gas cooktop) :camera:
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burnoose__ _n_  
-__burp__ :two::hammer:  
+__burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
 __burpee__ _n_  
 __burqa__  
 __burr haircut__  
@@ -2674,7 +2675,7 @@ __compartmentalize__ _v_
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
-__compelling__ _adj_ :four: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compelling__ _adj_ :five: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
 __complacent__ _adj_ :two: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
@@ -3719,7 +3720,7 @@ __dissed__ _v_ _Rubio had dissed the Bible._
 __dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_  
 __dissension__  
-__dissent__ _n_ :three::hammer:  
+__dissent__ _n_ :four::hammer:  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
@@ -4561,7 +4562,7 @@ __faeces__ _n_
 __faggots__  
 __fail__ _v_ _I'm trying--and failing--to work out the logic of this._  
 __failover__ _n_  
-__fain__ _adv_ In a willing manner. _I would fain do it._  
+__fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
@@ -4975,7 +4976,7 @@ __florid__
 __flotilla__ _n_ :two::mega::hammer:  
 __flotsam and jetsam__ _idiom_  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
-__flounder__ _v_ :seven: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
+__flounder__ _v_ :eight: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
 __flow__ _Three people in flowing black robes._  
@@ -5085,7 +5086,7 @@ __forbearance__
 __force majeure__ :two::hammer:  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
-__fore and aft__  
+__fore and aft__ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
 __fore__ _n_ :four::hammer:  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreboding__ _n_  
@@ -5108,7 +5109,7 @@ __forerunner__ _n_
 __foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
-__forestall__ _v_ :four: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. To forestall the effects of aging, exercise and take care of your health all your life.  
+__forestall__ _v_ :five: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __foretell__  
 __forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
@@ -5298,7 +5299,7 @@ __furled__ _v_ :two::hammer:
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furlough<sup>2</sup>__ _v_  
-__furnish__ _v_ :two::hammer: _They were furnished with a wealth of new information._ _To furnish suites of labs._  
+__furnish__ _v_ :three::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
@@ -6531,7 +6532,7 @@ __homestead<sup>2</sup>__ _v_
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
 __homophobic__  
-__homophones__  
+__homophones__ _n_ :two::hammer:  
 __honcho__ _n_ :four::hammer: (honchos)  
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one's statement, "Pete" here is a substitution of the word "God," so as to avoid potential blasphemy.  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
@@ -7163,7 +7164,8 @@ __jetty__ :two::hammer:
 __jewelery__ (jewelry)  
 __Jewess__  
 __Jewry__  
-__jibe__ _v_ :three::hammer:  
+__jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
+__jibe<sup>2</sup>__ _v_ :three::hammer:  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
@@ -7671,6 +7673,7 @@ __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no lever
 __leverage<sup>2</sup>__ _v_ :four::hammer:  
 __leviathan__  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
+__levity__ _n_ _His levity faded._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._  
 __lewd__ _adj_ :three::hammer:  
@@ -8080,6 +8083,7 @@ __marijuana__
 __marinades__  
 __mariner__ _n_  
 __marjoram__ _n_ Oregano.  
+__mark up__ _phr v_ To mark for sale at a higher price.  
 __mark__ _n_ _idiom_ A dupe; a victim selected for a theft or a swindle.  
 __markdown__  
 __markdowns__  
@@ -9094,6 +9098,7 @@ __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah bla
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
+__OTT__ _abbr_ Over the top.  
 __otter__  
 __ottoman__  
 __ouboros__ _n_  
@@ -10077,7 +10082,7 @@ __prep<sup>1</sup>__ _n_? (preparatory?)
 __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
-__preposterous__ _adj_ :nine: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
+__preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
 __preposterously__ :two::hammer:  
 __preppers__  
 __prepping__ _v_  
@@ -10653,6 +10658,7 @@ __rebellion__ :pencil2:
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :nine::m: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
+__rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _Damonika has worked as youth and rec leader._  
@@ -13071,7 +13077,7 @@ __sweat it__ _Don't sweat it._
 __sweatpants__  
 __sweep you off your feet__ To fall in love with them very quickly and strongly.  
 __sweeping staircase__ :camera:  
-__sweepstakes__  
+__sweepstakes__ :two::hammer:  
 __Sweepstakes__ _Your Sweepstakes._  
 __Sweet 16__ _sports_  
 __sweet on someone__ _adj phr_  
@@ -13540,6 +13546,7 @@ __ticklish__ _adj_ :three: If you are ticklish, you quickly feel uncomfortable w
 __ticky-tacky__ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :five::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
+__tide someone over (until something)__ _idiom_ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _A tidy plan._  
 __tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
@@ -14636,6 +14643,7 @@ __wetbrain__
 __wetted__ _A wetted wick._  
 __Whac-A-Mole__  
 __whackadoodle__  
+__whale on (someone or something)__ _idiom_  
 __whale__ :mute:[w~~h~~ale]  
 __whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
 __whammy__ :two::hammer: _A double whammy of injuries._  
