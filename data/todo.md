@@ -1,6 +1,17 @@
 
 
 
+__pumpkin spice__ _n_  
+__kale__ _n_  
+__colander__ _n_  
+__idiopathic__  
+__specimen__ _n_ _An adequate nasopharyngeal specimen._  
+__sidestep__  
+__apposition__ _n_ (grammar)  
+__copywriter__ _n_  
+__uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
+__keyboarding__ _n_ The work of inputting information using a keyboard.  
+
 __recanted__ _v_  
 __knockoff__  
 __wunderkind__  
