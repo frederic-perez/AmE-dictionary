@@ -513,7 +513,7 @@ __apple of (one's) eye__ _idiom_
 __applesauce__  
 __apportion__ _v_  
 __apportioned__ _v_  
-__apposition__ _n_  
+__apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
@@ -1489,6 +1489,7 @@ __bottom out__ _Europe is bottomed out._
 __bottom-of-the-barrel__  
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
+__bouillion__ _Bouillion cubes._  
 __bounce__ _v_ _slang_ To leave.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
@@ -2112,6 +2113,7 @@ __catcall__ _v_
 __catcalling__ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch a snooze__ _idiom_ To sleep or take a nap, especially of a short duration.  
+__catch fire__ (fig.) _The magazine never quite caught fire._  
 __catch hell__ _I'd catch hell for it._  
 __catch one's breath__ _idiom_ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch onto (something)__ _idiom_  
@@ -2587,7 +2589,7 @@ __coincided__ _v_
 __coincidental__  
 __coincidentally__  
 __coke-bottle glasses__  
-__colander__  
+__colander__ _n_ :two::hammer:  
 __cold duck__  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold shoulder__  
@@ -2750,7 +2752,7 @@ __confer__ _v_ (conferred)
 __conference call__  
 __conferred__ _v_  
 __confidant__ _n_ :seven::hammer: (also confidante)  
-__confide__ _v_ :four::hammer: (confided)  
+__confide__ _v_ :five::hammer: (confided)  
 __confidence__  
 __config__ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
@@ -2872,6 +2874,7 @@ __Coptic__
 __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
 __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
 __copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
+__copywriter__ _n_  
 __coracle__ :two::hammer: (coracles)  
 __cord blood__  
 __cord__ _n_ :camera:  
@@ -6747,6 +6750,7 @@ __id__ _n_
 __ideation__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiopathic__  
 __idiosyncratic__ _adj_  
 __idiot box__  
 __idle__ _v_  
@@ -7277,7 +7281,7 @@ __kabobs__
 __kabuki__ _n_ :three::hammer:  
 __kaffeeklatsch__ _n_  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
-__kale__ _n_ :four::hammer:  
+__kale__ _n_ :five::hammer:  
 __kamikaze__ _n_ :mega:  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
@@ -7307,6 +7311,7 @@ __kerchief__ _n_
 __kerkuffles__  
 __keseboy__  
 __key up__ :two::hammer: _He was too keyed up._ _I was too keyed up to sleep._  
+__keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
 __keystone__ :es: piedra angular  
@@ -7402,6 +7407,7 @@ __knock__ _n_ :mute:[~~k~~nock]
 __knock-knock joke__  
 __knocked up__ _slang_ Become pregnant.  
 __knocking on heaven's door__ _idiom_ :dart: To be dying, to be close to death.  
+__knockoff__  
 __knockout__ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_  
@@ -10302,6 +10308,7 @@ __pulse__ _n_ _A basket of pulse._
 __pummel__ _v_ :five::hammer: (pummeled)  
 __pump<sup>1</sup>__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
+__pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
@@ -10664,7 +10671,7 @@ __rebuttal__ _n_
 __rec__ _Damonika has worked as youth and rec leader._  
 __recalcitrant__ _adj_  
 __recall__ _n_ :two::hammer:  
-__recant__ _v_ :two::hammer: (recanted)  
+__recant__ _v_ :three::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap__  
 __recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
@@ -11762,7 +11769,8 @@ __shop kid__
 __shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
 __shoreline__  
-__shorn__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
+__shorn<sup>1</sup>__ _v_ A past participle of shear.  
+__shorn<sup>2</sup>__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby's shorn curls from the floor._  
 __short fuse__  
 __short hand__  
 __short of (something)__ _Anything short of that._  
@@ -11857,7 +11865,7 @@ __sidecar shovelhead__
 __sided__ _Installed in all sided (vs brick) homes._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sideline<sup>2</sup>__ _v_ :two::hammer: (sidelined) _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidestep__ _v_ :four::hammer: (sidestepped)  
+__sidestep__ _v_ :five::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I'm not interested in getting sideways with anyone at Augusta_  
@@ -12003,6 +12011,7 @@ __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully.
 __slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slap (one) on the wrist__ _idiom_ To issue one with a very mild, inconsequential punishment or warning.  
+__slapdash__ _adj_ :two::hammer: _His slapdash action._  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
@@ -12034,8 +12043,8 @@ __sleepwalking__
 __sleepwear__ :two::hammer: (vs sportswerar, etc.)  
 __sleety__  
 __slender__  
-__sleugh__ _n informal_ A detective. _Sassy (TV) sleugh._  
-__sleuth__ _v informal_ :three: (sleuthing) To act as a detective.  
+__sleuth<sup>1</sup>__ _n informal_ :two: A detective. _Sassy (TV) sleuth._  
+__sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ _idiom_ :two: To divide something into many small parts especially to use the result for one's own purposes.  
 __slice of pie__  
@@ -12397,6 +12406,7 @@ __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rest
 __specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
+__specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ :two::hammer: _Specious argument._  
 __speck__ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
@@ -13077,8 +13087,8 @@ __sweat it__ _Don't sweat it._
 __sweatpants__  
 __sweep you off your feet__ To fall in love with them very quickly and strongly.  
 __sweeping staircase__ :camera:  
-__sweepstakes__ :two::hammer:  
 __Sweepstakes__ _Your Sweepstakes._  
+__sweepstakes__ :two::hammer:  
 __Sweet 16__ _sports_  
 __sweet on someone__ _adj phr_  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
@@ -14035,6 +14045,7 @@ __U-boat__ _n_
 __UA-ed__ _v_ :two::hammer:  
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
 __ugh__ :two::hammer:  
+__uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
 __uh__  
 __uh-oh__ _My "uh-oh" bell rings._  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
@@ -14107,6 +14118,7 @@ __undeterred__
 __undies__  
 __undimpled__  
 __undisturbed__ _v_  
+__undoubtedly__  
 __undue__  
 __undulating__ _v_  
 __undulation__ _n_  
@@ -14973,7 +14985,7 @@ __wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. 
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :three::pencil2::hammer:  
-__wunderkind__  
+__wunderkind__ :two::hammer:  
 __wussification__  
 __X-factor__ _Terry could become Ryukyu's X-factor._  
 __X's and O's__ :two::hammer: _There are the X's and O's._  

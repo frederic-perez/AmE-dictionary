@@ -1,28 +1,6 @@
 
 
 
-__pumpkin spice__ _n_  
-__kale__ _n_  
-__colander__ _n_  
-__idiopathic__  
-__specimen__ _n_ _An adequate nasopharyngeal specimen._  
-__sidestep__  
-__apposition__ _n_ (grammar)  
-__copywriter__ _n_  
-__uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
-__keyboarding__ _n_ The work of inputting information using a keyboard.  
-
-__recanted__ _v_  
-__knockoff__  
-__wunderkind__  
-__confided__ _v_  
-__sleuth__ _n_  
-__slapdash__ _adj_ :two::hammer: _His slapdash action._  
-__catch fire__ (fig.) _The magazine never quite caught fire._  
-__undoubtedly__  
-__bouillion__ _Bouillion cubes._  
-__shorn__ _v_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
