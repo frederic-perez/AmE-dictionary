@@ -1,6 +1,17 @@
 
 
 
+__proved__ _His first story proved immensely popular._  
+__hit the jackpot__ _idiom_  
+__preeminent__  
+__prized__ _Alien stories were prized by early readers._  
+__jell__ _The plans didn’t jell._  
+__rousing__ _The magazine was a rousing success._  
+__homestead__  
+__masthead__ _n_  
+__forlorn__  
+__defected__ _v_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
