@@ -1,29 +1,6 @@
 
 
 
-
-__hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
-__testimonial__ _n_  
-__parochial__ _adj_  
-__hit the big time__ _idiom_ To become very famous or successful.  
-__ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
-__honorable mention__ _idiom_ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
-__advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
-__in a sorry state__ _idiom_ In a pitiful or abject condition.  
-__win (something) in a walk__ _idiom_ To win (something) easily, handily, or without much or any effort.  
-__perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
-
-__proved__ _His first story proved immensely popular._  
-__hit the jackpot__ _idiom_  
-__preeminent__  
-__prized__ _Alien stories were prized by early readers._  
-__jell__ _The plans didn’t jell._  
-__rousing__ _The magazine was a rousing success._  
-__homestead__  
-__masthead__ _n_  
-__forlorn__  
-__defected__ _v_  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  

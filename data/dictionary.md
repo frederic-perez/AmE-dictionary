@@ -212,6 +212,7 @@ __adverse__ _adj_
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
+__advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
 __advisory<sup>1</sup>__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ (advisories)  
 __advocacy__ :two::hammer:  
@@ -3410,7 +3411,7 @@ __deface__ _v_ :two::hammer: _Defacing two murals._
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone's reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person's good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it's unkind and malicious.  
 __defanging__ _n_  
 __default__ _v_ :five::hammer: _The Solar Energy company defaulted._  
-__defect__ _v_ :seven: (defected) To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
+__defect__ _v_ :eight: (defected) To desert one's country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward's defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
@@ -5128,7 +5129,7 @@ __forgone__
 __fork over the dough__ _idiom_ To pay, generally unwillingly, a certain amount of money.  
 __fork__ _Gordon at fork in the road._  
 __forklift__  
-__forlorn__ _adj_ :nine: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
+__forlorn__ _adj_ :nine::m: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
 __Formica__  
@@ -6436,9 +6437,11 @@ __hit on all eight__ _So far it's not hitting on all eight._
 __hit or miss__  
 __hit out__ _v_  
 __hit parade__  
+__hit the big time__ _idiom_ To become very famous or successful.  
 __hit the books__  
 __hit the brakes__  
 __hit the gas__ _idiom_ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
+__hit the jackpot__ _idiom_  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the sack__  
@@ -6529,7 +6532,7 @@ __homely__ _adj_ :three::hammer:
 __homeowner__  
 __homesick__ :two::hammer:  
 __homespun__ :two::hammer:  
-__homestand__ _n_ :four: A series of games played at a team's home field.  
+__homestand__ _n_ :five: A series of games played at a team's home field.  
 __homestead<sup>1</sup>__ _n_ :four::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :two::hammer:  
@@ -6547,6 +6550,7 @@ __honeysuckle__
 __Hong Kong__ _"Fragrant harbor" is the literal translation of Hong Kong._  
 __honky tonk__ _n_  
 __honor__ _v_ :two::hammer::mute:[~~h~~onor]  
+__honorable mention__ _idiom_ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
@@ -6608,6 +6612,7 @@ __hot-rodder__
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __hounding__ _v_ :two::hammer:  
 __hounds__ _n_  
@@ -6831,6 +6836,7 @@ __in (one's) own right__ _idiom_ Through the force of one's own skills or qualif
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a nutshell__  
+__in a sorry state__ _idiom_ In a pitiful or abject condition.  
 __in abeyance__  
 __in all likelihood__  
 __in and of itself__ _idiom_ Considering it alone.  
@@ -6975,6 +6981,7 @@ __ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.
 __ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
 __ingrate__ _n_ An ungrateful person.  
 __ingratiate__ _v_ :three::hammer:  
+__ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
@@ -7148,6 +7155,7 @@ __jeered__ _v_ :four::hammer: (jeering)
 __jeez__ _interj_ Used to express surprise or annoyance.  
 __Jehova's Witness__  
 __jejune__  
+__jell__ _The plans didn’t jell._  
 __jelly doughnuts__  
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
@@ -8126,6 +8134,7 @@ __massive__
 __mast__ _n_ _The flag was flown at half mast._  
 __mastermind__ _v_ :two::hammer: (masterminding)  
 __masterpiece__  
+__masthead__ _n_  
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
@@ -9371,7 +9380,7 @@ __parley<sup>1</sup__ _n_ :two::hammer:
 __parley<sup>2</sup__ _v_  
 __parliament__ :pencil2::two::hammer:  
 __parlor__  
-__parochial__ _adj_ :three::hammer:  
+__parochial__ _adj_ :four::hammer:  
 __parolee__ _n_  
 __paroxysm__  
 __paroxysmal__  
@@ -9576,6 +9585,7 @@ __peroxide__
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my stage persona._  
+__perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
 __pert__ _adj_  
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
@@ -10068,7 +10078,7 @@ __predate__ _v_ :four::hammer: (predated) _The building predated the revolution.
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
 __predicament__ _n_ :eight::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
-__preeminent__ :two::hammer:  
+__preeminent__ _adj_ :three::hammer:  
 __preempt__ _v_  
 __preemptive__  
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
@@ -10167,7 +10177,7 @@ __private dancer__ _n_ A dancer who performs a striptease.
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
-__prize<sup>2</sup>__ _v_ (prise) :two::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._  
+__prize<sup>2</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ :three::hammer: _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
@@ -10241,6 +10251,7 @@ __protégé__ _n_ :two: One whose welfare, training, or career is promoted by an
 __protestation__  
 __protract__ _v_ To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __protracted__  
+__proved__ _His first story proved immensely popular._  
 __provenance__  
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
@@ -11109,6 +11120,7 @@ __roundabout__ :two::hammer: (Children's attraction.)
 __roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
+__rousing__ _The magazine was a rousing success._  
 __roustabout__ _The roustabout Bohemian._  
 __roustabouts__ _n_  
 __rousted__ _v_  
@@ -13386,6 +13398,7 @@ __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullov
 __terse__  
 __test the water(s)__ _idiom_ :two::hammer: _We're testing the waters._  
 __tester bed__ :two::hammer:  
+__testimonial__ _n_  
 __testy__  
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
 __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
@@ -14799,6 +14812,7 @@ __wimp__ _n_ _slang_ :three: A weak person, a coward. Someone who is not brave, 
 __wimpiness__  
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
+__win (something) in a walk__ _idiom_ To win (something) easily, handily, or without much or any effort.  
 __win back__ _phr v_ To get back something that you have lost.  
 __wince__ _v_ :six::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
