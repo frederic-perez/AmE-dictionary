@@ -1,6 +1,17 @@
 
 
 
+__not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
+__dominatrix__ _n_  
+__militiaman__ _n_ :pencil2:  
+__desultory__ _adj_ __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
+__leitmotif__ _n_ (leitmotiv)  
+__rankle__ _v_ Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
+__inside and out__ _idiom_ Thoroughly; down to the last detail.  
+__theist__ _adj_  
+__deist__ _adj_  
+__atheist__ _adj_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
