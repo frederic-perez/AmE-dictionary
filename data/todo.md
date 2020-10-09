@@ -1,6 +1,17 @@
 
 
 
+__newsstand__ _n_ :pencil2:  
+__festers__ _n_  
+__munched__ _v_ _He munched the fruit._  
+__clanking__  
+__firebrick__  
+__rapier__  
+__gloom__ _n_  
+__bellow__ _n_  
+__bellowed__ _v_  
+__yelps__ _n_  
+
 __not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __dominatrix__ _n_  
 __militiaman__ _n_ :pencil2:  
