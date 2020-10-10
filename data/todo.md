@@ -1,6 +1,17 @@
 
 
 
+__agnostic__ _adj_  
+__libertine__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
+__in all truthfulness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
+__avow__ _v_  
+__argy-bargy__ _n_  
+__susurration__ _n_  
+__finagle__ _v_  
+__élan__ _n_ :pencil2:  
+__asunder__  
+__appreciable__ _adj_ Capable of being perceived or measured.  
+
 __jump start__ _n_ _His friends gave him a jump start._  
 __ringmaster__  
 __book jacket__  
