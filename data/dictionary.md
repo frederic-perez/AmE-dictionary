@@ -667,6 +667,7 @@ __at the very least__
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at wit's end__ _He was at wit's end._  
 __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn't have to be a feeling; it can be anything that's a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
+__atheist__ _adj_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __athwart__  
 __atlatl__  
@@ -1084,9 +1085,10 @@ __bellboy__ _n_
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
-__bellow__ _v_ :four::hammer: (bellowed)  
-__bellowing__ _n_  
-__bellows__ _n_ :two::hammer: _Barber's breathing sounded like a bellows._  
+__bellow<sup>1</sup>__ _n_  
+__bellow<sup>2</sup>__ _v_ :five::hammer: (bellowed)  
+__bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
+__bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber's breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
@@ -2428,7 +2430,7 @@ __clamped__ _v_
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clang__ _v_  
 __clanging__ :astonished:  
-__clank__ _v_ :two::hammer: (clanked)  
+__clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
@@ -3441,6 +3443,7 @@ __defund__ _v_ To stop the flow of funds to.
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
 __deign__ _v_ :two::hammer: (deigned)  
+__deist__ _adj_  
 __dejected__  
 __deking__  
 __dekulakization__ _n_  
@@ -3533,6 +3536,7 @@ __despondency__
 __despondent__ _n_ :five::hammer:  
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
+__desultory__ _adj_ __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -3821,6 +3825,7 @@ __dolirometer__
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
 __dolt__ :two::hammer:  
 __domicile__  
+__dominatrix__ _n_  
 __don__ _v_ Put on (an item of clothing).  
 __don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
@@ -4723,9 +4728,9 @@ __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out o
 __ferreting out__ _v_  
 __fertil__ :mega:  
 __fervent__  
-__fester__ _v_ :five::hammer: (festering) _VA's challenges will only fester if they are kept shrouded in secrecy._  
-__festered__ _v_ :es: ulcerarse  
-__festering__ _n_ :two::hammer:  
+__fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
+__fester<sup>2</sup>__ _v_ :six::hammer: (festered, festering) :es: ulcerarse _VA's challenges will only fester if they are kept shrouded in secrecy._  
+__festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
 __festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetal__ _adj_  
@@ -4826,6 +4831,7 @@ __fire sale__ _n_ :three::hammer:
 __fire-breathing__ _idiom_ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
 __fire-eater__ _n_ A belligerent grouch.  
 __firebrand__  
+__firebrick__ _n_  
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
@@ -5578,7 +5584,7 @@ __gloaming__ _n_ _poetic_ :two: Twilight or dusk.
 __gloat__ _v_ :six::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
-__gloom<sup>1</sup>__ _n_ :four::hammer: _She was hidden in the gloom._  
+__gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
 __gloom<sup>2</sup>__ _v_  
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn't gloss over disagreements._  
@@ -7012,6 +7018,7 @@ __ins and outs__ _pl n_ :two::hammer:
 __inscribed__ _v_  
 __inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
+__inside and out__ _idiom_ Thoroughly; down to the last detail.  
 __insidious__  
 __insipid__  
 __insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
@@ -7645,7 +7652,7 @@ __legwork__ _n_
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
 __leisurely__ :two::hammer: _He took his coat, leisurely putting it on._  
-__leitmotif__  
+__leitmotif__ _n_ :two::hammer: (leitmotiv)  
 __lemme__ _Lemme see._  
 __lemming__ _n_  
 __lemon law__ An American law that protects purchasers of faulty cars.  
@@ -8296,6 +8303,7 @@ __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) 
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
+__militiaman__ _n_ :pencil2:  
 __militias__ :two::hammer:  
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :three::hammer: _Milk the clock._  
@@ -8562,7 +8570,7 @@ __multitude__
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumbo jumbo__ _n_  
 __mumps__  
-__munch__ _v_ :three:hammer: (munches)  
+__munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :three::hammer:  
@@ -8736,6 +8744,7 @@ __news outlet__
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
 __newsbreak__ _n_  
 __newspaper rack__  
+__newsstand__ _n_ :pencil2:  
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
@@ -8841,6 +8850,7 @@ __nostalgia__
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
 __not even close__ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
+__not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn't recognize John if I saw him up close. I don't know him from Adam._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -10571,7 +10581,7 @@ __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
 __ranking officer__ _He was the ranking officer the last few days._  
-__rankle__ _v_ :three::hammer: (rankles, rankled)  
+__rankle__ _v_ :four: (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
@@ -10581,7 +10591,7 @@ __rap__ _South has a bad rap._
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
-__rapier__ _n_ :two: (rapiers) A straight sword with a narrow blade and two edges.  
+__rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :four::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
@@ -13452,6 +13462,7 @@ __the sky is the limit__ :two::hammer:
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
 __thecracy__  
+__theist__ _adj_  
 __then again__ _idiom_ :nine: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __theocracy__  
 __theosophy__  
@@ -15035,7 +15046,7 @@ __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his fir
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
-__yelp<sup>1</sup>__ _v_ :six::hammer: (yelps, yelped) :es: gañir  
+__yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
 __yesteryear__ _n_ :three::hammer:  
