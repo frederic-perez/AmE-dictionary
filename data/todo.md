@@ -1,6 +1,17 @@
 
 
 
+__jump start__ _n_ _His friends gave him a jump start._  
+__ringmaster__  
+__book jacket__  
+__retooled__ _v_  
+__stable__ _n_ _Pam built up a small stable of local writers._  
+__inordinately__  
+__carte blanche__  
+__straight-limbed__  
+__digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
+__fold__ _v_ (folded) _By the end of 1953 all his digest magazines had folded._  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
