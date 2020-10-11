@@ -262,6 +262,7 @@ __aggrieved__ _v_ _An aggrieved sense of victimhood._
 __aggro__ _n_ :three::hammer:  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__agnostic__ _adj_  
 __agog__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
@@ -518,6 +519,7 @@ __apposition__ _n_ :two::hammer: (grammar)
 __appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
+__appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _I appreciate it._  
 __apprehend__ _v_  
 __apprehension__  
@@ -551,6 +553,7 @@ __arduous__ _adj_ :two: Very difficult.
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
 __arguably__ :two::hammer:  
+__argy-bargy__ _n_  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
 __arm bands__ _n_ :es: manguitos  
@@ -651,7 +654,7 @@ __astride__ _adv_ :three::hammer:
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
-__asunder__ _adv_ :three::hammer: _A world torn asunder by evil and hate._  
+__asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -731,7 +734,7 @@ __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _W
 __avert__ _v_ :three::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
-__avowed__ _v_  
+__avow__ _v_ :two::hammer: (avowed)  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
@@ -1438,6 +1441,7 @@ __booby-trapped 105's__
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_  
+__book jacket__  
 __book of matches__  
 __book__ _v_ _I'll book us a table._  
 __bookcases__ _n_ :two::hammer:  
@@ -2064,6 +2068,7 @@ __carryout__ _A Chinese carryout._
 __carryover__ _A carryover vehicle._  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
+__carte blanche__  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
 __carton__ _n_ :three::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
@@ -3591,6 +3596,7 @@ __different animal__ _n_ _idiom_ Something different.
 __diffident__  
 __dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
+__digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ (finger?)  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__  
@@ -4198,6 +4204,7 @@ __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._
 __EKG__  
 __el__ :two::hammer: _The el tracks._  
 __elaborate__ _v_ :dart:  
+__élan__ _n_ :pencil2:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :three::hammer:  
 __elation__ _n_ :four::hammer:  
@@ -4801,7 +4808,7 @@ __fillip__ :two::hammer:
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
 __filthy__ Very dirty.  
-__finagle__ _v_ To obtain or achieve by indirect, usually deceitful methods.  
+__finagle__ _v_ :two: To obtain or achieve by indirect, usually deceitful methods.  
 __final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
@@ -5032,8 +5039,7 @@ __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and p
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :three::hammer: (foisting, foisted)  
-__fold__ _v_ (card games)  
-__fold<sup>1</sup>__ _v_ _The newspaper subsequently folded._  
+__fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
 __folded__ _The American Soccer League folded in 1931._  
@@ -6845,6 +6851,7 @@ __in a nutshell__
 __in a sorry state__ _idiom_ In a pitiful or abject condition.  
 __in abeyance__  
 __in all likelihood__  
+__in all truthfulness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
 __in and of itself__ _idiom_ Considering it alone.  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
 __in cahoots__  
@@ -7007,7 +7014,7 @@ __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement w
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
-__inordinately__ _adv_ :two: _He was inordinately proud of the Roman legions._  
+__inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
@@ -7258,6 +7265,7 @@ __jumbo__ _n, adj_ :two: _A jumbo loan._
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
 __jump for joy__ _idiom_ To be very happy about something.  
 __jump ship__ _idiom_ To leave a job or activity.  
+__jump start__ _n_ _His friends gave him a jump start._  
 __jump the gun__ _If I jump the gun I'll need more time to recover._  
 __jump through hoops__ _idiom_ To do a lot of difficult things before you are allowed to have or do something you want.  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
@@ -7705,6 +7713,7 @@ __liaison__ _n_ :five::hammer:
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
+__libertine__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
@@ -10906,7 +10915,7 @@ __reticulation__ _n_ Arrangement in the form of a network, as for decorat
 __retinue__ _n_ :four::hammer: (retinues)  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
-__retooled__ _v_ :two::hammer:  
+__retooled__ _v_ :three::hammer:  
 __retracement__  
 __retrain__ _v_  
 __retreat<sup>1</sup>__ _v_ :three::hammer: (retrenching)  
@@ -11003,7 +11012,7 @@ __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for th
 __ringer__ _n_ :two: A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
 __ringlets__  
-__ringmaster__  
+__ringmaster__ :two::hammer:  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
 __rink__ _n_  
 __rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
@@ -12600,7 +12609,7 @@ __squit__ _Super-soaker squit guns._
 __St. Bernard__  
 __stab__ _n_ :two::hammer:  
 __stable condition__  
-__stable__  
+__stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
 __staff__ _n_ :two::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd's staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
@@ -12848,6 +12857,7 @@ __straggler__ _n_
 __straggly__  
 __straight-A student__  
 __straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
+__straight-limbed__  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
@@ -13073,6 +13083,7 @@ __suspensers__ _Firehouse suspenders_
 __suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
+__susurration__ _n_  
 __sutra__ _Reafing a sutra._  
 __svelte__ :two::hammer:  
 __swab__ _n_ _Nasopharyngeal swabs._  
