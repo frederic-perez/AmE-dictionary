@@ -1,6 +1,18 @@
 
 
 
+
+__hackwork__ _n_  
+__blurb__ _n_ (blurbs) _Anonymous titles and blurbs had graced the front cover._  
+__blip__ _n_  
+__run afoul__  
+__lathe__ _n_ (?)  
+__prescient__  
+__dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
+__jaded__ _adj_  
+__fanzine__  
+__operetta__ :pencil2:  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
