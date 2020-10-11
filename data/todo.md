@@ -2,6 +2,17 @@
 
 
 
+__gradual__ _adj_  
+__not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
+__permeate__ _v_  
+__rely on__ _v_  
+__burdensome__ _adj_  
+__wild__ _adj_ :two::hammer: _It's wild!_  
+__fluctuate__ _v_ :mega:  
+__hysterical__ _adj_ :two::hammer:  
+__novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
+__on top of that__ _idiom_ :two: Additionally; furthermore.  
+
 __hackwork__ _n_  
 __blurb__ _n_ (blurbs) _Anonymous titles and blurbs had graced the front cover._  
 __blip__ _n_  
