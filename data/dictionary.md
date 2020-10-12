@@ -1291,7 +1291,7 @@ __blindside<sup>1</sup>__ _n_ _Blindside blocks._
 __blindside<sup>2</sup>__ _v_ :five: (blind side, blindsided) To catch off guard; to take by surprise.  
 __bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
-__blip<sup>1</sup>__ _n_ :four: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
+__blip<sup>1</sup>__ _n_ :five: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
 __blithe__ _adj_ :six: __1__ Carefree and lighthearted. __2__ Lacking or showing a lack of due concern; casual: _spoke with blithe ignorance of the true situation._  
@@ -1357,7 +1357,7 @@ __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn't very pointy. A blunt comment is candid — it isn't very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder ("make a stupid mistake") may have the same origins — the Old Norse blundra, meaning "to shut one's eyes." So don't be blunt ("dull" or "obtuse") — here are a few things you probably don't want to do: 1) use a blunt ("dull") knife to cut your tomatoes; 2) make a blunt ("outspoken") comment that might hurt someone's feelings; or 3) blunt ("deaden") the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly._  
-__blurb__ :es: comentario de sobrecubierta  
+__blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_  
 __bluster<sup>2</sup>__ _n_  
@@ -1774,7 +1774,7 @@ __buoyancy__
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __burble__ _v_ (burbled)  
-__burdensome__  
+__burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
 __burgermeister__  
@@ -3347,6 +3347,7 @@ __dead horse__ _n_ Something that has ceased to be useful or relevant.
 __dead in the water__ _idiom_ Without any chance for success.  
 __dead last__ _idiom_ In last place, especially by a wide margin, as for a race or other competition.  
 __dead man walking__ _Jack was a dead man walking._  
+__dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead set against something__ _idiom_ To be completely against something.  
@@ -4629,7 +4630,7 @@ __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables,
 __fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
-__fanzine__ _n_ :mega:  
+__fanzine__ _n_ :two::mega::hammer:  
 __far and away__ :astonished:  
 __far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn't as far-fetched as it sounds._  
@@ -5001,6 +5002,7 @@ __flowerpot__ _n_ _Clay flowerpot._
 __flown__ _v_ _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
+__fluctuate__ _v_ :mega:  
 __fluff__  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
@@ -5758,6 +5760,7 @@ __gracious__ _adj_ :five::hammer: _He was very gracious._
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
+__gradual__ _adj_  
 __gradually__  
 __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramps__  
@@ -6005,6 +6008,7 @@ __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._
 __hackles__ _n_ :two::hammer:  
 __hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
+__hackwork__ _n_  
 __haemodialysis__ _n_  
 __haemophilia__  
 __haft sin__  
@@ -6740,7 +6744,7 @@ __hypokalemia__
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysteric__  
-__hysterical__  
+__hysterical__ _adj_ :three::hammer:  
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
@@ -7130,7 +7134,7 @@ __jack-o'-lantern__
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_ :two: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
+__jaded__ _adj_ :three: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
@@ -7573,6 +7577,7 @@ __late > of late__ _The Nationals (18-10) are atop a division dominated by the P
 __late bloomer__ _n idiom_  
 __latecommer__ _I'm somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
+__lathe__ _n_  
 __lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
 __lathered__ _v_ :three::hammer: (lathering) _He lathered the bar of soap._  
 __lathes__  
@@ -8857,6 +8862,7 @@ __nose-thumbing__ :camera:
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
+__not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
 __not even close__ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
 __not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
@@ -8870,6 +8876,7 @@ __nought__ :mute:[nou~~gh~~t]
 __noun__ _n_  
 __nova__  
 __novella__  
+__novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nowadays__  
 __nowcast__  
@@ -9050,8 +9057,7 @@ __on the tip of your tongue__ _idiom_ About to be said or almost remembered.
 __on the verge__  
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
 __on three__ _On three: One, two, three!_  
-__on top of that__ _phr_ :two: _On top of that, ..._  
-__On top of that,__  
+__on top of that__ _idiom_ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ _He appears to be on track to play._  
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
@@ -9091,6 +9097,7 @@ __open mike__ :two::hammer: _When are you going to do an open mike?_
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
+__operetta__ :pencil2:  
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
@@ -9597,6 +9604,7 @@ __perk up__ _idiom_ :two: To make or become more lively, energetic, atten
 __Perkins booth__ _n_  
 __perks__  
 __permafrost__ :two::hammer:  
+__permeate__ _v_  
 __permed__  
 __permit__ _Camping permit fee._  
 __pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
@@ -10125,7 +10133,7 @@ __prequel__
 __prerogative__ _n_ :five::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :five::hammer:  
+__prescient__ _adj_ :six::hammer:  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -10829,6 +10837,7 @@ __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
 __reluctant__  
+__rely on__ _v_  
 __remanded__ _v_  
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
@@ -11192,6 +11201,7 @@ __rummy__
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
 __rumple__ _v_ _His clothes were rumpled._  
+__run afoul__  
 __run amok__ :two::hammer:  
 __run by__ _phr v_  
 __run errands__ :two::hammer:  
@@ -14817,6 +14827,7 @@ __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
+__wild__ _adj_ :two::hammer: _It's wild!_  
 __wilderness__ _n_ :two::hammer:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  

@@ -1,29 +1,6 @@
 
 
 
-
-__gradual__ _adj_  
-__not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
-__permeate__ _v_  
-__rely on__ _v_  
-__burdensome__ _adj_  
-__wild__ _adj_ :two::hammer: _It's wild!_  
-__fluctuate__ _v_ :mega:  
-__hysterical__ _adj_ :two::hammer:  
-__novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
-__on top of that__ _idiom_ :two: Additionally; furthermore.  
-
-__hackwork__ _n_  
-__blurb__ _n_ (blurbs) _Anonymous titles and blurbs had graced the front cover._  
-__blip__ _n_  
-__run afoul__  
-__lathe__ _n_ (?)  
-__prescient__  
-__dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
-__jaded__ _adj_  
-__fanzine__  
-__operetta__ :pencil2:  
-
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
