@@ -1,6 +1,17 @@
 
 
 
+__raved__ _v_ _Readers raved about his stories._  
+__bested__ _v_  
+__obit__ _n_ _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
+__capitalize__ _v_  
+__drum out__ _The were drummed out of the club._  
+__vocal__ _adj_  
+__tie-in__ _The story “Dr. Cyclops” was an early movie tie-in._  
+__bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
+__extolling__ _v_  
+__numerous__ _Hamilton was the author of numerous potboilers._  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
