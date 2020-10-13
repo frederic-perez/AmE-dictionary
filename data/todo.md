@@ -1,6 +1,16 @@
 
 
 
+__proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._
+__overtones__ _Overtones of al9en menace._  
+__pulp__ _n_ _The pulps were running out of steam._  
+__sag__ _v_  
+__eight-track__ _The eight-track audio tape._  
+__day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
+__pen name__  
+__shilled__ _v_  
+__sheaves__ _n_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
