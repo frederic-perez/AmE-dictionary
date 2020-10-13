@@ -1048,7 +1048,7 @@ __befitting__
 __before you know it__  
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
-__befuddle__ _v_ :six::hammer: (befuddled, befuddling)  
+__befuddle__ _v_ :seven::hammer: (befuddled, befuddling)  
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar__ _n_  
 __beggar-thy-neighbor__  
@@ -1141,7 +1141,7 @@ __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Sociali
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
-__best__ _v_ :two::hammer: (bested)  
+__best__ _v_ :three::hammer: (bested)  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
@@ -1153,6 +1153,7 @@ __bettors__
 __bevel__ :two::hammer:  
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
+__bewilder__  
 __bewitch__ _v_ :es: maravillar?  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
@@ -1225,6 +1226,7 @@ __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra
 __bitch<sup>2</sup>__ _v_  
 __bite (one's) head off__ _idiom_ To respond to someone with anger that is often sudden or unprovoked. _What's wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
+__bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitingly__  
 __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
 __bivouac__ _v_ :two::astonished::pencil2:  
@@ -1740,6 +1742,7 @@ __bum<sup>2</sup>__ _v_ :two::hammer:
 __bum<sup>3</sup>>__ _n_ :two: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
+__bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
@@ -2006,6 +2009,7 @@ __caper<sup>1</sup>__ _n_ :five: __1__ A playful leap or hop. __2__ A frivolous 
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
+__capitalize__ _v_  
 __capitulated__ _v_  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
@@ -4027,6 +4031,7 @@ __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.
 __drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drugstore__  
 __drugwise__  
+__drum out__ _The were drummed out of the club._  
 __drum up__  
 __drum__ _v_  
 __drumbeat__ _Their drumbeat of criticism._  
@@ -4524,7 +4529,7 @@ __extended family__ _n_ A family group that consists of parents, children, and o
 __extent__ _To the same extent._  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
-__extoll__ _v_ :three::hammer: (extolled, extolling)  
+__extoll__ _v_ :four::hammer: (extolled, extolling)  
 __extort__ _v_  
 __extra pair of hands__ _idiom_ Additional help or assistance provided by another person. _Don't you want to hire an extra pair of hands?_  
 __extraneous__  
@@ -5923,7 +5928,8 @@ __guesswork__ _n_ :two::hammer:
 __guest claim__ _Guest claim no. 170374._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
-__guffaw__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
+__guffaw<sup>1</sup>__ _n_  
+__guffaw<sup>2</sup>__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
 __guidet__ _Two guidettes._  
@@ -6853,6 +6859,7 @@ __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typical
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a nutshell__  
 __in a sorry state__ _idiom_ In a pitiful or abject condition.  
+__in a/the flash of an/the eye__ _idiom_ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__  
 __in all likelihood__  
 __in all truthfulness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
@@ -7747,7 +7754,7 @@ __light-headed__ _I feel light-headed from lack of sleep._
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
-__lighthearted__ _adj_ :two::hammer:  
+__lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
@@ -8899,7 +8906,7 @@ __numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are
 __numbers game__ _n_  
 __numbers runners__  
 __numbly__  
-__numinous__ _adj_  
+__numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers._  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :three::hammer:  
@@ -8922,7 +8929,7 @@ __oat__ _n_
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
 __obi__ _n_  
-__obit__ :two::hammer:  
+__obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
 __obituaries__  
 __obituary__  
 __oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
@@ -9284,6 +9291,7 @@ __Ozzies__ (Australians?)
 __pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
 __pace around__ _idiom_ To walk around nervously or anxiously. _He was pacing around making people nervous._  
 __pachinko__ (game)  
+__pachyderm__ _n_ :pencil2:  
 __Pacific Basin__ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
@@ -10654,7 +10662,7 @@ __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._
 __ravaged__ _v_ :four::hammer:  
 __ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
-__rave<sup>2</sup>__ _v_ :seven: If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense.  
+__rave<sup>2</sup>__ _v_ :eight: (raved) If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
@@ -11401,7 +11409,7 @@ __scene__ :mute:[s~~c~~ene]
 __scenic__  
 __scent__ :mute:[s~~c~~ent]  
 __scented__  
-__schadenfreude__  
+__schadenfreude__ _n_ :two::astonished: Pleasure derived from the misfortunes of others.  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
 __schizoid__ _adj_ _She had a schizoid personality._  
@@ -11881,7 +11889,7 @@ __shuffle off__
 __shuffle__ _v_ :three::hammer: (shuffling)  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
-__shush<sup>1</sup>__ _interj_  
+__shush<sup>1</sup>__ _interj_ :two::hammer:  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
@@ -12912,7 +12920,8 @@ __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easin
 __stridence__ :two::hammer:  
 __strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
-__strike__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
+__strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
+__strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string knife__ :two::hammer:  
@@ -13606,6 +13615,7 @@ __tidy up__ _phr v_ :three: To put something in order; to clean something. _I ne
 __tidy__ _A tidy plan._  
 __tie the can__ _idiom_ _It ain't every day that you tie the can to a Congressman._  
 __tie-dye__  
+__tie-in__ _The story “Dr. Cyclops” was an early movie tie-in._  
 __tie-up__ _n_  
 __tiebreaking__ _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
@@ -14477,7 +14487,7 @@ __vituperation__ _n_ :three: Abusive or venomous language used to express blame 
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vizier__ _n_ :two::hammer:  
-__vocal<sup>1</sup>__ _adj_ :two: _Critics often are the most vocal._  
+__vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
 __vodka__ :mega:  
