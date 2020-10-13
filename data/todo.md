@@ -1,6 +1,17 @@
 
 
 
+__hate someone's guts__ _idiom_ Thoroughly despise someone, as in _I hate Peter's guts._ The _guts_ here refers to a person's inner essence.  
+__pass away__ _idiom_ _euphemism_ To die. _When I pass away, I don't want an elaborate funeral._  
+__peremptory__ _adj_  
+__let someone go__ _idiom_ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we're going to have to let you go._  
+__finagle__ _v_  
+__odds__ _pl n_  
+__hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn't until he was threatened with losing his job that the comments about John's work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
+__verisimilitude__ _n_  
+__keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that's gonna keep the Joker from killing people?_ :es: abstenerse de
+__vituperation__ _n_  
+
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._
 __overtones__ _Overtones of al9en menace._  
 __pulp__ _n_ _The pulps were running out of steam._  
