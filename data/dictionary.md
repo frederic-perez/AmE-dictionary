@@ -3332,6 +3332,7 @@ __dawdled__ _v_
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
 __day in and day out__  
+__day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __day job__  
 __day or night__ _idiom_ At any point in time; 24 hours a day.  
 __day tripper__ _You are funny, sitting there like a day tripper._  
@@ -4200,6 +4201,7 @@ __egret__ _n_ :five: Any of various usually white herons having long plumes duri
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __eh?__ _Impressive, eh?_  
 __eight__ :mute:[ei~~gh~~t]  
+__eight-track__ _The eight-track audio tape._  
 __eighty-eights__ Piano.  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
@@ -4814,7 +4816,7 @@ __fillip__ :two::hammer:
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
 __filthy__ Very dirty.  
-__finagle__ _v_ :two: To obtain or achieve by indirect, usually deceitful methods.  
+__finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
 __final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
@@ -6170,6 +6172,7 @@ __hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a sc
 __hatcheck girl__  
 __hatchery__ _A fish hatchery._  
 __hatchet__  
+__hate someone's guts__ _idiom_ Thoroughly despise someone, as in _I hate Peter's guts._ The _guts_ here refers to a person's inner essence.  
 __hatred__ _n_  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
@@ -6453,6 +6456,7 @@ __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.
 __hit (one's) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit and miss__ :two::hammer:  
+__hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn't until he was threatened with losing his job that the comments about John's work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it's not hitting on all eight._  
@@ -7328,6 +7332,7 @@ __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or so
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
+__keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that's gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
@@ -7701,6 +7706,7 @@ __let down__ _phr v_ :two: To disappoint someone by failing to do what they expe
 __let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
 __let somebody down__ _idiom_ To disappoint someone.  
+__let someone go__ _idiom_ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we're going to have to let you go._  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let your hair down__  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
@@ -8961,6 +8967,7 @@ __octoroons__
 __OD__ _v_  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddly enough__  
+__odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odious__  
@@ -9270,7 +9277,7 @@ __overtake<sup>1</sup>__ _n_ _He made overtakes._
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overthink__ _v_  
 __overtime__ :es: horas extras  
-__overtone__ _n_  
+__overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
@@ -9448,6 +9455,7 @@ __party poppers__
 __party__ _n_  
 __partyer__ _n_  
 __parvenu__  
+__pass away__ _idiom_ _euphemism_ To die. _When I pass away, I don't want an elaborate funeral._  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
@@ -9547,7 +9555,7 @@ __pellet__ _n_
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
-__pen name__  
+__pen name__ :two::hammer:  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __penal code__ :mega:  
@@ -9586,7 +9594,7 @@ __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
 __percolator__ _n_  
-__peremptory__  
+__peremptory__ _adj_ :two::hammer:  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfect storm__ _idiom_ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
@@ -10241,6 +10249,7 @@ __profusion__
 __progeny__  
 __prohibit__  
 __Prohibitionists__  
+__proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :two: Using too many words and therefore boring.  
 __prolog__ _n_ :two::hammer:  
@@ -10348,6 +10357,7 @@ __pulled pork sandwich__
 __pulley__ _n_ :pencil2::mega:  
 __pullout__ _Pullout couches._  
 __pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
+__pulp__ _n_ _The pulps were running out of steam._  
 __pulpit__ _n_ :three::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
@@ -11271,7 +11281,7 @@ __safety net__
 __safety pin__ _n_ :es: imperdible  
 __safeword__ _n_ :two::hammer:  
 __saffron__ _n_ :three::hammer: :es: azafrán  
-__sag<sup>1</sup>__ _v_ :seven: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
+__sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
@@ -11713,7 +11723,7 @@ __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._
 __shaved ice__  
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
 __shea oil__  
-__sheaf__  
+__sheaf__ _n_ :two::hammer: (sheaves)  
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
@@ -11755,7 +11765,7 @@ __shift__
 __shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
 __shill<sup>1</sup>__ _n_  
-__shill<sup>2</sup>__ _v_ :two::hammer:  
+__shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
 __shilling__ _I'm not quite the shilling._  
 __shills__ _Government shills._  
 __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
@@ -14422,7 +14432,7 @@ __verdant__ _Verdant hills._
 __verdict__ _n_ :three::hammer::pencil2:  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verge__ _n_ :two::hammer:  
-__verisimilitude__ _n_  
+__verisimilitude__ _n_ :two::hammer:  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  
 __vermillion__  
@@ -14483,7 +14493,7 @@ __vital__ _adj_
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ :two::hammer:  
 __vituperate__ _v_  
-__vituperation__ _n_ :three: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
+__vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vizier__ _n_ :two::hammer:  
