@@ -1,6 +1,17 @@
 
 
 
+__betroth__  
+__thereabout__  
+__propitiate__ :pencil2:  
+__skitter__  
+__pecuniary__ _adj_  
+__venerable__ _adj_  
+__in all seriousness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
+__forebear__ _n_  
+__parsimony__  
+__in all honesty__ _idiom_ In one's sincere opinion; without any disingenuousness. 
+
 __mood story__ :two::hammer:  
 __far cry__  
 __waldo__ _n_ (waldoes)  
