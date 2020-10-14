@@ -1,6 +1,17 @@
 
 
 
+__mood story__ :two::hammer:  
+__far cry__  
+__waldo__ _n_ (waldoes)  
+__ghouls__ _n_  
+__changeover__ _n_  
+__withdrawal__ _Readers suffered withdrawal symptoms._  
+__right on__ _The description of the bomb was right on._  
+__vindicated__ _v_  
+__soliloquy__  
+__fastidious__ _adj_  
+
 __lithe__ _adj_  
 __supple__ _adj_  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
