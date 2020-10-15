@@ -1,6 +1,17 @@
 
 
 
+__adjuvant__ _Adjuvant chemotherapy._  
+__clappy__ _The clappy hold music at your doctor’s office._  
+__think back__ _idiom_  
+__spot-on__ _adj_  
+__surreptitious__  
+__achalasia__ _n_  
+__solace__ _n_  
+__awe walk__  
+__riff__  
+__hapless__ _adj_  
+
 __nose dive__  
 __cagy__ _adj_  
 __peevishly__  
