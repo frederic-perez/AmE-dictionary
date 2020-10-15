@@ -1,6 +1,17 @@
 
 
 
+__nose dive__  
+__cagy__ _adj_  
+__peevishly__  
+__exasperation__  
+__hideout__ _n_  
+__poof__  
+__brooded__ _v_  
+__leeway__  
+__strained__ _A strained voice._  
+__truculent__  
+
 __betroth__  
 __thereabout__  
 __propitiate__ :pencil2:  
