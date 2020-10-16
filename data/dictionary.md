@@ -133,6 +133,7 @@ __accretion__ _n_ :two::hammer: _Ice accretion._
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :three::hammer:  
 __acetate__ _n_  
+__achalasia__ _n_  
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
 __Achilles' heel__ _n_ A seemingly small but actually crucial weakness.  
@@ -192,7 +193,7 @@ __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie w
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjure__ _v_ _Syn_ command  
-__adjuvant__ _adj_ _The adjuvant setting._  
+__adjuvant__ _adj_ :two::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin__ _I was doing just admin stuff._  
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __admixture__ _n_ :two::hammer:  
@@ -739,6 +740,7 @@ __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who 
 __aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
 __awfully__ :mega::two::hammer:_That's awfully nice, thanks._  
@@ -1649,7 +1651,7 @@ __bronco__ _n_ :camera:
 __broncobusting__  
 __brood over__ _idiom_ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
-__brood<sup>2</sup>__ _v_ (brooded)  
+__brood<sup>2</sup>__ _v_ :two::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you're brooding about it — this can be thoughtful or morbidly obsessed. When you're brooding, you might be depressed about something you just can't stop thinking about—like the lead character in Hamlet. Brooding can also mean you're being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
@@ -1912,7 +1914,7 @@ __cafeteria__ :mega: (kăf���ĭ-tîr′ē-ə)
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
-__cagy__ _adj_ Variant of cagey.  
+__cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
 __cajole__ _v_ :eight: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cake-and-punch__ _The cake-and-punch reception._  
@@ -2443,6 +2445,7 @@ __clank__ _v_ :three::hammer: (clanked, clanking)
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
 __clapper__ _He tried to turn somebody into a human bell clapper._  
+__clappy__ _The clappy hold music at your doctor’s office._  
 __claptrap__ _n_  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
@@ -4471,6 +4474,7 @@ __ewes__ _n_
 __ex cathedra__ _adj_ _adv_ With the authority derived from one's office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exasperation__  
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
@@ -6403,6 +6407,7 @@ __hide and seek__ _idiom_ A situation in which one party is constantly evading o
 __hideaway__ _n_  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
+__hideout__ _n_  
 __higgledy-piggledy__  
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
@@ -7664,7 +7669,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :six: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :seven: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
@@ -8871,6 +8876,7 @@ __norovirus__
 __north__ _The owners are seeking north of $20 billion for the company._  
 __nos__ _They got nos._  
 __nose > running noses__  
+__nose dive__  
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
@@ -9545,7 +9551,7 @@ __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their cry
 __peered__ _adj_  
 __peerless__  
 __peeved__ _v_  
-__peevishly__  
+__peevishly__ :two::hammer:  
 __peewee__ _n_  
 __peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
@@ -10003,7 +10009,7 @@ __pony__ _v_
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__ _n_ _slang_ :three: A dog.  
-__poof__ _interj_ Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
+__poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
 __poor man__  
@@ -11010,7 +11016,7 @@ __ride__ _n_ _idiom_ A car.
 __ridership__ :two::hammer:  
 __RIF__ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
-__riff<sup>1</sup>__ _v_ _informal_ :six: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
+__riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
@@ -12356,7 +12362,7 @@ __soil__ _v_
 __soiled__  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__ _n_ :three: Something that makes you feel better when you are sad or upset.  
+__solace__ _n_ :four: Something that makes you feel better when you are sad or upset.  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -12545,7 +12551,7 @@ __spoonful__ _n_ :es: cucharada
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
-__spot on__ _idiom_ :two: (spot-on) British slang for "well done", "perfect" or "right on."  
+__spot on__ _idiom_ :three: (spot-on) British slang for "well done", "perfect" or "right on."  
 __spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spot<sup>2</sup>__ _v_ (spotted)  
 __spotless__  
@@ -12891,7 +12897,7 @@ __straight<sup>2</sup>__ _adj_ _Their second straight win._
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :six::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
-__strained__ _adj_ :three::hammer: _A strained thumb._  
+__strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
 __strait__  
@@ -13105,6 +13111,7 @@ __surmountable__
 __surname__ :two::mega::hammer:  
 __surplice__ _n_  
 __surprise, surprise__ _idiom_ :two: Said ironically of or in a situation in which something very predictable has happened.  
+__surreptitious__  
 __surreptitiously__ _adj_ :three::hammer:  
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
@@ -13523,7 +13530,7 @@ __thigh__ :mute:[thi~~gh~~]
 __thin skin__  
 __thine__  
 __thingy__ :two::hammer:  
-__think back__ To think about a past event or a past time.  
+__think back__ _idiom_ :two: To think about a past event or a past time.  
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
@@ -13978,7 +13985,7 @@ __troy ounce__ :two::hammer:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__truculent__ :two::hammer:  
+__truculent__ _adj_ :three::hammer:  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
 __true colors__ :two::hammer: _He has shown his true colors._  
 __true to form__  
