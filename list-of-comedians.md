@@ -11,6 +11,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
 - [Bob Newhart](https://www.youtube.com/results?gl=US&search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
+- [Bret Ernst](https://www.youtube.com/results?gl=US&search_query=Bret+Ernst)
 - [Cameron Esposito](https://www.youtube.com/results?gl=US&search_query=Cameron+Esposito)
 - [Carl Tart](https://www.youtube.com/results?gl=US&search_query=Carl+Tart)
 - [Carmen Christopher](https://www.youtube.com/results?gl=US&search_query=Carmen+Christopher) is killing it (in a short).
