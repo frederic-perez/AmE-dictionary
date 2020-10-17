@@ -69,7 +69,7 @@ __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/
 __abalone__ _n_ :two::hammer:  
 __abandon__ _Netflix is spending with abandon._  
 __abasement__ _n_  
-__abashed__ :two::hammer:  
+__abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
 __abate__ _v_ (abating)  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
@@ -380,7 +380,7 @@ __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._
 __ambulate__ _v_ To walk from place to place; move about.  
 __ambulation__ _n_ :two::hammer:  
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
-__ameliorate__ _v_  
+__ameliorate__ _v_ :two::hammer:  
 __amenable__  
 __amends__  
 __amenity__ :two::hammer: _Amenity kits._  
@@ -399,7 +399,7 @@ __amount to nothing__ _idiom_ To result in no tangible or appreciable difference
 __amount to__ _idiom_ :three::hammer:  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ _adj_ :five: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :six: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -893,7 +893,7 @@ __bare (one's) teeth__ _idiom_ To display an angry, violent, and/or threatening 
 __bare-bones__ _A bare-bones lab._  
 __barf bag__  
 __barf bucket__  
-__bargain__ _He poured red wine to seal their bargain._  
+__bargain__ _n_ :two::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __bariatric surgery__ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
@@ -2133,7 +2133,7 @@ __catch one's breath__ _idiom_ To pause or rest before continuing an activity or
 __catch onto (something)__ _idiom_  
 __catch some Zs__ _idiom_ To go to sleep, to take a nap.  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
-__catch wind of something__ _idiom_ (get wind of something) To learn of something; to hear about something.  
+__catch wind of (something)__ _idiom_ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catch wind__ _I don't know if you caught wond of it._  
 __catch__ _n_ :two::hammer: (game) _What's the catch?_  
 __Catch-22__ _It's a real Catch-22 situation._  
@@ -2439,7 +2439,8 @@ __clamor__ _v_ __1__ To make loud demands. _He clamored for justice and toleranc
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
-__clang__ _v_  
+__clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
+__clang<sup>2</sup>__ _v_  
 __clanging__ :astonished:  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
@@ -4306,7 +4307,7 @@ __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
-__encroachment__ _n_ :five::hammer:  
+__encroachment__ _n_ :six::hammer:  
 __encumbered__ _v_  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
@@ -5050,7 +5051,7 @@ __fob__ :two::hammer:
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
-__foil<sup>2</sup>__ _v_ :four::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
+__foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :three::hammer: (foisting, foisted)  
 __fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
@@ -5286,7 +5287,7 @@ __fruit juice__ _Items available on the buffet include assorted pastries, fresh 
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __FT__ _Sports_ Full-time.  
-__fuchsia__ _n_ :two::pencil2::hammer:  
+__fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fuck a duck__ _idiom_ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
 __fucking A__ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
@@ -5934,7 +5935,7 @@ __guesswork__ _n_ :two::hammer:
 __guest claim__ _Guest claim no. 170374._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
-__guffaw<sup>1</sup>__ _n_  
+__guffaw<sup>1</sup>__ _n_ :two::hammer:  
 __guffaw<sup>2</sup>__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
@@ -6328,7 +6329,7 @@ __heckle__ _v_ :three::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :seven::dart::hammer: _It was a hectic time._  
+__hectic__ _adj_ :eight::dart::hammer: _It was a hectic time._  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -6407,7 +6408,7 @@ __hide and seek__ _idiom_ A situation in which one party is constantly evading o
 __hideaway__ _n_  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
-__hideout__ _n_  
+__hideout__ _n_ :two::hammer:  
 __higgledy-piggledy__  
 __Higgs boson__ :two::hammer: (popularly known as the "God particle.")  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
@@ -6674,7 +6675,7 @@ __how's life (treating you)?__ _idiom_ How are you? How is everything in your li
 __however much__ _idiom_ No matter how much.  
 __howl__ _v_ :two::hammer:  
 __hub__ _n_ _The wagon's wheels sank to the hubs._  
-__hubbub__ _n_ :three::hammer:  
+__hubbub__ _n_ :four::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -6980,7 +6981,7 @@ __induction__ _n_ :four::hammer: _Induction hall._
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
-__ineffable__ _adj_  
+__ineffable__ _adj_ :two::hammer:  
 __ineffectual__  
 __inequitable__  
 __inequities__  
@@ -10942,7 +10943,7 @@ __retaliate__ _v_
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
 __retention__  
-__rethoric__  
+__rethoric__ :two::mega::hammer:  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
 __retinue__ _n_ :four::hammer: (retinues)  
@@ -11028,7 +11029,7 @@ __rigging__ _v_ _There were revelations of widespread exam rigging against women
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _Rightfully so._  
-__rigmarole__ _n_ :two::hammer: _Rigmarole controls._  
+__rigmarole__ _n_ :three::hammer: _Rigmarole controls._  
 __rigor__  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
@@ -11208,7 +11209,7 @@ __ruefully__ _adv_ :six::hammer: _Dan shook his head ruefully._
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
-__rug rat__ _n_ A young child, a toddler.  
+__rug rat__ _idiom_ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
 __rug__ _n_ :two: Hairpiece, chignon.  
 __rugged__ _adj_ :three::hammer: _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
@@ -12668,7 +12669,7 @@ __staler__ _The air in the place grew staler._
 __Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk out__ _idiom_ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stalk<sup>1</sup>__ _n_  
-__stalk<sup>2</sup>__ _v_  
+__stalk<sup>2</sup>__ _v_ :two::hammer: (stalked)  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stallion__  
 __stalward__  
@@ -14960,7 +14961,7 @@ __womanizer__ _n_ :four::hammer:
 __womanizing__  
 __womb__ :mute:[wom~~b~~]  
 __women__ _n_ /ˈwɪmɪn/ :mega:  
-__wondrous<sup>1</sup>__ _adj_ :four::hammer:  
+__wondrous<sup>1</sup>__ _adj_ :five::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
 __wonky__ :two::hammer: _Wonky details._  

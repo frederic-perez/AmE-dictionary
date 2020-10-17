@@ -1,28 +1,6 @@
 
 
 
-__fuchsia__ _n_ :mega:  
-__ample__ _adj_  
-__hideout__ _n_  
-__foil__ _v_  
-__ameliorate__ _v_  
-__guffaw__ _n_  
-__rut grat__ (?)  
-__catch wind of (something)__ _idiom_ (caught wind)  
-__smitten__ _adj_  
-__rethoric__ :mega:  
-
-__hubbub__ _n_  
-__abashed__  
-__clang__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
-__bargain__ _I have fulfilled my end of the bargain._  
-__stalked__ _v_  
-__rigmarole__  
-__ineffable__  
-__wondrous__  
-__hectic__  
-__encroachment__  
-
 __betroth__  
 __thereabout__  
 __propitiate__ :pencil2:  
