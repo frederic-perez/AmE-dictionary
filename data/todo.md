@@ -1,6 +1,17 @@
 
 
 
+__in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
+__shill__ _n_ _slang_ One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
+__roister__ _v_  
+__newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
+__discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
+__idiolect__ _n_ The variety or form of a language used by an individual.  
+__zinger__ _n_ A witty remarksomething that is lively, interesting, amusing, or impressive.  
+__capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
+__in (one's) heyday__ _idiom_ In, at, or during the period of one's greatest success, power, vigor, etc.  
+__malarkey__ _n_ Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
+
 __betroth__  
 __thereabout__  
 __propitiate__ :pencil2:  
