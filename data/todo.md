@@ -1,6 +1,17 @@
 
 
 
+__rampage__ _v_  
+__wild__ _adj_ :two::hammer:  
+__boo__ _v_ (booed)  
+__chicanery__  
+__Yakuza__  
+__middle ground__ :two::hammer:  
+__someone’s other half__ :two::hammer:  
+__familiar__ _I’m not familiar with it._  
+__self-conscious__ :es: acomplejado (?)  
+__demystify__ _v_  
+
 __apologetic__  
 __ruefully__  
 __clatter__  
