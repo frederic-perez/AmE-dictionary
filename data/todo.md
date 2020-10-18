@@ -1,5 +1,17 @@
 
 
+
+__apologetic__  
+__ruefully__  
+__clatter__  
+__then again__  
+__etched__ _v_  
+__molasses__ _n_  
+__sills__ _n_ _Concrete sills._  
+__jimmied__ _v_  
+__distinct__ _A distinct throwback to the poster covers of the early magazines._  
+__throwback__ _A distinct throwback to the poster covers of the early magazines._  
+
 __strain__ _n_ _A new strain of coronavirus._  
 __dry humor__  
 __ghastly__ _Distract yourself from this ghastly thing we call 2020._  
@@ -9,7 +21,7 @@ __hog__ _v_ __4__ _informal_ To take more than one's share of. _Don't hog the co
 __give (someone) a piece of (one's) mind__ _idiom_ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __scrub__ _v_ __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
-___Rx__ _n_ Prescription.  
+__Rx__ _n_ Prescription.  
 
 __moonstruck__ _adj_  
 __hooly__ _adj_ Careful or gentle.  
