@@ -1149,6 +1149,7 @@ __beta__ _n_ :mega:
 __bethren__ _n_  
 __betoken__ _v_  
 __betray__ _v_ :two::hammer:  
+__betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothed__ _adj_ :three: Engaged to be married.  
 __better known as__ _Miyazaki, better known as Aska._  
 __bettors__  
@@ -2005,6 +2006,7 @@ __cantilevered__
 __canvass__ _v_ :two::hammer::astonished:  
 __cap<sup>1</sup>__ _n informal_ :three: A capital letter. (soccer; hat?)  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
+__capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper<sup>1</sup>__ _n_ :five: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
@@ -3680,6 +3682,7 @@ __disclaimer__ _n_ :two::hammer:
 __discombobulate__ _v_ :pencil2:  
 __discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __discomfiture__ _n_  
+__discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
 __discontinued__ _v_  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
@@ -5118,6 +5121,7 @@ __forceful__ _adj_ :two::hammer: _A forceful pitch._
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
 __fore__ _n_ :four::hammer:  
+__forebear__ _n_  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreboding__ _n_  
 __forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
@@ -6787,6 +6791,7 @@ __id__ _n_
 __ideation__ _n_  
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__  
 __idiosyncratic__ _adj_  
 __idiot box__  
@@ -6864,6 +6869,7 @@ __impromptu__ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __improvident__ _adj_  
 __impunity__  
+__in (one's) heyday__ _idiom_ In, at, or during the period of one's greatest success, power, vigor, etc.  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
 __in a jam__ _idiom_ In a troublesome situation.  
@@ -6871,7 +6877,9 @@ __in a nutshell__
 __in a sorry state__ _idiom_ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ _idiom_ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in abeyance__  
+__in all honesty__ _idiom_ In one's sincere opinion; without any disingenuousness.  
 __in all likelihood__  
+__in all seriousness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
 __in all truthfulness__ _idiom_ In one's sincere opinion; without any disingenuousness.  
 __in and of itself__ _idiom_ Considering it alone.  
 __in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
@@ -6882,6 +6890,7 @@ __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likel
 __in droves__ _They will come in droves._  
 __in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
+__in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
 __in his own right__ _idiom_ by reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
@@ -8073,7 +8082,7 @@ __making waves__ :two::hammer:
 __malady__  
 __malaise__ _n_ :four: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
-__malarkey__ _n_ :dart::four::mega::hammer:  
+__malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
 __malfeasance__ :two::hammer:  
@@ -8771,6 +8780,7 @@ __New Jerusalem__
 __new kid on the block__ _idiom_ Someone who is new in a place or organization.  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
+__newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
 __newly__ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
 __news outlet__  
@@ -9439,7 +9449,7 @@ __parroting__ _v_
 __parry__ _v_  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. _Syn_ stingy, penurious __2__ Sparing, restrained.  
-__parsimony__ _n_ :two::hammer:  
+__parsimony__ _n_ :three::hammer:  
 __parsley__  
 __parsnip__  
 __parsonage__ _n_ :two::pencil2::hammer:  
@@ -9537,7 +9547,7 @@ __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on h
 __peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
-__pecuniary__ _Pecuniary benefits._  
+__pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __peddle__ _v_ :three::hammer: (peddling)  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
@@ -10281,6 +10291,7 @@ __propaganda__ _n_ :astonished:
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
+__propitiate__ :pencil2:  
 __proponent__  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
@@ -11102,6 +11113,7 @@ __roeskin__ _A roeskin belt._
 __rogue__ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
+__roister__ _v_  
 __role model__ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone's) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
@@ -11771,7 +11783,7 @@ __shiet__
 __shift__  
 __shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
-__shill<sup>1</sup>__ _n_  
+__shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
 __shilling__ _I'm not quite the shilling._  
 __shills__ _Government shills._  
@@ -12046,7 +12058,7 @@ __skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
-__skittered__ _v_ :five::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
+__skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
@@ -13517,6 +13529,7 @@ __theosophy__
 __there is no denying__  
 __there is no question__ _There is no question that higher ocean temperatures have resulted in less offshore ice._  
 __there is no way around it/that__ _idiom_ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
+__thereabout__  
 __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
 __thereof__ :two::hammer:  
 __thermistor__ :two::hammer:  
@@ -14420,6 +14433,7 @@ __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order 
 __venality__  
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :five::hammer: (veneers)  
+__venerable__ _adj_  
 __venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
 __venial__ _adj_  
 __venison__ _n_ :four::hammer:  
@@ -15158,7 +15172,7 @@ __zhuzh__ _v_
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
 __zillion__  
-__zinger__ :two::hammer: (zingers) _I've made a few blunders, but had a few zingers too._  
+__zinger__ _n_ :three: (zingers) A witty remark; something that is lively, interesting, amusing, or impressive. _I've made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
 __zip up__ To close something that has a zipper.  
