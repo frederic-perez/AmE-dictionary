@@ -1,5 +1,15 @@
 
 
+__physiology__ _n_  
+__astray__ _adv_ _adj_  
+__candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
+__devout__ _adj_  
+__down-to-earth__ _adj_  
+__buff__ _n_  
+__skin diving__ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
+__keystroke__ _n_  
+__protean__ _adj_  
+__acerbic__ _adj_  
 
 __mood story__ :two::hammer:  
 __far cry__  
