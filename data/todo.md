@@ -1,6 +1,17 @@
 
 
 
+__slicker__  
+__anthologist__  
+__dirk__ _n_ (weapon?)  
+__acclaimed__  
+__dune__ _n_  
+__slide rule__ _n_  
+__chiding__  
+__tinkerer__  
+__wholeheartedly__  
+__plaque__ _Plaque in arteries._  
+
 __strain__ _n_ _A new strain of coronavirus._  
 __dry humor__  
 __ghastly__ _Distract yourself from this ghastly thing we call 2020._  
