@@ -491,7 +491,7 @@ __aplenty__
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
-__apologetic__ _adj_ :four: Very sorry. _That's what I call apologetic hand raise._  
+__apologetic__ _adj_ :five: Very sorry. _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apostasy__  
@@ -1438,7 +1438,7 @@ __bonkers__ _adj_ _informal_ :five: Crazy. _That's bonkers!_
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ :mega: /bō′nəs/  
-__boo<sup>1</sup>__ _v_ :es: abuchear  
+__boo<sup>1</sup>__ _v_ :two::hammer: (booed) :es: abuchear  
 __boo<sup>2</sup>__ _interj_  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_  
@@ -2303,7 +2303,7 @@ __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:
 __chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
-__chicanery__ _n_ :three: The use of clever plans or actions to deceive people.  
+__chicanery__ _n_ :four: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __chicken feed__ _idiom_ A small amount of money.  
@@ -2463,7 +2463,7 @@ __class action__
 __classic__ _adj_  
 __classical__ _adj_  
 __classy__ :two::hammer:  
-__clatter__ _n_ :two::hammer: _The clatter of the Telex machines._  
+__clatter__ _n_ :three::hammer: _The clatter of the Telex machines._  
 __claw back__ _v_  
 __claw machine__ _n_ :camera:  
 __claw<sup>1</sup>__ _n_  
@@ -3501,6 +3501,7 @@ __demonstrators__
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
 __demure__ _adj_ :three::hammer:  
 __demurely__ _adv_ :three::hammer:  
+__demystify__ _v_  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
 __dendritic__  
@@ -3763,7 +3764,7 @@ __dissuade__ _v_ :pencil2:
 __dissuaded__  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
-__distinct__ :two::hammer:  
+__distinct__ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
 __distinctly__ :two::hammer:  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
@@ -4440,7 +4441,7 @@ __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) to separate
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
 __ETA__ _I believe we have an ETA of six days._  
-__etch__ _v_ :four::hammer: (etched)  
+__etch__ _v_ :five::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ethereal__ _adj_  
@@ -4625,7 +4626,7 @@ __falter__ _v_
 __faltered__ _v_  
 __fame__ _v_  
 __famed__ _adj_ Something that's famed is very well-known, or famous. Your dad's famed brownies are the highlight of every bake sale in town.  
-__familiar__ _No, I'm not familiar._  
+__familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I'm not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _n_ :two::hammer: _It could be feasst or famine._  
 __famished__ _adj_ :two: Very hungry.  
@@ -7229,7 +7230,7 @@ __jigs__ _n_
 __jigsaw__ :two::hammer: (jigsaws)  
 __jilt__ _v_ :two: (jilted: To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow__ :two::hammer: _A Jim Crow county._  
-__jimmied__ _v_  
+__jimmied__ _v_ :two::hammer:  
 __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
 __jingoism__ _n_ :three::hammer:  
@@ -8323,6 +8324,7 @@ __mick__ _n_ :three::hammer:
 __mid-afternoon__  
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
+__middle ground__ _idiom_ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __middle of the road__ _He is a middle of the road singer, and that's a good thing._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
@@ -8456,7 +8458,7 @@ __mogrify__ _v_
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
-__molasses__ _n_ :four::hammer: _Pomegranate molasses._  
+__molasses__ _n_ :five::hammer: _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
 __moldy__ :two::hammer:  
@@ -10617,7 +10619,7 @@ __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
-__rampage<sup>1</sup>__ _v_ :three::hammer:  
+__rampage<sup>1</sup>__ _v_ :four::hammer:  
 __rampage<sup>2</sup>__ _n_ :five::hammer:  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
@@ -11217,7 +11219,7 @@ __rudiment__ _n_
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :four::dart::hammer: _He gave a rueful smile._  
-__ruefully__ _adv_ :six::hammer: _Dan shook his head ruefully._  
+__ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -11613,7 +11615,7 @@ __seldom__ :two::hammer: _People seldom think about their values consciously._
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :two: Having or showing confidence and poise.  
-__self-conscious__ _adj_ :three::hammer:  
+__self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
@@ -11967,7 +11969,7 @@ __signify__ _v_
 __signposting__  
 __siitting duck__  
 __Sikh__  
-__sill__ :two::hammer:  
+__sill__ _n_ :two::hammer: (sills) _Concrete sills._  
 __silly boy__  
 __Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical properties.  
 __Silly String__ _n_ (silly string) Aerosol string.  
@@ -12397,6 +12399,7 @@ __soloist__ _n_ :three::hammer:
 __solvent__ _n_  
 __sombreros__  
 __someone's hair__ _He built the shop to get his hobby out of his wife's hair._  
+__someone’s other half__ :two::hammer:  
 __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
 __somnambulant__ _adj_  
@@ -13523,7 +13526,7 @@ __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving s
 __the writing on the wall__  
 __thecracy__  
 __theist__ _adj_  
-__then again__ _idiom_ :nine: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
+__then again__ _idiom_ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __theocracy__  
 __theosophy__  
 __there is no denying__  
@@ -13596,7 +13599,7 @@ __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful b
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
-__throwback__ :two::hammer: _Throwback uniform._  
+__throwback__ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_  
 __thrum__  
@@ -14869,7 +14872,7 @@ __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
-__wild__ _adj_ :two::hammer: _It's wild!_  
+__wild__ _adj_ :four::hammer: _It's wild!_  
 __wilderness__ _n_ :two::hammer:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
@@ -15087,7 +15090,7 @@ __ya'__ _?_ _Ya' think?_
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
-__yakuza__  
+__yakuza__ :two::hammer:  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  

@@ -1,28 +1,6 @@
 
 
 
-__rampage__ _v_  
-__wild__ _adj_ :two::hammer:  
-__boo__ _v_ (booed)  
-__chicanery__  
-__Yakuza__  
-__middle ground__ :two::hammer:  
-__someone’s other half__ :two::hammer:  
-__familiar__ _I’m not familiar with it._  
-__self-conscious__ :es: acomplejado (?)  
-__demystify__ _v_  
-
-__apologetic__  
-__ruefully__  
-__clatter__  
-__then again__  
-__etched__ _v_  
-__molasses__ _n_  
-__sills__ _n_ _Concrete sills._  
-__jimmied__ _v_  
-__distinct__ _A distinct throwback to the poster covers of the early magazines._  
-__throwback__ _A distinct throwback to the poster covers of the early magazines._  
-
 __strain__ _n_ _A new strain of coronavirus._  
 __dry humor__  
 __ghastly__ _Distract yourself from this ghastly thing we call 2020._  
