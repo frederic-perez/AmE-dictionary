@@ -1,6 +1,17 @@
 
 
 
+__bugger__  
+__verbally__  
+__escapism__ _n_  
+__union__ _n_ (unions) :three::hammer: _Union construction worker._  
+__keep above water__ _idiom_  
+__nerve racking__  
+__touch and go__  
+__apprenticeship__ _Apprenticeship program._  
+__totem pole__ _You’re at the bottom of the totem pole._  
+__gig economy__ :three::hammer:  
+
 __slicker__  
 __anthologist__  
 __dirk__ _n_ (weapon?)  
