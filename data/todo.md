@@ -1,6 +1,17 @@
 
 
 
+__cobweb__ _n_  
+__siphon off__ _v_ _They were siphoning off readers._  
+__space opera__  
+__sweepstakes__  
+__sterling__ _Sterling stories._  
+__flair__  
+__catacombs__ _n_  
+__secret weapon__  
+__welter__ _A welter of chaos._  
+__jet__ _The sky was jet overhead._  
+
 __bugger__  
 __verbally__  
 __escapism__ _n_  
