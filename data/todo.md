@@ -1,5 +1,16 @@
 
-  
+
+
+__enhance__ _v_ :mega:(?) Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
+__limerick__ _n_  
+__bacchanalian__ _adj_  
+__prerogative__ _n_  
+__disinhibition__ _n_ :pencil2:  
+__encumber__ _v_ __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
+__have (someone's) number on it__ _idiom_ To be considered the agent or instrument of one's fate, especially leading to death.  
+__colloquial__ _adj_  
+__adjoin__ _v_ Lie adjacent to another or share a boundary. _Syn_ abut, edge, border, march _Canada adjoins the United States._  
+__in the event that__ _idiom_ If it should happen or be the case that.  
 
 __scowled__ _v_  
 __chortled__ _v_  
