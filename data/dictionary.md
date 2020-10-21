@@ -324,6 +324,7 @@ __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of men
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
+__all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I'm all ears!_  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -376,6 +377,7 @@ __amateur hour__ _idiom_
 __ambitious__  
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
+__ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
 __ambulate__ _v_ To walk from place to place; move about.  
 __ambulation__ _n_ :two::hammer:  
@@ -1568,6 +1570,7 @@ __break a leg__ _idiom_ _exclamation_ :three: Good luck! (A special theatric
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break into__ _phr v_ To enter some place forcibly.  
+__break the bank__ _idiom_ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don't have enough money to go on a vacation right now; I'm afraid it would break the bank._  
 __break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
@@ -2114,7 +2117,7 @@ __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three 
 __cat's horn__ _North Korean markets have everything but a cat's horn._  
 __cat's-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
-__catacombs__  
+__catacombs__ _n_ :two::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
 __catalyst__ :two::hammer:  
@@ -2575,7 +2578,7 @@ __cob__
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble__ _v_ :two::hammer: (cobbled)  
 __cobbler__ _n_  
-__cobweb__ _n_ :five::hammer: (cobwebs)  
+__cobweb__ _n_ :six::hammer: (cobwebs)  
 __cockerel__  
 __cockeyed__ _Cockeyed predictions._  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
@@ -3839,7 +3842,7 @@ __doglegs__ _v_
 __dogsled__  
 __doilies__  
 __doings__ _n_  
-__doldrums__ :two::hammer:  
+__doldrum__ _n_ :three::hammer: (doldrums)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
@@ -4867,7 +4870,7 @@ __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones th
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__fish__ _n_ Plural: fish.  
+__fish__ _pl n_ :two:  
 __fishmonger__ _n_  
 __fissile__ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
@@ -6770,6 +6773,7 @@ __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relat
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
+__I'm with you__ _idiom_ I agree with you. _A: "Ugh, why did we have to get up so darn early?" B: "Hey, I'm with you—I'd rather sleep in. This early wake-up call was all Mom's idea."_  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __Ibuprofen__  
 __ice cream cone__  
@@ -7214,7 +7218,7 @@ __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity
 __jersey snagging__ _football_  
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
-__jet__ _n_ _Low-level jet formation._  
+__jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
 __jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
@@ -7378,7 +7382,7 @@ __kibitz__ _v_
 __kick ass__ :two::hammer:  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
-__kick in__ _phr v_ To start to have an effect or to happen.  
+__kick in__ _idiom_ :two: To start to have an effect or to happen.  
 __kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _Slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
@@ -7900,6 +7904,7 @@ __loner__ Someone who likes being alone.
 __long haul__ _She's in for the long haul._  
 __long hours__ _idiom_ :two::hammer: _The long hours you're putting in may not help._  
 __long shot__  
+__long time no see__ _idiom_ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
@@ -11525,7 +11530,7 @@ __scrub__ _v_ :three::hammer: (scrubbed) _He scrubbed his hands at the sink._
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
-__scrummy__ _adj_ Very delicious.  
+__scrummy__ _adj_ :two: Delicious; lovely.  
 __scrumptious__  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
@@ -11576,7 +11581,7 @@ __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She 
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
-__secret weapon__ _n_ :five: Something that will help you gain a big advantage over your competitors, that they do not know about.  
+__secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ :two::hammer:  
@@ -11977,6 +11982,7 @@ __silo__ _n_ :six::hammer: _A silo-launched missile._
 __silt__ _n_  
 __silver lining__ (See "every cloud has a silver lining.")  
 __silver screen__  
+__silver spoon__ A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase "born with a silver spoon in (one's) mouth.") _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __Silver State__ Nevada.  
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
@@ -12007,6 +12013,7 @@ __sinistrality__ Left-handedness.
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __sinter__ _v_  
+__siphon off__ _v_ _They were siphoning off readers._  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
@@ -12452,6 +12459,7 @@ __sow__ _n_ :four::hammer: _A drunk sow._
 __soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
 __space cadet__ _slang_ A person who is out of touch with reality.  
 __space heater__ _n_  
+__space opera__  
 __space__ _v_ _I spaced on that._  
 __spaceling__ _v_  
 __spackle__ :two::hammer:  
@@ -12800,7 +12808,7 @@ __stepper__ _n_ A professional dancer. _Syn_ hoofer
 __steppes__ _n_  
 __stepping stone__ :two::hammer:  
 __sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship's lantern, symbolizing a beacon of hope._  
-__sterling__ _n_ :three::hammer: _A sterling example._  
+__sterling__ _n_ :four::hammer: _A sterling example._ _Sterling stories._  
 __stern__ _n_ :two::hammer:  
 __stethoscope__ _n_  
 __stew-bums__ _n_  
@@ -13172,8 +13180,7 @@ __sweat it__ _Don't sweat it._
 __sweatpants__  
 __sweep you off your feet__ To fall in love with them very quickly and strongly.  
 __sweeping staircase__ :camera:  
-__Sweepstakes__ _Your Sweepstakes._  
-__sweepstakes__ :two::hammer:  
+__sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _sports_  
 __sweet on someone__ _adj phr_  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
@@ -14734,7 +14741,7 @@ __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
-__welter__ _n_ :two: A confused multitude of things. _A welter of data._  
+__welter__ _n_ :three: A confused multitude of things. _A welter of data._ _A welter of chaos._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  

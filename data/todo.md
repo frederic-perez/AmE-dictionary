@@ -1,28 +1,6 @@
 
 
 
-__ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
-__all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I'm all ears!_  
-__break the bank__ _idiom_ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don't have enough money to go on a vacation right now; I'm afraid it would break the bank._  
-__kick in__ _idiom_  
-__silver spoon__ A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase "born with a silver spoon in (one's) mouth.") _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
-__fish__ _pl n_  
-__long time no see__ _idiom_ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
-__I'm with you__ _idiom_ I agree with you. _A: "Ugh, why did we have to get up so darn early?" B: "Hey, I'm with you—I'd rather sleep in. This early wake-up call was all Mom's idea."_  
-__doldrum__ _n_  
-__scrummy__ _adj_ Delicious; lovely.  
-
-__cobweb__ _n_  
-__siphon off__ _v_ _They were siphoning off readers._  
-__space opera__  
-__sweepstakes__  
-__sterling__ _Sterling stories._  
-__flair__  
-__catacombs__ _n_  
-__secret weapon__  
-__welter__ _A welter of chaos._  
-__jet__ _The sky was jet overhead._  
-
 __bugger__  
 __verbally__  
 __escapism__ _n_  
