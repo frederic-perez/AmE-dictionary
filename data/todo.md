@@ -1,5 +1,16 @@
 
+  
 
+__scowled__ _v_  
+__chortled__ _v_  
+__girdled__ _v_  
+__flitting__ _v_  
+__croaked__ _v_ _Tim croaked gayly._  
+__snarled__ _v_ _The dog snarled and lunged._  
+__lunged__ _v_ _The dog snarled and lunged._  
+__jabbed__ _v_  
+__limply__  
+__laved__ _v_  
 
 __bugger__  
 __verbally__  
