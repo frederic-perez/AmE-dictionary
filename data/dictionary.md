@@ -187,6 +187,7 @@ __ADHD__ _abbr_ Attention deficit hyperactivity disorder.
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
+__adjoin__ _v_ Lie adjacent to another or share a boundary. _Syn_ abut, edge, border, march _Canada adjoins the United States._  
 __adjoining__ _adj_ _An adjoining room._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
@@ -762,6 +763,7 @@ __baby bump__ _Dressing your baby bump._
 __baby formula__ _Baby formula should be "ready-to-feed" or prepared using only filtered water or bottled water._  
 __baby shower__ _n_  
 __babysit__ _v_  
+__bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
 __back away__  
 __back breaker__  
@@ -2372,7 +2374,7 @@ __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many smal
 __chops__ _n informal_ :eight: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ :mute:[c~~h~~ord]  
 __choreography__ :mute:[c~~h~~oreography]  
-__chortle__ _v_ :four::hammer: (chortled, chortles)  
+__chortle__ _v_ :five::hammer: (chortled, chortles)  
 __chorus__ :mute:[c~~h~~orus]  
 __chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
@@ -2634,6 +2636,7 @@ __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of s
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
 __collocation__ _n_ (collocations)  
+__colloquial__ _adj_  
 __collude__ _v_  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
@@ -3097,7 +3100,7 @@ __criticize__ _v_
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
 __critters__ _n_ :three::hammer: _Garden critters._  
-__croak__ _v_ _slang_ :four: (croaked) __1__ To kill. __2__ To die.  
+__croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
 __crock__  
@@ -3720,6 +3723,7 @@ __disillusionment__
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuous__ _adj_ :three: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
+__disinhibition__ _n_ :pencil2:  
 __disinterest__ :two::hammer:  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
@@ -4315,7 +4319,7 @@ __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
-__encumbered__ _v_  
+__encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ _n_  
@@ -4340,6 +4344,7 @@ __engage__ _v_ _I'm engaged with my work._
 __engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engulf__ _v_  
+__enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
 __enjambments__  
 __enjoin__ _v_ (enjoined)  
 __enliven__ _v_  
@@ -4986,7 +4991,7 @@ __flippant__ _adj_ :four::hammer:
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
-__flitter__ _v_ :three: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
+__flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :four::hammer:  
@@ -5568,6 +5573,7 @@ __ginning__
 __gins__ _He passed cotton gins._  
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
+__girdle__ _v_ (girdled)  
 __giridon__  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _Guantanamo?_  
@@ -6207,6 +6213,7 @@ __have (one's) head in the sand__ _idiom_ To refuse to acknowledge or deal with 
 __have (one's) head read__ _idiom_ To have one's logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
 __have (one's) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's) death; to bear the guilt or responsibility of (someone's) death or injury.  
+__have (someone's) number on it__ _idiom_ To be considered the agent or instrument of one's fate, especially leading to death.  
 __have (someone) coming and going__ _idiom_ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
@@ -6910,6 +6917,7 @@ __in tall cotton__ _idiom_ In a time or period of great success or wellbeing; do
 __in the black__ _idiom_ :two: Not in debt, profitable.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ _idiom_ :two::hammer:  
+__in the event that__ _idiom_ If it should happen or be the case that.  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
 __in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
@@ -7156,7 +7164,7 @@ __Ivy League__ :two::hammer: _Ivy League school._
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
-__jab<sup>2</sup>__ _v_ :seven: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
+__jab<sup>2</sup>__ _v_ :eight: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
@@ -7628,6 +7636,7 @@ __laughingstock__
 __launch__ _v_ _Launching the projectile/friend._  
 __laureate__  
 __laurels__  
+__lave__ _v_ (laved)  
 __lavish<sup>1</sup>__ _adj_ :nine::m: __1__ Expending or bestowing profusely. _Lavish donors. Lavish in giving praise to her employees._ __2a__ Expended or produced in abundance. _The lavish attentions of his mother —George Meredith._ __b__ Marked by profusion or excess. _A lavish home._ _Lavish fees._  
 __lavish<sup>2</sup>__ _v_ :two::hammer: (lavished)  
 __lavishly__ _adv_ :three::hammer:  
@@ -7802,12 +7811,13 @@ __lilt__ _n_ _He talked with the Jamaican lilt._
 __lily-livered__ _adj_ Cowardly; timid.  
 __limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
-__limerick__ _n_ (poetry) :four::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
+__limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
 __limned__  
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __limpid__ _adj_  
+__limply__ _adv_  
 __linchpin__ _n_ :six::hammer:  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
@@ -8002,7 +8012,7 @@ __lunch lady__ _She worked as a lunch lady._
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
-__lunge<sup>1</sup>__ _v_ :six::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._  
+__lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
@@ -10170,7 +10180,7 @@ __preposterously__ :two::hammer:
 __preppers__  
 __prepping__ _v_  
 __prequel__  
-__prerogative__ _n_ :five::hammer:  
+__prerogative__ _n_ :six::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :six::hammer:  
@@ -11493,7 +11503,7 @@ __scourer__ _n_ :es: estropajo
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl<sup>1</sup>__ _n_  
-__scowl<sup>2</sup>__ _v_ :five::hammer: (scowled, scowling)  
+__scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one's way quickly or awkwardly up a steep slope or over rough ground by using one's hands as well as one's feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
@@ -12298,7 +12308,7 @@ __snark<sup>2</sup>__ _n_ :five::dart: Combination of "snide" and "remark." Sarc
 __snarky__ _adj informal_ :dart::two: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
 __snarl__ _adj_ _Snarled airport._  
 __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
-__snarl<sup>2</sup>__ _v_ :nine: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
+__snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __snatch__ _v_ :two::hammer:  
