@@ -662,6 +662,7 @@ __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
+__at breakneck speed/pace__ _idiom_ Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at heart__ _Most people are crooks at heart._  
 __at large__ _idiom_  
@@ -1881,7 +1882,7 @@ __bye__ _Football_ _They will come out of the bye snd battle the Bears for the N
 __bygone__  
 __bylaw__  
 __bylaws__  
-__byline__ _n_ :three::hammer: (bylines)  
+__byline__ _n_ :four: (bylines)) A line at the head of a newspaper or magazine article carrying the writer's name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
@@ -4112,6 +4113,7 @@ __durable__ :two::hammer: _The end of durable Red John story line is a new begin
 __duration__  
 __duress__ _n_ :five::hammer:  
 __dust devils__  
+__dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
 __dustman__  
 __dustpan__ :two::hammer:  
@@ -4327,7 +4329,7 @@ __end over end__ _He tossed the cigarette end over end into the wastebasket._
 __end result__  
 __end run__ :two::hammer:  
 __endangerment__  
-__endeared__  
+__endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endocrine__ _n_ :mega:  
@@ -4513,7 +4515,8 @@ __exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
-__exhilarating__ _adj_ :three: causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
+__exhilarated__ _adj_ Very happy and excited.  
+__exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exiguous__ _adj_ :two::hammer:  
 __exodus__  
@@ -4778,6 +4781,7 @@ __fey__ _adj_
 __fez__ _n_  
 __fiancé__ A man who is engaged to be married.  
 __fiancée__ A woman who is engaged to be married.  
+__fiasco__  
 __fiat__ _Military fiat._  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
 __fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless lie.  
@@ -5033,6 +5037,7 @@ __fluffy__
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _v_ :four::hammer: (flummoxed)  
+__flummoxed__ _adj_ Perplexed or bewildered.  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
@@ -5247,6 +5252,7 @@ __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
+__frenetic__ _adj_  
 __frenzy__ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
@@ -5382,8 +5388,7 @@ __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._
 __gallbladder__  
 __galleon__ _n_  
 __galleys__ _n_  
-__galling__ _adj_ :four: Irritating, exasperating, or bitterly humiliating. _A galling loss._  
-__gallon jug__ _Gallon jugs of water._  
+__galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __galloping__  
 __gallows__ _n_  
 __galore__ _adv_  
@@ -7363,6 +7368,7 @@ __keep down__ _phr v_ To prevent something from increasing in size or number.
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that's gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
 __keep it under wraps__ _idiom_ Keep it a secret.  
+__keep one's eyes peeled__ _idiom_ (keep one's eyes skinned) To watch vigilantly (for).  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
 __keep tab(s) (on someone or something)__ _idiom_ :nine::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._ _Ed kept close tabs on his brother._  
 __keep up with__ :two::hammer:  
@@ -9507,6 +9513,7 @@ __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
 __patch up__ _idiom_ :two::dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
+__patent leather__ _n_ :astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don't step on my patent leather shoes._ :es: charol  
 __patently__ :two::hammer: _Patently absurd._ _This is patently false._  
 __pathcasting__  
 __pathetic__  
@@ -11326,6 +11333,7 @@ __saggy__
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
+__salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
 __salacious__ _adj_ :four::hammer: _Salacious music._  
 __salad spinner__ _n_  
 __sales force__  
@@ -11776,6 +11784,7 @@ __sheer yoga pants__ :camera:
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
+__sheesh__ _interj_ Used to express mild annoyance, surprise, or disgust.  
 __sheet rock__  
 __sheet__ _n_ :two:  
 __sheeting__  
@@ -12447,7 +12456,7 @@ __sot__ :two::hammer: _A surly sot._
 __sotto voce__  
 __sought-after__ :two::hammer:  
 __soul__ _n_ :mega:  
-__sound bite__ _n_ :five::hammer::astonished: (sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
+__sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
 __sounding system__  
@@ -12566,7 +12575,7 @@ __split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ :two: __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
-__splurge<sup>2</sup>__ _v_ :six::hammer: (splurged, splurging)  
+__splurge<sup>2</sup>__ _v_ :seven::hammer: (splurged, splurging)  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _A baby's spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
@@ -13080,7 +13089,7 @@ __suffrage__ _n_
 __suffragette__  
 __suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
-__sugar daddy__ _A sugar daddy relationship._  
+__sugar daddy__ _n_ _slang_ :two: A rich usually middle-aged or old man who bestows expensive gifts on a young person in return for companionship or sexual favours. _A sugar daddy relationship._  
 __sugarcoat__ _v_  
 __sugary yogurt__  
 __suicide vests__  
@@ -13936,7 +13945,7 @@ __treacherous__ _adj_ :two::hammer:
 __treachery__ _n_ :four::hammer:  
 __treacle__  
 __treacly__ :two::hammer:  
-__tread water__ _idiom_ :two::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly).  
+__tread water__ _idiom_ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one's status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one's head above water by remaining upright and pumping the legs.”  
 __treading__  
 __treasure__ _v_ :four::hammer:  
 __treat<sup>1</sup>__ _v_  
@@ -14300,7 +14309,7 @@ __untoward__ _adj_ :two::hammer:
 __untuck__ _v_  
 __unwarranted__  
 __unwielding__  
-__unwieldy__  
+__unwieldy__ _adj_ :two::hammer:  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
 __unwittingly__ :two::hammer:  
@@ -14518,7 +14527,7 @@ __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._
 __villas__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :eight::hammer: (vindicated)  
-__vindication__ _n_ :seven::hammer:  
+__vindication__ _n_ :eight::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
 __viper__ _n_ :three::hammer: (vipers)  
