@@ -1,5 +1,16 @@
 
 
+__keep one's eyes peeled__ _idiom_ (keep one's eyes skinned) To watch vigilantly (for).  
+__sheesh__ _interj_ Used to express mild annoyance, surprise, or disgust.  
+__sugar daddy__ _n_ _slang_ A rich usually middle-aged or old man who bestows expensive gifts on a young person in return for companionship or sexual favours.  
+__galling__ _adj_ Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._  
+__unwieldy__ _adj_  
+__flummoxed__ _adj_ Perplexed or bewildered.  
+__frenetic__ _adj_  
+__at breakneck speed/pace__ _idiom_ Extremely and often dangerously fast. _He drove away at breakneck speed._  
+__exhilarated__ _adj_ Very happy and excited.  
+__tread water__ _idiom_ Expend effort that maintains one's status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one's head above water by remaining upright and pumping the legs.”  
+
 __vindication__ _n_  
 __byline__ _n_ A line at the head of a newspaper or magazine article carrying the writer's name.  
 __soundbite__ _n_ (sound bite)  
