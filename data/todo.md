@@ -1,5 +1,15 @@
 
 
+__vindication__ _n_  
+__byline__ _n_ A line at the head of a newspaper or magazine article carrying the writer's name.  
+__soundbite__ _n_ (sound bite)  
+__endear__ _v_ (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
+__dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
+__splurged__ _v_  
+__trickle__ _n_ Flowing in drops; the formation and falling of drops of liquid.  
+__salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
+__patent leather__ _n_ Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don't step on my patent leather shoes._ :es: charol  
+__fiasco__  
 
 __bugger__  
 __verbally__  
