@@ -1,6 +1,17 @@
 
 
 
+__kindred__ _adj_ adj. __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
+__eggcorn__ _n_  
+__rap sheet__  
+__everyday__ _adj_  
+__mote__ _n_ _A dust mote._  
+__crotchety__ _adj_ __1__ _informal_ Cross; irritable; contrary.  
+__lambasting__  
+__bamboozle__ _v_  
+__lap dog__ __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one's lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
+__off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
+
 __gathering__ _n_ _Family gathering._  
 __overcast__ _adj_  
 __resuscitate__ _v_ :astonished:  
