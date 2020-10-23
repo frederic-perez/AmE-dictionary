@@ -1,5 +1,17 @@
 
 
+
+__burgeon__ _v_  
+__gaggle__ _A gaggle of mystery digests._  
+__fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
+__juvenile__ _Starship Soldier was a juvenile written by Heinlein._  
+__protégé__  
+__pique__ _A great story had not only to pique the imagination, it had to touch the heart._  
+__slick__ :two::hammer: _Slick magazines._ _A slick paper magazine._  
+__cajoling__ _v_  
+__strangely enough__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+__far and between__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+
 __bugger__  
 __verbally__  
 __escapism__ _n_  
