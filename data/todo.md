@@ -1,6 +1,17 @@
 
 
 
+__gathering__ _n_ _Family gathering._  
+__overcast__ _adj_  
+__resuscitate__ _v_ :astonished:  
+__slight__ _n_  
+__clamor__ _v_ (clamoring)  
+__perioperative__ _Perioperative morbidity._  
+__menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman's life.  
+__skeins__ _Catapult skeins._  
+__dabbled__ _He was dabbled in zoology._  
+__ascribe__ _v_ (ascribed)  
+
 __burgeon__ _v_  
 __gaggle__ _A gaggle of mystery digests._  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
