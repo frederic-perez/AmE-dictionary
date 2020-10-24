@@ -610,7 +610,7 @@ __ascent__ :mute:[as~~c~~ent]
 __ascertain__ _v_ :three::hammer:  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :six::hammer: (ascribed)  
+__ascribe__ _v_ :seven::hammer: (ascribed)  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
@@ -862,7 +862,7 @@ __baloney__ _n informal_ (bologna) :two: Nonsense.
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
-__bamboozle__ _v_ :two::hammer:  
+__bamboozle__ _v_ :three::hammer:  
 __banalize__ _v_  
 __bandanna__ :two::hammer:  
 __bandit__ _n_  
@@ -2443,7 +2443,7 @@ __clambake__ _n_
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
 __clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
-__clamor__ _v_ __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
+__clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
@@ -3130,7 +3130,7 @@ __crossing t's__ _Crossiing our t's and dotting our i's._
 __crossover__ _Crossover zone._  
 __crossroad__ _At a crossroad._  
 __crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
-__crotchety__  
+__crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch__ :two::hammer:  
 __crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
@@ -3272,7 +3272,7 @@ __D'oh__ _slang_ Exclamation used when you realize that you did something stupid
 __D&D__ :two::hammer:  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
-__dabble__ _v_ :four::hammer: (dabbled, dabbling)  
+__dabble__ _v_ :five::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
@@ -4208,7 +4208,7 @@ __egg head__ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
-__eggcorn__ _n_  
+__eggcorn__ _n_ :two::hammer:  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
@@ -4477,7 +4477,7 @@ __every other__ _A new cartoon will be published every other Sunday._
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
 __every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
-__everyday__ _adj_ :two::pencil2: Very common or completely normal, and often not very interesting.  
+__everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ :two::hammer:  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn't evince surprise._  
@@ -5446,6 +5446,7 @@ __gasolene__ :two::hammer::pencil2:
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
 __gatekeeper__ _n_  
+__gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
@@ -7429,7 +7430,7 @@ __kindle__ _v_ _To kindle a fire._
 __kindling__ :two::hammer:  
 __kindred spirit__ _idiom_ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we're both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
-__kindred<sup>2</sup>__ _adj_ :two::hammer:  
+__kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
 __king of the hill__ _idiom_ :two: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won't help._  
@@ -7588,6 +7589,7 @@ __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
 __Laotian__  
+__lap dog__ __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one's lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
 __lap pool__  
 __lap<sup>1</sup>__ _n_ _The project's amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
@@ -8294,6 +8296,7 @@ __memorandum__ :two::hammer:
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __memos__  
 __menagerie__ _n_ :two::hammer:  
+__menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman's life.  
 __mendacity__  
 __mending__ _Mending flesh._  
 __menial__ _n_  
@@ -8557,7 +8560,7 @@ __mosh__
 __mosque__ _n_ :two::hammer: (mosques)  
 __most of the time__ _Most of the time I do my breakfast._  
 __mot juste__ _n_ The appropriate word or expression.  
-__motes__ _n_  
+__mote__ _n_ :two::hammer: (motes) _A dust mote._  
 __moth__ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
@@ -9020,6 +9023,7 @@ __of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characterist
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
+__off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting._The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __off__ :two::hammer: _He knew that from the off._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
@@ -9293,6 +9297,7 @@ __overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching p
 __overbite__ _n_ :two::hammer:  
 __overblown__  
 __overboard__ _To go overboard._  
+__overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
 __overdo__ _v_  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It's a 1984 Volvo DL, four speed with overdrive._  
@@ -9649,6 +9654,7 @@ __perilous__ _adj_
 __perinatal__  
 __periodontal__ _Periodontal health._  
 __periodontist__ _n_  
+__perioperative__ _Perioperative morbidity._  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
@@ -10663,7 +10669,7 @@ __ransack__ _v_ :five::hammer: (ransacked)
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
-__rap sheet__ _n_ _slang_ A record kept by law-enforcement authorities of a person's arrests and convictions.  
+__rap sheet__ _n_ _slang_ :two: A record kept by law-enforcement authorities of a person's arrests and convictions.  
 __rap__ _South has a bad rap._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
@@ -10973,6 +10979,7 @@ __restrain__ _v_ _Adding competition could restrain prices._
 __restraint__ _n_ :two::hammer:  
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
+__resuscitate__ _v_ :astonished:  
 __retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
@@ -12059,7 +12066,7 @@ __skag__
 __skank__ _v_ (?)  
 __skate__ _v_ :three::hammer: _He don't let nobody skate unless it's for money._  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
-__skein__ _n_ :three: A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_  
+__skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
 __skell__ _How you like it, skell?_  
 __skeptic__ _adj_ :pencil2:  
 __sketchy__  
@@ -12163,7 +12170,7 @@ __slider__ _n_ :four::hammer: _What's up with someone's slider?_
 __sliders__ _n_ (food)  
 __slight<sup>1</sup>__ _adj_  
 __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don't slight your work._  
-__slight<sup>3</sup>__ _n_ :eight: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
+__slight<sup>3</sup>__ _n_ :nine: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly-built__ _The slightly-built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
