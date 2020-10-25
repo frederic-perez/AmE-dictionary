@@ -1,6 +1,17 @@
 
 
 
+__in a measure__ _idiom_ To a certain degree or extent; somewhat.  
+__visage__ _n_ :mega:  
+__dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
+__zenith__ _n_ :mega:  
+__opposition__ _n_ :mega:  
+__Taurus__ _n_ :mega:  
+__equinox__ _n_ :mega:  
+__Sagittarius__ _n_ :pencil2:  
+__in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
+__in (someone's) view__ _idiom_ In someone's opinion.  
+
 __barrel__ _v_ _informal_ To move or progress rapidly. _A truck barreling toward you._  
 __hosanna__ _A thousand hosannas._  
 __innards__  
