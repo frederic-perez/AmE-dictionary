@@ -1,28 +1,6 @@
 
 
 
-__in a measure__ _idiom_ To a certain degree or extent; somewhat.  
-__visage__ _n_ :mega:  
-__dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
-__zenith__ _n_ :mega:  
-__opposition__ _n_ :mega:  
-__Taurus__ _n_ :mega:  
-__equinox__ _n_ :mega:  
-__Sagittarius__ _n_ :pencil2:  
-__in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
-__in (someone's) view__ _idiom_ In someone's opinion.  
-
-__barrel__ _v_ _informal_ To move or progress rapidly. _A truck barreling toward you._  
-__hosanna__ _A thousand hosannas._  
-__innards__  
-__ample__  
-__cashier__ _n_  
-__sundry__  
-__holy cannoli__ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?!_  
-__best__ _v_ To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
-__grumbling__ _n_  
-__vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
-
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __peak__ _v_  
 __dorm__ _n_  

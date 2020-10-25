@@ -402,7 +402,7 @@ __amount to nothing__ _idiom_ To result in no tangible or appreciable difference
 __amount to__ _idiom_ :three::hammer:  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
-__ample__ _adj_ :six: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :seven: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -918,7 +918,7 @@ __barrel bombs__
 __barrel of laugh__ _idiom_ :two: Someone who is very funny.  
 __barrel of laughs__ _idiom_ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank's barrel._  
-__barrel<sup>2</sup>__ _v_ :two::hammer: _A truck barreled down the road._ _Callous barreling against traffic._  
+__barrel<sup>2</sup>__ _v_ _informal_ :three: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__ _adj_ :two::hammer:  
 __barrette__ :two::hammer:  
@@ -1148,7 +1148,7 @@ __bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Sociali
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
-__best__ _v_ :three::hammer: (bested)  
+__best__ _v_ :four: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
@@ -2098,7 +2098,7 @@ __cash bar__ :camera: _The cost is $30 per person with a cash bar._
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
 __cash flow__  
 __cash rebate__  
-__cashier__ _n_ A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
+__cashier__ _n_ :two: A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that's right._  
 __cassava__ _n_  
@@ -3886,6 +3886,7 @@ __Doritos__ :mega: _A bag of Doritos (corn chips)._
 __dork__ _n_ :three: __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dormant__  
 __dormer__ _n_ :camera:  
+__dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dot__ _v_ (dotted) Mark with a dot.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -4413,7 +4414,7 @@ __equalizer__ :two::hammer:
 __equerries__  
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
-__equinox__  
+__equinox__ _n_ :two::mega::hammer:  
 __equip__ _v_  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
@@ -5942,7 +5943,7 @@ __gruelling__
 __gruff__ _adj_ :five::hammer:  
 __gruffly__  
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
-__grumblings__  
+__grumbling__ _n_ :two::hammer: (grumblings)  
 __grungy__ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
@@ -6567,6 +6568,7 @@ __holistic__ _adj_ :eight::hammer: _My holistic system._
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
+__holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?!_  
 __holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
 __Holy Ghost__  
 __holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
@@ -6649,6 +6651,7 @@ __horsetails__ _n_
 __hortatory__ _adj_ Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
+__hosanna__ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
@@ -6889,8 +6892,10 @@ __improvident__ _adj_
 __impunity__  
 __in (one's) heyday__ _idiom_ In, at, or during the period of one's greatest success, power, vigor, etc.  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
+__in (someone's) view__ _idiom_ In someone's opinion.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
 __in a jam__ _idiom_ In a troublesome situation.  
+__in a measure__ _idiom_ To a certain degree or extent; somewhat.  
 __in a nutshell__  
 __in a sorry state__ _idiom_ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ _idiom_ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
@@ -6935,6 +6940,7 @@ __in the nude__ _Sleeping in the nude._
 __in the offing__  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
@@ -7057,7 +7063,7 @@ __inkling__ _n_ :six::hammer:
 __inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
-__innards__ _n_ _informal_ :three: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
+__innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innumerate__  
@@ -9160,6 +9166,7 @@ __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Charac
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
+__opposition__ _n_ :mega:  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opticks__ _Obsolete form of optics._  
@@ -11337,6 +11344,7 @@ __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
+__Sagittarius__ _n_ :pencil2:  
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
@@ -13124,7 +13132,7 @@ __Sunday__ :mega: /'söndi, -deI/
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
-__sundry__  
+__sundry__ :two::hammer:  
 __sunken__  
 __suntan__ _n_  
 __super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
@@ -13412,6 +13420,7 @@ __tatty__ _adj_
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :seven::hammer: (taunted, taunting)  
 __taupe__  
+__Taurus__ _n_ :mega:  
 __taut__ _adj_  
 __tautened__  
 __tautly__  
@@ -14543,7 +14552,7 @@ __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; pr
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
 __vis-à-vis<sup>3</sup>__ _adj_ Face to face; opposite.  
-__visage__ _n_ __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
+__visage__ _n_ :two::mega: __1__ The face or facial expression of a person; countenance. __2__ Appearance; aspect: _the bleak visage of winter._  
 __vise__ _n_  
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :three::hammer: (vistas)  
@@ -14554,6 +14563,7 @@ __vituperate__ _v_
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
+__vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vizier__ _n_ :two::hammer:  
 __vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
@@ -15196,6 +15206,7 @@ __zealotry__
 __zealous__  
 __zeightgeist__  
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
+__zenith__ _n_ :mega:  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
