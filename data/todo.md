@@ -1,5 +1,16 @@
 
+  
 
+__in-your-face__ _An in-your-face farewell._  
+__in her own right__  
+__floe__ _n_ _Ice floe._  
+__by-and-by__ (?)  
+__discontinued__ _adj_ _The magazine was discontinued in 1958._  
+__novelette__  
+__byline__ _n_ :two::hammer: (bylines)  
+__hurly-burly__ _A hurly-burly of writers._  
+__veneer__ _A veneer of quality._  
+__decidedly__  
 
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __peak__ _v_  
