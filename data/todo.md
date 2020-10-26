@@ -1,6 +1,17 @@
 
   
 
+__draw a line__  
+__undermine__ _v_  
+__black lung__ _You can die of black lung._  
+__red line__ _They’re crossing red lines._  
+__analyze that__ _Analyze that!_  
+__fight tooth and nail__  
+__trade__ _n_  
+__predicament__ _n_  
+__bastion__ _n_  
+__keep above water__ _This is keeping myself above water._  
+
 __in-your-face__ _An in-your-face farewell._  
 __in her own right__  
 __floe__ _n_ _Ice floe._  
