@@ -33,19 +33,19 @@ class Game(object):
                             break # to avoid adding to lists :nine::m: and :nine:
                         num_additions += 1
                         if num_additions > 1:
-                            print FAIL + entry \
-                                + ' <<< Too many numeric tags' + ENDC
+                            print(FAIL + entry \
+                                + ' <<< Too many numeric tags' + ENDC)
 
         input_file.close()
-        print OKCYAN + '\nSummary of high frequency headwords'
-        print '-----------------------------------'
+        print(OKCYAN + '\nSummary of high frequency headwords')
+        print('-----------------------------------')
         for i in range(10, 1, -1):
-            print 'Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[get_index(i)]))
-        print ENDC
+            print('Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[get_index(i)])))
+        print(ENDC)
 
     def print_nine_m(self):
         """Method aimed at learning definitions"""
-        print 'Entries with :nine::m: are:'
+        print('Entries with :nine::m: are:')
         index_9m = get_index(10)
         regex = re.compile(r"<sup>\d</sup>")
         for entry in self.list[index_9m]:
@@ -55,8 +55,8 @@ class Game(object):
             headword_for_wordcloud = headword.replace('__', '')
             headword_for_wordcloud = regex.sub('', headword_for_wordcloud)
             headword_for_wordcloud = headword_for_wordcloud.replace(' ', '~')
-            print headword_for_wordcloud,
-        print '\n'
+            print(headword_for_wordcloud,)
+        print('\n')
 
     def play(self):
         """Method aimed at learning definitions"""
@@ -71,9 +71,9 @@ class Game(object):
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             clean_headword = headword.replace('__', '')
             clean_part_of_speech = part_of_speech.replace('_', '')
-            print FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC
+            print(FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC)
             # print OKCYAN + '  ' + entry + ENDC
-            print format_to_print(entry)
+            print(format_to_print(entry))
             question += 1
             user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
             do_quit = user_response == 'q'
@@ -85,5 +85,4 @@ if __name__ == '__main__':
     game.gather_high_frequency_headwords()
     game.print_nine_m()
     game.play()
-    print "Bye!"
-
+    print("Bye!")
