@@ -1,5 +1,15 @@
 
 
+__reasoned__ _v_  
+__gentility__  
+__free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
+__gush__ _v_  
+__decal__ _n_  
+__hitherto__  
+__take a leak__  
+__name of the game__  
+__sulking__ _v_  
+__so-so__ _The glass business was a so-so money maker._  
 
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __peak__ _v_  
