@@ -1,5 +1,16 @@
 
 
+__in(to) shape__ _idiom_ In good, robust health; strong or fit.  
+__profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
+__quotidian__ _adj_  
+__in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
+__bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
+__Cassandra__ _n_ A prophet of misfortune or disaster. _Syn_ doomsayer, pessimist, worrywart  
+__cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
+__in (someone's) wheelhouse__ _idiom_ In, related to, or matching someone's general interests, abilities, or area of familiarity; in someone's comfort zone.  
+__panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
+__guttersnipe__ _n_ A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin  
+
 __reasoned__ _v_  
 __gentility__  
 __free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
