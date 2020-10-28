@@ -938,7 +938,7 @@ __basket case__
 __bass__ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
-__bastion__ _n_ :three::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
+__bastion__ _n_ :four::hammer: _He tried to soften the National Front's image as a bastion of xenophobes._  
 __bat an eye__ _idiom_ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn't even bat an eye when I told her I was moving out._  
 __bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
@@ -1242,6 +1242,7 @@ __biz__ _n_ :two::hammer: _Hot biz model._
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black belt__  
 __black gold__  
+__black lung__ _You can die of black lung._  
 __black out__ _v_ :two::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
@@ -1877,12 +1878,13 @@ __by the book__ _idiom_ :two: In a way that strictly adheres to the established 
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by the same token__ :two::hammer:  
 __by trade__ _idiom_ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I'm an engineer by trade._  
+__by-and-by__ An indefinite time in the future. _He'll get around to it in the sweet by-and-by._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
 __bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
 __bylaw__  
 __bylaws__  
-__byline__ _n_ :four: (bylines)) A line at the head of a newspaper or magazine article carrying the writer's name.  
+__byline__ _n_ :six: (bylines)) A line at the head of a newspaper or magazine article carrying the writer's name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
@@ -3400,6 +3402,7 @@ __decant__ _v_ :two::hammer:
 __decanter__ _n_ :two::hammer:  
 __decathlon__  
 __deceit__ _n_  
+__decidedly__ _adv_ Without question and beyond doubt. _It was decidedly too expensive._  
 __decidious__ _adj_  
 __decimate__ _v_ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
@@ -3692,7 +3695,7 @@ __discombobulater__ _Now more than ever, there is little room for navel-gazers, 
 __discomfiture__ _n_  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
-__discontinued__ _v_  
+__discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
 __discouraging__  
@@ -3971,6 +3974,7 @@ __dramedy__
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
 __draw a blank__ _idiom_  
+__draw a line__  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I'll draw some blood to be sure._ _We win, lose and draw together._  
@@ -4814,6 +4818,7 @@ __fifth wheels__
 __fig leaf__ _Seeking a "big leaf."_  
 __fight club__  
 __fight or flight__ _idiom_ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
+__fight tooth and nail__  
 __fight__ :mute:[fi~~gh~~t]  
 __figments__  
 __figuratively__ _adv_  
@@ -5003,7 +5008,7 @@ __float<sup>2</sup>__ _v_ :four::hammer:
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flodaway__ _Foldaway bed._  
-__floe__ _n_  
+__floe__ _n_ :two::hammer: _Ice floe._  
 __flog__ _v_ :four::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
@@ -6743,6 +6748,7 @@ __hurdle__ _n_ :two::hammer:
 __hurdy-gurdy__  
 __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
+__hurly-burly__ _A hurly-burly of writers._  
 __hurricane lamp__ _n_  
 __hurricane__  
 __hurtle__ _v_ :two::hammer: (hurtling)  
@@ -6914,7 +6920,7 @@ __in droves__ _They will come in droves._
 __in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
-__in his own right__ _idiom_ by reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
+__in his own right__ _idiom_ :two: By reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
@@ -6950,6 +6956,7 @@ __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They
 __in-depth__ _He will conduct an in-depth review._  
 __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
 __in-laws__ _A room for the in-laws._  
+__in-your-face__ _An in-your-face farewell._  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
@@ -7369,6 +7376,7 @@ __keel<sup>2</sup>__ _n_
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
+__keep above water__ _This is keeping myself above water._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
@@ -8937,6 +8945,7 @@ __notwithstanding__ _prep_ :five::hammer:
 __nought__ :mute:[nou~~gh~~t]  
 __noun__ _n_  
 __nova__  
+__novelette__  
 __novella__  
 __novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Buy a novelty T-shirt._  
 __now (that) you mention it__ _idiom_ An expression used when one remembers or realizes something because of what the other person has just said.  
@@ -10174,7 +10183,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :eight::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
+__predicament__ _n_ :nine::hammer: _I'm sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter's predicament._  
 __preeminent__ _adj_ :three::hammer:  
 __preempt__ _v_  
 __preemptive__  
@@ -10820,6 +10829,7 @@ __red eye__
 __red flag__ _n_ :two: Something that irritates or demands immediate action. _Red flag day._  
 __red herring__  
 __red hot__ :two::hammer: _Now the market is red hot._  
+__red line__ _They’re crossing red lines._  
 __red pill__ _idiom_  
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
@@ -13916,6 +13926,7 @@ __tractography__ _n_
 __tractor trailer__ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
 __trade paperback__  
+__trade__ _n_  
 __trade-off__ _She has to make trade-offs._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
@@ -14226,7 +14237,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :seven::hammer: (undermined)  
+__undermine__ _v_ :eight::hammer: (undermined)  
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
@@ -14477,7 +14488,7 @@ __velvet__ _n_ :two::hammer::camera: _Velvet rose._
 __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
 __venality__  
 __vendor__ _n_ :two::hammer:  
-__veneer__ _n_ :five::hammer: (veneers)  
+__veneer__ _n_ :six::hammer: (veneers) _A veneer of quality._  
 __venerable__ _adj_  
 __venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
 __venial__ _adj_  
