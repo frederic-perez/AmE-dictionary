@@ -1023,6 +1023,7 @@ __bedfellow__
 __bedlam__ _n_ :three: Scene of loud confusion.  
 __Bedouin__  
 __bedpan__ _n_  
+__bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
 __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
 __bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
 __bedrock__ _n_ :seven: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who's interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean "the heart of the matter," or "the basic, fundamental principles." For example, you might say that fairness and freedom is the bedrock of a good government.  
@@ -2103,6 +2104,7 @@ __cash rebate__
 __cashier__ _n_ :two: A cashier is someone who works at a store ringing up people's purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that's right._  
+__Cassandra__ _n_ A prophet of misfortune or disaster. _Syn_ doomsayer, pessimist, worrywart  
 __cassava__ _n_  
 __casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa meaning "melting pan."  
 __casserole<sup>2</sup>__ _v_  
@@ -3174,6 +3176,7 @@ __crybaby__ _n_ A person who cries or complains frequently with little cause.
 __cryotherapy__  
 __cryptojacking__  
 __cryptomining__  
+__cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
 __crystal clear__  
 __crystal meth__  
 __crystal__ _Meth?_  
@@ -3395,7 +3398,7 @@ __deburr__ _v_
 __debut__ :mute:[debu~~t~~]  
 __debutante__  
 __decaf__ Decaffeinated coffee.  
-__decal__ _n_  
+__decal__ _n_ :two::hammer:  
 __decals__  
 __decamped__ _v_  
 __decant__ _v_ :two::hammer:  
@@ -5251,6 +5254,7 @@ __free rein__
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
+__free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :eight::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
@@ -5487,6 +5491,7 @@ __generic__ _A generic diet cola._
 __genial__ _adj_ Friendly and kind.  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ :two::hammer:  
+__gentility__  
 __gentleman's agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
@@ -6009,7 +6014,7 @@ __gunwhale__ :two::hammer:
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
-__gush<sup>1</sup>__ _n_  
+__gush<sup>1</sup>__ _n_ :two::hammer:  
 __gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
 __gushing__ _adj_  
 __gushy__  
@@ -6024,6 +6029,7 @@ __guts__ _n_ _slang_ Courage.
 __gutsy__  
 __gutted__ _adj_ _informal_ Disappointed and upset.  
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
+__guttersnipe__ _n_ A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin  
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
 __guzzler__ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
@@ -6510,7 +6516,7 @@ __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this 
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither and thither__ :two::hammer::pencil2:  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
-__hitherto__ _adv_ :three::hammer:  
+__hitherto__ _adv_ :four::hammer:  
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __hiya__ _interj_ An informal term of greeting.  
@@ -6899,6 +6905,7 @@ __impunity__
 __in (one's) heyday__ _idiom_ In, at, or during the period of one's greatest success, power, vigor, etc.  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
 __in (someone's) view__ _idiom_ In someone's opinion.  
+__in (someone's) wheelhouse__ _idiom_ In, related to, or matching someone's general interests, abilities, or area of familiarity; in someone's comfort zone.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a measure__ _idiom_ To a certain degree or extent; somewhat.  
@@ -6937,6 +6944,7 @@ __in the doghouse__ _idiom_ :two::hammer:
 __in the event that__ _idiom_ If it should happen or be the case that.  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the fold__ _They kept the devious students in the fold._  
+__in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
 __in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
@@ -6957,6 +6965,7 @@ __in-depth__ _He will conduct an in-depth review._
 __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
 __in-laws__ _A room for the in-laws._  
 __in-your-face__ _An in-your-face farewell._  
+__in(to) shape__ _idiom_ In good, robust health; strong or fit.  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
@@ -8727,7 +8736,7 @@ __nail it__
 __nails__ _n_  
 __naïveté__  
 __namaste__ _interj_  
-__name of the game__ _n_ _slang_ The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _"The name of the game was to get the story" (David Fitzpatrick)._  
+__name of the game__ _n_ _slang_ :two: The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _"The name of the game was to get the story" (David Fitzpatrick)._  
 __name-and-likeness__  
 __name-calling__  
 __name-drop__ _v_ To mention casually the names of famous or important people to create the impression that one is familiar with them in an attempt to impress or influence others.  
@@ -9423,6 +9432,7 @@ __panderer__ _n_
 __pang__ _n_ (pangs) :four::hammer:  
 __panhandle__ _v_  
 __panhandling__  
+__panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
 __panko__ _n_  
 __panned out__  
 __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
@@ -10304,6 +10314,7 @@ __profanity__ _n_ :two::hammer: _Shouting profanities._
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __profiteering__  
+__profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
@@ -10594,6 +10605,7 @@ __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick 
 __quondam__ _adj_ Of an earlier time; former: _her quondam lover._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ :two::hammer:  
+__quotidian__ _adj_  
 __Quran__  
 __R/O__ _abbr_ Rule out.  
 __rabbit hole__ _idiom_ :three::hammer: _We fell into the poop rabbit hole again in this episode._  
@@ -10779,6 +10791,7 @@ __reamer__ _n_
 __reap__ _Reaping the benefits._  
 __reappraise__ :es: valorar  
 __reasonable__  
+__reasoned__ _v_  
 __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a grid of such bars.  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
@@ -12399,7 +12412,7 @@ __so much so that__ _idiom_ To such an extent or large degree that. _The interes
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
-__so-so__  
+__so-so__ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
 __soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_  
@@ -13121,7 +13134,7 @@ __suicide vests__
 __suit up__ _v_  
 __suitors__ :two::hammer:  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
-__sulk<sup>2</sup>__ _v_ :two: To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
+__sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ :two::hammer:  
 __sullenly__  
@@ -13319,6 +13332,7 @@ __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have 
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
+__take a leak__  
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
 __take a stand__  
