@@ -1,5 +1,16 @@
 
 
+__in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
+__contentious__ _adj_ Inclined or showing an inclination to dispute or disagree, even to engage in lawsuits. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
+__in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
+__subjugate__ _v_ Make subservient; force to submit or subdue. _Syn_ subject  
+__futile__ _adj_  
+__roger__ _interj_ __1__ _informal_ All right; OK.  
+__mardy__ _adj_  
+__doldrum__ _n_  
+__scunner__ _n_ A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo  
+__hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
+
 __fab__ _adj_ _slang_ A shortening of "fabulous," meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
 __get the drift of something__ _idiom_ To understand the general idea of something. _I knew enough German to get the drift of this article. I don't get the drift of what you're trying to tell me._  
 __specious__ _adj_  
