@@ -1824,9 +1824,9 @@ __businesspeople__ _n_
 __busker__  
 __busload__  
 __bust out__ _She clearly has something busting out._  
-__bust__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
+__bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
+__bust<aup>2</sup>__ _v_:three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustiers__ _n_  
-__busting__ _v_ :two::hammer: _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ An alert and energetic person.  
@@ -2833,7 +2833,7 @@ __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ 
 __contended__ _adj_ Happy and satisfied with your life. _He was happy and contended._  
 __content__ _adj_ :three::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
-__contentious__ _adj_ :eight: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight.  
+__contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
 __contested shot__ _n_ (vs uncontested shot)  
 __contextualize__ _v_ :dart::three:  
 __contiguous > the contiguous U.S.__  
@@ -3853,7 +3853,7 @@ __doglegs__ _v_
 __dogsled__  
 __doilies__  
 __doings__ _n_  
-__doldrum__ _n_ :three::hammer: (doldrums)  
+__doldrum__ _n_ :four::hammer: (doldrums)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
@@ -4017,6 +4017,7 @@ __drink and use__
 __drink like a fish__ To drink too much alcohol.  
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
+__drive someone batty__ _idiom_ (drive someone nuts) To annoy or irritate someone. _You are certainly annoying! You're going to drive me batty. These tax forms are driving me nuts._  
 __drive__ _The drive by Senate Democrats to change the rules._  
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
@@ -4586,6 +4587,7 @@ __eyewear__
 __F-bomb__  
 __f-ing__  
 __Fab Four__ The Beatles.  
+__fab__ _adj_ _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
 __fabled__  
 __fabric softener__  
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
@@ -5370,7 +5372,7 @@ __fusillade__ _n_ :two::hammer:
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
-__futile__ _adj_  
+__futile__ _adj_ :two::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
@@ -5535,6 +5537,7 @@ __get set__ _v_
 __get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
 __get the better of (someone or something)__ _idiom_ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn't be meddling in other people's business, but my curiosity got the better of me._  
+__get the drift of something__ _idiom_ To understand the general idea of something. _I knew enough German to get the drift of this article. I don't get the drift of what you're trying to tell me._  
 __get the gist__ _idiom_ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the knack of__ _idiom_ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the middle finger__  
@@ -6794,6 +6797,7 @@ __hypocritical__ :two::hammer::pencil2:
 __hypoglycemia__  
 __hypokalemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
+__hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
@@ -6952,7 +6956,9 @@ __in the midst of (something)__ _idiom_
 __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the offing__  
+__in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
+__in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
 __in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
@@ -7039,7 +7045,7 @@ __inert__ _Helium is inert._
 __inexplicable__ _adj_  
 __inextricably__ :two::hammer:  
 __infallibity__  
-__infamous__ _adj_ :nine: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
+__infamous__ _adj_ :nine::m: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
 __infant__ _n_  
 __infare__ _n_  
@@ -7824,6 +7830,7 @@ __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; ha
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
+__like (two) peas in a pod__ _idiom_ Said of two people who are very similar in interests, actions, or appearance. _idiom_ Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it's no wonder people sometimes mistake them for sisters._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by "look" or "feel.")  
 __like hell__  
 __like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
@@ -8186,6 +8193,7 @@ __marauding__ _adj_ :two: (of people or animals) Going around a place in search 
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
 __Mardi Gras__ _n_ :mega:  
+__mardy__ _adj_  
 __mare__ _n_  
 __margarine__ _n_  
 __Mariel felons__  
@@ -8398,6 +8406,7 @@ __militiaman__ _n_ :pencil2:
 __militias__ :two::hammer:  
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :three::hammer: _Milk the clock._  
+__milkmaid__ _n_ A girl or woman who milks cows.  
 __milkweed__  
 __mill<sup>1</sup>__ _n_ A million dollards.  
 __mill<sup>2</sup>__ _v_ :two::hammer: (milled) _They milled in front of the courtroom door._ _The children milled around._  
@@ -10754,7 +10763,7 @@ __raven-haired__
 __ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
 __ravish__  
-__ravishing__ _adj_ :three::hammer:  
+__ravishing__ _adj_ :four: Extremely attractive; entrancing.  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
@@ -11171,6 +11180,7 @@ __rods__ _A few rods away._
 __roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
 __roeskin__ _A roeskin belt._  
+__roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue__ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
@@ -11604,6 +11614,7 @@ __scullery__ _n_ A small room (in large old British houses) next to the kitchen;
 __scum__ _n_ :three::hammer: _He was scum._  
 __scumbag__  
 __scumbags__  
+__scunner__ _n_ A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo  
 __scupper__ _v_  
 __scuppers__ _n_ :two::hammer:  
 __scurry__ _v_  
@@ -12553,7 +12564,7 @@ __specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ c
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
-__specious__ :two::hammer: _Specious argument._  
+__specious__ _adj_ :three::hammer: _Specious argument._  
 __speck__ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
@@ -13083,7 +13094,7 @@ __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a dise
 __subcompact__ (car?)  
 __subdue__ _v_ :six::hammer: (subdued)  
 __subfreezing__ _Subfreezing temperature._  
-__subjugate__ _v_  
+__subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
 __sublimate__ _v_  
@@ -13982,7 +13993,7 @@ __travelogue__ _n_ :two::hammer:
 __travesty__ _n_ :four::hammer: (travesties)  
 __trawled__ _v_ :two::hammer:  
 __trawler__  
-__treacherous__ _adj_ :two::hammer:  
+__treacherous__ _adj_ :three::hammer:  
 __treachery__ _n_ :four::hammer:  
 __treacle__  
 __treacly__ :two::hammer:  
