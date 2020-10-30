@@ -1,5 +1,16 @@
 
 
+__fab__ _adj_ _slang_ A shortening of "fabulous," meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
+__get the drift of something__ _idiom_ To understand the general idea of something. _I knew enough German to get the drift of this article. I don't get the drift of what you're trying to tell me._  
+__specious__ _adj_  
+__drive someone batty__ _idiom_ (drive someone nuts) To annoy or irritate someone. _You are certainly annoying! You're going to drive me batty. These tax forms are driving me nuts._  
+__like (two) peas in a pod__ _idiom_ Said of two people who are very similar in interests, actions, or appearance. _idiom_ Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it's no wonder people sometimes mistake them for sisters._  
+__milkmaid__ _n_ A girl or woman who milks cows.  
+__ravishing__ _adj_ Extremely attractive; entrancing.  
+__treacherous__ _adj_  
+__bust__ _v_  
+__infamous__ _adj_  
+
 __old man__  
 __plea__ _n_ _She responded to Jack's plea for help._  
 __rummaging__ _v_  
