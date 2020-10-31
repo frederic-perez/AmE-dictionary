@@ -1825,7 +1825,7 @@ __busker__
 __busload__  
 __bust out__ _She clearly has something busting out._  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
-__bust<aup>2</sup>__ _v_:three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
+__bust<sup>2</sup>__ _v_:three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustiers__ _n_  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
@@ -2250,7 +2250,7 @@ __chapter__ _To the east was the chapter house._
 __char__ _v_ (charred)  
 __character actor__  
 __character__ :mute:[c~~h~~aracter]  
-__charade__ _n_ :two::hammer:  
+__charade__ _n_ :three::hammer:  
 __chard__  
 __charging__ Accuse formally.  
 __chargrilled__ _Chargrilled chicken._  
@@ -3595,6 +3595,7 @@ __devolve__ _v_ _The party must devolve power._
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
 __dewlaps__ _n_ :two::hammer:  
+__dexterous__ _adj_  
 __diabolical__ _adj_  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__  
@@ -4349,6 +4350,7 @@ __endpiece__ _n_
 __ENDR__ _abbr_ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _Endurance race._  
+__endure__ _v_ Last for a long time.  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
 __engage__ _v_ _I'm engaged with my work._  
@@ -5759,6 +5761,7 @@ __good going__ _idiom_ An informal expression of praise for having done somethin
 __Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
+__good old__ _idiom_ :dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
@@ -6267,6 +6270,7 @@ __have no time for (someone or something)__ _idiom_ To have no respect for, inte
 __have one foot in the grave__ _idiom_ To be very old and close to death.  
 __have rocks in (one's) head__ _idiom_ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one's) day__ _idiom_ To be beyond one's prime; to be no longer useful, effective, or functional.  
+__have skin in the game__ _idiom_ To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance.  
 __have someone pegged__ _She had me pegged on that, too._  
 __have someone's back__  
 __have the better of (someone or something)__ _idiom_ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
@@ -6606,6 +6610,7 @@ __homestead<sup>1</sup>__ _n_ :four::hammer:
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
+__homologate__ _v_ To approve, especially to confirm officially.  
 __homophobic__  
 __homophones__ _n_ :two::hammer:  
 __honcho__ _n_ :four::hammer: (honchos)  
@@ -6935,6 +6940,7 @@ __in his own right__ _idiom_ :two: By reason of one's own ability or ownership e
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
+__in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
@@ -9099,6 +9105,7 @@ __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became t
 __old hat__  
 __Old Hickory bat__  
 __old maid__ _idiom_ An old woman who has never been married or has never had a sexual relationship.  
+__old man__  
 __old saying__  
 __Old Sol__  
 __old-timers__ _n_  
@@ -9712,7 +9719,7 @@ __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to ci
 __persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
-__pert__ _adj_  
+__pert__ _adj_ :two::hammer:  
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
@@ -9972,7 +9979,7 @@ __playpen__ _A portable paypen._
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
 __plea deal__  
-__plea__ _n_ :six::hammer: _A prayerful plea to break free of alcohol._ _A plea for legitimacy._  
+__plea__ _n_ :seven::hammer: _A prayerful plea to break free of alcohol._ _A plea for legitimacy._ _She responded to Jack's plea for help._  
 __plead out__  
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ (Use it at the end of a request/question.)  
@@ -10101,6 +10108,7 @@ __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop 
 __popcorn__ :es: gotelé?  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
+__poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
 __pops__ _n informal_ :two: Father.  
 __populace__  
 __porch screen__  
@@ -10885,7 +10893,7 @@ __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balan
 __reenactment__ _n_  
 __reeve__ _n_ :four::hammer::pencil2:  
 __ref__ _n_ A referee.  
-__refectory__ _n_ :three::hammer:  
+__refectory__ _n_ :four: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
 __reffing__  
 __refractory__ _adj_  
@@ -10981,7 +10989,7 @@ __reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._
 __repote__ _n_  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
-__reprisal__ _n_ :five::hammer: (reprisals) _A ban on federal reprisals._  
+__reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
 __reprobate__ _v_  
 __reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
@@ -11139,6 +11147,7 @@ __riparian__ _Riparian woodland._
 __ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripe-smelling__ _The ripe-smelling barn._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
+__ripoff__ _n_ _slang_  
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
 __ripple__ _v_ :four::hammer: (rippled)  
@@ -11286,7 +11295,7 @@ __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — l
 __rude__  
 __rudiment__ _n_  
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
-__rue__ _v_ :five::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue__ _v_ :six::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :four::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
@@ -12161,7 +12170,7 @@ __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for 
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slackline__ _n_  
 __slag__  
-__slake__ _v_ :two::hammer: (slaked)  
+__slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
@@ -13172,7 +13181,7 @@ __suntan__ _n_
 __super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __superbly__  
 __supercell__ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
-__supercilious__  
+__supercilious__ :two::hammer:  
 __superintendent__ _n_ :three::hammer:  
 __superpooch__  
 __supersede__ _v_  
@@ -14080,7 +14089,7 @@ __troy ounce__ :two::hammer:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__truculent__ _adj_ :three::hammer:  
+__truculent__ _adj_ :four: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
 __true colors__ :two::hammer: _He has shown his true colors._  
 __true to form__  
@@ -14285,6 +14294,7 @@ __undeterred__
 __undies__  
 __undimpled__  
 __undisturbed__ _v_  
+__undoing__ _n_  
 __undoubtedly__  
 __undue__  
 __undulating__ _v_  

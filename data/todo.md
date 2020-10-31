@@ -1,27 +1,5 @@
 
 
-__old man__  
-__plea__ _n_ _She responded to Jack's plea for help._  
-__rummaging__ _v_  
-__reprisal__ _n_  
-__undoing__ _n_  
-__charade__ _n_  
-__endure__ _v_ Last for a long time.  
-__pert__ _adj_  
-__slake__ _v_ To make someone happy by giving them what they want or need.  
-__ripoff__ _n_  
-
-__rue__ _v_ To feel penitence, remorse, or regret for.  
-__refectory__ _n_ A communal dining hall in a religious, academic, or other institution.  
-__good old__ _idiom_ :dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
-__in order that__ _idiom_ So that; with the particular aim or purpose of.  
-__truculent__ _adj_ Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
-__homologate__ _v_ To approve, especially to confirm officially.  
-__supercilious__  
-__have skin in the game__ _idiom_ To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance.  
-__poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
-__dexterous__ _adj_  
-
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __peak__ _v_  
 __dorm__ _n_  
