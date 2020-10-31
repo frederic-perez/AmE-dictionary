@@ -1,4 +1,15 @@
-  
+
+
+__slackline__ _n_  
+__on steroids__ :mega:  
+__spark plug__  
+__laminate__ _v_ :es: plastificar  
+__moonshot__  
+__anathema__ _n_  
+__perimortem__ _adj_ At, or near, the time of death.  
+__video__ _n_  
+__pedi__  
+__school of thought__  
 
 __fancy-pants__ _idiom_ Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker's annoyance. _I'd rather go to a ball game than another one of your fancy-pants corporate events._  
 __revelry__  
