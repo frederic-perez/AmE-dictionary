@@ -1,4 +1,15 @@
+  
 
+__glut__ _v_  
+__cobble up__ _phr v_  
+__redolent__ _adj_  
+__farol__ (?) _A farol dealer._  
+__deranged__  
+__junked__ _v_  
+__interred wih honors__ _The magazine saw seven issues and then was interred with honors._  
+__gaggle__  
+__for good__ _The magazine was gone for good._  
+__slickness__  
 
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __peak__ _v_  
