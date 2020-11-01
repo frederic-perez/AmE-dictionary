@@ -1,27 +1,5 @@
 
 
-__slackline__ _n_  
-__on steroids__ :mega:  
-__spark plug__  
-__laminate__ _v_ :es: plastificar  
-__moonshot__  
-__anathema__ _n_  
-__perimortem__ _adj_ At, or near, the time of death.  
-__video__ _n_  
-__pedi__  
-__school of thought__  
-
-__fancy-pants__ _idiom_ Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker's annoyance. _I'd rather go to a ball game than another one of your fancy-pants corporate events._  
-__revelry__  
-__snooty__  
-__glitterati__ _pl n_ _informal_ Highly fashionable celebrities: _"private parties on Park Avenue and Central Park West, where the literati mingled with glitterati" (Skylines)._  
-__crack someone up__ _idiom_ To make someone laugh. _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
-__on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
-__listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
-__weed out__  
-__décor__ _n_  
-__on tenterhooks__ _idiom_ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
-
 __glut__ _v_  
 __cobble up__ _phr v_  
 __redolent__ _adj_  

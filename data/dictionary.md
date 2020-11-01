@@ -412,7 +412,7 @@ __an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and 
 __anachronism__  
 __anal bleaching__ _n_  
 __analyst__ :pencil2:  
-__anathema__ _n_ :seven: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :eight: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
@@ -3013,6 +3013,7 @@ __cozy__
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
+__crack someone up__ _idiom_ To make someone laugh. _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
@@ -3420,6 +3421,7 @@ __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommis
 __decommits__  
 __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_  
+__décor__ _n_  
 __decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle's most decorated chefs._  
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
@@ -4659,6 +4661,7 @@ __fanaticism__ _Fanaticism consists of redoubling your efforts when you have for
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
 __fanciful__  
+__fancy-pants__ _idiom_ Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker's annoyance. _I'd rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ :two: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
@@ -5633,7 +5636,7 @@ __glinting__ _v_
 __glissade__ _v_  
 __glisten__ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
-__glitterati__ _pl n_ _informal_ Highly fashionable celebrities.  
+__glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _"private parties on Park Avenue and Central Park West, where the literati mingled with glitterati" (Skylines)._  
 __glitz__  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
@@ -7605,6 +7608,7 @@ __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ :two::hammer: _Lame excuse._  
+__laminate__ _v_ :es: plastificar  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :four: (lampooned) To make the subject of a satire. _Syn_ ridicule  
@@ -7889,6 +7893,7 @@ __list > listing boat__
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
 __listen__ :mute:[lis~~t~~en]  
 __listening session__  
+__listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ :two::hammer:  
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
@@ -8562,7 +8567,7 @@ __moody__ :two::hammer:
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
-__moonshot__ _n_ :two: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot<sup>1</sup>__ _adj_ :eight: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
@@ -9138,7 +9143,8 @@ __on fire__ _idiom_ Something is going really well or someone is doing a fantast
 __on foot__ _I work to work on foot._  
 __on pins and needles__ _idiom_ Worried or excited about something.  
 __on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
-__on steroids__ :two::hammer:  
+__on steroids__ _idiom_ :four::mega: In a very large, enhanced, or exaggerated form.  
+__on tenterhooks__ _idiom_ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
 __on the back burner__ _idiom_ :two::hammer:  
 __on the cards__ _idiom_ Very likely to happen. _She wants to get a promotion but it doesn't seem to be on the cards right now._  
 __on the defensive__ _idiom_ Prepared to withstand or counter aggression or attack.  
@@ -9147,6 +9153,7 @@ __on the fence__ _idiom_ Unable to make a decision.
 __on the flip side__ _idiom_ :two::hammer:  
 __on the fly__  
 __on the hoof__  
+__on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the rise__ _idiom_  
 __on the run__  
 __on the same page__ _idiom_ To agree on something.  
@@ -9623,6 +9630,7 @@ __pedagogue__ _n_ :mega:
 __peddle__ _v_ :three::hammer: (peddling)  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
+__pedi__  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
@@ -9693,6 +9701,7 @@ __performative__
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
 __peril__ _n_ :two::hammer: (perils)  
 __perilous__ _adj_  
+__perimortem__ _adj_ At, or near, the time of death.  
 __perinatal__  
 __periodontal__ _Periodontal health._  
 __periodontist__ _n_  
@@ -11059,7 +11068,7 @@ __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs at
 __reveling__ :two::hammer:  
 __revelled__ _v_ :two::hammer:  
 __revelling__  
-__revelry__ _n_ :three: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
+__revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
 __revered__  
 __reversal of fortune__  
@@ -11535,6 +11544,7 @@ __schnapps__
 __scholar__ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
+__school of thought__  
 __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
 __schooling__ _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
@@ -12168,7 +12178,7 @@ __slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn't drive with slack re
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
-__slackline__ _n_  
+__slackline__ _n_ :two::hammer:  
 __slag__  
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
@@ -12402,7 +12412,7 @@ __snoodlike__
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ To behave disdainfully toward; condescend to.  
 __snootiness__  
-__snooty__ _adj_ :seven::hammer:  
+__snooty__ _adj_ :eight::hammer:  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
 __snort<sup>1</sup>__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
@@ -12550,8 +12560,7 @@ __Spanx__
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
-__spark plug__ _n_ :dart: :es: bujía  
-__spark plugs__  
+__spark plug__ _n_ :dart::three: (spark plugs) :es: bujía  
 __sparklers__ _n_  
 __sparred__ _v_  
 __spars__ _n_  
@@ -14578,6 +14587,7 @@ __victimhood__
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
 __victualling__  
 __victuals__ _n_ :three::hammer::mega:  
+__video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
 __vile__  
@@ -14790,7 +14800,7 @@ __wedhe issue__
 __wedlock__ :two::hammer:  
 __Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
-__weed out__ _phr v_ :dart::three: To get rid of unwanted things or people from a group.  
+__weed out__ _phr v_ :dart::four: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ :three::hammer: _It's like weeding a garden._  
 __weedeater__  
