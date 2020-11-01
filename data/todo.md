@@ -1,27 +1,5 @@
 
 
-__glut__ _v_  
-__cobble up__ _phr v_  
-__redolent__ _adj_  
-__farol__ (?) _A farol dealer._  
-__deranged__  
-__junked__ _v_  
-__interred wih honors__ _The magazine saw seven issues and then was interred with honors._  
-__gaggle__  
-__for good__ _The magazine was gone for good._  
-__slickness__  
-
-__cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
-__peak__ _v_  
-__dorm__ _n_  
-__crackpot__ _n_  
-__clear out__ _phr v_ _informal_ To leave a place, usually quickly.  
-__torment__ _v_  
-__headshot__ _n_  
-__breakup__ _n_ _Sharing breakup stories._  
-__drop the ball__ _idiom_  
-__wild__ :two::hammer:  
-
 __burgeon__ _v_  
 __gaggle__ _A gaggle of mystery digests._  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
