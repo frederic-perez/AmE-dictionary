@@ -1,5 +1,16 @@
 
 
+__pastiche__ _n_  
+__Occam's Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
+__in the circumstances__ _idiom_ Due to the conditions or particular situation; such as the case is.  
+__belittle__ _v_  
+__emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
+__in the eye of (something)__ _idiom_ At, in, or amidst the central or focal point of something.  
+__countermand__ _v_ To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
+__repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
+__thunderstone__ _n_  
+__humdinger__ _n_ _informal_ A person or thing of remarkable excellence or effect.  
+
 __burgeon__ _v_  
 __gaggle__ _A gaggle of mystery digests._  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
