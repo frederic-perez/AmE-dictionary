@@ -1089,7 +1089,7 @@ __beleaguer__ _v_
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has "bats in the belfry" is insane or eccentric. This phrase is responsible for the use of bats for "insane" (as in "Are you completely bats?") and the occasional use of belfry for "head" ("He's not quite right in the belfry").  
 __belie__ _v_ :eight: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
-__belittle__ _v_ :four: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
+__belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bell the cat__ _idiom_ To perform a daring act.  
 __bellboy__ _n_  
@@ -1790,6 +1790,7 @@ __buoyed__
 __burble__ _v_ (burbled)  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
+__burgeon__ _v_  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burgundy__ :two::hammer: _Burgundy outfit._  
@@ -1926,7 +1927,7 @@ __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite an
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
-__cajole__ _v_ :eight: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
+__cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
@@ -2974,7 +2975,7 @@ __counter-depth fridge__ :camera:
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
 __countered__ _Countered kitchen._  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
-__countermand__ _v_ :two::hammer:  
+__countermand__ _v_ :three: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _Countervailing evidence._  
@@ -4307,6 +4308,7 @@ __emeritus__ :two::hammer:
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
 __eminent__  
+__emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
@@ -4678,6 +4680,7 @@ __fantastic__ _adj_ :three::hammer::mega:
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :two::mega::hammer:  
 __far and away__ :astonished:  
+__far and between__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
@@ -4900,6 +4903,7 @@ __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones th
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
+__fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fish__ _pl n_ :two:  
 __fishmonger__ _n_  
 __fissile__ _Fissile material._  
@@ -5400,7 +5404,7 @@ __gaffer__ _n_ _Br_ :two: Boss.
 __gaffes__ _n_ :two::hammer:  
 __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
 __gag__ _The cases's gag order._  
-__gaggle__ _n informal_ :eight: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._  
+__gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -6741,7 +6745,7 @@ __huff<sup>1</sup>__ _n_
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setbackhumbles NFL's most prolific passer._  
-__humdinger__ _n_  
+__humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
 __humidor__ _n_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
@@ -6958,10 +6962,12 @@ __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.
 __in stitches__ _idiom_  
 __in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
 __in the black__ _idiom_ :two: Not in debt, profitable.  
+__in the circumstances__ _idiom_ Due to the conditions or particular situation; such as the case is.  
 __in the clear__ :two::hammer: _She is in the clear._  
 __in the doghouse__ _idiom_ :two::hammer:  
 __in the event that__ _idiom_ If it should happen or be the case that.  
 __in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
+__in the eye of (something)__ _idiom_ At, in, or amidst the central or focal point of something.  
 __in the fold__ _They kept the devious students in the fold._  
 __in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
 __in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
@@ -7388,7 +7394,7 @@ __just saying__ _idiom_ :two: (I'm just saying) Used when you are making a criti
 __just__ _adj_ _The punishments were fair, just and appropriate._  
 __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :three::hammer: (jutted, jutting)  
-__juvenile__ _The Downeast Salmon Federation released the juvenile salmon into the river._  
+__juvenile__ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-9__ _A K-9 van._  
 __K-pop__  
@@ -9051,6 +9057,7 @@ __obstreperousness__
 __obtrude__ _v_  
 __obtuseness__  
 __obverse__ _The obverse hub of a coin._  
+__Occam's Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :two::mega::pencil2::hammer:  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
@@ -9563,7 +9570,7 @@ __pass up__
 __passage__ _n_ _The passage of three supplementary budgets this year._  
 __passel__ _A passel of ducks._  
 __passerby__ _n_ (passer-by) :two::hammer: _They were mugging passerby._  
-__pastiche__ :two::hammer:  
+__pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one's spare time pleasantly: Sailing is her favorite pastime.  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
@@ -9900,7 +9907,7 @@ __pipeyard__
 __piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_ :two: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
-__pique<sup>2</sup>__ _v_ :eight::pencil2::hammer: (piques, piqued) _Focusing his energy on whatever piques his curiosity._  
+__pique<sup>2</sup>__ _v_ :nine::pencil2::hammer: (piques, piqued) _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
@@ -10400,7 +10407,7 @@ __prostrate<sup>1</sup>__ _adj_
 __prostrate<sup>2</sup>__ _v_  
 __protean__ _adj_ :three::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
-__protégé__ _n_ :two: One whose welfare, training, or career is promoted by an influential person.  
+__protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
 __protract__ _v_ To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
 __protracted__  
@@ -11001,6 +11008,7 @@ __repent__ _v_ :two::hammer: (repented)
 __repentance__ :two::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
+__repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
 __reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
@@ -12232,7 +12240,7 @@ __slice and dice__ _idiom_ :two: To divide something into many small parts espec
 __slice of pie__  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
-__slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._  
+__slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _Slick magazines._ _A slick paper magazine._  
 __slickness__  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
@@ -13023,6 +13031,7 @@ __strait__
 __straits__  
 __strand__ _n_ :three::hammer: _A long strand of rope._  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
+__strangely enough__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
@@ -13723,6 +13732,7 @@ __thumping__ _A thumping majority._
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
 __thunderheads__  
 __thunderous__ _adj_  
+__thunderstone__ _n_  
 __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.  
 __thunk<sup>1</sup>__ _n_  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
