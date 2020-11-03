@@ -1,27 +1,5 @@
 
 
-__roost__ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
-__MIA__ _abbr_ Missing in action.  
-__plateau__ _v_ (plateauing) To reach a stable level; level off.  
-__for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy's brother has a connection in the stadium, so we got them for peanuts!_  
-__kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
-__better the devil you know than the devil you don't__ _idiom_ _proverb_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: "Why don't you just quit your job if you're so miserable?" B: "Who knows if a new job will be any better! Better the devil you know than the devil you don't."_  
-__cognate__  
-__alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
-__kooky__ _adj_ _slang_ Characteristic of a kook; strange or crazy.  
-__sought-after__ _adj_ Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).
-
-__bugger__  
-__verbally__  
-__escapism__ _n_  
-__union__ _n_ (unions) :three::hammer: _Union construction worker._  
-__keep above water__ _idiom_  
-__nerve racking__  
-__touch and go__  
-__apprenticeship__ _Apprenticeship program._  
-__totem pole__ _You’re at the bottom of the totem pole._  
-__gig economy__ :three::hammer:  
-
 __slicker__  
 __anthologist__  
 __dirk__ _n_ (weapon?)  

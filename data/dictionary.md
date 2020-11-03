@@ -347,6 +347,7 @@ __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. 
 __allegedly__  
 __allergens__  
 __allies__ _n_  
+__alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
 __allocation__ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
 __allotment__ :two::hammer:  
@@ -529,6 +530,7 @@ __apprehend__ _v_
 __apprehension__  
 __apprehensive__ _adj_ Very nervous.  
 __apprentice__ _v_  
+__apprenticeship__ _Apprenticeship program._  
 __approval rating__ _Park's approval rating has plummeted._  
 __apricate__ _v_ To bask in the sun.  
 __apropos__ _prep_ :three::mega::hammer:  
@@ -1158,6 +1160,7 @@ __betray__ _v_ :two::hammer:
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothed__ _adj_ :three: Engaged to be married.  
 __better known as__ _Miyazaki, better known as Aska._  
+__better the devil you know than the devil you don't__ _idiom_ _proverb_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: "Why don't you just quit your job if you're so miserable?" B: "Who knows if a new job will be any better! Better the devil you know than the devil you don't."_  
 __bettors__  
 __bevel__ :two::hammer:  
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
@@ -1722,7 +1725,7 @@ __bug spray__ _Bug spray with DEET to ward off mosquitoes._
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You're bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugbear__ _n_ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
-__buggers__  
+__bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
@@ -2607,6 +2610,7 @@ __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers.
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :two::hammer:  
+__cognate__  
 __cognizant__  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
@@ -4453,7 +4457,7 @@ __erupted__ _v_
 __escalation__ _n_  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
-__escapism__ _n_ :two::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
+__escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -5141,6 +5145,7 @@ __for good measure__
 __for good__ :two::hammer: _Leadville's only hospital is preparing to close for good in March._ _The magazine was gone for good._  
 __for keeps__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
+__for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy's brother has a connection in the stadium, so we got them for peanuts!_  
 __For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
@@ -5587,6 +5592,7 @@ __giddily__
 __giddiness__ :two::hammer:  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
+__gig economy__ _n_ :three: Also called the "on-demand economy," "sharing economy" or "instant gratification economy," the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
 __giggles__ _n_  
@@ -7400,6 +7406,7 @@ __K-9__ _A K-9 van._
 __K-pop__  
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
+__kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
 __kabuki__ _n_ :three::hammer:  
 __kaffeeklatsch__ _n_  
 __kaflooey__ _On a few occasions the screen went a bit kaflooney._  
@@ -7413,7 +7420,7 @@ __keel<sup>2</sup>__ _n_
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
-__keep above water__ _This is keeping myself above water._  
+__keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
@@ -7560,7 +7567,7 @@ __koinonia__
 __KOL__ _abbr_ Key opinion leader.  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
-__kooky__ _adj_ :two: Crazy, mentally unbalanced.  
+__kooky__ _adj_ _slang_ :three: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
 __Kool-Aid__  
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
@@ -8397,7 +8404,7 @@ __metro__ _Her products landed on the shelves of stores in metro Detroit._
 __metronome__  
 __mettle__ _n_ :eight::dart: The courage to carry on: _It's the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
-__MIA__ Missing in Action.  
+__MIA__ _abbr_ :two: Missing in action.  
 __miasma__ _n_  
 __mick__ _n_ :three::hammer:  
 __mid-afternoon__  
@@ -8842,6 +8849,7 @@ __nepenthe__ _n_ Something that induces forgetfulness of sorrow or eases pain.
 __nepotism__ _n_ :five: The term nepotism comes from the Latin root for nephew. Its origins are traced to the Middle Ages practice of Catholic popes giving high-ranking religious positions to their nephews.  
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
+__nerve racking__  
 __nerve__ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
@@ -9972,7 +9980,7 @@ __plastered__ _adj_ _slang_ Extremely drunk.
 __plasticity__ _n_  
 __plate__ _Baseball_  
 __plateau<sup>1</sup>__ _n_  
-__plateau<sup>2</sup>__ _v_ (plateaued)  
+__plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
 __plating__ _It's your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :four::hammer: (platitudes)  
@@ -11252,7 +11260,8 @@ __rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _R
 __room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
-__roost__ _v_  
+__roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
+__roost<sup>2</sup>__ _v_  
 __rooster__ :two::hammer:  
 __root beer__  
 __rooter__  
@@ -12539,7 +12548,7 @@ __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ri
 __sortie__ _n_  
 __sot__ :two::hammer: _A surly sot._  
 __sotto voce__  
-__sought-after__ :two::hammer:  
+__sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul__ _n_ :mega:  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
@@ -13954,11 +13963,11 @@ __tossing__ _v_ _The prisoner lay tossing and moaning._
 __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lots__ _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
-__totem pole__ _n_ _slang_ A hierarchy: _low on the totem pole._  
+__totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __tots__  
 __totter__ _v_  
 __tottered__  
-__touch and go__  
+__touch and go__ :two::hammer:  
 __touch base (with someone)__ _idiom_ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it's been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
@@ -14355,6 +14364,7 @@ __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthough
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
+__union__ _n_ (unions) :three::hammer: _Union construction worker._  
 __unkempt__ :two::hammer: _Unkempt beards._  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _preposition_  
@@ -14566,6 +14576,7 @@ __venture__ _n_
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We'll have our coffee on the veranda._  
+__verbally__  
 __verbatim__  
 __verberize__  
 __verbiage__ _n_  
