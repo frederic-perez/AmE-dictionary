@@ -1,5 +1,16 @@
 
 
+__admittedly__ _adv_ By general admission; confessedly. _I've stepped outside my admittedly miniscule comfort zone._  
+__much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._  __2__ Thank you very much. _A: "Here's your jacket, sir." B: "Much obliged, son."_  
+__comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
+__flub__ _n_ An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer  
+__conjoined__ Consisting of two or more associated entities.  
+__bootstrap__ _v_ __1_ To promote and develop by use of one's own initiative and work without reliance on outside help. __  
+__offbeat__ _adj_ _Slang_  Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ 
+__dough__ _n_ __2__ _Slang_ Money.  
+__grand__ _n_ __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._  
+__dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
+
 __strain__ _n_ _A new strain of coronavirus._  
 __dry humor__  
 __ghastly__ _Distract yourself from this ghastly thing we call 2020._  
