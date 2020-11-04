@@ -1,27 +1,5 @@
 
 
-__exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
-__agonist__ _n_ __3__ One involved in a struggle or competition.  
-__eldritch__ _adj_ Eerie; weird; spooky.  
-__gloaming__ _n_ _poetic_ Twilight or dusk.  
-__prescient__ _adj_  
-__follow (someone or something) in stride__ _idiom_ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
-__conceited__  _adj_ Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._  
-__sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
-__intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
-__adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
-
-__slicker__  
-__anthologist__  
-__dirk__ _n_ (weapon?)  
-__acclaimed__  
-__dune__ _n_  
-__slide rule__ _n_  
-__chiding__  
-__tinkerer__  
-__wholeheartedly__  
-__plaque__ _Plaque in arteries._  
-
 __strain__ _n_ _A new strain of coronavirus._  
 __dry humor__  
 __ghastly__ _Distract yourself from this ghastly thing we call 2020._  

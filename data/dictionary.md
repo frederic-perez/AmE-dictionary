@@ -113,6 +113,7 @@ __abyss__ _n_ :astonished::mega::six:
 __accenting__ _v_  
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accidental__ _Ottolenghi is an accidental chef._  
+__acclaimed__  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodate__ _v_ :pencil2:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
@@ -182,6 +183,7 @@ __add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._
 __ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_ :two::hammer: _A multitude of problems need to be addressed._  
+__adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
 __adhere__ _v_  
@@ -267,6 +269,7 @@ __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._
 __agnostic__ _adj_  
 __agog__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
+__agonist__ _n_ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __agrarian__  
 __agronomy__ _n_  
@@ -463,6 +466,7 @@ __antagonize__ _v_
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__  
 __antedate__ _n_  
+__anthologist__  
 __anthology__  
 __anthropogenic__  
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
@@ -2329,7 +2333,7 @@ __chicken wire__ _n_ :two::hammer:
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chicklit__ _A chicklit satire._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
-__chide__ _v_ :seven::hammer: (chided, chiding) _Whe chided the Pentagon._  
+__chide__ _v_ :eight::hammer: (chided, chiding) _Whe chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
@@ -2750,7 +2754,7 @@ __Concacaf__
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
-__conceited__ _Conceited delusion._  
+__conceited__ _adj_ :two: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __concern__ _v_ :two::hammer: (concerned)  
 __concerted__  
 __concertina wire__  
@@ -3682,6 +3686,7 @@ __direction__ _n_ :two::mega:
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
+__dirk__ _n_ (weapon?)  
 __dirt bike__ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
 __dirtbag__ _n_ :three::hammer:  
@@ -4121,6 +4126,7 @@ __dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun__ _Dun-colored hair._  
 __dunce__ _n_ :two::hammer: _We are complete dunces at self-perfection._  
+__dune__ _n_  
 __dung fork__ _n_  
 __dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
 __dunno__  
@@ -4260,6 +4266,7 @@ __elderberry__
 __elderflower__  
 __elderly__ :es: tercera edad  
 __eldest__ (is this right?)  
+__eldritch__ _adj_ Eerie; weird; spooky.  
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
@@ -4580,6 +4587,7 @@ __extra pair of hands__ _idiom_ Additional help or assistance provided by anothe
 __extraneous__  
 __extremes__  
 __extricate__ _v_ :seven: (extricated) To remove or free from complication, hindrance, or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._  
+__exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye candy__ _idiom_ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye dropper__ _n_  
@@ -5105,6 +5113,7 @@ __foldaway__ _Foldaway cot._
 __folded__ _The American Soccer League folded in 1931._  
 __foldout chair__ _n_  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
+__follow (someone or something) in stride__ _idiom_ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone's footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four "suits" (diamonds, hearts, spades, and clubs).  
 __follow-up__ _n_ :astonished:  
@@ -5654,7 +5663,7 @@ __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glit
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _"private parties on Park Avenue and Central Park West, where the literati mingled with glitterati" (Skylines)._  
 __glitz__  
 __glitzy__  
-__gloaming__ _n_ _poetic_ :two: Twilight or dusk.  
+__gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
 __gloat__ _v_ :six::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
@@ -7177,6 +7186,7 @@ __intimation__ Making known indirectly.
 __into the fold__ _It brought many viewers into the fold._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
+__intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacies__ :two::hammer:  
 __intricate__ _adj_ :two::hammer:  
 __intuit__ _v_ :four: To know or understand by intuition.  
@@ -9972,6 +9982,7 @@ __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trum
 __plano__ _Plano sunglasses._  
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
+__plaque__ _Plaque in arteries._  
 __plashed__ _v_  
 __plasmapheresis__ _n_  
 __plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
@@ -10271,7 +10282,7 @@ __prequel__
 __prerogative__ _n_ :six::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :six::hammer:  
+__prescient__ _adj_ :seven::hammer:  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -12250,7 +12261,9 @@ __slice of pie__
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
 __slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _Slick magazines._ _A slick paper magazine._  
+__slicker__  
 __slickness__  
+__slide rule__ _n_  
 __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday's highs._ _An evacuation slide was activated during a flight Wednesday._  
 __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
 __slider__ _n_ :four::hammer: _What's up with someone's slider?_  
@@ -12533,6 +12546,7 @@ __soot__ _n_ :three::hammer:
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
 __sophomore__ (from Greek?) :two::hammer:  
+__sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __sopping__ _v_  
 __soppy__  
 __sorbet__ _n_ :mega:  
@@ -13820,6 +13834,7 @@ __tingle__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation.
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
 __tinker__ _v_ :three::hammer:  
+__tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
 __tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
@@ -14972,6 +14987,7 @@ __whodunit__ _n_ :three: A detective story. A story focused around the mystery o
 __whole milk__  
 __whole nine yards, the__  
 __whole__ :mute:[~~w~~hole]  
+__wholeheartedly__  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ :two::hammer:  
 __wholesome__ _adj_ :three::hammer:  
