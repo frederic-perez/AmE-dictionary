@@ -199,6 +199,7 @@ __adjure__ _v_ _Syn_ command
 __adjuvant__ _adj_ :two::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin__ _I was doing just admin stuff._  
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
+__admittedly__ _adv_ By general admission; confessedly. _I've stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __adoring__  
@@ -244,6 +245,7 @@ __aforementioned__ _adj_ :two::hammer:
 __afoul__ :two::hammer:  
 __afresh__ _They had to start afresh._  
 __aft__ :two::hammer: _Aft compartment._  
+__after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
@@ -1489,6 +1491,7 @@ __boot<sup>1</sup>__ _n_ :two: :hammer: (car's trunk?) _He loaded their cases in
 __boot<sup>2</sup>__ _v_ :three::hammer: _She'd keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
+__bootstrap__ _v_ __1__ To promote and develop by use of one's own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __bop__ _v_  
 __bordello__  
@@ -2692,6 +2695,7 @@ __coming down the pipe__ :dart:
 __coming up__  
 __coming-of-age__ _A coming-of-age story._  
 __comity__ _n_ :two: A state or atmosphere of harmony or mutual civility and respect.  
+__comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commend__ _v_ (commended)  
@@ -2807,6 +2811,7 @@ __conglomerates__
 __congrats__ _Congrats on your wedding._  
 __Congressmen__ _n_  
 __conjecture__  
+__conjoined__ _adj_ Consisting of two or more associated entities.  
 __conjunction__  
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
@@ -3911,6 +3916,7 @@ __dormant__
 __dormer__ _n_ :camera:  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dot__ _v_ (dotted) Mark with a dot.  
+__dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
 __double back__ _v_  
@@ -3931,7 +3937,7 @@ __doubt__ :mute:[dou~~b~~t]
 __doubting Thomas__ _n_  
 __doubtless__  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
-__dough__ :mute:[dou~~gh~~]  
+__dough__ _n_ :two::mute:[dou~~gh~~] __2__ _Slang_ Money.  
 __dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_  
@@ -4081,6 +4087,7 @@ __drumbeat__ _Their drumbeat of criticism._
 __druthers__  
 __dry age__ _v_  
 __dry goods__ _Dry goods store._  
+__dry humor__  
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __dryly__ _adv_ :two::hammer::astonished:  
@@ -5040,6 +5047,7 @@ __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed
 __floaties__  
 __flodaway__ _Foldaway bed._  
 __floe__ _n_ :two::hammer: _Ice floe._  
+__flog a dead horse__  
 __flog__ _v_ :four::hammer: (flogged, flogging)  
 __floodgate__ _n_ :two::hammer: _After that, the floodgates opened._  
 __floodlamps__  
@@ -5065,7 +5073,7 @@ __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disreg
 __flow__ _Three people in flowing black robes._  
 __flowerpot__ _n_ _Clay flowerpot._  
 __flown__ _v_ _The flag was flown at half mast._  
-__flub<sup>1</sup>__ _v_ :four: (flubbed) Botch or bungle (something). _She glanced at her notes and flubbed her lines._  
+__flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
 __fluff__  
@@ -5583,7 +5591,7 @@ __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterize
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
 __geyser__ _n_  
-__ghastly__ _adj_ :eight::hammer::mute:[g~~h~~astly]  
+__ghastly__ _adj_ :nine::hammer::mute:[g~~h~~astly] _Distract yourself from this ghastly thing we call 2020._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
@@ -5627,6 +5635,7 @@ __giridon__
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _Guantanamo?_  
 __give (someone) a call__ _Give me a call._  
+__give (someone) a piece of (one's) mind__ _idiom_ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
@@ -5843,7 +5852,7 @@ __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for sus
 __gramps__  
 __grand jury__  
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
-__grand__ _n_ :two::hammer: _I nicked him for ten grand [notice: not ten grands]._  
+__grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -6578,7 +6587,7 @@ __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._
 __hog cracklings__  
 __hog the sofa__  
 __hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
-__hog<sup>2</sup>__ _v informal_ To take more than one's share of: _Don't hog the couch._  
+__hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one's share of: _Don't hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
@@ -8676,6 +8685,7 @@ __MQTT__ _abbr_ 	Message Queuing Telemetry Transport.
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
+__much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: "Here's your jacket, sir." B: "Much obliged, son."_  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
 __muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
@@ -9111,7 +9121,7 @@ __off-the-cuff__ :two::hammer: _It was just an off-the-cuff remark._
 __off-the-shelf__  
 __off<sup>1</sup>__ _She got off the train._  
 __off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
-__offbeat__ :two::hammer: _His offbet partner._ _Offbeat nature._  
+__offbeat__ _adj_ _Slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __officer__ _n_  
 __offing__ _A budding rivalry could be in the offing._  
@@ -11400,7 +11410,7 @@ __RV pads__
 __RV__  
 __RVR__ _Write me up with an RVR._  
 __Rx lab__  
-__Rx__ _n_ (Symbol for) a prescription for medicine or a medical appliance.  
+__Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __S'mores__ _S'mores season!_  
 __s/s__ Stainless steel. _s/s appliances._  
@@ -11647,7 +11657,7 @@ __Scrooge__
 __scrouching__ _v_  
 __scrounge up__ _To scrounge up the funds._  
 __scrub brush__  
-__scrub__ _v_ :three::hammer: (scrubbed) _He scrubbed his hands at the sink._  
+__scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._ _He scrubbed his hands at the sink._  
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
@@ -13046,7 +13056,7 @@ __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks s
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :six::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."--Julia Louise Woodruff_  
+__strain<sup>2</sup>__ _n_ :seven::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."—Julia Louise Woodruff_ _A new strain of coronavirus._  
 __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
