@@ -1,27 +1,5 @@
 
 
-__ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
-__deviate__ _v_ :mega:  
-__prevalent__ _adj_  
-__guru__ _n_ :mega:  
-__crank__ _n_ _informal_  
-__gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
-__stature__ _n_ __2__ An achieved level; status.  
-__bummer__ _n_ _slang_ :two::hammer:  
-__-esque__  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._ _Thanks for having my back._  
-
-__moonstruck__ _adj_  
-__hooly__ _adj_ Careful or gentle.  
-__barnstorm__ _v_ To tour rural districts making speeches in a political campaign.  
-__in plain view__ _idiom_ In full, unrestricted view; visibly, openly, or publicly.  
-__seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
-__obverse__ _n_ __1__ The side of a coin, medal, or badge that bears the principal stamp or design.  
-__usurp__ _v_  
-__mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
-__pertinacious__ _adj_  
-__plethora__ _n_ Extreme excess.  
-
 __physiology__ _n_  
 __astray__ _adv_ _adj_  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  

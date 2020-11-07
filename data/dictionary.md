@@ -1,7 +1,7 @@
 __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esis__ _suff_ Combining form meaning condition, action, or process.  
-__-esque__ _suffix_ :four: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-esque__ _suffix_ :five: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
 __-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
@@ -920,7 +920,7 @@ __barking up the wrong tree__ _idiom_ Looking in the wrong place.
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _Out of the barn._  
 __barnburner__ _idiom_ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
-__barnstorm__  
+__barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
 __barnyard__ :pencil2:  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
@@ -1767,7 +1767,7 @@ __bum<sup>3</sup>>__ _n_ :two: (bums) __1__ A tramp; a vagrant. :dart: __2__ A l
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
-__bummer__ _n_ _slang_ :two: A disappointing or unpleasant situation or experience.  
+__bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumpers__ _n_ _The bumpers of vehicles._  
@@ -3057,7 +3057,7 @@ __cramp__ _n_ :three::hammer: (cramps)
 __cramped__ _v_ :two::hammer:  
 __crank out__  
 __crank up__  
-__crank<sup>1</sup>__ _n_ :three::hammer: _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
+__crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
@@ -3607,6 +3607,7 @@ __devastate__ _v_
 __develop__ _v_ :mega:  
 __development__ _n_ :three: A district that has been developed to serve some purpose; _"such land is practical for small park developments."_ _Choose your home from 8 new developments across London._  
 __deviancy__  
+__deviate__ _v_ :mega:  
 __devil is in the detail__ _idiom_ Small things can cause difficulties when you examine them closely enough.  
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
@@ -5435,6 +5436,7 @@ __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Philli
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
+__gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
@@ -6063,6 +6065,7 @@ __gunwhale__ :two::hammer:
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
+__guru__ _n_ :mega:  
 __gush<sup>1</sup>__ _n_ :two::hammer:  
 __gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
 __gushing__ _adj_  
@@ -6270,7 +6273,7 @@ __haunt__ _v_
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn's haunted face._  
 __hauteur__  
 __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
-__have (got) (someone's) back__ _idiom_ :three: To be willing and prepared to help or defend someone; to look out for someone in case he or she needs assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._  
+__have (got) (someone's) back__ _idiom_ :four: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._ _Thanks for having my back._  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
@@ -6683,6 +6686,7 @@ __hooked on (someone or something)__ _idiom_
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
 __hooky__ _A kid playing hooky._  
+__hooly__ _adj_ Careful or gentle.  
 __hoop dress__  
 __hoop__ _v_  
 __hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
@@ -6862,6 +6866,7 @@ __ice house__ _Insulated ice houses._
 __ice maiden__ _idiom_ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
+__ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
 __ice-slick chain__  
 __icebox__ _n_  
 __icicles__  
@@ -6985,6 +6990,7 @@ __in its own right__ _adv_ :three::hammer: (in my own right)
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+__in plain view__ _idiom_ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__  
@@ -8613,6 +8619,7 @@ __moon roof__
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonstruck__ _adj_  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
 __moot<sup>1</sup>__ _adj_ :eight: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
@@ -8787,6 +8794,7 @@ __mystery train__
 __mystified__  
 __mystique__ :pencil2:  
 __mythological__  
+__mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ :two::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
@@ -9090,7 +9098,7 @@ __obstreperous__
 __obstreperousness__  
 __obtrude__ _v_  
 __obtuseness__  
-__obverse__ _The obverse hub of a coin._  
+__obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __Occam's Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :two::mega::pencil2::hammer:  
 __occasionally__ :pencil2:  
@@ -9778,6 +9786,7 @@ __persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my st
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
 __pert__ _adj_ :two::hammer:  
+__pertinacious__ _adj_  
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
@@ -10045,7 +10054,7 @@ __please__ (Use it at the end of a request/question.)
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
-__plethora__ _n_ :five::hammer:  
+__plethora__ _n_ :six: Extreme excess.  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
@@ -10319,7 +10328,7 @@ __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty pe
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
 __prevail__ _v_ :two::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
-__prevalent__  
+__prevalent__ _adj_ :two::hammer:  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -11734,6 +11743,7 @@ __sedate__ (sedate menswear)
 __sedative__ _n_ _Not the strongest sedative._  
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It's what the southern states did at the start of the Civil War.  
+__seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
 __sedulous__ _adj_ :two::hammer: _Syn_ busy  
 __see eye to eye__ _idiom_ :two: To concur, agree.  
 __see red__ _idiom_ :two: To become very angry.  
@@ -12900,6 +12910,7 @@ __statin__ _n_
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
 __stationary bike__  
 __stationery__  
+__stature__ _n_ __2__ An achieved level; status.  
 __statute of limitations__ _n phr_ :three: A statute assigning a certain time after which rights cannot be enforced by legal action or offenses cannot be punished.  
 __statute__  
 __statutory rape__  
@@ -14513,6 +14524,7 @@ __urge on__ _phr v_ :two: To encourage.
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
+__usurp__ _v_  
 __usury__ :two::hammer:  
 __Utahns__ :two::hammer:  
 __utes__ _n_ (cars?)  
