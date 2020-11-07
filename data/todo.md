@@ -1,6 +1,17 @@
 
 
-__ice-breaker__ _n_ _3__ Something intended to relieve mutual shyness at a gathering of strangers.  
+__fizzle up__  
+__hold up__  
+__b’day__ :mega:  
+__round the clock__ _There are sirens round the clock._  
+__flee__ _v_ _Fleeing New York._  
+__no worries__  
+__dialysis__ (?)  
+__for the most part__  
+__whatnot__  
+__rub something in someone’s face__  
+
+__ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
 __deviate__ _v_ :mega:  
 __prevalent__ _adj_  
 __guru__ _n_ :mega:  
@@ -9,7 +20,7 @@ __gala__ _n_ __1__ A festive occasion, especially a lavish social event or enter
 __stature__ _n_ __2__ An achieved level; status.  
 __bummer__ _n_ _slang_ :two::hammer:  
 __-esque__  
-__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again.._ _Thanks for having my back._  
+__have (got) (someone's) back__ _idiom_ To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._ _Thanks for having my back._  
 
 __moonstruck__ _adj_  
 __hooly__ _adj_ Careful or gentle.  
