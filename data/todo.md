@@ -1,5 +1,16 @@
 
 
+__yaw__ _v_ __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
+__nail-biter__ _n_ A situation marked by anxiety or tension.  
+__gambit__ _n_ _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
+__keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
+__foregather__ _v_ Collect in one place. _Syn_ assemble, meet _The captains of every ship in the fleet rowed into the lagoon to foregather on its secluded beach._  
+__multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
+__armistice__ _n_ :mega:  
+__dissemble__ _v_ (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal.  
+__in front of (one's) nose__ _idiom_ Immediately obvious or clearly apparent.  
+__hold (someone) in good stead__ _idiom_ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
+
 __physiology__ _n_  
 __astray__ _adv_ _adj_  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
