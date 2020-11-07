@@ -1,5 +1,16 @@
 
 
+__hook, line, and sinker__ _idiom_ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
+__get one's act together__ _idiom_ (get one's shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he'll get a raise_, or _You'd better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar.  
+__man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
+__not (one's) first rodeo__ _idiom_ One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don't think I'll fall for that old trick. This isn't my first rodeo, you know._  
+__headquarters__ _n pl_ (used with a sing. or pl. verb)  
+__lalochezia__ Emotional discharge gained by uttering indecent or filthy words.  
+__mind-boggling__ _adj_ _informal_ Overwhelming; stunning: _mind-boggling prices._  
+__exposé__ n_ A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
+__lackadaisical__ _adj_  
+__RV__ _abbr_ Recreational vehicle.  
+
 __yaw__ _v_ __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __nail-biter__ _n_ A situation marked by anxiety or tension.  
 __gambit__ _n_ _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
