@@ -1,4 +1,14 @@
 
+__go places__  
+__anthologist__ :two::hammer:  
+__aboriginal__  
+__fray__ _n_  
+__accomplished__  
+__sea change__ _It sufferef a sea change._  
+__upheaval__  
+__tenet__ _n_ (tenets)  
+__brainchild__  
+__soldiered__ _v_  
 
 __fizzle up__  
 __hold up__  
