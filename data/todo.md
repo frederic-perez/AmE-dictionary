@@ -1,25 +1,4 @@
 
-__go places__  
-__anthologist__ :two::hammer:  
-__aboriginal__  
-__fray__ _n_  
-__accomplished__  
-__sea change__ _It sufferef a sea change._  
-__upheaval__  
-__tenet__ _n_ (tenets)  
-__brainchild__  
-__soldiered__ _v_  
-
-__fizzle up__  
-__hold up__  
-__b’day__ :mega:  
-__round the clock__ _There are sirens round the clock._  
-__flee__ _v_ _Fleeing New York._  
-__no worries__  
-__dialysis__ (?)  
-__for the most part__  
-__whatnot__  
-__rub something in someone’s face__  
 
 __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
 __deviate__ _v_ :mega:  
