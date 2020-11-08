@@ -1,5 +1,16 @@
 
 
+__octothorpe__ _n_  The symbol (#).  
+__imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
+__erudite__ _adj_ Having or showing knowledge that is gained by studying.  
+__Equality State__ _n_ WY, Wyoming.  
+__in (one's) dotage__ _idiom_ In a state of senility or mental decline due to old age.  
+__engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
+__perseverate__ _v_  
+__Godwin's law__ _idiom_ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it's just Godwin's law._  
+__idiosyncratic__ _adj_  
+__accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
+
 __hook, line, and sinker__ _idiom_ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __get one's act together__ _idiom_ (get one's shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he'll get a raise_, or _You'd better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar.  
 __man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
