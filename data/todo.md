@@ -1,5 +1,15 @@
 
 
+__manic__ :mega:  
+__expendable<sup>1</sup>__ _adj_  
+__expendable<sup>2</sup>__ _n_ Something that is expendable.  
+__segregate__ _v_ (segregated)  
+__EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
+__wild__ _informal_  
+__sleeky__ _adj_  
+__in the thick of it__ _idiom_ Very busy; in the middle of or preoccupied with something or several things.  
+__lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
+__bear fruit__ _idiom_ (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __vending__ _n_ The act of selling.  
 __vending machine__ _n_  
 __questionnaire__ _n_  
