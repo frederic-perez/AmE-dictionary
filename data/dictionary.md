@@ -246,6 +246,7 @@ __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bemen
 __aforementioned__ _adj_ :two::hammer:  
 __afoul__ :two::hammer:  
 __afresh__ _They had to start afresh._  
+__Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
 __aft__ :two::hammer: _Aft compartment._  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __aftereffects__  
@@ -1009,6 +1010,7 @@ __beanie__ _n_ :camera::dart:
 __beanpole__  
 __beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
+__bear fruit__ _idiom_ (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
@@ -4092,6 +4094,7 @@ __druthers__
 __dry age__ _v_  
 __dry goods__ _Dry goods store._  
 __dry humor__  
+__dry run__ _n_ :two::hammer:  
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
 __dryly__ _adv_ :two::hammer::astonished:  
@@ -4345,6 +4348,7 @@ __Empress__
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-net/power-play/short-handed goal__  
+__EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __emulate__ _v_  
 __emulsified__ _v_  
 __en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
@@ -4572,6 +4576,8 @@ __expedite__ _v_ :dart::seven::hammer: (expedited) _Wear easy on/off shoes to ex
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
+__expendable<sup>1</sup>__ _adj_  
+__expendable<sup>2</sup>__ _n_ Something that is expendable.  
 __expenditure__ _n_ :five: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
@@ -7016,7 +7022,7 @@ __in the offing__
 __in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
-__in the thick of something/it__ _idiom_ :four::hammer: _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of it/(something)__ _idiom_ :six: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
@@ -8083,8 +8089,10 @@ __lowkey__
 __lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
 __lowlights__  
 __lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
+__lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
 __lucifer match__  
+__lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
 __lucubration__ _n_  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
@@ -8230,7 +8238,7 @@ __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around t
 __Manhattanite__  
 __manhole cover__  
 __manhung__ _n_  
-__manic__ _I was manic._  
+__manic__ :two::mega::hammer: _I was manic._  
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
@@ -8559,6 +8567,7 @@ __misuse__ _v_ :two::hammer: _It results in code that is easier to understand an
 __mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
 __mitzvah__  
+__mix apples and oranges__ _idiom_ To combine or compare two different things.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
@@ -9225,6 +9234,7 @@ __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for th
 __onagers__ _n_  
 __onboard__ :two::hammer:  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
+__once and for all__ _idiom_ Finally; permanently.  
 __once in a blue moom__ Very rarely.  
 __once in a while__  
 __once-over__  
@@ -10158,6 +10168,7 @@ __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._
 __pony up__ _phr v_ _slang_ To pay (money owed or due).  
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
+__poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__ _n_ _slang_ :three: A dog.  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
@@ -10655,6 +10666,7 @@ __quenches__ _v_
 __querulous__ _adj_ :three::hammer:  
 __query__ :mega:  
 __questioner__ _n_  
+__questionnaire__ _n_  
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
@@ -11761,7 +11773,7 @@ __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, com
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::m::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it's a person who's seething, watch out! He or she is really angry! _Pujols was left seething._  
-__segregate__ _v_ _Same building, but segregated schools._  
+__segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated schools._  
 __segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
@@ -12271,6 +12283,7 @@ __sleazebag__
 __sleaziest__  
 __sleazy__ _adj_ :nine: _(disapproving)_ __1__ A sleazy place is dirty, cheap, or in bad condition: _sleazy bars._ __2__ Relating to sex or dishonest behavior: _a sleazy lawyer._  
 __sleek__ _adj_ :two::hammer:  
+__sleeky__ _adj_  
 __sleep deprivation__  
 __sleep in__ _v_  
 __sleep__ _n informal_ Dried mucus that sometimes collects in the eye corners when sleeping. :es: legaña  
@@ -14606,6 +14619,8 @@ __vellum__
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
 __venality__  
+__vending machine__ _n_  
+__vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :six::hammer: (veneers) _A veneer of quality._  
 __venerable__ _adj_  
@@ -15048,7 +15063,7 @@ __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)
 __wigglers__  
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild goose chase__ _idiom_ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
-__wild__ _adj_ :six::hammer: _It's wild!_  
+__wild__ _adj_ :seven::hammer: _It's wild!_  
 __wilderness__ _n_ :two::hammer:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  

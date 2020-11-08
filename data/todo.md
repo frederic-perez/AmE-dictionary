@@ -1,26 +1,5 @@
 
 
-__manic__ :mega:  
-__expendable<sup>1</sup>__ _adj_  
-__expendable<sup>2</sup>__ _n_ Something that is expendable.  
-__segregate__ _v_ (segregated)  
-__EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
-__wild__ _informal_  
-__sleeky__ _adj_  
-__in the thick of it__ _idiom_ Very busy; in the middle of or preoccupied with something or several things.  
-__lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
-__bear fruit__ _idiom_ (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
-__vending__ _n_ The act of selling.  
-__vending machine__ _n_  
-__questionnaire__ _n_  
-__dry run__ _n_ :two::hammer:  
-__Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__lozenges__ _n_  
-__poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
-__once and for all__ _idiom_  
-__mix apples and oranges__ _idiom_ To combine or compare two different things.  
-__in the thick of (something)__ _idiom_  
-
 __hook, line, and sinker__ _idiom_ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __get one's act together__ _idiom_ (get one's shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he'll get a raise_, or _You'd better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar.  
 __man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
