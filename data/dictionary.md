@@ -113,6 +113,7 @@ __abysmal__
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
+__accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _Ottolenghi is an accidental chef._  
 __acclaimed__  
 __accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
@@ -4390,6 +4391,7 @@ __enervate__ _v_ To weaken.
 __engage__ _v_ _I'm engaged with my work._  
 __engine room__ _idiom_ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship's engine. _Sarah is our engine room, so with her injured, I'm not sure how we'll be able to win on Saturday._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
+__engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
 __enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
 __enjambments__  
@@ -4453,6 +4455,7 @@ __epitome__ _n_ :eight: A person or thing that is a perfect example of a particu
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :eight::hammer: (eponymously)  
 __equaled__ _v_  
+__Equality State__ _n_ WY, Wyoming.  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
 __equerries__  
@@ -4474,6 +4477,7 @@ __errand__ _n_ _He had an errand to run._
 __errata__  
 __ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
 __erstwhile__ _adj_ :five::hammer:  
+__erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __escalation__ _n_  
@@ -4588,6 +4592,7 @@ __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:
 __exploit<sup>2</sup>__ _v_ :mega:  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __expose__ _v_  
+__exposé__ _n_ A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
 __expostulate__ _v_ :two::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
@@ -5576,7 +5581,7 @@ __get off on (something)__
 __get off__ _I always get off the bus a stop early on the way to work._  
 __get on someone's nerves__ _idiom_ To annoy someone a lot.  
 __get on your nerves__ _idiom_ To annoy someone a lot.  
-__get one's act together__ _informal_ Galvanize oneself into organizing one's affairs effectively.  
+__get one's act together__ _idiom_ :two: (get one's shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he'll get a raise_, or _You'd better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one's affairs effectively.  
 __get out of Dodge__ _idiom_ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of here__  
 __Get outta here!__ _idiom_  
@@ -5780,6 +5785,7 @@ __God's green earth__ _idiom_ The entire planet; anywhere and everywhere.
 __God's honest truth__ _idiom_ The absolute, unequivocal truth. (I.e., as if spoken by God Himself.)  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_  
+__Godwin's law__ _idiom_ A maxim stating that the longer an online debate continues, the higher the likelihood that a comparison will be made to Adolf Hitler or the Nazis. The concept is credited to American lawyer and author Mike Godwin. _Someone in this thread will be compared to Hitler soon enough—it's just Godwin's law._  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
@@ -6370,6 +6376,7 @@ __headdress__ _n_ :three::pencil2::hammer: _The pharaoh's headdress._
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
 __headline__ _n_  
+__headquarters__ _n pl_ (used with a sing. or pl. verb)  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
@@ -6687,6 +6694,7 @@ __hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
 __hook up__  
+__hook, line, and sinker__ _idiom_ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hookah__ _n_  
 __hooked on (someone or something)__ _idiom_  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
@@ -6889,7 +6897,7 @@ __ides__ _n_
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__  
-__idiosyncratic__ _adj_  
+__idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idle__ _v_  
 __idolatry__ :two::hammer:  
@@ -6943,6 +6951,7 @@ __impelled__
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
+__imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :five::hammer:  
@@ -6965,6 +6974,7 @@ __impromptu__ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __improvident__ _adj_  
 __impunity__  
+__in (one's) dotage__ _idiom_ In a state of senility or mental decline due to old age.  
 __in (one's) heyday__ _idiom_ In, at, or during the period of one's greatest success, power, vigor, etc.  
 __in (one's) own right__ _idiom_ Through the force of one's own skills or qualifications.  
 __in (someone's) view__ _idiom_ In someone's opinion.  
@@ -7632,7 +7642,7 @@ __lace__ _n_
 __laced__ _v_ _I have laced a few punters._  
 __lacerate__ _v_  
 __lachrymose__ _adj_  
-__lackadaisical__  
+__lackadaisical__ _adj_ :two::hammer:  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_  
@@ -7659,6 +7669,7 @@ __laid-back__ _adj_ _idiom_ :eight: __1__ Calm, casual, or at ease. Unhurried an
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger's lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
+__lalochezia__ Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _The Bronco is on the lam._  
 __lamb__ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
@@ -8219,6 +8230,7 @@ __mallards__
 __mallow__ :pencil2:  
 __malnourished__  
 __mamasan__  
+__man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man<sup>1</sup>__ _Oh, man!_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
@@ -8496,7 +8508,7 @@ __mince<sup>2</sup>__ _n_
 __mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
 __mind__ _v_ _Mind the gap._  
-__mind-boggling__  
+__mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling prices._  
 __minder__ :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
@@ -9025,6 +9037,7 @@ __nose-thumbing__ :camera:
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
+__not (one's) first rodeo__ _idiom_ One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don't think I'll fall for that old trick. This isn't my first rodeo, you know._  
 __not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
 __not even close__ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
@@ -9116,6 +9129,7 @@ __OCD__ :two::hammer: _abbrev_
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __octogenarians__  
 __octoroons__  
+__octothorpe__ _n_ The symbol (#).  
 __OD__ _v_  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddly enough__  
@@ -9792,6 +9806,7 @@ __pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful,
 __peroxide__  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
+__perseverate__ _v_  
 __persona__ _n_ :two: In Latin, _persona_ originally meant "mask." _That's my stage persona._  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
@@ -11436,7 +11451,7 @@ __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rus
 __rut__ :two::hammer: _Some guy with rut for brains._  
 __ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
-__RV__  
+__RV__ _abbr_ :two: Recreational vehicle.  
 __RVR__ _Write me up with an RVR._  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
