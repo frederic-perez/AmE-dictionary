@@ -1,5 +1,16 @@
 
 
+__downsize__ _v_  
+__antiques__ _n_  
+__saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
+__down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds.  
+__downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
+__nursery__  
+__albatross__ _n_ :mega:  
+__husk__ _n_  
+__jelly__ _n_ __5__ A jellyfish. :es: medusa  
+__plankton__ _n_  
+
 __mood story__ :two::hammer:  
 __far cry__  
 __waldo__ _n_ (waldoes)  
