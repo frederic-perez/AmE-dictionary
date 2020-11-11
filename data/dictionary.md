@@ -135,7 +135,7 @@ __accoutrement__ _n_ :three::hammer: (accouterment, accoutrements)
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
-__acerbic__ _adj_ :three::hammer:  
+__acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
@@ -578,7 +578,7 @@ __armageddon__
 __armchair expert__ _idiom_  
 __armed to the teeth__ _idiom_ :two: Fully armed, having many weapons.  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
-__armistice__ _n_ A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
+__armistice__ _n_ :two::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning "to come to a stand" or "to cause to stand or stop," combined with _arma_, meaning "weapons.  
 __armload__  
 __armory__  
 __arms embargo__  
@@ -666,6 +666,8 @@ __astigmatism__ _n_
 __astir__  
 __astounded__  
 __astraddle__  
+__astray<sup>1</sup>__ _adv_  
+__astray<sup>2</sup>__ _adj_  
 __astride__ _adv_ :three::hammer:  
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
@@ -1728,7 +1730,7 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _I had already sent my editor a budget line on the story._  
 __budget__ :two::hammer: _The surface energy budget._  
-__buff<sup>1</sup>__ _n informal_ :eight: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
@@ -2011,6 +2013,7 @@ __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity t
 __canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
+__candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :four::hammer: _Organic coffee canisters._  
@@ -3620,6 +3623,7 @@ __devoir__ _n_ :two::hammer:
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
 __devote__ _v_ _We're devoting this episode to his paintings._  
+__devout__ _adj_  
 __dewlaps__ _n_ :two::hammer:  
 __dexterous__ _adj_  
 __diabolical__ _adj_  
@@ -3787,7 +3791,7 @@ __dissatisfaction__ :two::hammer:
 __dissatisfied__ _adj_ :two::pencil2::hammer:  
 __dissatisfy__ _v_ :two::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
-__dissemble__ _v_ :four::hammer: _Syn_ disguise, cloak, mask, pretend  
+__dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :four::hammer:  
@@ -3959,7 +3963,7 @@ __down time__ _n_
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
 __down-low__  
-__down-to-earth__ _idiom_ :three: Sensible and realistic.  
+__down-to-earth__ _adj_ _idiom_ :four: Sensible and realistic.  
 __downbeat__ :two::hammer:  
 __downburst__ _n_  
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
@@ -4591,8 +4595,8 @@ __explication__ _n_
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
-__expose__ _v_  
 __exposé__ _n_ A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
+__expose__ _v_  
 __expostulate__ _v_ :two::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
@@ -5208,6 +5212,7 @@ __foreclosure__ _n_ :two::hammer:
 __forefathers__  
 __forefinger__  
 __forefront__  
+__foregather__ _v_ Collect in one place. _Syn_ assemble, meet _The captains of every ship in the fleet rowed into the lagoon to foregather on its secluded beach._  
 __forego__ _v_ :two::hammer:  
 __foregone__ :two::hammer:  
 __forehead__ :mute:[fore~~h~~ead]  
@@ -5460,7 +5465,7 @@ __gallows__ _n_
 __galore__ _adv_  
 __galoshes__ _n_  
 __galvanize__ _v_ :seven: (galvanized) To startle into sudden activity; stimulate.  
-__gambit__ _n_ :three: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, ploy  
+__gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
@@ -6617,6 +6622,7 @@ __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hok
 __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one's) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one's) nose__ _idiom_  
+__hold (someone) in good stead__ _idiom_ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
 __hold a referendum__  
@@ -6999,6 +7005,7 @@ __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likel
 __in droves__ _They will come in droves._  
 __in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
+__in front of (one's) nose__ _idiom_ Immediately obvious or clearly apparent.  
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
 __in his own right__ _idiom_ :two: By reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ _idiom_ In trouble.  
@@ -7467,6 +7474,7 @@ __keel<sup>2</sup>__ _n_
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
+__keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
@@ -7494,7 +7502,7 @@ __keyboarding__ _n_ The work of inputting information using a keyboard.
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
 __keystone__ :es: piedra angular  
-__keystrokes__  
+__keystroke__ _n_ :two::hammer: (keystrokes)  
 __khakis__ _n_ :two::hammer:  
 __kibble__ _n_  
 __kibbutz__  
@@ -8750,6 +8758,7 @@ __mullet__ :two::hammer:
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicopter__ _n_ _Syn_ multirotor  
+__multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
 __multipurpose__ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
@@ -8828,6 +8837,7 @@ __nag<sup>2</sup>__ _n_ (often derogator) A horse.
 __nagging__ _adj_ :four: Discomforting; worrying; nigglingscolding; complaining. _He blamed the nagging wife._ _A nagging groin injury._ _A nagging knee injury._  
 __nail it down__  
 __nail it__  
+__nail-biter__ _n_ A situation marked by anxiety or tension.  
 __nails__ _n_  
 __naïveté__  
 __namaste__ _interj_  
@@ -9865,6 +9875,7 @@ __photography__ _n_ :mega:
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
 __phylacteries__ :two::hammer:  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions._ __2__ To describe or interpret in physical terms: _"a writer who physicalizes everything he feels" (James Wolcott)._  
+__physiology__ _n_  
 __phytoplankton__ _n_  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
@@ -10475,7 +10486,7 @@ __prospector__
 __prospectus__  
 __prostrate<sup>1</sup>__ _adj_  
 __prostrate<sup>2</sup>__ _v_  
-__protean__ _adj_ :three::hammer:  
+__protean__ _adj_ :four::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
@@ -12236,6 +12247,7 @@ __skimboard__
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don't skimp on the turkey._  
 __skimpy__ _adj_ :three::hammer:  
+__skin diving__ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
@@ -15306,7 +15318,7 @@ __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A 
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
 __yarn__ _n_ :six::hammer: _Political yarns._ _Nylon yarn._  
-__yaw__ _v_ :two::hammer: (yawing)  
+__yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawner__ _n_ :two::hammer:  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
