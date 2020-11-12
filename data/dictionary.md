@@ -318,7 +318,7 @@ __alabaster__
 __alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
 __Alas!__  
 __Alaskan__  
-__albatross__ _n_ :pencil2::two::hammer:  
+__albatross__ _n_ :pencil2::three::mega::hammer:  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
@@ -484,7 +484,7 @@ __antic__
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
 __antiquated__ _adj_ :three::hammer:  
-__antique__ _n_ :three::mute:[antiq~~u~~e]:hammer: _Antiques dealer._  
+__antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antler__ _n_  
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
@@ -2255,7 +2255,7 @@ __Chancellor__
 __chances are__  
 __chandler__  
 __change__ _n_ _There is change in the shower._  
-__changeover__ _n_  
+__changeover__ _n_ :two::hammer:  
 __chant__ _v_ (vs sing?)  
 __chanticleer__ _n_  
 __chanting__  
@@ -3962,6 +3962,7 @@ __down the strech__ _Williams scored nine points in five minutes down the stretc
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
+__down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds.  
 __down-low__  
 __down-to-earth__ _adj_ _idiom_ :four: Sensible and realistic.  
 __downbeat__ :two::hammer:  
@@ -3978,6 +3979,7 @@ __downplay__ _v_ :four::hammer: (downplayed)
 __downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
+__downsize__ _v_  
 __downslope__ _n_  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
@@ -3986,6 +3988,7 @@ __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtr
 __downturn__ _n_  
 __downturns__ :two::hammer:  
 __downward__ _A downward spiral._  
+__downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :four::hammer: :es: dote  
 __DOY__ _abbr_ Day of year.  
 __doyenne__  
@@ -4740,7 +4743,7 @@ __fast food__ :mega:
 __fast-track__ _v_  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :four::hammer: _He was fastidious about showing off his collection._  
+__fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his collection._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
@@ -5621,7 +5624,7 @@ __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot win
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one's disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn't interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
-__ghoul__ _n_ :four::mute:[g~~h~~oul]:hammer:  
+__ghoul__ _n_ :five::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
 __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_  
 __gibblets__ _n_  
@@ -6840,7 +6843,7 @@ __hush up__ _phr v_ :three: To not let something become known. _The matter had b
 __hush-hush__ Very secret.  
 __hush<sup>1</sup>__ _n_  
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
-__husk<sup>1</sup>__ _n_ :five::hammer: (husks) _Cane husks._  
+__husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
 __husk<sup>2</sup>__ _v_  
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle (one's) bustle__ _idiom_ To increase one's pace or sense of urgency; to hurry up; to get moving quickly.  
@@ -7332,6 +7335,7 @@ __jell__ _The plans didn’t jell._
 __jelly doughnuts__  
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
+__jelly__ _n_ __5__ A jellyfish. :es: medusa  
 __jeopardize__ _v_  
 __jeremiad__  
 __jerk around__  
@@ -8643,6 +8647,7 @@ __monsoon__ _n_ :four::hammer:
 __monstrosity__ :pencil2::two::hammer:  
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
+__mood story__ :two::hammer:  
 __moody__ :two::hammer:  
 __moon roof__  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
@@ -9090,7 +9095,7 @@ __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :three::hammer:  
-__nursery__ _n_ The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
+__nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _slang_ A crazy or strange person.  
@@ -10040,6 +10045,7 @@ __plan B__ (capital B) An alternative strategy. _It's time I put plan B into act
 __plane__ :two::hammer: _It was a place full of plane trees._  
 __plangent__  
 __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
+__plankton__ _n_  
 __plano__ _Plano sunglasses._  
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
 __planter__ _My sidewalk planter._  
@@ -11222,6 +11228,7 @@ __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A dis
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
+__right on__ _The description of the bomb was right on._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _Rightfully so._  
@@ -11579,6 +11586,7 @@ __savagery__
 __save (one's) face__  
 __save the day__ _idiom_ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ _idiom_ Stop useless talk.  
+__saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __savior__  
 __savvy<sup>1</sup>__ _v_  
 __savvy<sup>2</sup>__ _n_  
@@ -12593,7 +12601,7 @@ __solicitude__ A feeling of excessive concern.
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
-__soliloquy__  
+__soliloquy__ :two::hammer:  
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
@@ -14716,7 +14724,7 @@ __villa__ _n_ :two::hammer:
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
-__vindicate__ _v_ :eight::hammer: (vindicated)  
+__vindicate__ _v_ :nine::hammer: (vindicated)  
 __vindication__ _n_ :eight::hammer:  
 __vintner__ _n_  
 __vinyasa__ _n_  
@@ -14801,6 +14809,7 @@ __waivers__ _n_
 __wakame__ _n_  
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
 __wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold's sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one's hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there's no way I oversleep for the first conference session tomorrow._  
+__waldo__ _n_ (waldoes)  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggshells__  
@@ -15171,7 +15180,7 @@ __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way 
 __with a vengeance__ _idiom_ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We're going to have to clean with a vengeance to get the house ready in time._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
-__withdrawal__ _n_ Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._  
+__withdrawal__ _n_ :two: Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you "take it out" of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that's a withdrawal too. Remember that withdrawal ends in "wal" and not just "wl." _I was going through withdrawal._ _Readers suffered withdrawal symptoms._  
 __withe down__ _v_  
 __wither away__ _v_ :two::hammer:  
 __wither__ _v_ :three::hammer: (withers, withered)  
