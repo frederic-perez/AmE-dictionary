@@ -1,5 +1,17 @@
 
 
+
+__fling__ _n_  
+__formulate__ _I was formulating my question._  
+__breed__ _v_ _Breeding fear._  
+__callous__ _adj_  
+__relate__ _I don’t relate._  
+__hahaha__ (?)  
+__soothe__ _v_ (soothing)  
+__candor__ _n_  
+__food bank__  
+__in the thick of it__  
+
 __carcass__ _n_ _A whale carcass._  
 __calf__ _n_ __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
