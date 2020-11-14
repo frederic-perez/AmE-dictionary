@@ -1,5 +1,15 @@
 
 
+__keep (one's) socks on__ _idiom_ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
+__farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
+__wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
+__golden goose__ _idiom_ A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
+__ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
+__leviathan__ _n_  
+__keep (up) (one's) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one's end of the bargain up.”  
+__expansive__ _adj_  
+__bountiful__ _adj_ __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
+__fingers crossed__ _idiom_ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
 
 __fling__ _n_  
 __formulate__ _I was formulating my question._  
