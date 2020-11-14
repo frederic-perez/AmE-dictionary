@@ -250,6 +250,7 @@ __afresh__ _They had to start afresh._
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
 __aft__ :two::hammer: _Aft compartment._  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
+__afterburner__ _n_  
 __aftereffects__  
 __afterglow__  
 __aftermarket__  
@@ -1526,8 +1527,8 @@ __bottom out__ _Europe is bottomed out._
 __bottom-of-the-barrel__  
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
-__bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
 __bouillon cube__ _n_  
+__bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
@@ -2035,6 +2036,7 @@ __cantilevered__
 __canvass__ _v_ :two::hammer::astonished:  
 __cap<sup>1</sup>__ _n informal_ :three: A capital letter. (soccer; hat?)  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
+__capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
@@ -2768,6 +2770,7 @@ __conceded__ _A total of 44 goals scored and 48 conceded last year._
 __conceit<sup>1</sup>__ _n_  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :two: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
+__conceivably__  
 __concern__ _v_ :two::hammer: (concerned)  
 __concerted__  
 __concertina wire__  
@@ -4445,7 +4448,7 @@ __envelope > push the envelope__ _idiom_ To go beyond established limits; to pio
 __enviable__  
 __environs__ _n pl_  
 __envisage__ _v_ :two: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
-__envision__ _v_ :two::hammer:  
+__envision__ _v_ :three::hammer:  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
@@ -6981,7 +6984,7 @@ __impoverished__ _v_
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
 __impression__ _n_ :two::hammer:  
-__imprint<sup>1</sup>__ _n_  
+__imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
 __impromptu__ :two::hammer: _Some things are impromptu._  
@@ -7176,6 +7179,7 @@ __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
+__innocuous__ _adj_  
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
@@ -8029,6 +8033,7 @@ __locks > alcohol ignition locks__
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
 __lockstep__ :two::hammer:  
+__locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
 __lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
@@ -8131,7 +8136,7 @@ __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or no
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
 __lug wrench__ :two::hammer:  
-__lug__ _v_ :four::hammer:  
+__lug__ _v_ :five::hammer: (lugs) _A passenger lugs an injured swan onto the train._  
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
 __lugging__ _v_ :three::hammer:  
@@ -9060,7 +9065,7 @@ __nose-thumbing__ :camera:
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
-__not (one's) first rodeo__ _idiom_ One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don't think I'll fall for that old trick. This isn't my first rodeo, you know._  
+__not (one's) first rodeo__ _idiom_ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don't think I'll fall for that old trick. This isn't my first rodeo, you know._  
 __not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
 __not even close__ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
@@ -9868,7 +9873,7 @@ __pharmaceutical__ :mega: (fär′mə-so͞o′tĭ-kəl)
 __phase out__  
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
-__phew__ _interj_ Used to express relief, fatigue, surprise, or disgust.  
+__phew__ _interj_ :two: Used to express relief, fatigue, surprise, or disgust.  
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
 __philandering__  
@@ -10879,7 +10884,7 @@ __rattling<sup>1</sup>__ _n_
 __rattling<sup>2</sup>__ _v_  
 __rattling<sup>3</sup>__ _adj_  
 __ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
-__raucous__ _adj_ :nine: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Syn_ harsh, strident :es: estridente  
+__raucous__ _adj_ :nine::m: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Copland’s Hoedown is raucously fun._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :four::hammer:  
@@ -10920,7 +10925,7 @@ __ready-room__ _n_ :two::hammer:
 __readying__ _v_ :astonished:  
 __reaffirming__  
 __realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
-__reality check__  
+__reality check__ _n_ :two: An occasion or opportunity to consider a matter realistically or honestly.  
 __realtor__ _n_ :three::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
@@ -11038,6 +11043,7 @@ __regulation__ _n_ :four::hammer: _Hot dogs still in the mouth at the end of reg
 __regulator__ _n_  
 __regulatory muster__  
 __regulatory__  
+__rehabber__ _n informal_ A person who engages in rehabilitating something. _A wildlife rehabber._  
 __rehash__ _v_ :two::hammer:  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
 __reimagining__ _n_  
@@ -11805,6 +11811,7 @@ __see red__ _idiom_ :two: To become very angry.
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
+__seedling__ _n_ :dart: A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
 __seedy__ _A seedy world._  
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
@@ -12854,7 +12861,7 @@ __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one's k
 __squat<sup>2</sup>__ _adj_ :six: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn't know squat aboit what went on over there._  
 __squatter__  
-__squawk__ _v_ :three::hammer: (squawked, squawking) _The walkie-talkie squawked._  
+__squawk__ _v_ :four::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ :two::hammer:  
@@ -12950,7 +12957,7 @@ __starfish__
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
-__startling__ :two::hammer:  
+__startling__ _adj_ :three: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
 __stasis__  
 __stat sheet__ :two::hammer: _The stat sheet for him will be ugly--he missed 10 of his 15 shots._  
@@ -14044,7 +14051,7 @@ __top-of-mind__
 __topiary__  
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
-__topsy-turvy__ _adj_ :three::hammer:  
+__topsy-turvy__ _adj_ :four::hammer: _Topsy-turvy battles._  
 __torches__ _n_  
 __tore__ _v_  
 __toric__ _adj_ _Toric lens._  
@@ -14169,6 +14176,7 @@ __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical tre
 __triage<sup>2</sup>__ _v_ :two::hammer:  
 __trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
 __tribal__  
+__tribble__ _n_  
 __Tribeca__  
 __tribulation__ _n_ :nine::hammer: (tribulations)  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
