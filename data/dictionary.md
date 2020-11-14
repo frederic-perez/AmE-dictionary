@@ -470,7 +470,7 @@ __answer for__ _phr v_ To be responsible for something bad.
 __answer__ :mute:[ans~~w~~er]  
 __antagonize__ _v_  
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
-__antebellum__  
+__antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antedate__ _n_  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
@@ -1526,12 +1526,12 @@ __bottom out__ _Europe is bottomed out._
 __bottom-of-the-barrel__  
 __boudin__ :two::hammer: _A length of white boudin in a saucer._  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
-__bouillion__ _Bouillion cubes._  
-__bounce__ _v_ _slang_ To leave.  
+__bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
+__bouillon cube__ _n_  
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
-__bountiful__  
+__bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
@@ -3013,7 +3013,7 @@ __course__ _n_ _The course features dishes such as lobster, four gras and mushro
 __coursework__  
 __Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __courtyards__ _n_  
-__covenant__ _n_ :five::hammer: _He generally doesn't buy so-called "covenant lite" deals._ _It has nothing to do with the covenant of Abraham._  
+__covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn't buy so-called "covenant lite" deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __cover all bases__  
 __cover charge__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
@@ -4543,6 +4543,7 @@ __ew__ _exclamation_ _informal_ (eww) Expression of disgust or nausea. _Ew! Ther
 __ewer__ _n_  
 __ewes__ _n_  
 __ex cathedra__ _adj_ _adv_ With the authority derived from one's office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
+__ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exasperation__  
@@ -4578,6 +4579,7 @@ __exiguous__ _adj_ :two::hammer:
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
+__expansive__ _adj_  
 __expansively__ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -4732,6 +4734,7 @@ __farfetch__ _v_ (farfetched)
 __farflung__ _Farflung operations and profits._  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_  
+__farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __farther__ :two::hammer:  
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
@@ -4919,6 +4922,7 @@ __finger prick__ :camera::two::hammer: _Testing blood from a finger prick to dia
 __finger__ _v_  
 __finger-licking good__ _idiom_ Very tasty.  
 __finger-waggers__  
+__fingers crossed__ _idiom_ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
 __finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
 __finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
@@ -5799,7 +5803,7 @@ __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He go
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __Golden Boot__ _The race for the Golden Boot._  
-__golden goose__ _idiom_ :two::hammer: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time.  
+__golden goose__ _idiom_ :three: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
 __golden rule__  
 __golden ticket__ _idiom_ A person, thing, quality, ability, or accomplishment that provides a reliable opportunity for great financial or personal success.  
 __golden years__ _idiom_ The years following one's retirement (generally after the age of 65).  
@@ -5880,6 +5884,7 @@ __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for sus
 __gramps__  
 __grand jury__  
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
+__grand scheme__ _idiom_ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
 __grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
 __grandiose__  
@@ -7477,8 +7482,10 @@ __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
+__keep (one's) socks on__ _idiom_ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
+__keep (up) (one's) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one's end of the bargain up.”  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
@@ -7874,7 +7881,7 @@ __leveled__ :two::hammer:
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :four::hammer:  
-__leviathan__  
+__leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ _His levity faded._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
@@ -7928,6 +7935,7 @@ __like pulling teeth__ _idiom_
 __like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
 __like water off a duck's back__ _idiom_ Without any apparent effect.  
+__like-minded__ _adj_ Agreeing in opinions, goals, etc.  
 __likelier__  
 __likelihood__ _n_ :two::pencil2: Probability.  
 __likely__ _You are likely to get derailed into organizing._  
@@ -10141,7 +10149,7 @@ __PO__ Parole officer?
 __po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po'-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
-__poacher__ _n_ :three::hammer: (poachers) _A chimpanzee that lost its mother to poachers._  
+__poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
 __poaching__ :two::hammer: _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
@@ -11215,6 +11223,7 @@ __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
+__riddled__ _adj_  
 __ride__ _n_ _idiom_ A car.  
 __ridership__ :two::hammer:  
 __RIF__ _Reading Is Fundamental._  
@@ -14285,7 +14294,7 @@ __turnip__ _n_ :three::hammer:
 __turnkey__ _adj_ :three::hammer: _Turnkey property._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
-__turnover__ _n_ :four: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
+__turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as "turnovers" are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
 __turnsole__ :pencil2:  
@@ -14726,6 +14735,7 @@ __villas__ _n_
 __vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :nine::hammer: (vindicated)  
 __vindication__ _n_ :eight::hammer:  
+__vindictive__ _adj_  
 __vintner__ _n_  
 __vinyasa__ _n_  
 __viper__ _n_ :three::hammer: (vipers)  
@@ -14791,6 +14801,7 @@ __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour.
 __wafted__ _v_  
 __wafting__ _v_  
 __wag__ _v_ :four::hammer: _The puppy was wagging its tail._  
+__wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
 __wage<sup>1</sup>__ _n_ :two::hammer:  
 __wage<sup>2</sup>__ _v_ :two::hammer: (waged)  
 __wager__ _n_  
@@ -14812,7 +14823,7 @@ __wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency
 __waldo__ _n_ (waldoes)  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
-__walk on eggshells__  
+__walk on eggs__ _idiom_ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I'm at her house._  
 __walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
