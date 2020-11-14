@@ -1,5 +1,16 @@
 
 
+__locum__ _n_  
+__phew__ _interj_  
+__reality check__ _n_ An occasion or opportunity to consider a matter realistically or honestly.  
+__hapless__  
+__raucous__ _Copland’s Hoedown is raucously fun._  
+__innocuous__ _adj_  
+__squawking__ _v_  
+__lugs__ _v_ _A passenger lugs an injured swan onto the train._  
+__rehabber__ _A wildlife rehabber._  
+__not my first rodeo__ _idiom_  
+
 __afterburner__  
 __seedling__  
 __topsy-turvy__ _Topsy-turvy battles._  
