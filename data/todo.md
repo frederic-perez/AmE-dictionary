@@ -1,5 +1,16 @@
 
 
+__afterburner__  
+__seedling__  
+__topsy-turvy__ _Topsy-turvy battles._  
+__envision__ _v_  
+__tribbles__ _n_  
+__lest__  
+__capable__  
+__startling__  
+__conceivably__  
+__imprint__ _n_  
+
 __fling__ _n_  
 __formulate__ _I was formulating my question._  
 __breed__ _v_ _Breeding fear._  
