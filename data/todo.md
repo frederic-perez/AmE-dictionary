@@ -1,5 +1,16 @@
 
 
+__glut__ _n_  
+__swamped__ _Supply had swamped demand._  
+__disillusioned__  
+__romance__ :astonished:  
+__oddly enough__  
+__quaint__  
+__ESP__ _ESP powers._  
+__specialty__  
+__mainstay__  
+__dandelion__  
+
 __fling__ _n_  
 __formulate__ _I was formulating my question._  
 __breed__ _v_ _Breeding fear._  
