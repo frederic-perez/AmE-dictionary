@@ -1,6 +1,17 @@
 
 
 
+__unsympathetic__  
+__hands-on__ _A hands-on director._  
+__repudiate__ _v_  
+__patterned__ _v_  
+__brainchild__ _n_  
+__wagon__ _n_ _A covered wagon._  
+__chipped__ _Chipped around the edges._  
+__tarnished__  
+__hoot__ _n_  
+__scurry__ _v_  
+
 __fling__ _n_  
 __formulate__ _I was formulating my question._  
 __breed__ _v_ _Breeding fear._  
