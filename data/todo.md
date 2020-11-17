@@ -1,28 +1,6 @@
 
 
 
-__crease__ _n_ (creases) _There are creases in the cover._  
-__in short order__ :two::hammer:  
-__sprocket__ _Sprockrt holes._  
-__outpour__ _v_ (outpouring)  
-__drumfire__  
-__fathoms__ _n_  
-__hemlines__ _n_  
-__fogy__ _An old fogy of thirty-two._  
-__impeccable__  
-__omen__  
-
-__glut__ _n_  
-__swamped__ _Supply had swamped demand._  
-__disillusioned__  
-__romance__ :astonished:  
-__oddly enough__  
-__quaint__  
-__ESP__ _ESP powers._  
-__specialty__  
-__mainstay__  
-__dandelion__  
-
 __fling__ _n_  
 __formulate__ _I was formulating my question._  
 __breed__ _v_ _Breeding fear._  

@@ -3087,6 +3087,7 @@ __craze<sup>2</sup>__ _n_
 __creak__ _v_ :three::hammer: (creaked)  
 __creakings__ _Door creakings._  
 __creaky__ _Creaky infrastructure._  
+__crease__ _n_ (creases) _There are creases in the cover._  
 __creased__  
 __creases__ _Knife creases._  
 __creasing__  
@@ -3341,7 +3342,7 @@ __dampness__
 __damsel__ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
-__dandelion__ _n_ :five: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
+__dandelion__ _n_ :six: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__ _adj_ :two::hammer:  
@@ -3761,6 +3762,7 @@ __dishing__ _v_
 __dishonest__  
 __dishwasher__ _I worked as a dishwasher._  
 __dishy__  
+__disillusioned__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuous__ _adj_ :three: Not really honest or sincere, and only pretending to be.  
@@ -4101,6 +4103,7 @@ __drum out__ _The were drummed out of the club._
 __drum up__  
 __drum__ _v_  
 __drumbeat__ _Their drumbeat of criticism._  
+__drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
 __druthers__  
 __dry age__ _v_  
 __dry goods__ _Dry goods store._  
@@ -4498,6 +4501,7 @@ __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from s
 __eschews__ _v_  
 __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
+__ESP__ _abbr_ Extrasensory perception. _ESP powers._  
 __espadrilles__ _n_  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
 __essence__ _n_ :pencil2:  
@@ -4757,7 +4761,8 @@ __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it dro
 __fatal__ _adj_  
 __Father Time__  
 __fatherland__ :astonished:  
-__fathom__ _v_ :four::hammer:  
+__fathom<sup>1</sup>__ _v_ :four::hammer:  
+__fathom<sup>2</sup>__ _n_ (fathoms)  
 __fatigue__  
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
@@ -5142,6 +5147,7 @@ __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2_
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ :two::hammer:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
+__fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story's comic foils along with King's mother._ _As many as five terror plots were foiled last year._  
@@ -5718,7 +5724,7 @@ __glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepe
 __glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
-__glut<sup>1</sup>__ _n_ :six: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
+__glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __glut<sup>2</sup>__ _v_  
 __glycemic__  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
@@ -6484,6 +6490,7 @@ __helpings__ _?_ _Second helpings._
 __helpless__  
 __hem and haw__ _idiom_ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __hem__ _n_ :es: dobladillo  
+__hemlines__ _n_  
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
@@ -6958,7 +6965,7 @@ __impassioned__ _adj_
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ :two::hammer:  
-__impeccable__  
+__impeccable__ :two::hammer:  
 __impeccably__ :two::hammer:  
 __impecunious__ _n_ _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :four::hammer: (impeded)  
@@ -7027,7 +7034,7 @@ __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situ
 __in plain view__ _idiom_ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
-__in short order__  
+__in short order__ _idiom_ :three: With no delay; quickly.  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
 __in stitches__ _idiom_  
 __in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
@@ -8214,7 +8221,7 @@ __mailman__ _n_
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
 __Main Street__  
-__mainstay__ _n_ :two::hammer: _A mainstay of his business._  
+__mainstay__ _n_ :three::hammer: _A mainstay of his business._  
 __maitre d'__  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
@@ -9160,7 +9167,7 @@ __octoroons__
 __octothorpe__ _n_ The symbol (#).  
 __OD__ _v_  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
-__oddly enough__  
+__oddly enough__ :two::hammer:  
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
@@ -9227,7 +9234,7 @@ __olefin__ _n_
 __olericulture__ _n_ The cultivation of vegetables for the home or market.  
 __oligarch__ _n_ :two::hammer:  
 __omelets__  
-__omen__ _n_ :four::hammer:  
+__omen__ _n_ :five::hammer:  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -9416,7 +9423,7 @@ __outperform__ _v_
 __outplayed__ _v_  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
-__outpouring__  
+__outpour__ _v_ :two::hammer: (outpouring)  
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ :two::hammer:  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
@@ -10682,7 +10689,7 @@ __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._
 __quagmire__ _n_ :three: __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
-__quaint__ _adj_ :nine: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
+__quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
 __quaintly__ :two::hammer:  
 __Quaker__  
 __quakes__ _v_  
@@ -11345,6 +11352,7 @@ __rolling meadows__
 __rollout__ _n_ :four::hammer: (rollouts)  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
+__romance__ :astonished:  
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
@@ -12710,6 +12718,7 @@ __speargun__
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He's spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
+__specialty__ _n_  
 __specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
@@ -12818,6 +12827,7 @@ __sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or 
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
 __sprinkling__ _A sprinkling of luck._  
 __sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
+__sprocket__ _n_ _Sprocket holes._  
 __sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprouting__  
 __spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
@@ -13376,7 +13386,7 @@ __Swahili__
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
 __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
-__swamp<sup>2</sup>__ _v_ :five::hammer: (swamped) _The team feels swamped with work._  
+__swamp<sup>2</sup>__ _v_ :six::hammer: (swamped) _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  
 __swank__ _v_ :three::astonished::hammer:  
