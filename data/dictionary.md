@@ -1507,11 +1507,10 @@ __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.
 __bop__ _v_  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
-__bore<sup>1</sup>__ _v_ _Boring a tunnel._  
+__bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
 __bored to tears__ _idiom_ Extremely bored to the point of distraction, frustration, or irritation.  
 __boredom__  
-__boring__ _v_ _He began throwing two touchdown passes, boring through traffic._  
 __borne__ _v_ :five::hammer:  
 __borough__ :mute:[borou~~gh~~]  
 __bosom__  
@@ -1688,7 +1687,7 @@ __brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broth__  
-__brothers in arms__  
+__brother-in-arms__ (brothers in arms) _I serve Rome, my officers, and my brothers-in-arms._  
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
@@ -2123,6 +2122,7 @@ __case in point__ _n_ :nine: An example that is used to justify similar occurren
 __case study__  
 __case the joint__ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
+__caseous__ _adj_ Resembling cheese.  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
 __cash flow__  
@@ -3263,7 +3263,7 @@ __curriculum__ _n_ _The math curriculum of the school is pretty useless._
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
 __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
-__curt__ _His curt answer._  
+__curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtly__ :two::hammer: _"I don't know," she said curtly._  
@@ -3769,7 +3769,7 @@ __dishy__
 __disillusioned__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
-__disingenuous__ _adj_ :three: Not really honest or sincere, and only pretending to be.  
+__disingenuous__ _adj_ :four: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ :two::hammer:  
@@ -5292,7 +5292,7 @@ __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink f
 __four hundred__ _This room has four hundred doors!_ :es: tropecientos?  
 __four-poster beds__  
 __four-wheeler__  
-__Fourth Estate__  
+__fourth estate__ _n_ :two: (Fourth Estate) Journalists considered as a group; the public press.  
 __fourth wall__ :astonished:  
 __fovea__ _n_  
 __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl._  
@@ -5539,6 +5539,7 @@ __gaskets__
 __gasolene__ :two::hammer::pencil2:  
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
+__gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
 __gatekeeper__ _n_  
 __gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
@@ -6421,7 +6422,7 @@ __hear a pin drop, one/you could__ _idiom_ :two: Complete silence.
 __hearing__ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
-__hearse__  
+__hearse__ _n_ :two: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __heartedly__  
@@ -6740,6 +6741,7 @@ __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
 __hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._ _You know, it's a hell of a hoot._  
+__hootenanny__ _n_  
 __hope against (all) hope__ _idiom_ To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn't going to come home for Christmas, but I'm hoping against hope she'll change her mind._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
 __Hopi__ _n_  
@@ -8035,7 +8037,7 @@ __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers o
 __loan__ _n_ :two::hammer: (loans)  
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
-__lob__ _v_ :two::hammer:  
+__lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
 __locale__ _We want to recruit nationally, but in our locale we have talent._  
 __locales__  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one's home.  
@@ -8305,6 +8307,7 @@ __mantel piece__ _n_ :three::hammer:
 __mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
 __mantle<sup>1</sup>__ _n_ :four: An important role or responsibility that passes from one person to another. _Syn_ role _Stalin's closest aide assumed the mantle of Leader._  
 __mantle<sup>2</sup>__ _v_  
+__mantlet__ _n_  
 __mantrap__ _n_  
 __maple__  
 __mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
@@ -9041,6 +9044,7 @@ __noir__ _A noir novel._
 __nom de guerre__  
 __nomadic__  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
+__nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :five: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-call__ _He complained about non-calls._  
 __non-committal__  
@@ -10708,7 +10712,7 @@ __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which 
 __quantifiable__  
 __quarrelsome__  
 __quarry__  
-__quarter__ :two::hammer: (quarters) _The team's front office is respected in many quarters._ _To return to their quarters._  
+__quarter__ _n_ :three::hammer: (quarters) _The team's front office is respected in many quarters._ (military) _To return to their quarters._  
 __quarts__ _Guzzlings quarts of Coors beer._  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
@@ -11245,7 +11249,7 @@ __RICO__ _He had been indicted on RICO charges._
 __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventures in Wonderland is famous for its riddle with no answer._  
-__riddle<sup>2</sup>__ _v_ :five::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._  
+__riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
 __ride__ _n_ _idiom_ A car.  
 __ridership__ :two::hammer:  
@@ -12298,6 +12302,7 @@ __skipper__ :two::hammer:
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
 __skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
+__skirmishers__ _n_  
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar's kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
@@ -12833,7 +12838,7 @@ __sprigs__
 __springboard__ :two::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
-__sprinkle<sup>1</sup>__ _n_  
+__sprinkle<sup>1</sup>__ _n_ :two: __2__ A light rainfall.  
 __sprinkle<sup>2</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
 __sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
@@ -12854,7 +12859,8 @@ __spunk__
 __spunky__  
 __spur > bone spurs__  
 __spur of the moment__ _The administrators mada a "spur of the moment" decision to block him._  
-__spur__ _v_ :six::hammer: (spurred, spurring)  
+__spur<sup>1</sup>__ _v_ :six::hammer: (spurred, spurring)  
+__spur<sup>2</sup>__ _n_ _The command post was on the spur of a hill._  
 __spurious__ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurred__ _adj_ _Spurred flowers._  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
@@ -13251,7 +13257,7 @@ __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by
 __stunner__  
 __stunning__ _adj_ :five::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
-__stunt<sup>2</sup>__ _v_ :four::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._  
+__stunt<sup>2</sup>__ _v_ :five::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
@@ -14354,7 +14360,7 @@ __twang<sup>2</sup>__ _v_
 __twanger__ _n_  
 __twangy__  
 __twat__  
-__tweak<sup>1</sup>__ _n_ :three::hammer: (tweaks)  
+__tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
 __tweak<sup>2</sup>__ _v_  
 __tweed__  
 __tweeny-weeny__  
