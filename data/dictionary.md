@@ -85,6 +85,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_  
+__abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __aboriginal__  
 __abounds__  
@@ -363,6 +364,7 @@ __allograft__ _n_
 __allotment__ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
+__alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
@@ -1953,7 +1955,7 @@ __calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.
 __calamity__ _n_ :two::mega::hammer:  
 __calendar girl__  
 __calendared__ _v_ _Get the meeting calendared._  
-__calf__ _n_ :two::hammer::mute:[ca~~l~~f]  
+__calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
 __caliber__ _n_  
 __calico__ :two::hammer: _A plain calico coat._  
 __caliper__ _n_ :two::hammer: _I need a new brake caliper for my motorcycle._  
@@ -2067,6 +2069,7 @@ __carat__
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
+__carcass__ _n_ _A whale carcass._  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ :two::hammer:  
@@ -5453,6 +5456,7 @@ __futile__ _adj_ :two::hammer:
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
+__GA__ _abbr_ Gamblers Anonymous.  
 __gab away__ _v_ _The gang was gabbing away._  
 __gab__ :two::hammer: _The gift of gab._  
 __gabbing__  
@@ -5712,7 +5716,7 @@ __glissade__ _v_
 __glisten__ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _"private parties on Park Avenue and Central Park West, where the literati mingled with glitterati" (Skylines)._  
-__glitz__  
+__glitz__ _n_ :two::hammer:  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
 __gloat__ _v_ :six::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
@@ -7178,7 +7182,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__  
-__iniquity__  
+__iniquity__ _n_ :two: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
@@ -8002,7 +8006,7 @@ __listless__ :two::hammer:
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate__ :two::hammer:  
-__lithe__ _adj_ :four::hammer: _A lithe cat._  
+__lithe__ _adj_ :five::hammer: _A lithe cat._  
 __lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning "breaking stones".  
 __lithotripter__ _n_  
 __litigation__  
@@ -9166,6 +9170,7 @@ __occasionally__ :pencil2:
 __occurr__ :pencil2:  
 __OCD__ :two::hammer: _abbrev_  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
+__ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob's staff, vine cactus  
 __octogenarians__  
 __octoroons__  
 __octothorpe__ _n_ The symbol (#).  
@@ -10411,7 +10416,7 @@ __prick<sup>2</sup>__ _n_ _He already had the prick for it._
 __prickle__ _n_  
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
-__prickly pear__ _n_ :es: higo chumbo, nopal  
+__prickly pear__ _n_ :two::hammer: :es: higo chumbo, nopal  
 __prickly__ :two::hammer:  
 __pride flag__  
 __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
@@ -10913,6 +10918,7 @@ __raw dog__
 __raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
+__ray flower__ _n_ (ray floret) One of the flattened marginal florets surrounding the disk in the flower heads of certain composite plants, as the daisy.  
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
 __razor sharp__  
 __razor strop__  
@@ -11531,6 +11537,7 @@ __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _T
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
 __Sagittarius__ _n_ :pencil2:  
+__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
 __sake__ _For comparison's sake, it hit 90 twice here all of last July._  
 __sakura__  
@@ -13000,7 +13007,7 @@ __staunchest__ :two::hammer:
 __stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _"For 12 years, we've sought to stave off this ultimate threat of disaster"._  
 __stave__ _v_  
 __staves__ _n_  
-__stay put__ _v_ :four: _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
+__stay put__ _idiom_ :five: To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
 __stay__ _Granted a stay of execution._  
 __stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
@@ -13347,7 +13354,7 @@ __superstorm__ _n_ :two::hammer:
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
-__supple__ _adj_ :pencil2::eight::hammer: _A supple weapon._ :es: flexible  
+__supple__ _adj_ :pencil2::nine::hammer: _A supple weapon._ :es: flexible  
 __suppleness__ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
@@ -13736,6 +13743,7 @@ __that much__ _I'll tell you that much._
 __that will be the day__ _idiom_ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that'll be the day!_  
 __that will do__  
 __That-a-boy!__ _exclam._ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
+__that's all she wrote__ _idiom_ This is the end; there is nothing left to say. _I'm sorry, Ben, but the board's decision is final. That's all she wrote, I'm afraid._  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :six: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
@@ -13760,6 +13768,7 @@ __the happy day__ _idiom_ A wedding, or marriage in general.
 __the haves and the have nots__  
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
+__the idiot box__ _idiom_ A television set, or television in general.  
 __the lion's share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -14978,6 +14987,7 @@ __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders.
 __weighty__ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don't give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
+__well played__ _idiom_  
 __well-adjusted__ _adj_ Mentally or emotionally stable; not troubled or distressed: _a well-adjusted new student._  
 __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile.  
 __well-founded__ _adj_ Based on sound reasoning or evidence.  
@@ -15262,7 +15272,7 @@ __wording__ _n_
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
 __wordsmith__ _v_ :two::hammer:  
-__wordy__ _adj_ Using or containig too many words.  
+__wordy__ _adj_ :two: Using or containig too many words.  
 __work as planned__  
 __work at__ _phr v_ To try hard to develop or improve something.  
 __work my tail of__  
@@ -15411,6 +15421,7 @@ __yowl__ _n_ :two::hammer: _His yowl of pain_
 __yowled__ _v_  
 __yowza__  
 __yuan__ _n_  
+__yucca__ _n_  
 __yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
 __Yule__  
 __yule__ :two::hammer: _If you believe, yule receive!_  

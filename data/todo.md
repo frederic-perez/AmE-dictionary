@@ -1,28 +1,6 @@
 
 
 
-__carcass__ _n_ _A whale carcass._  
-__calf__ _n_ __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
-__alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
-__wordy__ _adj_  
-__glitz__ _n_  
-__well played__ _idiom_  
-__stay put__ _idiom_ To remain in a fixed or established position.  
-__that's all she wrote__ _idiom_ This is the end; there is nothing left to say. _I'm sorry, Ben, but the board's decision is final. That's all she wrote, I'm afraid._  
-__ludicrous__ _adj_  
-__GA__ _abbr_ Gamblers Anonymous.  
-
-__lithe__ _adj_  
-__supple__ _adj_  
-__saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, SCalifornia, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
-__prickly pear__ _n_  
-__yucca__ _n_  
-__ocotillo__ _n_  
-__ray flower__ _n_  
-__abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
-__the idiot box__ _idiom_ A television set, or television in general.  
-__iniquity__ _n_ Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
-
 __spur__ _The command post was on the spur of a hill._  
 __stunted__ _Stunted grass._  
 __mantlet__ _n_  
