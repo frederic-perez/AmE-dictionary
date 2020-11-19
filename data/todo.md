@@ -1,5 +1,15 @@
 
 
+__hootenanny__ _n_  
+__disingenuous__ _adj_  
+__fourth estate__ _n_ Journalists considered as a group; the public press.  
+__caseous__ _adj_ Resembling cheese.  
+__hearse__ _n_ A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
+__tweak__ _n_ __2__ 2. A small adjustment: _made a few tweaks to the sound system._  
+__nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
+__curt__ _adj_ __1__ Rudely blunt and brief; abrupt: _a curt reply._ __2__ Short or concise.  
+__sprinkle<sup>1</sup>__ _v_ __2__ To fall or rain in small or infrequent drops.  
+__sprinkle<sup>2</sup>__ _n_ __2__ A light rainfall.  
 
 __spur__ _The command post was on the spur of a hill._  
 __stunted__ _Stunted grass._  
