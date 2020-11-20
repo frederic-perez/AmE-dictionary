@@ -1,5 +1,16 @@
 
 
+__torturous__ _adj_ (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Pertains to suffering: _We toil in the torturous heat._  
+__be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
+__lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
+__STI__ _abbr_ Sexually transmitted infection.  
+__drag (someone) kicking and screaming__ _idiom_ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
+__berate__ _v_ Censure severely or angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._  
+__(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.  
+__infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
+__otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
+__impeccable__ _adj_ __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
+
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
