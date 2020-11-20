@@ -1,6 +1,17 @@
 
 
 
+__hijab__ _n_  
+__vicarious__ _adj_ _Now I just live vicariously through the people who did get to play._  
+__mullet__  
+__cursive__ _I can't give autographs right now, ‘cause I don't know cursive._  
+__crag__ _n_  
+__picturesque__  
+__ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
+__duplicitous__  
+__Movember__ _n_  
+__sap__ _v_ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
+
 __acne__  
 __chomping__ _n_  
 __galumph__ _v_  
