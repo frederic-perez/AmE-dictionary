@@ -1,5 +1,17 @@
 
 
+
+__strike a chord__ _The show is striking a chord._  
+__encroach__ _v_ (encroaching)  
+__banister__ _n_  
+__preten[tc]ious__ _adj_  
+__groove__ _It will be tough to get into the groove again._  
+__white whale__ [?]  
+__under my belt__ _I’ll have a degree under my belt._  
+__sophomore__ :mega: _My sophomore year._  
+__game changer__  
+__savoring__ _v_ _I was savoring the moment._  
+
 __torturous__ _adj_ (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Pertains to suffering: _We toil in the torturous heat._  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
