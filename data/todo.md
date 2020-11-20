@@ -1,6 +1,17 @@
 
 
 
+__acne__  
+__chomping__ _n_  
+__galumph__ _v_  
+__surfeit__ _n_  
+__plundered__ _v_  
+__infidel__ _n_  
+__postulated__ _v_  
+__disbeliever__  
+__wags__ _n_  
+__rummage__ _v_  
+
 __strike a chord__ _The show is striking a chord._  
 __encroach__ _v_ (encroaching)  
 __banister__ _n_  
