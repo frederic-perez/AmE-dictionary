@@ -147,7 +147,7 @@ __acid test__ _idiom_ :two: Something that shows the true worth or value of some
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
 __acme__  
-__acne__ _n_ :mega::two::hammer:  
+__acne__ _n_ :mega::three::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn__ _n_ :three: _The acorn don't fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintances__ :pencil2:  
@@ -2399,7 +2399,7 @@ __chokehold__ _n_ __1__ The act of holding a person's neck across the windpipe, 
 __choker__ _A velvet choker._  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_  
-__chomping__  
+__chomping__ _n_ :two::hammer:  
 __chop__ _v_  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person's or animal's mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
@@ -3062,6 +3062,7 @@ __craft__ _Craft sake._
 __craftman__  
 __crafts__ :two::hammer:  
 __crafty__  
+__crag__ _n_ _Syn_rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
 __craggy__ _adj_ :three::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
@@ -3261,7 +3262,7 @@ __curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubbor
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
-__cursive__ _adj_ /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined.  
+__cursive__ _adj_ :two: /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined. _I can't give autographs right now, ‘cause I don't know cursive._  
 __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
@@ -3729,6 +3730,7 @@ __disastrous__
 __disavow__ _v_ :two::hammer: (disavowed)  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
+__disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
@@ -4166,8 +4168,7 @@ __duo__
 __dupe__ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplexes__ :two::hammer:  
-__duplicitious__ _A duplicitious cigarette industry._  
-__duplicitous__  
+__duplicitous__ _adj_ :three: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
 __duration__  
 __duress__ _n_ :five::hammer:  
@@ -5487,6 +5488,7 @@ __galloping__
 __gallows__ _n_  
 __galore__ _adv_  
 __galoshes__ _n_  
+__galumph__ _v_  
 __galvanize__ _v_ :seven: (galvanized) To startle into sudden activity; stimulate.  
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
@@ -6564,7 +6566,7 @@ __highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superio
 __highfalutin__ _adj_  
 __highlight__ _v_  
 __highly__ _I highly recommend it._  
-__hijab__ _n_ :three::camera::hammer: (hijabs)  
+__hijab__ _n_ :four::camera::hammer: (hijabs)  
 __hijinks__ :two::hammer: _Adolescent hijinks._  
 __hike__ _n_ :two::hammer: (surge?)  
 __hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
@@ -7159,6 +7161,7 @@ __infant__ _n_
 __infare__ _n_  
 __infeasible__ _adj_ _Syn_ unfeasible  
 __inferno__ _All kinds of Indian infernos._  
+__infidel__ _n_  
 __infighting__ :two::hammer:  
 __infinity pool__ :camera:  
 __infinity-edge__ _An infinity-edge swimming pool._  
@@ -8754,6 +8757,7 @@ __mouthpiece__ _n_ _Jed had just been a mouthpiece._
 __mouthwash__ _n_ :two::hammer: :es: colutorio  
 __move heaven and earth__ _idiom_ To do everything that one can to make something happen.  
 __move the needle__  
+__Movember__ _n_  
 __mover and shaker__ A person who wields power and influence; _"a shaker of traditional beliefs"; "movers and shakers in the business world"_  
 __mover__ _n_  
 __mow__ _v_ To cut down grass with a machine.  
@@ -8790,7 +8794,7 @@ __mulching__ _v_
 __muleskinner__ _n_  
 __mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
 __mullah__ _n_  
-__mullet__ :two::hammer:  
+__mullet__ _n_ :three::hammer: Freshwater or coastal food fishes a spindle-shaped body; found worldwide.  
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicopter__ _n_ _Syn_ multirotor  
@@ -9943,6 +9947,7 @@ __picky__ _adj_ :two::hammer:
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pictogram__  
 __picture-perfect__ _The picture-perfect porch._  
+__picturesque__  
 __piddle__ _v_  
 __piddling__ _He had killed several hours with footless piddling._  
 __pie in the sky__ _idiom_ :three::hammer:  
@@ -10160,7 +10165,7 @@ __plummet__ _v_
 __plummeted__ _v_ :three::hammer: (plummeting)  
 __plump__ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
-__plunder__ _v_ :four::hammer: (plundered)  
+__plunder__ _v_ :five::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe's plunger._  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
@@ -10291,6 +10296,7 @@ __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiratio
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
 __postmortem__ _n_  
+__postulate__ _v_ (postulated)  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
@@ -11589,7 +11595,7 @@ __sanguine__ _adj_ :six::hammer::astonished:
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
-__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._ _His energy was sapping._  
+__sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person's strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a "duckling," a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
@@ -13372,7 +13378,7 @@ __surcharge__ _Additional hotel surcharge of $5.00 per order._
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
 __surety__  
-__surfeit__ _n_ :two: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
+__surfeit__ _n_ :three: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
@@ -14397,6 +14403,7 @@ __tyrant__ _n_ :three::hammer:
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
+__ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugh__ :two::hammer:  
 __uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
 __uh__  
@@ -14754,7 +14761,7 @@ __vexing__ _adj_ :three::hammer: _Vexing problem._ _It's a vexing topic._
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __vicar__  
-__vicarious__ _adj_ :two: Felt or enjoyed through imagined participation in the experience of others.  
+__vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you're telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __victimhood__  
@@ -14839,7 +14846,8 @@ __waffling__
 __waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
 __wafted__ _v_  
 __wafting__ _v_  
-__wag__ _v_ :four::hammer: _The puppy was wagging its tail._  
+__wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._  
+__wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
 __wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
 __wage<sup>1</sup>__ _n_ :two::hammer:  
 __wage<sup>2</sup>__ _v_ :two::hammer: (waged)  
