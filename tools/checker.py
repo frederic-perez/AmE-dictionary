@@ -157,6 +157,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_adv_', \
     '_conj_', \
     '_fig_', \
+    '_gramo_', \
     '_idiom_', \
     '_interj_', \
     '_interj slang_', \
