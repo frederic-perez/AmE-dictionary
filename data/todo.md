@@ -1,5 +1,16 @@
 
 
+__grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
+__duplicitous__ _adj_  Given to or marked by deliberate deceptiveness in behavior or speech.  
+__Hail Mary__ _n_ (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
+__shyster__ _n informal_ A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
+__indisposed__ _adj_ __1__ Mildly ill. __2__ Averse; disinclined: was clearly indisposed to grant their request.  
+__leech__ _n_ __1__ B23loodsucking worm. :es: sanguijuela __2__ A person who stays around other people and uses them for personal gain.  
+__quagmire__ _n_ __1__ Soft spongy wet ground that shakes or gives way under the foot. __2__ A difficult situation from which it is hard to escape.  
+__baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
+__kids will be kids__ _idiom_ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.
+__snivel__ _v_  
+
 __strike a chord__ _The show is striking a chord._  
 __encroach__ _v_ (encroaching)  
 __banister__ _n_  
