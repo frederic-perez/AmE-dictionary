@@ -1,5 +1,16 @@
 
 
+__SMH__ _abbr_ Shaking my head.  
+__yay__ _Syn_ hooray, hurrah  
+__dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
+__K9__ _gramo_ Canine.  
+__XLNC__ _gramo_ Excellency.  
+__XMM__ _gramo_ Exams.  
+__gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
+__OICU812__ _gramo_ Oh, I See You Ate One, Too  
+__pins and needles__ :es: hormigueo  
+__stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness you feel after exercise._ :es: Las agujetas que sientes después de hacer ejercicio.  
+
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __duplicitous__ _adj_  Given to or marked by deliberate deceptiveness in behavior or speech.  
 __Hail Mary__ _n_ (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
