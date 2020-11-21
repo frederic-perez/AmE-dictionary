@@ -929,6 +929,7 @@ __barn__ _Out of the barn._
 __barnburner__ _idiom_ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
 __barnyard__ :pencil2:  
+__baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barre__  
@@ -4168,7 +4169,7 @@ __duo__
 __dupe__ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplexes__ :two::hammer:  
-__duplicitous__ _adj_ :three: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
+__duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
 __durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
 __duration__  
 __duress__ _n_ :five::hammer:  
@@ -4189,6 +4190,7 @@ __dye__ _v_ (dyes, dyed, dyeing) :pencil2:
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
+__dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysplasia__ _Canine hip dysplasia._  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
@@ -5900,12 +5902,14 @@ __grader__ _n_ :two::hammer: (graders)
 __gradual__ _adj_  
 __gradually__  
 __graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
+__gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
 __gramps__  
 __grand jury__  
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ _idiom_ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
 __grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
+__grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
@@ -6161,7 +6165,7 @@ __haggling__ _n_ :two::hammer:
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
 __haha__ _idiom_ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as "ha ha" or "ha-ha." Greater degrees of laughter or humor can be represented by more instances of "ha."  
-__Hail Mary__  
+__Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
@@ -7136,7 +7140,7 @@ __indictment__ _n_ :five::hammer::mega:
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indispensable__  
-__indisposed__ _adj_ __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
+__indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indite__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
@@ -7489,8 +7493,8 @@ __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel sh
 __jut__ _v_ :three::hammer: (jutted, jutting)  
 __juvenile__ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
-__K-9__ _A K-9 van._  
 __K-pop__  
+__K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
 __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
@@ -7560,6 +7564,7 @@ __kid around__ _phr v_ To have fun by acting in a silly way.
 __kid<sup>1</sup>__ _n_ _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
 __kiddo__  
+__kids will be kids__ _idiom_ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
 __kike__ _Kike names._  
 __kiki__  
@@ -7843,7 +7848,7 @@ __lecture__ _n_
 __ledge__ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
 __lee__ _n_ :two::hammer: _In the lee of the wagon._  
-__leech__ _n_ :five::hammer: :es: sanguijuela  
+__leech__ _n_ :six: __1__ Bloodsucking worm. :es: sanguijuela __2__ A person who stays around other people and uses them for personal gain.  
 __leek__ _n_  
 __leeks__ _n_  
 __leer up__  
@@ -9228,6 +9233,7 @@ __OG__ Original gangster.
 __ogle__ _v_ :two::hammer:  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
 __Ohioans__  
+__OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __oil slick__ _The greasy shine of an oil slick._  
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
@@ -10017,6 +10023,7 @@ __pinned__
 __pinning__ _v_  
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
 __pinpricks__ _n_  
+__pins and needles__ :es: hormigueo  
 __pinwheel__ _v_  
 __pinwheeling__  
 __pions__ _n_  
@@ -10705,7 +10712,7 @@ __quadroons__
 __quaff__ _v_ _(chiefly literary)_  
 __quaffable__  
 __quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
-__quagmire__ _n_ :three: __1__ A soft boggy area of land that gives way underfoot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. _Syn_ muddle, mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
+__quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
 __quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
@@ -12180,7 +12187,7 @@ __shylock rackets__
 __shylock__ _n_ :two::hammer:  
 __shylocking__  
 __shyly__ _(funny spelling)_  
-__shyster__  
+__shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
 __sicced__ _v_  
 __sick leave__ _n_ :three::hammer: _The UK's biggest reason for sick leave._  
 __sickle cell__  
@@ -12495,6 +12502,7 @@ __smell test__
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ :two::hammer: _A smelting furnace._  
+__SMH__ _abbr_ Shaking my head.  
 __smidgen__ :two::hammer: _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
@@ -12568,6 +12576,7 @@ __snipe__ _v_
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __snitch__  
+__snivel__ _v_  
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
@@ -13084,6 +13093,7 @@ __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing 
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
 __stiffer__ :two::hammer: _In adult court, murder, a Class M felony, carries a much stiffer penalty._ _Unleasing stiffer penalties._  
 __stiffly__  
+__stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness you feel after exercise._ :es: Las agujetas que sientes después de hacer ejercicio.  
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The stifling atmosphere of the cavern._  
 __stigma__  
@@ -15371,6 +15381,8 @@ __xenobiotic<sup>1</sup>__ _n_
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
 __xeriscape__ _n_  
+__XLNC__ _gramo_ Excellency.  
+__XMM__ _gramo_ Exams.  
 __Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
@@ -15391,7 +15403,7 @@ __yawn__ _n_ _The sound of yawns and crickets._
 __yawner__ _n_ :two::hammer:  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
-__yay__ _interj_ :four: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_  
+__yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __year in, year out__  
 __yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  

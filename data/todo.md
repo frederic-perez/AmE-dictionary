@@ -1,27 +1,5 @@
 
 
-__SMH__ _abbr_ Shaking my head.  
-__yay__ _Syn_ hooray, hurrah  
-__dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
-__K9__ _gramo_ Canine.  
-__XLNC__ _gramo_ Excellency.  
-__XMM__ _gramo_ Exams.  
-__gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
-__OICU812__ _gramo_ Oh, I See You Ate One, Too  
-__pins and needles__ :es: hormigueo  
-__stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness you feel after exercise._ :es: Las agujetas que sientes después de hacer ejercicio.  
-
-__grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
-__duplicitous__ _adj_  Given to or marked by deliberate deceptiveness in behavior or speech.  
-__Hail Mary__ _n_ (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
-__shyster__ _n informal_ A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
-__indisposed__ _adj_ __1__ Mildly ill. __2__ Averse; disinclined: was clearly indisposed to grant their request.  
-__leech__ _n_ __1__ B23loodsucking worm. :es: sanguijuela __2__ A person who stays around other people and uses them for personal gain.  
-__quagmire__ _n_ __1__ Soft spongy wet ground that shakes or gives way under the foot. __2__ A difficult situation from which it is hard to escape.  
-__baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
-__kids will be kids__ _idiom_ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.
-__snivel__ _v_  
-
 __strike a chord__ _The show is striking a chord._  
 __encroach__ _v_ (encroaching)  
 __banister__ _n_  
