@@ -1,27 +1,5 @@
 
 
-__patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
-__libertine__ _n_  
-__disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
-__infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
-__infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
-__corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
-__noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
-__abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
-__uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
-__keep (one's) slate clean__ _idiom_ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
-
-__strike a chord__ _The show is striking a chord._  
-__encroach__ _v_ (encroaching)  
-__banister__ _n_  
-__pretentious__ _adj_ :pencil2:  
-__groove__ _It will be tough to get into the groove again._  
-__white whale__ [?]  
-__under my belt__ _I’ll have a degree under my belt._  
-__sophomore__ :mega: _My sophomore year._  
-__game changer__  
-__savoring__ _v_ _I was savoring the moment._  
-
 __torturous__ _adj_ (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Pertains to suffering: _We toil in the torturous heat._  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  

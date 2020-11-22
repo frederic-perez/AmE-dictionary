@@ -85,6 +85,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_  
+__abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __aboriginal__  
@@ -891,7 +892,7 @@ __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
-__banister__ _n_ _Polished mahogany banisters._  
+__banister__ _n_ :two::hammer: _Polished mahogany banisters._  
 __bank on__ _phr v_ :three: To have confidence in; to rely on somebody or something. _Ted was banking on that._  
 __bank__ _Fillon can beat Le Pen, but don't bank on it._  
 __bankroll<sup>1</sup>__ _n_  
@@ -2956,6 +2957,7 @@ __corned beef__ :two::hammer:
 __cornstarch__  
 __corny__ _adj_ :five::hammer:  
 __coronet__ _n_  
+__corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
 __corporate ladder__ _idiom_  
 __corps__ _n_ :three::hammer: _Japan's deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
@@ -3783,6 +3785,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
+__disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
@@ -4384,7 +4387,7 @@ __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition 
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :eight::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :nine::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
@@ -5496,8 +5499,7 @@ __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an 
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
 __game__ (hunting)  
-__game-changer__  
-__game-changing__  
+__game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
 __gamine__  
 __gander__ _Take a dander at the college girls._  
@@ -6016,7 +6018,7 @@ __grog__
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
 __groomed__  
 __groomers__  
-__groove__ :four::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._  
+__groove__ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __grope (somebody)__ _v informal_ To touch somebody sexually, especially when they do not want you to.  
 __grotesque__ _adj_  
 __ground chuck steak__  
@@ -7167,6 +7169,8 @@ __infeasible__ _adj_ _Syn_ unfeasible
 __inferno__ _All kinds of Indian infernos._  
 __infidel__ _n_  
 __infighting__ :two::hammer:  
+__infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
+__infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ :camera:  
 __infinity-edge__ _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
@@ -7510,6 +7514,7 @@ __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to "bold and brave" and while the spelling is now really different, the sounds are similar. Variations of keen as being "bold" and "strong" show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of "sharp" — relating to "an edge or blade." Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
 __keep (one's) cool__ _idiom_ To maintain control of one's composure, temper, or nerve in a given situation.  
+__keep (one's) slate clean__ _idiom_ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one's) socks on__ _idiom_ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
@@ -7923,7 +7928,8 @@ __liaison__ _n_ :five::hammer:
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
-__libertine__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
+__libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
+__libertine<sup>2</sup>__ _n_  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you'll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
@@ -9065,6 +9071,7 @@ __nonce__
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
+__noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :three::hammer:  
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
@@ -9715,6 +9722,7 @@ __pathogens__ _n_
 __pathography__ _n_  
 __pathologist__ _n_  
 __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
 __patois__  
 __patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
@@ -10412,6 +10420,7 @@ __press the pocket__
 __pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
 __pretense__  
+__pretentious__ _adj_ :pencil2:  
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
@@ -11639,6 +11648,7 @@ __save the day__ _idiom_ :two: To produce a good result when a bad result was ex
 __save your breath__ _idiom_ Stop useless talk.  
 __saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __savior__  
+__savor__ _v_ (savoring) _I was savoring the moment._  
 __savvy<sup>1</sup>__ _v_  
 __savvy<sup>2</sup>__ _n_  
 __savvy<sup>3</sup>__ _adj_  
@@ -12677,7 +12687,7 @@ __soot__ _n_ :three::hammer:
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
-__sophomore__ (from Greek?) :two::hammer:  
+__sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __sopping__ _v_  
 __soppy__  
@@ -13223,6 +13233,7 @@ __stricken__ _adj_ :six::hammer: _Stricken people._
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
 __strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strike a chord__ _idiom_ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
 __strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
@@ -14446,6 +14457,7 @@ __Uncle Sam__ _n_ :dart::two: A personification of the United States government.
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
+__uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
 __uncouth__ _adj_ :three::hammer:  
 __uncrating__  
 __unction__ _n_  
@@ -14453,7 +14465,7 @@ __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of p
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
 __under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
-__under one's belt__  
+__under (one's) belt__ _idiom_ :two: __1__ In one's scope of experience. _Once you get a few more major league games under your belt, you'll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under siege__  
 __under the radar__ _idiom_ Doing something without other people noticing.  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
@@ -15119,6 +15131,7 @@ __white elephant__ _n_ :two: A possession that provides few benefits and is an i
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
 __white on rice__ _idiom_ As close as can be. Often used in the phrase "like white on rice."  
+__white whale__ _n_ Small northern whale that is white when adult.  
 __white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
 __whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
