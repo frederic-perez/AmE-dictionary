@@ -834,7 +834,7 @@ __badinage__ _n_ :two::hammer:
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
 __baff__ _v_ (baffed)  
-__baffle__ _v_ :six: (baffled) To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
+__baffle__ _v_ :seven: (baffled) To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
 __baffled__ _adj_  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
@@ -3289,7 +3289,7 @@ __cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally 
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
-__cut ties with (someone)__ _idiom_ :two::hammer:  
+__cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
 __cut__ _n_ :two::hammer: _His cut of the $50,000._  
 __cut-and-dry task__  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
@@ -3846,7 +3846,7 @@ __diverted__ _diverted flights_
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
-__divest__ _v_ :three::hammer: (divested)  
+__divest__ _v_ :four::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
 __divestiture__ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
@@ -4182,6 +4182,7 @@ __dusters__ _n_ _My grandad sold dusters._
 __dustman__  
 __dustpan__ :two::hammer:  
 __dusty__ _A dusty brand._  
+__duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
@@ -4316,6 +4317,7 @@ __elevator control box__
 __elevator operator__ :camera:  
 __elevator__ _n_  
 __elevators__ (airplane)  
+__elfin__ _adj_  
 __ELIA5__ Explain Like I Am 5.  
 __elicit__ _v_ :seven::hammer: (elicited)  
 __elide__ _v_ :two: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
@@ -4473,7 +4475,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
-__epithet__ _n_ :four::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
+__epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :eight::hammer: (eponymously)  
@@ -4849,7 +4851,7 @@ __ferreting out__ _v_
 __fertil__ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
-__fester<sup>2</sup>__ _v_ :six::hammer: (festered, festering) :es: ulcerarse _VA's challenges will only fester if they are kept shrouded in secrecy._  
+__fester<sup>2</sup>__ _v_ :seven::hammer: (festered, festering) :es: ulcerarse _VA's challenges will only fester if they are kept shrouded in secrecy._  
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
 __festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
@@ -5853,7 +5855,7 @@ __good going__ _idiom_ An informal expression of praise for having done somethin
 __Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
-__good old__ _idiom_ :dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
+__good old__ _idiom_ :two::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
@@ -6480,7 +6482,8 @@ __heedless__
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
 __heel<sup>2</sup>__ _v_  
-__heft__ _n_ :two::hammer:  
+__heft<sup>1</sup>__ _n_ :two::hammer:  
+__heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
 __hefty__ :two::hammer:  
 __height__ :mute:[hei~~gh~~t]  
@@ -8223,7 +8226,7 @@ __mackerel__ :two::hammer:
 __mackinaw__  
 __macula__ _n_  
 __madcap__  
-__madden__ _v_  
+__madden__ _v_ :two::hammer: (maddening)  
 __made of money__ _idiom_ To be very rich.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
@@ -9399,6 +9402,7 @@ __ounce__
 __ouster__ _n_  
 __out of date__ _idiom_  
 __out of hand__  
+__out of kilter__ _idiom_  
 __out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
@@ -10860,7 +10864,7 @@ __ramen shop__
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :four::hammer:  
-__rampage<sup>2</sup>__ _n_ :five::hammer:  
+__rampage<sup>2</sup>__ _n_ :six::hammer: (rampages)  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
 __rampart__ _n_ :four::hammer: (ramparts) _Ancient stone ramparts._  
@@ -11111,7 +11115,7 @@ __reliance__ _n_ :two::hammer:
 __reliant__ :two::hammer:  
 __relic__ _n_  
 __relief teams__  
-__relief__ :two::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._  
+__relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
 __relinquish__ _v_ :seven: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what's going on. _To relinquish the throne._  
@@ -11413,6 +11417,7 @@ __ropes__ :two::hammer: _He's teaching her the ropes._ _They need to learn the r
 __ropy__ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosary__ _n_ (rosaries)  
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
+__rosette__ _n_  
 __rosin box__  
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd swear she needs a roster by the phone to keep 'em straight._  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
@@ -12604,6 +12609,7 @@ __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
+__snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
 __snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
@@ -13343,7 +13349,7 @@ __sudsy__
 __suffice it to say__ :two::hammer:  
 __suffrage__ _n_  
 __suffragette__  
-__suffuse__ _v_ :seven: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
+__suffuse__ _v_ :eight: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means "to pour." _It suffuses you with mild pleasure._  
 __sugar beet__  
 __sugar daddy__ _n_ _slang_ :two: A rich usually middle-aged or old man who bestows expensive gifts on a young person in return for companionship or sexual favours. _A sugar daddy relationship._  
 __sugarcoat__ _v_  
@@ -13556,6 +13562,7 @@ __take a shit__ _v_
 __take a stand__  
 __take aback__ _phr v_ To surprise or shock.  
 __take by storm__  
+__take comfort in (something)__ _idiom_ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take down__ _phr v_ To make notes, to write down information.  
 __take heart__ _idiom_ :three::dart: To be confident or courageous.  
 __take it away__ _informal_ To start playing or singing music.  
@@ -14463,9 +14470,9 @@ __uncrating__
 __unction__ _n_  
 __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
+__under (one's) belt__ _idiom_ :two: __1__ In one's scope of experience. _Once you get a few more major league games under your belt, you'll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
-__under (one's) belt__ _idiom_ :two: __1__ In one's scope of experience. _Once you get a few more major league games under your belt, you'll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under siege__  
 __under the radar__ _idiom_ Doing something without other people noticing.  
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
@@ -14769,9 +14776,11 @@ __vertical farm__
 __verve__ _n_ :five::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _We were in this very room._  
+__vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ _n_ :two::mega::hammer:  
-__vestige__ _n_ :two::hammer: (vestiges) _The vesting date._  
+__vestige__ _n_ :two::hammer: (vestiges)  
+__vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __veto__ _v_  
 __vetted__ _v_ :three::hammer:  
@@ -15240,6 +15249,7 @@ __Wisconsinites__
 __wisdom tooth__  
 __wise guy__ _n_ :two: __1__ A person who is given to making conceited, sardonic, or insolent comments. __2__ _US_ A member of the Mafia.  
 __wise up__ _phr v_ To start to understand a situation.  
+__wisecrack__  
 __wisecracker__  
 __wisecracks__  
 __wish list__ _n_ :two::hammer: _The community's wish list._ _A $100 million wish list._  
