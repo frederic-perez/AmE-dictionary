@@ -1,5 +1,21 @@
 
 
+
+__good old__  
+__duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
+__out of kilter__  
+__rosette__ _n_  
+__wisecrack__  
+__epiphets__  
+__elfin__  
+__suffused__ _v_  
+__divested__ _v_ _The entire company crowded
+into the receiving room of the
+morgue and divested themselves of
+their coveralls._  
+__hefted__ _v_ _He hefted the cube
+experimentally._  
+
 __torturous__ _adj_ (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Pertains to suffering: _We toil in the torturous heat._  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
