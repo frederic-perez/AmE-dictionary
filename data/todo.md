@@ -1,6 +1,17 @@
 
 
 
+__stress relief__ [?]  
+__vestiges__ _n_  
+__rampage__ _n_ (rampages)  
+__take comfort__  
+__baffle__ _v_ (baffled)  
+__madden__ _v_ (maddening)  
+__cut ties__ _I was cutting ties without even knowing._  
+__fester__ _v_  
+__snowflake__ _n informal__ (?)  
+__ludicrous__ _adj_  
+
 __good old__  
 __duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __out of kilter__  
