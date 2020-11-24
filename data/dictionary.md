@@ -12,6 +12,7 @@ __-year-old__ _A 56-year-old retiree._
 __, so why (even) bother?__  
 __, to say the least.__  
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
+__(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one's) heart's desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart's desire is just to see my husband again._  
@@ -133,7 +134,7 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :three::hammer: (accouterment, accoutrements)  
+__accoutrement__ _n_ :four::hammer: (accouterment, accoutrement, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -1003,6 +1004,7 @@ __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
+__be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
 __beach__ _v_  
@@ -1147,7 +1149,7 @@ __bent__ _n_ :two::hammer: _Apple wasn't known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
 __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
-__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
+__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :two: A bereaved person is someone whose close friend or family member has recently died.  
 __bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
@@ -4014,6 +4016,7 @@ __drab<sup>2</sup>__ _n_
 __Draconian__ _adj_  
 __draconian__ _adj_ :three: Extremely strict and severe.  
 __draft__ _v_ :two::hammer: _Drafting the Defense Ministry's basic policy._ _Pam spent some time drafting the latest e-mail._  
+__drag (someone) kicking and screaming__ _idiom_ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
 __drag racing__  
@@ -4491,7 +4494,7 @@ __equip__ _v_
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
-__equity__  
+__equity__ _n_ :two::hammer:  
 __equivocal__ _adj_ _Syn_ ambiguous, confusing  
 __equivocation__ _n_  
 __er__ :two::hammer: _It does look, er, distinctive._  
@@ -6227,6 +6230,7 @@ __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to i
 __handyman__ _n_ :three::hammer:  
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hang someone out to dry__ _idiom_ To abandon someone who is in trouble.  
+__hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ _You left some hangers at my place._  
@@ -6986,7 +6990,7 @@ __impassioned__ _adj_
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ :two::hammer:  
-__impeccable__ :two::hammer:  
+__impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ :two::hammer:  
 __impecunious__ _n_ _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :four::hammer: (impeded)  
@@ -7186,6 +7190,7 @@ __infomania__ _n_ A condition of reduced concentration caused by continually res
 __infomercial__ _n_  
 __informant__ _n_  
 __infotainment system__  
+__infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
 __infrasound__ _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
@@ -7521,6 +7526,7 @@ __keep (one's) slate clean__ _idiom_ To maintain an impeccable record; to refrai
 __keep (one's) socks on__ _idiom_ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
+__keep (something) straight (in one's mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one's mind.  
 __keep (up) (one's) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one's end of the bargain up.”  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye__ _Keep an eye on the Twitter._  
@@ -7532,6 +7538,7 @@ __keep it under wraps__ _idiom_ Keep it a secret.
 __keep one's eyes peeled__ _idiom_ (keep one's eyes skinned) To watch vigilantly (for).  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
 __keep tab(s) (on someone or something)__ _idiom_ :nine::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._ _Ed kept close tabs on his brother._  
+__keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
@@ -7698,6 +7705,7 @@ __lace__ _n_
 __laced__ _v_ _I have laced a few punters._  
 __lacerate__ _v_  
 __lachrymose__ _adj_  
+__lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :two::hammer:  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
@@ -8595,6 +8603,7 @@ __miscarry__ _v_
 __miscegenation__  
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
 __miscellany__ :mega:  
+__mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :three::hammer:  
 __mischievous__  
 __misconduct__  
@@ -9392,6 +9401,7 @@ __OT__ _Sports_ Overtime or extra time is an additional period of play specified
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
+__otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
 __OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OTT__ _abbr_ Over the top.  
 __otter__  
@@ -10431,6 +10441,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __prevail__ _v_ :two::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
+__prevaricate__ _v_ To speak or act falsely or evasively with intent to deceive.  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -11165,7 +11176,7 @@ __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishm
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
 __reprobate__ _v_  
-__reprove__ _v_ To speak disapprovingly to (a person); rebuke or scold.  
+__reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_ :two::hammer:  
 __reputedly__ _He reputedly said, "I could stay here forever."_  
@@ -12535,6 +12546,7 @@ __smolder<sup>1</sup>__ _n_
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
 __smooth operator__  
+__smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib  
 __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
@@ -13095,7 +13107,7 @@ __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._
 __steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
-__STI__ _abbr_ :three: Sexually transmitted infection.  
+__STI__ _abbr_ :four: Sexually transmitted infection.  
 __stick > turnaround stick__  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
@@ -14126,7 +14138,7 @@ __torpedo__ _v_
 __torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _A torre was named after her._  
-__torturous__ _adj_ Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._  
+__torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss and turn__ _idiom_ Sleep badly.  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
@@ -15360,7 +15372,8 @@ __wreak havoc__ :two::hammer:
 __wreaked havoc__  
 __wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
-__wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath]_A wreathed sword._  
+__wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
+__wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head was wreathed in spring flowers._  
 __wreck<sup>1</sup>__ _n_  
 __wreck<sup>2</sup>__ _v_ :four::mute:[~~w~~reck]:hammer:  
 __wrecking ball__  
