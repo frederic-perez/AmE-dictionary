@@ -1,5 +1,15 @@
 
 
+__wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head was wreathed in spring flowers._  
+__mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
+__prevaricate__ _v_ To speak or act falsely or evasively with intent to deceive.  
+__accouterment__ _n_ (accoutrement)  
+__reprove__ _v_ __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
+__smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib  
+__keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
+__equity__ _n_  
+__hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
+__keep (something) straight (in one's mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one's mind.  
 
 __torturous__ _adj_ (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Pertains to suffering: _We toil in the torturous heat._  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
