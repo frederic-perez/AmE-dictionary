@@ -1,5 +1,19 @@
 
 
+__wrought__ _v_  
+__hurled__ _v_  
+__set forth__  
+__garbed__ _v_  
+__tawny__  
+__confound__ _v_  
+__squirm__ _v_  
+__arabesques__ _n_ _They were
+heavily coated with arabesques of
+frost which scintillated with the sil-ver sparks of outer sunshine._  
+__limpidity__ _n_ The frigid
+blue limpidity of the sky._  
+__crevasse__ _n_  
+
 __gauntlet__ _n_  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
