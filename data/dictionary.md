@@ -463,7 +463,7 @@ __annexe__ _n_ _Chiefly British_ Variant of annex.
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad's so annoying!_ :es: ¡Qué pesado es tu padre!  
-__annuity__ _n_ (annuities) :three::hammer:  
+__annuity__ _n_ :four::hammer: (annuities)  
 __annum__ _n_  
 __anodized__ _v_ :two::hammer:  
 __anodyne__ _n_ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller  
@@ -553,6 +553,7 @@ __apt__
 __aquanaut__ _n_  
 __aquaponics__ _n_  
 __aquifer__ _n_ :two::hammer:  
+__arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
@@ -1878,6 +1879,7 @@ __button up__ _v_
 __button-down__ _She was wearing faded jeans and a button-down._  
 __buttress__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
+__butyraceous__ _adj_ Of, containing, or resembling butter.  
 __buxom__  
 __buy out__ _v_  
 __buy the farm__ _idiom_ To die.  
@@ -1931,7 +1933,7 @@ __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole c
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven't lost their cache._  
 __cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
-__cachinnate__ _v_ To laugh hard, loudly, or convulsively; guffaw.  
+__cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
@@ -1945,6 +1947,7 @@ __cadence__ _n_ :two::hammer:
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he's baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
+__caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ :mega: (kăf���ĭ-tîr′ē-ə)  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
@@ -2823,7 +2826,7 @@ __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ infern
 __conflate__ _v_  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
-__confound__ _v_ :nine::hammer: (confounded, confounding)  
+__confound__ _v_ :nine::m::hammer: (confounded, confounding)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
@@ -3121,6 +3124,7 @@ __Crescent City__
 __crescent__ :two::mute:[cres~~c~~ent]:hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
+__crevasse__ _n_  
 __crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
 __crewcut__ _A crewcut man._  
@@ -4977,6 +4981,7 @@ __fishmonger__ _n_
 __fissile__ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
 __fist-pumper__  
+__fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __fists bumping__  
 __fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ :three::hammer: _His appearance fitted the bill._  
@@ -5518,7 +5523,7 @@ __gar__ _n_
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
 __garbage island__  
-__garbed__  
+__garbed__ _v_ :two::hammer:  
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ New Jersey.  
@@ -5557,7 +5562,7 @@ __Gatling gun__ _n_
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
 __gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
-__gauntlets__  
+__gauntlet__ _n_ :two::hammer: (gauntlets)  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
 __gauzy__ :two::hammer:  
@@ -6919,6 +6924,7 @@ __hysterical__ _adj_ :three::hammer:
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
+__I'd say__ _idiom_ In my opinion; it is my estimation that.  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __I'm with you__ _idiom_ I agree with you. _A: "Ugh, why did we have to get up so darn early?" B: "Hey, I'm with you—I'd rather sleep in. This early wake-up call was all Mom's idea."_  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
@@ -6964,6 +6970,7 @@ __ignominy__ _n_
 __IIRC__ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can't trust people of that ilk._  
 __ill__  
+__illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
 __illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
@@ -7999,6 +8006,7 @@ __limned__
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __limpid__ _adj_  
+__limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
 __linchpin__ _n_ :six::hammer:  
 __line up__ _v_ :two::hammer:  
@@ -10433,6 +10441,7 @@ __press on__
 __press the pocket__  
 __pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
+__presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
 __pretense__  
 __pretentious__ _adj_ :pencil2:  
 __preternatural__ _n_  
@@ -11952,7 +11961,7 @@ __set (someone) up__ _v_ _Emile's trying to set you up._
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down<sup>1</sup>__ _idiom_ To seat, to cause to sit.  
 __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
-__set forth__ _phr v_ Begin a journey or expedition. _Columbus set forth with three small ships._  
+__set forth__ _phr v_ :two: Begin a journey or expedition. _Columbus set forth with three small ships._  
 __set menu__  
 __set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
 __set out__ _phr v_ :two::dart: To put something where it can be seen or used.  
@@ -13399,6 +13408,7 @@ __superbly__
 __supercell__ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__ :two::hammer:  
 __superintendent__ _n_ :three::hammer:  
+__supernumerary__  
 __superpooch__  
 __supersede__ _v_  
 __superstorm__ _n_ :two::hammer:  
@@ -13687,7 +13697,7 @@ __tautened__
 __tautly__  
 __tautology__ _n_  
 __tawdry__ _adj_ :three: Poor, cheap quality.  
-__tawny__ _n_ :two: A light brown to brownish orange.  
+__tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
@@ -15405,7 +15415,7 @@ __writs__ _n_
 __wrong__ :mute:[~~w~~rong]  
 __wrongdoing__  
 __wrought-iron__  
-__wrought<sup>1</sup>__ _v_ :three: A past tense and a past participle of work. _Syn_ worked  
+__wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :three::pencil2::hammer:  

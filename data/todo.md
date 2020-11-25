@@ -1,30 +1,5 @@
 
 
-__wrought__ _v_  
-__hurled__ _v_  
-__set forth__  
-__garbed__ _v_  
-__tawny__  
-__confound__ _v_  
-__squirm__ _v_  
-__arabesques__ _n_ _They were
-heavily coated with arabesques of
-frost which scintillated with the sil-ver sparks of outer sunshine._  
-__limpidity__ _n_ The frigid
-blue limpidity of the sky._  
-__crevasse__ _n_  
-
-__gauntlet__ _n_  
-__fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
-__I'd say__ _idiom_ In my opinion; it is my estimation that.  
-__annuity__ _n_  
-__caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
-__butyraceous__ _adj_ Of, containing, or resembling butter.  
-__cachinnate__  
-__supernumerary__  
-__illation__  
-__presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
-
 __foolhardy__  
 __trampled__ _v_  
 __weary__  
