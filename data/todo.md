@@ -1,5 +1,16 @@
 
 
+__muttering__ _n_ _A sustained muttering as of subterranean thunder became audible._  
+__petulant__  
+__rudder__  
+__islet__ _n_  
+__subsidence__ _n_  
+__unforeseen__ _Unforeseen difficulties._  
+__cessation__ _n_ :mega::pencil2:  
+__anteroom__ _n_ :two::hammer:  
+__cut shot__  
+__mildewed__ _A mildewed gag._  
+
 __intrusive__ _adj_  
 __obtrusive__ _adj_  
 __syrupy__ _adj_ Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy "chick flicks" are another thing altogether._  
