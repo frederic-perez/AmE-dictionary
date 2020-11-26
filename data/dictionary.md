@@ -477,6 +477,7 @@ __antagonize__ _v_
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antedate__ _n_  
+__anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
 __anthropogenic__  
@@ -2241,7 +2242,7 @@ __cerulean<sup>1</sup>__ _adj_ Of a deep somewhat purplish blue color similar to
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
-__cessation__ _n_ :two: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
+__cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
 __cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
@@ -3294,6 +3295,7 @@ __cut from the same cloth__ _idiom_ To be very similar.
 __cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being "cut out of whole cloth," when in reality, they were pieced together from different cuts.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
+__cut shot__ _n_ A type of shot in several sports.  
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
 __cut__ _n_ :two::hammer: _His cut of the $50,000._  
@@ -3583,6 +3585,7 @@ __depravity__
 __depress__ _v_ _Depressing a company's value._  
 __depressed__ _Depressed wages._  
 __deprived__ _A very deprived area._  
+__depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
@@ -3644,6 +3647,7 @@ __devote__ _v_ _We're devoting this episode to his paintings._
 __devout__ _adj_  
 __dewlaps__ _n_ :two::hammer:  
 __dexterous__ _adj_  
+__diablerie__ _n_  
 __diabolical__ _adj_  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__  
@@ -4029,6 +4033,7 @@ __drag<sup>2</sup>__ _n_
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
 __drain board__ _n_ :three::hammer: (drainboard)  
+__drain the swamp__ _idiom_ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
@@ -6201,7 +6206,7 @@ __halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; pa
 __hall boy__ _n_  
 __Halligan__ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :four::hammer:  
-__hallowed__ _adj_ :four::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
+__hallowed__ _adj_ :five::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __ham hocks__ _n_ :two::hammer:  
@@ -7090,11 +7095,13 @@ __in the pocket of (someone)__ _idiom_ Under the direct control or influence of 
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
 __in the thick of it/(something)__ _idiom_ :seven: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the unlikely event (that) (something) happens__ _idiom_ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in tow__ _idiom_ :three: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
+__in virtue of (something)__ _idiom_ Due to something; because of something; by reason of something.  
 __in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _He will conduct an in-depth review._  
@@ -7288,6 +7295,7 @@ __intramural__
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacies__ :two::hammer:  
 __intricate__ _adj_ :two::hammer:  
+__intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
@@ -7316,7 +7324,7 @@ __irritating__ _adj_ _Syn_ annoying, tiresome
 __IRS__ _n_ :five: _Internal Revenue Service_  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
-__islet__ _Transplanting islet cells into the liver._  
+__islet__ _n_ :two::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
 __issue__ _v_  
@@ -8558,6 +8566,7 @@ __milch__ :two::hammer: _A milch cow._
 __mild__ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
+__mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militiaman__ _n_ :pencil2:  
@@ -8872,7 +8881,7 @@ __muster__ _v_ :two: To assemble or gather: _mustering for inspection._
 __musty__  
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
-__muttering__ _n_  
+__muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal's mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
 __Mx.__ A title of respect prefixed to a person's surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
@@ -9202,6 +9211,7 @@ __obstinate__
 __obstreperous__  
 __obstreperousness__  
 __obtrude__ _v_  
+__obtrusive__ _adj_  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __Occam's Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
@@ -9922,7 +9932,7 @@ __petted__
 __petty cash__ _n_ :two: A small cash fund kept on a firm's premises for the payment of minor incidental expenses.  
 __petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
 __petulance__  
-__petulant__ _adj_ :four::mega::hammer:  
+__petulant__ _adj_ :five::mega::hammer:  
 __petulantly__  
 __pew__ _Church pews._  
 __pewter__  
@@ -11235,8 +11245,10 @@ __retirement__
 __retooled__ _v_ :three::hammer:  
 __retracement__  
 __retrain__ _v_  
-__retreat<sup>1</sup>__ _v_ :three::hammer: (retrenching)  
+__retread__ _v_ To make or do over again, especially with minimal revision; rehash. _Syn_ make over, rework  
+__retreat<sup>1</sup>__ _v_ :three::hammer:  
 __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
+__retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.  
 __retrenchment__ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retronym__ _n_  
@@ -11490,7 +11502,7 @@ __Rubenesque__ _adj_
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
-__rudder__ _n_ :two::hammer: (airplane) _Dan is like a ship without a rudder._  
+__rudder__ _n_ :three::hammer: (airplane) _Dan is like a ship without a rudder._  
 __rudderless__  
 __ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
@@ -13341,6 +13353,7 @@ __subsea__ _n_
 __subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
 __subsequently__ _adv_ :dart::three::hammer:  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
+__subsidence__ _n_  
 __subsidiary__  
 __subsidy__  
 __substation__  
@@ -13541,7 +13554,7 @@ __synoptical__
 __syphilis__ _n_ :pencil2:  
 __syringe__  
 __syrup__ _n_ _Maple syrup._  
-__syrupy__  
+__syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy "chick flicks" are another thing altogether._  
 __systemic__ :two::hammer:  
 __syzygy__  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
@@ -14549,6 +14562,7 @@ __unflagging__ :two::hammer:
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
+__unforeseen__ _Unforeseen difficulties._  
 __unfurl__ (unfurling) :two::hammer:  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  

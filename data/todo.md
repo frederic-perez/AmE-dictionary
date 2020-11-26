@@ -1,27 +1,5 @@
 
 
-__muttering__ _n_ _A sustained muttering as of subterranean thunder became audible._  
-__petulant__  
-__rudder__  
-__islet__ _n_  
-__subsidence__ _n_  
-__unforeseen__ _Unforeseen difficulties._  
-__cessation__ _n_ :mega::pencil2:  
-__anteroom__ _n_ :two::hammer:  
-__cut shot__  
-__mildewed__ _A mildewed gag._  
-
-__intrusive__ _adj_  
-__obtrusive__ _adj_  
-__syrupy__ _adj_ Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy "chick flicks" are another thing altogether._  
-__in virtue of (something)__ _idiom_ Due to something; because of something; by reason of something.  
-__depute__ _v_ Transfer power to someone. _Syn_ delegate  
-__drain the swamp__ _idiom_ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
-__hallowed__ _adj_  
-__retread__ _v_ To make or do over again, especially with minimal revision; rehash. _Syn_ make over, rework  
-__in the unlikely event (that) (something) happens__ _idiom_ If a very improbable outcome turns out to be the case.  
-__diablerie__ _n_  
-
 __foolhardy__  
 __trampled__ _v_  
 __weary__  
