@@ -762,7 +762,7 @@ __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avow__ _v_ :two::hammer: (avowed)  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
-__aw__ _Interj._ Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
+__aw__ _interj_ :two: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
@@ -1890,7 +1890,7 @@ __buybacks__
 __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
-__buzzard__ _n_ :camera::four::hammer: (buzzards)  
+__buzzard__ _n_ :camera::five::hammer: (buzzards)  
 __buzzer__ _Durent Durent missed a floater at the buzzer._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__  
@@ -2439,7 +2439,7 @@ __churn__ _v_
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
-__chyron__ _n_ A caption superimposed over usually the lower part of a video image (as during a news broadcast).  
+__chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer's attention.  
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
@@ -2478,7 +2478,7 @@ __clairvoyant__
 __clam up__ _v_  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
-__clamber__ _v_ :nine::m: (clambered, clambering) To climb awkwardly or with difficulty. _He clambered to his feet._ _She clambered down to the ground._  
+__clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._  
 __clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
@@ -3678,7 +3678,7 @@ __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ (finger?)  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
-__digression__  
+__digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
 __dikes__ :pencil2:  
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
@@ -4552,6 +4552,7 @@ __eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory ide
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
 __evanescent__ _adj_  
+__evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
@@ -4598,7 +4599,7 @@ __exempt__ _v_ :two::hammer:
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
 __exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :four::hammer: _Her face was bright with exertion._  
+__exertion__ _n_ :five::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
@@ -5204,7 +5205,7 @@ __fool's gold__
 __fool<sup>1</sup>__ _n_  
 __fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._  
 __fool<sup>3</sup>__ _adj_ _informal_  
-__foolhardy__ :two::hammer:  
+__foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
 __foosball__ :three::hammer: _Foosball table._  
 __foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
@@ -5977,7 +5978,7 @@ __great-granddaughters__ :pencil2:
 __great-grandfather__ _n_  
 __great-grandsons__  
 __greater area__ _Greater Tokyo area._  
-__greaves__ _n_  
+__greave__ _n_ :three::hammer: (greaves) _The man wore a mail vest and greaves._  
 __Greek__ _idiom_ :two::astonished::hammer: _It’s all greek to me._ _It's in Greek and almost impossible to decode._  
 __green card wedding__  
 __green day__ :two::hammer:  
@@ -6228,7 +6229,7 @@ __handiwork__ _n_ :three::hammer:
 __handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
-__hands down__ _Hands down, best episode ever._  
+__hands down__ :two::hammer: _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands on__  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
@@ -9386,6 +9387,7 @@ __opposition__ _n_ :mega:
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opticks__ _Obsolete form of optics._  
+__optio__ _n_  
 __optometry__ _n_  
 __opulent__  
 __Orange Julius__  
@@ -11167,6 +11169,8 @@ __remonstrate__
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
+__remunerate__ _n_  
+__remuneration__ _n_  
 __render__ _v_ :four::hammer::astonished: __1b__ b. To give or make available; provide: _render assistance; render a service._ _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
@@ -11697,7 +11701,7 @@ __sawyer__ _n_ :astonished:
 __say the world__  
 __saying__ _n_ :two::hammer:  
 __scab__ _n_  
-__scabbard__ _n_ :six: A sheath for a sword, dagger, or bayonet.  
+__scabbard__ _n_ :seven: A sheath for a sword, dagger, or bayonet.  
 __scabby__  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
@@ -13455,6 +13459,7 @@ __surreptitious__
 __surreptitiously__ _adj_ :three::hammer:  
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
+__survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __suspensers__ _Firehouse suspenders_  
 __suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
@@ -13633,7 +13638,7 @@ __talk__ :mute:[ta~~l~~k]
 __talking head__ :astonished:  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
-__tall tales__ :two::hammer:  
+__tall tale__ _n_ :three: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
 __tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
 __tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
@@ -13879,6 +13884,7 @@ __think back__ _idiom_ :two: To think about a past event or a past time.
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
+__third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
@@ -15035,7 +15041,7 @@ __wean off__ _phr v_ To slowly stop a dependency on something.
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :four::hammer:  
 __wearily__  
-__weary__ _adj_ :two::hammer:  
+__weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
 __weather vane__  
@@ -15263,6 +15269,7 @@ __windsock__
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
 __wine list__ _The wine list._ :es: la carta de vinos  
+__wineskin__ _n_ _He took a sip from his wineskin._  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
