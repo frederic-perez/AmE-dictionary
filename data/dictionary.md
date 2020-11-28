@@ -627,6 +627,7 @@ __asbestos__ _n_ :three::hammer: :es: asbesto, amianto
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
+__ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :seven::hammer: (ascribed)  
@@ -1016,7 +1017,7 @@ __beam<sup>1</sup>__ _n_ _A wooden beam._
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
 __beaming__ _adj._ Smilingly happy; showing happy emotion.  
 __bean bag chair__  
-__bean counter__ _n_ _slang_ A person, such as an accountant or financial officer, who is concerned with quantification, especially to the exclusion of other matters.  
+__bean counter__ _idiom_ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bean__ _v_ _She beans him with a decanter._  
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
@@ -2884,7 +2885,7 @@ __contingent__ _The University of Illinois conducts criminal background checks o
 __continual__ :two::hammer: _For most systems, change is continual._  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
-__contranym__ _n_ A word that has opposite or nearly opposite meanings, as _cleave_, meaning "to adhere closely" and "to part or split."  
+__contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning "to adhere closely" and "to part or split."  
 __contraption__  
 __contrarian__  
 __contretemps__  
@@ -3084,6 +3085,7 @@ __crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a tel
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
+__crapulous__ _adj_ __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash and burn__ _idiom_ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
@@ -3574,6 +3576,7 @@ __denizen__ _n_ :four::hammer: (denizens)
 __denouement__ _n_ :five::hammer:  
 __denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
+__dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
@@ -4934,7 +4937,7 @@ __fill out__
 __fill someone in__ _Thank you for filling us in._  
 __fill'er up__ (gas station)  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
-__fillip__ :two::hammer:  
+__fillip__ _n_ :three::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __film maker__ _n_ ?  
 __filthy__ Very dirty.  
@@ -6277,6 +6280,7 @@ __hard on the eyes__ _idiom_ Unattractive; ugly.
 __hard rock__ _n_  
 __hard sell__  
 __hard-ball__  
+__hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
 __hard-boiled egg__  
 __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-line__ _A more hard-line position._  
@@ -6369,6 +6373,7 @@ __have a say (in something)__ _idiom_ To have an active and participatory role i
 __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
 __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advantage that can be utilized if and when it is required. A reference to cheating at a card game by hiding a favorable card up one's sleeve.  
+__have a yen for (something)__ _idiom_ To have a very strong and persistent desire or craving for something.  
 __have a/the wolf by the ear(s)__ _idiom_ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
@@ -7268,7 +7273,7 @@ __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
-__intemperance__  
+__intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
 __intently__ :two::hammer: _He watched him intently._  
 __interdicting__  
 __interim__  
@@ -7953,7 +7958,7 @@ __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is usef
 __liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :five::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
-__libel__ _n_ :five::hammer: _Libel laws._ :es: calumnia  
+__libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __libertine<sup>2</sup>__ _n_  
@@ -8104,6 +8109,7 @@ __loftily__
 __lofty__ _adj_ :seven::hammer: _His lofty perch._ _A lofty professional career._  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone's intelligence.  
 __logjam__ _n_  
+__logomachy__ _n_  
 __logorrhea__ _n_  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
@@ -8464,6 +8470,7 @@ __medevac helicopter__
 __medevac__ _v_  
 __medic__ _n informal_ A doctor, medical orderly, or medical student.  
 __medical discharge__ _A medical discharge._  
+__meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ :mega:  
@@ -10509,6 +10516,7 @@ __prised out__ _v_
 __prissy__ _adj_ :four::hammer: _A prissy mustache._  
 __pristine__ _They were in pristine condition._  
 __private dancer__ _n_ A dancer who performs a striptease.  
+__privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -11103,7 +11111,7 @@ __reffing__
 __refractory__ _adj_  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_  
-__refugium__ _n_  
+__refugium__ _n_ :two::hammer:  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__ :two::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
@@ -11508,7 +11516,7 @@ __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._
 __ructions__ _n_  
 __rudder__ _n_ :three::hammer: (airplane) _Dan is like a ship without a rudder._  
 __rudderless__  
-__ruddy__ _adj_ :nine: Ruddy is used to describe something that is reddish — like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
+__ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter's day. _Until her skin was ruddy._  
 __rude__  
 __rudiment__ _n_  
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
@@ -12397,7 +12405,7 @@ __slackline__ _n_ :two::hammer:
 __slag__  
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
-__slander__ _v_ :six::hammer: (slandering) _Syn_ traduce  
+__slander__ _v_ :seven::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slap (one) on the wrist__ _idiom_ To issue one with a very mild, inconsequential punishment or warning.  
 __slapdash__ _adj_ :two::hammer: _His slapdash action._  
@@ -12883,6 +12891,7 @@ __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for anoth
 __sponsor<sup>2</sup>__ _v_  
 __spool tables__  
 __spool__ _n_  
+__spoonerism__ _n_  
 __spoonful__ _n_ :es: cucharada  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
@@ -13846,6 +13855,7 @@ __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.
 __the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
+__the heebie-jeebies__ _idiom_ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.”  
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
 __the idiot box__ _idiom_ A television set, or television in general.  
@@ -14478,6 +14488,7 @@ __uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._
 __uh__  
 __uh-oh__ _My "uh-oh" bell rings._  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
+__ulterior__ _adj_  
 __ultimately__  
 __ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
@@ -15392,7 +15403,7 @@ __would__ :mute:[wou~~l~~d]
 __wow factor__  
 __wow__ _v_ :two::hammer:  
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
-__wraith__ _n_ :two::hammer: _Syn_ ghost  
+__wraith__ _n_ :three: __1__ An apparition of a living person supposed to portend his or her death. __2__ A visible spirit. _Syn_ ghost  
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap (one's) head around it__ _idiom_ :six: To comprehend something that one considers challenging, confusing, or a foreign concept. _I'm trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  

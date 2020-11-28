@@ -1,27 +1,5 @@
 
 
-__have a yen for (something)__ _idiom_ To have a very strong and persistent desire or craving for something.  
-__hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
-__bean counter__ _idiom_ __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
-__ascertainmentnoun__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
-__ulterior__ _adj_  
-__intemperance__ _adj_ Lack of moderation. _especially_ Habitual or excessive drinking of intoxicants.  
-__crapulous__ _adj_ __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
-__fillip__ _n_  
-__wraith__ _n_ __1__ An apparition of a living person supposed to portend his or her death. __2__ A visible spirit.  
-__meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
-
-__contranym__  
-__refugium__ _n_  
-__logomachy__ _n_  
-__ruddy__ _adj_  
-__privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
-__the heebie-jeebies__ _idiom_ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.”  
-__dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
-__spoonerism__ _n_  
-__libel__  
-__slander__  
-
 __sussed__ _v_ :two::hammer:  
 __reel__ _v_ (reeling) _Pete was still reeling from the shock._  
 __apprehension__ _n_ :pencil2:  
