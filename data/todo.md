@@ -1,5 +1,16 @@
 
 
+__bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
+__go great lengths__ _idiom_ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__let alone__ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__clip__ _n_ _Here is a clip from her most recent article._  
+__upbeat__ _adj_ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil's colleagues say he was actually in a joking, upbeat mood._  
+__frazzle<sup>1</sup>__ _v_ (frazzled) __1__ To wear away along the edges; fray. __2__ To exhaust physically or emotionally.  
+__frazzle<sup>2</sup>__ _n_ __1__ A frayed or tattered condition. __2__ A condition of exhaustion: _worked themselves to a frazzle._  
+__arrangement__ _n_  
+__occasional__ _adj_ :pencil2:  
+__bestow__ _v_  
+
 __in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __headstrong__ _adj_ :dart: Determined to have one's own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
