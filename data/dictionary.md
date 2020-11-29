@@ -1654,7 +1654,7 @@ __bring off__ _phr v_ :two: To succeed in doing something difficult; to accompl
 __bring the house down__ _idiom_ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
-__brisk__ _adj_ :three::hammer: _Brisk pace._  
+__brisk__ _adj_ :four::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
@@ -2479,7 +2479,7 @@ __clairvoyant__
 __clam up__ _v_  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
-__clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._  
+__clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
 __clamming__ _adj_ _His clamming forehead._  
 __clammy__ _adj_ :three::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
@@ -3115,7 +3115,7 @@ __credit__ _Presidents don't deserve full credit or blame for the economy's perf
 __creditor__ _n_  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
 __creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
-__creep<sup>1</sup>__ _n_ _The upward creep._  
+__creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ (crept)  
 __crenelated weir__  
 __creosote__  
@@ -4438,7 +4438,7 @@ __enjambments__
 __enjoin__ _v_ (enjoined)  
 __enliven__ _v_  
 __enlivened__  
-__enmity__ _n_ :seven::hammer:  
+__enmity__ _n_ :eight::hammer: _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
 __enormous__ :mega:  
 __enquiry__  
@@ -4880,6 +4880,7 @@ __fetus__ _n_
 __feud<sup>1</sup>__ _n_ :four::hammer:  
 __feud<sup>2</sup>__ _v_  
 __feuded__  
+__feverish__  
 __fey__ _adj_  
 __fez__ _n_  
 __fiancé__ A man who is engaged to be married.  
@@ -5256,7 +5257,7 @@ __forecast__ _v_ (forecast or forecasted, forecasting, forecasts)
 __foreclose__ _v_  
 __foreclosure__ _n_ :two::hammer:  
 __forefathers__  
-__forefinger__  
+__forefinger__ _n_ :two::hammer:  
 __forefront__  
 __foregather__ _v_ Collect in one place. _Syn_ assemble, meet _The captains of every ship in the fleet rowed into the lagoon to foregather on its secluded beach._  
 __forego__ _v_ :two::hammer:  
@@ -5477,6 +5478,7 @@ __fusillade__ _n_ :two::hammer:
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
+__fussbudget__ _n_  
 __futile__ _adj_ :two::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -5651,6 +5653,7 @@ __get the knack of__ _idiom_ :two: To learn how to do something competently or w
 __get the middle finger__  
 __get the the green light__ _idiom_ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ _idiom_ To promptly begin or get something started.  
+__get through to__ To make someone understand what you are trying to say.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone's skin__ _idiom_  
 __get wind__  
@@ -6325,7 +6328,7 @@ __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from 
 __hassle-free__ :two::hammer:  
 __hasten__ _v_ :three::mute:[has~~t~~en]:hammer:  
 __hastily__ _A hastily arranged news conference._  
-__hasty__ :two::hammer:  
+__hasty__ _adj_ :three::hammer: _A hasty decision._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
 __Hatch Act__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
@@ -6426,7 +6429,7 @@ __HDL-C__ _abbr_ High-density-lipoprotein cholesterol.
 __he-man__ _idiom_ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
-__head over heels__ _idiom_ :three: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head over heels__ _idiom_ :four: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
 __head wind__  
@@ -9779,6 +9782,7 @@ __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger 
 __paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __Paulistano__  
 __paunch__ _n_  
+__paunchy__ _adj_  
 __pavilion__ _n_  
 __pavilions__  
 __paving stones__  
@@ -9861,7 +9865,7 @@ __pensive__ _adj_ :three::hammer: _You look pensive._
 __pensively__  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ _Syn_ stingy, parsimonious  
-__peoples__ _pl n_ :two: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
+__peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
@@ -10560,7 +10564,8 @@ __prominence__
 __prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
-__prompt__ _v_ :two::hammer: (prompting)  
+__prompt<sup>1</sup>__ _adj_ __1__ Being on time; punctual. __2__ Carried out or performed without delay. _A prompt reply._  
+__prompt<sup>2</sup>__ _v_ :two::hammer: (prompting)  
 __promptly__ :dart: _The importance of detecting diabetes promptly._  
 __prone<sup>1</sup>__ _adj_ :es: propenso  
 __prone<sup>2</sup>__ _n_  
@@ -10586,7 +10591,7 @@ __prosecute__ _v_ _People liked news of another war successfully prosecuted._
 __proselytism__ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prospect__ _n_ (sports)  
-__prospective__ _Prospective clients._  
+__prospective__ _adj_ :two: _Prospective clients._  
 __prospector__  
 __prospectus__  
 __prostrate<sup>1</sup>__ _adj_  
@@ -11846,7 +11851,7 @@ __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)
 __scuffed boots__  
 __scuffed__ _v_ :two::hammer:  
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
-__scuffle<sup>2</sup>__ _n_ :five::hammer: _The scuffle and scrape of rubber soles._  
+__scuffle<sup>2</sup>__ _n_ :six::hammer: _Other guards hurried by with a scuffle and thud of leather._ _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
 __scullery__ _n_ A small room (in large old British houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.  
 __scum__ _n_ :three::hammer: _He was scum._  
@@ -13206,7 +13211,7 @@ __stonewall__ _v_ :four::hammer: (stonewalling)
 __stool pigeon__ _n_ _slang_ :two: A person acting as a decoy or as an informer, especially one who is a spy for the police. _Syn_ canary, fink, snitch _A guard's stool pigeon._  
 __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend your body forward and down. _Jean stoops to pick cranberries for preserves._ _We had to stoop to pass through the low entrance._ _Dave stooped down to tie his shoes._ __2__ To stand with your back and shoulders bent forwards. _Although stooped by age, her eyes were sharp._  
 __stoop<sup>2</sup>__ _n_  
-__stooped__ _adj_ :three::hammer: _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
+__stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A little oldish misshapen stooping woman._ _Syn_ hunched, round-backed, round-shouldered, stooping, crooked _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
 __stop-and-go__ _Stop-and-go traffic jams._  
 __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
@@ -13228,7 +13233,7 @@ __stoup__
 __stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
 __stove__ _n_ :three::hammer:  
 __stovepipe hat__  
-__stow__ _v_  
+__stow__ _v_ :two::hammer: (stowed)  
 __stowage__  
 __stowaway__  
 __strabismus__ _n_ Abnormal alignment of one or both eyes.  
@@ -14167,6 +14172,7 @@ __topiary__
 __topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
 __topsy-turvy__ _adj_ :four::hammer: _Topsy-turvy battles._  
+__torch__ _n_  
 __torches__ _n_  
 __tore__ _v_  
 __toric__ _adj_ _Toric lens._  
@@ -14404,6 +14410,7 @@ __Turkey day__
 __turkey drumstick__  
 __turkey stock__ :camera:  
 __turmoil__  
+__turn a profit__  
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn on__ _phr v_  

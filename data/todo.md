@@ -1,31 +1,5 @@
 
 
-__clamber__ _v_ _Up the darkest wall he clambered, to become a
-darker shadow clinging to the wall
-just under the ceiling._  
-__scuffle__ _n_ _Other guards hurried
-by with a scuffle and thud of
-leather._  
-__stooped__ _v_  
-__feverish__  
-__forefinger__ _n_  
-__torch__ _n_  
-__stowed__ _v_  
-__creep__ _n_  
-__paunchy__ _adj_  
-__peoples__ _n_  
-
-__turn a profit__  
-__fussbudget__ _n_  
-__get through to__ To make someone understand what you are trying to say.  
-__lagom__ _n_  
-__enmity__ _n_ _Syn_ hostility, antagonism  
-__prospective__  
-__brisk__ _adj_ _A brisk walk._  
-__hasty__ _adj_ _A hasty fecision._  
-__prompt__ _adj_ _A prompt reply._  
-__head over heels__  
-
 __zero flat__ _We are holding the room at zero flat._  
 __plastene__ [?] :three::hammer:  
 __belatedly__  
@@ -33,11 +7,8 @@ __spate__ _n_ _A warm spate of blood ran from his nostrils._
 __belch__ _n_  
 __seared__ _v_  
 __thrashing__ _v_ _He fell to the floor, thrashing and twisting in pain._  
-__bait__ _v_ _A trap baited by a
-devil._  
-__wincing__ _Every pulse was like
- the beat of a hammer against his
-wincing skull._  
+__bait__ _v_ _A trap baited by a devil._  
+__wincing__ _Every pulse was like the beat of a hammer against his wincing skull._  
 __scuffed__ _v_  
 
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
