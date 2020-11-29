@@ -1,5 +1,20 @@
 
 
+__clamber__ _v_ _Up the darkest wall he clambered, to become a
+darker shadow clinging to the wall
+just under the ceiling._  
+__scuffle__ _n_ _Other guards hurried
+by with a scuffle and thud of
+leather._  
+__stooped__ _v_  
+__feverish__  
+__forefinger__ _n_  
+__torch__ _n_  
+__stowed__ _v_  
+__creep__ _n_  
+__paunchy__ _adj_  
+__peoples__ _n_  
+
 __turn a profit__  
 __fussbudget__ _n_  
 __get through to__ To make someone understand what you are trying to say.  
