@@ -1,5 +1,16 @@
 
 
+__turn a profit__  
+__fussbudget__ _n_  
+__get through to__ To make someone understand what you are trying to say.  
+__lagom__ _n_  
+__enmity__ _n_ _Syn_ hostility, antagonism  
+__prospective__  
+__brisk__ _adj_ _A brisk walk._  
+__hasty__ _adj_ _A hasty fecision._  
+__prompt__ _adj_ _A prompt reply._  
+__head over heels__  
+
 __zero flat__ _We are holding the room at zero flat._  
 __plastene__ [?] :three::hammer:  
 __belatedly__  
