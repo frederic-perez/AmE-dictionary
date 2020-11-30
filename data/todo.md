@@ -1,5 +1,18 @@
 
 
+__annihilate__ _v_  
+__gullible__ _adj_  
+__legend__ _n_ _They
+even went out and dug up an old
+legend to fit us._  
+__cockeyed__  
+__muck__  
+__lore__  
+__Epicureans__  
+__debauchees__  
+__writhed__ _v_ _Joe writhed in terrible pain._  
+__stamped__ _v_  
+
 __zero flat__ _We are holding the room at zero flat._  
 __plastene__ [?] :three::hammer:  
 __belatedly__  
