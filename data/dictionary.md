@@ -460,6 +460,7 @@ __ankle-biter__ _n_ _slang_ :two: Child.
 __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
+__annihilate__ _v_  
 __annihilation__ :pencil2::mega:  
 __anniversary__ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad's so annoying!_ :es: ¡Qué pesado es tu padre!  
@@ -852,6 +853,7 @@ __bail skip__
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
 __bailiwick__ :two::hammer:  
 __bailout__ _n_ :four::hammer:  
+__bait__ _v_ _A trap baited by a devil._  
 __bake in__ _v_  
 __bake__ _v_ _Baking bread._  
 __baked__ _adj_ _Kevin is baked._  
@@ -1108,7 +1110,8 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
-__belatedly__ _adv_ :four::hammer:  
+__belatedly__ _adv_ :five::hammer:  
+__belch__ _n_  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
 __belching__  
 __beleaguer__ _v_  
@@ -2624,7 +2627,7 @@ __cobble__ _v_ :two::hammer: (cobbled)
 __cobbler__ _n_  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __cockerel__  
-__cockeyed__ _Cockeyed predictions._  
+__cockeyed__ _adj_ :two::hammer: _Cockeyed predictions._  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
@@ -3437,6 +3440,7 @@ __deathless__
 __debacle__ _n_ :four::hammer:  
 __debasing__ _v_  
 __debatable__  
+__debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ :two::hammer:  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
@@ -4483,7 +4487,7 @@ __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.
 __epaulets__  
 __epee__  
 __ephemeral__  
-__epicurean__ _adj_ :two: Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
+__epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
 __epilepsy__ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
@@ -6107,7 +6111,7 @@ __guitar__ :mute:[g~~u~~itar]
 __Gulag__ _n_ :two::hammer:  
 __gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
 __gullibility__  
-__gullible__ _adj_ :six: Naive and easily deceived or tricked.  
+__gullible__ _adj_ :seven: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
@@ -8820,7 +8824,7 @@ __Mr. Such and Such__
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: "Here's your jacket, sir." B: "Much obliged, son."_  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
-__muck<sup>1</sup>__ _n_ :three: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
+__muck<sup>1</sup>__ _n_ :four: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
 __muckrake__  
 __mudcat__ _n_  
@@ -11849,7 +11853,7 @@ __scry__ _v_ To see or predict the future by means of a crystal ball.
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
 __scuffed boots__  
-__scuffed__ _v_ :two::hammer:  
+__scuffed__ _v_ :three::hammer:  
 __scuffle<sup>1</sup>__ _v_ :seven: (scuffled, scuffling) Engage in a short, confused fight or struggle at close quarters. _The teacher noticed two pupils scuffling in the corridor._ _Syn_ fight, struggle _The police scuffled with a group of demonstrators._  
 __scuffle<sup>2</sup>__ _n_ :six::hammer: _Other guards hurried by with a scuffle and thud of leather._ _The scuffle and scrape of rubber soles._  
 __scull__ _v_ _Sculled the boat._  
@@ -11879,7 +11883,7 @@ __seamed__ _v_ _A seamed old man._
 __seamless__  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
-__sear__ _v_ :five: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
+__sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing__ _adj_ :two::hammer: _Searing work._  
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
@@ -12803,7 +12807,7 @@ __sparklers__ _n_
 __sparred__ _v_  
 __spars__ _n_  
 __spat__ _n_ :seven::hammer: _This spat demonstrated that Rogozin is trying to prove that he's set to revamping the industry._ _Public spat._ _In a spat over an arrest._  
-__spate__ _n_ :seven: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._  
+__spate__ _n_ :eight: /speɪt/ A large number of similar things coming in quick succession. _Syn_ series, succession, run _A spate af hate speech._ _A spate of cross-border attacks._ _A warm spate of blood ran from his nostrils._  
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
@@ -13031,7 +13035,7 @@ __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stamme
 __stammer<sup>2</sup>__ _v_  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _Additional stamp duties went into effect last year._  
-__stamped__  
+__stamped__ _v_ :two::hammer:  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
@@ -15270,7 +15274,7 @@ __wimpling__ _v_
 __wimpy__ _adj_ :two::hammer:  
 __win (something) in a walk__ _idiom_ To win (something) easily, handily, or without much or any effort.  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :six::hammer: (winced, wincing) _He was wincing in pain._  
+__wince__ _v_ :seven::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
@@ -15448,7 +15452,7 @@ __write up__ _phr v_ :three: To write something using notes that you wrote earli
 __write__ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
-__writhe__ _v_ :seven::hammer: (writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._  
+__writhe__ _v_ :eight::hammer: (writhed, writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
 __writing on the wall, the__ An omen of impending disaster or ruin. _I've seen the writing on the wall._  
 __writs__ _n_  
 __wrong__ :mute:[~~w~~rong]  
@@ -15549,6 +15553,7 @@ __zeightgeist__
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
 __zenith__ _n_ :mega:  
 __zeppelin__ _n_  
+__zero flat__ _We are holding the room at zero flat._  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
 __zero in__  

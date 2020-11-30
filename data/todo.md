@@ -1,28 +1,5 @@
 
 
-__annihilate__ _v_  
-__gullible__ _adj_  
-__legend__ _n_ _They
-even went out and dug up an old
-legend to fit us._  
-__cockeyed__  
-__muck__  
-__lore__  
-__Epicureans__  
-__debauchees__  
-__writhed__ _v_ _Joe writhed in terrible pain._  
-__stamped__ _v_  
-
-__zero flat__ _We are holding the room at zero flat._  
-__plastene__ [?] :three::hammer:  
-__belatedly__  
-__spate__ _n_ _A warm spate of blood ran from his nostrils._  
-__belch__ _n_  
-__seared__ _v_  
-__thrashing__ _v_ _He fell to the floor, thrashing and twisting in pain._  
-__bait__ _v_ _A trap baited by a devil._  
-__wincing__ _Every pulse was like the beat of a hammer against his wincing skull._  
-__scuffed__ _v_  
 
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __go great lengths__ _idiom_ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
