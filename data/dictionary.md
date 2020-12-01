@@ -597,6 +597,7 @@ __around the clock__ _idiom_ :two: Without stopping. _Syn_ for 24 hours, round t
 __around the corner__ _idiom_ :two: Going to happen soon.  
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_  
+__arrangement__ _n_  
 __arrears__ _n_ :pencil2:  
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
@@ -1274,6 +1275,7 @@ __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._
 __black belt__  
 __black gold__  
 __black lung__ _You can die of black lung._  
+__Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
 __black out__ _v_ :two::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
@@ -1552,6 +1554,7 @@ __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) 
 __bowdlerize__ _v_ To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good.  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
+__bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
@@ -2556,7 +2559,7 @@ __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending t
 __clincher__ _n_ :five: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
-__clip__ _n_ :two::hammer: _A better newspaper clip._  
+__clip__ _n_ :three::hammer: _A better newspaper clip._ _Here is a clip from her most recent article._  
 __clipped grass__  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :seven: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
@@ -3409,6 +3412,7 @@ __day tripper__ _You are funny, sitting there like a day tripper._
 __Day Zero__  
 __daybeds__ _n_  
 __dayglow__  
+__daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
@@ -5353,8 +5357,9 @@ __fraught__ _adj_ :nine: __1__ (of a situation or course of action) filled with 
 __fray<sup>1</sup>__ _n_ :three::hammer: _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person's nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
-__frazzled<sup>1</sup>__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
-__frazzled<sup>2</sup>__ _v_  
+__frazzle<sup>1</sup>__ _v_ :two: (frazzled) __1__ To wear away along the edges; fray. __2__ To exhaust physically or emotionally.  
+__frazzle<sup>2</sup>__ _n_ __1__ A frayed or tattered condition. __2__ A condition of exhaustion: _worked themselves to a frazzle._  
+__frazzled__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
@@ -5788,7 +5793,7 @@ __go ballistic__ _idiom_ :two::hammer:
 __go dutch__  
 __go figure__ _idiom_ :two: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It's a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
-__go great lenghts__  
+__go great lengths__ _idiom_ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ _You going native on me, Supercop?_  
 __go numb__ :two::hammer:  
 __go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
@@ -6305,7 +6310,7 @@ __hardpan__ :two::hammer: _Hardpan dirt yards._
 __hardscrabble__ _Hardscrabble journeys._  
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardware__ _n_  
-__hardwood__ :two::hammer: _The hardwood floor._  
+__hardwood__ :three::hammer: _The hardwood floor._  
 __hardy__  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
@@ -6695,7 +6700,7 @@ __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold 
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
-__hold one's pose__  
+__hold one’s peace__ :two::hammer: _“Oh!” She looked puzzled, but held her peace._  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
 __hold the reins__ _idiom_ To have or be in control, especially of a group, project, or situation.  
@@ -6806,6 +6811,7 @@ __horticulturist__ _n_ :mega:
 __hosanna__ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__hot air__ _n_ Loud and confused and empty talk.  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
 __hot desking__ _idiom_ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
 __hot glue__  
@@ -7098,6 +7104,7 @@ __in the eye of (something)__ _idiom_ At, in, or amidst the central or focal poi
 __in the fold__ _They kept the devious students in the fold._  
 __in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
 __in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one's control or influence.  
+__in the least__ _Apparently you didn’t understand me in the least._  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
 __in the midst of (something)__ _idiom_  
@@ -7937,7 +7944,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lessons learned__  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__ _conj_ :seven::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._  
+__let alone__ _conj_ :eight::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
@@ -7997,6 +8004,7 @@ __light-headed__ _I feel light-headed from lack of sleep._
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
+__lightheaded__ _adj_ Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._  
 __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -9231,6 +9239,7 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __Occam's Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :two::mega::pencil2::hammer:  
+__occasional__ _adj_ :pencil2:  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
 __OCD__ :two::hammer: _abbrev_  
@@ -10377,7 +10386,7 @@ __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._
 __pouch__ _n_  
 __poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
-__pounce__ _v_ :four::hammer: (pounced)  
+__pounce__ _v_ :five::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
@@ -14068,7 +14077,7 @@ __tiptoe<sup>3</sup>__ _n_
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one's toes.  
 __tirade__ _n_ :seven::hammer:  
 __tire spikes__ :camera:  
-__tire__ _v_ _To break up the peloton and make teams chase and tire._  
+__tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
 __tit for tat__ _n_ :four::hammer:  
@@ -14666,7 +14675,7 @@ __up yours__ :two::hammer:
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
-__upbeat__ _adj_ :four: __1__ Optimistic: _an upbeat business forecast._ _An upbeat approach._ _He's extremely upbeat during down times._ __2__ Happy; cheerful.  
+__upbeat__ _adj_ :five: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil's colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He's extremely upbeat during down times._ __2__ Happy; cheerful.  
 __upcoming__  
 __updraft__ _n_ The movement upward of air or other gas.  
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
