@@ -1,6 +1,25 @@
 
 
 
+__pounced__ _v_  
+__daze__ _n_ _Exhausted beyond his endurance,
+the Deacon sank down against the
+wall in a daze of half sleep._  
+__hardwood__ _n_  
+__preposterous__  
+__Black Maria__ _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
+__hot air__ _idiom_  
+__hold one’s peace__ _“Oh!” She looked puzzled, but
+held her peace._  
+__tire__ _v_ _I use a revolving ball to tire the conscious mind into
+a simple hypnosis._  
+__in the least__ _Apparently
+you didn’t understand me in the
+least._  
+__lightheaded__ _I was lightheaded part
+of the time._  
+
+
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __go great lengths__ _idiom_ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let alone__ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
