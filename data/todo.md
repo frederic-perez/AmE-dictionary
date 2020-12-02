@@ -1,28 +1,6 @@
 
 
 
-__in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
-__debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
-__headstrong__ _adj_ :dart: Determined to have one's own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
-__don't shoot the messenger__ _idiom_ Don't get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
-__poll watcher__ _n_ A person assigned (as by a political party or candidate) to observe activities at a polling place to guard against illegal voting, fraudulent counting of ballots, and other violations of election laws.  
-__effrontery__ _n_ Behavior that is rude or that shows a lack of respect.  
-__cheek__ _n_ __2__ _informal_ Impudence; effrontery.  
-__truculent__ _adj_  
-__kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
-__staid__ _adj_ Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
-
-__sussed__ _v_ :two::hammer:  
-__reel__ _v_ (reeling) _Pete was still reeling from the shock._  
-__apprehension__ _n_ :pencil2:  
-__warren__ _It was like a rabbit warren._  
-__blowtorch__ _n_  
-__intently__  
-__ailing__ _v_  
-__instigator__ _n_  
-__snot__ _n_ (mucus?)  
-__moot__  
-
 __strenuous__  
 __downplay__  
 __articulate__  

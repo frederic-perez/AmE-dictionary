@@ -297,7 +297,7 @@ __ahoy__ _interj_ Used to hail a ship or to attract attention.
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
 __ailerons__  
-__ailing__ :three::hammer: _It is ailing the NFL._  
+__ailing__ _v_ :four::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :four: Mild illness.  
 __ails__ _v_ :two::hammer:  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
@@ -544,7 +544,7 @@ __appraisingly__
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _I appreciate it._  
 __apprehend__ _v_  
-__apprehension__  
+__apprehension__ _n_ :two::pencil2::hammer:  
 __apprehensive__ _adj_ Very nervous.  
 __apprentice__ _v_  
 __apprenticeship__ _Apprenticeship program._  
@@ -1379,7 +1379,7 @@ __blowhard__ _n_
 __blown call__  
 __blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
-__blowtorch__  
+__blowtorch__ _n_ :two::hammer:  
 __blowup bed__ _n_  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __bludgeoned__ _v_ :three::hammer:  
@@ -2335,6 +2335,7 @@ __checklist__ (single word)
 __checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or "the king is dead."_  
 __checkup__ _n_ :two::hammer:  
 __cheek by jowl__ :two::hammer:  
+__cheek__ _n_ __2__ _informal_ Impudence; effrontery.  
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
 __cheeky__  
@@ -3446,6 +3447,7 @@ __debasing__ _v_
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ :two::hammer:  
+__debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
@@ -3934,6 +3936,7 @@ __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't cou
 __don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
+__don't shoot the messenger__ _idiom_ Don't get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -4290,7 +4293,7 @@ __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.
 __effluent__  
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
-__effrontery__ _n_ :three::hammer:  
+__effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
 __effusive__  
 __egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
@@ -6455,7 +6458,7 @@ __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning m
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
 __headshot__ _n_ :dart::two::hammer:  
 __headstone__ _n_ :three::hammer:  
-__headstrong__ _adj_  
+__headstrong__ _adj_ :two::dart: Determined to have one's own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :three::hammer:  
@@ -7114,6 +7117,7 @@ __in the offing__
 __in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
+__in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ _idiom_ :seven: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the unlikely event (that) (something) happens__ _idiom_ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
@@ -7276,6 +7280,7 @@ __insomniac__ _n_
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
+__instigator__ _n_  
 __instill__ _v_ :six::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
@@ -7288,7 +7293,7 @@ __intangible__
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
-__intently__ :two::hammer: _He watched him intently._  
+__intently__ :three::hammer: _He watched him intently._  
 __interdicting__  
 __interim__  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
@@ -7625,6 +7630,7 @@ __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
+__kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
 __kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
@@ -8753,7 +8759,7 @@ __moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-break
 __moonstruck__ _adj_  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_  
-__moot<sup>1</sup>__ _adj_ :eight: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>1</sup>__ _adj_ :nine: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _A lovable moppet._  
@@ -10289,6 +10295,7 @@ __policyholder__
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __polish__ _v_  
 __politburo__  
+__poll watcher__ _n_ A person assigned (as by a political party or candidate) to observe activities at a polling place to guard against illegal voting, fraudulent counting of ballots, and other violations of election laws.  
 __pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
@@ -12665,7 +12672,7 @@ __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap
 __snort<sup>1</sup>__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
 __snot rag__  
-__snot__ _n_ :three::hammer:  
+__snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __snout__ _n_  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
@@ -13020,7 +13027,7 @@ __stagflation__ :two::hammer:
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
 __staggering__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
 __stagnant__ _adj_ :three::hammer:  
-__staid__ _adj_ :five: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno  
+__staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair climbing__ The climbing of a flight of stairs.  
 __stairwell__ _n_:three::camera::hammer:  
 __stake__ _n_  
@@ -13488,7 +13495,7 @@ __surrogate__ _n_ :two::hammer:
 __surveyor__  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __suspensers__ _Firehouse suspenders_  
-__suss__ _v_ _chiefly British_ __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
+__suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __susurration__ _n_  
@@ -14370,7 +14377,7 @@ __troy ounce__ :two::hammer:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
-__truculent__ _adj_ :four: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
+__truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
 __true colors__ :two::hammer: _He has shown his true colors._  
 __true to form__  
@@ -15019,7 +15026,7 @@ __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militari
 __warmongering__ _n_  
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It's a noun! It's a verb! It's a word that warrants our attention! As a noun, it's the piece of paper they show you through the keyhole during an investigation. It's also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it'll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :four: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager's sneaking in late again warrants a stricter curfew. _The situation warranted it._  
-__warren__ _n_ _A warren of hares._  
+__warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
 __wash (someone's) mouth out (with soap)__ _idiom_ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
