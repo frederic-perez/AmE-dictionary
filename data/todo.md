@@ -1,27 +1,5 @@
 
 
-__ringer__ _n_ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._  
-__brainiac__ _n_ A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
-__all of a dither__ _idiom_ In a nervous, confused, or agitated state.  
-__hideaway__ _n_ An area where you can be alone. _Syn_ retreat  
-__misinformation__ _n_ Information that is incorrect.  
-__bluster__ _n_ __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
-__tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
-__tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
-__in a flutter__ _idiom_ In a nervous, confused, or agitated state.  
-__defile__ _v_ To damage or sully (someone's good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
-
-__strenuous__  
-__downplay__  
-__articulate__  
-__soft-pedal__ _v_ _Informal_ To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
-__verbiage__ _n_  
-__diction__ _n_  
-__perjury__ _n_ Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
-__help (oneself) (to something)__ _idiom_ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
-__slubber__  
-__Ciceronian__ _adj_  
-
 __hmm__  
 __tangerine__ _n_  
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  

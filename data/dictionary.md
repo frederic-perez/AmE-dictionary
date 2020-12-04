@@ -340,6 +340,7 @@ __align__ :mute:[ali~~g~~n]
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I'm all ears!_  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all of a dither__ _idiom_ In a nervous, confused, or agitated state.  
 __all of a sudden__ _adv_ Without warning.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
@@ -602,9 +603,9 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
-__articulate<sup>1</sup>__ _adj_ :three::hammer:  
+__articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
-__articulated__ _adj_ _A clearly articulated project._  
+__articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
@@ -1404,7 +1405,7 @@ __bluntly__ :two::hammer: _"We haven't got the money," Ingold responded bluntly.
 __blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_  
-__bluster<sup>2</sup>__ _n_  
+__bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
@@ -1574,7 +1575,7 @@ __brackish__ _Brackish water._
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __brain drain__  
 __brainchild__ _n_ :four::hammer:  
-__brainiac__ _Slang_ A highly intelligent person.  
+__brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
 __brainwash__ _v_  
 __brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.  
@@ -2448,6 +2449,7 @@ __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking mil
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer's attention.  
+__Ciceronian__ _adj_  
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
@@ -3518,7 +3520,7 @@ __deferred__ _v_ :two::hammer:
 __defiance__  
 __defibrillator__ _n_ :two: An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile<sup>1</sup>__ _n_ :three::hammer:  
-__defile<sup>2</sup>__ _v_  
+__defile<sup>2</sup>__ _v_ :two: To damage or sully (someone's good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
 __definitely__  
 __deflated__ _v_  
 __deflation__ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
@@ -3672,7 +3674,7 @@ __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situ
 __dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
-__diction__ _n_ :four::hammer: _The priest diction._  
+__diction__ _n_ :five::hammer: _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
@@ -4014,7 +4016,7 @@ __downhearted__ _adj_
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic's health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v_ :four::hammer: (downplayed)  
+__downplay__ _v_ :five::hammer: (downplayed)  
 __downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
@@ -6539,6 +6541,7 @@ __hellbound__ _adj_ Bound for Hell; damned.
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _?_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
+__help (oneself) (to something)__ _idiom_ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
@@ -6582,7 +6585,7 @@ __hickory shaft__
 __hickory__  
 __hicks__ _A collection of web-toed hicks._  
 __hide and seek__ _idiom_ A situation in which one party is constantly evading or avoiding another. (A reference to the children's game "hide and go seek.") Often used with the verb "play."  
-__hideaway__ _n_  
+__hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :three::hammer:  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
@@ -7063,6 +7066,7 @@ __in (one's) own right__ _idiom_ Through the force of one's own skills or qualif
 __in (someone's) view__ _idiom_ In someone's opinion.  
 __in (someone's) wheelhouse__ _idiom_ In, related to, or matching someone's general interests, abilities, or area of familiarity; in someone's comfort zone.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs "see" or "show," or some similar variation.)  
+__in a flutter__ _idiom_ In a nervous, confused, or agitated state.  
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a measure__ _idiom_ To a certain degree or extent; somewhat.  
 __in a nutshell__  
@@ -8669,6 +8673,7 @@ __misgiving__ _n_ :five: (misgivings) _(Often plural)_ A feeling of uncertainty
 __misguided__ _adj_  
 __mishap__ :mega::two::hammer:  
 __mishmash__ :two::hammer:  
+__misinformation__ _n_ Information that is incorrect.  
 __mislay__ _v_ _He mislaid his keys._  
 __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
@@ -9924,7 +9929,7 @@ __peripheral__
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristaltic__ _adj_  
 __periwinkle__ _n_ :two::hammer: (periwinkles)  
-__perjury__ :two::hammer:  
+__perjury__ _n_ :three: Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
 __perk up__ _idiom_ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __Perkins booth__ _n_  
 __perks__  
@@ -11377,7 +11382,7 @@ __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_
 __ring up__ _Ringing up sales._  
 __ring__ _A narcotics ring._  
 __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
-__ringer__ _n_ :two: A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
+__ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
 __ringlets__  
 __ringmaster__ :two::hammer:  
@@ -12531,7 +12536,7 @@ __slough<sup>1</sup>__ _n_ :three::hammer:
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
-__slubber__ _v_ To do in a hurried or imperfect manner.  
+__slubber__ _v_ :two::dart: To do in a hurried or imperfect manner.  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it's full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_  
@@ -12716,7 +12721,7 @@ __sod__ _n_
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __soffit__  
-__soft bread__  
+__soft-pedal__ _v_ _Informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :two::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
@@ -13299,7 +13304,7 @@ __strech__ _He was awake for long streches of time._
 __streetcar__  
 __streetwise__  
 __strengthen__ _v_ :two::hammer:  
-__strenuous__ _adj_ :astonished::three::hammer:  
+__strenuous__ _adj_ :astonished::four::hammer:  
 __strep > strep throat__ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ _We worked for stretches of 6 or 8 hours._  
@@ -13825,6 +13830,7 @@ __tenure__
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
 __tequila poppers__  
+__tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __teriyaki__ _n_  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
@@ -14506,6 +14512,7 @@ __typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franc
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__  
 __tyrant__ _n_ :three::hammer:  
+__tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
@@ -14838,7 +14845,7 @@ __veranda__ _n_ :three: A roofed platform along the outside of a house, level wi
 __verbally__  
 __verbatim__  
 __verberize__  
-__verbiage__ _n_  
+__verbiage__ _n_ :two::hammer:  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
