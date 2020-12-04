@@ -1,5 +1,16 @@
 
 
+__where the sun doesn't shine__ _idiom_  
+__hoopla__ _n_ __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity).  
+__confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
+__confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
+__nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after "and." _I love your new house! It's nice and bright inside!_  
+__peddle__ _v_ __2__ _Informal_ To seek to disseminate; give out: _peddling lies._  
+__prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
+__polymath__ _n_  
+__conversely__  
+__layover__ _n_ A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights.  
+
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __equity__ _n_  
 __have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  
