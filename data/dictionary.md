@@ -1767,7 +1767,7 @@ __build-up__ _n_ :six::hammer: (buildup) _Buildup play._
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
-__bulk__  
+__bulk__ _n_ :two::hammer: _For the bulk of eight years._  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
 __bull in a china shop__ _n_ _idiom_ :two: A clumsy person.  
 __bull__ Adult large animal (eg. an elephant).  
@@ -2839,6 +2839,8 @@ __confluence__ _n_
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m::hammer: (confounded, confounding)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
+__confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
+__confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
@@ -2910,7 +2912,7 @@ __convection__ _n_
 __convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
-__conversely__ :two::hammer:  
+__conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
 __conviction__ _n_  
@@ -4624,6 +4626,7 @@ __exhilarated__ _adj_ Very happy and excited.
 __exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exiguous__ _adj_ :two::hammer:  
+__existential__ _n_ :pencil2:  
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
@@ -5111,6 +5114,7 @@ __flintlock__ _n_ :two::hammer: (flintlocks)
 __flinty__ _adj_ :three: __1__ A flinty expression is unfriendly and without emotion. Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
 __flip (me) the bird__  
 __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. __2__ To go crazy; have a mental breakdown.  
+__flip side__ _n_ A different aspect of something (especially the opposite aspect).  
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
@@ -6785,7 +6789,7 @@ __hooky__ _A kid playing hooky._
 __hooly__ _adj_ Careful or gentle.  
 __hoop dress__  
 __hoop__ _v_  
-__hoopla__ _n informal_ :three: Unnecessary fuss surrounding something. _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
+__hoopla__ _n_ :four: __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
@@ -7876,7 +7880,7 @@ __layman > in layman terms__
 __layman__ _n_  
 __layoff__  
 __layout__ _n_  
-__layover__ _n_ :dart::two: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
+__layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
 __laziness__ :pencil2:  
 __lb.__ _Sold in pkgs. of 3 lbs. or more._  
@@ -8057,6 +8061,7 @@ __lineman__
 __linemen__ _n_  
 __liners__ _n_ _Hospital liners._  
 __linger__  
+__lingering__ _adj_ Lasting for a long time, especially when this is unpleasant or not necessary. _The lingering feeling._  
 __linguaphile__ _n_  
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
@@ -8312,6 +8317,7 @@ __major-domo__ _n_ (majordomo)
 __majoring__  
 __make (one's) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
+__make amends__ _idiom_  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one's own or someone else's amusement, or as a show of disgust.  
 __make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
@@ -9061,6 +9067,7 @@ __newsy__
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
 __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:  
+__nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after "and." _I love your new house! It's nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nicety__ _n_  
 __niche__ _n_ :three::hammer:  
@@ -9843,7 +9850,7 @@ __peckerwood__
 __pecking order__  
 __pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
-__peddle__ _v_ :three::hammer: (peddling)  
+__peddle__ _v_ :four: (peddling) __2__ _Informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
 __pedi__  
@@ -10309,7 +10316,7 @@ __pols__ _n_
 __poltergeist__ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
-__polymath__ _n_ :three::hammer:  
+__polymath__ _n_ :four::hammer:  
 __polystyrene__  
 __pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
@@ -10579,6 +10586,7 @@ __profusion__
 __progeny__  
 __prohibit__  
 __Prohibitionists__  
+__prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :two: Using too many words and therefore boring.  
@@ -10766,7 +10774,7 @@ __put skin__ _Put skin in the game._
 __put the money where the mouth is__ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
-__put up with__ _idiom_ :nine: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
+__put up with__ _idiom_ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __putbacks__  
 __putdowns__  
 __putt__ _Jason missed a 5-foot par putt._  
@@ -11029,7 +11037,7 @@ __re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._
 __reach for the sky__  
 __reach for the stars__ Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
-__reach out__ _v_ :eight::dart::hammer: _Reaching out to prevent aids._  
+__reach out__ _v_ :nine::dart::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
 __read into something__  
 __read it and weep__ _idiom_  
@@ -11419,7 +11427,7 @@ __road map__ _n_ :pencil2:
 __road salt__ _n_  
 __roadblock__ _n_  
 __roadside__ _Roadside billboards._  
-__roam__ _v_ :six::hammer: (roaming) _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
+__roam__ _v_ :seven: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
 __roasted tea__ :camera:  
 __rob__ _Crimson-robed nuns._  
@@ -11956,7 +11964,7 @@ __sekuhata__ Sexual harassment.
 __seldom__ :two::hammer: _People seldom think about their values consciously._  
 __select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
-__self-assured__ _adj_ :two: Having or showing confidence and poise.  
+__self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
 __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
@@ -12917,6 +12925,7 @@ __spoiling__ :two::hammer: _A spoiling attack._
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
 __sponge bulllets__  
+__sponsee__ _n_ One who is sponsored.  
 __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
 __spool tables__  
@@ -15178,6 +15187,7 @@ __when pigs can fly__ _idiom_ At a time that will never come to pass. (Used to s
 __when pigs fly__ _idiom_ Never, impossible.  
 __when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __whence__  
+__where the sun doesn't shine__ _idiom_  
 __whereabouts__  
 __whereas__  
 __whereby__  
