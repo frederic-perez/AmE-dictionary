@@ -1,5 +1,16 @@
 
 
+__existential__ _n_ :pencil2:  
+__reach out__ _v_  
+__lingering__ _adj_ Lasting for a long time, especially when this is unpleasant or not necessary. _The lingering feeling._  
+__bulk__ _For the bulk of eight years._  
+__flip side__ _n_ A different aspect of something (especially the opposite aspect).  
+__roam__ _v_ (roaming) __1__ To move about without purpose or plan; wander. :es: vagar  
+__self-assured__ _adj_  Having or showing confidence and poise. _Syn_ self-confident  
+__make amends__ _idiom_  
+__put up with__ _idiom_ To endure without complaint: _We had to put up with the inconvenience._  
+__sponsee__ _n_ One who is sponsored.  
+
 __where the sun doesn't shine__ _idiom_  
 __hoopla__ _n_ __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity).  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
