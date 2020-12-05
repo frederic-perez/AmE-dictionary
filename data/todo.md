@@ -1,5 +1,16 @@
 
 
+__thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
+__pick up after (someone or oneself)__ _idiom_ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you're going to use my workshop._  
+__aw__ _interj_ Used to express sympathy, tenderness, disapproval, or disbelief.  
+__turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__for what it's worth__ _idiom_ For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I'm sorry to hear you lost your job. For what it's worth, I think you made the right choice confronting your boss._  
+__exposé__ _n_  
+__coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope and matting and as a medium for cultivating plants. _Coir matting._ :camera:  
+__velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
+__bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
+__interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.
+
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __equity__ _n_  
 __have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  
