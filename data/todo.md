@@ -1,5 +1,19 @@
 
 
+__fussy__  
+__skin up__ _Then
+I ran like hell and skinned up a tree._  
+__jujitsu__ _n_  
+__a whole lot__ _Not by a whole lot!_  
+__peritonitis__ _n_  
+__rummage__ _She rummaged through the
+kitchen cutlery drawer._  
+__breeches__ _n_  
+__flock__ _n_  
+__wrinkle__ _v_ _His
+brow wrinkled in thought._  
+__poultice__ _n_ _Helen was deftly applying a poultice to his arm._  
+
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __equity__ _n_  
 __have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  
