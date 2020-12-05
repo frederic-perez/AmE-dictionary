@@ -1,30 +1,5 @@
 
 
-__fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
-__ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
-__have (something) going for (one)__ _idiom_ To have something that is favorable, beneficial, or advantageous to one.  
-__empennage__ _n_ The rear part of an aircraft. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet's empennage._  
-__hinterland__ _n_  
-__have done with (someone or something)__ _idiom_ To be finished with someone or something; to cease being involved with someone or something.  
-__malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
-__jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
-__mealy-mouthed__ _adj_ Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
-__gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
-
-__fussy__  
-__skin up__ _Then
-I ran like hell and skinned up a tree._  
-__jujitsu__ _n_  
-__a whole lot__ _Not by a whole lot!_  
-__peritonitis__ _n_  
-__rummage__ _She rummaged through the
-kitchen cutlery drawer._  
-__breeches__ _n_  
-__flock__ _n_  
-__wrinkle__ _v_ _His
-brow wrinkled in thought._  
-__poultice__ _n_ _Helen was deftly applying a poultice to his arm._  
-
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __equity__ _n_  
 __have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  

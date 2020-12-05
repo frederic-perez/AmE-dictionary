@@ -58,6 +58,7 @@ __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a stab at (someone or something)__ _idiom_  
+__a whole lot__ _idiom_ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
@@ -391,6 +392,7 @@ __alumni__ :two::hammer:
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amateur hour__ _idiom_  
+__ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambitious__  
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
@@ -1631,7 +1633,7 @@ __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Eu
 __breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ _n_ :three::hammer:  
 __breathing room__  
-__breech__ _n_ :four::hammer:  
+__breech__ _n_ :five::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
@@ -4395,6 +4397,7 @@ __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotio
 __emoji__ _n pl_  
 __emollient__ _adj_ :two::hammer:  
 __emote__ _v_  
+__empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet's empennage._  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
@@ -5128,6 +5131,7 @@ __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a
 __float<sup>2</sup>__ _v_ :four::hammer:  
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
+__flock__ _n_  
 __flodaway__ _Foldaway bed._  
 __floe__ _n_ :two::hammer: _Ice floe._  
 __flog a dead horse__  
@@ -5211,6 +5215,7 @@ __follow suit__ _idiom_ :six: To do the same thing as others, especially by foll
 __follow-up__ _n_ :astonished:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
+__fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
 __FOMO__  
 __food bank__  
 __food coma__ _idiom_  
@@ -5497,6 +5502,7 @@ __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, wo
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __fussbudget__ _n_  
+__fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __futile__ _adj_ :two::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He'd love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -5919,6 +5925,7 @@ __GOP__
 __Gordian knot__ :two::hammer:  
 __gore__ _n_ _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
+__gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
 __gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
 __gormless__  
 __gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
@@ -6379,6 +6386,7 @@ __have (someone's) blood on (one's) head__ _idiom_ To be the cause of (someone's
 __have (someone's) number on it__ _idiom_ To be considered the agent or instrument of one's fate, especially leading to death.  
 __have (someone) coming and going__ _idiom_ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions.  
 __have (something) cold down__ _idiom_ :dart: To learn, master, or understand something perfectly, to the point of requiring little or no focus to do, recall, or accomplish it.  
+__have (something) going for (one)__ _idiom_ To have something that is favorable, beneficial, or advantageous to one.  
 __have a bone to pick with someone__ _idiom_ To want to talk to someone about something annoying they have done. _I got a bone to pick with you. Come on!_  
 __have a bun in the oven__ _idiom_ To be pregnant.  
 __have a crush on (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
@@ -6397,6 +6405,7 @@ __have a trick up (one's) sleeve__ _idiom_ To have a secret plan, idea, or advan
 __have a yen for (something)__ _idiom_ To have a very strong and persistent desire or craving for something.  
 __have a/the wolf by the ear(s)__ _idiom_ To be in a difficult situation from which it is as dangerous to extricate oneself as it is to remain in it.  
 __have bigger fish to fry__ _idiom_ :two: To have more important things to do.  
+__have done with (someone or something)__ _idiom_ To be finished with someone or something; to cease being involved with someone or something.  
 __have egg on (one's) face__ _idiom_ To be embarrassed by something one has done. (As if one went out in public with a dirty face.)  
 __have enough on (one's) plate__ _idiom_ To be sufficiently busy or preoccupied with work, problems, or difficulties as to be unable or unwilling to cope with anything more.  
 __have eyes bigger than (one's) stomach__ _idiom_ To take more food than one is actually capable of eating.  
@@ -6632,7 +6641,7 @@ __hinder__ _v_ :two::hammer:
 __hindsight is (always) 20/20__ _idiom_ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
-__hinterland__ _n_ :four: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ _n_ :five: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hires__ _n_  
@@ -7414,6 +7423,7 @@ __jaundice<sup>1</sup>__ _n_
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :nine: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jay__ _n_  
 __jaywalker__ _n_  
@@ -7512,6 +7522,7 @@ __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army ma
 __juice boxes__ :camera:  
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ :two::hammer:  
+__jujitsu__ _n_  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
 __julep__ :two::hammer:  
 __juleps__  
@@ -8339,6 +8350,7 @@ __malady__
 __malaise__ _n_ :four: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
+__malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
 __malfeasance__ :two::hammer:  
@@ -8482,6 +8494,7 @@ __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in the
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__mealy-mouthed__ _adj_ Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
 __meannes__ :pencil2:  
@@ -9935,6 +9948,7 @@ __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circu
 __peripheral__  
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
 __peristaltic__ _adj_  
+__peritonitis__ _n_  
 __periwinkle__ _n_ :two::hammer: (periwinkles)  
 __perjury__ _n_ :three: Criminal offense of making false statements under oath. _Syn_ bearing false witness, lying under oath  
 __perk up__ _idiom_ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
@@ -10403,7 +10417,7 @@ __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--
 __pottering__ _v_ _She is pottering around the house._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
-__poultices__ _n_ :four::hammer: _Salves, poultices, and plasters._  
+__poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :five::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
@@ -11576,7 +11590,7 @@ __rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? T
 __rumblings__ :two::hammer: _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._  
+__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._ _She rummaged through the kitchen cutlery drawer._  
 __rummy__  
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
@@ -15476,7 +15490,7 @@ __wriggling__
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
 __wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
-__wrinkle__ _v_ :four::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling)  
+__wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  
 __write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don't write off Tiger just yet._  
