@@ -1,8 +1,19 @@
 
 
+__tongue twister__  
+__(one's) jollies__ _idiom_ _slang_ One's amusement, enjoyment, or pleasure.Often used in reference to some degree of perverse satisfaction. Used especially in the phrase "get one's jollies."_The restless teenagers got their jollies by throwing rocks at passing  cars._  
+__water__ _v_ _Water the plants._  
+__garters__ _n_  
+__absinthe__ _n_  
+__blow torch__ _n_  
+__poodle__  
+__entrée__  
+__go places__ _This kid is going places._  
+__bounteous__ _adj_  
+
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __tannin__ _n_ _A tannin solution._  
-__tannic_ _adj_ _The tannic acid takes the sting out._  
+__tannic__ _adj_ _The tannic acid takes the sting out._  
 __hastened__ _v_  
 __cockeyed__ _adj_  
 __trilled__ _v_ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
