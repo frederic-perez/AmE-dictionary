@@ -1,5 +1,16 @@
 
 
+__deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
+__tannin__ _n_ _A tannin solution._  
+__tannic_ _adj_ _The tannic acid takes the sting out._  
+__hastened__ _v_  
+__cockeyed__ _adj_  
+__trilled__ _v_ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
+__make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
+__as we know it__  
+__swooped__ _v_  
+__dubious__  
+
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __pick up after (someone or oneself)__ _idiom_ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you're going to use my workshop._  
 __aw__ _interj_ Used to express sympathy, tenderness, disapproval, or disbelief.  
