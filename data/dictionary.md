@@ -16,6 +16,7 @@ __(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one's) heart's desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart's desire is just to see my husband again._  
+__(one's) jollies__ _idiom_ _slang_ One's amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase "get one's jollies." _The restless teenagers got their jollies by throwing rocks at passing cars._  
 __(one's) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
@@ -105,6 +106,7 @@ __abs__ _n_ :two::hammer: _Six-pack abs._
 __absconded__ _v_ :two::hammer:  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
+__absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
 __abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
@@ -1374,6 +1376,7 @@ __blow it off__
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
 __blow one's top at someone__  
 __blow someone's mind__  
+__blow torch__ _n_  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blow your top__ _idiom_ To become very angry.  
 __blowflies__ _n_  
@@ -1548,6 +1551,7 @@ __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken 
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
+__bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
@@ -2065,7 +2069,7 @@ __caper<sup>2</sup>__ _v_
 __capers__ _n pl_  
 __capful__  
 __capitalize__ _v_  
-__capitulated__ _v_  
+__capitulate__ _v_ :two: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capons__  
@@ -2672,6 +2676,7 @@ __cold fish__ Someone who has very little emotions, who is regarded as hard-hear
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
 __cold-calling__ _He started cold-calling people in New York._  
+__coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
 __coleslaw__ _n_ :five::hammer:  
 __Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
@@ -4164,6 +4169,7 @@ __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile
 __duckboards__ :two::hammer:  
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
+__ducky__ _ad_ _slang_ Excellent; fine.  
 __duct__ _They damaged a very large AT&T phone duct._  
 __ductile__  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
@@ -4485,6 +4491,7 @@ __entrance<sup>1</sup>__ _n_
 __entrance<sup>2</sup>__ _v_  
 __entrant__ :astonished:  
 __entreat__ _v_ _Syn_ beg, plead  
+__entrée__  
 __entrench__ _v_ :nine: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
@@ -5577,7 +5584,7 @@ __garnish__ _v_ :three: __1a__ Decorate, embellish. __b__ To add decorative or s
 __garrison__ _n_  
 __garroted__ _v_  
 __gars__ _n_ :three::hammer: _Alligator gars._  
-__garter__  
+__garter__ _n_ :two::hammer: (garters)  
 __gas gauge__  
 __gas guzzler__  
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
@@ -5735,6 +5742,7 @@ __git__ _n_ _Chiefly British slang_ A fool, a stupid person.
 __Gitmo__ _Guantanamo?_  
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one's) mind__ _idiom_ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
+__give (someone) an out__ _idiom_ To provide someone with an excuse or a means of escaping (from something).  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
@@ -5820,7 +5828,7 @@ __go out with the girls__ _idiom_ To go and socialize somewhere with a group of 
 __go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I'm surprised they've never gone out._  
 __go over the top__  
 __go over the wire__  
-__go places__  
+__go places__ :two::hammer: _This kid is going places._  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ _idiom_ :six::hammer: _That's when things start going south._ _You've got a career there, if all this goes south._ _This one went south on me._  
@@ -8083,6 +8091,7 @@ __lionized__ _v_
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
 __lippy__ _adj_  
+__lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
 __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
@@ -8726,7 +8735,7 @@ __MLK__
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :seven::hammer: _The castle's moat._  
 __mob__ _n_  
-__moccasin__ :two::hammer: (moccasins)  
+__mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
@@ -9135,6 +9144,7 @@ __Noachian__ _adj_ :pencil2:
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
 __nocebo__ _n_  
+__nocent__ _adj_ Having a tendency to cause harm.  
 __nod__ _n_  
 __noddies__ _n_  
 __noggin__ _n informal_ A person's head. _Syn_ bonce, dome  
@@ -9356,6 +9366,7 @@ __omission__
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
 __omnibus__ _n_ :two::hammer:  
 __omnipresent__ _adj_  
+__on (someone's) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
 __on a roll__ :two::hammer: _I'm on a roll._  
@@ -10347,6 +10358,7 @@ __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__ _n_ _slang_ :three: A dog.  
+__poodle__ _n_ :es: caniche  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
@@ -10941,7 +10953,7 @@ __rainout__
 __raise eyebrows__  
 __raked over the coals__  
 __raking__ _v_  
-__rakish__ _adj_ :three::hammer:  
+__rakish__ _adj_ :four: Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
@@ -11688,7 +11700,7 @@ __salute<sup>1</sup>__ _n_
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
 __Salvation Army__  
-__salve__ _n_ :four::hammer: (salves) _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._  
+__salve__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
 __salvo__ _n_ :five::hammer: (salvos) _Joe fired the first salvo._  
 __Sam Browne belt__  
 __Samaritan__  
@@ -14186,6 +14198,7 @@ __ton__ _A metric ton._
 __tone-deaf__ _adj_ :two::hammer:  
 __tong__  
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
+__tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
 __tongue__ :mute:[tong~~u~~e]  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonnes__ _n pl_  
@@ -15084,6 +15097,7 @@ __water cooler__
 __water down__ _phr v_ :four: To make a liquid weaker by adding water.  
 __water pill__  
 __water seepage__  
+__water__ _v_ _Water the plants._  
 __waterbed__  
 __waterfowl__ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  

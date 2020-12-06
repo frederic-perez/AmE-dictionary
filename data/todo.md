@@ -1,26 +1,5 @@
 
 
-__lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
-__salve__ _n_ __1__ _(Medicine)_ An ointment for wounds, sores, etc. __2__ Anything that heals or soothes.  
-__nocent__ _adj_ Having a tendency to cause harm.  
-__ducky__ _ad_ _slang_ Excellent; fine.  
-__coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
-__capitulate__ _v_ __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
-__give (someone) an out__ _idiom_ To provide someone with an excuse or a means of escaping (from something).  
-__rakish__ _adj_  Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
-__on (someone's) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
-__mocassin__ _n_ (moccasin) Soft leather shoe; originally worn by Native Americans.  
-
-__tongue twister__  
-__(one's) jollies__ _idiom_ _slang_ One's amusement, enjoyment, or pleasure.Often used in reference to some degree of perverse satisfaction. Used especially in the phrase "get one's jollies."_The restless teenagers got their jollies by throwing rocks at passing  cars._  
-__water__ _v_ _Water the plants._  
-__garters__ _n_  
-__absinthe__ _n_  
-__blow torch__ _n_  
-__poodle__  
-__entrée__  
-__go places__ _This kid is going places._  
-__bounteous__ _adj_  
 
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __tannin__ _n_ _A tannin solution._  
