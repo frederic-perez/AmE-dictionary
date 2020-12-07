@@ -1,5 +1,15 @@
 
 
+__benefic__ _adj_ A rare word for beneficent.  
+__modicum__ _n_  
+__in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
+__thumb__ _n_ :mute:[thum~~b~~]  
+__colonel__ _n_  
+__ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
+__merino__ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
+__billow__ _n_ __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
+__swell__ _n_  
+__limn__ _v_ To draw; portray in words; describe.  
 
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __tannin__ _n_ _A tannin solution._  
