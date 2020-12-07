@@ -627,6 +627,7 @@ __as much as__ _Inside today's Stateman as much as $215 in coupon savings._
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ _idiom_ By the most direct way, along a straight line between two places.  
+__as we know it__ _idiom_ As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
 __asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
@@ -1153,6 +1154,7 @@ __bench__ _Snow will dust the benches and valleys._
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bend over backwards__ _idiom_ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
+__benefic__ _adj_ A rare word for beneficent.  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
@@ -1246,7 +1248,7 @@ __bill-file__
 __billeted__ _v_ :two::hammer: (billeted, billeting)  
 __billfold__ _n_  
 __billing__ _Now, the women's contest will take second billing._  
-__billow<sup>1</sup>__ _n_ :two: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
+__billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_  
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
@@ -2639,7 +2641,7 @@ __cobble__ _v_ :two::hammer: (cobbled)
 __cobbler__ _n_  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __cockerel__  
-__cockeyed__ _adj_ :two::hammer: _Cockeyed predictions._  
+__cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
@@ -2699,7 +2701,7 @@ __colloquial__ _adj_
 __collude__ _v_  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
-__colonel__ :mega:  
+__colonel__ _n_ :two::mega::hammer:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__  
 __colossus__  
@@ -3540,6 +3542,7 @@ __defrock__ _v_
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one's movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
+__deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __defund__ _v_ To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
@@ -4162,7 +4165,7 @@ __dryly__ _adv_ :two::hammer::astonished:
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __DSLR__  
 __dub__ _v_ (dubbed)  
-__dubious__ _adj_ :four::hammer:  
+__dubious__ _adj_ :five::hammer:  
 __duchy__ _n_  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -6359,7 +6362,7 @@ __hash<sup>2</sup>__ _v_
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::hammer:  
-__hasten__ _v_ :three::mute:[has~~t~~en]:hammer:  
+__hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one's hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
@@ -7113,6 +7116,7 @@ __in his own right__ _idiom_ :two: By reason of one's own ability or ownership e
 __in hot water__ _idiom_ In trouble.  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
+__in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
 __in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in plain view__ _idiom_ In full, unrestricted view; visibly, openly, or publicly.  
@@ -8064,7 +8068,7 @@ __limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
-__limned__  
+__limn__ _v_ :two: (limned) To draw; portray in words; describe.  
 __limo__  
 __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __limpid__ _adj_  
@@ -8345,6 +8349,7 @@ __make out__ _v_ :two::hammer:
 __make perfect sense__ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
+__make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
 __make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
 __make up one's mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can't make up your mind._ _"The time to make up your mind about people is never." -- The Philadelphia Story_  
 __make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don't make waves._ This expression alludes to causing turbulence in the water.  
@@ -8575,6 +8580,7 @@ __Mercurochrome__
 __mere__ _adj_ :three::hammer: _From mere $200._  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
+__merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
 __merit__ :two::hammer:  
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
@@ -8739,7 +8745,7 @@ __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally wor
 __mockie__ _n_ :two::hammer:  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
-__modicum__ _n_ :six: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__modicum__ _n_ :seven: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __modish__ _adj_  
 __mogrify__ _v_  
 __mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
@@ -13583,7 +13589,7 @@ __sweet water__ :two::hammer:
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
-__swell<sup>1</sup>__ _n_ :three::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
+__swell<sup>1</sup>__ _n_ :four::hammer: _The swell of people from war-torn countries._ _They think they're doing just swell._ (typo or pun?)  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
@@ -13732,8 +13738,8 @@ __tanker truck__
 __tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__ _n_ :two::hammer:  
 __tannery__  
-__tannic__ _adj_ :five::hammer: Derived from tannin.  
-__tannin__ _n_ Any of various complex phenolic substances of plant origin; used in tanning and in medicine.  
+__tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
+__tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
@@ -14022,7 +14028,8 @@ __thug__ _n_ :three: A tough and violent man, esp a criminal.
 __thumb tacks__  
 __thumb the nose__ _He has the freedom to thumb his nose at the rules set by others._  
 __thumb war__  
-__thumb__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
+__thumb<sup>1</sup>__ _n_ :mute:[thum~~b~~]  
+__thumb<sup>2</sup>__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
 __thumbnail__ _Here's a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
 __thumping__ _A thumping majority._  
@@ -14378,8 +14385,7 @@ __trifle<sup>1</sup>__ _n_ :two::hammer:
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
 __trilby__ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
-__trill__ _n_ :four::hammer: (trills) _I felt a trill of excitement._  
-__trilling__  
+__trill__ _n_ :six::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
 __trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ :two::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._  
@@ -14553,6 +14559,7 @@ __U-boat__ _n_
 __UA-ed__ _v_ :two::hammer:  
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
+__ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ugh__ :two::hammer:  
 __uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
 __uh__  
