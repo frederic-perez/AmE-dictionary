@@ -771,7 +771,7 @@ __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avow__ _v_ :two::hammer: (avowed)  
 __avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
-__aw__ _interj_ :two: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
+__aw__ _interj_ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
@@ -1070,6 +1070,7 @@ __bee's knees__
 __beech__ _n_ :two::hammer:  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ :two::hammer: _He is trying to build some beef and muscle._  
+__beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
 __beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :three: Utah.  
 __beeline__  
@@ -1240,6 +1241,7 @@ __bigotry__
 __bikeshed<sup>1</sup>__ _n_  
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
+__bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
 __bilge__ _n_  
 __bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bilking__ _Durham was guilty of bilking._  
@@ -2353,6 +2355,7 @@ __cheese corn__ _n_
 __cheese wedge__  
 __cheese__ _adj_  
 __cheese-eater__  
+__cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj informal_ _idiom_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chemistry__ :mute:[c~~h~~emistry]  
@@ -2671,6 +2674,7 @@ __coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coi
 __coincided__ _v_  
 __coincidental__  
 __coincidentally__  
+__coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope and matting and as a medium for cultivating plants. _Coir matting._ :camera:  
 __coke-bottle glasses__  
 __colander__ _n_ :two::hammer:  
 __cold duck__  
@@ -4114,7 +4118,7 @@ __drive__ _The drive by Senate Democrats to change the rules._
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _Drive-up motels._  
-__drivel__ _n_ :two::hammer:  
+__drivel__ _n_ :dart::three: __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the "F" on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
 __driven snow__ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __drivetrains__  
 __driveway__  
@@ -4664,7 +4668,7 @@ __explication__ _n_
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
 __exploit<sup>2</sup>__ _v_ :mega:  
 __explore every avenue__ _idiom_ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
-__exposé__ _n_ A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
+__exposé__ _n_ :two: A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
 __expose__ _v_  
 __expostulate__ _v_ :two::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
@@ -5268,7 +5272,7 @@ __for the ages__ _idiom_ :three: That will stand the test of time; that will be 
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the most part__ :two::hammer:  
 __for the sake of__  
-__for what is worth__  
+__for what it's worth__ _idiom_ :two: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I'm sorry to hear you lost your job. For what it's worth, I think you made the right choice confronting your boss._  
 __for__ _3 for 4 (attempts)._  
 __for-profit__  
 __forage<sup>1</sup>__ _n_  
@@ -5699,6 +5703,7 @@ __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend fro
 __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
 __getaway day__  
 __getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
+__gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
 __ghastly__ _adj_ :nine::hammer::mute:[g~~h~~astly] _Distract yourself from this ghastly thing we call 2020._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
@@ -7114,8 +7119,10 @@ __in front of (one's) nose__ _idiom_ Immediately obvious or clearly apparent.
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
 __in his own right__ _idiom_ :two: By reason of one's own ability or ownership etc. _She's a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ _idiom_ In trouble.  
+__in its infancy__ _idiom_ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
+__in layman's terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
 __in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
@@ -7323,6 +7330,7 @@ __integer__ _n_ :mega: /ˈɪntɪʤɚ/
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
 __intently__ :three::hammer: _He watched him intently._  
+__interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdicting__  
 __interim__  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
@@ -8817,7 +8825,7 @@ __moribund__
 __Mormon apostle__  
 __morning glory__  
 __morosely__ :two::hammer:  
-__morsel__ _n_ :three::hammer: (morsels)  
+__morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
 __mortgage__ :mute:[mor~~t~~gage]  
@@ -9840,7 +9848,7 @@ __patter__
 __patterned__ _v_ :three::hammer:  
 __patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
-__paucity__ _n_ :five: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ _n_ :six: The word paucity means not enough of something. If you've got a paucity of good cheer, for example, you'd better cheer up! One good way to remember the meaning of paucity is that it's a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean "little" or "small," but paucity is used when you mean specifically "not enough" or "too little." People in LA don't understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __Paulistano__  
 __paunch__ _n_  
 __paunchy__ _adj_  
@@ -10050,6 +10058,7 @@ __pick a fight__
 __pick and roll__  
 __pick me out__  
 __pick on (one)__ _idiom_ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
+__pick up after (someone or oneself)__ _idiom_ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you're going to use my workshop._  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket's kiosk._ _His turnover-prone play doesn't pick up._  
 __pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
@@ -12243,7 +12252,7 @@ __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, 
 __short-lived__  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
-__shortening__ _n_  
+__shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
 __shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
 __shorthand__ :two::hammer:  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
@@ -13966,6 +13975,7 @@ __think back__ _idiom_ :two: To think about a past event or a past time.
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
+__thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
@@ -14473,6 +14483,7 @@ __tumultuous__
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunnel vision__ :two::hammer:  
 __tuppence__  
+__turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
 __turkey drumstick__  
@@ -14863,6 +14874,7 @@ __vehicle__ :mute:[ve~~h~~icle]
 __vehicular__ _adj_ :mega: _Vehicular homicide._  
 __veil__ _v_  
 __vein__ _Gold vein._  
+__velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
 __Velcro__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
@@ -14890,6 +14902,7 @@ __verbatim__
 __verberize__  
 __verbiage__ _n_ :two::hammer:  
 __verboten__ _adj_ Not allowed.  
+__verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, "a word to the wise (is sufficient)," meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one's statement. _Repeating the same weak, debunked arguments won't make them true, you know. Verbum sap._  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
