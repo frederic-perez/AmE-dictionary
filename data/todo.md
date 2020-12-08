@@ -1,5 +1,16 @@
 
 
+__paucity__ _n_ __1__ Smallness of number; fewness. __2__ Scarcity; dearth: _a paucity of natural resources._  
+__in layman's terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
+__gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
+__verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, "a word to the wise (is sufficient)," meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one's statement. _Repeating the same weak, debunked arguments won't make them true, you know. Verbum sap._  
+__in its infancy__ _idiom_ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
+__drivel__ _n_ :dart: __1__ Foolish or senseless talk. _Syn__ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the "F" on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
+__shortening__ _n_ __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
+__beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
+__cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
+__morsel__ _n__ __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
+
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __pick up after (someone or oneself)__ _idiom_ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you're going to use my workshop._  
 __aw__ _interj_ Used to express sympathy, tenderness, disapproval, or disbelief.  
