@@ -1,28 +1,5 @@
 
 
-__cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
-__equity__ _n_  
-__have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  
-__tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
-__fussbudget__  
-__lagom__ _n_  
-__pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
-__twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
-__long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
-__frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
-
-__hmm__  
-__tangerine__ _n_  
-__shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
-__ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
-__stunted__ _adj_  
-__great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
-__skylark<sup>1</sup>__ _n_  
-__skylark<sup>2</sup>__ _v_  
-__resit<sup>1</sup>__ _n_  
-__resit<sup>2</sup>__ _v_  
-__unwary__ _adj_  
-
 __poor man__ :two::hammer: _She looked every bit the poor man's Pamela Anderson._  
 __rue__ _v_  
 __speak volumes__  

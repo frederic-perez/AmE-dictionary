@@ -3326,6 +3326,7 @@ __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_
 __cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
 __cut__ _n_ :two::hammer: _His cut of the $50,000._  
 __cut-and-dry task__  
+__cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
 __cutline__ _n_  
@@ -4538,7 +4539,7 @@ __equip__ _v_
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
 __equitably__ _adv_ :es: de forma equitativa  
-__equity__ _n_ :two::hammer:  
+__equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ _Syn_ ambiguous, confusing  
 __equivocation__ _n_  
 __er__ :two::hammer: _It does look, er, distinctive._  
@@ -5448,6 +5449,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
+__frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __frost the cake__ _idiom_  
 __frostbite__ _n_ :six::hammer:  
@@ -5515,7 +5517,7 @@ __fusillade__ _n_ :two::hammer:
 __fuss-budget__ _n_ A person who fusses over trifles. _Syn_ fusspot, worrier, worrywart _Stop being such a fuss-budget, and just relax and have fun!_  
 __fuss<sup>1</sup>__ _n_ :three::hammer:  
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
-__fussbudget__ _n_  
+__fussbudget__ _n_ :two::hammer:  
 __fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __futile__ _adj_ :two::hammer:  
 __futility__ _n_ :six::hammer:  
@@ -6016,6 +6018,7 @@ __grazing land__ :hammer::camera: A field covered with grass or herbage and suit
 __GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __grease payment__ _idiom_ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
 __greaseballs__ :two::hammer:  
+__great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __Great Dane__  
 __great deal__ _idiom_ :dart: (often followed by `of') a large number or amount or extent. Much, a lot.  
 __great strides__ _He made great strides during his presidency._  
@@ -6390,6 +6393,7 @@ __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn's haunted face
 __hauteur__  
 __have (a) skeleton(s) in (one's)/the closet__ _idiom_ To have (an) embarassing, unpleasant, damaging, or incriminating secret(s) from one's past.  
 __have (got) (someone's) back__ _idiom_ :four: To be willing and prepared to help or defend someone; to look out for someone in case they need assistance. _Don't worry about those thugs, buddy. I've got your back if they ever come bother you again._ _Thanks for having my back._  
+__have (got) (someone) pegged as (something)__ _idiom_ To distinctly regard someone as being a certain type of person.  
 __have (hand)writing like chicken scratch__ _idiom_ To have very poor, messy, and/or illegible handwriting, likened to the marks made in the dirt by a chicken.  
 __have (one's) druthers__ _idiom_ To have one's choice or preference; to have things the way one would like them to be; to have one's way. Usually formulated as "if I had my druthers."  
 __have (one's) feet on the ground__ _idiom_ To be and remain in a calm, stable, sensible, and pragmatic state or condition; to not be subject to extreme emotional reactions or affected by exceptional changes in one's situation.  
@@ -6696,7 +6700,7 @@ __hitherto__ _adv_ :four::hammer:
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __hiya__ _interj_ An informal term of greeting.  
-__hmm__ _interj_  
+__hmm__ _interj_ :two::hammer:  
 __HMOs__  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
@@ -8043,6 +8047,7 @@ __lifer__ _Craighead is a lifer at Baker Hughes._
 __lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift__ _n_ :two::hammer: _I could give you a lift home._  
 __liftgate__  
+__ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ :mute:[li~~gh~~t]  
 __light-headed__ _I feel light-headed from lack of sleep._  
@@ -8185,6 +8190,7 @@ __long hours__ _idiom_ :two::hammer: _The long hours you're putting in may not h
 __long shot__  
 __long time no see__ _idiom_ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
+__long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
 __longbow__ _n_ :three::hammer:  
@@ -10438,6 +10444,7 @@ __potbelly__ _n_
 __potent__ _adj_  
 __potentiometer__ _n_  
 __pothead__  
+__pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
 __potholed__ _The island's potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
@@ -11305,6 +11312,8 @@ __resilient__ _adj_ :three::hammer:
 __resist<sup>1</sup>__ _v_  
 __resist<sup>2</sup>__ _n_ _Water resist wristwatch._  
 __resistance__  
+__resit<sup>1</sup>__ _n_ _(Education)_ An examination taken again by a person who has not been successful in a previous attempt.  
+__resit<sup>2</sup>__ _v_ _(Education)_ To sit (an examination) again.  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_  
@@ -12225,6 +12234,7 @@ __shogunate__ :two::hammer: _A local shogunate office._
 __shoo__ _v_ :three::hammer: (shooing)  
 __shoo-in__  
 __shooing__ _v_  
+__shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
 __shoot for the moon__ _idiom_ To set one's goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ _idiom_  
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
@@ -12468,6 +12478,8 @@ __skunk__ _n_ :two::hammer:
 __skunworks__  
 __sky high__  
 __skyjack__ _v_ To hijack (an aircraft).  
+__skylark<sup>1</sup>__ _n_ :es: alondra  
+__skylark<sup>2</sup>__ _v_  
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
 __skyscraper__ _n_  
@@ -13417,6 +13429,7 @@ __stunner__
 __stunning__ _adj_ :five::hammer:  
 __stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
 __stunt<sup>2</sup>__ _v_ :five::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._  
+__stunted__ _adj_ Inferior in size or quality.  
 __stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
 __stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
@@ -13739,6 +13752,7 @@ __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._
 __tan__ Color?  
 __tang__ _n_ :four::hammer: _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn's Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
+__tangerine__ _n_  
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
@@ -14479,6 +14493,7 @@ __tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumble
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
+__tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunnel vision__ :two::hammer:  
@@ -14540,6 +14555,7 @@ __twice as good__ _They took "twice as good as a challenge._
 __twiddle__ _v_ :two::hammer: (twiddling)  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
+__twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
 __twine__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
 __twinge__ _n_ :two::hammer:  
 __twinkle__  
@@ -14726,6 +14742,7 @@ __untidy__
 __untoward__ _adj_ :two::hammer:  
 __untuck__ _v_  
 __unwarranted__  
+__unwary__ _adj_  
 __unwielding__  
 __unwieldy__ _adj_ :two::hammer:  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
