@@ -1212,6 +1212,7 @@ __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, espec
 __bid<sup>2</sup>__ _n_ :five::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year's six bowls._  
 __bidding war__  
 __bidding__  
+__bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
 __big boned__ _idiom_ _euphemism_ Fat or obese. Usually used as an excuse for one's size. _I know that people think I have an eating problem, but really I'm just big boned!_  
@@ -3415,7 +3416,7 @@ __date with destiny__ _idiom_ A future event, circumstance, or situation that wi
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __date<sup>2</sup>__ _v_ _It's a good habit to date everything you handwrite._  
 __dateable__ _adj_ That can be given a date.  
-__dated__ _adj_ Old-fashioned; out-of-date.  
+__dated__ _adj_ :two: Old-fashioned; out-of-date. _The kitchen was dated and cheap._  
 __dateline__  
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ :mute:[dau~~gh~~ter]  
@@ -4436,7 +4437,7 @@ __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition 
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :nine::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :nine::m::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
@@ -5659,7 +5660,7 @@ __gestalt__ _n_
 __get (one's) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one's ears.  
 __get (one's) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
-__get a grip__  
+__get a grip__ :two::hammer:  
 __get a handle__ _UAVs are used to get a handle on what's going on._  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You'll get a kick out of this!_  
@@ -5810,12 +5811,12 @@ __gnarled__ _v_ :two::hammer: _Gnarled fingers._
 __gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
 __gnash__ _Gnasing teeth._  
 __gnashing__  
-__gnat__ _n_ :three::hammer: (insect?)  
+__gnat__ _n_ :four::hammer: (insect?)  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __gnome__ :mute:[~~g~~nome]  
 __gnu__ :mute:[~~g~~nu]  
 __go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__go a long way__ :dart::three::hammer: _Go a long way toward minimizing damage._  
+__go a long way__ :dart::four::hammer: _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
 __go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
@@ -7414,6 +7415,7 @@ __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering i
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
 __jack it up__ _v_  
+__Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o'-lantern__  
 __jackhammer__  
 __jackpot__  
@@ -10383,7 +10385,7 @@ __poodle__ _n_ :es: caniche
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
 __pool cues__ :two::hammer:  
-__poor man__  
+__poor man__ :three::hammer: _She looked every bit the poor man's Pamela Anderson._  
 __poor-boy__ _Poor-boy sandwich._  
 __poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
@@ -10687,6 +10689,7 @@ __proved__ _His first story proved immensely popular._
 __provenance__  
 __provender__  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
+__proviso__ _n_  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :eight: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
@@ -11437,6 +11440,7 @@ __rind__ _n_ :two::hammer: _The color of rind._
 __ring a bell__ _idiom_  
 __ring finger__ :two::hammer:  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
+__ring someone's bell__ _Mandy rang every bell he possesed._  
 __ring up__ _Ringing up sales._  
 __ring__ _A narcotics ring._  
 __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
@@ -11592,7 +11596,7 @@ __RSVP__ _v_ _Guests must RSVP to foo@bar.baz by June 19._
 __rub elbows__ _v_  
 __rub off on (someone)__ To have one's characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter's been very unruly lately. I think that new kid is rubbing off on him._  
 __rub something in someone’s face__  
-__rub<sup>1</sup>__ _n_ :two::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
+__rub<sup>1</sup>__ _n_ :three::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
 __rubbings__ _n_  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
@@ -11608,7 +11612,7 @@ __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—
 __rude__  
 __rudiment__ _n_  
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
-__rue__ _v_ :six::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
+__rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :four::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
@@ -12840,6 +12844,7 @@ __sorghum__
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrowful__ _adj_ Very sad.  
+__sort it out__ _idiom_ :three::hammer: __2__ _Fig._ To study a problem and figure it out. _I can't sort this out without some more time. Let's sort out this mess and settle it once and for all._  
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
@@ -12896,6 +12901,7 @@ __spd__
 __speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who just then appears.  
 __speak out__ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
+__speak volumes__  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
@@ -13330,6 +13336,7 @@ __strafes__ _v_
 __strafing__  
 __straggler__ _n_  
 __straggly__  
+__straight arrow__ _n_  
 __straight-A student__  
 __straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
 __straight-limbed__  
@@ -13785,7 +13792,7 @@ __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor a
 __tarnation__ _n_  
 __tarnish__ _v_ :eight::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
-__tarpaulin__ _n_ Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
+__tarpaulin__ _n_ :two: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
 __tarpon__  
 __tarps__ _n_ :two::hammer: _Blue tarps tied over leaky roofs._  
 __tarred__  
@@ -14697,7 +14704,7 @@ __unicorn__ _n_ Start-up valued at more than $1 billion.
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
-__unkempt__ :two::hammer: _Unkempt beards._  
+__unkempt__ :three::hammer: _Unkempt beards._  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _preposition_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
@@ -15432,6 +15439,7 @@ __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._
 __witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
+__with a passion__ _He loved her with a passion._  
 __with a vengeance__ _idiom_ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We're going to have to clean with a vengeance to get the house ready in time._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  

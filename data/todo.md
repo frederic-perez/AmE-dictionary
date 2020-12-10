@@ -1,27 +1,5 @@
 
 
-__poor man__ :two::hammer: _She looked every bit the poor man's Pamela Anderson._  
-__rue__ _v_  
-__speak volumes__  
-__garner__ _v_  
-__gnat__ _n_  
-__proviso__  
-__encroach__ _v_  
-__rub__ _n_ _slang_ (?)  
-__tarpaulin__ _n_  
-__bide__ _v_  
-
-__get a grip__  
-__ring someone's bell__ _Mandy rang every bell he possesed._  
-__Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
-__straight arrow__  
-__go a long way__ _Good looks and youth went a long way._  
-__with a passion__ _He loved her with a passion._  
-__sort it out__ :three::hammer:  
-__dated__ _adj_ _The kitchen was dated and cheap._  
-__scruffy__  
-__unkempt__  
-
 __bookworm__ _n_  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __recidivism__ _n_  The repeating of or returning to criminal behavior by the same offender or type of offender.  
