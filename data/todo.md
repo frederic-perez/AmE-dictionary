@@ -1,5 +1,16 @@
 
 
+__filmmaker__ _n_ One who directs or produces movies.  
+__stench__ _n_ __1__ A strong, foul odor; a stink.  
+__hah__ _interj_ A variant spelling of ha.  
+__above and beyond__ _idiom_ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
+__robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
+__carrion__ _n_ Dead and decaying flesh.  
+__aerospike engine__ _n_  
+__schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in the phrase _the whole schmear_).  
+__headcheese__ _n_ (head cheese) _(Cookery) US and Canadian_ A seasoned jellied loaf made from the head and sometimes the feet of a pig or calf.  
+__stoop__ _v_  
+
 __contraband__ _n_  
 __at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __natter__ _v_ Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
