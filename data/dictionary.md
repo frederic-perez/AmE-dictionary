@@ -1000,6 +1000,7 @@ __be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __be as good as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
+__be brought in from the cold__ _idiom_ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
 __be cleaned out__ _idiom_ To be emptied or devoid of money, food, resources, etc.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be friends__ _I was good friends with her._  
@@ -1510,6 +1511,7 @@ __bookmarker__ _n_
 __bookmobile__  
 __bookplate__  
 __bookrunner__  
+__bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
 __boomer chains__  
@@ -4147,7 +4149,8 @@ __droppings__ _pl n_ :two::hammer:
 __drought__ _n_ :three::mute:[drou~~gh~~t] A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drove__ _They buy tickets in droves._  
 __drover__ _n_ :two::hammer:  
-__drowns__ _v_  
+__drown__ _v_ (drowns)  
+__drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
 __drub__ _v_  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
@@ -4628,6 +4631,7 @@ __excoriation__
 __excruciate__  
 __excruciating__ _adj_ :two: Very painful.  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
+__exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exe__ :mega:  
 __exec__ _n informal_ :four: (execs) An executive. _I'm a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
@@ -6041,6 +6045,7 @@ __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._
 __greener pastures__ _idiom_ :two: A better or more exciting job or place.  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ :two::hammer:  
+__greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwich__ :mute:[green~~w~~ich]  
 __griddle__  
 __gridiron__ _n_ :seven: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
@@ -7128,6 +7133,8 @@ __in its infancy__ _idiom_ In the early, nascent period of development or implem
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman's terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
+__in no way__ _idiom_ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
+__in no way, shape, or form__ _idiom_ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
 __in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
@@ -7245,6 +7252,7 @@ __inequitable__
 __inequities__  
 __inert__ _Helium is inert._  
 __inexplicable__ _adj_  
+__inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
 __inextricably__ :two::hammer:  
 __infallibity__  
 __infamous__ _adj_ :nine::m: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
@@ -7306,6 +7314,7 @@ __inquisitiveness__
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __inroads__ _n_ :three::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
+__insatiable__ _adj_ _An insatiable learner._  
 __inscribed__ _v_  
 __inscrutable__ _adj_ :three::hammer:  
 __inset__ :two::hammer:  
@@ -8407,7 +8416,7 @@ __mane__ _n_ :five::hammer: _A lion's mane._
 __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
 __manger__ _n_ :two: A trough or an open box in which feed for livestock is placed.  
-__mangle__ _v_  
+__mangle__ _v_ :two: __1__ To mutilate or disfigure by battering, hacking, cutting, or tearing: _fishing nets that mangle fish._ _Syn_ maim __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
 __Manhattanite__  
@@ -8808,6 +8817,7 @@ __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A 
 __mood story__ :two::hammer:  
 __moody__ :two::hammer:  
 __moon roof__  
+__moon__ _v_  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
@@ -9320,6 +9330,7 @@ __oddyssey__ :pencil2: _A harrowing oddyssey._
 __odious__  
 __odometer__ :two::hammer:  
 __OEM__ _abbr_ :three::hammer: _OEMs._  
+__oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of one's own accord__ Voluntarily.  
@@ -10458,7 +10469,7 @@ __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._
 __pounce__ _v_ :five::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
-__pout__ _v_ :nine: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: The child's lips pouted.  
+__pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: _The child's lips pouted._ _You better not cry, you better not pout._  
 __poutine__ _n_  
 __pouty__ _adj_  
 __pow-wow__  
@@ -11134,7 +11145,7 @@ __receivership__
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
 __recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
-__recidivism__  
+__recidivism__ _n_ :two: The repeating of or returning to criminal behavior by the same offender or type of offender.  
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
 __reckless__  
@@ -11303,7 +11314,7 @@ __reputedly__ _He reputedly said, "I could stay here forever."_
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
 __rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._ _Of course I've seen it! It's a rerun._  
-__rescind__ _v_ :two::hammer: (rescinded)  
+__rescind__ _v_ :three: (Not to be confused with _resend_) Countermand, repeal, veto; nullify, retract: _rescind an agreement._  
 __reseller__  
 __reservation__ _n_ _Native American reservation._  
 __reset__ _v_ :three::mega::hammer:  
@@ -12132,7 +12143,7 @@ __shaming__ _adj_
 __shamrock__  
 __shamus__  
 __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
-__shank<sup>2</sup>__ _v_ :three: (shanked) To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
+__shank<sup>2</sup>__ _v_ :four: (shanked) __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement. To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
 __shanty__  
 __shantytown__  
@@ -12219,7 +12230,7 @@ __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _They were scared shitless._  
-__shiv__ _n_ A knife used as a weapon.  
+__shiv__ _n_ :two: A knife used as a weapon.  
 __shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
@@ -12609,7 +12620,8 @@ __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)
 __slugabed__ A person who lazily stays in bed long after the usual time for arising.  
 __sluggard__  
 __sluggish__ _adj_ :two::hammer:  
-__sluice__ _v_ :six::hammer: (sluiced, sluicing)  
+__sluice<sup>1</sup>__ _n_ _A sluice for washing gold._  
+__sluice<sup>2</sup>__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
 __slum<sup>2</sup>__ _v_  
 __slumber party__ _n_ An overnight party in which guests, usually girls, wear nightclothes and socialize at a friend's home.  
@@ -12987,6 +12999,7 @@ __sponge bulllets__
 __sponsee__ _n_ One who is sponsored.  
 __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
+__spontaneous__ _adj_ :mega:  
 __spool tables__  
 __spool__ _n_  
 __spoonerism__ _n_  
@@ -12994,7 +13007,7 @@ __spoonful__ _n_ :es: cucharada
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
 __sport__  
-__spot on__ _idiom_ :three: (spot-on) British slang for "well done", "perfect" or "right on."  
+__spot on__ _idiom_ _informal_ :four: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spot<sup>2</sup>__ _v_ (spotted)  
 __spotless__  

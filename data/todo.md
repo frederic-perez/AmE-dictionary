@@ -1,27 +1,5 @@
 
 
-__pout__ _v_ _You better not cry, you better not pout._  
-__spontaneous__ _adj_ :mega:  
-__in no way, shape, or form__ _idiom_ In no possible manner; under no circumstances; not by any means.  
-__greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
-__rescind__ _v_ (Not to be confused with _resend_) Countermand, repeal, veto; nullify, retract: _rescind an agreement._  
-__in no way__ _idiom_ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
-__inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
-__mangle__ _v_ __1__ To mutilate or disfigure by battering, hacking, cutting, or tearing: _fishing nets that mangle fish._ _Syn_ maim __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
-__be brought in from the cold__ _idiom_ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
-__oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
-
-__bookworm__ _n_  
-__exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
-__recidivism__ _n_  The repeating of or returning to criminal behavior by the same offender or type of offender.  
-__moon__ _v_  
-__drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
-__shank__ _v_ __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement.  
-__shiv__ _n_  
-__sluice__ _n_ _A sluice for washing gold._  
-__insatiable__ _adj_ _An insatiable learner._  
-__spot on__ _idiom_ _informal_ Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
-
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
