@@ -1,5 +1,16 @@
 
 
+__contraband__ _n_  
+__at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
+__natter__ _v_ Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
+__trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
+__athenaeum__ _n_  
+__postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupee.  
+__brusquerie__ _n_ Curtness or bluntness of manner.  
+__beanfeast__ _n_ :dart: An annual dinner party given by an employer for the employees.  
+__be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
+__loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
+
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
