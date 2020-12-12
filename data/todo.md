@@ -1,6 +1,17 @@
 
 
 
+__bereavement__  
+__spinning wheels__ _Feel like you’ve been spinning your wheels in your job search?_  
+__polymath__  
+__dabbled__ _v_  
+__dimwit__  
+__dysphoria__ _n_  
+__puberty blockers__ _n_ _(medicine)_  
+__hail__ _v_ _The government is hailing Liverpool’s testing pilot as a great success._  
+__redux__ _Is the expensive drug remdesivir just Tamiflu redux?_  
+__compound__ _v_ _The pandemic has compounded this scandal._  
+
 __chance__ _v_ _A: No, I couldn’t let you do that—you might get
 killed or badly hurt. B: I’ll chance it._  
 __swish__ _n_ _He felt a slight
