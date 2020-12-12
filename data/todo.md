@@ -1,5 +1,17 @@
 
 
+
+__incidental__ _Incidental extracardiac findings._  
+__contextualize__ _v_  
+__effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
+__hemodynamic__ _adj_  
+__malignancy__ _n_ (malignancies)  
+__referral__  
+__time-resolved__ _SSFP cine sequences provide high resolution, time-resolved images._  
+__impart__ _v_  
+__puncture__ _n_ _Transeptal puncture._  
+__cardioembolic__ _adj_  
+
 __filmmaker__ _n_ One who directs or produces movies.  
 __stench__ _n_ __1__ A strong, foul odor; a stink.  
 __hah__ _interj_ A variant spelling of ha.  
