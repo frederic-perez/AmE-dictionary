@@ -1,6 +1,22 @@
 
 
 
+__chance__ _v_ _A: No, I couldn’t let you do that—you might get
+killed or badly hurt. B: I’ll chance it._  
+__swish__ _n_ _He felt a slight
+swish of air._  
+__countless__ _Jenkins wandered nervously
+around the study, examining objects
+that didn’t interest him and smoking
+countless cigarettes._  
+__easy-chair__  
+__desultory__  
+__clattered__ _v_  
+__nubile__ (?)  
+__tumble__ _n_  
+__lout__ _n_  
+__accouterment__ _n_ (accouterments)  
+
 __incidental__ _Incidental extracardiac findings._  
 __contextualize__ _v_  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
