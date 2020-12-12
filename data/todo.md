@@ -1,6 +1,17 @@
 
 
 
+__good old__  
+__cloud nine__ _idiom_  
+__team player__  
+__recap__ _v_  
+__streak__ _n_ _A cold streak._  
+__newcomer__ _n_  
+__dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.   
+__compound__ _n_  
+__mastoiditis__ _n_  
+__stand tall__  
+
 __bereavement__  
 __spinning wheels__ _Feel like you’ve been spinning your wheels in your job search?_  
 __polymath__  
