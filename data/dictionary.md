@@ -1168,7 +1168,7 @@ __bequest__ _n_ :five::hammer: _A dark bequest of Nazism._
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can't even take care of their own children._ _Sam's lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :two: A bereaved person is someone whose close friend or family member has recently died.  
-__bereavement__ _n_ :six: State of sorrow over the death or departure of a loved one.  
+__bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ :mute:[bere~~t~~]  
@@ -2602,7 +2602,7 @@ __clothesline__ :two::hammer:
 __clothespin__ _n_ :two::camera::hammer:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
-__cloud nine__  
+__cloud nine__ _idiom_ :two::hammer:  
 __cloud of suspicion__ _idiom_ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __cloud__ _v_ _To cloud my judgement._  
@@ -2784,7 +2784,8 @@ __composite__ _adj_ :two::mega::hammer: _Composite decking._
 __compost__ _v_  
 __composting__ _There's a brown bin for organic waste, which goes for composting._  
 __composure__  
-__compound__ _n_  
+__compound<sup>1</sup>__ _n_ :two::hammer:  
+__compound<sup>2</sup>__ _v_ _The pandemic has compounded this scandal._  
 __compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
 __compounding__ _Compounding the situation._  
 __comprehend__ _v_  
@@ -3354,7 +3355,7 @@ __D'oh__ _slang_ Exclamation used when you realize that you did something stupid
 __D&D__ :two::hammer:  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
-__dabble__ _v_ :five::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
+__dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabblers__ _He saw the donors as superrich dabblers._  
 __dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _Cinematic dada._  
@@ -3733,8 +3734,8 @@ __dimly__ _He was dimly aware of it._
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  
-__dimwit__ _n_ :three::hammer: (dimwits)  
-__dimwitted__  
+__dimwit__ _n_ :four::hammer: (dimwits)  
+__dimwitted__ _adj_ _slang_ Lacking in intelligence.  
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
@@ -3920,7 +3921,7 @@ __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a polit
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __doddering__  
 __doddle__ Something easily done, fixed, etc.  
-__dodge a bullet__ _idiom_ To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
+__dodge a bullet__ _idiom_ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
@@ -4245,6 +4246,7 @@ __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
+__dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _Canine hip dysplasia._  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
@@ -5922,7 +5924,7 @@ __good going__ _idiom_ An informal expression of praise for having done somethin
 __Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __good job__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
-__good old__ _idiom_ :two::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
+__good old__ _idiom_ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don't need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ _idiom_ A sign, either real or imagined, of good fortune or a propitious outcome.  
 __good Samaritan__  
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
@@ -6240,7 +6242,7 @@ __hagiography__
 __hags__ _Screaming histerically like Shakespearean hags._  
 __haha__ _idiom_ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as "ha ha" or "ha-ha." Greater degrees of laughter or humor can be represented by more instances of "ha."  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
-__hail<sup>1</sup>__ _v_ :nine: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
+__hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
@@ -8494,6 +8496,7 @@ __mast__ _n_ _The flag was flown at half mast._
 __mastermind__ _v_ :two::hammer: (masterminding)  
 __masterpiece__  
 __masthead__ _n_  
+__mastoiditis__ _n_  
 __mat__ _I'm not going to the mat for her._  
 __matahara__ Maternity harassment.  
 __matchmaking service__  
@@ -9109,6 +9112,7 @@ __New Jerusalem__
 __new kid on the block__ _idiom_ Someone who is new in a place or organization.  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
+__newcomer__ _n_ One who has only recently arrived.  
 __newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
 __newly__ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
@@ -10375,7 +10379,7 @@ __pols__ _n_
 __poltergeist__ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
-__polymath__ _n_ :four::hammer:  
+__polymath__ _n_ :five::hammer:  
 __polystyrene__  
 __pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man's hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
@@ -10723,6 +10727,7 @@ __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies th
 __pterodactyl__ :mute:[~~p~~terodactyl]  
 __PTO__ _abbr_ Parent Teacher Organization.  
 __PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
+__puberty blockers__ _n_ _(medicine)_  
 __pubes__ _n_  
 __public eye__  
 __public house__ _n_ :five::hammer: :es: taberna  
@@ -11135,9 +11140,8 @@ __recalcitrant__ _adj_
 __recall__ _n_ :two::hammer:  
 __recant__ _v_ :three::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
-__recap__  
 __recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
-__recap<sup>2</sup>__ _v informal_ Recapitulate.  
+__recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
 __recapitulate__ _v_  
 __recede__ _v_  
 __receipt__ _n_ :two::mute:[recei~~p~~t]:hammer: _Expected items pending receipt from other sources._  
@@ -11191,7 +11195,7 @@ __redress__ _To seek redress._
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redshirt__ _v_ :four::hammer: (redshirting)  
-__redux__ _adj_ :three: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._  
+__redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
 __redwood__ :two::hammer:  
 __reed__ :two::hammer: _A reed basket._  
 __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
@@ -12962,7 +12966,7 @@ __spindly__
 __spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin "spina." Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet piano__ :camera:  
 __spinnaker__ _n_  
-__spinning wheels__  
+__spinning wheels__ :two::hammer: _Feel like you’ve been spinning your wheels in your job search?_  
 __spinouts__  
 __spinster__ :two::hammer:  
 __spiny lobsters__ :camera:  
@@ -13146,7 +13150,7 @@ __stand in someone's shoes__
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
-__stand tall__ :three::hammer: _She's standing tall and proud._  
+__stand tall__ :four::hammer: _She's standing tall and proud._  
 __stand to reason__ :two::hammer: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __standard__ _n_ :camera: :es: estandarte (?)  
@@ -13378,7 +13382,7 @@ __strawhat__ _adj_ Of or relating to summer dramatic performances.
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
 __stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
 __stray<sup>3</sup>__ _n_  
-__streak__ _n_  
+__streak__ _n_ :two::hammer: _A cold streak._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
@@ -13849,6 +13853,7 @@ __tchotchkes__ :two::hammer: _Simpson tchotchkes._
 __tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __Tea partyers__ :pencil2:  
 __teakwood__ :pencil2:  
+__team player__  
 __team up__ _v_  
 __Teamster__ _n_ :two::hammer:  
 __tear gas__ :two::hammer:  
