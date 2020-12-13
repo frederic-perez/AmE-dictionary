@@ -1,31 +1,6 @@
 
 
 
-__dogtrot__ _n_  
-__peremptory__  
-__inanely__ _adv_  
-__fidgety__  
-__unallocated__ _He had an
-unallocated fear of radioactivity,
-born of ignorance._  
-__reassurance__ _n_ _Igor’s reassurances did not stifle the fear._  
-__malaise__ _n_  
-__pleurisy__ _n_ _He pounded Frost’s back
-hard enough to cause pleurisy._  
-__disinterested__  
-__stringent__  
-
-__chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
-__swish__ _n_ _He felt a slight swish of air._  
-__countless__ _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
-__easy-chair__  
-__desultory__  
-__clattered__ _v_  
-__nubile__ _adj_  
-__tumble__ _n_  
-__lout__ _n_  
-__accouterment__ _n_ (accouterments)  
-
 __incidental__ _Incidental extracardiac findings._  
 __contextualize__ _v_  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  

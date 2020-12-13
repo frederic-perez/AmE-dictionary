@@ -137,7 +137,7 @@ __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democrati
 __accountant__ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :four::hammer: (accouterment, accoutrement, accoutrements)  
+__accoutrement__ _n_ :five::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -2286,6 +2286,7 @@ __chamomille__
 __champ__ _n informal_ :two: Champion.  
 __champagne flutes__ _n_ :camera:  
 __chance of a lifetime__ _idiom_ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
+__chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
 __Chancellor__  
 __chances are__  
 __chandler__  
@@ -2531,7 +2532,8 @@ __class action__
 __classic__ _adj_  
 __classical__ _adj_  
 __classy__ :two::hammer:  
-__clatter__ _n_ :three::hammer: _The clatter of the Telex machines._  
+__clatter<sup>1</sup>__ _n_ :three::hammer: _The clatter of the Telex machines._  
+__clatter<sup>2</sup>__ _v_ (clattered)  
 __claw back__ _v_  
 __claw machine__ _n_ :camera:  
 __claw<sup>1</sup>__ _n_  
@@ -3046,7 +3048,7 @@ __countermand__ _v_ :three: To cancel or reverse (a previously issued command or
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _Countervailing evidence._  
-__countless__  
+__countless__ :two::hammer: _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
@@ -3652,7 +3654,7 @@ __despondency__
 __despondent__ _n_ :five::hammer:  
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
-__desultory__ _adj_ __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
+__desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :two::mega::hammer: _A member of the team's security detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -3824,6 +3826,7 @@ __disingenuous__ _adj_ :four: Not really honest or sincere, and only pretending 
 __disingenuousness__  
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ :two::hammer:  
+__disinterested__ _adj_  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
 __disloyal__  
@@ -3944,6 +3947,7 @@ __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuc
 __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __doglegs__ _v_  
 __dogsled__  
+__dogtrot__ _n_  
 __doilies__  
 __doings__ _n_  
 __doldrum__ _n_ :four::hammer: (doldrums)  
@@ -4281,6 +4285,7 @@ __Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.
 __easy as can be__  
 __easy chair__ _n_ :two: A large, comfortable, upholstered chair.  
 __easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
+__easy-chair__  
 __easy-to-use__ _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
@@ -4941,6 +4946,7 @@ __fiddle-faddle__
 __fiddled__ _v_  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
+__fidgety__  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
 __fief__ :two::hammer: _His personal fief._  
@@ -7187,6 +7193,7 @@ __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentiona
 __inadvertently__  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
 __inane__ _adj_ :seven::hammer:  
+__inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
@@ -8253,7 +8260,7 @@ __loudmout__ _He is a loudmout, but there is nothing personal._
 __loudmouth__ _I was a loudmouth._  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
-__lout__ _n_ :two::hammer: _Syn_ oaf  
+__lout__ _n_ :three::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love-in__  
@@ -8388,7 +8395,7 @@ __makeup game__
 __maki__ _n_  
 __making waves__ :two::hammer:  
 __malady__  
-__malaise__ _n_ :four: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
+__malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
@@ -9256,6 +9263,7 @@ __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shad
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
 __nubby__ _adj_ _Nubby sole design._  
+__nubile__ _adj_  
 __nucleotide__ _n_  
 __nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
 __nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice that can be useful or important.  
@@ -9974,7 +9982,7 @@ __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
 __percolator__ _n_  
-__peremptory__ _adj_ :two::hammer:  
+__peremptory__ _adj_ :three::hammer:  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfect storm__ _idiom_ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
@@ -10289,6 +10297,7 @@ __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A sho
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
 __plethora__ _n_ :six: Extreme excess.  
+__pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
@@ -11126,6 +11135,7 @@ __reap__ _Reaping the benefits._
 __reappraise__ :es: valorar  
 __reasonable__  
 __reasoned__ _v_  
+__reassurance__ _n_ _Igor’s reassurances did not stifle the fear._  
 __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a grid of such bars.  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
 __rebellion__ :pencil2:  
@@ -13656,7 +13666,9 @@ __swindler__ _n_ :four::hammer: _In the dark space between anticipation and real
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita's swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
-__swish__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
+__swish<sup>1</sup>__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
+__swish<sup>2</sup>__ _n_ _He felt a slight swish of air._  
+__swish<sup>3</sup>__ _adj_  
 __switch__ (twitch?)  
 __switch-blade__ _Switch-blade artists._  
 __swive__ _v_  
@@ -14514,7 +14526,8 @@ __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding sca
 __tuk-tuk__  
 __tulip__  
 __tulle__ _Tulle-covered arch._  
-__tumble__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
+__tumble<sup>1</sup>__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
+__tumble<sup>2</sup>__ _n_  
 __tumblebug__  
 __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__ :two: A drinking glass, originally with a rounded bottom. __b__ A flat-bottomed glass having no handle, foot, or stem. __c__ :two: The contents of such a drinking glass: _a tumbler of beer_  
 __tumbleweed__ _n_  
@@ -14632,6 +14645,7 @@ __unabashedly__
 __unabated__ _adj_ :three::hammer:  
 __unakin__ _adj_ Not related or comparable.  
 __unalienable__  
+__unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fear of radioactivity, born of ignorance._  
 __unanimous__  
 __unapologetic__ _adj_ :nine::hammer:  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
