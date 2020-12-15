@@ -1,27 +1,5 @@
 
 
-__nummary__ _adj_ Of or relating to coins.  
-__ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
-__antediluvian__ _adj_  
-__be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
-__frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
-__crybaby__ _n_ :dart: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
-__sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
-__trestle__ _n_ :es: caballete  
-__esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
-__death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
-
-__filmmaker__ _n_ One who directs or produces movies.  
-__stench__ _n_ __1__ A strong, foul odor; a stink.  
-__hah__ _interj_ A variant spelling of ha.  
-__above and beyond__ _idiom_ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
-__robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
-__carrion__ _n_ Dead and decaying flesh.  
-__aerospike engine__ _n_  
-__schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in the phrase _the whole schmear_).  
-__headcheese__ _n_ (head cheese) _(Cookery) US and Canadian_ A seasoned jellied loaf made from the head and sometimes the feet of a pig or calf.  
-__stoop__ _v_  
-
 __contraband__ _n_  
 __at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __natter__ _v_ Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  

@@ -94,6 +94,7 @@ __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abomi
 __aboriginal__  
 __abounds__  
 __about-face__  
+__above and beyond__ _idiom_ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
 __above the salt__ _idiom_ Of or in a position of high standing, rank, regard, or repute.  
 __aboveboard__  
 __abracadabra__ _n_  
@@ -233,6 +234,7 @@ __advocacy__ :two::hammer:
 __aegis__  
 __aerials__  
 __aero-hydroponics__  
+__aerospike engine__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :seven::hammer:  
@@ -295,6 +297,7 @@ __ahead of the curve__ _idiom_ :three:
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
+__ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
 __ahoy__ _interj_ Used to hail a ship or to attract attention.  
 __aide__ _n_ :two::hammer: (aides)  
@@ -484,6 +487,7 @@ __antagonize__ _v_
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antedate__ _n_  
+__antediluvian__ _adj_  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
 __anthology__  
@@ -1021,6 +1025,7 @@ __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
+__be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
 __beach__ _v_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
@@ -2131,7 +2136,7 @@ __carpet bombing__
 __carping__ _v_  
 __carpool__ _v_ :two::hammer:  
 __carrel__  
-__carrion__ _n_ :dart::five: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
+__carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carrot and stick__ _idiom_ :two: (carrots and sticks) Reward and punishment.  
 __carry a torch__  
 __carry the ball__ _idiom_ To be in charge.  
@@ -3251,7 +3256,7 @@ __crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the p
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn't due._  
 __cry over spilled milk__ _idiom_ To be unhappy about what cannot be undone.  
-__crybaby__ _n_ A person who cries or complains frequently with little cause.  
+__crybaby__ _n_ :dart::two: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
 __cryotherapy__  
 __cryptojacking__  
 __cryptomining__  
@@ -3467,6 +3472,7 @@ __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agre
 __dean__ _n_ :three::hammer: _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
+__death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathless__  
 __debacle__ _n_ :four::hammer:  
 __debasing__ _v_  
@@ -4578,6 +4584,7 @@ __escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _
 __Eskimo__ _n_ :two::mega:  
 __ESP__ _abbr_ Extrasensory perception. _ESP powers._  
 __espadrilles__ _n_  
+__esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
 __essence__ _n_ :pencil2:  
 __essential__ _Special K - 8 essential vitamins._  
@@ -4991,7 +4998,7 @@ __fill'er up__ (gas station)
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ _n_ :three::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
-__film maker__ _n_ ?  
+__filmmaker__ _n_ :two: One who directs or produces movies.  
 __filthy__ Very dirty.  
 __finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
 __final cut__ _idiom_ The completed and finalized edited version of a film, as authorized by its director and producer.  
@@ -5473,6 +5480,7 @@ __frostbite__ _n_ :six::hammer:
 __frosted glass__ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
+__frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
 __frozen yogurt__  
 __frugal__ _adj_ :two: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California's Central Valley, fruit basket to the nation._  
@@ -6250,6 +6258,7 @@ __haggle__ _v_ :three::hammer: (haggling)
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
 __hags__ _Screaming histerically like Shakespearean hags._  
+__hah__ _interj_ A variant spelling of ha.  
 __haha__ _idiom_ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as "ha ha" or "ha-ha." Greater degrees of laughter or humor can be represented by more instances of "ha."  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
@@ -6501,6 +6510,7 @@ __head wind__
 __head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
+__headcheese__ _n_ (head cheese) _(Cookery) US and Canadian_ A seasoned jellied loaf made from the head and sometimes the feet of a pig or calf.  
 __headdress__ _n_ :three::pencil2::hammer: _The pharaoh's headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
@@ -9290,6 +9300,7 @@ __numbers game__ _n_
 __numbers runners__  
 __numbly__  
 __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers._  
+__nummary__ _adj_ Of or relating to coins.  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :three::hammer:  
@@ -11527,6 +11538,7 @@ __rob__ _Crimson-robed nuns._
 __robe<sup>1</sup>__ _n_ :two::hammer: _The judge's robe._  
 __robe<sup>2</sup>__ _v_  
 __robin-breasted__  
+__robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
 __rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock the boat__ _idiom_ :four::hammer: _Please, don't rock the boat._  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
@@ -11888,6 +11900,7 @@ __schlepping__ :two::hammer:
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlock__  
 __schlocky__  
+__schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in the phrase _the whole schmear_).  
 __schmooze__ _v_ :four: (schmoozed, schmoozing) Talk idly or casually and in a friendly way.  
 __schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
@@ -12893,6 +12906,7 @@ __sot__ :two::hammer: _A surly sot._
 __sotto voce__  
 __sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul__ _n_ :mega:  
+__sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
 __sound-wise__ _It's on YouTube, a crappy version, just visually and sound-wise._  
@@ -13260,7 +13274,7 @@ __stein__ _n_
 __stem-winding__ _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
-__stench__ _The stench of human effluent._  
+__stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
 __Step 'n' Fetch It routine__  
@@ -14435,7 +14449,7 @@ __trepidation__ _n_ :five: Worry or anxiety about something that is going to hap
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
-__trestle__ _n_ :three: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
+__trestle__ _n_ :four: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __treys__ :two::hammer:  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
