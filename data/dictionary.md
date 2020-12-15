@@ -395,6 +395,7 @@ __amalgam__
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amateur hour__ _idiom_  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
+__ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__  
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
@@ -770,7 +771,7 @@ __avert__ _v_ :three::hammer: (averted)
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avow__ _v_ :two::hammer: (avowed)  
-__avuncular__ _adj_ :four: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence.  
+__avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
 __aw__ _interj_ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
@@ -2102,6 +2103,7 @@ __card__ _v_
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ :two::hammer:  
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
+__cardioembolic__ _adj_  
 __cards are stacked against someone__ _idiom_ Luck is against someone.  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career suicide__  
@@ -2906,7 +2908,7 @@ __content__ _adj_ :three::hammer:
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
 __contested shot__ _n_ (vs uncontested shot)  
-__contextualize__ _v_ :dart::three:  
+__contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
 __continence__ _n_ :two::hammer:  
 __contingency plan__ :two::hammer:  
@@ -3941,6 +3943,7 @@ __dog-and-pony show__ _idiom_ :two::hammer: (dog and pony show)
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
+__dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :two: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
@@ -4202,7 +4205,7 @@ __duffle bag__ :camera:
 __dug__ _n_  
 __dugout__ :two::hammer:  
 __duh__ _interj_ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
-__dulcet__ _adj_ :three: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. __3__ Generally pleasing or agreeable.  
+__dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
 __dulcimers__ _n_  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
@@ -4325,6 +4328,7 @@ __effluent__
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
+__effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__  
 __egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
@@ -6599,6 +6603,7 @@ __hemlines__ _n_
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
+__hemodynamic__ _adj_  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
@@ -6782,6 +6787,7 @@ __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.
 __Holy Rood__  
 __Holy See__  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
+__homage__ _n_  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home-delivery__  
 __home, James (, and don't spare the horses)__ _idiom_ A humorous directive for a driver to take one home directly and without delay.  
@@ -7068,6 +7074,7 @@ __imp__ _Its imp genius._
 __impact__ _Sterling struggled to make an impact in the second half._  
 __impairment__  
 __impaneled__ _v_  
+__impart__ _v_  
 __impartible__  
 __impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_  
@@ -7167,6 +7174,7 @@ __in the least__ _Apparently you didn’t understand me in the least._
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
 __in the midst of (something)__ _idiom_  
+__in the next breath__ _idiom_ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It's a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
 __in the offing__  
@@ -7178,6 +7186,7 @@ __in the thick of it/(something)__ _idiom_ :seven: Very busy; in the middle of o
 __in the unlikely event (that) (something) happens__ _idiom_ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
+__in the wild__ _idiom_ In naturally occurring conditions or environments.  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in tow__ _idiom_ :three: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
@@ -7214,6 +7223,7 @@ __inch__ _v_ :four::hammer: (inching) _They'll just inch their way down the fiel
 __inchoate__  
 __inchworm__ _n_  
 __incident__ _A stroke incident to pancreatic cancer._  
+__incidental__ _Incidental extracardiac findings._  
 __incidentally__ _adv_ :five::hammer:  
 __inclined__ _adj_  
 __incognito__ :two::hammer:  
@@ -8284,6 +8294,7 @@ __lucifer match__
 __lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
 __lucubration__ _n_  
+__luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __ludicrousness__  
@@ -8405,6 +8416,7 @@ __malfeasance__ :two::hammer:
 __malfunction__  
 __malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __malign__ :mute:[mali~~g~~n]  
+__malignancy__ _n_ (malignancies)  
 __maligned__  
 __malingerer__ _n_  
 __mallards__  
@@ -8717,6 +8729,7 @@ __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck 
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ An instance of misfortune.  
+__misbegotten__ _adj_  
 __miscarriage__ _n_  
 __miscarry__ _v_  
 __miscegenation__  
@@ -10791,7 +10804,7 @@ __punching bag__ _The firm was a regular punching bag._
 __punchline__ _n_ :pencil2:  
 __punctilious__ _adj_ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
 __punctuate__  
-__puncture__ _n_  
+__puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
 __pundit__ _n_ :three::hammer:  
 __pungent__ _adj_ :two::hammer:  
@@ -11221,6 +11234,7 @@ __reeve__ _n_ :four::hammer::pencil2:
 __ref__ _n_ A referee.  
 __refectory__ _n_ :four: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
+__referral__  
 __reffing__  
 __refractory__ _adj_  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
@@ -14154,6 +14168,7 @@ __time and again__ _idiom_ Again and again; repeatedly.
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _Can it be done in that time line?_  
+__time-resolved__ _SSFP cine sequences provide high resolution, time-resolved images._  
 __timeclock__ _Denver Movie Timeclock._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  

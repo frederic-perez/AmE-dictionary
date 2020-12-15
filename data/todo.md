@@ -1,27 +1,5 @@
 
 
-__misbegotten__ _adj_  
-__avuncular__ _adj_ __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
-__ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
-__homage__ _n_  
-__in the wild__ _idiom_ In naturally occurring conditions or environments.  
-__dulcet__ _adj_ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._  
-__flout__ _v_  
-__in the next breath__ _idiom_ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
-__dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
-__luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
-
-__incidental__ _Incidental extracardiac findings._  
-__contextualize__ _v_  
-__effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
-__hemodynamic__ _adj_  
-__malignancy__ _n_ (malignancies)  
-__referral__  
-__time-resolved__ _SSFP cine sequences provide high resolution, time-resolved images._  
-__impart__ _v_  
-__puncture__ _n_ _Transeptal puncture._  
-__cardioembolic__ _adj_  
-
 __filmmaker__ _n_ One who directs or produces movies.  
 __stench__ _n_ __1__ A strong, foul odor; a stink.  
 __hah__ _interj_ A variant spelling of ha.  
