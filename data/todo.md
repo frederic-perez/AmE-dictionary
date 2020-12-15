@@ -1,5 +1,16 @@
 
 
+__nummary__ _adj_ Of or relating to coins.  
+__ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
+__antediluvian__ _adj_  
+__be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
+__frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
+__crybaby__ _n_ :dart: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
+__sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
+__trestle__ _n_ :es: caballete  
+__esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
+__death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
+
 __filmmaker__ _n_ One who directs or produces movies.  
 __stench__ _n_ __1__ A strong, foul odor; a stink.  
 __hah__ _interj_ A variant spelling of ha.  
