@@ -694,6 +694,7 @@ __astringent__
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
 __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
+__at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
@@ -711,6 +712,7 @@ __at times__ On occasion; sometimes. _There was an incredible amount of stress a
 __at wit's end__ _He was at wit's end._  
 __atavistic__ _adj_ :three: Are you scared of the dark? It's okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn't have to be a feeling; it can be anything that's a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atheist__ _adj_  
+__athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __athwart__  
 __atlatl__  
@@ -1016,6 +1018,7 @@ __be here to stay__ _idiom_ To become permanent or firmly established; to be a n
 __be honor-bound to do (something)__ _idiom_ To be or feel obliged to do something because it is morally correct or required by one's sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
+__be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in over (one's) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I'm in over my head with Amy. She wants marriage, kids, and a house, and I'm just not ready for any of that._  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
@@ -1035,6 +1038,7 @@ __beaming__ _adj._ Smilingly happy; showing happy emotion.
 __bean bag chair__  
 __bean counter__ _idiom_ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bean__ _v_ _She beans him with a decanter._  
+__beanfeast__ _n_ :dart: An annual dinner party given by an employer for the employees.  
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
 __beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
@@ -1733,6 +1737,7 @@ __browse__ _v_ To look through or over (something) casually: _browsed the newspa
 __bruin__  
 __bruited__  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
+__brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
 __brutal__  
 __brutalized__ _v_  
@@ -2920,6 +2925,7 @@ __contingency plan__ :two::hammer:
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ :two::hammer: _For most systems, change is continual._  
+__contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning "to adhere closely" and "to part or split."  
@@ -3479,6 +3485,7 @@ __debasing__ _v_
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ :two::hammer:  
+__debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
@@ -3993,7 +4000,8 @@ __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatme
 __doorpost__  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :mega:  
-__dope__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
+__dope<sup>1</sup>__ _n_ _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
+__dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :three: __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -5473,6 +5481,7 @@ __front and center__ :two::hammer:
 __front man__ _n_ :two::hammer: (frontman)  
 __front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
+__frontispiece__ _n_  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __frost the cake__ _idiom_  
@@ -7234,7 +7243,7 @@ __inchoate__
 __inchworm__ _n_  
 __incident__ _A stroke incident to pancreatic cancer._  
 __incidental__ _Incidental extracardiac findings._  
-__incidentally__ _adv_ :five::hammer:  
+__incidentally__ _adv_ :six::hammer:  
 __inclined__ _adj_  
 __incognito__ :two::hammer:  
 __incongruities__ _n_  
@@ -8278,6 +8287,7 @@ __lothario__ _The second verse of_ You're So Vain _is about one-time Hollywood l
 __lotto__ _n_ Lottery.  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __loudmouth__ _I was a loudmouth._  
+__loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
 __lout__ _n_ :three::hammer: _Syn_ oaf  
@@ -9080,7 +9090,7 @@ __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders calll
 __Native American__ _Native American reservation._  
 __nativism__ :two::hammer:  
 __NATO__ _North Atlantic Treaty Organization_  
-__nattering__  
+__natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
@@ -9342,7 +9352,7 @@ __obsidian__
 __obstinate__  
 __obstreperous__  
 __obstreperousness__  
-__obtrude__ _v_  
+__obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
@@ -10428,7 +10438,7 @@ __pony__ _v_
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
 __poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
-__pooch__ _n_ _slang_ :three: A dog.  
+__pooch__ _n_ _slang_ :four: A dog.  
 __poodle__ _n_ :es: caniche  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
@@ -10482,6 +10492,7 @@ __postcode lottery__ _n_ :two::hammer:
 __poster boy__ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
+__postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupee.  
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
 __postmortem__ _n_  
@@ -10877,6 +10888,7 @@ __put to the test__
 __put up with__ _idiom_ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __putbacks__  
 __putdowns__  
+__putrid__  
 __putt__ _Jason missed a 5-foot par putt._  
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
@@ -13018,6 +13030,7 @@ __spittoon__
 __splashdown__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
 __spleen__ _Interned-stoked spleen._  
+__splendid__  
 __splendor__  
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
@@ -13399,7 +13412,7 @@ __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks s
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one's body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :seven::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."—Julia Louise Woodruff_ _A new strain of coronavirus._  
+__strain<sup>2</sup>__ _n_ :eight::hammer: _Can you keep an even strain?_ _Out of the strain of the doing, into the peace of the done."—Julia Louise Woodruff_ _A new strain of coronavirus._  
 __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
@@ -14479,6 +14492,7 @@ __trill__ _n_ :six::hammer: (trills, trilled, trilling) _I felt a trill of excit
 __trilobite__ _n_ :two::mega::hammer:  
 __trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trim__ _n_ :two::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._  
+__trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
 __trinity__ _Trinity College in Dublin._  
 __trinkets__ _n_ :five::hammer:  
 __trip wire__ _You hit a trip wire._  
