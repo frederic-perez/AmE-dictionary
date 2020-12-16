@@ -1,5 +1,17 @@
 
 
+
+__strain__ _n_  
+__obtrude__  
+__incidentally__  
+__pooch__ _n_  
+__frontispiece__ (?)  
+__putrid__  
+__yes-o-yes-o__ (?)  
+__debonair__  
+__splendid__  
+__dope__ _n_ It has everything you wont to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
+
 __contraband__ _n_  
 __at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __natter__ _v_ Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
