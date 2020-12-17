@@ -1,5 +1,15 @@
 
 
+__unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
+__inner circle__ _idiom_ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
+__titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
+__gingersnap__ _n_  
+__lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
+__pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
+__pignole__ _n_ :astonished::mega; Pine nuts.  
+__shortbread__ _n_  
+__vilify__ _v_  
 
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
