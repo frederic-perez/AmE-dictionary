@@ -1845,7 +1845,7 @@ __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloa
 __buoyancy__  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
-__burble__ _v_ (burbled)  
+__burble__ _v_ :two: (burbled) Flow in an irregular current with a bubbling noise.  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeon__ _v_  
@@ -2939,7 +2939,7 @@ __contrive__ _v_ :two::hammer: (contriving)
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__ _idiom_ :two::hammer:  
 __controversial__  
-__convalescing__ _v_  
+__convalesce__ _v_ :two: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
@@ -5774,6 +5774,7 @@ __gimpy__ :two::hammer: _A gimpy angle._ _Gimpy gait._
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
+__gingersnap__ _n_  
 __gingham__  
 __gingivitis__ _n_  
 __ginning__  
@@ -6630,6 +6631,7 @@ __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidate
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :eight::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
+__here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
 __here's looking at you__  
 __heresy__ _n_ :two::hammer:  
 __heretic<sup>1</sup>__ _n_  
@@ -6647,7 +6649,7 @@ __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting to
 __hex key set__ _Allen key set?_  
 __hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
-__heyday__ _n_ :six::hammer:  
+__heyday__ _n_ :seven: The period of one's greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
 __hick__  
@@ -6763,6 +6765,7 @@ __hog the sofa__
 __hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one's share of: _Don't hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
+__hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
@@ -7256,7 +7259,7 @@ __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are inc
 __incrementally__ _Make it incrementally better._  
 __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
 __incubus__  
-__inculcate__ _v_  
+__inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
@@ -7339,6 +7342,7 @@ __inlay<sup>1</sup>__ _v_
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
+__inner circle__ _idiom_ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
 __innit__ _adv_ _slang_ A contraction of _isn't it?_, used to invite agreement with a statement: _it's a funny old world, innit?_  
 __innocuous__ _adj_  
 __innumerate__  
@@ -7991,6 +7995,7 @@ __lease__ _n_ :three::hammer: (on a lease)
 __leased__ _v_  
 __leaven__ _To leaven the raunch and swagger._  
 __leavings__ _n_  
+__lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
 __lecher__  
 __lectern__  
 __lecture__ _n_  
@@ -9221,6 +9226,7 @@ __Nobel__ :mega:
 __nobody's doctor__ _I'm nobody's doctor._  
 __nocebo__ _n_  
 __nocent__ _adj_ Having a tendency to cause harm.  
+__noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
 __noddies__ _n_  
 __noggin__ _n informal_ A person's head. _Syn_ bonce, dome  
@@ -10161,6 +10167,7 @@ __pigboat__ _n_
 __piggish__  
 __piggy-back__  
 __pigheaded__ _adj_ Obstinate.  
+__pignole__ _n_ :astonished::mega; Pine nuts.  
 __pigs in a blanket__ (food?) :camera:  
 __pigtail__ _n_ :two::hammer: (pigtails)  
 __pike__ _You can handle whatever comes down the pike._  
@@ -10227,6 +10234,7 @@ __pippin__
 __pique<sup>1</sup>__ _n_ :two: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::pencil2::hammer: (piques, piqued) _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
+__pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
 __pisspot__ :two::hammer:  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_ :two::pencil2::hammer:  
@@ -10502,6 +10510,7 @@ __pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the sco
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
 __potbelly__ _n_  
+__Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _"the Potemkin village of this country's borrowed prosperity" (Lewis H. Lapham)._  
 __potent__ _adj_  
 __potentiometer__ _n_  
 __pothead__  
@@ -10959,7 +10968,7 @@ __quicksilver__
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
-__quiescent__  
+__quiescent__ _adj_ :two: __1__ Quiet, still, or inactive.  
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilt__  
@@ -11683,6 +11692,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug rat__ _idiom_ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
 __rug__ _n_ :two: Hairpiece, chignon.  
+__rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
 __rugged__ _adj_ :three::hammer: _He was red carded for a rugged foul._  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
@@ -12328,6 +12338,7 @@ __short__ _He typically wears shorts to work._
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__  
+__shortbread__ _n_  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
@@ -14241,6 +14252,7 @@ __Tirolean__
 __tit for tat__ _n_ :four::hammer:  
 __tite__  
 __titillating__ _adj_  
+__titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
 __titlist__ _He is the former bantamweight titlist._  
 __titter__ _v_ :two::hammer:  
@@ -14784,6 +14796,7 @@ __unlike<sup>1</sup>__ _adj_
 __unlike<sup>2</sup>__ _preposition_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__  
+__unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
 __unquestioned__  
 __unravel__  
 __unraveling__  
@@ -14941,7 +14954,7 @@ __vampire squid__
 __vandalize__ _v_  
 __vandals__  
 __vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
-__vanilla__ _n_ :dart: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction : plain, ordinary, conventional.  
+__vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
 __vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
@@ -15045,8 +15058,7 @@ __video__ _n_
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
 __vile__  
-__vilifies__ _v_  
-__vilify__ _v_  
+__vilify__ _v_ :three::hammer: (vilifies)  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :two::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  

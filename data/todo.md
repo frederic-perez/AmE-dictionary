@@ -1,27 +1,5 @@
 
 
-__unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
-__inner circle__ _idiom_ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
-__titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
-__gingersnap__ _n_  
-__lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
-__pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
-__rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
-__pignole__ _n_ :astonished::mega; Pine nuts.  
-__shortbread__ _n_  
-__vilify__ _v_  
-
-__hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
-__heyday__ _n_ The period of one's greatest popularity, vigor, or prosperity.  
-__noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
-__quiescent__ _adj_ __1__ Quiet, still, or inactive.  
-__Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: Ç_"the Potemkin village of this country's borrowed prosperity" (Lewis H. Lapham)._  
-__inculcate__ _v_ To teach and impress by frequent repetitions or admonitions.  
-__convalesce__ _v_ To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
-__burble__ _v_ Flow in an irregular current with a bubbling noise.  
-__here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
-__vanilla__ _n_ :dart: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction : plain, ordinary, conventional.  
-
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
