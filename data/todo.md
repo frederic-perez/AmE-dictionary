@@ -1,5 +1,18 @@
 
 
+__titration__ _n_ _Lesion titration._  
+__discontinuation__ __ _Assessing the safety of oral anticoagulation discontinuation._  
+__ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
+__antral__ _adj_  
+__steam-pop phenomenon__  
+__accessory pulmonary veins__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
+__middle
+pulmonary vein__ _n_ _Role of right middle
+pulmonary vein in patients with paroxysmal atrial fibrillation._  
+__atypical__ _Atypical atrial flutter._  
+__bronchus__ _n_  
+__focal fibrosis__  
+
 
 __Matter of fact,__  
 __commotion__ _n_  
