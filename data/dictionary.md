@@ -119,6 +119,7 @@ __abysmal failure__ _idiom_ Failure that is total and extreme in measure or impl
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
+__accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
 __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (physical characteristics, social background, and even nationality) that are considered a result of parentage and the specific circumstances of birth, and are therefore entirely out of one's control.  
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _Ottolenghi is an accidental chef._  
@@ -503,6 +504,7 @@ __antidepressant__ _adj_
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antler__ _n_  
+__antral__ _adj_  
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :four::hammer: (anvils)  
 __any longer__  
@@ -742,7 +744,7 @@ __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun
 __attrition__ _n_ :six::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
-__atypical__ _adj_  
+__atypical__ _adj_ :two::hammer: _Atypical atrial flutter._  
 __au pair__  
 __au shops__  
 __Au.D__ Doctor of audiology.  
@@ -1713,6 +1715,7 @@ __broker<sup>1</sup>__ _n_
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __bromance__ :two::hammer:  
 __bronc__ _Bull and bronc riding._  
+__bronchus__ _n_ Either of two main branches of the trachea, leading directly to the lungs.  
 __bronco__ _n_ :camera:  
 __broncobusting__  
 __brood over__ _idiom_ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
@@ -2777,9 +2780,11 @@ __commode__
 __commodious__  
 __commoditization__  
 __Commonwealth__  
+__commotion__ _n_  
 __communiqué__ (communiqués) :two::hammer:  
 __comp<sup>1</sup>__ _n_ _Workers' comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
+__company__ _n_ _Joe-Jim, Bobo and company are back._  
 __compartmentalize__ _v_  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
@@ -3806,6 +3811,7 @@ __discombobulater__ _Now more than ever, there is little room for navel-gazers, 
 __discomfiture__ _n_  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
+__discontinuation__ _Assessing the safety of oral anticoagulation discontinuation._  
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
@@ -5244,6 +5250,7 @@ __flyer__ _n_ :three::hammer: (For a while in the 19th century, flier and flyer 
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ :two::hammer:  
+__focal fibrosis__  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
@@ -6365,7 +6372,7 @@ __hard rock__ _n_
 __hard sell__  
 __hard-ball__  
 __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
-__hard-boiled egg__  
+__hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
 __hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-line__ _A more hard-line position._  
 __hard-liners__ :two::hammer:  
@@ -6594,6 +6601,7 @@ __heft<sup>1</sup>__ _n_ :two::hammer:
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
 __hefty__ :two::hammer:  
+__hegira__ _n_  
 __height__ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :two::hammer:  
 __heinous__ _adj_ :four: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
@@ -8555,6 +8563,7 @@ __matron__
 __matsuri__  
 __matt__  
 __matte__  
+__Matter of fact,__  
 __matter-of-factly__  
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
@@ -8649,7 +8658,7 @@ __merch__ _n_ :three::hammer: Merchandaising?
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
-__mere__ _adj_ :three::hammer: _From mere $200._  
+__mere__ _adj_ :four::hammer: _From mere $200._  
 __meretricious__ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
@@ -8686,6 +8695,7 @@ __midafternoon__
 __midday__ _n_ :two::pencil2::hammer:  
 __middle ground__ _idiom_ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __middle of the road__ _He is a middle of the road singer, and that's a good thing._  
+__middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
 __middling__ _A middling academic career._  
@@ -9565,6 +9575,7 @@ __orthokeratology__
 __oscillating fan__  
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
+__ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
 __ostracize__ _v_ :five::pencil2::hammer:  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
@@ -11417,6 +11428,7 @@ __retinue__ _n_ :four::hammer: (retinues)
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
+__retort__ _v_ (retorted)  
 __retracement__  
 __retrain__ _v_  
 __retread__ _v_ To make or do over again, especially with minimal revision; rehash. _Syn_ make over, rework  
@@ -11950,7 +11962,7 @@ __scold__ _n_ A person who habitually scolds, in particular a troublesome and an
 __sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
-__scoot__ _v_ :two::hammer:  
+__scoot__ _v_ :three::hammer: _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
@@ -13280,6 +13292,7 @@ __steady__ _adj_ :five:__1__ Firm in position or place; fixed. __2__ Direct and 
 __steady-eddy__  
 __stealth van__ _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you're a plumber or whatever and no one would notice._  
 __stealthy__  
+__steam-pop phenomenon__  
 __steamer trunk__ _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
 __steed__ _n_ :two::hammer: (steeds)  
@@ -14255,6 +14268,7 @@ __titillating__ _adj_
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
 __titlist__ _He is the former bantamweight titlist._  
+__titration__ _n_ _Lesion titration._  
 __titter__ _v_ :two::hammer:  
 __titters__  
 __tittle__ _n_ :pencil2: A very small part.  
@@ -14423,6 +14437,7 @@ __train wreck__ _This kind of code is often called a train wreck because it look
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
 __traipsing__  
+__traitorous__  
 __tramp__ _adj_  
 __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
 __trampoline__ _n_ :two::hammer:  
@@ -15679,7 +15694,7 @@ __yardage__
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
 __yarn du jour__  
-__yarn__ _n_ :six::hammer: _Political yarns._ _Nylon yarn._  
+__yarn__ _n_ :seven::hammer: _Political yarns._ _Nylon yarn._  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ _The sound of yawns and crickets._  
 __yawner__ _n_ :two::hammer:  

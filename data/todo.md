@@ -1,30 +1,5 @@
 
 
-__titration__ _n_ _Lesion titration._  
-__discontinuation__ __ _Assessing the safety of oral anticoagulation discontinuation._  
-__ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
-__antral__ _adj_  
-__steam-pop phenomenon__  
-__accessory pulmonary veins__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
-__middle
-pulmonary vein__ _n_ _Role of right middle
-pulmonary vein in patients with paroxysmal atrial fibrillation._  
-__atypical__ _Atypical atrial flutter._  
-__bronchus__ _n_  
-__focal fibrosis__  
-
-
-__Matter of fact,__  
-__commotion__ _n_  
-__company__ _n_ _Joe-Jim, Bobo and company are back._  
-__yarn__  
-__hegira__ _n_ (?)  
-__traitorous__  
-__hard-boiled__ _adj_  
-__scoot__ _v_ _ _The New Frontiers scoots out of the' Solar System at a speed just under that of light._  
-__retorted__ _v_  
-__mere__  
-
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
