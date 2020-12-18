@@ -1,5 +1,17 @@
 
 
+
+__Matter of fact,__  
+__commotion__ _n_  
+__company__ _n_ _Joe-Jim, Bobo and company are back._  
+__yarn__  
+__hegira__ _n_ (?)  
+__traitorous__  
+__hard-boiled__ _adj_  
+__scoot__ _v_ _ _The New Frontiers scoots out of the' Solar System at a speed just under that of light._  
+__retorted__ _v_  
+__mere__  
+
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
