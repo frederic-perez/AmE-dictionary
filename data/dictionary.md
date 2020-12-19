@@ -26,6 +26,7 @@ __101__ Used to say that a piece of knowledge relating to something is very simp
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
+__203__ _The Machine-Gun Shooting 203 course._  
 __21__ _n_ Drinking game.  
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
@@ -193,7 +194,7 @@ __add up to__ _idiom_ To equal or amount to something.
 __add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
 __ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
-__address__ _v_ :two::hammer: _A multitude of problems need to be addressed._  
+__address__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
@@ -3105,6 +3106,7 @@ __cozy__
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
+__crack down__ _v_  
 __crack someone up__ _idiom_ To make someone laugh. _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
@@ -3233,7 +3235,7 @@ __crossroad__ _At a crossroad._
 __crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We're at a crossroads._ _I'm at a crossroads._ (notice the trailing 's')  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch__ :two::hammer:  
-__crow__ _v_ :two::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
+__crow__ _v_ :three::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crucible__ _n_ :seven::hammer:  
@@ -3252,10 +3254,8 @@ __crumble__ _v_ :seven::hammer: (crumbled, crumbling)
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_  
-__crumple<sup>1</sup>__ _v_ _Is that my suit crumpled in a ball?_  
+__crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
 __crumple<sup>2</sup>__ _n_  
-__crumpled__ _v_  
-__crumpling__  
 __crunch__ _n_ :two::hammer: (crunches)  
 __crunchtime__  
 __crusader__  
@@ -4687,7 +4687,7 @@ __existential__ _n_ :pencil2:
 __exodus__  
 __exonerate__ _v_ :three::hammer: (exonerating)  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning "designed for or understood by the specially initiated alone."  
-__expansive__ _adj_  
+__expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
 __expansively__ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -6229,11 +6229,12 @@ __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._
 __gurney__ _n_ :four::hammer:  
 __guru__ _n_ :mega:  
 __gush<sup>1</sup>__ _n_ :two::hammer:  
-__gush<sup>2</sup>__ _v_ :nine: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
+__gush<sup>2</sup>__ _v_ :nine::m: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
 __gushing__ _adj_  
 __gushy__  
 __gusseted__ _Gusseted underarms._  
 __gussets__  
+__gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ :two::hammer:  
 __gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
 __gut__ _v_ _Trump could gut the agency's budget._  
@@ -7433,7 +7434,7 @@ __inured__ _v_ :two::hammer:
 __inurnment__  
 __invariably__ _You'll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
-__inveigh__ _v_ :two: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
+__inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
@@ -9702,6 +9703,7 @@ __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin spac
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I'll top the bill, I'll overkill._  
 __overlay__ _n_  
+__overlook__ _v_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it's one of the scariest unions of all time._ :es: demasiado  
 __overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
@@ -11477,7 +11479,7 @@ __RGA__ _RGA chairman._
 __rhabdomancy__  
 __rhapsodize__ _v_ :two::hammer:  
 __rhapsody__ :mute:[r~~h~~apsody]  
-__rhathymia__ _n_ The state of being carefree. _Syn_ light-heartedness  
+__rhathymia__ _n_ :two: Carefree behavior; light-heartedness. The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
@@ -12383,6 +12385,7 @@ __shout-out > give a shout-out__
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
+__shovel__ _v_  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
 __show someone the door__ _idiom_ To dismiss someone from a job.  
@@ -12416,7 +12419,7 @@ __shrubbery__
 __shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you're shuckin' and jivin' me._ _Portraits of a man shucking corn._  
-__shudder__ _v_ :three::hammer: (shudders)  
+__shudder__ _v_ :four::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
@@ -13729,7 +13732,7 @@ __swift<sup>1</sup>__ _n_ (bird)
 __swift<sup>2</sup>__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
-__swig<sup>1</sup>__ _n_ :two::hammer: _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._  
+__swig<sup>1</sup>__ _n_ :three::hammer: _Mike Scott takes a swig from a fan's drink after tumbling into the crowd in Milwaukee._ _A swig of diet soda._  
 __swig<sup>2</sup>__ _v_ :two::hammer:  
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swim tube__  
@@ -14558,7 +14561,7 @@ __troposphere__
 __trot line__  
 __trot out__  
 __trot__  
-__troubleshoot__ _v_ :two::hammer:  
+__troubleshoot__ _v_ :three::hammer:  
 __troubleshooter__  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
@@ -14873,6 +14876,7 @@ __unwittingly__ :two::hammer:
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
+__up a tree__ _idiom_ In a difficult situation.  
 __up and running__  
 __up and under__ A basketball move.  
 __up for grabs__ _idiom_ :three: Available for anyone.  
@@ -15496,8 +15500,9 @@ __win back__ _phr v_ To get back something that you have lost.
 __wince__ _v_ :seven::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
-__wind down__ _phr v_ :two: To diminish gradually in force or power; relax.  
-__wind up__ :three::hammer: (wind-up) _It's a wind-up toy._ _We eventually wind up with that code._  
+__wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  
+__wind-up__ _adj_ _It's a wind-up toy._  
+__wind up__ _phr v_ :three::hammer: _We eventually wind up with that code._  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
 __windlass__ _n_ :two::hammer:  
 __window dressing__  
@@ -15701,7 +15706,7 @@ __yakuza__ :two::hammer:
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
-__yap<sup>2</sup>__ _n_ Mouth.  
+__yap<sup>2</sup>__ _n_ _slang_ :two: Mouth.  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  
@@ -15720,6 +15725,7 @@ __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his fir
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
+__yellow__ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
