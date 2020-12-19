@@ -1,27 +1,5 @@
 
 
-__matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
-__diadem__ _n_ An ornamental jeweled headdress signifying sovereignty.  
-__be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
-__pediculous__ _adj_ Infested with lice.  
-__inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator's office with letters of protest, we are certain to get her attention._  
-__idiot mittens__ _idiom_ Mittens or gloves that are attached to one's sleeves by a length of yarn or string so as to prevent their being lost.  
-__allusion__ _n_  
-__speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
-__I suppose (so)__ _idiom_ An expression of vague affirmation or assent.  
-__unsurvivable__  
-
-__few and far between__  
-__prerogative__ _n_  
-__anathema__ _n_  
-__to be unheard of__  
-__far cry__ _The office was a far cry from Pete's domains._  
-__warily__ _adv_  
-__ludicrous__ _adj_  
-__romancer__  
-__tenterhooks__  
-__umbrage__  
-
 __address__ _v_  
 __troubleshoot__ _v_  
 __overlook__ _v_  

@@ -374,6 +374,7 @@ __allograft__ _n_
 __allotment__ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
+__allusion__ _n_  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
@@ -437,7 +438,7 @@ __an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and 
 __anachronism__  
 __anal bleaching__ _n_  
 __analyst__ :pencil2:  
-__anathema__ _n_ :eight: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :nine: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
@@ -1022,6 +1023,7 @@ __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered
 __be in a pickle__ _slang_ To be in a troublesome situation.  
 __be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in over (one's) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I'm in over my head with Amy. She wants marriage, kids, and a house, and I'm just not ready for any of that._  
+__be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
@@ -3708,7 +3710,7 @@ __dexterous__ _adj_
 __diablerie__ _n_  
 __diabolical__ _adj_  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
-__diadem__  
+__diadem__ _n_ :two: An ornamental jeweled headdress signifying sovereignty.  
 __dialysis__ _n_ :three::hammer:  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
@@ -4830,7 +4832,7 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :two::mega::hammer:  
 __far and away__ :astonished:  
 __far and between__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
-__far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._  
+__far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete's domains._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn't as far-fetched as it sounds._  
 __far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
@@ -4952,6 +4954,7 @@ __feud<sup>1</sup>__ _n_ :four::hammer:
 __feud<sup>2</sup>__ _v_  
 __feuded__  
 __feverish__  
+__few and far between__  
 __fey__ _adj_  
 __fez__ _n_  
 __fiancé__ A man who is engaged to be married.  
@@ -7036,6 +7039,7 @@ __hysteric__
 __hysterical__ _adj_ :three::hammer:  
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
+__I suppose (so)__ _idiom_ An expression of vague affirmation or assent.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
 __I'd say__ _idiom_ In my opinion; it is my estimation that.  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
@@ -7067,6 +7071,7 @@ __idiolect__ _n_ The variety or form of a language used by an individual.
 __idiopathic__  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
+__idiot mittens__ _idiom_ Mittens or gloves that are attached to one's sleeves by a length of yarn or string so as to prevent their being lost.  
 __idle__ _v_  
 __idolatry__ :two::hammer:  
 __idyllic__ _adj_ :two::pencil2: Excellent and delightful in all respects.  
@@ -7423,6 +7428,7 @@ __intricacies__ :two::hammer:
 __intricate__ _adj_ :two::hammer:  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
+__inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator's office with letters of protest, we are certain to get her attention._  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
 __invariably__ _You'll invariably notice it._  
@@ -8559,6 +8565,7 @@ __maternity leave__
 __matey__  
 __matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
 __matriarch__ :two::hammer:  
+__matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __matron__  
 __matsuri__  
 __matt__  
@@ -9974,6 +9981,7 @@ __peddle__ _v_ :four: (peddling) __2__ _Informal_ To seek to disseminate; give o
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
 __pedi__  
+__pediculous__ _adj_ Infested with lice.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail's famous back bowls._  
 __peep__ _n_ :two::hammer:  
@@ -10607,7 +10615,7 @@ __preposterously__ :two::hammer:
 __preppers__  
 __prepping__ _v_  
 __prequel__  
-__prerogative__ _n_ :six::hammer:  
+__prerogative__ _n_ :seven::hammer:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :seven::hammer:  
@@ -11613,6 +11621,7 @@ __rollout__ _n_ :four::hammer: (rollouts)
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __romance__ :astonished:  
+__romancer__  
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
@@ -13009,6 +13018,7 @@ __specs__ _n_ :two: Spectacles, glasses.
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
 __speculate__ _v_  
+__speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __speculoos__ _Speculoss Belgian biscuits._  
 __Sped case__  
 __speed demon__  
@@ -13991,6 +14001,7 @@ __tenon__
 __tense__ _adj_ :two::hammer:  
 __tensile__ _Tensile cable._  
 __tentative__  
+__tenterhooks__  
 __tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
 __tenure__  
 __tenured__  
@@ -14282,6 +14293,7 @@ __to be at sea__
 __to be back on your feet__ To be healthy again after a period of illness.  
 __to be in someone's shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
+__to be unheard of__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
 __to have a point__ _He's got a point._  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
@@ -14706,7 +14718,7 @@ __ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
-__umbrage__ _n_  
+__umbrage__ _n_ :two::hammer:  
 __umpteen__  
 __umpteenth__ :two::hammer:  
 __un-American__  
@@ -15207,7 +15219,7 @@ __warehouse__ _v_ :two::hammer: (warehoused)
 __warehousing__  
 __wares__ _pl n_ :four: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
 __warhead__ _n_  
-__warily__  
+__warily__ _adv_ :two::hammer:  
 __wariness__  
 __warlocks__  
 __warmer__ _n_ _Fragance warmer._  
