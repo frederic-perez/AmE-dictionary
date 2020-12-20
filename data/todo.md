@@ -1,5 +1,16 @@
 
 
+__attainment__ _n_ _Scientific attainments._  
+__potent__  
+__lurked__ _v_  
+__impeded__ _v_  
+__squash flat__ _My guess is they could have squashed us flat just as easily._  
+__terse__  
+__loosen up__ _v_ _“Loosen up, Andy,” suggested Lazarus, “make a guess.”_  
+__overtaxed__  
+__refectory__  
+__penchant__  
+
 __mind trick__  
 __firm__ _n_ :dart::mega: \[fûrm\]  
 __antibiotic__ _adj_ :mega: \[ˈæntɪbaɪˈɒtɪk\]  
