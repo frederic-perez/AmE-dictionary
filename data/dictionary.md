@@ -499,7 +499,7 @@ __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inani
 __anti-humor__  
 __anti-Semitism__  
 __antibiotic<sup>1</sup>__ _n_  
-__antibiotic<sup>2</sup>__ _adj_  
+__antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]  
 __antic__  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
@@ -732,7 +732,7 @@ __attaché case__ _n_ :two::hammer: (attaché cases)
 __attack dog__ _n_  
 __attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
-__attainment__ _n_  
+__attainment__ _n_ :two::hammer: _Scientific attainments._  
 __attend to__ _phr v_ To deal with something or someone.  
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :two::mega::hammer:  
@@ -1108,7 +1108,7 @@ __befitting__
 __before you know it__  
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
-__befuddle__ _v_ :seven::hammer: (befuddled, befuddling)  
+__befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar__ _n_  
 __beggar-thy-neighbor__  
@@ -2757,6 +2757,7 @@ __come together__ _idiom_ :two::hammer:
 __comely__ _adj_ _literary old-fashioned_ :five: Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
+__comfortable__ _adj_ :dart::mega: \[ˈkʌmftəbəl\]  
 __comforter sets__  
 __comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
@@ -3927,7 +3928,7 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
 __dizzy__  
-__DMV__ _abbr_ Department of Motor Vehicles.  
+__DMV__ _abbr_ :two: Department of Motor Vehicles.  
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
 __do math__  
@@ -5053,6 +5054,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
+__firm__ _n_ :dart::mega: \[fûrm\]  
 __firmament__ _n_ The vault or expanse of the heavens; the sky.  
 __first and foremost__ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
@@ -7120,7 +7122,7 @@ __impeachment__ :two::hammer:
 __impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ :two::hammer:  
 __impecunious__ _n_ _Syn_ penniless, indigent, penurious  
-__impede__ _v_ :four::hammer: (impeded)  
+__impede__ _v_ :five::hammer: (impeded)  
 __impediment__  
 __impedimenta__ _n_  
 __impelled__  
@@ -8287,6 +8289,7 @@ __loose ends__ :two::hammer:
 __loose strands__  
 __loose-cannon__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
+__loosen up__ _v_ _“Loosen up, Andy,” suggested Lazarus, “make a guess.”_  
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
 __loot__ _v_ :two::hammer:  
@@ -8749,6 +8752,7 @@ __mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) i
 __mince<sup>2</sup>__ _n_  
 __mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
+__mind trick__  
 __mind__ _v_ _Mind the gap._  
 __mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling prices._  
 __minder__ :es: guardaespaldas  
@@ -8805,6 +8809,7 @@ __miso__ _n_
 __misogynist__  
 __misogyny__ :pencil2:  
 __misprint__ :pencil2::two::hammer: _This is not a misprint._  
+__mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
 __miss the point__ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
@@ -9717,6 +9722,7 @@ __overstating__ _v_
 __overt__ _adj_ :two::hammer:  
 __overtake<sup>1</sup>__ _n_ _He made overtakes._  
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
+__overtaxed__  
 __overthink__ _v_  
 __overtime__ :es: horas extras  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
@@ -9825,6 +9831,7 @@ __paperclip__ _n_
 __paperwork__  
 __pappy__  
 __paprika__ _n_  
+__paracetamol__ _n_ :dart::mega: \[ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-\]  
 __paradigm__ :mute:[paradi~~g~~m]  
 __paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
@@ -10114,7 +10121,7 @@ __pewter__
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ :two::hammer:  
 __Pharaoh__  
-__pharmaceutical__ :mega: (fär′mə-so͞o′tĭ-kəl)  
+__pharmaceutical__ _adj_ :two::dart::mega: \[ˌfɑr məˈsu tɪ kəl\] (fär′mə-so͞o′tĭ-kəl)  
 __phase out__  
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
@@ -10532,7 +10539,7 @@ __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A p
 __potatoes__ :pencil2:  
 __potbelly__ _n_  
 __Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _"the Potemkin village of this country's borrowed prosperity" (Lewis H. Lapham)._  
-__potent__ _adj_  
+__potent__ _adj_ :two::hammer:  
 __potentiometer__ _n_  
 __pothead__  
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
@@ -11285,7 +11292,7 @@ __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balan
 __reenactment__ _n_  
 __reeve__ _n_ :four::hammer::pencil2:  
 __ref__ _n_ A referee.  
-__refectory__ _n_ :four: A communal dining hall in a religious, academic, or other institution.  
+__refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
 __referral__  
 __reffing__  
@@ -11731,6 +11738,7 @@ __rummy__
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
 __rumple__ _v_ _His clothes were rumpled._  
+__run a fever__ _idiom_ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run afoul__  
 __run amok__ :two::hammer:  
 __run by__ _phr v_  
@@ -13162,6 +13170,7 @@ __square deal__
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
 __squarely__  
+__squash flat__ _My guess is they could have squashed us flat just as easily._  
 __squash__ _v_  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one's knees bent and one's heels close to or touching one's buttocks or the back of one's thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one's haunches, sit on one's heels :es: agacharse  
@@ -14019,7 +14028,7 @@ __terrapin__
 __terrestrial<sup>1</sup>__ _adj_  
 __terrestrial<sup>2</sup>__ _n_  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
-__terse__  
+__terse__ :two::hammer:  
 __test the water(s)__ _idiom_ :two::hammer: _We're testing the waters._  
 __tester bed__ :two::hammer:  
 __testimonial__ _n_  
@@ -15501,8 +15510,8 @@ __wince__ _v_ :seven::hammer: (winced, wincing) _He was wincing in pain._
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  
-__wind-up__ _adj_ _It's a wind-up toy._  
 __wind up__ _phr v_ :three::hammer: _We eventually wind up with that code._  
+__wind-up__ _adj_ _It's a wind-up toy._  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
 __windlass__ _n_ :two::hammer:  
 __window dressing__  

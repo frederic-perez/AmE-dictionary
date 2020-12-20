@@ -1,27 +1,5 @@
 
 
-__attainment__ _n_ _Scientific attainments._  
-__potent__  
-__lurked__ _v_  
-__impeded__ _v_  
-__squash flat__ _My guess is they could have squashed us flat just as easily._  
-__terse__  
-__loosen up__ _v_ _“Loosen up, Andy,” suggested Lazarus, “make a guess.”_  
-__overtaxed__  
-__refectory__  
-__penchant__  
-
-__mind trick__  
-__firm__ _n_ :dart::mega: \[fûrm\]  
-__antibiotic__ _adj_ :mega: \[ˈæntɪbaɪˈɒtɪk\]  
-__paracetamol__ _n_ :dart::mega: \[ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-\]  
-__pharmaceutical__ _adj_ :dart::mega: \[ˌfɑr məˈsu tɪ kəl\]  
-__comfortable__ _adj_ :dart::mega: \[ˈkʌmftəbəl\]  
-__mispronounce__ _v_  
-__befuddle__ _v_ __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
-__run a fever__ _idiom_ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
-__DMV__ _abbr_ Department of Motor Vehicles.  
-
 __coruscate__ _v_  
 __idiopathic__ _adj_ Of, relating to, or designating a disease having no known cause.  
 __insofar as__ _idiom_ To such an extent that; to the degree that.  
