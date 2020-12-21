@@ -1,28 +1,5 @@
 
 
-__coruscate__ _v_  
-__idiopathic__ _adj_ Of, relating to, or designating a disease having no known cause.  
-__insofar as__ _idiom_ To such an extent that; to the degree that.  
-__bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
-__ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__endorse__ _v_ Give support or one's approval to. _Syn_ second, back _Before I can move forward with a project of this magnitude, my boss must first endorse it._  
-__prehensile__ _adj_ :pencil2:  
-__incumbent (up)on (someone)__ _idiom_ Imposed or expected as an obligation, duty, or requirement on someone.  
-__hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
-__dead naming__ _idiom_ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
-
-__autumn__ _n_  
-__ductile__ _adj_  
-__proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
-__exhortation__ _n_  
-__conveyance__ _n_  
-
-__yawner__ _slang_ Something that is very boring.  __rhathymi
-__no spring chicken__  
-__senile__  
-__call off__ _phr v_  
-__hang out__ _phr v_  
-
 __repeat__ _n_ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __leverage__ _v_  
 __guideposts__ _n_  

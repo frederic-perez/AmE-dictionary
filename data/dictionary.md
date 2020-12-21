@@ -770,7 +770,7 @@ __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one pers
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
-__autumn__ :mute:[autum~~n~~]  
+__autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_  
 __aver__ _v_  
@@ -1666,6 +1666,7 @@ __brethren__ _n_ :three::hammer: _Political brethren._
 __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
 __briar__ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
+__bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __brick__ _n_ _basketball_  
 __brickbats__  
@@ -2011,6 +2012,7 @@ __call for__
 __call it even__ _idiom_ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
+__call off__ _phr v_ __1__ To cancel or postpone: _call off a trip; called the trip off._ __2__ To restrain or recall: _Call off your dogs._  
 __call on someone__ _He called on me._  
 __call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
@@ -2956,6 +2958,7 @@ __convenience store__
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
+__conveyance__ _n_  
 __conviction__ _n_  
 __convivial__ _adj_ :three::hammer:  
 __convoke__ _v_ To call together to a meeting.  
@@ -3032,7 +3035,7 @@ __corrugated__
 __corsages__  
 __cortisol__ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
-__coruscate__ _v_  
+__coruscate__ _v_ :two::hammer:  
 __cosset__ _v_  
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
@@ -3472,6 +3475,7 @@ __dead horse__ _n_ Something that has ceased to be useful or relevant.
 __dead in the water__ _idiom_ Without any chance for success.  
 __dead last__ _idiom_ In last place, especially by a wide margin, as for a race or other competition.  
 __dead man walking__ _Jack was a dead man walking._  
+__dead naming__ _idiom_ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
 __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
@@ -4214,7 +4218,7 @@ __duckling__ _n_ (ducklings) A young duck.
 __duckweed__  
 __ducky__ _ad_ _slang_ Excellent; fine.  
 __duct__ _They damaged a very large AT&T phone duct._  
-__ductile__  
+__ductile__ _adj_ :two::hammer:  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
 __dude__ _n_ Man, guy, friend.  
@@ -4489,6 +4493,7 @@ __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
+__endorse__ _v_ Give support or one's approval to. _Syn_ second, back _Before I can move forward with a project of this magnitude, my boss must first endorse it._  
 __endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
@@ -4683,6 +4688,7 @@ __exhilarate__ :mute:[ex~~h~~ilarate]
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
+__exhortation__ _n_  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__  
@@ -6340,6 +6346,7 @@ __handsy__ _adj_ Prone to touching other people with one's hands, especially ina
 __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
 __hang on (someone's) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
+__hang out__ _phr v_  
 __hang someone out to dry__ _idiom_ To abandon someone who is in trouble.  
 __hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
@@ -6906,6 +6913,7 @@ __horticulturist__ _n_ :mega:
 __hosanna__ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
 __hot desking__ _idiom_ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
@@ -7071,7 +7079,7 @@ __ideation__ _n_
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
-__idiopathic__  
+__idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no known cause.  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idiot mittens__ _idiom_ Mittens or gloves that are attached to one's sleeves by a length of yarn or string so as to prevent their being lost.  
@@ -7277,6 +7285,7 @@ __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Ever
 __incubus__  
 __inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
 __incumbency__  
+__incumbent (up)on (someone)__ _idiom_ Imposed or expected as an obligation, duty, or requirement on someone.  
 __incumbent<sup>1</sup>__ _adj_ _It's incumbent upon us to provide clear definitions of what these things mean._  
 __incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __incur__ _v_  
@@ -7352,6 +7361,7 @@ __initiative__
 __injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
+__ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inkling__ _n_ :six::hammer:  
 __inland__ :two::hammer:  
 __inlay<sup>1</sup>__ _v_  
@@ -7379,6 +7389,7 @@ __inset__ :two::hammer:
 __inside and out__ _idiom_ Thoroughly; down to the last detail.  
 __insidious__  
 __insipid__  
+__insofar as__ _idiom_ To such an extent that; to the degree that.  
 __insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolation__  
 __insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ rudeness, cheek _Sara sassed the teacher and was given detention for her insolence._  
@@ -9237,6 +9248,7 @@ __no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of ho
 __no jive__  
 __no offense__  
 __no questions asked__  
+__no spring chicken__ _idiom_ No longer young or youthful. (A "spring chicken" refers to a young chicken.)  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way around it__  
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
@@ -10605,6 +10617,7 @@ __preemptive__
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
+__prehensile__ _adj_ :pencil2:  
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
 __preliminary__  
 __premier__ _adj_  
@@ -10784,6 +10797,7 @@ __protracted__
 __proved__ _His first story proved immensely popular._  
 __provenance__  
 __provender__  
+__proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word's meaning: when a religious being is said to give people providence, he's taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they're showing care and prudence in managing resources.  
 __proviso__ _n_  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
@@ -12153,6 +12167,7 @@ __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
+__senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _Sensitive questions._  
@@ -15723,7 +15738,7 @@ __yarn du jour__
 __yarn__ _n_ :seven::hammer: _Political yarns._ _Nylon yarn._  
 __yaw__ _v_ :three: (yawing) __1__ _Nautical_ To swerve off course momentarily or temporarily: _The ship yawed as the heavy wave struck abeam._  
 __yawn__ _n_ _The sound of yawns and crickets._  
-__yawner__ _n_ :two::hammer:  
+__yawner__ _n_ _slang_ :three: Something that is very boring.  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
