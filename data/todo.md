@@ -1,5 +1,16 @@
 
 
+__somnolent__  
+__twiddle__ _v_ _Twiddle their tootsies._  
+__tootsies__ _n_ _Twiddle their tootsies._  
+__chuck us__ _We couldn’t be domesticated, so they chucked us out._  
+__homesickness__ _n_  
+__sutler__ _n_ (?) _He became a sutler on a major scale in the war between the States._  
+__fret away__  
+__stateroom__ _n_  
+__decelerate__ _v_  
+__stoppage__ _n_  
+
 __repeat__ _n_ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __leverage__ _v_  
 __guideposts__ _n_  
