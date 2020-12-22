@@ -2205,7 +2205,7 @@ __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)
 __catalyst__ :two::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
-__catapulted__ _v_  
+__catapult__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :es: cataratas  
 __catarrh__ :two::hammer::pencil2:  
 __catastrophe__ _n_  
@@ -2465,7 +2465,7 @@ __Christian__ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
 __chuck out__ _v_  
-__chuck__ _v_ :eight::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
+__chuck__ _v_ :nine::hammer: (chucked, chucking) _I made plans to chuck everything._ _In "Network," viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._ _We couldn’t be domesticated, so they chucked us out._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
@@ -3515,6 +3515,7 @@ __decant__ _v_ :two::hammer:
 __decanter__ _n_ :two::hammer:  
 __decathlon__  
 __deceit__ _n_  
+__decelerate__ _v_  
 __decidedly__ _adv_ Without question and beyond doubt. _It was decidedly too expensive._  
 __decidious__ _adj_  
 __decimate__ _v_ _It decimated their relationship._  
@@ -5464,6 +5465,7 @@ __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
 __freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ The occurrence of a water flow resulting from sudden rain or melting snow.  
+__fret away__  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ :two::hammer:  
@@ -6191,6 +6193,7 @@ __guffaw<sup>1</sup>__ _n_ :two::hammer:
 __guffaw<sup>2</sup>__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ :mute:[g~~u~~ide]  
+__guidepost__ _n_  
 __guidet__ _Two guidettes._  
 __guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__  
@@ -6841,6 +6844,7 @@ __homeground__ _adj_ (home-ground) __1__ Grown or produced in one's own garden o
 __homely__ _adj_ :three::hammer:  
 __homeowner__  
 __homesick__ :two::hammer:  
+__homesickness__ _n_  
 __homespun__ :two::hammer:  
 __homestand__ _n_ :five: A series of games played at a team's home field.  
 __homestead<sup>1</sup>__ _n_ :four::hammer:  
@@ -8091,7 +8095,7 @@ __levee__
 __leveled__ :two::hammer:  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
-__leverage<sup>2</sup>__ _v_ :four::hammer:  
+__leverage<sup>2</sup>__ _v_ :five::hammer:  
 __leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ _His levity faded._  
@@ -10357,7 +10361,7 @@ __play down something__ _phr v_ :two: To make something seem less important than
 __play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
 __play hardball__ _Defense lawyers began playing hardball._  
 __play havoc__  
-__play it safe__ _v_ :four::hammer: (play safe)  
+__play it safe__ _v_ :five::hammer: (play safe) _They choose to play it safe._  
 __play second fiddle__  
 __play short__  
 __play the tails off__ _I'm proud of our defense. They played their tails off._  
@@ -11198,7 +11202,7 @@ __razzle-dazzle__ :two::hammer:
 __razzmatazz__ _n_  
 __re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._  
 __reach for the sky__  
-__reach for the stars__ Have high or ambitious aims.  
+__reach for the stars__ _idiom_ :two: Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
 __reach out__ _v_ :nine::dart::hammer: _Reaching out to prevent aids._  
 __reactive__ _adj_ :dart:  
@@ -11323,6 +11327,7 @@ __regaled__
 __regalia__ _n_ :two::hammer:  
 __regatta__  
 __regents__ _n_  
+__regimen__ _n_ _An exercise regimen._  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
@@ -11395,7 +11400,7 @@ __rep__ _abbr_ :three::hammer: _You have to do thousands of reps to reach such l
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
-__repeat__ _n_ :dart: _CBS is filling this spot with a_ Big Bang _repeat today._  
+__repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
 __repent__ _v_ :two::hammer: (repented)  
 __repentance__ :two::hammer:  
@@ -12686,7 +12691,7 @@ __slinger__
 __slink<sup>1</sup>__ _v_ :three: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
-__slip up<sup>2</sup>__ _n_ :two::hammer: (slip-up)  
+__slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
@@ -12744,7 +12749,7 @@ __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._
 __slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
-__slush__ _n_ :five::hammer: _The offshore ice and slush._  
+__slush__ _n_ :six::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They're flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
@@ -12947,6 +12952,7 @@ __something or another__ _I ran into Jim Gable's ex-chauffeur, a guy named Micah
 __somewhat__  
 __somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
+__somnolent__ _adj_  
 __son of a biscuit__  
 __sonny__  
 __sonogram__  
@@ -13298,7 +13304,7 @@ __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost
 __statement__  
 __Staten Islander__ _n_  
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
-__stateroom__ _n_ :three: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_ _The spacious forward stateroom of the boat._  
+__stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_ _The spacious forward stateroom of the boat._  
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __statin__ _n_  
@@ -13440,7 +13446,7 @@ __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lackin
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
 __stoplights__ :pencil2:  
 __stopover__  
-__stoppage__ _n_ :nine::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :nine::m::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that's what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -13677,6 +13683,7 @@ __supply and demand__
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
+__supreme__ _adj_ _The great ones possess supreme confidence._  
 __surcease__  
 __surcharge__ _Additional hotel surcharge of $5.00 per order._  
 __sure enough,__ _Sure enough, that's what happened._  
@@ -13703,6 +13710,7 @@ __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __susurration__ _n_  
+__sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _Reafing a sutra._  
 __svelte__ :two::hammer:  
 __swab__ _n_ _Nasopharyngeal swabs._  
@@ -14393,7 +14401,7 @@ __tooth-gnashing__
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
 __toothsome__ _adj_ :three: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
-__tootsie__ _n_  
+__tootsie__ _n_ _slang_ :two: Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I'm not my usual top billing._  
 __top billing__ _n_ The advertisement of a star's name at the top of a theatrical poster.  
@@ -14699,7 +14707,7 @@ __tweed__
 __tweeny-weeny__  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twice as good__ _They took "twice as good as a challenge._  
-__twiddle__ _v_ :two::hammer: (twiddling)  
+__twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  

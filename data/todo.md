@@ -1,27 +1,5 @@
 
 
-__somnolent__  
-__twiddle__ _v_ _Twiddle their tootsies._  
-__tootsies__ _n_ _Twiddle their tootsies._  
-__chuck us__ _We couldn’t be domesticated, so they chucked us out._  
-__homesickness__ _n_  
-__sutler__ _n_ (?) _He became a sutler on a major scale in the war between the States._  
-__fret away__  
-__stateroom__ _n_  
-__decelerate__ _v_  
-__stoppage__ _n_  
-
-__repeat__ _n_ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
-__leverage__ _v_  
-__guideposts__ _n_  
-__supreme__ _adj_ _The great ones possess supreme confidence._  
-__regimen__ _n_ _An exercise regimen_  
-__catapult__ _v_  
-__play it safe__ _They choose to play it safe._  
-__reach for the stars__  
-__slip-ups__ _n_ _The story avoided slip-ups._  
-__slush__ _n_ (p--)  
-
 __WMO__ _abbr_ :three::hammer:  
 __seaport__ _n_  
 __infrasound__ _n_  
