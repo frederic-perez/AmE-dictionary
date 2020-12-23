@@ -1,27 +1,5 @@
 
 
-__WMO__ _abbr_ :three::hammer:  
-__seaport__ _n_  
-__infrasound__ _n_  
-__passage__ _n_ _Natural events include severe weather, frontal passages, and earthquakes._  
-__vast__ _A vast number._  
-__A4__ :astonished: _A4 stainless steel._  
-__canted__  
-__renowned__ :two::hammer:  
-__contactless__  
-__de-facto__  
-
-__well-rounded__ _adj_  
-__offshoot__ _n_  
-__undermine__ _v_  
-__target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
-__coruscate__ _v_  
-__hippocampus__ _n_ :pencil2:  
-__refrain__ _v_ _Refraining from email was definitely a challenge._  
-__deluge__ _A digital deluge._  
-__cooped__ _v_  
-__expedite__ _v_  
-
 __ceilometer__ _n_ :two::hammer:  
 __scintillometer__  
 __bathymetry__  

@@ -64,6 +64,7 @@ __a whole lot__ _idiom_ _informal_ To a very great degree or extent; a lot. _I�
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
+__A4__ :astonished: _A4 stainless steel._  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
@@ -2077,7 +2078,7 @@ __canopy__ _n_ _A dense canopy of snow._
 __cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
-__canted__ _v_ :two::hammer:  
+__canted__ _v_ :three::hammer:  
 __canteen__ _n_ :two::hammer: (canteens) (flask)  
 __canter up__ _v_  
 __canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
@@ -2918,6 +2919,7 @@ __consultee__ _n_
 __consumable__  
 __consumer electronics__  
 __consumption__ (ailment?)  
+__contactless__  
 __contagion__  
 __contempt sentence__ :two::hammer:  
 __contempt__  
@@ -2975,7 +2977,7 @@ __cool your jets__
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ :two::hammer: (coonasses)  
 __coop<sup>1</sup>__ _To fly the coop._  
-__coop<sup>2</sup>__ _v_ (cooped)  
+__coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :pencil2:  
 __coops__ _Chicken coops._  
 __coos__ _v_  
@@ -3035,7 +3037,7 @@ __corrugated__
 __corsages__  
 __cortisol__ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
-__coruscate__ _v_ :two::hammer:  
+__coruscate__ _v_ :three::hammer:  
 __cosset__ _v_  
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
@@ -3466,6 +3468,7 @@ __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._
 __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
 __de-escalate__ _v_  
+__de-facto__  
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead asleep__ _idiom_ In a deep, immovable sleep.  
@@ -3609,7 +3612,7 @@ __delivery note__
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ _They're deloused once a month._  
 __delude__ _v_ :four::hammer: (deluded)  
-__deluge<sup>1</sup>__ _n_ :five: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._  
+__deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _Deluxe album._  
@@ -4701,7 +4704,7 @@ __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow 
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::seven::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::eight::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
@@ -6728,6 +6731,7 @@ __hinky__
 __hinterland__ _n_ :five: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
+__hippocampus__ _n_ :pencil2:  
 __hires__ _n_  
 __hirsutism__  
 __His Majesty the Sultan__  
@@ -7348,7 +7352,7 @@ __infomercial__ _n_
 __informant__ _n_  
 __infotainment system__  
 __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
-__infrasound__ _Infrasound can be detected in excess of 100 miles._  
+__infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.  
@@ -9449,7 +9453,7 @@ __offload__ _v_
 __offramp__  
 __offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
-__offshoot__ _n_ :two::hammer:  
+__offshoot__ _n_ :three::hammer:  
 __offshore__  
 __oft__ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
@@ -9925,7 +9929,7 @@ __pass away__ _idiom_ _euphemism_ To die. _When I pass away, I don't wan
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
-__passage__ _n_ _The passage of three supplementary budgets this year._  
+__passage__ _n_ :two::hammer: _The passage of three supplementary budgets this year._ _Natural events include severe weather, frontal passages, and earthquakes._  
 __passel__ _A passel of ducks._  
 __passerby__ _n_ (passer-by) :two::hammer: _They were mugging passerby._  
 __pastiche__ _n_ :three::hammer:  
@@ -11316,7 +11320,7 @@ __referral__
 __reffing__  
 __refractory__ _adj_  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
-__refrain<sup>2</sup>__ _v_  
+__refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__ :two::hammer:  
@@ -11393,6 +11397,7 @@ __rendering plant__
 __rendition__ _n_ :three: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
+__renowned__ :two::hammer:  
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
 __rents__ _n_  
@@ -12090,6 +12095,7 @@ __seamed__ _v_ _A seamed old man._
 __seamless__  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
+__seaport__ _n_  
 __sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing__ _adj_ :two::hammer: _Searing work._  
 __seaside__  
@@ -13926,6 +13932,7 @@ __taps__ _A bugler played taps._
 __taradiddle__ _n_  
 __tardy__ :two::hammer:  
 __target ball__  
+__target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
 __tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
 __tarnation__ _n_  
@@ -14796,7 +14803,7 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
-__undermine__ _v_ :eight::hammer: (undermined)  
+__undermine__ _v_ :nine::hammer: (undermined)  
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
@@ -15034,6 +15041,7 @@ __varmints__
 __varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
+__vast__ _A vast number._  
 __vastly__ :two::hammer:  
 __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
 __vaudeville__ _n_ :two::pencil2::hammer:  
@@ -15357,7 +15365,7 @@ __well-founded__ _adj_ Based on sound reasoning or evidence.
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
-__well-rounded__ _adj_ :two::hammer:  
+__well-rounded__ _adj_ :three::hammer:  
 __wellhead__  
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
@@ -15607,6 +15615,7 @@ __without fail__ _idiiom_ Said of something that happens regularly and predictab
 __without further ado__ _idiom_ With no more delay.  
 __withstand__ _v_ :three::hammer:  
 __wizened__ _adj_ :four: "You're looking quite wizened today," is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
+__WMO__ _abbr_ :three::hammer:  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
