@@ -413,7 +413,7 @@ __ambulation__ _n_ :two::hammer:
 __ambulatory__ _Hakan Erdem, 12, wasn't ambulatory._  
 __ameliorate__ _v_ :two::hammer:  
 __amenable__  
-__amends__  
+__amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
 __amethyst__ _n_ :three::pencil2::hammer:  
@@ -991,7 +991,7 @@ __bate__ _v_ (bated) _They watched with bated breath._
 __bath tissue__  
 __bathhouses__  
 __bathwater__ _Let's not throw out the baby with the bathwater._  
-__bathymetry__  
+__bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
 __baton__ _n_ :two::hammer:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
@@ -1275,6 +1275,7 @@ __binder__ _n_ _My binder._
 __bindles__ _Drug bindles._  
 __binging__ _v_  
 __binocular__ _adj_ :mega: Adapted for or using both eyes.  
+__binoculars__ _n pl_ (plurale tantum)  
 __bio__ _n_  
 __biomass__  
 __biopic__  
@@ -2265,7 +2266,7 @@ __ce__
 __CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __ceasefire__  
 __cede__  
-__ceilometer__ _n_ :two::hammer:  
+__ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __cellist__ _n_ :two::hammer:  
@@ -2627,6 +2628,7 @@ __cloture__
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud nine__ _idiom_ :two::hammer:  
 __cloud of suspicion__ _idiom_ A general sentiment of suspicion of wrongdoing or illegality.  
+__cloud seeding__ _n_ :two::hammer:  
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __cloud__ _v_ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
@@ -3881,7 +3883,7 @@ __disposable__ _adj_ _A disposable lighter._
 __disquiet__  
 __disquisitition__ :pencil2:  
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
-__disruption__  
+__disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
 __dissatisfied__ _adj_ :two::pencil2::hammer:  
@@ -4677,7 +4679,7 @@ __excruciating__ _adj_ :two: Very painful.
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exe__ :mega:  
-__exec__ _n informal_ :four: (execs) An executive. _I'm a retired tech exec._  
+__exec__ _n informal_ :five: (execs) An executive. _I'm a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
 __exempt__ _v_ :two::hammer:  
@@ -4770,7 +4772,7 @@ __face off__ _v_
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :two::hammer:  
 __face-lift__  
-__facetious__ _adj_ :two::pencil2::hammer:  
+__facetious__ _adj_ :three::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
 __facile__ :two::hammer: _She's an extremely facile actress._  
 __facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
@@ -6656,7 +6658,7 @@ __henchman__ _n_ :nine::hammer: (henchmen) Someone who assists in a plot. _Syn_ 
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :eight::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
+__herald__ _v_ :nine::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the "bus of champions."_  
 __herdsman__ _n_  
 __here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
 __here's looking at you__  
@@ -9212,6 +9214,8 @@ __newsy__
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
 __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:  
+__nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
+__niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after "and." _I love your new house! It's nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nicety__ _n_  
@@ -9916,6 +9920,7 @@ __parterre__ _n_ :two: An ornamental flower garden having the beds and paths arr
 __participatory__ _I wanted to be a participatory father._  
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
+__partner__ _n_  
 __partridge__ _n_ :two::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
 __party crasher__ _idiom_ One who attends a party without having been invited.  
@@ -9931,7 +9936,8 @@ __pass policy__
 __pass up__  
 __passage__ _n_ :two::hammer: _The passage of three supplementary budgets this year._ _Natural events include severe weather, frontal passages, and earthquakes._  
 __passel__ _A passel of ducks._  
-__passerby__ _n_ (passer-by) :two::hammer: _They were mugging passerby._  
+__passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
+__passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one's spare time pleasantly: Sailing is her favorite pastime.  
 __pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
@@ -10421,6 +10427,7 @@ __plums__ _n_ :three::hammer:
 __plunder__ _v_ :five::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe's plunger._  
+__plurale tantum__ :dart: A plurale tantum (Latin for "plural only") is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
@@ -11995,6 +12002,7 @@ __sciatica__
 __science__ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
+__scintillometer__  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
 __scissors__ :mute:[s~~c~~issors]  
@@ -13808,7 +13816,7 @@ __syndicate__ _n_ :pencil2: _The national gambling syndicate._
 __syndicated__ :two::hammer:  
 __syndrome__ _n_  
 __synesthesia__ _n_  
-__synoptic__ _adj_ :two::hammer: _Synoptic representations of wind._  
+__synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
 __synoptical__  
 __syphilis__ _n_ :pencil2:  
 __syringe__  
@@ -14383,7 +14391,7 @@ __tomboy__
 __tombstone__ _n_  
 __tomcat__  
 __tome__ _n_ A large heavy book, usually about a serious subject.  
-__tomfoolery__ _n_  
+__tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __ton__ _A metric ton._  
 __tone-deaf__ _adj_ :two::hammer:  
 __tong__  
@@ -15159,6 +15167,7 @@ __vituperative__
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vizier__ _n_ :two::hammer:  
+__vocab__  
 __vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
