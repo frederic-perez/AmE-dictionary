@@ -858,7 +858,7 @@ __badinage__ _n_ :two::hammer:
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it's very painful._ _She wants him so badly!_  
 __baff__ _v_ (baffed)  
-__baffle__ _v_ :seven: (baffled) To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._  
+__baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
 __baffled__ _adj_  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
@@ -1009,6 +1009,7 @@ __bays__ _n_
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone's job, need, or purpose.  
+__be (the) bomb__ _idiom_ To be excellent, extremely entertaining, or of very high quality.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __be as good as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits' end__ _idiom_ To be worried about something and not know what you should do next.  
@@ -1466,6 +1467,7 @@ __bogeyman__ _n_ Variant of boogeyman.
 __bogged down__ _phr v_  
 __boggles__ _v_  
 __bogs__  
+__boil (something) down to (something)__ _idiom_ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
 __boiler__  
@@ -2954,7 +2956,7 @@ __contrive__ _v_ :two::hammer: (contriving)
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__ _idiom_ :two::hammer:  
 __controversial__  
-__convalesce__ _v_ :two: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
+__convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
@@ -3684,7 +3686,7 @@ __despicable__
 __despoil__ _v_  
 __despoiling__  
 __despondency__  
-__despondent__ _n_ :five::hammer:  
+__despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
@@ -3986,6 +3988,7 @@ __dogtrot__ _n_
 __doilies__  
 __doings__ _n_  
 __doldrum__ _n_ :four::hammer: (doldrums)  
+__doldrums__ _n pl_ (plurale tantum)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren't exact. For example, a load is a lot of something, but a dollop is a little. If you're watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can't measure a dollop, but it's should be a fairly small amount. If you use a whole bottle of ketchup, that's far more than a dollop. _An extra dollop of drama._  
@@ -4404,8 +4407,10 @@ __Election Day__
 __elective__ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
 __electrolysis__ _n_  
+__electronics__ _n pl_ (plurale tantum)  
 __elegy__ _n_ :three: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend's casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephant in the room__ _idiom_ :two: An obvious problem that people do not want to talk about.  
+__elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
 __elevator boy__  
 __elevator control box__  
 __elevator operator__ :camera:  
@@ -5689,6 +5694,7 @@ __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hack
 __geezer__ :three::hammer: (geezers) _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gelding__ _n_ :three:hammer:  
+__gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._  
 __gelled__ _His hair was neatly gelled._  
 __gelt__  
 __gemstone__ _n_ :es: piedra preciosa  
@@ -5834,6 +5840,7 @@ __glades__ _n_ _Heathy glades._
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
+__glasses__ _n pl_ (plurale tantum)  
 __glazing__ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :four::hammer: (gleaned, gleaning)  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
@@ -6810,6 +6817,7 @@ __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold 
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
+__hold on to your hat__ _idiom_ Get ready for what's coming or about to happen! _Hold on to your hats, everybody—we're about to see what these fireworks can do!_  
 __hold one’s peace__ :two::hammer: _“Oh!” She looked puzzled, but held her peace._  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
@@ -7485,6 +7493,7 @@ __isobar__ _n_
 __issuance__ _n_ :three::hammer:  
 __issue__ _v_  
 __isthmus__  
+__it ain't over till/until the fat lady sings__ _idiom_ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __IT Band__  
 __it dawned on someone__  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
@@ -7545,6 +7554,7 @@ __jaywalker__ _n_
 __jaywalking__  
 __jazz up__ _v_  
 __jazzy__  
+__jeans__ _n pl_ (plurale tantum)  
 __jeered__ _v_ :four::hammer: (jeering)  
 __jeez__ _interj_ Used to express surprise or annoyance.  
 __Jehova's Witness__  
@@ -8055,6 +8065,7 @@ __leg warmer__ _n_
 __legal tack__  
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ Physical or mental quickness; nimbleness; agility.  
+__leggings__ _n pl_ (plurale tantum)  
 __legion__ _The reasons you can't sleep well inflight are legion._  
 __legit__ _adj_ _Slang_ :four: Legitimate.  
 __legwork__ _n_  
@@ -9581,6 +9592,7 @@ __ophthalmic__ _adj_
 __ophthalmologist__ _n_  
 __oppo__ _Oppo researchers._  
 __opposition__ _n_ :mega:  
+__opprobrium__ _n_  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opticks__ _Obsolete form of optics._  
@@ -9873,6 +9885,7 @@ __paraphilia__ _n_ :two::hammer:
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
 __parasailing__  
+__paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
@@ -10397,6 +10410,7 @@ __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._
 __pliable__ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
+__pliers__ _n pl_ (plurale tantum)  
 __plies__ _v_  
 __plight__ _n_ :six: Tough situation.  
 __plinian__ _adj_  
@@ -10406,6 +10420,7 @@ __plonk__ _v_ (plonked)
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
+__plotz__ _v_  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
 __plowed__ :two::hammer: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
@@ -12005,7 +12020,7 @@ __scintillating__ _adj_ :four::hammer: _Scintillating company._
 __scintillometer__  
 __scion__ _n_ :three::hammer:  
 __scissor lift__  
-__scissors__ :mute:[s~~c~~issors]  
+__scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
@@ -12413,6 +12428,7 @@ __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's bigges
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
 __shortly__ :two::hammer: _Shortly before 8 a.m. Tuesday._  
+__shorts__ _n pl_ (plurale tantum)  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  

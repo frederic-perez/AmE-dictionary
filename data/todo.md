@@ -1,27 +1,5 @@
 
 
-__convalesce__ _v_  
-__be (the) bomb__ _idiom_ To be excellent, extremely entertaining, or of very high quality.  
-__baffle__ _v_ __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
-__opprobrium__ _n_  
-__boil (something) down to (something)__ _idiom_ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
-__elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
-__plotz__ _v_  
-__paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
-__gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._  
-__it ain't over till/until the fat lady sings__ _idiom_ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
-
-__hold on to your hat__ _idiom_ Get ready for what's coming or about to happen! _Hold on to your hats, everybody—we're about to see what these fireworks can do!_  
-__despondent__ _adj_ Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
-__doldrums__ _n pl_ (plurale tantum)  
-__shorts__ _n pl_ (plurale tantum)  
-__leggings__ _n pl_ (plurale tantum)  
-__jeans__ _n pl_ (plurale tantum)  
-__scissors__ _n pl_ (plurale tantum)  
-__pliers__ _n pl_ (plurale tantum)  
-__electronics__ _n pl_ (plurale tantum)  
-__glasses__ _n pl_ (plurale tantum)  
-
 __disbelief__ _n_  
 __suspend__ _v_  
 __scorn__ _n_  
