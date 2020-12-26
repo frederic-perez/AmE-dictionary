@@ -1167,7 +1167,8 @@ __belted__ _v_ :three::hammer: (belting) _An old woman belted out, "We are tired
 __beltway__ _n_ :dart:  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
-__bemused__ :two::hammer:  
+__bemuse__ _v_ (bemused)  
+__bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
@@ -3107,7 +3108,7 @@ __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomo
 __cowering__ _v_ :two::hammer:  
 __cowl__ :two::hammer: _Their cowls were filthy rags._  
 __cowled__ _v_  
-__cowpoke__ _n_ _old-fashioned_ A cowboy or cowgirl.  
+__cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
@@ -3399,6 +3400,7 @@ __dafter__
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daily basis__ (on a daily basis) _They work with the team on a daily basis._  
+__daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
@@ -4586,6 +4588,8 @@ __Equality State__ _n_ WY, Wyoming.
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ :two::hammer:  
 __equerries__  
+__equestrian<sup>1</sup>__ _adj_  
+__equestrian<sup>2</sup>__ _n_  
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
 __equinox__ _n_ :two::mega::hammer:  
@@ -5457,6 +5461,7 @@ __free bit of advice__ _idiom_ A suggestion, opinion, or piece of advice that wa
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
+__free range__ _n_ Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
 __free rein__  
 __free ride__ :two::hammer:  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
@@ -6861,7 +6866,7 @@ __homesick__ :two::hammer:
 __homesickness__ _n_  
 __homespun__ :two::hammer:  
 __homestand__ _n_ :five: A series of games played at a team's home field.  
-__homestead<sup>1</sup>__ _n_ :four::hammer:  
+__homestead<sup>1</sup>__ _n_ :five::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
@@ -7335,6 +7340,7 @@ __ineffectual__
 __inequitable__  
 __inequities__  
 __inert__ _Helium is inert._  
+__inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
 __inextricably__ :two::hammer:  
@@ -7629,7 +7635,7 @@ __jonesing__ _v_ :two::hammer:
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
 __jostle anew__ :two::hammer: (jostled anew)  
-__jostle__ _v_ :five::hammer::camera: (jostled, jostling) _Cows are jostling for space._  
+__jostle__ _v_ :six::hammer::camera: (jostled, jostling) _Cows are jostling for space._  
 __journeyman__ :two::hammer:  
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
@@ -9126,7 +9132,7 @@ __name-dropping__ _n_
 __nameplate__ _n_  
 __names and likeness__  
 __namesake__  
-__nana__ _Her nana._  
+__nana__ _n_ :two::hammer: _Her nana._  
 __Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
 __nappy__ _n_ :three::hammer: (chiefly British)  
@@ -9137,6 +9143,8 @@ __narrative__
 __narrow escape__ _idiom_ :two::hammer:  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
 __narrow-minded__ _adj_  
+__narrowcast<sup>1</sup>__ _v_  
+__narrowcast<sup>2</sup>__ _n_  
 __narrowly__ _I narrowly escaped execution._  
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
@@ -9224,7 +9232,7 @@ __newsstand__ _n_ :pencil2:
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
-__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :seven::hammer:  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :eight::hammer: _The little person broke one off and nibbled at it daintily._  
 __nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after "and." _I love your new house! It's nice and bright inside!_  
@@ -11120,7 +11128,7 @@ __rainout__
 __raise eyebrows__  
 __raked over the coals__  
 __raking__ _v_  
-__rakish__ _adj_ :four: Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
+__rakish__ _adj_ :five: Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate's supporters rallied on the common._ __2__ To join in an effort for a common cause: _"In the terror and confusion of change, society rallied round the kings." (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
@@ -12212,7 +12220,7 @@ __sentient__ _adj_ :five::hammer:
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __seppuku__ _n_  
-__sepsis__ _n_  
+__sepsis__ _n_ :two::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -12341,6 +12349,7 @@ __shepherdless__ _n_
 __sherbet punch__  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shiet__  
+__shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
 __shift__  
 __shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
@@ -12489,6 +12498,7 @@ __shut down__ _San Antonio shut down Utah for its fourth straight road victory._
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
+__shy away__ _idiom_  
 __shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
@@ -12582,7 +12592,7 @@ __sit-down__ _n_ _Johnny Carp says he wants another sit-down._
 __sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
-__sitting duck__ _n_ _informal_ :two: An easy target or victim.  
+__sitting duck__ _n_ _informal_ :three: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
 __sitting on the fence__ _idiom_  
 __sitting pretty__ _idiom_ :three: Living in comfort.  
 __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
@@ -13007,7 +13017,7 @@ __sort it out__ _idiom_ :three::hammer: __2__ _Fig._ To study a problem and figu
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
-__sortie__ _n_  
+__sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
 __sot__ :two::hammer: _A surly sot._  
 __sotto voce__  
 __sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
@@ -13548,7 +13558,7 @@ __strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, y
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women's behavior were easing._  
 __stridence__ :two::hammer:  
-__strife__ _n_ :nine: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
+__strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __strike a chord__ _idiom_ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
@@ -13674,7 +13684,7 @@ __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ :two::hammer:  
 __sullenly__  
-__sully__ _v_ :three::hammer:  
+__sully__ _v_ :four::hammer:  
 __sultanate__  
 __sultry__ _adj_ :three::hammer:  
 __summarily__ _adv_  
@@ -14002,7 +14012,7 @@ __taxa__
 __taxidermy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
 __TBD__  
-__tchotchkes__ :two::hammer: _Simpson tchotchkes._  
+__tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __Tea partyers__ :pencil2:  
 __teakwood__ :pencil2:  
