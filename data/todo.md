@@ -1,5 +1,16 @@
 
 
+__bemused__ _v_  
+__homestead__  
+__strife__ _n_  
+__rakish__ _adj_  
+__sortie__ _n_ _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
+__jostling__  
+__inescapable__  
+__sully__ _v_  
+__nibbled__ _The little person broke one off and nibbled at it daintily._  
+__daintily__ _The little person broke one off and nibbled at it daintily._  
+
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __tit for tat__ _idiom_ Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase "tip for tap," which means "blow for blow." Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She's mad at me, so she refuses to help me plan this event—typical tit for tat._  
