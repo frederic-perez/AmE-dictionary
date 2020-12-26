@@ -1,5 +1,16 @@
 
 
+__sitting duck__ _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
+__narrowcast__  
+__sepsis__ _n_ _Sepsis occurs when the body’s response to infection is imbalanced._  
+__shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
+__cowpoke__ _n_ (?)  
+__equestrian__  
+__nana__ _n_  
+__tchotchkes__ _n_  
+__shy away__  
+__free range__ _n_ Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
+
 __bemused__ _v_  
 __homestead__  
 __strife__ _n_  
