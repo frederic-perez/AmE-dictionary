@@ -1,5 +1,16 @@
 
 
+__homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
+__earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
+__tit for tat__ _idiom_ Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase "tip for tap," which means "blow for blow." Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She's mad at me, so she refuses to help me plan this event—typical tit for tat._  
+__fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
+__foothold__ _n_  
+__inconsequential__ _adj_  lacking worth or importance. _His work seems trivial and inconsequential._ _Syn_ inconsequent  
+__buffalo__ _n pl_ (also buffaloes, buffalos)  
+__hanger__ _n_ A frame for hanging clothes: _Here is a hanger for your coat._  
+__middling__ _adj_ __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average  
+__Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ 2. An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
+
 __disbelief__ _n_  
 __suspend__ _v_  
 __scorn__ _n_  
