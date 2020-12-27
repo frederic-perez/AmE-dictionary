@@ -707,6 +707,7 @@ __at breakneck speed/pace__ _idiom_ Extremely and often dangerously fast. _He dr
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at heart__ _Most people are crooks at heart._  
 __at large__ _idiom_  
+__at length__ _idiom_ _At length a messenger entered the camp site and sought out King._  
 __at odds__ _idiom_ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They're often at odds._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
@@ -1785,6 +1786,7 @@ __budget__ :two::hammer: _The surface energy budget._
 __buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
+__buffalo__ _n pl_ (also buffaloes, buffalos)  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
 __bug off__ _Slang_ To leave someone alone; go away.  
@@ -2952,7 +2954,7 @@ __contrarian__
 __contretemps__  
 __contrite__ _adj_ :eight::hammer:  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :three::hammer:  
+__contrivance__ _n_ :four::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __control freak__ _idiom_ :two::hammer:  
@@ -4319,6 +4321,7 @@ __Earthling__ _n_
 __earthquake drill__  
 __earthshine__ _n_ The sunlight reflected from the earth's surface that illuminates part of the moon not directly lighted by the sun.  
 __earthworks__ _n_  
+__earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __easement__  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
@@ -4341,6 +4344,7 @@ __echelon__ _n_ :hammer: _The upper echelons of the State Security force._
 __echo chamber__  
 __echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
+__ecliptic__ _n_  
 __econ__ _The econ professor._  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
@@ -5318,7 +5322,7 @@ __foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_
 __foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
-__foothold__ _A foothold._  
+__foothold__ _n_ :two::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ :pencil2:  
 __footwork__ _n_ :two::hammer:  
@@ -5560,6 +5564,7 @@ __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._
 __fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fumed__ _v_  
 __fumitory__  
+__fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
 __fundraiser__ _They were at a fundraiser._  
 __funereal__ _Funereal tone._  
@@ -6371,7 +6376,7 @@ __hang someone out to dry__ _idiom_ To abandon someone who is in trouble.
 __hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
 __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
-__hanger__ _n_ _You left some hangers at my place._  
+__hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
 __hangnail__ :two::hammer:  
 __hangout__ :three::hammer: _This was a hangout._  
@@ -6870,6 +6875,7 @@ __homestead<sup>1</sup>__ _n_ :five::hammer:
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :two::hammer:  
 __homie__ _Homies for life._  
+__homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
 __homophobic__  
 __homophones__ _n_ :two::hammer:  
@@ -7299,7 +7305,7 @@ __incognito__ :two::hammer:
 __incongruities__ _n_  
 __incongruous__ _adj_  
 __incongruously__  
-__inconsequential__  
+__inconsequential__ _adj_ :two: Lacking worth or importance. _His work seems trivial and inconsequential._ _Syn_ inconsequent  
 __inconspicuous__  
 __incontrovertible__ _adj_ :two: Not open to question. _Syn_ indisputable  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
@@ -7343,7 +7349,7 @@ __inert__ _Helium is inert._
 __inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
-__inextricably__ :two::hammer:  
+__inextricably__ _adv_ :three::hammer:  
 __infallibity__  
 __infamous__ _adj_ :nine::m: __1__ Having a bad reputation: notorious. _Princess Leia's infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
@@ -7382,7 +7388,7 @@ __inhale__ _v_ _slang_ To eat very quickly.
 __inimical__  
 __iniquity__ _n_ :two: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
-__injunction__ _n_ :seven: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
+__injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
 __injury-marred__ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
@@ -7483,6 +7489,7 @@ __ire__ _n_ :two::hammer:
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
+__irk__ _v_ _What irks you?_  
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
@@ -7965,6 +7972,7 @@ __larceny__ _n_ :seven: Theft of personal property. :es: hurto
 __larder__ _n_ :three::hammer:  
 __largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
+__largess__ _n_  
 __lark__ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
@@ -8747,7 +8755,7 @@ __middle of the road__ _He is a middle of the road singer, and that's a good thi
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ :dart:  
-__middling__ _A middling academic career._  
+__middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
 __midget__ _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
 __midsize__  
@@ -9440,6 +9448,7 @@ __octogenarians__
 __octoroons__  
 __octothorpe__ _n_ The symbol (#).  
 __OD__ _v_  
+__odd__ _adj_ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddly enough__ :two::hammer:  
 __odds__ _pl n_  
@@ -9485,6 +9494,7 @@ __oftentimes__ :two::hammer:
 __OG__ Original gangster.  
 __ogle__ _v_ :two::hammer:  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
+__Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __Ohioans__  
 __OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __oil slick__ _The greasy shine of an oil slick._  
@@ -13008,6 +13018,7 @@ __sopping__ _v_
 __soppy__  
 __sorbet__ _n_ :mega:  
 __sordid__ _adj_  
+__sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :three::hammer:  
 __sorghum__  
 __sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
@@ -14204,7 +14215,7 @@ __three-hour__ _adj_ :pencil2: _A three-hour drive._
 __threequel__ _n_ _There's the original, the sequel, and the threequel._  
 __thrifty__ _adj_ :three::hammer:  
 __thrilling__ _adj_  
-__throb__ _v_ :five::hammer: (throbs, throbbing) _My head is throbbing._  
+__throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :five::hammer:  
 __thromboembolism__ _n_  
@@ -14349,7 +14360,7 @@ __tire spikes__ :camera:
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
-__tit for tat__ _n_ :four::hammer:  
+__tit for tat__ _idiom_ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase "tip for tap," which means "blow for blow." Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She's mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __tite__  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
