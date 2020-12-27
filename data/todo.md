@@ -1,6 +1,17 @@
 
 
 
+__injuction__ _n_  
+__largess__  
+__throbbing__  
+__contrivance__ _n_  
+__thirty-odd__ (?)  
+__at length__ _At length a messenger entered the camp site and sought out King._  
+__irk__ _v_ _What irks you?_  
+__inextricably__  
+__sorehead__  
+__ecliptic__  
+
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __tit for tat__ _idiom_ Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase "tip for tap," which means "blow for blow." Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She's mad at me, so she refuses to help me plan this event—typical tit for tat._  
