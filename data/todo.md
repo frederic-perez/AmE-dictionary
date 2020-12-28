@@ -1,6 +1,17 @@
 
 
 
+__sophistry__ _The argument was utter sophistry._  
+__Q.E.D.__  
+__pique__ _n_  
+__streamlined__  
+__jaded__  
+__malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
+__dissenter__ _n_ _There is not mat space for malcontents or dissenters._  
+__freewheel__ _v_ _Let your creative mind freewheel._  
+__check__ _v_ _Check your ego at the door._  
+__pretense__ _n_  
+
 __disbelief__ _n_  
 __suspend__ _v_  
 __scorn__ _n_  
