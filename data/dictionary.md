@@ -2369,7 +2369,7 @@ __check in__ _v_
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check out__ _Acording to Jim, the layer's name checked out._  
 __check something out__  
-__check__ _v_ :three::hammer: _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
+__check__ _v_ :four::hammer: _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
@@ -3716,7 +3716,7 @@ __devil is in the detail__ _idiom_ Small things can cause difficulties when you 
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __deviltry__  
-__devoid__  
+__devoid__ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
@@ -3820,6 +3820,7 @@ __disastrous__
 __disavow__ _v_ :two::hammer: (disavowed)  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
+__disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You'd probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired'?) _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
@@ -3899,6 +3900,7 @@ __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – t
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :four::hammer:  
+__dissenter__ _n_ _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
@@ -4621,7 +4623,7 @@ __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that run
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
 __eschews__ _v_  
-__escrow__ _n_ :three: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
 __ESP__ _abbr_ Extrasensory perception. _ESP powers._  
 __espadrilles__ _n_  
@@ -4840,6 +4842,7 @@ __famine__ _n_ :two::hammer: _It could be feasst or famine._
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
 __fan service__ _idiom_  
+__fan__ _v_ _Jack should have to fan the fire a little._  
 __fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
@@ -5473,7 +5476,7 @@ __free-spoken__ _adj_ Characterized by directness in manner or speech; without s
 __free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
-__freewheel__ _v_ :eight::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._  
+__freewheel__ _v_ :nine::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
 __freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
@@ -5552,6 +5555,7 @@ __full as a tick__ _idiom_ Having consumed large quantities of food or drink. A 
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent's arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
 __full of beans__ _idiom_ :two: To have a lot of energy.  
 __full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
+__full of shit__ _idiom_ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can't listen to Sean, he's full of shit! He doesn't know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ :two::hammer:  
@@ -7531,7 +7535,7 @@ __jack-o'-lantern__
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
-__jaded__ _adj_ :three: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
+__jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ Jaguar (car)  
 __jagged__ :two::hammer:  
 __jagging__  
@@ -8498,6 +8502,7 @@ __malady__
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :three::hammer:  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
+__malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
@@ -9321,7 +9326,7 @@ __nonchalance__ _n_
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
-__noncommittal__ _adj_ :three::hammer:  
+__noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
@@ -10316,7 +10321,7 @@ __pipeline__
 __pipeyard__  
 __piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
-__pique<sup>1</sup>__ _n_ :two: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
+__pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::pencil2::hammer: (piques, piqued) _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
@@ -10704,7 +10709,7 @@ __press the pocket__
 __pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
-__pretense__  
+__pretense__ _n_ :two::hammer:  
 __pretentious__ _adj_ :pencil2:  
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
@@ -10954,7 +10959,7 @@ __Purple Hearts__
 __purple__ _A hint of purple._  
 __purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK's purported affairs._  
 __purportedly__ :two::hammer:  
-__purr__ _v_ :two::hammer: (purring)  
+__purr__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
@@ -11005,6 +11010,7 @@ __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to hav
 __Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
+__Q.E.D.__  
 __Q&A__ _The gathering will feature question-and-answer sessions._  
 __QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
@@ -12052,7 +12058,7 @@ __scope out__ _v_
 __scorching__  
 __score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
-__scorn__  
+__scorn__ _n_ :two::hammer:  
 __scoundrel__ _n_ :two::hammer:  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
@@ -13012,6 +13018,7 @@ __soot__ _n_ :three::hammer:
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
+__sophistry__ _The argument was utter sophistry._  
 __sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __sopping__ _v_  
@@ -13554,7 +13561,7 @@ __stray<sup>3</sup>__ _n_
 __streak__ _n_ :two::hammer: _A cold streak._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
 __streaming__ _Streaming eyes._  
-__streamline__ _v_ :five::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
+__streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
 __streetcar__  
 __streetwise__  
@@ -13756,6 +13763,7 @@ __surreptitiously__ _adj_ :three::hammer:
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
+__suspend__ _v_  
 __suspensers__ _Firehouse suspenders_  
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
@@ -14842,6 +14850,7 @@ __under the radar__ _idiom_ Doing something without other people noticing.
 __under the sun__ _idiom_ It's used for emphasiing that something includes a very wide range of things. _Doctors did everything under the sun, but they couldn't save her life._  
 __under the weather__ _idiom_ :two: To feel ill.  
 __under water__  
+__under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
 __underbelly__ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  

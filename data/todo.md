@@ -1,28 +1,6 @@
 
 
 
-__sophistry__ _The argument was utter sophistry._  
-__Q.E.D.__  
-__pique__ _n_  
-__streamlined__  
-__jaded__  
-__malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
-__dissenter__ _n_ _There is not mat space for malcontents or dissenters._  
-__freewheel__ _v_ _Let your creative mind freewheel._  
-__check__ _v_ _Check your ego at the door._  
-__pretense__ _n_  
-
-__disbelief__ _n_  
-__suspend__ _v_  
-__scorn__ _n_  
-__devoid__  
-__full of shit__ _idiom_ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can't listen to Sean, he's full of shit! He doesn't know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
-__fan__ _v_ _Jack should have to fan the fire a little._  
-__noncommittal__ _adj_ Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
-__escrow__ _n_  Money, property, a deed, or a bond put into the custody of a third party for delivery to a grantee only after the fulfillment of the conditions specified.  
-__under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
-__purr__ _v_ (purrs) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.
-
 __hold that thought__ _idiom_ An expression used to interrupt someone mid-speech and indicate that one's attention is being or about to be diverted. _Sorry, Janet, hold that thought—I'm getting a call on the other line._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
