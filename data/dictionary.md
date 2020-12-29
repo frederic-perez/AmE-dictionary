@@ -126,7 +126,7 @@ __accident of birth__ _idiom_ Any and all particulars surrounding one's birth (p
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _Ottolenghi is an accidental chef._  
 __acclaimed__  
-__accolade__ _n_ :six: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accolade__ _n_ :seven: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodate__ _v_ :pencil2:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
@@ -527,6 +527,7 @@ __aplenty__
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
+__apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
 __apologetic__ _adj_ :five: Very sorry. _That's what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -2805,7 +2806,7 @@ __compatriot__
 __compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :five: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __complacency__  
-__complacent__ _adj_ :two: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
+__complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
 __complex__ :mega:  
 __compliance__ :three::hammer: _Compliance guy._  
@@ -4168,7 +4169,7 @@ __drink like a fish__ To drink too much alcohol.
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
 __drive someone batty__ _idiom_ (drive someone nuts) To annoy or irritate someone. _You are certainly annoying! You're going to drive me batty. These tax forms are driving me nuts._  
-__drive__ _The drive by Senate Democrats to change the rules._  
+__drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _Drive-up motels._  
@@ -5561,7 +5562,7 @@ __full-blown__
 __full-bodied__ :two::hammer:  
 __full-fledged__ :two::hammer: _Full-fledged work._  
 __full-mask helmet__ _n_  
-__fullbacks__ _n_  
+__fullback__ _n_ _football_ :two::hammer: (fullbacks)  
 __fullness__  
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
@@ -6730,6 +6731,7 @@ __high-fly__ _v_
 __high-handed__ _idiom_ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
+__high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
@@ -6823,6 +6825,7 @@ __hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hok
 __hold (one's) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one's) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one's) nose__ _idiom_  
+__hold (one's) water__ _idiom_ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I'll turn this car right around!_  
 __hold (someone) in good stead__ _idiom_ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold a candle__ _idiom_  
 __hold a grudge__ _idiom_ To feel angry with someone who has done something to upset you in the past.  
@@ -6835,6 +6838,7 @@ __hold on to your hat__ _idiom_ Get ready for what's coming or about to happen! 
 __hold one’s peace__ :two::hammer: _“Oh!” She looked puzzled, but held her peace._  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
+__hold that thought__ _idiom_ An expression used to interrupt someone mid-speech and indicate that one's attention is being or about to be diverted. _Sorry, Janet, hold that thought—I'm getting a call on the other line._  
 __hold the reins__ _idiom_ To have or be in control, especially of a group, project, or situation.  
 __hold true__ _v_  
 __hold up a fish__  
@@ -8162,6 +8166,7 @@ __lier__ _n_ A person who lies down.
 __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly's life preserver._  
 __lifeblood__ _n_ :three: The blood, as being necessary to life.  
+__lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin's appearance is so lifelike that customers often mistake it for a salesperson._  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
@@ -9033,7 +9038,7 @@ __muddle through__ _phr v_ To manage to do something despite difficulties.
 __muddle__ _v_ :five: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mudslide__ _n_ :two::hammer:  
-__mudslinging__ :two::hammer:  
+__mudslinging__ _n_ :three: Efforts to discredit one's opponent by malicious or scandalous attacks. :es: injurias  
 __muff__ _She drew from her muff a pistol._  
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
@@ -10121,6 +10126,7 @@ __perfidy__
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it's roadkill and say nothing about it but a perfunctory "thank you," you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it's usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi "to get through with, perform," formed from the Latin prefix per- "completely" plus fungi "to perform."  
+__perigee__ _n_ (Astronomy) [from peri- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
 __perilous__ _adj_  
 __perimortem__ _adj_ At, or near, the time of death.  
@@ -10788,6 +10794,7 @@ __profanely__
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
 __professed__ _v_ :two::hammer:  
 __proffering__  
+__proficient__  
 __profiteering__  
 __profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
@@ -11584,6 +11591,7 @@ __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is
 __riddled__ _adj_  
 __ride__ _n_ _idiom_ A car.  
 __ridership__ :two::hammer:  
+__ridiculed__ _v_ _They were ridiculed._  
 __RIF__ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
@@ -12200,7 +12208,7 @@ __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
-__self-fulfilling__ _Self-fulfilling prophecy._  
+__self-fulfilling__ :four::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
@@ -12744,7 +12752,7 @@ __sliminess__
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __sling<sup>2</sup>__ _v_ To throw or drop something carelessly.  
 __slinger__  
-__slink<sup>1</sup>__ _v_ :three: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
+__slink<sup>1</sup>__ _v_ :four: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
@@ -12833,7 +12841,7 @@ __smash hit__
 __smash song__ _n_ _That was a smash song._  
 __smashing__  
 __smashmouth__  
-__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._  
+__smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
 __smear<sup>1</sup>__ _v_ :six: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
@@ -13414,7 +13422,7 @@ __stem<sup>1</sup>__ _n_ _Biting a stem._
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
-__stentorian__ _adj_ :two: A booming voice. If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. The adjective stentorian comes from Greek mythology. Stentor was a herald in the Trojan War, mentioned in Homer's "Iliad." Homer wrote of brazen-voiced Stentor, whose cry was as loud as that of fifty men together. So anyone with a stentorian voice has a voice like the mythic Stentor. You can also use stentorian to describe a style of speaking that emphasizes boom and power.  
+__stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor's powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
 __Step 'n' Fetch It routine__  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
@@ -13772,6 +13780,7 @@ __susurration__ _n_
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _Reafing a sutra._  
 __svelte__ :two::hammer:  
+__Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
 __swab__ _n_ _Nasopharyngeal swabs._  
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
@@ -14632,6 +14641,7 @@ __trinkets__ _n_ :five::hammer:
 __trip wire__ _You hit a trip wire._  
 __triple__  
 __triplex__ _A triplex penthouse._  
+__tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
 __triptych__  
 __trireme__ _n_  
 __triskelion__ _n_ (triskele)  
@@ -15182,6 +15192,7 @@ __victuals__ _n_ :three::hammer::mega:
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning "to invite" as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize."  
 __vig__ _n_ :three::hammer:  
+__vigorous__ _adj_ _A vigorous intellect._  
 __vile__  
 __vilify__ _v_ :three::hammer: (vilifies)  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  

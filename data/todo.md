@@ -1,28 +1,6 @@
 
 
 
-__accolades__ _n_  
-__vigirous__ _adj_ _A vigorous intellect._  
-__fullback__ _n_ (football)  
-__proficient__  
-__complacent__ _adj_  
-__drive__ _n_ :two::hammer: _Inner drive._  
-__mud slinging__  
-__self-fulfilling prophecy__ :three::hammer:  
-__ridiculed__ _v_ _They were ridiculed._  
-__slink__ _v_  
-
-__hold that thought__ _idiom_ An expression used to interrupt someone mid-speech and indicate that one's attention is being or about to be diverted. _Sorry, Janet, hold that thought—I'm getting a call on the other line._  
-__high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
-__tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
-__Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
-__perigee__ _n_ (Astronomy) [from peri- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
-__apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.
-__hold (one's) water__ _idiom_ To be calm or patient; to stop making pressing demands, requests, or solicitations. _You kids hold your water back there or I swear I'll turn this car right around!_  
-__lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin's appearance is so lifelike that customers often mistake it for a salesperson._  
-__smattering__ _n_ __1__ A superficial knowledge of something, especially a language: _I picked up a smattering of German while on vacation in Germany._ __2__ A small, scattered amount or number: _a smattering of raindrops._  
-__stentorian__ _adj_ Extremely loud: _a stentorian voice._ In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor's powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
-
 __transect__ _n_ :two::hammer:  
 __phytoplankton__ _n_  
 __chlorophyll__  
