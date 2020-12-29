@@ -1,6 +1,17 @@
 
 
 
+__accolades__ _n_  
+__vigirous__ _adj_ _A vigorous intellect._  
+__fullback__ _n_ (football)  
+__proficient__  
+__complacent__ _adj_  
+__drive__ _n_ :two::hammer: _Inner drive._  
+__mud slinging__  
+__self-fulfilling prophecy__ :three::hammer:  
+__ridiculed__ _v_ _They were ridiculed._  
+__slink__ _v_  
+
 __hold that thought__ _idiom_ An expression used to interrupt someone mid-speech and indicate that one's attention is being or about to be diverted. _Sorry, Janet, hold that thought—I'm getting a call on the other line._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
