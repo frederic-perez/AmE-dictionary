@@ -1,5 +1,16 @@
 
 
+__setback__ _n_  
+__comeback__ _n_  
+__blow torch__ _n_  
+__kindergarten__ _n_ (etymology?) _adj_ (?)  
+__booby__ _Information is the booby prize._  
+__squirm__ _v_  
+__exhilaration__ _n_  
+__rapt__ _adj_ (?)  
+__unobstrusive__  
+__no-holds-barred__ _This book takes a no-holds-barred approach to taking personal responsability._  
+
 __be (someone's) call__ _idiom__ :dart: To be ultimately left up to someone to decide.  
 __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
 __sugarplum__ _n_ A small candy in the shape of a ball or disk.  
