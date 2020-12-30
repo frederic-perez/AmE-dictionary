@@ -761,6 +761,7 @@ __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant
 __audible__ _v_  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
+__auld lang syne__ _n_ Old times; times past, esp those remembered with affection or nostalgia. [Scottish, literally: old long since]  
 __aum__  
 __auscultation__ _n_  
 __auspices__  
@@ -1010,6 +1011,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__be (someone's) call__ _idiom_ :dart: To be ultimately left up to someone to decide.  
 __be (someone's) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone's job, need, or purpose.  
 __be (the) bomb__ _idiom_ To be excellent, extremely entertaining, or of very high quality.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
@@ -1403,12 +1405,12 @@ __blow it off__
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
 __blow one's top at someone__  
 __blow someone's mind__  
-__blow torch__ _n_  
+__blow torch__ _n_ :two::hammer:  
 __blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blow your top__ _idiom_ To become very angry.  
 __blowflies__ _n_  
 __blowgun__ _n_  
-__blowhard__ _n_  
+__blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
 __blown call__  
 __blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Orioles began a four-game series against the Texas Rangers with a blowout loss._  
 __blowsy__  
@@ -1515,6 +1517,7 @@ __boo<sup>1</sup>__ _v_ :two::hammer: (booed) :es: abuchear
 __boo<sup>2</sup>__ _interj_  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_  
+__booby__ _Information is the booby prize._  
 __booby-trapped 105's__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
@@ -1750,6 +1753,7 @@ __brownstones__ _n_
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I'm just looking, I'm browsing._  
 __bruin__  
 __bruited__  
+__brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
@@ -2765,6 +2769,7 @@ __come to grips__
 __come to her senses__  
 __come to terms__ _idiom_ :three::hammer:  
 __come together__ _idiom_ :two::hammer:  
+__comeback__ _n_  
 __comely__ _adj_ _literary old-fashioned_ :five: Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
@@ -4709,6 +4714,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhilarate__ :mute:[ex~~h~~ilarate]  
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
+__exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
 __exiguous__ _adj_ :two::hammer:  
@@ -6272,6 +6278,7 @@ __gushing__ _adj_
 __gushy__  
 __gusseted__ _Gusseted underarms._  
 __gussets__  
+__gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
 __gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ :two::hammer:  
 __gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
@@ -6600,6 +6607,7 @@ __heartfelt__
 __hearth__ _n_ :eight::hammer: _Hearth repair._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
+__heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one's heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
@@ -7337,6 +7345,7 @@ __indict__ _v_ :six::hammer: (indicted :mega:)
 __indictment__ _n_ :five::hammer::mega:  
 __indigenous__ _Indigenous people._  
 __indiscreet__  
+__indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
 __indispensable__  
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indite__ _v_  
@@ -7798,7 +7807,7 @@ __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanke
 __kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
-__kindergarten__ _n_ :pencil2::three: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
+__kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it's where five year old children learn all about their ABC's and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ :two::hammer:  
@@ -9302,7 +9311,7 @@ __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligat
 __no way around it__  
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
-__no-holds-barred__  
+__no-holds-barred__ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
 __no-no__ _n_ _informal_ :nine::m::hammer: (no-nos) _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
@@ -11195,7 +11204,7 @@ __rapidly__
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
-__rapt<sup>1</sup>__ _adj_ :four::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
+__rapt<sup>1</sup>__ _adj_ :five::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture<sup>1</sup>__ _n_ :four::hammer: _The film _Carol_ left critics in rapture._  
 __rapture<sup>2</sup>__ _v_  
@@ -12274,7 +12283,7 @@ __set the stage for something__ To make something likely to happen. _Family prob
 __set the table__ _idiom_  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
-__setback__ _n_ :three::hammer: (setbacks) _It has suffered several setbacks._  
+__setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting > picturesque setting__ :es: entorno picturesco  
 __Seven Dwarf status__  
@@ -12623,6 +12632,7 @@ __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've got a situation in there!_  
 __sivvied__ _v_ (?)  
+__six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ :two::hammer: _Clinton's sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
@@ -13701,6 +13711,7 @@ __suffuse__ _v_ :eight: (suffused) The verb suffuse means to spread and fill a s
 __sugar beet__  
 __sugar daddy__ _n_ _slang_ :two: A rich usually middle-aged or old man who bestows expensive gifts on a young person in return for companionship or sexual favours. _A sugar daddy relationship._  
 __sugarcoat__ _v_  
+__sugarplum__ _n_ A small candy in the shape of a ball or disk.  
 __sugary yogurt__  
 __suicide vests__  
 __suit up__ _v_  
@@ -13852,6 +13863,7 @@ __switch-blade__ _Switch-blade artists._
 __swive__ _v_  
 __swivel__ _n_  
 __swiveling__ _v_  
+__swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don't get yourself in a swivet._  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie's mother swooned and had to be helped to the headmaster's office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :eight::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
@@ -14929,6 +14941,7 @@ __unlike<sup>1</sup>__ _adj_
 __unlike<sup>2</sup>__ _preposition_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__  
+__unobstrusive__  
 __unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
 __unquestioned__  
 __unravel__  

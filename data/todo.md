@@ -1,26 +1,5 @@
 
 
-__setback__ _n_  
-__comeback__ _n_  
-__blow torch__ _n_  
-__kindergarten__ _n_ (etymology?) _adj_ (?)  
-__booby__ _Information is the booby prize._  
-__squirm__ _v_  
-__exhilaration__ _n_  
-__rapt__ _adj_ (?)  
-__unobstrusive__  
-__no-holds-barred__ _This book takes a no-holds-barred approach to taking personal responsability._  
-
-__be (someone's) call__ _idiom__ :dart: To be ultimately left up to someone to decide.  
-__indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
-__sugarplum__ _n_ A small candy in the shape of a ball or disk.  
-__swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don't get yourself in a swivet._  
-__brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
-__six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
-__blowhard__ _n_ A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
-__gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
-__heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one's heartstrings._  
-__auld lang syne__ _n_ Old times; times past, esp those remembered with affection or nostalgia. [Scottish, literally: old long since]  
 
 __transect__ _n_ :two::hammer:  
 __phytoplankton__ _n_  
