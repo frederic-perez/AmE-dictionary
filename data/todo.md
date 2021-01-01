@@ -1,5 +1,16 @@
 
 
+__propel__ _v_  
+__enroute__ _n_ (?)  
+__cover to cover__ (?)  
+__ball player__  
+__alter__ _v_  
+__tall tales__  
+__sell oneself short__  
+__ace in the hole__  
+__unbridled__  
+__surpass__ _v_  
+
 
 __transect__ _n_ :two::hammer:  
 __phytoplankton__ _n_  
