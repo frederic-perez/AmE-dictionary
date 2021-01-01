@@ -1,5 +1,16 @@
 
 
+__gaping__ _A gaping psychological hole._  
+__nightingale__ _n_ (?)  
+__insure__ _v_  
+__bolster__ _v_  
+__snake charmer__ _n_ :astonished:  
+__desensitize__ _v_  
+__propel__ _v_  
+__push the envelope__  
+__outrageous__ _adj_  
+__fortitude__ _n_ _Mental fortitude._  
+
 __ogle__ _v_ (ogled)  
 __shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __idyllic__ _adj_  
