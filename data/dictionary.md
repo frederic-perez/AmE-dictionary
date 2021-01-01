@@ -145,6 +145,7 @@ __accoutrement__ _n_ :five::hammer: (accouterment, accouterments, accoutrement, 
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
+__ace in the hole__  
 __acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
@@ -390,6 +391,7 @@ __alpaca__ _n_ :three::hammer:
 __also-ran__ _To become an also-ran._  
 __also-run__  
 __altar boy__  
+__alter__ _v_  
 __altercation__  
 __alternating caps__ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
 __altitude sickness__  
@@ -583,7 +585,7 @@ __archenemy__ :pencil2:
 __archeology__ :mute:[arc~~h~~eology]  
 __archetypal__  
 __Archimedes__ :mega:  
-__archipelago__ :two::hammer::pencil2: _Archipelago nation._  
+__archipelago__ _n_ :three::hammer::pencil2: _Archipelago nation._  
 __architect__ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
@@ -759,6 +761,7 @@ __auction off__ _phr v_ To sell something in an auction.
 __audacious__ _adj_  
 __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
+__audit__  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __auld lang syne__ _n_ Old times; times past, esp those remembered with affection or nostalgia. [Scottish, literally: old long since]  
@@ -893,6 +896,7 @@ __ball and chain__ A wife.
 __ball bearings__  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim's mouth and tied tight. Supposedly it's more effective at muffling yells.  
 __ball is in your court__ _idiom_ It is up to you to make the next decision or step.  
+__ball player__  
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
 __ballcap__ _n_ A baseball cap.  
@@ -2452,7 +2456,7 @@ __chit-chat__ _slang_ An informal conversation about things that are not importa
 __Chiuaua__  
 __chive__ _n_  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
-__chlorophyll__ _n_ :two::hammer:  
+__chlorophyll__ _n_ :three::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choir__ _n_ :mega:  
@@ -2740,6 +2744,7 @@ __collinear__ _adj_ :pencil2:
 __Collins glass__  
 __collocation__ _n_ (collocations)  
 __colloquial__ _adj_  
+__colloquium__  
 __collude__ _v_  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
@@ -4492,6 +4497,7 @@ __EMT__ _abbr_ Emergency medical technician: a person who is trained to give eme
 __emulate__ _v_  
 __emulsified__ _v_  
 __en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
+__en route__ _adv_ On or along the way: _We are en route to the museum. The store is en route._  
 __en-suite bath(room)__ :two::hammer:  
 __enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
@@ -7901,7 +7907,7 @@ __kowtow__ _v_ :three::astonished: (kowtowing):astonished: The word kowtow deriv
 __krauts__  
 __krinkled__  
 __kroop__  
-__kts__ _n pl_ Plural of knot, 1 nautical mile per hour.  
+__kts__ _n pl_ :two: Plural of knot (unit), a unit of speed equal to one nautical mile per hour.  
 __kudos__  
 __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist drive to collectivize agriculture in 1929–33, was viewed as an oppressor and class enemy.  
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
@@ -8957,9 +8963,10 @@ __moon__ _v_
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google's New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonsoon__  
 __moonstruck__ _adj_  
 __moor__ _n_ :two::hammer:  
-__mooring__ _n_  
+__mooring__ _n_ :two::hammer:  
 __moot<sup>1</sup>__ _adj_ :nine: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
@@ -10223,7 +10230,7 @@ __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant en
 __phylacteries__ :two::hammer:  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions._ __2__ To describe or interpret in physical terms: _"a writer who physicalizes everything he feels" (James Wolcott)._  
 __physiology__ _n_  
-__phytoplankton__ _n_  
+__phytoplankton__ _n_ :two::pencil2::hammer:  
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
 __pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
@@ -10838,6 +10845,7 @@ __pronounceable__
 __prop up__ _But with her leg propped up._  
 __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
+__propel__ _v_  
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
@@ -12225,6 +12233,7 @@ __self-steem__
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
 __selfsame__  
+__sell (someone, something, or oneself) short__ _idiom_ To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don't sell yourself short—your writing is really excellent!_  
 __sell out__ _idiom_ :two::hammer:  
 __sell short__  
 __sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
@@ -13775,6 +13784,7 @@ __surmise__ _v_ :six::hammer: (surmised, surmising)
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
 __surname__ :two::mega::hammer:  
+__surpass__ _v_  
 __surplice__ _n_  
 __surprise, surprise__ _idiom_ :two: Said ironically of or in a situation in which something very predictable has happened.  
 __surreptitious__  
@@ -13966,7 +13976,7 @@ __talk__ :mute:[ta~~l~~k]
 __talking head__ :astonished:  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say "That's a tall order!" when someone else asks for something unrealistic.  
-__tall tale__ _n_ :three: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
+__tall tale__ _n_ :four: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
 __tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales of heroic exploits._  
 __tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
@@ -14573,6 +14583,7 @@ __trampolines__ _n_
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
+__transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _I was transfixed by it._  
 __transient<sup>1</sup>__ _adj_ :five::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
@@ -14851,7 +14862,7 @@ __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for
 __unassailable__ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
-__unbridled__ _adj_  
+__unbridled__ _adj_ :two::hammer:  
 __unburdened__  
 __uncanny valley__ _idiom_ :three::hammer:  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
@@ -15546,6 +15557,7 @@ __white elephant__ _n_ :two: A possession that provides few benefits and is an i
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
 __white on rice__ _idiom_ As close as can be. Often used in the phrase "like white on rice."  
+__white paper__  
 __white whale__ _n_ Small northern whale that is white when adult.  
 __white__ :mute:[w~~h~~ite]  
 __white-knuckle ride__  
