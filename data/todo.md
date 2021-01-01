@@ -1,5 +1,16 @@
 
 
+__OG__  
+__stand in my shoes__ _idiom_  
+__stand tall__ _idiom_  
+__ear__ _n_ _Ear of corn._  
+__piles__ _n_  
+__haste__ _n_  
+__darn<sup>1</sup>__ _interj_  
+__darn<sup>2</sup>__ _v_ :es: zurcir  
+__brothers in arms__  
+__carp about (someone or something)__ _idiom_ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
+
 __gaping__ _A gaping psychological hole._  
 __nightingale__ _n_ (?)  
 __insure__ _v_  
