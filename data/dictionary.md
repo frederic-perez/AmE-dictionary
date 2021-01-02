@@ -1745,7 +1745,7 @@ __brooding<sup>1</sup>__ _adj, n_ :seven: When you're dwelling on something, you
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broth__  
-__brother-in-arms__ (brothers in arms) _I serve Rome, my officers, and my brothers-in-arms._  
+__brother-in-arms__ :two::hammer: (brothers in arms) _I serve Rome, my officers, and my brothers-in-arms._  
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
@@ -2161,6 +2161,7 @@ __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)
 __carom<sup>2</sup>__ _n_ (caroms)  
 __carousel__  
 __carousing__ _v_  
+__carp about (someone or something)__ _idiom_ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carpet bombing__  
 __carping__ _v_  
 __carpool__ _v_ :two::hammer:  
@@ -3452,10 +3453,9 @@ __daring__ _A daring quality._
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
-__darn__ :three::hammer: _That's pretty darn good._  
-__darned__  
+__darn<sup>1</sup>__ _interj_ :four::hammer: _That's pretty darn good._  
+__darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
-__darning__  
 __dart__ _v_ :three::hammer: (darting)  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville's playoff hopes._  
@@ -3686,6 +3686,7 @@ __dervish__ _n_
 __descent__ :mute:[des~~c~~ent]  
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
+__desensitize__ _v_  
 __desert__ _v_ _Bob's father deserted him and his mother when Bob was a baby._  
 __deserted__ _adj_ _Most of the desks were deserted._  
 __desideratum__ _n_ Something desired as a necessity.  
@@ -4318,6 +4319,7 @@ __e.g.__ Exempli Gratia.
 __each other__  
 __eager__  
 __ear candy__ _n_ _slang_ Pleasant-sounding music.  
+__ear__ _n_ _Ear of corn._  
 __earbuds__ :camera:  
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
@@ -5425,7 +5427,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthcoming__  
 __forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __fortified wine__  
-__fortitude__ _n_ :two: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage.  
+__fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortnight__  
 __forty winks__ _idiom_ :three: A short sleep during the day. A short nap.  
 __foster care__ _n_ :three::hammer:  
@@ -5660,7 +5662,7 @@ __gangbangers__
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __Ganjapreneur__  
 __gantlet__ :two::hammer: _A media gantlet._  
-__gaping__ :two::hammer: _A gaping hole._  
+__gaping__ :three::hammer: _A gaping psychological hole._  
 __gar__ _n_  
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
@@ -6470,6 +6472,7 @@ __hash<sup>2</sup>__ _v_
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ :two::hammer:  
+__haste__ _n_  
 __hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
@@ -7459,7 +7462,7 @@ __institutionalize__ _v_ :two::hammer:
 __instrumental__  
 __insular__ _His small, insular group of loyalists._  
 __insulation__ _n_ :four::hammer:  
-__insure__ _v_  
+__insure__ _v_ :two::hammer:  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
@@ -9283,7 +9286,7 @@ __nigh__ _adj_ :two: Near in space or time.
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman's nightgown.  
-__nightingale__ _n_  
+__nightingale__ _n_ :two: [Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
 __nightmarish__ _adj_ :three::hammer:  
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
 __nightstand__ _n_  
@@ -9517,7 +9520,7 @@ __oft__ :two::hammer: _The oft-hated SAT._
 __oft-shouting-sermon__  
 __often__ :mute:[of~~t~~en]  
 __oftentimes__ :two::hammer:  
-__OG__ Original gangster.  
+__OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __ogle__ _v_ :two::hammer:  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
 __Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
@@ -9743,7 +9746,7 @@ __outpoint__ _v_ _Correa outpointed Lindor 124-109._
 __outpost__  
 __outpour__ _v_ :two::hammer: (outpouring)  
 __outrage<sup>2</sup>__ _v_  
-__outrageous__ :two::hammer:  
+__outrageous__ _adj_ :three::hammer:  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
 __outreach__ _n_ :five::hammer: _He's an HIV outreach worker._  
 __outriggers__  
@@ -10286,7 +10289,7 @@ __pike__ _You can handle whatever comes down the pike._
 __pilaf__ _Chickenpilaf._  
 __Pilates__ :mega:  
 __pilcrow__  
-__pile__ _A bridge pile._  
+__pile__ :two::hammer: (piles) _A bridge pile._  
 __pileup__  
 __pilfer__ _v_ :three::hammer: (pilfering)  
 __pilfered__ _v_  
@@ -10845,7 +10848,7 @@ __pronounceable__
 __prop up__ _But with her leg propped up._  
 __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
-__propel__ _v_  
+__propel__ _v_ :two::hammer:  
 __proper__ :two::hammer: _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
@@ -10990,6 +10993,7 @@ __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_  
 __push puppet__ _n_ :camera:  
+__push the envelope__ _idiom_ To expand on, exceed, or test the limits of the established norm or standard. _It's a natural stage for most teenagers to push the envelope of their parents' rules._  
 __push<sup>1</sup>__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __push<sup>2</sup>__ _n_  
 __pushback__ _n_  
@@ -12905,6 +12909,7 @@ __smut__ _They want to report smut._
 __snafus__  
 __snag<sup>1</sup>__ _n_ :five::hammer: (snags) :es: problema  
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
+__snake charmer__ _n_ :astonished:  
 __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_ :two::hammer:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
@@ -13348,11 +13353,11 @@ __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.
 __stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person's posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stand a chance__  
-__stand in someone's shoes__  
+__stand in (someone's) shoes__ _idiom_ :two: To see or understand things from someone else's position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they're probably deeply unhappy and redirect that feeling onto others._  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
 __stand out__ _The dragons are notoriously varied in phisique--they'd stand out in the Mos Eisley Cantina._  
 __stand strong__  
-__stand tall__ :four::hammer: _She's standing tall and proud._  
+__stand tall__ _idiom_ :five: To prove or display one's pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ :two::hammer: _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __standard__ _n_ :camera: :es: estandarte (?)  
