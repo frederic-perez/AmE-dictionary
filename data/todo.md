@@ -1,5 +1,16 @@
 
 
+__advent__ _n_ :mega:  
+__forerunner__ _n_  
+__housecleaner__ _n_  
+__reunite__ _v_  
+__reunion__ _n_  
+__outwit__ _v_ (outwitted)  
+__darn__ _interj_ _adj_ _adv_ _n_ :three: A euphemistic word for damn.  
+__don't rock the boat__ _idiom_ Don't say or do something that could upset a stable situation.  
+__Lower Forty-Eight__ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
+__call out__ _phr v_  
+
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  
