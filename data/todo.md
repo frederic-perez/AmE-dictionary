@@ -1,5 +1,16 @@
 
 
+__verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
+__it wouldn't do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
+__chartreuse__ _n_ A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
+__omnibus__ _adj_ Containing or including many items.  
+__omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
+__gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
+__hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
+__figgy pudding__ _n_ A type of Christmas pudding which was originally made with figs.  
+__efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
+__cost the earth__ _idiom_ To be exorbitant or burdensome in expense.  
+
 __advent__ _n_ :mega:  
 __forerunner__ _n_  
 __housecleaner__ _n_  
