@@ -225,7 +225,7 @@ __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisi
 __adulterate__ _v_  
 __advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
-__advent__ _n_ :eight::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
+__advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
@@ -2032,7 +2032,7 @@ __call off__ _phr v_ __1__ To cancel or postpone: _call off a trip; called the t
 __call on someone__ _He called on me._  
 __call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
-__call out<sup>2</sup>__ _v_ :eight: (call someone out) __1__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
+__call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call someone names__ _I wouldn't call you names._  
 __call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __call the shots__  
@@ -2357,7 +2357,7 @@ __charter__ _Charter schools._
 __charter<sup>1</sup>__ _n_ :two::hammer:  
 __charter<sup>2</sup>__ _v_  
 __chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
-__chartreuse__  
+__chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
 __chased__ _v_ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
@@ -3060,6 +3060,7 @@ __coruscate__ _v_ :three::hammer:
 __cosset__ _v_  
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
+__cost the earth__ _idiom_ To be exorbitant or burdensome in expense.  
 __costliest__ :two::hammer:  
 __costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
@@ -3453,7 +3454,7 @@ __daring__ _A daring quality._
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
-__darn<sup>1</sup>__ _interj_ :four::hammer: _That's pretty darn good._  
+__darn<sup>1</sup>__ _interj_ (also adjective and adverb) :seven: A euphemistic word for damn. _That's pretty darn good._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
@@ -4019,6 +4020,7 @@ __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't cou
 __don't get me started__ _idiom_ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don't go there__ _idiom_ Don't get into that topic of conversation; I don't want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __don't let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don't linger on your way out the door. Used sarcastically to express one's desire to see someone leave.  
+__don't rock the boat__ _idiom_ Don't say or do something that could upset a stable situation.  
 __don't shoot the messenger__ _idiom_ Don't get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
 __don't tell me it's raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
@@ -4378,6 +4380,7 @@ __eel__
 __eerie__ _adj_ :seven::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effete__  
+__efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __effigy__ _n_ :four::hammer: (effigies)  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
@@ -5034,6 +5037,7 @@ __fifer__
 __fifth column__ :astonished: _A fifth column preparing to rise up and join the security forces._  
 __fifth wheels__  
 __fig leaf__ _Seeking a "big leaf."_  
+__figgy pudding__ _n_ A type of Christmas pudding which was originally made with figs.  
 __fight club__  
 __fight or flight__ _idiom_ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __fight tooth and nail__  
@@ -5393,7 +5397,7 @@ __foremost__ _adj_
 __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
 __forensics__ :two::hammer:  
 __foreplay__  
-__forerunner__ _n_  
+__forerunner__ _n_ :two::hammer:  
 __foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
@@ -5909,6 +5913,7 @@ __gnashing__
 __gnat__ _n_ :four::hammer: (insect?)  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __gnome__ :mute:[~~g~~nome]  
+__gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
 __gnu__ :mute:[~~g~~nu]  
 __go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
 __go a long way__ :dart::four::hammer: _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
@@ -6948,6 +6953,7 @@ __hopped cars__
 __hopscotch__  
 __horn buttons__ :camera:  
 __Horn of Africa__ :camera: Somalia.  
+__hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
 __horse and rabbit stew__ _idiom_ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
@@ -6999,6 +7005,7 @@ __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappear
 __houseboats__ _n_  
 __housebound__  
 __housecarls__  
+__housecleaner__ _n_  
 __household__ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
@@ -7538,6 +7545,7 @@ __it dawned on someone__
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes two to tango__ _idiom_  
+__it wouldn't do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it's a dog's life__ :dart::astonished:  
 __it's one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
@@ -8399,6 +8407,7 @@ __low-slung__ _Low-slung school._
 __low-tech__ _adj_ _I'm a low-tech type._  
 __lowbrow__  
 __lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here's the lowdown of what you can't afford to miss._  
+__Lower Forty-Eight__ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
@@ -9554,7 +9563,9 @@ __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous r
 __ominously__  
 __omission__  
 __omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as "how many cups are in 2 liters?"_  
-__omnibus__ _n_ :two::hammer:  
+__omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
+__omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
+__omnibus<sup>2</sup>__ _n_ :two::hammer:  
 __omnipresent__ _adj_  
 __on (someone's) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a dime__ _idiom_  
@@ -9764,6 +9775,7 @@ __outstripped__ _v_
 __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "out of." _Straight outta Tahoe._  
 __outtakes__ _n_  
 __outthink__ _v_  
+__outwit__ _v_ (outwitted)  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __over (one's) head__ _idiom_ __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie's head, so I'm glad you think I'm funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one's authority. _She just wouldn't listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don't get paid for another week. I'm so glad that exam is over—it's been over my head for months._  
@@ -11557,8 +11569,8 @@ __retroscopic__
 __returnee__  
 __Reuben James__  
 __Reuben__ (A type of sandwich?)  
-__reunion__ An instance of two or more people coming together again after a period of separation.  
-__reunite__ _v_  
+__reunion__ _n_ :two: An instance of two or more people coming together again after a period of separation.  
+__reunite__ _v_ :two::hammer:  
 __rev up__ _v_  
 __reveal__ _n_  
 __revel__ _v_ :two::hammer: _She revels in them._  
@@ -15181,6 +15193,7 @@ __verboten__ _adj_ Not allowed.
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, "a word to the wise (is sufficient)," meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one's statement. _Repeating the same weak, debunked arguments won't make them true, you know. Verbum sap._  
 __verdant__ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
+__verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verge__ _n_ :two::hammer:  
 __verisimilitude__ _n_ :two::hammer:  
