@@ -1,5 +1,16 @@
 
 
+__hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship's staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
+__rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
+__presage__ _v_ :mega:  
+__February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
+__come into question__ _idiom_ To become doubted, scrutinized, or a matter of serious discussion.  
+__valuate__ _v_  Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
+__comity__ _n_  
+__afflict__ _v_ Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._  
+__disavow__ _v_ __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
+__nival__ _adj_  Relating to, growing in or under, or living on snow cover: _nival fauna._  
+
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  
