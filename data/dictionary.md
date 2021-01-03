@@ -244,7 +244,7 @@ __affiance__ _v_ To bind in a pledge of marriage; betroth.
 __affidavit__ _n_ :seven::hammer:  
 __affiliate__  
 __affix__ _v_  
-__afflict__ _v_ _Hepatitis C afflicts some 150 million people._  
+__afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can't afford it._  
@@ -273,6 +273,7 @@ __against oll odds__ _idiom_ Even though something seems completely impossible.
 __against the clock__ _idiom_ :two: Rushed and short on time.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
+__Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
 __age<sup>2</sup>__ _v_  
 __ageless__  
@@ -821,6 +822,7 @@ __back country__ _n_
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
+__back off__ _phr v_ To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
 __back to the salt mines__ _idiom_ Back to one's job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I'm not excited to get back to the salt mines on Monday._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
@@ -2359,7 +2361,7 @@ __charter<sup>2</sup>__ _v_
 __chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
 __chased__ _v_ _A beautiful chased golden bowl._  
-__chasm__ _n_ :nine: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
+__chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth's surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chasten__ _v_ Censure severely.  
 __chastened__ :two::hammer:  
@@ -2674,7 +2676,7 @@ __co-sleeping__
 __coach cabin__ _A standard coach cabin._  
 __coach__ _You're flying coach._  
 __coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
-__coast__ _v_  
+__coast__ _v_ :two::hammer:  
 __coaster brakes__  
 __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
@@ -2768,12 +2770,13 @@ __come around__
 __come close to blows__ _idiom_ To nearly devolve into a physical fight.  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __come into play__ _Other factors inevitably come into play._  
+__come into question__ _idiom_ To become doubted, scrutinized, or a matter of serious discussion.  
 __come of age__  
 __come to a stop__ _The train came to a stop at Moscow._  
 __come to fruition__ _idiom_ To successfully be brought into existence or to completion.  
 __come to grips__  
 __come to her senses__  
-__come to terms__ _idiom_ :three::hammer:  
+__come to terms__ _idiom_ :four::hammer:  
 __come together__ _idiom_ :two::hammer:  
 __comeback__ _n_  
 __comely__ _adj_ _literary old-fashioned_ :five: Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._  
@@ -2786,7 +2789,7 @@ __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy c
 __coming down the pipe__ :dart:  
 __coming up__  
 __coming-of-age__ _A coming-of-age story._  
-__comity__ _n_ :two: A state or atmosphere of harmony or mutual civility and respect.  
+__comity__ _n_ :three: A state or atmosphere of harmony or mutual civility and respect.  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
@@ -3830,7 +3833,7 @@ __disallow__ _v_ :dart: _The goal was disallowed._
 __disapprove__ _v_  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
 __disastrous__  
-__disavow__ _v_ :two::hammer: (disavowed)  
+__disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __disbelief__ _n_  
@@ -4842,7 +4845,7 @@ __fall short__ _idiom_ :seven: __1__ To fail to attain a specified amount, level
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant's fallacious testimony._  
 __fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
-__fallible__ _adj_ :three::mega::hammer: _Managers are as fallible as the rest of us._  
+__fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie's carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
@@ -4947,6 +4950,7 @@ __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something
 __feature<sup>2</sup>__ _v_  
 __featuring__  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
+__February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
 __feckless__ _adj_ :three::hammer:  
 __fecklessness__  
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
@@ -5340,6 +5344,7 @@ __fool<sup>3</sup>__ _adj_ _informal_
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
 __foosball__ :three::hammer: _Foosball table._  
+__foot the bill (for something)__ _idiom_ To pay for something; to pay for a bill. _My boss took me out for lunch and the company footed the bill._ _You paid for dinner last time. Let me foot the bill for lunch today._  
 __foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
@@ -6451,6 +6456,7 @@ __hardly ever__
 __hardpan__ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
+__hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship's staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
 __hardwood__ :three::hammer: _The hardwood floor._  
 __hardy__  
@@ -9317,6 +9323,7 @@ __nitre__ _n_
 __nits__ _Hair filled with nits._  
 __nitty__ _adj_ _informal_ Foolish; stupid.  
 __nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
+__nival__ _adj_ Relating to, growing in or under, or living on snow cover: _nival fauna._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
 __no early birds__ _No early birds allowed because it just wouldn't be fair to the other shoppers who waited until the opening time._ _If you have advertised "No Early birds" then do not allow any early birds to even browse through your sale before the open time._  
@@ -10368,7 +10375,7 @@ __pistachios__ _n_ :two::pencil2::hammer:
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
-__pit<sup>2</sup>__ _v_ :two::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._  
+__pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
 __pitch in__ _v_  
 __pitch-perfect__  
 __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
@@ -10475,7 +10482,7 @@ __plies__ _v_
 __plight__ _n_ :six: Tough situation.  
 __plinian__ _adj_  
 __plinth__ _n_ :four::hammer: (plinths)  
-__plod__ _v_ :seven::hammer: (plodded, plodding) _Plod to the shower._  
+__plod__ _v_ :eight::hammer: (plodded, plodding) _Plod to the shower._ _Average people go to work and plod through the day._  
 __plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
@@ -10728,6 +10735,7 @@ __preppers__
 __prepping__ _v_  
 __prequel__  
 __prerogative__ _n_ :seven::hammer:  
+__presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :seven::hammer:  
@@ -11359,6 +11367,7 @@ __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but
 __recourse__ _n_  
 __recreational__ _Recreational marijuana vs medical marijuana._  
 __recreationally__ _He plays tennis recreationally._  
+__rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __rector__  
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
@@ -12527,6 +12536,7 @@ __showtime__
 __shrapnel__ _n_ :five: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ _informal_ :pencil2: Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed to the front lines of a war without a shred of experience._  
 __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
+__shrewd__ _adj_  
 __shriek__ _v_ (shrieked) :two::hammer:  
 __shrieking__  
 __shrieks__  
@@ -15123,6 +15133,7 @@ __valiant<sup>1</sup>__ _adj_
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
 __valuable__ _n_ :astonished:  
+__valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
 __vamping__ :two::hammer:  
 __vampire squid__  
