@@ -1,5 +1,16 @@
 
 
+__plod__ _v_ _Average people go yo work and plod through the day._  
+__fallible__ _adj_  
+__come to terms__  
+__Age of Aquarius__  
+__chasm__  
+__back off__  
+__pit__ _v_ _You don’t pit amateurs against pros._  
+__shrewd__ _adj_ (?)  
+__coast__ _v_  
+__foot the bill__  
+
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship's staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __presage__ _v_ :mega:  
