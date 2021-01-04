@@ -1,27 +1,5 @@
 
 
-__conceit__ _n_  
-__lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrative marketing strategy._  
-__hortatory__ _adj_ Tending to exhort; encouraging.  
-__comity__ _n_ __1__ Mutual civility; courtesy. :es: cortesía  
-__sobriquet__ _n_  
-__toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
-__barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
-__slough__ _n_ :mega:  
-__cattail__ _n_  
-__scoot__ _v_ To move or go suddenly and speedily; hurry.  
-
-__as we know it__  
-__imbedding__ _v_ (?)  
-__staggering__ _v_ or _adj_  
-__disengage__ _v_  
-__crown jewel__  
-__peppered__ _adj_  
-__atrophy__ _v_  
-__solicit__ _v_  
-__gracious__ _An attitude of gravious humility._  
-__manhunt__ _n_ _A psychological manhunt for happiness._  
-
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  

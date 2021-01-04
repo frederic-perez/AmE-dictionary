@@ -641,7 +641,7 @@ __as much as__ _Inside today's Stateman as much as $215 in coupon savings._
 __as of now__ _idiom_ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as of today__  
 __as the crow flies__ _idiom_ By the most direct way, along a straight line between two places.  
-__as we know it__ _idiom_ As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
+__as we know it__ _idiom_ :two: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  
 __as we speak__ _idiom_ At this very moment.  
 __as yet__ _idiom_ Up to the present time; up to now.  
 __asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
@@ -732,7 +732,7 @@ __atop__
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
 __atrocity__  
-__atrophied__ _v_  
+__atrophy__ _v_ :two::hammer: (atrophied)  
 __attaboy__ _idiom_ :three: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression "that's the boy." _You won the spelling bee? Attaboy!_  
 __attaché case__ _n_ :two::hammer: (attaché cases)  
 __attack dog__ _n_  
@@ -958,6 +958,7 @@ __bariatric surgery__ Surgery on the stomach and/or intestines to help a person 
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- ("weight" as in barometer), suffix -iatr ("treatment," as in pediatrics), and suffix -ic ("pertaining to").  
 __barked__ :two::hammer: _His forehead was barked._ _Barked area._  
+__barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _Out of the barn._  
@@ -2257,7 +2258,7 @@ __catharsis__
 __cathartic__  
 __cathedral ceiling__ :camera::two::hammer:  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He's catnip to women._ _Syn_ catmint  
-__cattail__ _n_ :five: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
+__cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :two::hammer:  
 __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
@@ -2789,7 +2790,7 @@ __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy c
 __coming down the pipe__ :dart:  
 __coming up__  
 __coming-of-age__ _A coming-of-age story._  
-__comity__ _n_ :three: A state or atmosphere of harmony or mutual civility and respect.  
+__comity__ _n_ :four: __1__ Mutual civility; courtesy. :es: cortesía A state or atmosphere of harmony or mutual civility and respect.  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
@@ -2854,7 +2855,7 @@ __con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con g
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don't con me!_  
 __Concacaf__  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
-__conceit<sup>1</sup>__ _n_  
+__conceit<sup>1</sup>__ _n_ :two::hammer:  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :two: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
@@ -3267,6 +3268,7 @@ __crouch__ :two::hammer:
 __crow__ _v_ :three::hammer: (crowed, crowing) _"There is nothin' like OPEC clout," crowed Jim._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
+__crown jewel__ _n_ 2. The most prized asset or possession in a group.  
 __crucible__ _n_ :seven::hammer:  
 __crucifix__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -3860,6 +3862,7 @@ __disdrometer__
 __disembodied__ _v_ :two::hammer:  
 __disenfranchise__  
 __disenfranchised__  
+__disengage__ _v_  
 __disfavor__  
 __disgorge__ _v_  
 __disgorgement__  
@@ -6068,7 +6071,7 @@ __goy__ _n_ (Often Offensive) A person who is not Jewish.
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
 __gracial pace__ _?_ _At a glacial pace._  
-__gracious__ _adj_ :five::hammer: _He was very gracious._  
+__gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
 __graciousness__  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
@@ -6973,7 +6976,7 @@ __horseradish__ _n_ :two::hammer:
 __horseshit__ _n_ _That's like horseshit squared!_  
 __horseshoe__ :two::hammer: (horseshoes)  
 __horsetails__ _n_  
-__hortatory__ _adj_ Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
+__hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hosanna__ _A thousand hosannas._  
@@ -7172,6 +7175,7 @@ __illiterate__
 __illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
 __imam__  
 __imbalance__ _n_  
+__imbed__ _v_ (imbedding) Less common spelling of _embed_.  
 __imbibe__ _v_ :three::hammer: (imbibing)  
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
@@ -8424,6 +8428,7 @@ __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational o
 __lucifer match__  
 __lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
+__lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can't everything just be the same?)  
@@ -8574,7 +8579,7 @@ __mangy__ _adj_ :three::hammer:
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
 __Manhattanite__  
 __manhole cover__  
-__manhung__ _n_  
+__manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __manic__ :two::mega::hammer: _I was manic._  
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
@@ -10144,7 +10149,7 @@ __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. 
 __pep<sup>2</sup>__ _v_ (pepping)  
 __Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
-__pepper__ _v_ :six::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
+__pepper__ _v_ :seven::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
@@ -12102,7 +12107,7 @@ __scold__ _n_ A person who habitually scolds, in particular a troublesome and an
 __sconce__ _v_  
 __scone__ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
-__scoot__ _v_ :three::hammer: _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
+__scoot__ _v_ :four: To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
@@ -12833,7 +12838,7 @@ __sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _T
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)  
 __slouchy__  
-__slough<sup>1</sup>__ _n_ :three::hammer:  
+__slough<sup>1</sup>__ _n_ :four::mega::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
@@ -13014,7 +13019,7 @@ __soapbox<sup>2</sup>__ _v informal_ :two::hammer:
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
-__sobriquet__ _n_ :two: A nickname.  
+__sobriquet__ _n_ :three: A nickname.  
 __SoCal__ Southern California.  
 __soccage__  
 __social ladder__  
@@ -13044,7 +13049,7 @@ __sole__ _Its sole responsibility._
 __solely__ _adv_  
 __solemn__ :mute:[solem~~n~~]  
 __solemnize__ _v_  
-__solicit__ _v_ :two::hammer: (solicited) _We solicited questions to our fanbase._  
+__solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
 __solicitous__ _adj_ :two::hammer:  
 __solicitude__ A feeling of excessive concern.  
 __solid gold__  
@@ -13344,7 +13349,8 @@ __stage name__
 __stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ :two::hammer:  
 __stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
-__staggering__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
+__staggering<sup>1</sup>__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
+__staggering<sup>2</sup>__ _v_  
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair climbing__ The climbing of a flight of stairs.  
@@ -14518,6 +14524,7 @@ __tooth decay__ (cavity, cavities) :es: caries
 __tooth-gnashing__  
 __tooth-wrecking__  
 __toothless__ _Some consider most of those laws toothless._  
+__toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
 __toothsome__ _adj_ :three: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __tootsie__ _n_ _slang_ :two: Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
