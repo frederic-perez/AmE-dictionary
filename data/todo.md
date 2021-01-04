@@ -1,5 +1,16 @@
 
 
+__as we know it__  
+__imbedding__ _v_ (?)  
+__staggering__ _v_ or _adj_  
+__disengage__ _v_  
+__crown jewel__  
+__peppered__ _adj_  
+__atrophy__ _v_  
+__solicit__ _v_  
+__gracious__ _An attitude of gravious humility._  
+__manhunt__ _n_ _A psychological manhunt for happiness._  
+
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  
