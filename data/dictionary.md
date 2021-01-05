@@ -38,6 +38,7 @@ __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain o
 __a bit of a stretch__ _idiom_ A mild exaggeration beyond the truth or what is likely the case.  
 __a bit out of it__ _idiom_ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I'm rambling so much tonight, I've been feeling a bit out of it lately._  
 __a catch__ _idiom_ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
+__a dime a dozen__ _idiom_ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ _idiom_ :two: A very small amount when compared to something else.  
 __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
@@ -94,6 +95,7 @@ __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abomination__ _n_ :three::hammer: _I've written several nasty 3,000-line abominations._  
 __aboriginal__  
+__aborigine__ _n_ :pencil2: (Aborigine)  
 __abounds__  
 __about-face__  
 __above and beyond__ _idiom_ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
@@ -822,7 +824,7 @@ __back country__ _n_
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
-__back off__ _phr v_ To retreat or draw away.  
+__back off__ _phr v_ :four: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
 __back to the salt mines__ _idiom_ Back to one's job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I'm not excited to get back to the salt mines on Monday._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you're standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
@@ -1046,6 +1048,7 @@ __be on (one's) conscience__ _idiom_ To be a persistent cause or source of guilt
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you'll be sitting pretty for the rest of your life._  
+__be square (with one)__ _idiom_ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we'll be square._  
 __be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
 __beach__ _v_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -1973,6 +1976,7 @@ __bylaw__
 __bylaws__  
 __byline__ _n_ :six: (bylines)) A line at the head of a newspaper or magazine article carrying the writer's name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
+__byproduct__ _n_  
 __bystander effect__ _idiom_ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
@@ -2427,7 +2431,7 @@ __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To 
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
-__child's play__ _n_ _informal_ Something that is easy to do. _It's a child's play._  
+__child’s play__ _n_ _informal_ :two: Something that is easy to do. _It's a child's play._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :two::hammer:  
@@ -3480,7 +3484,7 @@ __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidati
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
-__day in and day out__  
+__day in day out__ _idiom_ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __day job__  
 __day or night__ _idiom_ At any point in time; 24 hours a day.  
@@ -3862,7 +3866,7 @@ __disdrometer__
 __disembodied__ _v_ :two::hammer:  
 __disenfranchise__  
 __disenfranchised__  
-__disengage__ _v_  
+__disengage__ _v_ :two::hammer:  
 __disfavor__  
 __disgorge__ _v_  
 __disgorgement__  
@@ -4405,6 +4409,7 @@ __eggcorn__ _n_ :two::hammer:
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
+__egotistical__ _adj_  
 __egotists__  
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
@@ -4469,7 +4474,7 @@ __embargo__ _n_
 __embark__ _They embark on a motorcade._  
 __embattle__ _v_ :four::hammer: (embattled)  
 __ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
-__embezzle__ _v_ :nine: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
+__embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one's trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
 __embitterment__  
@@ -4959,6 +4964,7 @@ __fecklessness__
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
+__feel like__ _idiom_  
 __feel out__  
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
@@ -6883,6 +6889,7 @@ __holdings__ _n_
 __holdout__ :two::hammer: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
+__hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
 __holistic__ _adj_ :eight::hammer: _My holistic system._  
 __holler__ _v_ :two::hammer:  
@@ -6982,6 +6989,7 @@ __horticulturist__ _n_ :mega:
 __hosanna__ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
@@ -9594,6 +9602,7 @@ __on end__
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
+__on me__ _All squadrons, on me!_  
 __on pins and needles__ _idiom_ Worried or excited about something.  
 __on point__ On point is "exactly right" or "perfect." In slang, the expression often describes someone as "on their game" or "looking sharp."  
 __on steroids__ _idiom_ :four::mega: In a very large, enhanced, or exaggerated form.  
@@ -10859,6 +10868,7 @@ __Promethean__ _adj_ Creative; boldly original.
 __prominence__  
 __prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
+__promissory__ _adj_ :pencil2: Containing, involving, or having the nature of a promise. _A promissory note._  
 __promotion-and-relegation__ _England's soccer pyramid features a promotion-and-relegation system._  
 __prompt<sup>1</sup>__ _adj_ __1__ Being on time; punctual. __2__ Carried out or performed without delay. _A prompt reply._  
 __prompt<sup>2</sup>__ _v_ :two::hammer: (prompting)  
@@ -11422,6 +11432,7 @@ __refractory__ _adj_
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
+__refunds__ _n_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
 __refurbishment__ :two::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
@@ -13802,7 +13813,8 @@ __supply and demand__
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
 __supremacist__ _A whote supremacist._  
-__supreme__ _adj_ _The great ones possess supreme confidence._  
+__supreme<sup>1</sup>__ _adj_ :two::hammer: _The great ones possess supreme confidence._  
+__supreme<sup>2</sup>__ _n_  
 __surcease__  
 __surcharge__ _Additional hotel surcharge of $5.00 per order._  
 __sure enough,__ _Sure enough, that's what happened._  
@@ -15839,6 +15851,7 @@ __wringer__ _n_ :three::hammer: _Run through the wringer._
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  
+__write (someone’s) own ticket__ :two::hammer:  
 __write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don't write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
@@ -15887,7 +15900,7 @@ __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __year in, year out__  
-__yearn__ _v_ __1__ :seven: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
+__yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child's fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
 __years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yeast__ _n_  
