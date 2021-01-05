@@ -1,5 +1,16 @@
 
 
+__back off__ :three::hammer:  
+__hole in one__  
+__on me__ _All squadrons, on me!_  
+__disengage__ _v_  
+__embezzle__ _v_ (?)  
+__to be square__ _idiom_  
+__day in, day out__  
+__refunds__ _n_  
+__hostage__ _n_ :mega: (?)  
+__supreme__ _adj_ (?) _Supreme confidence._  
+
 __byproduct__ _n_  
 __child’s play__  
 __Aborigines__  
