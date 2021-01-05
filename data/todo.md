@@ -1,5 +1,16 @@
 
 
+__byproduct__ _n_  
+__child’s play__  
+__Aborigines__  
+__penchant__  
+__feel like it__  
+__promissory__ _A promissory note._  
+__egotistical__ _adj_  
+__a dime a dozen__  
+__write (someone’s) own ticket__ :two::hammer: 
+__yearn__ _v_  
+
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  
