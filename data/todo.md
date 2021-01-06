@@ -1,5 +1,16 @@
 
 
+__incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
+__omphaloskepsis__ _n_ The practice of contemplating one's navel in order to aid meditation.  
+__navel__ _n_ The depression in the center of the belly where the umbilical cord had been attached.  
+__punditocracy__ _n_ A group of powerful and influential political commentators.  
+__snoot__ _v_  
+__monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
+__land of plenty__ _idiom_ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
+__pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
+__Eye of Providence__ _n_ (all-seeing eye of God)  
+__peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
+
 __take it to the bank__ _idiom_  
 __fluff__  
 __rah-rah__ _Rah-rah motivation._  
