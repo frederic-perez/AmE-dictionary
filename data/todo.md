@@ -1,27 +1,5 @@
 
 
-__incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
-__omphaloskepsis__ _n_ The practice of contemplating one's navel in order to aid meditation.  
-__navel__ _n_ The depression in the center of the belly where the umbilical cord had been attached.  
-__punditocracy__ _n_ A group of powerful and influential political commentators.  
-__snoot__ _v_  
-__monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
-__land of plenty__ _idiom_ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
-__pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
-__Eye of Providence__ _n_ (all-seeing eye of God)  
-__peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
-
-__take it to the bank__ _idiom_  
-__fluff__  
-__rah-rah__ _Rah-rah motivation._  
-__the proof is in the pudding__  
-__locomotive__ _n_  
-__it takes a village__ _idiom_ _proverb_ Many people's help or involvement is needed to achieve some goal. A shortening of the proverb, "It takes a village to raise a child." _Come on, you'll never get this bill passed without their help. It takes a village, you know._  
-__bring about__ _idiom_ To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
-__duly__  
-__ostracized__ _v_  
-__rubber chichen dinner__ _idiom_ A dinner served at a large catered event, especially a political or corporate fundraising event, in which many people must be served simultaneously and the quality of food suffers as a result. ("Rubber chicken" is sometimes hyphenated.) _I'll tell you, though: more than the long hours on the road, the repetitive speeches, or the manic workload, I cannot stand the rubber chicken dinners when I'm on the campaign trail._  
-
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  

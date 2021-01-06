@@ -1703,7 +1703,7 @@ __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersbur
 __brindle__ _A brindle cur._  
 __bring (one) to one's feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
-__bring about__ _phr v_ To make something happen.  
+__bring about__ _idiom_ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
 __bring home the bacon__ _idiom_ To earn money to live on.  
 __bring it on__ _idiom_ To begin a fight or competition.  
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
@@ -4276,7 +4276,7 @@ __dulcimers__ _n_
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
 __dullard__  
 __dully__ _adv_  
-__duly__ _adv_ :four::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
+__duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb struck__ :two::hammer: (dumbstruck)  
 __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
@@ -4788,6 +4788,7 @@ __eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on h
 __eye candy__ _idiom_ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye dropper__ _n_  
 __eye mask__ (to sleep)  
+__Eye of Providence__ _n_ (all-seeing eye of God)  
 __eye patch__  
 __eye raiser__  
 __eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._  
@@ -5281,7 +5282,7 @@ __flown__ _v_ _The flag was flown at half mast._
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
-__fluff__  
+__fluff__ :two::hammer:  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
@@ -7340,6 +7341,7 @@ __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._
 __inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :three::hammer:  
+__incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
 __inception__ _n_ :three::hammer:  
@@ -7562,6 +7564,7 @@ __IT Band__
 __it dawned on someone__  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
+__it takes a village__ _idiom_ _proverb_ Many people's help or involvement is needed to achieve some goal. A shortening of the proverb, "It takes a village to raise a child." _Come on, you'll never get this bill passed without their help. It takes a village, you know._  
 __it takes two to tango__ _idiom_  
 __it wouldn't do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it's a dog's life__ :dart::astonished:  
@@ -7998,6 +8001,7 @@ __lance__ _v_ :astonished:
 __lanced__ _v_  
 __lancet__ _n_  
 __lancing irons__  
+__land of plenty__ _idiom_ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __land on (one's) feet__ _idiom_ To gracefully survive a bad situation.  
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
@@ -8334,6 +8338,7 @@ __locks > alcohol ignition locks__
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
 __lockstep__ :two::hammer:  
+__locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
@@ -8983,6 +8988,7 @@ __monkey wrench__
 __monogramming__  
 __mononyms__  
 __monopoly__ :mega: /mə-nŏp′ə-lē/  
+__monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstrosity__ :pencil2::two::hammer:  
 __monumental__ _adj_  
@@ -9230,7 +9236,7 @@ __naturalization__
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
 __naughty__ :mute:[nau~~gh~~ty]  
-__navel__ _n_ :three::hammer:  
+__navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :two::hammer:  
@@ -9587,6 +9593,7 @@ __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions o
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
 __omnibus<sup>2</sup>__ _n_ :two::hammer:  
 __omnipresent__ _adj_  
+__omphaloskepsis__ _n_ The practice of contemplating one's navel in order to aid meditation.  
 __on (someone's) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
@@ -9705,7 +9712,7 @@ __ossified__ _v_ :two::hammer:
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
-__ostracize__ _v_ :five::pencil2::hammer:  
+__ostracize__ _v_ :six::pencil2::hammer: (ostracized)  
 __OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
@@ -9977,6 +9984,7 @@ __pard__
 __pardon my French__ _idiom_ :two: Excuse me for swearing.  
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
+__pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __pariah__ _n_ :four::hammer:  
 __parietal__ _The parietal portion of the skull._  
 __paring knife__ _n_  
@@ -10087,6 +10095,7 @@ __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
 __PE__ _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
+__peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
 __peachy__ _adj_ _informal_ Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
 __peak__ _v_  
 __peaks and valleys__  
@@ -10995,6 +11004,7 @@ __punctuate__
 __puncture__ _n_ :two::hammer: _Transeptal puncture._  
 __punctured__ _v_ _Punctured his tire._  
 __pundit__ _n_ :three::hammer:  
+__punditocracy__ _n_ A group of powerful and influential political commentators.  
 __pungent__ _adj_ :two::hammer:  
 __pungi__  
 __punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
@@ -11195,7 +11205,7 @@ __raged__ _v_
 __raging bull__ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker's dream._  
 __ragtag__ _n_ :three::hammer: _A ragtag group._  
-__rah-rah__  
+__rah-rah__ :two::hammer: _Rah-rah motivation._  
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
@@ -11836,6 +11846,7 @@ __rub off on (someone)__ To have one's characteristics, mannerisms, or behavior 
 __rub something in someone’s face__  
 __rub<sup>1</sup>__ _n_ :three::hammer: _By "evidence" I mean hard facts, as defined by the scientific community, and there's the rub._  
 __rub<sup>2</sup>__ _v_  
+__rubber chichen dinner__ _idiom_ A dinner served at a large catered event, especially a political or corporate fundraising event, in which many people must be served simultaneously and the quality of food suffers as a result. ("Rubber chicken" is sometimes hyphenated.) _I'll tell you, though: more than the long hours on the road, the repetitive speeches, or the manic workload, I cannot stand the rubber chicken dinners when I'm on the campaign trail._  
 __rubbings__ _n_  
 __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or waste matter; refuse. __3__ :dart: Foolish words or speech; nonsense.  
 __rubble__ _n_ :two::hammer:  
@@ -12989,7 +13000,7 @@ __snivel__ _v_
 __snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
-__snoot__ _v_ To behave disdainfully toward; condescend to.  
+__snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :eight::hammer:  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
@@ -13989,6 +14000,7 @@ __take comfort in (something)__ _idiom_ To be soothed or calmed by something. _W
 __take down__ _phr v_ To make notes, to write down information.  
 __take heart__ _idiom_ :three::dart: To be confident or courageous.  
 __take it away__ _informal_ To start playing or singing music.  
+__take it to the bank__ _idiom_  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
@@ -14241,6 +14253,7 @@ __the idiot box__ _idiom_ A television set, or television in general.
 __the lion's share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
+__the proof is in the pudding__ _idiom_ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__ :two::hammer:  
