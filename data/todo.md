@@ -1,5 +1,16 @@
 
 
+__outing__ _n_ _Country club outimgs._  
+__wallow__ _v_  
+__opt__ _v_  
+__inroads__ _n_  
+__exhausted__ _v_ _All the resources have been exhausted._  
+__wage__ _v_ _Champipns wage war to get what they want._  
+__dogged__ _Dogged peraistence._  
+__iron-clad__ _Iron-clad persistence._  
+__forge__ _v_ _It is up to you to forge ahead with a new attitude._  
+__colossal__  
+
 __Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __consort__ _v_ (consorting)  
