@@ -1,27 +1,5 @@
 
 
-__outing__ _n_ _Country club outimgs._  
-__wallow__ _v_  
-__opt__ _v_  
-__inroads__ _n_  
-__exhausted__ _v_ _All the resources have been exhausted._  
-__wage__ _v_ _Champipns wage war to get what they want._  
-__dogged__ _Dogged peraistence._  
-__iron-clad__ _Iron-clad persistence._  
-__forge__ _v_ _It is up to you to forge ahead with a new attitude._  
-__colossal__  
-
-__Salvation Army__ _n_ A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
-__off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
-__consort__ _v_ (consorting)  
-__drifter__ _n_ :three::hammer:  
-__slam dunk__ _n_ :dart::two: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
-__hit a snag__ _idiom_ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
-__rap sheet__ _n_ _slang_  
-__in the wind__ _The killer was in the wind._  
-__killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
-__MO__ _abbr_ Modus operandi.  
-
 __reprise__ _n_  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
 __contestation__ _n_ Controversy, debate.  

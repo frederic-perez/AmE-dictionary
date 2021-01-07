@@ -2758,7 +2758,7 @@ __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogan
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
-__colossal__  
+__colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
 __column__ :mute:[colum~~n~~]  
@@ -2934,6 +2934,7 @@ __consequently__
 __conservancies__  
 __consigliere__ _Our family consigliere._  
 __consoled__ _v_  
+__consort__ _v_ (consorting)  
 __conspicuous consumption__ _idiom_ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one's wealth or financial success.  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __conspicuously__  
@@ -4007,7 +4008,7 @@ __dog-ear__
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
-__dogged__ _adj_ :two: Obstinately determined; wilful or tenacious. _Dogged persistence._  
+__dogged__ _adj_ :three: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use "kennel") _Russia will stay stuck in track and field's doghouse._  
 __dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
@@ -4182,7 +4183,7 @@ __dressing__ _It's going to take longer to get to that turkey and dressing._
 __dribble__ _v_ :two::hammer: :es: regatear?  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
-__drifter__ _n_ :three::hammer:  
+__drifter__ _n_ :six::hammer:  
 __drifting__  
 __driftwood__ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
@@ -4730,7 +4731,7 @@ __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._
 __exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :five::hammer: _Her face was bright with exertion._  
-__exhaust<sup>1</sup>__ _v_ :mute:[ex~~h~~aust] _Exhaust fans._  
+__exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhilarate__ :mute:[ex~~h~~ilarate]  
@@ -5422,6 +5423,7 @@ __forever and a day__ _idiom_ __1__ Eternally; always; ceaselessly. __2__ An exc
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :three: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
+__forge__ _v_ _It is up to you to forge ahead with a new attitude._  
 __forgear__  
 __forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
 __forgetful__ _adj_  
@@ -6805,6 +6807,7 @@ __historical__ _adj_
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit (one's) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
+__hit a snag__ _idiom_ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit and miss__ :two::hammer:  
 __hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn't until he was threatened with losing his job that the comments about John's work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit man__  
@@ -7313,6 +7316,7 @@ __in the unlikely event (that) (something) happens__ _idiom_ If a very improbabl
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
 __in the wild__ _idiom_ In naturally occurring conditions or environments.  
+__in the wind__ _idiom_  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in tow__ _idiom_ :three: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
@@ -7463,7 +7467,7 @@ __inquest__ _n_ :two::hammer:
 __inquisitive__ _adj_  
 __inquisitiveness__  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for "Jesus of Nazareth, King of the Jews." These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
-__inroads__ _n_ :three::hammer:  
+__inroads__ _n_ :four::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
 __insatiable__ _adj_ _An insatiable learner._  
 __inscribed__ _v_  
@@ -7546,6 +7550,7 @@ __irk__ _v_ _What irks you?_
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
+__ironclad__ _adj_ _Ironclad persistence._  
 __ironclad commitment__  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
@@ -7841,6 +7846,7 @@ __kill the goose that lays the golden egg(s)__ _idiom_ Destroy a source of riche
 __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._  
 __kill<sup>2</sup>__ _n_ _volleyball_ _Benson had 16 kills for the Thunderbirds._  
 __killer bees__  
+__killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
@@ -8941,6 +8947,7 @@ __mix-up__ _n_ :two::hammer:
 __mixed bag__ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
+__MO__ _abbr_ Modus operandi.  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :seven::hammer: _The castle's moat._  
 __mob__ _n_  
@@ -9529,7 +9536,7 @@ __of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characterist
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
-__off to the races__ _idiom_ An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting._The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
+__off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
 __off__ :two::hammer: _He knew that from the off._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
@@ -9681,6 +9688,7 @@ __opposition__ _n_ :mega:
 __opprobrium__ _n_  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
+__opt__ _v_  
 __opticks__ _Obsolete form of optics._  
 __optio__ _n_  
 __optometry__ _n_  
@@ -9765,7 +9773,7 @@ __outgrowth__
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
 __outie__ _idiom_ _slang_ Out of here; leaving. _That's it, I'm not waiting any longer—I'm outtie! No way, this is too gross for me! I'm outtie._  
-__outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
+__outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club outings._ __2__ _informal_ The act of revealing somebody's homosexuality against their will.  
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva's outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
@@ -11253,7 +11261,7 @@ __ransack__ _v_ :five::hammer: (ransacked)
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
-__rap sheet__ _n_ _slang_ :two: A record kept by law-enforcement authorities of a person's arrests and convictions.  
+__rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities of a person's arrests and convictions.  
 __rap__ _South has a bad rap._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
@@ -11978,7 +11986,7 @@ __salutary__
 __salute<sup>1</sup>__ _n_  
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
 __salvage__ _adj_  
-__Salvation Army__  
+__Salvation Army__ _n_ :two: A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __salve__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim's skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
 __salvo__ _n_ :five::hammer: (salvos) _Joe fired the first salvo._  
 __Sam Browne belt__  
@@ -12762,6 +12770,7 @@ __slackjawed__ _He had gone slackjawed when Jack topd him the news._
 __slackline__ _n_ :two::hammer:  
 __slag__  
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
+__slam dunk__ _n_ :dart::two: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :seven::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
@@ -15357,7 +15366,7 @@ __wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._
 __wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
 __wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
 __wage<sup>1</sup>__ _n_ :two::hammer:  
-__wage<sup>2</sup>__ _v_ :two::hammer: (waged)  
+__wage<sup>2</sup>__ _v_ :three::hammer: (waged) _Champipns wage war to get what they want._  
 __wager__ _n_  
 __wagered__ _v_ :astonished: _I'd have wagered so._  
 __waging__ _v_  
