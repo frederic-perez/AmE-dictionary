@@ -1,5 +1,16 @@
 
 
+__pay the price__  
+__wayside__ _n_  
+__wing__ _v_  
+__flinch__ _v_  
+__dormant__  
+__lifeblood__  
+__cesspool__  
+__bestow__ _v_  
+__nursing home__ _n_  
+__flippant__ _adj_  
+
 __reprise__ _n_  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
 __contestation__ _n_ Controversy, debate.  
