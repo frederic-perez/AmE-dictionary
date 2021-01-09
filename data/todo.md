@@ -1,5 +1,16 @@
 
 
+__pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxing.  
+__the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
+__feral__ _adj_ Of or suggestive of a wild animal. _Syn_ savage _The mugger's feral scowl was terrifying enough to make me empty my pockets without hesitation._  
+__niche__ _n_ :mega: (nĭch, nēsh)  
+__comely__ _adj_ __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. __2__ Suitable; seemly: _comely behavior._  
+__Jill of all trades(, master of none)__ _idiom_ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of "Jack of all trades"). If used with "master of none," it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
+__enrapture__ _v_ To fill with delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
+__amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
+__linchpin__ _n_ A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
+__handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
+
 __outlandish__  
 __presure cooking__ _It’s a pandemic breakup. Presure cooking._  
 __rambly__ _adv_  
