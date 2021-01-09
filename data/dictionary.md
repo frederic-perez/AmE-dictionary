@@ -431,6 +431,7 @@ __amity__
 __ammo__  
 __ammonia__ _n_  
 __amnesty player__  
+__amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
 __amount to__ _idiom_ :three::hammer:  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
@@ -2784,7 +2785,7 @@ __come to her senses__
 __come to terms__ _idiom_ :four::hammer:  
 __come together__ _idiom_ :two::hammer:  
 __comeback__ _n_  
-__comely__ _adj_ _literary old-fashioned_ :five: Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._  
+__comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
 __comfortable__ _adj_ :dart::mega: \[ˈkʌmftəbəl\]  
@@ -4565,7 +4566,7 @@ __enmity__ _n_ :eight::hammer: _Syn_ hostility, antagonism
 __ennui__ _n_ :two::hammer:  
 __enormous__ :mega:  
 __enquiry__  
-__enrapture__ _v_ :three: (enraptured) To fill with rapture or delight.  
+__enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
@@ -4988,7 +4989,7 @@ __fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender b
 __fennel__ :two::hammer:  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
-__feral__ _adj_ :seven::hammer: _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
+__feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mugger's feral scowl was terrifying enough to make me empty my pockets without hesitation._ _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
 __Ferberizing__  
 __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
@@ -6030,6 +6031,7 @@ __good enough for jazz__ _idiom_ Sufficient to suit the purpose(s) at hand witho
 __good enough to eat__ _idiom_ To have an extremely beautiful or aesthetically pleasing appearance.  
 __good for nothing__ _idiom_ Entirely without value; of no use whatsoever. (Hyphenated if used as a modifier before a noun.)  
 __good for you__  
+__good for__ _idiom_ __4__ Equivalent in value; also, valid for. _These coupons are good for a 20 percent discount._ _He was good for many murders._  
 __good God!__ _idiom_ An oath expressing surprise, shock, frustration, anger, or annoyance.  
 __good going__ _idiom_ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard's 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
@@ -6408,6 +6410,7 @@ __hands on__
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-on director._  
+__handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one's hands, especially inappropriately.  
 __handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
@@ -7311,7 +7314,7 @@ __in the pocket of (someone)__ _idiom_ Under the direct control or influence of 
 __in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
-__in the thick of it/(something)__ _idiom_ :seven: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of it/(something)__ _idiom_ :eight: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
 __in the unlikely event (that) (something) happens__ _idiom_ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ _idiom_ In someone's or some group's opinion.  
 __in the water__ _There's nothing in the water here._  
@@ -7662,6 +7665,7 @@ __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatis
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jigsaw__ :two::hammer: (jigsaws)  
+__Jill of all trades(, master of none)__ _idiom_ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of "Jack of all trades"). If used with "master of none," it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __jilt__ _v_ :two: (jilted: To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow__ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -8269,7 +8273,7 @@ __limp__ :two::hammer: _Limp spinoff._ _Limp wrists._
 __limpid__ _adj_  
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
-__linchpin__ _n_ :six::hammer:  
+__linchpin__ _n_ :seven: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -9318,7 +9322,7 @@ __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both 
 __nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after "and." _I love your new house! It's nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nicety__ _n_  
-__niche__ _n_ :three::hammer:  
+__niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _A nickle-and-dime con man._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
@@ -10787,6 +10791,7 @@ __press the pocket__
 __pressed khakis__ _A young man with neatly pressed khakis._  
 __pressure cooker__ _n_  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
+__presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
 __pretense__ _n_ :two::hammer:  
 __pretentious__ _adj_ :pencil2:  
 __preternatural__ _n_  
@@ -10975,6 +10980,7 @@ __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or othe
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
 __pugil__  
+__pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxing.  
 __pugnacity__  
 __pugs__  
 __pukingly__ _He was pukingly ill._  
@@ -11238,6 +11244,7 @@ __ram<sup>2</sup>__ _n_
 __ramble__ _v_  
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
+__rambly__ _adv_  
 __rambunctious__ _adj_ _informal_ :four: Boisterous; unruly.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
@@ -12990,7 +12997,7 @@ __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its 
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
-__snatch__ _v_ :two::hammer:  
+__snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _Sneaker companies._  
 __sneaky__  
@@ -13462,7 +13469,7 @@ __stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodat
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __statin__ _n_  
-__station wagon__ _n_ A car that has a long body and rear door with space behind rear seat.  
+__station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
 __stationary bike__  
 __stationery__  
@@ -14266,6 +14273,7 @@ __the heebie-jeebies__ _idiom_ An extreme or acute sensation of fear, apprehens
 __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
 __the idiot box__ _idiom_ A television set, or television in general.  
+__the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __the lion's share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -14950,6 +14958,7 @@ __uncrating__
 __unction__ _n_  
 __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
 __uncured__ _v_ _Organic grass-fed uncured hot dogs._  
+__undaunted__  
 __under (one's) belt__ _idiom_ :two: __1__ In one's scope of experience. _Once you get a few more major league games under your belt, you'll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one's) breath__ _idiom_ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
 __under (someone's) watch__  
