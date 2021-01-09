@@ -1,5 +1,16 @@
 
 
+__jet-setter__ _idiom_ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
+__mull__ _v_ To heat and spice (wine, for example).  
+__wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
+__jollification__ _n_ Festivity; revelry.  
+__carouse__ _v_ To drink large amounts of alcohol, especially in boisterous merrymaking.  
+__jubilee__ _n_ __2__ A special anniversary, esp. a 25th or 50th one.  
+__soiree__ _n_ An evening party or reception.  
+__insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
+__putsch__ _n_ A sudden attempt by a group to overthrow a government.  
+__risible__ _adj_ __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
+
 __pay the price__  
 __wayside__ _n_  
 __wing__ _v_  
