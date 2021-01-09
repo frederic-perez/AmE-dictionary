@@ -1,27 +1,5 @@
 
 
-__ligature__ _n_  
-__station wagon__ _n_ A car that has a long body and rear door with space behind rear seat.  
-__muffler__ _n_ __1__ A heavy scarf worn around the neck for warmth. __2__ A device that absorbs noise, especially one used with an internal-combustion engine.  
-__MO__ _abbr_ _With the same MOs._  
-__rampage__ _n_  
-__dope__ _n_  
-__rapt__  
-__egotistical__ _adj_  
-__pull teeth__ _idiom_ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I've been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2_ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between "pull" and "teeth. _"Corporate lobbyists are trying to pull the new law's teeth to give them greater leeway in the market._  
-__stone cold__ _idiom_ stone cold Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
-
-__jet-setter__ _idiom_ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
-__mull__ _v_ To heat and spice (wine, for example).  
-__wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
-__jollification__ _n_ Festivity; revelry.  
-__carouse__ _v_ To drink large amounts of alcohol, especially in boisterous merrymaking.  
-__jubilee__ _n_ __2__ A special anniversary, esp. a 25th or 50th one.  
-__soiree__ _n_ An evening party or reception.  
-__insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
-__putsch__ _n_ A sudden attempt by a group to overthrow a government.  
-__risible__ _adj_ __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
-
 __pay the price__  
 __wayside__ _n_  
 __wing__ _v_  

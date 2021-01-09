@@ -2166,8 +2166,8 @@ __carol__ _v_ (caroling) (vs Christmas carol)
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
+__carouse__ _v_ :two: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
 __carousel__  
-__carousing__ _v_  
 __carp about (someone or something)__ _idiom_ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carpet bombing__  
 __carping__ _v_  
@@ -4053,7 +4053,7 @@ __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatme
 __doorpost__  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It's gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :mega:  
-__dope<sup>1</sup>__ _n_ _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
+__dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
@@ -4410,7 +4410,7 @@ __eggcorn__ _n_ :two::hammer:
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
 __egomaniac__  
-__egotistical__ _adj_  
+__egotistical__ _adj_ :two::hammer:  
 __egotists__  
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means "really bad or offensive." If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
@@ -7495,6 +7495,7 @@ __insular__ _His small, insular group of loyalists._
 __insulation__ _n_ :four::hammer:  
 __insure__ _v_ :two::hammer:  
 __insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
+__insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
@@ -7550,8 +7551,7 @@ __irk__ _v_ _What irks you?_
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
-__ironclad__ _adj_ _Ironclad persistence._  
-__ironclad commitment__  
+__ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __irrigate__ _v_ :dart:  
@@ -7648,6 +7648,7 @@ __jersey snagging__ _football_
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
+__jet-setter__ _idiom_ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jetliners__  
 __jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty__ :two::hammer:  
@@ -7693,7 +7694,7 @@ __joists__
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollies__ _slang_ Gun, thrills, enjoyment.  
-__jollification__ _n_  
+__jollification__ _n_ :two: Festivity; revelry.  
 __jollof rice__  
 __jolly__ _adj_ :six::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
@@ -7711,7 +7712,7 @@ __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump o
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__  
 __jubilation__ _n_  
-__jubilee__ The celebration of any of certain anniversaries.  
+__jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.  
 __judgment__ _n_ :two::pencil2::hammer:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
@@ -8228,6 +8229,7 @@ __lift a finger__ _idiom_ To help with something. Often used in the nega
 __lift__ _n_ :two::hammer: _I could give you a lift home._  
 __liftgate__  
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
+__ligature__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ :mute:[li~~gh~~t]  
 __light-headed__ _I feel light-headed from lack of sleep._  
@@ -8947,7 +8949,7 @@ __mix-up__ _n_ :two::hammer:
 __mixed bag__ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
-__MO__ _abbr_ Modus operandi.  
+__MO__ _abbr_ :two: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :seven::hammer: _The castle's moat._  
 __mob__ _n_  
@@ -9103,7 +9105,7 @@ __muff__ _She drew from her muff a pistol._
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
-__muffler__ _n_ :two::hammer: _Syn_ silencer  
+__muffler__ _n_ :three: __1__ A heavy scarf worn around the neck for warmth. __2__ A device that absorbs noise, especially one used with an internal-combustion engine. _Syn_ silencer  
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
 __mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
@@ -10983,6 +10985,7 @@ __pull away__ :two::hammer:
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__ _idiom_ :two: To make a playful attempt to fool or deceive someone. _You're pulling my leg._  
 __pull strings__  
+__pull teeth__ _idiom_ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I've been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between "pull" and "teeth. _"Corporate lobbyists are trying to pull the new law's teeth to give them greater leeway in the market._  
 __pull your socks up__ _idiom_ To improve your work or behaviour.  
 __pull__ _v_ _I can't pull for someone else the same way._  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
@@ -11074,6 +11077,7 @@ __put up with__ _idiom_ :nine::m: To endure without complaint: _We had to put up
 __putbacks__  
 __putdowns__  
 __putrid__  
+__putsch__ _n_ A sudden attempt by a group to overthrow a government.  
 __putt__ _Jason missed a 5-foot par putt._  
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
@@ -11240,7 +11244,7 @@ __ramen shop__
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :four::hammer:  
-__rampage<sup>2</sup>__ _n_ :six::hammer: (rampages)  
+__rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
 __rampart__ _n_ :four::hammer: (ramparts) _Ancient stone ramparts._  
@@ -11269,7 +11273,7 @@ __rapidly__
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
 __rapprochement__ _n_ :three::hammer:  
-__rapt<sup>1</sup>__ _adj_ :five::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
+__rapt<sup>1</sup>__ _adj_ :six::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
 __rapture<sup>1</sup>__ _n_ :four::hammer: _The film _Carol_ left critics in rapture._  
 __rapture<sup>2</sup>__ _v_  
@@ -11720,7 +11724,7 @@ __ripple__ _v_ :four::hammer: (rippled)
 __rise from the ashes__ _idiom_ To recover after a serious failure.  
 __rise__ _v_  
 __risers__  
-__risible__ _adj_ :two::hammer:  
+__risible__ _adj_ :three: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
 __rite__ _n_ :two::hammer:  
 __ritzier__  
 __ritziest__ _One of the ritziest restaurants._  
@@ -13069,6 +13073,7 @@ __soi-disant__ _adj_ As claimed by and for yourself often without justification.
 __soignée__  
 __soil__ _v_  
 __soiled__  
+__soiree__ _n_ An evening party or reception.  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
 __solace__ _n_ :four: Something that makes you feel better when you are sad or upset.  
@@ -13457,6 +13462,7 @@ __stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodat
 __statesman__ :two::hammer: _The elder statesman of the group._  
 __statesmen__ (notice, not 'statement')  
 __statin__ _n_  
+__station wagon__ _n_ A car that has a long body and rear door with space behind rear seat.  
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
 __stationary bike__  
 __stationery__  
@@ -13581,6 +13587,7 @@ __stolid__ _adj_ :three::hammer:
 __stomach__ _v_ :two::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
+__stone cold__ _idiom_ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
 __stone__ _n_ :three::hammer: _Lose a stone in four weeks._ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __stone-walling__  
 __stonemasons__ _n_  
@@ -15446,6 +15453,7 @@ __washroom__ _n_
 __washtub__  
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
+__wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ _slang_ Drunk or intoxicated.  
 __wastrel__ :two::hammer:  
