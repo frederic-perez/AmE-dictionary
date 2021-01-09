@@ -1,5 +1,16 @@
 
 
+__outlandish__  
+__presure cooking__ _It’s a pandemic breakup. Presure cooking._  
+__rambly__ _adv_  
+__good for__ _He was good for many murders._  
+__powerwise__ (?)  
+__snatched__ _v_ (?)  
+__station wagon__ _n_ :three::hammer:  
+__write a knick__ _Write me a knick._ (?)  
+__undaunted__  
+__in the thick of it__  
+
 __stomach__ _v_  
 __chalk it up__ (?)  
 __breakdown__ _n_  
