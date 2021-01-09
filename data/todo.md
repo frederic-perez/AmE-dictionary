@@ -1,5 +1,16 @@
 
 
+__stomach__ _v_  
+__chalk it up__ (?)  
+__breakdown__ _n_  
+__outperform__ _v_  
+__scoff__ _v_  
+__inadvertently__ _adv_  
+__cram__ _A late-night cram session._  
+__renowned__ _World-renowned experts._  
+__cornerstone__ _n_  
+__profiteer__ _n_  
+
 __pay the price__  
 __wayside__ _n_  
 __wing__ _v_  
