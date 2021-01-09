@@ -2907,7 +2907,7 @@ __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ infern
 __conflate__ _v_  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
-__confound__ _v_ :nine::m::hammer: (confounded, confounding)  
+__confound__ _v_ :nine::m: (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence's suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
@@ -4526,7 +4526,7 @@ __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition 
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
-__encroach__ _v_ :nine::m::hammer: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
+__encroach__ _v_ :nine::m: (encroaching) __1__ To take another's possessions or rights gradually or stealthily: _encroach on a neighbor's land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
@@ -9285,7 +9285,7 @@ __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :nine::m::hammer: (nestled)  
+__nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
 __nestlings__ _n_  
 __nether__ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
@@ -9366,7 +9366,7 @@ __no way around it__
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
 __no-holds-barred__ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
-__no-no__ _n_ _informal_ :nine::m::hammer: (no-nos) _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
+__no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
