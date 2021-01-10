@@ -7,7 +7,7 @@ __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made 
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
-__-tomy__ _suffix_ (Surgery) indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
+__-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __-year-old__ _A 56-year-old retiree._  
 __, so why (even) bother?__  
 __, to say the least.__  
@@ -3196,7 +3196,7 @@ __creased__
 __creases__ _Knife creases._  
 __creasing__  
 __creature of habit__ _idiom_ One who prefers the comfort and reliability of routine and habitual behavior.  
-__cred__ _n informal_ :six: (creds) short for credibility: _street cred._  
+__cred__ _n informal_ :six: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :four::hammer:  
 __credenza__ _n_  
 __credit__ _Presidents don't deserve full credit or blame for the economy's performance._  
@@ -4354,7 +4354,7 @@ __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.
 __easement__  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
-__Eastern Block__ (the Eastern bloc) _politics_ (formerly) the Soviet bloc.  
+__Eastern Block__ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ :two: A large, comfortable, upholstered chair.  
 __easy street, on__ _idiom_ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
@@ -8019,7 +8019,7 @@ __landfill__ _n_ :three::hammer:
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _Landscape gardening._  
-__landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _I will win the game by a near landslide._ _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory.  
+__landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languish__ _v_ (languishing) :two::hammer:  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
@@ -8176,7 +8176,7 @@ __lepers__
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lessons learned__  
-__lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :eight::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let me tell you__ _idiom_ Used to emphasize a statement.  
