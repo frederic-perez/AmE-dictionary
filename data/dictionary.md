@@ -1512,6 +1512,7 @@ __bon ton__
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :eight: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it's not a fake or a counterfeit. We talk about things being bona fide when we're interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you're a bona fide college graduate. If you spend your whole life studying music, you're a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they're making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
+__bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner's store.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
@@ -1667,7 +1668,7 @@ __break your back__ _idiom_ To work extremely hard.
 __break your duck__ _idiom_ To do something for the first time.  
 __break-the-china__  
 __breakaway__ :two::hammer:  
-__breakdown__ _n_ :two::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
+__breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breaking character__  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
@@ -2323,6 +2324,7 @@ __chain smoker__
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk and cheese__ _We are like chalk and cheese._  
+__chalk it up__ _idiom_ To link something that has happened to a particular reason or circumstance. _Don't get too down on yourselves after this loss, boys. Let's just chalk it up to inexperience and move on._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
@@ -2892,7 +2894,7 @@ __conduct__ _Suspended two games for violating the league's personal conduct pol
 __conduit__ _n_ :six::hammer:  
 __coneys__  
 __confabulate__ _v_ :two: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
-__confection__  
+__confection__ _n_ :two: __2__ :astonished: A sweet prepared food, such as candy or cake.  
 __confederacy__  
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
@@ -3047,6 +3049,7 @@ __cormorants__
 __corn beef__ :two::hammer:  
 __corn fritters__  
 __corned beef__ :two::hammer:  
+__cornerstone__ _n_  
 __cornstarch__  
 __corny__ _adj_ :five::hammer:  
 __coronet__ _n_  
@@ -3164,9 +3167,8 @@ __crag__ _n_ _Syn_rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on
 __cragginess__  
 __craggy__ _adj_ :three::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
-__cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
-__cramp__ _n_ :three::hammer: (cramps)  
-__cramped__ _v_ :two::hammer:  
+__cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ _A late-night cram session._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
+__cramp__ _n_ :five::hammer: (cramps, cramped)  
 __crank out__  
 __crank up__  
 __crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a telephone crank._ _Turning the crank on an ice cream maker._  
@@ -3904,6 +3906,7 @@ __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vi
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
+__dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
 __dispel__ _v_ :six::hammer: (dispelled)  
@@ -3935,6 +3938,7 @@ __dissimulate__ _v_ :two::pencil2::hammer:
 __dissing__ _v_  
 __dissipate__ _v_  
 __dissipation__  
+__dissociate__ _v_ :pencil2:  
 __dissolution__  
 __dissonance__  
 __dissuade__ _v_ :pencil2:  
@@ -4417,6 +4421,7 @@ __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __eh?__ _Impressive, eh?_  
+__eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ :mute:[ei~~gh~~t]  
 __eight-track__ _The eight-track audio tape._  
 __eighty-eights__ Piano.  
@@ -7332,7 +7337,7 @@ __in-laws__ _A room for the in-laws._
 __in-your-face__ _An in-your-face farewell._  
 __in(to) shape__ _idiom_ In good, robust health; strong or fit.  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
-__inadvertently__  
+__inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
 __inane__ _adj_ :seven::hammer:  
 __inanely__ _adv_  
@@ -8371,6 +8376,7 @@ __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebo
 __loll__ _v_ :five::hammer::pencil2: (lolled, lolling) _His head was lolling against Cato's shoulder._  
 __lollipop__ _n_ (lollypop)  
 __lone wolf__ _They are lone wolf attacks._  
+__lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
 __loner__ Someone who likes being alone.  
 __long haul__ _She's in for the long haul._  
 __long hours__ _idiom_ :two::hammer: _The long hours you're putting in may not help._  
@@ -9375,7 +9381,7 @@ __no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
-__nocebo__ _n_  
+__nocebo__ _n_ :two: A substance that causes undesirable side effects as a result of a patient's perception that it is harmful rather than as a result of a causative ingredient.  
 __nocent__ _adj_ Having a tendency to cause harm.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
@@ -9793,7 +9799,7 @@ __outnumber__ _v_
 __outpace__ _v_  
 __outpacing__ :two::hammer:  
 __outpatient__ _n_ :three::hammer:  
-__outperform__ _v_  
+__outperform__ _v_ :two::hammer:  
 __outplayed__ _v_  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
@@ -9945,6 +9951,7 @@ __panache__ _n_ :four::hammer:
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
+__pangram__ _n_ A sentence, verse, etc., that includes all the letters of the alphabet.  
 __panhandle__ _v_  
 __panhandling__  
 __panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
@@ -10872,6 +10879,7 @@ __profanity__ _n_ :two::hammer: _Shouting profanities._
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __proficient__  
+__profiteer__ _n_  
 __profiteering__  
 __profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
@@ -11537,7 +11545,7 @@ __rendering plant__
 __rendition__ _n_ :three: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
-__renowned__ :two::hammer:  
+__renowned__ :three::hammer: _World-renowned experts._  
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
 __rents__ _n_  
@@ -12142,7 +12150,7 @@ __scion__ _n_ :three::hammer:
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
-__scoff__ _v_ :seven: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce__ _v_  
@@ -12996,6 +13004,7 @@ __snarl__ _adj_ _Snarled airport._
 __snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
+__snatch (someone) from the jaws of death__ _idiom_ To rescue someone at the last moment from near or certain death.  
 __snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
@@ -13061,6 +13070,7 @@ __soapbox<sup>2</sup>__ _v informal_ :two::hammer:
 __soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
+__sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :three: A nickname.  
 __SoCal__ Southern California.  
 __soccage__  
@@ -13591,7 +13601,7 @@ __stodgy__ _The mainstream may sound too stodgy._
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ _adj_ :three::hammer:  
-__stomach__ _v_ :two::hammer:  
+__stomach__ _v_ :three::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
 __stone cold__ _idiom_ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  

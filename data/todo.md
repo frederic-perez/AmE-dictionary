@@ -1,27 +1,5 @@
 
 
-__bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner's store.  
-__confection__ _n_ __2__ :astonished: A sweet prepared food, such as candy or cake.  
-__eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
-__dissociate__ _v_ :pencil2:  
-__snatch (someone) from the jaws of death__ _idiom_ To rescue someone at the last moment from near or certain death.  
-__dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
-__lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
-__pangram__ _n_ A sentence, verse, etc., that includes all the letters of the alphabet.  
-__sobersides__ _n_ :astonished: A humorless or habitually serious person.  
-__nocebo__ _n_ A substance that causes undesirable side effects as a result of a patient's perception that it is harmful rather than as a result of a causative ingredient.  
-
-__stomach__ _v_  
-__chalk it up__ (?)  
-__breakdown__ _n_  
-__outperform__ _v_  
-__scoff__ _v_  
-__inadvertently__ _adv_  
-__cram__ _A late-night cram session._  
-__renowned__ _World-renowned experts._  
-__cornerstone__ _n_  
-__profiteer__ _n_  
-
 __pay the price__  
 __wayside__ _n_  
 __wing__ _v_  
