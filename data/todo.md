@@ -1,27 +1,5 @@
 
 
-__pay the price__  
-__wayside__ _n_  
-__wing__ _v_  
-__flinch__ _v_  
-__dormant__  
-__lifeblood__  
-__cesspool__  
-__bestow__ _v_  
-__nursing home__ _n_  
-__flippant__ _adj_  
-
-__reprise__ _n_  
-__wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
-__contestation__ _n_ Controversy, debate.  
-__(it's/there's) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
-__lather__ _n_ Agitation resulting from active worry. _Syn_ fret, stew, swither, sweat _"I'm not going to get into a lather over this defeat," said the manager._  
-__it's all good__ _idiom_ A phrase used to express general approval, unconcern, or disinterest.  
-__downcast__ _adj_ Filled with melancholy and despondency. _Syn_ low-spirited, gloomy, dispirited, blue, depressed, grim _He walked through the door with a glum, downcast expression, and I knew without asking that the interview had not gone well._  
-__franchise__ _n_ __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership.  
-__(it's) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
-__palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
-
 __ogle__ _v_ (ogled)  
 __shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __idyllic__ _adj_  

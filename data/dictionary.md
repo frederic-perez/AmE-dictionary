@@ -14,6 +14,8 @@ __, to say the least.__
 __"duh" department__ :astonished: _From the "duh" department, sit in a shaded area if you want to see your phone's screen clearly._  
 __(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
+__(it's) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
+__(it's/there's) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one's) heart's desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart's desire is just to see my husband again._  
 __(one's) jollies__ _idiom_ _slang_ One's amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase "get one's jollies." _The restless teenagers got their jollies by throwing rocks at passing cars._  
@@ -2311,7 +2313,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
-__cesspool__ _n_ :seven::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :eight::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
 __chafe at the bit__ _idiom_ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
@@ -2961,6 +2963,7 @@ __contended__ _adj_ Happy and satisfied with your life. _He was happy and conten
 __content__ _adj_ :three::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
+__contestation__ _n_ Controversy, debate.  
 __contested shot__ _n_ (vs uncontested shot)  
 __contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
@@ -4064,7 +4067,7 @@ __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and 
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :three: __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America's favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
-__dormant__  
+__dormant__ _adj_ :two::hammer:  
 __dormer__ _n_ :camera:  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dot__ _v_ (dotted) Mark with a dot.  
@@ -4108,6 +4111,7 @@ __down-low__
 __down-to-earth__ _adj_ _idiom_ :four: Sensible and realistic.  
 __downbeat__ :two::hammer:  
 __downburst__ _n_  
+__downcast__ _adj_ Filled with melancholy and despondency. _Syn_ low-spirited, gloomy, dispirited, blue, depressed, grim _He walked through the door with a glum, downcast expression, and I knew without asking that the interview had not gone well._  
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
 __downer__ _n_  
@@ -5234,8 +5238,8 @@ __fliddle__ _v_
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
 __flimflam__ _n_ :dart::two::hammer:  
 __flimsy__ _adj_ :two::hammer:  
-__flinch<sup>1</sup>__ _n_  
-__flinch<sup>2</sup>__ _v_ :five: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
+__flinch__ _v_  
+__flinch<sup>2</sup>__ _v_ :six: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __fling__ _v_ :eight::hammer: (flinging) _Johnson isn't just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
@@ -5247,7 +5251,7 @@ __flip side__ _n_ A different aspect of something (especially the opposite aspec
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
-__flippant__ _adj_ :four::hammer:  
+__flippant__ _adj_ :five::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit__ :two::hammer:  
@@ -5487,7 +5491,7 @@ __frail<sup>2</sup>__ _n_
 __frame grab__  
 __frame__ _v_ _He framed Roger Rabbit._  
 __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in March._  
-__franchise__ _Romo is the Cowboys franchise quarterback._  
+__franchise__ _n_ :two: __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership. _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
 __frankincense__ _n_ :astonished: :es: incienso  
@@ -7581,6 +7585,7 @@ __it takes a village__ _idiom_ _proverb_ Many people's help or involvement is ne
 __it takes two to tango__ _idiom_  
 __it wouldn't do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it's a dog's life__ :dart::astonished:  
+__it's all good__ _idiom_ A phrase used to express general approval, unconcern, or disinterest.  
 __it's one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
@@ -8068,6 +8073,7 @@ __late bloomer__ _n idiom_
 __latecommer__ _I'm somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
+__lather__ _n_ Agitation resulting from active worry. _Syn_ fret, stew, swither, sweat _"I'm not going to get into a lather over this defeat," said the manager._  
 __lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
 __lathered__ _v_ :three::hammer: (lathering) _He lathered the bar of soap._  
 __lathes__  
@@ -8229,7 +8235,7 @@ __liege__
 __lier__ _n_ A person who lies down.  
 __lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly's life preserver._  
-__lifeblood__ _n_ :three: The blood, as being necessary to life.  
+__lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin's appearance is so lifelike that customers often mistake it for a salesperson._  
 __lifeline__ :two::hammer: _China has long been North Korea's lifeline._  
 __lifelong__ _adj_ :two::hammer:  
@@ -9478,6 +9484,7 @@ __nunchucks__
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v_ :three::hammer:  
 __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it's a child's room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child's room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
+__nursing home__ _n_  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _slang_ A crazy or strange person.  
@@ -9926,6 +9933,7 @@ __pallbearer__ :two::hammer:
 __palled__ _v_  
 __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ _Sleeping pallets (makeshift beds)._  
 __pallholder__ _n_  
+__palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
 __palm__ :mega::mute:[pa~~l~~m]  
@@ -10104,6 +10112,7 @@ __paving stones__
 __paw__ _v_ _A drunken master paws her._  
 __pax vobiscum__ _phr_ Peace be with you.  
 __pay off__ _v_  
+__pay the price__ _idiom_ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ _idiom_ :three::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__ _n_ :two::hammer:  
@@ -11566,6 +11575,7 @@ __repote__ _n_
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
+__reprise__ _n_  
 __reprobate__ _v_  
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
@@ -15502,7 +15512,7 @@ __wax__ _v_ _Moon waxing and waning._
 __waxed__  
 __waylay__ _v_  
 __wayposts__  
-__wayside__ _n_ :two::hammer:  
+__wayside__ _n_ :three::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they're determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent's advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
 __weaknesses__ _What are your personal strengths and weaknesses?_  
@@ -15690,6 +15700,7 @@ __whooshed__ _v_
 __whorls__ :two::hammer:  
 __why on earth__  
 __Wi-Fi__  
+__wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
 __wick__ _n_ :three::hammer: _Curiosity is the wick in the candle of learning._ _A wetted wick._  
 __wicked__ _adj_ :two::hammer:  
 __wickedly__  
@@ -15745,6 +15756,7 @@ __windup__ _adj_ _It was a cheap, windup alarm clock._
 __wine list__ _The wine list._ :es: la carta de vinos  
 __wineskin__ _n_ _He took a sip from his wineskin._  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
+__wing__ _v_  
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
 __wingspan__ _n_  
