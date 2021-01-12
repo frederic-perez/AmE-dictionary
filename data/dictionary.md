@@ -241,6 +241,7 @@ __advisory<sup>2</sup>__ _n_ (advisories)
 __advocacy__ :two::hammer:  
 __aegis__  
 __aerials__  
+__aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
 __aero-hydroponics__  
 __aerospike engine__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I've been watching his magnificent season from afar._ :es: lejos  
@@ -597,6 +598,7 @@ __archivist__
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ :two::hammer: _He was one of her most ardent suitors._  
+__ardor__ _n_ Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion  
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
@@ -920,7 +922,7 @@ __baloney__ _n informal_ (bologna) :two: Nonsense.
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
-__bamboozle__ _v_ :three::hammer:  
+__bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don't know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
 __banalize__ _v_  
 __bandanna__ :two::hammer:  
 __bandit__ _n_  
@@ -5931,6 +5933,7 @@ __glue > a glue-type player__
 __glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don't smile, giggle, or laugh — and they're rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, "Why so glum?" _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
 __glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it's time to clean your room.  
 __glut<sup>2</sup>__ _v_  
+__glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
 __glycemic__  
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
@@ -6451,6 +6454,7 @@ __happy about it__ _I'm not entirely happpy about it._
 __happy as a clam__ _idiom_ Very happy.  
 __happy feet__  
 __haps__ _n_ :two::hammer: _What's the haps?_  
+__haptic__ _adj_ Of or relating to the sense of touch; tactile.  
 __harangue__ _v_  
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
 __harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
@@ -7179,7 +7183,7 @@ __idiot box__
 __idiot mittens__ _idiom_ Mittens or gloves that are attached to one's sleeves by a length of yarn or string so as to prevent their being lost.  
 __idle__ _v_  
 __idolatry__ :two::hammer:  
-__idyllic__ _adj_ :two::pencil2: Excellent and delightful in all respects.  
+__idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
@@ -7710,6 +7714,8 @@ __jokester__ _n_ One who tells or plays jokes; a joker.
 __jollies__ _slang_ Gun, thrills, enjoyment.  
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollof rice__  
+__jolly (someone) along__ _idiom_ To encourage someone (to do something), especially in a positive, cheerful manner.  
+__jolly (someone) up__ _idiom_ To make (someone) happier or more cheerful; to cheer (someone) up.  
 __jolly__ _adj_ :six::hammer: _Jolly handshakes._  
 __jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
@@ -7731,6 +7737,7 @@ __judgment__ _n_ :two::pencil2::hammer:
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
+__jug-eared__ _idiom_ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you're doomed. If you're trying to market a new Cola product, you're up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
 __juice__ _n_ _slang_ :three: Energy, power.  
@@ -9354,6 +9361,7 @@ __nihilist__ _n_ :two::hammer:
 __nihilistic__  
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
+__nimiety__ _n_ Superfluity; excess.  
 __nine yards__ (the whole nine yards)  
 __nineloss__ ?  
 __ninety-four feet__ :two::hammer: _We played you ninety-four feet._  
@@ -9582,7 +9590,7 @@ __oft-shouting-sermon__
 __often__ :mute:[of~~t~~en]  
 __oftentimes__ :two::hammer:  
 __OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
-__ogle__ _v_ :two::hammer:  
+__ogle__ _v_ :three::hammer: (ogled)  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
 __Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __Ohioans__  
@@ -10226,7 +10234,9 @@ __periodontal__ _Periodontal health._
 __periodontist__ _n_  
 __perioperative__ _Perioperative morbidity._  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
+__peripatetic<sup>1</sup>__ _adj_ Walking about or from place to place; traveling on foot.  
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
+__peripatetic<sup>2</sup>__ _n_ One who walks from place to place; an itinerant.  
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
@@ -10903,6 +10913,7 @@ __prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly 
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :two: Using too many words and therefore boring.  
+__prolixity__ _n_ Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __Promethean__ _adj_ Creative; boldly original.  
@@ -12137,6 +12148,7 @@ __schlepping__ :two::hammer:
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlock__  
 __schlocky__  
+__schmaltz__ _n_ _informal_ :two: The quality or condition of being affectedly or overly emotional.  
 __schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in the phrase _the whole schmear_).  
 __schmooze__ _v_ :four: (schmoozed, schmoozing) Talk idly or casually and in a friendly way.  
 __schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
@@ -12430,6 +12442,7 @@ __shanties__
 __shanty__  
 __shantytown__  
 __shape up__ _v_  
+__shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __shaping the bullet__  
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that's rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __shark tank__ _Our culture is not a "Shark tank."_  
@@ -13914,7 +13927,7 @@ __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is us
 __swamp<sup>2</sup>__ _v_ :six::hammer: (swamped) _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  
-__swank__ _v_ :three::astonished::hammer:  
+__swank__ _v_ :four::astonished::hammer:  
 __swanky__ _adj_ :two::hammer: _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
@@ -14323,6 +14336,7 @@ __thick skin__ _idiom_ :two::dart::hammer:
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
+__thimblerig<sup>1</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
 __thine__  
 __thingy__ :two::hammer:  
@@ -14491,7 +14505,7 @@ __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._
 __tipoff__ _n_ :two::hammer: (tip-off)  
 __tipple__ _v_ :five::hammer: (tippled)  
 __tipsily__  
-__tipster__ _n_ :two::hammer: (tipsters)  
+__tipster__ _n_ :three::hammer: (tipsters)  
 __tiptoe<sup>1</sup>__ _adj_  
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
@@ -15609,6 +15623,7 @@ __wheelie__
 __wheels are turning, the__ _idiom_ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __wheelwright__ _n_  
 __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortable for you, usually because you are sick. _Wheezing economy._  
+__wheezing__ _adj_  
 __whelp__  
 __when pigs can fly__ _idiom_ At a time that will never come to pass. (Used to show skepticism or cynicism over someone's hypothetical remark.)  
 __when pigs fly__ _idiom_ Never, impossible.  

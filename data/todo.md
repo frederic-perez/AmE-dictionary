@@ -1,27 +1,5 @@
 
 
-__jug-eared__ _idiom_ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
-__glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
-__prolixity__ _n_ Excessive wordiness in speech or writing; longwindedness.  
-__nimiety__ _n_ Superfluity; excess.  
-__haptic__ _adj_ Of or relating to the sense of touch; tactile.  
-__jolly (someone) up__ _idiom_ To make (someone) happier or more cheerful; to cheer (someone) up.  
-__bamboozle__ _v_ To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don't know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
-__jolly (someone) along__ _idiom_ To encourage someone (to do something), especially in a positive, cheerful manner.  
-__aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
-__thimblerig<sup>1</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
-
-__ogle__ _v_ (ogled)  
-__shapely__ _adj_ (esp of a woman's body or legs) Pleasing or attractive in shape. _The shapely blonde._  
-__idyllic__ _adj_  
-__wheezing__ _adj_  
-__ardor__ _n_  
-__tipster__  
-__swank__  
-__schmaltz__ _n_ _informal_ :two: The quality or condition of being affectedly or overly emotional.  
-__peripatetic<sup>1</sup>__ _adj_ Walking about or from place to place; traveling on foot.  
-__peripatetic<sup>2</sup>__ _n_ One who walks from place to place; an itinerant.  
-
 __turpitude__ _n_ Behavior that is dishonest or immoral.  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
