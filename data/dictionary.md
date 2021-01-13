@@ -54,6 +54,7 @@ __a great many__ _idiom_ A very large number of (people, things, etc.).
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman's posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
+__a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood's A list._  
@@ -660,6 +661,7 @@ __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find,
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :seven::hammer: (ascribed)  
+__aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
@@ -3040,13 +3042,14 @@ __copyeditor__ _n_ A person who edits a manuscript, text, etc., for publ
 __copywriter__ _n_  
 __coracle__ :two::hammer: (coracles)  
 __cord blood__  
-__cord__ _n_ :camera:  
+__cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
 __cordite__ _n_  
 __cordon sanitaire__ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
-__corduroy__ _n_  
+__corduroy__ _n_ :two: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
+__corduroys__ _n_ Pants made of corduroy.  
 __core-dump__ _The book goes on like this, a chronological core-dump of facts._  
 __corgi__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
@@ -3155,8 +3158,8 @@ __crack someone up__ _idiom_ To make someone laugh. _The lecturer would tal
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
-__crackerjack<sup>1</sup>__ _adj_ Excellent.  
-__crackerjack<sup>2</sup>__ _n_ A person or thing of exceptional quality or ability.  
+__crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
+__crackerjack<sup>2</sup>__ _n_ _slang_ :two: A person with a high degree of knowledge or skill in a particular field. A person or thing of exceptional quality or ability. _Syn_ ace, adept, authority, dab hand, expert, master, past master, professional, proficient, wizard  
 __crackers__  
 __crackle__ _v_ (crackling) :two::hammer:  
 __cracklings__ _n_  
@@ -7706,6 +7709,7 @@ __John Doe__
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Johnnie-come-lately__ _n_ _idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
+__Johnny One-Note__ _idiom_ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
 __joined at the hip__ _idiom_ :two: To be exceptionally close to someone.  
 __joint__ _n_ A prison, a jail.  
 __joists__  
@@ -8538,6 +8542,7 @@ __macula__ _n_
 __madcap__  
 __madden__ _v_ :two::hammer: (maddening)  
 __made of money__ _idiom_ To be very rich.  
+__madman__ _n_ A man who is insane, esp one who behaves violently; lunatic.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
@@ -8967,6 +8972,7 @@ __misuse__ _v_ :two::hammer: _It results in code that is easier to understand an
 __mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
 __mitzvah__  
+__mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ _idiom_ To combine or compare two different things.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ :three::hammer: _It's a mixed bag, really._  
@@ -9112,6 +9118,7 @@ __moxie__ :two::hammer:
 __MQTT__ _abbr_ 	Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
+__mRNA__ _abbr_ Messenger RNA.  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: "Here's your jacket, sir." B: "Much obliged, son."_  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
@@ -10152,6 +10159,7 @@ __peckerwood__
 __pecking order__  
 __pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
+__pedantic__ _adj_  
 __peddle__ _v_ :four: (peddling) __2__ _Informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestrian__ _n_ :four::hammer: (pedestrians)  
 __pedestrianized__ _v_  
@@ -11002,6 +11010,7 @@ __pudenda__ _n_
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
 __pudgy__ _adj_ :three::hammer: _A pudgy boy._  
 __puds__ _n_  
+__puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __puff<sup>1</sup>__ _n_ :four::hammer: (puffs)  
 __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door puffing open._  
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
@@ -11307,6 +11316,7 @@ __rape__ _n_ _The fields of rape were in full glorious bloom._
 __rapidly__  
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
 __rapping__ _v_  
+__rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :six::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
@@ -11774,6 +11784,7 @@ __roach__ _n_ :two::hammer: _Roach paste._
 __road map__ _n_ :pencil2:  
 __road salt__ _n_  
 __roadblock__ _n_  
+__roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
 __roadside__ _Roadside billboards._  
 __roam__ _v_ :seven: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
@@ -12047,7 +12058,7 @@ __sandstone__
 __sandwich__ :mute:[san~~d~~wich]  
 __sandy-haired__  
 __sangfroid__ _n_ :two::hammer:  
-__sanguine__ _adj_ :six::hammer::astonished:  
+__sanguine__ _adj_ :seven::hammer::astonished:  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -14336,7 +14347,8 @@ __thick skin__ _idiom_ :two::dart::hammer:
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
 __thigh__ :mute:[thi~~gh~~]  
-__thimblerig<sup>1</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
+__thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
+__thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
 __thine__  
 __thingy__ :two::hammer:  
@@ -14890,7 +14902,7 @@ __turnsole__ :pencil2:
 __turnstile__ _n_ :two::hammer:  
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
-__turpitude__  
+__turpitude__ _n_ :two: Behavior that is dishonest or immoral.  
 __turquoise__ _n_ :pencil2:  
 __turtledove__ _n_ :es: tórtola  
 __tushie__ _n_ :two::hammer:  
@@ -15133,6 +15145,7 @@ __up-and-comer__
 __up-tempo__ _Up-tempo kind of game._  
 __upbeat__ _adj_ :five: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil's colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He's extremely upbeat during down times._ __2__ Happy; cheerful.  
 __upcoming__  
+__upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
 __updraft__ _n_ The movement upward of air or other gas.  
 __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The earthquake upended the nation last week._  
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
@@ -15459,6 +15472,7 @@ __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wam
 __wan__ _adj_ :four::hammer: _A wan reception._  
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let's wander slowly through the fields, the fields of joy._  
+__wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
 __wane__ _v_ :four::hammer: (waning) _The waning hours._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
