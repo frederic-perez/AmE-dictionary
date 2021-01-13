@@ -1,5 +1,16 @@
 
 
+__a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
+__aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
+__mRNA__ _abbr_ Messenger RNA.  
+__pedantic__ _adj_  
+__rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
+__thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
+__upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
+__Johnny One-Note__ _idiom_ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
+__wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
+__sanguine__  
+
 __turpitude__ _n_ Behavior that is dishonest or immoral.  
 __puff pastry__ _n_ A light, flaky, rich pastry made by rolling dough with butter and folding it to form layers: used for tarts, napoleons, etc. :es: hojaldre  
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
