@@ -1643,7 +1643,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass monkeys__ _idiom_ Very cold weather.  
-__brass__ _n_ _informal_ :four: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._ _The military brass._  
+__brass__ _n_ _informal_ :five: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She'll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
@@ -1882,7 +1882,7 @@ __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloa
 __buoyancy__  
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
-__burble__ _v_ :two: (burbled) Flow in an irregular current with a bubbling noise.  
+__burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbling noise. __2__ (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeon__ _v_  
@@ -2619,7 +2619,7 @@ __clergy__
 __clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor's explanation of sine and cosine really clicked with me—I think I finally understand it now._  
-__click__ _v_ _It clicks when it clicks._  
+__click__ _v_ :two: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
 __clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
@@ -3528,7 +3528,8 @@ __dead__ _Dead batteries._
 __deadbeat dad__ _n_ _idiom_ A father who doesn't live with the family and doesn't pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
-__deadpan__ _adj_ _Deadpan delivery of nonsensical jokes._  
+__deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
+__deadpan<sup>2</sup>__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
 __deafening__ _adj_  
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :three::hammer: _He served as dean._  
@@ -4745,7 +4746,7 @@ __exempt__ _v_ :two::hammer:
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
 __exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :five::hammer: _Her face was bright with exertion._  
+__exertion__ _n_ :six::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
@@ -5599,7 +5600,7 @@ __fudge<sup>1</sup>__ _n_
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :three::hammer: _You can’t fudge this thinking._  
 __fudging__ _Fudging statistics._  
-__fulcrum__ :two::hammer:  
+__fulcrum__ _n_ :three::hammer:  
 __fulfilling__  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
 __full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
@@ -6178,7 +6179,7 @@ __greenhouse__ :two::hammer:
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwich__ :mute:[green~~w~~ich]  
 __griddle__  
-__gridiron__ _n_ :seven: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
+__gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
 __grievance__ _n_ :two::hammer:  
 __grievously__  
@@ -6211,6 +6212,7 @@ __grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness,
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _It makes the queso a bit grittier._  
+__gritting one’s teeth__  
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzle__ _v_  
 __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._  
@@ -7734,7 +7736,7 @@ __jousting__ _adj_ _Jousting egos._
 __jovial__ :two::hammer:  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
-__jowly__  
+__jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
 __jubilation__ _n_  
 __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.  
 __judgment__ _n_ :two::pencil2::hammer:  
@@ -7891,7 +7893,7 @@ __kingfisher__ _n_
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
 __kinky__  
-__kinship__  
+__kinship__ _n_ :two::hammer:  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
 __kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target's in-store registry kiosks._  
@@ -9776,6 +9778,7 @@ __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits t
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
 __out of the blue__  
 __out of the woods__  
+__out of thin air__ _The great ones create ideas out of thin air._  
 __out of this world__ _idiom_ Extremely good.  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
 __out-of-the-box__  
@@ -11880,6 +11883,7 @@ __roughly__ :two::hammer:
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
+__round robin__ _The con game is one round robin._  
 __round the bend__ _idiom_ :two: Crazy, insane.  
 __round the clock__ _There are sirens round the clock._  
 __round__ _v_  
@@ -12022,6 +12026,7 @@ __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.
 __salacious__ _adj_ :four::hammer: _Salacious music._  
 __salad spinner__ _n_  
 __sales force__  
+__salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
 __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
@@ -12287,6 +12292,7 @@ __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazona
 __seawall__  
 __seaweed__ :two::hammer:  
 __secateurs__ _n_  
+__second best__  
 __second nature__  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
@@ -12337,7 +12343,7 @@ __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
-__self-fulfilling__ :four::hammer: _Self-fulfilling prophecy._  
+__self-fulfilling__ :five::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
@@ -12777,7 +12783,7 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim<sup>1</sup>__ _v_ :seven: (skimmed, skimming) If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._  
+__skim<sup>1</sup>__ _v_ :eight: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
 __skim<sup>2</sup>__ _n_  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don't skimp on insurance when you book your holidays._  
@@ -13034,8 +13040,7 @@ __snare<sup>2</sup>__ _v_ :three::hammer: (snared)
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of "snide" and "remark." Sarcastic comment(s). _The snarky Twitter reaction._  
 __snarky__ _adj informal_ :dart::two: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
-__snarl__ _adj_ _Snarled airport._  
-__snarl<sup>1</sup>__ _n_ :four: An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido  
+__snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one's teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
 __snatch (someone) from the jaws of death__ _idiom_ To rescue someone at the last moment from near or certain death.  
@@ -15136,7 +15141,7 @@ __unyielding__ _adj_ :three::hammer:
 __up a tree__ _idiom_ In a difficult situation.  
 __up and running__  
 __up and under__ A basketball move.  
-__up for grabs__ _idiom_ :three: Available for anyone.  
+__up for grabs__ _idiom_ :four: Available for anyone.  
 __up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
 __up to your eyeballs in something__ _idiom_ To have too much of something.  
 __up yours__ :two::hammer:  

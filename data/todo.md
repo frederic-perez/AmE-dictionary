@@ -1,27 +1,5 @@
 
 
-__out of thin air__ _The great ones create ideas out of thin air._  
-__salesperson__ _n_  
-__salespeople__  
-__kinship__ _n_   
-__up for grabs__  
-__self-fulfillung prophecy__  
-__gridiron__ (?)  
-__second best__  
-__brass__ _The top brass of the executive tem._  
-__gritting one’s teeth__  
-
-__click__ _v_ __2b__ _slang_ b. To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._  
-__burble__ _v_ __2__ 2. (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
-__jowly__ _adj_ (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
-__deadpan__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
-__round robin__ _The con game is one round robin._  
-__fulcrum__ _n_  
-__exertion__ _n_  
-__skim__ _v_ _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
-__trudge__ _v_  
-__snarl__ _v_  
-
 __put a gun to (someone's) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __dispirit__ _v_ Lower someone's spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
