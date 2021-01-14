@@ -1,5 +1,16 @@
 
 
+__out of thin air__ _The great ones create ideas out of thin air._  
+__salesperson__ _n_  
+__salespeople__  
+__kinship__ _n_   
+__up for grabs__  
+__self-fulfillung prophecy__  
+__gridiron__ (?)  
+__second best__  
+__brass__ _The top brass of the executive tem._  
+__gritting one’s teeth__  
+
 __click__ _v_ __2b__ _slang_ b. To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._  
 __burble__ _v_ __2__ 2. (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
 __jowly__ _adj_ (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
