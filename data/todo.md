@@ -1,5 +1,16 @@
 
 
+__group effort__  
+__wainscoating__ _n_ __1__ A wainscoted wall or walls; paneling. __2__ Material, such as wood, used for wainscoting.  
+__sightline__ _n_  
+__wish list__  
+__cabochon__ _n_  
+__iatrogenic__ Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
+__jumbotron__ _n_  
+__maladaptive__ _adj_ Showing faulty adaptation.  
+__portend__ _v_  
+__facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
+
 __price tag__ _Success always comes with a price tag._  
 __dissuaded__ _v_  
 __the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
