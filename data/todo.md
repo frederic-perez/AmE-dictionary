@@ -1,5 +1,16 @@
 
 
+__price tag__ _Success always comes with a price tag._  
+__dissuaded__ _v_  
+__the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
+__thick amd thin__ _Marriages that last through thick and thin._  
+__levity__ _n_ _The most potent antidote for stress is levity._  
+__humor__ _n_ :pencil2:  
+__high road__ _Champions take the high road._  
+__ambitious__  
+__startling__ _adj_  
+__wallow__ _v_ _They tend to wallow in their sorrow._  
+
 __put a gun to (someone's) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __dispirit__ _v_ Lower someone's spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
