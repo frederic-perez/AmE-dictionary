@@ -1,27 +1,5 @@
 
 
-__jump in (one's) skin__ _idiom_ To start or recoil, as from shock, surprise, or fear.  
-__pooh-bah__ _n_ An arrogant or conceited person of importance. _Syn_ high-muck-a-muck  
-__vulcanize__ _v_ To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure.  
-__lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
-__jump at the chance (to do something)__ _idiom_ To accept or seize with alacrity an opportunity (to do something).  
-__spoliator__ _n_ A plunderer.  
-__eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly by redness, itching, and the outbreak of lesions that may discharge serous matter and become encrusted and scaly.  
-__exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
-__exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
-__wiredraw__ _v_ :astonished: __1__ To draw (metal) into wire. __2__ To treat (a subject, for example) with great length, excessive detail, or overrefinement; spin out.  
-
-__group effort__  
-__wainscoating__ _n_ __1__ A wainscoted wall or walls; paneling. __2__ Material, such as wood, used for wainscoting.  
-__sightline__ _n_  
-__wish list__  
-__cabochon__ _n_  
-__iatrogenic__ Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
-__jumbotron__ _n_  
-__maladaptive__ _adj_ Showing faulty adaptation.  
-__portend__ _v_  
-__facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
-
 __price tag__ _Success always comes with a price tag._  
 __dissuaded__ _v_  
 __the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
