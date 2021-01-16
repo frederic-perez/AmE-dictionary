@@ -1,30 +1,6 @@
-
-
-__saccular__ _adj_  
-__seep__ _v_  
-__neophilia__ _n_  
-__surfeit__ _n_  
-__thaw__ _n_ :es: deshielo (?)  
-__snowed in__ 
-__avocado__ _n_  
-__guacamole__ _n_  
-__sprout__ _n_  
-__rendition__ _n_  
-__trochanter__ _n_ :two::hamner: _Greater trochanter._  
-__hemostasis__ _n_  
-__saccharin__ _n_ :pencil2:  
-
-__squander__ _v_ _Do not squander time._  
-__day in and day out__  
-__tap__ _v_ :two::hammer:  
-__dissatisfy__ _v_  
-__contentment__ _n_  
-__content__  
-__outwork__ _v_  
 __outplay__ _v_  
 __hit or miss__  
 __domino effect__  
-
 __price tag__ _Success always comes with a price tag._  
 __dissuaded__ _v_  
 __the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
@@ -35,7 +11,6 @@ __high road__ _Champions take the high road._
 __ambitious__  
 __startling__ _adj_  
 __wallow__ _v_ _They tend to wallow in their sorrow._  
-
 __put a gun to (someone's) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __dispirit__ _v_ Lower someone's spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
@@ -46,7 +21,6 @@ __immanent__
 __withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
 __hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __stockpile__ _n_ Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
-
 __chime in__ _phr v_  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __tirade__ _n_  
@@ -57,7 +31,6 @@ __elated__ _v_
 __sting__ _n_  
 __usury__  
 __tawdry__  
-
 __bluff__ _v_ (bluffing)  
 __swank__ _A swank condominium complex._  
 __lock, stock, and barrel__ _idiom_ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  

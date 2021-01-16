@@ -796,6 +796,7 @@ __average Joe__ _n_ _slang_ :two: An ordinary man.
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :three::hammer: (averted)  
 __avid__ _adj_ :four::hammer: _I'm an avid listener of Beautiful Anonymous._  
+__avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one's regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avow__ _v_ :two::hammer: (avowed)  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven't been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
@@ -2965,9 +2966,10 @@ __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptibl
 __contemptuous__  
 __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
 __contended__ _adj_ Happy and satisfied with your life. _He was happy and contended._  
-__content__ _adj_ :three::hammer:  
+__content__ _adj_ :four::hammer:  
 __contention__ _n_ :nine::m: Heated disagreement. _Braintree and Dover are in contention for promotion from the National League._ _A contention disputed by independent experts._ :es: contienda  
 __contentious__ _adj_ :nine: A contentious issue is one that people are likely to argue about, and a contentious person is someone who likes to argue or fight. _Syn_ combative, disputatious, litigious _The captain felt like he was constantly mediating disputes between his contentious crew members._  
+__contentment__ _n_  
 __contestation__ _n_ Controversy, debate.  
 __contested shot__ _n_ (vs uncontested shot)  
 __contextualize__ _v_ :dart::four:  
@@ -3497,6 +3499,7 @@ __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidati
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
+__day in and day out__ _idiom_ Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ _idiom_ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __day job__  
@@ -3932,7 +3935,7 @@ __disruption__ _n_ :two::hammer:
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ :two::hammer:  
 __dissatisfied__ _adj_ :two::pencil2::hammer:  
-__dissatisfy__ _v_ :two::hammer: (dissatisfied)  
+__dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_  
@@ -6268,6 +6271,7 @@ __grungy__ :two::hammer:
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You'll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
 __GTFO__ _abbr_ _idiom_ :two: __1__ _rude slang_ An abbreviation for "get the fuck out," an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she's going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for "get the fuck out" used to express surprise at what one has just been told. Although the use of "fuck" can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
+__guacamole__ _n_  
 __guard__ :mute:[g~~u~~ard]  
 __guess__ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
@@ -6741,6 +6745,7 @@ __hemlock__
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemodynamic__ _adj_  
+__hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
@@ -9315,6 +9320,7 @@ __neighed__ _v_
 __neighing__ _v_  
 __nematodes__  
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
+__neophilia__ _n_  
 __neophyte__  
 __neorealist__  
 __neoteric__  
@@ -9860,6 +9866,7 @@ __outta__ _prep_ _informal_ :two: Used in writing to represent the spoken form "
 __outtakes__ _n_  
 __outthink__ _v_  
 __outwit__ _v_ (outwitted)  
+__outwork__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __over (one's) head__ _idiom_ __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie's head, so I'm glad you think I'm funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one's authority. _She just wouldn't listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don't get paid for another week. I'm so glad that exam is over—it's been over my head for months._  
@@ -11587,7 +11594,7 @@ __render__ _v_ :four::hammer::astonished: __1b__ b. To give or make available; p
 __rendered fat__ :camera:  
 __rendered__ _The grand jury has rendered its decision._  
 __rendering plant__  
-__rendition__ _n_ :three: An interpretation of a musical score or a dramatic piece.  
+__rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
 __renowned__ :three::hammer: _World-renowned experts._  
@@ -12006,6 +12013,8 @@ __s&h__ _Every penny will be returned to you (except s&h)._
 __S&L__ _An S&L swinger._  
 __sabotage__ _n_  
 __sac-a-lait__  
+__saccharin__ _n_ :pencil2:  
+__saccular__ _adj_  
 __sackful__  
 __sacristan__  
 __sacristy__ _n_  
@@ -12335,7 +12344,7 @@ __seedy__ _A seedy world._
 __seek out__  
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
-__seep__ _v_ :nine: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
+__seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ :two::hammer:  
 __seer__ _n_  
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
@@ -13095,6 +13104,7 @@ __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
+__snow in__ _idiom_ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between "snow" and "in." _We were snowed in for several days, with only a small cupboard's worth of food to subsist on._  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
@@ -13376,8 +13386,8 @@ __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A devic
 __sprinkling__ _A sprinkling of luck._  
 __sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
 __sprocket__ _n_ _Sprocket holes._  
-__sprout__ _v_ Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
-__sprouting__  
+__sprout<sup>1</sup>__ _v_ :two: (sprouting) Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
+__sprout<sup>2</sup>__ _n_  
 __spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spruce<sup>1</sup>__ _n_ :four::hammer: :es: abeto  
 __spruce<sup>2</sup>__ _v_  
@@ -13408,7 +13418,7 @@ __squad__ _n_ :four::hammer: _The Olympics squad._
 __squalid__ _adj_ :five::pencil2::hammer: _Squalid home._  
 __squall__ _n_ :three::hammer:  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
-__squander<sup>1</sup>__ _v_ :two::hammer:  
+__squander<sup>1</sup>__ _v_ :three::hammer: _Do not squander time._  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
 __square deal__  
 __square dsncing__  
@@ -13917,7 +13927,7 @@ __surcharge__ _Additional hotel surcharge of $5.00 per order._
 __sure enough,__ _Sure enough, that's what happened._  
 __surefire__  
 __surety__  
-__surfeit__ _n_ :three: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
+__surfeit__ _n_ :four: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
@@ -14147,7 +14157,7 @@ __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indicat
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
 __tap dancing__ _idiom_  
 __tap into__ _idiom_ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It's possible that a new loan wouldn't have to be tapped into immediately._  
-__tap__ _v_ :seven: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato's._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
+__tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato's._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word "off." _Part of the power of the Vietnam Memorial is in how the two walls appear to "taper off" into infinity._  
@@ -14312,7 +14322,7 @@ __That-a-boy!__ _exclam._ That is the way to do it! (Said to a boy or man.) _Com
 __that's all she wrote__ _idiom_ This is the end; there is nothing left to say. _I'm sorry, Ben, but the board's decision is final. That's all she wrote, I'm afraid._  
 __that's the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they're coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
-__thaw<sup>2</sup>__ _n_ :six: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
+__thaw<sup>2</sup>__ _n_ :seven: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the "m" word__  
 __the 105's__  
@@ -14819,6 +14829,7 @@ __triskelion__ _n_ (triskele)
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning "wear out." An old-fashioned or outdated definition of the word is "frayed or worn out by use," and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__ _n_ :two::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
+__trochanter__ _n_ :two::hammer: _Greater trochanter._  
 __trodden down__ _v_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
