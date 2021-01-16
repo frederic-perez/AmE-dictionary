@@ -212,6 +212,7 @@ class Checker(object):
         self.num_composite_headwords = 0
         self.num_displaced_part_of_speech = 0
         self.num_entries_with_triple_spaces = 0
+        self.num_entries_with_wrong_type_of_space_character = 0
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
@@ -266,6 +267,14 @@ class Checker(object):
         print(headword + FAIL + ' <<< Triple spaces #' \
             + str(self.num_entries_with_triple_spaces) + ENDC)
 
+    def treat_wrong_type_of_space_character(self, entry):
+        """Self-explanatory"""
+        self.num_entries_with_wrong_type_of_space_character += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' <<< Wrong type of space character #' \
+            + str(self.num_entries_with_wrong_type_of_space_character) + ENDC)
+
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
         self.num_tag_shit += 1
@@ -303,6 +312,8 @@ class Checker(object):
             self.treat_too_many_double_spaces(entry)
         if entry.count('   ') > 0:
             self.treat_triple_spaces(entry)
+        if entry.count(' ') > 0: # Attention: The space character here is not the common one!
+            self.treat_wrong_type_of_space_character(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
         if entry_has_tag_of_any_number(entry, 2, 9) and \
@@ -347,6 +358,7 @@ class Checker(object):
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
+            + self. num_entries_with_wrong_type_of_space_character \
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
@@ -365,6 +377,7 @@ class Checker(object):
             print_colored('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
             print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
+            print_colored('Entries with wrong type of space character', self. num_entries_with_wrong_type_of_space_character)
             print_colored('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
