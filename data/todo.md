@@ -1,5 +1,16 @@
 
 
+__squander__ _v_ _Do not squander time._  
+__day in and day out__  
+__tap_- _v_ :two::hammer:  
+__dissatisfy__ _v_  
+__contentment__ _n_  
+__content__  
+__outwork__ _v_  
+__outplay__ _v_  
+__hit or miss__  
+__domino effect__  
+
 __price tag__ _Success always comes with a price tag._  
 __dissuaded__ _v_  
 __the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
