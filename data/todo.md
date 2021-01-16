@@ -1,8 +1,22 @@
 
 
+__saccular__ _adj_  
+__seep__ _v_  
+__neophilia__ _n_  
+__surfeit__ _n_  
+__thaw__ _n_ :es: deshielo (?)  
+__snowed in__ 
+__avocado__ _n_  
+__guacamole__ _n_  
+__sprout__ _n_  
+__rendition__ _n_  
+__trochanter__ _n_ :two::hamner: _Greater trochanter._  
+__hemostasis__ _n_  
+__saccharin__ _n_ :pencil2:  
+
 __squander__ _v_ _Do not squander time._  
 __day in and day out__  
-__tap_- _v_ :two::hammer:  
+__tap__ _v_ :two::hammer:  
 __dissatisfy__ _v_  
 __contentment__ _n_  
 __content__  
