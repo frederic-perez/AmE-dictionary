@@ -493,10 +493,16 @@ def format_to_print(entry):
     return CYAN + BOLD + clean_headword + ' ' \
         + ENDC + CYAN + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
 
+def check(filename):
+    checker = Checker(filename)
+    checker.check_entries()
+    checker.check_duplicated_headwords()
+    checker.check_undef_high_freq_keywords()
+
 if __name__ == '__main__':
+    TODO = '../data/todo.md'
+    check(TODO)
+
     # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
     DICTIONARY = '../data/dictionary.md'
-    CHECKER = Checker(DICTIONARY)
-    CHECKER.check_entries()
-    CHECKER.check_duplicated_headwords()
-    CHECKER.check_undef_high_freq_keywords()
+    check(DICTIONARY)
