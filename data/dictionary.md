@@ -231,7 +231,7 @@ __adulterate__ _v_
 __advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
-__adventitious__ _adj_ Associated with something by chance rather than as an integral part; extrinsic.  
+__adventitious__ _adj_ :two: Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __advert__ _n_ :two::hammer: (adverts) (advertisement?)  
 __advice__ _This is my unsolicited advice._  
@@ -1609,7 +1609,7 @@ __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
-__bowdlerize__ _v_ To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good.  
+__bowdlerize__ _v_ :two: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good.  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
@@ -3954,8 +3954,7 @@ __dissipation__
 __dissociate__ _v_ :pencil2:  
 __dissolution__  
 __dissonance__  
-__dissuade__ _v_ :pencil2:  
-__dissuaded__  
+__dissuade__ _v_ :pencil2::three: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
@@ -4043,6 +4042,7 @@ __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of 
 __dolt__ :two::hammer:  
 __domicile__  
 __dominatrix__ _n_  
+__domino effect__ _n_ A cumulative effect produced when one event sets off a chain of similar events. _The domino effect of increasing the speed limit in one of several contiguous states._  
 __don__ _v_ Put on (an item of clothing).  
 __don't call us, we'll call you__ _idiom_ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don't count your chickens before they hatch__ _idiom_ :dart::three: (don't count your chickens before they're hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, "Don't count your chickens before they're hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don't count your chickens before they're hatched, babe!_  
@@ -4476,7 +4476,7 @@ __elevators__ (airplane)
 __elfin__ _adj_  
 __ELIA5__ Explain Like I Am 5.  
 __elicit__ _v_ :seven::hammer: (elicited)  
-__elide__ _v_ :two: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
+__elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __elision__  
 __elite__ (elites) :two::hammer:  
@@ -6791,7 +6791,7 @@ __high beams__
 __high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
 __high places__ _I've friends in high places._  
 __high profile__ _idiom_ A presence or stance that is deliberately conspicuous and prominent socially.  
-__high road__ __1a__ The easiest or surest path or course: the high road to happiness. __b__ The most positive, diplomatic, or ethical course.  
+__high road__ _n_ :two: __1a__ The easiest or surest path or course. _The high road to happiness._ _Champions take the high road._ __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _n_ :two: __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
 __high school__ _n_ A school especially in the U.S. usually including grades 9–12 or 10–12.  
 __high street__ _n_ _British informal_ :three::hammer:  
@@ -6844,7 +6844,7 @@ __hit home__ _idiom_ To be fully understood by or strongly affect or resonate wi
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it's not hitting on all eight._  
-__hit or miss__  
+__hit or miss__ :two::hammer:  
 __hit out__ _v_  
 __hit parade__  
 __hit the big time__ _idiom_ To become very famous or successful.  
@@ -7095,7 +7095,7 @@ __hummed__ _v_
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn't want the wife to find out._  
 __hummocks__  
 __hummus__ _n_ :mega:  
-__humor__ _v_ :three::hammer: _Just humor me._  
+__humor__ _v_ :four::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
 __Humpty Dumpty__  
@@ -8044,7 +8044,7 @@ __lame__ :two::hammer: _Lame excuse._
 __laminate__ _v_ :es: plastificar  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
-__lampoon<sup>2</sup>__ _v_ :four: (lampooned) To make the subject of a satire. _Syn_ ridicule  
+__lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe's coworkers lampoon his affected way of speaking._  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -8234,7 +8234,7 @@ __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no lever
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
 __leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levity__ _n_ _His levity faded._  
+__levity__ _n_ :two::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._  
 __lewd__ _adj_ :three::hammer:  
@@ -9554,7 +9554,7 @@ __obscure__ _v_
 __obsequious__ _adj_ :two::hammer:  
 __obsidian__  
 __obstinate__  
-__obstreperous__  
+__obstreperous__ _adj_ :two::hammer:  
 __obstreperousness__  
 __obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
@@ -9793,6 +9793,7 @@ __out of kilter__ _idiom_
 __out of order__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
+__out of steam__ _idiom_ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
 __out of the woods__  
 __out of thin air__ _The great ones create ideas out of thin air._  
@@ -9842,7 +9843,7 @@ __outpace__ _v_
 __outpacing__ :two::hammer:  
 __outpatient__ _n_ :three::hammer:  
 __outperform__ _v_ :two::hammer:  
-__outplayed__ _v_  
+__outplay__ _v_ :two::hammer: (outplayed)  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpour__ _v_ :two::hammer: (outpouring)  
@@ -10864,7 +10865,7 @@ __preventive__ _Preventive and corrective maintenance._
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __price point__ _The best in price point._  
-__price tag__  
+__price tag__ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _v_ :five::hammer: (pricked) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
@@ -11164,7 +11165,7 @@ __Q.E.D.__
 __Q&A__ _The gathering will feature question-and-answer sessions._  
 __QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
-__quack__ _n_ :five: Incompetent doctor. _Partisan quacks._  
+__quack__ _n_ :six: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. __2__ A charlatan; a mountebank. _Partisan quacks._  
 __quadrennial__  
 __quadroons__  
 __quaff__ _v_ _(chiefly literary)_  
@@ -11643,7 +11644,7 @@ __resit<sup>1</sup>__ _n_ _(Education)_ An examination taken again by a person w
 __resit<sup>2</sup>__ _v_ _(Education)_ To sit (an examination) again.  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__ :two::hammer: _The answer is a resounding yes._  
-__respirator__ _n_  
+__respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
 __respite__ _n_ :nine::m: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
@@ -13100,11 +13101,11 @@ __snot rag__
 __snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __snout__ _n_  
+__snow in__ _idiom_ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between "snow" and "in." _We were snowed in for several days, with only a small cupboard's worth of food to subsist on._  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
 __snowbank__ _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
-__snow in__ _idiom_ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between "snow" and "in." _We were snowed in for several days, with only a small cupboard's worth of food to subsist on._  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
 __snowmobiler__  
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
@@ -14339,6 +14340,7 @@ __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that see
 __the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
+__the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
 __the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
@@ -14371,7 +14373,7 @@ __thermistor__ :two::hammer:
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
 __thick accent__ _Arnold's accent is getting thicker._  
-__thick and thin__ :three::hammer: _Supporters ready to back them through thick and thin._  
+__thick and thin__ :four::hammer: _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
@@ -15297,6 +15299,7 @@ __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a f
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
+__vaunted__ _adj_ Hghly or widely praised or boasted about.  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
@@ -15325,7 +15328,7 @@ __Venn__ (John Venn) English logician who introduced Venn diagrams. (1834-1923)
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __vent__ _v_ _slang_ :two: To express a negative emotion in a forceful way.  
-__ventilator__ _n_ :pencil2: _med_  
+__ventilator__ _n_ :two::pencil2: _med_ A machine that helps a patient breathe. This machine pumps oxygen into the lungs and removes carbon dioxide through a tube. The insertion of this tube into a person’s windpipe (trachea) is called intubation.  
 __venture__ _n_  
 __venue__ _n_ :two::hammer: _What's the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
