@@ -1,3 +1,13 @@
+__adventitious__  
+__elide__ _v_  
+__lampoon__ _v_ Ridicule with satire. _Syn_ satirize _Joe's coworkers lampoon his affected way of speaking._  
+__out of steam__ _idiom_ :dart: Completely exhausted, fatigued, or without energy or motivation.  
+__quack__ _n__ __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. __2__ A charlatan; a mountebank.  
+__bowdlerize__ _v_  
+__respirator__ _n_ A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
+__ventilator__ _n_ A machine that helps a patient breathe. This machine pumps oxygen into the lungs and removes carbon dioxide through a tube. The insertion of this tube into a person’s windpipe (trachea) is called intubation.  
+__vaunted__ _adj_ Hghly or widely praised or boasted about.  
+__obstreperous__ _adj_  
 __outplay__ _v_  
 __hit or miss__  
 __domino effect__  
