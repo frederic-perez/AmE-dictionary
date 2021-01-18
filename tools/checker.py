@@ -186,8 +186,7 @@ def entry_misses_part_of_speech(entry):
     tokens = entry.split()
     do_print = False
     _, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-    if (part_of_speech not in VALID_PARTS_OF_SPEECH) and \
-        part_of_speech.count(':hammer:') < 1:
+    if (part_of_speech not in VALID_PARTS_OF_SPEECH):
         return True
     return False
 
@@ -288,8 +287,7 @@ class Checker(object):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '' and \
-            part_of_speech != '_?_' and \
-            part_of_speech.count(':hammer:') < 1:
+            part_of_speech != '_?_':
             print(headword + ' ' + part_of_speech + FAIL \
             + ' <<< missing part of speech found' + ENDC)
 
@@ -316,7 +314,7 @@ class Checker(object):
             self.treat_wrong_type_of_space_character(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
-        if entry_has_tag_of_any_number(entry, 2, 9) and \
+        if entry_has_tag_of_any_number(entry, 4, 9) and \
            entry_misses_part_of_speech(entry):
             tokens = entry.split()
             do_print = False
