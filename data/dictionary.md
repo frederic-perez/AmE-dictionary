@@ -585,7 +585,7 @@ __arabesques__ _n_ _They were heavily coated with arabesques of frost which scin
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
-__arcane__ :four::hammer: _This function appends arcane strings._  
+__arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
 __arch__ _Her character is arch and fake._  
 __archaea__ _n_  
 __arched doorway__ :camera:  
@@ -5958,7 +5958,7 @@ __gnome__ :mute:[~~g~~nome]
 __gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
 __gnu__ :mute:[~~g~~nu]  
 __go (one's) (own) way__ _idiom_ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__go a long way__ :dart::four::hammer: _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
+__go a long way__ _idiom_ :dart::four: __1__ To achieve much success. _You'll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don't do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one's best, give full measure, give one's best  
 __go apeshit__  
 __go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
@@ -6112,7 +6112,8 @@ __grade__ _v_
 __grader__ _n_ :two::hammer: (graders)  
 __gradual__ _adj_  
 __gradually__  
-__graft__ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
+__graft<sup>1</sup>__ _v_  
+__graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
 __gramps__  
 __grand jury__  
@@ -6230,7 +6231,7 @@ __grog__
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
 __groomed__  
 __groomers__  
-__groove__ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
+__groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __grope (somebody)__ _v informal_ To touch somebody sexually, especially when they do not want you to.  
 __grotesque__ _adj_  
 __ground chuck steak__  
@@ -7299,7 +7300,7 @@ __in check__ _Keep those emotions in check._
 __in deep water__ _idiom_ To be in a difficult situation.  
 __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply "donkeys," of "donkey's ears" -where "ears" rhymes with "years" and alludes to the length of a donkey's ears.  
 __in droves__ _They will come in droves._  
-__in excess of__ :four::hammer: _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
+__in excess of__ _idiom_ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn't slept for a period in excess of 24 hours._  
 __in fold__  
 __in front of (one's) nose__ _idiom_ Immediately obvious or clearly apparent.  
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
@@ -12365,7 +12366,7 @@ __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido
 __self-deprecating__  
 __self-effacing__ :two::hammer:  
 __self-esteem__ _n_  
-__self-fulfilling__ :five::hammer: _Self-fulfilling prophecy._  
+__self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one's own actions, behavior, etc.  
@@ -14373,7 +14374,7 @@ __thermistor__ :two::hammer:
 __thermos__ _A thermos._  
 __thespian__ :two::hammer:  
 __thick accent__ _Arnold's accent is getting thicker._  
-__thick and thin__ :four::hammer: _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
+__thick and thin__ _idiom_ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
@@ -14420,8 +14421,8 @@ __thromboembolism__ _n_
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
-__through and through__ :four::hammer: _It's a flagship through and through._ _She was a class act through and through._  
-__through thick and thin__ Through good times and bad times.  
+__through and through__ _idiom_ :four: Thoroughly or completely; in every way, manner, or aspect. _It's a flagship through and through._ _She was a class act through and through._  
+__through thick and thin__ _idiom_ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _"The Rat Pack" musical, through July 14._ _"Macbeth." July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
 __throw (someone) under the bus__ _idiom_  
