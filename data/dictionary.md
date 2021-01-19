@@ -183,16 +183,17 @@ __ACT__ A college entrance exam, competitor to the SAT.
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
-__acuity__ :three::hammer: _Visual acuity._ :es: agudeza  
+__acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :four: :reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
+__ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can't plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
 __ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don't think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ :mega: /ā′də/  
-__adage__ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
+__adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can't con an honest man._  
 __Adam's ale__ _slang_ Water.  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
@@ -283,7 +284,7 @@ __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from
 __age<sup>1</sup>__ _n_ :four::hammer:  
 __age<sup>2</sup>__ _v_  
 __ageless__  
-__agency__ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
+__agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
@@ -840,7 +841,7 @@ __back-of-house__ _Back-of-house technology._
 __back-office__ _Back-office analytics._  
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
-__backbencher__ :three::hammer: _A Tory backbencher._  
+__backbencher__ _n_ :three::hammer: _A Tory backbencher._  
 __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
@@ -1693,7 +1694,7 @@ __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
 __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
-__briar__ :three::hammer: _Briar patch._  
+__briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
@@ -1834,7 +1835,7 @@ __bulkhead__ _n_ :four::hammer: _The bulkhead door._
 __bull in a china shop__ _n_ _idiom_ :two: A clumsy person.  
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
-__bullet points__ :three::hammer: _Give me the bullet points._  
+__bullet point__ _n_ :three::hammer: _Give me the bullet points._  
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
@@ -1922,7 +1923,7 @@ __busker__
 __busload__  
 __bust out__ _She clearly has something busting out._  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
-__bust<sup>2</sup>__ _v_:three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
+__bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he's busting his tail on everything._  
 __bustiers__ _n_  
 __bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
@@ -2839,7 +2840,7 @@ __complacency__
 __complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
 __complex__ :mega:  
-__compliance__ :three::hammer: _Compliance guy._  
+__compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
 __complimentary__ :two::pencil2::hammer: _Complimentary rooms._ _Notice the complimentary nature of the two deﬁnitions._  
@@ -3454,7 +3455,7 @@ __damn__ :mute:[dam~~n~~]
 __damnation__  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
-__damning__ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
+__damning__ _adj_ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
@@ -3957,7 +3958,7 @@ __dissonance__
 __dissuade__ _v_ :pencil2::three: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
-__distinct__ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
+__distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
 __distinctly__ :two::hammer:  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
@@ -5124,7 +5125,6 @@ __finger-waggers__
 __fingers crossed__ _idiom_ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
 __finicky__ _adj_ :three:hammer:  
 __finish one's plate__ See "clean your plate." _Finish your plate!_  
-__finitum__ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
 __fir__ :two::hammer:  
@@ -5157,7 +5157,7 @@ __fist-pumper__
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __fists bumping__  
 __fit like a glove__ _idiom_ To fit perfectly.  
-__fit the bill__ :three::hammer: _His appearance fitted the bill._  
+__fit the bill__ _idiom_ :three::hammer: (fill the bill) _His appearance fitted the bill._  
 __fit__ :two::hammer:  
 __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _"My sleep, when it came, was fitful" (Kelly Braffet)._  
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
@@ -5378,7 +5378,7 @@ __fool<sup>2</sup>__ _v_ _Don't fool yourself--that's phony bullshit._
 __fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
-__foosball__ :three::hammer: _Foosball table._  
+__foosball__ _n_ :three::hammer: _Foosball table._  
 __foot the bill (for something)__ _idiom_ To pay for something; to pay for a bill. _My boss took me out for lunch and the company footed the bill._ _You paid for dinner last time. Let me foot the bill for lunch today._  
 __foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __foot-stomping__  
@@ -5707,7 +5707,7 @@ __gangbangers__
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man's suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __Ganjapreneur__  
 __gantlet__ :two::hammer: _A media gantlet._  
-__gaping__ :three::hammer: _A gaping psychological hole._  
+__gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
 __garbage chute__ :camera:  
@@ -5765,7 +5765,7 @@ __gearbox__
 __GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __gee__ _exclamation_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
 __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don't have time to explain: "Pardon me while I geek out for a moment."  
-__geezer__ :three::hammer: (geezers) _A lightsaber battle where two old geezers poke at each other._  
+__geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gelding__ _n_ :three:hammer:  
 __gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._  
@@ -6451,7 +6451,7 @@ __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ gu
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
 __hangnail__ :two::hammer:  
-__hangout__ :three::hammer: _This was a hangout._  
+__hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __hank__  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :three: (hankerings) Craving.  
@@ -6489,7 +6489,7 @@ __hard-line__ _A more hard-line position._
 __hard-liners__ :two::hammer:  
 __hard-luck story__ _idiom_ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nose__  
-__hard-nosed__ :three::hammer: _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
+__hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
@@ -6501,7 +6501,8 @@ __hardscrabble__ _Hardscrabble journeys._
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship's staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
-__hardwood__ :three::hammer: _The hardwood floor._  
+__hardwood<sup>1</sup>__ _n_ :two::hammer:  
+__hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
 __hardy__  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
@@ -7533,7 +7534,7 @@ __intangible__
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
-__intently__ :three::hammer: _He watched him intently._  
+__intently__ _adv_ :three::hammer: _He watched him intently._  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdicting__  
 __interim__  
@@ -8078,7 +8079,7 @@ __larder__ _n_ :three::hammer:
 __largely__ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he's larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn't._  
 __largess__ _n_  
-__lark__ :three::hammer: _Stop this jealousy lark!_  
+__lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
@@ -8994,7 +8995,7 @@ __mitzvah__
 __mix and match__ _idiom_ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ _idiom_ To combine or compare two different things.  
 __mix-up__ _n_ :two::hammer:  
-__mixed bag__ :three::hammer: _It's a mixed bag, really._  
+__mixed bag__ _n_ :three::hammer: _It's a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
 __MO__ _abbr_ :two: Modus operandi. _With the same MOs._  
@@ -9278,7 +9279,7 @@ __narrowly__ _I narrowly escaped execution._
 __nary__ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
-__nascent__ :three::hammer: _The nascent market._  
+__nascent__ _adj_ :three::hammer: _The nascent market._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __Nat Geo__ National Geographic.  
@@ -9727,7 +9728,7 @@ __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickl
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
 __open (one's) eyes__ _idiom_ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ _idiom_ :two: To create a situation that will cause a lot of problems.  
-__open house__ :three::hammer: _Educational open house._  
+__open house__ _n_ :three::hammer: _Educational open house._  
 __open loop__  
 __open mike__ :two::hammer: _When are you going to do an open mike?_  
 __open-air bus__  
@@ -10683,9 +10684,10 @@ __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved
 __poofy__ :pencil2:  
 __pooh-bah__ _n_ An arrogant or conceited person of importance. _Syn_ high-muck-a-muck  
 __pool cues__ :two::hammer:  
-__poor man__ :three::hammer: _She looked every bit the poor man's Pamela Anderson._  
+__poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man's Pamela Anderson._  
 __poor-boy__ _Poor-boy sandwich._  
-__poorly__ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
+__poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
+__poorly<sup>2</sup>__ _adj_  
 __pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
 __pop the cherries__  
 __pop__ _v_ _Kids popping balloons._  
