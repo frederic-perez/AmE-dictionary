@@ -1,3 +1,13 @@
+__modicum__ _n_  
+__junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase "meaner than a junkyard dog."  
+__forebear__ _n_ A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
+__pestiferous__ _adj_  
+__netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
+__Arcadian<sup>1</sup>__ _n_ __2__ (often arcadian) Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
+__Arcadian<sup>2</sup>__ _adj_ __2__ (often arcadian) One who leads or prefers a simple, rural life.  
+__esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
+__effusive__ _adj_  
+__imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
 __ambitious__  
 __startling__ _adj_  
 __wallow__ _v_ _They tend to wallow in their sorrow._  
