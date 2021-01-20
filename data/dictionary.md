@@ -10913,7 +10913,7 @@ __prix__ _A $40 prix fixe meal._
 __prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
 __prize<sup>2</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
 __prizefighter__ _n_ :three::hammer:  
-__pro bono__ :three::hammer: _Pro bono consultant._ _Some pro bono work._  
+__pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a defendant is unable to pay for his own defence. _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
 __pro__ _The pro column, not the con column._  
 __probation__ _A person has ben sentenced to probation._  
@@ -11267,7 +11267,7 @@ __racketeering__
 __racous__  
 __racousness__  
 __racquet__  
-__racy__ :three::hammer: _A racy line from a popular song._ _Racy song._  
+__racy__ _adj_ :three::hammer: _A racy line from a popular song._ _Racy song._  
 __radial__ _Such a thrill when your radials squeal._  
 __radiation budget__  
 __radical candor__  
@@ -11601,7 +11601,7 @@ __rendering plant__
 __rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People's Republic of China.  
 __renown__  
-__renowned__ :three::hammer: _World-renowned experts._  
+__renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._  
 __rent metal__  
 __rent__ _v_ _The elkhound's hound was rent._  
 __rents__ _n_  
@@ -11981,10 +11981,10 @@ __run over__ _phr v_
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
 __run-and-gun__ _A run-and-gun platform game._  
-__run-in__ :three::hammer: (run-ins) _A run-in with police._ _He had several run-ins with the law._  
+__run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :four: Ordinary, average.  
-__runaway__ :three::hammer: _Bryant was a runaway winner._  
-__runaways__  
+__runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
+__runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
 __rundown__ _n_ :two::hammer:  
 __rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
@@ -12428,13 +12428,12 @@ __set forth__ _phr v_ :two: Begin a journey or expedition. _Columbus set forth w
 __set menu__  
 __set off__ _phr v_ Leave; to begin a journey or trip. _He set off in search of better opportunities._  
 __set out__ _phr v_ :two::dart: To put something where it can be seen or used.  
-__set piece__ _The goal was scored on a set piece._  
+__set piece__ _n_ :four::hammer: (setpiece, set-piece) _Grappling at set-pieces was an offense they aimed to stamp out._ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__ _idiom_  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
-__set-pieces__ :three::hammer: _Grappling at set-pieces was an offense they aimed to stamp out._  
 __setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -13474,7 +13473,7 @@ __staggering<sup>2</sup>__ _v_
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
 __stair climbing__ The climbing of a flight of stairs.  
-__stairwell__ _n_:three::camera::hammer:  
+__stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake__ _n_  
 __stakeholder__ _n_ :three::hammer:  
 __stakeout__ _n_ :three::hammer: (stakeouts)  
@@ -14440,7 +14439,7 @@ __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful b
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
 __throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated "TBT") as an accompanying hashtag or caption. _I'm going to post my second grade class picture for throwback Thursday!_  
-__throwback__ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
+__throwback__ _n_ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_  
 __thrum__  
@@ -15112,7 +15111,7 @@ __unicorn__ _n_ Start-up valued at more than $1 billion.
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
-__unkempt__ :three::hammer: _Unkempt beards._  
+__unkempt__ _adj_ :three::hammer: _Unkempt beards._  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _preposition_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
@@ -16063,7 +16062,7 @@ __yonder__
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
 __you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: "Wow, that exam was brutally difficult." B: "You can say that again! It was the hardest test I've ever taken."_  
-__you name it__ :dart::three::hammer: _Foo, bar, baz--you name it._  
+__you name it__ _idiom_ :dart::three: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they've got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
