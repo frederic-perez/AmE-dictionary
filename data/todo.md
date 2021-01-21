@@ -1,3 +1,15 @@
+
+
+__antiquity__ _The wise men of antiquity._  
+__keep tabs__ _Keep close tabs on problems as they occur._  
+__go to great lengths__  
+__brainpower__ _n_  
+__ace in the hole__  
+__add up__ _Little things add up to make a significant difference._  
+__day in and day out__  
+__dancing in the streets__ (?)  
+__envision__ _v_  
+__amount to something__  
 __flummox__ _v_  
 __irenic__ _adj_ Inclined or disposed to peace; not quarrelsome or unruly. _Syn_ pacific, pacifical, pacifist, pacifistic, peaceable, peaceful  
 __willyard__ _adj_  
