@@ -1,3 +1,15 @@
+
+
+__call forth__  
+__secular__  
+__hard knocks__ _The school of hard knocks._  
+__all-out__  
+__flotation tank__  
+__Epsom salts__  
+__lofty__ _Lofty promises._  
+__personify__ _v_  
+__onslaught__ _n_  
+__repent__ _v_  
 __junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase "meaner than a junkyard dog."  
 __forebear__ _n_ A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __pestiferous__ _adj_  
