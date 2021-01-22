@@ -1,5 +1,16 @@
 
 
+__extensively__ _She’s been working extensively._  
+__behold__ _v_  
+__share__ _v_ _Everything you share is confidential._  
+__MO__ :two:  
+__dogged__ _adj_ (?)  
+__tail off__ (?) _Working his tail off._  
+__diligent__ _adj_  
+__pin (something) down__ _Pinned it down to two locations._  
+__junkie__ _He was a news junkie._  
+__impound__ _v_ (impounded)  
+
 __call forth__  
 __secular__  
 __hard knocks__ _The school of hard knocks._  
