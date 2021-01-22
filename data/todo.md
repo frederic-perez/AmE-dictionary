@@ -1,5 +1,16 @@
 
 
+__boycott__ _v_ To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
+__bugbear__ _n_  
+__voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one's inbox after a long vacation is an unenviable task._  
+__be kicked upstairs__ _idiom_ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
+__legerity__ _n_ The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
+__astound__ _v_ Affect with wonder. _Syn_ amaze, astonish  
+__be a different kettle of fish__ _idiom_ To be entirely different in scope or description from someone or something that was just being discussed.  
+__roister__ _v_ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we're going to roister till sunup._  
+__a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
+__blubber__ _n_  
+
 __extensively__ _She’s been working extensively._  
 __behold__ _v_  
 __share__ _v_ _Everything you share is confidential._  
