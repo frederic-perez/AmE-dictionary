@@ -1,5 +1,16 @@
 
 
+__you've got a point there__ _idiom_ Your point of view or opinion makes sense. _A: "It's snowing—should we really go out for ice cream?" B: "Hmm, you've got a point there."_  
+__faculty__ _n_  
+__transient__ _adj_ For a short time only; temporary or transitory. _Transient lesions._
+__stun__ _Stun zone._  
+__fistula__ _n_  
+__obliteration__  
+__excess__  
+__in place__  
+__a good catch__  
+__down the road__  
+
 __boycott__ _v_ To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bugbear__ _n_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one's inbox after a long vacation is an unenviable task._  
