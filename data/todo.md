@@ -1,26 +1,3 @@
-
-
-__antiquity__ _The wise men of antiquity._  
-__keep tabs__ _Keep close tabs on problems as they occur._  
-__go to great lengths__  
-__brainpower__ _n_  
-__ace in the hole__  
-__add up__ _Little things add up to make a significant difference._  
-__day in and day out__  
-__dancing in the streets__ (?)  
-__envision__ _v_  
-__amount to something__  
-__flummox__ _v_  
-__irenic__ _adj_ Inclined or disposed to peace; not quarrelsome or unruly. _Syn_ pacific, pacifical, pacifist, pacifistic, peaceable, peaceful  
-__willyard__ _adj_  
-__imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
-__regale__ _v_ __1__ To give delight or amusement to: _he regaled them with stories of his youth._ __2__ To provide with choice or abundant food or drink.  
-__guttersnipe__ _n_ A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw's _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
-__get in(to) hot water__ _idiom_ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
-__mogul__ _n_ __1__ A very rich or powerful person; a magnate.  
-__grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
-__get in the last word__ _idiom_ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
-__modicum__ _n_  
 __junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase "meaner than a junkyard dog."  
 __forebear__ _n_ A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __pestiferous__ _adj_  

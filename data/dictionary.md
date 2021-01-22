@@ -150,7 +150,7 @@ __accoutrement__ _n_ :five::hammer: (accouterment, accouterments, accoutrement, 
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
-__ace in the hole__  
+__ace in the hole__ _idiom_ :two::hammer:  
 __acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
@@ -199,7 +199,7 @@ __adamant__ _adj_ :two::hammer:
 __adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
 __add insult to injury__ _idiom_ :two: To hurt the feelings of a person who is already upset.  
 __add up to__ _idiom_ To equal or amount to something.  
-__add up__ _phr v_ :four::hammer: _The whole thing doesn't add up._  
+__add up__ _phr v_ :five::hammer: _The whole thing doesn't add up._ _Little things add up to make a significant difference._  
 __ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He's addled and we shall tend him._  
 __address__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
@@ -438,6 +438,7 @@ __ammonia__ _n_
 __amnesty player__  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
 __amount to nothing__ _idiom_ To result in no tangible or appreciable difference.  
+__amount to something__ _idiom_  
 __amount to__ _idiom_ :three::hammer:  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
@@ -517,6 +518,7 @@ __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_
 __antidepressant__ _adj_  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
+__antiquity__ _n_ _The wise men of antiquity._  
 __antler__ _n_  
 __antral__ _adj_  
 __antsy__ _adj_ :three: Restless, impatient.  
@@ -1635,6 +1637,7 @@ __brain drain__
 __brainchild__ _n_ :four::hammer:  
 __brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
+__brainpower__ _n_  
 __brainwash__ _v_  
 __brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.  
 __braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
@@ -3500,7 +3503,7 @@ __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidati
 __dawdled__ _v_  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
-__day in and day out__ _idiom_ Without respite. _He plays chess day in and day out._ _Syn_ all the time  
+__day in and day out__ _idiom_ :two: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ _idiom_ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __day job__  
@@ -4624,7 +4627,7 @@ __envelope > push the envelope__ _idiom_ To go beyond established limits; to pio
 __enviable__  
 __environs__ _n pl_  
 __envisage__ _v_ :two: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
-__envision__ _v_ :three::hammer:  
+__envision__ _v_ :four::hammer:  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
@@ -5312,7 +5315,7 @@ __fluffy slippers__ _n_ :camera:
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
-__flummox__ _v_ :four::hammer: (flummoxed)  
+__flummox__ _v_ :five::hammer: (flummoxed)  
 __flummoxed__ _adj_ Perplexed or bewildered.  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
@@ -5809,7 +5812,9 @@ __get away with__
 __get closure__ :two::hammer: _Get closure on compensation dispute with business partner._  
 __get down to work__ _idiom_ To begin being serious about something; to begin attending to business or work at hand.  
 __get enough__  
+__get in the last word__ _idiom_ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
 __get in(to) (someone's) pants__ _idiom_ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
+__get in(to) hot water__ _idiom_ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
 __get looks__ _v_ :two::hammer:  
 __get me started__ _Don't get me started!_  
 __get off on (something)__  
@@ -5991,7 +5996,7 @@ __go the way of the dinosaur(s)__ _idiom_ To become extinct, obsolete, old-fashi
 __go through the roof__  
 __go to bed with the chickens__ _idiom_ To go to bed very early.  
 __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
-__go to great lengths__ _idiom_  
+__go to great lengths__ _idiom_ :two::hammer:  
 __go to hell in a handcart__ _idiom_ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to the dogs__  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
@@ -6205,6 +6210,7 @@ __grimy__ _adj_
 __grinch__ _n_  
 __grind (someone's) gears__ _idiom_ To greatly or specifically irritate or annoy someone.  
 __grind__ _Most of us are more focused on the daily grind._  
+__grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
 __grinding half__ _"The people's business had come to a grinding half, and nothing was going to happen," he said._  
 __grinding__ _Bumping and grinding._  
 __gring__ _The grind of life on the road._  
@@ -6348,7 +6354,7 @@ __guts__ _n_ _slang_ Courage.
 __gutsy__  
 __gutted__ _adj_ _informal_ Disappointed and upset.  
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
-__guttersnipe__ _n_ A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin  
+__guttersnipe__ _n_ :two: A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw's _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
 __guzzler__ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
@@ -7219,6 +7225,7 @@ __illation__
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
 __illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
+__imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
 __imbed__ _v_ (imbedding) Less common spelling of _embed_.  
@@ -7579,6 +7586,7 @@ __irate<sup>1</sup>__ _adj_ :two::hammer:
 __irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
 __ireful__ _adj_ Feeling or showing extreme anger. _Syn_ irate  
+__irenic__ _adj_ Inclined or disposed to peace; not quarrelsome or unruly. _Syn_ pacific, pacifical, pacifist, pacifistic, peaceable, peaceful  
 __iris__  
 __Irish twin__ _n_ _slang_ :two::hammer: (Irish twins) _There is real twins and Irish twins._  
 __irk__ _v_ _What irks you?_  
@@ -7838,7 +7846,7 @@ __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one's eyes peeled__ _idiom_ (keep one's eyes skinned) To watch vigilantly (for).  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
-__keep tab(s) (on someone or something)__ _idiom_ :nine::hammer: (keeping tabs) :es: vigilar _I don't keep tabs on him._ _Ed kept close tabs on his brother._  
+__keep tab(s) (on someone or something)__ _idiom_ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don't keep tabs on him._ _Ed kept close tabs on his brother._  
 __keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep up with__ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
@@ -9006,10 +9014,10 @@ __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally wor
 __mockie__ _n_ :two::hammer:  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
-__modicum__ _n_ :seven: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
+__modicum__ _n_ :eight: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean "any at all," as if "If you had a modicum of sense (i.e. any sense at all), you'd be able to see that the pencil you've spent the last five minutes looking for is tucked behind your ear." _A modicum of timidity._  
 __modish__ _adj_  
 __mogrify__ _v_  
-__mogul__ _n_ :four::hammer: (moguls) _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
+__mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __molasses__ _n_ :five::hammer: _Pomegranate molasses._  
@@ -11531,7 +11539,7 @@ __refurbishment__ :two::hammer:
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
 __refuse<sup>2</sup>__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
-__regaled__  
+__regale__ _v_ :two: (regaled) __1__ To give delight or amusement to: _he regaled them with stories of his youth._ __2__ To provide with choice or abundant food or drink.  
 __regalia__ _n_ :two::hammer:  
 __regatta__  
 __regents__ _n_  
@@ -15793,6 +15801,7 @@ __willful__
 __willfully__  
 __willpower__ _n_  
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
+__willyard__ _adj_  
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He'd wilted under it._  
 __wily__ _adj_ :four::hammer:  
 __wimp out__  
