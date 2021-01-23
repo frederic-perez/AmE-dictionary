@@ -1,3 +1,13 @@
+__alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
+__pruritus__ _n_ Severe itching, often of undamaged skin.  
+__posit__ _v_  
+__ascribe__ _v_ _Which meaning were you ascribing to that word?_  
+__gross__ _n_ __2__ A group of 144 items; 12 dozen.  
+__come across__  
+__lather, rinse, (and) repeat__ _idiom_ _Lather. Rinse. Repeat._  
+__take no prisoners__ _idiom_  
+__piggy bank__ _n_ A child's coin bank (often shaped like a pig).  
+__temp__ _n_ A temporary worker, as in an office.  
 __conjecture__ _v_  
 __exact__ _v_  
 __(something) won't get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
