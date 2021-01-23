@@ -1,3 +1,13 @@
+__sedulous__ _adj_  
+__schwa__ _n_ (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
+__common__ _adj_ :mega: (kŏm′ən)  
+__nonlinear__ _adj_  
+__conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
+__conga line__ _n_ A line of people in single file performing the conga dance.  
+__miscellany__ _n_ :mega: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
+__hummingbird__ _n_ :es: colibrí  
+__nightingale__ _n_ :es: ruiseñor  
+__mockingbird__ _n_ :es: sinsonte  
 __boycott__ _v_ To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bugbear__ _n_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one's inbox after a long vacation is an unenviable task._  
