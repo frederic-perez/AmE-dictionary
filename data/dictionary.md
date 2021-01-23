@@ -2260,7 +2260,7 @@ __catch some Zs__ _idiom_ To go to sleep, to take a nap.
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch wind of (something)__ _idiom_ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catch wind__ _I don't know if you caught wond of it._  
-__catch__ _n_ :two::hammer: (game) _What's the catch?_  
+__catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What's the catch?_  
 __Catch-22__ _It's a real Catch-22 situation._  
 __catch-all__ _n_  
 __catch-up schedule__  
@@ -4116,6 +4116,7 @@ __dovetail__ _v_ (dovetails) :three::hammer:
 __dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
+__down the road__ _idiom_ _informal_ In the future; later on.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
@@ -4737,7 +4738,7 @@ __exasperation__
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
-__excess__ _adj_ :four::hammer: _Excess mortality._ _He's raised or spent in excess of $5,000 on political activity._  
+__excess__ _adj_ :five::hammer: _Excess mortality._ _He's raised or spent in excess of $5,000 on political activity._  
 __excise__ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excised__ _v_  
 __excommunication__  
@@ -4859,6 +4860,7 @@ __factious__ _adj_ Of, relating to, produced by, or characterized by internal di
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
+__faculty__ _n_  
 __fad__ _n_  
 __faeces__ _n_  
 __faggots__  
@@ -5159,6 +5161,7 @@ __fissure vent__ _n_ :three::hammer:
 __fist-pumper__  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __fists bumping__  
+__fistula__ _n_  
 __fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ _idiom_ :three::hammer: (fill the bill) _His appearance fitted the bill._  
 __fit__ :two::hammer:  
@@ -7323,6 +7326,7 @@ __in no way, shape, or form__ _idiom_ In no possible manner; under no circumstan
 __in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
 __in order that__ _idiom_ So that; with the particular aim or purpose of.  
 __in over (one's) head__ _idiom_ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
+__in place__ _idiom_  
 __in plain view__ _idiom_ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ _idiom_ Currently being discussed or under consideration. _I just don't see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
@@ -9555,6 +9559,7 @@ __oblate__ _n_
 __obligation__  
 __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I'll be much obliged._  
 __obliterate__ _v_  
+__obliteration__ _n_  
 __oblivion__ _n_ :two::hammer:  
 __oblivious__ _adj_ :five::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
@@ -13812,7 +13817,8 @@ __stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._
 __stuffy__ _adj_ :three::hammer:  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can't answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That's a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you're stumping, stomping, and stamping around, you're making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
-__stun__ _v_ (stunned)  
+__stun<sup>1</sup>__ _v_ (stunned)  
+__stun<sup>2</sup>__ _n_ _Stun zone._  
 __stunned__ _adj_ :six: When you're stunned, you're thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you'd be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__ _adj_ :five::hammer:  
@@ -14756,7 +14762,7 @@ __transceiver__
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _I was transfixed by it._  
-__transient<sup>1</sup>__ _adj_ :five::hammer::mega: _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>1</sup>__ _adj_ :six::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
 __translate__ _That doesn't always translate, believe me._  
 __translucent__ _adj_  
@@ -16073,6 +16079,7 @@ __you are what you eat__ _idiom_ To be healthy, you need to eat good food.
 __you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: "Wow, that exam was brutally difficult." B: "You can say that again! It was the hardest test I've ever taken."_  
 __you name it__ _idiom_ :dart::three: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they've got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I'll scratch yours__ _idiom_ If you help me, I will help you.  
+__you've got a point there__ _idiom_ Your point of view or opinion makes sense. _A: "It's snowing—should we really go out for ice cream?" B: "Hmm, you've got a point there."_  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
 __your mileage may vary__  
