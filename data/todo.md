@@ -1,3 +1,13 @@
+__embers__ _n_ _The embers that burn within your soul._  
+__harbor__ _n_ __2__ A place of shelter; a refuge.  
+__purloined__ _v_  
+__sure-fire__ _adj_ _informal_ :dart:  
+__change of heart__  
+__predicament__  
+__plate-glass__  
+__kickback__ _n_  
+__tab__ _n_ A bill, especially for meals or drinks. _Bar tabs._  
+__shylock__ _n_  
 __sedulous__ _adj_  
 __schwa__ _n_ (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __common__ _adj_ :mega: (kŏm′ən)  
