@@ -1,24 +1,3 @@
-__scrutinize__ _v_  
-__burden__ _n_  
-__derogative__ _adj_  
-__come clean__ _idiom_ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I'd made for the bake sale._  
-__of sorts__ _A celebrity of sorts._  
-__motorcade__ _n_  
-__CDC__ _abbr_ :two::hammer: _A CDC van._  
-__narrow down__ _idiom_ To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between "narrow" and "down." _Let's narrow it down to just our very top choices, otherwise we'll never pick a place to go._  
-__ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
-__slain__ _n_  
-__alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
-__pruritus__ _n_ Severe itching, often of undamaged skin.  
-__posit__ _v_  
-__ascribe__ _v_ _Which meaning were you ascribing to that word?_  
-__gross__ _n_ __2__ A group of 144 items; 12 dozen.  
-__come across__  
-__lather, rinse, (and) repeat__ _idiom_ _Lather. Rinse. Repeat._  
-__take no prisoners__ _idiom_  
-__piggy bank__ _n_ A child's coin bank (often shaped like a pig).  
-__temp__ _n_ A temporary worker, as in an office.  
-__conjecture__ _v_  
 __exact__ _v_  
 __(something) won't get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __induct__ _v_ Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  

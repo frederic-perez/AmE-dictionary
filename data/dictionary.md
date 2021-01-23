@@ -385,6 +385,7 @@ __allograft__ _n_
 __allotment__ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
+__alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
 __allusion__ _n_  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year's scheduled games, or information on your favorite (or least favorite) player.  
@@ -663,7 +664,7 @@ __ascertain__ _v_ :three::hammer:
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :seven::hammer: (ascribed)  
+__ascribe__ _v_ :eight::hammer: (ascribed) _Which meaning were you ascribing to that word?_  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borers__ _Emerald ash borers._  
 __ashen__ :two::hammer::pencil2: _His face turned ashen._  
@@ -1888,6 +1889,7 @@ __buoyancy__
 __buoyant__ _adj_ :five: __1__ Able or tending to keep afloat or rise to the top of a liquid or gas. _Syn_ able to float, light, floating _A buoyant substance._ :es: flotante __2__ Cheerful and optimistic. _Buoyant energy._ _The conference ended with the party in a buoyant mood._ _Syn_ cheerful, cheery, happy, light-hearted :es: boyante, optimista  
 __buoyed__  
 __burble__ _v_ :three: (burbled) __1__ Flow in an irregular current with a bubbling noise. __2__ (intr; often foll by away or on) To talk quickly and excitedly. _They burbled politely with Jane._  
+__burden__ _n_  
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeon__ _v_  
@@ -2296,7 +2298,7 @@ __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._
 __caw__ (caws) :two::hammer: _A rattling caw._  
 __cawed__ _v_ :two::hammer: (cawing)  
 __CBT__  
-__CDC__ _abbr_ Center for Disease Control.  
+__CDC__ _abbr_ :three: Center for Disease Control. _A CDC van._  
 __CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __ce__  
 __CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
@@ -2784,9 +2786,10 @@ __combat<sup>1</sup>__ _n_
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combines__ _Basketball_  
 __combs__ _n_ _The hens had red combs, wattles, and earlobes._  
-__come across__ :two::hammer:  
+__come across__ _idiom_ :three::hammer:  
 __come again?__  
 __come around__  
+__come clean__ _idiom_ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I'd made for the bake sale._  
 __come close to blows__ _idiom_ To nearly devolve into a physical fight.  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
 __come into play__ _Other factors inevitably come into play._  
@@ -2931,7 +2934,7 @@ __conglomerate__
 __conglomerates__  
 __congrats__ _Congrats on your wedding._  
 __Congressmen__ _n_  
-__conjecture__  
+__conjecture__ _v_ :two::hammer:  
 __conjoined__ _adj_ Consisting of two or more associated entities.  
 __conjunction__  
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
@@ -3711,6 +3714,7 @@ __derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fai
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__  
 __derision__  
+__derogative__ _adj_  
 __derrick__ _n_  
 __derringer__  
 __dervish__ _n_  
@@ -6242,6 +6246,7 @@ __groomed__
 __groomers__  
 __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike's system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __grope (somebody)__ _v informal_ To touch somebody sexually, especially when they do not want you to.  
+__gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
 __ground chuck steak__  
 __ground game__  
@@ -8115,7 +8120,7 @@ __latecommer__ _I'm somewhat of a latecomer._
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
 __lather__ _n_ Agitation resulting from active worry. _Syn_ fret, stew, swither, sweat _"I'm not going to get into a lather over this defeat," said the manager._  
-__lather, rinse, repeat__ :dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought.  
+__lather, rinse, (and) repeat__ _idiom_ :two::dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought. _Lather. Rinse. Repeat._  
 __lathered__ _v_ :three::hammer: (lathering) _He lathered the bar of soap._  
 __lathes__  
 __Latinas__  
@@ -9120,6 +9125,7 @@ __motocyclist__ _n_
 __Motor City__ Detroit.  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
+__motorcade__ _n_ A procession of motor vehicles, as in a parade.  
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
 __motoring__  
 __motorist__ _n_ :two: A person who drives or travels in a privately owned automobile.  
@@ -9282,6 +9288,7 @@ __Narcan__ _A state trooper administered Nascar to reverse the effects of an app
 __narcissistic__ _adj_ :two::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__  
+__narrow down__ _idiom_ To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between "narrow" and "down." _Let's narrow it down to just our very top choices, otherwise we'll never pick a place to go._  
 __narrow escape__ _idiom_ :two::hammer:  
 __narrow something down__ _idiom_ If you narrow something down, you reduce the number of possibilities.  
 __narrow-minded__ _adj_  
@@ -9600,7 +9607,7 @@ __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of 
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
 __of one's own accord__ Voluntarily.  
-__of sorts__ _phr_ :three: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._  
+__of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _"The 13 clocks" is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
@@ -10407,6 +10414,7 @@ __pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
+__piggy bank__ _n_ A child's coin bank (often shaped like a pig).  
 __piggy-back__  
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
@@ -10738,7 +10746,7 @@ __portrait__
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
-__posit__ _v_ :two::hammer::pencil2: (posited) _BYU has posited themselves well._  
+__posit__ _v_ :three::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He'd been playing possum._  
 __possum__ _n_ :two::hammer: :es: zarigüeya  
@@ -11022,6 +11030,7 @@ __prude__ _n_ :three::hammer:
 __prudent__ _adj_ :two::hammer:  
 __prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
+__pruritus__ _n_ Severe itching, often of undamaged skin.  
 __pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseudo__ :mute:[~~p~~seudo]  
@@ -11755,6 +11764,7 @@ __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice's Adventure
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
 __ride__ _n_ _idiom_ A car.  
+__ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
 __RIF__ _Reading Is Fundamental._  
@@ -12287,6 +12297,7 @@ __scrumptious__
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scrupulously__  
+__scrutinize__ _v_  
 __scrutiny__ :two::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
@@ -12866,6 +12877,7 @@ __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for 
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slackline__ _n_ :two::hammer:  
 __slag__  
+__slain__ _n_  
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
 __slam dunk__ _n_ :dart::two: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
@@ -14114,6 +14126,7 @@ __take down__ _phr v_ To make notes, to write down information.
 __take heart__ _idiom_ :three::dart: To be confident or courageous.  
 __take it away__ _informal_ To start playing or singing music.  
 __take it to the bank__ _idiom_  
+__take no prisoners__ _idiom_ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one's agenda or goal. _The new manager doesn't take any prisoners when a project needs to get done._  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
 __take one's cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
@@ -14270,7 +14283,7 @@ __tellingly__
 __telltale__ :two::hammer:  
 __tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
-__temp<sup>1</sup>__ _n_ :two: (temps) Temperature. _Subzero temps._ _Temps dropped into the 30s._  
+__temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :six::hammer: (tempered)  
 __tempera__ _n_  
