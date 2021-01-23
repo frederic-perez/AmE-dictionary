@@ -1,3 +1,13 @@
+__conjecture__ _v_  
+__exact__ _v_  
+__(something) won't get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
+__induct__ _v_ Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
+__beamish__ _adj_ Smiling, as with happiness or optimism.  
+__discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  
+__bunkum__ __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
+__preeminent__ _adj_  
+__be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
+__languish__ _v_ To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __embers__ _n_ _The embers that burn within your soul._  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
 __purloined__ _v_  
