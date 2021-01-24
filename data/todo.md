@@ -1,5 +1,16 @@
 
 
+
+__species__ _n_ _It is a protected species._  
+__opossum__ _n_  
+__sea canary__ _n_  
+__docent__ __2__ Aknowledgeable guide, esp. one who conducts visitors through a museum, cathedral, ar6 gallery, etc.  
+__tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
+__nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
+__faster than you can say Jack Robinson__ _idiom_ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
+__feckless__ _adj_ __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
+__anhedonia__ _n_ The inability to feel or experience pleasure.  
+__interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __repentance__ _n_  
 __wallow__ _v_  
 __outgrow__ _v_  
