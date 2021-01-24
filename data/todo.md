@@ -1,3 +1,15 @@
+
+
+__repentance__ _n_  
+__wallow__ _v_  
+__outgrow__ _v_  
+__mired__ _v_  
+__pedestrian__  
+__secularist__  
+__stifle__ _v_  
+__subtleties__ _n_  
+__judicious__ _adj_ _Judicious improvements._  
+__hoofprint__ _n_ (hoofprints)  
 __exact__ _v_  
 __(something) won't get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __induct__ _v_ Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
