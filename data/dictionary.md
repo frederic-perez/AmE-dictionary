@@ -15790,7 +15790,7 @@ __whooping cough__
 __whoopsie__ _n_ :dart::two: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whooshed__ _v_  
-__whorls__ :two::hammer:  
+__whorl__ _n_ :two::hammer: (worls)  
 __why on earth__  
 __Wi-Fi__  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
@@ -15878,19 +15878,19 @@ __wisecracker__
 __wisecracks__  
 __wish list__ _n_ :three::hammer: _The community's wish list._ _A $100 million wish list._  
 __wishbone__  
-__wishful thinking__ :two::hammer:  
+__wishful thinking__ _n_ :two: Thinking in which what one wishes were the case is believed to be real or likely to become real.  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wishy washy__ _slang_ Indecisive or not reliable.  
 __wishy-washy__ _adj_ :two: __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we're on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he's proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don't know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
-__wisteria__ :two::hammer:  
+__wisteria__ _n_ :two::hammer: _(Plants)_  
 __wistful__ _adj_ :three::hammer:  
 __wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit's end._  
-__witchcraft__ :two::hammer: _A 1958 witchcraft comedy._  
+__witchcraft__ _n_ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one's) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
 __with a passion__ _He loved her with a passion._  
@@ -15926,7 +15926,7 @@ __women__ _n_ /ˈwɪmɪn/ :mega:
 __wondrous<sup>1</sup>__ _adj_ :five::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
-__wonky__ :two::hammer: _Wonky details._  
+__wonky__ _adj_ :two::hammer:  
 __wont__ _adj_  
 __wonted__ _adj_ Commonly used or practiced; usual.  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
@@ -15938,7 +15938,7 @@ __woodwork__ _n_ :two::hammer:
 __woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __wooly__  
 __woomb__  
-__woozy__ :two::hammer:  
+__woozy__ _adj_ :two::hammer:  
 __wop__  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wording__ _n_  
@@ -15953,7 +15953,7 @@ __work off__ _phr v_ To get rid of something by using physical effort.
 __work on__ _phr v_ :two: To spend time or improving something.  
 __work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen's work surface._  
-__workaday__ :two::hammer: _The workaday world._  
+__workaday__ _adj_ :two::hammer: _The workaday world._  
 __workforce__  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
@@ -15982,8 +15982,7 @@ __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.
 __wrap__ :mute:[~~w~~rap]  
 __wraparound season__  
 __wrath__ :mute:[~~w~~rath]  
-__wreak havoc__ :two::hammer:  
-__wreaked havoc__  
+__wreak havoc__ _idiom_ :three: (wreaked havoc) To cause a lot of problems.  
 __wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
@@ -16007,7 +16006,7 @@ __wringer__ _n_ :three::hammer: _Run through the wringer._
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  
-__write (someone’s) own ticket__ :two::hammer:  
+__write (one’s) own ticket__ _idiom_ :two::hammer:  
 __write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don't write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
@@ -16024,22 +16023,21 @@ __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
 __wryly__ _adv_ :three::pencil2::hammer:  
-__wunderkind__ :two::hammer:  
+__wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
 __X-factor__ _Terry could become Ryukyu's X-factor._  
-__X's and O's__ :two::hammer: _There are the X's and O's._  
+__X’s and O’s__ _idiom_ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one's team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x's and o's, but the team's execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x's and o's of the budget._ __3__ Kisses and hugs.  
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
-__Xs and Os__ _The key is making the Xs and Os work for the Tigers._  
 __ya'__ _?_ _Ya' think?_  
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
-__yakuza__ :two::hammer:  
+__yakuza__ _n_ :two::hammer:  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
@@ -16068,7 +16066,7 @@ __yelp<sup>2</sup>__ _n_
 __yeoman__ _n_ :three::hammer:  
 __yesteryear__ _n_ :three::hammer:  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
-__yew tree__ :two::hammer:  
+__yew tree__ _n_ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
 __Yiddish__ _n_ :two::hammer:  
 __yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
@@ -16102,12 +16100,11 @@ __yowza__
 __yuan__ _n_  
 __yucca__ _n_  
 __yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it's spinach again!_  
-__Yule__  
-__yule__ :two::hammer: _If you believe, yule receive!_  
+__Yule__ _n_ :two::hammer: (yule)  
 __Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__  
 __yurt__ _n_ :two::hammer: (yurts)  
-__zaniness__ :two::hammer:  
+__zaniness__ _n_ :two::hammer:  
 __zany__ _adj_ :seven: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
@@ -16124,7 +16121,7 @@ __zero in__
 __zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
 __zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
-__zesty__ :two::hammer:  
+__zesty__ _adj_ :two::hammer:  
 __zhuzh__ _v_  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
@@ -16145,5 +16142,5 @@ __zonk__ _n_ :two::hammer:
 __zoom in__ _phr v_ To focus more closely.  
 __zoonotic__ _adj_  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men's suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
-__zucchini__ :two::hammer: :es: calabacín  
+__zucchini__ _n_ :two::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  

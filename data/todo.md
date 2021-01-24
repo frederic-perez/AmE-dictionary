@@ -1,18 +1,14 @@
-
-
-
 __species__ _n_ _It is a protected species._  
 __opossum__ _n_  
 __sea canary__ _n_  
-__docent__ __2__ Aknowledgeable guide, esp. one who conducts visitors through a museum, cathedral, ar6 gallery, etc.  
-__tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
-__nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
+__docent__ __2__ Aknowledgeable guide, esp. one who conducts visitors through a museum, cathedral, ar6 gallery, etc.  
+__tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
+__nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __faster than you can say Jack Robinson__ _idiom_ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
-__feckless__ _adj_ __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
-__anhedonia__ _n_ The inability to feel or experience pleasure.  
+__feckless__ _adj_ __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
+__anhedonia__ _n_ The inability to feel or experience pleasure.  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __repentance__ _n_  
-__wallow__ _v_  
 __outgrow__ _v_  
 __mired__ _v_  
 __pedestrian__  
@@ -63,7 +59,7 @@ __blubber__ _n_
 __extensively__ _She’s been working extensively._  
 __behold__ _v_  
 __share__ _v_ _Everything you share is confidential._  
-__MO__ :two:  
+__MO__ _abbr_ :two:  
 __dogged__ _adj_ (?)  
 __tail off__ (?) _Working his tail off._  
 __diligent__ _adj_  
@@ -91,7 +87,7 @@ __effusive__ _adj_
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
 __ambitious__  
 __startling__ _adj_  
-__wallow__ _v_ _They tend to wallow in their sorrow._  
+__wallow__ _v_ :two::hammer: _They tend to wallow in their sorrow._  
 __put a gun to (someone's) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __dispirit__ _v_ Lower someone's spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
