@@ -108,7 +108,7 @@ __abracadabra__ _n_
 __abrade__ _v_  
 __abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
-__abrogation__ :two::hammer:  
+__abrogation__ _n_ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __absconded__ _v_ :two::hammer:  
@@ -121,7 +121,7 @@ __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characteriz
 __abundant__  
 __abutted__  
 __abutting__ _Bungalows abutting._  
-__abuzz__ :two::hammer:  
+__abuzz__ _adj_ :two::hammer:  
 __abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
 __abysmal__  
 __abyss__ _n_ :astonished::mega::six:  
@@ -139,7 +139,7 @@ __accompany__ _v_
 __accomplice__  
 __accomplished__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
-__according to plan__ :two::hammer: _If everything goes according to plan._  
+__according to plan__ _idiom_ :two: In the way something is supposed to be; as expected. _If everything goes according to plan._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
@@ -170,7 +170,7 @@ __acquiesce__ _v_ :three: To agree to something or to accept something, although
 __acquiescence__ _n_ :three::hammer:  
 __acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn't fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
-__acreage__ :two::hammer:  
+__acreage__ _n_ :two: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
@@ -15323,13 +15323,13 @@ __varnish__ _n_
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
 __vast__ _A vast number._  
-__vastly__ :two::hammer:  
+__vastly__ _adv_ :two::hammer:  
 __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __vaunted__ _adj_ Hghly or widely praised or boasted about.  
-__VC__ :two::hammer: _A blindfolded VC suspect._  
+__VC__ _abbr_ :two::hammer: _A blindfolded VC suspect._  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
@@ -15436,7 +15436,7 @@ __visitation__ _n_ :five::hammer:
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez's anti-American vitriol heightened during the presidency of George W. Bush._  
-__vitriolic__ :two::hammer:  
+__vitriolic__ _adj_ :two::hammer:  
 __vituperate__ _v_  
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
@@ -15455,7 +15455,7 @@ __volatile__ _adj_
 __volcano__  
 __vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
 __volition__ _n_ :three::hammer:  
-__volley__ :two::hammer: _A volley of invective._ _(military attack?)_  
+__volley__ _n_ :two::hammer: _A volley of invective._  
 __voltage__ _n_ :two::mega::hammer:  
 __voltron__  
 __voluble__  
@@ -15518,11 +15518,11 @@ __walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phra
 __walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
 __walk__ :mute:[wa~~l~~k]  
-__walk-on__ :two::hammer:  
+__walk-on__ _n_ :two: __1__ A small part in a play or other entertainment, esp. a part without speaking lines.  
 __walk-through__ :es: precalentamiento (?)  
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
-__walking trail__ :two::hammer: _Many airports are upping their game, adding walking trails._  
+__walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkout__ _n_  
 __walkups__ (or walk-ups?)  
 __wall__ _n_ :es: I'd put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
@@ -15577,7 +15577,7 @@ __waspie__ _n_ A tight-waisted corset.
 __wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ _slang_ Drunk or intoxicated.  
-__wastrel__ :two::hammer:  
+__wastrel__ _n_ :two::hammer:  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
@@ -15590,7 +15590,7 @@ __water pill__
 __water seepage__  
 __water__ _v_ _Water the plants._  
 __waterbed__  
-__waterfowl__ :two::hammer:  
+__waterfowl__ _n_ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
 __waterlogged__  
 __watermelon__ _n_ :pencil2:  
@@ -15628,7 +15628,7 @@ __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
 __wedgie__  
 __wedhe issue__  
-__wedlock__ :two::hammer:  
+__wedlock__ _n_ :two: The state of being married; matrimony.  
 __Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::four: To get rid of unwanted things or people from a group.  
@@ -15638,7 +15638,7 @@ __weedeater__
 __weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
 __weeklong__ _A weeklong seminar._  
-__weevil__ :two::hammer: _Weevil worms._  
+__weevil__ _n_ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh down__ _idiom_ To make someone heavy and unable to move easily.  
 __weigh up__ _phr v_ To calculate, to estimate.  
@@ -15679,14 +15679,14 @@ __whackadoodle__
 __whale on (someone or something)__ _idiom_  
 __whale__ :mute:[w~~h~~ale]  
 __whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _"The alarm goes off and—whammo!—we're all at our assigned stations" (Meg Greenfield)._  
-__whammy__ :two::hammer: _A double whammy of injuries._  
+__whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
 __what__ :mute:[w~~h~~at]  
 __What's that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what's the haps?__  
-__whatnot__ :two::hammer:  
+__whatnot__ _n_ :two::hammer:  
 __wheat__ :mute:[w~~h~~eat]  
 __whee!__  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
@@ -15752,7 +15752,7 @@ __whisper__ :mute:[w~~h~~isper]
 __whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
-__whit__ :two::hammer: _A whit of intelligence._ _He didn't care a whit for what others thought of him._  
+__whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn't care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person's feelings.  
 __white line__ (appliances)  
@@ -15760,8 +15760,8 @@ __white on rice__ _idiom_ As close as can be. Often used in the phrase "like whi
 __white paper__  
 __white whale__ _n_ Small northern whale that is white when adult.  
 __white__ :mute:[w~~h~~ite]  
+__white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
-__whitehot__ :two::hammer: _Gustafson will be at the whitehot center of that quest._  
 __whitelist__ _v_  
 __whiteout__  
 __whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
@@ -15779,7 +15779,7 @@ __whole nine yards, the__
 __whole__ :mute:[~~w~~hole]  
 __wholeheartedly__  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that's done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It's pretty common to see the phrase "wholesale destruction," especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was "in large quantities," combining whole and sale into the phrase "by whole sale." _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
-__wholesaler__ :two::hammer:  
+__wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
 __wholesome__ _adj_ :three::hammer:  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
@@ -15788,8 +15788,8 @@ __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a swi
 __whoopee__  
 __whooping cough__  
 __whoopsie__ _n_ :dart::two: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
-__whoosh__ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
-__whooshed__ _v_  
+__whoosh<sup>1</sup>__ _n_ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
+__whoosh<sup>2</sup>__ _v_ (whooshed)  
 __whorl__ _n_ :two::hammer: (worls)  
 __why on earth__  
 __Wi-Fi__  

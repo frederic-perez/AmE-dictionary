@@ -1,5 +1,3 @@
-
-
 __debauchery__  
 __hysteria__  
 __expenditure__ _n_ _Wild expenditure._  
@@ -10,7 +8,6 @@ __atypical__
 __ipso facto__  
 __dynasty__ _n_ :pencil2:  
 __patron__ _n_ _He became a patron of the greatest contemporary chronicler._  
-
 __species__ _n_ _It is a protected species._  
 __opossum__ _n_  
 __sea canary__ _n_  
