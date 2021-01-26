@@ -477,6 +477,7 @@ __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocus
 __angsty__ _adj_ :two::hammer:  
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
+__anhedonia__ _n_ The inability to feel or experience pleasure.  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
@@ -765,7 +766,7 @@ __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun
 __attrition__ _n_ :six::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
-__atypical__ _adj_ :two::hammer: _Atypical atrial flutter._  
+__atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
 __au pair__  
 __au shops__  
 __Au.D__ Doctor of audiology.  
@@ -2831,6 +2832,7 @@ __commix__ _v_ To bring or combine together or with something else. _Syn_ amalga
 __commode__  
 __commodious__  
 __commoditization__  
+__commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __Commonwealth__  
 __commotion__ _n_  
 __communiqué__ (communiqués) :two::hammer:  
@@ -3552,7 +3554,7 @@ __debacle__ _n_ :four::hammer:
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
-__debauchery__ :two::hammer:  
+__debauchery__ _n_ :three::hammer:  
 __debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
@@ -4007,7 +4009,7 @@ __DOA__ _Repeal likely DOA._
 __doable__ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __Doc__  
-__docents__  
+__docent__ _n_ :two: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
 __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
@@ -4345,6 +4347,7 @@ __dyad__
 __dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn't a dyke, either._  
+__dynasty__ _n_ :pencil2:  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
@@ -4787,7 +4790,7 @@ __expediting__ _v_
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
-__expenditure__ _n_ :five: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
+__expenditure__ _n_ :six: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government's job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
@@ -4948,6 +4951,7 @@ __fast food__ :mega:
 __fast-track__ _v_  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
+__faster than you can say Jack Robinson__ _idiom_ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his collection._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
@@ -4995,7 +4999,7 @@ __feature<sup>2</sup>__ _v_
 __featuring__  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
-__feckless__ _adj_ :three::hammer:  
+__feckless__ _adj_ :four: __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
 __fecklessness__  
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one's own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
@@ -5688,6 +5692,7 @@ __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.
 __gag__ _The cases's gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
 __gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They'll never let me back into the science club again._  
+__gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
@@ -7175,6 +7180,7 @@ __hypokalemia__
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
+__hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
 __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to what you're saying. _No, I feel you, that's too much money to pay for a concert. I'm OK with skipping it._  
@@ -7564,6 +7570,7 @@ __intern__
 __international friendly__  
 __internecine__ _adj_  
 __internship__  
+__interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interred wih honors__ _The magazine saw seven issues and then was interred with honors._  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :seven::hammer: (interspersed)  
@@ -7591,6 +7598,7 @@ __inveterate__ _adj_ :four: Always doing a particular thing, especially somethin
 __invoice__ _v_  
 __invoke__  
 __IP__ Intelectual property.  
+__ipso facto__ _adv_  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
@@ -9469,6 +9477,7 @@ __noncommittal__ _adj_ :four: Not involving or revealing commitment to any parti
 __nondescript__ _adj_ :four::hammer:  
 __nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
+__nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
@@ -9758,6 +9767,7 @@ __operetta__ :pencil2:
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
+__opossum__ _n_  
 __oppo__ _Oppo researchers._  
 __opposition__ _n_ :mega:  
 __opprobrium__ _n_  
@@ -10151,7 +10161,7 @@ __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and 
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
 __patois__  
-__patron__ _n_ :five::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._  
+__patron__ _n_ :six::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
 __patronizing__ :two::hammer:  
@@ -12321,6 +12331,7 @@ __scuttlebutt__ _n_ Stories about someone’s personal life, especially ones tha
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
+__sea canary__ _n_  
 __sea change__ _n_ :two::hammer: _It sufferef a sea change._  
 __seabed__  
 __seafarer__  
@@ -13299,7 +13310,8 @@ __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movemen
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
 __specialty__ _n_  
-__specie__ _n_ Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
+__specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
+__species__ _n_ _It is a protected species._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
@@ -14662,6 +14674,7 @@ __tong__
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
 __tongue__ :mute:[tong~~u~~e]  
+__tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonnes__ _n pl_  
 __tonsil__ _n_ _A tonsil infection._  
@@ -14995,7 +15008,7 @@ __twin rooms__
 __twin__ _v_ _Twinned files._  
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
 __twine__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
-__twinge__ _n_ :two::hammer:  
+__twinge__ _n_ :three::hammer: _A painful twinge._  
 __twinkle__  
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
