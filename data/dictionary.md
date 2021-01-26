@@ -15171,7 +15171,7 @@ __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._
 __unsound__  
 __unspooling__ _Unspooling microphone cables._  
 __unstiking__ _v_  
-__unstoppable__ :two::hammer: _She is our unstoppable force of nature._  
+__unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
@@ -15190,7 +15190,7 @@ __unwielding__
 __unwieldy__ _adj_ :two::hammer:  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
-__unwittingly__ :two::hammer:  
+__unwittingly__ _adv_ :two::hammer:  
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
@@ -15200,7 +15200,7 @@ __up and under__ A basketball move.
 __up for grabs__ _idiom_ :four: Available for anyone.  
 __up to (one's) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: "When you are up to your neck in alligators, it's easy to forget that the goal was to drain the swamp." It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
 __up to your eyeballs in something__ _idiom_ To have too much of something.  
-__up yours__ :two::hammer:  
+__up yours__ _idiom_ _vulgar_ _slang_ :two: An expression of anger at someone.  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
 __up-tempo__ _Up-tempo kind of game._  
@@ -15214,7 +15214,8 @@ __upfield__
 __upfront__ _adj_ :two::hammer:  
 __upheaval__ _n_ :eight: A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill battle__ _idiom_ :two: Something very difficult to do.  
-__uphill__ :two::hammer: _An uphill task._ _I didn't have to fight uphill._  
+__uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
+__uphill<sup>2</sup>__ _adv_ _I didn't have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he's still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that's exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one's life.  
@@ -15249,7 +15250,7 @@ __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in 
 __uptake__ _n_ :three: __4__ The act of accepting or taking up something on offer or available.  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
-__uptime__ :two::hammer:  
+__uptime__ _n_ :two: The time during which a device, such as a computer, is functioning or available for use.  
 __upward__  
 __upwardly__  
 __urban legend__  
@@ -15260,8 +15261,8 @@ __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used b
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
 __usurp__ _v_  
-__usury__ :two::hammer:  
-__Utahns__ :two::hammer:  
+__usury__ _n_ :two::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
+__Utahn__ _n_ :two::hammer: (Utahns)  
 __utes__ _n_ (cars?)  
 __utilitarian__  
 __utility room__  
@@ -15272,8 +15273,8 @@ __utterance__
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one's wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
 __V bolt__  
-__V-E Day__  
-__V-J Day__ :two::hammer:  
+__V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
+__V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
 __VA__ _VA medical centers._  
 __vacant__ _Adam parked in a vacant spot._  
 __vacant-eyed__  
@@ -15281,7 +15282,7 @@ __vacate__ _v_
 __vacay__ _informal_ A holiday. _I'm in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
-__vacuum__ :two::hammer: _Upright/Canister vacuum._ :camera:  
+__vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
 __vagaries__ _n_  
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
@@ -15300,7 +15301,7 @@ __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fal
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
-__vamping__ :two::hammer:  
+__vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
 __vandalize__ _v_  
 __vandals__  
