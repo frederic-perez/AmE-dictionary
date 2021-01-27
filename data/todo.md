@@ -1,3 +1,13 @@
+__itinerant__ _adj_  
+__keep out of sight__ _idiom_ To remain unseen, as by hiding or evasion.  
+__entwine__ _v_ Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
+__keep mum__ _idiom_ To remain silent; to not say anything (e.g., about a secret).  
+__tellurian__ _n_  
+__belly-wash__ _n_ Any kind of drink of poor quality.  
+__cause célèbre__ _n_ Any controversy that attracts great public attention.  
+__macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
+__mammonism__ _n_ The greedy pursuit of riches.  
+__inextricable__ _adj_  
 __repentance__ _n_  
 __outgrow__ _v_  
 __mired__ _v_  
