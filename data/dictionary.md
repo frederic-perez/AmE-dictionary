@@ -12673,6 +12673,7 @@ __shove off__ _v_
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
 __shovel__ _v_  
+__show (one's) (true) colors__ _idiom_ :two::hammer: _He has shown his true colors._  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
 __show someone the door__ _idiom_ To dismiss someone from a job.  
@@ -14831,7 +14832,7 @@ __trespass__ _v_ :two::hammer: _No trespassing._
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
 __trestle__ _n_ :four: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
-__treys__ :two::hammer:  
+__trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_ :two::hammer:  
@@ -14883,7 +14884,7 @@ __trollop__
 __troop__  
 __trooper__ _n_ :two::hammer:  
 __troot__  
-__tropes__ :two::hammer:  
+__trope__ _n_ :two::hammer: (tropes)  
 __trophy wife__  
 __troposphere__  
 __trot line__  
@@ -14895,13 +14896,12 @@ __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue f
 __trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
-__troy ounce__ :two::hammer:  
+__troy ounce__ _n_ :two::hammer:  
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
 __truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
-__true colors__ :two::hammer: _He has shown his true colors._  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
 __truism__ _n_ :two::hammer:  
@@ -14913,13 +14913,13 @@ __trundling__ _v_ _Some employees are trundling in._
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
-__trustees__ :two::hammer: _Board of Trustees_  
+__trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
 __trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
+__try out__ _idiom_ :two::hammer:  
 __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one's patience and goodwill to the limit.  
-__tryouts__ :two::hammer:  
 __tryst__  
 __tsuifuku__  
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
@@ -14947,7 +14947,7 @@ __tumbleweed__ _n_
 __tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
-__tunnel vision__ :two::hammer:  
+__tunnel vision__ _n_ :two::hammer:  
 __tuppence__  
 __turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
@@ -14963,7 +14963,7 @@ __turn__ _v_ :astonished: _Clive turned 60 last month._
 __turn-key__ _adj_ :five: A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
 __turnaround__ _n_ :two::hammer:  
 __turndown__ _n_ The act of refusing an offer.  
-__turning tables__ :two::hammer: (turn the table) _Feds turning the tables on ssexual predators._  
+__turning the tables__ _idiom_ :two::hammer: _Feds turning the tables on sexual predators._  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
 __turnkey__ _adj_ :three::hammer: _Turnkey property._  
@@ -14991,9 +14991,8 @@ __tutor__ _n_
 __tutu__  
 __tux__ _n informal_ A tuxedo.  
 __twaddle__ _v_ :two: Speak (about unimportant matters) rapidly and incessantly. _Syn_ blabber, palaver, piffle, prate, prattle, tattle, gabble, gibber, clack, maunder, chatter  
-__twang__ :two::hammer:  
-__twang<sup>1</sup>__ _n_  
-__twang<sup>2</sup>__ _v_  
+__twang<sup>1</sup>__ _n_ :two::hammer:  
+__twang<sup>2</sup>__ _v_ :two::hammer:  
 __twanger__ _n_  
 __twangy__  
 __twat__  
@@ -15038,7 +15037,7 @@ __UA-ed__ _v_ :two::hammer:
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
-__ugh__ :two::hammer:  
+__ugh__ _interj_ :two::hammer:  
 __uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
 __uh__  
 __uh-oh__ _My "uh-oh" bell rings._  
@@ -15051,7 +15050,7 @@ __um__
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
 __umbrage__ _n_ :two::hammer:  
 __umpteen__  
-__umpteenth__ :two::hammer:  
+__umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.  
 __un-American__  
 __unabashed__ _adj_ :six: Not ashamed, disconcerted, or apologetic; boldly certain of one's position. _An unabashed fan._  
 __unabashedly__  
@@ -15062,7 +15061,7 @@ __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fe
 __unanimous__  
 __unapologetic__ _adj_ :nine::hammer:  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
-__unassailable__ :two::hammer:  
+__unassailable__ _adj_ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
@@ -15088,7 +15087,7 @@ __under the sun__ _idiom_ It's used for emphasiing that something includes a ver
 __under the weather__ _idiom_ :two: To feel ill.  
 __under water__  
 __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table payment of $10 million._  
-__underbelly__ :two::hammer: (underbellies)  
+__underbelly__ _n_ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
@@ -15101,7 +15100,7 @@ __underprivileged__
 __underrated__ :pencil2:  
 __underscore__ _v_ :four::hammer: (underscored, underscoring)  
 __undersecretary__  
-__understandably__ :two::hammer:  
+__understandably__ _adv_ :two::hammer:  
 __understated__ _adj_  
 __understatement__ _n_ :two::hammer:  
 __understudy__ _v_  
@@ -15133,19 +15132,19 @@ __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafari
 __unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
 __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to unfettered political advocacy._ _Unfettered by commutes._ _Unfettered flow of information._ _Unfettered travel._  
-__unflagging__ :two::hammer:  
+__unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unforeseen__ _Unforeseen difficulties._  
-__unfurl__ (unfurling) :two::hammer:  
+__unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungodly__ _adj_  
 __ungulate__  
 __unheard of__ _idiom_ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It's not unheard of for individual contributors to question their superiors' decisions._  
-__unheralded__ :two::hammer:  
-__unhindered__ :two::hammer:  
-__unhinged__ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
+__unheralded__ _adj_ :two::hammer:  
+__unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
+__unhinged__ _adj_ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
 __unimpeded__ _v_  
