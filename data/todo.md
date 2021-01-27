@@ -1,3 +1,13 @@
+__off-color__ _adj_  
+__figure__ _v_ _informal_  
+__watch (one's) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you'll be grounded for the weekend!_  
+__what do you know__ _idiom_ A phrase used to indicate one's surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
+__you name it__  
+__laminate__ _v_  
+__beggar__ _n_  
+__call someone names__ _idiom_ To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._  
+__caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
+__it figures__ _idiom_ It makes sense; it is as I expected or might have guessed. _A: "Sally already broke up with that new boyfriend of hers." B: "Yeah, it figures. The dude looked like a total creep!"_  
 __itinerant__ _adj_  
 __keep out of sight__ _idiom_ To remain unseen, as by hiding or evasion.  
 __entwine__ _v_ Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
