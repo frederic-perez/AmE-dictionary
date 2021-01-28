@@ -7375,7 +7375,7 @@ __in the wild__ _idiom_ In naturally occurring conditions or environments.
 __in the wind__ _idiom_  
 __in the works__ _We've got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
-__in tow__ _idiom_ :three: Accompanying alongside or under one's supervision. _The senator arrived to the press conference with her aides in tow._  
+__in tow__ _idiom_ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one's charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in virtue of (something)__ _idiom_ Due to something; because of something; by reason of something.  
 __in your birthday suit__ _idiom_ Naked.  
 __in__ _Cuba's team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
@@ -14340,7 +14340,7 @@ __terrestrial<sup>2</sup>__ _n_
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__ :two::hammer:  
 __test the water(s)__ _idiom_ :two::hammer: _We're testing the waters._  
-__tester bed__ :two::hammer:  
+__tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
 __testy__  
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
@@ -14397,7 +14397,7 @@ __the order of the day__
 __the proof is in the pudding__ _idiom_ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ _idiom_ "The real McCoy" is an idiom and metaphor used in much of the English-speaking world to mean "the real thing" or "the genuine article", e.g. "he's the real McCoy".  
 __the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
-__the sky is the limit__ :two::hammer:  
+__the sky is the limit__ _idiom_ :two: Anything is possible; there is practically no limit.  
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
 __thecracy__  
@@ -14410,10 +14410,11 @@ __there is no question__ _There is no question that higher ocean temperatures ha
 __there is no way around it/that__ _idiom_ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __thereabout__  
 __thereafter__ _Texas took the lead on Javan Felix's two free throws shortly thereafter._  
-__thereof__ :two::hammer:  
-__thermistor__ :two::hammer:  
+__thereof__ _adv_ :two::hammer:  
+__thermistor__ _n_ :two::hammer:  
 __thermos__ _A thermos._  
-__thespian__ :two::hammer:  
+__thespian<sup>1</sup>__ _adj_ :two::hammer:  
+__thespian<sup>2</sup>__ _n_  
 __thick accent__ _Arnold's accent is getting thicker._  
 __thick and thin__ _idiom_ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
@@ -14424,7 +14425,7 @@ __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the oper
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
 __thine__  
-__thingy__ :two::hammer:  
+__thingy__ _n_ :two::hammer:  
 __think back__ _idiom_ :two: To think about a past event or a past time.  
 __think over__ To consider a problem or decision carefully.  
 __think tank__ _n_ :five::hammer:  
@@ -14472,7 +14473,7 @@ __throw a monkey off his back__
 __throw away__ To get rif of something that you no longer want.  
 __throw down<sup>1</sup>__ _v_  
 __throw down<sup>2</sup>__ _n_  
-__throw in the towel__ :two::hammer:  
+__throw in the towel__ _idiom_ :two::hammer: (throw in the sponge; toss in the sponge)  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
@@ -14507,7 +14508,8 @@ __thunk<sup>2</sup>__ _v_ _A thunking sound._
 __thunked__ _v_  
 __Thursday__ :mega: /'θøzdi, -deI/  
 __thusly__  
-__thwack__ (thwacks) :two::hammer:  
+__thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
+__thwack<sup>2</sup>__ _v_  
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman's hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
@@ -14548,7 +14550,8 @@ __tightwad__ _n_
 __tigress__ _n_  
 __Tijuana special__  
 __tiki torches__ _n_ :camera:  
-__tiki__ :two::hammer: _Tiki sensibility._  
+__tiki<sup>1</sup>__ _adj_ :two::hammer: _Tiki sensibility._  
+__tiki<sup>2</sup>__ _n_  
 __tilapia__  
 __tiller__  
 __tiltyard__  
@@ -14575,7 +14578,8 @@ __tinderbox__
 __tinderdry__  
 __tine__ _n_ :two::hammer: (tines)  
 __tinfoil hat__  
-__tinge__ :two::hammer:  
+__tinge<sup>1</sup>__ _n_ :two::hammer:  
+__tinge<sup>2</sup>__ _v_  
 __tingle__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
 __tingles__ _I'm all tingles and shakes._  
 __tink__ _v_  
@@ -14645,7 +14649,7 @@ __toboggan__ _n_
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
 __toe the line__ _idiom_ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
-__toe-curling__ :two::hammer:  
+__toe-curling__ _adj_ _informal_ :two: Causing feelings of acute embarrassment.  
 __toe-poppers__  
 __toe-toppers__  
 __toe<sup>1</sup>__ _n_  
@@ -14680,13 +14684,14 @@ __tonic__ _adj_ _A 25 year old man presented to the emergency department with pa
 __tonnes__ _n pl_  
 __tonsil__ _n_ _A tonsil infection._  
 __tonsillitis__ _n_  
-__tonsils__ :two::hammer:  
+__tonsils__ _n_ :two::hammer:  
 __tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
 __tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
 __toom__  
-__toot__ :two::hammer:  
+__toot<sup>1</sup>__ _n_ :two::hammer:  
+__toot<sup>2</sup>__ _v_  
 __toote__ _v_ _Tooting the horn at their friends._  
 __tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
 __tooth decay__ (cavity, cavities) :es: caries  
@@ -14735,7 +14740,7 @@ __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re
 __tots__  
 __totter__ _v_  
 __tottered__  
-__touch and go__ :two::hammer:  
+__touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touch base (with someone)__ _idiom_ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it's been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touchline__  
 __touchy__ _adj_ :two::hammer:  
@@ -14743,14 +14748,13 @@ __tough cookie__ _n_ :three: A very determined person.
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
 __toupee__ _n_  
-__tour de force__ :two::hammer:  
+__tour de force__ _n_ :two::hammer:  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
 __tow truck__ _n_  
-__tow__ :two::hammer: _Cameras in tow._  
 __tower__ _v_ _Towering over our heads._  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
 __toy breeds__ _(pets)_  
@@ -14763,14 +14767,14 @@ __track__ _n_ :camera:
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
 __tract__ _v_  
 __tractography__ _n_  
-__tractor trailer__ :two::hammer::camera: (tractor-trailer)  
+__tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)  
 __tractor__ _n_  
 __trade paperback__  
 __trade__ _n_  
 __trade-off__ _She has to make trade-offs._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
-__trail mix__ :two::hammer: _Infused trail mix._  
+__trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
 __trails__ _n_  
@@ -14801,7 +14805,7 @@ __trapdoor__ _n_
 __trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
 __trascends__ _v_  
-__trash talk__ :two::hammer:  
+__trash talk__ _n_ :two::hammer:  
 __trashing__ _v_  
 __travail__  
 __travails__ _n_ :two::hammer:  
@@ -14813,7 +14817,7 @@ __trawler__
 __treacherous__ _adj_ :three::hammer:  
 __treachery__ _n_ :four::hammer:  
 __treacle__  
-__treacly__ :two::hammer:  
+__treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __tread water__ _idiom_ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one's status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one's head above water by remaining upright and pumping the legs.”  
 __treading__  
 __treasure__ _v_ :four::hammer:  
