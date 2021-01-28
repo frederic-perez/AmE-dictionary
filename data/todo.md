@@ -1,5 +1,16 @@
 
 
+__myocarditis__ _n_  
+__nighttime__ _n_ :pencil2:  
+__copyleft__ _n_  
+__dissection__ _n_ _Dissections in coronary vessels._  
+__ribbon-cutting__ _A ribbon-cutting ceremony._  
+__hankering__ _n_  
+__straight shooter_  
+__straight and narrow__  
+__hanky-panky__  
+__straightaway__  
+
 __Lent__ _n_  
 __exaggeration__ _n_ :pencil2:  
 __in quotation marks__ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
