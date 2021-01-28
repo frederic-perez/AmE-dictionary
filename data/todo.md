@@ -1,3 +1,15 @@
+
+
+__Lent__ _n_  
+__exaggeration__ _n_ :pencil2:  
+__in quotation marks__ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
+__unnerving__ _adj_  
+__appall__ _v_ :pencil2:  
+__foul-smelling__ (?)  
+__dowries__ _n_  
+__iniquity__ _n_  
+__latecomer__ _n_  
+__communion wafers__  
 __off-color__ _adj_  
 __figure__ _v_ _informal_  
 __watch (one's) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you'll be grounded for the weekend!_  
