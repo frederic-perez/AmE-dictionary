@@ -1,3 +1,13 @@
+__timely__ _In a timely manner._  
+__paramount__  
+__tacky__ _adj_ :es: cutre  
+__make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
+__bandit__ _n_  
+__gaffe__ _n_  
+__deceit__ _n_  
+__whirlwind__ _n_ :es: torbellino  
+__galvanize__ _v_ (galvanized)  
+__short-lived__ _adj_  Living or lasting only a short time; ephemeral.  
 __kickback__ _n_  
 __drive (one) batty__ _idiom_ To annoy or frustrate one to the point of exasperation. A week on vacation with my relatives is enough to drive me batty. That loud beeping noise is driving me batty!  
 __necessitate__ _v_  
