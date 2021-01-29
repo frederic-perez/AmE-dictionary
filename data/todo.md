@@ -1,3 +1,15 @@
+
+
+__Bull__ _n_ _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
+__prelate__ _n_  
+__water main__ _n_ _Broken water mains._  
+__levity__  
+__pricking__ _v_  
+__hearth__ _n_ _Hearth taxes._  
+__turret__ _n_  
+__lintel__ _Stone lintels._  
+__rampart__ _n_  
+__moat__ _n_  
 __myocarditis__ _n_  
 __nighttime__ _n_ :pencil2:  
 __copyleft__ _n_  
