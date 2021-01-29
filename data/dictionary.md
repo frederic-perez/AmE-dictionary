@@ -1838,6 +1838,7 @@ __bulk up__ _v_
 __bulk__ _n_ :two::hammer: _For the bulk of eight years._  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
 __bull in a china shop__ _n_ _idiom_ :two: A clumsy person.  
+__Bull__ _n_ _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
@@ -6687,7 +6688,7 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__ _n_ :eight::hammer: _Hearth repair._  
+__hearth__ _n_ :nine::hammer: _Hearth repair._ _Hearth taxes._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one's heartstrings._  
@@ -8261,7 +8262,7 @@ __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no lever
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
 __leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
-__levity__ _n_ :two::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
+__levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._  
 __lewd__ _adj_ :three::hammer:  
@@ -8353,6 +8354,7 @@ __linguaphile__ _n_
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ :two::hammer: _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
+__lintel__ _Stone lintels._  
 __lion's share__ _idiom_ :two: The greatest or best part.  
 __lionhearted__ _adj_  
 __lionized__ _v_  
@@ -9025,7 +9027,7 @@ __mixed signals__ _Mr. Trump sent more mixed signals on Monday._
 __MLK__  
 __MO__ _abbr_ :two: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
-__moat__ _n_ :seven::hammer: _The castle's moat._  
+__moat__ _n_ :eight::hammer: _The castle's moat._  
 __mob__ _n_  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
@@ -10844,6 +10846,7 @@ __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
+__prelate__ _n_  
 __preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
@@ -10902,7 +10905,7 @@ __price point__ _The best in price point._
 __price tag__ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
-__prick<sup>1</sup>__ _v_ :five::hammer: (pricked) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
+__prick<sup>1</sup>__ _v_ :six::hammer: (pricked, pricking) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
 __prick<sup>2</sup>__ _n_ _He already had the prick for it._  
 __prickle__ _n_  
 __prickled__ _v_ _Rob's skin prickled._  
@@ -11349,7 +11352,7 @@ __rampage<sup>1</sup>__ _v_ :four::hammer:
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
-__rampart__ _n_ :four::hammer: (ramparts) _Ancient stone ramparts._  
+__rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
@@ -14981,6 +14984,7 @@ __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese
 __turpentine__ _n_  
 __turpitude__ _n_ :two: Behavior that is dishonest or immoral.  
 __turquoise__ _n_ :pencil2:  
+__turret__ _n_  
 __turtledove__ _n_ :es: tórtola  
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
@@ -15602,6 +15606,7 @@ __water buffalo__
 __water closet__  
 __water cooler__  
 __water down__ _phr v_ :four: To make a liquid weaker by adding water.  
+__water main__ _n_ _Broken water mains._  
 __water pill__  
 __water seepage__  
 __water__ _v_ _Water the plants._  
