@@ -13940,13 +13940,13 @@ __Sunday__ :mega: /'söndi, -deI/
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
-__sundry__ :two::hammer:  
+__sundry__ _adj_ :two: Various; miscellaneous: _a purse containing sundry items._  
 __sunken__  
 __suntan__ _n_  
 __super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We've got super-duper telescopes._  
 __superbly__  
-__supercell__ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
-__supercilious__ :two::hammer:  
+__supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
+__supercilious__ _adj_ :two::hammer:  
 __superintendent__ _n_ :three::hammer:  
 __supernumerary__  
 __superpooch__  
@@ -13977,7 +13977,7 @@ __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._
 __surmise__ _v_ :six::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
-__surname__ :two::mega::hammer:  
+__surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
 __surplice__ _n_  
 __surprise, surprise__ _idiom_ :two: Said ironically of or in a situation in which something very predictable has happened.  
@@ -13994,7 +13994,7 @@ __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _Reafing a sutra._  
-__svelte__ :two::hammer:  
+__svelte__ _adj_ :two::hammer:  
 __Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
 __swab__ _n_ _Nasopharyngeal swabs._  
 __swadding__  
@@ -14014,7 +14014,7 @@ __swanky__ _adj_ :two::hammer: _Swanky dinner._
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
 __swarthiness__  
-__swarthy__ :two::hammer: _Swarthy skin._  
+__swarthy__ _adj_ :two::hammer: _Swarthy skin._ :es: moreno  
 __swashbuckling__ _n_ :two::hammer:  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
@@ -14034,7 +14034,7 @@ __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize co
 __Sweet 16__ _sports_  
 __sweet on someone__ _adj phr_  
 __sweet spot__ _We got very lucky and found a site right in the sweet spot._  
-__sweet water__ :two::hammer:  
+__sweet water__ _n_ :two: _(uncommon)_ Fresh water.  
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
@@ -14052,7 +14052,7 @@ __swig<sup>2</sup>__ _v_ :two::hammer:
 __swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swim tube__  
 __swimabout__  
-__swimming hole__ :two::hammer:  
+__swimming hole__ _n_ :two: A place, as in a stream, where there is water deep enough for swimming.  
 __swindle<sup>1</sup>__ _n_ :two::hammer:  
 __swindle<sup>2</sup>__ _v_ :three::hammer:  
 __swindler__ _n_ :four::hammer: _In the dark space between anticipation and realization, the swindler thrives._ _The notorious 19th-century swindler Ferdinand Ward._  
@@ -14077,13 +14077,13 @@ __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid
 __swooshing__  
 __sword__ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
-__syllogism__ :two::hammer:  
+__syllogism__ _n_ :two::hammer:  
 __sympathetic__  
 __synaptogenesis__ _n_  
 __syncing__ _Syncing up over coffee._  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
-__syndicated__ :two::hammer:  
+__syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
 __synesthesia__ _n_  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
@@ -14092,7 +14092,7 @@ __syphilis__ _n_ :pencil2:
 __syringe__  
 __syrup__ _n_ _Maple syrup._  
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy "chick flicks" are another thing altogether._  
-__systemic__ :two::hammer:  
+__systemic__ _adj_ :two::hammer:  
 __syzygy__  
 __T__ _v_ _His car shit the bed so he's going to have to T it._  
 __T-ball__  
@@ -14113,7 +14113,7 @@ __tabulated__ _Tabulated scientific data._
 __tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
 __taciturn__  
-__tack__ :two::hammer: _The GOP changed its tack._ :es: rumbo  
+__tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
 __tacky__ _adj_ :three::hammer: _The office looked tacky._  
 __tactful__  
@@ -14121,7 +14121,7 @@ __tactfully__ _adv_ :two::hammer:
 __tad__ _n informal_ :four::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
 __tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
-__tagline__ :two::hammer: _Our big tagline is to help others._  
+__tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
 __tail end__ _The tail end of the day._  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
@@ -14158,7 +14158,7 @@ __takeout containers__
 __takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __taking roll__ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
-__talcum powder__ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
+__talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _A specific set of talents._  
 __talk back__ _idiom_  
 __talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  
@@ -14210,7 +14210,7 @@ __taproom__ _n_ A room or establishment where alcoholic drinks are served over a
 __taproot__ _n_ :two::hammer: (taproots)  
 __taps__ _A bugler played taps._  
 __taradiddle__ _n_  
-__tardy__ :two::hammer:  
+__tardy__ _adj_ :two::hammer:  
 __target ball__  
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
 __tariff__ _n_ :six::hammer: (tariffs)  
@@ -14259,13 +14259,13 @@ __taxidermy__ _n_
 __taxpayer__ _n_ :two::pencil2::hammer:  
 __TBD__  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
-__tea party__ :two::hammer: _Tea party groups._ _Tea party rallies._  
+__tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __Tea partyers__ :pencil2:  
 __teakwood__ :pencil2:  
 __team player__  
 __team up__ _v_  
 __Teamster__ _n_ :two::hammer:  
-__tear gas__ :two::hammer:  
+__tear gas__ _n_ :two::hammer:  
 __tear__ _The stock has been on a tear._  
 __teardown__ _n_  
 __tearing__ _Her idea of taking a day off is tearing around a golf course._  
@@ -14290,10 +14290,9 @@ __televangelist__ _n_
 __televised__  
 __tell > telling stretch__ _The telling stretch of the season._  
 __tell me about it!__ :es: ya te digo (?)  
-__tell-tale__ :two::hammer: _Tell-tale sings._  
 __telling__ _n_ :three::hammer: _In her telling, this "they" of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father's experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
-__telltale__ :two::hammer:  
+__telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
 __tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
@@ -14338,7 +14337,7 @@ __terrapin__
 __terrestrial<sup>1</sup>__ _adj_  
 __terrestrial<sup>2</sup>__ _n_  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
-__terse__ :two::hammer:  
+__terse__ _adj_ :two: Brief and to the point; effectively concise.  
 __test the water(s)__ _idiom_ :two::hammer: _We're testing the waters._  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  

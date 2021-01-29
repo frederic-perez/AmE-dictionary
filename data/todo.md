@@ -1,5 +1,3 @@
-
-
 __Bull__ _n_ _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __prelate__ _n_  
 __water main__ _n_ _Broken water mains._  
