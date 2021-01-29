@@ -1,3 +1,13 @@
+__kickback__ _n_  
+__drive (one) batty__ _idiom_ To annoy or frustrate one to the point of exasperation. A week on vacation with my relatives is enough to drive me batty. That loud beeping noise is driving me batty!  
+__necessitate__ _v_  
+__belated__ _A belated shoutout to Dave for his recent contribution to the museum._  
+__sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
+__canister__ _n_  
+__onset__ _n_  
+__all kidding aside__ _idiom_ ((all) kidding aside) In all seriousness; being frank for a moment.  
+__laconic__ _adj_ Using or marked by the use of few words; terse or concise.  
+__smear__ _v_  
 __myocarditis__ _n_  
 __nighttime__ _n_ :pencil2:  
 __copyleft__ _n_  
