@@ -933,7 +933,7 @@ __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Represe
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don't know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
 __banalize__ _v_  
 __bandanna__ :two::hammer:  
-__bandit__ _n_  
+__bandit__ _n_ :two::hammer:  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
@@ -3573,7 +3573,7 @@ __decamped__ _v_
 __decant__ _v_ :two::hammer:  
 __decanter__ _n_ :two::hammer:  
 __decathlon__  
-__deceit__ _n_  
+__deceit__ _n_ :two::hammer:  
 __decelerate__ _v_  
 __decidedly__ _adv_ Without question and beyond doubt. _It was decidedly too expensive._  
 __decidious__ _adj_  
@@ -5686,7 +5686,7 @@ __gabled__ :two::hammer: _Gabled roofs._
 __Gabor__ :mega:  
 __gadfly__  
 __gaff__ _n_  
-__gaffe__ _n_  
+__gaffe__ _n_ :two::hammer:  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gaffes__ _n_ :two::hammer:  
 __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
@@ -5709,7 +5709,7 @@ __gallows__ _n_
 __galore__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v_  
-__galvanize__ _v_ :seven: (galvanized) To startle into sudden activity; stimulate.  
+__galvanize__ _v_ :eight: (galvanized) To startle into sudden activity; stimulate.  
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is "failure is not an option."_  
@@ -8617,6 +8617,7 @@ __major-domo__ _n_ (majordomo)
 __majoring__  
 __make (one's) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
+__make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ _idiom_  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one's own or someone else's amusement, or as a show of disgust.  
 __make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
@@ -10064,7 +10065,7 @@ __paragon__ _n_ :six: (paragons) Model of excellence or perfection of a kind; on
 __parakeet__ _n_ :mega: :es: periquito  
 __paralysis__ _n_ :mega:  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
-__paramount__ _The reliability of the weather station is paramount._  
+__paramount__ _adj_ :two::hammer: _The reliability of the weather station is paramount._  
 __paranoid__ _adj_  
 __parapet__ _n_  
 __paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
@@ -12649,7 +12650,7 @@ __short of (something)__ _Anything short of that._
 __short__ _He typically wears shorts to work._  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
-__short-lived__  
+__short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
 __shortbread__ _n_  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
@@ -14118,7 +14119,7 @@ __tachometer__
 __taciturn__  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
-__tacky__ _adj_ :three::hammer: _The office looked tacky._  
+__tacky__ _adj_ :four::hammer: _The office looked tacky._ :es: cutre  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
@@ -14567,7 +14568,7 @@ __timeclock__ _Denver Movie Timeclock._
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
 __timeliness__  
-__timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._  
+__timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
@@ -15760,7 +15761,7 @@ __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid moti
 __whirl__ :mute:[w~~h~~irl]  
 __whirled__ _v_ :two::hammer:  
 __whirlpool__ _n_  
-__whirlwind__ _A whirlwind tour of American universities._  
+__whirlwind__ _n_ :two::hammer: _A whirlwind tour of American universities._ :es: torbellino  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
 __whirred__ _v_ :three::hammer: (wirring) _The arrow whirred over his head._  
 __whisk broom__  
