@@ -1,4 +1,14 @@
-__kickback__ _n_  
+__andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
+__jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
+__knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
+__the knacker's yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
+__bowdlerize__ _v_ Edit by omitting or modifying parts considered indelicate. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district's banned books list._  
+__keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
+__begrudge__ _v_ To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
+__keep an eye peeled (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
+__prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
+__keep a sharp lookout (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
+__kickback__ _n_ :two::hammer:  
 __drive (one) batty__ _idiom_ To annoy or frustrate one to the point of exasperation. A week on vacation with my relatives is enough to drive me batty. That loud beeping noise is driving me batty!  
 __necessitate__ _v_  
 __belated__ _A belated shoutout to Dave for his recent contribution to the museum._  
@@ -73,7 +83,6 @@ __sure-fire__ _adj_ _informal_ :dart:
 __change of heart__  
 __predicament__  
 __plate-glass__  
-__kickback__ _n_  
 __tab__ _n_ A bill, especially for meals or drinks. _Bar tabs._  
 __shylock__ _n_  
 __sedulous__ _adj_  
