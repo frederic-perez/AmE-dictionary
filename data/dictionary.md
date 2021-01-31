@@ -13097,7 +13097,7 @@ __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed fou
 __snap<sup>2</sup>__ _v_ :two::hammer:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
 __snapper__ _n_ _A red snapper._  
-__snappier__ :two::hammer: _Everything will be snappier._  
+__snappier__ _adj_ :two::hammer: _Everything will be snappier._  
 __snapping__  
 __snappy__  
 __snare drum__ :two::hammer: (snare drums) :es: tambor militar pequeño  
@@ -13120,7 +13120,7 @@ __Snellen chart__
 __snick__ _v_  
 __snicker<sup>1</sup>__ _v_ :seven: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
 __snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience._  
-__snide__ :two::hammer:  
+__snide__ _adj_ :two::hammer:  
 __sniffed__ _v_ :two::hammer:  
 __sniffle__ _v_ (sniffles)  
 __snifter__ _n_ :two::camera::dart::hammer:  
@@ -13154,21 +13154,21 @@ __snowmobiler__
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
 __snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
 __snowplows__ _n_  
-__snowshoeing__ :two::hammer:  
-__snub-nosed__ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
+__snowshoe__ _v_ :two::hammer: (snowshoeing)  
+__snub-nosed__ _adj_ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
 __snub<sup>2</sup>__ _n_ :seven: A deliberate slight or affront.  
 __snuff out__ _v_ :two::hammer: (snuffed out) _Her life snuffed out at 41._  
 __snuff__ _v_ :four::hammer: (snuffling) _He quickly snuffed it out._  
 __snug__ _v_ :three::hammer:  
 __snuggles__  
-__snugly__ :two::hammer:  
+__snugly__ _adv_ :two::hammer:  
 __so far, so good__  
 __so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
-__so-so__ :two::hammer: _The glass business was a so-so money maker._  
+__so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
 __soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_  
@@ -13214,7 +13214,7 @@ __solicitude__ A feeling of excessive concern.
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
-__soliloquy__ :two::hammer:  
+__soliloquy__ _n_ :two::hammer:  
 __solipsism__ _n_  
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
@@ -13246,7 +13246,7 @@ __sordid__ _adj_
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :three::hammer:  
 __sorghum__  
-__sorority__ :two::hammer: _A member of Zeta Tau Alpha sorority._  
+__sorority__ _n_ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrowful__ _adj_ Very sad.  
 __sort it out__ _idiom_ :three::hammer: __2__ _Fig._ To study a problem and figure it out. _I can't sort this out without some more time. Let's sort out this mess and settle it once and for all._  
@@ -13254,7 +13254,7 @@ __sort out__ _v_ :two::hammer:
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter's_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
 __sortie__ _n_ :two::hammer: _It was here, a messenger told the first sortie of Earthmen, that they were welcome to live._  
-__sot__ :two::hammer: _A surly sot._  
+__sot__ _n_ :two::hammer: _A surly sot._  
 __sotto voce__  
 __sought-after__ _adj_ :three: Wanted or desired by many people; in demand: _the tangle of laws that makes it so difficult to get sought-after wines_ (Eric Asimov).  
 __soul__ _n_ :mega:  
@@ -13284,13 +13284,13 @@ __space heater__ _n_
 __space opera__  
 __space__ _v_ _I spaced on that._  
 __spaceling__ _v_  
-__spackle__ :two::hammer:  
+__spackle__ _n_ :two::hammer:  
 __spade-bearded__  
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __spandex__ _n_  
 __spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target. _  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
-__Spanish moss__ :two::hammer:  
+__Spanish moss__ _n_ :two::hammer:  
 __Spanx__  
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
@@ -13305,7 +13305,7 @@ __spatter__ _n_
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
 __speak of the devil__ _v_ _idiom_ :dart: Mention someone's name who just then appears.  
-__speak out__ :two::hammer: (spoke out)  
+__speak out__ _phr v_ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
 __speak volumes__  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
@@ -13321,7 +13321,7 @@ __specifically__
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ _adj_ :three::hammer: _Specious argument._  
-__speck__ :two::hammer: _A speck of blood._  
+__speck__ _n_ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
@@ -13341,14 +13341,15 @@ __spent rocket stages__ :camera:
 __spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
-__spiffy__ :two::hammer:  
+__spiffy<sup>1</sup>__ _adj_ :two::hammer:  
+__spiffy<sup>2</sup>__ _v_ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You've seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill over__  
 __spill the beans__  
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
-__spillover__ :two::hammer:  
+__spillover__ _n_ :two::hammer:  
 __spin bike__ _n_ :camera:  
 __spin<sup>1</sup>__ _n_ _But don't believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
@@ -13360,7 +13361,7 @@ __spinet piano__ :camera:
 __spinnaker__ _n_  
 __spinning wheels__ :two::hammer: _Feel like you’ve been spinning your wheels in your job search?_  
 __spinouts__  
-__spinster__ :two::hammer:  
+__spinster__ _n_ :two::hammer:  
 __spiny lobsters__ :camera:  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
@@ -13386,10 +13387,9 @@ __splurge<sup>2</sup>__ _v_ :seven::hammer: (splurged, splurging)
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _A baby's spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
-__spoil__ _v_ :three::hammer: (spoiled) _She loved spoiling her grandkids._  
+__spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
 __spoilage__ :dart:  
 __spoilers__ (airplane) :camera:  
-__spoiling__ :two::hammer: _A spoiling attack._  
 __spokes__ _Someone should have ripped out his spokes long time ago._  
 __spoliator__ _n_ A plunderer.  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
@@ -13418,10 +13418,10 @@ __sprawl__ _v_ :five::hammer: (sprawled, sprawling)
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spreading hairs__ (?)  
-__spree__ :two::hammer: _A killing spree._  
+__spree__ _n_ :two::hammer: _A killing spree._  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
-__springboard__ :two::hammer:  
+__springboard__ _n_ :two::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
 __sprinkle<sup>1</sup>__ _n_ :two: __2__ A light rainfall.  
@@ -13479,7 +13479,7 @@ __squatter__
 __squawk__ _v_ :four::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
-__squeaky__ :two::hammer:  
+__squeaky__ _adj_ :two::hammer:  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
 __squeamish__ _adj_ :seven: Easily upset or disgusted by things or actions you find unpleasant: _Dad was squeamish about killing roaches._  

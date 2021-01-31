@@ -1,5 +1,3 @@
-
-
 __portcullis__ _n_  
 __audacious__ _adj_ _In size it was the most audacious._  
 __men-at-arms__  
@@ -7,7 +5,7 @@ __fishpond__ _n_ _A rainwater fishpond on the roof._
 __bellicose__  
 __meager__  
 __rancorous__ _adj_  
-__dissolute__ _She was said to be of dissolute morals._ 
+__dissolute__ _She was said to be of dissolute morals._  
 __Holy Sepulcher__  
 __barry__ (?)  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
