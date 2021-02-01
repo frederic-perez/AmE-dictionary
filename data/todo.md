@@ -1,3 +1,13 @@
+__knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king's court is a hotbed of intrigue and malicious knavery._  
+__Faustian__ _adj_ Surrendering one’s integrity for something, such as power, money, fame, etc.  
+__nostrum__ _n_ :astonished:  
+__a knife in the back__ _idiom_ A grievous or supreme act of treachery or betrayal. (Usually preceding "of/for (someone).")  
+__soi-disant__ _adj_ Calling oneself thus. _Syn_ self-styled _I do not think either of these soi-disant friends is overflowing with love for the other._  
+__hearth__ _n_  
+__torpor__ _n_  
+__pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
+__scrummy__ _adj_  
+__footloose__ _adj_  
 __portcullis__ _n_  
 __audacious__ _adj_ _In size it was the most audacious._  
 __men-at-arms__  
