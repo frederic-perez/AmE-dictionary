@@ -12567,7 +12567,7 @@ __shelling<sup>1</sup>__ _n_ :es: bombardeo
 __shelling<sup>2</sup>__ _v_  
 __shells__ _n_  
 __shelved__ _v_ :four::hammer: _The Supreme Court temporarily shelved his Clean Power Plan._  
-__shenanigans__ :two::hammer:  
+__shenanigans__ _n_ :two::hammer:  
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
@@ -12582,8 +12582,7 @@ __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)
 __shilling__ _I'm not quite the shilling._  
 __shills__ _Government shills._  
 __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
-__shimmy__ _v_  
-__shimmying__ :two::hammer:  
+__shimmy__ _v_ :three::hammer: (shimmying)  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
@@ -12596,7 +12595,7 @@ __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _Airborne and shipborne measured platforms._  
 __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
-__shipyard__ :two::hammer:  
+__shipyard__ _n_ :two::hammer: :es: astillero  
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
@@ -12621,7 +12620,7 @@ __shoestring<sup>1</sup>__ _n_
 __shoestring<sup>2</sup>__ _adj_ :two::hammer: _A shoestring budget._ _A shoestring operation._  
 __shoftlift__ _v_  
 __shogun__ _n_  
-__shogunate__ :two::hammer: _A local shogunate office._  
+__shogunate__ _n_ :two::hammer: _A local shogunate office._  
 __shoo__ _v_ :three::hammer: (shooing)  
 __shoo-in__  
 __shooing__ _v_  
@@ -12630,7 +12629,7 @@ __shoot for the moon__ _idiom_ To set one's goals or ambitions very high; to try
 __shoot from the hip__ _idiom_  
 __shoot the breeze__ _informal_ Have a casual conversation. _We've been shooting the breeze for well over an hour now._  
 __shoot the moon__ _v_ :three::hammer:  
-__shoot up__ :two::hammer: _The number of homeless families shot up during the recession._  
+__shoot up__ _idiom_ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot your mouth off__ _idiom_ To boast or talk too much, to tell secrets.  
 __shoot yourself in the foot__ _idiom_ To do or say something that causes problems for you.  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
@@ -12656,13 +12655,13 @@ __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortc
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
 __shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
-__shorthand__ :two::hammer:  
+__shorthand__ _n_ :two::hammer: :es: taquigrafía  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist's biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
 __shortly before__ _Shortly before Lee's death, the homeless man walked of the St. David's Medical Center against medical advice._  
-__shortly__ :two::hammer: _Shortly before 8 a.m. Tuesday._  
+__shortly__ _adv_ :two::hammer: _Shortly before 8 a.m. Tuesday._  
 __shorts__ _n pl_ (plurale tantum)  
-__shot in the arm__ :two::hammer:  
+__shot in the arm__ _idiom_ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
 __shot__ _(:es: javalina?)_  
@@ -12725,7 +12724,7 @@ __shut out__ _v_ :two::hammer:
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers's fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shy away__ _idiom_  
-__shy of__ :two::hammer::astonished: _Just shy of its highest mark._  
+__shy of (something)__ _idiom_ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
@@ -12749,7 +12748,7 @@ __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I'm not interested in getting sideways with anyone at Augusta_  
 __sidled__ _v_  
-__siege__ :two::hammer: _An overnight siege shocked the country._  
+__siege__ _n_ :two::hammer: _An overnight siege shocked the country._  
 __sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._  
 __sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can't comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
@@ -12828,7 +12827,7 @@ __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We've 
 __sivvied__ _v_ (?)  
 __six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
-__sizable__ :two::hammer: _Clinton's sizable lead._  
+__sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton's sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a "sizzle reel."_  
 __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
@@ -12858,7 +12857,7 @@ __skin diving__ Underwater swimming in which the swimmer, without lines to the s
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
 __skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
-__skipper__ :two::hammer:  
+__skipper__ _n_ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
 __skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
@@ -12869,7 +12868,7 @@ __skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar's kick skittered t
 __skittish__ _adj_ :nine: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men's underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
-__skulduggery__ :two::hammer:  
+__skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
 __skulk__ _Jessica makes both friends and enemies skulking around in the night._  
 __skulking__ _v_ :two::hammer:  
 __skullcap__  
@@ -12884,7 +12883,7 @@ __skyrocket__ _v_ :three::hammer:
 __skyscraper__ _n_  
 __skywriting__  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
-__slabs__ :two::hammer: _Concrete slabs._  
+__slab__ _n_ :two::hammer: (slabs) _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
 __slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn't drive with slack reins._  
@@ -12915,7 +12914,7 @@ __slatted__ _v_ :two::hammer: _Slatted sunlight._
 __slatternly__  
 __slaughter__ :mute:[slau~~gh~~ter]  
 __slave driver__ _n_ A person who makes other people work very hard.  
-__slavishly__ :two::hammer: _Following instructions slavishly._  
+__slavishly__ _adv_ :two::hammer: _Following instructions slavishly._ :es: servilmente  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
 __slayer__ _n_ :two: Someone who causes the death of a person or animal.  
 __sleazebag__  
@@ -12930,7 +12929,7 @@ __sleeper cell__ _n_ A group of secret agents that have remained inactive for a 
 __sleepover__ _n_ :two::hammer:  
 __sleepsuit__ _n_  
 __sleepwalking__  
-__sleepwear__ :two::hammer: (vs sportswerar, etc.)  
+__sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
 __sleety__  
 __slender__  
 __sleuth<sup>1</sup>__ _n informal_ :two: A detective. _Sassy (TV) sleuth._  
@@ -12975,7 +12974,7 @@ __slit > hi-slit dress__
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
 __slither__ _v_  
-__slithering__ :two::hammer:  
+__slithering__ _adj_ :two::hammer:  
 __sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :five::hammer:  
@@ -13033,7 +13032,7 @@ __small fry__ _adj_ (small-fry) Lacking importance.
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
 __small__ _I rubbed the small of her back._  
-__smallpox__ :two::hammer:  
+__smallpox__ _n_ :two::hammer: :es: viruela  
 __smarmy__ _adj_ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is smart as a whip; he's only three and already learning to read._ This simile alludes to the sharp crack of a whip.  
@@ -13053,9 +13052,9 @@ __smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood s
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
-__smelting__ :two::hammer: _A smelting furnace._  
+__smelting__ _n_ :two: The process of extracting a metal from an ore by heating. _A smelting furnace._  
 __SMH__ _abbr_ Shaking my head.  
-__smidgen__ :two::hammer: _The rosato di petit verdot has a smidgen of complexity._  
+__smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
 __smite__ _v_ :two::hammer: _God will smite me._  
