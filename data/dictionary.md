@@ -55,6 +55,7 @@ __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news
 __a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman's posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
+__a knife in the back__ _idiom_ A grievous or supreme act of treachery or betrayal. (Usually preceding "of/for (someone).")  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood's A list._  
@@ -4973,7 +4974,7 @@ __fault__ _v_
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __fauna__ _n_  
 __Faustian bargain__ _idiom_ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
-__Faustian__ _Faustian device._  
+__Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as power, money, fame, etc. _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
 __faux__ _Three faux tombstones._  
 __fava beans__  
@@ -5401,7 +5402,7 @@ __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :two::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
-__footloose__ :pencil2:  
+__footloose__ _adj_ :two::pencil2::hammer:  
 __footwork__ _n_ :two::hammer:  
 __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
 __for a bit__  
@@ -6688,7 +6689,7 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__ _n_ :nine::hammer: _Hearth repair._ _Hearth taxes._  
+__hearth__ _n_ :nine::m::hammer: _Hearth repair._ _Hearth taxes._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation's heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one's heartstrings._  
@@ -7956,6 +7957,7 @@ __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._
 __knackered<sup>1</sup>__ _v_  
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.  
 __knave__  
+__knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king's court is a hotbed of intrigue and malicious knavery._  
 __knavish__  
 __knead__ _v_ :nine::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
@@ -9504,6 +9506,7 @@ __nose dive__
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nostalgia__  
+__nostrum__ _n_ :astonished:  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He's nosy as hell._  
 __not (one's) first rodeo__ _idiom_ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don't think I'll fall for that old trick. This isn't my first rodeo, you know._  
 __not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
@@ -10258,6 +10261,7 @@ __pennant__ _n_ :three::hammer: (pennants)
 __penned hogs__  
 __penned up__  
 __penny-pinch__ _Penny-pinching conservatives._  
+__pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
 __pensive__ _adj_ :three::hammer: _You look pensive._  
@@ -12305,7 +12309,7 @@ __scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We ha
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _Beltway scrum._  
-__scrummy__ _adj_ :two: Delicious; lovely.  
+__scrummy__ _adj_ :three: Delicious; lovely.  
 __scrumptious__  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
@@ -13190,7 +13194,7 @@ __soft-spoken__ _adj_ :two::hammer:
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
-__soi-disant__ _adj_ As claimed by and for yourself often without justification. _The self-styled `doctor' has no degree of any kind._ _Syn_ self-styled  
+__soi-disant__ _adj_ :two: As claimed by and for yourself often without justification. _The self-styled `doctor' has no degree of any kind._ _Syn_ self-styled _I do not think either of these soi-disant friends is overflowing with love for the other._  
 __soignée__  
 __soil__ _v_  
 __soiled__  
@@ -14725,7 +14729,7 @@ __torment__ _v_
 __tormentor__ _n_  
 __torn__ _v_  
 __torpedo__ _v_  
-__torpor__ _n_ :four: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
+__torpor__ _n_ :five: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _A torre was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
