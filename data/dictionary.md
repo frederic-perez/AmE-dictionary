@@ -12187,7 +12187,7 @@ __scaffold__ :mega::two::hammer:
 __scaffolding__ _n_  
 __scale up__ _v_ _That's the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
-__scallop__ :two::hammer: _A scallop-shell logo._  
+__scallop__ _n_ :two::hammer: _A scallop-shell logo._  
 __scalp bounties__  
 __scalp__ _v_ :two: __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
 __scalpel__  
@@ -12211,7 +12211,7 @@ __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :two::hammer:  
-__scattershot__ :two::hammer:  
+__scattershot__ _adj_ :two::hammer:  
 __scenario__ :mute:[s~~c~~enario]  
 __scene__ :mute:[s~~c~~ene]  
 __scenic__  
@@ -12221,8 +12221,7 @@ __schadenfreude__ _n_ :two::astonished: Pleasure derived from the misfortunes of
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
 __schizoid__ _adj_ _She had a schizoid personality._  
-__schlep__ _v_ :two::hammer:  
-__schlepping__ :two::hammer:  
+__schlep__ _v_ :four::hammer: (schlepping)  
 __schleps__ _v_ _He schleps to the House gym in workout clothes._  
 __schlock__  
 __schlocky__  
@@ -12231,7 +12230,7 @@ __schmear__ _n_ (schmeer) _informal US_ A situation, matter, or affair (esp in t
 __schmooze__ _v_ :four: (schmoozed, schmoozing) Talk idly or casually and in a friendly way.  
 __schmuck__ _n_ _slang_ :three: (schmucks) A clumsy or stupid person; an oaf.  
 __schnapps__  
-__scholar__ :two::hammer: _Legal scholar._  
+__scholar__ _n_ :two::hammer: _Legal scholar._  
 __school > charter school__  
 __school desk__  
 __school of thought__  
@@ -12276,10 +12275,10 @@ __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To br
 __scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._  
 __scrapper__  
 __scrapping__ _A lifestyle of snorting and scrapping._  
-__scrappy__ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
+__scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch__ :mute:[scra~~t~~ch]  
 __scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
-__scrawny__ :two::hammer: _Two scrawny containers of grape jelly._  
+__scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
@@ -12312,7 +12311,7 @@ __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
 __scrupulously__  
 __scrutinize__ _v_  
-__scrutiny__ :two::hammer:  
+__scrutiny__ _n_ :two::hammer:  
 __scry__ _v_ To see or predict the future by means of a crystal ball.  
 __scud<sup>1</sup>__ _n_ _Scud work._  
 __scud<sup>2</sup>__ _v_ :four::hammer: (scudded, scudding)  
@@ -12354,7 +12353,7 @@ __searing__ _adj_ :two::hammer: _Searing work._
 __seaside__  
 __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
 __seawall__  
-__seaweed__ :two::hammer:  
+__seaweed__ _n_ :two::hammer: :es: alga  
 __secateurs__ _n_  
 __second best__  
 __second nature__  
@@ -12365,7 +12364,7 @@ __secret police__ _n_ A police force that operates secretly, esp. to suppress di
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
-__secular__ :two::hammer:  
+__secular__ _adj_ :two::hammer:  
 __secure__ _v_ _Go online now to secure your seat._  
 __security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
 __security detail__ _He travels with a security detail._  
@@ -12388,7 +12387,7 @@ __seek out__
 __seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
 __seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
-__seepage__ :two::hammer:  
+__seepage__ _n_ :two::mega::hammer:  
 __seer__ _n_  
 __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, commonly striped or chequered, used to make clothing for spring and summer wear. The word came into English from Persian, and originates from the words sheer and shakar, literally meaning "milk and sugar," probably from the resemblance of its smooth and rough stripes to the smooth texture of milk and the bumpy texture of sugar. _Seersucker coat._  
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
@@ -12399,13 +12398,13 @@ __segue__ _v_ :five::pencil2::mega::hammer:
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
 __sekuhata__ Sexual harassment.  
-__seldom__ :two::hammer: _People seldom think about their values consciously._  
-__select__ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
+__seldom__ _adv_ :two::hammer: _People seldom think about their values consciously._  
+__select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _Bill Murray is a self-absorbed weatherman in "Groundhog Day."_  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
 __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
-__self-effacing__ :two::hammer:  
+__self-effacing__ _n_ :two::astonished::hammer:  
 __self-esteem__ _n_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
@@ -12427,7 +12426,7 @@ __semester__ A semester is half of a school year. In September of your first yea
 __semi-finished__ _Semi-finished lens._  
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
-__Semper fi__ :two::hammer:  
+__Semper fi__ _interj_ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
 __send-of__  
@@ -12483,11 +12482,11 @@ __severance__ _n_ :three::hammer: _Severance pay._
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
 __sewer gas__  
-__sewer grate__ :two::hammer:  
+__sewer grate__ _n_ :two::hammer:  
 __sewer__ _A sewer pipe._  
 __sh__ _interj_ (sh, shhh) Used to urge silence.  
 __shabby__ _adj_ :three::hammer:  
-__shack__ :two::hammer:  
+__shack__ _n_ :two::hammer:  
 __shackle__ _n_  
 __shackles__ _n_ :three::hammer: _A bed with built-in shackles._  
 __shades__ :es: gafas?  
@@ -12529,7 +12528,7 @@ __shark tank__ _Our culture is not a "Shark tank."_
 __sharkskin__ _n_  
 __sharp elbows__  
 __sharps collector__ :camera:  
-__sharpshooter__ :two::hammer:  
+__sharpshooter__ _n_ :two::hammer:  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
 __shaved ice__  
 __shawl__ _n_ :three::hammer: (shawls) _Prayer shawls._  
@@ -12538,7 +12537,7 @@ __sheaf__ _n_ :two::hammer: (sheaves)
 __shear__ _v_ :two: To cut the wool off a sheep or other animal.  
 __sheath__ _n_ :three::hammer: :es: vaina  
 __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._  
-__shebang__ :two::hammer: _The whole shebang._  
+__shebang__ _n_ :two::hammer: _The whole shebang._  
 __shed (some) light on (something)__ _idiom_  
 __shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he'll be fine._ __3__ Park (a vehicle) in a depot.  
 __shedder__ _A tree shedder._  
@@ -12546,7 +12545,7 @@ __shedding__ _v_
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
-__sheer fabric__ :two::hammer:  
+__sheer fabric__ _n_ :two::hammer:  
 __sheer yoga pants__ :camera:  
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
@@ -12560,7 +12559,7 @@ __sheikhs__
 __shell out__ _v_ :three::hammer:  
 __shell road__  
 __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
-__shell-shocked__ :two::hammer:  
+__shell-shocked__ _adj_ :two::hammer:  
 __shellfish__ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling<sup>1</sup>__ _n_ :es: bombardeo  
