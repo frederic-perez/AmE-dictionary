@@ -12004,7 +12004,7 @@ __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character 
 __rum idea__  
 __rumble<sup>1</sup>__ _n_ :two: __1__ A loud low dull continuous noise. _Syn_ grumble, grumbling, rumbling __2__ A fight between rival gangs of adolescents.  
 __rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? To rumble is to throw down, or fight. If you hear a truck rumble down your street, don’t put up your dukes — to rumble also means to make a low, deep sound. _Rumbling 33 yards._ _Thunder rumbled._ _The cart rumbled and lurched._  
-__rumblings__ :two::hammer: _Rumblings about the trade._  
+__rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
 __rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._ _She rummaged through the kitchen cutlery drawer._  
@@ -12014,9 +12014,10 @@ __rumor mill__ _Fighting the rummor mill._
 __rumple__ _v_ _His clothes were rumpled._  
 __run a fever__ _idiom_ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run afoul__  
-__run amok__ :two::hammer:  
+__run amok__ _idiom_ :two::hammer:  
 __run by__ _phr v_  
-__run errands__ :two::hammer:  
+__run an errand__ _idiom_ :two::hammer:  
+__run errands__ _idiom_  
 __run for the hills__ _idiom_  
 __run over__ _phr v_  
 __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
@@ -12044,7 +12045,7 @@ __rush<sup>2</sup>__ _v_
 __rustle up__ _v_  
 __rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
-__rut__ :two::hammer: _Some guy with rut for brains._  
+__rut__ _n_ :two::hammer: _Some guy with rut for brains._  
 __ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __RV__ _abbr_ :two: Recreational vehicle.  
@@ -12100,7 +12101,6 @@ __sally out__ _v_
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::five:  
 __salt away__  
 __salt of the Earth__  
-__salt the shaft__ :two::hammer: _Salt the shaft if you have to._  
 __salt-of-the-earth__ _A quiet, hardworking, salt-of-the-earth little man._  
 __saltines__ _n_  
 __salty__  
@@ -12116,11 +12116,12 @@ __Samaritan__
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
 __samosas__  
 __samovar__ _n_  
-__sanctuary city__ :two::hammer: _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
+__sanctuary<sup>1</sup>__ _n_  
+__sanctuary<sup>2</sup>__ _adj_ :two: Relating to or being a locality that provides limited cooperation to federal officials in the enforcement of immigration laws or policies. _Mayor Rahm Emanuel of Chicago has declared that it "will always be a sanctuary city."_  
 __sand spits__  
 __sand<sup>1</sup>__ _n_ _You got sand._  
 __sand<sup>2</sup>__ _v_ :two::hammer: (sanded, sanding) _Sanding the wood._  
-__sandbag__ :two::hammer: (sandbags)  
+__sandbag__ _n_ :two::hammer: (sandbags)  
 __sandcastle__ _n_ :pencil2:  
 __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandlot football team._  
 __sandpaper__ _n_  
@@ -12156,7 +12157,7 @@ __satchel__ _n_ :two::hammer:
 __sated__ _v_  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ :mega: /'sæÔødi, -deI/  
-__saturnine__ :two::hammer:  
+__saturnine__ _adj_ :two::hammer:  
 __satyr__  
 __sauce__ _n_  
 __saucerful__  
@@ -12176,7 +12177,7 @@ __savvy<sup>2</sup>__ _n_
 __savvy<sup>3</sup>__ _adj_  
 __saw__ _n_ A maxim or proverb.  
 __sawed-off__  
-__sawgrass__ :two::hammer:  
+__sawgrass__ _n_ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
 __sawyer__ _n_ :astonished:  
 __say the world__  
@@ -12187,7 +12188,7 @@ __scabby__
 __scabies__  
 __scabs__ _n_ :two::hammer:  
 __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
-__scaffold__ :mega::two::hammer:  
+__scaffold__ _n_ :mega::two::hammer:  
 __scaffolding__ _n_  
 __scale up__ _v_ _That's the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
