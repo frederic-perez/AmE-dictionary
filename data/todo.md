@@ -1,13 +1,3 @@
-__portcullis__ _n_  
-__audacious__ _adj_ _In size it was the most audacious._  
-__men-at-arms__  
-__fishpond__ _n_ _A rainwater fishpond on the roof._  
-__bellicose__  
-__meager__  
-__rancorous__ _adj_  
-__dissolute__ _She was said to be of dissolute morals._  
-__Holy Sepulcher__  
-__barry__ (?)  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  

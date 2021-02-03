@@ -774,7 +774,7 @@ __Au.D__ Doctor of audiology.
 __auburn__ :two::hammer: _Auburn hair._  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
-__audacious__ _adj_  
+__audacious__ _adj_ :two::hammer: _In size it was the most audacious._  
 __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
 __audit__  
@@ -1177,6 +1177,7 @@ __bell pepper__ _1 yellow or red bell pepper._
 __bell the cat__ _idiom_ To perform a daring act.  
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests' luggage and run errands.  
+__bellicose__  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __belligerent__  
 __bellow<sup>1</sup>__ _n_  
@@ -3964,6 +3965,7 @@ __dissing__ _v_
 __dissipate__ _v_  
 __dissipation__  
 __dissociate__ _v_ :pencil2:  
+__dissolute__ _adj_ _She was said to be of dissolute morals._  
 __dissolution__  
 __dissonance__  
 __dissuade__ _v_ :pencil2::three: (dissuaded)  
@@ -5166,6 +5168,7 @@ __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clust
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fish__ _pl n_ :two:  
 __fishmonger__ _n_  
+__fishpond__ _n_ _A rainwater fishpond on the roof._  
 __fissile__ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
 __fist-pumper__  
@@ -6960,6 +6963,7 @@ __holy guacamole__ _interj_ An exclamation said when surprised, used when in sho
 __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
 __Holy See__  
+__Holy Sepulcher__ _n_ The sepulcher in which Christ's body lay between burial and resurrection.  
 __holy smoke__ _idiom_ What a surprise. _Holy smoke! Look at all of those geese!_  
 __homage__ _n_  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
@@ -8792,7 +8796,7 @@ __MDMA__ _abbr_ Methylene dioxymethamphetamine: an amphetamine derivative, that 
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
 __mead__ _n_  
-__meager__ _adj_ :dart::seven: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __mealy-mouthed__ _adj_ Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
@@ -8843,6 +8847,7 @@ __memoirs__ _n_
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __memos__  
+__man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __menagerie__ _n_ :two::hammer:  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman's life.  
 __mendacity__  
@@ -10754,6 +10759,7 @@ __porringer__
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
 __portable building__ :es: barracones?  
 __portal__  
+__portcullis__ _n_ A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__  
@@ -11362,6 +11368,7 @@ __ramshackle__ :two::hammer:
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
+__rancorous__ _adj_  
 __random__ _adj_ :mega: /ˈrændəm/  
 __randy__  
 __range<sup>1</sup>__ _n_ :two::hammer: _A range of details._ _Range war._  
@@ -11893,10 +11900,10 @@ __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over 
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
 __roller bag__  
 __roller derby__  
-__rollicking__ :two::hammer:  
+__rollicking__ _adj_ :two: Boisterously carefree, joyful, or high-spirited. _A rollicking adventure film._  
 __rolling back__ _v_  
 __rolling caisson__  
-__rolling hills__ :two::hammer: :es: colinas (onduladas)  
+__rolling hills__ _n_ :two::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
 __rollout__ _n_ :four::hammer: (rollouts)  
 __rollovers__  
@@ -11916,15 +11923,15 @@ __room temperature__ _n_ :three::hammer: (room temp)
 __roomed__ _v_  
 __roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
 __roost<sup>2</sup>__ _v_  
-__rooster__ :two::hammer:  
+__rooster__ _n_ :two::hammer:  
 __root beer__  
 __rooter__  
 __rootered__ _v_  
 __rooting__ _v_ _She was rooting in the Dumpster._  
 __rope in__ _v_  
-__rope-a-dope__ :two::hammer:  
-__ropes__ :two::hammer: _He's teaching her the ropes._ _They need to learn the ropes._  
-__ropy__ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
+__rope-a-dope__ _n_ :two::hammer:  
+__ropes__ _n pl_ :two: Special or basic techniques or procedures. _He's teaching her the ropes._ _They need to learn the ropes._  
+__ropy__ _adj_ :two::hammer: _The camel spat ropy globs at him._ _The camels were spewing ropy saliva._  
 __rosary__ _n_ (rosaries)  
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rosette__ _n_  
@@ -11933,7 +11940,7 @@ __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I'd sw
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
 __rot-and-branch__ _Root-and-branch reforms._  
-__Rotarian__ :two::hammer: (Rotarians)  
+__Rotarian__ _n_ :two::hammer: (Rotarians)  
 __roti__ _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
@@ -11943,16 +11950,16 @@ __rotund__ _adj_
 __rouble__ _A copper rouble coin._  
 __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
-__roughly__ :two::hammer:  
+__roughly__ _adv_ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
 __rouler__ _Will 'NCIS' roulerinto a new city next year?_  
 __round out__ _v_ :two::hammer:  
 __round robin__ _The con game is one round robin._  
 __round the bend__ _idiom_ :two: Crazy, insane.  
 __round the clock__ _There are sirens round the clock._  
+__round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
 __round__ _v_  
-__round-trip__ :two::hammer: _A round-trip ticket._  
-__roundabout__ :two::hammer: (Children's attraction.)  
+__roundabout__ _n_ :two::hammer: (Children's attraction.)  
 __roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
@@ -12015,8 +12022,8 @@ __rumple__ _v_ _His clothes were rumpled._
 __run a fever__ _idiom_ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run afoul__  
 __run amok__ _idiom_ :two::hammer:  
-__run by__ _phr v_  
 __run an errand__ _idiom_ :two::hammer:  
+__run by__ _phr v_  
 __run errands__ _idiom_  
 __run for the hills__ _idiom_  
 __run over__ _phr v_  
