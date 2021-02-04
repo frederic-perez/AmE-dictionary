@@ -1,9 +1,18 @@
 
-
+__ancillary__ _Ancillary study end points._  
+__standard of care__  
+__erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
+__stenosis__ _n_ _Pulmonary vein stenosis._  
+__bowling alley__  
+__horseplay__ _n_  
+__keeps__ (?) :es: me lo pido  
+__unprofessional__ _adj_  
+__bus boy__ _n_  
+__take someone’s side__  
 __ungirdled__ _v_ _The Church ungirdled him of the knightly belt._  
 __divested__ _v_ _Divested him of stolen lands and castles._  
 __Thomas Aquinas__  
-__Roger Bacon_  
+__Roger Bacon__  
 __charter of liberties__  
 __free commune__  
 __stringency__ _Suffering from financial stringency._  
