@@ -11554,7 +11554,7 @@ __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has 
 __redwood__ :two::hammer:  
 __reed__ :two::hammer: _A reed basket._  
 __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
-__reefer__ :two::hammer: _He was hitting on a reefer._  
+__reefer__ _n_ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
 __reek<sup>1</sup>__ _n_ :two::hammer:  
 __reek<sup>2</sup>__ _v_ :nine: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
@@ -11574,7 +11574,7 @@ __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely 
 __refugium__ _n_ :two::hammer:  
 __refunds__ _n_  
 __refurbish__ _v_ :four::hammer: (refurbished)  
-__refurbishment__ :two::hammer:  
+__refurbishment__ _n_ :two::hammer:  
 __refuse<sup>1</sup>__ _v_ _Tim refused to worry about it._  
 __refuse<sup>2</sup>__ _n_ Items or material discarded or rejected as useless or worthless; trash or rubbish.  
 __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he was homeless, Dan had a regal bearing. Regal is an adjective that describes things that appear to be royal. There are several synonyms for regal, but they all have slightly different meanings. Reserve regal for those instances when the person or thing truly seems like it wants to be the queen, actually is the queen, or looks like it might belong to the queen. My French teacher has a truly regal bearing: she stands stick-straight, with her chin in the air, and acts as though she's the queen and we're her court. A regal attitude from a trembling Chihuahua is the height of irony: that little bugger couldn't rule a cat-box, let alone a whole country._ _Despite his homely perch Robert felt regal._  
@@ -11614,7 +11614,7 @@ __relent__ _v_ :four::hammer: (relented)
 __relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
-__reliant__ :two::hammer:  
+__reliant__ _adj_ :two::hammer:  
 __relic__ _n_  
 __relief teams__  
 __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
@@ -11633,7 +11633,7 @@ __remembrance__ _n_ :six: The action of remembering something. _JFK Remembrance 
 __reminisce__ _v_ :three::hammer: (reminiscing)  
 __reminiscent__  
 __remit__  
-__remittances__ :two::hammer:  
+__remittance__ _n_ :two::hammer:  
 __remnants__  
 __remonstrate__  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
@@ -11659,12 +11659,12 @@ __repealing__
 __repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
 __repent__ _v_ :two::hammer: (repented)  
-__repentance__ :two::hammer:  
+__repentance__ _n_ :two::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
-__reportedly__ :two::hammer: _Apparently his cellphone battery reportedly died._  
+__reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It's a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone's punishment  
@@ -11682,7 +11682,7 @@ __rescind__ _v_ :three: (Not to be confused with _resend_) Countermand, repeal, 
 __reseller__  
 __reservation__ _n_ _Native American reservation._  
 __reset__ _v_ :three::mega::hammer:  
-__residency__ :two::hammer: _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
+__residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resign__ :mute:[resi~~g~~n]  
 __resiliency__  
@@ -11693,11 +11693,11 @@ __resistance__
 __resit<sup>1</sup>__ _n_ _(Education)_ An examination taken again by a person who has not been successful in a previous attempt.  
 __resit<sup>2</sup>__ _v_ _(Education)_ To sit (an examination) again.  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
-__resounding__ :two::hammer: _The answer is a resounding yes._  
+__resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
 __respite__ _n_ :nine::m: A respite is a break from something that's difficult or unpleasant. If you're cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
-__responsibility__ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
+__responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
 __restaurateur__  
 __restenosis__ _n_  
@@ -11709,12 +11709,12 @@ __restraint__ _n_ :two::hammer:
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
-__retailer__ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
 __retention__  
-__rethoric__ :two::mega::hammer:  
+__rethoric__ _n_ :two::mega::hammer:  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
 __retinue__ _n_ :four::hammer: (retinues)  
@@ -11728,7 +11728,7 @@ __retread__ _v_ To make or do over again, especially with minimal revision; reha
 __retreat<sup>1</sup>__ _v_ :three::hammer:  
 __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered at the retreat._ _They volunteered at the retreat._  
 __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.  
-__retrenchment__ :two::hammer: _An era of American retrenchment._  
+__retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retronym__ _n_  
 __retroscopic__  
@@ -11739,11 +11739,8 @@ __reunion__ _n_ :two: An instance of two or more people coming together again af
 __reunite__ _v_ :two::hammer:  
 __rev up__ _v_  
 __reveal__ _n_  
-__revel__ _v_ :two::hammer: _She revels in them._  
+__revel__ _v_ :seven::hammer: (revelled, revelling, reveling) _She revels in them._  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick's day revelers._ _Mardi Gras revelers._  
-__reveling__ :two::hammer:  
-__revelled__ _v_ :two::hammer:  
-__revelling__  
 __revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
 __revered__  
@@ -11776,7 +11773,7 @@ __rhyolites__ _n_
 __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
-__ribbing__ :two::hammer:  
+__ribbing__ _n_ :two::hammer:  
 __riches__ _pl n_ :nine: Use the word riches when you're talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who's born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: "Let's go to the farmers market and see what riches are available!" Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
@@ -11790,7 +11787,7 @@ __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is
 __riddled__ _adj_  
 __ride__ _n_ _idiom_ A car.  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
-__ridership__ :two::hammer:  
+__ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
 __RIF__ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean "full of" or "widespread," especially when you're talking about something negative. If the lifeguard says the water is rife with jellyfish, you're not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
@@ -11816,7 +11813,7 @@ __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._
 __rimless__ _Rimless glasses._  
 __rind__ _n_ :two::hammer: _The color of rind._  
 __ring a bell__ _idiom_  
-__ring finger__ :two::hammer:  
+__ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring someone's bell__ _Mandy rang every bell he possesed._  
 __ring up__ _Ringing up sales._  
@@ -11825,11 +11822,11 @@ __ringed__ _A man whose ringed nose marked him a slave brought wet cloths for th
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
 __ringlets__  
-__ringmaster__ :two::hammer:  
+__ringmaster__ _n_ :two: A person who is in charge of the performances in a circus ring.  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
 __rink__ _n_  
 __rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
-__riotous__ :two::hammer:  
+__riotous__ _adj_ :two::hammer:  
 __rip your wiring out__  
 __rip__ _The bullets rip._  
 __rip-off__ Something that is not worth what you pay for it.  
@@ -11882,11 +11879,12 @@ __roe__ _n_ :two::hammer: _A roe deer._
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __roger__ _interj_ __1__ _informal_ All right; OK.  
-__rogue__ :two::hammer: _Rogue behavior._  
+__rogue<sup>1</sup>__ _n_  
+__rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_  
-__role model__ :two::hammer: _The best role models embrace their flaws._  
+__role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone's) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll of the dice__ _Third roll of the dice._  

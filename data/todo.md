@@ -1,4 +1,3 @@
-
 __ancillary__ _Ancillary study end points._  
 __standard of care__  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
