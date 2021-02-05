@@ -1,6 +1,6 @@
 __ancillary__ _Ancillary study end points._  
 __standard of care__  
-__erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
+__erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
 __bowling alley__  
 __horseplay__ _n_  
@@ -16,7 +16,7 @@ __charter of liberties__
 __free commune__  
 __stringency__ _Suffering from financial stringency._  
 __serfdom__  
-__retainer__ _n_:two::hammer: (retainers)  
+__retainer__ _n_ :two::hammer: (retainers)  
 __fief__ _n_  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  

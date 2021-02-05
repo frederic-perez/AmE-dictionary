@@ -11096,7 +11096,7 @@ __pukingly__ _He was pukingly ill._
 __pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pull (oneself) together__ _idiom_ :two: Calm down.  
 __pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
-__pull away__ :two::hammer:  
+__pull away__ _phr v_ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull someone's leg__ _idiom_ :two: To make a playful attempt to fool or deceive someone. _You're pulling my leg._  
 __pull strings__  
@@ -11104,7 +11104,7 @@ __pull teeth__ _idiom_ __1__ To do something that is especially difficult, tedio
 __pull your socks up__ _idiom_ To improve your work or behaviour.  
 __pull__ _v_ _I can't pull for someone else the same way._  
 __pull-aside__ _n_ _It should not be considered a "meeting" or even a less formal, but official, "pull-aside."_  
-__pullback__ :two::hammer:  
+__pullback__ _n_ :two::hammer:  
 __pulled pork sandwich__  
 __pulley__ _n_ :pencil2::mega:  
 __pullout__ _Pullout couches._  
@@ -11156,7 +11156,7 @@ __purloiner__ _n_
 __Purple Hearts__  
 __purple__ _A hint of purple._  
 __purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK's purported affairs._  
-__purportedly__ :two::hammer:  
+__purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
 __purr__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
 __purslane__ _n_ :four::hammer:  
@@ -11185,7 +11185,7 @@ __put on the back burner__ _It has put the needs of farmers on the back burner i
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_ :two::hammer: _Put out the fires._  
 __put skin__ _Put skin in the game._  
-__put the money where the mouth is__ :two::hammer:  
+__put (one's) money where (one's) mouth is__ _idiom_ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
 __put up with__ _idiom_ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
@@ -11224,7 +11224,7 @@ __quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way un
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
 __quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
-__quaintly__ :two::hammer:  
+__quaintly__ _adv_ :two::hammer:  
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
@@ -11258,8 +11258,8 @@ __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault 
 __quick__ _His nails bitten to the quick._  
 __quick-witted__ _adj_ Mentally alert and sharp; keen. _Jane was shifty and quick-witted._  
 __quicken__ _v_ :three::hammer: (quickened) _Spring quickened._  
-__quickening__ :two::hammer: _He felt a quickening within him._  
-__quicksand__ :two::hammer: _I've just signed a quicksand employment contract._  
+__quickening__ _n_ :two::hammer: _He felt a quickening within him._  
+__quicksand__ _n_ :two::hammer: _I've just signed a quicksand employment contract._  
 __quicksilver__  
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
@@ -11271,7 +11271,7 @@ __quilt__
 __quilting__ _Quilting bee._  
 __quince__ :pencil2: _Quince preserves._  
 __quinine__ _n_ :mega:  
-__quinoa__ :two::hammer:  
+__quinoa__ _n_ :two::hammer:  
 __quinsy__  
 __quintessential__ _adj_ :four::hammer:  
 __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
@@ -11287,7 +11287,7 @@ __quixotic__
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if "he's into you," or a pop quiz in English class will let your teacher know how far you got (or didn't get) in last night's reading.  
 __quondam__ _adj_ Of an earlier time; former: _her quondam lover._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
-__quote, unquote__ :two::hammer:  
+__quote, unquote__ _idiom_ :two::hammer:  
 __quotidian__ _adj_  
 __Quran__  
 __R/O__ _abbr_ Rule out.  
@@ -11332,7 +11332,7 @@ __raged__ _v_
 __raging bull__ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker's dream._  
 __ragtag__ _n_ :three::hammer: _A ragtag group._  
-__rah-rah__ :two::hammer: _Rah-rah motivation._  
+__rah-rah__ _adj_ _informal_ :two::hammer: _Rah-rah motivation._  
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
@@ -11364,7 +11364,7 @@ __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
 __rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._  
-__ramshackle__ :two::hammer:  
+__ramshackle__ _adj_ :two::hammer:  
 __ranch hand__ _He works as a ranch at the prison._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
@@ -11432,7 +11432,7 @@ __raucous__ _adj_ :nine::m: Making or constituting a disturbingly harsh and loud
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :four::hammer:  
-__ravages__ :two::hammer: _The potential ravages of a man-manipulated virus at a research center._  
+__ravages__ _n_ _pl_ :two: __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
 __rave<sup>2</sup>__ _v_ :eight: (raved) If you rave about a book you just read, you're telling people you think it's great, or you're giving it a rave review. Rave has two levels, one that implies you're very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
@@ -11451,9 +11451,9 @@ __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March
 __razor sharp__  
 __razor strop__  
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
-__razzle-dazzle__ :two::hammer:  
+__razzle-dazzle__ _n_ _informal_ :two::hammer:  
 __razzmatazz__ _n_  
-__re__ :two::hammer: _Call Zoe re her thoughts on the managers' meeting._  
+__re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re her thoughts on the managers' meeting._  
 __reach for the sky__  
 __reach for the stars__ _idiom_ :two: Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
@@ -11469,7 +11469,7 @@ __ready cash__ _They haven't enough ready cash to pay the commission._
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
-__realist__ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
+__realist__ _n_ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __reality check__ _n_ :two: An occasion or opportunity to consider a matter realistically or honestly.  
 __realtor__ _n_ :three::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
@@ -11529,7 +11529,7 @@ __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler t
 __red eye__  
 __red flag__ _n_ :two: Something that irritates or demands immediate action. _Red flag day._  
 __red herring__  
-__red hot__ :two::hammer: _Now the market is red hot._  
+__red hot__ _idiom_ :two::hammer: _Now the market is red hot._  
 __red line__ _They’re crossing red lines._  
 __red pill__ _idiom_  
 __red rover__ _n_  
@@ -11541,18 +11541,18 @@ __redbones__ _n_
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __redemptions__ _n_  
-__redo__ :two::hammer:  
+__redo__ _v_ :two::hammer:  
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
 __redos__  
-__redoubt__ :two::hammer:  
+__redoubt__ _n_ :two::hammer: :es: reducto  
 __redoubtable__ _adj_ :four::astonished: That is to be feared; formidable.  
 __redress__ _To seek redress._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don't have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
-__redwood__ :two::hammer:  
-__reed__ :two::hammer: _A reed basket._  
+__redwood__ _n_ :two::hammer:  
+__reed__ _n_ :two::hammer: _A reed basket._  
 __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._  
 __reefer__ _n_ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
