@@ -23,7 +23,7 @@ __(one's) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, ov
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn't do it!"  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
-__1:1__	One-To-One Relationship.  
+__1:1__ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
 __105s__  
 __18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -9171,7 +9171,7 @@ __mover__ _n_
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
 __moxie__ :two::hammer:  
-__MQTT__ _abbr_ 	Message Queuing Telemetry Transport.  
+__MQTT__ _abbr_ Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __mRNA__ _abbr_ Messenger RNA.  
