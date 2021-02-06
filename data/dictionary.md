@@ -457,6 +457,7 @@ __analyst__ :pencil2:
 __anathema__ _n_ :nine: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
+__ancillary__ _adj_ _Ancillary study end points._  
 __ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
@@ -1621,7 +1622,7 @@ __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movemen
 __bowie knife__ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
-__bowling alley__ _n_ :two: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
+__bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
@@ -1921,7 +1922,7 @@ __burrow<sup>2</sup>__ _v_ :three::hammer:
 __burrs__ _n_  
 __bursary__ :two::hammer: (bursaries)  
 __burst__ _v_ :two::hammer: (bursting)  
-__bus boy__ (bus boys)  
+__bus boy__ _n_ :two::hammer: (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __bush jacket__ _n_ _An inmaculate bush jacket._  
@@ -3783,7 +3784,7 @@ __diadem__ _n_ :two: An ornamental jeweled headdress signifying sovereignty.
 __dialysis__ _n_ :three::hammer:  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
-__dibs__ _n_ :two::hammer:  
+__dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called "dibs" on her._  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women's situation is a bit more dicey._  
 __dichotomy__ :two::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
@@ -4683,6 +4684,7 @@ __erstwhile__ _adj_ :five::hammer:
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
+__erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __escalation__ _n_  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
@@ -6635,6 +6637,7 @@ __have the world by the tail__ _idiom_ To be very successful, contented, and hap
 __have your cake and eat it (too)__ _idiom_ :two: To have or get two good things at the same time, especially things that are not usually possible to have together.  
 __have your head in the clouds__ _idiom_ :two: To be separate from reality, to dream.  
 __have-not__ _n_ A person with few or no possessions.  
+__have/put skin in the game__ _idiom_  
 __havoc__  
 __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of the state or island of Hawaii or to the people or culture or language.  
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
@@ -7040,6 +7043,7 @@ __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to dupli
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
+__horseplay__ _n_  
 __horsepower__ _Physical horsepower._  
 __horseradish__ _n_ :two::hammer:  
 __horseshit__ _n_ _That's like horseshit squared!_  
@@ -8664,6 +8668,7 @@ __mallow__ :pencil2:
 __malnourished__  
 __mamasan__  
 __man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
+__man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __man<sup>1</sup>__ _Oh, man!_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
@@ -8842,12 +8847,10 @@ __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reacto
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
-__memo__ _n_ :three: (memos) Short for memorandum. _A memo sent to reporters._  
+__memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
-__memos__  
-__man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __menagerie__ _n_ :two::hammer:  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman's life.  
 __mendacity__  
@@ -11176,6 +11179,7 @@ __pushy sales__
 __pushy__ _I guess I was a little pushy._  
 __pustules__ _n_  
 __put (one's) foot in (one's) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
+__put (one's) money where (one's) mouth is__ _idiom_ :two::hammer:  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put it on the money__  
 __put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
@@ -11184,8 +11188,6 @@ __put on hold__
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_ :two::hammer: _Put out the fires._  
-__put skin__ _Put skin in the game._  
-__put (one's) money where (one's) mouth is__ _idiom_ :two::hammer:  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
 __put up with__ _idiom_ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don't put up with bullshit._ _We're not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
@@ -13557,6 +13559,7 @@ __stand strong__
 __stand tall__ _idiom_ :five: To prove or display one's pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ _idiom_ :two: To be sensible or understandable. _If her friends don't want to go, it stands to reason that she won't want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between "stand" and "up." _I'm sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
+__standard of care__ _n_  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standardize__ _v_  
 __standby__ _The old standby._  
@@ -13644,6 +13647,7 @@ __stem<sup>1</sup>__ _n_ _Biting a stem._
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
+__stenosis__ _n_ _Pulmonary vein stenosis._  
 __stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you're teaching a group of unruly kids, you'll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor's powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
 __Step 'n' Fetch It routine__  
 __step up__ _v_ :four::hammer:  
@@ -14140,6 +14144,7 @@ __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have 
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
+__take (one’s) side__ _idiom_ To support or side with one in an argument.  
 __take a leak__  
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
@@ -15173,6 +15178,7 @@ __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you 
 __unnerving__  
 __unobstrusive__  
 __unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
+__unprofessional__ _adj_  
 __unquestioned__  
 __unravel__  
 __unraveling__  
