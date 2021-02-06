@@ -10627,11 +10627,11 @@ __plod__ _v_ :eight::hammer: (plodded, plodding) _Plod to the shower._ _Average 
 __plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
-__plot__ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
+__plot__ _n_ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
 __plotz__ _v_  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
-__plowed__ :two::hammer: _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
+__plow__ _v_ :two::hammer: (plowed) _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
 __pluck<sup>1</sup>__ _n_ :two::hammer: _The story celebrates the pluck and determination of this young woman._  
 __pluck<sup>2</sup>__ _v_ :two::hammer: (plucked) _President Obama plucked former Procter & Gamble CEO Bob McDonald to take over._  
 __pluckiest__  
@@ -10663,18 +10663,18 @@ __po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po 
 __po'-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
-__poaching__ :two::hammer: _Poaching has become socially unacceptable._  
+__poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
 __pocket__ _v_  
-__pockmarked__ :camera::two::hammer: _His pockmarked face._  
+__pockmarked__ _adj_ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
 __pod__ _n_ :two::hammer: _A pod of whales._ _A seed pod._  
 __podge__ _n informal_ A short chubby person.  
 __podiatrist__ _n_  
 __podjo__  
-__podna__ :two::hammer:  
+__podna__ _n_ :two: _slang_ Podna is a very close, or just a friend of yours.  
 __Podunk town__  
 __pogrom__ _n_ :four::hammer: (pogroms)  
 __poignance__ _n_  
@@ -10690,7 +10690,7 @@ __poke__ _v_
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
 __poker__ _n_ _(Tools)_ A metal rod, usually with a handle, for stirring a fire.  
 __poker-faced__ _adj_ Having a deliberately expressionless face.  
-__poky__ :two::hammer: _Coverage was a little poky._  
+__poky__ _adj_ :two::hammer: _Coverage was a little poky._  
 __polarity__ _n_ :mega:  
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
@@ -10729,7 +10729,7 @@ __poodle__ _n_ :es: caniche
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ :pencil2:  
 __pooh-bah__ _n_ An arrogant or conceited person of importance. _Syn_ high-muck-a-muck  
-__pool cues__ :two::hammer:  
+__pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
 __poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man's Pamela Anderson._  
 __poor-boy__ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
@@ -10751,9 +10751,9 @@ __porch screen__
 __porcupette__ _n_ A baby porcupine.  
 __pore__ _v_ :six::dart::hammer: (poring)  
 __pork pie hat__ :camera:  
-__pork rinds__ :two::hammer:  
-__porkpie hat__  
-__porkpie__ :two::hammer:  
+__pork rind__ _n_ :two::dart::hammer: (pork rinds) :es: cortezas de cerdo  
+__porkpie hat__ _n_  
+__porkpie__ _n_ :two::hammer:  
 __porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porpoises__ _n_  
@@ -10778,16 +10778,16 @@ __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep,
 __possum__ _n_ :two::hammer: :es: zarigüeya  
 __post hoc__  
 __postcode lottery__ _n_ :two::hammer:  
-__poster boy__ :two::hammer:  
+__poster boy__ _n_ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the "poster child" of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
-__poster girl__ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
+__poster girl__ _n_ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
 __postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupee.  
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
 __postmortem__ _n_  
 __postulate__ _v_ (postulated)  
 __pot brownies__ _n_ _Edibles like pot brownies._  
-__pot bunkers__ :two::hammer: (golf) _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
+__pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
 __potatoes__ :pencil2:  
 __potbelly__ _n_  
@@ -10844,7 +10844,7 @@ __pre-emptive__
 __precarious__  
 __preceded__ _v_  
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
-__preceptor__ :two::hammer:  
+__preceptor__ _n_ :two::hammer:  
 __precint__  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision__ _Precision medicine._  
@@ -10875,7 +10875,7 @@ __prep<sup>2</sup>__ _v_ :five::hammer: (prepped)
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
-__preposterously__ :two::hammer:  
+__preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
 __prepping__ _v_  
 __prequel__  
@@ -10916,7 +10916,7 @@ __preventive__ _Preventive and corrective maintenance._
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
 __price point__ _The best in price point._  
-__price tag__ :two::hammer: _Success always comes with a price tag._  
+__price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
 __prick<sup>1</sup>__ _v_ :six::hammer: (pricked, pricking) __3__ To affect with a mental or emotional pang, as of sorrow or remorse: _criticism that pricked his conscience._ _To prick consciences._ _Horse pricked up her ears and pranced._ _Pricking their finger to do a blood test._  
@@ -10925,7 +10925,7 @@ __prickle__ _n_
 __prickled__ _v_ _Rob's skin prickled._  
 __prickling__  
 __prickly pear__ _n_ :two::hammer: :es: higo chumbo, nopal  
-__prickly__ :two::hammer:  
+__prickly__ _adj_ :two::hammer:  
 __pride flag__  
 __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
 __pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
@@ -10943,7 +10943,7 @@ __prime<sup>2</sup>__ _n_ :two::hammer:
 __prime<sup>3</sup>__ _v_ :three::hammer: (primed)  
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
-__primly__ :two::hammer:  
+__primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
 __prior<sup>1</sup>__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
@@ -10958,8 +10958,9 @@ __private dancer__ _n_ A dancer who performs a striptease.
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
 __privy__ _n_ :five::hammer:  
 __prix__ _A $40 prix fixe meal._  
-__prize<sup>1</sup>__ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
-__prize<sup>2</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
+__prize<sup>1</sup>__ _n_  
+__prize<sup>2</sup>__ _adj_ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
+__prize<sup>3</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a defendant is unable to pay for his own defence. _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate's president pro tem._  
@@ -10986,7 +10987,7 @@ __profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extra
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
-__profusely__ :two::hammer:  
+__profusely__ _adv_ :two::hammer:  
 __profusion__  
 __progeny__  
 __prohibit__  
@@ -11018,7 +11019,7 @@ __prop up__ _But with her leg propped up._
 __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
 __propel__ _v_ :two::hammer:  
-__proper__ :two::hammer: _They have pushed into the city proper._  
+__proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
 __propitiate__ :pencil2:  
@@ -11055,7 +11056,6 @@ __prowled__ _v_
 __proxy__ _I'm a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
-__prune-o__ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pruritus__ _n_ Severe itching, often of undamaged skin.  
 __pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
