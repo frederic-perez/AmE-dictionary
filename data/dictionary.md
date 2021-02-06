@@ -2382,6 +2382,7 @@ __charlatan__ _n_
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect's basement left little doubt that he was the killer we were seeking._ _It served as the hospital's charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
+__Charter of Liberties__ _n_  
 __charter__ _Charter schools._  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
 __charter<sup>2</sup>__ _v_  
@@ -3993,7 +3994,7 @@ __diverted__ _diverted flights_
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
-__divest__ _v_ :four::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
+__divest__ _v_ :five::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._ _Divested him of stolen lands and castles._  
 __divestiture__ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
@@ -5083,7 +5084,7 @@ __fidget__ _v_ :three::hammer:
 __fidgety__  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
-__fief__ :two::hammer: _His personal fief._  
+__fief__ _n_ :three: A piece of land held under the feudal system. _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
 __field day__  
 __field trip__ _n_  
@@ -5546,6 +5547,7 @@ __freak flag__ _idiom_ Any unconventional, nonconformist, or uninhibited behavio
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
 __free bit of advice__ _idiom_ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
+__free commune__ _n_ :es: municipio libre  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
@@ -11712,6 +11714,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retainer__ _n_ :two::hammer: (retainers)  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
@@ -11880,7 +11883,8 @@ __rods__ _A few rods away._
 __roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
 __roeskin__ _A roeskin belt._  
-__roger__ _interj_ __1__ _informal_ All right; OK.  
+__Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
+ __roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
@@ -12464,6 +12468,7 @@ __sequiturs__
 __seracs__ _n_  
 __sere__ _The sere terrain._  
 __Serenity Prayer__  
+__serfdom__ _n_  
 __serious condition__ _Critical to serious condition, fair condition._  
 __sermon__  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
@@ -13819,6 +13824,7 @@ __strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike
 __striker__ _n_ :three::hammer: _The match was damp and wouldn't ignite against the striker._  
 __string beans__  
 __string tie__  
+__stringency__ _adj_ _Suffering from financial stringency._  
 __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
@@ -14455,6 +14461,7 @@ __thistle__ :mute:[this~~t~~le]
 __thistledown__ The mature, silky pappus of a thistle.  
 __thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver's heads._  
 __thobbing__  
+__Thomas Aquinas__ _n_  
 __thong__ _n_ :two::hammer:  
 __thoracotomy__ _n_  
 __thorny__ _adj_  
@@ -15160,6 +15167,7 @@ __unfold__ _v_ :four::hammer: _Mysteries unfold._
 __unforeseen__ _Unforeseen difficulties._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungulate__  
 __unheard of__ _idiom_ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It's not unheard of for individual contributors to question their superiors' decisions._  
