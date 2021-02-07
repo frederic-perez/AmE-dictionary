@@ -10225,7 +10225,7 @@ __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame
 __pear martinis__  
 __pearl onions__  
 __peat__ :two::hammer: _Battling the blazes in peat swamp forests._  
-__pecan__ :two::hammer: _Pecan pie._  
+__pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :two: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault.  
 __peccant__  
 __peck away__ _v_  
@@ -10251,7 +10251,7 @@ __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their cry
 __peered__ _adj_  
 __peerless__  
 __peeved__ _v_  
-__peevishly__ :two::hammer:  
+__peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_  
 __peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
@@ -10261,7 +10261,7 @@ __pellet__ _n_
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
-__pen name__ :two::hammer:  
+__pen name__ _n_ :two::hammer:  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __penal code__ :mega:  
@@ -10271,7 +10271,7 @@ __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present parti
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __penitents__ _n_  
-__penknife__ :two::hammer:  
+__penknife__ _n_ :two::hammer:  
 __pennant races__  
 __pennant__ _n_ :three::hammer: (pennants)  
 __penned hogs__  
@@ -10332,7 +10332,7 @@ __perjury__ _n_ :three: Criminal offense of making false statements under oath. 
 __perk up__ _idiom_ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __Perkins booth__ _n_  
 __perks__  
-__permafrost__ :two::hammer:  
+__permafrost__ _n_ :two::hammer:  
 __permeate__ _v_  
 __permed__  
 __permit__ _Camping permit fee._  
@@ -10366,14 +10366,14 @@ __petroleum jelly__
 __Petry dish__ :mega:  
 __petted__  
 __petty cash__ _n_ :two: A small cash fund kept on a firm's premises for the payment of minor incidental expenses.  
-__petty__ :two::hammer: _A petty argument resulted in her son's murder._ _Don't be so petty._  
+__petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son's murder._ __2__ Complaining too much about things that are not important. _Don't be so petty._  
 __petulance__  
 __petulant__ _adj_ :five::mega::hammer:  
 __petulantly__  
 __pew__ _Church pews._  
 __pewter__  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
-__phalanx__ :two::hammer:  
+__phalanx__ _n_ :two::hammer:  
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: \[ˌfɑr məˈsu tɪ kəl\] (fär′mə-so͞o′tĭ-kəl)  
 __phase out__  
@@ -10397,7 +10397,7 @@ __photo-op__
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
-__phylacteries__ :two::hammer:  
+__phylacteries__ _n_ :two::hammer:  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one's emotions._ __2__ To describe or interpret in physical terms: _"a writer who physicalizes everything he feels" (James Wolcott)._  
 __physiology__ _n_  
 __phytoplankton__ _n_ :two::pencil2::hammer:  
@@ -10457,14 +10457,14 @@ __pike__ _You can handle whatever comes down the pike._
 __pilaf__ _Chickenpilaf._  
 __Pilates__ :mega:  
 __pilcrow__  
-__pile__ :two::hammer: (piles) _A bridge pile._  
+__pile bridge__ _n_ :two::hammer:  
 __pileup__  
 __pilfer__ _v_ :three::hammer: (pilfering)  
 __pilfered__ _v_  
 __piling__ _v_ _There's a lot of investors piling in._  
 __pilings__ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
-__pillbox hat__ :two::hammer:  
+__pillbox hat__ _n_ :two::hammer:  
 __pillbox__ _A plum-colored pillbox hat._  
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
@@ -10479,7 +10479,6 @@ __pinafore__
 __pincers__ _n_  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
-__pinch-faced__ :two::hammer:  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
 __pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
@@ -10512,13 +10511,13 @@ __pipe tape__
 __pipehead__  
 __pipeline__  
 __pipeyard__  
-__piping__ :two::camera::hammer: _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
+__piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges of clothes or furniture. _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::pencil2::hammer: (piques, piqued) _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
-__pisspot__ :two::hammer:  
+__pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_ :two::pencil2::hammer:  
 __pit toilet__ _n_  
@@ -10526,17 +10525,18 @@ __pit wagon__
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
 __pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
 __pitch in__ _v_  
+__pitch-faced__ _adj_ :two::hammer:  
 __pitch-perfect__  
 __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
-__pitched__ :two::hammer: _A pitched battle._  
+__pitched__ _adj_ :two::hammer: _A pitched battle._ :es: batalla campal  
 __pitchfork__  
 __pitfalls__ _n_ :two::hammer:  
 __pith helmet__ _n_ :two: The pith helmet is a lightweight cloth-covered helmet made of cork or pith. Designed to shade the wearer's head and face from the sun, pith helmets were often worn by European travelers and explorers, in the varying climates found in Africa, southeast Asia, as well as the tropics, but have also been used in many other contexts. _Syn_ safari helmet, sun helmet, topee, sola topee, salacot, topi, cork sun helmet  
 __pith-helmeted__  
 __pithy__ _adj_ :four: Terse and full of meaning or substance. A pithy phrase or statement is brief but full of substance and meaning. Proverbs and sayings are pithy; newspaper columnists give pithy advice. :es: conciso, expresivo  
-__pitiful__ :two::hammer:  
+__pitiful__ _adj_ :two::hammer:  
 __pitmaster__  
 __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of fluid-stream movement and attached to a manometer, used to measure the total pressure of the fluid stream.  
 __pittance__ _n_ :three::hammer:  
@@ -10551,23 +10551,22 @@ __pizzle__ _n_ :two::hammer: (penis?)
 __PJs__  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
-__place holder__ :two::hammer:  
 __place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men's ski jumping competition._  
 __placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
-__placeholder__ _n_ :two::hammer:  
+__placeholder__ _n_ :four::hammer:  
 __placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
 __placket__  
 __plague<sup>1</sup__ _n_  
 __plague<sup>2</sup__ _v_  
-__plaid__ :two::hammer: _Plaid number._ _Plaid shirt._  
-__plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
+__plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
+__plain and simple__ _idiom_ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plaintively__ _adv_ :three:  
 __plaiting__ _Tshanyi earns money plaiting hair._  
 __plan B__ (capital B) An alternative strategy. _It's time I put plan B into action._  
-__plane__ :two::hammer: _It was a place full of plane trees._  
+__plane tree__ _n_ :two: Any of several trees of the genus _Platanus_, having ball-shaped fruit clusters and, usually, outer bark that flakes off in patches. _It was a place full of plane trees._  
 __plangent__  
 __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
 __plankton__ _n_  
