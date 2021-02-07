@@ -1,3 +1,13 @@
+__calling__ _n_  
+__darn__  
+__summa cum laude__ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
+__red flag__ _That raised a red flag to us._  
+__specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
+__recap__ _n_ _A quick recap._  
+__spree__ _n_  
+__sleuth__  
+__give a shit__ _No-one gave a shit._  
+__memorable__  
 __knock (one's) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
