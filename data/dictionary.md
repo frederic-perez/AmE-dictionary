@@ -2073,7 +2073,7 @@ __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 ye
 __callback__ _That was a callback to a previous episode._  
 __calling card__  
 __calling hours__  
-__calling__ _n_ :five: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
+__calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
 __callous<sup>1</sup>__ _adj_ :nine::m::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
@@ -3493,7 +3493,7 @@ __daring__ _A daring quality._
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
 __dark horse__ _n_ _idiom_ :three::hammer:  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
-__darn<sup>1</sup>__ _interj_ (also adjective and adverb) :seven: A euphemistic word for damn. _That's pretty darn good._  
+__darn<sup>1</sup>__ _interj_ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That's pretty darn good._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
@@ -5920,6 +5920,7 @@ __Gitmo__ _Guantanamo?_
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one's) mind__ _idiom_ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ _idiom_ To provide someone with an excuse or a means of escaping (from something).  
+__give a shit__ _No-one gave a shit._  
 __give and take__ _Love don't come easy. It's a game of give and take._  
 __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I'm never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
@@ -8857,6 +8858,7 @@ __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park
 __memo pad__ _n_  
 __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
+__memorable__  
 __memorandum__ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __menagerie__ _n_ :two::hammer:  
@@ -11504,7 +11506,7 @@ __recalcitrant__ _adj_
 __recall__ _n_ :two::hammer:  
 __recant__ _v_ :three::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
-__recap<sup>1</sup>__ _n informal_ :two::hammer: _The written recap of the meeting._  
+__recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
 __recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
 __recapitulate__ _v_  
 __recede__ _v_  
@@ -11537,7 +11539,7 @@ __rector__
 __recuse__ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
 __red eye__  
-__red flag__ _n_ :two: Something that irritates or demands immediate action. _Red flag day._  
+__red flag__ _n_ :three: Something that irritates or demands immediate action. _Red flag day._ _That raised a red flag to us._  
 __red herring__  
 __red hot__ _idiom_ :two::hammer: _Now the market is red hot._  
 __red line__ _They’re crossing red lines._  
@@ -12954,7 +12956,7 @@ __sleepwalking__
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
 __sleety__  
 __slender__  
-__sleuth<sup>1</sup>__ _n informal_ :two: A detective. _Sassy (TV) sleuth._  
+__sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._  
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ _idiom_ :two: To divide something into many small parts especially to use the result for one's own purposes.  
@@ -13338,6 +13340,7 @@ __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rest
 __specialty__ _n_  
 __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __species__ _n_ _It is a protected species._  
+__specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
 __specifically__  
 __specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
@@ -13439,7 +13442,7 @@ __sprawl__ _v_ :five::hammer: (sprawled, sprawling)
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
 __spreading hairs__ (?)  
-__spree__ _n_ :two::hammer: _A killing spree._  
+__spree__ _n_ :three::hammer: _A killing spree._  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
 __springboard__ _n_ :two::hammer:  
@@ -13953,6 +13956,7 @@ __sullenly__
 __sully__ _v_ :four::hammer:  
 __sultanate__  
 __sultry__ _adj_ :three::hammer:  
+__summa cum laude__ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
 __summary<sup>1</sup>__ _n_  
 __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings._  
