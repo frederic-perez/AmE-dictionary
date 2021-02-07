@@ -1,3 +1,13 @@
+__knock (one's) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
+__analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
+__Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
+__be knocking on heaven's door__ _idiom_ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
+__squirm__ _v_ To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man's wrists._  
+__esoteric__ _adj_  
+__knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as "you could have knocked me over with a feather," expressing great bewilderment or surprise.  
+__fantabulous__ _adj_ _informal_ Very good; excellent.  
+__alembic__ _n_ __2__ Anything that transforms, purifies, or refines.  
+__shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
 __kickback__ _n_ :two::hammer:  
 __drive (one) batty__ _idiom_ To annoy or frustrate one to the point of exasperation. A week on vacation with my relatives is enough to drive me batty. That loud beeping noise is driving me batty!  
 __necessitate__ _v_  
