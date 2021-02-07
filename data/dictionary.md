@@ -464,6 +464,7 @@ __and how!__
 __and so it goes__  
 __and-a-one, and-a-two...__  
 __andirons__  
+__andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdotal__ :mega:  
 __anecdotally__  
 __anemometer__ _n_ :two::hammer:  
@@ -1143,7 +1144,7 @@ __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be 
 __beg__ _All of this begs the question of Gallego's own voting record._  
 __beggar__ _n_  
 __beggar-thy-neighbor__  
-__begrudge__ _v_ :five::hammer: _No one could begrudge her that._  
+__begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
 __begrudgingly__ :two::hammer:  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _"to beguile you from the grief of a loss so overwhelming"_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
@@ -1617,7 +1618,7 @@ __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota's luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
-__bowdlerize__ _v_ :two: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good.  
+__bowdlerize__ _v_ :three: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district's banned books list._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _"he had a bowel movement."_  
 __bowie knife__ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
@@ -7710,6 +7711,7 @@ __jelly glass__
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
 __jeopardize__ _v_  
+__jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jeremiad__  
 __jerk around__  
 __jerk__ _n_ _slang_ :two: Mean or unlikeable person.  
@@ -7866,12 +7868,15 @@ __keep (one's)/an eye on (someone or something)__ _idiom_ To watch someone or so
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one's mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one's mind.  
 __keep (up) (one's) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one's end of the bargain up.”  
+__keep a sharp lookout (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
+__keep an eye peeled (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
 __keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don't keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that's gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
+__keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one's eyes peeled__ _idiom_ (keep one's eyes skinned) To watch vigilantly (for).  
 __keep one's word__ _idiom_ To uphold one's promise; to do as one says. (The opposite of break one's word.) _I told her I'd be there to pick her up, and I intend to keep my word._  
@@ -7964,6 +7969,7 @@ __kiwi__
 __kleptocracy__ :two::hammer:  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She's got a knack for it._  
+__knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
 __knackered<sup>1</sup>__ _v_  
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.  
 __knave__  
@@ -10992,6 +10998,7 @@ __profoundly__
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
 __progeny__  
+__prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __Prohibitionists__  
 __prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
@@ -11884,7 +11891,7 @@ __roe__ _n_ :two::hammer: _A roe deer._
 __roebuck__  
 __roeskin__ _A roeskin belt._  
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
- __roger__ _interj_ __1__ _informal_ All right; OK.  
+__roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
@@ -14413,6 +14420,7 @@ __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifi
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
 __the idiot box__ _idiom_ A television set, or television in general.  
 __the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
+__the knacker's yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the lion's share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
