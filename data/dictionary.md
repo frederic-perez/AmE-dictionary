@@ -4229,6 +4229,7 @@ __drink and use__
 __drink like a fish__ To drink too much alcohol.  
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
+__dripping__ _n_ :two: __2__ (often _drippings_) The fat and juices exuded from roasting meat, often used in making gravy. _Pan drippings._  
 __drive someone batty__ _idiom_ (drive someone nuts) To annoy or irritate someone. _You are certainly annoying! You're going to drive me batty. These tax forms are driving me nuts._  
 __drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  
 __drive-by<sup>1</sup>__ _adj_  
@@ -9772,10 +9773,10 @@ __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'A
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :six::hammer: _Early onset dementia._  
-__onslaught__ :two::hammer:  
+__onslaught__ _n_ :two::hammer:  
 __onus__ _n_ :eight::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
 __oofs__  
-__oompah__ :two::hammer: _The house oompah band._  
+__oompah__ _n_ :two::hammer: _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
 __ooze__ _v_ :nine::m: (oozes, oozed, oozing) __1__ _(of a fluid)_ Slowly trickle or seep out of something. _Blood was oozing from a wound in his scalp._ _Oozing lava._ _Ketchup oozing from the bottle._ _Syn_ seep, discharge, flow, exude, trickle, drip __2__ Give a powerful impression of (a quality). _She oozes a raunchy sex appeal._ _Syn_ exude, gush _Oozing with talent._  
 __op-ed__ _n, adj_ :six: A newspaper page opposite the editorial page, devoted to personal comment, feature articles, etc.  
@@ -9783,7 +9784,7 @@ __open (one's) eyes__ _idiom_ __1__ To see or realize the truth about something.
 __open a can of worms__ _idiom_ :two: To create a situation that will cause a lot of problems.  
 __open house__ _n_ :three::hammer: _Educational open house._  
 __open loop__  
-__open mike__ :two::hammer: _When are you going to do an open mike?_  
+__open mike__ _n_ :two::hammer: _When are you going to do an open mike?_  
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
@@ -9809,7 +9810,9 @@ __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone 
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
 __order around__ _phr v_ To give commands to someone in a bossy way.  
 __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
-__orderly__ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
+__orderly<sup>1</sup>__ _adv_ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
+__orderly<sup>2</sup>__ _adj_  
+__orderly<sup>3</sup>__ _n_  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :four::pencil2::hammer:  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
@@ -9818,7 +9821,7 @@ __originally__ _adv_ :dart:
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__  
 __ornate__ _n_ :five::hammer:  
-__orneriness__ :two::hammer:  
+__orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
@@ -9847,7 +9850,7 @@ __out of date__ _idiom_
 __out of hand__  
 __out of kilter__ _idiom_  
 __out of order__  
-__out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__out of pocket__ _idiom_ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he's been rather out of sorts lately._  
 __out of steam__ _idiom_ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
@@ -9858,7 +9861,7 @@ __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._
 __out-of-the-box__  
 __outage__ _n_ :two::hammer: _Power outages._  
 __outback__  
-__outbound__ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
+__outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
 __outbreak__ _n_ :five::hammer: (outbreaks)  
 __outburst__ _n_ :three::hammer:  
@@ -9895,8 +9898,7 @@ __outlook__ _n_ :three::hammer:
 __outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
-__outpace__ _v_  
-__outpacing__ :two::hammer:  
+__outpace__ _v_ :three::hammer: (outpacing)  
 __outpatient__ _n_ :three::hammer:  
 __outperform__ _v_ :two::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
@@ -9913,7 +9915,8 @@ __outset__ _n_ :six::hammer: _The outset of his campaign._
 __outshine__ _v_ :two: To be much better than someone or something else.  
 __outshit__ _v_  
 __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._  
-__outsize__ :two::hammer: _An outsize risk._  
+__outsize<sup>1</sup>__ _adj_ :two::hammer: _An outsize risk._  
+__outsize<sup>2</sup>__ _n_  
 __outsmart__ _v_ :two::hammer:  
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one's opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
@@ -9932,7 +9935,7 @@ __over the hill__ _idiom_ Past the peak of one's life or career; too old. (Hyphe
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over the top__ _idiom_  
 __over-ear headphones__  
-__over-the-hill__ :two::hammer: _I'm over-the-hill for Passion._  
+__over-the-hill__ _adj_ :two: __1__ Past one's prime. _I'm over-the-hill for Passion._ __2__ Advanced in age.  
 __over-under__  
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
@@ -9956,7 +9959,7 @@ __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly poss
 __overnight__ _The change will not happen overnight._  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
-__overripe__ :two::hammer::camera: _An overripe banana._ _An overripe eggplant._  
+__overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
@@ -10022,7 +10025,7 @@ __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imita
 __paleo__  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
-__pallbearer__ :two::hammer:  
+__pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
 __palled__ _v_  
 __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ _Sleeping pallets (makeshift beds)._  
 __pallholder__ _n_  
@@ -10030,7 +10033,7 @@ __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ 
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
 __palm__ :mega::mute:[pa~~l~~m]  
-__palmettos__ :two::hammer:  
+__palmetto__ _n_ :two::hammer: (palmettos)  
 __palomas__  
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
@@ -10044,7 +10047,6 @@ __pamper__ _v_ :five::hammer: (pampered)
 __pampered__ _adj_  
 __pamphlet__ _n_  
 __pampling__  
-__pan drippings__ :two::hammer:  
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panaceas__ _n_  
@@ -10071,7 +10073,7 @@ __pantsed__ _v_
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __paper cut__ _He can't stand the sight of blood, not even from a paper cut._  
 __paper tablecloth__ _n_ :two::hammer:  
-__paper towel__ :two::hammer: (paper towels)  
+__paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
 __paperclip__ _n_  
 __paperwork__  
 __pappy__  
@@ -10116,7 +10118,7 @@ __parkour__
 __parlay__ _v_ :four::hammer: (parlayed)  
 __parley<sup>1</sup__ _n_ :two::hammer:  
 __parley<sup>2</sup__ _v_  
-__parliament__ :pencil2::two::hammer:  
+__parliament__ _n_ :pencil2::two::hammer:  
 __parlor__  
 __parochial__ _adj_ :four::hammer:  
 __parolee__ _n_  
@@ -10173,7 +10175,7 @@ __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.
 __patch up__ _idiom_ :two::dart: To fix something quickly so it can be used until it's repaired properly or replaced.  
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patent leather__ _n_ :astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don't step on my patent leather shoes._ :es: charol  
-__patently__ :two::hammer: _Patently absurd._ _This is patently false._  
+__patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
 __pathcasting__  
 __pathetic__  
 __pathogenesis__  
@@ -10188,7 +10190,7 @@ __patois__
 __patron__ _n_ :six::hammer: _China, North Korea's patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
-__patronizing__ :two::hammer:  
+__patronizing__ _adj_ :two::hammer:  
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
@@ -10204,12 +10206,12 @@ __pavilions__
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
 __pax vobiscum__ _phr_ Peace be with you.  
+__pay dirt__ _n_ :two::hammer:  
 __pay off__ _v_  
 __pay the price__ _idiom_ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ _idiom_ :three::hammer:  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__ _n_ :two::hammer:  
-__paydirt__ :two::hammer:  
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
@@ -10226,7 +10228,7 @@ __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._
 __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
 __pear martinis__  
 __pearl onions__  
-__peat__ :two::hammer: _Battling the blazes in peat swamp forests._  
+__peat__ _n_ :two::hammer: _Battling the blazes in peat swamp forests._  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :two: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault.  
 __peccant__  
