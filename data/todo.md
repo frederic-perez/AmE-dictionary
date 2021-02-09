@@ -1,3 +1,15 @@
+
+
+__bandwidth__ _n_ _I can offer more bandwidth than detectives._  
+__helter-skelter__ (?)  
+__lesson learned__  
+__upside-down__ (?) _An upside-down case._  
+__maelstrom__ (?)  
+__blessings__ _With my blessings, go for it!_  
+__carry the cross__  
+__henchmen__ _n_  
+__acrobat__ _n_ :mega:  
+__at the ready__ _idiom_ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __knock (one's) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
