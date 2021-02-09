@@ -9337,7 +9337,7 @@ __Nat Geo__ National Geographic.
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __Native American__ _Native American reservation._  
-__nativism__ :two::hammer:  
+__nativism__ _n_ :two::hammer:  
 __NATO__ _North Atlantic Treaty Organization_  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
@@ -9382,14 +9382,14 @@ __nepotism__ _n_ :five: The term nepotism comes from the Latin root for nephew. 
 __nerd__ _n_ :nine::m: A studious person with few social skills.  
 __nerve agent__  
 __nerve racking__  
-__nerve__ :two::hammer: _He's got nerve._  
+__nerve__ _n_ :two::hammer: _He's got nerve._  
 __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
 __nestlings__ _n_  
-__nether__ :two::hammer:  
+__nether__ _adj_ :two::hammer:  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
@@ -9404,7 +9404,7 @@ __newbie__ _n_ (newbies)
 __newborn__ _n_  
 __newcomer__ _n_ One who has only recently arrived.  
 __newfangled__ _adj_ Newly come into existence or fashion, esp excessively modern.  
-__newly__ :two::hammer: _The newly elected leader of the Senate Democrats._  
+__newly__ _adv_ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
 __news outlet__  
 __news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
@@ -9468,9 +9468,9 @@ __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligat
 __no way around it__  
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning "do not worry about that", "that's all right", or "sure thing". It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don't know why it took me so long to figure out!_  
-__no-holds-barred__ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
+__no-holds-barred__ _adj_ _informal_ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
 __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone's books._ _What are the no-nos of API testing?_  
-__no-questions-asked__ :two::hammer: _The had a no-questions-asked policy._  
+__no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ :mega:  
 __nobody's doctor__ _I'm nobody's doctor._  
@@ -9561,9 +9561,9 @@ __nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice th
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
-__numb__ :two::mute:[num~~b~~]:hammer:  
+__numb__ _adj_ :two::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
-__numbered__ :dart::two::hammer: _I hope those days are numbered._ _His days are numbered as Vizier._  
+__number__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
 __numbers runners__  
 __numbly__  
@@ -9585,7 +9585,7 @@ __nuzzled__ _v_
 __nyuk-nyuk__ _MacFarlane's nyuk-nyuk Boston-accented voice._  
 __O-line__ (football)  
 __oaf__ _n_ :three: (oafs) A person regarded as stupid or clumsy. _Syn_ goon, lout  
-__oafish__ :two::hammer:  
+__oafish__ _adj_ :two::hammer:  
 __oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
 __oat__ _n_  
@@ -9621,7 +9621,7 @@ __occasion__ _n_ :two::mega::pencil2::hammer:
 __occasional__ _adj_ :pencil2:  
 __occasionally__ :pencil2:  
 __occurr__ :pencil2:  
-__OCD__ :two::hammer: _abbrev_  
+__OCD__ _abbr_ :two::hammer:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob's staff, vine cactus  
 __octogenarians__  
@@ -9630,12 +9630,12 @@ __octothorpe__ _n_ The symbol (#).
 __OD__ _v_  
 __odd__ _adj_ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
-__oddly enough__ :two::hammer:  
+__oddly enough__ _adv_ :two::hammer:  
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ :pencil2: _A harrowing oddyssey._  
 __odious__  
-__odometer__ :two::hammer:  
+__odometer__ _n_ :two::hammer:  
 __OEM__ _abbr_ :three::hammer: _OEMs._  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of a kind__ _You are two of a kind._  
@@ -9646,17 +9646,18 @@ __of__ _The gas smells of roggen eggs._
 __off duty__  
 __off kilter__  
 __off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we've said goodbye to everyone. Looks like we're off to the races._  
-__off__ :two::hammer: _He knew that from the off._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
-__off-kilter__ :two::hammer:  
+__off-kilter__ _idiom_ :two::hammer:  
 __off-price stores__  
 __off-putting__  
 __off-street__ _Off-street parking._  
-__off-the-cuff__ :two::hammer: _It was just an off-the-cuff remark._  
+__off-the-cuff__ _adj_ :two::hammer: _It was just an off-the-cuff remark._  
 __off-the-shelf__  
-__off<sup>1</sup>__ _She got off the train._  
-__off<sup>2</sup>__ _v_ _slang_ To murder, to kill.  
+__off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._  
+__off<sup>2</sup>__ _adj_  
+__off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
+__off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ _adj_ _Slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __officer__ _n_  
@@ -9667,10 +9668,10 @@ __offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)
 __offset<sup>2</sup>__ _n_ _Roots, cracks, offsets and bellies are common issues in Utah's older homes._  
 __offshoot__ _n_ :three::hammer:  
 __offshore__  
-__oft__ :two::hammer: _The oft-hated SAT._  
+__oft__ _adv_ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
 __often__ :mute:[of~~t~~en]  
-__oftentimes__ :two::hammer:  
+__oftentimes__ _adv_ :two::hammer:  
 __OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __ogle__ _v_ :three::hammer: (ogled)  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
@@ -9684,7 +9685,7 @@ __OK__ _v_ _Lower House panel OKs casino legalization bill._
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there's no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okra gumbo__  
-__okra__ :two::hammer:  
+__okra__ _n_ :two::hammer:  
 __old as the hills__ _idiom_ Someone who is very old.  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the "Dominion of Virginia."  
 __old hat__  
@@ -9713,7 +9714,7 @@ __omphaloskepsis__ _n_ The practice of contemplating one's navel in order to aid
 __on (someone's) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
-__on a roll__ :two::hammer: _I'm on a roll._  
+__on a roll__ _idiom_ :two::hammer: _I'm on a roll._  
 __on a second thought__  
 __on a tear__ _The U.K. labor market is on a tear._  
 __on a whim__  
@@ -9752,7 +9753,10 @@ __on track__ _He appears to be on track to play._
 __On your marks, get ready, go!__ (On your mark, get ready, go!)  
 __on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn't care._ _It's on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
 __onagers__ _n_  
-__onboard__ :two::hammer:  
+__onboard<sup>1</sup>__ _adj_ :two::hammer:  
+__onboard<sup>2/sup>__ _adv_  
+__onboard<sup>3</sup>__ _prep_  
+__onboard<sup>4</sup>__ _v_  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once and for all__ _idiom_ Finally; permanently.  
 __once in a blue moom__ Very rarely.  
