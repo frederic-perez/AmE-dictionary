@@ -175,6 +175,7 @@ __acreage__ _n_ :two: Area of land measured in acres. _Syn_ land area
 __acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
+__acrobat__ _n_ :mega:  
 __acrophobia__  
 __across__ _She is sitting across from you at a coffee shop._  
 __act of Congress__ _idiom_ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
@@ -734,6 +735,7 @@ __at one time,__ _At one time, Ms. Hardy could see the beach from her window._
 __at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
 __at the end of (one's) rope__ _idiom_ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby's been crying all morning, and I haven't slept properly in days. I'm just at the end of my rope!_  
+__at the ready__ _idiom_ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at the very least__  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at wit's end__ _He was at wit's end._  
@@ -938,6 +940,7 @@ __banalize__ _v_
 __bandanna__ :two::hammer:  
 __bandit__ _n_ :two::hammer:  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
+__bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
@@ -1385,6 +1388,7 @@ __bleep__ _v_ _We'll bleep your name out._
 __blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
 __blends__ _I go to a coffee bar with bagels and blends of the day._  
+__blessings__ _With my blessings, go for it!_  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ :two::hammer: _A blimp hangar._  
@@ -2199,6 +2203,7 @@ __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting fles
 __carrot and stick__ _idiom_ :two: (carrots and sticks) Reward and punishment.  
 __carry a torch__  
 __carry the ball__ _idiom_ To be in charge.  
+__carry the cross__  
 __carry the day__ _idiom_ To win, to be successful.  
 __carry-on bag__  
 __carryout__ _A Chinese carryout._  
@@ -6772,6 +6777,7 @@ __help out__
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
 __helpless__  
+__helter-skelter__  
 __hem and haw__ _idiom_ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __hem__ _n_ :es: dobladillo  
 __hemlines__ _n_  
@@ -6781,7 +6787,7 @@ __hemming__
 __hemodynamic__ _adj_  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
-__henchman__ _n_ :nine::hammer: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
@@ -8261,7 +8267,7 @@ __leper__
 __lepers__  
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
-__lessons learned__  
+__lesson learned__ (lesson learned)  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _conj_ :eight::hammer: _If you're living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
@@ -8613,7 +8619,7 @@ __madness__
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
 __madrigals__ _n_ :pencil2:  
-__maelstrom__ _n_ :six::hammer: _Unproductive maelstrom._  
+__maelstrom__ _n_ :seven::hammer: _Unproductive maelstrom._  
 __magazine__ _n_ _They were pledged to keep the castle's magazines full of millet and rice._  
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
@@ -15300,6 +15306,7 @@ __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._
 __upsetting__  
 __upshot__ _n_ :seven::hammer:  
 __upside__ _n_ :three::hammer: (advantage?) _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
+__upside-down__ _adj_ _An upside-down case._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
