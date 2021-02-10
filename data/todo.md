@@ -1,3 +1,13 @@
+__oodles__ _idiom_ _slang_ A lot; a large amount or volume. _I'll have oodles of time during my retirement, so I'm planning on taking up a hobby._  
+__cold feet__ _idiom_  
+__leeway__ _n_  
+__pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
+__get out of town__ _idiom_  
+__shootout__ _n_  
+__hump__ _v_ (humping) __3__ _vulgar_ _slang_ To engage in sexual intercourse with.  
+__foxy__ _adj_ __4__ _slang_ Sexually attractive.  
+__getaway__ _n_  
+__toss (something)__ _idiom_ __1__ To dispose of something as trash. _Let's toss these leftovers—they've been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __(something) won't get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
 __alembic__ _n_ __2__ Anything that transforms, purifies, or refines.  
