@@ -8940,7 +8940,7 @@ __miff__ _v_ (miffed) To cause to become offended or annoyed.
 __miffed__ _adj_ :four: When you're miffed, you're offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China's economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
-__milch__ :two::hammer: _A milch cow._  
+__milch__ _adj_ :two: Giving milk. _A milch cow._  
 __mild__ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
@@ -8948,7 +8948,7 @@ __mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
 __militiaman__ _n_ :pencil2:  
-__militias__ :two::hammer:  
+__militia__ _n_ :two::hammer: (militias)  
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :three::hammer: _Milk the clock._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
@@ -8961,9 +8961,9 @@ __Millennials__
 __millennium__ _n_ :two::pencil2:  
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
-__milling__ :two::hammer: _To avoid disrespectful milling._  
+__milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
 __million__ _The project willl cost around $10 million._ (not ending with 's')  
-__milquetoast__ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
+__milquetoast__ _n_ :two::hammer: _Walt's journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one's) words__ _idiom_  
 __mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ 3. To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don't mince words: say what you mean._  
@@ -9007,7 +9007,7 @@ __misconduct__
 __misconstrued__  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It's a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
-__misdemeanor__ :two::hammer:  
+__misdemeanor__ _n_ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :three::hammer: :es: avaro  
@@ -9018,18 +9018,18 @@ __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._
 __misfit__ _n_ :three::hammer: (misfits)  
 __misgiving__ _n_ :five: (misgivings) _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
 __misguided__ _adj_  
-__mishap__ :mega::two::hammer:  
-__mishmash__ :two::hammer:  
+__mishap__ _n_ :mega::two::hammer:  
+__mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ Information that is incorrect.  
 __mislay__ _v_ _He mislaid his keys._  
 __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ :pencil2:  
-__misprint__ :pencil2::two::hammer: _This is not a misprint._  
+__misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
-__miss the point__ :two::hammer:  
+__miss the point__ _idiom_ :two::hammer:  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_ :two: To spell incorrectly.  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
@@ -9042,7 +9042,7 @@ __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
 __mistrel__ _A popular minstrel show, such as "Jim Crow."_  
 __mistrial__ _n_ :two::hammer:  
-__mistruth__ :two::hammer: (mistruths)  
+__mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
 __mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
@@ -9070,7 +9070,7 @@ __Mohs hardness__ _The Mohs scale of mineral hardness is qualitative and arbitra
 __molasses__ _n_ :five::hammer: _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
-__moldy__ :two::hammer:  
+__moldy__ _adj_ :two::hammer:  
 __mole grip__ :camera: Locking pliers.  
 __mole wrench__ :camera: Locking pliers.  
 __molehill__  
@@ -9103,11 +9103,11 @@ __mononyms__
 __monopoly__ :mega: /mə-nŏp′ə-lē/  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
-__monstrosity__ :pencil2::two::hammer:  
+__monstrosity__ _n_ :pencil2::two::hammer:  
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
-__mood story__ :two::hammer:  
-__moody__ :two::hammer:  
+__mood__ _n_ :two::hammer: _Mood story._  
+__moody__ _adj_ :two::hammer:  
 __moon roof__  
 __moon__ _v_  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
@@ -9126,7 +9126,7 @@ __moral compass__ _idiom_ :two: That which serves or guides a person's knowledge
 __moral__  
 __morale__ _n_ :three::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
-__moratorium__ :two::hammer:  
+__moratorium__ _n_ :two::hammer:  
 __morbidity__ _n_ :two: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._  
 __morcellator__  
 __more often than not__ _idiom_ Usually; as a rule. _Syn_ by and large, generally, mostly  
@@ -9135,7 +9135,7 @@ __morels__ _n_
 __moribund__  
 __Mormon apostle__  
 __morning glory__  
-__morosely__ :two::hammer:  
+__morosely__ _adv_ :two::hammer:  
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
@@ -9151,7 +9151,7 @@ __mosque__ _n_ :two::hammer: (mosques)
 __most of the time__ _Most of the time I do my breakfast._  
 __mot juste__ _n_ The appropriate word or expression.  
 __mote__ _n_ :two::hammer: (motes) _A dust mote._  
-__moth__ :two::hammer:  
+__moth__ _n_ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
 __mother-of-pearl__ _Mother-of-pearl inlays._  
@@ -9190,7 +9190,7 @@ __mover and shaker__ A person who wields power and influence; _"a shaker of trad
 __mover__ _n_  
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
-__moxie__ :two::hammer:  
+__moxie__ _n_ _slang_ :two::hammer:  
 __MQTT__ _abbr_ Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
@@ -9216,7 +9216,7 @@ __mug<sup>1</sup>__ _n_ _informal_ The human face.
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
 __mugger__ _n_ _informal_ :three: (muggers) A person who commits robbery with violence, esp in the street.  
 __muggles__ _n_ :two::hammer:  
-__muggy__ :two::hammer: _The weather was muggy._  
+__muggy__ _adj_ :two::hammer: _The weather was muggy._  
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
@@ -9294,7 +9294,7 @@ __mystified__
 __mystique__ :pencil2:  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
-__mythos__ :two::hammer:  
+__mythos__ _n_ :two::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
