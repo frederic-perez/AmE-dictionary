@@ -2757,6 +2757,7 @@ __coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope 
 __coke-bottle glasses__  
 __colander__ _n_ :two::hammer:  
 __cold duck__  
+__cold feet__ _idiom_  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
@@ -5523,6 +5524,7 @@ __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl.
 __fowl<sup>2</sup>__ _v_  
 __fowler__  
 __foxing stains__  
+__foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
 __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __fracas__ _n_ :three: Noisy quarrel.  
@@ -5852,6 +5854,7 @@ __get on your nerves__ _idiom_ To annoy someone a lot.
 __get one's act together__ _idiom_ :two: (get one's shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he'll get a raise_, or _You'd better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one's affairs effectively.  
 __get out of Dodge__ _idiom_ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of here__  
+__get out of town__ _idiom_  
 __Get outta here!__ _idiom_  
 __get over someone's head__ _They're getting over their heads._  
 __get over__  
@@ -5876,7 +5879,7 @@ __get your foot in the door__ _idiom_
 __get-go__ _n informal_ :four: The beginning; outset. _I've been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
 __get-rich-quick__ _idiom_ (used as a modifier before a noun) Of or characterized by generating a large sum of money quickly and (typically) without requiring much effort or energy.  
 __getaway day__  
-__getaway__ _n_ :three::hammer: (getaways) _Weekend getaways._  
+__getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
 __ghastly__ _adj_ :nine::hammer::mute:[g~~h~~astly] _Distract yourself from this ghastly thing we call 2020._  
@@ -8231,7 +8234,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :seven: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway––could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
 __leg up__ :two::hammer:_Area's 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
@@ -8947,8 +8950,8 @@ __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with 
 __mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
 __mile-a-minute__ _A mile-a-minute talker._  
 __mileage__  
-__militiaman__ _n_ :pencil2:  
 __militia__ _n_ :two::hammer: (militias)  
+__militiaman__ _n_ :pencil2:  
 __milk it__ _idiom_ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __milk__ _v_ :three::hammer: _Milk the clock._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
@@ -9785,6 +9788,7 @@ __only problem is__
 __onset__ _n_ :six::hammer: _Early onset dementia._  
 __onslaught__ _n_ :two::hammer:  
 __onus__ _n_ :eight::hammer: _The onus for change._ _Ward's statement puts the onus back on us._  
+__oodles__ _idiom_ _slang_ A lot; a large amount or volume. _I'll have oodles of time during my retirement, so I'm planning on taking up a hobby._  
 __oofs__  
 __oompah__ _n_ :two::hammer: _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
@@ -10538,6 +10542,7 @@ __pit toilet__ _n_
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
 __pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
+__pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
 __pitch-faced__ _adj_ :two::hammer:  
 __pitch-perfect__  
@@ -12672,7 +12677,7 @@ __shoot__ _n_ _Panda bears eat only bamboo shoots._
 __shoot-from-the-hip__  
 __shootaround__ _n_ :four::hammer: (basketball)  
 __shooting gallery__  
-__shootout__ _n_ __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
+__shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
 __shore up__ _v_ :nine: (shoring up) Support by placing against something solid or rigid. _To shore up the economy._  
@@ -14774,6 +14779,7 @@ __torpor__ _n_ :five: A state of physical or mental inactivity; lethargy. _They 
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _A torre was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
+__toss (something)__ _idiom_ __1__ To dispose of something as trash. _Let's toss these leftovers—they've been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ _idiom_ Sleep badly.  
 __toss out__ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
