@@ -7211,8 +7211,8 @@ __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to w
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ _idiom_ An expression of vague affirmation or assent.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
-__I’d say__ _idiom_ In my opinion; it is my estimation that.  
 __I'll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
+__I’d say__ _idiom_ In my opinion; it is my estimation that.  
 __I’m with you__ _idiom_ I agree with you. _A: "Ugh, why did we have to get up so darn early?" B: "Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom's idea."_  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __iatrogenic__ Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
@@ -8558,7 +8558,7 @@ __luddite__ _n_ _slang_ One who fears technology (or new technology, as they see
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say "That's ludicrous!" :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR's lug nut policy irks Stewart._  
-__lug wrench__ :two::hammer:  
+__lug wrench__ _n_ :two::hammer:  
 __lug__ _v_ :five::hammer: (lugs) _A passenger lugs an injured swan onto the train._  
 __luge__ _Olimpic luge team._  
 __luger__ _Team USA's best lugers._  
@@ -8569,11 +8569,11 @@ __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out 
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
 __luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
-__luminary__ :two::hammer: _Hollywood luminaries._  
+__luminary__ _n_ :two::hammer: _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
-__lumpy__ :two::hammer: _Lumpy headlights._  
+__lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
 __lunch lady__ _She worked as a lunch lady._  
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
@@ -8584,7 +8584,7 @@ __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amp
 __lupine__  
 __lupus__  
 __lurch__ _v_ :nine::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._ _The cart rumbled and lurched._  
-__lure__ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
+__lure__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond's surface._  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
@@ -8594,7 +8594,7 @@ __lust for life__ _idiom_ Intense eagerness to experience all that life has to o
 __luster<sup>1</sup>__ _n_  
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
-__lustrous__ :two::hammer:  
+__lustrous__ _adj_ :two::hammer:  
 __lustrum__ _n_ :two: Five years.  
 __luxe__ _People were accustomed to creating luxe interiors._  
 __lye water__  
@@ -8611,7 +8611,7 @@ __Mace<sup>2</sup>__ _v_
 __Mach number__ :pencil2:  
 __machinery__ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
-__mackerel__ :two::hammer:  
+__mackerel__ _n_ :two::hammer: :es: caballa  
 __mackinaw__  
 __macula__ _n_  
 __madcap__  
@@ -8630,7 +8630,7 @@ __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forg
 __magpied__ _v_  
 __magpies__  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
-__maiden__ :two::hammer: _Maiden flight._  
+__maiden__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
 __mail vest__ _n_ _The man wore a mail vest and greaves._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
@@ -8656,16 +8656,15 @@ __make perfect sense__ _It makes perfect sense._
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
-__make strides__ :two::hammer: _The GOP nominee will need to make huge strides with Latino voters._  
+__make strides__ _idiom_ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make up one's mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _"The time to make up your mind about people is never." -- The Philadelphia Story_  
-__make waves__ _idiom_ :two: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
-__make-or-break__ :two::hammer:  
+__make waves__ _idiom_ :four: (making waves) Cause a disturbance or controversy. _We've finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
+__make-or-break__ _adj_ :two::hammer:  
 __makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup date__ _Today's game has been postponed; no makeup date has been snnounced._  
 __makeup game__  
 __maki__ _n_  
-__making waves__ :two::hammer:  
 __maladaptive__ _adj_ Showing faulty adaptation.  
 __malady__  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _"The markets remain mired in a deep malaise" (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
@@ -8675,7 +8674,7 @@ __malcontent__ _n_ _There is not mat space for malcontents or dissenters._
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
 __malefic__ _adj_ Having or exerting a malignant influence.  
 __malevolent__  
-__malfeasance__ :two::hammer:  
+__malfeasance__ _n_ :two::hammer:  
 __malfunction__  
 __malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __malign__ :mute:[mali~~g~~n]  
@@ -8707,7 +8706,7 @@ __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around t
 __Manhattanite__  
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
-__manic__ :two::mega::hammer: _I was manic._  
+__manic__ _adj_ :two::mega::hammer: _I was manic._  
 __manicured landscape__  
 __manifest__ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
@@ -8728,7 +8727,7 @@ __maple__
 __mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
 __maraud__ _v_  
-__marauder__ :two::hammer:  
+__marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcelled__ _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
@@ -8757,7 +8756,7 @@ __marred__ _v_
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :eight::hammer: (marshals, marshalled, marshalling) _The community will marshal its resources to help undocumented immigrants._  
-__marshland__ :two::hammer:  
+__marshland__ _n_ :two::hammer:  
 __marshmallow__ _n_ :two: Althaea officinalis. The word "marshmallow" comes from the mallow plant species, an herb which grows in marshes and other damp areas.  
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
@@ -8789,7 +8788,7 @@ __materiel__ _n_ Equipment and supplies of a military force.
 __maternity leave__  
 __matey__  
 __matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
-__matriarch__ :two::hammer:  
+__matriarch__ _n_ :two::hammer:  
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __matron__  
 __matsuri__  
@@ -8869,7 +8868,7 @@ __memo pad__ _n_
 __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
 __memorable__  
-__memorandum__ :two::hammer:  
+__memorandum__ _n_ :two::hammer:  
 __memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __menagerie__ _n_ :two::hammer:  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman's life.  
@@ -8884,17 +8883,17 @@ __mens room__ _n_
 __mental memo__ _n_ :camera:  
 __mentees__  
 __Mephistopheles__ _n_ (Mephisto)  
-__merc__ :two::hammer:  
+__merc__ _n_ :two::hammer:  
 __mercantile__  
 __merch__ _n_ :three::hammer: Merchandaising?  
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
 __mere__ _adj_ :four::hammer: _From mere $200._  
-__meretricious__ :two::hammer:  
+__meretricious__ _adj_ :two::hammer:  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that's made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
-__merit__ :two::hammer:  
+__merit__ _n_ :two::hammer:  
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesh strainer__  
@@ -9452,7 +9451,6 @@ __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or 
 __nimiety__ _n_ Superfluity; excess.  
 __nine yards__ (the whole nine yards)  
 __nineloss__ ?  
-__ninety-four feet__ :two::hammer: _We played you ninety-four feet._  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
