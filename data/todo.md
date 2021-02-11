@@ -1,13 +1,3 @@
-__(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
-__a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
-__alembic__ _n_ __2__ Anything that transforms, purifies, or refines.  
-__all kidding aside__ _idiom_ ((all) kidding aside) In all seriousness; being frank for a moment.  
-__all-out__  
-__ambitious__  
-__analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
-__apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
-__appall__ _v_ :pencil2:  
-__Arcadian<sup>1</sup>__ _n_ __2__ (often arcadian) Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __Arcadian<sup>2</sup>__ _adj_ __2__ (often arcadian) One who leads or prefers a simple, rural life.  
 __astound__ _v_ Affect with wonder. _Syn_ amaze, astonish  
 __be a different kettle of fish__ _idiom_ To be entirely different in scope or description from someone or something that was just being discussed.  

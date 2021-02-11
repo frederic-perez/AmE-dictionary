@@ -22,6 +22,7 @@ __(one’s) jollies__ _idiom_ _slang_ One’s amusement, enjoyment, or pleasure.
 __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!"  
+__(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered "101."  
@@ -55,6 +56,7 @@ __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news
 __a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
+__a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
 __a knife in the back__ _idiom_ A grievous or supreme act of treachery or betrayal. (Usually preceding "of/for (someone).")  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
@@ -347,7 +349,7 @@ __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunka
 __alcove__ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
-__alembic__ _n_  
+__alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
 __Aleut__ _n_  
 __alfresco<sup>1</sup>__ _adv_  
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
@@ -360,6 +362,7 @@ __align__ :mute:[ali~~g~~n]
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all kidding aside__ _idiom_ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ _idiom_ In a nervous, confused, or agitated state.  
 __all of a sudden__ _adv_ Without warning.  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
@@ -372,7 +375,7 @@ __all that said,__
 __all the difference in the world__ _idiom_ The greatest degree of difference that is possible or conceivable. Without the verbs "mean" or "make," it is used to compare two disparate things.  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
-__all-out__ _adj_ :two: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
+__all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __allay__ _v_ :four::hammer: (allayed)  
@@ -416,7 +419,7 @@ __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumul
 __amateur hour__ _idiom_  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
-__ambitious__  
+__ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
@@ -454,6 +457,7 @@ __an eye for an eye, a tooth for a tooth__ _idiom_ Compensation or retribution t
 __an honest mistake__ _idiom_ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anachronism__  
 __anal bleaching__ _n_  
+__analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analyst__ :pencil2:  
 __anathema__ _n_ :nine: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
 __anchor__ :mute:[anc~~h~~or]  
@@ -550,11 +554,12 @@ __apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- +
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
+__apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
-__appall__ _v_ :four::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
+__appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
@@ -594,6 +599,7 @@ __arabesques__ _n_ _They were heavily coated with arabesques of frost which scin
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
+__Arcadian<sup>1</sup>__ _n_ __2__ (often arcadian) Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
 __arch__ _Her character is arch and fake._  
 __archaea__ _n_  
@@ -2247,8 +2253,8 @@ __casual__ _He put on casual clothes._
 __casualties__  
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
-__cat’s horn__ _North Korean markets have everything but a cat’s horn._  
 __cat's-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
+__cat’s horn__ _North Korean markets have everything but a cat’s horn._  
 __cataclysm__ _n_ :pencil2:  
 __catacombs__ _n_ :two::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
