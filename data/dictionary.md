@@ -1085,7 +1085,7 @@ __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
-__beamish__ _adj._ :two: Smiling, as with happiness or optimism.  
+__beamish__ _adj_ :two: Smiling, as with happiness or optimism.  
 __bean bag chair__  
 __bean counter__ _idiom_ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bean__ _v_ _She beans him with a decanter._  
@@ -3314,7 +3314,7 @@ __crossbeam__ _n_
 __crossing t’s__ _Crossing our t’s and dotting our i’s._  
 __crossover__ _Crossover zone._  
 __crossroad__ _At a crossroad._  
-__crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We’re at a crossroads._ _I’m at a crossroads._ (notice the trailing 's’)  
+__crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We’re at a crossroads._ _I’m at a crossroads._ (notice the trailing ‘s’)  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch__ :two::hammer:  
 __crow__ _v_ :three::hammer: (crowed, crowing) _"There is nothin’ like OPEC clout," crowed Jim._  
@@ -3895,7 +3895,7 @@ __disbar<sup>1</sup>__ _n_ _Disbar attorney._
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
-__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not 'fired’?) _The patient was discharged the day after the operation._  
+__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not ‘fired’?) _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
@@ -7759,10 +7759,11 @@ __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwi
 __jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
-__jigsaw__ :two::hammer: (jigsaws)  
+__jigsaw__ _n_ :two::hammer: (jigsaws)  
 __Jill of all trades(, master of none)__ _idiom_ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of "Jack of all trades"). If used with "master of none," it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __jilt__ _v_ :two: (jilted: To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
-__Jim Crow__ :two::hammer: _A Jim Crow county._  
+__Jim Crow<sup>1</sup>__ _n_  
+__Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
 __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
@@ -7778,9 +7779,9 @@ __job opening__
 __jobbing__ _v_  
 __jobless coverage__ _Jobless coverage expired for 2 million people._  
 __jock__ _n informal_ :five: An athlete. _You act like I got jock odor or something._  
-__jockeying__ :two::hammer: _Fierce political jokeying._  
+__jockey__ _v_ :two::hammer: (jockeying) _Fierce political jokeying._  
 __Jockeys__ _You’ve probably got him spotting his Jockeys._  
-__jockstrap__ :two::hammer:  
+__jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athletes, to support the genitals. _Syn_ athletic support  
 __jocular__  
 __jody__ _He often complained about his wife’s jody._  
 __John Doe__  
@@ -7804,12 +7805,11 @@ __jolt<sup>2</sup>__ _v_ _The chair jolts._
 __jonesing__ _v_ :two::hammer:  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
-__jostle anew__ :two::hammer: (jostled anew)  
-__jostle__ _v_ :six::hammer::camera: (jostled, jostling) _Cows are jostling for space._  
-__journeyman__ :two::hammer:  
+__jostle__ _v_ :eight::hammer::camera: (jostled, jostling) _Cows are jostling for space._ _Jostled anew._  
+__journeyman__ _n_ :two::hammer:  
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
-__jovial__ :two::hammer:  
+__jovial__ _adj_ :two::hammer:  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
@@ -7866,7 +7866,8 @@ __just saying__ _idiom_ :two: (I’m just saying) Used when you are making a cri
 __just__ _adj_ _The punishments were fair, just and appropriate._  
 __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :three::hammer: (jutted, jutting)  
-__juvenile__ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._ _The Downeast Salmon Federation released the juvenile salmon into the river._  
+__juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
+__juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-pop__  
 __K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
@@ -7905,7 +7906,7 @@ __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigila
 __keep one’s word__ _idiom_ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep tab(s) (on someone or something)__ _idiom_ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._  
 __keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
-__keep up with__ :two::hammer:  
+__keep up with (someone or something)__ _idiom_ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
@@ -7917,7 +7918,7 @@ __keno__ _n_
 __kerchief__ _n_  
 __kerkuffles__  
 __keseboy__  
-__key up__ :two::hammer: _He was too keyed up._ _I was too keyed up to sleep._  
+__keyed up__ _idiom_ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
@@ -7927,7 +7928,7 @@ __khakis__ _n_ :two::hammer:
 __kibble__ _n_  
 __kibbutz__  
 __kibitz__ _v_  
-__kick ass__ :two::hammer:  
+__kick ass__ _idiom_ :two: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ _idiom_ :two: To start to have an effect or to happen.  
@@ -7962,7 +7963,7 @@ __kin__
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
 __kindle__ _v_ _To kindle a fire._  
-__kindling__ :two::hammer:  
+__kindling__ _n_ :two: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred spirit__ _idiom_ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
@@ -7988,7 +7989,7 @@ __kith and kin__ _To identify kith and kin._
 __kitsch__  
 __kitten__  
 __kiwi__  
-__kleptocracy__ :two::hammer:  
+__kleptocracy__ _n_ :two: A government characterized by rampant greed and corruption.  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._  
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
@@ -8034,8 +8035,8 @@ __knowledgeable__ _adj_
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
 __knuckle__ :mute:[~~k~~nuckle]  
-__knuckleball__ :two::hammer:  
-__knuckler__ :two::hammer: (knucklers)  
+__knuckleball__ _n_ :two: A throw in baseball that flies in an erratic way and is difficult to hit well because the pitcher holds the ball between the fingertips or knuckles.  
+__knuckler__ _n_ :two: (knucklers) _baseball_ A knuckle ball.  
 __knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __knurled__ _v_ :two::hammer:  
 __KO<sup>1</sup>__ _n_ A knockout in boxing.  
@@ -8104,11 +8105,11 @@ __lair__ _n_ :two::hammer: _A tiger’s lair._
 __lairy__ _adj_ :two: Gaudy or flashy.  
 __lalochezia__ Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _The Bronco is on the lam._  
-__lamb__ :two::mute:[lam~~b~~]:hammer:  
+__lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
-__lame__ :two::hammer: _Lame excuse._  
+__lame__ _adj_ :two::hammer: _Lame excuse._  
 __laminate__ _v_ :es: plastificar  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
@@ -8142,7 +8143,7 @@ __lapse<sup>1</sup>__ _v_
 __lapse<sup>2</sup>__ _n_  
 __larceny__ _n_ :seven: Theft of personal property. :es: hurto  
 __larder__ _n_ :three::hammer:  
-__largely__ :two::hammer:  
+__largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
 __lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
@@ -8225,7 +8226,7 @@ __leap of faith__
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __leaps and bounds__ _To grow in leaps and bounds._  
-__learn the ropes__ :two::hammer:  
+__learn the ropes__ _idiom_ :two::hammer:  
 __lease__ _n_ :three::hammer: (on a lease)  
 __leased__ _v_  
 __leaven__ _To leaven the raunch and swagger._  
@@ -8976,7 +8977,7 @@ __millennium__ _n_ :two::pencil2:
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
-__million__ _The project willl cost around $10 million._ (not ending with 's’)  
+__million__ _The project willl cost around $10 million._ (not ending with ‘s’)  
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one’s) words__ _idiom_  
@@ -13637,7 +13638,7 @@ __Staten Islander__ _n_
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_ _The spacious forward stateroom of the boat._  
 __statesman__ _n_ :two::hammer: _The elder statesman of the group._  
-__statesmen__ (notice, not 'statement’)  
+__statesmen__ (notice, not ‘statement’)  
 __statin__ _n_  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
@@ -13690,7 +13691,7 @@ __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human ef
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
 __stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
-__Step 'n’ Fetch It routine__  
+__Step ‘n’ Fetch It routine__  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
 __stepladder__ _n_  
@@ -14918,7 +14919,7 @@ __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
-__trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- 'three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
@@ -15662,7 +15663,7 @@ __wastebasket__ _n_ :two::hammer:
 __wasted__ _adj_ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
 __watch caps__  
-__watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six’ does indeed mean 'watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__watch your six__ _idiom_ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
