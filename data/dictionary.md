@@ -599,7 +599,7 @@ __arabesques__ _n_ _They were heavily coated with arabesques of frost which scin
 __arbitration__ _Arbitration clause._  
 __arbor__ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
-__Arcadian<sup>1</sup>__ _n_ __2__ (often arcadian) Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
+__Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
 __arch__ _Her character is arch and fake._  
 __archaea__ _n_  
@@ -718,7 +718,7 @@ __asswipe__ _n_
 __asthma__ _n_  
 __astigmatism__ _n_  
 __astir__  
-__astounded__  
+__astound__ _v_ :two: (astounded) Affect with wonder. _Syn_ amaze, astonish  
 __astraddle__  
 __astray<sup>1</sup>__ _adv_  
 __astray<sup>2</sup>__ _adj_  
@@ -1048,6 +1048,7 @@ __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He t
 __be (someone’s) call__ _idiom_ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
 __be (the) bomb__ _idiom_ To be excellent, extremely entertaining, or of very high quality.  
+__be a different kettle of fish__ _idiom_ To be entirely different in scope or description from someone or something that was just being discussed.  
 __be a roaring success__ _idiom_ To be extremely or triumphantly successful.  
 __be as good as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits’ end__ _idiom_ To be worried about something and not know what you should do next.  
@@ -1065,10 +1066,13 @@ __be in a pickle__ _slang_ To be in a troublesome situation.
 __be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in over (one’s) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
+__be kicked upstairs__ _idiom_ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
+__be knocking on heaven’s door__ _idiom_ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
+__be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
@@ -1080,7 +1084,7 @@ __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
 __beam<sup>2</sup>__ _v_ To smile radiantly or happily.  
-__beaming__ _adj._ Smilingly happy; showing happy emotion.  
+__beamish__ _adj._ :two: Smiling, as with happiness or optimism.  
 __bean bag chair__  
 __bean counter__ _idiom_ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bean__ _v_ _She beans him with a decanter._  
@@ -1151,7 +1155,7 @@ __beforehand__ :dart: _The driver and the victim had exchanged words beforehand.
 __befouled__  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __beg__ _All of this begs the question of Gallego’s own voting record._  
-__beggar__ _n_  
+__beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
 __begrudgingly__ :two::hammer:  
@@ -1161,7 +1165,7 @@ __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Som
 __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behind the times__ _idiom_ Old-fashioned.  
-__behold__ _v_ :three::hammer: _The wedding ceremony was a joy to behold._  
+__behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :seven::hammer: (behooves)  
@@ -1175,6 +1179,7 @@ __bejeweled__ _v_
 __belabor__  
 __belaboring__  
 __belate__ _v_ :five::hammer: (belated)  
+__belated__ _adj_ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :five::hammer:  
 __belch__ _n_  
 __belches__ _v_ _Steam belches from the nuclear power plant._  
@@ -2253,8 +2258,8 @@ __casual__ _He put on casual clothes._
 __casualties__  
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
-__cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cat’s horn__ _North Korean markets have everything but a cat’s horn._  
+__cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
 __catacombs__ _n_ :two::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
@@ -7217,8 +7222,8 @@ __I feel you/that__ _idiom_ _slang_ I understand, agree with, or can relate to w
 __I see what you did there__ _idiom_ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ _idiom_ An expression of vague affirmation or assent.  
 __I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
-__I’ll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __I’d say__ _idiom_ In my opinion; it is my estimation that.  
+__I’ll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __I’m with you__ _idiom_ I agree with you. _A: "Ugh, why did we have to get up so darn early?" B: "Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea."_  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __iatrogenic__ Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
@@ -8504,7 +8509,7 @@ __loony__
 __loophole__ :es: escapatoria  
 __loopy__ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
 __loose cannon__ :two::hammer:  
-__loose ends__ :two::hammer:  
+__loose ends__ _idiom_ :two::hammer:  
 __loose strands__  
 __loose-cannon__  
 __loose-leaf notebook__ _n_ _Loose-leaf and bound notebooks can be used._  
@@ -15694,7 +15699,7 @@ __weaponize__ _v_ :four::hammer:
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
-__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor’, 'Manager’, and 'Super’._  
+__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__  
 __weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  

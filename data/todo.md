@@ -1,13 +1,3 @@
-__Arcadian<sup>2</sup>__ _adj_ __2__ (often arcadian) One who leads or prefers a simple, rural life.  
-__astound__ _v_ Affect with wonder. _Syn_ amaze, astonish  
-__be a different kettle of fish__ _idiom_ To be entirely different in scope or description from someone or something that was just being discussed.  
-__be kicked upstairs__ _idiom_ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
-__be knocking on heaven’s door__ _idiom_ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
-__be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
-__beamish__ _adj_ Smiling, as with happiness or optimism.  
-__beggar__ _n_  
-__behold__ _v_  
-__belated__ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
 __blubber__ _n_  
 __bluff__ _v_ (bluffing)  
