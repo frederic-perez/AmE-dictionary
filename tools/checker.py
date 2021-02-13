@@ -213,6 +213,7 @@ class Checker(object):
         self.num_entries_with_triple_spaces = 0
         self.num_entries_with_wrong_type_of_space_character = 0
         self.num_entries_with_tab_character = 0
+        self.num_entries_with_straight_single_quote = 0
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
@@ -283,6 +284,14 @@ class Checker(object):
         print(headword + FAIL + ' <<< Tab character(s) #' \
             + str(self.num_entries_with_tab_character) + ENDC)
 
+    def treat_straight_single_quote(self, entry):
+        """Self-explanatory"""
+        self.num_entries_with_straight_single_quote += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' <<< Straight single quote #' \
+            + str(self.num_entries_with_straight_single_quote) + ENDC)
+
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
         self.num_tag_shit += 1
@@ -323,6 +332,8 @@ class Checker(object):
             self.treat_wrong_type_of_space_character(entry)
         if entry.count('	') > 0: # Attention: The space character here is a tab character!
             self.treat_tab_character(entry)
+        if entry.count('\'') > 0:
+            self.treat_straight_single_quote(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
         if entry_has_tag_of_any_number(entry, 2, 9) and \
@@ -368,6 +379,8 @@ class Checker(object):
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
             + self.num_entries_with_wrong_type_of_space_character \
+            + self.num_entries_with_tab_character \
+            + self.num_entries_with_straight_single_quote \
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
@@ -379,15 +392,16 @@ class Checker(object):
             print_colored("Entries with displaced part of speech", \
                 self.num_displaced_part_of_speech)
             print_colored('Entries with invalid ending', self.num_invalid_endings)
+            print_colored('Entries with invalid tags', self.num_invalid_tags)
             print_colored('Entries with invalid use of underscores', \
                 self.num_invalid_use_of_underscores)
-            print_colored('Entries with invalid tags', self.num_invalid_tags)
             print_colored('Entries with tag :shit:', self.num_tag_shit)
             print_colored('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
             print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
             print_colored('Entries with wrong type of space character [use $ sed -i \'s/ / /g\' ../data/todo.md]', self. num_entries_with_wrong_type_of_space_character)
             print_colored('Entries with tab character(s)', self. num_entries_with_tab_character)
+            print_colored('Entries with straight single quote(s)', self.num_entries_with_straight_single_quote)
             print_colored('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)

@@ -2416,7 +2416,7 @@ __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boar
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
 __check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
-__check all the boxes__ _idiom_ _The movie 'Thor' checks all the boxes._  
+__check all the boxes__ _idiom_ _The movie _Thor_ checks all the boxes._  
 __check in__ _v_  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check out__ _Acording to Jim, the layer’s name checked out._  
@@ -5133,7 +5133,7 @@ __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from un
 __Filipino__  
 __fill out__  
 __fill someone in__ _Thank you for filling us in._  
-__fill'er up__ (gas station)  
+__fill’er up__ (gas station)  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ _n_ :three::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
@@ -5199,7 +5199,7 @@ __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, a
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
 __fits__ _The cathedral has been built in fits._  
 __fittingly__ :two::hammer:  
-__five o'clock shadow__ _idiom_ A short beard on a man’s face that has grown since the morning shave.  
+__five o’clock shadow__ _idiom_ A short beard on a man’s face that has grown since the morning shave.  
 __fivesomes__  
 __fix__ _A quick fix of French fries._  
 __fixable__ _A lot of that is fixable._  
@@ -5435,7 +5435,7 @@ __for good__ :two::hammer: _Leadville’s only hospital is preparing to close fo
 __for keeps__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
-__For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, 'It will cost her 1.5 million pounds for starters if she loses.'_  
+__For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, "It will cost her 1.5 million pounds for starters if she loses."_  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the most part__ :two::hammer:  
@@ -5593,7 +5593,7 @@ __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._
 __fretwork__  
 __Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __friction__ _The coefficient of friction._  
-__Friday__ :mega: /'fraIdi, -deI/  
+__Friday__ :mega: /’fraIdi, -deI/  
 __frieze__ _n_  
 __frigid__ (frigid winds) Extremely cold.  
 __frill__ _v_  
@@ -5777,7 +5777,7 @@ __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn’t closing._  
-__gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies' defense._ _The Lions gashed the Owls._  
+__gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
 __gasolene__ :two::hammer::pencil2:  
@@ -6208,7 +6208,7 @@ __grease payment__ _idiom_ A sum of money, typically a bribe, paid to a governme
 __greaseballs__ :two::hammer:  
 __great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __Great Dane__  
-__great deal__ _idiom_ :dart: (often followed by `of') a large number or amount or extent. Much, a lot.  
+__great deal__ _idiom_ :dart: (often followed by `of’) a large number or amount or extent. Much, a lot.  
 __great strides__ _He made great strides during his presidency._  
 __Great War__  
 __great-grandchildren__  
@@ -6730,7 +6730,7 @@ __heather__
 __heathy__  
 __heatwave__ _n_  
 __heave into view__ _idiom_ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
-__heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43'6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heaven knows__ _idiom_  
 __heavily__ _He was drinking heavily._  
 __heavy lifting__ _idiom_ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
@@ -6942,7 +6942,7 @@ __hogslop__
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
-__hokum__ _n_ :three::hammer: _Starry 'Love the Coopers' is a bunch of ho-ho-hokum._  
+__hokum__ _n_ :three::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold (one’s) feet to the fire__ _idiom_ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
 __hold (one’s) nerve__ _idiom_ To remain calm, steady, and resolute, especially in the face of danger or adversity.  
 __hold (one’s) nose__ _idiom_  
@@ -7048,7 +7048,7 @@ __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the ca
 __hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _"Emmett, that skirt is a hoot!" (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
 __hope against (all) hope__ _idiom_ To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
-__hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in 'The Wiz Live!'_  
+__hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in_ _The Wiz Live!_  
 __Hopi__ _n_  
 __hopped cars__  
 __hopscotch__  
@@ -7677,7 +7677,7 @@ __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).
 __jabroni__ _n_  
 __jack it up__ _v_  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
-__jack-o'-lantern__  
+__jack-o’-lantern__  
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
@@ -7765,7 +7765,7 @@ __jinx<sup>1</sup>__ _v_
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
 __jittery__ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
-__jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you’re shuckin' and jivin' me._  
+__jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you’re shuckin’ and jivin’ me._  
 __jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can dance, you can jive, having the time of your life--ABBA’s Dancing Queen lyrics._  
 __job opening__  
 __jobbing__ _v_  
@@ -7892,7 +7892,7 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don’t keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
-__keep in check__ :two::hammer: _Devils keep Hawks' high-flying offense in check._  
+__keep in check__ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
 __keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigilantly (for).  
@@ -8512,7 +8512,7 @@ __loosen up__ _v_ _“Loosen up, Andy,” suggested Lazarus, “make a guess.”
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
 __loot__ _v_ :two::hammer:  
-__lop off__ _v_ _The bastard started lopping off the prisoners' heads._  
+__lop off__ _v_ _The bastard started lopping off the prisoners’ heads._  
 __lope__ _v_  
 __loped__ _v_  
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
@@ -8645,7 +8645,7 @@ __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part o
 __maimed__  
 __Main Street__  
 __mainstay__ _n_ :three::hammer: _A mainstay of his business._  
-__maitre d'__  
+__maitre d’__  
 __major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
@@ -8655,7 +8655,7 @@ __make a face__ _idiom_ To distort the features of the face; grimace.
 __make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ _idiom_  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
-__make it easy on yourself__ _Make it easy on yourself, 'cause breaking up is very hard to do._  
+__make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
 __make perfect sense__ _It makes perfect sense._  
@@ -8691,7 +8691,7 @@ __mallards__
 __mallow__ :pencil2:  
 __malnourished__  
 __mamasan__  
-__man o’war__ _n_ (man-of-war, man o' war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
+__man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __man<sup>1</sup>__ _Oh, man!_  
 __man<sup>2</sup>__ _v_ (manning)  
@@ -8970,7 +8970,7 @@ __millennium__ _n_ :two::pencil2:
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
-__million__ _The project willl cost around $10 million._ (not ending with 's')  
+__million__ _The project willl cost around $10 million._ (not ending with 's’)  
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one’s) words__ _idiom_  
@@ -9090,8 +9090,8 @@ __mom-and-pop__ _Mom-and-pop shops._
 __momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __momentum__  
 __monad__  
-__Monday__ :mega: /'möndi, -deI/  
-__mondegreen__ _n_ :two::dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._ (From the Scottish ballad 'The Bonny Earl of Murray', in which the line "laid him on the green" can be misheard as "Lady Mondegreen.")  
+__Monday__ :mega: /’möndi, -deI/  
+__mondegreen__ _n_ :two::dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._ (From the Scottish ballad _The Bonny Earl of Murray_, in which the line "laid him on the green" can be misheard as "Lady Mondegreen.")  
 __money doesn’t grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
@@ -9786,7 +9786,7 @@ __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Someth
 __one-run__ _One-run games._  
 __one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
-__onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the 'Avengers' show._  
+__onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :six::hammer: _Early onset dementia._  
@@ -10168,7 +10168,7 @@ __partridge__ _n_ :two::hammer:
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
 __party crasher__ _idiom_ One who attends a party without having been invited.  
 __party line__ _n_  
-__party pooper__ _idiom_ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others' enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
+__party pooper__ _idiom_ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __party poppers__  
 __party__ _n_  
 __partyer__ _n_  
@@ -10690,7 +10690,7 @@ __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red 
 __pneumonia__ :mute:[~~p~~neumonia]  
 __PO__ Parole officer?  
 __po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
-__po'-boy sandwiches__  
+__po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
@@ -10770,7 +10770,7 @@ __pop__ _v_ _Kids popping balloons._
 __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
 __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
-__pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43'3 on her first throw._ _Pop the pimples._  
+__pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._  
 __popcorn__ :es: gotelé?  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
@@ -11198,7 +11198,7 @@ __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_  
 __push puppet__ _n_ :camera:  
-__push the envelope__ _idiom_ To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents' rules._  
+__push the envelope__ _idiom_ To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._  
 __push<sup>1</sup>__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __push<sup>2</sup>__ _n_  
 __pushback__ _n_  
@@ -11432,7 +11432,7 @@ __rapturous__
 __rare news conference__  
 __rare__  
 __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
-__rarer than hens' teeth__ _idiom_ Incredibly scarce or rare; extremely difficult or impossible to find.  
+__rarer than hens’ teeth__ _idiom_ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __raring__  
 __rascal__  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
@@ -11486,7 +11486,7 @@ __razor strop__
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ _n_ _informal_ :two::hammer:  
 __razzmatazz__ _n_  
-__re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re her thoughts on the managers' meeting._  
+__re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re her thoughts on the managers’ meeting._  
 __reach for the sky__  
 __reach for the stars__ _idiom_ :two: Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
@@ -11917,7 +11917,7 @@ __roger__ _interj_ __1__ _informal_ All right; OK.
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __ROI__ Return on investment.  
-__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils 'Game' finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
+__roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone’s) eyes__  
@@ -11969,7 +11969,7 @@ __rosary__ _n_ (rosaries)
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rosette__ _n_  
 __rosin box__  
-__roster__ _n_ :two::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep 'em straight._  
+__roster__ _n_ :two::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
 __rot-and-branch__ _Root-and-branch reforms._  
@@ -11985,7 +11985,7 @@ __rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
 __roughly__ _adv_ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
-__rouler__ _Will 'NCIS' roulerinto a new city next year?_  
+__rouler__ _Will _NCIS_ rouler into a new city next year?_  
 __round out__ _v_ :two::hammer:  
 __round robin__ _The con game is one round robin._  
 __round the bend__ _idiom_ :two: Crazy, insane.  
@@ -12093,7 +12093,7 @@ __RVR__ _Write me up with an RVR._
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
-__S'mores__ _S'mores season!_  
+__S’mores__ _S’mores season!_  
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ _Every penny will be returned to you (except s&h)._  
 __S&L__ _An S&L swinger._  
@@ -12755,7 +12755,7 @@ __shriving__ _n_ :two::hammer:
 __shrubbery__  
 __shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
-__shucking__ _v_ :two::hammer: _I know when you’re shuckin' and jivin' me._ _Portraits of a man shucking corn._  
+__shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
 __shudder__ _v_ :four::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
@@ -13236,7 +13236,7 @@ __soft-spoken__ _adj_ :two::hammer:
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
 __soggy__ _adj_ :six: Very wet and soft. _Syn_ soft and wet, mushy _Soggy food on top letting off a gray steam._ _Soggy drink cups._ :es: empapado, esponjoso  
-__soi-disant__ _adj_ :two: As claimed by and for yourself often without justification. _The self-styled `doctor' has no degree of any kind._ _Syn_ self-styled _I do not think either of these soi-disant friends is overflowing with love for the other._  
+__soi-disant__ _adj_ :two: As claimed by and for yourself often without justification. _The self-styled `doctor’ has no degree of any kind._ _Syn_ self-styled _I do not think either of these soi-disant friends is overflowing with love for the other._  
 __soignée__  
 __soil__ _v_  
 __soiled__  
@@ -13377,7 +13377,7 @@ __speculoos__ _Speculoss Belgian biscuits._
 __Sped case__  
 __speed demon__  
 __speed-dial__ _v_  
-__spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say 'let me make it very clear and easy to understand."  
+__spell it out__ _idiom_ For example, "let me spell it out for you," is another way to say “let me make it very clear and easy to understand.”  
 __spell<sup>1</sup>__ _v_  
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
@@ -13631,7 +13631,7 @@ __Staten Islander__ _n_
 __stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner "stateroom scene."_ _The spacious forward stateroom of the boat._  
 __statesman__ _n_ :two::hammer: _The elder statesman of the group._  
-__statesmen__ (notice, not 'statement')  
+__statesmen__ (notice, not 'statement’)  
 __statin__ _n_  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __stationary bicycle__ _n_ A "going-nowhere" bicycle.  
@@ -13684,7 +13684,7 @@ __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human ef
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
 __stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
-__Step 'n' Fetch It routine__  
+__Step 'n’ Fetch It routine__  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
 __stepladder__ _n_  
@@ -14561,7 +14561,7 @@ __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.
 __thunk<sup>1</sup>__ _n_  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
 __thunked__ _v_  
-__Thursday__ :mega: /'θøzdi, -deI/  
+__Thursday__ :mega: /’θøzdi, -deI/  
 __thusly__  
 __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
 __thwack<sup>2</sup>__ _v_  
@@ -14985,7 +14985,7 @@ __tsuifuku__
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tubbing up__ _I keep tubbing up._  
 __tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
-__tube socks__ :camera:hammer: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro '70s-'80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
+__tube socks__ :camera:hammer: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
 __tuck away__  
 __tuck tail__ _You just don’t tuck tail and go someplace else._  
@@ -15203,7 +15203,7 @@ __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungulate__  
-__unheard of__ _idiom_ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors' decisions._  
+__unheard of__ _idiom_ :four: Extremely uncommon or unusual; beyond belief. Hyphenated if used as a modifier before a noun. _His prowess on the balance beam is unheard of._ _Investors began making unheard-of amounts of money on these risky investments._ _It’s not unheard of for individual contributors to question their superiors’ decisions._  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
 __unhinged__ _adj_ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
@@ -15642,7 +15642,7 @@ __wasabi__ _n_
 __wash (someone’s) mouth out (with soap)__ _idiom_ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash out__ _phr v_ To wash the inside of something.  
 __wash up__ _phr v_ To wash your hands and face.  
-__wash__ _n_ _At the specialty box office, 'By the Sea' was a wash._  
+__wash__ _n_ _At the specialty box office, _By the Sea_ was a wash._  
 __washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
 __washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
 __washing line__ _n_  
@@ -15656,7 +15656,7 @@ __wastebasket__ _n_ :two::hammer:
 __wasted__ _adj_ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
 __watch caps__  
-__watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six' does indeed mean 'watch your back.' It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
+__watch your six__ _idiom_ Your intuitions are correct; the phrase 'watch your six’ does indeed mean 'watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
@@ -15694,7 +15694,7 @@ __weaponize__ _v_ :four::hammer:
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
-__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor', 'Manager', and 'Super'._  
+__weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include 'Processor’, 'Manager’, and 'Super’._  
 __weather vane__  
 __weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  
@@ -15707,7 +15707,7 @@ __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
-__Wednesday__ :mega::mute:[we~~d~~nesday] /'wEnzdi, -deI/  
+__Wednesday__ :mega::mute:[we~~d~~nesday] /’wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::four: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
@@ -15774,7 +15774,7 @@ __wheel__ _v_ :mute:[w~~h~~eel]
 __wheelbarrow__  
 __wheelbarrow-sledges__  
 __wheeled__ _v_ _Shallows dipped and wheeled._  
-__wheeler-dealer__ _n_ _informal_ :dart: One who advances one’s own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin'._  
+__wheeler-dealer__ _n_ _informal_ :dart: One who advances one’s own interests by canny, aggressive, or unscrupulous behavior. _I am a wheeler-dealer and I gotta keep movin’._  
 __wheelie__  
 __wheels are turning, the__ _idiom_ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __wheelwright__ _n_  
@@ -16111,7 +16111,7 @@ __xenoestrogen__ _n_
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
-__ya'__ _?_ _Ya' think?_  
+__ya’__ _?_ _Ya’ think?_  
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
