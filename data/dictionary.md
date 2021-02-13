@@ -1074,6 +1074,7 @@ __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be near
 __be no picnic__ _Looking after four children is no picnic._  
 __be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
+__be on the lookout__ _idiom_ :two::hammer:  
 __be on track__ _idiom_ To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
@@ -7367,6 +7368,7 @@ __in its infancy__ _idiom_ In the early, nascent period of development or implem
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
+__in lieu of (something)__ _idiom_ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __in no way__ _idiom_ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ _idiom_ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
@@ -7821,11 +7823,10 @@ __jug-eared__ _idiom_ :astonished: Having ears that stick out markedly from the 
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice boxes__ :camera:  
 __juice__ _n_ _slang_ :three: Energy, power.  
-__juicy__ :two::hammer:  
+__juicy__ _adj_ :two::hammer:  
 __jujitsu__ _n_  
 __juke__ _I was looking in my mirror and saw him juke to the right._  
-__julep__ :two::hammer:  
-__juleps__  
+__julep__ _n_ :three::hammer: (juleps)  
 __Juliette balcony__  
 __jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
@@ -7957,7 +7958,6 @@ __killer bees__
 __killing field__ _n_ :two: (usually plural) An area where many people have died (usually by massacre or genocide during war or violent civil disturbance).  
 __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanket  
 __kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
-__kilter__ :two::hammer: _Out of kilter with the times._ _Off-kilter_  
 __kin__  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder ("children") and Garten ("garden"). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his "method of developing intelligence in young children."  
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
@@ -8234,7 +8234,7 @@ __lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containin
 __lecher__  
 __lectern__  
 __lecture__ _n_  
-__ledge__ :two::hammer: _Adam turned and sat on the ledge._  
+__ledge__ _n_ :two::hammer: _Adam turned and sat on the ledge._  
 __ledger__ _n_ :nine:::m: __1__ An accounting journal as a physical object. _A heavy account ledger._ __2__ A slab of stone laid flat over a grave. __3__ A horizontal timber in a scaffold, attached to the uprights and supporting the putlogs.  
 __lee__ _n_ :two::hammer: _In the lee of the wagon._  
 __leech__ _n_ :six: __1__ Bloodsucking worm. :es: sanguijuela __2__ A person who stays around other people and uses them for personal gain.  
@@ -8258,7 +8258,8 @@ __legit__ _adj_ _Slang_ :four: Legitimate.
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
-__leisurely__ :two::hammer: _He took his coat, leisurely putting it on._  
+__leisurely<sup>1</sup>__ _adj_  
+__leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
 __lemme__ _Lemme see._  
 __lemming__ _n_  
@@ -8296,7 +8297,7 @@ __letter jacket__ A jacket traditionally worn by high school and college student
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
 __levee__  
-__leveled__ :two::hammer:  
+__level__ _v_ :two::hammer: (leveled)  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
@@ -8308,7 +8309,7 @@ __levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
-__liable__ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
+__liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :five::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
@@ -8321,14 +8322,13 @@ __licentiousness__
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lick-spittle__ _A lick-spittle role._  
-__lickety-split__ :dart::two::hammer: (lickety split)  
+__lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
 __licorice__ _n_ :three::camera: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
 __lier__ _n_ A person who lies down.  
-__lieu__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
@@ -8366,16 +8366,16 @@ __likely__ _You are likely to get derailed into organizing._
 __likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
-__lilac__ :two::hammer:  
+__lilac__ _n_ :two::hammer:  
 __lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ Cowardly; timid.  
-__limb__ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
+__limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
 __limn__ _v_ :two: (limned) To draw; portray in words; describe.  
 __limo__  
-__limp__ :two::hammer: _Limp spinoff._ _Limp wrists._  
+__limp__ _adj_ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __limpid__ _adj_  
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
@@ -8392,7 +8392,7 @@ __linger__
 __lingering__ _adj_ Lasting for a long time, especially when this is unpleasant or not necessary. _The lingering feeling._  
 __linguaphile__ _n_  
 __lining__ _n_ :two::hammer: _My stomach lining._  
-__links__ :two::hammer: _The links course._  
+__links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
 __lintel__ _Stone lintels._  
 __lion’s share__ _idiom_ :two: The greatest or best part.  
@@ -8411,10 +8411,11 @@ __listen__ :mute:[lis~~t~~en]
 __listening session__  
 __listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
-__listless__ :two::hammer:  
+__listless__ _adj_ :two::hammer:  
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
-__literate__ :two::hammer:  
+__literate<sup>1</sup>__ _adj_  
+__literate<sup>2</sup>__ _n_ :two::hammer:  
 __lithe__ _adj_ :five::hammer: _A lithe cat._  
 __lithotripsy__ _n_ :two: A medical procedure involving the physical destruction of hardened masses like kidney stones, bezoars or gallstones. The term is derived from the Greek words meaning "breaking stones".  
 __lithotripter__ _n_  
@@ -8433,7 +8434,7 @@ __livestock__ _n_
 __livid__  
 __living quarters__ _Precatious makeshoft living quarters._  
 __living wills__  
-__lizard brain__ :two::hammer: (lizard brains)  
+__lizard brain__ _n_ :two::hammer: (lizard brains)  
 __llama__  
 __llilacs__ _n_  
 __lo and behold__ _idiom_ :two::hammer:  
@@ -8456,7 +8457,7 @@ __lockout__ _N.J. residents upset over island lockout._
 __locks > alcohol ignition locks__  
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
-__lockstep__ :two::hammer:  
+__lockstep__ _n_ :two::hammer:  
 __locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
@@ -8502,13 +8503,13 @@ __look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of c
 __look up__ _Look up to your belongings._  
 __lookalike__ _These lookalike domains are used for scams._  
 __looker__ _n_ :three::hammer:  
-__lookout__ :two::hammer: _Be on the lookout._  
+__lookout__ _n_  
 __lookup__ _n_ :two::hammer:  
 __loony bin__ _The Count’s plot to drive her straight to the loony bin._  
 __loony__  
 __loophole__ :es: escapatoria  
-__loopy__ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
-__loose cannon__ :two::hammer:  
+__loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
+__loose cannon__ _idiom_ :two::hammer:  
 __loose ends__ _idiom_ :two::hammer:  
 __loose strands__  
 __loose-cannon__  
@@ -9666,7 +9667,7 @@ __off kilter__
 __off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
-__off-kilter__ _idiom_ :two::hammer:  
+__off-kilter__ _idiom_ :three::hammer:  
 __off-price stores__  
 __off-putting__  
 __off-street__ _Off-street parking._  
@@ -9871,7 +9872,7 @@ __ounce__
 __ouster__ _n_  
 __out of date__ _idiom_  
 __out of hand__  
-__out of kilter__ _idiom_  
+__out of kilter__ _idiom_ :two: _Out of kilter with the times._  
 __out of order__  
 __out of pocket__ _idiom_ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he’s been rather out of sorts lately._  
