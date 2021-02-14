@@ -1,13 +1,3 @@
-__belly-wash__ _n_ Any kind of drink of poor quality.  
-__blubber__ _n_  
-__bluff__ _v_ (bluffing)  
-__boast__ _v_ (boasted) _Abe boasted of his wine expertise._  
-__boycott__ _v_ To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
-__bugbear__ _n_  
-__bunkum__ __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
-__call forth__  
-__call someone names__ _idiom_ To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._  
-__canister__ _n_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  

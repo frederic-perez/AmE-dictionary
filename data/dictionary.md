@@ -1205,6 +1205,7 @@ __bells and whistles__ _pl n_ :four: Nonessential features or enhancements inten
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly flop__ _n informal_ :dart::two: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
+__belly-wash__ _n_ Any kind of drink of poor quality.  
 __belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
 __belt socket__ _n_  
@@ -1460,6 +1461,7 @@ __blowsy__
 __blowtorch__ _n_ :two::hammer:  
 __blowup bed__ _n_  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
+__blubber__ _n_  
 __bludgeoned__ _v_ :three::hammer:  
 __blue in the face__ _idiom_ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to thebluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__ _idiom_  
@@ -1471,9 +1473,8 @@ __blue-collar men__
 __bluegill__  
 __bluegrass__  
 __blueprint__ _n_ :six::hammer: (blueprints)  
-__bluff<sup>1</sup>__ _v_  
+__bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
-__bluffing__ _v_  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: 1) use a blunt (“dull”) knife to cut your tomatoes; 2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or 3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
@@ -1494,7 +1495,7 @@ __boarding school__ _n_ :dart: A school that provides meals and lodging.
 __boardrooms__  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
-__boast__ _v_ :seven::hammer: _I can boast about it for eternity._  
+__boast__ _v_ :eight::hammer: (boasted) _I can boast about it for eternity._ _Abe boasted of his wine expertise._  
 __boaters__  
 __boatswain__  
 __bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
@@ -1644,9 +1645,8 @@ __box score__
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boy oh boy__ _idiom_ An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
-__boycott__  
-__boycott<sup>1</sup>__ _n_ :astonished:  
-__boycott<sup>2</sup>__ _n_ :astonished:  
+__boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
+__boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
@@ -1843,7 +1843,7 @@ __bug off__ _Slang_ To leave someone alone; go away.
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
-__bugbear__ _n_ __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
+__bugbear__ _n_ :two: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
@@ -1902,7 +1902,7 @@ __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or 
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend’s house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
 __bunkmates__  
-__bunkum__ _n_  
+__bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
@@ -2070,6 +2070,7 @@ __caliph__
 __caliphate__  
 __calisthenics__  
 __call for__  
+__call forth__  
 __call it even__ _idiom_ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
@@ -2078,7 +2079,7 @@ __call on someone__ _He called on me._
 __call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
-__call someone names__ _I wouldn’t call you names._  
+__call someone names__ _idiom_ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ _idiom_ To call someone before an authority to be scolded or reprimanded.  
 __call the shots__  
 __call to action__  
@@ -2128,7 +2129,7 @@ __candor__ _n_
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __cane brakes__  
 __canebrake__ _n_  
-__canister__ _n_ :four::hammer: _Organic coffee canisters._  
+__canister__ _n_ :five::hammer: _Organic coffee canisters._  
 __canned__ To get fired, to lose your job.  
 __cannibalization__ _n_  
 __cannolis__  
