@@ -1352,7 +1352,7 @@ __black belt__
 __black gold__  
 __black lung__ _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
-__black out__ _v_ :two::hammer: (blacked out)  
+__black out__ _phr v_ :three::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
 __black-eyed peas__  
@@ -2677,7 +2677,7 @@ __clockwork__ _n_
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clogging__ _v_  
 __close > not even close__  
-__close call__ _n informal_ :three::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
+__close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
 __close, but no cigar__ _idiom_ Close, but not enough to win or succeed.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
@@ -5847,6 +5847,7 @@ __get a grip__ :two::hammer:
 __get a handle__ _UAVs are used to get a handle on what’s going on._  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You’ll get a kick out of this!_  
+__get ahead of (oneself)__ _idiom_ To plan or become overly excited for a possible future event.  
 __get ahold__  
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get around to__ _Dreams and goals I might get around to at some time._  
@@ -6895,6 +6896,7 @@ __hit (one’s) stride__ _idiom_
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit a snag__ _idiom_ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit and miss__ :two::hammer:  
+__hit bottom__ _idiom_ To reach the lowest or worst point. _Our profits have hit bottom._  
 __hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
@@ -7369,6 +7371,7 @@ __in its own right__ _adv_ :three::hammer: (in my own right)
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in lieu of (something)__ _idiom_ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
+__in no time (at all)__ _idiom_ In a very little amount of time. _That test was so easy, I was done in no time._  
 __in no way__ _idiom_ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ _idiom_ In no possible manner; under no circumstances; not by any means.  
 __in one blow__ _idiom_ All at once, with a single decisive or powerful action.  
@@ -7918,8 +7921,8 @@ __keno__ _n_
 __kerchief__ _n_  
 __kerkuffles__  
 __keseboy__  
-__keyed up__ _idiom_ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
+__keyed up__ _idiom_ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
 __keystone__ :es: piedra angular  
@@ -8660,7 +8663,7 @@ __majoring__
 __make (one’s) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
 __make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
-__make amends__ _idiom_  
+__make amends__ _idiom_ :two::hammer:  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
@@ -12865,6 +12868,7 @@ __sire<sup>1</sup>__ _n_
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
 __sit in__ _I’m sitting in for Ira Glass._  
+__sit on__ _idiom_ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit-ins__ _n_  
@@ -13038,7 +13042,7 @@ __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work 
 __slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
-__sloppy__ _adj_ :three::hammer: _We were a little sloppy in the second half of the game._  
+__sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
 __sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
@@ -15660,7 +15664,7 @@ __washwoman__
 __waspie__ _n_ A tight-waisted corset.  
 __wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
 __wastebasket__ _n_ :two::hammer:  
-__wasted__ _adj_ _slang_ Drunk or intoxicated.  
+__wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  

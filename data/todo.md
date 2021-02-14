@@ -1,13 +1,3 @@
-__wasted__ _adj_ __5__ _slang_ Drunk or intoxicated.  
-__close call__  
-__sit on__ _idiom_ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he's been just sitting on it._  
-__hit bottom__ _idiom_ To reach the lowest or worst point. _Our profits have hit bottom._  
-__black out__ _phr v_  
-__make amends__ _idiom_  
-__sloppy__ _adj_  
-__get ahead of (oneself)__ _idiom_ To plan or become overly excited for a possible future event.  
-__smitten__ _adj_ Affected with intense romantic attraction.  
-__in no time (at all)__ _idiom_ In a very little amount of time. _That test was so easy, I was done in no time._  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
 __blubber__ _n_  
 __bluff__ _v_ (bluffing)  
