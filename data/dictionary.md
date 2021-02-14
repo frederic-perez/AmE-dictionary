@@ -6678,7 +6678,7 @@ __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestion
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
-__hazardous__ :two::hammer:  
+__hazardous__ _adj_ :two::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
 __hazing__ _The college hazing policy._  
@@ -6768,7 +6768,7 @@ __heel<sup>2</sup>__ _v_
 __heft<sup>1</sup>__ _n_ :two::hammer:  
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
-__hefty__ :two::hammer:  
+__hefty__ _adj_ :two::hammer:  
 __hegira__ _n_  
 __height__ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :two::hammer:  
@@ -6779,7 +6779,7 @@ __heisenbug__ _n_
 __heist capers__  
 __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
 __heliograph__  
-__helipad__ :two::hammer:  
+__helipad__ _n_ :two::hammer:  
 __heliport__  
 __hell week__ _idiom_ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __hell yes__ Affirmative, positive, only in a more certain and stressing manner.  
@@ -6814,7 +6814,7 @@ __here’s looking at you__
 __heresy__ _n_ :two::hammer:  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
-__heretofore__ :two::hammer:  
+__heretofore__ _adv_ :two::hammer:  
 __herky__ (herky-jerky driving)  
 __hermit__  
 __heroics__ _DH David Ortiz will be remembered for his postseason heroics._  
@@ -6866,13 +6866,13 @@ __highfalutin__ _adj_
 __highlight__ _v_  
 __highly__ _I highly recommend it._  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
-__hijinks__ :two::hammer: _Adolescent hijinks._  
+__hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike__ _n_ :two::hammer: (surge?)  
 __hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
 __hilarious__ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
-__hillbilly__ :two::hammer:  
+__hillbilly__ _n_ :two::hammer:  
 __hillocks__  
 __hillside__ _n_  
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
@@ -6895,13 +6895,13 @@ __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.
 __hit (one’s) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
 __hit a snag__ _idiom_ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
-__hit and miss__ :two::hammer:  
+__hit and miss__ _idiom_ :two::hammer: (hit or miss)  
 __hit bottom__ _idiom_ To reach the lowest or worst point. _Our profits have hit bottom._  
 __hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit man__  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it’s not hitting on all eight._  
-__hit or miss__ :two::hammer:  
+__hit or miss__ _idiom_ :two::hammer:  
 __hit out__ _v_  
 __hit parade__  
 __hit the big time__ _idiom_ To become very famous or successful.  
@@ -6916,7 +6916,7 @@ __hit the wall__ _idiom_ :two::hammer:
 __hit up__ _She thought about hitting up an amusement park._  
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
-__hither and thither__ :two::hammer::pencil2:  
+__hither and thither__ _idiom_ :two::hammer::pencil2:  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hitherto__ _adv_ :four::hammer:  
 __HIV__  
@@ -6930,7 +6930,7 @@ __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weari
 __hoagie__  
 __hoard__ _v_  
 __hoarsely__  
-__hoary__ :two::hammer:  
+__hoary__ _adj_ :two::hammer:  
 __hobble<sup>1</sup>__ _v_ :nine::m: (hobbled, hobbling) __1__ To fetter by tying the legs; to restrict (a horse) with hobbles. __2__ To walk lame, or unevenly. _He hobbled on a sore ankle._ __3__ _(figuratively)_ To move roughly or irregularly. _A few shops were hobbled in 2015._  
 __hobble<sup>2</sup>__ _n_  
 __hobgoblin__ _n_  
@@ -6978,7 +6978,7 @@ __hold__ _v_ _They hold a particular view._
 __holder__ _n_  
 __holding sway__  
 __holdings__ _n_  
-__holdout__ :two::hammer: _A weeklong holdout._  
+__holdout__ _n_ :two::hammer: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
 __hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
@@ -7001,14 +7001,15 @@ __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fe
 __home-delivery__  
 __home, James (, and don’t spare the horses)__ _idiom_ A humorous directive for a driver to take one home directly and without delay.  
 __homebody__ _n_ :two: A person who prefers staying at home.  
-__homecoming__ :two::hammer: _She had been homecoming queen._  
+__homecoming__ _n_ :two::hammer: _She had been homecoming queen._  
 __homegoods__  
 __homeground__ _adj_ (home-ground) __1__ Grown or produced in one’s own garden or country. :es: de cosecha propia __2__ Belonging to one’s own particular locality or country. _Home-grown talent._  
 __homely__ _adj_ :three::hammer:  
 __homeowner__  
-__homesick__ :two::hammer:  
+__homesick__ _adj_ :two::hammer:  
 __homesickness__ _n_  
-__homespun__ :two::hammer:  
+__homespun<sup>1</sup>__ _adj_ :two::hammer:  
+__homespun<sup>2</sup>__ _n_  
 __homestand__ _n_ :five: A series of games played at a team’s home field.  
 __homestead<sup>1</sup>__ _n_ :five::hammer:  
 __homestead<sup>2</sup>__ _v_  
@@ -7033,7 +7034,7 @@ __honorable mention__ _idiom_ A recognition or citation of merit given to a cont
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
-__hooch__ :two::hammer: _Take it easy on the hooch._  
+__hooch__ _n_ _slang_ :two::hammer: _Take it easy on the hooch._  
 __hood fan__  
 __hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too many hoods had visited his home._  
 __hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.  
@@ -7075,7 +7076,7 @@ __horseplay__ _n_
 __horsepower__ _Physical horsepower._  
 __horseradish__ _n_ :two::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
-__horseshoe__ :two::hammer: (horseshoes)  
+__horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
 __horsetails__ _n_  
 __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
@@ -7095,7 +7096,7 @@ __hot spring__ _n_
 __hot tip__ _idiom_ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hot water__ _n_  
 __hot__ _We’ve got a hot crowd tonight._  
-__hot-button__ :two::hammer: _Hot-button political issues._  
+__hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _Hot-wire cars._  
 __hot-wired__  
@@ -7117,7 +7118,8 @@ __houseboats__ _n_
 __housebound__  
 __housecarls__  
 __housecleaner__ _n_  
-__household__ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
+__household<sup>1</sup>__ _n_  
+__household<sup>2</sup>__ _adj_ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
 __housewarming (party)__ _idiom_ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
@@ -7127,7 +7129,7 @@ __housing unit__
 __housing__ _n_ :five::hammer: _A waterproof housing._  
 __hovels__ _n_  
 __hover__ _v_  
-__hoverboard__ :two::hammer:  
+__hoverboard__ _n_ :two::hammer:  
 __how’s life (treating you)?__ _idiom_ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ _idiom_ No matter how much.  
 __howl__ _v_ :two::hammer:  
@@ -7157,10 +7159,9 @@ __hummus__ _n_ :mega:
 __humor__ _v_ :four::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
-__Humpty Dumpty__  
+__humpty dumpty__ _n_ :three::hammer:  
 __Humpty Dumptyism__ _idiom_ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
 __humpty-dumpty__  
-__Humpty-Dumpty__ :two::hammer:  
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
