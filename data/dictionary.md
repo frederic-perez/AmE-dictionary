@@ -7212,7 +7212,7 @@ __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thy
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__  
 __hypocrite__  
-__hypocritical__ :two::hammer::pencil2:  
+__hypocritical__ _adj_ :two::hammer::pencil2:  
 __hypoglycemia__  
 __hypokalemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
@@ -7241,7 +7241,7 @@ __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gath
 __ice-slick chain__  
 __icebox__ _n_  
 __icicles__  
-__icing on the cake__ :two::hammer:  
+__icing on the cake__ _idiom_ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :two::hammer:  
 __iconoclasm__  
@@ -7258,7 +7258,7 @@ __idiosyncratic__ _adj_ :two::hammer:
 __idiot box__  
 __idiot mittens__ _idiom_ Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
 __idle__ _v_  
-__idolatry__ :two::hammer:  
+__idolatry__ _n_ :two::hammer:  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
@@ -7302,9 +7302,9 @@ __impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._
 __impassioned__ _adj_  
 __impassively__  
 __impeach__ _v_ :two::hammer:  
-__impeachment__ :two::hammer:  
+__impeachment__ _n_ :two::hammer:  
 __impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
-__impeccably__ :two::hammer:  
+__impeccably__ _adv_ :two::hammer:  
 __impecunious__ _n_ _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :five::hammer: (impeded)  
 __impediment__  
@@ -7314,7 +7314,7 @@ __impending__ _adj_ :nine::m: If something is impending, it is about to happen. 
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
-__impermissible__ :two::hammer:  
+__impermissible__ _adj_ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :five::hammer:  
 __impetus__ _n_ :four::hammer:  
@@ -7332,7 +7332,7 @@ __impression__ _n_ :two::hammer:
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
-__impromptu__ :two::hammer: _Some things are impromptu._  
+__impromptu__ _adj_ :two::hammer: _Some things are impromptu._  
 __improvidence__  
 __improvident__ _adj_  
 __impunity__  
@@ -7387,10 +7387,10 @@ __in stitches__ _idiom_
 __in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
 __in the black__ _idiom_ :two: Not in debt, profitable.  
 __in the circumstances__ _idiom_ Due to the conditions or particular situation; such as the case is.  
-__in the clear__ :two::hammer: _She is in the clear._  
+__in the clear__ _idiom_ :two::hammer: _She is in the clear._  
 __in the doghouse__ _idiom_ :two::hammer:  
+__in the event of (something)__ _idiom_ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the event that__ _idiom_ If it should happen or be the case that.  
-__in the event__ :two::hammer: _Non-replaceable in the event of loss._ _In the event no quantity has been specified, the hotel count will be accepted as correct._  
 __in the eye of (something)__ _idiom_ At, in, or amidst the central or focal point of something.  
 __in the fold__ _They kept the devious students in the fold._  
 __in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
@@ -7404,7 +7404,6 @@ __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I go
 __in the nude__ _Sleeping in the nude._  
 __in the offing__  
 __in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
-__in the pocket__ :two::hammer: (football) _Standing tall in the pocket._  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
 __in the thick of it/(something)__ _idiom_ :eight: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
@@ -7453,7 +7452,7 @@ __incident__ _A stroke incident to pancreatic cancer._
 __incidental__ _Incidental extracardiac findings._  
 __incidentally__ _adv_ :six::hammer:  
 __inclined__ _adj_  
-__incognito__ :two::hammer:  
+__incognito__ _adv_ :two::hammer:  
 __incongruities__ _n_  
 __incongruous__ _adj_  
 __incongruously__  
@@ -7511,7 +7510,7 @@ __infare__ _n_
 __infeasible__ _adj_ _Syn_ unfeasible  
 __inferno__ _All kinds of Indian infernos._  
 __infidel__ _n_  
-__infighting__ :two::hammer:  
+__infighting__ _n_ :two::hammer:  
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ :camera:  
@@ -7546,7 +7545,9 @@ __injury time__
 __injury-marred__ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inkling__ _n_ :six::hammer:  
-__inland__ :two::hammer:  
+__inland<sup>1</sup>__ _adj_ :two::hammer:  
+__inland<sup>2</sup>__ _adv_  
+__inland<sup>3</sup>__ _n_  
 __inlay<sup>1</sup>__ _v_  
 __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._  
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
@@ -7568,7 +7569,8 @@ __ins and outs__ _pl n_ :two::hammer:
 __insatiable__ _adj_ _An insatiable learner._  
 __inscribed__ _v_  
 __inscrutable__ _adj_ :three::hammer:  
-__inset__ :two::hammer:  
+__inset<sup>1</sup>__ _v_ :two::hammer:  
+__inset<sup>2</sup>__ _n_  
 __inside and out__ _idiom_ Thoroughly; down to the last detail.  
 __insidious__  
 __insipid__  
@@ -7623,7 +7625,7 @@ __into the fold__ _It brought many viewers into the fold._
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
-__intricacies__ :two::hammer:  
+__intricacy__ _n_ :two::hammer: (intricacies)  
 __intricate__ _adj_ :two::hammer:  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
@@ -7677,7 +7679,7 @@ __it’s one of those things__ _idiom_
 __item__ _slang_ A couple, two people who are romantically involved.  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __IUD__  
-__Ivy League__ :two::hammer: _Ivy League school._  
+__Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
@@ -7693,7 +7695,7 @@ __jackpot__
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ Jaguar (car)  
-__jagged__ :two::hammer:  
+__jagged__ _adj_ :two::hammer:  
 __jagging__  
 __jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wickerwork racket. _A jai alai game._  
 __jailbait__ A girl who is younger than the legal age of consent for sexual activity.  
@@ -7702,7 +7704,7 @@ __jakes__ _n_ _The flattery was seldom more than sheep jakes._
 __jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
 __jam up__ _v_  
 __jam__ _v_  
-__jamb__ :two::hammer: _Window jamb._  
+__jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
 __jambalaya__ _n_  
 __jamboree__ _n_ :four::hammer: _A campfire jamboree._  
 __jammies__ _n_  
@@ -7752,14 +7754,14 @@ __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._
 __jet-setter__ _idiom_ A wealthy individual who travels globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __jetliners__  
 __jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
-__jetty__ :two::hammer:  
+__jetty<sup>1</sup>__ _n_ :two::hammer:  
+__jetty<sup>2</sup>__ _adj_  
 __jewelery__ (jewelry)  
 __Jewess__  
 __Jewry__  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
-__jibe<sup>2</sup>__ _v_ :three::hammer:  
+__jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
-__jibes__ :two::hammer: _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
@@ -10706,7 +10708,8 @@ __poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poac
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
-__pocket__ _v_  
+__pocket<sup>1</sup>__ _n_ :two: __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
+__pocket<sup>2</sup>__ _v_  
 __pockmarked__ _adj_ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
