@@ -6265,7 +6265,7 @@ __grip-and-grin__ _Grip-and-grin shots._
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
-__gripping__ :two::hammer: _A gripping contest._  
+__gripping__ _adj_ :two::hammer: _A gripping contest._  
 __grisly__ _adj_ :five::hammer: _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
@@ -6289,7 +6289,7 @@ __gross__ _n_ __2__ A group of 144 items; 12 dozen.
 __grotesque__ _adj_  
 __ground chuck steak__  
 __ground game__  
-__ground zero__ :two::hammer:  
+__ground zero__ _n_ :two::hammer:  
 __groundbreaker__ _n_ :three::hammer:  
 __Groundhog Day__  
 __groundnut__ _n_  
@@ -6321,7 +6321,7 @@ __gruff__ _adj_ :five::hammer:
 __gruffly__  
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumbling__ _n_ :two::hammer: (grumblings)  
-__grungy__ :two::hammer:  
+__grungy__ _adj_ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You’ll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
 __GTFO__ _abbr_ _idiom_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
@@ -6372,14 +6372,13 @@ __gun dog__ _n_ A dog trained to work with sportsmen when they hunt with guns.
 __gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gun show__  
 __gun-shy__  
-__gunbull__ :two::hammer:  
 __gung-ho__ _adj informal_ :six::hammer:  
-__gunman__ :two::hammer:  
+__gunman__ _n_ :two::hammer:  
 __gunnel__ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunships__ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
-__gunwhale__ :two::hammer:  
+__gunwhale__ _n_ :two::hammer:  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
@@ -6392,7 +6391,7 @@ __gusseted__ _Gusseted underarms._
 __gussets__  
 __gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
 __gusted__ _v_ _The rain gusted against the windows._  
-__gusto__ :two::hammer:  
+__gusto__ _n_ :two::hammer:  
 __gut feeling__ _idiom_ An intuition, an instinctive feeling about something.  
 __gut__ _v_ _Trump could gut the agency’s budget._  
 __gut-bucket__ _A gut-bucket string band._  
@@ -6403,7 +6402,7 @@ __gutted__ _adj_ _informal_ Disappointed and upset.
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guttersnipe__ _n_ :two: A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw’s _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
 __guzzle__ _v_ :two::hammer: _Guzzling ice water._  
-__guzzler__ :two::hammer: _Taxing gas guzzlers._  
+__guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
@@ -6415,7 +6414,7 @@ __gyrate__ _v_ :two::hammer:
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
-__ha!__ :two::hammer:  
+__ha!__ _interj_ :two::hammer:  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ :astonished:  
@@ -6423,7 +6422,7 @@ __habituate__ _v_
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
 __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
 __hackles__ _n_ :two::hammer:  
-__hackneyed__ :two::hammer: _The hackneyed metaphor made him smile._  
+__hackneyed__ _adj_ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __hackwork__ _n_  
 __haemodialysis__ _n_  
@@ -6479,12 +6478,12 @@ __Han__ A Dutch masculine given name. It can be a short form of Johannes or of H
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handglider__  
-__handily__ :two::hammer: _Hondurans trump Chileans handily._  
+__handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
 __handkerchief__ :mute:[han~~d~~kerchief]  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
-__hands down__ :two::hammer: _Hands down, best episode ever._  
+__hands down__ _idiom_ :two::hammer: _Hands down, best episode ever._  
 __hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands on__  
 __hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
@@ -6503,7 +6502,7 @@ __hangdog look__ _idiom_ A self-pitying expression of abjection, defeat, shame, 
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hanging offense__ _idiom_ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
-__hangnail__ :two::hammer:  
+__hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __hank__  
 __hanker__ _v_ To have a strong, often restless desire.  
@@ -6513,7 +6512,9 @@ __hanks__ :pencil2: _Stringy hanks of blond hair._
 __hanky-panky__  
 __Hannukah__ (Chanukah)  
 __hantavirus__  
-__haphazard__ :two::hammer:  
+__haphazard<sup>1</sup>__ _adj_ :two::hammer:  
+__haphazard<sup>2</sup>__ _n_  
+__haphazard<sup>3</sup>__ _adv_  
 __haphazardly__ _adv_ :three::hammer:  
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
@@ -6537,19 +6538,17 @@ __hard sell__
 __hard-ball__  
 __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
 __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
-__hard-core__ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
-__hard-line__ _A more hard-line position._  
-__hard-liners__ :two::hammer:  
+__hard-core__ _adj_ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
+__hardliner__ _idiom_ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hard-luck story__ _idiom_ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
-__hardline__ :two::hammer: _The US hardline policy on illegal immigration._  
-__hardliner__  
+__hardline__ _adj_ :three::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
 __hardly ever__  
-__hardpan__ :two::hammer: _Hardpan dirt yards._  
+__hardpan__ _n_ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
@@ -6559,7 +6558,7 @@ __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._
 __hardy__  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
-__harissa__ :two::hammer:  
+__harissa__ _n_ :two::hammer:  
 __hark__ _v_ :two::hammer: (harking)  
 __harmonize__ _v_  
 __harness__ _v_ :three::hammer: _Harnessing big data._  
@@ -6579,7 +6578,7 @@ __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._
 __hash<sup>2</sup>__ _v_  
 __hashish__  
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
-__hassle-free__ :two::hammer:  
+__hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
 __hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
 __hastily__ _A hastily arranged news conference._  
@@ -6679,7 +6678,7 @@ __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestion
 __haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
-__hazardous__ _adj_ :two::hammer:  
+__hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
 __hazing__ _The college hazing policy._  
