@@ -2530,6 +2530,7 @@ __christening__ _n_
 __Christian__ :mute:[C~~h~~ristian]  
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
+__chrome__ _n_  
 __chuck out__ _v_  
 __chuck__ _v_ :nine::hammer: (chucked, chucking) _I made plans to chuck everything._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ _We couldn’t be domesticated, so they chucked us out._  
 __chuckholes__ _n_  
@@ -5044,6 +5045,7 @@ __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been 
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
 __felt__ _n_ :two::hammer: _A black felt pouch from a jewelry store._  
+__feminine__ _adj_ :pencil2:  
 __fen__ _n_  
 __fence-mending__  
 __fence-sitter__ _n_ :two::hammer: _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
@@ -6465,7 +6467,7 @@ __hamdbill__ _n_
 __hamlet__ _n_  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hamper<sup>1</sup>__ _n_  
+__hamper<sup>1</sup>__ _n_ :two::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
 __hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
 __hamstring__ _n_ :three::hammer:  
@@ -6534,7 +6536,6 @@ __hard-ball__
 __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
 __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
 __hard-core__ _adj_ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
-__hardliner__ _idiom_ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hard-luck story__ _idiom_ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
@@ -6542,6 +6543,7 @@ __hardball__
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
 __hardline__ _adj_ :three::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
+__hardliner__ _idiom_ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hardly ever__  
 __hardpan__ _n_ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _Hardscrabble journeys._  
@@ -9089,8 +9091,8 @@ __moldings__
 __moldy__ _adj_ :two::hammer:  
 __mole grip__ :camera: Locking pliers.  
 __mole wrench__ :camera: Locking pliers.  
+__mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
-__moles__ _n_  
 __mollify__ _v_ :six::hammer: (mollified)  
 __mollusks__  
 __molten lava__  
@@ -10922,7 +10924,7 @@ __prerogative__ _n_ :seven::hammer:
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :seven::hammer:  
+__prescient__ _adj_ :eight::hammer:  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -12548,7 +12550,7 @@ __shades__ :es: gafas?
 __shadow__ _v_  
 __shady__  
 __shaft__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
-__shag__ _Orange shag carpeting._  
+__shag__ _n_ :hammer: _Orange shag carpeting._ _This house has too much shag carpeting._  
 __shaggy hemp__  
 __shaggy__  
 __shah__ _n_  
@@ -12643,6 +12645,7 @@ __shinding__
 __shine (someone) on__ _Don’t shine me on._  
 __shine a light__  
 __shine off__ _Don’t try to shine me off, worm man._  
+__shine your light__ _For those who rose hours ago, are you still shining your light?_  
 __shiner bucket__  
 __shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
@@ -13094,6 +13097,7 @@ __smart as a whip__ _idiom_ Very intelligent or clever, as in _Little Brian is s
 __smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
 __smart__ _adj_ :three: Clean and neat in appearance and dressed in nice fashionable clothes, especially in a slightly formal way. _Smart riding-clothes._ _The man was smartly dressed._ _Smart tailored jackets._  
+__smart-aleck__ _adj_  
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
 __smarten__ _v_ _He was smartening himself._ _Syn_ spruce up  
 __smarter than the average bear__  
@@ -13822,6 +13826,7 @@ __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
 __strait__  
+__straitjacket__ _n_  
 __straits__  
 __strand__ _n_ :three::hammer: _A long strand of rope._  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
@@ -14050,7 +14055,7 @@ __surrogate__ _n_ :two::hammer:
 __surveyor__  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
 __suspend__ _v_  
-__suspensers__ _Firehouse suspenders_  
+__suspenders__ _n_ :two::hammer: _Larry King’s suspenders._  
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  

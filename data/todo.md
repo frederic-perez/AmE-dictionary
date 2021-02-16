@@ -1,15 +1,3 @@
-
-
-__straitjacket__ _n_  
-__smart-aleck__ _adj_ (?)  
-__hamper__ _n_ :dart: _This square rattan hamper comes with a washable cotton drill liner._  
-__suspenders__ _n_ _Larry King’s suspenders._  
-__prescient__  
-__chrome__ _n_  
-__shag__ _This house has too much shag carpeting._  
-__shine your light__ _For those who rose hours ago, are you still shining your light?_  
-__mole__ _n_ __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
-__feminine__ _adj_ :pencil2:  
 __follow up__  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
