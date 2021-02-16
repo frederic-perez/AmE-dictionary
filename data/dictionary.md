@@ -825,7 +825,7 @@ __awestruck__ _adj_
 __awfully__ :mega::two::hammer:_That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
-__awry__ _adj_ :three::hammer:  
+__awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
@@ -2684,7 +2684,7 @@ __close, but no cigar__ _idiom_ Close, but not enough to win or succeed.
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _Obama’s words are being watched closely by world leaders._  
 __closeted__ :two::hammer: _A closeted life._  
-__closure__  
+__closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
 __clothesline__ :two::hammer:  
 __clothespin__ _n_ :two::camera::hammer:  
@@ -5800,7 +5800,7 @@ __gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. _
 __gauntlet__ _n_ :two::hammer: (gauntlets)  
 __gauntness__  
 __gauze__ _n_ :three::hammer: :es: gasa  
-__gauzy__ :two::hammer:  
+__gauzy__ _adj_ :two::hammer:  
 __gavel__ _n_ :six::hammer: _The judge’s gavel._  
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
@@ -5827,16 +5827,16 @@ __Generation Z__ _n_ :two: Label given to those born since 1995.
 __generic__ _A generic diet cola._  
 __genial__ _adj_ Friendly and kind.  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
-__genteel__ :two::hammer:  
+__genteel__ _adj_ :two::hammer:  
 __gentility__  
 __gentleman’s agreement__ _idiom_ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
-__gentry__ :two::hammer:  
+__gentry__ _n_ :two::hammer:  
 __genuflects__ _v_  
-__genuine__ :two::hammer::mega:  
+__genuine__ _adj_ :two::hammer::mega:  
 __German shepherd__ _n_ An Alsatian.  
-__Geronimo wire__ :two::hammer:  
+__Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety slide or a line from the derrickman’s platform to the ground, used in an emergency.  
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
@@ -5844,7 +5844,7 @@ __gestalt__ _n_
 __get (one’s) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
-__get a grip__ :two::hammer:  
+__get a grip__ _idiom_ :two::hammer:  
 __get a handle__ _UAVs are used to get a handle on what’s going on._  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You’ll get a kick out of this!_  
@@ -5853,7 +5853,6 @@ __get ahold__
 __get along with__ _idiom_ To have a good relationship with someone.  
 __get around to__ _Dreams and goals I might get around to at some time._  
 __get away with__  
-__get closure__ :two::hammer: _Get closure on compensation dispute with business partner._  
 __get down to work__ _idiom_ To begin being serious about something; to begin attending to business or work at hand.  
 __get enough__  
 __get in the last word__ _idiom_ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
@@ -5873,7 +5872,6 @@ __Get outta here!__ _idiom_
 __get over someone’s head__ _They’re getting over their heads._  
 __get over__  
 __get set__ _v_  
-__get stops__ :two::hammer:  
 __get the axe__ _idiom_ To lose your job.  
 __get the better of (someone or something)__ _idiom_ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
 __get the drift of something__ _idiom_ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
@@ -5911,7 +5909,7 @@ __gibed__ _v_
 __gibes__  
 __Gibson glass__  
 __giddily__  
-__giddiness__ :two::hammer:  
+__giddiness__ _n_ :two::hammer:  
 __giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
@@ -5925,7 +5923,7 @@ __gilt-framed__
 __gimbal__ _A sensor on a pivoting gimbal._  
 __gimmick__ _n_ :two::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__  
-__gimpy__ :two::hammer: _A gimpy angle._ _Gimpy gait._  
+__gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
@@ -5966,7 +5964,7 @@ __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible b
 __glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _(Cinderella)_  
 __glasses__ _n pl_ (plurale tantum)  
-__glazing__ :two::hammer: _A full range of door furniture and glazing._  
+__glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :four::hammer: (gleaned, gleaning)  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
@@ -6014,7 +6012,6 @@ __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one’s b
 __go apeshit__  
 __go at (something)__ _idiom_ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go at it hammer and tongs__ _idiom_ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
-__go awry__ :two::hammer:  
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_ :two::hammer:  
 __go dutch__  
@@ -6022,7 +6019,6 @@ __go figure__ _idiom_ :two: Used when you tell someone a fact and you then want 
 __go for it!__  
 __go great lengths__ _idiom_ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ _You going native on me, Supercop?_  
-__go numb__ :two::hammer:  
 __go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
 __go off__ _idiom_ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
@@ -6032,7 +6028,7 @@ __go out with the girls__ _idiom_ To go and socialize somewhere with a group of 
 __go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over the top__  
 __go over the wire__  
-__go places__ :two::hammer: _This kid is going places._  
+__go places__ _idiom_ :two::hammer: _This kid is going places._  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ _idiom_ :six::hammer: _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._  
@@ -6118,7 +6114,7 @@ __good Samaritan__
 __good sport__ _idiom_ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ _idiom_ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
-__goodliest__ :two::hammer:  
+__goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
 __goodness gracious__  
 __goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
@@ -6135,7 +6131,7 @@ __goop__ _n_
 __goose chase__ _A global goose chase._  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __GOP__  
-__Gordian knot__ :two::hammer:  
+__Gordian knot__ _n_ :two::hammer:  
 __gore__ _n_ _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
@@ -6187,7 +6183,7 @@ __grapplings__ _n_
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grass-routs__ _?_ _Grass-routs campaign._  
-__grassroots__ :two::hammer: _A grassroots effort._  
+__grassroots__ _n_ :two::hammer: _A grassroots effort._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
@@ -6213,7 +6209,7 @@ __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and h
 __grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __grease payment__ _idiom_ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
-__greaseballs__ :two::hammer:  
+__greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
 __great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __Great Dane__  
 __great deal__ _idiom_ :dart: (often followed by `of’) a large number or amount or extent. Much, a lot.  
@@ -6227,7 +6223,6 @@ __greater area__ _Greater Tokyo area._
 __greave__ _n_ :three::hammer: (greaves) _The man wore a mail vest and greaves._  
 __Greek__ _idiom_ :two::astonished::hammer: _It’s all greek to me._ _It’s in Greek and almost impossible to decode._  
 __green card wedding__  
-__green day__ :two::hammer:  
 __green thumb__ _Not everyone has a green thumb._  
 __green with envy__ _idiom_ Very jealous.  
 __green-behimd-the-ears__  
@@ -6235,7 +6230,7 @@ __green-eyed__ _adj_ Jealous.
 __greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
 __greener pastures__ _idiom_ :two: A better or more exciting job or place.  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
-__greenhouse__ :two::hammer:  
+__greenhouse__ _n_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwich__ :mute:[green~~w~~ich]  
 __griddle__  
@@ -9587,7 +9582,7 @@ __nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice th
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
-__numb__ _adj_ :two::mute:[num~~b~~]:hammer:  
+__numb__ _adj_ :four::mute:[num~~b~~]:hammer:  
 __number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __number__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
