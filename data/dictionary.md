@@ -5436,7 +5436,7 @@ __footwork__ _n_ :two::hammer:
 __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
-__for all seasons__ :two::hammer:  
+__for all seasons__ _idiom_ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
@@ -5447,7 +5447,7 @@ __for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for near
 __For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
 __for the ages__ _idiom_ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
 __for the better__ _My luck did not change for the better upon arrival at the bank._  
-__for the most part__ :two::hammer:  
+__for the most part__ _idiom_ :two::hammer:  
 __for the sake of__  
 __for what it’s worth__ _idiom_ :two: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
 __for__ _3 for 4 (attempts)._  
@@ -5458,10 +5458,10 @@ __forager__ _n_ :three::hammer: (foragers)
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
 __forbear__ _v_  
 __forbearance__  
-__force majeure__ :two::hammer:  
+__force majeure__ _n_ :two::hammer:  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
 __forcible__ _adj_ :three::hammer:  
-__fore and aft__ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
+__fore and aft__ _adv_ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
 __fore__ _n_ :four::hammer:  
 __forebear__ _n_  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
@@ -5473,14 +5473,14 @@ __forefathers__
 __forefinger__ _n_ :two::hammer:  
 __forefront__  
 __foregather__ _v_ Collect in one place. _Syn_ assemble, meet _The captains of every ship in the fleet rowed into the lagoon to foregather on its secluded beach._  
-__forego__ _v_ :two::hammer:  
-__foregone__ :two::hammer:  
+__forego__ _v_ :two::hammer: (foregone)  
+__foregone__ _adj_ :two::hammer:  
 __forehead__ :mute:[fore~~h~~ead]  
 __foreign__ :mute:[forei~~g~~n]  
 __foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
 __foremost__ _adj_  
 __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
-__forensics__ :two::hammer:  
+__forensics__ _n_ :two::hammer:  
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
 __foreseeable__  
@@ -5577,19 +5577,19 @@ __free fall__ _n_
 __free lunch__  
 __free range__ _n_ Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
 __free rein__  
-__free ride__ :two::hammer:  
+__free ride__ _n_ _informal_ :two: Something that is obtained or granted without cost to or effort by the recipient.  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
 __free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
 __freewheel__ _v_ :nine::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
-__freezer__ :two::hammer: _Chest/Upright freezer._ :camera:  
+__freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
 __frenetic__ _adj_  
-__frenzy__ :two::hammer:  
+__frenzy__ _n_ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __fresh-faced__ _idiom_ Of or having an appearance of health, vitality, and/or youthfulness.  
 __freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
@@ -5597,7 +5597,7 @@ __freshet__ _n_ The occurrence of a water flow resulting from sudden rain or mel
 __fret away__  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
-__fretful__ :two::hammer:  
+__fretful__ _adj_ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretwork__  
 __Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
@@ -5626,7 +5626,7 @@ __from the git-go__
 __from the off__ _He knew it from the off._  
 __from the rooter to the rooter__  
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
-__front and center__ :two::hammer:  
+__front and center__ _idiom_ :two::hammer:  
 __front man__ _n_ :two::hammer: (frontman)  
 __front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __front-runner__ _n_ :two::hammer: (frontrunner)  
@@ -5648,7 +5648,7 @@ __frumpy__
 __FT__ _Sports_ Full-time.  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fuck a duck__ _idiom_ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
-__fucking A__ :two::hammer:  
+__fucking A__ _interj_ _taboo_ _slang_ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
 __fudge<sup>1</sup>__ _n_  
@@ -5665,8 +5665,8 @@ __full of hot air__ To talk a lot, especially without saying anything of value o
 __full of shit__ _idiom_ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
-__full-bodied__ :two::hammer:  
-__full-fledged__ :two::hammer: _Full-fledged work._  
+__full-bodied__ _adj_ :two::hammer:  
+__full-fledged__ _adj_ :two::hammer: _Full-fledged work._  
 __full-mask helmet__ _n_  
 __fullback__ _n_ _football_ :two::hammer: (fullbacks)  
 __fullness__  
@@ -5691,7 +5691,7 @@ __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The col
 __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furlough<sup>2</sup>__ _v_  
 __furnish__ _v_ :three::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
-__furnishing__ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
+__furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
@@ -5710,11 +5710,12 @@ __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin an
 __G-Man__  
 __GA__ _abbr_ Gamblers Anonymous.  
 __gab away__ _v_ _The gang was gabbing away._  
-__gab__ :two::hammer: _The gift of gab._  
+__gab<sup>1</sup>__ _v_  
+__gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
 __gabbing__  
 __gabfest__  
 __gable__ _n_  
-__gabled__ :two::hammer: _Gabled roofs._  
+__gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ :mega:  
 __gadfly__  
 __gaff__ _n_  
@@ -5754,7 +5755,7 @@ __gandy__ _Gandy walkers._
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __Ganjapreneur__  
-__gantlet__ :two::hammer: _A media gantlet._  
+__gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
@@ -5768,8 +5769,7 @@ __gargantuan__
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
-__gargoyle__  
-__gargoyles__ :two::hammer:  
+__gargoyle__ _n_ :two::hammer: (gargoyles)  
 __garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the same time._  
 __garland__ _n_ :three::camera::hammer:_Garland motifs on carved oak paneling._ _Evergreen garlands._  
 __garment__  
@@ -5789,7 +5789,7 @@ __gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn’t closing._
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
 __gasket__  
 __gaskets__  
-__gasolene__ :two::hammer::pencil2:  
+__gasolene__ _n_ :two::hammer::pencil2: _Syn_ gasoline, petrol, gas  
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
