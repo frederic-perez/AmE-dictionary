@@ -2505,7 +2505,7 @@ __chiseled__
 __chit-chat__ _slang_ An informal conversation about things that are not important.  
 __Chiuaua__  
 __chive__ _n_  
-__chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
+__chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlorophyll__ _n_ :three::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
@@ -3209,7 +3209,7 @@ __craft__ _Craft sake._
 __craftman__  
 __crafts__ :two::hammer:  
 __crafty__  
-__crag__ _n_ _Syn_rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
+__crag__ _n_ _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
 __craggy__ _adj_ :three::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
@@ -4900,7 +4900,7 @@ __faculty__ _n_
 __fad__ _n_  
 __faeces__ _n_  
 __faggots__  
-__fail__ _v_ _I’m trying--and failing--to work out the logic of this._  
+__fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
 __failover__ _n_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
@@ -5336,7 +5336,7 @@ __floozy__ A woman who has a lot of sexual relationships.
 __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he’s got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
 __flop<sup>2</sup>__ _v_ :three::hammer: (flops)  
 __flopper__ _n_ :three::hammer: _Try keeping your flopper in your pants for a change._  
-__flopping__ _Flopping--pretending to have been fouled by an opponent--is an unfortunate aspect of many sports._  
+__flopping__ _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
 __floppy > floppy socks__  
 __florets__ :pencil2::two::hammer: _Your dinner is two florets of broccoli._  
 __florid__  
@@ -5419,7 +5419,7 @@ __fool’s errand__ :two::hammer: _It would be a fool’s errand for anyone insi
 __fool’s game__  
 __fool’s gold__  
 __fool<sup>1</sup>__ _n_  
-__fool<sup>2</sup>__ _v_ _Don’t fool yourself--that’s phony bullshit._  
+__fool<sup>2</sup>__ _v_ _Don’t fool yourself—that’s phony bullshit._  
 __fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
@@ -6214,7 +6214,7 @@ __grease payment__ _idiom_ A sum of money, typically a bribe, paid to a governme
 __greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
 __great balls of fire__ _idiom_ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __Great Dane__  
-__great deal__ _idiom_ :dart: (often followed by `of’) a large number or amount or extent. Much, a lot.  
+__great deal__ _idiom_ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
 __great strides__ _He made great strides during his presidency._  
 __Great War__  
 __great-grandchildren__  
@@ -7777,7 +7777,7 @@ __jinx<sup>2</sup>__ _n_
 __jitters__ _n_  
 __jittery__ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
 __jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you’re shuckin’ and jivin’ me._  
-__jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can dance, you can jive, having the time of your life--ABBA’s Dancing Queen lyrics._  
+__jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can dance, you can jive, having the time of your life—ABBA’s Dancing Queen lyrics._  
 __job opening__  
 __jobbing__ _v_  
 __jobless coverage__ _Jobless coverage expired for 2 million people._  
@@ -8673,7 +8673,7 @@ __make plays__ _v_ _(football) To make plays._
 __make rounds__  
 __make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
 __make strides__ _idiom_ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
-__make up one’s mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” -- The Philadelphia Story_  
+__make up one’s mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make waves__ _idiom_ :four: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ _adj_ :two::hammer:  
 __makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
@@ -10839,7 +10839,7 @@ __pothead__
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
 __potholed__ _The island’s potholed highways._  
-__potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot--with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
@@ -11487,7 +11487,7 @@ __ravish__
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
 __raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
-__raw-milk__ _Raw-milk cheese--unpasteurized cheese._  
+__raw-milk__ _Raw-milk cheese—unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
 __ray flower__ _n_ (ray floret) One of the flattened marginal florets surrounding the disk in the flower heads of certain composite plants, as the daisy.  
@@ -13603,7 +13603,7 @@ __stanch__ _v_ :two::hammer:
 __stand a chance__  
 __stand in (someone’s) shoes__ _idiom_ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
-__stand out__ _The dragons are notoriously varied in phisique--they’d stand out in the Mos Eisley Cantina._  
+__stand out__ _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
 __stand strong__  
 __stand tall__ _idiom_ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ _idiom_ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
@@ -14247,7 +14247,7 @@ __tallied__
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __tally__ _v_  
 __talons__ _The nails were sharp as talons._  
-__tamale__ _I’m staying away from that one--that’s a hot tamale._  
+__tamale__ _I’m staying away from that one—that’s a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
 __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
 __tan__ Color?  
