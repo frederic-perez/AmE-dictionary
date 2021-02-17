@@ -1509,6 +1509,7 @@ __bocce ball__ _n_
 __bod__ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
+__bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
@@ -2157,6 +2158,7 @@ __caper<sup>2</sup>__ _v_
 __capers__ _n pl_  
 __capful__  
 __capitalize__ _v_  
+__Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
 __capitulate__ _v_ :two: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
@@ -4208,7 +4210,7 @@ __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright
 __dramedy__  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
-__draw a blank__ _idiom_  
+__draw a blank__ _idiom_ :two: To fail to find or remember something.  
 __draw a line__  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
@@ -4591,7 +4593,7 @@ __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions o
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
-__end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
+__end (something) on a high note__ _idiom_ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end game__ _n_  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
@@ -4880,7 +4882,7 @@ __fabricator__
 __façade__ _n_ :two::hammer:  
 __face off__ _v_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
-__face value__ _n_ :two::hammer:  
+__face value__ _n_ :three::hammer:  
 __face-lift__  
 __facetious__ _adj_ :three::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
@@ -5402,7 +5404,7 @@ __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]
 __follow (someone or something) in stride__ _idiom_ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ _idiom_ To do the same thing as someone else did previously.  
 __follow suit__ _idiom_ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs).  
-__follow-up__ _n_ :astonished:  
+__follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
@@ -8253,6 +8255,7 @@ __leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom a
 __lefty buckets__  
 __leg up__ :two::hammer:_Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
+__leg work__ _idiom_ :two::hammer:  
 __legal tack__  
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ Physical or mental quickness; nimbleness; agility.  
@@ -8723,7 +8726,8 @@ __Manhattanite__
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
-__manicured landscape__  
+__manicure__ _v_ __4__ To trim or cut meticulously: _to manicure a lawn._  
+__manicured__ _adj_ _Manicured landscape._  
 __manifest__ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
 __manipulation__  
@@ -10783,6 +10787,7 @@ __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._  
 __popcorn__ :es: gotelé?  
+__Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
@@ -13848,6 +13853,7 @@ __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol
 __streaming__ _Streaming eyes._  
 __streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
 __strech__ _He was awake for long streches of time._  
+__street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  
 __strengthen__ _v_ :two::hammer:  

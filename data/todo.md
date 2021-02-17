@@ -1,13 +1,3 @@
-__follow up__  
-__Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
-__bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
-__end (something) on a high note__ _idiom_ To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
-__street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
-__leg work__ _idiom_ :two::hammer:  
-__manicure__ _v_ __4__ To trim or cut meticulously: _to manicure a lawn._  
-__draw a blank__ _idiom_ To fail to find or remember something.  
-__face value__ _n_  
-__Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __change of heart__  
