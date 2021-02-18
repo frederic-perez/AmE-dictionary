@@ -4927,7 +4927,7 @@ __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of
 __falloff__  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
-__fallow__ :two::hammer:  
+__fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
 __false friend__  
 __false modesty__ _idiom_ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
@@ -4972,7 +4972,7 @@ __faro__ _n_ _A farol dealer._
 __farouche__ _adj_  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
-__farther__ :two::hammer:  
+__farther__ _adv_ :two::hammer:  
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
 __fascia__ _n_ :two::hammer:_The car dashboard fascias._  
@@ -5011,11 +5011,10 @@ __fave__ _v_ _informal_ :two::hammer:
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __favoritism__ _n_  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
-__fawn<sup>2</sup>__ _v_  
-__fawning__ :two::hammer:  
+__fawn<sup>2</sup>__ _v_ :three: (fawning) Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish  
 __fawningly__  
 __faze__ _v_ :six::hammer: (fazed)  
-__fealty__ :two::hammer:  
+__fealty__ _n_ :two::hammer: :es: lealtad (feudal)  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearl__ _A fearl youngster._  
 __fearless__ _adj_  
@@ -5055,7 +5054,7 @@ __fencers__ _n_
 __fend off__ _v_ :four: Prevent the occurrence of; prevent from happening.  
 __fend__ _v_ (fending)  
 __fender bender__ _idiom_ :three: A little car accident. _Stranded by a fender bender._  
-__fennel__ :two::hammer:  
+__fennel__ _n_ :two::hammer: :es: hinojo  
 __fenny__ _A fenny marsh._  
 __fenugreek__  
 __feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mugger’s feral scowl was terrifying enough to make me empty my pockets without hesitation._ _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
@@ -5100,7 +5099,7 @@ __fiber__
 __fiberglass__  
 __fibrillation__ _n_  
 __fibroplasia__ _n_  
-__fickle__ :two::hammer: _A fickle ally._  
+__fickle__ _adj_ :two::hammer: _A fickle ally._  
 __ficus__ _n_ :mega:  
 __fiddle-faddle__  
 __fiddled__ _v_  
@@ -5115,7 +5114,7 @@ __field day__
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
 __fiendish__  
-__fierce__ :two::hammer:  
+__fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
@@ -5132,8 +5131,7 @@ __figuratively__ _adv_
 __figure out__ _phr v_ :two::hammer:  
 __figure skates__ _n_  
 __figure__ _5-figure price tag._  
-__figurehead__ :two::hammer:  
-__figures__ :two::hammer: _It figures._  
+__figurehead__ _n_ :two::hammer:  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
 __file suit__ _v_  
@@ -5163,7 +5161,7 @@ __finesse<sup>1</sup>__ _n_
 __finesse<sup>2</sup>__ _v_  
 __finest hour__ :astonished:  
 __finger on the pulse__ _idiom_  
-__finger prick__ :camera::two::hammer: _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
+__finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
 __finger-licking good__ _idiom_ Very tasty.  
 __finger-waggers__  
@@ -5172,7 +5170,7 @@ __finicky__ _adj_ :three:hammer:
 __finish one’s plate__ See “clean your plate.” _Finish your plate!_  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
-__fir__ :two::hammer:  
+__fir__ _n_ :two::hammer: :es: abeto  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
 __fire irons__  
 __fire retardant__  
@@ -5187,7 +5185,7 @@ __firehouse__ _n_ :two::hammer:
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: \[fûrm\]  
 __firmament__ _n_ The vault or expanse of the heavens; the sky.  
-__first and foremost__ :two::hammer:  
+__first and foremost__ _idiom_ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
 __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
@@ -5205,11 +5203,12 @@ __fists bumping__
 __fistula__ _n_  
 __fit like a glove__ _idiom_ To fit perfectly.  
 __fit the bill__ _idiom_ :three::hammer: (fill the bill) _His appearance fitted the bill._  
-__fit__ :two::hammer:  
+__fit<sup>1</sup>__ _v_ :two::hammer:  
+__fit<sup>2</sup>__ _n_  
 __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _“My sleep, when it came, was fitful” (Kelly Braffet)._  
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
 __fits__ _The cathedral has been built in fits._  
-__fittingly__ :two::hammer:  
+__fittingly__ _adv_ :two::hammer:  
 __five o’clock shadow__ _idiom_ A short beard on a man’s face that has grown since the morning shave.  
 __fivesomes__  
 __fix__ _A quick fix of French fries._  
@@ -5234,7 +5233,7 @@ __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of pun
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ :two::hammer:  
+__flagship__ _n_ :two::hammer:  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
@@ -5270,7 +5269,7 @@ __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a s
 __flat__ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat-chested__ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
-__flatbread__ :two::hammer: _Flatbread sandwiches._  
+__flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
 __flats__ _n_  
 __flatter__ _v_ (flattered)  
 __flatware coins__  
@@ -5315,7 +5314,8 @@ __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of
 __flippant__ _adj_ :five::hammer:  
 __flipper__  
 __flippers__ _n_ :camera:  
-__flit__ :two::hammer:  
+__flit<sup>1</sup>__ _v_ :two::hammer:  
+__flit<sup>2</sup>__ _n_  
 __flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicker, flutter, quiver, waver _The hummingbird flittered from one flower to the next, darting instinctively to wherever the nectar was most plentiful._  
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
@@ -5340,7 +5340,7 @@ __flop<sup>2</sup>__ _v_ :three::hammer: (flops)
 __flopper__ _n_ :three::hammer: _Try keeping your flopper in your pants for a change._  
 __flopping__ _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
 __floppy > floppy socks__  
-__florets__ :pencil2::two::hammer: _Your dinner is two florets of broccoli._  
+__floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
 __flotilla__ _n_ :two::mega::hammer:  
 __flotsam and jetsam__ _idiom_  
@@ -5354,7 +5354,7 @@ __flown__ _v_ _The flag was flown at half mast._
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
-__fluff__ :two::hammer:  
+__fluff__ _n_ :two::hammer:  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
@@ -5387,7 +5387,7 @@ __flyboard__
 __flyer__ _n_ :three::hammer: (For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.) _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __foam at the mouth__ _idiom_ To be extremely angry.  
-__fob__ :two::hammer:  
+__fob__ _n_ :two::hammer:  
 __focal fibrosis__  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
@@ -7668,6 +7668,7 @@ __isthmus__
 __it ain’t over till/until the fat lady sings__ _idiom_ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __IT Band__  
 __it dawned on someone__  
+__it figures__ _idiom_ :two::hammer:  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes a village__ _idiom_ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
