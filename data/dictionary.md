@@ -2237,6 +2237,7 @@ __case in point__ _n_ :nine: An example that is used to justify similar occurren
 __case study__  
 __case the joint__ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
+__caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __caseous__ _adj_ Resembling cheese.  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
@@ -2315,6 +2316,7 @@ __caught__ :mute:[cau~~gh~~t]
 __cauldron__ _n_  
 __cauliflower steaks__ :camera:  
 __caulking__  
+__cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :five::hammer:  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
@@ -2377,6 +2379,7 @@ __chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or ba
 __Chancellor__  
 __chances are__  
 __chandler__  
+__change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
 __chant__ _v_ (vs sing?)  
@@ -2463,6 +2466,7 @@ __chicanery__ _n_ :four: The use of clever plans or actions to deceive people.
 __chicken > game of chicken__  
 __chicken coop__ :two::hammer:  
 __chicken feed__ _idiom_ A small amount of money.  
+__chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __chicken pox__  
 __chicken run__  
@@ -2478,7 +2482,7 @@ __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
-__chime in__ _phr v_ :two::hammer:  
+__chime in__ _phr v_ :three::hammer:  
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chiming__ :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -2664,7 +2668,7 @@ __clicky__
 __climb__ :two::mute:[clim~~b~~]:hammer:  
 __climbing__ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
-__clincher__ _n_ :five: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
+__clincher__ _n_ :six: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :three::hammer: _A better newspaper clip._ _Here is a clip from her most recent article._  
@@ -2860,9 +2864,11 @@ __commix__ _v_ To bring or combine together or with something else. _Syn_ amalga
 __commode__  
 __commodious__  
 __commoditization__  
+__common__ _adj_ :mega: (kŏm′ən)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __Commonwealth__  
 __commotion__ _n_  
+__communion wafers__  
 __communiqué__ (communiqués) :two::hammer:  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
@@ -2959,6 +2965,8 @@ __confound__ _v_ :nine::m: (confounded, confounding) __1__ To astound or perplex
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
+__conga line__ _n_ A line of people in single file performing the conga dance.  
+__conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  

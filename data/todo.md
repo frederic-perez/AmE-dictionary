@@ -1,13 +1,3 @@
-__caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
-__cause célèbre__ _n_ Any controversy that attracts great public attention.  
-__change of heart__  
-__chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
-__chime in__ _phr v_  
-__clincher__ _n_  
-__common__ _adj_ :mega: (kŏm′ən)  
-__communion wafers__  
-__conga line__ _n_ A line of people in single file performing the conga dance.  
-__conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
 __copyleft__ _n_  
 __diligent__ _adj_  
 __discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  
