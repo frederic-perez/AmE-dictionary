@@ -11,8 +11,9 @@
 - __Ada__ A feminine given name. One origin is the Germanic element "adel-" meaning "nobility." for example as part of the names Adelaide and Adeline. The name can also trace to a Hebrew origin, sometimes spelt Adah עָדָה, meaning "adornment."
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for "elf." It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
 - __Bea__ A feminine given name, often short for Beatrice.
+- __Ben__ Ben is frequently used as a shortened version of the given names Benjamin, Benedict, or Benson, and is also a very common given name in its own right. 
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
-_ __Cal__ A masculine given name or a shortened form of a given name (usually Calvin or Callum).  
+- __Cal__ A masculine given name or a shortened form of a given name (usually Calvin or Callum).  
 - __Dan__ An old Scandinavian given name with disputed meaning. Dan is also a Hebrew given name, after Dan, the fifth son of Jacob with Bilhah and founder of the Israelite Tribe of Dan. It is also (along with the variant Danny) a given name or a nickname for people name Daniel.
 - __Deb__ A given name, usually feminine and often a shortened version (hypocorism) of Deborah or Debra.
 - __Eve__ Derived from the Latin name Eva.
