@@ -1,13 +1,3 @@
-__toady__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
-__involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
-__last-ditch attempt__ _idiom_ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
-__indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
-__last chance (for/at/to do something)__ _idiom_ The last or final opportunity to get, have, do, or achieve something.  
-__perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
-__gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
-__underwhelm__ _v_ To fail to impress or stimulate.  
-__in the last analysis__ _idiom_ When everything has been considered; when all the facts are known or the truth has come to light.  
-__unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __copyleft__ _n_  
 __diligent__ _adj_  
 __discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  

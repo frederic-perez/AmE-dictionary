@@ -4347,10 +4347,10 @@ __dullard__
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
-__dumbstruck__ _adj_ :two::hammer:  
 __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
+__dumbstruck__ _adj_ :two::hammer:  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
 __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
@@ -6092,6 +6092,7 @@ __gofer__ _n_ _slang_
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
+__gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
 __Golden Boot__ _The race for the Golden Boot._  
 __golden goose__ _idiom_ :three: A person, thing, or organization that is or has the potential to earn a lot of money for a long period of time. Taken from a folk tale of a goose that would lay a golden egg once a day, but was killed by its owner because he wanted all of its gold at once.  
 __golden rule__  
@@ -7404,6 +7405,7 @@ __in the eye of (something)__ _idiom_ At, in, or amidst the central or focal poi
 __in the fold__ _They kept the devious students in the fold._  
 __in the hope that__ _idiom_ With the expectation, intention, or desire that (something will happen).  
 __in the lap of the gods__ _idiom_ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
+__in the last analysis__ _idiom_ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
 __in the long run__  
 __in the lurch__ _The TV series was left in the lurch._  
@@ -7492,6 +7494,7 @@ __indiscreet__
 __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
 __indispensable__  
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
+__indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
 __indite__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
@@ -7648,6 +7651,7 @@ __inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
 __invoke__  
+__involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __IP__ Intelectual property.  
 __ipso facto__ _adv_  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -8171,8 +8175,10 @@ __Lasik__ _Lasik surgery._
 __lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
+__last chance (for/at/to do something)__ _idiom_ The last or final opportunity to get, have, do, or achieve something.  
 __last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
 __last straw__ _idiom_ :two: The final problem in a series of problems.  
+__last-ditch attempt__ _idiom_ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
 __lastly__ _adv_  
@@ -10384,6 +10390,7 @@ __permed__
 __permit__ _Camping permit fee._  
 __pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
 __peroxide__  
+__perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
@@ -13425,6 +13432,7 @@ __spill the beans__
 __spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ _n_ :two::hammer:  
 __spin bike__ _n_ :camera:  
+__spin one’s wheels__ _idiom_ :two: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_  
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
 __spinal tap__  
@@ -13434,7 +13442,6 @@ __spinel__ Spinel is the magnesium aluminium member of the larger spinel group o
 __spinet piano__ :camera:  
 __spinnaker__ _n_  
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
-__spin one’s wheels__ _idiom_ :two: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_  
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
 __spiny lobsters__ :camera:  
@@ -14727,6 +14734,7 @@ __to this day__ _idiom_ :four::hammer: _I don’t know if they still do it to th
 __to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
+__toady__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
 __toast > French toast__  
 __toast marshmallows__ :camera:  
 __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._  
@@ -15156,6 +15164,7 @@ __unapologetic__ _adj_ :nine::hammer:
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
 __unburdened__  
@@ -15200,7 +15209,7 @@ __understudy__ _v_
 __undertake__ _v_ :two::hammer: _A video of cyclists overtaking and undertaking a horse rider._  
 __undertaker__ _n_  
 __undertow__  
-__underwhelm__ _v_ To fail to excite, stimulate, or impress.  
+__underwhelm__ _v_ :two: To fail to excite, stimulate, or impress.  
 __underwhelming__ _adj_ :dart::three::hammer: Failing to make a positive impact or impression; disappointing.  
 __underworld__ _n_ Criminals and their associates considered collectively.  
 __underwrite__ _v_ :five::hammer: (underwriting)  
