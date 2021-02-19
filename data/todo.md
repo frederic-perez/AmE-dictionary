@@ -1,3 +1,13 @@
+__you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
+__lifesaver__ _n_  
+__dummy__  
+__call off__ _phr v_  
+__wiener__ _n_  
+__dizzy__  
+__top dog__  
+__salmon__ _n_ :mega:  
+__claw machine__ _n_  
+__bitching__ _n_ _Quit your bitching!_  
 __copyleft__ _n_  
 __diligent__ _adj_  
 __discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  
