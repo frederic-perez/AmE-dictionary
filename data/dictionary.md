@@ -4347,13 +4347,13 @@ __dullard__
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
-__dumb struck__ :two::hammer: (dumbstruck)  
+__dumbstruck__ _adj_ :two::hammer:  
 __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
-__dumpling__ :two::hammer: (dumplings) _Bavarian bread dumpling._  
+__dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun__ _Dun-colored hair._  
 __dunce__ _n_ :two::hammer: _We are complete dunces at self-perfection._  
@@ -4364,16 +4364,16 @@ __dunno__
 __duo__  
 __dupe__ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
-__duplexes__ :two::hammer:  
+__duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
-__durable__ :two::hammer: _The end of durable Red John story line is a new beginning._  
+__durable__ _adj_ :two::hammer: _The end of durable Red John story line is a new beginning._  
 __duration__  
 __duress__ _n_ :five::hammer:  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
 __dustman__  
-__dustpan__ :two::hammer:  
+__dustpan__ _n_ :two::hammer: :es: recogedor  
 __dusty__ _A dusty brand._  
 __duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
@@ -4497,7 +4497,7 @@ __ejecta__ _n_ Ejected matter, as that from an erupting volcano.
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
 __EKG__  
-__el__ :two::hammer: _The el tracks._  
+__el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
 __elaborate__ _v_ :dart:  
 __élan__ _n_ :pencil2:  
 __elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
@@ -4529,12 +4529,12 @@ __elicit__ _v_ :seven::hammer: (elicited)
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __elision__  
-__elite__ (elites) :two::hammer:  
+__elite__ _n_ :two::hammer: (elites)  
 __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__  
 __elucidate__ _v_ :two::hammer:  
 __elude__ :astonished:  
-__elusive__ :two::hammer:  
+__elusive__ _adj_ :two::hammer:  
 __Elvis has left the building__ _idiom_ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
@@ -4561,7 +4561,7 @@ __embryo__
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
-__emeritus__ :two::hammer:  
+__emeritus__ _adj_ :two::hammer:  
 __emerity__ _Faculty emerity._  
 __emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
 __eminent__  
@@ -4584,12 +4584,12 @@ __empty-net/power-play/short-handed goal__
 __EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __emulate__ _v_  
 __emulsified__ _v_  
-__en masse__ :two::hammer: _Cruz supporters are going to bolt to Rubio en masse._  
+__en masse__ _adv_ :two: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._  
 __en route__ _adv_ On or along the way: _We are en route to the museum. The store is en route._  
-__en-suite bath(room)__ :two::hammer:  
+__en suite__ _adv_ :two: As part of a set; forming a unit: _a hotel room with bathroom en suite._  
 __enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
 __enactment__  
-__enamel__ :two::hammer:  
+__enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
 __encompass__ _v_ :five::hammer: (encompasses)  
@@ -4605,7 +4605,7 @@ __end (something) on a high note__ _idiom_ :two: To finish, complete, or leave (
 __end game__ _n_  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
-__end run__ :two::hammer:  
+__end run__ _idiom_ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endangerment__  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
@@ -4692,7 +4692,7 @@ __eponymous__ _adj_ :eight::hammer: (eponymously)
 __equaled__ _v_  
 __Equality State__ _n_ WY, Wyoming.  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
-__equalizer__ :two::hammer:  
+__equalizer__ _n_ :two: __3__ A score that makes the match even.  
 __equerries__  
 __equestrian<sup>1</sup>__ _adj_  
 __equestrian<sup>2</sup>__ _n_  
@@ -4706,7 +4706,7 @@ __equitably__ _adv_ :es: de forma equitativa
 __equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ _Syn_ ambiguous, confusing  
 __equivocation__ _n_  
-__er__ :two::hammer: _It does look, er, distinctive._  
+__er__ _interj_ :two: Used to express hesitation or uncertainty. _It does look, er, distinctive._  
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __err__ _“The well-being of your child os of paramount concern,” he wrote in his lecture, err, letter._  
@@ -4769,7 +4769,7 @@ __every single one__ _idiom_ Every individual person or item within a group, wit
 __every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
-__eviction__ :two::hammer:  
+__eviction__ _n_ :two::hammer:  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
@@ -4785,8 +4785,8 @@ __exceed__ _v_
 __exceedingly__  
 __excelsior__  
 __excess__ _adj_ :five::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
-__excise__ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
-__excised__ _v_  
+__excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
+__excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
 __excommunication__  
 __excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
 __excoriation__  
@@ -4859,7 +4859,6 @@ __extricate__ _v_ :seven: (extricated) To remove or free from complication, hind
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
-__eye black__ :two::hammer: _Escobarwas fined for wearing a homophobic slur on his eye black._ _He displayed a homophobic slur on his eye black._  
 __eye candy__ _idiom_ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye dropper__ _n_  
 __eye mask__ (to sleep)  
@@ -4870,6 +4869,7 @@ __eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of 
 __eye-socket__ :es: órbita del ojo  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
+__eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
 __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._  
 __eyedrop__ _A natural lubricating eyedrop._  
 __eyeglasses__ _n_  
@@ -4913,7 +4913,8 @@ __faggots__
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
 __failover__ _n_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
-__faint__ :two::hammer: _Faint irony._ _Not for the faint of heart._  
+__faint of heart__ _idiom_ _Not for the faint of heart._  
+__faint__ _adj_ :two::hammer: _Faint irony._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
@@ -13432,7 +13433,8 @@ __spindly__
 __spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet piano__ :camera:  
 __spinnaker__ _n_  
-__spinning wheels__ :two::hammer: _Feel like you’ve been spinning your wheels in your job search?_  
+__spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
+__spin one’s wheels__ _idiom_ :two: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_  
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
 __spiny lobsters__ :camera:  
