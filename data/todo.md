@@ -1,3 +1,14 @@
+__journeyman__ _n_ A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
+__galimatias__ _n_ _rare_ Confused talk; gibberish.  
+__durable<sup>1</sup>__ _adj_  
+__durable<sup>2</sup>__ _n_  
+__lap of the gods__ _idiom_ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase "in the lap of the gods."  
+__prescience__ _n_  
+__merchant prince__ _n_ A very wealthy or influential merchant.  
+__land-poor__ _idiom_ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
+__demure__ _adj_ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
+__fiddle-footed__ _adj_ adj. __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
+__lenity__ _n_  
 __you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __lifesaver__ _n_  
 __dummy__  
