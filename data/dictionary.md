@@ -244,7 +244,7 @@ __advisedly__
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
 __advisory<sup>1</sup>__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ (advisories)  
-__advocacy__ :two::hammer:  
+__advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
 __aegis__  
 __aerials__  
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
@@ -259,7 +259,7 @@ __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grand
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
 __affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can’t afford it._  
-__affordable__ :two::pencil2::hammer:  
+__affordable__ _adj_ :two::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
 __affront__ _n_ :two::hammer:  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
@@ -268,10 +268,10 @@ __afire__ _The Klansmen set the bus afire._
 __afloat__  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
-__afoul__ :two::hammer:  
+__afoul__ _adj_ :two::hammer:  
 __afresh__ _They had to start afresh._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ :two::hammer: _Aft compartment._  
+__aft__ _adj_ :two::hammer: _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffects__  
@@ -279,7 +279,7 @@ __afterglow__
 __aftermarket__  
 __aftermath__ _n_  
 __afters__ _n informal_ :two: Dessert.  
-__afterward__ :two::hammer:  
+__afterward__ _adv_ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
 __against the clock__ _idiom_ :two: Rushed and short on time.  
 __agape__ _He stood there with his mouth agape._  
@@ -310,7 +310,7 @@ __ah__
 __aha__  
 __Aha! moment__  
 __ahead of the curve__ _idiom_ :three:  
-__ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
+__ahead of time__ _idiom_ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
 __ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
@@ -385,9 +385,9 @@ __allegedly__
 __allergens__  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
-__allocation__ :two::hammer: _Allocation of resources._  
+__allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
-__allotment__ :two::hammer:  
+__allotment__ _n_ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
 __alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
@@ -413,7 +413,7 @@ __alto voice__
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
 __aluminum__ _n_ :four::pencil2::hammer:  
-__alumni__ :two::hammer:  
+__alumni__ _n pl_ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amateur hour__ _idiom_  
@@ -430,7 +430,7 @@ __ambulatory__ _Hakan Erdem, 12, wasn’t ambulatory._
 __ameliorate__ _v_ :two::hammer:  
 __amenable__  
 __amends__ _n pl_ :three: (plurale tantum)  
-__amenity__ :two::hammer: _Amenity kits._  
+__amenity__ _n_ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
 __amethyst__ _n_ :three::pencil2::hammer:  
 __ametropia__ _n_  
@@ -536,7 +536,7 @@ __anvil__ _n_ :four::hammer: (anvils)
 __any longer__  
 __anybody’s guess__  
 __anything but__ _It is anything but sweet._  
-__anything goes__ :two::hammer:  
+__anything goes__ _idiom_ :two::hammer:  
 __apace__ _Concussion concerns continue apace._  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
@@ -563,7 +563,7 @@ __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espa
 __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
-__apparatus__ :two::hammer: _Campaign apparatus._  
+__apparatus__ _n_ :two::hammer: _Campaign apparatus._  
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
 __appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
@@ -597,7 +597,7 @@ __aquaponics__ _n_
 __aquifer__ _n_ :two::hammer:  
 __arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __arbitration__ _Arbitration clause._  
-__arbor__ :two::hammer: _An arbor of live oaks._  
+__arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
@@ -613,12 +613,12 @@ __architect__ :mute:[arc~~h~~itect]
 __archivist__  
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
-__ardent__ :two::hammer: _He was one of her most ardent suitors._  
+__ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion  
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
-__arguably__ :two::hammer:  
+__arguably__ _adv_ :two::hammer:  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
@@ -656,8 +656,7 @@ __as a general rule__
 __as blind as a bat__ _idiom_ Unable to see well.  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
-__as good as it gets__ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
-__as it gets__ :two::hammer:  
+__as good as it gets__ _idiom_ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it happens,__ _idiom_ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -678,7 +677,7 @@ __ascot__ _n_ :two::hammer:
 __ascribe__ _v_ :eight::hammer: (ascribed) _Which meaning were you ascribing to that word?_  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borers__ _Emerald ash borers._  
-__ashen__ :two::hammer::pencil2: _His face turned ashen._  
+__ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::three: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
@@ -697,14 +696,14 @@ __aspire__ _v_
 __aspirin__ _n_ :mega:  
 __assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
-__assault__ :two::hammer:  
+__assault__ _n_ :two::hammer:  
 __assembly line__ _n_ :five::hammer:  
 __assert__ _v_  
 __asses__ _n_ :two::hammer:  
 __asset__  
 __assets__  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
-__assiduously__ :pencil2::two::hammer:  
+__assiduously__ _adv_ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
 __assistance animal__ _n_  
