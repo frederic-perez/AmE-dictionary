@@ -822,7 +822,7 @@ __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
-__awfully__ :mega::two::hammer:_That’s awfully nice, thanks._  
+__awfully__ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
@@ -4984,7 +4984,7 @@ __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI
 __farther__ _adv_ :two::hammer:  
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
-__fascia__ _n_ :two::hammer:_The car dashboard fascias._  
+__fascia__ _n_ :two::hammer: _The car dashboard fascias._  
 __fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
@@ -5782,7 +5782,7 @@ __gargle<sup>1</sup>__ _n_
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
 __gargoyle__ _n_ :two::hammer: (gargoyles)  
 __garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the same time._  
-__garland__ _n_ :three::camera::hammer:_Garland motifs on carved oak paneling._ _Evergreen garlands._  
+__garland__ _n_ :three::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnets__ _n_  
@@ -8269,7 +8269,7 @@ __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __lefty buckets__  
-__leg up__ :two::hammer:_Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
+__leg up__ _idiom_ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
 __leg work__ _idiom_ :two::hammer:  
 __legal tack__  
@@ -8355,7 +8355,7 @@ __lier__ _n_ A person who lies down.
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
-__lifeline__ :two::hammer: _China has long been North Korea’s lifeline._  
+__lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
 __lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
@@ -8580,7 +8580,7 @@ __lowing__ _v_ :two::hammer:
 __lowkey__  
 __lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
 __lowlights__  
-__lowly__ _adj_ :three::hammer:_A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
+__lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
 __lucifer match__  
@@ -10493,7 +10493,7 @@ __piece__ _n_ _A piece of cake._
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
 __pied__  
-__pied-à-terre__ :two::hammer: (pieds-à-terre) _Use as pied-à-terre is allowed._  
+__pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
@@ -11034,7 +11034,8 @@ __proceeds__ _n_ :seven: The money that has been gained from doing something or 
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
-__prod__ (prodded) :two::hammer: :es: _empujón_  
+__prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
+__prod<sup>2</sup>__ _n_ :es: _empujón_  
 __prodigal<sup>1</sup>__ _adj_ :two::hammer:  
 __prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
@@ -13180,7 +13181,7 @@ __snapper__ _n_ _A red snapper._
 __snappier__ _adj_ :two::hammer: _Everything will be snappier._  
 __snapping__  
 __snappy__  
-__snare drum__ :two::hammer: (snare drums) :es: tambor militar pequeño  
+__snare drum__ _n_ :two::hammer: (snare drums) :es: tambor militar pequeño  
 __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, used for capturing birds and small mammals. __2__ Something that lures or entangles the unwary: _the snares of merchandisers; the snare of debt._ __3__ A surgical instrument with a wire loop controlled by a mechanism in the handle, used to remove growths, such as tumors and polyps.  
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
@@ -13301,7 +13302,7 @@ __soloist__ _n_ :three::hammer:
 __solvent__ _n_  
 __sombreros__  
 __someone’s hair__ _He built the shop to get his hobby out of his wife’s hair._  
-__someone’s other half__ :two::hammer:  
+__one’s other half__ _idiom_ :two::hammer:  
 __something or another__ _I ran into Jim Gable’s ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
 __somnambulant__ _adj_  
@@ -13694,7 +13695,7 @@ __steadfast__ _adj_ :dart::nine: __1__ Fixed or unchanging; steady. __2__ Firmly
 __steadfastly__  
 __steadily__  
 __steadiness__  
-__steady__ _adj_ :five:__1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
+__steady__ _adj_ :five: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __steady-eddy__  
 __stealth van__ _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
 __stealthy__  
@@ -14914,7 +14915,7 @@ __treacherous__ _adj_ :three::hammer:
 __treachery__ _n_ :four::hammer:  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
-__tread water__ _idiom_ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ _Etymology:_ Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
+__tread water__ _idiom_ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __treading__  
 __treasure__ _v_ :four::hammer:  
 __treat<sup>1</sup>__ _v_  

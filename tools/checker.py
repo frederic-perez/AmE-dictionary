@@ -216,6 +216,7 @@ class Checker(object):
         self.num_entries_with_straight_single_quote = 0
         self.num_entries_with_straight_double_quote = 0
         self.num_entries_with_double_dash = 0
+        self.num_entries_with_colon_underscore = 0
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
@@ -310,6 +311,14 @@ class Checker(object):
         print(headword + FAIL + ' <<< Double dash #' \
             + str(self.num_entries_with_double_dash) + ENDC)
 
+    def treat_colon_underscore(self, entry):
+        """Self-explanatory"""
+        self.num_entries_with_colon_underscore += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' <<< Colon followed by underscore #' \
+            + str(self.num_entries_with_colon_underscore) + ENDC)
+
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
         self.num_tag_shit += 1
@@ -356,6 +365,8 @@ class Checker(object):
             self.treat_straight_double_quote(entry)
         if entry.count('--') > 0:
             self.treat_double_dash(entry)
+        if entry.count(':_') > 0:
+            self.treat_colon_underscore(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
         if entry_has_tag_of_any_number(entry, 2, 9) and \
@@ -405,6 +416,7 @@ class Checker(object):
             + self.num_entries_with_straight_single_quote \
             + self.num_entries_with_straight_double_quote \
             + self.num_entries_with_double_dash \
+            + self.num_entries_with_colon_underscore \
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
@@ -428,6 +440,7 @@ class Checker(object):
             print_colored('Entries with straight single quote(s)', self.num_entries_with_straight_single_quote)
             print_colored('Entries with straight double quote(s)', self.num_entries_with_straight_double_quote)
             print_colored('Entries with double dash', self.num_entries_with_double_dash)
+            print_colored('Entries with colon followed by underscore', self.num_entries_with_colon_underscore)
             print_colored('Entries missing part of speech', self.num_missing_part_of_speech)
             print_colored('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
