@@ -1,3 +1,13 @@
+__cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
+__crump__ _v_ __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
+__limn__ _v_ __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
+__the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
+__boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
+__lollygag__ _v_ To waste time by puttering aimlessly; dawdle.  
+__cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
+__probative__ _adj_ Providing proof or evidence.  
+__nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
+__Lady Luck__ _idiom_ The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.)  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
 __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
