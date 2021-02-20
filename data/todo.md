@@ -1,3 +1,15 @@
+__winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
+__cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
+__neigh<sup>1</sup>__ _n_ :es: relincho  
+__neigh<sup>2</sup>__ _v_ :es: relinchar  
+__be champing at the bit__ _idiom_ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
+__gender dysphoria__ _n_  
+__whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.
+__whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
+__double whammy__ _idiom_ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
+__it takes two to tango__ _idiom_  
+__the ball is in (one’s) court__ _idiom_  
+__oyster__ _n_  
 __journeyman__ _n_ A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __durable<sup>1</sup>__ _adj_  
