@@ -4085,7 +4085,7 @@ __doldrums__ _n pl_ (plurale tantum)
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
-__dolt__ :two::hammer:  
+__dolt__ _n_ :two: A stupid person; a dunce.  
 __domicile__  
 __dominatrix__ _n_  
 __domino effect__ _n_ A cumulative effect produced when one event sets off a chain of similar events. _The domino effect of increasing the speed limit in one of several contiguous states._  
@@ -4108,7 +4108,7 @@ __doodad__
 __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
 __doofer__ _n informal_  
 __dookie-wookie__  
-__doom and gloom__ :two::hammer:  
+__doom and gloom__ _idiom_ :two: A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_.  
 __door-to-door dash__  
 __doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
@@ -4139,7 +4139,7 @@ __double step__ _v_
 __double take__ _n_ :two::hammer:  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
 __double-cross__ _n_  
-__double-decker__ :two::hammer: _Double-decker bus._  
+__double-decker__ _n_ :two::hammer: _Double-decker bus._  
 __double-edged__ _adj_ _Double-edged sword._  
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
@@ -4166,13 +4166,13 @@ __down under__ _n informal_ :three: (Down Under) _Best regards from down under._
 __down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds.  
 __down-low__  
 __down-to-earth__ _adj_ _idiom_ :four: Sensible and realistic.  
-__downbeat__ :two::hammer:  
+__downbeat<sup>1</sup>__ _n_ :two::hammer:  
+__downbeat<sup>2</sup>__ _adj_  
 __downburst__ _n_  
 __downcast__ _adj_ Filled with melancholy and despondency. _Syn_ low-spirited, gloomy, dispirited, blue, depressed, grim _He walked through the door with a glum, downcast expression, and I knew without asking that the interview had not gone well._  
 __downdraft__ _n_ :two: (downdrafts) A downward current, as of air.  
 __downed__ _v_ _Terrorists had downed a Russian plane in October._  
-__downer__ _n_  
-__downers__ :two::hammer:  
+__downer__ _n_ :three: (downers)  
 __downhearted__ _adj_  
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
@@ -4187,8 +4187,7 @@ __downspout__ _n_
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
 __downtime__ _n_ :three::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
-__downturn__ _n_  
-__downturns__ :two::hammer:  
+__downturn__ _n_ :three::hammer: (downturns)  
 __downward__ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :four::hammer: :es: dote  
@@ -4231,7 +4230,7 @@ __dray__ _n_ :two::hammer: (drays) _Dray horse._
 __drayman__  
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :two::hammer:  
-__dreamy__ :two::hammer:  
+__dreamy__ _adj_ :two: __4__ _informal_ Inspiring delight; wonderful.  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
@@ -4244,14 +4243,14 @@ __dress rehearsal__
 __dress to the nines__ _idiom_ Wearing very fashionable or expensive clothes.  
 __dress up__ _v_  
 __dressed to the nines__  
-__dressing room__ :two::hammer: _(vs fitting room)_  
+__dressing room__ _n_ :two::hammer: _(vs fitting room)_  
 __dressing__ _It’s going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :two::hammer: :es: regatear?  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
 __drifter__ _n_ :six::hammer:  
 __drifting__  
-__driftwood__ :two::hammer: _Driftwood logs._  
+__driftwood__ _n_ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
@@ -4268,9 +4267,9 @@ __drivel__ _n_ :dart::three: __1__ Foolish or senseless talk. _Syn_ nonsense, ru
 __driven snow__ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __drivetrains__  
 __driveway__  
-__drizzle__ :two::hammer:  
-__drizzled__  
-__drizzly__ :two::hammer:  
+__drizzle<sup>1</sup>__ _v_ :two::hammer: (drizzled)  
+__drizzle<sup>2</sup>__ _n_  
+__drizzly__ _adj_ :two::hammer:  
 __drogue__ _Drogue parachutes._  
 __droit du seigneur__  
 __droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
@@ -4320,7 +4319,7 @@ __dubious__ _adj_ :five::hammer:
 __duchy__ _n_  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
-__duckboards__ :two::hammer:  
+__duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
 __ducky__ _ad_ _slang_ Excellent; fine.  
@@ -4331,13 +4330,15 @@ __dud<sup>2</sup>__ _v_
 __dude__ _n_ Man, guy, friend.  
 __dudgeon__ _n_  
 __due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
-__due__ :two::hammer: _They travelled due south._  
+__due<sup>1</sup>__ _adj_  
+__due<sup>2</sup>__ _n_  
+__due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
 __due-diligence__  
 __duffel bag__ _n_ :three::hammer:  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ :camera:  
 __dug__ _n_  
-__dugout__ :two::hammer:  
+__dugout__ _n_ :two::hammer:  
 __duh__ _interj_ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
 __dulcimers__ _n_  
