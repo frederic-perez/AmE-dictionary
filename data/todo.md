@@ -1,23 +1,3 @@
-__cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
-__crump__ _v_ __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
-__limn__ _v_ __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
-__the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
-__boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
-__lollygag__ _v_ To waste time by puttering aimlessly; dawdle.  
-__cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
-__probative__ _adj_ Providing proof or evidence.  
-__nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
-__Lady Luck__ _idiom_ The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.)  
-__winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
-__cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
-__neigh<sup>1</sup>__ _n_ :es: relincho  
-__neigh<sup>2</sup>__ _v_ :es: relinchar  
-__be champing at the bit__ _idiom_ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
-__gender dysphoria__ _n_  
-__whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.
-__whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
-__double whammy__ _idiom_ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
-__it takes two to tango__ _idiom_  
 __the ball is in (one’s) court__ _idiom_  
 __oyster__ _n_  
 __journeyman__ _n_ A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  

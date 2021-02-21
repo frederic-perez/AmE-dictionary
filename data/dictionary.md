@@ -1052,6 +1052,7 @@ __be a roaring success__ _idiom_ To be extremely or triumphantly successful.
 __be as good as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits’ end__ _idiom_ To be worried about something and not know what you should do next.  
 __be brought in from the cold__ _idiom_ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
+__be champing at the bit__ _idiom_ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ _idiom_ To be emptied or devoid of money, food, resources, etc.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be friends__ _I was good friends with her._  
@@ -1587,6 +1588,7 @@ __boom box__
 __boomer chains__  
 __booms__ _n_ :two::hammer:  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
+__boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
@@ -2345,6 +2347,7 @@ __censure motion__
 __centennial__  
 __centerpiece__  
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
@@ -2423,6 +2426,7 @@ __chatter__ _A machine-gun chatter._
 __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __chauffeured__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+__cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
@@ -3205,6 +3209,7 @@ __crack someone up__ _idiom_ To make someone laugh. _The lecturer would talk alo
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
+__cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
 __crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
 __crackerjack<sup>2</sup>__ _n_ _slang_ :two: A person with a high degree of knowledge or skill in a particular field. A person or thing of exceptional quality or ability. _Syn_ ace, adept, authority, dab hand, expert, master, past master, professional, proficient, wizard  
 __crackers__  
@@ -3347,7 +3352,7 @@ __crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. 
 __crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
 __crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
-__crump__ _v_  
+__crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
 __crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
 __crumple<sup>2</sup>__ _n_  
 __crunch__ _n_ :two::hammer: (crunches)  
@@ -4138,6 +4143,7 @@ __double down__ _v_ :nine::m: To become more tenacious, zealous, or resolute in 
 __double step__ _v_  
 __double take__ _n_ :two::hammer:  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
+__double whammy__ _idiom_ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __double-cross__ _n_  
 __double-decker__ _n_ :two::hammer: _Double-decker bus._  
 __double-edged__ _adj_ _Double-edged sword._  
@@ -4329,11 +4335,10 @@ __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to
 __dud<sup>2</sup>__ _v_  
 __dude__ _n_ Man, guy, friend.  
 __dudgeon__ _n_  
-__due diligence__ _n_ :seven: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
+__due diligence__ _n_ :eight: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due<sup>1</sup>__ _adj_  
 __due<sup>2</sup>__ _n_  
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
-__due-diligence__  
 __duffel bag__ _n_ :three::hammer:  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ :camera:  
@@ -5831,6 +5836,7 @@ __gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._
 __gelled__ _His hair was neatly gelled._  
 __gelt__  
 __gemstone__ _n_ :es: piedra preciosa  
+__gender dysphoria__ _n_  
 __gender gap__  
 __genealogist__  
 __Generalissimo Stalin__  
@@ -7685,7 +7691,7 @@ __it figures__ _idiom_ :two::hammer:
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes a village__ _idiom_ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
-__it takes two to tango__ _idiom_  
+__it takes two to tango__ _idiom_ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
 __it’s all good__ _idiom_ A phrase used to express general approval, unconcern, or disinterest.  
@@ -8107,7 +8113,7 @@ __lad__ _n_
 __laddie__  
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _Checking bills of lading._  
-__Lady Luck__ _I’m riding with Lady Luck._  
+__Lady Luck__ _idiom_ :two: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
 __lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
 __ladybird__ _n_  
 __ladyfinger cookies__  
@@ -8396,7 +8402,7 @@ __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
-__limn__ _v_ :two: (limned) To draw; portray in words; describe.  
+__limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
 __limo__  
 __limp__ _adj_ :two::hammer: _Limp spinoff._ _Limp wrists._  
 __limpid__ _adj_  
@@ -8501,6 +8507,7 @@ __loins__ _n_ :two::hammer:
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
 __loll__ _v_ :five::hammer::pencil2: (lolled, lolling) _His head was lolling against Cato’s shoulder._  
 __lollipop__ _n_ (lollypop)  
+__lollygag__ _v_ To waste time by puttering aimlessly; dawdle.  
 __lone wolf__ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
 __loner__ Someone who likes being alone.  
@@ -9399,6 +9406,7 @@ __NCO__
 __NDA__ _abbr_  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
+__nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
 __necessary__ :mega:  
 __necktie__ _n_  
@@ -9412,6 +9420,8 @@ __needlestick__ :pencil2:
 __needy__  
 __nefarious__ _adj_ :six::hammer:  
 __neglected__ _I don’t feel neglected._  
+__neigh<sup>1</sup>__ _n_ :es: relincho  
+__neigh<sup>2</sup>__ _v_ :es: relinchar  
 __neighbor__ :mute:[nei~~gh~~bor]  
 __neighed__ _v_  
 __neighing__ _v_  
@@ -9815,6 +9825,7 @@ __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only o
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
 __one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
+__one’s other half__ _idiom_ :two::hammer:  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
@@ -11029,6 +11040,7 @@ __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
 __pro__ _The pro column, not the con column._  
 __probation__ _A person has ben sentenced to probation._  
+__probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
@@ -13302,7 +13314,6 @@ __soloist__ _n_ :three::hammer:
 __solvent__ _n_  
 __sombreros__  
 __someone’s hair__ _He built the shop to get his hobby out of his wife’s hair._  
-__one’s other half__ _idiom_ :two::hammer:  
 __something or another__ _I ran into Jim Gable’s ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
 __somnambulant__ _adj_  
@@ -14485,6 +14496,7 @@ __the honest truth__ _idiom_ The sincere, unadulterated truth.
 __the idiot box__ _idiom_ A television set, or television in general.  
 __the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
+__the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the lion’s share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -15886,6 +15898,8 @@ __whitelist__ _v_
 __whiteout__  
 __whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
 __whitewash__ _v_ :four::hammer:  
+__whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.  
+__whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
 __whithered__  
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizz__  
@@ -15978,6 +15992,7 @@ __wingtips__
 __winking__ _v_  
 __winnow__ _v_ :four::hammer: (winnowed, winnowing) _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__  
+__winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
 __winward__  
