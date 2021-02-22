@@ -1,13 +1,3 @@
-__glissade__ _n_  
-__timeserver__ _n_ A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
-__madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
-__cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
-__be (one’s) last resort__ _idiom_ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
-__one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
-__perdure__ _v_ _formal_ To last permanently; endure.  
-__the last of the lot__ _idiom_ The last or final person(s) or thing(s) in a given group or list.  
-__cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
-__shock jock__ _n_ _informal_ A radio disc jockey who is deliberately controversial or provocative.  
 __the ball is in (one’s) court__ _idiom_  
 __oyster__ _n_  
 __journeyman__ _n_ A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  

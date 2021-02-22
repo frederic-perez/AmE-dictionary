@@ -1044,6 +1044,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__be (one’s) last resort__ _idiom_ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ _idiom_ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
 __be (the) bomb__ _idiom_ To be excellent, extremely entertaining, or of very high quality.  
@@ -2765,6 +2766,7 @@ __cogency__
 __cogent__ _adj_ :two::hammer:  
 __cognate__  
 __cognizant__  
+__cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
@@ -3110,6 +3112,7 @@ __corn fritters__
 __corned beef__ :two::hammer:  
 __cornerstone__ _n_  
 __cornstarch__  
+__cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :five::hammer:  
 __coronet__ _n_  
 __corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
@@ -3441,11 +3444,11 @@ __customer > tough customer__ Someone who is difficult to deal with. _Walt is a 
 __customs__ _n_ (at airport)  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
-__cut one’s eyes at someone or something__ _idiom_ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut from the same cloth__ _idiom_ To be very similar.  
 __cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
 __cut me a little slack__  
+__cut one’s eyes at someone or something__ _idiom_ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut shot__ _n_ A type of shot in several sports.  
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
@@ -3641,12 +3644,12 @@ __deed__ _n_ _The deed is set in motion._
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
-__deepfake__ _idiom_ :two::hammer:  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
+__deepfake__ _idiom_ :two::hammer:  
 __deer__ _adj_ _A deer survey._  
 __DEET__ _Bug spray with DEET to ward off mosquitoes._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
@@ -4080,8 +4083,8 @@ __dogged__ _adj_ :three: Obstinately determined; wilful or tenacious. _Dogged pe
 __doggedly__ _adv_ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
-__dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
+__dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
 __dogsled__  
 __dogtrot__ _n_  
 __doilies__  
@@ -5993,7 +5996,8 @@ __glimpse<sup>1</sup>__ _n_
 __glimpse<sup>2</sup>__ _v_  
 __glint__ _n_ :two::hammer: _The glint of spears._  
 __glinting__ _v_  
-__glissade__ _v_  
+__glissade<sup>1</sup>__ _n_  
+__glissade<sup>2</sup>__ _v_  
 __glisten__ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
@@ -8660,6 +8664,7 @@ __macula__ _n_
 __madcap__  
 __madden__ _v_ :two::hammer: (maddening)  
 __made of money__ _idiom_ To be very rich.  
+__madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
 __madman__ _n_ A man who is insane, esp one who behaves violently; lunatic.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
@@ -9819,6 +9824,7 @@ __once-over__
 __oncoming__ _The oncoming winter’s patterns._  
 __one too many__ _We drank one too many._  
 __one way or another__ _If I fail then it will cost me my head one way or another._  
+__one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
 __one-liner__ :dart: A quick joke or quip; a funny observation.  
 __one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-note__  
@@ -10365,6 +10371,7 @@ __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
 __percolator__ _n_  
+__perdure__ _v_ _formal_ To last permanently; endure.  
 __peremptory__ _adj_ :three::hammer:  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
@@ -12703,7 +12710,7 @@ __shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. 
 __shiver-thin__ _A shiver-thin coverlet of old snow._  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
-__shock-jock__ _n_  
+__shock jock__ _n_ :two: _informal_ A radio disc jockey who is deliberately controversial or provocative.  
 __shoddily__  
 __shoddy__ _adj_ :six::hammer:  
 __shoebox__ _n_  
@@ -14498,6 +14505,7 @@ __the idiot box__ _idiom_ A television set, or television in general.
 __the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
+__the last of the lot__ _idiom_ The last or final person(s) or thing(s) in a given group or list.  
 __the lion’s share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
@@ -14675,6 +14683,7 @@ __timeline__
 __timeliness__  
 __timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
+__timeserver__ _n_ A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
