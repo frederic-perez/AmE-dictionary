@@ -3415,7 +3415,7 @@ __curdle__
 __curdled__ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
-__Curie__ :two::hammer::mega:  
+__Curie__ _n_ :two::hammer::mega:  
 __curios__  
 __curlicued__ _v_  
 __curlicues__  
@@ -3441,7 +3441,7 @@ __customer > tough customer__ Someone who is difficult to deal with. _Walt is a 
 __customs__ _n_ (at airport)  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ _idiom_ To do something in the easiest or most inexpensive way.  
-__cut eyes__ :two::hammer: _Carmen cut her eyes at her brother, but he ignored her._ _Miss Birdie cut her eyes._  
+__cut one’s eyes at someone or something__ _idiom_ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut from the same cloth__ _idiom_ To be very similar.  
 __cut from whole cloth__ _idiom_ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
 __cut it close__ _idiom_ To do or complete something very near to its limit, especially of time.  
@@ -3473,7 +3473,7 @@ __cytometer__
 __cytometry__  
 __D-ring inset__  
 __D’oh__ _slang_ Exclamation used when you realize that you did something stupid.  
-__D&D__ :two::hammer:  
+__D&D__ :two: Dungeons and Dragons.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
@@ -3518,7 +3518,7 @@ __dandy__ _adj_ :two::hammer:
 __dang__ _interj_ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
-__dankness__ :two::hammer:  
+__dankness__ _n_ :two::hammer:  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
@@ -3535,7 +3535,7 @@ __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
 __dashing__ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
-__datalogging__ :two::hammer:  
+__datalogging__ _n_ :two: The use of a datalogger  
 __date with destiny__ _idiom_ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
 __date<sup>2</sup>__ _v_ _It’s a good habit to date everything you handwrite._  
@@ -3630,7 +3630,7 @@ __decommits__
 __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_  
 __décor__ _n_  
-__decorated__ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
+__decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle’s most decorated chefs._  
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
@@ -3641,7 +3641,7 @@ __deed__ _n_ _The deed is set in motion._
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
-__deep fakes__ :two::hammer:  
+__deepfake__ _idiom_ :two::hammer:  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
@@ -3662,7 +3662,7 @@ __defer__ _v_ :five::hammer:
 __deference__ _n_ :four::hammer:  
 __deferential__  
 __deferentially__  
-__deferment__ :two::hammer:  
+__deferment__ _n_ :two::hammer:  
 __deferral__  
 __deferred__ _v_ :two::hammer:  
 __defiance__  
@@ -3671,9 +3671,9 @@ __defile<sup>1</sup>__ _n_ :three::hammer:
 __defile<sup>2</sup>__ _v_ :two: To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
 __definitely__  
 __deflated__ _v_  
-__deflation__ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
+__deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
 __deflect__ _v_  
-__deflection__ :two::hammer:  
+__deflection__ _n_ :two::hammer:  
 __defray__ _v_  
 __defrock__ _v_  
 __defrost__  
@@ -3789,7 +3789,7 @@ __détente__ _n_ :two: A relaxing of tension between major powers, especially th
 __deter__ _v_  
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
-__deterrence__ :two::hammer:  
+__deterrence__ _n_ :two::hammer:  
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__  
@@ -3805,7 +3805,7 @@ __devil is in the detail__ _idiom_ Small things can cause difficulties when you 
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __deviltry__  
-__devoid__ :two::hammer:  
+__devoid__ _adj_ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
@@ -3822,7 +3822,7 @@ __Diaspora__ _n_ :two::hammer: (diaspora)
 __diatribes__ _n_  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
-__dichotomy__ :two::hammer:  
+__dichotomy__ _n_ :two::mega::hammer:  
 __dickens__ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
 __diction__ _n_ :five::hammer: _The priest diction._  
@@ -3956,7 +3956,7 @@ __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical,
 __disingenuous__ _adj_ :four: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinhibition__ _n_ :pencil2:  
-__disinterest__ :two::hammer:  
+__disinterest__ _n_ :two::hammer:  
 __disinterested__ _adj_  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
@@ -3967,7 +3967,7 @@ __dismayed__ _adj_
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
-__disparagement__ :two::hammer:  
+__disparagement__ _n_ :two::hammer:  
 __disparaging__ _adj_ :two: Insulting, ridiculing.  
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
@@ -3983,7 +3983,7 @@ __disquisitition__ :pencil2:
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
-__dissatisfaction__ :two::hammer:  
+__dissatisfaction__ _n_ :two::hammer:  
 __dissatisfied__ _adj_ :two::pencil2::hammer:  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissed__ _v_ _Rubio had dissed the Bible._  
@@ -4009,10 +4009,10 @@ __dissuade__ _v_ :pencil2::three: (dissuaded)
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
-__distinctly__ :two::hammer:  
+__distinctly__ _adv_ :two::hammer:  
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
-__distressed__ :two::hammer:  
+__distressed__ _adj_ :two::hammer:  
 __disused__  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
@@ -4030,7 +4030,7 @@ __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, c
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
 __divest__ _v_ :five::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._ _Divested him of stolen lands and castles._  
-__divestiture__ :two::hammer:  
+__divestiture__ _n_ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
 __divisive__ _He is more interested in spouting divisive sound bites._  
@@ -4077,10 +4077,11 @@ __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :three: Obstinately determined; wilful or tenacious. _Dogged persistence._  
-__doggedly__ :two::hammer:  
+__doggedly__ _adv_ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
-__dogleg__ :two::hammer: _A dogleg twenty-gauge in his hand._  
-__doglegs__ _v_  
+__dogleg<sup>1</sup>__ _n_  
+__dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
+__dogleg<sup>2</sup>__ _v_ (doglegs)  
 __dogsled__  
 __dogtrot__ _n_  
 __doilies__  
