@@ -4376,7 +4376,8 @@ __dupe__ _A dupe of a president._
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
-__durable__ _adj_ :two::hammer: _The end of durable Red John story line is a new beginning._  
+__durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
+__durable<sup>2</sup>__ _n_  
 __duration__  
 __duress__ _n_ :five::hammer:  
 __dust devils__  
@@ -5753,6 +5754,7 @@ __gal__
 __gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
+__galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
@@ -7837,7 +7839,7 @@ __jonesing__ _v_ :two::hammer:
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
 __jostle__ _v_ :eight::hammer::camera: (jostled, jostling) _Cows are jostling for space._ _Jostled anew._  
-__journeyman__ _n_ :two::hammer:  
+__journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ _adj_ :two::hammer:  
@@ -8151,6 +8153,7 @@ __lancet__ _n_
 __lancing irons__  
 __land of plenty__ _idiom_ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __land on (one’s) feet__ _idiom_ To gracefully survive a bad situation.  
+__land-poor__ _idiom_ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
@@ -8163,6 +8166,7 @@ __lanky__ _adj_ :four::hammer:
 __lantanas__ _n_  
 __Laotian__  
 __lap dog__ __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
+__lap of the gods__ _idiom_ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __lap pool__  
 __lap<sup>1</sup>__ _n_ _The project’s amenities include two lap pools._  
 __lap<sup>2</sup>__ _v_ _Despite being lapped._  
@@ -8936,6 +8940,7 @@ __Mephistopheles__ _n_ (Mephisto)
 __merc__ _n_ :two::hammer:  
 __mercantile__  
 __merch__ _n_ :three::hammer: Merchandaising?  
+__merchant prince__ _n_ A very wealthy or influential merchant.  
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
@@ -10051,7 +10056,7 @@ __own up__
 __own__ _v_  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
 __oxymoron__ :mega:  
-__oyster__  
+__oyster__ _n_ :two::hammer:  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
 __Ozzie__ _n_ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
@@ -10965,7 +10970,7 @@ __prequel__
 __prerogative__ _n_ :seven::hammer:  
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
-__prescience__ _n_ :three: The fact of knowing something in advance; foreknowledge.  
+__prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
 __prescient__ _adj_ :eight::hammer:  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
@@ -14484,7 +14489,7 @@ __the “m” word__
 __the 105’s__  
 __the 11th hour__  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
-__the ball is in someone’s court__ _idiom_ To be responsible for taking the next action.  
+__the ball is in someone’s court__ _idiom_ :two: To be responsible for taking the next action.  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
 __the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
