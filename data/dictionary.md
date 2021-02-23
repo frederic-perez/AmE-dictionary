@@ -2932,7 +2932,7 @@ __concession stand__ _A new concession stand with a real popcorn machine._
 __conch__ _A conch farm._  
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
-__concoction__ :two::hammer:  
+__concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :five::hammer:  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -3010,8 +3010,7 @@ __consumer electronics__
 __consumption__ (ailment?)  
 __contactless__  
 __contagion__  
-__contempt sentence__ :two::hammer:  
-__contempt__  
+__contempt__ _n_ :three::hammer: _Contempt sentence._  
 __contemptible__ _adj_ Deserving contempt; despicable. _A display of contemptible cowardice._ :es: despreciable  
 __contemptuous__  
 __contend__ _v_ :four: (contended) __1__ To claim that something is true. __2__ To compete against someone, for example for a victory or for power.  
@@ -3025,10 +3024,10 @@ __contested shot__ _n_ (vs uncontested shot)
 __contextualize__ _v_ :dart::four:  
 __contiguous > the contiguous U.S.__  
 __continence__ _n_ :two::hammer:  
-__contingency plan__ :two::hammer:  
+__contingency plan__ _n_ :two::hammer:  
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
-__continual__ :two::hammer: _For most systems, change is continual._  
+__continual__ _adj_ :two::hammer: _For most systems, change is continual._  
 __contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
@@ -3066,7 +3065,7 @@ __cookware__
 __cool (one’s) heels__ _idiom_ To wait, sometimes so that one becomes calmer or more composed.  
 __cool your jets__  
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
-__coonass__ :two::hammer: (coonasses)  
+__coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
 __coop<sup>1</sup>__ _To fly the coop._  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :pencil2:  
@@ -3093,7 +3092,7 @@ __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. _
 __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
 __copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
 __copywriter__ _n_  
-__coracle__ :two::hammer: (coracles)  
+__coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
 __cordite__ _n_  
@@ -3107,9 +3106,9 @@ __core-dump__ _The book goes on like this, a chronological core-dump of facts._
 __corgi__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __cormorants__  
-__corn beef__ :two::hammer:  
+__corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
 __corn fritters__  
-__corned beef__ :two::hammer:  
+__corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
 __cornerstone__ _n_  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
@@ -3118,7 +3117,7 @@ __coronet__ _n_
 __corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
 __corporate ladder__ _idiom_  
 __corps__ _n_ :three::hammer: _Japan’s deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
-__corpsman__ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
+__corpsman__ _n_ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
 __corpus__ _A big corpus of examples._  
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
@@ -3136,12 +3135,12 @@ __cosset__ _v_
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
 __cost the earth__ _idiom_ To be exorbitant or burdensome in expense.  
-__costliest__ :two::hammer:  
+__costliest__ _adj_ :two::hammer:  
 __costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
-__cottage__ :two::hammer:  
-__cotton candy__ :two::hammer:  
+__cottage__ _n_ :two::astonished::hammer:  
+__cotton candy__ _n_ :two::hammer:  
 __cotton dry__  
 __cotton swabs__  
 __couch potato__  
@@ -3196,7 +3195,7 @@ __cow__ _v_ :three::hammer: (cowed) _Law makers cowed by powerful unions._ _His 
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
-__cowl__ :two::hammer: _Their cowls were filthy rags._  
+__cowl__ _n_ :two::hammer: _Their cowls were filthy rags._ :es: capucha  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
 __coxswain__  
@@ -3222,9 +3221,8 @@ __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas.
 __crackpot<sup>1</sup>__ _n_  
 __crackpot<sup>2</sup>__ _adj_  
 __craft beer money__  
-__craft__ _Craft sake._  
+__craft__ _n_ :three::hammer: (crafts) _Craft sake._  
 __craftman__  
-__crafts__ :two::hammer:  
 __crafty__  
 __crag__ _n_ _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
@@ -3246,7 +3244,8 @@ __crass__ _adj_ :three::hammer: _Crass attitudes._
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
-__craven__ :two::hammer: _A craven political figure._  
+__craven<sup>1</sup>__ _adj_ :two::hammer: _A craven political figure._  
+__craven<sup>2</sup>__ _n_  
 __craw__ _n_  
 __crawl<sup>1</sup>__ _n_  
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
@@ -3277,7 +3276,8 @@ __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used e
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
 __Crescent City__  
-__crescent__ :two::mute:[cres~~c~~ent]:hammer:  
+__crescent<sup>1</sup>__ _n_ :two::mute:[cres~~c~~ent]:hammer:  
+__crescent<sup>2</sup>__ _adj_  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
 __crevasse__ _n_  
@@ -3288,7 +3288,7 @@ __crib__ _n informal_ :four: A literal translation used in studying a foreign la
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
-__crimson__ :two::hammer: _Crimson cereal._ _Her face went crimson._  
+__crimson__ _n_ :two::hammer: _Crimson cereal._ _Her face went crimson._  
 __cringe__ _v_ :eight: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
@@ -3335,7 +3335,8 @@ __crossover__ _Crossover zone._
 __crossroad__ _At a crossroad._  
 __crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We’re at a crossroads._ _I’m at a crossroads._ (notice the trailing ‘s’)  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
-__crouch__ :two::hammer:  
+__crouch<sup>1</sup>__ _v_ :two::hammer:  
+__crouch<sup>2</sup>__ _n_  
 __crow__ _v_ :three::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
@@ -3354,7 +3355,7 @@ __crufty__ _adj_ :three::hammer: _A crufty comment._
 __crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
 __crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ _Crumbling sidewalk._  
-__crummy__ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
+__crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
 __crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
 __crumple<sup>2</sup>__ _n_  
@@ -3394,7 +3395,7 @@ __cued__ _v_ _Newman cued the clip again._
 __cues__ _n_  
 __cuff links__  
 __cuffed__ _v_  
-__cul-de-sac__ :two::hammer:  
+__cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
