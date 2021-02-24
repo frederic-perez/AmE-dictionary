@@ -2340,7 +2340,8 @@ __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
 __Celt__ :mega:  
-__celtic__ :mega::two::hammer:  
+__celtic<sup>1</sup>__ _n_  
+__celtic<sup>2</sup>__ _adj_ :mega::two::hammer:  
 __cement bird bath__  
 __cement__ _v_ :two::hammer: _He quickly cemented votes for the top job._  
 __censer__ _n_ :two: A container for burning incense.  
@@ -2419,7 +2420,7 @@ __chased__ _v_ _A beautiful chased golden bowl._
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chasten__ _v_ Censure severely.  
-__chastened__ :two::hammer:  
+__chastened__ _adj_ :two: Subdued; humbled.  
 __chastize__ _v_  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
@@ -2431,20 +2432,19 @@ __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
-__check a bag__ :two::hammer::astonished: _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __check all the boxes__ _idiom_ _The movie _Thor_ checks all the boxes._  
 __check in__ _v_  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check out__ _Acording to Jim, the layer’s name checked out._  
 __check something out__  
-__check__ _v_ :four::hammer: _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._  
+__check__ _v_ :six::hammer: _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._ _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
 __checklist__ (single word)  
 __checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or “the king is dead.”_  
 __checkup__ _n_ :two::hammer:  
-__cheek by jowl__ :two::hammer:  
+__cheek by jowl__ _idiom_ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheek__ _n_ __2__ _informal_ Impudence; effrontery.  
 __cheekboned__ _High-cheekboned newbies.;-_  
 __cheekier__  
@@ -2468,7 +2468,7 @@ __chewed up__
 __chic__ _Target has been trying to gain back the chic status._  
 __chicanery__ _n_ :four: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
-__chicken coop__ :two::hammer:  
+__chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
 __chicken feed__ _idiom_ A small amount of money.  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
@@ -2488,7 +2488,7 @@ __childbirth__
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :three::hammer:  
 __chimera__ _n_ (chimeras) :two::hammer:  
-__chiming__ :two::hammer:  
+__chime__ _v_ :two::hammer: (chiming)  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __china__ _n_ _Delicate, translucent china._  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
@@ -2505,8 +2505,8 @@ __chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patien
 __chipped__ _adj_ :two: Damaged by having a small piece broken off. _Chipped around the edges._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
 __chipper__ _adj_ :three: Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
-__chippies__ :two::hammer:  
-__chippy__  
+__chippy<sup>1</sup>__ _adj_  
+__chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiropractor__ _n_  
 __chirp away__ _v_  
 __chirping__ _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
@@ -2565,7 +2565,7 @@ __Ciceronian__ _adj_
 __CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
-__cigarillos__ :pencil2::camera::two::hammer:  
+__cigarillo__ _n_ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
 __Cincy__ Cincinnati?  
@@ -2588,14 +2588,14 @@ __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns
 __Cisternian__ :pencil2: _Cisternian monks._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
-__City__ :two::hammer:  
+__City__ _n_ :two: Short for City of London.  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
 __clad__ _A scantily clad spider._  
 __claddagh__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
-__claimants__ :two::hammer:  
+__claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyant__  
 __clam up__ _v_  
 __clamant__ _adj_ Compelling or pressing; urgent.  
@@ -2628,7 +2628,7 @@ __class act__ _She was a class act through and through._
 __class action__  
 __classic__ _adj_  
 __classical__ _adj_  
-__classy__ :two::hammer:  
+__classy__ _adj_ :two::hammer:  
 __clatter<sup>1</sup>__ _n_ :three::hammer: _The clatter of the Telex machines._  
 __clatter<sup>2</sup>__ _v_ (clattered)  
 __claw back__ _v_  
@@ -2649,7 +2649,7 @@ __clear__ _v_ :four: __13a__ To secure the approval of: _The bill cleared the Se
 __clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam’s guilt isn’t so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
-__clearinghouse__ :two::hammer:  
+__clearinghouse__ _n_ :two::hammer:  
 __cleat<sup>1</sup>__ _n_ :three::hammer:  
 __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get stabbed/slashed/kicked, or in any other way harmed by someone’s cleat. _Joe got cleated in soccer and it left an ugly bruise._  
 __cleave__ _v_ _The court often cleaves along predictable lines._  
@@ -2660,17 +2660,17 @@ __clement__ _adj_
 __clench__ _n_ :two::hammer:  
 __clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
 __clergy__  
-__clerical__ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
+__clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __click__ _v_ :two: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
-__clickbait__ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
+__clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicking__ _Things seem to be making sense and clicking._  
 __clicky__  
-__climb__ :two::mute:[clim~~b~~]:hammer:  
-__climbing__ :mute:[clim~~b~~ing]  
+__climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
+__climbing__ _n_ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :six: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
@@ -2694,10 +2694,10 @@ __close the loops__
 __close, but no cigar__ _idiom_ Close, but not enough to win or succeed.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _Obama’s words are being watched closely by world leaders._  
-__closeted__ :two::hammer: _A closeted life._  
+__closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
-__clothesline__ :two::hammer:  
+__clothesline__ _n_ :two::hammer:  
 __clothespin__ _n_ :two::camera::hammer:  
 __cloture__  
 __cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
@@ -2817,13 +2817,13 @@ __colossal__ _adj_ :two::hammer:
 __colossus__  
 __colostomy bag__  
 __column__ :mute:[colum~~n~~]  
-__coma__ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
+__coma__ _n_ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
-__comb__ :two::mute:[com~~b~~]:hammer:  
+__comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
+__comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combines__ _Basketball_  
-__combs__ _n_ _The hens had red combs, wattles, and earlobes._  
 __come across__ _idiom_ :three::hammer:  
 __come again?__  
 __come around__  
@@ -2890,7 +2890,7 @@ __complex__ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ :two::pencil2::hammer: _Complimentary rooms._ _Notice the complimentary nature of the two deﬁnitions._  
+__complimentary__ _adj_ :two::pencil2::hammer: _Complimentary rooms._ _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
