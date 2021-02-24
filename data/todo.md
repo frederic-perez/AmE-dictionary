@@ -1,13 +1,3 @@
-__demure__ _adj_ Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
-__fiddle-footed__ _adj_ adj. __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
-__lenity__ _n_  
-__you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
-__lifesaver__ _n_  
-__dummy__  
-__call off__ _phr v_  
-__wiener__ _n_  
-__dizzy__  
-__top dog__  
 __salmon__ _n_ :mega:  
 __claw machine__ _n_  
 __bitching__ _n_ _Quit your bitching!_  

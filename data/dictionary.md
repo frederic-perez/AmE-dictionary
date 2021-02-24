@@ -2077,7 +2077,7 @@ __call forth__
 __call it even__ _idiom_ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of duty__  
 __call of nature__ _idiom_ The need to go to the toilet.  
-__call off__ _phr v_ __1__ To cancel or postpone: _call off a trip; called the trip off._ __2__ To restrain or recall: _Call off your dogs._  
+__call off__ _phr v_ :two: __1__ To cancel or postpone: _call off a trip; called the trip off._ __2__ To restrain or recall: _Call off your dogs._  
 __call on someone__ _He called on me._  
 __call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
@@ -3727,7 +3727,7 @@ __demonstrate__ :pencil2:
 __demonstration__ _n_  
 __demonstrators__  
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
-__demure__ _adj_ :three::hammer:  
+__demure__ _adj_ :four: Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
 __demystify__ _v_  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
@@ -4041,7 +4041,7 @@ __divisive__ _He is more interested in spouting divisive sound bites._
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
-__dizzy__  
+__dizzy__ _adj_ :two::hammer:  
 __DMV__ _abbr_ :two: Department of Motor Vehicles.  
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
@@ -4361,6 +4361,7 @@ __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfounded__ _v_ :two::hammer:  
 __dumbstruck__ _adj_ :two::hammer:  
+__dummy__ _n_  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
 __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
@@ -5122,6 +5123,7 @@ __fibroplasia__ _n_
 __fickle__ _adj_ :two::hammer: _A fickle ally._  
 __ficus__ _n_ :mega:  
 __fiddle-faddle__  
+__fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
@@ -8312,6 +8314,7 @@ __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeiste
 __lengthy__ _A lengthy period._  
 __leniency__ _n_ :four::hammer: _Syn_ indulgence, lenience  
 __lenient__ _adj_ :six: (leniently) If you’re not overly strict, and you show tolerance and mercy when someone does something wrong, you’re being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you’re a big fan of discipline and punishment, however, lenient might mean “soft” or “indulgent.” _Olympic officials will be lenient._  
+__lenity__ _n_  
 __Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
 __lenses__ _n pl_  
@@ -8374,6 +8377,7 @@ __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s app
 __lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _Craighead is a lifer at Baker Hughes._  
+__lifesaver__ _n_  
 __lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift__ _n_ :two::hammer: _I could give you a lift home._  
 __liftgate__  
@@ -14828,6 +14832,7 @@ __tootsie__ _n_ _slang_ :two: Darling; sweetheart. (toots, tootsy) _Twiddle thei
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
 __top bill__ _I’m not my usual top billing._  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
+__top dog__  
 __top dollars__  
 __top flight__ First division?  
 __top hat__ _n_  
@@ -15954,6 +15959,7 @@ __wicks__ _n_ :two::hammer: _Linen wicks._
 __widebody__ _Widebody jet._  
 __wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
+__wiener__ _n_  
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)  
 __wigglers__  
@@ -16241,6 +16247,7 @@ __you are what you eat__ _idiom_ To be healthy, you need to eat good food.
 __you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
 __you name it__ _idiom_ :dart::three: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I’ll scratch yours__ _idiom_ If you help me, I will help you.  
+__you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ _idiom_ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
 __your face sounds familiar__ _?_ :es: _tu cara me suena_  
