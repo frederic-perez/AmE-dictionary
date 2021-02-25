@@ -427,6 +427,7 @@ __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._
 __ambulate__ _v_ To walk from place to place; move about.  
 __ambulation__ _n_ :two::hammer:  
 __ambulatory__ _Hakan Erdem, 12, wasn’t ambulatory._  
+__amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
 __amenable__  
 __amends__ _n pl_ :three: (plurale tantum)  
@@ -791,6 +792,7 @@ __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotte
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __auld lang syne__ _n_ Old times; times past, esp those remembered with affection or nostalgia. [Scottish, literally: old long since]  
 __aum__  
+__aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
 __auspices__  
 __austere__  
@@ -1342,6 +1344,7 @@ __biscuit__ :mute:[bisc~~u~~it]
 __bishop’s benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
+__bitching__ _n_ _Quit your bitching!_  
 __bite (one’s) head off__ _idiom_ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
@@ -2487,8 +2490,8 @@ __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a 
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :three::hammer:  
-__chimera__ _n_ (chimeras) :two::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
+__chimera__ _n_ (chimeras) :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __china__ _n_ _Delicate, translucent china._  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
@@ -2632,7 +2635,7 @@ __classy__ _adj_ :two::hammer:
 __clatter<sup>1</sup>__ _n_ :three::hammer: _The clatter of the Telex machines._  
 __clatter<sup>2</sup>__ _v_ (clattered)  
 __claw back__ _v_  
-__claw machine__ _n_ :camera:  
+__claw machine__ _n_ :two::camera: A claw crane game machine.  
 __claw<sup>1</sup>__ _n_  
 __claw<sup>2</sup>__ _v_ :two::hammer:  
 __clawback__  
@@ -3068,7 +3071,7 @@ __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect
 __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
 __coop<sup>1</sup>__ _To fly the coop._  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
-__cooper__ _n_ :pencil2:  
+__cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
 __coops__ _Chicken coops._  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
@@ -3589,7 +3592,7 @@ __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._
 __deadpan<sup>2</sup>__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
 __deafening__ _adj_  
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
-__dean__ _n_ :three::hammer: _He served as dean._  
+__dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
@@ -3639,6 +3642,8 @@ __decreed__ _v_
 __decrepit__ _adj_ :two::hammer:  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__decussate<sup>1</sup>__ _v_  
+__decussate<sup>2</sup>__ _adj_  
 __dedication__  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
@@ -4575,7 +4580,7 @@ __emceed__ _v_
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ _adj_ :two::hammer:  
 __emerity__ _Faculty emerity._  
-__emery__ _n_ :five::hammer: _An emery wheel._ _Emery paper._  
+__emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
 __emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
 __emmetropia__ _n_  
@@ -4802,6 +4807,7 @@ __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised 
 __excommunication__  
 __excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
 __excoriation__  
+__excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
 __excruciate__  
 __excruciating__ _adj_ :two: Very painful.  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
@@ -5012,7 +5018,7 @@ __fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it dro
 __fatal__ _adj_  
 __Father Time__  
 __fatherland__ :astonished:  
-__fathom<sup>1</sup>__ _v_ :four::hammer:  
+__fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fatigue__  
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
@@ -6440,6 +6446,7 @@ __gyroscopic__ :mega: _Gyroscopic effect._
 __H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __ha!__ _interj_ :two::hammer:  
+__habeas corpus__ _n_  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ :astonished:  
@@ -8202,6 +8209,7 @@ __last-gasp__ _He scored the last-gasp winner._
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
+__latchkey kid__ _idiom_ A child who is home alone after school or in general because their parents or guardians are at work.  
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __late bloomer__ _n idiom_  
@@ -12202,7 +12210,7 @@ __salient__ _adj_ :four::hammer: _That is a salient fact._
 __salivating__ _v_  
 __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __sally out__ _v_  
-__salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::five:  
+__salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
 __salt of the Earth__  
 __salt-of-the-earth__ _A quiet, hardworking, salt-of-the-earth little man._  
@@ -14516,6 +14524,7 @@ __the jet set__ _idiom_ A group of wealthy individuals who travel globally, espe
 __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last of the lot__ _idiom_ The last or final person(s) or thing(s) in a given group or list.  
+__the last thing (one) wants__ _idiom_ Something which one absolutely does not want or has no use for.  
 __the lion’s share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  

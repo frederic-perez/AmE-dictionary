@@ -1,18 +1,3 @@
-__aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
-__dean__ _n_ A senior official at a college or university.  
-__emery__ _n_ :astonished: A fine-grained impure corundum used for grinding and polishing.  
-__amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
-__cooper__ _n_ :astonished: A person who makes or repairs wooden barrels and tubs.  
-__fathom__ _v_  
-__latchkey kid__ _idiom_ A child who is home alone after school or in general because their parents or guardians are at work.  
-__excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
-__habeas corpus__ _n_  
-__the last thing (one) wants__ _idiom_ Something which one absolutely does not want or has no use for.  
-__decussate<sup>1</sup>__ _v_  
-__decussate<sup>2</sup>__ _adj_  
-__salmon__ _n_ :mega:  
-__claw machine__ _n_  
-__bitching__ _n_ _Quit your bitching!_  
 __copyleft__ _n_  
 __diligent__ _adj_  
 __discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  
