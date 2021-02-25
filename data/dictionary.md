@@ -1920,7 +1920,7 @@ __bureaucracy__
 __burgeon__ _v_  
 __burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
 __burgermeister__  
-__burgundy__ :two::hammer: _Burgundy outfit._  
+__burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
@@ -1940,7 +1940,7 @@ __burrhead__ _n_
 __burrow<sup>1</sup>__ _n_ :four::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
-__bursary__ :two::hammer: (bursaries)  
+__bursary__ _n_ :two::hammer: (bursaries)  
 __burst__ _v_ :two::hammer: (bursting)  
 __bus boy__ _n_ :two::hammer: (bus boys)  
 __bus__ _v_  
@@ -1955,7 +1955,8 @@ __bust out__ _She clearly has something busting out._
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
 __bustiers__ _n_  
-__bustle__ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
+__bustle<sup>1</sup>__ _v_  
+__bustle<sup>2</sup>__ _n_ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
@@ -2006,7 +2007,7 @@ __By many accounts,__ _By many accounts, Americans are tired of the Democratic a
 __by storm__  
 __by the book__ _idiom_ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
-__by the same token__ :two::hammer:  
+__by the same token__ _idiom_ :two::hammer:  
 __by trade__ _idiom_ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __by-and-by__ An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
@@ -2028,7 +2029,8 @@ __cab__ _n_ _The cab of his truck._
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _Uncle-s Tom Cabin._  
-__cabinet__ :two::hammer: _A top cabinet job._  
+__cabinet<sup>1</sup>__ _n_  
+__cabinet<sup>2</sup>__ _adj_ :two::hammer: _A top cabinet job._  
 __cabinetry__  
 __cable bookers__  
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
@@ -2042,10 +2044,10 @@ __cackle__ _v_ :four::hammer: (cackling)
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _n_ Having an unpleasant sound.  
-__cacophony__ :two::hammer:  
+__cacophony__ _n_ :two::hammer:  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
-__caddish__ :two::hammer:  
+__caddish__ _adj_ :two::hammer:  
 __Caddy__ Cadillac.  
 __cadence__ _n_ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
@@ -2067,7 +2069,7 @@ __calendar girl__
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
 __caliber__ _n_  
-__calico__ :two::hammer: _A plain calico coat._  
+__calico__ _n_ :two::hammer: _A plain calico coat._  
 __caliper__ _n_ :two::hammer: _I need a new brake caliper for my motorcycle._  
 __caliph__  
 __caliphate__  
@@ -2111,8 +2113,7 @@ __camo__
 __camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
 __campaign__ :mute:[campai~~g~~n]  
 __camper shell__  
-__camper__ :two::hammer:  
-__campers__ _Cars, trailers, boats & campers $45/month._  
+__camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :two: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _Campier presentations._  
@@ -2171,7 +2172,7 @@ __caps__ _n_ Capital letters.
 __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don’t rock the boat, baby, or you might just capsize.  
 __capstone__ _n_  
 __captain__ _v_  
-__captaincy__ :two::hammer:  
+__captaincy__ _n_ :two::hammer:  
 __capuchin monkey__ :mega:  
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
@@ -2185,7 +2186,7 @@ __carbuncle__ _n_
 __carcass__ _n_ _A whale carcass._  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
-__cardiac arrest__ :two::hammer:  
+__cardiac arrest__ _n_ :two::hammer:  
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __cards are stacked against someone__ _idiom_ Luck is against someone.  
@@ -2194,13 +2195,13 @@ __career suicide__
 __carefree__  
 __carefully__ _It pays to consider his words carefully._  
 __caresses__ _v_  
-__caretaker__ :two::hammer: _A caretaker government._  
+__caretaker__ _n_ :two::hammer: _A caretaker government._  
 __cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ :two::hammer:  
+__carnage__ _n_ :two::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie man__ Carnival man?  
 __carnival__  
@@ -2237,7 +2238,7 @@ __cascading__
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__  
-__case the joint__ :two::hammer:  
+__case the joint__ _idiom_ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __caseous__ _adj_ Resembling cheese.  
@@ -2271,12 +2272,12 @@ __cataclysm__ _n_ :pencil2:
 __catacombs__ _n_ :two::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
-__catalyst__ :two::hammer:  
+__catalyst__ _n_ :two::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
 __catapult__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :es: cataratas  
-__catarrh__ :two::hammer::pencil2:  
+__catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
 __catcall__ _v_  
@@ -2298,14 +2299,14 @@ __catch-up schedule__
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
 __catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
-__catechism__ :two::hammer::pencil2:  
+__catechism__ _n_ :two::hammer::pencil2:  
 __cater__ _v_ :three::hammer:  
 __caterpillar__ _n_  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
 __cathartic__  
-__cathedral ceiling__ :camera::two::hammer:  
+__cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :two::hammer:  
@@ -2325,11 +2326,10 @@ __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._
 __caveat emptor__  
 __caveat__  
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
-__caw__ (caws) :two::hammer: _A rattling caw._  
-__cawed__ _v_ :two::hammer: (cawing)  
+__caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
+__caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __CBT__  
 __CDC__ _abbr_ :three: Center for Disease Control. _A CDC van._  
-__CDs__ :two::hammer: _Goldman offers CDs with terms from six months to six years, paying as much as 2.30 percent._  
 __ce__  
 __CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __ceasefire__  
