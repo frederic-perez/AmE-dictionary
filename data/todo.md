@@ -1,3 +1,13 @@
+__sunset<sup>1</sup>__ _n_  
+__sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
+__off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
+__upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of sentences so that statements sound like questions.  
+__inane__ _adj_  
+__emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
+__kosher__ _adj_ __2__ _informal_ Legitimate; permissible. _Is it kosher to wear jeans in the office?_  
+__parry__ _v_  
+__prior__ _The only relevant hx is WPW ablation 20 years prior._  
+__hx__ _abbr_ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __laugh in (one’s) sleeve__ _idiom_ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
 __caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
