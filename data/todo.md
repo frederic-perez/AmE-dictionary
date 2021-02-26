@@ -1,15 +1,3 @@
-__slipshod__ _adj_  
-__hidebound__ _adj_ Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
-__late model__ _idiom_ Especially regarding an automobile, of a relatively recent design or model.  
-__snollygoster__ _n_ _slang US_ A politician who cares more for personal gain than serving the people.  
-__prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
-__rueful__ _adj_  
-__proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
-__aposematic__ _adj_  
-__(one’s) final resting place__ _idiom_ The location where one’s body is interred after death.  
-__eldritch__ _adj_ Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
-__kerfuffle__ _n_ _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
-__dour__ _adj_  
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_  
 __billet__ _v_ Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  

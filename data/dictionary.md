@@ -17,6 +17,7 @@ __(deep) into the weeds__ _idiom_ :two::hammer:
 __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
 __(it’s/there’s) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
+__(one’s) final resting place__ _idiom_ The location where one’s body is interred after death.  
 __(one’s) heart’s desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart’s desire is just to see my husband again._  
 __(one’s) jollies__ _idiom_ _slang_ One’s amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase “get one’s jollies.” _The restless teenagers got their jollies by throwing rocks at passing cars._  
 __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
@@ -556,6 +557,7 @@ __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand ra
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
 __apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
+__aposematic__ _adj_  
 __apostasy__  
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostle__ :mute:[apos~~t~~le]  
@@ -4166,7 +4168,7 @@ __doubting Thomas__ _n_
 __doubtless__  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _Slang_ Money.  
-__dour__ _adj_ :four: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
+__dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_  
 __dousing__ _The Nationals are dousing the District of Columbia with new hope._  
@@ -4527,7 +4529,7 @@ __elderberry__
 __elderflower__  
 __elderly__ :es: tercera edad  
 __eldest__ (is this right?)  
-__eldritch__ _adj_ Eerie; weird; spooky.  
+__eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
@@ -6870,7 +6872,7 @@ __hickory__
 __hicks__ _A collection of web-toed hicks._  
 __hide and seek__ _idiom_ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
 __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
-__hidebound__ _adj_ :three::hammer:  
+__hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
 __higgledy-piggledy__  
@@ -7959,7 +7961,7 @@ __ken__ _n_ :two::hammer:
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_  
 __kerchief__ _n_  
-__kerkuffles__  
+__kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __keseboy__  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keyed up__ _idiom_ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
@@ -8214,6 +8216,7 @@ __latchkey kid__ _idiom_ A child who is home alone after school or in general be
 __latchkey__  
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __late bloomer__ _n idiom_  
+__late model__ _idiom_ Especially regarding an automobile, of a relatively recent design or model.  
 __latecommer__ _I’m somewhat of a latecomer._  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
@@ -11070,6 +11073,7 @@ __probation__ _A person has ben sentenced to probation._
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
+__proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
@@ -11136,6 +11140,7 @@ __prosaic__
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
+__prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
 __prospect__ _n_ (sports)  
 __prospective__ _adj_ :two: _Prospective clients._  
 __prospector__  
@@ -12102,7 +12107,7 @@ __rude__
 __rudiment__ _n_  
 __rue the day (that something happened)__ _idiom_ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
-__rueful__ _adj_ :four::dart::hammer: _He gave a rueful smile._  
+__rueful__ _adj_ :five::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
@@ -13089,7 +13094,7 @@ __slipperiness__
 __slippers__  
 __slippery slope__  
 __slips__ _Sailboats were rocking in their slips._  
-__slipshod__ _adj_ :dart: __1__ Carelessly done or arranged: _slipshod research._ __2__ Careless or negligent: _“Precise sentences were my ideals, though in practice I was slipshod and sentimental” (Wayne Koestenbaum)._ _Syn_ slapdash, haphazard, sloppy  
+__slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod research._ __2__ Careless or negligent: _“Precise sentences were my ideals, though in practice I was slipshod and sentimental” (Wayne Koestenbaum)._ _Syn_ slapdash, haphazard, sloppy  
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
@@ -13251,7 +13256,7 @@ __snippet__ _n_ A small piece of anything (especially a piece that has been snip
 __snit__ _President Trump responded with a typical Twitter-snit._  
 __snitch__  
 __snivel__ _v_  
-__snollygoster__ _n_ _slang_ A politician who cares more for personal gain than serving the people.  
+__snollygoster__ _n_ :two: _slang US_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
