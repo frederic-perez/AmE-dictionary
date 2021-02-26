@@ -1439,7 +1439,7 @@ __blood, sweat, and tears__ _idiom_ A lot of effort and suffering.
 __bloodshot eyes__ :camera:  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
-__blooker__ :two::hammer:  
+__blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog posts published into a book.  
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :three::dart: A clumsy mistake, especially one made in public; a faux pas.  
@@ -1490,9 +1490,9 @@ __bluster<sup>1</sup>__ _v_
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __BM__ Bowel movement (take a dump).  
-__BMX__ :two::hammer: _BMX bike._  
+__BMX__ _abbr_ :two::hammer: _BMX bike._  
 __bn__ _abbr_ Billion. _US $30bn._  
-__BO__ :two::hammer:  
+__BO__ _abbr_ :two: Body odor.  
 __board__ _n_ :two::hammer: _(basketball)_ Rebound? _Encouraging Amazon’s board (member) diversity._  
 __boarding kennels__ _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
@@ -1510,7 +1510,7 @@ __bobbled__ _v_ _The flowers bobbled and swayed._
 __bobby pin__  
 __bobby socks__  
 __bocce ball__ _n_  
-__bod__ :two::hammer:  
+__bod__ _n_ :two::hammer:  
 __bodacious__  
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
@@ -1525,10 +1525,10 @@ __boil (something) down to (something)__ _idiom_ To reduce or simplify (somethin
 __boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
 __boiler__  
-__boilermaker__ :two::hammer:  
+__boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate__ _n_ :four::hammer:  
 __boilers__  
-__boisterous__ :two::hammer:  
+__boisterous__ _adj_ :two::hammer:  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
@@ -1555,7 +1555,7 @@ __bondage__
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
-__bone__ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
+__bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
 __bonfire__  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
@@ -1596,7 +1596,7 @@ __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I 
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
 __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
-__boorishness__ :two::hammer:  
+__boorishness__ _n_ :two::hammer:  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: :hammer: (car’s trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
@@ -1618,7 +1618,7 @@ __bosom__
 __bossy__ _adj_  
 __bot__ _n_  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
-__bothersome__ :two::hammer:  
+__bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
 __bottle fly__ _n_  
 __bottle opener__ :camera:  
@@ -1627,7 +1627,7 @@ __bottled up__ _v_
 __bottom of the barrel__ _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom out__ _Europe is bottomed out._  
 __bottom-of-the-barrel__  
-__boudin__ :two::hammer: _A length of white boudin in a saucer._  
+__boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
@@ -1643,7 +1643,7 @@ __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant ma
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota’s luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
 __bowdlerize__ _v_ :three: To remove the parts of a book, movie, or play that are likely to offend people, with the result that it is no longer very good. _Syn_ expurgate, sanitize _The publisher refused to bowdlerize the classic novel, so the school board voted to place it on the district’s banned books list._  
 __bowel movement__ _n_ (BM) A euphemism for defecation; _“he had a bowel movement.”_  
-__bowie knife__ :two::hammer:  
+__bowie knife__ _n_ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
@@ -1685,7 +1685,7 @@ __bravura__
 __brawn__ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
-__brazenly__ :two::hammer:  
+__brazenly__ _adv_ :two::hammer:  
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
@@ -1706,7 +1706,8 @@ __break wind__ _v_
 __break your back__ _idiom_ To work extremely hard.  
 __break your duck__ _idiom_ To do something for the first time.  
 __break-the-china__  
-__breakaway__ :two::hammer:  
+__breakaway<sup>1</sup>__ _n_ :two::hammer:  
+__breakaway<sup>2</sup>__ _adj_  
 __breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breaking character__  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
@@ -1778,7 +1779,7 @@ __broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over a
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
-__bromance__ :two::hammer:  
+__bromance__ _n_ :two::hammer:  
 __bronc__ _Bull and bronc riding._  
 __bronchus__ _n_ Either of two main branches of the trachea, leading directly to the lungs.  
 __bronco__ _n_ :camera:  
@@ -1792,7 +1793,7 @@ __brooding<sup>1</sup>__ _adj, n_ :seven: When you’re dwelling on something, y
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broth__  
-__brother-in-arms__ :two::hammer: (brothers in arms) _I serve Rome, my officers, and my brothers-in-arms._  
+__brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
@@ -1830,7 +1831,7 @@ __buckeyes__
 __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I’d better buckle down to those reports._  
 __buckle up__ _idiom_ :three::hammer: _Bucking up a seat belt._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
-__buckshot__ :two::hammer:  
+__buckshot__ _n_ :two: Large lead shot for shotgun shells, used especially in hunting big game.  
 __buckskin__ _n_ :two::hammer: (buckskins)  
 __buckwheat__ _n_  
 __buckwheats__  
@@ -1838,7 +1839,7 @@ __budding__
 __buddy__  
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _I had already sent my editor a budget line on the story._  
-__budget__ :two::hammer: _The surface energy budget._  
+__budget__ _n_ :two::hammer: _The surface energy budget._  
 __buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
@@ -1871,7 +1872,7 @@ __bullet point__ _n_ :three::hammer: _Give me the bullet points._
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
-__bullhorn__ :two::hammer:  
+__bullhorn__ _n_ :dart::two: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice.  
 __bullion__  
 __bullpen__ _n_  
 __bullwhip__  
@@ -1901,7 +1902,7 @@ __bungee jumping__
 __bungee rope__  
 __bungee running__  
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
-__bungler__ :two::hammer: _Upper-crust bunglers._  
+__bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
 __bunion__ _n_  
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
@@ -3480,7 +3481,7 @@ __cytometer__
 __cytometry__  
 __D-ring inset__  
 __D’oh__ _slang_ Exclamation used when you realize that you did something stupid.  
-__D&D__ :two: Dungeons and Dragons.  
+__D&D__ _abbr_ :two: Dungeons and Dragons.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
@@ -4793,7 +4794,7 @@ __evolve__ _v_
 __ew__ _exclamation_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __ewer__ _n_  
 __ewes__ _n_  
-__ex cathedra__ _adj_ _adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
+__ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
