@@ -1,3 +1,15 @@
+__laugh in (one’s) sleeve__ _idiom_ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
+__caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
+__agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
+__megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
+__last-minute__ _idiom_ (used before a noun) Done at the very last possible moment or opportunity.  
+__body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
+__gravitas__ _n_ A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity  
+__voracious__ _adj_  
+__labor under the illusion of/that__ _idiom_ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
+__wretch__ _n_ A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._  
+__caveat__ _n_  
+__(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_  
 __billet__ _v_ Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
