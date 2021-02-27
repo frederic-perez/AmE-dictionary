@@ -1,3 +1,13 @@
+__Holy Ghost__  
+__missals__ _n_  
+__excommunicate__ _v_  
+__quench__ _n_  
+__gulf__ _n_ _A widening social gulf._  
+__boudoir__ _n_  
+__lady of Shalott__  
+__canonization__ _n_ _The canonization of the King._  
+__bequest__ _n_  
+__dynasty__  
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
