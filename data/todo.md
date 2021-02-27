@@ -1,3 +1,13 @@
+__smoking jacket__ _n_  
+__later on__ _adv_  
+__mythos__ _n_  
+__caper__ _n_ :two: __3__ _slang_ An illegal plot or enterprise, especially one involving theft.  
+__cesspool__ _n_  
+__deep dive__ _idiom_ :two:A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
+__cesspool__ _n_  
+__slice__ _n_ _A big slice of the pie._  
+__copacetic__ _adj_ _informal_  
+__count our blessings__  
 __Holy Ghost__  
 __missals__ _n_  
 __excommunicate__ _v_  
