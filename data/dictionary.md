@@ -879,7 +879,7 @@ __backwoods__
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
 __bad apple__ A troublemaker.  
-__bad blood__ :two::hammer:  
+__bad blood__ _idiom_ :two::hammer:  
 __bad egg__ _n_ _informal_ :three: Someone who behaves in a bad or dishonest way.  
 __bad press__ _Drones get a lot of bad press._  
 __bad words__ _Cat says bad words._  
@@ -907,7 +907,7 @@ __bagman__ _n_ _Bill is a bag man for corrupt officials._
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
-__bailiwick__ :two::hammer:  
+__bailiwick__ _n_ :two::hammer:  
 __bailout__ _n_ :four::hammer:  
 __bait__ _v_ _A trap baited by a devil._  
 __bake in__ _v_  
@@ -936,9 +936,10 @@ __ballistic__
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __ballpark figure__ _n_ _idiom_ :two: A rough numerical estimate.  
-__ballpark__ :two::hammer:  
+__ballpark<sup>1</sup>__ _n_ :two::hammer:  
+__ballpark<sup>2</sup>__ _adj_ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
-__balm__ :two::hammer::mute:[ba~~l~~m]  
+__balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n informal_ (bologna) :two: Nonsense.  
 __balustrade__ _n_ _The stone balustrade._  
@@ -946,7 +947,7 @@ __balustrades__
 __bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
 __banalize__ _v_  
-__bandanna__ :two::hammer:  
+__bandanna__ _n_ :two::hammer:  
 __bandit__ _n_ :two::hammer:  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
@@ -987,7 +988,7 @@ __barge<sup>2</sup>__ _v_ (barging) :three::hammer:
 __bariatric surgery__ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- (“weight” as in barometer), suffix -iatr (“treatment,” as in pediatrics), and suffix -ic (“pertaining to”).  
-__barked__ :two::hammer: _His forehead was barked._ _Barked area._  
+__bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
 __barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
 __barking up the wrong tree__ _idiom_ Looking in the wrong place.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
@@ -1006,7 +1007,7 @@ __barrel<sup>1</sup>__ _n_ :two::hammer: _A tank’s barrel._
 __barrel<sup>2</sup>__ _v_ _informal_ :three: To move or progress rapidly. _A truck barreling toward you._ _A truck barreled down the road._ _Callous barreling against traffic._  
 __barrelhouse__ _n_ A disreputable old-time saloon or house of prostitution. _Barrelhouse piano._  
 __barren__ _adj_ :two::hammer:  
-__barrette__ :two::hammer:  
+__barrette__ _n_ :two: A small clasp for holding the hair in place.  
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
 __barrow__ _n_  
@@ -1020,7 +1021,7 @@ __basil__ _n_ :es: albahaca
 __basin__ _n_ :two::hammer:  
 __basing__  
 __basket case__  
-__bass__ :two::hammer: (fish) _Fingerling bass._  
+__bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastion__ _n_ :four::hammer: _He tried to soften the National Front’s image as a bastion of xenophobes._  
@@ -1042,7 +1043,7 @@ __battlements__ _n_ :two::hammer:
 __batty__  
 __bauble__ _n_ :three::hammer: (baubles)  
 __bawdiness__  
-__bawdy__ :two::hammer: _Bawdy humor._  
+__bawdy__ _adj_ :two::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
 __bay leaves__  
 __bays__ _n_  
@@ -1097,7 +1098,7 @@ __bean__ _v_ _She beans him with a decanter._
 __beanfeast__ _n_ :dart: An annual dinner party given by an employer for the employees.  
 __beanie__ _n_ :camera::dart:  
 __beanpole__  
-__beanstalk__ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
+__beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
 __bear fruit__ _idiom_ (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
@@ -1136,7 +1137,7 @@ __bee eater__ _n_ :es: abejaruco
 __bee’s knees__  
 __beech__ _n_ :two::hammer:  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
-__beef__ :two::hammer: _He is trying to build some beef and muscle._  
+__beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
 __beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
 __Beehive State__ _n_ :three: Utah.  
@@ -1164,7 +1165,7 @@ __beg__ _All of this begs the question of Gallego’s own voting record._
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
-__begrudgingly__ :two::hammer:  
+__begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
@@ -1173,7 +1174,7 @@ __behind the eight ball__ If someone or something is behind the eight ball, they
 __behind the times__ _idiom_ Old-fashioned.  
 __behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
-__beholder__ :two::hammer: _Beauty is in the eye of the beholder._  
+__beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :seven::hammer: (behooves)  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
@@ -1254,7 +1255,7 @@ __besmeared__ _v_
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
-__bespectacled__ :two::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
@@ -1269,7 +1270,8 @@ __betrothed__ _adj_ :three: Engaged to be married.
 __better known as__ _Miyazaki, better known as Aska._  
 __better the devil you know than the devil you don’t__ _idiom_ _proverb_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __bettors__  
-__bevel__ :two::hammer:  
+__bevel<sup>1</sup>__ _n_ :two::hammer:  
+__bevel<sup>2</sup>__ _v_ :two::hammer:  
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewilder__  
@@ -1369,7 +1371,8 @@ __blacked out__ _v_
 __blackening__  
 __blackface__  
 __blackhead__ _n_ :five::hammer: (blackheads)  
-__blackjack__ :two::hammer:  
+__blackjack<sup>1</sup>__ _n_  
+__blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
 __blackout__ _n_ :two::hammer: _Blackout dates._  
@@ -1380,7 +1383,7 @@ __bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranq
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
 __blandishments__ _n_  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
-__blanket__ :two::hammer: _The security blanket._  
+__blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
@@ -1388,12 +1391,12 @@ __blatant__ _adj_ :three::hammer:
 __blatantly__  
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_  
-__blaze of glory__ :two::hammer:  
+__blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blazing__  
 __bleach__ _n_  
 __bleached blonde hair__  
 __bleached__ _Warm waters bleached the coral._  
-__bleaching__ :two::hammer: _Steven called the bleaching a tragedy._  
+__bleaching__ _n_ :two::hammer: :es: decoloración _Steven called the bleaching a tragedy._  
 __bleak__ _adj_ __1__ :nine::m: _(of an area of land)_ Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: _(of a building or room)_ Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: _(of the weather)_ Cold and miserable. _A bleak midwinter’s day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleakness__  
 __bleary__ _adj_ :three::hammer:  
@@ -1410,7 +1413,7 @@ __blends__ _I go to a coffee bar with bagels and blends of the day._
 __blessings__ _With my blessings, go for it!_  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
-__blimp__ :two::hammer: _A blimp hangar._  
+__blimp__ _n_ :two: __1__ A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._  
 __blind as a bat__  
 __blind date__  
 __blinders__ _n_  
