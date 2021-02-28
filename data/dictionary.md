@@ -1235,7 +1235,7 @@ __benison__ _n_
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ Boxed meals.  
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
-__bequest__ _n_ :five::hammer: _A dark bequest of Nazism._  
+__bequest__ _n_ :six::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :two: A bereaved person is someone whose close friend or family member has recently died.  
@@ -2149,6 +2149,7 @@ __cannibalization__ _n_
 __cannolis__  
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
+__canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ _A dense canopy of snow._  
 __cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
@@ -4410,7 +4411,7 @@ __dyad__
 __dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
-__dynasty__ _n_ :pencil2:  
+__dynasty__ _n_ :two::pencil2::hammer:  
 __dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
@@ -4588,6 +4589,7 @@ __emceed__ _v_
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ _adj_ :two::hammer:  
 __emerity__ _Faculty emerity._  
+__emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
 __emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
@@ -7235,6 +7237,7 @@ __hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
+__hx__ _abbr_ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __hyacinth__ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
@@ -7467,7 +7470,7 @@ __in(to) shape__ _idiom_ In good, robust health; strong or fit.
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
-__inane__ _adj_ :seven::hammer:  
+__inane__ _adj_ :eight::hammer:  
 __inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_  
@@ -7938,6 +7941,7 @@ __keep (one’s) cool__ _idiom_ To maintain control of one’s composure, temper
 __keep (one’s) slate clean__ _idiom_ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ _idiom_ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
 __keep (one’s)/an eye on (someone or something)__ _idiom_ To watch someone or something carefully; to be attentive to someone or something.  
+__keep (someone or something) in check__ _idiom_ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
@@ -7948,7 +7952,6 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don’t keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
-__keep (someone or something) in check__ _idiom_ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
 __keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigilantly (for).  
@@ -8100,7 +8103,7 @@ __kooky__ _adj_ _slang_ :three: Crazy, mentally unbalanced. Characteristic of a 
 __Kool-Aid__  
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
-__kosher<sup>2</sup>__ _adj_ :two: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. __b__ Genuine; authentic.  
+__kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
 __kowtow__ _v_ :three::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
@@ -8138,6 +8141,7 @@ __laddie__
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _Checking bills of lading._  
 __Lady Luck__ _idiom_ :two: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
+__lady of Shalott__  
 __lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
 __ladybird__ _n_  
 __ladyfinger cookies__  
@@ -8238,6 +8242,7 @@ __laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
 __laudatory__ Expressing praise; commendatory.  
+__laugh in (one’s) sleeve__ _idiom_ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
 __laughing very hard__  
 __laughingstock__  
@@ -9735,6 +9740,7 @@ __off kilter__
 __off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off-color__ _adj_ An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
+__off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-kilter__ _idiom_ :three::hammer:  
 __off-price stores__  
 __off-putting__  
@@ -10222,7 +10228,7 @@ __parried__ _v_
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
-__parry__ _v_  
+__parry__ _v_ :two::hammer:  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. _Syn_ stingy, penurious __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
@@ -11056,7 +11062,7 @@ __priming__ _v_
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
-__prior<sup>1</sup>__ _adj_ :three::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._  
+__prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _n_ (priors)  
 __prioritize__ _v_  
 __prise<sup>1</sup>__ _n_  
@@ -14085,6 +14091,8 @@ __sundered__ _v_
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
 __sundry__ _adj_ :two: Various; miscellaneous: _a purse containing sundry items._  
 __sunken__  
+__sunset<sup>1</sup>__ _n_  
+__sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __suntan__ _n_  
 __super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superbly__  
@@ -15417,6 +15425,7 @@ __upside-down__ _adj_ _An upside-down case._
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
 __upslope__ _n_  
+__upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of sentences so that statements sound like questions.  
 __upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
