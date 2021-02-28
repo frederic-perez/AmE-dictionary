@@ -24,7 +24,7 @@ __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, 
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
-__#s__ :two::hammer: _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
+__#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
@@ -783,7 +783,7 @@ __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._
 __au pair__  
 __au shops__  
 __Au.D__ Doctor of audiology.  
-__auburn__ :two::hammer: _Auburn hair._  
+__auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
 __audacious__ _adj_ :two::hammer: _In size it was the most audacious._  
@@ -798,7 +798,7 @@ __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by 
 __auscultation__ _n_  
 __auspices__  
 __austere__  
-__Austinites__ :two::hammer:  
+__Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
 __authorial__  
 __authoritative__ _adj_  
 __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
@@ -825,7 +825,7 @@ __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
-__awfully__ :mega::two::hammer: _That’s awfully nice, thanks._  
+__awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
@@ -833,7 +833,7 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __azure__  
-__B & E__ :two::hammer: _Somebody did a B&E on you._  
+__B & E__ _abbr_ :two: Breaking and entering. _Somebody did a B&E on you._  
 __b’day__ :mega:  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
@@ -1488,7 +1488,7 @@ __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de year
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: 1) use a blunt (“dull”) knife to cut your tomatoes; 2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or 3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
-__bluntly__ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
+__bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
 __blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
 __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without thinking carefully enough. _Syn_ utter suddenly, exclaim, tell, babble, jabber _She blurted it out before I could stop her._  
 __bluster<sup>1</sup>__ _v_  
@@ -2884,7 +2884,7 @@ __commoner__ _n_ __1__ A member of the commonalty; a person without a title of n
 __Commonwealth__  
 __commotion__ _n_  
 __communion wafers__  
-__communiqué__ (communiqués) :two::hammer:  
+__communiqué__ _n_ :two: (communiqués) An official statement.  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
@@ -3179,7 +3179,7 @@ __countermand__ _v_ :three: To cancel or reverse (a previously issued command or
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
 __countervail__ _Countervailing evidence._  
-__countless__ :two::hammer: _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
+__countless__ _adj_ :two::hammer: _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
@@ -3442,7 +3442,7 @@ __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a
 __curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
-__curtly__ :two::hammer: _“I don’t know,” she said curtly._  
+__curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.  
 __cushy__ _A cushy modern life._  
@@ -4681,7 +4681,7 @@ __enthusiasm__
 __entice__ _v_ :two::hammer: (enticing)  
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
-__entourage__ :two::hammer: :es: séquito  
+__entourage__ _n_ :two::hammer: :es: séquito  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __entrant__ :astonished:  
@@ -4783,11 +4783,11 @@ __evangelist__ _n_ Someone who is very enthusiastic about something and likes to
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _The evening star was out and the moon rising._  
-__ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
+__ever since__ _idiom_ :dart::two::hammer: _I’ve been a fan ever since._  
 __evergreen__ _adj_  
 __every cloud has a silver lining__ _idiom_ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
 __every man for himself__ :dart:  
-__every other week__ :two::hammer: _We don’t win bigger events every other week._  
+__every other week__ _idiom_ :two: When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._  
 __every other__ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
@@ -4921,7 +4921,7 @@ __face value__ _n_ :three::hammer:
 __face-lift__  
 __facetious__ _adj_ :three::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
-__facile__ :two::hammer: _She’s an extremely facile actress._  
+__facile__ _adj_ :two::hammer: _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
 __facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
@@ -5401,9 +5401,7 @@ __flummoxed__ _adj_ Perplexed or bewildered.
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
-__flunkie__ :two::hammer: _You’re just another flunkie for the state._  
-__flunkies__  
-__flunky__  
+__flunky__ _n_ :four: (flunkie) __1a__ A liveried servant. __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
 __fluorescent__ :mute:[fluores~~c~~ent]  
 __flurry > in a flurry__  
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
@@ -5454,7 +5452,7 @@ __food stall__
 __food-handler’s permit__  
 __foodie__ _A foodie and a friend._  
 __foodstuffs__  
-__fool’s errand__ :two::hammer: _It would be a fool’s errand for anyone inside the party to primary him._  
+__fool’s errand__ _idiom_ :two: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
 __fool’s game__  
 __fool’s gold__  
 __fool<sup>1</sup>__ _n_  
@@ -5479,7 +5477,7 @@ __for all seasons__ _idiom_ :two: __1__ Suitable in or appropriate for every kin
 __for better or worse__  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
-__for good__ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
+__for good__ _idiom_ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
 __for keeps__  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
@@ -6882,7 +6880,7 @@ __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ trad
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
 __higgledy-piggledy__  
-__Higgs boson__ :two::hammer: (popularly known as the “God particle.”)  
+__Higgs boson__ _n_ :two: (Higgs particle, God particle) An elementary particle with zero spin and mass greater than zero, predicted to exist by electroweak theory and other gauge theories, discovered in 2012.  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
 __high note__ _idiom_ The most successful, impressive, or climactic point (of something).  
@@ -7005,7 +7003,7 @@ __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him.
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
 __hold on to your hat__ _idiom_ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
-__hold one’s peace__ :two::hammer: _“Oh!” She looked puzzled, but held her peace._  
+__hold one’s peace__ _idiom_ :two::dart: To stay quiet despite wanting to say something. _Just hold your peace if you don’t have anything constructive to add._ _“Oh!” She looked puzzled, but held her peace._  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
 __hold that thought__ _idiom_ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
@@ -7950,7 +7948,7 @@ __keep an eye__ _Keep an eye on the Twitter._
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don’t keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
-__keep in check__ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
+__keep (someone or something) in check__ _idiom_ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
 __keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ _idiom_ Keep it a secret.  
 __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigilantly (for).  
@@ -7988,7 +7986,7 @@ __kick sand in the air__
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
-__kick-the-can__ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
+__kick-the-can__ _n_ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
 __kickback__ _n_ :five::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _The kickoff of the shopping season._  
