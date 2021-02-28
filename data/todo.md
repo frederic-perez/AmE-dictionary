@@ -1,3 +1,15 @@
+__contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
+__pensum__ _n_ A task given, especially as a punishment.  
+__belie__ _v_  
+__brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
+__blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
+__lustrum__ _n_  
+__lachrymose__ _adj_  
+__febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
+__know-nothing__ _idiom_ A completely ignorant, uninformed, or unknowledgeable person.  
+__confection__ A food rich in sugar. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
+__glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
 __caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
