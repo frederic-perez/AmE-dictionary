@@ -1633,6 +1633,7 @@ __bottom of the barrel__ _That’s the tip of the iceberg, or, better, the botto
 __bottom out__ _Europe is bottomed out._  
 __bottom-of-the-barrel__  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
+__boudoir__ _n_  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
@@ -2165,7 +2166,7 @@ __capable__
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
 __caparisoned__ _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper<sup>1</sup>__ _n_ :five: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _Slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
+__caper<sup>1</sup>__ _n_ :seven: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
@@ -2366,7 +2367,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
-__cesspool__ _n_ :eight::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :nine::m::hammer: _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
 __chafe at the bit__ _idiom_ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
@@ -3084,7 +3085,7 @@ __cooze__ _n_ :two::hammer:
 __cop out__ _v_ :four: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
-__copacetic__ _adj informal_ :five: In excellent order. _He said to tell you everything is copacetic._  
+__copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
 __COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
 __cope__ _A grey cope._  
@@ -3165,7 +3166,7 @@ __councilor__ _n_
 __counsel__ _n_ :two::hammer:  
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
-__count your blessings__ _idiom_ :four: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__count your blessings__ _idiom_ :five: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :four::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
@@ -3656,6 +3657,7 @@ __deed__ _n_ _The deed is set in motion._
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
+__deep dive__ _idiom_ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
@@ -4810,6 +4812,7 @@ __excelsior__
 __excess__ _adj_ :five::hammer: _Excess mortality._ _He’s raised or spent in excess of $5,000 on political activity._  
 __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an excise tax of 2.3% on the sale of medical devices._  
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
+__excommunicate__ _v_  
 __excommunication__  
 __excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
 __excoriation__  
@@ -6388,7 +6391,7 @@ __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in al
 __guitar case__ :camera:  
 __guitar__ :mute:[g~~u~~itar]  
 __Gulag__ _n_ :two::hammer:  
-__gulf__ _n_ :three::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._  
+__gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
 __gullibility__  
 __gullible__ _adj_ :seven: Naive and easily deceived or tricked.  
 __gullies__  
@@ -7027,7 +7030,7 @@ __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hi
 __holloware bullion__  
 __holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?!_  
 __holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
-__Holy Ghost__  
+__Holy Ghost__ _n_ :two::hammer:  
 __holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
 __holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
@@ -8221,6 +8224,7 @@ __late > of late__ _The Nationals (18-10) are atop a division dominated by the P
 __late bloomer__ _n idiom_  
 __late model__ _idiom_ Especially regarding an automobile, of a relatively recent design or model.  
 __latecommer__ _I’m somewhat of a latecomer._  
+__later on__ _adv_  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
 __lather__ _n_ Agitation resulting from active worry. _Syn_ fret, stew, swither, sweat _“I’m not going to get into a lather over this defeat,” said the manager._  
@@ -9106,6 +9110,7 @@ __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
 __miss the point__ _idiom_ :two::hammer:  
+__missals__ _n_  
 __misspeak__ _v_ (misspoke) To speak or pronounce incorrectly: _The actor misspoke his lines._  
 __misspell__ _v_ :two: To spell incorrectly.  
 __misspend__ _v_ To spend time more or money foolishly or wastefully.  
@@ -9370,7 +9375,7 @@ __mystified__
 __mystique__ :pencil2:  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
-__mythos__ _n_ :two::hammer:  
+__mythos__ _n_ :three::hammer:  
 __N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
@@ -11360,7 +11365,7 @@ __queer<sup>1</sup>__ _adj_
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
-__quench__  
+__quench__ _n_ :two::hammer:  
 __quenched__ _v_  
 __quenches__ _v_  
 __querulous__ _adj_ :three::hammer:  
@@ -13064,7 +13069,7 @@ __sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
 __slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
 __slice and dice__ _idiom_ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
-__slice of pie__  
+__slice__ _n_ :two::hammer: _A big slice of the pie._  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
 __slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as hell._ __2__ Superficially plausible or impressive: glib. __3__ Smooth or slippery. _The slick surface._ _It was a slick scam._ _The alligators were slick with mud._ _Slick magazines._ _A slick paper magazine._  
@@ -13195,6 +13200,7 @@ __smock<sup>2</sup>__ _v_
 __smog__ _n_ :three::hammer:  
 __smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
 __smoke__ _v_ _This person smokes me._  
+__smoking jacket__ _n_  
 __smoking__ (cookery)  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
