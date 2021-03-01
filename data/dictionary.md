@@ -298,6 +298,7 @@ __aggrieved__ _v_ _An aggrieved sense of victimhood._
 __aggro__ _n_ :three::hammer:  
 __aghast__ _adj_ :six::hammer:  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __agnostic__ _adj_  
 __agog__ _adj_  
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
@@ -1194,7 +1195,7 @@ __belching__
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
-__belie__ _v_ :eight: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__belie__ _v_ :nine: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _1 yellow or red bell pepper._  
 __bell the cat__ _idiom_ To perform a daring act.  
@@ -1366,6 +1367,7 @@ __black powder__
 __black smoke__  
 __black-eyed peas__  
 __black-out__ _Black-out curtain._  
+__blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
 __blackbirder__  
 __blacked out__ _v_  
 __blackening__  
@@ -1812,6 +1814,7 @@ __browse__ _v_ To look through or over (something) casually: _browsed the newspa
 __bruin__  
 __bruited__  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
+__brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
@@ -2313,6 +2316,7 @@ __catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown’
 __catechism__ _n_ :two::hammer::pencil2:  
 __cater__ _v_ :three::hammer:  
 __caterpillar__ _n_  
+__caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__  
@@ -2961,7 +2965,7 @@ __conduct__ _Suspended two games for violating the league’s personal conduct p
 __conduit__ _n_ :six::hammer:  
 __coneys__  
 __confabulate__ _v_ :two: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
-__confection__ _n_ :two: __2__ :astonished: A sweet prepared food, such as candy or cake.  
+__confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
 __confederacy__  
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
@@ -3045,6 +3049,7 @@ __contractor__ _n_ :hammer::two:
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
 __contraption__  
 __contrarian__  
+__contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
 __contretemps__  
 __contrite__ _adj_ :eight::hammer:  
 __contrition__ _n_ :three::hammer:  
@@ -5066,6 +5071,7 @@ __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something
 __feature<sup>2</sup>__ _v_  
 __featuring__  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
+__febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
 __feckless__ _adj_ :four: __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
 __fecklessness__  
@@ -6032,6 +6038,7 @@ __gloom<sup>2</sup>__ _v_
 __gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
+__glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
 __glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
 __glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
@@ -8079,10 +8086,12 @@ __knockusing__
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
 __knot__ :mute:[~~k~~not]  
 __knotty__  
+__know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know better__ _But I knew better._  
 __know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
+__know-nothing__ _idiom_ A completely ignorant, uninformed, or unknowledgeable person.  
 __knowledgeable__ _adj_  
 __knuckle duster__ _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
@@ -8126,7 +8135,7 @@ __lace up__ _v_ _Adam laced up his Nikes._
 __lace__ _n_  
 __laced__ _v_ _I have laced a few punters._  
 __lacerate__ _v_  
-__lachrymose__ _adj_  
+__lachrymose__ _adj_ :two::pencil2::hammer:  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
 __lackadaisical__ _adj_ :two::hammer:  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
@@ -8673,7 +8682,7 @@ __luster<sup>1</sup>__ _n_
 __luster<sup>2</sup>__ _v_ (lustered)  
 __lustre__  
 __lustrous__ _adj_ :two::hammer:  
-__lustrum__ _n_ :two: Five years.  
+__lustrum__ _n_ :three: Five years.  
 __luxe__ _People were accustomed to creating luxe interiors._  
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
@@ -8935,6 +8944,7 @@ __meetup__ _n_ (meet-up) A word for “meeting.” _Our monthly meetup._
 __megalomania__ _n_ :two: __1__ (Psychology) A mental illness characterized by delusions of grandeur, power, wealth, etc. __2__ _informal_ A lust or craving for power.  
 __megalomaniac__ _n_ Someone who enjoys power over other people and always wants more of it.  
 __megalomanic__ _adj_ Suffering from megalomania.  
+__megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
 __mélange__ _n_  
 __melee__ _n_  
@@ -10386,6 +10396,7 @@ __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens wit
 __pensionary__ :es: jubilado  
 __pensive__ _adj_ :three::hammer: _You look pensive._  
 __pensively__  
+__pensum__ _n_ A task given, especially as a punishment.  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ _Syn_ stingy, parsimonious  
 __peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
