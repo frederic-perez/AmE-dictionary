@@ -820,6 +820,7 @@ __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
 __avow__ _v_ :two::hammer: (avowed)  
+__avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
 __aw__ _interj_ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
@@ -1522,6 +1523,7 @@ __bod__ _n_ :two::hammer:
 __bodacious__  
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
+__body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_  
@@ -3684,7 +3686,7 @@ __defective__ _adj_
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :five::hammer:  
-__deference__ _n_ :four::hammer:  
+__deference__ _n_ :five::hammer:  
 __deferential__  
 __deferentially__  
 __deferment__ _n_ :two::hammer:  
@@ -5855,6 +5857,7 @@ __gavel__ _n_ :six::hammer: _The judge’s gavel._
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
 __gazebo__  
+__gazette__ _n_  
 __GDP__ _abbr_ Gross domestic product.  
 __gear__ _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
@@ -8231,6 +8234,7 @@ __last straw__ _idiom_ :two: The final problem in a series of problems.
 __last-ditch attempt__ _idiom_ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _He scored the last-gasp winner._  
+__last-minute__ _idiom_ (used before a noun) Done at the very last possible moment or opportunity.  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
@@ -8273,6 +8277,9 @@ __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._
 __lawmaker__ _n_ :five::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
+__lay (oneself) out__ _idiom_ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
+__lay (something) at the feet of (someone)__ _idiom_ To make or hold someone, especially a group of people, responsible for something.  
+__lay the groundwork (for something)__ _idiom_ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
 __lay the table__  
 __lay__ _Lay reader._  
 __layman > in layman terms__  
@@ -8446,6 +8453,8 @@ __likened himself to__ _Mark faked his death and likened himself to a werewolf t
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
 __lilac__ _n_ :two::hammer:  
+__lilliput<sup>1</sup>__ _adj_ Tiny.  
+__lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ Cowardly; timid.  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
@@ -8775,6 +8784,7 @@ __malignancy__ _n_ (malignancies)
 __maligned__  
 __malingerer__ _n_  
 __mallards__  
+__malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
 __mallow__ :pencil2:  
 __malnourished__  
 __mamasan__  
@@ -12979,6 +12989,7 @@ __sitting on the fence__ _idiom_
 __sitting pretty__ _idiom_ :three: Living in comfort.  
 __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
+__situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
 __sivvied__ _v_ (?)  
 __six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
