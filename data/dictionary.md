@@ -679,7 +679,7 @@ __ascertain__ _v_ :three::hammer:
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :eight::hammer: (ascribed) _Which meaning were you ascribing to that word?_  
+__ascribe__ _v_ :eight: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borers__ _Emerald ash borers._  
 __ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
@@ -1508,7 +1508,7 @@ __boarding school__ _n_ :dart: A school that provides meals and lodging.
 __boardrooms__  
 __boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
-__boast__ _v_ :eight::hammer: (boasted) _I can boast about it for eternity._ _Abe boasted of his wine expertise._  
+__boast__ _v_ :eight: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._  
 __boaters__  
 __boatswain__  
 __bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
@@ -2375,7 +2375,7 @@ __cesarean<sup>1</sup>__ _adj_
 __cesarean<sup>2</sup>__ _n_  
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
-__cesspool__ _n_ :nine::m::hammer: _The journalist cesspool._  
+__cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
 __CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
 __chafe at the bit__ _idiom_ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
@@ -3022,7 +3022,7 @@ __constituency__ _n_ :six::hammer: (constituencies)
 __constituent__ _n_ :six::hammer: (constituents)  
 __constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
-__construe__ _v_ :eight::hammer: (construed)  
+__construe__ _v_ :eight::hammer: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
