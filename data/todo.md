@@ -1,3 +1,13 @@
+__lay the groundwork (for something)__ _idiom_ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
+__avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
+__gazette__ _n_  
+__lay (something) at the feet of (someone)__ _idiom_ To make or hold someone, especially a group of people, responsible for something.  
+__situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
+__lilliput<sup>1</sup>__ _adj_ Tiny.  
+__lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
+__deference__ _n_  
+__lay (oneself) out__ _idiom_ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
+__malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
 __last-minute__ _idiom_ (used before a noun) Done at the very last possible moment or opportunity.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __gravitas__ _n_ A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity  
