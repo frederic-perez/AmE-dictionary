@@ -24,6 +24,7 @@ __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, 
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
+__(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
@@ -2605,6 +2606,7 @@ __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._
 __citizenry__  
 __City__ _n_ :two: Short for City of London.  
 __civil__ _Some airlines still offer a civil amount of space, even in economy class._  
+__ckeck out__ _idiom_  
 __clacks__ _n_  
 __clad__ _A scantily clad spider._  
 __claddagh__ _n_  
@@ -6066,7 +6068,7 @@ __go at it hammer and tongs__ _idiom_ To do something or perform some task with 
 __go back to square one__ _idiom_ To start from the beginning.  
 __go ballistic__ _idiom_ :two::hammer:  
 __go dutch__  
-__go figure__ _idiom_ :two: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
+__go figure__ _idiom_ :three: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
 __go great lengths__ _idiom_ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ _You going native on me, Supercop?_  
@@ -6173,7 +6175,7 @@ __goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance
 __goody two-shoes__ _idiom_ _informal_  
 __goody-goody__ _Goody-goody expressions._  
 __Goodyear, Charles__  
-__gooey__ _adj_ :four: Soft and sticky. _Gooey butter cake._  
+__gooey__ _adj_ :five: __1__ Sticky, soft, and often sweet. _Gooey butter cake._ __2__ Oversweet and sentimental.  
 __goof__ _v_ _Goofing around._  
 __googol__ _n_  
 __googolplex__ _n_  
@@ -7012,6 +7014,7 @@ __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him.
 __hold in__ _phr v_ Restrain oneself. _He wanted to laugh and could hardly hold in._  
 __hold off__ _phr v_ :four: Delay commencing. _Hold off the decision one more day so I can answer your question._ _If the rain holds off._ :es: Si no llueve.  
 __hold on to your hat__ _idiom_ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
+__hold on__ _idiom_  
 __hold one’s peace__ _idiom_ :two::dart: To stay quiet despite wanting to say something. _Just hold your peace if you don’t have anything constructive to add._ _“Oh!” She looked puzzled, but held her peace._  
 __hold out__ _phr v_ Survive, endure. _How long can they hold out without water?_  
 __hold over__ _phr v_ Save, delay. _We will have to hold over these files until tomorrow._  
@@ -7226,6 +7229,7 @@ __hurdy-gurdy__
 __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurly-burly__ _A hurly-burly of writers._  
+__hurrah__ _interj, n_ A cheer of joy, victory, etc.  
 __hurricane lamp__ _n_  
 __hurricane__  
 __hurtle__ _v_ :two::hammer: (hurtling)  
@@ -7744,6 +7748,7 @@ __jabroni__ _n_
 __jack it up__ _v_  
 __Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o’-lantern__  
+__jackass__ _n_  
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
@@ -11833,10 +11838,12 @@ __respite__ _n_ :nine::m: A respite is a break from something that’s difficult
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
+__rest home__ _n_  
 __restaurateur__  
 __restenosis__ _n_  
 __restitution__ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :four: Unwilling to be controlled or be patient.  
+__restless__ _adj_  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
 __restraint__ _n_ :two::hammer:  
@@ -12029,6 +12036,7 @@ __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
 __roll with it__ _idiom_ To adapt to a situation despite unexpected circumstances or challenges.  
+__roll with the punches__ _idiom_ Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
 __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
 __roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
@@ -13497,7 +13505,8 @@ __spike<sup>1</sup>__ _n_
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
 __spill over__  
 __spill the beans__  
-__spill__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
+__spill<sup>1</sup>__ _n_ _Chemical spill._  
+__spill<sup>2</sup>__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ _n_ :two::hammer:  
 __spin bike__ _n_ :camera:  
 __spin one’s wheels__ _idiom_ :two: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_  
@@ -15134,6 +15143,7 @@ __turn a profit__
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn on__ _phr v_  
+__turn out__ _idiom_ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
 __turn-key__ _adj_ :five: A term which describes a complete system (hardware and software) which can be used for a specific application without requiring further programming or software installation.  
 __turnaround__ _n_ :two::hammer:  

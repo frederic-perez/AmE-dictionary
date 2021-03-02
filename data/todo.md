@@ -1,15 +1,3 @@
-__gooey__ _adj_ __1__ Sticky, soft, and often sweet. __2__ Oversweet and sentimental.  
-__restless__ _adj_  
-__hurrah__ _interj, n_ A cheer of joy, victory, etc.  
-__go figure__ _idiom_  
-__rest home__ _n_  
-__(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
-__turn out__ _idiom__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
-__spill__ _n_ _Chemical spill._  
-__ckeck out__ _idiom_  
-__hold on__ _idiom_  
-__roll with the punches__ _idiom_ Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
-__jackass__ _n_  
 __last-minute__ _idiom_ (used before a noun) Done at the very last possible moment or opportunity.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __gravitas__ _n_ A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity  
