@@ -1,15 +1,3 @@
-__gravitas__ _n_ A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity  
-__voracious__ _adj_  
-__labor under the illusion of/that__ _idiom_ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
-__wretch__ _n_ A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._  
-__caveat__ _n_  
-__(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
-__anodyne<sup>1</sup>__ _adj_  
-__anodyne<sup>2</sup>__ _n_  
-__billet__ _v_ Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
-__copyleft__ _n_  
-__diligent__ _adj_  
-__discombobulate__ _v_ To throw into a state of confusion. _Syn_ befuddle  
 __dispirit__ _v_ Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dogged__ _adj_ (?)  

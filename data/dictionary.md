@@ -23,6 +23,7 @@ __(one’s) jollies__ _idiom_ _slang_ One’s amusement, enjoyment, or pleasure.
 __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
+__(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
@@ -506,7 +507,8 @@ __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu p
 __annuity__ _n_ :four::hammer: (annuities)  
 __annum__ _n_  
 __anodized__ _v_ :two::hammer:  
-__anodyne__ _n_ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller  
+__anodyne<sup>1</sup>__ _adj_  
+__anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
 __anomic__  
 __anonymous tip__ _idiom_ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anorak__ _n_ :two::hammer:  
@@ -1324,7 +1326,7 @@ __bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._
 __bilking__ _Durham was guilty of bilking._  
 __bill__ _v_  
 __bill-file__  
-__billeted__ _v_ :two::hammer: (billeted, billeting)  
+__billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
 __billing__ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
@@ -2342,7 +2344,7 @@ __causeway__ _n_ :five::hammer:
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
-__caveat__  
+__caveat__ _n_ :two::hammer:  
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
@@ -3111,6 +3113,7 @@ __Coptic__
 __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
 __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
 __copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
+__copyleft__ _n_  
 __copywriter__ _n_  
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
@@ -3877,7 +3880,7 @@ __dikes__ :pencil2:
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __dilemma__  
-__diligent__ _adj_ Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
+__diligent__ _adj_ :two::dart: Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
@@ -3942,7 +3945,7 @@ __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or 
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
-__discombobulate__ _v_ :pencil2:  
+__discombobulate__ _v_ :two::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __discomfiture__ _n_  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
@@ -6256,7 +6259,7 @@ __graven__ _adj_ Cut or impressed into a surface. _Syn_ engraved, etched, inscri
 __gravesite__  
 __gravestone__  
 __graveyard orbit__  
-__gravitas__ _n_ :three::hammer: _Darkness suggested gravitas._  
+__gravitas__ _n_ :four: A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity _Darkness suggested gravitas._  
 __gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
@@ -8136,6 +8139,7 @@ __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a 
 __L-plate__ _He saw the L-plate on the back of the car._  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
+__labor under the illusion of/that__ _idiom_ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Labrador__  
 __labrotories__ ?  
 __labrum__  
@@ -15675,6 +15679,7 @@ __voltage__ _n_ :two::mega::hammer:
 __voltron__  
 __voluble__  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
+__voracious__ _adj_  
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
 __vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  
@@ -16215,7 +16220,7 @@ __wrench<sup>2</sup>__ _n_ (monkey wrench)
 __wrenching__ _adj_ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
 __wrestle__ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
-__wretch__ _n_ :two::hammer: _The lowliest wretch among them._  
+__wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._ _The lowliest wretch among them._  
 __wretched__ _adj_ :two::hammer:  
 __wrethes__  
 __wriggle__  
