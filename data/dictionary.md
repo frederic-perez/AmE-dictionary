@@ -2485,6 +2485,7 @@ __chenier__
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
+__chevron__ _n_  
 __chew the fat__ _idiom_ To chat or gossip.  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
@@ -3766,7 +3767,7 @@ __dengue__
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
-__denouement__ _n_ :five::hammer:  
+__denouement__ _n_ :six::hammer:  
 __denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
@@ -8103,6 +8104,7 @@ __knot__ :mute:[~~k~~not]
 __knotty__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know better__ _But I knew better._  
+__know full well__ _idiom_ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
@@ -8299,6 +8301,7 @@ __layoff__
 __layout__ _n_  
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
+__laze about__ _idiom_ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __laziness__ :pencil2:  
 __lb.__ _Sold in pkgs. of 3 lbs. or more._  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
@@ -8467,7 +8470,7 @@ __lilac__ _n_ :two::hammer:
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilt__ _n_ _He talked with the Jamaican lilt._  
-__lily-livered__ _adj_ Cowardly; timid.  
+__lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _Limber stick._  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
@@ -9422,6 +9425,7 @@ __N-fold__ _It provides a 20-fold increase in device lifetime than what is curre
 __N/A__ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
+__nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
 __nadir__  
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_ :five::hammer:  
@@ -9663,6 +9667,7 @@ __not by any means__ _idiom_ Not in any way; not at all; absolutely not.
 __not even close__ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
 __not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
+__not know (someone) from a bar of soap__ _idiom_ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -10157,6 +10162,7 @@ __painstakingly__ _adv_ :two::hammer:
 __paint the town red__ _idiom_ Have a good time.  
 __painter__  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
+__paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
 __palanquin__ _n_  
 __palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
@@ -11221,6 +11227,7 @@ __prurient__ _adj_ :two::hammer:
 __pruritus__ _n_ Severe itching, often of undamaged skin.  
 __pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
 __psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
+__pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
 __pseudo__ :mute:[~~p~~seudo]  
 __pseudonym__ :mute:[~~p~~seudonym]  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
@@ -11487,6 +11494,7 @@ __radome__ _n_ :two::hammer:
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
+__ragamuffin__ _n_ A shabbily clothed, dirty child.  
 __ragbag__ _n_ :two: A motley assortment of things.  
 __rage__ _n_  
 __rage<sup>1</sup>__ _n_  
@@ -13753,7 +13761,7 @@ __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chin
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
 __starchitect__  
 __stardom__ _n_ :two::hammer:  
-__stardust__ _n_ :three::dart: __1__ A dreamy romantic or sentimental quality or feeling. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
+__stardust__ _n_ :four::dart: __1__ A feeling or impression of romance, magic, or ethereality. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
 __starfish__  
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
@@ -15556,6 +15564,7 @@ __vassal__ _n_
 __vast__ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
 __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
+__vatic__ _adj_ Of or characteristic of a prophet; oracular.  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  

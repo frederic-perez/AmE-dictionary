@@ -1,15 +1,3 @@
-__laze about__ _idiom_ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
-__lily-livered__ _adj_ Weak or lacking in courage; cowardly. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
-__nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
-__chevron__ _n_  
-__ragamuffin__ _n_ A shabbily clothed, dirty child.  
-__know full well__ _idiom_ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
-__paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
-__vatic__ _adj_ Of or characteristic of a prophet; oracular.  
-__pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
-__denouement__ _n_  
-__stardust__ _n_ A feeling or impression of romance, magic, or ethereality.  
-__not know (someone) from a bar of soap__ _idiom_ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __dispirit__ _v_ Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dogged__ _adj_ (?)  
