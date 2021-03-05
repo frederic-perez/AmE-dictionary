@@ -1,15 +1,3 @@
-__lay (one’s) life on the line__ _idiom_ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
-__liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ embrocation _The veterinarian instructed me to apply the liniment to the horse’s sore leg twice a day._  
-__AAVE__ _abbr_ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
-__Laputan__ _adj_ Absurdly fanciful or impractical.  
-__mores__ _n pl_  
-__fantasticate__ _v_ To make fantastic.  
-__epigram__ _n_  
-__thew__ _n_  
-__bossdom__ _n_  
-__turbid__ _adj_  
-__laughing in the aisles__ _idiom_ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
-__locomote__ _v_ To move from one place to another. _Syn_ go, travel _Unlike most other fish, seahorses maintain an upright position when they locomote._  
 __dispirit__ _v_ Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dogged__ _adj_ (?)  

@@ -79,6 +79,7 @@ __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.
 __Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
+__AAVE__ _abbr_ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
@@ -1627,6 +1628,7 @@ __boredom__
 __borne__ _v_ :five::hammer:  
 __borough__ :mute:[borou~~gh~~]  
 __bosom__  
+__bossdom__ _n_  
 __bossy__ _adj_  
 __bot__ _n_  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
@@ -4719,6 +4721,7 @@ __epee__
 __ephemeral__  
 __epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
+__epigram__ _n_  
 __epilepsy__ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
 __Episcopalian__  
@@ -5006,6 +5009,7 @@ __fannies__
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
 __fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
+__fantasticate__ _v_ To make fantastic.  
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :two::mega::hammer:  
 __far and away__ :astonished:  
@@ -8217,6 +8221,7 @@ __lapel__ _n_
 __lapidify__ _v_  
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
+__Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larceny__ _n_ :seven: Theft of personal property. :es: hurto  
 __larder__ _n_ :three::hammer:  
 __largely__ _adv_ :two::hammer:  
@@ -8266,6 +8271,7 @@ __laudable__
 __laudatory__ Expressing praise; commendatory.  
 __laugh in (one’s) sleeve__ _idiom_ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
+__laughing in the aisles__ _idiom_ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
 __laughing very hard__  
 __laughingstock__  
 __launch__ _v_ _Launching the projectile/friend._  
@@ -8281,6 +8287,7 @@ __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._
 __lawmaker__ _n_ :five::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
+__lay (one’s) life on the line__ _idiom_ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
 __lay (oneself) out__ _idiom_ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
 __lay (something) at the feet of (someone)__ _idiom_ To make or hold someone, especially a group of people, responsible for something.  
 __lay the groundwork (for something)__ _idiom_ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
@@ -8483,6 +8490,7 @@ __liners__ _n_ _Hospital liners._
 __linger__  
 __lingering__ _adj_ Lasting for a long time, especially when this is unpleasant or not necessary. _The lingering feeling._  
 __linguaphile__ _n_  
+__liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain. _Syn_ embrocation _The veterinarian instructed me to apply the liniment to the horse’s sore leg twice a day._  
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
@@ -8550,6 +8558,7 @@ __locks > alcohol ignition locks__
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
 __lockstep__ _n_ :two::hammer:  
+__locomote__ _v_ To move from one place to another. _Syn_ go, travel _Unlike most other fish, seahorses maintain an upright position when they locomote._  
 __locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
@@ -9245,6 +9254,7 @@ __morcellator__
 __more often than not__ _idiom_ Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more than meets the eye__  
 __morels__ _n_  
+__mores__ _n pl_  
 __moribund__  
 __Mormon apostle__  
 __morning glory__  
@@ -14605,6 +14615,7 @@ __thermistor__ _n_ :two::hammer:
 __thermos__ _A thermos._  
 __thespian<sup>1</sup>__ _adj_ :two::hammer:  
 __thespian<sup>2</sup>__ _n_  
+__thew__ _n_  
 __thick accent__ _Arnold’s accent is getting thicker._  
 __thick and thin__ _idiom_ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
@@ -15148,6 +15159,7 @@ __tumultuous__
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunnel vision__ _n_ :two::hammer:  
 __tuppence__  
+__turbid__ _adj_  
 __turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
