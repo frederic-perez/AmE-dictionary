@@ -1,3 +1,15 @@
+__Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
+__abhor__ _v_ :pencil2:  
+__leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
+__stolid__ _adj_ Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
+__smorgasbord__ _n_ __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
+__yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
+__yahoo<sup>2</sup>__ _interj_ Expressing excitement, delight, or triumph.  
+__guileless__ _adj_ Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
+__grouse__ _v_ To complain; grumble.  
+__gadabout__ _n_ A person who goes from place to place in social activity.  
+__deontology__ _n_  
+__retrocede__ _v_  
 __dispirit__ _v_ Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dogged__ _adj_ (?)  
