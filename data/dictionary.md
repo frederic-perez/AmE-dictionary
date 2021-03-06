@@ -94,6 +94,7 @@ __aberrant__ _adj_
 __aberration__ _n_  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
+__abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
 __abide by__ _idiom_ To conform to; comply with: _abide by the rules._  
@@ -3771,6 +3772,7 @@ __denouement__ _n_ :six::hammer:
 __denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
+__deontology__ _n_  
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
@@ -4008,7 +4010,7 @@ __dispatcher__ _n_ :two::hammer:
 __dispel__ _v_ :six::hammer: (dispelled)  
 __dispensed__ _v_  
 __dispenser__  
-__dispirited__ _v_ :three::hammer:  
+__dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dispiriting__ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
 __disquiet__  
@@ -4019,6 +4021,7 @@ __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin
 __dissatisfaction__ _n_ :two::hammer:  
 __dissatisfied__ _adj_ :two::pencil2::hammer:  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
+__dissection__ _n_ _Dissections in coronary vessels._  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_  
@@ -4109,7 +4112,7 @@ __dog-ear__
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
-__dogged__ _adj_ :three: Obstinately determined; wilful or tenacious. _Dogged persistence._  
+__dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
@@ -5774,6 +5777,7 @@ __gabfest__
 __gable__ _n_  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ :mega:  
+__gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__  
 __gaff__ _n_  
 __gaffe__ _n_ :two::hammer:  
@@ -6359,7 +6363,7 @@ __groundswell__ _n_ :five::hammer:
 __groundwater__  
 __groundwork__ _n_ :two::hammer: _Joy laid the groundwork with a series of cozy phone calls._  
 __groupie__ _n_ :two::hammer: (groupies)  
-__grouse__ _v_ :four::hammer: (groused) _We groused about the uncomfortable seating._  
+__grouse__ _v_ :five: (groused) To complain; grumble. _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
 __grovel__ _v_ :four::hammer: (groveling)  
@@ -6401,7 +6405,7 @@ __guide__ :mute:[g~~u~~ide]
 __guidepost__ _n_  
 __guidet__ _Two guidettes._  
 __guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
-__guileless__  
+__guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillotine__ _n_ :mega:  
 __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilt__ :mute:[g~~u~~ilt]  
@@ -8319,6 +8323,7 @@ __lean<sup>1</sup>__ _adj_ :four::hammer: _He is lean fast._ _Lean food._ _A lea
 __lean<sup>2</sup>__ _v_  
 __leap day__  
 __leap of faith__  
+__leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
 __leaps and bounds__ _To grow in leaps and bounds._  
@@ -11904,6 +11909,7 @@ __retreat<sup>2</sup>__ _n_ :three::hammer: _About 35 firefighters volunteered a
 __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.  
 __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
+__retrocede__ _v_  
 __retronym__ _n_  
 __retroscopic__  
 __returnee__  
@@ -12662,6 +12668,7 @@ __set up__ _phr v_ Ready something for use. _We set up the sprinkler._
 __setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting > picturesque setting__ :es: entorno picturesco  
+__Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
 __seventh heaven__ :astonished:  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
@@ -13266,7 +13273,7 @@ __smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib
 __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
-__smorgasbord__ _n_ :two::astonished::hammer:  
+__smorgasbord__ _n_ :three::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
 __smote__ _v_  
 __smothered__  
 __smothering__  
@@ -13902,7 +13909,7 @@ __stodgiest__
 __stodgy__ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
-__stolid__ _adj_ :three::hammer:  
+__stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
 __stomach__ _v_ :three::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
@@ -16281,6 +16288,8 @@ __XLNC__ _gramo_ Excellency.
 __XMM__ _gramo_ Exams.  
 __ya’__ _?_ _Ya’ think?_  
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
+__yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
+__yahoo<sup>2</sup>__ _interj_ Expressing excitement, delight, or triumph.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
 __yakuza__ _n_ :two::hammer:  
