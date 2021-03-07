@@ -1,3 +1,13 @@
+__ethereality__ _n_  
+__persnickety__ _adj_ :dart:  
+__step back__ _idiom_  
+__proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
+__(one’s) hackles rise__ _idiom_ :dart: One becomes greatly irritated, annoyed, or aggravated. _The disrespect he showed our professor during class made my hackles rise so badly that I had to go take a walk to calm down._  
+__cheapen__ _v_  
+__dentures__ _n_ A set of artificial teeth. :es: dentadura postiza  
+__guilty pleasure__  
+__ronin__ _n_ A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
+__hermeneutic__ _adj_  
 __elated__ _v_  
 __embers__ _n_ _The embers that burn within your soul._  
 __embroider__ _v_ (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
