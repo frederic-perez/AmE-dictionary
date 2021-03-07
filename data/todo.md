@@ -1,18 +1,3 @@
-__honk__ _n_  
-__picky__ _adj_  
-__horn__ _n_  
-__gaffe__ _n_ (gaffes)  
-__vivid__ _adj_  
-__lure__ _v_ (lured)  
-__subdue__ _v_ (subdued)  
-__rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
-__throw (someone) under the bus__ _idiom_  
-__peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
-__shortbread__ _n_  
-__unleavened__ _adj_ :mega:  
-__ISV__ _abbr_ Independent software vendor.  
-__something is rotten in the state of Denmark__ _idiom_  
-__knead__ _v_  
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __for keeps__ _idiom_ __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  

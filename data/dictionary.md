@@ -5785,9 +5785,8 @@ __Gabor__ :mega:
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__  
 __gaff__ _n_  
-__gaffe__ _n_ :two::hammer:  
+__gaffe__ _n_ :four::hammer: (gaffes)  
 __gaffer__ _n_ _Br_ :two: Boss.  
-__gaffes__ _n_ :two::hammer:  
 __gag me with a spoon__ _idiom_ An expression of disgust or annoyance.  
 __gag__ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
@@ -7099,6 +7098,7 @@ __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the lan
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _“Fragrant harbor” is the literal translation of Hong Kong._  
+__honk__ _n_  
 __honky tonk__ _n_  
 __honor__ _v_ :two::hammer::mute:[~~h~~onor]  
 __honorable mention__ _idiom_ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
@@ -7134,6 +7134,7 @@ __hopped cars__
 __hopscotch__  
 __horn buttons__ :camera:  
 __Horn of Africa__ :camera: Somalia.  
+__horn__ _n_  
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
@@ -7742,6 +7743,7 @@ __isobar__ _n_
 __issuance__ _n_ :three::hammer:  
 __issue__ _v_  
 __isthmus__  
+__ISV__ _abbr_ Independent software vendor.  
 __it ain’t over till/until the fat lady sings__ _idiom_ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __IT Band__  
 __it dawned on someone__  
@@ -8083,7 +8085,7 @@ __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.
 __knave__  
 __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king’s court is a hotbed of intrigue and malicious knavery._  
 __knavish__  
-__knead__ _v_ :nine::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
+__knead__ _v_ :nine::m::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
@@ -8713,7 +8715,8 @@ __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amp
 __lupine__  
 __lupus__  
 __lurch__ _v_ :nine::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._ _The cart rumbled and lurched._  
-__lure__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
+__lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
+__lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :three::hammer:  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
@@ -10383,6 +10386,7 @@ __peak__ _v_
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
+__peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
 __pearl onions__  
 __peat__ _n_ :two::hammer: _Battling the blazes in peat swamp forests._  
@@ -10590,7 +10594,7 @@ __pickets__ _n_
 __picklock__ _v_  
 __pickoff__ _A pickoff throw to first base._  
 __pickup__  
-__picky__ _adj_ :two::hammer:  
+__picky__ _adj_ :three::hammer:  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pictogram__  
 __picture-perfect__ _The picture-perfect porch._  
@@ -12062,6 +12066,7 @@ __rock-paper-scissors__ _Is this rock-paper-scissors?_
 __rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocket__ :mega:  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
+__rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
 __rodeo__ :mega:  
 __rods__ _A few rods away._  
 __roe__ _n_ :two::hammer: _A roe deer._  
@@ -12853,7 +12858,7 @@ __short__ _He typically wears shorts to work._
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
-__shortbread__ _n_  
+__shortbread__ _n_ :two::hammer:  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
@@ -13427,6 +13432,7 @@ __soloist__ _n_ :three::hammer:
 __solvent__ _n_  
 __sombreros__  
 __someone’s hair__ _He built the shop to get his hobby out of his wife’s hair._  
+__something is rotten in the state of Denmark__ _idiom_  
 __something or another__ _I ran into Jim Gable’s ex-chauffeur, a guy named Micah something or another._  
 __somewhat__  
 __somnambulant__ _adj_  
@@ -14080,7 +14086,7 @@ __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ (car?)  
-__subdue__ _v_ :six::hammer: (subdued)  
+__subdue__ _v_ :seven::hammer: (subdued)  
 __subfreezing__ _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
@@ -14693,7 +14699,7 @@ __through and through__ _idiom_ :four: Thoroughly or completely; in every way, m
 __through thick and thin__ _idiom_ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
-__throw (someone) under the bus__ _idiom_  
+__throw (someone) under the bus__ _idiom_ :two::hammer:  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
 __throw away__ To get rif of something that you no longer want.  
@@ -15390,6 +15396,7 @@ __unimpeded__ _v_
 __Union Jack__ _n_ :camera:  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
 __unkempt__ _adj_ :three::hammer: _Unkempt beards._  
+__unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _preposition_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
@@ -15698,6 +15705,7 @@ __vituperation__ _n_ :four: Abusive or venomous language used to express blame o
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
+__vivid__ _adj_  
 __vizier__ _n_ :two::hammer:  
 __vocab__  
 __vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
