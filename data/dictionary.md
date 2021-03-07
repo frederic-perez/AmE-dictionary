@@ -3028,7 +3028,7 @@ __constituency__ _n_ :six::hammer: (constituencies)
 __constituent__ _n_ :six::hammer: (constituents)  
 __constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
-__construe__ _v_ :eight::hammer: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
+__construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
@@ -3061,7 +3061,7 @@ __contraption__
 __contrarian__  
 __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
 __contretemps__  
-__contrite__ _adj_ :eight::hammer:  
+__contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :four::hammer:  
 __contrive__ _v_ :two::hammer: (contriving)  
@@ -4451,7 +4451,7 @@ __earlier__ _adv_ :three:
 __earlocks__ _n_  
 __early__ _I always get off the bus a stop early on the way to work._  
 __early-onset__ _Early-onset Alzheimer’s disease._  
-__earmark__ _v_ :eight::hammer: (earmarked)  
+__earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, use, or recipient: _to earmark goods for export._ _Syn_ allocate __2__ To mark the ear of (a domestic animal) for identification. __3__ To specify or allocate (funds) to be spent in a legislative earmark.  
 __earmuffs__  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
