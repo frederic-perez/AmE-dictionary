@@ -1,3 +1,13 @@
+__honk__ _n_  
+__picky__ _adj_  
+__horn__ _n_  
+__gaffe__ _n_ (gaffes)  
+__vivid__ _adj_  
+__lure__ _v_ (lured)  
+__subdue__ _v_ (subdued)  
+__rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
+__throw (someone) under the bus__ _idiom_  
+__peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __shortbread__ _n_  
 __unleavened__ _adj_ :mega:  
 __ISV__ _abbr_ Independent software vendor.  
