@@ -60,6 +60,7 @@ __a hill of beans__ _idiom_ Something of little or no importance, value, or wort
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
 __a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
+__a knee-slapper__ _idiom_ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ _idiom_ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
@@ -1056,6 +1057,7 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
+__BCE__ _abbr_ Before the Common Era.  
 __be (one’s) last resort__ _idiom_ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ _idiom_ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
@@ -2086,6 +2088,7 @@ __cake-and-punch__ _The cake-and-punch reception._
 __cakewalk__  
 __calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
 __calamity__ _n_ :two::mega::hammer:  
+__calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
 __calendar girl__  
 __calendared__ _v_ _Get the meeting calendared._  
 __calf__ _n_ :three::mute:[ca~~l~~f] __2__ (Zoology) The young of certain other mammals, such as the buffalo, elephant, giraffe, and whale.  
@@ -2322,6 +2325,7 @@ __catchall__ _n_ _A catchall phrase._
 __catchpenny__  
 __catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
 __catechism__ _n_ :two::hammer::pencil2:  
+__categorical__ _adj_  
 __cater__ _v_ :three::hammer:  
 __caterpillar__ _n_  
 __caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
@@ -2875,7 +2879,7 @@ __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy c
 __coming down the pipe__ :dart:  
 __coming up__  
 __coming-of-age__ _A coming-of-age story._  
-__comity__ _n_ :four: __1__ Mutual civility; courtesy. :es: cortesía A state or atmosphere of harmony or mutual civility and respect.  
+__comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
 __command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
@@ -4233,7 +4237,7 @@ __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtr
 __downturn__ _n_ :three::hammer: (downturns)  
 __downward__ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
-__dowry__ _n_ :four::hammer: :es: dote  
+__dowry__ _n_ :five::hammer: (dowries) :es: dote  
 __DOY__ _abbr_ Day of year.  
 __doyenne__  
 __doze__ _v_  
@@ -4301,7 +4305,7 @@ __drink like a fish__ To drink too much alcohol.
 __drip-dry__ _Cotton drip-dry._  
 __drip-drying__  
 __dripping__ _n_ :two: __2__ (often _drippings_) The fat and juices exuded from roasting meat, often used in making gravy. _Pan drippings._  
-__drive someone batty__ _idiom_ (drive someone nuts) To annoy or irritate someone. _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
+__drive (one) batty__ _idiom_ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
 __drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
@@ -4514,7 +4518,7 @@ __effort__ _n_ :dart: _Activists launched an effort._
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
-__effusive__  
+__effusive__ _adj_ :two::hammer:  
 __egalitarian__ _adj_  
 __egg head__ A very studious and academic person.  
 __egg roll__  
@@ -5590,6 +5594,7 @@ __foundries__ _Metal foundries._
 __foundry__ _n_ :two::hammer: :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four hundred__ _This room has four hundred doors!_ :es: tropecientos?  
+__four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
 __four-wheeler__  
 __fourth estate__ _n_ :two: (Fourth Estate) Journalists considered as a group; the public press.  
@@ -7972,6 +7977,7 @@ __keep (someone or something) in check__ _idiom_ :two::hammer: _Devils keep Hawk
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
+__keep a cool head__ _idiom_ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
 __keep a sharp lookout (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye peeled (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
@@ -8083,6 +8089,7 @@ __knee__ :mute:[~~k~~nee]
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__ _v_ :three::hammer: (kneecapping)  
 __knell__ _n_ :three::hammer:  
+__knick-knack__ _idiom_ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
 __knife__ :mute:[~~k~~nife]  
 __knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
@@ -10259,7 +10266,7 @@ __pardon my French__ _idiom_ :two: Excuse me for swearing.
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
-__pariah__ _n_ :four::hammer:  
+__pariah__ _n_ :five::hammer:  
 __parietal__ _The parietal portion of the skull._  
 __paring knife__ _n_  
 __paring__  
@@ -11842,6 +11849,7 @@ __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain 
 __replenishing__ _n_  
 __reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
+__reprehensible__ _adj_ Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
 __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishment. _He accepted the death sentence and refused to appeal for a reprieve._ _It’s a momentary reprieve._ _Syn_ stay of execution, cancellation of punishment :es: indulto  
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone’s punishment  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
@@ -12045,6 +12053,7 @@ __robe<sup>1</sup>__ _n_ :two::hammer: _The judge’s robe._
 __robe<sup>2</sup>__ _v_  
 __robin-breasted__  
 __robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
+__robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
 __rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock the boat__ _idiom_ :four::hammer: _Please, don’t rock the boat._  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
@@ -16319,7 +16328,7 @@ __yellow__ _slang_ A coward.
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
-__yesteryear__ _n_ :three::hammer:  
+__yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ _n_ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  

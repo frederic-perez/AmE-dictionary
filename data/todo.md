@@ -1,18 +1,3 @@
-__knick-knack__ _idiom_ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
-__reprehensible__ _adj_ Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
-__comity__  
-__four-bagger__ _n_ _baseball_ Home-run.  
-__categorical__ _adj_  
-__a knee-slapper__ _idiom_ A hilarious joke, especially one that evokes loud and prolonged laughter.  
-__calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
-__robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
-__pariah__ _n_  
-__keep a cool head__ _idiom_ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
-__yesteryear__ _n_ The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
-__BCE__ _abbr_ Before the Common Era.  
-__dowries__ _n_  
-__drive (one) batty__ _idiom_ To annoy or frustrate one to the point of exasperation. A week on vacation with my relatives is enough to drive me batty. That loud beeping noise is driving me batty!  
-__effusive__ _adj_  
 __elated__ _v_  
 __embers__ _n_ _The embers that burn within your soul._  
 __embroider__ _v_ (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
