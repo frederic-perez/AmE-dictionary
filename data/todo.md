@@ -1,3 +1,13 @@
+__shortbread__ _n_  
+__unleavened__ _adj_ :mega:  
+__ISV__ _abbr_ Independent software vendor.  
+__something is rotten in the state of Denmark__ _idiom_  
+__knead__ _v_  
+__coffee mill__ _n_ _Syn_ coffee grinder  
+__coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
+__for keeps__ _idiom_ __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
+__parapet__ _n_  
+__parapet wall__ _n_  
 __ethereality__ _n_  
 __persnickety__ _adj_ :dart:  
 __step back__ _idiom_  
