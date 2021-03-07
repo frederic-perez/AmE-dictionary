@@ -4681,7 +4681,7 @@ __enjambments__
 __enjoin__ _v_ (enjoined)  
 __enliven__ _v_  
 __enlivened__  
-__enmity__ _n_ :eight::hammer: _Syn_ hostility, antagonism  
+__enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
 __enormous__ :mega:  
 __enquiry__  
@@ -4738,7 +4738,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponymous__ _adj_ :eight::hammer: (eponymously)  
+__eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __equaled__ _v_  
 __Equality State__ _n_ WY, Wyoming.  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
@@ -5364,7 +5364,7 @@ __flimflam__ _n_ :dart::two::hammer:
 __flimsy__ _adj_ :two::hammer:  
 __flinch__ _v_  
 __flinch<sup>2</sup>__ _v_ :six: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
-__fling__ _v_ :eight::hammer: (flinging) _Johnson isn’t just flinging it._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
+__fling__ _v_ :eight: (flinging) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
@@ -5648,7 +5648,7 @@ __free-spoken__ _adj_ Characterized by directness in manner or speech; without s
 __free-wheeling__ _idiom_ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freeloading__  
-__freewheel__ _v_ :nine::hammer: (free wheel, freewheeling) _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
+__freewheeling__ _adj_ :nine: _informal_ Unrestrained in manner, actions, etc.; uninhibited. _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
 __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
