@@ -1,3 +1,13 @@
+__pivot__ _n_ __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
+__leave (something) out of account__ _idiom_ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
+__underscore__ _v_ Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
+__autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
+__euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
+__euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
+__meticulous__ _adj_ Marked by extreme or excessive care in the consideration or treatment of details.  
+__leather-lunged__ _idiom_ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
+__coruscate__ _v_ :astonished: Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._  
+__frigate__ _n_ :es: fragata  
 __ethereality__ _n_  
 __persnickety__ _adj_ :dart:  
 __step back__ _idiom_  
