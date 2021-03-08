@@ -661,6 +661,7 @@ __artifact__ _n_ :four::hammer: (artifacts)
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
+__artwork__ _n_ :pencil2:  
 __as a duck takes to water__ _idiom_ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as a general rule__  
 __as blind as a bat__ _idiom_ Unable to see well.  
@@ -2788,6 +2789,8 @@ __coerce__ _v_
 __coerced__  
 __coercion__ _n_  
 __coeval__  
+__coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
+__coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee-table book__  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
@@ -4344,6 +4347,7 @@ __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. _
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
 __drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__drug user__ _n_ A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
 __drum out__ _The were drummed out of the club._  
@@ -5505,7 +5509,7 @@ __for better or worse__
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
 __for good__ _idiom_ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
-__for keeps__  
+__for keeps__ _idiom_ :two: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ _idiom_ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
 __For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
@@ -7338,7 +7342,7 @@ __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
-__if you will__ :astonished:  
+__if you will__ _idiom_ :two: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __iffy__ _adj_ _slang_ :four: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
@@ -7417,6 +7421,7 @@ __in (one’s) own right__ _idiom_ Through the force of one’s own skills or qu
 __in (someone’s) view__ _idiom_ In someone’s opinion.  
 __in (someone’s) wheelhouse__ _idiom_ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
+__in a big way__ _idiom_ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
 __in a flutter__ _idiom_ In a nervous, confused, or agitated state.  
 __in a jam__ _idiom_ In a troublesome situation.  
 __in a measure__ _idiom_ To a certain degree or extent; somewhat.  
@@ -10250,7 +10255,8 @@ __paralysis__ _n_ :mega:
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __paramount__ _adj_ :two::hammer: _The reliability of the weather station is paramount._  
 __paranoid__ _adj_  
-__parapet__ _n_  
+__parapet wall__ _n_ That part of a wall which is entirely above the roof.  
+__parapet__ _n_ :two::hammer:  
 __paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
@@ -11219,6 +11225,7 @@ __prospect__ _n_ (sports)
 __prospective__ _adj_ :two: _Prospective clients._  
 __prospector__  
 __prospectus__  
+__prosthetic__ _adj_  
 __prostrate<sup>1</sup>__ _adj_  
 __prostrate<sup>2</sup>__ _v_  
 __protean__ _adj_ :four::hammer:  
@@ -11798,7 +11805,7 @@ __relay<sup>1</sup>__ _n_ _A relay race._
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
 __relegation__ _Sports_  
 __relent__ _v_ :four::hammer: (relented)  
-__relentless__ _adj_ :four::hammer: _I relentlessly go to YouTube to watch all new footage._  
+__relentless__ _adj_ :five::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
 __reliant__ _adj_ :two::hammer:  
@@ -13954,6 +13961,7 @@ __storks__
 __storm surge__ _n_ :two::hammer:  
 __storm__ _v_  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
+__storywise__ _adv_ In terms of a story or narrative.  
 __stoup__  
 __stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
 __stove__ _n_ :three::hammer:  
@@ -14797,7 +14805,7 @@ __timeclock__ _Denver Movie Timeclock._
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__  
 __timeliness__  
-__timely__ _adj_ :nine::m::hammer: _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
+__timely__ _adj, adv_ :nine::m: Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._ _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
 __timeserver__ _n_ A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
@@ -15068,6 +15076,7 @@ __trench coat__ _n_
 __trenchant__ _adj_  
 __trend__ _v_  
 __trepidation__ _n_ :five: Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
+__trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tresses__ _Blond tresses._  
@@ -15245,6 +15254,7 @@ __tweed__
 __tweeny-weeny__  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twice as good__ _They took twice as good as a challenge._  
+__twiddle one’s thumbs__ _idiom_ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
