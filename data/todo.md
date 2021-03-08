@@ -1,3 +1,13 @@
+__if you will__ _idiom_ If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
+__trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
+__artwork__ _n_ :pencil2:  
+__prosthetic__ _adj_  
+__storywise__ _adv_ In terms of a story or narrative.  
+__timely__ _adj, adv_ Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._  
+__in a big way__ _idiom_ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
+__drug user__ _n_ A person who takes drugs. _Syn_ substance abuser, user  
+__twiddle one’s thumbs__ _idiom_ Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
+__relentless__ _adj_  
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __for keeps__ _idiom_ __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
