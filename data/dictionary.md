@@ -4879,7 +4879,7 @@ __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow 
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::eight::hammer: (expedited) _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::eight: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
@@ -5968,7 +5968,7 @@ __getaway day__
 __getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
-__ghastly__ _adj_ :nine::hammer::mute:[g~~h~~astly] _Distract yourself from this ghastly thing we call 2020._  
+__ghastly__ _adj_ :nine::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
@@ -6825,7 +6825,7 @@ __heckle__ _v_ :three::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :eight::dart::hammer: _It was a hectic time._  
+__hectic__ _adj_ :eight::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -6880,7 +6880,7 @@ __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ colla
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :nine::hammer: (heralded) _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_  
+__herald__ _v_ :nine: (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herdsman__ _n_  
 __here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
 __here’s looking at you__  
