@@ -6794,7 +6794,7 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _A heartening supper._  
 __heartfelt__  
-__hearth__ _n_ :nine::m::hammer: _Hearth repair._ _Hearth taxes._  
+__hearth__ _n_ :nine::m: The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
@@ -7057,7 +7057,7 @@ __holdover__
 __holdup__ _v_  
 __hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
-__holistic__ _adj_ :eight::hammer: _My holistic system._  
+__holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :two::hammer:  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
@@ -7507,7 +7507,7 @@ __in(to) shape__ _idiom_ In good, robust health; strong or fit.
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
-__inane__ _adj_ :eight::hammer:  
+__inane__ _adj_ :eight::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_  
@@ -8090,7 +8090,7 @@ __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.
 __knave__  
 __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king’s court is a hotbed of intrigue and malicious knavery._  
 __knavish__  
-__knead__ _v_ :nine::m::mute:[~~k~~nead]:hammer: (kneaded, kneading)  
+__knead__ _v_ :nine::m::mute:[~~k~~nead] (kneaded, kneading) __1__ To work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching. :es: amasar __2__ To manipulate by similar movements, as the body in a massage. :es: masajear __3__ To make by kneading: _to knead bread._  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
 __knee__ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
