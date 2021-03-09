@@ -18,6 +18,7 @@ __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned ou
 __(it’s/there’s) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one’s) final resting place__ _idiom_ The location where one’s body is interred after death.  
+__(one’s) hackles rise__ _idiom_ :dart: One becomes greatly irritated, annoyed, or aggravated. _The disrespect he showed our professor during class made my hackles rise so badly that I had to go take a walk to calm down._  
 __(one’s) heart’s desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart’s desire is just to see my husband again._  
 __(one’s) jollies__ _idiom_ _slang_ One’s amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase “get one’s jollies.” _The restless teenagers got their jollies by throwing rocks at passing cars._  
 __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
@@ -813,6 +814,7 @@ __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing o
 __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
+__autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
@@ -3164,7 +3166,7 @@ __corrugated__
 __corsages__  
 __cortisol__ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
-__coruscate__ _v_ :three::hammer:  
+__coruscate__ _v_ :four::astonished: Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._  
 __cosset__ _v_  
 __cosseted__  
 __cost an arm and a leg__ _idiom_ To be extremely expensive.  
@@ -4798,6 +4800,7 @@ __etch__ _v_ :five::hammer: (etched)
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ethereal__ _adj_  
+__ethereality__ _n_  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
@@ -4806,6 +4809,8 @@ __eulogy__ _n_ :four::hammer:
 __eunuch__ _n_  
 __eureka moment__ _idiom_ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
+__euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
+__euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
 __evanescent__ _adj_  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
@@ -5673,6 +5678,7 @@ __Freudian slip__ _idiom_ Any inadvertent verbal or written mistake that reveals
 __friction__ _The coefficient of friction._  
 __Friday__ :mega: /’fraIdi, -deI/  
 __frieze__ _n_  
+__frigate__ _n_ :es: fragata  
 __frigid__ (frigid winds) Extremely cold.  
 __frill__ _v_  
 __frilled__ _Frilled apron._  
@@ -8344,6 +8350,8 @@ __leaps and bounds__ _To grow in leaps and bounds._
 __learn the ropes__ _idiom_ :two::hammer:  
 __lease__ _n_ :three::hammer: (on a lease)  
 __leased__ _v_  
+__leather-lunged__ _idiom_ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
+__leave (something) out of account__ _idiom_ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leaven__ _To leaven the raunch and swagger._  
 __leavings__ _n_  
 __lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
@@ -9055,7 +9063,7 @@ __meteoroid__ _n_
 __meter__ _n_ _The cab driver waited with the meter running._  
 __metheglin__ _n_ :two::hammer:  
 __methinks__  
-__meticulous__ _adj_  
+__meticulous__ _adj_ :two: Marked by extreme or excessive care in the consideration or treatment of details.  
 __metro__ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
 __mettle__ _n_ :eight::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
@@ -10515,6 +10523,7 @@ __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ co
 __perpetrator__  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
+__persnickety__ _adj_ :dart:  
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
@@ -10717,7 +10726,7 @@ __Pitot tube__ _n_ A device, essentially a tube set parallel to the direction of
 __pittance__ _n_ :three::hammer:  
 __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._  
 __pituitary__  
-__pivot<sup>1</sup>__ _n_ :two::hammer:  
+__pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
 __pivotal__ _adj_ :three::hammer:  
 __pixie__  
@@ -11154,6 +11163,7 @@ __probative__ _adj_ Providing proof or evidence.
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
+__proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
@@ -13861,6 +13871,7 @@ __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typ
 __stenosis__ _n_ _Pulmonary vein stenosis._  
 __stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
 __Step ‘n’ Fetch It routine__  
+__step back__ _idiom_  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _(vs godfather)_  
 __stepladder__ _n_  
@@ -15352,7 +15363,7 @@ __underpin__ _v_ :four::hammer:
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ :pencil2:  
-__underscore__ _v_ :four::hammer: (underscored, underscoring)  
+__underscore__ _v_ :five: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
 __understated__ _adj_  
