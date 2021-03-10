@@ -93,7 +93,7 @@ __abate__ _v_ (abating)
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
 __aberrant__ _adj_  
-__aberration__ _n_  
+__aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
 __abhor__ _v_ :pencil2:  
@@ -2983,7 +2983,7 @@ __conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to pass
 __conduct__ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
-__confabulate__ _v_ :two: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
+__confabulate__ _v_ :three: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
 __confederacy__  
 __Confederate flag__  
@@ -6170,6 +6170,7 @@ __golden years__ _idiom_ The years following one’s retirement (generally after
 __golden__ :astonished: Indicating the fiftieth event of a series.  
 __goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
+__goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
 __golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __golliwog__ _n_  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
@@ -6388,6 +6389,7 @@ __grown-up<sup>1</sup>__ _adj_
 __grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
 __grubbing__ _v_ :two::hammer:  
+__grubstake__ _n_ Supplies or funds advanced to a mining prospector or a person starting a business in return for a promised share of the profits.  
 __grudge<sup>1</sup>__ _v_ :three: (grudging)  
 __grudge<sup>2</sup>__ _n_ :eight: (grudges) A deep-seated feeling of resentment or rancor: _bears a grudge about the accident._ _I don’t hold any grudges._ _Holding a grudge._ :es: rencor  
 __grudging__ _adj_ _That behavior had won the soldier’s respect, and grudging affection._  
@@ -7285,6 +7287,7 @@ __Hydra__
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrology__  
 __hydrometeors__ _n_  
+__hyetal__ _adj_ Of or relating to rain or rainy regions.  
 __hygroscopic__  
 __hymn__ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
@@ -7420,7 +7423,7 @@ __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Sim
 __impromptu__ _adj_ :two::hammer: _Some things are impromptu._  
 __improvidence__  
 __improvident__ _adj_  
-__impunity__  
+__impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
 __in (one’s) dotage__ _idiom_ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ _idiom_ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ _idiom_ Through the force of one’s own skills or qualifications.  
@@ -7456,6 +7459,7 @@ __in its infancy__ _idiom_ In the early, nascent period of development or implem
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in jest__ _idiom_ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ _idiom_ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
+__in leaps and bounds__ _idiom_ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
 __in lieu of (something)__ _idiom_ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
 __in no time (at all)__ _idiom_ In a very little amount of time. _That test was so easy, I was done in no time._  
 __in no way__ _idiom_ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
@@ -8352,6 +8356,7 @@ __lease__ _n_ :three::hammer: (on a lease)
 __leased__ _v_  
 __leather-lunged__ _idiom_ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
 __leave (something) out of account__ _idiom_ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
+__leave much to be desired__ _idiom_ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leaven__ _To leaven the raunch and swagger._  
 __leavings__ _n_  
 __lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
@@ -10580,6 +10585,7 @@ __photo-op__
 __photochromic__ _adj_  
 __photography__ _n_ :mega:  
 __photovoltaic__ _adj_ Capable of producing a voltage when exposed to radiant energy, especially light.  
+__phub__ _n_ _slang_ :dart: To ignore someone in one’s presence in order to pay attention to the content on one’s phone or other mobile device. The term derives from “phubbing,” a combination of “phone” and “snubbing” that was coined as part of a marketing campaign for an Australian dictionary. _I’m right here—quit phubbing me and read your tweets later!_  
 __phylacteries__ _n_ :two::hammer:  
 __physicalize__ _v_ __1__ To express with the body: _physicalize one’s emotions._ __2__ To describe or interpret in physical terms: _“a writer who physicalizes everything he feels” (James Wolcott)._  
 __physiology__ _n_  
@@ -12197,6 +12203,7 @@ __rubbish__ _n_ __1__ Worthless, useless, or unwanted matter. __2__ Discarded or
 __rubble__ _n_ :two::hammer:  
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __Rubenesque__ _adj_  
+__rubicund__ _adj_ Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
@@ -12676,6 +12683,7 @@ __seracs__ _n_
 __sere__ _The sere terrain._  
 __Serenity Prayer__  
 __serfdom__ _n_  
+__seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _Critical to serious condition, fair condition._  
 __sermon__  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
@@ -15650,6 +15658,7 @@ __verbally__
 __verbatim__  
 __verberize__  
 __verbiage__ _n_ :two::hammer:  
+__verbicide__ _n_  
 __verboten__ _adj_ Not allowed.  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verdant__ _Verdant hills._  

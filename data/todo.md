@@ -1,15 +1,3 @@
-__grubstake__ _n_ Supplies or funds advanced to a mining prospector or a person starting a business in return for a promised share of the profits.  
-__confabulate__ _v_  
-__verbicide__ _n_  
-__leave much to be desired__ _idiom_ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
-__rubicund__ _adj_ Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
-__seriocomic__ _adj_ Mixing serious and comic elements.  
-__phub__ _n_ _slang_ :dart: To ignore someone in one’s presence in order to pay attention to the content on one’s phone or other mobile device. The term derives from “phubbing,” a combination of “phone” and “snubbing” that was coined as part of a marketing campaign for an Australian dictionary. _I’m right here—quit phubbing me and read your tweets later!_  
-__aberration__ _n_ __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
-__goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
-__hyetal__ _adj_ Of or relating to rain or rainy regions.  
-__impunity__ _n_ Exemption or freedom from punishment, harm, or loss.  
-__in leaps and bounds__ _idiom_ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
 __cheapen__ _v_  
 __dentures__ _n_ A set of artificial teeth. :es: dentadura postiza  
 __guilty pleasure__  
