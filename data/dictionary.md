@@ -7906,7 +7906,7 @@ __jolt<sup>2</sup>__ _v_ _The chair jolts._
 __jonesing__ _v_ :two::hammer:  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
-__jostle__ _v_ :eight::hammer::camera: (jostled, jostling) _Cows are jostling for space._ _Jostled anew._  
+__jostle__ _v_ :eight::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
 __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
 __joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
@@ -8415,7 +8415,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lesson learned__ (lesson learned)  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
-__let alone__ _conj_ :eight::hammer: _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
@@ -8908,7 +8908,7 @@ __marquetry__ :astonished: _Marketry doors._ :es: marquetería
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
-__marshal<sup>2</sup>__ _v_ :eight::hammer: (marshals, marshalled, marshalling) _The community will marshal its resources to help undocumented immigrants._  
+__marshal<sup>2</sup>__ _v_ :eight: (marshals, marshalled, marshalling) __1__ To bring people or things together and organize them so that they can be used in an effective way. _The community will marshal its resources to help undocumented immigrants._ __2__ To organize information or ideas, especially in order to make an argument. _His ability to marshal facts._  
 __marshland__ _n_ :two::hammer:  
 __marshmallow__ _n_ :two: Althaea officinalis. The word “marshmallow” comes from the mallow plant species, an herb which grows in marshes and other damp areas.  
 __marshy__  
@@ -9213,7 +9213,7 @@ __mixed signals__ _Mr. Trump sent more mixed signals on Monday._
 __MLK__  
 __MO__ _abbr_ :two: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
-__moat__ _n_ :eight::hammer: _The castle’s moat._  
+__moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
