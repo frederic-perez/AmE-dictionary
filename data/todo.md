@@ -1,3 +1,13 @@
+__take a dive__ _idiom_  
+__hash out__ _idiom_ To discuss something in detail. A noun or pronoun can be used between “hash and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
+__sidestep__ _v_  
+__beachhead__ _n_  
+__chew the/(one’s) cud__ _idiom_ To think deeply; to be deeply involved in private thought. (Alludes to the cow’s habit of bringing food back from the first stomach into the mouth to chew it, called chewing the cud.) _He’s chewing his cud about what to do next._  
+__rummage__ _v_  
+__paper tape__ _n_  
+__frankincense__ _n_  
+__hysterectomy__ _n_ Surgical removal of part or all of the uterus.  
+__verbicide__ _n_ :astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __guilty pleasure__  
 __ronin__ _n_ A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
 __hermeneutic__ _adj_  
