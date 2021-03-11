@@ -692,7 +692,7 @@ __ash borers__ _Emerald ash borers._
 __ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
-__asinine__ _adj_ :pencil2::three: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
+__asinine__ _adj_ :pencil2::four: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for the moon__ _idiom_ To ask for too much, to want something that is not possible.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
@@ -2459,6 +2459,7 @@ __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especial
 __chauffeured__ _v_  
 __cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
+__cheapen__ _v_  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
@@ -3780,7 +3781,7 @@ __denizen__ _n_ :four::hammer: (denizens)
 __denouement__ _n_ :six::hammer:  
 __denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
-__dentures__ _n pl_ :dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
+__dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
 __departed__  
 __dependable__ _Applicants are required to have a dependable vehicle._  
@@ -4876,7 +4877,7 @@ __exhortation__ _n_
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__  
-__exonerate__ _v_ :three::hammer: (exonerating)  
+__exonerate__ _v_ :four: (exonerating) __1__ To clear from accusation, guilt, or blame. __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
 __expansively__ _He sucked expansively on his cigar._  
@@ -4991,7 +4992,7 @@ __fall out__ _idiom_ :dart: __5__ To have one’s relationship with someone comp
 __fall over__ _v_  
 __fall short__ _idiom_ :seven: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
-__fallacy__ _n_ :four::hammer: _The lump of coding fallacy._  
+__fallacy__ _n_ :five::hammer: _The lump of coding fallacy._  
 __fallback__ _The fallback option._  
 __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
@@ -7677,7 +7678,7 @@ __instability__ _n_ :three::hammer::pencil2:
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
 __instigator__ _n_  
-__instill__ _v_ :six::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._  
+__instill__ _v_ :seven::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
@@ -11815,7 +11816,7 @@ __rejiggered__
 __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
 __rejoinder__ _n_ :three: An answer, especially to a reply.  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
-__relatable__ _adj_ :three::hammer:  
+__relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
@@ -12783,7 +12784,7 @@ __sheer yoga pants__ :camera:
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
-__sheesh__ _interj_ Used to express mild annoyance, surprise, or disgust.  
+__sheesh__ _interj_ :two: Used to express mild annoyance, surprise, or disgust.  
 __sheet rock__  
 __sheet__ _n_ :two:  
 __sheeting__  
@@ -13589,7 +13590,7 @@ __spill<sup>1</sup>__ _n_ _Chemical spill._
 __spill<sup>2</sup>__ _v_ _Spilling the coins of a roll of quarters into the drawer of the cash register._  
 __spillover__ _n_ :two::hammer:  
 __spin bike__ _n_ :camera:  
-__spin one’s wheels__ _idiom_ :two: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_  
+__spin one’s wheels__ _idiom_ :three: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._  
 __spin<sup>1</sup>__ _n_ _But don’t believe the spin._  
 __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is paying her._  
 __spinal tap__  
@@ -14373,7 +14374,8 @@ __tactful__
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
 __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
-__tag__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
+__tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
+__tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
 __tail end__ _The tail end of the day._  
 __tailgate__ _v_ :two::hammer:  
@@ -15806,6 +15808,7 @@ __wakame__ _n_
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
 __wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
 __waldo__ _n_ (waldoes)  
+__walk away__ _idiom_ _Knowing when to walk away is an essential life skill._  
 __walk in sunshine__  
 __walk on air__ To be very happy.  
 __walk on eggs__ _idiom_ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  

@@ -1,15 +1,3 @@
-__exonerate__ _v_ __1__ To clear from accusation, guilt, or blame. __2__ To relieve from an obligation, duty, or task.  
-__walk away__ _idiom_ _Knowing when to walk away is an essential life skill._  
-__spin (one’s) wheels__ _idiom_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._  
-__scathing__ _adj_  
-__relatable__ _adj_ __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
-__fallacy__ _n_  
-__instill__ _v_ _This idea is instilled in kids._  
-__asinine__ _adj_  
-__tag__ _v_  
-__sheesh__ _interj_ Used to express mild annoyance, surprise, or disgust.  
-__cheapen__ _v_  
-__dentures__ _n_ A set of artificial teeth. :es: dentadura postiza  
 __guilty pleasure__  
 __ronin__ _n_ A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
 __hermeneutic__ _adj_  
