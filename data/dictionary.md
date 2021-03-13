@@ -1099,6 +1099,7 @@ __be sitting pretty__ _idiom_ To be in an ideal living situation (typically beca
 __be square (with one)__ _idiom_ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
 __beach__ _v_  
+__beachhead__ _n_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -2496,6 +2497,7 @@ __cherry pick__ _v_ (cherrypick)
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chevron__ _n_  
 __chew the fat__ _idiom_ To chat or gossip.  
+__chew the/(one’s) cud__ _idiom_ To think deeply; to be deeply involved in private thought. (Alludes to the cow’s habit of bringing food back from the first stomach into the mouth to chew it, called chewing the cud.) _He’s chewing his cud about what to do next._  
 __chewed up__  
 __chic__ _Target has been trying to gain back the chic status._  
 __chicanery__ _n_ :four: The use of clever plans or actions to deceive people.  
@@ -5629,7 +5631,7 @@ __franchise tag__ _n_ :three: _Pittsburg placed the franchise tag on Bell in Mar
 __franchise__ _n_ :two: __2a__ The right of membership in a professional sports league. __b__ A team and its operating organization having such membership. _Romo is the Cowboys franchise quarterback._  
 __franchisees__  
 __frangible__ _adj_ :two: Capable of being broken; breakable.  
-__frankincense__ _n_ :astonished: :es: incienso  
+__frankincense__ _n_ :two::astonished: :es: incienso  
 __Frappuccino__  
 __frat house__  
 __frat__ _A frat house._  
@@ -6426,7 +6428,7 @@ __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileles
 __guillotine__ _n_ :mega:  
 __guilt complex__ _idiom_ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilt__ :mute:[g~~u~~ilt]  
-__guilty pleasure__ _idiom_ Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
+__guilty pleasure__ _idiom_ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __guinea pig__ :mega:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ :camera:  
@@ -6654,7 +6656,7 @@ __harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy terri
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
-__hash out__ _phr v_ :two::hammer: _Jane was hashing out her agenda._  
+__hash out__ _idiom_ :two: To discuss something in detail. A noun or pronoun can be used between “hash and “out.” _I’m calling Mom right now to hash out the details for Thanksgiving dinner._  
 __hash slinger__ _idiom_ A cook or a waitress, especially at a diner or cheap restaurant. (“Hash,” in this sense, refers to a dish or stew of chopped meat and vegetables, not hashish.) Primarily heard in US.  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
@@ -7307,6 +7309,7 @@ __hypokalemia__
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
+__hysterectomy__ _n_ Surgical removal of part or all of the uterus.  
 __hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
@@ -10252,6 +10255,7 @@ __pantsed__ _v_
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __paper cut__ _He can’t stand the sight of blood, not even from a paper cut._  
 __paper tablecloth__ _n_ :two::hammer:  
+__paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
 __paperclip__ _n_  
 __paperwork__  
@@ -12131,7 +12135,7 @@ __romancer__
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
 __rondo__ _n_ (music)  
-__ronin__  
+__ronin__ _n_ :two: A lordless samurai, esp one whose feudal lord had been deprived of his territory.  
 __rood__ _n_ :two::hammer:  
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
@@ -12977,7 +12981,7 @@ __sidecar shovelhead__
 __sided__ _Installed in all sided (vs brick) homes._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sideline<sup>2</sup>__ _v_ :two::hammer: (sidelined) _The first baseman is expected to be sidelined for seven to 10 days._  
-__sidestep__ _v_ :five::hammer: (sidestepped)  
+__sidestep__ _v_ :six::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
@@ -14384,6 +14388,7 @@ __tailspin<sup>1</sup>__ _n_ :four::hammer:
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
 __take (one’s) side__ _idiom_ To support or side with one in an argument.  
+__take a dive__ _idiom_  
 __take a leak__  
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
@@ -15660,7 +15665,7 @@ __verbally__
 __verbatim__  
 __verberize__  
 __verbiage__ _n_ :two::hammer:  
-__verbicide__ _n_  
+__verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verdant__ _Verdant hills._  
