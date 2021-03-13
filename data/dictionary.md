@@ -9587,7 +9587,7 @@ __newsstand__ _n_ :pencil2:
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
-__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :eight::hammer: _The little person broke one off and nibbled at it daintily._  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :eight: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
 __nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
@@ -9954,7 +9954,7 @@ __onlooker__ _n_ :two::hammer: (onlookers)
 __only problem is__  
 __onset__ _n_ :six::hammer: _Early onset dementia._  
 __onslaught__ _n_ :two::hammer:  
-__onus__ _n_ :eight::hammer: _The onus for change._ _Ward’s statement puts the onus back on us._  
+__onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __oodles__ _idiom_ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __oofs__  
 __oompah__ _n_ :two::hammer: _The house oompah band._  
@@ -10708,7 +10708,7 @@ __pipeyard__
 __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges of clothes or furniture. _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
-__pique<sup>2</sup>__ _v_ :nine::pencil2::hammer: (piques, piqued) _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._  
+__pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
