@@ -328,7 +328,7 @@ __aide__ _n_ :two::hammer: (aides)
 __ail__ _v_  
 __ailerons__  
 __ailing__ _v_ :four::hammer: _It is ailing the NFL._  
-__ailment__ _n_ :four: Mild illness.  
+__ailment__ _n_ :five: An often persistent bodily disorder or disease; a cause for complaining. Mild illness. _Syn_ complaint, ill _She pretended that she was always well now, and concealed her ailments so craftily that we had to probe for them._  
 __ails__ _v_ :two::hammer:  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
@@ -1086,7 +1086,9 @@ __be in over (one’s) head__ _idiom_ To be too deeply involved in or with a dif
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be kicked upstairs__ _idiom_ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
 __be knocking on heaven’s door__ _idiom_ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
+__be left (out) in the cold__ _idiom_ To be ignored, forgotten, or excluded, as from a group, activity, benefit, etc.  
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
+__be left in the lurch__ _idiom_ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -2790,6 +2792,7 @@ __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
+__coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
 __coerce__ _v_  
 __coerced__  
 __coercion__ _n_  
@@ -4557,7 +4560,7 @@ __EKG__
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
 __elaborate__ _v_ :dart:  
 __élan__ _n_ :pencil2:  
-__elate__ _v_ :three::hammer: (elated) _They came to be elated and uplifted._  
+__elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :three::hammer:  
 __elation__ _n_ :four::hammer:  
 __elbow grease__ _idiom_ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
@@ -6900,6 +6903,7 @@ __heretic<sup>1</sup>__ _n_
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ _adv_ :two::hammer:  
 __herky__ (herky-jerky driving)  
+__hermeneutic__ _adj_  
 __hermit__  
 __heroics__ _DH David Ortiz will be remembered for his postseason heroics._  
 __heron__ _n_ :three::hammer: (herons)  
@@ -7304,6 +7308,7 @@ __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is
 __hypocrisy__  
 __hypocrite__  
 __hypocritical__ _adj_ :two::hammer::pencil2:  
+__hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitter, or salty substances). The complete lack of taste is referred to as ageusia. Causes of hypogeusia include the chemotherapy drug bleomycin, an antitumor antibiotic, as well as zinc deficiency.  
 __hypoglycemia__  
 __hypokalemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
@@ -8675,6 +8680,7 @@ __loss one’s marbles__ _idiom_ To be or become mentally deficient, incompetent
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lothario__ _The second verse of_ You’re So Vain _is about one-time Hollywood lothario Warren Beatty._  
 __lotto__ _n_ Lottery.  
+__louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
 __loudmouth__ _I was a loudmouth._  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
@@ -8722,7 +8728,7 @@ __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out 
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
 __luminaria__ _n_ A traditional Mexican Christmas lantern originally consisting of a candle set in sand inside a paper bag.  
-__luminary__ _n_ :two::hammer: _Hollywood luminaries._  
+__luminary__ _n_ :three::hammer: _Hollywood luminaries._  
 __lummox__ _n informal_ A clumsy or stupid person.  
 __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protuberance or localized enlargement. __3__ A large piece of something without definite shape. _A lump sum for a report._  
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
@@ -11050,6 +11056,7 @@ __preceded__ _v_
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ _n_ :two::hammer:  
 __precint__  
+__precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision__ _Precision medicine._  
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
@@ -12361,6 +12368,7 @@ __sandwich__ :mute:[san~~d~~wich]
 __sandy-haired__  
 __sangfroid__ _n_ :two::hammer:  
 __sanguine__ _adj_ :seven::hammer::astonished:  
+__sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
@@ -15265,6 +15273,7 @@ __tussling__ _v_
 __tut__ _v_ (tutted)  
 __tut-tutting__  
 __tutelage__ _n_ :two::hammer:  
+__tutelary__ _adj_ Providing protective supervision; watching over or safeguarding. _Tutelary gods._  
 __tutor__ _n_  
 __tutu__  
 __tux__ _n informal_ A tuxedo.  

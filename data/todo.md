@@ -1,15 +1,3 @@
-__tutelary__ _adj_ Providing protective supervision; watching over or safeguarding. _Tutelary gods._  
-__be left (out) in the cold__ _idiom_ To be ignored, forgotten, or excluded, as from a group, activity, benefit, etc.  
-__louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
-__coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
-__be left in the lurch__ _idiom_ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
-__precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
-__sanguinolency__ _n_ Addiction to bloodshed.  
-__luminary__ _n_  
-__hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitter, or salty substances). The complete lack of taste is referred to as ageusia. Causes of hypogeusia include the chemotherapy drug bleomycin, an antitumor antibiotic, as well as zinc deficiency.  
-__ailment__ _n_ An often persistent bodily disorder or disease; a cause for complaining. _Syn_ complaint, ill _She pretended that she was always well now, and concealed her ailments so craftily that we had to probe for them._  
-__hermeneutic__ _adj_  
-__elated__ _v_  
 __embers__ _n_ _The embers that burn within your soul._  
 __embroider__ _v_ (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __entwine__ _v_ Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
