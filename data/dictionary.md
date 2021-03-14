@@ -2578,7 +2578,7 @@ __Christmas fly__
 __Christmas__ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
 __chuck out__ _v_  
-__chuck__ _v_ :nine::hammer: (chucked, chucking) _I made plans to chuck everything._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ _We couldn’t be domesticated, so they chucked us out._  
+__chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
@@ -8742,7 +8742,7 @@ __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lung
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
 __lupine__  
 __lupus__  
-__lurch__ _v_ :nine::hammer: (lurched, lurching) _We lurched around a bend._ _The clock was lurching and stopping._ _The cart rumbled and lurched._  
+__lurch__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :three::hammer:  
@@ -10831,7 +10831,7 @@ __plies__ _v_
 __plight__ _n_ :six: Tough situation.  
 __plinian__ _adj_  
 __plinth__ _n_ :four::hammer: (plinths)  
-__plod__ _v_ :eight::hammer: (plodded, plodding) _Plod to the shower._ _Average people go to work and plod through the day._  
+__plod__ _v_ :eight: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
 __plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
