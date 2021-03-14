@@ -1,15 +1,3 @@
-__unwieldy__ _adj_ __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
-__ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
-__legal eagle__ _idiom_ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
-__protract__ _v_ Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend  
-__bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
-__blindside<sup>1</sup>__ _n_ __1__ The part of one’s field of vision, as to the side or rear, where one cannot see approaching objects. __2__ The side opposite that toward which a person is looking.  
-__blindside<sup>2</sup>__ _v_ __1__ To hit or attack on or from the blind side. __2__ To catch or take unawares, especially with harmful or detrimental results: _The news blindsided us._  
-__animus__ _n_ __1__ Strong dislike or enmity; animosity. __2__ Purpose; intention; animating spirit.  
-__squall__ _n_ A sudden strong wind or brief turbulent storm.  
-__williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
-__nouny__ _adj_  
-__be left to (one’s) own devices__ _idiom_ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __embers__ _n_ _The embers that burn within your soul._  
 __embroider__ _v_ (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __entwine__ _v_ Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  

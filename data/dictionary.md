@@ -497,7 +497,7 @@ __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :three::pencil2::hammer: _The animus between the Yankees and Red Sox._ :es: odio  
+__animus__ _n_ :four::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
@@ -1090,6 +1090,7 @@ __be left (out) in the cold__ _idiom_ To be ignored, forgotten, or excluded, as 
 __be left holding the bag__ _idiom_ To have responsibility or guilt for something foisted upon oneself; to take the blame for something. Primarily heard in US.  
 __be left in the lurch__ _idiom_ To be left or abandoned without assistance in a particularly awkward, difficult, or troublesome situation. (Sometimes written as “left in a lurch.”) _I’ll really be left in the lurch if the manager decides to quit before this project is finished._  
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
+__be left to (one’s) own devices__ _idiom_ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be no picnic__ _Looking after four children is no picnic._  
 __be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
@@ -1434,8 +1435,8 @@ __blind as a bat__
 __blind date__  
 __blinders__ _n_  
 __blindfold__ _n_  
-__blindside<sup>1</sup>__ _n_ _Blindside blocks._  
-__blindside<sup>2</sup>__ _v_ :five: (blind side, blindsided) To catch off guard; to take by surprise.  
+__blindside<sup>1</sup>__ _n_ :two: __1__ The part of one’s field of vision, as to the side or rear, where one cannot see approaching objects. __2__ The side opposite that toward which a person is looking. _Blindside blocks._  
+__blindside<sup>2</sup>__ _v_ :six: (blind side, blindsided) __1__ To hit or attack on or from the blind side. __2__ To catch or take unawares, especially with harmful or detrimental results: _The news blindsided us._  
 __bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
 __blip<sup>1</sup>__ _n_ :five: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
@@ -1578,6 +1579,7 @@ __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow ove
 __bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
 __bone spurs__  
 __bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
+__bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
 __bonfire__  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
@@ -8388,6 +8390,7 @@ __lefty buckets__
 __leg up__ _idiom_ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
 __leg work__ _idiom_ :two::hammer:  
+__legal eagle__ _idiom_ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
 __legal tack__  
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ Physical or mental quickness; nimbleness; agility.  
@@ -9719,6 +9722,7 @@ __notorious__
 __notwithstanding__ _prep_ :five::hammer:  
 __nought__ :mute:[nou~~gh~~t]  
 __noun__ _n_  
+__nouny__ _adj_  
 __nova__  
 __novelette__  
 __novella__  
@@ -11260,8 +11264,7 @@ __protean__ _adj_ :four::hammer:
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
-__protract__ _v_ To draw out or lengthen in time; prolong: _disputants who needlessly protracted the negotiations._  
-__protracted__  
+__protract__ _v_ :three: (protracted) Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend _Wisputants who needlessly protracted the negotiations._  
 __proved__ _His first story proved immensely popular._  
 __provenance__  
 __provender__  
@@ -13713,7 +13716,7 @@ __squack__
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :five::pencil2::hammer: _Squalid home._  
-__squall__ _n_ :three::hammer:  
+__squall__ _n_ :four: A sudden strong wind or brief turbulent storm.  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander<sup>1</sup>__ _v_ :three::hammer: _Do not squander time._  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
@@ -15428,6 +15431,7 @@ __unfold__ _v_ :four::hammer: _Mysteries unfold._
 __unforeseen__ _Unforeseen difficulties._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
 __ungulate__  
@@ -15491,7 +15495,7 @@ __untuck__ _v_
 __unwarranted__  
 __unwary__ _adj_  
 __unwielding__  
-__unwieldy__ _adj_ :two::hammer:  
+__unwieldy__ _adj_ :three: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
 __unwittingly__ _adv_ :two::hammer:  
@@ -16134,6 +16138,7 @@ __wilfull__
 __will__ _v_  
 __willful__  
 __willfully__  
+__williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
 __willpower__ _n_  
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __willyard__ _adj_  
