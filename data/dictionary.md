@@ -4607,7 +4607,7 @@ __embankment__
 __embargo__ _n_  
 __embark__ _They embark on a motorcade._  
 __embattle__ _v_ :four::hammer: (embattled)  
-__ember__ _n_ :three: (embers) A small piece of burning or glowing coal or wood in a dying fire.  
+__ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
 __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzlement__ _n_  
 __embezzler__ _n_ _Embezzlers are heading to Delaware._  
@@ -4617,7 +4617,7 @@ __embody__ _v_
 __embolden__ _v_ :two::hammer:  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
-__embroidered__  
+__embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __embroil__ (embroiled)  
 __embryo__  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
@@ -4729,7 +4729,7 @@ __entrench__ _v_ :nine: (entrenched) Establish (an attitude, habit, or belief) s
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
-__entwined__  
+__entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
 __enunciation__  
 __envelop__ _v_  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
@@ -4753,6 +4753,7 @@ __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet fr
 __epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
+__Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
 __Equality State__ _n_ WY, Wyoming.  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
@@ -4790,10 +4791,12 @@ __eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from s
 __eschews__ _v_  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
+__esoteric__ _adj_  
 __ESP__ _abbr_ Extrasensory perception. _ESP powers._  
 __espadrilles__ _n_  
 __esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
+__esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
 __essential__ _Special K - 8 essential vitamins._  
 __essentials__ _n_  
@@ -4846,7 +4849,8 @@ __ewes__ _n_
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_ :seven: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exact__ _v_ :eight: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exaggeration__ _n_ :pencil2:  
 __exasperation__  
 __exceed__ _v_  
 __exceedingly__  
@@ -4916,6 +4920,7 @@ __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunge
 __exquisite__ _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
+__extensively__ _She’s been working extensively._  
 __extent__ _To the same extent._  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
@@ -5032,6 +5037,7 @@ __fandom__ _n_ :two::hammer:
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
+__fantabulous__ _adj_ _informal_ Very good; excellent.  
 __fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
 __fantasticate__ _v_ To make fantastic.  
@@ -5049,6 +5055,7 @@ __farfetch__ _v_ (farfetched)
 __farflung__ _Farflung operations and profits._  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_  
+__farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __Fart, Barf, and Itch__ _idiom_ :two: Jocular interpretation of the acronym FBI.  
 __farther__ _adv_ :two::hammer:  
@@ -5211,7 +5218,8 @@ __figments__
 __figuratively__ _adv_  
 __figure out__ _phr v_ :two::hammer:  
 __figure skates__ _n_  
-__figure__ _5-figure price tag._  
+__figure<sup>1</sup>__ _n_ _5-figure price tag._  
+__figure<sup>2</sup>__ _v_ _informal_  
 __figurehead__ _n_ :two::hammer:  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  

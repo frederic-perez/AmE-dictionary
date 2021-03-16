@@ -1,15 +1,3 @@
-__embers__ _n_ _The embers that burn within your soul._  
-__embroider__ _v_ (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
-__entwine__ _v_ Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
-__Epsom salts__  
-__esoteric__ _adj_  
-__esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
-__exact__ _v_  
-__exaggeration__ _n_ :pencil2:  
-__extensively__ _She’s been working extensively._  
-__fantabulous__ _adj_ _informal_ Very good; excellent.  
-__farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
-__figure__ _v_ _informal_  
 __flotation tank__  
 __forebear__ _n_ A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __foul-smelling__ (?)  
