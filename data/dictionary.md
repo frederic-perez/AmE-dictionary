@@ -5029,7 +5029,7 @@ __fanaticism__ _Fanaticism consists of redoubling your efforts when you have for
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
 __fanciful__  
-__fancy-pants__ _idiom_ Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
+__fancy-pants__ _idiom_ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
 __fancy<sup>2</sup>__ _v_ :two: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
@@ -5431,6 +5431,7 @@ __flopping__ _Flopping—pretending to have been fouled by an opponent—is an u
 __floppy > floppy socks__  
 __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
+__flotation tank__  
 __flotilla__ _n_ :two::mega::hammer:  
 __flotsam and jetsam__ _idiom_  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
@@ -5552,7 +5553,7 @@ __forceful__ _adj_ :two::hammer: _A forceful pitch._
 __forcible__ _adj_ :three::hammer:  
 __fore and aft__ _adv_ :two::hammer: _Printed on book paper with sixteen pages of slick stock fore and aft._  
 __fore__ _n_ :four::hammer:  
-__forebear__ _n_  
+__forebear__ _n_ :two: A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreboding__ _n_  
 __forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
@@ -6497,7 +6498,7 @@ __gutsy__
 __gutted__ _adj_ _informal_ Disappointed and upset.  
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guttersnipe__ _n_ :two: A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw’s _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
-__guzzle__ _v_ :two::hammer: _Guzzling ice water._  
+__guzzle__ _v_ :three::hammer: _Guzzling ice water._  
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __GWB__ George Washington Bridge.  
@@ -8394,6 +8395,7 @@ __leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lasciv
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__left and right__ _idiom_  
 __lefty buckets__  
 __leg up__ _idiom_ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg warmer__ _n_  
@@ -9385,7 +9387,7 @@ __mudcat__ _n_
 __muddle through__ _phr v_ To manage to do something despite difficulties.  
 __muddle__ _v_ :five: (muddled) Bring into a disordered or confusing state. _Syn_ confuse, mix up, jumble, jumble up, disarrange, disorganize, disorder  
 __muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
-__mudslide__ _n_ :two::hammer:  
+__mudslide__ _n_ :three: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
 __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious or scandalous attacks. :es: injurias  
 __muff__ _She drew from her muff a pistol._  
 __muff-diver__ _n_ :two::hammer:  
@@ -11832,7 +11834,9 @@ __reimagining__ _n_
 __reindeer__  
 __reinstate__ _v_ :three::hammer:  
 __reinstatement__ _n_  
+__reinvent (oneself)__ _idiom_ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __reiterate__ _v_  
+__reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
 __rejigged__ _v_  
 __rejiggered__  
 __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
@@ -12968,6 +12972,7 @@ __shrubbery__
 __shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
+__shucks__ _interj_ :dart: Used to express mild disappointment, disgust, or annoyance.  
 __shudder__ _v_ :four::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
@@ -13058,6 +13063,7 @@ __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where p
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
+__single-jab__ _Single-jab vacune._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
 __singletree__ _Singletree plow._  
 __sinistrality__ Left-handedness.  
@@ -15999,6 +16005,7 @@ __wet a line__
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
 __wetted__ _A wetted wick._  
+__WFH__ _abbr_  
 __Whac-A-Mole__  
 __whackadoodle__  
 __whale on (someone or something)__ _idiom_  
@@ -16302,6 +16309,7 @@ __wort__
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one’s time, effort, or interest.  
 __would you be so kind as to__ :es: sería tan amable de, tendría la bondad de  
 __would__ :mute:[wou~~l~~d]  
+__wouldn’t touch something/someone with a ten-foot pole__ _idiom_ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
 __wow factor__  
 __wow__ _v_ :two::hammer:  
 __wracked__ _v_ :two: (wracked, wracking) Smash or break forcefully.  
