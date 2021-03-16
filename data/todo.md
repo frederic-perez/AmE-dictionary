@@ -1,3 +1,16 @@
+__runner-up__ _n_ _That was a close runner-up._  
+__cold feet__ _n_ _informal_  
+__shooting gallery__ _n_ __1__ A place equipped with targets and used for practice in shooting. __2__ _slang_ A place where drug addicts can buy and inject themselves with narcotic drugs.  
+__cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
+__out of question__ (prepositional phrase) Unquestionably.  
+__(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
+__hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
+__break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
+__make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
+__impound<sup>1</sup>__ _n_ _The impound yard._  
+__impound<sup>2</sup>__ _v_ (impounded)  
+__anticipate__ _v_ (anticipated)  
+__bookie__ _n_  
 __foul-smelling__ (?)  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __gush__ _v_ (gushed)  
@@ -12,7 +25,6 @@ __hoofprint__ _n_ (hoofprints)
 __hummingbird__ _n_ :es: colibrí  
 __immanent__  
 __imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
-__impound__ _v_ (impounded)  
 __in quotation marks__ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __induct__ _v_ Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
 __inextricable__ _adj_  
