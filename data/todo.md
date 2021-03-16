@@ -1,3 +1,13 @@
+__reinvent (oneself)__ _idiom_ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
+__wouldn’t touch something/someone with a ten-foot pole__ _idiom_ (_BrA_ wouldn’t touch something/someone with a barge pole BRITISH) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
+__reject__ _v_ __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
+__fancy-pants__ _adj_ _slang_ Fancy or snobbish; foppish; dandified.  
+__mudslide__ __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
+__guzzle__ _v_  
+__shucks__ _interj_ :dart: Used to express mild disappointment, disgust, or annoyance.  
+__WFH__  
+__single-jab__ _Single-jab vacune._  
+__left and right__ _idiom_  
 __flotation tank__  
 __forebear__ _n_ A person from whom one is descended. _Syn_ ancestor, predecessor, progenitor _I am hoping that a visit to the land of my forebears will help me get in touch with my roots._  
 __foul-smelling__ (?)  
