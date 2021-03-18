@@ -10881,7 +10881,7 @@ __plunger__ _n_ :two::hammer: _The syringe’s plunger._
 __plurale tantum__ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
-__ply__ _v_ :nine::hammer: (plying) _It is the perfecting designed environment to ply his trade._ _He was plying a broom._ _If she wanted to ply her trade on the premises, the manager wanted a cut._  
+__ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __PM__ Particulate matter. Small particles in the air, containing a variety of components.  
 __PMS__ _abbr_ Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
@@ -11063,7 +11063,7 @@ __practitioner__ _GTD practitioner._
 __Praetorian__  
 __pram suit__ _n_  
 __pram__ _n_ :three::hammer:  
-__prance__ _v_ :eight::hammer: (pranced, prancing) _On the floor exercise, Wieber prances, tumbles and smiles._ _The horse pranced._ _Prancing reindeer._  
+__prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
 __prat__ _He could be such a prat at times._  
 __prattle<sup>1</sup>__ _n_  
 __prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
@@ -11082,7 +11082,7 @@ __precision__ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :nine::hammer: _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
+__predicament__ _n_ :nine: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
 __preeminent__ _adj_ :three::hammer:  
 __preempt__ _v_  
 __preemptive__  
