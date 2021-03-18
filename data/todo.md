@@ -1,15 +1,3 @@
-__doomscrolling__ _n_ (doom-scrolling) The practice of obsessively checking online news for updates, especially on social media feeds, with the expectation that the news will be bad, such that the feeling of dread from this negative expectation fuels a compulsion to continue looking for updates in a self-perpetuating cycle.  
-__adroitly__ _adj_ With expert or dexterous use of the hands or body; nimbly.  
-__jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
-__paroxysmal__ _adj_ Sudden and uncontrolled.  
-__phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
-__l’esprit de l’escalier__ _idiom_ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
-__coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
-__replete__ _adj_  
-__runner-up__ _n_ _That was a close runner-up._  
-__cold feet__ _n_ _informal_  
-__shooting gallery__ _n_ __1__ A place equipped with targets and used for practice in shooting. __2__ _slang_ A place where drug addicts can buy and inject themselves with narcotic drugs.  
-__cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __out of question__ (prepositional phrase) Unquestionably.  
 __(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  

@@ -236,7 +236,7 @@ __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
-__adroitly__ _adv_ :two: In an adroit manner. _He handled the situation adroitly._  
+__adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulation__  
 __adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulterate__ _v_  
@@ -2092,6 +2092,7 @@ __cagily__ _adv_
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
 __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
+__cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
@@ -2824,7 +2825,7 @@ __coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope 
 __coke-bottle glasses__  
 __colander__ _n_ :two::hammer:  
 __cold duck__  
-__cold feet__ _idiom_  
+__cold feet__ _idiom_ :two::hammer:  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
@@ -3157,6 +3158,7 @@ __cornerstone__ _n_
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :five::hammer:  
+__coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
 __coronet__ _n_  
 __corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
 __corporate ladder__ _idiom_  
@@ -4168,6 +4170,7 @@ __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tabl
 __doofer__ _n informal_  
 __dookie-wookie__  
 __doom and gloom__ _idiom_ :two: A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_.  
+__doomscrolling__ _n_ (doom-scrolling) The practice of obsessively checking online news for updates, especially on social media feeds, with the expectation that the news will be bad, such that the feeling of dread from this negative expectation fuels a compulsion to continue looking for updates in a self-perpetuating cycle.  
 __door-to-door dash__  
 __doorbuster__ _n_ :four: (door-buster) A doorbuster is a marketing and sales strategy retailers use to get a high volume of customers into their stores. During a doorbuster sale, a particular item or a selection of items is given at a special discount price for a limited period. _Employees went to stores to see if doorbuster deals were available online._  
 __doorknob hanger__  
@@ -7889,6 +7892,7 @@ __jimmied__ _v_ :two::hammer:
 __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_  
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
 __jingoism__ _n_ :three::hammer:  
+__jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
 __jinks__  
 __jinx<sup>1</sup>__ _v_  
 __jinx<sup>2</sup>__ _n_  
@@ -8191,6 +8195,7 @@ __kurtosis__ _n_
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
 __L-plate__ _He saw the L-plate on the back of the car._  
+__l’esprit de l’escalier__ _idiom_ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
 __labor under the illusion of/that__ _idiom_ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
@@ -10327,7 +10332,7 @@ __parlor__
 __parochial__ _adj_ :four::hammer:  
 __parolee__ _n_  
 __paroxysm__  
-__paroxysmal__  
+__paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
 __parried__ _v_  
 __parrot nose pliers__ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
@@ -10592,6 +10597,7 @@ __pharmaceutical__ _adj_ :two::dart::mega: \[ˌfɑr məˈsu tɪ kəl\] (fär′m
 __phase out__  
 __phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
+__phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
 __phew__ _interj_ :two: Used to express relief, fatigue, surprise, or disgust.  
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
@@ -11901,6 +11907,7 @@ __repercussion__ _n_ :dart:
 __repertoire__  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
 __replenishing__ _n_  
+__replete__ _adj_  
 __reportedly__ _adv_ :two::hammer: _Apparently his cellphone battery reportedly died._  
 __repote__ _n_  
 __reprehensible__ _adj_ Bringing or deserving severe rebuke or censure. _Syn_ condemnable, deplorable _I must apologize for my children’s reprehensible behavior, which I assure you will not go unpunished._  
@@ -12281,7 +12288,7 @@ __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
 __rundown__ _n_ :two::hammer:  
 __rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
-__runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
@@ -12896,7 +12903,7 @@ __shoot yourself in the foot__ _idiom_ To do or say something that causes proble
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
 __shootaround__ _n_ :four::hammer: (basketball)  
-__shooting gallery__  
+__shooting gallery__ _n_ :two: __1__ A place equipped with targets and used for practice in shooting. __2__ _slang_ A place where drug addicts can buy and inject themselves with narcotic drugs.  
 __shootout__ _n_ :two: __1a__ A gun fight. __b__ A battle between military forces. __2__ _Sports_ __a__ A high-scoring period or game. __b__ A means of resolving a tie in sports such as soccer and hockey, in which selected players from each team alternately take individual shots on a goal defended only by a goalie. :es: tanda de penalties  
 __shop kid__  
 __shopkeeper__ _n_ :three::hammer:  
