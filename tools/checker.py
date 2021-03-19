@@ -370,8 +370,9 @@ class Checker(object):
             self.treat_colon_underscore(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
-        if entry_has_tag_of_any_number(entry, 2, 9) and \
-           entry_misses_part_of_speech(entry):
+        # if entry_has_tag_of_any_number(entry, 2, 9) and \
+        #   entry_misses_part_of_speech(entry):
+        if entry_misses_part_of_speech(entry):
             tokens = entry.split()
             do_print = False
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
