@@ -1,15 +1,3 @@
-__hound__ _v_ _She was hounded by the media and online trolls until she could take no more._  
-__focus__ _n_ :mega:  
-__machine__ _n_ :mega:  
-__colleague__ _n_ :mega:  
-__women__ _n_ :mega:  
-__money__ _n_ :mega:  
-__normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
-__jam__ _v_  
-__know a thing or two__ _idiom_ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
-__(deep) in the weeds__ _idiom_  
-__masseur__ _n_ A man who gives massages professionally. :es: masajista  
-__masseuse__ _n_ A woman who gives massages professionally. :es: masajista  
 __out of question__ (prepositional phrase) Unquestionably.  
 __(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  

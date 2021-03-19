@@ -13,6 +13,7 @@ __, so why (even) bother?__
 __, to say the least.__  
 __“duh” department__ :astonished: _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
 __(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.  
+__(deep) in the weeds__ _idiom_  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
 __(it’s/there’s) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
@@ -2840,7 +2841,7 @@ __collapsible__ _Collapsible shutters._
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
-__colleague__ :mute:[colleag~~u~~e]  
+__colleague__ _n_ :two::mega::mute:[colleag~~u~~e]  
 __collect (one’s) wits__ _idiom_ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ _idiom_ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __collect__ _v_ _Click and collect._  
@@ -5480,6 +5481,7 @@ __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2_
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ _n_ :two::hammer:  
 __focal fibrosis__  
+__focus__ _n_ :mega:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
@@ -7208,7 +7210,7 @@ __hot-wired__
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
-__hounding__ _v_ :two::hammer:  
+__hound__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
 __hounds__ _n_  
 __hour__ :mute:[~~h~~our]  
 __hourlong__ _The hourlong meeting._  
@@ -7822,7 +7824,7 @@ __jakelegs__
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
 __jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
 __jam up__ _v_  
-__jam__ _v_  
+__jam__ _v_ :two::hammer:  
 __jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
 __jambalaya__ _n_  
 __jamboree__ _n_ :four::hammer: _A campfire jamboree._  
@@ -8155,6 +8157,7 @@ __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._
 __knot__ :mute:[~~k~~not]  
 __knotty__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
+__know a thing or two__ _idiom_ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better__ _But I knew better._  
 __know full well__ _idiom_ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
@@ -8787,6 +8790,7 @@ __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almond
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
+__machine__ _n_ :mega:  
 __machinery__ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ _n_ :two::hammer: :es: caballa  
@@ -8953,7 +8957,8 @@ __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; us
 __masonry__  
 __masquerade__ _n_  
 __massacre__ _n_ _There were public roundups and massacres._  
-__masseuse__ _n_  
+__masseur__ _n_ A man who gives massages professionally. :es: masajista  
+__masseuse__ _n_ :two: A woman who gives massages professionally. :es: masajista  
 __massive__  
 __mast__ _n_ _The flag was flown at half mast._  
 __mastermind__ _v_ :two::hammer: (masterminding)  
@@ -9275,6 +9280,7 @@ __money laundering__ _idiom_ The act of engaging in transactions designed to obs
 __money on the hoof__  
 __money pit__  
 __money talks__ _idiom_ Rich people can get what they want.  
+__money__ _n_ :mega:  
 __moneyed__  
 __monger__ _v_ :seven: (mongering) To disseminate, promote, etc., often in a way that is regarded as deceptive or self-serving. _Hate-mongering._  
 __monied__ _v_  
@@ -9713,6 +9719,7 @@ __noose<sup>1</sup>__ _n_ :six::hammer: (nooses)
 __noose<sup>2</sup>__ _v_  
 __NorCal__ Northern California.  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy,” about getting back to normal life after the war. Since then, the word has been used often instead of “normality.” _It took me months to get back to normalcy._  
+__normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
 __norovirus__  
 __north__ _The owners are seeking north of $20 billion for the company._  
 __nos__ _They got nos._  
@@ -16266,7 +16273,7 @@ __woman__ _n_ /ˈwʊmən/ :mega:
 __womanizer__ _n_ :four::hammer:  
 __womanizing__  
 __womb__ :mute:[wom~~b~~]  
-__women__ _n_ /ˈwɪmɪn/ :mega:  
+__women__ _n_ :two::mega: /ˈwɪmɪn/  
 __wondrous<sup>1</sup>__ _adj_ :five::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
 __wonk__ _n_ :three::hammer: _An economic wonk._ _A telegenic policy wonk._  
