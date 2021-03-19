@@ -1,3 +1,13 @@
+__levy__ _n_ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
+__fast track__ _n_  
+__dissenter__ _n_  
+__ghastly<sup>1</sup>__ _adj_ __1__ _informal_ Very bad or unpleasant. __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
+__ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
+__garter__ _n_ __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
+__funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
+__crack someone up__ _idiom_ To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._  
+__praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
+__listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __out of question__ (prepositional phrase) Unquestionably.  
 __(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
