@@ -1,14 +1,13 @@
 __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things stick together).  
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
-__-esis__ _suff_ Combining form meaning condition, action, or process.  
+__-esis__ _suffix_ Combining form meaning condition, action, or process.  
 __-esque__ _suffix_ :five: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
-__-itis__ _suff_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
+__-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
-__-year-old__ _A 56-year-old retiree._  
 __, so why (even) bother?__  
 __, to say the least.__  
 __“duh” department__ :astonished: _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
@@ -29,10 +28,10 @@ __(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
-__1:1__ One-To-One Relationship.  
+__1:1__ _abbr_ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
-__18-wheeler__ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__18-wheeler__ _n_ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
 __203__ _The Machine-Gun Shooting 203 course._  
 __21__ _n_ Drinking game.  
@@ -67,7 +66,7 @@ __a knife in the back__ _idiom_ A grievous or supreme act of treachery or betray
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
-__a little__ A positive idea. You can say: _I have a little money._ (You have some money.) “Little” is a negative idea. You can say: _I have little money left._ (You have nearly no money.)  
+__a little__ _idiom_ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
@@ -79,14 +78,13 @@ __A-list__
 __A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __A4__ :astonished: _A4 stainless steel._  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
-__Aaa__ _Aaa-rated schools ... are rated Baa._  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
 __AAVE__ _abbr_ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
-__abandon__ _Netflix is spending with abandon._  
+__abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
 __abasement__ _n_  
 __abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
@@ -154,7 +152,7 @@ __according to plan__ _idiom_ :two: In the way something is supposed to be; as e
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
 __account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
-__accountant__ :es: contable  
+__accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
 __accoutrement__ _n_ :five::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
@@ -16410,7 +16408,7 @@ __yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, o
 __year in, year out__  
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
-__years old__ _?_ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
+__year old__ _?_ :three: (-year-old) _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
