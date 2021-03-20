@@ -3252,7 +3252,7 @@ __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.
 __crab lice__ _n_  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
-__crack someone up__ _idiom_ To make someone laugh. _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
+__crack someone up__ _idiom_ :two: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
@@ -4045,7 +4045,7 @@ __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – t
 __disseminate__ _v_  
 __dissension__  
 __dissent__ _n_ :four::hammer:  
-__dissenter__ _n_ _There is not mat space for malcontents or dissenters._  
+__dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
 __disservice<sup>2</sup>__ _v_  
 __dissident__ _n_ :two::hammer:  
@@ -5067,6 +5067,7 @@ __fascia__ _n_ :two::hammer: _The car dashboard fascias._
 __fascinate__ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ :mega:  
+__fast track__ _n_  
 __fast-track__ _v_  
 __fasten__ :mute:[fas~~t~~en]  
 __fastening__ _n_  
@@ -5773,6 +5774,7 @@ __fumitory__
 __fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
 __fundraiser__ _They were at a fundraiser._  
+__funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
 __funereal__ _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funnel__ _v_ :two::hammer:  
@@ -5875,7 +5877,7 @@ __garnish__ _v_ :three: __1a__ Decorate, embellish. __b__ To add decorative or s
 __garrison__ _n_  
 __garroted__ _v_  
 __gars__ _n_ :three::hammer: _Alligator gars._  
-__garter__ _n_ :two::hammer: (garters)  
+__garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
 __gas guzzler__  
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
@@ -5994,7 +5996,8 @@ __getaway day__
 __getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
-__ghastly__ _adj_ :nine::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible  
+__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible  
+__ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
@@ -8464,7 +8467,7 @@ __leviathan__ _n_ :two::hammer:
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
-__levy<sup>2</sup>__ _n_ :four::hammer: (levies) _Infantry levies._  
+__levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
 __LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
@@ -8575,6 +8578,7 @@ __listening session__
 __listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ _adj_ :two::hammer:  
+__listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
@@ -11075,6 +11079,7 @@ __prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; ba
 __prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
+__praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
 __pre-emptive__  
 __precarious__  
 __preceded__ _v_  
@@ -16405,10 +16410,10 @@ __yawner__ _n_ _slang_ :three: Something that is very boring.
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
+__year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
 __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ longing  
-__year old__ _?_ :three: (-year-old) _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
