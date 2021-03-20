@@ -5996,7 +5996,7 @@ __getaway day__
 __getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
-__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible  
+__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
 __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ :mute:[g~~h~~etto]  
@@ -16369,9 +16369,12 @@ __write__ :mute:[~~w~~rite]
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
 __writhe__ _v_ :eight::hammer: (writhed, writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
-__writing on the wall, the__ An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
+__writing on the wall, the__ _idiom_ An omen of impending disaster or ruin. _I’ve seen the writing on the wall._  
 __writs__ _n_  
-__wrong__ :mute:[~~w~~rong]  
+__wrong<sup>1</sup>__ _adj_ :mute:[~~w~~rong]  
+__wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]  
+__wrong<sup>3</sup>__ _n_ :mute:[~~w~~rong]  
+__wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]  
 __wrongdoing__  
 __wrought-iron__  
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
@@ -16380,7 +16383,7 @@ __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour.
 __wryly__ _adv_ :three::pencil2::hammer:  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
-__X-factor__ _Terry could become Ryukyu’s X-factor._  
+__X factor__ _n_ _informal_ (X-factor) An unknown or unexplained element that makes something more interesting or valuable. _Terry could become Ryukyu’s X-factor._  
 __X’s and O’s__ _idiom_ :three: (Xs and Os) __1__ _sports_ The symbols used to denote the players on one’s team (and usually those of the opposing team) in a diagram of a play (i.e., the formation the players will take when trying to score or move the ball). The term often refers to the plays themselves. _That coach is great with the x’s and o’s, but the team’s execution has been very disappointing._ _The key is making the Xs and Os work for the Tigers._ __2__ By extension, knowledge of how something works. _Before you start on that report, call Shelly—she knows all the x’s and o’s of the budget._ __3__ Kisses and hugs.  
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
@@ -16417,7 +16420,7 @@ __yearning__ _n_ :five: (yearnings) Prolonged unfulfilled desire or need. _Syn_ 
 __yeast__ _n_  
 __yell out__ _phr v_ To shout loudly.  
 __yellow wine__  
-__yellow__ _slang_ A coward.  
+__yellow__ _adj_ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :three::hammer:  
@@ -16435,12 +16438,14 @@ __yipping__ _v_
 __yips__  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
 __yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
-__yo-yo__ _slang_ A stupid or crazy person.  
+__yo-yo<sup>1</sup>__ _n_ _slang_ A stupid or crazy person.  
+__yo-yo<sup>2</sup>__ _v_  
+__yo-yo<sup>3</sup>__ _adj_  
 __yo-yoing__  
 __yoke__ _n_ :two::hammer: (yokes) _Egg yoke._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
-__yolk__ :mute:[yo~~l~~k]  
-__YOLO__ You only live once.  
+__yolk__ _n_ :mute:[yo~~l~~k]  
+__YOLO__ _abbr_ You only live once.  
 __yonder__  
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
@@ -16487,7 +16492,7 @@ __zillion__
 __zinger__ _n_ :three: (zingers) A witty remark; something that is lively, interesting, amusing, or impressive. _I’ve made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
-__zip up__ To close something that has a zipper.  
+__zip up__ _v_ To close something that has a zipper.  
 __zip your lip__ _idiom_ Be quiet.  
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
