@@ -66,6 +66,7 @@ __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person’s nerves or temper)_
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
+__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
@@ -136,7 +137,7 @@ __ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and e
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._ _She rummaged through the kitchen cutlery drawer._  
-__runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._  
+__runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
