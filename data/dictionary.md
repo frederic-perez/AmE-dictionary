@@ -11434,7 +11434,7 @@ __put off by someone or something__ _idiom_ :four: Distressed or repelled by som
 __put on a clinic__  
 __put on hold__  
 __put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
-__put our heads together__ _idiiom_ To discuss or plan something together with other people.  
+__put our heads together__ _idiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_ :two::hammer: _Put out the fires._  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
 __put to the test__  
@@ -13045,7 +13045,6 @@ __signet ring__
 __significant other__  
 __signify__ _v_  
 __signposting__  
-__siitting duck__  
 __Sikh__  
 __sill__ _n_ :two::hammer: (sills) _Concrete sills._  
 __silly boy__  
@@ -13099,7 +13098,7 @@ __sit-down__ _n_ _Johnny Carp says he wants another sit-down._
 __sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
 __sitter__ _n_  
-__sitting duck__ _n_ _informal_ :three: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
+__sitting duck__ _n_ _informal_ :four: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
 __sitting on the fence__ _idiom_  
 __sitting pretty__ _idiom_ :three: Living in comfort.  
 __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __2__ A period during which one is seated and occupied with a single activity, such as posing for a portrait or reading a book. _I watched all the episodes in just one sitting._ __3__ A session or term, as of a legislature or court.  
@@ -16113,7 +16112,7 @@ __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of 
 __white-knuckle ride__  
 __whitelist__ _v_  
 __whiteout__  
-__whitespace__ _slang_ An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
+__whitespace__ _n_ _slang_ (Financial) An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
 __whitewash__ _v_ :four::hammer:  
 __whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.  
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
@@ -16122,12 +16121,14 @@ __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantag
 __whizz__  
 __whizzing__  
 __WHO__  
-__who__ :mute:[~~w~~ho]  
+__who__ _pron_ :mute:[~~w~~ho]  
 __whoa__ _interj_ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
 __whole milk__  
 __whole nine yards, the__  
-__whole__ :mute:[~~w~~hole]  
+__whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]  
+__whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
+__whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
 __wholeheartedly__  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
@@ -16152,7 +16153,7 @@ __wicker__ _n_ :three::hammer: _Wicker chair._ _They sat in wicker rockers._ :es
 __wicket__  
 __wicking__ _adj_ :three: (Textiles) Acting to move moisture by capillary action from the inside to the surface: _wicking fabric._ _Podcast hosts can’t stop yapping about sweat-whicking underwear._ _Moisture wicking._ _High-wicking polyester._  
 __wicks__ _n_ :two::hammer: _Linen wicks._  
-__widebody__ _Widebody jet._  
+__widebody__ _n_ :dart: (wide-body) A jet airliner with a cabin wide enough for passenger seating to be divided by two aisles rather than one. _Widebody jet._  
 __wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
 __wiener__ _n_  
@@ -16194,13 +16195,13 @@ __windlass__ _n_ :two::hammer:
 __window dressing__  
 __window sash__ _n_  
 __window shop__ _v_ (window shopping)  
-__window__ _Hail is tracked over a one-hour window._  
+__window__ _n_ __5__ An interval of time during which an activity can or must take place: _a window of opportunity for a space mission; a window of vulnerability when the air force was subject to attack._  
 __windshear__ _n_ :four::hammer: _Windshear phenomena have caused more than 1,400 deaths in aviation._  
 __windshield wipers__  
 __windsock__  
 __windstorm__  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
-__wine list__ _The wine list._ :es: la carta de vinos  
+__wine list__ _n_ _The wine list._ :es: la carta de vinos  
 __wineskin__ _n_ _He took a sip from his wineskin._  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
 __wing__ _v_  
@@ -16234,7 +16235,7 @@ __wish list__ _n_ :three::hammer: _The community’s wish list._ _A $100 million
 __wishbone__  
 __wishful thinking__ _n_ :two: Thinking in which what one wishes were the case is believed to be real or likely to become real.  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
-__wishy washy__ _slang_ Indecisive or not reliable.  
+__wishy washy__ _idiom_ _slang_ Indecisive or not reliable.  
 __wishy-washy__ _adj_ :two: __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
 __wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
@@ -16247,7 +16248,7 @@ __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._
 __witchcraft__ _n_ :two::hammer: _A 1958 witchcraft comedy._  
 __with (one’s) pants down__ _idiom_ _slang_ In an embarrassing position.  
 __with a heavy hand__ _idiom_ In an excessive, authoritarian, or oppressive way or manner.  
-__with a passion__ _He loved her with a passion._  
+__with a passion__ _idiom_ _informal_ Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a vengeance__ _idiom_ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
 __with flying colors__ _idiom_ With distinction.  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
@@ -16260,7 +16261,7 @@ __withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sar
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
-__without fail__ _idiiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
+__without fail__ _idiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
 __withstand__ _v_ :three::hammer:  
 __wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
@@ -16275,7 +16276,7 @@ __wolfe range__
 __woman__ _n_ /ˈwʊmən/ :mega:  
 __womanizer__ _n_ :four::hammer:  
 __womanizing__  
-__womb__ :mute:[wom~~b~~]  
+__womb__ _n_ :mute:[wom~~b~~] __1__ The nontechnical name for uterus.  
 __women__ _n_ :two::mega: /ˈwɪmɪn/  
 __wondrous<sup>1</sup>__ _adj_ :five::hammer:  
 __wondrous<sup>2</sup>__ _adv_ (intensifier): it is wondrous cold.  
@@ -16314,7 +16315,7 @@ __working title__
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __workstation__ _n_ :two::hammer:  
-__worktop__ _The marble effect Formica worktops were burned and scarred._  
+__worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __wormhole__ _n_ :two::hammer:  
@@ -16324,8 +16325,8 @@ __worshiper__
 __worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
 __worthwhile__ _adj_ Sufficiently valuable or important to be worth one’s time, effort, or interest.  
-__would you be so kind as to__ :es: sería tan amable de, tendría la bondad de  
-__would__ :mute:[wou~~l~~d]  
+__would you be so kind as to__ _phr_ :es: sería tan amable de, tendría la bondad de  
+__would__ _v_ :mute:[wou~~l~~d]  
 __wouldn’t touch something/someone with a ten-foot pole__ _idiom_ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
 __wow factor__  
 __wow__ _v_ :two::hammer:  
@@ -16334,9 +16335,10 @@ __wraith__ _n_ :three: __1__ An apparition of a living person supposed to porten
 __wrangle__ _v_ :two::hammer: (wrangling)  
 __wrap (one’s) head around it__ _idiom_ :six: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
-__wrap__ :mute:[~~w~~rap]  
+__wrap<sup>1</sup>__ _v_ :mute:[~~w~~rap]  
+__wrap<sup>2</sup>__ _n_ :mute:[~~w~~rap]  
 __wraparound season__  
-__wrath__ :mute:[~~w~~rath]  
+__wrath__ _n_ :mute:[~~w~~rath]  
 __wreak havoc__ _idiom_ :three: (wreaked havoc) To cause a lot of problems.  
 __wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
@@ -16349,7 +16351,7 @@ __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wr
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
-__wrestle__ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
+__wrestle__ _v_ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
 __wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._ _The lowliest wretch among them._  
 __wretched__ _adj_ :two::hammer:  
 __wrethes__  
@@ -16359,13 +16361,13 @@ __wring out__ _v_ _She finished wringing out the jeans and shut off the water._
 __wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
-__wrist__ :mute:[~~w~~rist]  
+__wrist__ _n_ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  
 __write (one’s) own ticket__ _idiom_ :two::hammer:  
 __write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
-__write__ :mute:[~~w~~rite]  
+__write__ _v_ :mute:[~~w~~rite]  
 __write-in votes__  
 __write-up__ _n_ :two::hammer:  
 __writhe__ _v_ :eight::hammer: (writhed, writhing) _Dirt flies as 2,500 pounds writhing animal charge across the arena._ _Like writhing red fire._ _The river came alive, writhing._ _Joe writhed in terrible pain._  
