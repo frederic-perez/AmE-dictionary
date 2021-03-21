@@ -1217,6 +1217,7 @@ __bellboy__ _n_
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ luggage and run errands.  
 __bellicose__  
 __bellies__ _Roots, cracks, offsets and bellies are common issues in Utah’s older homes._  
+__belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
 __bellow<sup>1</sup>__ _n_  
 __bellow<sup>2</sup>__ _v_ :five::hammer: (bellowed)  
@@ -1401,6 +1402,7 @@ __blandishments__ _n_
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
+__blarney__ _adj_ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
@@ -2181,6 +2183,7 @@ __canteen__ _n_ :two::hammer: (canteens) (flask)
 __canter up__ _v_  
 __canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
+__Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilevered__  
 __canvass__ _v_ :two::hammer::astonished:  
 __cap<sup>1</sup>__ _n informal_ :three: A capital letter. (soccer; hat?)  
@@ -2785,6 +2788,7 @@ __cobble up__ _phr v_
 __cobble__ _v_ :two::hammer: (cobbled)  
 __cobbler__ _n_  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
+__cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockerel__  
 __cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
@@ -5282,6 +5286,7 @@ __first port of call__ _idiom_ The first place where one stops to visit, accompl
 __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
+__fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fish__ _pl n_ :two:  
@@ -8424,7 +8429,7 @@ __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putti
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
 __lemme__ _Lemme see._  
 __lemming__ _n_  
-__lemon law__ An American law that protects purchasers of faulty cars.  
+__lemon law__ _idiom_ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
 __lemon wedges__ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
 __lemongrass__  
@@ -8447,6 +8452,8 @@ __lessen__ _v_
 __lesson learned__ (lesson learned)  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__let down (one’) hair__ _idiom_ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
+__let down (one’s) guard__ _idiom_ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
@@ -11149,7 +11156,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __prevail__ _v_ :two::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
-__prevaricate__ _v_ To speak or act falsely or evasively with intent to deceive.  
+__prevaricate__ _v_ :two::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie.  
 __preventable__  
 __preventative__ _Preventative antibiotics._  
 __prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -15594,6 +15601,7 @@ __uptime__ _n_ :two: The time during which a device, such as a computer, is func
 __upward__  
 __upwardly__  
 __urban legend__  
+__urbane__ _adj_ Showing a high degree of refinement and the assurance that comes from wide social experience. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
 __urbanites__  
 __urchin__ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
