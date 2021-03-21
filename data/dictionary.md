@@ -16043,11 +16043,10 @@ __what__ :mute:[w~~h~~at]
 __What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the haps?__  
 __whatnot__ _n_ :two::hammer:  
-__wheat__ :mute:[w~~h~~eat]  
-__whee!__  
+__wheat__ _n_ :mute:[w~~h~~eat]  
+__whee__ _interj_ :two: Used to express extreme pleasure or enthusiasm.  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
-__wheee!__  
-__wheel well__ _The Corvette’s wheel well._  
+__wheel well__ _n_ _The Corvette’s wheel well._  
 __wheel__ _v_ :mute:[w~~h~~eel]  
 __wheelbarrow__  
 __wheelbarrow-sledges__  
@@ -16069,7 +16068,7 @@ __whereas__
 __whereby__  
 __wherewithal__ _n_ :four::hammer:  
 __whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
-__whether__ :mute:[w~~h~~ether]  
+__whether__ _conj_ :mute:[w~~h~~ether]  
 __whetstone__  
 __whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __which way the wind blows__ _idiom_ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  
@@ -16084,16 +16083,16 @@ __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She ga
 __whimsical__ _adj_  
 __whinge__ _v_ _British English_ To keep complaining in an annoying way.  
 __whinnied__ _v_  
+__whip by__ _idiom_ (whipping by) _The summer is whipping by._  
 __whip up__ _phr v_ To make food or a meal very quickly and easily.  
 __whip<sup>1</sup>__ _v_ :mute:[w~~h~~ip]  
 __whip<sup>2</sup>__ _n_ :mute:[w~~h~~ip] _Mr. Roskam was appointed deputy whip after the 2010 elections._  
 __whiplash__ _n_ :two: Injury caused by a severe jerk to the head, typically in a car accident. _Suffering from whiplash, he spent weeks with his neck in a collar._ :es: latigazo  
 __whippersnapper__  
-__whipping by__ _The summer is whipping by._  
 __whipsaw__ _v_  
 __whir__ _n_ :two: (whirr in _British English_) Sound of something in rapid motion. _The high-pitched whir of a drill._  
-__whirl__ :mute:[w~~h~~irl]  
-__whirled__ _v_ :two::hammer:  
+__whirl<sup>1</sup>__ _v_ :mute:[w~~h~~irl]  
+__whirl<sup>2</sup>__ _n_ :two::hammer::mute:[w~~h~~irl] (whirled)  
 __whirlpool__ _n_  
 __whirlwind__ _n_ :two::hammer: _A whirlwind tour of American universities._ :es: torbellino  
 __whirlybird__ _n_ An aircraft without wings that obtains its lift from the rotation of overhead blades. _Syn_ eggbeater, helicopter, chopper  
@@ -16104,18 +16103,21 @@ __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
 __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
-__whisper__ :mute:[w~~h~~isper]  
-__whistle__ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
+__whisper<sup>1</sup>__ _n_ :mute:[w~~h~~isper]  
+__whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]  
+__whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
+__whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white lie__ _idiom_ Lie to protect another person’s feelings.  
-__white line__ (appliances)  
+__white line__ _n_ (appliances)  
 __white on rice__ _idiom_ As close as can be. Often used in the phrase “like white on rice.”  
 __white paper__  
 __white whale__ _n_ Small northern whale that is white when adult.  
-__white__ :mute:[w~~h~~ite]  
+__white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
+__white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
 __whitelist__ _v_  
