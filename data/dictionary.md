@@ -5363,7 +5363,8 @@ __flashback__
 __flashlight__ _n_  
 __flat out__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
-__flat__ _Kaufusi’s jump to BYU football proves critics flat wrong._  
+__flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
+__flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flat-chested__ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
@@ -15977,29 +15978,29 @@ __weather__ _v_ :two::hammer: (weathering)
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __webbing__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__wedding anniversary__ (not “marriage anniversary”)  
+__wedding anniversary__ _n_ (not “marriage anniversary”)  
 __wedding band__  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
 __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar  
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
-__Wednesday__ :mega::mute:[we~~d~~nesday] /’wEnzdi, -deI/  
+__Wednesday__ _n_ :mega::mute:[we~~d~~nesday] /’wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::four: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
-__weed<sup>2</sup>__ _v_ :three::hammer: _It’s like weeding a garden._  
+__weed<sup>2</sup>__ _v_ :three::hammer: (weeding) _It’s like weeding a garden._  
 __weedeater__  
-__weeding__ _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
+__weeding__ _n_ The removal of weeds. _Keep going until you get into the weeding and organizing of focus that make up the next stage._  
 __weekend__ _n_  
-__weeklong__ _A weeklong seminar._  
+__weeklong__ _adj_ _A weeklong seminar._  
 __weevil__ _n_ :two::hammer: _Weevil worms._  
 __weevils__  
 __weigh down__ _idiom_ To make someone heavy and unable to move easily.  
 __weigh up__ _phr v_ To calculate, to estimate.  
 __weigh__ _v_ :two::mute:[wei~~gh~~] :es: sopesar?  
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
-__weighty__ _His weighty agenda._  
+__weighty__ _adj_ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don’t give a damn about the welfare of their families._ :es: bienestar, prosperidad  
 __well out__ _v_  
 __well played__ _idiom_  
@@ -16028,18 +16029,23 @@ __wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To pro
 __wet a line__  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
-__wetted__ _A wetted wick._  
+__wet__ _v_ (wetted) _A wetted wick._  
 __WFH__ _abbr_  
 __Whac-A-Mole__  
 __whackadoodle__  
 __whale on (someone or something)__ _idiom_  
-__whale__ :mute:[w~~h~~ale]  
+__whale<sup>1</sup>__ _n_ :mute:[w~~h~~ale]  
+__whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]  
 __whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _“The alarm goes off and—whammo!—we’re all at our assigned stations.” (Meg Greenfield)._  
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
-__what__ :mute:[w~~h~~at]  
+__what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
+__what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
+__what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
+__what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
+__what<sup>5</sup>__ _interj_ :mute:[w~~h~~at]  
 __What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the haps?__  
 __whatnot__ _n_ :two::hammer:  
@@ -16105,9 +16111,9 @@ __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]
 __whisper sweet nothings__ _idiom_ To murmur words of affection to someone in a flirtatious manner.  
 __whisper<sup>1</sup>__ _n_ :mute:[w~~h~~isper]  
 __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]  
+__whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
-__whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
@@ -16116,10 +16122,10 @@ __white line__ _n_ (appliances)
 __white on rice__ _idiom_ As close as can be. Often used in the phrase “like white on rice.”  
 __white paper__  
 __white whale__ _n_ Small northern whale that is white when adult.  
-__white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
-__white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
+__white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]  
+__white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __whitelist__ _v_  
 __whiteout__  
 __whitespace__ _n_ _slang_ (Financial) An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
@@ -16489,7 +16495,6 @@ __zeightgeist__
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
 __zenith__ _n_ :mega:  
 __zeppelin__ _n_  
-__zero flat__ _We are holding the room at zero flat._  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
 __zero in__  
