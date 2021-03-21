@@ -1,15 +1,3 @@
-__elude__ _v_ (eluding)  
-__coveted__ _adj_ Sought-after. _A coveted item._  
-__if you will__  
-__stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
-__gist__ _n_ :mega:  
-__pony up__ _phr v_  
-__loom large__ _idiom_ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
-__take (something) to heart__ _idiom_  
-__in any event__ _idiom_  
-__so much so__ _idiom_ :two::hammer:  
-__skimm__ _v_ :dart: __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface).  
-__scotch__ _n_ __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __hopscotch__ _n_ A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
 __stray__ _adj_ __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._  
 __truss__ _n_  

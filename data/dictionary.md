@@ -3235,7 +3235,7 @@ __cover all bases__
 __cover charge__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
-__coveted<sup>1</sup>__ _adj_  
+__coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__  
 __covey__  
@@ -4601,7 +4601,7 @@ __elite__ _n_ :two::hammer: (elites)
 __elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__  
 __elucidate__ _v_ :two::hammer:  
-__elude__ :astonished:  
+__elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
 __Elvis has left the building__ _idiom_ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
@@ -5363,10 +5363,10 @@ __flashback__
 __flashlight__ _n_  
 __flat out__  
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
+__flat-chested__ _adj_ _Flat-chested bodies._  
+__flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
-__flat-chested__ _Flat-chested bodies._  
-__flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
 __flats__ _n_  
 __flatter__ _v_ (flattered)  
@@ -6045,6 +6045,7 @@ __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexib
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __girdle__ _v_ (girdled)  
 __giridon__  
+__gist__ _n_ :mega:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _Guantanamo?_  
 __give (someone) a call__ _Give me a call._  
@@ -7383,7 +7384,7 @@ __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
-__if you will__ _idiom_ :two: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
+__if you will__ _idiom_ :three: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __iffy__ _adj_ _slang_ :four: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
@@ -7475,7 +7476,7 @@ __in all likelihood__
 __in all seriousness__ _idiom_ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ _idiom_ In one’s sincere opinion; without any disingenuousness.  
 __in and of itself__ _idiom_ Considering it alone.  
-__in any event,__ In any case: _In any event, the audience seemed pleased with your performance._  
+__in any event__ _idiom_ :two: In any case: _In any event, the audience seemed pleased with your performance._  
 __in cahoots__  
 __in check__ _Keep those emotions in check._  
 __in deep water__ _idiom_ To be in a difficult situation.  
@@ -8682,6 +8683,7 @@ __lookalike__ _These lookalike domains are used for scams._
 __looker__ _n_ :three::hammer:  
 __lookout__ _n_  
 __lookup__ _n_ :two::hammer:  
+__loom large__ _idiom_ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __loony bin__ _The Count’s plot to drive her straight to the loony bin._  
 __loony__  
 __loophole__ :es: escapatoria  
@@ -10965,7 +10967,7 @@ __ponderous__ _adj_ :five::hammer: _He shouldered his ponderous bundle._
 __pong__ Drinking game?  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
-__pony up__ _phr v_ _slang_ To pay (money owed or due).  
+__pony up__ _phr v_ _slang_ :two: To pay (money owed or due).  
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
@@ -12545,6 +12547,7 @@ __scorching__
 __score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn__ _n_ :two::hammer:  
+__scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __scoundrel__ _n_ :two::hammer:  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
@@ -13136,7 +13139,7 @@ __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or re
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
 __skillset__  
-__skim<sup>1</sup>__ _v_ :eight: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
+__skim<sup>1</sup>__ _v_ :nine::dart: (skimmed, skimming) __2a__ If someone skims money, they take small amounts from somewhere so that people do not notice it is gone. _Jim could skim huge sums of money off the casino._ _Users often skim a page by its headings._ _Skim fat from chilled pan juices and finish making gravy._ __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface). __5a__ To read or glance through (a book, for example) quickly or superficially. _He skimmed a copy of _Newsday_ abandoned by an earlier customer._  
 __skim<sup>2</sup>__ _n_  
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
@@ -13455,7 +13458,7 @@ __snuggles__
 __snugly__ _adv_ :two::hammer:  
 __so far, so good__  
 __so much so that__ _idiom_ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
-__so much so__ _So much so that working with animals has become one of his passions._  
+__so much so__ _idiom_ :three::hammer: _So much so that working with animals has become one of his passions._  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
 __so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
@@ -13993,6 +13996,7 @@ __stirring__ _adj_ :three::hammer: _Stirring tales._
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
 __stock car__ _Stock car racing._  
+__stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
 __stock__ _The plastic stock of the rifle._  
 __stock-in-trade__ _n_ (stock in trade)  
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
@@ -14437,6 +14441,7 @@ __tailspin<sup>1</sup>__ _n_ :four::hammer:
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
 __take (one’s) side__ _idiom_ To support or side with one in an argument.  
+__take (something) to heart__ _idiom_  
 __take a dive__ _idiom_  
 __take a leak__  
 __take a piss__ _idiom_ Urinate.  
@@ -16027,9 +16032,9 @@ __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._ _She had to wend her way through the crowd._  
 __wet a line__  
+__wet__ _v_ (wetted) _A wetted wick._  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
-__wet__ _v_ (wetted) _A wetted wick._  
 __WFH__ _abbr_  
 __Whac-A-Mole__  
 __whackadoodle__  
@@ -16041,13 +16046,13 @@ __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evi
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
+__What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
+__what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
 __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
 __what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
 __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
 __what<sup>5</sup>__ _interj_ :mute:[w~~h~~at]  
-__What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
-__what’s the haps?__  
 __whatnot__ _n_ :two::hammer:  
 __wheat__ _n_ :mute:[w~~h~~eat]  
 __whee__ _interj_ :two: Used to express extreme pleasure or enthusiasm.  
