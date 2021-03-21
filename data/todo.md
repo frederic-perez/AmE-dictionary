@@ -1,3 +1,13 @@
+__skimm__ _v_ :dart: __4a__ To throw so as to bounce or slide: _skimming stones on the pond._ __b__ To glide or pass quickly and lightly over or along (a surface).  
+__scotch__ _n_ __2__ (Games, other than specified) A line marked down, as for hopscotch.  
+__hopscotch__ _n_ A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
+__stray__ _adj_ __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._  
+__truss__ _n_  
+__mussel__ _n_  
+__cockle__ _n_ :es: berberecho  
+__clam__ _n_ :es: almeja  
+__razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
+__scallop__ _n_ :es: vieira  
 __out of question__ (prepositional phrase) Unquestionably.  
 __(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
