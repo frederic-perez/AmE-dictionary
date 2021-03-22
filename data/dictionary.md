@@ -27,6 +27,7 @@ __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you
 __(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
+__(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ _abbr_ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
@@ -1724,6 +1725,7 @@ __break (one’s) neck__
 __break a leg__ _idiom_ _exclamation_ :three: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
+__break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
 __break into__ _phr v_ To enter some place forcibly.  
 __break the bank__ _idiom_ To be very expensive. The phrase is often used in the negative to convey the opposite. _I don’t have enough money to go on a vacation right now; I’m afraid it would break the bank._  
 __break the ice__ _idiom_ To make people who have not met before feel more relaxed with each other.  
@@ -2640,6 +2642,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyant__  
 __clam up__ _v_  
+__clam__ _n_ :es: almeja  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
@@ -2791,6 +2794,7 @@ __cobweb__ _n_ :six::hammer: (cobwebs)
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockerel__  
 __cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
+__cockle__ _n_ :es: berberecho  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
@@ -7174,7 +7178,7 @@ __hope against (all) hope__ _idiom_ To continue to hope for something even thoug
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in_ _The Wiz Live!_  
 __Hopi__ _n_  
 __hopped cars__  
-__hopscotch__  
+__hopscotch__ _n_ :two: A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
 __horn buttons__ :camera:  
 __Horn of Africa__ :camera: Somalia.  
 __horn__ _n_  
@@ -7209,6 +7213,7 @@ __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _G
 __hot seat__  
 __hot spring__ _n_  
 __hot tip__ _idiom_ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
+__hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
 __hot water__ _n_  
 __hot__ _We’ve got a hot crowd tonight._  
 __hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
@@ -9467,7 +9472,7 @@ __muskrat__ _The muskrat season._
 __muslin__ _n_ :two::hammer: _Muslin swaddles._ :es: muselina  
 __muss__ _No fuss, no muss._  
 __mussed__ _v_  
-__mussel__ _n_ :two: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
+__mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
@@ -10076,6 +10081,7 @@ __out of hand__
 __out of kilter__ _idiom_ :two: _Out of kilter with the times._  
 __out of order__  
 __out of pocket__ _idiom_ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
+__out of question__ _phr_ (prepositional phrase) Unquestionably.  
 __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritable. In an irritable, grouchy, or unhappy mood; not feeling well or in good spirits. _I think something is bugging John, because he’s been rather out of sorts lately._  
 __out of steam__ _idiom_ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
@@ -11711,6 +11717,7 @@ __ray flower__ _n_ (ray floret) One of the flattened marginal florets surroundin
 __raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
 __razor sharp__  
 __razor strop__  
+__razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
 __razzle-dazzle__ _n_ _informal_ :two::hammer:  
 __razzmatazz__ _n_  
@@ -12472,7 +12479,7 @@ __scaffold__ _n_ :mega::two::hammer:
 __scaffolding__ _n_  
 __scale up__ _v_ _That’s the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
-__scallop__ _n_ :two::hammer: _A scallop-shell logo._  
+__scallop__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
 __scalp bounties__  
 __scalp__ _v_ :two: __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
 __scalpel__  
@@ -14081,7 +14088,7 @@ __stratovolcano__ _n_
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
 __stray<sup>1</sup>__ _v_ :eight: (strays, strayed, straying) __1__ To move away from a group, deviate from the correct course, or go beyond established limits. _Every individual who strays will be punished._ __2__ To become lost. __3__ To wander about without a destination or purpose; roam.  
-__stray<sup>2</sup>__ _adj_ :six::hammer: _A stray word._ _Stray steeples._ _Stray friends._ _Stray canines._ _Stray dogs._ _Stray goats._  
+__stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ _Stray canines._ _Stray goats._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._ _A stray word._ _Stray steeples._ _Stray friends._  
 __stray<sup>3</sup>__ _n_  
 __streak__ _n_ :two::hammer: _A cold streak._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
@@ -15239,6 +15246,7 @@ __truly__ _adj_ :two::hammer: _We truly appreciate it._
 __trumpet__ _v_  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
+__truss__ _n_  
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
@@ -15877,10 +15885,10 @@ __walk on eggs__ _idiom_ :two: (walk on eggshells) To act or proceed with great 
 __walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
-__walk<sup>1</sup>__ _v_ :mute:[wa~~l~~k]  
-__walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]  
 __walk-on__ _n_ :two: __1__ A small part in a play or other entertainment, esp. a part without speaking lines.  
 __walk-through__ _n_ __1__ A thorough demonstration or explanation that details each step of a process. __2__ A brief rehearsal, as of a play or role, performed usually in an early stage of production.  
+__walk<sup>1</sup>__ _v_ :mute:[wa~~l~~k]  
+__walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]  
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  

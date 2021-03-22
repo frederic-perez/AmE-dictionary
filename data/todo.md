@@ -1,15 +1,3 @@
-__hopscotch__ _n_ A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
-__stray__ _adj_ __1__ Straying or having strayed; wandering or lost: _stray cats and dogs._ __2__ Scattered or separate: _a few stray crumbs._ _I still use this language gem in stray conversations._  
-__truss__ _n_  
-__mussel__ _n_  
-__cockle__ _n_ :es: berberecho  
-__clam__ _n_ :es: almeja  
-__razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
-__scallop__ _n_ :es: vieira  
-__out of question__ (prepositional phrase) Unquestionably.  
-__(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
-__hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
-__break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
 __make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __impound<sup>1</sup>__ _n_ _The impound yard._  
 __impound<sup>2</sup>__ _v_ (impounded)  
