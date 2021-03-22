@@ -15677,7 +15677,7 @@ __varmints__
 __varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
 __vassal__ _n_  
-__vast__ _A vast number._  
+__vast__ _adj_ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
 __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
 __vatic__ _adj_ Of or characteristic of a prophet; oracular.  
@@ -15691,10 +15691,10 @@ __veer__ _v_ :two::hammer:
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  
-__vehicle__ :mute:[ve~~h~~icle]  
+__vehicle__ _n_ :mute:[ve~~h~~icle]  
 __vehicular__ _adj_ :mega: _Vehicular homicide._  
 __veil__ _v_  
-__vein__ _Gold vein._  
+__vein__ _n_ _Gold vein._  
 __velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
 __Velcro__ _n_  
 __vellum__  
@@ -15709,7 +15709,7 @@ __venerable__ _adj_
 __venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
 __venial__ _adj_  
 __venison__ _n_ :four::hammer:  
-__Venn__ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
+__Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
 __venom__ _n_ :three::hammer:  
 __venomous__ _adj_ :two::hammer:  
 __vent__ _v_ _slang_ :two: To express a negative emotion in a forceful way.  
@@ -15724,8 +15724,8 @@ __verberize__
 __verbiage__ _n_ :two::hammer:  
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
-__verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
-__verdant__ _Verdant hills._  
+__verbum sap__ _idiom_ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
+__verdant__ _adj_ _Verdant hills._  
 __verdict__ _n_ :three::hammer::pencil2:  
 __verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
@@ -15741,7 +15741,7 @@ __versatile__ _adj_ :two::hammer.
 __vertical farm__  
 __verve__ _n_ :five::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
-__very__ _We were in this very room._  
+__very__ _adj, adv_ _We were in this very room._  
 __vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ _n_ :two::mega::hammer:  
@@ -15782,7 +15782,7 @@ __vindictive__ _adj_
 __vintner__ _n_  
 __vinyasa__ _n_  
 __viper__ _n_ :three::hammer: (vipers)  
-__viridity__ Youth; innocence; inexperience.  
+__viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
 __vis-à-vis<sup>1</sup>__ _prep_ __1__ In relation to; regarding. __2__ Face to face with; opposite.  
 __vis-à-vis<sup>2</sup>__ _adv_ Face to face; opposite.  
@@ -15805,7 +15805,7 @@ __vocab__
 __vocal<sup>1</sup>__ _adj_ :three:::hammer: _Critics often are the most vocal._  
 __vocal<sup>2</sup>__ _n_  
 __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with ice and strain into a collins glass. Add several ice cubes, fill with carbonated water, and stir. Garnish with slices of orange and lemon, and top with a cherry. Serve with a straw.  
-__vodka__ :mega:  
+__vodka__ _n_ :mega:  
 __voguish__  
 __voice over__ _n_ (voice-over)  
 __voicemail call__ _n_ (?)  
@@ -15872,19 +15872,20 @@ __wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency
 __waldo__ _n_ (waldoes)  
 __walk away__ _idiom_ _Knowing when to walk away is an essential life skill._  
 __walk in sunshine__  
-__walk on air__ To be very happy.  
+__walk on air__ _idiom_ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ _idiom_ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
 __walk on water__ _idiom_ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walk out__ _phr v_ To leave a relationship suddenly.  
 __walk the walk__  
-__walk__ :mute:[wa~~l~~k]  
+__walk<sup>1</sup>__ _v_ :mute:[wa~~l~~k]  
+__walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]  
 __walk-on__ _n_ :two: __1__ A small part in a play or other entertainment, esp. a part without speaking lines.  
-__walk-through__ :es: precalentamiento (?)  
+__walk-through__ _n_ __1__ A thorough demonstration or explanation that details each step of a process. __2__ A brief rehearsal, as of a play or role, performed usually in an early stage of production.  
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
 __walkout__ _n_  
-__walkups__ (or walk-ups?)  
+__walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
 __wallboard__  
@@ -15960,7 +15961,7 @@ __waterspout__ _n_
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
 __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
-__wavering__ _A wavering statement._  
+__wavering__ _adj_ Uncertain in purpose or action. _A wavering statement._  
 __wax__ _v_ _Moon waxing and waning._  
 __waxed__  
 __waylay__ _v_  
@@ -15968,7 +15969,7 @@ __wayposts__
 __wayside__ _n_ :three::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they’re determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent’s advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
-__weaknesses__ _What are your personal strengths and weaknesses?_  
+__weakness__ _n_ (weaknesses) _What are your personal strengths and weaknesses?_  
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
 __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
@@ -15982,7 +15983,7 @@ __weather vane__
 __weather__ _v_ :two::hammer: (weathering)  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
-__webbing__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
+__webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __wedding anniversary__ _n_ (not “marriage anniversary”)  
 __wedding band__  
 __wedge<sup>1</sup>__ _n_ :three::hammer: _(golf) Wedge play._ _Lemon wedges._  
