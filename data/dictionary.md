@@ -65,6 +65,8 @@ __a kernel of truth__ _idiom_ A singular element of truth or wisdom within a gre
 __a knee-slapper__ _idiom_ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ _idiom_ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
 __a lean patch__ _idiom_ A period of failure, decline, or poor performance or results.  
+__a legend in (one’s) own lifetime__ _idiom_ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
+__a legend in (one’s) own mind__ _idiom_ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __a little__ _idiom_ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
@@ -625,7 +627,7 @@ __archivist__
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
-__ardor__ _n_ Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion  
+__ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _The pope is an Argentine._  
@@ -781,6 +783,7 @@ __attendee__ _n_ :two::mega::hammer:
 __attentive__  
 __attest__ _v_ :two::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
+__attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
 __Attn__  
 __Attorney General__ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attract__ _v_  
@@ -2624,6 +2627,7 @@ __circle the drain__ _idiom_ To be in a state of severe deterioration such that 
 __circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
 __circumcircle__  
+__circumlocution__ _n_  
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumsphere__  
@@ -3235,6 +3239,7 @@ __coursework__
 __Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __courtyards__ _n_  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
+__Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
 __cover charge__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
@@ -3962,6 +3967,7 @@ __dirty-mouth__
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v_ :two::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
+__disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
 __disaffected__ _adj_ :two::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprove__ _v_  
@@ -8462,6 +8468,7 @@ __let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize th
 __let down (one’) hair__ _idiom_ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ _idiom_ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
+__let it slip__ _idiom_ To accidentally or inadvertently reveal a given secret or important piece of information.  
 __let me tell you__ _idiom_ Used to emphasize a statement.  
 __let on__ _phr v_  
 __let somebody down__ _idiom_ To disappoint someone.  
@@ -8795,6 +8802,7 @@ __lustre__
 __lustrous__ _adj_ :two::hammer:  
 __lustrum__ _n_ :three: Five years.  
 __luxe__ _People were accustomed to creating luxe interiors._  
+__luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __lye water__  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
@@ -12502,7 +12510,7 @@ __scarper__ _n_ A hasty departure.
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
-__scattergood__ _n_ :two::hammer:  
+__scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
 __scenario__ :mute:[s~~c~~enario]  
 __scene__ :mute:[s~~c~~ene]  

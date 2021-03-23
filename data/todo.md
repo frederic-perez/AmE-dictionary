@@ -1,13 +1,3 @@
-__let it slip__ _idiom_ To accidentally or inadvertently reveal a given secret or important piece of information.  
-__disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
-__circumlocution__ _n_  
-__a legend in (one’s) own mind__ _idiom_ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
-__scattergood__ _n_ Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
-__attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
-__a legend in (one’s) own lifetime__ _idiom_ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
-__ardor__ _n_ Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
-__Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
-__luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __impound<sup>1</sup>__ _n_ _The impound yard._  
 __impound<sup>2</sup>__ _v_ (impounded)  
