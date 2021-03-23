@@ -15555,14 +15555,14 @@ __unyield__ _v_
 __unyielding__ _adj_ :three::hammer:  
 __up a tree__ _idiom_ In a difficult situation.  
 __up and running__  
-__up and under__ A basketball move.  
+__up and under__ _n_ A basketball move.  
 __up for grabs__ _idiom_ :four: Available for anyone.  
 __up to (one’s) neck in alligators__ _idiom_ (business adage) The full expression is some variation of: “When you are up to your neck in alligators, it’s easy to forget that the goal was to drain the swamp.” It is easy to be so overcome or preoccupied by various tangential worries, problems, or tasks that one loses sight of the ultimate goal or objective.  
 __up to your eyeballs in something__ _idiom_ To have too much of something.  
 __up yours__ _idiom_ _vulgar_ _slang_ :two: An expression of anger at someone.  
 __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our game._  
 __up-and-comer__  
-__up-tempo__ _Up-tempo kind of game._  
+__up-tempo__ _adj_ _Up-tempo kind of game._  
 __upbeat__ _adj_ :five: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil’s colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He’s extremely upbeat during down times._ __2__ Happy; cheerful.  
 __upcoming__  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
@@ -15577,7 +15577,7 @@ __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
-__uplevel__ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life.  
+__uplevel__ _idiom_ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
 __uplifting__ _adj_  
 __upmarket__  
 __upped__ _v_  
@@ -15617,7 +15617,7 @@ __upwardly__
 __urban legend__  
 __urbane__ _adj_ Showing a high degree of refinement and the assurance that comes from wide social experience. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
 __urbanites__  
-__urchin__ _An underprivileged urchin._  
+__urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
@@ -15637,11 +15637,11 @@ __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or d
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
-__VA__ _VA medical centers._  
-__vacant__ _Adam parked in a vacant spot._  
+__VA__ _abbr_ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
+__vacant__ _adj_ _Adam parked in a vacant spot._  
 __vacant-eyed__  
 __vacate__ _v_  
-__vacay__ _informal_ A holiday. _I’m in France right now, on vacay._  
+__vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
 __vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
@@ -15650,7 +15650,7 @@ __vagaries__ _n_
 __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
-__vague__ :mute:[vag~~u~~e]  
+__vague__ _adj_ :mute:[vag~~u~~e]  
 __vainglorious__ _adj_  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
@@ -15669,14 +15669,14 @@ __vandalize__ _v_
 __vandals__  
 __vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
 __vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
-__vanilla-flavored__ _He is cautious about every step, to the point of seeming vanilla-flavored._  
+__vanilla-flavored__ _adj_ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
 __vanquish__ _v_ :six::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vantage point__ _n_ :three: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
-__vape__ _I’m with a beer smoking on my vape._  
+__vape__ _n_ _I’m with a beer smoking on my vape._  
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __VAR__ _abbr_ Video Assistant Referee.  
