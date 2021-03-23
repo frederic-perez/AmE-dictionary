@@ -109,6 +109,12 @@ def print_colored(label, number):
     else:
         print(FAIL + message + ENDC)
 
+def print_colored_if_positive(label, number):
+    """Self-explanatory"""
+    if number > 0:
+        message = label + ' = ' + str(number)        
+        print(FAIL + message + ENDC)
+
 def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
     num_tokens = len(tokens)
@@ -429,24 +435,24 @@ class Checker(object):
         else:
             print('\nSummary of issues found')
             print('-----------------------')
-            print_colored("Entries with displaced part of speech", \
+            print_colored_if_positive("Entries with displaced part of speech", \
                 self.num_displaced_part_of_speech)
-            print_colored('Entries with invalid ending', self.num_invalid_endings)
-            print_colored('Entries with invalid tags', self.num_invalid_tags)
-            print_colored('Entries with invalid use of underscores', \
+            print_colored_if_positive('Entries with invalid ending', self.num_invalid_endings)
+            print_colored_if_positive('Entries with invalid tags', self.num_invalid_tags)
+            print_colored_if_positive('Entries with invalid use of underscores', \
                 self.num_invalid_use_of_underscores)
-            print_colored('Entries with tag :shit:', self.num_tag_shit)
-            print_colored('Entries with too many double spaces', \
+            print_colored_if_positive('Entries with tag :shit:', self.num_tag_shit)
+            print_colored_if_positive('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)
-            print_colored('Entries with triple spaces', self.num_entries_with_triple_spaces)
-            print_colored('Entries with wrong type of space character [use $ sed -i \'s/ / /g\' ../data/todo.md]', self. num_entries_with_wrong_type_of_space_character)
-            print_colored('Entries with tab character(s)', self. num_entries_with_tab_character)
-            print_colored('Entries with straight single quote(s)', self.num_entries_with_straight_single_quote)
-            print_colored('Entries with straight double quote(s)', self.num_entries_with_straight_double_quote)
-            print_colored('Entries with double dash', self.num_entries_with_double_dash)
-            print_colored('Entries with colon followed by underscore', self.num_entries_with_colon_underscore)
-            print_colored('Entries missing part of speech', self.num_missing_part_of_speech)
-            print_colored('Entries with wrong part of speech', \
+            print_colored_if_positive('Entries with triple spaces', self.num_entries_with_triple_spaces)
+            print_colored_if_positive('Entries with wrong type of space character [use $ sed -i \'s/ / /g\' ../data/todo.md]', self. num_entries_with_wrong_type_of_space_character)
+            print_colored_if_positive('Entries with tab character(s)', self. num_entries_with_tab_character)
+            print_colored_if_positive('Entries with straight single quote(s)', self.num_entries_with_straight_single_quote)
+            print_colored_if_positive('Entries with straight double quote(s)', self.num_entries_with_straight_double_quote)
+            print_colored_if_positive('Entries with double dash', self.num_entries_with_double_dash)
+            print_colored_if_positive('Entries with colon followed by underscore', self.num_entries_with_colon_underscore)
+            print_colored_if_positive('Entries missing part of speech', self.num_missing_part_of_speech)
+            print_colored_if_positive('Entries with wrong part of speech', \
                 self.num_wrong_part_of_speech)
         print
         return succeeded
