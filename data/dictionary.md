@@ -6297,7 +6297,7 @@ __grandiose__
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
 __granted__  
-__grapevine__ _Al must have heard something in the grapevine._  
+__on the grapevine__ _idiom_ _Al must have heard something on the grapevine._  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -15377,7 +15377,7 @@ __twofer__ _n_ _informal_ :two::hammer:
 __tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
-__typecast__ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
+__typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
 __tyranny__  
 __tyrant__ _n_ :three::hammer:  
@@ -15388,9 +15388,8 @@ __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, every
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ugh__ _interj_ :two::hammer:  
-__uh oh__ _Uh oh, we can’t seem to find the page you’re looking for._  
-__uh__  
-__uh-oh__ _My “uh-oh” bell rings._  
+__uh__ _interj_ A representation of a common sound made when hesitating in speech.  
+__uh-oh__ _interj_ :two: Used to express alarm, foreboding, or dismay. _My “uh-oh” bell rings._ _Uh-oh, we can’t seem to find the page you’re looking for._  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
@@ -15448,7 +15447,7 @@ __undermine__ _v_ :nine::hammer: (undermined)
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
-__underrated__ :pencil2:  
+__underrated__ _adj_ :pencil2: Underestimated.  
 __underscore__ _v_ :five: (underscored, underscoring) Give extra weight to (a communication). _Syn_ emphasize _When I gave my son permission to attend the party, I made sure to underscore my willingness to ground him for life should he let a mere drop of alcohol touch his lips._  
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
@@ -15474,11 +15473,11 @@ __undulating__ _v_
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
 __unearth__ _v_ :four::hammer: (unearthed)  
-__uneasy calm__ _People waited to see whether an uneasy calm would last._  
+__uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
-__Unesco__ _United Nations Educational, Scientific and Cultural Organization._  
-__unethically__ _He had acted unethically and for that I could never trust him as editor._  
+__UNESCO__ _abbr_ United Nations Educational, Scientific and Cultural Organization.  
+__unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
@@ -15487,9 +15486,9 @@ __unflagging__ _adj_ :two::hammer:
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
-__unforeseen__ _Unforeseen difficulties._  
+__unforeseen__ _adj_ _Unforeseen difficulties._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
-__unfurnished__ _One-bedroom unfurnished flats start at £1,325 a month._  
+__unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
@@ -15506,7 +15505,7 @@ __union__ _n_ (unions) :three::hammer: _Union construction worker._
 __unkempt__ _adj_ :three::hammer: _Unkempt beards._  
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
-__unlike<sup>2</sup>__ _preposition_  
+__unlike<sup>2</sup>__ _prep_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__  
 __unobstrusive__  
@@ -15522,32 +15521,32 @@ __unremitting__ _v_
 __unrepentant__ _adj_ :three::hammer:  
 __unrequited__ _adj_ :two: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
-__unruffled__ _An unruffled commander._  
+__unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
-__unsalted__ _Pure Irish butters salted and unsalted._  
+__unsalted__ _adj_ :dart: Not seasoned, preserved, or treated with salt: _unsalted peanuts._ _Pure Irish butters salted and unsalted._  
 __unsavory__  
 __unscathed__ _adj_ :six: Without suffering any injury, damage, or harm. _Syn_ unharmed, unhurt, uninjured, undamaged _I came through all those perils unscathed._  
 __unseemly__ _adj_ _Syn_ indecorous  
 __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an frenetic tempo._  
 __unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man’s unsettling eyes._  
-__unshackle__ _The two guards unshackled Sam at the door._  
+__unshackle__ _v_ _The two guards unshackled Sam at the door._  
 __unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
-__unsightly__ _Manning looking at unsightly ending._  
+__unsightly__ _adj_ Unpleasant or offensive to look at; unattractive. _Syn_ ugly _Manning looking at unsightly ending._  
 __unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
 __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
 __unsound__  
-__unspooling__ _Unspooling microphone cables._  
+__unspool__ _v_ (unspooling) _Unspooling microphone cables._  
 __unstiking__ _v_  
 __unstoppable__ _adj_ :two::hammer: _She is our unstoppable force of nature._  
 __unsung__  
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _Untapped talent._  
+__untapped__ _adj_ __1__ Not having been tapped: an untapped cask of wine. __2__ Not utilized: _untapped resources._ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
-__unthawed__ _Unthawed croissant._  
-__unthinkable__ _The unthinkable has befallen President._  
-__unticked__ :dart: _Checking an unticked box on my to-do list._  
+__unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
+__unthinkable__ _adj_ _The unthinkable has befallen President._  
+__unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
 __untidy__  
 __untoward__ _adj_ :two::hammer:  
 __untuck__ _v_  
