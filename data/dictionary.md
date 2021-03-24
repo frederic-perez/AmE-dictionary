@@ -536,6 +536,7 @@ __anti-Semitism__
 __antibiotic<sup>1</sup>__ _n_  
 __antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]  
 __antic__  
+__anticipate__ _v_ (anticipated)  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
 __antiquated__ _adj_ :three::hammer:  
@@ -1608,7 +1609,7 @@ __bookcases__ _n_ :two::hammer:
 __bookend__ _n_  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
-__bookie__ _n informal_ (bookies) :two: Short for bookmaker.  
+__bookie__ _n informal_ :three: (bookies) Short for bookmaker.  
 __bookish__  
 __bookmaker__ _n_  
 __bookmarker__ _n_  
@@ -5634,6 +5635,7 @@ __foster care__ _n_ :three::hammer:
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul__ _Foul language._  
+__foul-smelling__ _adj_ Having a very unpleasant smell.  
 __foul-ups__  
 __founder__ _v_ :five::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
 __foundries__ _Metal foundries._  
@@ -5851,6 +5853,7 @@ __gallbladder__
 __galleon__ _n_  
 __galleys__ _n_  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
+__Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __galloping__  
 __gallows__ _n_  
 __galore__ _adv_  
@@ -6296,8 +6299,8 @@ __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic st
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
 __granola__ _n_  
-__granted__  
-__on the grapevine__ _idiom_ _Al must have heard something on the grapevine._  
+__granted<sup>1</sup>__ _conj_ Even assuming that.  
+__granted<sup>2</sup>__ _adv_ Admittedly.  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
 __graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
@@ -6627,10 +6630,10 @@ __hangnail__ _n_ :two::hammer:
 __hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __hank__  
 __hanker__ _v_ To have a strong, often restless desire.  
-__hankering__ _n_ :three: (hankerings) Craving.  
+__hankering__ _n_ :four: (hankerings) Craving.  
 __hankies__ _n_  
 __hanks__ :pencil2: _Stringy hanks of blond hair._  
-__hanky-panky__  
+__hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. __2__ Illicit sexual relations.  
 __Hannukah__ (Chanukah)  
 __hantavirus__  
 __haphazard<sup>1</sup>__ _adj_ :two::hammer:  
@@ -6649,9 +6652,10 @@ __harangue__ _v_
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
 __harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
 __harbinger__ _n_ :four::hammer:  
+__harbor__ _n_ __2__ A place of shelter; a refuge.  
 __hard drinking__ _Ed was known for his hard drinking._  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
-__hard knocks__ _idiom_ The real and practical experiences of life, especially those involving hardship or adversity.  
+__hard knocks__ _idiom_ :two: The real and practical experiences of life, especially those involving hardship or adversity. _The school of hard knocks._  
 __hard nut to crack__ _idiom_ A problem that is hard to solve or a person who is difficult to understand.  
 __hard on the eyes__ _idiom_ Unattractive; ugly.  
 __hard rock__ _n_  
@@ -7456,7 +7460,8 @@ __impish__ _Impish sense of humor._
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __importune__ _v_ Beg persistently and urgently. _Syn_ insist  
-__impound__ _v_ :two::hammer: _The Ponticac was impounded._  
+__impound<sup>1</sup>__ _n_ _The impound yard._  
+__impound<sup>2</sup>__ _v_ :three::hammer: (impounded) _The Ponticac was impounded._  
 __impoverished__ _v_  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
@@ -8866,6 +8871,7 @@ __make rounds__
 __make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
 __make strides__ _idiom_ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make up one’s mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
+__make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __make waves__ _idiom_ :four: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
 __make-or-break__ _adj_ :two::hammer:  
 __makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
@@ -9969,6 +9975,7 @@ __on the docket__
 __on the fence__ _idiom_ Unable to make a decision.  
 __on the flip side__ _idiom_ :two::hammer:  
 __on the fly__  
+__on the grapevine__ _idiom_ _Al must have heard something on the grapevine._  
 __on the hoof__  
 __on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the rise__ _idiom_  

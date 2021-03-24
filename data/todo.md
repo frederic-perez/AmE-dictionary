@@ -1,15 +1,3 @@
-__make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
-__impound<sup>1</sup>__ _n_ _The impound yard._  
-__impound<sup>2</sup>__ _v_ (impounded)  
-__anticipate__ _v_ (anticipated)  
-__bookie__ _n_  
-__foul-smelling__ _adj_ Having a very unpleasant smell.  
-__Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
-__gush__ _v_ (gushed)  
-__hankering__ _n_  
-__hanky-panky__  
-__harbor__ _n_ __2__ A place of shelter; a refuge.  
-__hard knocks__ _idiom_ _The school of hard knocks._  
 __heady__ _adj_ __4__ 4. Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ _idiom_ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
