@@ -15216,17 +15216,16 @@ __trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + 
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
-__trilby__ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
+__trilby__ _n_ A hat made of felt with a creased crown. _Syn_ fedora, felt hat, homburg, Stetson  
 __trill__ _n_ :six::hammer: (trills, trilled, trilling) _I felt a trill of excitement._ _Monroe pronounced the guttural deep in his throat and trilled the “r.”_  
 __trilobite__ _n_ :two::mega::hammer:  
-__trim kit__ _The built-in microwave can be built into cabinetry with a trim kit._  
-__trim__ _n_ :two::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._  
+__trim__ _n_ :three::hammer: _Stainless interior trim._ _They rattled their swords against the trim of their shields._ _The built-in microwave can be built into cabinetry with a trim kit._  
 __trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__ _(plural)_ Usual or traditional accompaniments: _roast turkey with all the trimmings._ __3__ _(plural)_ Parts that are cut off. __4__ _(plural)_ Dialect ornaments; decorations: _Christmas trimmings._  
-__trinity__ _Trinity College in Dublin._  
+__trinity__ _n_ _Trinity College in Dublin._  
 __trinkets__ _n_ :five::hammer:  
-__trip wire__ _You hit a trip wire._  
+__trip wire__ _n_ _You hit a trip wire._  
 __triple__  
-__triplex__ _A triplex penthouse._  
+__triplex__ _adj_ _A triplex penthouse._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
 __triptych__  
 __trireme__ _n_  
@@ -15284,16 +15283,13 @@ __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’
 __tryst__  
 __tsuifuku__  
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
-__tubbing up__ _I keep tubbing up._  
-__tube > shoulder tube__ _He walks around in the clubhouse carrying a long shoulder tube for arm exercises._  
-__tube socks__ :camera:hammer: A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
+__tube sock__ _n_ :camera:hammer: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
 __tuck away__  
-__tuck tail__ _You just don’t tuck tail and go someplace else._  
 __tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
 __Tudor__  
-__Tuesday__ :mega: /’tuzdi, -deI/  
+__Tuesday__ _n_ :mega: /’tuzdi, -deI/  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
