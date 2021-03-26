@@ -1,13 +1,3 @@
-__heady__ _adj_ __4__ 4. Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
-__hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
-__hoist by (one’s) own petard__ _idiom_ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
-__hoofprint__ _n_ (hoofprints)  
-__hummingbird__ _n_ :es: colibrí  
-__immanent__  
-__imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
-__quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
-__induct__ _v_ Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
-__inextricable__ _adj_  
 __iniquity__ _n_  
 __it figures__ _idiom_ It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __itinerant__ _adj_  

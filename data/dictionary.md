@@ -3400,7 +3400,7 @@ __crouch<sup>2</sup>__ _n_
 __crow__ _v_ :three::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
-__crown jewel__ _n_ 2. The most prized asset or possession in a group.  
+__crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucible__ _n_ :seven::hammer:  
 __crucifix__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
@@ -6151,7 +6151,7 @@ __go on the attack__ _He couldn’t stand being criticized any longer and went o
 __go out with a bang__ _idiom_ To finish or cease doing something in a spectacular, great, or exciting manner.  
 __go out with the boys__ _idiom_ To go and socialize somewhere with a group of exclusively male friends.  
 __go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
-__go out__ _idiom_ __1__ 1. To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
+__go out__ _idiom_ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over the top__  
 __go over the wire__  
 __go places__ _idiom_ :two::hammer: _This kid is going places._  
@@ -6834,7 +6834,7 @@ __headstone__ _n_ :three::hammer:
 __headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__ _adj_ :three::hammer:  
+__heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
 __hear a pin drop, one/you could__ _idiom_ :two: Complete silence.  
 __hearing__ _law_  
@@ -7069,12 +7069,14 @@ __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hoc
 __hod__ _n_  
 __hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
+__hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hog cracklings__  
 __hog the sofa__  
 __hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
+__hoist by (one’s) own petard__ _idiom_ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hokum__ _n_ :three::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
@@ -7169,6 +7171,7 @@ __hood__ _n_ _slang_ :seven: (hoods) Criminal, a member of a criminal gang. _Too
 __hoodlum__ _n_ _slang_ :five: (hoodlums) A criminal or gangster.  
 __hoodwink__ _v_ :three: To deceive or trick.  
 __hoofer__  
+__hoofprint__ _n_ (hoofprints)  
 __hook up__  
 __hook, line, and sinker__ _idiom_ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hookah__ _n_  
@@ -7285,6 +7288,7 @@ __humidor__ _n_
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
 __hummer__ _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
+__hummingbird__ _n_ :es: colibrí  
 __hummocks__  
 __hummus__ _n_ :mega:  
 __humor__ _v_ :four::pencil2::hammer: _Just humor me._  
@@ -7422,6 +7426,7 @@ __imbibe__ _v_ :three::hammer: (imbibing)
 __imbroglio__  
 __imbrued__ _Imbrued ground._  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
 __immigrated__  
@@ -7461,6 +7466,7 @@ __impish__ _Impish sense of humor._
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __importune__ _v_ Beg persistently and urgently. _Syn_ insist  
+__imposture__ _n_ The act or instance of engaging in deception under an assumed name or identity. _Syn_ impersonation  
 __impound<sup>1</sup>__ _n_ _The impound yard._  
 __impound<sup>2</sup>__ _v_ :three::hammer: (impounded) _The Ponticac was impounded._  
 __impoverished__ _v_  
@@ -7630,7 +7636,7 @@ __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ lazi
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
 __inducements__  
-__induct__  
+__induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ Always working very hard.  
@@ -7643,6 +7649,7 @@ __inert__ _Helium is inert._
 __inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
+__inextricable__ _adj_  
 __inextricably__ _adv_ :three::hammer:  
 __infallibity__  
 __infamous__ _adj_ :nine::m: __1__ Having a bad reputation: notorious. _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
@@ -9188,7 +9195,7 @@ __million__ _The project willl cost around $10 million._ (not ending with ‘s�
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __mince (one’s) words__ _idiom_  
-__mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ 3. To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
+__mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
@@ -11568,6 +11575,7 @@ __quiver__ _v_ :seven::hammer: (quivering)
 __quixotic__  
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading.  
 __quondam__ _adj_ Of an earlier time; former: _her quondam lover._  
+__quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quote, unquote__ _idiom_ :two::hammer:  
 __quotidian__ _adj_  
