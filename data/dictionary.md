@@ -7687,7 +7687,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__  
-__iniquity__ _n_ :two: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
+__iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
 __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
@@ -7819,7 +7819,7 @@ __ISV__ _abbr_ Independent software vendor.
 __it ain’t over till/until the fat lady sings__ _idiom_ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __IT Band__  
 __it dawned on someone__  
-__it figures__ _idiom_ :two::hammer:  
+__it figures__ _idiom_ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
 __it takes a village__ _idiom_ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
@@ -7829,6 +7829,7 @@ __it’s a dog’s life__ :dart::astonished:
 __it’s all good__ _idiom_ A phrase used to express general approval, unconcern, or disinterest.  
 __it’s one of those things__ _idiom_  
 __item__ _slang_ A couple, two people who are romantically involved.  
+__itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __IUD__  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
@@ -7977,6 +7978,7 @@ __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.
 __judgment__ _n_ :two::pencil2::hammer:  
 __judgmental__ :pencil2:  
 __judgments__ _Legal judgments._  
+__judicious__ _adj_ _Judicious improvements._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __jug-eared__ _idiom_ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
@@ -8017,6 +8019,8 @@ __junk<sup>1</sup>__ _n_ _The “don’t touch my junk” uproar over intrusive 
 __junk<sup>2</sup>__ _v_ :two::hammer: (junked) _Google is junking the app Google+._  
 __junker__  
 __junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
+__junkie__ _n_ _He was a news junkie._  
+__junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __junta__ _n_ :three::hammer:  
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
@@ -8062,8 +8066,10 @@ __keep down__ _phr v_ To prevent something from increasing in size or number.
 __keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in step with the times__ _idiom_ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ _idiom_ Keep it a secret.  
+__keep mum__ _idiom_ To remain silent; to not say anything (e.g., about a secret).  
 __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigilantly (for).  
 __keep one’s word__ _idiom_ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
+__keep out of sight__ _idiom_ To remain unseen, as by hiding or evasion.  
 __keep tab(s) (on someone or something)__ _idiom_ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._  
 __keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep up with (someone or something)__ _idiom_ :two::hammer:  
@@ -8099,7 +8105,7 @@ __kick the crap out of (someone)__ _idiom_
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ _n_ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
-__kickback__ _n_ :five::hammer: (kickbacks) _A kickback deal._  
+__kickback__ _n_ :seven::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
@@ -8172,6 +8178,7 @@ __knit tie__
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
 __knob__ _Swallow my knob._  
 __knobbed__ _v_  
+__knock (one’s) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __knock around__ _phr v_ To spend time with someone because you are friends.  
 __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
 __knock on wood__ _idiom_  

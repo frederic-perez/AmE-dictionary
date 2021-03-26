@@ -1,13 +1,3 @@
-__iniquity__ _n_  
-__it figures__ _idiom_ It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
-__itinerant__ _adj_  
-__judicious__ _adj_ _Judicious improvements._  
-__junkie__ _n_ _He was a news junkie._  
-__junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
-__keep mum__ _idiom_ To remain silent; to not say anything (e.g., about a secret).  
-__keep out of sight__ _idiom_ To remain unseen, as by hiding or evasion.  
-__kickback__ _n_ :two::hammer:  
-__knock (one’s) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __laconic__ _adj_ Using or marked by the use of few words; terse or concise.  
 __laminate__ _v_  
