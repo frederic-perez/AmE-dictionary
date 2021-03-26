@@ -671,6 +671,7 @@ __as a general rule__
 __as blind as a bat__ _idiom_ Unable to see well.  
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
+__as good as (something)__ _idiom_ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ _idiom_ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it happens,__ _idiom_ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
@@ -15290,7 +15291,7 @@ __tug of war__ _n_ :four::hammer:
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
 __tuk-tuk__  
 __tulip__  
-__tulle__ _Tulle-covered arch._  
+__tulle__ _n_ _Tulle-covered arch._  
 __tumble<sup>1</sup>__ _v_ :eight::hammer: (tumbled, tumbling) _Orexigen Therapeutics tumbled 1.00, or 15%, to 5.81._ _Socks tumble._ _Discovery of the guidelines soon tumbled into the local paper._ _Tumbling gasoline prices._  
 __tumble<sup>2</sup>__ _n_  
 __tumblebug__  
@@ -15305,12 +15306,11 @@ __turbid__ _adj_
 __turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
-__turkey drumstick__  
-__turkey stock__ :camera:  
+__turkey drumstick__ _n_  
 __turmoil__  
 __turn a profit__  
-__turn around__ To change something unsuccessful into something successful.  
-__turn away__ To refuse to let someone come into a place.  
+__turn around__ _idiom_ To change something unsuccessful into something successful.  
+__turn away__ _idiom_ To refuse to let someone come into a place.  
 __turn on__ _phr v_  
 __turn out__ _idiom_ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
 __turn__ _v_ :astonished: _Clive turned 60 last month._  
@@ -15326,7 +15326,7 @@ __turnout__ _n_ :three::hammer: _The turnout rate._
 __turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
 __turnpike__  
 __turnround__  
-__turnsole__ :pencil2:  
+__turnsole__ _n_ :pencil2:  
 __turnstile__ _n_ :two::hammer:  
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
@@ -15357,7 +15357,6 @@ __tweak<sup>2</sup>__ _v_
 __tweed__  
 __tweeny-weeny__  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
-__twice as good__ _They took twice as good as a challenge._  
 __twiddle one’s thumbs__ _idiom_ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
 __twin rooms__  
@@ -15369,17 +15368,15 @@ __twinkle__
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
 __twist__ _n_ _I’ll have my vodka martini with a twist of lemon._  
-__twit__ _The damned last boy was a twit._  
+__twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
 __twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
-__two__ :mute:[t~~w~~o]  
+__two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
 __two-fold__ _adj_  
-__two-time someone__ _idiom_ To be unfaithful to someone.  
-__two-time__ _A two-time U.S. Open champion._  
-__two-timer__  
-__two-timing__ _She discovered the two-timing cheat was married._  
+__two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
+__two-timer__ _n_  
 __twofer__ _n_ _informal_ :two::hammer:  
 __tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
