@@ -1,3 +1,13 @@
+__as good as it gets__ _idiom_ As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_  
+__run-of-the-mill__ _adj_ Not special or outstanding; average.  
+__foozle__ _v_  
+__gasconade__ _n_ Boastful talk, bragging, or bluster.  
+__nescience__ _n_  
+__haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
+__polemology__ _n_ The study of war.  
+__bunglesome__ _adj_  
+__busticate__ _v_ _informal US_ To break.  
+__let (the) perfect be the enemy of (the) good__ _idiom_ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
 __knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __laconic__ _adj_ Using or marked by the use of few words; terse or concise.  
 __laminate__ _v_  
