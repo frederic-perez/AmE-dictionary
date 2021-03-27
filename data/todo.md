@@ -1,13 +1,3 @@
-__through the grapevine__ _idiom_  
-__on the grapevine__ _idiom_  
-__yo-yo__ _n_ _informal_  
-__draught beer__ _n_ Beer drawn from a keg.  
-__draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an enclosed space.  
-__night sweats__ _n_  
-__zip__ _v_ __9__ (Computer Science) Computing to compress (a file) in order to reduce the amount of memory required to store it or to make sending it electronically quicker.  
-__cogent__ _adj_ Appealing to the intellect or powers of reasoning; convincing: _a cogent argument._  
-__forgo__ _v_  
-__forbear__ _v_  
 __feel like__ _idiom_ __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __kinky__ _adj_ __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __get a hold on/of (oneself)__ _idiom_  

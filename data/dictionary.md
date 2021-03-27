@@ -2819,7 +2819,7 @@ __coffee-table book__
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_ :two::hammer:  
+__cogent__ _adj_ :three: Appealing to the intellect or powers of reasoning; convincing: _a cogent argument._  
 __cognate__  
 __cognizant__  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
@@ -4294,6 +4294,8 @@ __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright
 __dramedy__  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
+__draught beer__ _n_ Beer drawn from a keg.  
+__draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an enclosed space.  
 __draw a blank__ _idiom_ :two: To fail to find or remember something.  
 __draw a line__  
 __draw up__ _v_ :three::hammer:  
@@ -5568,7 +5570,7 @@ __forage<sup>1</sup>__ _n_
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
 __forager__ _n_ :three::hammer: (foragers)  
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
-__forbear__ _v_  
+__forbear__ _v_ :two::hammer:  
 __forbearance__  
 __force majeure__ _n_ :two::hammer:  
 __forceful__ _adj_ :two::hammer: _A forceful pitch._  
@@ -9677,6 +9679,7 @@ __Niger__
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
 __nigh__ _adj_ :two: Near in space or time.  
+__night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman’s nightgown.  
@@ -9990,7 +9993,7 @@ __on the docket__
 __on the fence__ _idiom_ Unable to make a decision.  
 __on the flip side__ _idiom_ :two::hammer:  
 __on the fly__  
-__on the grapevine__ _idiom_ _Al must have heard something on the grapevine._  
+__on the grapevine__ _idiom_ :two::hammer: _Al must have heard something on the grapevine._  
 __on the hoof__  
 __on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the rise__ _idiom_  
@@ -14822,6 +14825,7 @@ __throng__ _n_ :seven: A large gathering of people. _A throng of news media memb
 __throttle__ _v_  
 __throttling__ _Throttling the Philadelphia Eagles._  
 __through and through__ _idiom_ :four: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
+__through the grapevine__ _idiom_  
 __through thick and thin__ _idiom_ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
@@ -16492,10 +16496,9 @@ __yipping__ _v_
 __yips__  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
 __yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
-__yo-yo<sup>1</sup>__ _n_ _slang_ A stupid or crazy person.  
-__yo-yo<sup>2</sup>__ _v_  
+__yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
+__yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
-__yo-yoing__  
 __yoke__ _n_ :two::hammer: (yokes) _Egg yoke._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
@@ -16547,6 +16550,7 @@ __zip around__ _phr v_ To move quickly from place to place.
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
 __zip up__ _v_ To close something that has a zipper.  
 __zip your lip__ _idiom_ Be quiet.  
+__zip__ _v_ __9__ (Computer Science) Computing to compress (a file) in order to reduce the amount of memory required to store it or to make sending it electronically quicker.  
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
