@@ -15119,11 +15119,11 @@ __tout__ _v_ :three::hammer: (touted)
 __tow truck__ _n_  
 __tower__ _v_ _Towering over our heads._  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
-__toy breeds__ _(pets)_  
+__toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
 __toy__ _v_ :two::hammer: (toying)  
-__Toyota__ :mega: (? CHK)  
+__Toyota__ _n_ :mega: A city of south-central Honshu, Japan, east-southeast of Nagoya. It is an industrial center.  
 __tpngue-in-cheek__  
-__trace elements__ _This elixir packs a nutritional punch with antioxidants, trace elemrnts, enzymes, and energy-promoting superfoods._  
+__trace element__ _n_ __1__ A chemical element present in tiny amounts: _trace elements in ground water._ _This elixir packs a nutritional punch with antioxidants, trace elements, enzymes, and energy-promoting superfoods._ __2__ A chemical element required in minute quantities by an organism to maintain proper physical functioning.  
 __traceability__ _n_  
 __track__ _n_ :camera:  
 __tracksuit__ _n_ :three: A loose-fitting jacket and pants worn by athletes and exercisers usually before and after workouts. :es: chándal  
@@ -15133,14 +15133,14 @@ __tractor trailer__ _n_ :two::hammer::camera: (tractor-trailer)
 __tractor__ _n_  
 __trade paperback__  
 __trade__ _n_  
-__trade-off__ _She has to make trade-offs._  
+__trade-off__ _n_ _She has to make trade-offs._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
 __trails__ _n_  
-__train wreck__ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
+__train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
 __traipsing__  
@@ -15154,15 +15154,15 @@ __tranquilizer__ _n_ :mega:
 __transceiver__  
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
-__transfixed__ _I was transfixed by it._  
+__transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
 __transient<sup>1</sup>__ _adj_ :six::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
-__translate__ _That doesn’t always translate, believe me._  
+__translate__ _v_ _That doesn’t always translate, believe me._  
 __translucent__ _adj_  
 __transparent__ _adj_ :mega:  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
-__trap question__ :astonished: _That’s a trap question._  
+__trap question__ _n_ :astonished: _That’s a trap question._  
 __trapdoor__ _n_  
 __trappings__ _n_ :five::hammer: _He has all the trappings of a New York insider._ _The stallions trappings._  
 __traps__ _n_  
@@ -15197,7 +15197,7 @@ __trepidation__ _n_ :five: Worry or anxiety about something that is going to hap
 __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
-__tresses__ _Blond tresses._  
+__tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
 __trestle__ _n_ :four: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
@@ -15209,7 +15209,7 @@ __tribble__ _n_
 __Tribeca__  
 __tribulation__ _n_ :nine::hammer: (tribulations)  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
-__tribute__ _Her fellow tribute and her hunting buddy._  
+__tribute__ _n_ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
 __trick pad__  
 __trickle down__ _v_ :four: To pass from high-ranked people to lower-ranked people.  
