@@ -1,3 +1,15 @@
+__noggin__ _n_ __3__ _slang_ The human head.  
+__shoo__ _v_  
+__shoo-in__ _n_  
+__preposterous__ _adj_  
+__micturate__ _v_ A less common word for urinate.  
+__viand__ _n_ (viands)  
+__sesquipedalian<sup>1</sup>__ _n_ A long word.  
+__sesquipedalian<sup>2</sup>__ _adj_ __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
+__shrivel__ _v_ _The heat shriveled the unwatered seedlings._  
+__hearse__ _n_ :es: coche fúnebre  
+__windsuit__ _n_ A bodysuit with fabric between the legs and between each arm and the body, allowing skydivers and base jumpers to glide at a relatively gentle angle of descent before opening a parachute to land.  
+__rifle__ _v_ __1__ To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something: _rifled the desk, looking for the keys._ __2__ To rob or search with the intent to rob: _rifled the travelers of their belongings._ __3__ To steal (goods).  
 __feel like__ _idiom_ __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __kinky__ _adj_ __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __get a hold on/of (oneself)__ _idiom_  
