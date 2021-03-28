@@ -171,6 +171,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_n_', \
     '_n, adj_', \
     '_n, v_', \
+    '_n idiom_', \
     '_n informal_', \
     '_n phr_', \
     '_n pl_', \
@@ -184,6 +185,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_suffix_', \
     '_trademark_', \
     '_v_', \
+    '_v idiom_', \
     '_v informal_', \
     '_v intr_', \
     '_v tr_', \
@@ -199,11 +201,9 @@ def entry_misses_part_of_speech(entry):
         return True
     return False
 
-PARTS_OF_SPEECH = ['_adj_', '_adv_', '_n_', '_v_']
-
 def entry_has_displaced_part_of_speech(entry):
     """Self-explanatory"""
-    for part_of_speech in PARTS_OF_SPEECH:
+    for part_of_speech in VALID_PARTS_OF_SPEECH:
         if entry.count(part_of_speech) == 1:
             return entry.count('__ ' + part_of_speech) != 1
     return False
@@ -340,8 +340,7 @@ class Checker(object):
     def treat_missing_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
-        if part_of_speech != '' and \
-            part_of_speech != '_?_':
+        if part_of_speech != '':
             print(headword + ' ' + part_of_speech + FAIL \
             + ' <<< missing part of speech found' + ENDC)
 
@@ -394,9 +393,7 @@ class Checker(object):
             tokens = entry.split()
             do_print = False # True
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            if part_of_speech.find('_') == -1 or \
-                part_of_speech.find('?') > 0 or \
-                part_of_speech == '_adverb_':
+            if part_of_speech.find('_') == -1:
                 self.num_wrong_part_of_speech += 1
                 print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
                     + ' <<< Wrong part of speech #' \
