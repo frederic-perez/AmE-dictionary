@@ -6845,7 +6845,7 @@ __hear a pin drop, one/you could__ _idiom_ :two: Complete silence.
 __hearing__ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
-__hearse__ _n_ :two: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
+__hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __heartedly__  
@@ -9161,6 +9161,7 @@ __mezzanine__
 __MIA__ _abbr_ :two: Missing in action.  
 __miasma__ _n_  
 __mick__ _n_ :three::hammer:  
+__micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
@@ -9734,7 +9735,7 @@ __nocent__ _adj_ Having a tendency to cause harm.
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
 __noddies__ _n_  
-__noggin__ _n informal_ A person’s head. _Syn_ bonce, dome  
+__noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
@@ -11168,7 +11169,7 @@ __prep<sup>2</sup>__ _n_
 __prep<sup>3</sup>__ _v_ :seven::hammer: (prepped, prepping) _I was prepping for the show._  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
-__preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
+__preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Pre- means before. Post- means after. To use both prefixes together, ...would be preposterous._ _Syn_ foolish  
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
 __prequel__  
@@ -12789,6 +12790,8 @@ __sermon__
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
+__sesquipedalian<sup>1</sup>__ _n_ A long word.  
+__sesquipedalian<sup>2</sup>__ _adj_ __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
 __set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile’s trying to set you up._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
@@ -12954,9 +12957,8 @@ __shoestring<sup>2</sup>__ _adj_ :two::hammer: _A shoestring budget._ _A shoestr
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ _n_ :two::hammer: _A local shogunate office._  
-__shoo__ _v_ :three::hammer: (shooing)  
-__shoo-in__  
-__shooing__ _v_  
+__shoo__ _v_ :five::hammer: (shooing)  
+__shoo-in__ _n_ :two::hammer:  
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
 __shoot for the moon__ _idiom_ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ _idiom_  
@@ -13037,7 +13039,7 @@ __shrimp__
 __shrines__ _n_  
 __shrink__ _n_  
 __shrivel up__ _v_ :three::hammer:  
-__shrivel__ _v_ :six: (shriveled) Shrink and wrinkle, as from dryness.  
+__shrivel__ _v_ :seven: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
@@ -15788,6 +15790,7 @@ __vexillology__ _n_ The study of flags.
 __vexing__ _adj_ :three::hammer: _Vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__viand__ _n_ (viands)  
 __vicar__  
 __vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
