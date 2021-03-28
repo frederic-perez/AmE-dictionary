@@ -240,7 +240,7 @@ __adorn__ _v_ _The pictures adorn the innards of each chapter._
 __adroit__  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulation__  
-__adult in the room__ _n_ _idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
+__adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulterate__ _v_  
 __advanced in years__ _idiom_ Of an older age.  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
@@ -951,7 +951,7 @@ __ballet__ :mute:[balle~~t~~]
 __ballistic__  
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
-__ballpark figure__ _n_ _idiom_ :two: A rough numerical estimate.  
+__ballpark figure__ _idiom_ :two: A rough numerical estimate.  
 __ballpark<sup>1</sup>__ _n_ :two::hammer:  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
@@ -1809,7 +1809,7 @@ __broil__ _v_ :two::hammer:
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
 __broken English__ _n_  
-__broken record__ _n_ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
+__broken record__ _idiom_ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
@@ -1899,7 +1899,7 @@ __bulbous__ _adj_ _A bulbous man._
 __bulk up__ _v_  
 __bulk__ _n_ :two::hammer: _For the bulk of eight years._  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
-__bull in a china shop__ _n_ _idiom_ :two: A clumsy person.  
+__bull in a china shop__ _idiom_ :two: A clumsy person.  
 __Bull__ _n_ _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bull__ Adult large animal (eg. an elephant).  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
@@ -3589,7 +3589,7 @@ __dare__
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
-__dark horse__ _n_ _idiom_ :three::hammer:  
+__dark horse__ _n idiom_ :three::hammer:  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
 __darn<sup>1</sup>__ _interj_ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
@@ -3642,7 +3642,7 @@ __dead on__
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead set against something__ _idiom_ To be completely against something.  
 __dead__ _Dead batteries._  
-__deadbeat dad__ _n_ _idiom_ A father who doesn’t live with the family and doesn’t pay child support.  
+__deadbeat dad__ _n idiom_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
@@ -3905,7 +3905,7 @@ __die-off__ _n_
 __diecast__  
 __diehard__  
 __differ__ _v_ :two::mega::hammer:  
-__different animal__ _n_ _idiom_ Something different.  
+__different animal__ _n_ Something different.  
 __diffident__  
 __dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
@@ -5065,7 +5065,7 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :two::mega::hammer:  
 __far and away__ :astonished:  
 __far and between__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
-__far cry (from something)__ _n_ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
+__far cry (from something)__ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
 __far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
 __farce__ _n_ :three::hammer:  
@@ -6619,7 +6619,7 @@ __hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handsome__ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
-__handwaving__ :astonished: _idiom_ Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
+__handwaving__ _n idiom_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
 __hang on (someone’s) words__ _idiom_ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hang out__ _phr v_  
@@ -7948,7 +7948,7 @@ __jocular__
 __jody__ _He often complained about his wife’s jody._  
 __John Doe__  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
-__Johnnie-come-lately__ _n_ _idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
+__Johnnie-come-lately__ _n idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __Johnny One-Note__ _idiom_ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
 __joined at the hip__ _idiom_ :two: To be exceptionally close to someone.  
@@ -8974,7 +8974,7 @@ __marinades__
 __mariner__ _n_  
 __marjoram__ _n_ Oregano.  
 __mark up__ _phr v_ To mark for sale at a higher price.  
-__mark__ _n_ _idiom_ A dupe; a victim selected for a theft or a swindle.  
+__mark__ _n idiom_ A dupe; a victim selected for a theft or a swindle.  
 __markdown__  
 __markdowns__  
 __marketplace__  
@@ -10028,7 +10028,7 @@ __one-note__
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __one-run__ _One-run games._  
-__one-trick pony__ _n_ _idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
+__one-trick pony__ _n idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one’s other half__ _idiom_ :two::hammer:  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
@@ -10721,7 +10721,7 @@ __pied__
 __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
-__pig in a poke__ _n_ _idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
+__pig in a poke__ _n idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
@@ -11159,15 +11159,14 @@ __prenup__ _n_ _informal_ :two: A prenuptial agreement.
 __preoccupation__  
 __prep schools__  
 __Prep__  
-__prep__ (prepping) _I was prepping for the show._  
-__prep<sup>1</sup>__ _n_? (preparatory?)  
-__prep<sup>2</sup>__ _v_ :five::hammer: (prepped)  
+__prep<sup>1</sup>__ _adj_  
+__prep<sup>2</sup>__ _n_  
+__prep<sup>3</sup>__ _v_ :seven::hammer: (prepped, prepping) _I was prepping for the show._  
 __preponderate__ _v_  
 __prepone__ _v_ To bring forward to an earlier time.  
 __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; absurd. _Syn_ foolish  
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
-__prepping__ _v_  
 __prequel__  
 __prerogative__ _n_ :seven::hammer:  
 __presage__ _v_ :mega:  
@@ -11714,7 +11713,7 @@ __rat-fuck__ _v_
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet__ _n_ :three::hammer:  
-__ratchet-mouth__ _n_ _idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
+__ratchet-mouth__ _n idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
@@ -11742,7 +11741,7 @@ __ravenous__ _adj_ :five: Extremely hungry.
 __ravine__ _n_ :two::hammer:  
 __ravish__  
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
-__raw deal__ _n_ _idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
+__raw deal__ _n idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
 __raw-milk__ _Raw-milk cheese—unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
@@ -12095,7 +12094,7 @@ __riddance__ _n_ :four::hammer:
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
-__ride__ _n_ _idiom_ A car.  
+__ride__ _n idiom_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
@@ -13638,7 +13637,7 @@ __spate__ _n_ :eight: /speɪt/ A large number of similar things coming in quick 
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
-__speak of the devil__ _v_ _idiom_ :dart: Mention someone’s name who just then appears.  
+__speak of the devil__ _v idiom_ :dart: Mention someone’s name who just then appears.  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
 __speak volumes__  
@@ -13770,7 +13769,7 @@ __sprite__ _n_ A small being, human in form, playful and having magical powers. 
 __sprocket__ _n_ _Sprocket holes._  
 __sprout<sup>1</sup>__ _v_ :two: (sprouting) Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprout<sup>2</sup>__ _n_  
-__spruce up__ _v_ :four: _idiom_ To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
+__spruce up__ _v idiom_ :four: To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spruce<sup>1</sup>__ _n_ :four::hammer: :es: abeto  
 __spruce<sup>2</sup>__ _v_  
 __spruce<sup>3</sup>__ _adj_  
@@ -14950,7 +14949,7 @@ __tinker__ _v_ :three::hammer:
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
-__tip off__ _v_ _idiom_ :three: (tip-off) To secretly inform the police or authorities.  
+__tip off__ _v idiom_ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_ :three::hammer:  
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
