@@ -868,6 +868,7 @@ __back down__ _v_
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
 __back off__ _phr v_ :four: To retreat or draw away.  
+__back on (one’s) feet__ _idiom_ __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back out__ _v_ :three::hammer:  
 __back to the salt mines__ _idiom_ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
@@ -1341,8 +1342,9 @@ __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as t
 __bilge__ _n_  
 __bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bilking__ _Durham was guilty of bilking._  
-__bill__ _v_  
 __bill-file__  
+__bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
+__bill<sup>2</sup>__ _v_  
 __billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
 __billing__ _Now, the women’s contest will take second billing._  
@@ -6756,6 +6758,7 @@ __have a hankering for (something)__ _idiom_ To have a very strong, persistent d
 __have a heart of gold__ _idiom_ To be very kind and generous.  
 __have a look-see__ _idiom_ :dart: To have a very quick look or brief examination.  
 __have a mountain to climb__ _idiom_ To have an extremely difficult, seemingly impossible task at hand.  
+__have a point (there)__ _idiom_ _He’s got a point._  
 __have a say (in something)__ _idiom_ To have an active and participatory role in making or influencing a decision about something.  
 __have a sneaking suspicion__ _idiom_ To have a slight but persistent premonition or intuition (about something).  
 __have a thing for (someone)__ _idiom_ To have a romantic infatuation with someone, especially unbeknownst to that person.  
@@ -7531,6 +7534,7 @@ __in question__ _idiom_ Currently being discussed or under consideration. _I jus
 __in retrospect__ _idiom_ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__ _idiom_ :three: With no delay; quickly.  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
+__in someone’s shoes__ _idiom_ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
 __in stitches__ _idiom_  
 __in tall cotton__ _idiom_ In a time or period of great success or wellbeing; doing very well.  
 __in the black__ _idiom_ :two: Not in debt, profitable.  
@@ -8990,7 +8994,7 @@ __marsh__ _n_ :three::hammer:
 __marshal<sup>1</sup>__ _n_  
 __marshal<sup>2</sup>__ _v_ :eight: (marshals, marshalled, marshalling) __1__ To bring people or things together and organize them so that they can be used in an effective way. _The community will marshal its resources to help undocumented immigrants._ __2__ To organize information or ideas, especially in order to make an argument. _His ability to marshal facts._  
 __marshland__ _n_ :two::hammer:  
-__marshmallow__ _n_ :two: Althaea officinalis. The word “marshmallow” comes from the mallow plant species, an herb which grows in marshes and other damp areas.  
+__marshmallow__ _n_ :three::four: Althaea officinalis. The word “marshmallow” comes from the mallow plant species, an herb which grows in marshes and other damp areas. _Toasting marshmallows._  
 __marshy__  
 __mart__ A place of trade, eg. an auction room or market.  
 __martial artist__  
@@ -14980,20 +14984,17 @@ __tix__ Tickets?
 __tixker__  
 __tizzy__  
 __TM__ _abbr_ :three: Trascendental meditation.  
-__TMI__ Too much information.  
+__TMI__ _abbr_ Too much information.  
 __tn__ _abbr_ Trillion. _US $2.4tn._  
+__to (one’s) name__ _idiom_ _Bernie died with $1.09 to his name._  
 __to be at sea__  
-__to be back on your feet__ To be healthy again after a period of illness.  
-__to be in someone’s shoes__ _Nobody has been in my shoes._  
 __to be in the clear__  
 __to be unheard of__  
 __to date__ _idiom_ :three: Until now. _To date, no winners have attended._  
-__to have a point__ _He’s got a point._  
 __to have someone pegged__ _idiom_ _Ed had him pegged as a skinflint._  
 __to hell and back__ _idiom_ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
 __to hell__  
-__to his name__ _Bernie died with $1.09 to his name._  
-__to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
+__to let (one’s) guard down__ _idiom_ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to see red__ _idiom_ Very angry.  
 __to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
 __to that effect__  
@@ -15004,7 +15005,6 @@ __toad bag__ _n_
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
 __toady__ _n_ One who flatters in the hope of gaining favors. _Syn_ sycophant  
 __toast > French toast__  
-__toast marshmallows__ :camera:  
 __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
@@ -15017,10 +15017,9 @@ __toe-poppers__
 __toe-toppers__  
 __toe<sup>1</sup>__ _n_  
 __toe<sup>2</sup>__ _v_ :two::hammer: (toed)  
-__TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
+__TOEFL__ _abbr_ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
-__toffs__ _Young toffs._  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
 __toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
@@ -15029,19 +15028,19 @@ __toiletries__
 __Tokyoites__  
 __tolerate__ _v_  
 __toll__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
-__tom__ (cat?)  
-__tomb__ :mute:[tom~~b~~]  
+__tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
+__tomb__ _n_ :mute:[tom~~b~~]  
 __tomboy__  
 __tombstone__ _n_  
 __tomcat__  
 __tome__ _n_ A large heavy book, usually about a serious subject.  
 __tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
-__ton__ _A metric ton._  
+__ton__ _n_ _A metric ton._  
 __tone-deaf__ _adj_ :two::hammer:  
 __tong__  
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
-__tongue__ :mute:[tong~~u~~e]  
+__tongue__ _n_ :mute:[tong~~u~~e]  
 __tongue-lashing__ _n_ A scolding. _Syn_ chiding, objurgation _My mother gave me a tongue-lashing for staying out past my curfew and grounded me for a week._  
 __tonic__ _adj_ _A 25 year old man presented to the emergency department with pain and reduced movement in his left shoulder following a generalised tonic clonic seizure._  
 __tonnes__ _n pl_  
@@ -15057,27 +15056,26 @@ __toot<sup>1</sup>__ _n_ :two::hammer:
 __toot<sup>2</sup>__ _v_  
 __toote__ _v_ _Tooting the horn at their friends._  
 __tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
-__tooth decay__ (cavity, cavities) :es: caries  
+__tooth decay__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. (cavity, cavities) :es: caries  
 __tooth-gnashing__  
 __tooth-wrecking__  
-__toothless__ _Some consider most of those laws toothless._  
+__toothless__ _adj_ _Some consider most of those laws toothless._  
 __toothpaste__ _n_ Why is it toothpaste instead of teethpaste? The short answer is that English is weird. The long answer is that compound words generally use the singular form of a word to represent the whole, including those involving body parts: _hairbrush_, _footstool_, _armchair_, _bookcase_, etc.  
 __toothsome__ _adj_ :three: Extremely pleasing to the sense of taste. _Syn_ delectable, scrumptious, yummy, delicious, luscious  
 __tootsie__ _n_ _slang_ :two: Darling; sweetheart. (toots, tootsy) _Twiddle their tootsies._  
 __top banana__ _n_ _slang_ :two: The most important person in an organization.  
-__top bill__ _I’m not my usual top billing._  
 __top billing__ _n_ The advertisement of a star’s name at the top of a theatrical poster.  
 __top dog__  
 __top dollars__  
-__top flight__ First division?  
+__top flight__ _n_  
 __top hat__ _n_  
-__top the bill__ _I’ll top the bill, I’ll overkill._  
+__top off__ _v idiom_ _L.A. is topping off pools, watering lawns, washing cars._  
+__top the bill__ _idiom_ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
 __top-dog__  
 __top-flight__  
 __top-of-mind__  
 __topiary__  
-__topping off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
 __topsy-turvy__ _adj_ :four::hammer: _Topsy-turvy battles._  
 __torch__ _n_  
@@ -15090,16 +15088,16 @@ __torn__ _v_
 __torpedo__ _v_  
 __torpor__ _n_ :five: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
-__torte__ _A torre was named after her._  
+__torte__ _n_ _A torte was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
 __toss (something)__ _idiom_ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ _idiom_ Sleep badly.  
-__toss out__ _One student tossed out expletives._  
+__toss out__ _v idiom_ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
 __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
-__tot lots__ _There are tot lots, but there is no place for us._  
+__tot lot__ _n_ An outdoor playground for very young children. _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __tots__  
