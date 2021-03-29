@@ -3822,7 +3822,7 @@ __deprived__ _A very deprived area._
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
-__derecho__ _n_ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
+__derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__  
 __derision__  
@@ -5951,7 +5951,7 @@ __Generation Xers__
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __generic__ _A generic diet cola._  
-__genial__ _adj_ Friendly and kind.  
+__genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ _adj_ :two::hammer:  
 __gentility__  
@@ -6924,7 +6924,7 @@ __help out__
 __helpdesk__ _n_ Alternative spelling of help desk.  
 __helpings__ _?_ _Second helpings._  
 __helpless__  
-__helter-skelter__  
+__helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
 __hem and haw__ _idiom_ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __hem__ _n_ :es: dobladillo  
 __hemlines__ _n_  
@@ -7658,7 +7658,7 @@ __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn
 __inextricable__ _adj_  
 __inextricably__ _adv_ :three::hammer:  
 __infallibity__  
-__infamous__ _adj_ :nine::m: __1__ Having a bad reputation: notorious. _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
+__infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocking: _infamous conduct._ _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__  
 __infant__ _n_  
 __infare__ _n_  
@@ -7693,6 +7693,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__  
+__inimitable__ _adj_  
 __iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
 __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
@@ -7962,6 +7963,7 @@ __jokesmith__
 __jokester__ _n_ One who tells or plays jokes; a joker.  
 __jollies__ _slang_ Gun, thrills, enjoyment.  
 __jollification__ _n_ :two: Festivity; revelry.  
+__jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
 __jolly (someone) along__ _idiom_ To encourage someone (to do something), especially in a positive, cheerful manner.  
 __jolly (someone) up__ _idiom_ To make (someone) happier or more cheerful; to cheer (someone) up.  
@@ -8028,6 +8030,7 @@ __junket__ _n_ _informal_ :two: An expensive trip paid for by government money o
 __junkie__ _n_ _He was a news junkie._  
 __junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __junta__ _n_ :three::hammer:  
+__jurisprudence__ _n_  
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
 __jus__  
@@ -8490,6 +8493,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lesson learned__ (lesson learned)  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__let (someone) off the hook__ _idiom_ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ _idiom_ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ _idiom_ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
@@ -8505,6 +8509,7 @@ __lethargic__ _adj_ :two::hammer: _Lethargic voice._
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
+__letters after (one’s) name__ _idiom_ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
 __lever__ _v_  
@@ -10641,7 +10646,7 @@ __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet ha
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
 __peter out__  
 __petite__  
-__petrichor__ _n_  
+__petrichor__ _n_ :two::hammer:  
 __petroglyphs__ _Ancient Indian petroglyph._  
 __petroleum jelly__  
 __Petry dish__ :mega:  

@@ -1,13 +1,3 @@
-__infamous__ _adj_ __2__ Causing or deserving a bad reputation; shocking: infamous conduct.  
-__derecho__ _n_  
-__petrichor__ _n_  
-__genial__ _adj_ :astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
-__letters after (one’s) name__ _idiom_ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
-__helter-skelter__ _adv_ In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
-__jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
-__jurisprudence__ _n_  
-__inimitable__ _adj_  
-__let (someone) off the hook__ _idiom_ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __windsuit__ _n_ A bodysuit with fabric between the legs and between each arm and the body, allowing skydivers and base jumpers to glide at a relatively gentle angle of descent before opening a parachute to land.  
 __rifle__ _v_ __1__ To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something: _rifled the desk, looking for the keys._ __2__ To rob or search with the intent to rob: _rifled the travelers of their belongings._ __3__ To steal (goods).  
 __feel like__ _idiom_ __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
