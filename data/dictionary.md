@@ -13686,6 +13686,7 @@ __spiffy<sup>2</sup>__ _v_ :two::hammer:
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You’ve seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
 __spike<sup>2</sup>__ _v_ :nine: __1__ Impale on or pierce with a sharp point. _She spiked another oyster._ __2__ Form into or cover with sharp points. _His hair was matted and spiked with blood._ __3__ _informal_ Add alcohol or a drug to contaminate (drink or food) surreptitiously. _She bought me an orange juice and spiked it with vodka._ _He sipped spiked colas._  
+__spiked__ _adj_ _Spiked tire._  
 __spill over__  
 __spill the beans__  
 __spill<sup>1</sup>__ _n_ _Chemical spill._  
@@ -14908,11 +14909,11 @@ __tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es:
 __tiger__ _n_ _Ben was the tiger of the defense._  
 __tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
 __tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
-__tight-knit__ _We are a tight-knit family._  
+__tight-knit__ _adj_ Well-organized or closely integrated. _We are a tight-knit family._  
 __tighten your belt__ _idiom_ To spend less money.  
 __tighten__ _v_ _Tighten your belts._  
-__tightknit__  
-__tightly wound__ Chronically tense, unable to relax, highly reactive.  
+__tightknit__ _adj_  
+__tightly wound__ _adj_ Chronically tense, unable to relax, highly reactive. _My cat is so tightly wound he springs up off the floor if anything startles him, and he startles at the drop of a feather._  
 __tightwad__ _n_  
 __tigress__ _n_  
 __Tijuana special__  
@@ -14926,11 +14927,10 @@ __time and (time) again__ _idiom_ :three::dart: Repeatedly; on multiple occasion
 __time and again__ _idiom_ Again and again; repeatedly.  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
-__time line__ _Can it be done in that time line?_  
-__time-resolved__ _SSFP cine sequences provide high resolution, time-resolved images._  
-__timeclock__ _Denver Movie Timeclock._  
+__time line__ _n_ (timeline) _Can it be done in that time line?_  
+__time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
 __timelessness__ _n_ :es: atemporalidad  
-__timeline__  
+__timeline__ _n_  
 __timeliness__  
 __timely__ _adj, adv_ :nine::m: Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._ _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
@@ -14941,15 +14941,15 @@ __timetable<sup>2</sup>__ _v_
 __timid__  
 __timing bag__  
 __timorous__ _adj_ :three: Full of fear; timid. _Syn_ trepid, fearful  
-__tin ear__ _Hillary has a political tin ear._  
+__tin ear__ _n_ _Hillary has a political tin ear._  
 __tinderbox__  
 __tinderdry__  
 __tine__ _n_ :two::hammer: (tines)  
 __tinfoil hat__  
 __tinge<sup>1</sup>__ _n_ :two::hammer:  
 __tinge<sup>2</sup>__ _v_  
-__tingle__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
-__tingles__ _I’m all tingles and shakes._  
+__tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
+__tingle<sup>2</sup>__ _n_ A sensation of tingling. _I’m all tingles and shakes._  
 __tink__ _v_  
 __tinker__ _v_ :three::hammer:  
 __tinkerer__  
@@ -14968,7 +14968,6 @@ __tiptoe<sup>2</sup>__ _adv_
 __tiptoe<sup>3</sup>__ _n_  
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one’s toes.  
 __tirade__ _n_ :seven::hammer:  
-__tire spikes__ :camera:  
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
@@ -14977,12 +14976,12 @@ __tite__
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
-__titlist__ _He is the former bantamweight titlist._  
+__titlist__ _n_ The holder of a competitive title; a champion: a chess titlist. _He is the former bantamweight titlist._  
 __titration__ _n_ _Lesion titration._  
 __titter__ _v_ :two::hammer:  
 __titters__  
 __tittle__ _n_ :pencil2: A very small part.  
-__tix__ Tickets?  
+__tix__ _pl n_ _informal_ Tickets.  
 __tixker__  
 __tizzy__  
 __TM__ _abbr_ :three: Trascendental meditation.  
