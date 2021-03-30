@@ -27,7 +27,7 @@ __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you
 __(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the) man/woman of the hour__ _idiom_ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
-__(well) what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
+__(well) what do you know__ _idiom_ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ _abbr_ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
@@ -1607,7 +1607,8 @@ __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.
 __boohoo__ _v_  
 __book jacket__  
 __book of matches__  
-__book__ _v_ _I’ll book us a table._  
+__book<sup>1</sup>__ _n_ _According to the book._  
+__book<sup>2</sup>__ _v_ _I’ll book us a table._  
 __bookcases__ _n_ :two::hammer:  
 __bookend__ _n_  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
@@ -1711,7 +1712,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass monkeys__ _idiom_ Very cold weather.  
-__brass__ _n_ _informal_ :five: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._  
+__brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
 __brassiere__ _n_  
 __brassy__ _She is brassy, funny, and smart._  
 __bratty__  
@@ -5144,7 +5145,7 @@ __fecklessness__
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
 __feel for__  
-__feel like__ _idiom_  
+__feel like__ _idiom_ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __feel out__  
 __feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
@@ -5972,6 +5973,7 @@ __get (one’s) goat__ _idiom_ To annoy or anger one. _That guy just gets my goa
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__ _idiom_ :two::hammer:  
 __get a handle__ _UAVs are used to get a handle on what’s going on._  
+__get a hold on/of (oneself)__ _idiom_  
 __get a jump__ _Get a jump on things._  
 __get a kick out of (someone or something)__ _idiom_ :five::hammer: _You’ll get a kick out of this!_  
 __get ahead of (oneself)__ _idiom_ To plan or become overly excited for a possible future event.  
@@ -6468,6 +6470,7 @@ __guibble__
 __guide__ :mute:[g~~u~~ide]  
 __guidepost__ _n_  
 __guidet__ _Two guidettes._  
+__guild__ _n_ :mega: _The brass guild._  
 __guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillotine__ _n_ :mega:  
@@ -8148,7 +8151,7 @@ __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could b
 __kingfisher__ _n_  
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
-__kinky__  
+__kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinship__ _n_ :two::hammer:  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
@@ -12114,7 +12117,7 @@ __riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To spe
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
 __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine cabinet for the toothpaste._  
 __riffraff__  
-__rifle__ _v_ :two::hammer: (rifling) _Rifling through his case._  
+__rifle__ _v_ :three: (rifling) __1__ To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something: _rifled the desk, looking for the keys._ _Rifling through his case._ __2__ To rob or search with the intent to rob: _rifled the travelers of their belongings._ __3__ To steal (goods).  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._ _The rift between the two brothers._  
 __rig__ _Horse and the red wagon were a good rig._  
 __rigged__  
@@ -13388,6 +13391,7 @@ __smarten__ _v_ _He was smartening himself._ _Syn_ spruce up
 __smarter than the average bear__  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
+__smash__ _n_ __5__ _informal_ A resounding success. _The picture was a smash from coast to coast._  
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
@@ -14863,8 +14867,8 @@ __thrust<sup>2</sup>__ _n_ :four::hammer: _A thrust of cognitive effort._
 __thud<sup>1</sup>__ _n_ :two::hammer:  
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
-__thumb tacks__  
 __thumb (one’s) nose at (someone or something)__ _idiom_ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
+__thumb tacks__  
 __thumb war__  
 __thumb<sup>1</sup>__ _n_ :mute:[thum~~b~~]  
 __thumb<sup>2</sup>__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
@@ -16260,6 +16264,7 @@ __windshear__ _n_ :four::hammer: _Windshear phenomena have caused more than 1,40
 __windshield wipers__  
 __windsock__  
 __windstorm__  
+__windsuit__ _n_ A bodysuit with fabric between the legs and between each arm and the body, allowing skydivers and base jumpers to glide at a relatively gentle angle of descent before opening a parachute to land.  
 __windup__ _adj_ _It was a cheap, windup alarm clock._  
 __wine list__ _n_ _The wine list._ :es: la carta de vinos  
 __wineskin__ _n_ _He took a sip from his wineskin._  
