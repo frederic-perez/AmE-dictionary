@@ -14852,7 +14852,7 @@ __throw out the red meat__
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
 __throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
 __throw up__ _I might throw up._  
-__throwback Thursday__ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
+__throwback Thursday__ _idiom_ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
 __throwback__ _n_ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
 __throws__ _n_  
@@ -14864,13 +14864,13 @@ __thud<sup>1</sup>__ _n_ :two::hammer:
 __thud<sup>2</sup>__ _v_ (thudding)  
 __thug__ _n_ :three: A tough and violent man, esp a criminal.  
 __thumb tacks__  
-__thumb the nose__ _He has the freedom to thumb his nose at the rules set by others._  
+__thumb (one’s) nose at (someone or something)__ _idiom_ Express scorn or ridicule. This expression alludes to the traditional gesture of contempt, that is, placing the thumb under the nose and wiggling the fingers. _He has the freedom to thumb his nose at the rules set by others._  
 __thumb war__  
 __thumb<sup>1</sup>__ _n_ :mute:[thum~~b~~]  
 __thumb<sup>2</sup>__ _v_ :four::astonished::mute:[thum~~b~~]:hammer: _He took a seat and thumbed through the Sporting News._ _Thumb through the magazine._  
-__thumbnail__ _Here’s a thumbnail of the story._  
+__thumbnail__ _n_ __2__ Concise and brief. _Here’s a thumbnail of the story._  
 __thump__ _v_ :three::hammer: _Liverpool thumps United 3-0._ _The Hawks thumped the Maroons._ _He thumped the cigarette gently on the table._  
-__thumping__ _A thumping majority._  
+__thumping__ _adj_ _informal_ _A thumping majority._  
 __thunder__ _v_ :two: (thundered) To express violently, commandingly, or angrily; roar.  
 __thunderheads__  
 __thunderous__ _adj_  
@@ -14879,7 +14879,7 @@ __thunderstruck__ _adj_ As if struck dumb with astonishment and surprise.
 __thunk<sup>1</sup>__ _n_  
 __thunk<sup>2</sup>__ _v_ _A thunking sound._  
 __thunked__ _v_  
-__Thursday__ :mega: /’θøzdi, -deI/  
+__Thursday__ _n_ :mega: /’θøzdi, -deI/  
 __thusly__  
 __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
 __thwack<sup>2</sup>__ _v_  
@@ -14898,19 +14898,19 @@ __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to de
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
 __ticklish__ _adj_ :three: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
-__ticky-tacky__ _The ticky-tacky plan._  
+__ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :five::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
 __tide someone over (until something)__ _idiom_ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
-__tidy__ _A tidy plan._  
+__tidy__ _adj_ _A tidy plan._  
 __tie the can__ _idiom_ _It ain’t every day that you tie the can to a Congressman._  
 __tie-dye__  
-__tie-in__ _The story “Dr. Cyclops” was an early movie tie-in._  
+__tie-in__ _n_ _The story “Dr. Cyclops” was an early movie tie-in._  
 __tie-up__ _n_  
-__tiebreaking__ _A tiebreaking goal._  
+__tiebreaking__ _adj_ Serving as a tiebreaker. _A tiebreaking goal._  
 __tier__ _n_ _After breakfast the four tiers came to life with music and news and soap operas and quite conversations through the bars._  
-__tiger nut__ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
+__tiger nut__ _n_ (tiger nuts) The small dried edible tuber of a kind of sedge. :es: chufas  
 __tiger__ _n_ _Ben was the tiger of the defense._  
 __tight as a drum__ _idiom_ Taut or close-fitting; also, watertight.  
 __tight__ _adj_ :two::mute:[ti~~gh~~t]:hammer: __1__ _slang_ Very good, excellent; cool; awesome. __2__ _A tight deadline._  
