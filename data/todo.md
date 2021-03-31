@@ -1,3 +1,13 @@
+__plotz__ _v_ _informal_ To faint, collapse, explode, or flop down, as from excitement, frustration, surprise, exhaustion, etc. From Yiddish platsn (to burst), from German platzen (to burst). _I laughed so hard I almost plotzed._  
+__let the good times roll__ _idiom_ To have as much fun or live life as richly as possible. (Often said as an imperative.)  
+__tuffet__ _n_ A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
+__cannibalize__ _v_  
+__let (someone) loose (on something)__ _idiom_ To allow someone to do something as they please, without supervision or control.  
+__equinox__ _n_  
+__combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
+__CE__ _abbr_ Common Era.  
+__on a lark__ _idiom_ On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
+__vainglorious__ _adj_ Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __scalp__ _v_ __2__ _informal_ Punish severely.  
 __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __as good as it gets__ _idiom_ As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_  
