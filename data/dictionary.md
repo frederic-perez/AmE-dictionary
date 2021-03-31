@@ -7051,7 +7051,7 @@ __hit the wall__ _idiom_ :two::hammer:
 __hit up__ _She thought about hitting up an amusement park._  
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
-__hither and thither__ _idiom_ :two::hammer::pencil2:  
+__hither and thither__ _idiom_ :three::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hitherto__ _adv_ :four::hammer:  
 __HIV__  
@@ -14810,9 +14810,8 @@ __third rail__ _n_ __1__ The rail that supplies the high voltage to power a trai
 __this and that__  
 __this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
 __this time around__ :dart::hammer:  
-__thistle__ :mute:[this~~t~~le]  
-__thistledown__ The mature, silky pappus of a thistle.  
-__thither__ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
+__thistle__ _n_ :mute:[this~~t~~le] :es: cardo  
+__thistledown__ _n_ The mature, silky pappus of a thistle.  
 __thobbing__  
 __Thomas Aquinas__ _n_  
 __thong__ _n_ :two::hammer:  
@@ -14821,13 +14820,12 @@ __thorny__ _adj_
 __thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
-__thought__ :mute:[thou~~gh~~t]  
+__thought__ _n_ :mute:[thou~~gh~~t]  
 __thousandth__  
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
 __thread the needle__  
-__Three Lions__ _A message to the Three Lions._  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
 __thrifty__ _adj_ :three::hammer:  
@@ -14837,25 +14835,23 @@ __throbbingly__
 __throes__ _n_ :five::hammer:  
 __thromboembolism__ _n_  
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
-__throttle__ _v_  
-__throttling__ _Throttling the Philadelphia Eagles._  
+__throttle__ _v_ :two:: __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
 __through and through__ _idiom_ :four: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
 __through the grapevine__ _idiom_  
 __through thick and thin__ _idiom_ Through good times and bad times.  
 __through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
 __throughfare__ _n_ Another word for thoroughfare.  
 __throw (someone) under the bus__ _idiom_ :two::hammer:  
-__throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
+__throw a fit__ _idiom_ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
 __throw a monkey off his back__  
-__throw away__ To get rif of something that you no longer want.  
+__throw away__ _idiom_ To get rif of something that you no longer want.  
 __throw down<sup>1</sup>__ _v_  
 __throw down<sup>2</sup>__ _n_  
 __throw in the towel__ _idiom_ :two::hammer: (throw in the sponge; toss in the sponge)  
 __throw off__ _phr v_ To quickly remove a piece of clothing.  
 __throw out the red meat__  
 __throw out__ _v_ __1__ To give off; emit: _searchlights throwing out powerful beams._ __2__ To reject or discard: _The committee threw out her proposal._ __3__ To get rid of as useless: _threw out the garbage._ __4__ _informal_ To offer, as a suggestion or plan: _They sat around throwing out names of people they might want to invite to the party._ __5__ To force someone to leave a place or group.  
-__throw the kitchen sink__ _Defenses throw the kitchen sink at Bowling Green, searching for weak spots._  
-__throw up__ _I might throw up._  
+__throw up__ _idiom_ _I might throw up._  
 __throwback Thursday__ _idiom_ A social media phenomenon in which older pictures (such as childhood photos) are posted on Thursday with the phrase (often abbreviated “TBT”) as an accompanying hashtag or caption. _I’m going to post my second grade class picture for throwback Thursday!_  
 __throwback__ _n_ :three::hammer: _Throwback uniform._ _A distinct throwback to the poster covers of the early magazines._  
 __throwers__ _n_  
