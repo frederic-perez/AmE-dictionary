@@ -1,13 +1,3 @@
-__PB&J__ _abbr_  
-__it takes a village__ _idiom_  
-__sputum__ _n_  
-__back atcha__ _idiom_ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
-__entrant__ _n_ :dart: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
-__storytelling__ _n_  
-__nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
-__nosological__ _adj_  
-__chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ a short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
-__chug<sup>2</sup>__ _v_ To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._  
 __scalp__ _v_ __2__ _informal_ Punish severely.  
 __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __as good as it gets__ _idiom_ As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_  

@@ -861,6 +861,7 @@ __baby shower__ _n_
 __babysit__ _v_  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
+__back atcha__ _idiom_ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back away__  
 __back breaker__  
 __back country__ _n_  
@@ -2597,7 +2598,8 @@ __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playf
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
-__chug__ _v_ :three::hammer: _A cocktail to chug._ _We’re chugging along._  
+__chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
+__chug<sup>2</sup>__ _v_ :four: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._  
 __Chugging beers__  
 __chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college chums._ _We’re old school chums._ __2__ Bait usually consisting of oily fish ground up and scattered on the water. _Fish chum._  
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
@@ -4745,7 +4747,7 @@ __entitlement__ _n_ :four::hammer: _Entitlement programs._
 __entourage__ _n_ :two::hammer: :es: séquito  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
-__entrant__ :astonished:  
+__entrant__ _n_ :two::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
 __entrée__  
 __entrench__ _v_ :nine: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
@@ -7832,7 +7834,7 @@ __it dawned on someone__
 __it figures__ _idiom_ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
-__it takes a village__ _idiom_ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
+__it takes a village__ _idiom_ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
 __it takes two to tango__ _idiom_ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
@@ -9789,6 +9791,8 @@ __nose > running noses__
 __nose dive__  
 __nose-thumbing__ :camera:  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
+__nosological__ _adj_  
+__nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__  
 __nostrum__ _n_ :astonished:  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
@@ -10495,6 +10499,7 @@ __payback__ _n_ :two::hammer:
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
+__PB&J__ _abbr_  
 __PC__ _abbr_ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
 __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
@@ -13807,6 +13812,7 @@ __spurted__ _v_
 __sputs__  
 __sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
+__sputum__ _n_  
 __squabble<sup>1</sup>__ _v_ :five: (squabbling) To engage in a bad-tempered argument, often over a trivial matter; bicker. _A squabbling family._  
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
@@ -14094,6 +14100,7 @@ __storks__
 __storm surge__ _n_ :two::hammer:  
 __storm__ _v_  
 __storyteller__ _n_ __1a__ One who tells or writes stories. __b__ One who relates anecdotes. __2__ _informal_ One who tells lies.  
+__storytelling__ _n_  
 __storywise__ _adv_ In terms of a story or narrative.  
 __stoup__  
 __stouthearted__ _adj_ Brave; courageous. _Syn_ stalwart _Undaunted by the storm, the stouthearted park ranger proceeded with his search for the missing hiker._  
