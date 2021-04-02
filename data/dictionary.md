@@ -2293,6 +2293,7 @@ __caseous__ _adj_ Resembling cheese.
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
 __cash flow__  
+__cash in__ _idiom_  
 __cash rebate__  
 __cashier__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
 __cashmere__  
@@ -4007,6 +4008,7 @@ __discretionary__ _Things to do when you have discretionary time._
 __discus__ _n_  
 __disdrometer__  
 __disembodied__ _v_ :two::hammer:  
+__disembody__ _v_ (disembodied)  
 __disenfranchise__  
 __disenfranchised__  
 __disengage__ _v_ :two::hammer:  
@@ -5155,6 +5157,7 @@ __feet__ _They were stung by a man who sells socks without feet._
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
+__fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
@@ -5355,7 +5358,7 @@ __flagship__ _n_ :two::hammer:
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
-__flail__ _v_ :six::hammer: (flailed, flailing)  
+__flail__ _v_ :seven::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
@@ -7599,7 +7602,7 @@ __inaugurate__ _v_ _He will be inaugurated for second term._
 __inbound<sup>1</sup>__ _adj_ :three::hammer: _Inbound trip._ _Inbounds pass._  
 __inbound<sup>2</sup>__ _v_  
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
-__incarnation__ _n_ :three::hammer:  
+__incarnation__ _n_ :four::hammer:  
 __incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
@@ -8965,6 +8968,9 @@ __manipulation__
 __manna__ _n_  
 __mannered__  
 __mannerism__ _n_  
+__mano a mano<sup>1</sup>__ _n_ __2__ A face-to-face confrontation or competitive struggle: _a mano a mano between the presidential candidates._  
+__mano a mano<sup>2</sup>__ _adj_ Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
+__mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
 __manor__ _A medieval manor house._  
 __manta__ _n_  
@@ -10818,6 +10824,7 @@ __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you thin
 __pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__pissed__ _adj_  
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_ :two::pencil2::hammer:  
@@ -15406,7 +15413,7 @@ __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn
 __two-fold__ _adj_  
 __two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
 __two-timer__ _n_  
-__twofer__ _n_ _informal_ :two::hammer:  
+__twofer__ _n_ _informal_ :three::hammer:  
 __tycoon__ _n_ :four::hammer:  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
