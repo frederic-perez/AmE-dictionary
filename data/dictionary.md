@@ -1731,7 +1731,7 @@ __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate
 __bread and butter__  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one’s) neck__  
-__break a leg__ _idiom_ _exclamation_ :three: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
+__break a leg__ _idiom_ _interj_ :three: Good luck! (A special theatrical way of wishing a performer good luck. Saying “good luck” is considered by actors to be a jinx.) _“Break a leg!” shouted the stage manager to the heroine. Let’s all go and do our best. Break a leg!_  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
@@ -4870,7 +4870,7 @@ __eviction__ _n_ :two::hammer:
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
-__ew__ _exclamation_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
+__ew__ _interj_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __ewer__ _n_  
 __ewes__ _n_  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
@@ -5939,7 +5939,7 @@ __GDP__ _abbr_ Gross domestic product.
 __gear__ _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
-__gee__ _exclamation_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
+__gee__ _interj_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
 __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
@@ -6043,7 +6043,7 @@ __gibes__
 __Gibson glass__  
 __giddily__  
 __giddiness__ _n_ :two::hammer:  
-__giddy up__ _exclamation_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
+__giddy up__ _interj_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
@@ -7133,7 +7133,7 @@ __holy cannoli__ _interj_ :two: An expression that usually accompanies shock or 
 __holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
 __Holy Ghost__ _n_ :two::hammer:  
 __holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
-__holy moley__ _exclam_ An exclamation of surprise, shock, or astonishment.  
+__holy moley__ _interj_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
 __Holy See__  
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
@@ -14743,7 +14743,7 @@ __That being said,__
 __that much__ _I’ll tell you that much._  
 __that will be the day__ _idiom_ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that’ll be the day!_  
 __that will do__  
-__That-a-boy!__ _exclam._ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
+__That-a-boy!__ _interj_ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
 __that’s all she wrote__ _idiom_ This is the end; there is nothing left to say. _I’m sorry, Ben, but the board’s decision is final. That’s all she wrote, I’m afraid._  
 __that’s the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they’re coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
@@ -14753,19 +14753,17 @@ __the “m” word__
 __the (hot) skinny__ _idiom_ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the 105’s__  
 __the 11th hour__  
-__the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
+__the back of (one’s) hand__ _idiom_ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in someone’s court__ _idiom_ :two: To be responsible for taking the next action.  
 __the bandwagon__ _n phr_ _Jump on the bandwagon._  
 __the big three-oh__  
 __the bigger they come, the harder they fall__ _idiom_ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
-__the Chinese__ _This article was translated from the Chinese._  
 __the City of Brotherly Love__  
 __the day’s full of spiders__  
 __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
-__the final frontier__ (Space?) There is a turf war brewing in the final frontier.  
+__the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
-__the good, the bad, and the ugly__ _Champions are famous for knowing themselves—the good, the bad, and the ugly._  
 __the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
