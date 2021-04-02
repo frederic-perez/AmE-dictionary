@@ -1,3 +1,13 @@
+__disdain<sup>1</sup>__ _v_  
+__disdain<sup>2</sup>__ _n_  
+__witty__ _adj_  
+__snob__ _n_  
+__artichoke__ _n_  
+__diehard__ _adj_ _A diehard fan._  
+__peruse__ _v_ :mega:  
+__rabbit hole__ _idiom_ _We are falling down the rabbit hole._  
+__grope__ _v_  
+__bump__ _n_ _A bump free flight._  
 __vainglorious__ _adj_ Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __scalp__ _v_ __2__ _informal_ Punish severely.  
 __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
