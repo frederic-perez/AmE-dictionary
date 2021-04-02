@@ -14777,7 +14777,7 @@ __the name of the game__
 __the order of the day__  
 __the proof is in the pudding__ _idiom_ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ _idiom_ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
-__the skinny__ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
+__the (hot) skinny__ _idiom_ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__ _idiom_ :two: Anything is possible; there is practically no limit.  
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
@@ -14787,36 +14787,36 @@ __then again__ _idiom_ :nine::m: From another standpoint; on the other hand; on 
 __theocracy__  
 __theosophy__  
 __there is no denying__  
-__there is no question__ _There is no question that higher ocean temperatures have resulted in less offshore ice._  
+__there is no question__ _interj_ It is indisputable. _There is no question that higher ocean temperatures have resulted in less offshore ice._  
 __there is no way around it/that__ _idiom_ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __thereabout__  
-__thereafter__ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
+__thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
 __thereof__ _adv_ :two::hammer:  
 __thermistor__ _n_ :two::hammer:  
-__thermos__ _A thermos._  
+__thermos__ _n_ (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
 __thespian<sup>1</sup>__ _adj_ :two::hammer:  
 __thespian<sup>2</sup>__ _n_  
 __thew__ _n_  
-__thick accent__ _Arnold’s accent is getting thicker._  
+__thick accent__ _n_ Heavy foreign or regional pronunciation. _Arnold’s accent is getting thicker._  
 __thick and thin__ _idiom_ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ _idiom_ :two::dart::hammer:  
 __thicket__ _n_ :six::hammer: (thickets) _The thicket of racist laws._  
 __thieve__ _v_ :astonished: To steal.  
-__thigh__ :mute:[thi~~gh~~]  
+__thigh__ _n_ :mute:[thi~~gh~~]  
 __thimblerig<sup>1</sup>__ _n_ (Gambling, except Cards) A game in which the operator rapidly moves about three inverted small cups, often with sleight of hand, one of which conceals a token, the other player betting on which thimble the token is under.  
 __thimblerig<sup>2</sup>__ _v_ __1__ To cheat by trickery. __2__ To swindle by a trick in which a small ball or pea is quickly shifted from under one to another of three small cups to fool the spectator guessing its location.  
 __thin skin__  
 __thine__  
 __thingy__ _n_ :two::hammer:  
 __think back__ _idiom_ :two: To think about a past event or a past time.  
-__think over__ To consider a problem or decision carefully.  
+__think over__ _idiom_ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
 __think tank__ _n_ :five::hammer:  
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
 __this and that__  
-__this is__ _Hello, this is Michael Robinson._ (To identify oneself by phone, or to introduce someone.)  
-__this time around__ :dart::hammer:  
+__this is (someone)__ _idiom_ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
+__this time around__ _phr_ :dart::hammer: :es: esta vez  
 __thistle__ _n_ :mute:[this~~t~~le] :es: cardo  
 __thistledown__ _n_ The mature, silky pappus of a thistle.  
 __thobbing__  
