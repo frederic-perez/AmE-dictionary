@@ -1,3 +1,13 @@
+__pissed__ _adj_  
+__fella__ _n informal_ (fellas)  
+__mano a mano<sup>1</sup>__ _n_ __2__ A face-to-face confrontation or competitive struggle: _a mano a mano between the presidential candidates._  
+__mano a mano<sup>2</sup>__ _adj_ Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
+__mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
+__cash in__ _idiom_  
+__flail__ _v_  
+__twofer__ _n_  
+__disembody__ _v_ (disembodied)  
+__incarnation__ _n_  
 __vainglorious__ _adj_ Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __scalp__ _v_ __2__ _informal_ Punish severely.  
 __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
