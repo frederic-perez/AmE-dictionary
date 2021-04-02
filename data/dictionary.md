@@ -2181,6 +2181,7 @@ __canebrake__ _n_
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
 __canned__ To get fired, to lose your job.  
 __cannibalization__ _n_  
+__cannibalize__ _v_  
 __cannolis__  
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
@@ -2380,7 +2381,7 @@ __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)
 __CBT__  
 __CDC__ _abbr_ :three: Center for Disease Control. _A CDC van._  
 __ce__  
-__CE__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
+__CE__ _abbr_ __1__ Common Era. __2__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __ceasefire__  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
@@ -2884,6 +2885,7 @@ __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes.
 __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:  
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
+__combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
 __combines__ _Basketball_  
 __come across__ _idiom_ :three::hammer:  
 __come again?__  
@@ -4788,7 +4790,7 @@ __equestrian<sup>1</sup>__ _adj_
 __equestrian<sup>2</sup>__ _n_  
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
-__equinox__ _n_ :two::mega::hammer:  
+__equinox__ _n_ :three::mega::hammer:  
 __equip__ _v_  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
@@ -8498,6 +8500,7 @@ __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged
 __lessen__ _v_  
 __lesson learned__ (lesson learned)  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
+__let (someone) loose (on something)__ _idiom_ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ _idiom_ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ _idiom_ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
@@ -8509,6 +8512,7 @@ __let on__ _phr v_
 __let somebody down__ _idiom_ To disappoint someone.  
 __let someone go__ _idiom_ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we’re going to have to let you go._  
 __let the dust settle__ _idiom_ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
+__let the good times roll__ _idiom_ To have as much fun or live life as richly as possible. (Often said as an imperative.)  
 __let your hair down__  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
@@ -9986,6 +9990,7 @@ __omphaloskepsis__ _n_ The practice of contemplating one’s navel in order to a
 __on (someone’s) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a dime__ _idiom_  
 __on a high horse__ _idiom_ To act as if you are better than other people.  
+__on a lark__ _idiom_ On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a roll__ _idiom_ :two::hammer: _I’m on a roll._  
 __on a second thought__  
 __on a tear__ _The U.K. labor market is on a tear._  
@@ -10932,7 +10937,7 @@ __plonk__ _v_ (plonked)
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
 __plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
 __plot__ _n_ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
-__plotz__ _v_  
+__plotz__ _v_ :two: _informal_ To faint, collapse, explode, or flop down, as from excitement, frustration, surprise, exhaustion, etc. From Yiddish platsn (to burst), from German platzen (to burst). _I laughed so hard I almost plotzed._  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
 __plovers__  
 __plow__ _v_ :two::hammer: (plowed) _A car plowed into pedestrians._ _Drivers plowed into oncoming traffic._  
@@ -14745,6 +14750,7 @@ __thaw<sup>1</sup>__ _v_ :five: When things thaw, they’re coming out of deep f
 __thaw<sup>2</sup>__ _n_ :seven: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
 __thawed__ _adj_ :two: No longer frozen. _1 (12-14 lb.) whole turkey, thawed (neck and gibblets removed)._  
 __the “m” word__  
+__the (hot) skinny__ _idiom_ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the 105’s__  
 __the 11th hour__  
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
@@ -14777,7 +14783,6 @@ __the name of the game__
 __the order of the day__  
 __the proof is in the pudding__ _idiom_ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ _idiom_ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
-__the (hot) skinny__ _idiom_ Confidential information on a particular person or topic. _Net managers who want the skinny on the latest in computer security._  
 __the sky is the limit__ _idiom_ :two: Anything is possible; there is practically no limit.  
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the writing on the wall__  
@@ -15311,6 +15316,7 @@ __tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular
 __tuck<sup>2</sup>__ _n_  
 __Tudor__  
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
+__tuffet__ _n_ A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
