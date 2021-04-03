@@ -1,4 +1,14 @@
 
+__jaw away__ _idiom_ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our "conversation" is always just her jawing away while I listen patiently on._  
+__sang-froid__  
+__swearing-in__ _n_  
+__sarcophagus__ _n_  
+__dunce__ _n_ A person regarded as dim-witted or foolish.  
+__hair-splitting__ _idiom_  
+__many<sup>1</sup>__ _adj_  
+__many<sup>2</sup>__ _n_  
+__much<sup>1</sup>__ _adj_  
+__much<sup>2</sup>__ _n_   
 
 __tidbits__ _n_  
 __get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
