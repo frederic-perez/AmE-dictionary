@@ -4446,7 +4446,7 @@ __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes
 __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
 __dun__ _Dun-colored hair._  
-__dunce__ _n_ :two::hammer: _We are complete dunces at self-perfection._  
+__dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are complete dunces at self-perfection._  
 __dune__ _n_  
 __dung fork__ _n_  
 __dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
@@ -6582,6 +6582,7 @@ __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A ha
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
 __hair clippers__ _n_ :camera:  
+__hair-splitting__ _idiom_  
 __hair-splittingly__ _idiom_ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a hair-trigger temper; a hair-trigger reaction.  
 __hairline__  
@@ -7893,6 +7894,7 @@ __jaundice<sup>1</sup>__ _n_
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
 __jaunty__ _adj_ :nine: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaw away__ _idiom_ :dart: To talk incessantly and/or at great length. _Whenever I meet up with Tammy, our “conversation” is always just her jawing away while I listen patiently on._  
 __jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jay__ _n_  
@@ -8980,6 +8982,8 @@ __mantle<sup>1</sup>__ _n_ :four: An important role or responsibility that passe
 __mantle<sup>2</sup>__ _v_  
 __mantlet__ _n_  
 __mantrap__ _n_  
+__many<sup>1</sup>__ _adj_  
+__many<sup>2</sup>__ _n_  
 __maple__  
 __mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
 __marathon__ _This is more of a marathon than a sprint._  
@@ -9463,6 +9467,8 @@ __Mr. Such and Such__
 __mRNA__ _abbr_ Messenger RNA.  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
+__much<sup>1</sup>__ _adj_  
+__much<sup>2</sup>__ _n_  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
 __muck<sup>1</sup>__ _n_ :four: __1__ Any thick, viscous matter. __2__ Fecal matter of animals. _To transfer road muck onto your leg._  
 __muck<sup>2</sup>__ _v_ :three: (mucking) __1__ Remove muck, clear away muck, as in a mine. __2__ Spread manure, as for fertilization.  
@@ -12478,7 +12484,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandwich__ :mute:[san~~d~~wich]  
 __sandy-haired__  
-__sangfroid__ _n_ :two::hammer:  
+__sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
 __sanguine__ _adj_ :seven::hammer::astonished:  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _Sanitation systems._  
@@ -12494,7 +12500,7 @@ __sapphire__ :mute:[sa~~p~~phire]
 __sappy__ _Sappy smile._  
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __sarcophagi__ _n_  
-__sarcophagus__ _n_  
+__sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
 __sartorial__  
 __sash__ _n_ :five::hammer: (sashes) :es: banda _A sash cord._ _A sash window._  
 __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an attempt to impress others: _He struts around like a rooster in a hen house_  
@@ -14411,6 +14417,7 @@ __swatted__
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
+__swear in__ _idiom_ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
 __sweat bullets__ _idiom_ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweat it__ _Don’t sweat it._  
 __sweatpants__  
