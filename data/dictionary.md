@@ -9999,7 +9999,7 @@ __on a high horse__ _idiom_ To act as if you are better than other people.
 __on a lark__ _idiom_ On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  
 __on a roll__ _idiom_ :two::hammer: _I’m on a roll._  
 __on a second thought__  
-__on a tear__ _The U.K. labor market is on a tear._  
+__on a tear__ _idiom_ :two: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on a whim__  
 __on all fours__ _adj_ _idiom_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
 __on cloud nine__  
@@ -14655,10 +14655,9 @@ __teakwood__ :pencil2:
 __team player__  
 __team up__ _v_  
 __Teamster__ _n_ :two::hammer:  
+__tear around__ _idiom_ _Her idea of taking a day off is tearing around a golf course._  
 __tear gas__ _n_ :two::hammer:  
-__tear__ _The stock has been on a tear._  
 __teardown__ _n_  
-__tearing__ _Her idea of taking a day off is tearing around a golf course._  
 __techie__ _n informal_ :two: (techies) One who studies or is highly interested or proficient in a technical field, especially electronics. _Facebook’s techie in chief._  
 __Tecnetium__  
 __tedious__  
@@ -14678,8 +14677,7 @@ __telegenic__
 __telekinesis__ _n_ :mega:  
 __televangelist__ _n_  
 __televised__  
-__tell > telling stretch__ _The telling stretch of the season._  
-__tell me about it!__ :es: ya te digo (?)  
+__tell me about it__ _idiom_ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ya te digo (?)  
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
@@ -14691,7 +14689,7 @@ __temper__ _v_ :six::hammer: (tempered)
 __tempera__ _n_  
 __temperament__  
 __temperance__  
-__temperate__ _A temperate climate._  
+__temperate__ _adj_ _A temperate climate._  
 __tempering__ _adj_ _A tempering experience_  
 __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempestuous__ _adj_ :two::hammer:  
@@ -14705,12 +14703,12 @@ __tender__ _n_ _The company won the tender._
 __tenderize__ _v_ To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
 __tendrils__ _n_  
-__tenements__ _Kids from the tenements._  
+__tenement__ _n_ __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
 __tenet__ _n_ :seven::hammer: (tenets) :es: principio  
-__Tennessee Honey__ Honey liqueur blended with less than 20% whiskey.  
+__Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
 __tenon__  
 __tense__ _adj_ :two::hammer:  
-__tensile__ _Tensile cable._  
+__tensile__ _adj_ _Tensile cable._  
 __tentative__  
 __tenterhooks__  
 __tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
@@ -14743,11 +14741,11 @@ __thane__ _v_
 __thang__  
 __thank-you note__ _n_  
 __thank-yous__ _n_  
-__thankless__ Ungrateful  
+__thankless__ _adj_ Ungrateful.  
 __Thanksgiving Day__ _n_  
 __that being said__  
 __That being said,__  
-__that much__ _I’ll tell you that much._  
+__that much__ _adv_ To a certain degree. _I’ll tell you that much._  
 __that will be the day__ _idiom_ Said of something that is unlikely to happen. _A politician speaking the truth? Ha, that’ll be the day!_  
 __that will do__  
 __That-a-boy!__ _interj_ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
