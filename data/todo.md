@@ -1,28 +1,15 @@
-
-
-
-__tittle__ _n_ :astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_ __2__ The tiniest bit; an iota.  
-__vandalize__ _v_ To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
-__eponym__ _n_  
-__absolve__ _v_  
-__rambunctious__ _adj_  
-__know every trick in the book__ _idiom_ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
-__incipient__ _An incipient building._  
-__turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal__ To speed up; accelerate.  
-__loony__ _adj_  
-__anti-vax__ _idiom_ Opposed to the administering of vaccines, especially to children. "Vax" is short for "vaccine."  
-__carp at (one)__ _idiom_  To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
+__carp at (one)__ _idiom_ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __holder__ _n_  
 __aviary__ _n_  
-__dip__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
+__dip__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __spot__ _v_  
 __descry__ _v_ :es: divisar (?)  
 __paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle wheel.  
 __hit the ground running__ _idiom_  
 __licorize__ _n_  
 __tidbits__ _n_  
-__get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
+__get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __horsey__ _adj_ (horsy)  
 __jinx__ _v_  
 __doggone__  

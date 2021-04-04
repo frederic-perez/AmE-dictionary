@@ -127,6 +127,7 @@ __absconded__ _v_ :two::hammer:
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
+__absolve__ _v_  
 __absorbed in thought__ _idiom_ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
 __abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
@@ -533,6 +534,7 @@ __anthropogenic__
 __anthropomorphous__ _adj_ Suggesting human characteristics for animals or inanimate things.  
 __anti-humor__  
 __anti-Semitism__  
+__anti-vax__ _idiom_ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
 __antibiotic<sup>1</sup>__ _n_  
 __antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]  
 __antic__  
@@ -4781,6 +4783,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
+__eponym__ _n_  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
@@ -7615,6 +7618,7 @@ __inchworm__ _n_
 __incident__ _A stroke incident to pancreatic cancer._  
 __incidental__ _Incidental extracardiac findings._  
 __incidentally__ _adv_ :six::hammer:  
+__incipient__ _adj_ _An incipient building._  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
 __incongruities__ _n_  
@@ -8219,6 +8223,7 @@ __knotty__
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know a thing or two__ _idiom_ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better__ _But I knew better._  
+__know every trick in the book__ _idiom_ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
 __know full well__ _idiom_ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
 __know__ :mute:[~~k~~now]  
@@ -8742,7 +8747,7 @@ __lookout__ _n_
 __lookup__ _n_ :two::hammer:  
 __loom large__ _idiom_ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __loony bin__ _The Count’s plot to drive her straight to the loony bin._  
-__loony__  
+__loony__ _adj_ :two::hammer:  
 __loophole__ :es: escapatoria  
 __loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
 __loose cannon__ _idiom_ :two::hammer:  
@@ -11690,7 +11695,7 @@ __ramble__ _v_
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
 __rambly__ _adv_  
-__rambunctious__ _adj_ _informal_ :four: Boisterous; unruly.  
+__rambunctious__ _adj_ :five: _informal_ Boisterous; unruly.  
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
@@ -14626,9 +14631,9 @@ __tartly__ _adv_ In a tart manner. _The teacher replied tartly._
 __tarts__ _n_ (whore)  
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
 __task__ _v_ :four::hammer: (tasked) _They have been tasked._  
+__Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tassel<sup>1</sup>__ _n_ :two::hammer: _A thong with tassels._  
 __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
-__Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tat__ _n_ :two::hammer: (tattoo?)  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
@@ -15004,7 +15009,7 @@ __titlist__ _n_ The holder of a competitive title; a champion: a chess titlist. 
 __titration__ _n_ _Lesion titration._  
 __titter__ _v_ :two::hammer:  
 __titters__  
-__tittle__ _n_ :pencil2: A very small part.  
+__tittle__ _n_ :two::astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_. __2__ The tiniest bit; an iota.  
 __tix__ _pl n_ _informal_ Tickets.  
 __tixker__  
 __tizzy__  
@@ -15341,6 +15346,7 @@ __tunesmith__ _n_ _informal_ A person who composes popular music or songs.
 __tunnel vision__ _n_ :two::hammer:  
 __tuppence__  
 __turbid__ _adj_  
+__turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
 __turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
@@ -15714,7 +15720,7 @@ __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or si
 __valued-added__  
 __vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
-__vandalize__ _v_  
+__vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
 __vandals__  
 __vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
 __vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
