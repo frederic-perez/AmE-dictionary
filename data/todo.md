@@ -1,5 +1,16 @@
 
 
+
+__tittle__ _n_ :astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_ __2__ The tiniest bit; an iota.  
+__vandalize__ _v_ To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
+__eponym__ _n_  
+__absolve__ _v_  
+__rambunctious__ _adj_  
+__know every trick in the book__ _idiom_ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
+__incipient__ _An incipient building._  
+__turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal__ To speed up; accelerate.  
+__loony__ _adj_  
+__anti-vax__ _idiom_ Opposed to the administering of vaccines, especially to children. "Vax" is short for "vaccine."  
 __carp at (one)__ _idiom_  To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __holder__ _n_  
