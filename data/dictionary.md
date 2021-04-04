@@ -10454,7 +10454,7 @@ __party line__ _n_
 __party pooper__ _idiom_ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __party poppers__  
 __party__ _n_  
-__partyer__ _n_  
+__partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
 __parvenu__  
 __pass away__ _idiom_ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
 __pass out__ _phr v_ :three: To become unconscious.  
@@ -14416,8 +14416,8 @@ __swats__ _n_ :two::hammer:
 __swatted__  
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
-__swear jar__  
 __swear in__ _idiom_ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
+__swear jar__  
 __sweat bullets__ _idiom_ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweat it__ _Don’t sweat it._  
 __sweatpants__  
@@ -14585,9 +14585,8 @@ __tangerine__ _n_
 __tangle<sup>1</sup>__ _n_ (tangles)  
 __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled in the first quarter Wednesday._  
 __tangled__  
-__tank__ _v_ :nine::hammer: (tanked) _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_  
+__tank__ _v_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanker truck__  
-__tanking__ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanner__ _n_ :two::hammer:  
 __tannery__  
 __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
@@ -14601,11 +14600,11 @@ __tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
 __taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._  
-__tapioca__ :mega:  
+__tapioca__ _n_ :mega:  
 __tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: “Do you want to place another bet?” B: “Nah, I’m tapped out.” Do we have any more ink cartridges? This one’s tapped out._  
 __taproom__ _n_ A room or establishment where alcoholic drinks are served over a counter. _Synonyms_ bar, ginmill, saloon  
 __taproot__ _n_ :two::hammer: (taproots)  
-__taps__ _A bugler played taps._  
+__taps__ _pl n_ A bugle call or drum signal sounded at night, as at a military camp, as an order to put out lights and also sounded at military funerals and memorial services. _A bugler played taps._  
 __taradiddle__ _n_  
 __tardy__ _adj_ :two::hammer:  
 __target ball__  
@@ -14625,14 +14624,13 @@ __tartan__ _n_ :three::hammer: _Tartan trousers._ _Tartan upholstery._
 __tartar__ _n_  
 __tartly__ _adv_ In a tart manner. _The teacher replied tartly._  
 __tarts__ _n_ (whore)  
-__Taser__ _A Taser stun gun._  
+__Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
 __task__ _v_ :four::hammer: (tasked) _They have been tasked._  
-__tassel__ _n_  
-__tasseled__ _v_ :five::hammer: _Tasseled loafers._  
-__tassels__ _A thong with tassels._  
-__tassled__ _Tassled loafers._  
+__tassel<sup>1</sup>__ _n_ :two::hammer: _A thong with tassels._  
+__tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
+__Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tat__ _n_ :two::hammer: (tattoo?)  
-__tater tots__ _The refrigerated warehouse holds millions of pounds of tater tots._  
+__tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
@@ -14657,8 +14655,7 @@ __taxpayer__ _n_ :two::pencil2::hammer:
 __TBD__  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
-__Tea partyers__ :pencil2:  
-__teakwood__ :pencil2:  
+__teakwood__ _n_ :pencil2: Teak.  
 __team player__  
 __team up__ _v_  
 __Teamster__ _n_ :two::hammer:  
