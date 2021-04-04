@@ -34,6 +34,7 @@
 - __Pam__ Often a diminutive form of Pamela.
 - __Ray__ Ray is a masculine given name and short form (hypocorism) of Raymond.
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
+- __Rod__ A common diminutive of various masculine given names, including Rodney, Roderick, Rodford and Rodion.
 - __Roy__ Roy is a masculine given name and a family surname with varied origin.
 - __Sam__ A given name or nickname, often used by people named “Samuel,” “Samson,” and “Samantha”, and occasionally used by people named “Salvatore.”
 - __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
