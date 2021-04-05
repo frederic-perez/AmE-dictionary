@@ -1946,6 +1946,7 @@ __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to fr
 __bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
 __bungling__ Spoil by incompetence.  
 __bunion__ _n_  
+__bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top of the other.  
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend’s house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
@@ -4339,7 +4340,7 @@ __dressing__ _It’s going to take longer to get to that turkey and dressing._
 __dribble__ _v_ :two::hammer: :es: regatear?  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
-__drifter__ _n_ :six::hammer:  
+__drifter__ _n_ :seven::hammer:  
 __drifting__  
 __driftwood__ _n_ :two::hammer: _Driftwood logs._  
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
@@ -4674,6 +4675,7 @@ __emporium__ _n_ :two::astonished: A large retail store, especially one selling 
 __Empress__  
 __empty box__ _The Etihad is the last empty box on his list._  
 __empty nester__ _He and wife Bekki areempty nesters._  
+__empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
 __EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __emulate__ _v_  
@@ -4928,7 +4930,7 @@ __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow 
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::eight: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::nine: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
@@ -8979,7 +8981,7 @@ __mano a mano<sup>1</sup>__ _n_ __2__ A face-to-face confrontation or competitiv
 __mano a mano<sup>2</sup>__ _adj_ Being or suggestive of a face-to-face encounter or contest: _a mano a mano duel between golf pros._  
 __mano a mano<sup>3</sup>__ _adv_ In direct competition: _an industry gearing up to go mano a mano with a rival._  
 __manoeuvre__ _n_ _The Addison Lean manoeuvre._  
-__manor__ _A medieval manor house._  
+__manor__ _n_ :two::hammer: _A medieval manor house._  
 __manta__ _n_  
 __mantel piece__ _n_ :three::hammer:  
 __mantel__ _n_ :six::hammer: _Fireplace mantels._ _The mantel over the small fireplace._  
@@ -10492,7 +10494,8 @@ __pathologist__ _n_
 __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
-__patois__  
+__patio__ _n_  
+__patois__ _n_  
 __patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
@@ -11882,7 +11885,7 @@ __red-letter day__
 __redbones__ _n_  
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
-__redemptions__ _n_  
+__redemption__ _n_ :two::hammer: (redemptions)  
 __redo__ _v_ :two::hammer:  
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
 __redos__  
@@ -13595,7 +13598,7 @@ __solipsism__ _n_
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
 __solvent__ _n_  
-__sombreros__  
+__sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
 __someone’s hair__ _He built the shop to get his hobby out of his wife’s hair._  
 __something is rotten in the state of Denmark__ _idiom_  
 __something or another__ _I ran into Jim Gable’s ex-chauffeur, a guy named Micah something or another._  
@@ -14529,6 +14532,7 @@ __tailspin<sup>2</sup>__ _v_
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
 __take (one’s) side__ _idiom_ To support or side with one in an argument.  
 __take (something) to heart__ _idiom_  
+__take (the) roll__ _idiom_ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a dive__ _idiom_  
 __take a leak__  
 __take a piss__ _idiom_ Urinate.  
@@ -14559,7 +14563,6 @@ __takeaways__ _n_
 __takeout containers__  
 __takeout<sup>1</sup>__ _n_ _Maybe you have Chinese takeout the night before Thanksgiving._  
 __takeout<sup>2</sup>__ _adj_  
-__take (the) roll__ _idiom_ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _n_ _A specific set of talents._  
@@ -16136,7 +16139,7 @@ __wheeze__ _v_ :three: (wheezing) To breathe in a noisy way that is uncomfortabl
 __wheezing__ _adj_  
 __whelp__  
 __when pigs can fly__ _idiom_ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
-__when pigs fly__ _idiom_ Never, impossible.  
+__when pigs fly__ _idiom_ :two: Never, impossible.  
 __when the chips are down__ _idiom_ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __whence__  
 __where the sun doesn’t shine__ _idiom_  
@@ -16452,7 +16455,7 @@ __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His bro
 __wrist__ _n_ :mute:[~~w~~rist]  
 __writ__ _n_ :three::hammer: _Compulsory State writ._  
 __write (one’s) own ticket__ _idiom_ :two::hammer:  
-__write off__ _phr v_ :two: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
+__write off__ _phr v_ :three: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
 __write__ _v_ :mute:[~~w~~rite]  
