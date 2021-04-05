@@ -1,3 +1,15 @@
+
+
+__empty-handed__ _adj_  
+__bunk beds__ _n_  
+__write off__ _v_  
+__manor__ _n_  
+__patio__ _n_  
+__when pigs fly__ _idiom_  
+__expedite__ _v_  
+__drifter__ _n_  
+__redemption__ _n_  
+__sombrero__ _n_ (?)  
 __carp at (one)__ _idiom_ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __holder__ _n_  
