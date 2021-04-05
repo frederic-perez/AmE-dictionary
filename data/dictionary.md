@@ -14553,25 +14553,25 @@ __take through__ _phr v_ To explain something to someone.
 __take to__ _phr v_ To make a habit of something.  
 __take umbrage__ _idiom_ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
 __take up__ _idiom_ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._  
-__take wing__ _Then again, my thoughts took wing._  
+__take wing__ _idiom_ _Then again, my thoughts took wing._  
 __take your mind off something__ _idiom_ To do something to help you forget about something else.  
 __takeaways__ _n_  
 __takeout containers__  
-__takeout__ _Maybe you have Chinese takeout the night before Thanksgiving._  
-__taking roll__ _The teacher spent 10 min of class taking roll._  
+__takeout<sup>1</sup>__ _n_ _Maybe you have Chinese takeout the night before Thanksgiving._  
+__takeout<sup>2</sup>__ _adj_  
+__take (the) roll__ _idiom_ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
-__talent__ _A specific set of talents._  
+__talent__ _n_ _A specific set of talents._  
 __talk back__ _idiom_  
 __talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  
 __talk into__ _phr v_ :two::hammer:  
-__talk numbers__ _Let’s talk numbers._  
 __talk out of__ _phr v_ To persuade someone not to do something. _I want you to talk him out of it._  
 __talk over__ _phr v_  
 __talk shit__  
 __talk up__  
-__talk__ :mute:[ta~~l~~k]  
-__talking head__ :astonished:  
+__talk__ _v_ :mute:[ta~~l~~k]  
+__talking head__ _idiom_ :dart: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._  
 __talktative__  
 __tall order__ _n_ :six::dart: A tall order is a task or job that is difficult to carry out. For a bodybuilder, lifting 500 pounds is a tall order. Some things in life are easy to do. Some can be done with a moderate amount of effort or skill. Others are tall orders: a tall order is hard to accomplish, and it might even be impossible. Getting 100 on a test is a tall order. In sports, winning a championship is a tall order. Getting into a school like Harvard is a tall order. People often say “That’s a tall order!” when someone else asks for something unrealistic.  
 __tall tale__ _n_ :four: (tall tales) __1__ _informal_ An entertaining and often oral account of a real or fictitious occurrence. _Syn_ anecdote, fable, story, tale __2__ _informal_ An untrue declaration _Syn_ canard, cock-and-bull story, falsehood, falsity, fib, fiction, inveracity, lie, misrepresentation, misstatement, prevarication, story, tale, untruth  
@@ -14579,11 +14579,12 @@ __tall__ _adj_ __3__ _informal_ Fanciful or exaggerated; boastful: _tall tales o
 __tallied__  
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __tally__ _v_  
-__talons__ _The nails were sharp as talons._  
-__tamale__ _I’m staying away from that one—that’s a hot tamale._  
+__talon__ _n_ (talons) _The nails were sharp as talons._ :es: garra  
+__tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
 __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
-__tan__ Color?  
+__tan<sup>1</sup>__ _v_  
+__tan<sup>2</sup>__ _n_  
 __tang__ _n_ :four::hammer: _Dory, the little blue tang fish._  
 __Tang__ _n_ An artificially flavored drink mix that was formulated in 1957, and first marketed in powdered form in 1959. Sales of Tang were poor until NASA used it on John Glenn’s Mercury flight in February 1962, and on subsequent Gemini missions. Since then it has been closely associated with the U.S. manned spaceflight program, and created the misconception that Tang was invented for the space program.  
 __tangerine__ _n_  
