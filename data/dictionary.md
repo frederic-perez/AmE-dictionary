@@ -4190,6 +4190,7 @@ __don’t go there__ _idiom_ Don’t get into that topic of conversation; I don�
 __don’t let the door hit you on the way out__ _idiom_ Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave.  
 __don’t rock the boat__ _idiom_ Don’t say or do something that could upset a stable situation.  
 __don’t shoot the messenger__ _idiom_ Don’t get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
+__don’t sweat it__ _idiom_ _(American English, spoken)_ Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._  
 __don’t tell me it’s raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
@@ -14434,14 +14435,12 @@ __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a 
 __swear in__ _idiom_ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
 __swear jar__  
 __sweat bullets__ _idiom_ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
-__sweat it__ _Don’t sweat it._  
 __sweatpants__  
-__sweep you off your feet__ To fall in love with them very quickly and strongly.  
-__sweeping staircase__ :camera:  
+__sweep (one) off (one’s) feet__ _idiom_ To charm one in such a way that they form an instant and strong romantic attraction, usually unexpectedly. _A: “Is Lucy still gushing about her new boyfriend?” B: “Yeah, he must have really swept her off her feet._  
+__sweeping__ _adj_  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
-__Sweet 16__ _sports_  
-__sweet on someone__ _adj phr_  
-__sweet spot__ _We got very lucky and found a site right in the sweet spot._  
+__Sweet 16__ _n_ _sports_  
+__sweet spot__ _idiom_ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
 __sweet water__ _n_ :two: _(uncommon)_ Fresh water.  
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
@@ -14470,8 +14469,9 @@ __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of 
 __swish<sup>1</sup>__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
 __swish<sup>2</sup>__ _n_ _He felt a slight swish of air._  
 __swish<sup>3</sup>__ _adj_  
-__switch__ (twitch?)  
-__switch-blade__ _Switch-blade artists._  
+__switch<sup>1</sup>__ _n_  
+__switch<sup>2</sup>__ _v_  
+__switchblade__ _n_ _Switchblade artists._  
 __swive__ _v_  
 __swivel__ _n_  
 __swiveling__ _v_  
@@ -14483,12 +14483,12 @@ __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircr
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
-__sword__ :mute:[s~~w~~ord]  
+__sword__ _n_ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
 __syllogism__ _n_ :two::hammer:  
 __sympathetic__  
 __synaptogenesis__ _n_  
-__syncing__ _Syncing up over coffee._  
+__sync up__ _idiom_ _Syncing up over coffee._  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
