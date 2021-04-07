@@ -3524,7 +3524,7 @@ __cut one’s eyes at someone or something__ _idiom_ :two: To glance at someone 
 __cut shot__ _n_ A type of shot in several sports.  
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
-__cut__ _n_ :two::hammer: _His cut of the $50,000._  
+__cut__ _n_ :three: __10__ _Informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dry task__  
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
@@ -14497,7 +14497,7 @@ __systemic__ _adj_ :two::hammer:
 __syzygy__  
 __T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-ball__  
-__T-storm__ _abrev_ Thunderstorm.  
+__T-storm__ _abbr_ Thunderstorm.  
 __T&A__  
 __tab__ _n_ _The tab is $1,000 per person._  
 __tab<sup>1</sup>__ _n_ :four: __1__ _informal_ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
@@ -14507,11 +14507,10 @@ __table tennis__
 __table tennos__  
 __tableau__  
 __tableaux__  
-__tablet__ :astonished: _Hair tablet._  
+__tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of a compressed powdered substance containing an active drug and excipients. _Hair tablet._  
 __tabs__ _n_ _Is May keeping nervous tabs on her rivals?_  
-__tabulate__ _v_  
-__tabulated__ _Tabulated scientific data._  
-__tabulator__ :pencil2: _Tabulators are being paid $25 for each half day they work._  
+__tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
+__tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
 __taciturn__  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
@@ -14524,7 +14523,7 @@ __tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
-__tail end__ _The tail end of the day._  
+__tail end__ _idiom_ _The tail end of the day._  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
@@ -14543,16 +14542,15 @@ __take by storm__
 __take comfort in (something)__ _idiom_ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take down__ _phr v_ To make notes, to write down information.  
 __take heart__ _idiom_ :three::dart: To be confident or courageous.  
-__take it away__ _informal_ To start playing or singing music.  
+__take it away__ _idiom_ _informal_ Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_  
 __take it to the bank__ _idiom_  
 __take no prisoners__ _idiom_ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
 __take on__ _phr v_ :two: To accept some work or responsibility.  
-__take one’s cut__ _He was finished taking his cuts in batting practice._  
 __take out__ _n_ _Order some Chinese take out._  
-__take over__ _Kyle took over in the first half and finished with 23 points._  
+__take over__ _idiom_ Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
 __take someone for granted__ _idiom_ To not show that you are grateful to someone for helping you.  
-__take the heat__ _I can’t take the heat._  
 __take the high road__ _idiom_ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
+__take the hit (for someone or something)__ _idiom_ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
 __take through__ _phr v_ To explain something to someone.  
 __take to__ _phr v_ To make a habit of something.  
 __take umbrage__ _idiom_ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
