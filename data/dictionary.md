@@ -831,6 +831,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :three::hammer: (averted)  
+__aviary__ _n_  
 __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
@@ -2264,6 +2265,7 @@ __carom<sup>2</sup>__ _n_ (caroms)
 __carouse__ _v_ :two: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
 __carousel__  
 __carp about (someone or something)__ _idiom_ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
+__carp at (one)__ _idiom_ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __carpet bombing__  
 __carping__ _v_  
 __carpool__ _v_ :two::hammer:  
@@ -3536,6 +3538,7 @@ __cutthroat<sup>1</sup>__ _n_
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin’ a rug__  
 __cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
+__cuttlefish__ _n_ _Cuttlefish bones._  
 __CVD__ Cardiovascular disease.  
 __CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
@@ -3840,6 +3843,7 @@ __derrick__ _n_
 __derringer__  
 __dervish__ _n_  
 __descent__ :mute:[des~~c~~ent]  
+__descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desensitize__ _v_  
@@ -3956,7 +3960,8 @@ __dingy__ _adj_
 __dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :three::hammer: _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
-__dip__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
+__dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
+__dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
 __diplodocus__ _n_  
 __diploma__  
 __diplomat__ :mega:  
@@ -7056,6 +7061,7 @@ __hit the big time__ _idiom_ To become very famous or successful.
 __hit the books__  
 __hit the brakes__  
 __hit the gas__ _idiom_ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
+__hit the ground running__ _idiom_  
 __hit the jackpot__ _idiom_  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ _idiom_ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
@@ -7126,7 +7132,7 @@ __hold up__ _phr v_ :two: Wait or delay. _Hold up a minute. I want to check some
 __hold water__  
 __hold your horses__ _idiom_ :two: Slow down, wait.  
 __hold__ _v_ _They hold a particular view._  
-__holder__ _n_  
+__holder__ _n_ :two::hammer:  
 __holding sway__  
 __holdings__ _n_  
 __holdout__ _n_ :two::hammer: _A weeklong holdout._  
@@ -8558,7 +8564,7 @@ __lichen__ _n_ :mega:
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lick-spittle__ _A lick-spittle role._  
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
-__licorice__ _n_ :three::camera: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
+__licorice__ _n_ :four::camera: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lid__ _It should keep a lid on the yen._  
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
@@ -10308,6 +10314,7 @@ __padded__ _He leaned back in his padded chair._
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
 __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
+__paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle wheel.  
 __paddock__ _n_  
 __padlock__  
 __paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
@@ -13790,7 +13797,7 @@ __sport coat__ _n_ :two::camera::hammer: (sportcoat)
 __sport__  
 __spot on__ _idiom_ _informal_ :four: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
-__spot<sup>2</sup>__ _v_ (spotted)  
+__spot<sup>2</sup>__ _v_ :two::hammer: (spotted)  
 __spotless__  
 __spotlight<sup>1</sup>__ _n_  
 __spotlight<sup>2</sup>__ _v_ :three::hammer:  
