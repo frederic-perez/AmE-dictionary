@@ -1,3 +1,13 @@
+__alacrity__ _n_ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
+__pip__ _n_ __1__ A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _slang_ A minor unspecified human ailment.  
+__like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
+__dodder__ _v_ Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
+__Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
+__palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
+__abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
+__abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
+__diffident__ _adj_ :dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._  
+__(as) quick as a bunny__ _idiom_ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  
