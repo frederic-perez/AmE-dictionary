@@ -1,13 +1,3 @@
-__tidbits__ _n_  
-__get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
-__horsey__ _adj_ (horsy)  
-__jinx__ _v_  
-__doggone__  
-__dognap__ _v_  
-__flat-out__ _adj_  
-__upheaval__ _n_  
-__at breackneck speed__  
-__trusts__ _n_  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  

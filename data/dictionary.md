@@ -748,7 +748,7 @@ __at a (single) stroke__ _idiom_ All at once, with a single decisive or powerful
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any cost__ _idiom_ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
-__at breakneck speed/pace__ _idiom_ Extremely and often dangerously fast. _He drove away at breakneck speed._  
+__at breakneck speed/pace__ _idiom_ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at heart__ _Most people are crooks at heart._  
 __at large__ _idiom_  
@@ -4165,10 +4165,12 @@ __dog-eat-dog__ _adj_ _idiom_ :three: A very competitive situation in which peop
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
+__doggone__ _idiom_ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
 __dogleg<sup>3</sup>__ _adj_ :two::hammer: _A dogleg twenty-gauge in his hand._  
+__dognap__ _v_ To steal (a dog), esp. for the purpose of selling it for profit.  
 __dogsled__  
 __dogtrot__ _n_  
 __doilies__  
@@ -5400,6 +5402,7 @@ __flat out__
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
+__flat-out__ _adj_  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
@@ -5988,6 +5991,7 @@ __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, m
 __gestalt__ _n_  
 __get (one’s) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__ _idiom_ :two::hammer:  
 __get a handle__ _UAVs are used to get a handle on what’s going on._  
@@ -7239,6 +7243,7 @@ __horseradish__ _n_ :two::hammer:
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
 __horsetails__ _n_  
+__horsey__ _adj_ (horsy)  
 __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
@@ -7961,7 +7966,7 @@ __jingle<sup>2</sup>__ _n_ :two::hammer:
 __jingoism__ _n_ :three::hammer:  
 __jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
 __jinks__  
-__jinx<sup>1</sup>__ _v_  
+__jinx<sup>1</sup>__ _v_ :two::hammer:  
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
 __jittery__ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
@@ -14933,7 +14938,7 @@ __tickling__ _n_
 __ticklish__ _adj_ :three: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
-__tidbit__ _n_ :five::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
+__tidbit__ _n_ :six::pencil2::hammer: (tidbits) _He fed the cat tidbits._  
 __tide someone over (until something)__ _idiom_ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _adj_ _A tidy plan._  
@@ -15322,6 +15327,7 @@ __trussed__ _v_ :three::hammer:
 __trust company__  
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
+__trust__ _n_ (trusts)  
 __trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
@@ -15635,7 +15641,7 @@ __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The ea
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_ :two::hammer:  
-__upheaval__ _n_ :eight: A state of violent disturbance and disorder (as in politics or social conditions generally).  
+__upheaval__ _n_ :nine: A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill battle__ _idiom_ :two: Something very difficult to do.  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
