@@ -957,6 +957,7 @@ __ballast__ _n_ :two::hammer:
 __ballcap__ _n_ A baseball cap.  
 __ballet__ :mute:[balle~~t~~]  
 __ballistic__  
+__balloon__ _n_ _The dog balloon is a fundamental sculpture in the art of balloon animals._  
 __balloon-lined__ _Balloon-lined car dealership._  
 __ballot__ _A lot of guys who did steroids are on the ballot._  
 __ballpark figure__ _idiom_ :two: A rough numerical estimate.  
@@ -2986,7 +2987,7 @@ __comrade__
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
 __con-artist__  
-__con<sup>1</sup>__ _n_ :five::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
+__con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
 __Concacaf__  
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
@@ -4556,7 +4557,7 @@ __ED prescription__
 __edamame__ _n_  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
-__edgy__ _adj_ :four::hammer: _Aaron has got a style that’s humble but edgy._  
+__edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._  
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
 __edict__ _n_ :two::hammer:  
@@ -4794,7 +4795,7 @@ __Episcopalian__
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
 __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
-__epitome__ _n_ :eight: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :nine::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
@@ -6183,6 +6184,7 @@ __go out with a bang__ _idiom_ To finish or cease doing something in a spectacul
 __go out with the boys__ _idiom_ To go and socialize somewhere with a group of exclusively male friends.  
 __go out with the girls__ _idiom_ To go and socialize somewhere with a group of exclusively female friends.  
 __go out__ _idiom_ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
+__go over (one’s) head__ _idiom_ __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
 __go over the top__  
 __go over the wire__  
 __go places__ _idiom_ :two::hammer: _This kid is going places._  
@@ -8098,6 +8100,7 @@ __keep (someone or something) in check__ _idiom_ :two::hammer: _Devils keep Hawk
 __keep (someone) in the loop__ _idiom_ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ _idiom_ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
 __keep (up) (one’s) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
+__keep a close eye on (someone or something)__ _idiom_ To monitor someone or something closely. _Keep a close eye on this pot so that the soup doesn’t boil over._  
 __keep a cool head__ _idiom_ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
 __keep a sharp lookout (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
@@ -9459,7 +9462,7 @@ __motor court__
 __motorcade__ _n_ A procession of motor vehicles, as in a parade.  
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
 __motoring__  
-__motorist__ _n_ :two: A person who drives or travels in a privately owned automobile.  
+__motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
 __motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mould__ _n_  
@@ -12080,7 +12083,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
-__retainer__ _n_ :two::hammer: (retainers)  
+__retainer__ _n_ :three::hammer: (retainers)  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
@@ -15574,6 +15577,7 @@ __unkempt__ _adj_ :three::hammer: _Unkempt beards._
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
 __unlike<sup>2</sup>__ _prep_  
+__unlucky__ _adj_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
 __unnerving__  
 __unobstrusive__  
@@ -16522,6 +16526,7 @@ __yawner__ _n_ _slang_ :three: Something that is very boring.
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
 __yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
+__yeah, yeah (,yeah)__ _idiom_ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  

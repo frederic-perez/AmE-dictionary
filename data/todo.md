@@ -1,13 +1,3 @@
-__con__ _n_  
-__edgy__ _adj_  
-__epitome__ _n_ :mega:  
-__motorist__ _n_  
-__unlucky__ _adj_  
-__yeah, yeah (,yeah)__ _idiom_ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
-__go over (one’s) head__ _idiom_ __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
-__retainer__ _n_  
-__balloon__ _n_ _The dog balloon is a fundamental sculpture in the art of balloon animals._  
-__keep a close eye on (someone or something)__ _idiom_ To monitor someone or something closely. _Keep a close eye on this pot so that the soup doesn’t boil over._  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  
