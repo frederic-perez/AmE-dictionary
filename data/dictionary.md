@@ -12,6 +12,7 @@ __, so why (even) bother?__
 __, to say the least.__  
 __“duh” department__ :astonished: _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
 __(all) kidding aside__ _idiom_ In all seriousness; being frank for a moment.  
+__(as) quick as a bunny__ _idiom_ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(deep) in the weeds__ _idiom_  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
@@ -94,6 +95,8 @@ __abasiophilia__ _n_
 __abate__ _v_ (abating)  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
+__abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
+__abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
 __aberrant__ _adj_  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
@@ -352,7 +355,7 @@ __akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
-__alacrity__ _n_ :two: /əˈlakrɪti/ Brisk and cheerful readiness. _Syn_ eagerness, willingness, readiness _She accepted the invitation with alacrity._  
+__alacrity__ _n_ :three: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __Alas!__  
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
@@ -3921,7 +3924,7 @@ __diecast__
 __diehard__  
 __differ__ _v_ :two::mega::hammer:  
 __different animal__ _n_ Something different.  
-__diffident__  
+__diffident__ _adj_ :two::dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._  
 __dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
@@ -4143,7 +4146,7 @@ __docked__ _v_
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __doctors make the worst patients__ _idiom_ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
-__doddering__  
+__dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ Something easily done, fixed, etc.  
 __dodge a bullet__ _idiom_ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __dodges__ _n_  
@@ -8600,6 +8603,7 @@ __lightning flash__ _n_
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
 __like (two) peas in a pod__ _idiom_ Said of two people who are very similar in interests, actions, or appearance. _idiom_ Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it’s no wonder people sometimes mistake them for sisters._  
+__like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like hell__  
 __like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
@@ -10352,6 +10356,7 @@ __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ 
 __palliative__ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
 __palm__ :mega::mute:[pa~~l~~m]  
+__palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
 __palmetto__ _n_ :two::hammer: (palmettos)  
 __palomas__  
 __palpably__  
@@ -10839,6 +10844,7 @@ __pins and needles__ :es: hormigueo
 __pinwheel__ _v_  
 __pinwheeling__  
 __pions__ _n_  
+__pip__ _n_ __1__ A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _slang_ A minor unspecified human ailment.  
 __pipe down__ _informal_ Stop talking; be less noisy. _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __pipe dream__ _n_ :dart::three::hammer:  
 __pipe tape__  
@@ -12276,6 +12282,7 @@ __rolling meadows__
 __rollout__ _n_ :four::hammer: (rollouts)  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
+__Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
 __romance__ :astonished:  
 __romancer__  
 __romanticize__ _v_ :pencil2:  
@@ -15326,9 +15333,9 @@ __truss__ _n_
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
+__trust__ _n_ (trusts)  
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
-__trust__ _n_ (trusts)  
 __trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
