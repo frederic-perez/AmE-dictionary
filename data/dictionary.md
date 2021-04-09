@@ -14183,9 +14183,9 @@ __strangely enough__ _Strangely enough, the Hugo awards for_ Galaxy _were relati
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
-__strapless__ _Strapless black dress._  
+__strapless__ _adj_ Having no strap or straps, as a dress or an undergarment. _Strapless black dress._  
 __strapped__  
-__strapping__ _Two strapping sons._  
+__strapping__ _adj_ Having a sturdy muscular physique; robust. _Two strapping sons._  
 __stratovolcano__ _n_  
 __straw__ _n_ :four::hammer: (straws) _To stir straws._  
 __strawhat__ _adj_ Of or relating to summer dramatic performances.  
@@ -14194,9 +14194,8 @@ __stray<sup>2</sup>__ _adj_ :seven: __1__ Straying or having strayed; wandering 
 __stray<sup>3</sup>__ _n_  
 __streak__ _n_ :two::hammer: _A cold streak._  
 __streamer__ _n_ A long, narrow strip of material used as a decoration or symbol. _Plastic party streamers._  
-__streaming__ _Streaming eyes._  
+__streaming__ _adj_ Exuding a bodily fluid in profuse amounts. _Streaming eyes._  
 __streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regulations._ _Streamlined ship._  
-__strech__ _He was awake for long streches of time._  
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  
@@ -14204,7 +14203,7 @@ __strengthen__ _v_ :two::hammer:
 __strenuous__ _adj_ :astonished::four::hammer:  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
-__stretch__ _n_ _We worked for stretches of 6 or 8 hours._  
+__stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
 __strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals.  
@@ -14226,7 +14225,7 @@ __strip mall__ _n_
 __stripling__ _n_  
 __strive__ _v_ :five::hammer:  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
-__strobe lights__ _The Cubs packed up their fog machine and strobe lights._  
+__strobe light__ _n_ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __stroke__ _n_ _Stroke of good fortune._  
 __stroll__ _v_  
@@ -14254,7 +14253,7 @@ __stuff sacks__ _n_
 __stuff your face__ _idiom_ To eat a lot of food quickly.  
 __stuff__ _v_  
 __stuffer__  
-__stuffy nose__ _Side effects are stuffy or runny nose, and sore throat._  
+__stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
 __stun gun__ _n_  
@@ -14263,11 +14262,9 @@ __stun<sup>2</sup>__ _n_ _Stun zone._
 __stunned__ _adj_ :six: When you’re stunned, you’re thrown for a loop: either by shocking news or a blow to the head. You can be stunned a few different ways, but they all involve a state of confusion. If your mom won the lottery, you’d be stunned. Others might be stunned if their favorite TV show was canceled. Some people are stunned by good news that is kind of amazing, like a NASA flight to Mars. On the other hand, getting whacked in the head can leave you stunned. Getting the wind knocked out of you will do the same.  
 __stunner__  
 __stunning__ _adj_ :five::hammer:  
-__stunt<sup>1</sup>__ _n_ :four::hammer: (stunts) _Singers emphasize stunts over music._  
-__stunt<sup>2</sup>__ _v_ :five::hammer: (stunted) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._  
+__stunt<sup>1</sup>__ _n_ :five::hammer: (stunts) _Singers emphasize stunts over music._  
+__stunt<sup>2</sup>__ _v_ :six:hammer: (stunted, stunting) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._ _Acidic oceans are stunting growth of coral reefs._  
 __stunted__ _adj_ Inferior in size or quality.  
-__stunting<sup>1</sup>__ _Acidic oceans are stunting growth of coral reefs._  
-__stunting<sup>2</sup>__ _n_ _The stunting of Cuban growth._  
 __stupas__  
 __stupefy__  
 __sturdy__ _adj_ :four::hammer:  
@@ -14279,9 +14276,9 @@ __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Anton
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
-__subcompact__ (car?)  
+__subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
 __subdue__ _v_ :seven::hammer: (subdued)  
-__subfreezing__ _Subfreezing temperature._  
+__subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
 __sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
@@ -14306,7 +14303,7 @@ __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference betwe
 __suburbanites__ _n_  
 __suburbs__  
 __succinct__ _adj_ :three::pencil2::mega::hammer:  
-__succinctly__ :pencil2:  
+__succinctly__ _adv_ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
 __succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
