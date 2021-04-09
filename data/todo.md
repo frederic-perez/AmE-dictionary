@@ -1,3 +1,13 @@
+__score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _ Fred can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
+__attaboy__ _idiom_  
+__all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
+__live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
+__spree__ _n_  
+__in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
+__here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
+__slim__ _adj_ _The chances are pretty slim._  
+__my ass__ _interj_ _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
+__broad__ _n_  
 __snarky__ _adj_  
 __mayhem__ _n_  
 __larcenous__ _adj_  
