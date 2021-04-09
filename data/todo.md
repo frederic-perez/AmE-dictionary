@@ -1,3 +1,13 @@
+__snarky__ _adj_  
+__mayhem__ _n_  
+__larcenous__ _adj_  
+__juror__ _n_ :mega: (jurors)  
+__cat__ _n informal_  
+__dork__ _n_ (dorks)  
+__if you will__ _idiom_  
+__mercantile__ _adj_  
+__boy oh boy__ _idiom_ :three:  
+__silver spoon__ _idiom_  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  
