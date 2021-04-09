@@ -14307,7 +14307,7 @@ __succubus__ _n_ :three::hammer:
 __succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
 __sucker__ _n_ :five::hammer: (of a plant) _He is a sucker for anything cute._  
-__sucker-punch__ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
+__sucker-punch__ _v_ _slang_ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
 __suckle__ _v_  
 __suckled__ _v_ :two::hammer:  
 __sucklings__ _n_  
@@ -14335,7 +14335,7 @@ __sullenly__
 __sully__ _v_ :four::hammer:  
 __sultanate__  
 __sultry__ _adj_ :three::hammer:  
-__summa cum laude__ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
+__summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
 __summary<sup>1</sup>__ _n_  
 __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings._  
@@ -14344,10 +14344,10 @@ __summertime__ _n_ :three::pencil2::hammer:
 __summit__ _n_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
-__Sun Belt__ _Sun Belt cities (Tampa, Phoenix, etc.)_  
+__Sun Belt__ _n_ (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __sunburn__ _n_  
-__Sunday best__ _Rita wanders a highway in her Sunday best._  
-__Sunday__ :mega: /’söndi, -deI/  
+__Sunday best__ _idiom_ One’s very best clothes, as one would wear to a Sunday church service. _Rita wanders a highway in her Sunday best._  
+__Sunday__ _n_ :mega: /’söndi, -deI/  
 __sunder__ _v_ :two::hammer:  
 __sundered__ _v_  
 __sundown, sunup__ _n_ :four: Sunset, sunrise. _He works sunup to sundown._  
@@ -14369,17 +14369,18 @@ __supervise__ _v_
 __supping__ _v_  
 __supplant__  
 __supple__ _adj_ :pencil2::nine::hammer: _A supple weapon._ :es: flexible  
-__suppleness__ _Mental suppleness._  
+__suppleness__ _n_ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
-__supremacist__ _A whote supremacist._  
+__supremacist__ _n_ _A white supremacist._  
 __supreme<sup>1</sup>__ _adj_ :two::hammer: _The great ones possess supreme confidence._  
 __supreme<sup>2</sup>__ _n_  
 __surcease__  
-__surcharge__ _Additional hotel surcharge of $5.00 per order._  
-__sure enough,__ _Sure enough, that’s what happened._  
+__surcharge<sup>1</sup>__ _n_ _Additional hotel surcharge of $5.00 per order._  
+__surcharge<sup>2</sup>__ _v_  
+__sure enough__ _idiom_ As one might have expected; certainly. _Sure enough, that’s what happened._  
 __surefire__  
 __surety__  
 __surfeit__ _n_ :four: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
@@ -14406,7 +14407,7 @@ __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know 
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
-__sutra__ _Reafing a sutra._  
+__sutra__ _n_  
 __svelte__ _adj_ :two::hammer:  
 __Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
 __swab__ _n_ _Nasopharyngeal swabs._  
