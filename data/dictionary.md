@@ -10876,7 +10876,7 @@ __pitch in__ _v_
 __pitch-faced__ _adj_ :two::hammer:  
 __pitch-perfect__  
 __pitch/throw (someone) a curve ball__ _idiom_ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
-__pitch<sup>1</sup>__ _n_ :eight::hammer: (soccer) _We recovered the ball in their side of the pitch after pressing well._ _There was a jar of hot pitch [in case it was required for the amputation]._  
+__pitch<sup>1</sup>__ _n_ :eight: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: campo, cancha  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
 __pitched__ _adj_ :two::hammer: _A pitched battle._ :es: batalla campal  
 __pitchfork__  
@@ -11241,7 +11241,7 @@ __prerogative__ _n_ :seven::hammer:
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :eight::hammer:  
+__prescient__ _adj_ :eight: Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -11790,7 +11790,7 @@ __rationales__ _n_ _It has four main rationales._
 __rationalize__ _v_  
 __rattan couch__  
 __rattan__  
-__rattle__ _v_ :nine::hammer: (rattled) _Rattle the world._ _They rattled their swords against the trim of their shields._  
+__rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
 __rattlers__  
 __rattlesnake__  
 __rattling<sup>1</sup>__ _n_  
