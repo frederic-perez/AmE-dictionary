@@ -2202,7 +2202,7 @@ __canted__ _v_ :three::hammer:
 __canteen__ _n_ :two::hammer: (canteens) (flask)  
 __canter up__ _v_  
 __canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
-__canter<sup>2</sup>__ _v_ :four::hammer: (cantered, cantering)  
+__canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilevered__  
 __canvass__ _v_ :two::hammer::astonished:  
@@ -5534,7 +5534,7 @@ __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by ol
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
-__foist__ _v_ :three::hammer: (foisting, foisted)  
+__foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
 __fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
@@ -6016,6 +6016,7 @@ __get looks__ _v_ :two::hammer:
 __get me started__ _Don’t get me started!_  
 __get off on (something)__  
 __get off__ _I always get off the bus a stop early on the way to work._  
+__get on like a house afire__ _idiom_ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get on someone’s nerves__ _idiom_ To annoy someone a lot.  
 __get on your nerves__ _idiom_ To annoy someone a lot.  
 __get one’s act together__ _idiom_ :two: (get one’s shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he’ll get a raise_, or _You’d better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one’s affairs effectively.  
@@ -6348,6 +6349,7 @@ __grassroots__ _n_ :two::hammer: _A grassroots effort._
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
+__gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
 __gratin__ _?_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
@@ -10150,6 +10152,7 @@ __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by th
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
 __orphrery__  
 __orthokeratology__  
+__Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __ossified__ _v_ :two::hammer:  
 __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
@@ -12559,9 +12562,9 @@ __save your breath__ _idiom_ Stop useless talk.
 __saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __savior__  
 __savor__ _v_ (savoring) _I was savoring the moment._  
-__savvy<sup>1</sup>__ _v_  
+__savvy<sup>1</sup>__ _adj_  
 __savvy<sup>2</sup>__ _n_  
-__savvy<sup>3</sup>__ _adj_  
+__savvy<sup>3</sup>__ _v_ :two: To understand; comprehend. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __saw__ _n_ A maxim or proverb.  
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  
@@ -15296,6 +15299,7 @@ __trochanter__ _n_ :two::hammer: _Greater trochanter._
 __trodden down__ _v_  
 __trodden__  
 __troglodyte__ _n_ :two::hammer:  
+__Trojan__ _n_ :astonished: After Troy, an ancient city in modern-day Turkey. From the reputation of Trojans in defending their city. The computing sense is from Trojan horse. __1__ A person from Troy. __2__ One who exhibits great stamina, energy, and hard work. __3__ A merry fellow. __4__ In computing, a piece of malware that appears harmless, but causes damage.  
 __troll<sup>1</sup>__ _v_ :two::hammer: _Kim may see these dual transitions as an opening to troll world powers._  
 __troll<sup>2</sup>__ _n_ _He’s a gifted hacker and vicious troll._  
 __trollop__  
@@ -16266,6 +16270,7 @@ __widebody__ _n_ :dart: (wide-body) A jet airliner with a cabin wide enough for 
 __wield__ _v_ :nine: (wields, wielded, wielding) Hold and use (a weapon or tool): _a masked raider wielding a handgun._ _Syn_ brandish :es: (sword) blandir  
 __wiener dog__  
 __wiener__ _n_  
+__wigged-out__ _adj_ Mentally or emotionally discomposed. Upset, crazy.  
 __wiggle<sup>1</sup>__ _n_ :two::hammer: _The worm that lost its wiggle._ _A wiggle in Waller Creek._  
 __wiggle<sup>2</sup>__ _v_ :two::hammer: (wiggling)  
 __wigglers__  

@@ -1,13 +1,3 @@
-__wigged-out__ _adj_ Mentally or emotionally discomposed. Upset, crazy.  
-__get on like a house afire__ _idiom_ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
-__gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
-__Trojan__ _n_ :astonished: After Troy, an ancient city in modern-day Turkey. From the reputation of Trojans in defending their city. The computing sense is from Trojan horse. __1__ A person from Troy. __2__ One who exhibits great stamina, energy, and hard work. __3__ A merry fellow. __4__ In computing, a piece of malware that appears harmless, but causes damage.  
-__foist__ _v_ __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
-__savvy<sup>1</sup>__ _adj_  
-__savvy<sup>2</sup>__ _n_  
-__savvy<sup>3</sup>__ _v_ To understand; comprehend. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
-__Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
-__canter<sup>1</sup>__ _v_ After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _ Fred can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __attaboy__ _idiom_  
 __all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
