@@ -14068,7 +14068,7 @@ __STI__ _abbr_ :four: Sexually transmitted infection.
 __stick > turnaround stick__  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
-__stickball__ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
+__stickball__ _n_ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
 __sticker price__  
 __sticker shock__  
 __stickers__  
@@ -14084,7 +14084,7 @@ __stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The 
 __stigma__  
 __stigmatize__ _v_  
 __stile__ _n_  
-__still life__ _Still life painting._  
+__still life__ _n_ _Still life painting._  
 __stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
@@ -14095,7 +14095,6 @@ __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, 
 __stink__ _n_ _Slang_ The end of the anal canal of a male or female. _You’ve got to give up yous stink._  
 __stinker__  
 __stinkers__ _n_  
-__stinky-winky__ _Stinky-winky front-loader._  
 __stintful__  
 __stipend__ _n_ :seven::hammer: (stipends)  
 __stipulate__ _v_ :two::hammer:  
@@ -14106,9 +14105,9 @@ __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
-__stock car__ _Stock car racing._  
+__stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
-__stock__ _The plastic stock of the rifle._  
+__stock__ _n_ __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
 __stock-in-trade__ _n_ (stock in trade)  
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
@@ -14116,7 +14115,7 @@ __stockist__ _n_ :two::hammer:
 __stockpile<sup>1</sup>__ _n_ :two: A large collection of things that may be needed.  
 __stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
 __stodgiest__  
-__stodgy__ _The mainstream may sound too stodgy._  
+__stodgy__ _adj_ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
@@ -14133,10 +14132,10 @@ __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend 
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A little oldish misshapen stooping woman._ _Syn_ hunched, round-backed, round-shouldered, stooping, crooked _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
-__stop-and-go__ _Stop-and-go traffic jams._  
+__stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic jams._  
 __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
-__stoplights__ :pencil2:  
+__stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
 __stopover__  
 __stoppage__ _n_ :nine::m::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that’s what we did._  
@@ -14144,7 +14143,7 @@ __stopwatch__ _n_
 __storefront__ _n_ :two::hammer:  
 __storeful__  
 __storey__ _n_ _BrE_ Variant of story.  
-__storied__ _Storied market._  
+__storied__ _adj_ Having or consisting of a specified number of stories. Often used in combination: _a three-storied house; a multistoried office building._ _Storied market._  
 __storks__  
 __storm surge__ _n_ :two::hammer:  
 __storm__ _v_  
@@ -14182,7 +14181,7 @@ __straitjacket__ _n_
 __straits__  
 __strand__ _n_ :three::hammer: _A long strand of rope._  
 __stranded__ _adj_ :two: Left without the means to move from somewhere. _She offers a lift to a stranded commuter._  
-__strangely enough__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+__strangely enough__ _idiom_ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular  
 __stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
