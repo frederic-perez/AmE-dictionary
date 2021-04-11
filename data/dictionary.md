@@ -13988,15 +13988,15 @@ __startling__ _adj_ :three: Causing surprise or fear; striking; astonishing.
 __Stasi__  
 __stasis__  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
-__stat__ An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
-__State Bar__ _A State Bar judge._  
+__stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
+__State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
 __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __Staten Islander__ _n_  
-__stateroom scene__ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
+__stateroom scene__ _n_ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
 __stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._  
 __statesman__ _n_ :two::hammer: _The elder statesman of the group._  
-__statesmen__ (notice, not ‘statement’)  
+__statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
 __stationary bicycle__ _n_ A “going-nowhere” bicycle.  
@@ -14014,7 +14014,7 @@ __stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _“For 12
 __stave__ _v_  
 __staves__ _n_  
 __stay put__ _idiom_ :five: To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
-__stay__ _Granted a stay of execution._  
+__stay__ _n_ __20__ _(Law)_ The suspension of a judicial proceeding, etc. _Granted a stay of execution._  
 __stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
 __stead__  
@@ -14024,10 +14024,10 @@ __steadily__
 __steadiness__  
 __steady__ _adj_ :five: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __steady-eddy__  
-__stealth van__ _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
+__stealth camping__ _n_ _(US)_ Camping out of sight on land not designated as a campsite, especially on land not used for habitation, agriculture etc. _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
 __stealthy__  
 __steam-pop phenomenon__  
-__steamer trunk__ _A steamer trunk lay opened by the couch._  
+__steamer trunk__ _n_ A small trunk originally designed to fit under the bunk of a steamship cabin. _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
 __steed__ _n_ :two::hammer: (steeds)  
 __steel drum__ _n_ :two::hammer:  
@@ -14042,7 +14042,7 @@ __steeply__ _adv_ :two::hammer:
 __steer<sup>1</sup>__ _v_  
 __steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
 __stein__ _n_  
-__stem-winding__ _Stem-winding speeches by Mr. Trump._  
+__stem-winding__ _adj_ _informal North American_ (of a speaker or speech) Entertaining and rousing. _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
@@ -14052,12 +14052,12 @@ __stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you’re t
 __Step ‘n’ Fetch It routine__  
 __step back__ _idiom_  
 __step up__ _v_ :four::hammer:  
-__stepfather__ _(vs godfather)_  
+__stepfather__ _n_ _(vs godfather)_  
 __stepladder__ _n_  
 __stepper__ _n_ A professional dancer. _Syn_ hoofer  
 __steppes__ _n_  
 __stepping stone__ _n_ :two::hammer:  
-__sterling silver__ Silver of 92 1/2 per cent purity. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
+__sterling silver__ _n_ __1__ An alloy of 92.5 percent silver with copper or another metal. __2__ Objects made of this alloy. _A sterling silver ship’s lantern, symbolizing a beacon of hope._  
 __sterling__ _n_ :four::hammer: _A sterling example._ _Sterling stories._  
 __stern__ _n_ :two::hammer:  
 __stethoscope__ _n_  
