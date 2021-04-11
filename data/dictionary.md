@@ -1515,7 +1515,7 @@ __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jon
 __blue-collar men__  
 __bluegill__  
 __bluegrass__  
-__blueprint__ _n_ :six::hammer: (blueprints)  
+__blueprint__ _n_ :seven::hammer: (blueprints)  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
@@ -3555,7 +3555,7 @@ __cytometer__
 __cytometry__  
 __D-ring inset__  
 __D’oh__ _slang_ Exclamation used when you realize that you did something stupid.  
-__D&D__ _abbr_ :two: Dungeons and Dragons.  
+__D&D__ _abbr_ :three: Dungeons and Dragons.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
@@ -5033,7 +5033,7 @@ __faggots__
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
 __failover__ _n_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
-__faint of heart__ _idiom_ _Not for the faint of heart._  
+__faint of heart__ _idiom_ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __faint__ _adj_ :two::hammer: _Faint irony._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
@@ -5773,8 +5773,8 @@ __from the rooter to the rooter__
 __from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front and center__ _idiom_ :two::hammer:  
 __front man__ _n_ :two::hammer: (frontman)  
+__front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
 __front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
-__front-runner__ _n_ :two::hammer: (frontrunner)  
 __frontispiece__ _n_  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
@@ -7685,6 +7685,7 @@ __industrious__ _adj_ Always working very hard.
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffable__ _adj_ :two::hammer:  
 __ineffectual__  
+__inefficacious__ _adj_  
 __inequitable__  
 __inequities__  
 __inert__ _Helium is inert._  
@@ -9236,7 +9237,7 @@ __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It w
 __might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __milch__ _adj_ :two: Giving milk. _A milch cow._  
-__mild__ _A mild day in October._  
+__mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
@@ -10266,6 +10267,7 @@ __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for
 __over-under__  
 __overachieve__  
 __overall standings__ _31 points in the overall standings._  
+__overall__ _adj, adv_  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
@@ -12285,7 +12287,7 @@ __rolling back__ _v_
 __rolling caisson__  
 __rolling hills__ _n_ :two::hammer: :es: colinas (onduladas)  
 __rolling meadows__  
-__rollout__ _n_ :four::hammer: (rollouts)  
+__rollout__ _n_ :five::hammer: (rollouts) _Vaccine rollout._  
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
@@ -16505,6 +16507,7 @@ __X’s and O’s__ _idiom_ :three: (Xs and Os) __1__ _sports_ The symbols used 
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
+__xenophile__ _n_ A person attracted to that which is foreign, especially to foreign peoples, manners, or cultures.  
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
@@ -16562,7 +16565,7 @@ __yo-yo<sup>3</sup>__ _adj_
 __yoke__ _n_ :two::hammer: (yokes) _Egg yoke._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
-__YOLO__ _abbr_ You only live once.  
+__YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
 __yonder__  
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
