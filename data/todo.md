@@ -1,3 +1,15 @@
+
+
+__mild__ _adj_ _People with mild asthma._  
+__front runner__  
+__rollout__ _n_ _Vaccine rollout._  
+__inefficacious__ _adj_  
+__blueprint__ _n_  
+__overall__  
+__not for the faint of heart__  
+__xenophile__ _n_ A person attracted to that which is foreign, especially to foreign peoples, manners, or cultures.  
+__YOLO__ _n_ The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
+__D&D__ _abbr_ Dungeons and Dragons.  
 __sepsis__ _n_  
 __broad__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __tacky__ _adj_  
