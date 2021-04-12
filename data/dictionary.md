@@ -13917,7 +13917,9 @@ __staff__ _n_ :two::astonished: __1__ A stick that some officials carry on forma
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
-__stag__ _I’m an old stag._  
+__stag<sup>1</sup>__ _n_ _I’m an old stag._  
+__stag<sup>2</sup>__ _adj_  
+__stag<sup>3</sup>__ _adv_  
 __stage name__  
 __stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ _n_ :two: Sluggish economic growth coupled with a high rate of inflation and unemployment.  
@@ -13926,7 +13928,8 @@ __staggering<sup>1</sup>__ _adj_ :two: Extremely surprising. Causing great aston
 __staggering<sup>2</sup>__ _v_  
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
-__stair climbing__ The climbing of a flight of stairs.  
+__stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
+__stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
 __stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
 __stake__ _n_  
 __stakeholder__ _n_ :three::hammer:  
@@ -13934,8 +13937,8 @@ __stakeout__ _n_ :three::hammer: (stakeouts)
 __stakes__ _n_  
 __stale antiperspirant__  
 __stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
-__staler__ _The air in the place grew staler._  
-__Stalin__ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
+__staler__ _adj_ _The air in the place grew staler._  
+__Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk out__ _idiom_ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
 __stalk<sup>1</sup>__ _n_  
 __stalk<sup>2</sup>__ _v_ :two::hammer: (stalked)  
@@ -13948,7 +13951,7 @@ __stamina__ _n_ :three::hammer:
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
 __stammer<sup>2</sup>__ _v_  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
-__stamp__ _Additional stamp duties went into effect last year._  
+__stamp__ _n_ _Additional stamp duties went into effect last year._  
 __stamped__ _v_ :two::hammer:  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
@@ -13956,7 +13959,7 @@ __stanch__ _v_ :two::hammer:
 __stand a chance__  
 __stand in (someone’s) shoes__ _idiom_ :two: To see or understand things from someone else’s position or perspective; to empathize with someone. _If you encounter a bully, try standing in their shoes—they’re probably deeply unhappy and redirect that feeling onto others._  
 __stand on the shoulders of giants__ _idiom_ To make discoveries, insights, or progress due to the discoveries or previous work of great minds that have come before.  
-__stand out__ _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
+__stand out__ _idiom_ __1__ To protrude from something; to project outward from something. _He chose a strong branch standing out from the tree to hang the swing from._ __2__ To be especially noticeable, conspicuous, or prominent, especially in comparison to someone or something else. _The dragons are notoriously varied in physique—they’d stand out in the Mos Eisley Cantina._  
 __stand strong__  
 __stand tall__ _idiom_ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ _idiom_ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
@@ -13964,7 +13967,9 @@ __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, o
 __standard of care__ _n_  
 __standard__ _n_ :camera: :es: estandarte (?)  
 __standardize__ _v_  
-__standby__ _The old standby._  
+__standby<sup>1</sup>__ _n_ _The old standby._  
+__standby<sup>2</sup>__ _adj_  
+__standby<sup>3</sup>__ _adv_  
 __standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
 __standoff__ _n_ :four::hammer:  
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
@@ -13972,10 +13977,10 @@ __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearl
 __standpoint__ _n_ :two::hammer: _From a contractual standpoint._  
 __standstill__ _n_ :two::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __stanza__  
-__staph__ _Staph infections._  
+__staph__ _n_ _informal_ Staphylococcus. _Staph infections._  
 __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expect in the American frontier novel._  
 __star__ _v_  
-__star-69ing__ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__star 69__ _v_ _slang_ In most areas of the United States, phone companies offer \*69 service. If you miss a call, or receive one from an unknown caller, dialing \*69 on your phone will identify the last caller’s number (if possible) and give you the option to call them back. _He thought he could just hang up on me and I wouldn’t know who he was, but I star 69ed his ass._ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
 __starboard__ _n_  
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
