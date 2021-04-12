@@ -1,13 +1,3 @@
-__sepsis__ _n_  
-__broad__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
-__tacky__ _adj_  
-__litterbug__ _n_ _informal_ One who litters public areas with trash.  
-__okey-dokey__ _idiom_ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
-__scratcher__ _n_ _Lotto scratcher._  
-__set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
-__weed out__ _v_  
-__douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
-__get worked up about (something)__ _idiom_ To enter a state of mental or emotional agitation because of something. _You’re getting worked up about nothing—I’m sure the doctor will tell you it’s nothing._  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _ Fred can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __attaboy__ _idiom_  
 __all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  

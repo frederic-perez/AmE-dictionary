@@ -1811,7 +1811,8 @@ __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do 
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ (broached) :six::hammer: _To broach a conversation._ _He broached the subject._  
 __broad daylight__ _A sniper who prays on victims in broad daylight._  
-__broad__ _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
+__broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
+__broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
 __brocade__  
 __broccoli__ _n_  
@@ -4249,6 +4250,7 @@ __doubly__
 __doubt__ :mute:[dou~~b~~t]  
 __doubting Thomas__ _n_  
 __doubtless__  
+__douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _Slang_ Money.  
 __dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
@@ -6040,6 +6042,7 @@ __get to the point__ _idiom_ To talk directly about the most important part or t
 __get under someone’s skin__ _idiom_  
 __get wind__  
 __get wise to (someone or something)__ _idiom_ To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention.  
+__get worked up about (something)__ _idiom_ To enter a state of mental or emotional agitation because of something. _You’re getting worked up about nothing—I’m sure the doctor will tell you it’s nothing._  
 __get your act together__  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__ _idiom_  
@@ -8685,6 +8688,7 @@ __litigation__
 __litigator__ _n_ :two::hammer:  
 __litmus test__ _n_  
 __litter__ _n_ :camera::pencil2:  
+__litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live up to (someone’s) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for.  
@@ -10001,6 +10005,7 @@ __oily__ _adj_ Too friendly and polite in a way that is not sincere.
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
+__okey-dokey__ _idiom_ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __okra gumbo__  
 __okra__ _n_ :two::hammer:  
 __old as the hills__ _idiom_ Someone who is very old.  
@@ -12675,6 +12680,7 @@ __scrapper__
 __scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch__ :mute:[scra~~t~~ch]  
+__scratcher__ _n_ _Lotto scratcher._  
 __scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
@@ -12841,7 +12847,7 @@ __sentient__ _adj_ :five::hammer:
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __seppuku__ _n_  
-__sepsis__ _n_ :two::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
+__sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sequestered__ _v_  
 __sequestration__ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -12874,6 +12880,7 @@ __set the pace__
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__ _idiom_  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
+__set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
 __setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting > picturesque setting__ :es: entorno picturesco  
@@ -13979,8 +13986,8 @@ __standstill__ _n_ :two::hammer: _The car will jump from standstill to 60 mph in
 __stanza__  
 __staph__ _n_ _informal_ Staphylococcus. _Staph infections._  
 __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expect in the American frontier novel._  
-__star__ _v_  
 __star 69__ _v_ _slang_ In most areas of the United States, phone companies offer \*69 service. If you miss a call, or receive one from an unknown caller, dialing \*69 on your phone will identify the last caller’s number (if possible) and give you the option to call them back. _He thought he could just hang up on me and I wouldn’t know who he was, but I star 69ed his ass._ _Risking somebody on the other end of the phone having caller ID or star-69ing him._  
+__star__ _v_  
 __starboard__ _n_  
 __starch<sup>1</sup>__ _n_ :two::hammer: _The starch crackled gently in his chinos._ _Altitude sickness can take more than the starch out of a person._  
 __starch<sup>2</sup>__ _v_ :three::hammer: (starched)  
@@ -14544,7 +14551,7 @@ __tachometer__
 __taciturn__  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
-__tacky__ _adj_ :four::hammer: _The office looked tacky._ :es: cutre  
+__tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
@@ -16091,7 +16098,7 @@ __wedhe issue__
 __wedlock__ _n_ :two: The state of being married; matrimony.  
 __Wednesday__ _n_ :mega::mute:[we~~d~~nesday] /’wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
-__weed out__ _phr v_ :dart::four: To get rid of unwanted things or people from a group.  
+__weed out__ _phr v_ :dart::five: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
 __weed<sup>2</sup>__ _v_ :three::hammer: (weeding) _It’s like weeding a garden._  
 __weedeater__  
