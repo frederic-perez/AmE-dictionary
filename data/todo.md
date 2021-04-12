@@ -1,4 +1,14 @@
-__score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _ Fred can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
+__you name it__ _idiom_ :two:  
+__cine__ _n_ :mega:  
+__take a leak__ _idiom_ _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
+__(one) has a point (there)__ _idiom_ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
+__b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
+__touchy__ _adj_ __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
+__whoopsie__ _n_  
+__exquisite__ _adj_  
+__futile__ _adj_  
+__Ding, ding, ding, we have a winner!__ _idiom_ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
+__score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __attaboy__ _idiom_  
 __all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
@@ -115,4 +125,3 @@ __wallow__ _v_ :two::hammer: _They tend to wallow in their sorrow._
 __watch (one’s) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
 __withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
-__you name it__  
