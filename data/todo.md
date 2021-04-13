@@ -115,3 +115,13 @@ __sure-fire__ _adj_ _informal_ :dart:
 __swank__ _adj_ _A swank condominium complex._  
 __tab__ _n_ A bill, especially for meals or drinks. _Bar tabs._  
 __work one’s tail off__ _idiom_  
+__self-conscious__ _adj_  
+__self-effacing__ _adj_ Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
+__money pit__ _idiom_ A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
+__put (someone or something) to bed__ _idiom_ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
+__relo__ _n_ _informal_ __1__ Relocation.  
+__no way, José__ _idiom_  
+__anvil__ _n_ A heavy block of iron or steel on which hot metals are shaped by hammering.  
+__low and behold__  
+__make amends__ _idiom_ To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
+__fair enough__ _idiom_ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
