@@ -13808,7 +13808,7 @@ __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs 
 __spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
 __spoilage__ :dart:  
 __spoilers__ (airplane) :camera:  
-__spokes__ _Someone should have ripped out his spokes long time ago._  
+__spoke__ _n_  
 __spoliator__ _n_ A plunderer.  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
 __sponge bulllets__  
@@ -13835,7 +13835,6 @@ __sprained__ _v_ :five::hammer: _A sprained thumb._
 __sprawl__ _v_ :five::hammer: (sprawled, sprawling)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
-__spreading hairs__ (?)  
 __spree__ _n_ :three::hammer: _A killing spree._  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
@@ -13846,7 +13845,7 @@ __sprinkle<sup>1</sup>__ _n_ :two: __2__ A light rainfall.
 __sprinkle<sup>2</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
 __sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
-__sprinkling__ _A sprinkling of luck._  
+__sprinkling__ _n_ __1__ A small amount or quantity; a modicum. _A sprinkling of luck._ __2__ A small quantity scattered or sparsely distributed.  
 __sprite__ _n_ A small being, human in form, playful and having magical powers. _Syn_ fairy, fay  
 __sprocket__ _n_ _Sprocket holes._  
 __sprout<sup>1</sup>__ _v_ :two: (sprouting) Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
@@ -13857,15 +13856,15 @@ __spruce<sup>2</sup>__ _v_
 __spruce<sup>3</sup>__ _adj_  
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
-__spud-faced__ :camera:  
+__spud__ _n_ __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
 __spun__ _v_ :pencil2: (see homespun)  
 __spunk__  
 __spunky__  
 __spur > bone spurs__  
-__spur of the moment__ _The administrators mada a “spur of the moment” decision to block him._  
+__spur of the moment__ _idiom_ An impulse characterized by a lack of preparation or consideration. The phrase can be hyphenated and used as a modifier before a noun. _The administrators mada a “spur of the moment” decision to block him._ _You’ve got to stop making these spur-of-the-moment decisions about your business, or you’ll end up running it into the ground!_  
 __spur<sup>1</sup>__ _v_ :six::hammer: (spurred, spurring)  
 __spur<sup>2</sup>__ _n_ _The command post was on the spur of a hill._  
-__spurious__ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
+__spurious__ _adj_ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurred__ _adj_ _Spurred flowers._  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
@@ -13888,8 +13887,7 @@ __square deal__
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
 __squarely__  
-__squash flat__ _My guess is they could have squashed us flat just as easily._  
-__squash__ _v_  
+__squash__ _v_ :two: __1__ 1. To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s knees bent and one’s heels close to or touching one’s buttocks or the back of one’s thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one’s haunches, sit on one’s heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :six: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
@@ -13897,7 +13895,7 @@ __squat<sup>3</sup>__ _n_ _Didn’t know squat aboit what went on over there._
 __squatter__  
 __squawk__ _v_ :four::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
-__squeaker__ _Clippers keep up hot start in squeaker over Thunder._  
+__squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_ close call, close shave, narrow escape, squeak _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ _adj_ :two::hammer:  
 __squeaky-clean__ _adj informal_ __1__ Scrupulously clean. __2__ Virtuous; wholesome; above reproach.  
 __squeal__ _v_  
@@ -13912,10 +13910,9 @@ __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)
 __squirm<sup>1</sup>__ _v_ :nine::m::hammer: (squirming) _Syn_ twist, worm, wriggle, writhe, wrestle _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
-__squirt gun__ _n_ _Syn_ squirter, water gun, water pistol  
+__squirt gun__ _n_ :two: A water pistol. _Syn_ squirter, water gun, water pistol _Super-soaker squirt guns._  
 __squishing__  
 __squishy__ _adj_  
-__squit__ _Super-soaker squit guns._  
 __St. Bernard__  
 __stab__ _n_ :two::hammer:  
 __stable condition__  
