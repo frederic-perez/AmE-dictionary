@@ -14685,7 +14685,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tautology__ _n_  
-__tawdry__ _adj_ :three: Poor, cheap quality.  
+__tawdry__ _adj_ :four: Poor, cheap quality.  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
@@ -14725,7 +14725,8 @@ __tell me about it__ _idiom_ (spoken) Used to say that you understand what someb
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
-__tellurian__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
+__tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
+__tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
@@ -15031,7 +15032,7 @@ __tiptoe<sup>1</sup>__ _adj_
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one’s toes.  
-__tirade__ _n_ :seven::hammer:  
+__tirade__ _n_ :eight::hammer:  
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
@@ -15593,7 +15594,7 @@ __unlike<sup>1</sup>__ _adj_
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
-__unnerving__  
+__unnerving__ _adj_ :two::hammer:  
 __unobstrusive__  
 __unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
 __unprofessional__ _adj_  
@@ -15716,7 +15717,7 @@ __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used b
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
 __usurp__ _v_  
-__usury__ _n_ :two::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
+__usury__ _n_ :three::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
 __utes__ _n_ (cars?)  
 __utilitarian__  
@@ -15911,6 +15912,7 @@ __vodka__ _n_ :mega:
 __voguish__  
 __voice over__ _n_ (voice-over)  
 __voicemail call__ _n_ (?)  
+__voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
 __volatile__ _adj_  
 __volcano__  
 __vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
@@ -15993,7 +15995,7 @@ __wall-eyed__
 __wallboard__  
 __wallflower__  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
-__wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself)  
+__wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._  
 __walls have ears__ _idiom_ Someone might be eavesdropping. _Let’s talk in my office—out here, the walls have ears._  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
 __wan__ _adj_ :four::hammer: _A wan reception._  
@@ -16041,6 +16043,7 @@ __wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3_
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
+__watch (one’s) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
@@ -16149,6 +16152,7 @@ __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evi
 __whanged__ _v_ :two::hammer:  
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
+__what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
 __What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
@@ -16384,6 +16388,7 @@ __wither away__ _v_ :two::hammer:
 __wither__ _v_ :three::hammer: (withers, withered)  
 __withered__ _adj_ _Withered deals._  
 __withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sarcasm._  
+__withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
 __withes__ _n_ :two::hammer:  
 __withhold__  
 __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  

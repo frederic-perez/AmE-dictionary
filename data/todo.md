@@ -115,13 +115,3 @@ __sure-fire__ _adj_ _informal_ :dart:
 __swank__ _adj_ _A swank condominium complex._  
 __tab__ _n_ A bill, especially for meals or drinks. _Bar tabs._  
 __work one’s tail off__ _idiom_  
-__tawdry__  
-__tellurian__ _n_  
-__tirade__ _n_  
-__unnerving__ _adj_  
-__usury__  
-__voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
-__wallow__ _v_ :two::hammer: _They tend to wallow in their sorrow._  
-__watch (one’s) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
-__what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
-__withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
