@@ -1,3 +1,19 @@
+__hit on (one)__ _idiom_ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
+__melting pot__ _n_  
+__giggle__ _v_  
+__mourner__ _n_  
+__stargazer__ _n_  
+__retractable__ _adj_ _Retractable bed._  
+__officer__ _n_  
+__iffy__ _adj_  
+__barf__ _v_  
+__baby shower__ _n_  
+__doer__ _n_  
+__how come__ _idiom_ Why? Why is it that (something is the case)? _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
+__grouchy__ _adj_  
+__jerboa__ _n_ (jerboas)  
+__verdict__ _n_  
+__indictment__ _n_ :two::mega: /ɪnˈdaɪtmənt/  
 __you name it__ _idiom_ :two:  
 __cine__ _n_ :mega:  
 __take a leak__ _idiom_ _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
