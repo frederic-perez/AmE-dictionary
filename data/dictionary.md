@@ -8230,6 +8230,7 @@ __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in th
 __knob__ _Swallow my knob._  
 __knobbed__ _v_  
 __knock (one’s) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
+__knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __knock around__ _phr v_ To spend time with someone because you are friends.  
 __knock off__ _phr v_ To stop working. _I gotta knock off work to come here and the commute is killing me._  
 __knock on wood__ _idiom_  
@@ -8305,7 +8306,7 @@ __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _S
 __lackadaisical__ _adj_ :two::hammer:  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
-__laconic__ _adj_  
+__laconic__ _adj_ :two: Using or marked by the use of few words; terse or concise.  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
@@ -8337,7 +8338,7 @@ __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
-__laminate__ _v_ :es: plastificar  
+__laminate__ _v_ :two::hammer: :es: plastificar  
 __laminated__ _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
@@ -8354,7 +8355,7 @@ __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
-__languish__ _v_ (languishing) :two::hammer:  
+__languish__ _v_ :three: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
@@ -8401,7 +8402,7 @@ __latchkey__
 __late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __late bloomer__ _n idiom_  
 __late model__ _idiom_ Especially regarding an automobile, of a relatively recent design or model.  
-__latecommer__ _I’m somewhat of a latecomer._  
+__latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
@@ -8502,7 +8503,7 @@ __leg work__ _idiom_ :two::hammer:
 __legal eagle__ _idiom_ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
 __legal tack__  
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
-__legerity__ _n_ Physical or mental quickness; nimbleness; agility.  
+__legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _Slang_ :four: Legitimate.  
@@ -8528,7 +8529,7 @@ __lenity__ _n_
 __Lenny__ Diminutive of Leonard.  
 __lens__ _Lens design._  
 __lenses__ _n pl_  
-__Lent__ _n_ :es: cuaresma  
+__Lent__ _n_ :two::hammer: :es: cuaresma  
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
@@ -8538,6 +8539,7 @@ __lesson learned__ (lesson learned)
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let (someone) loose (on something)__ _idiom_ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ _idiom_ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
+__let (the) perfect be the enemy of (the) good__ _idiom_ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
 __let alone__ _idiom_ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ _idiom_ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ _idiom_ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
@@ -8716,6 +8718,7 @@ __locale__ _We want to recruit nationally, but in our locale we have talent._
 __locales__  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
+__lock, stock, and barrel__ _idiom_ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
@@ -8735,7 +8738,7 @@ __lodging__
 __lodgings__  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
-__lofty__ _adj_ :seven::hammer: _His lofty perch._ _A lofty professional career._  
+__lofty__ _adj_ :eight::hammer: _His lofty perch._ _A lofty professional career._ _Lofty promises._  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
 __logomachy__ _n_  

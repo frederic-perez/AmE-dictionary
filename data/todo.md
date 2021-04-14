@@ -49,16 +49,6 @@ __haimish__ _adj_ _slang_ Homey; cozy and unpretentious.
 __polemology__ _n_ The study of war.  
 __bunglesome__ _adj_  
 __busticate__ _v_ _informal US_ To break.  
-__let (the) perfect be the enemy of (the) good__ _idiom_ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
-__knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
-__laconic__ _adj_ Using or marked by the use of few words; terse or concise.  
-__laminate__ _v_  
-__languish__ _v_ To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
-__latecomer__ _n_  
-__legerity__ _n_ The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
-__Lent__ _n_  
-__lock, stock, and barrel__ _idiom_ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
-__lofty__ _adj_ _Lofty promises._  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __mired__ _v_  
