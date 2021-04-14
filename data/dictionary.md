@@ -13736,7 +13736,7 @@ __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper m
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
 __specifically__  
-__specifics__ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
+__specifics__ _n_ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ _adj_ :three::hammer: _Specious argument._  
 __speck__ _n_ :two::hammer: _A speck of blood._  
@@ -13746,7 +13746,6 @@ __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_
 __spectacular__  
 __speculate__ _v_  
 __speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
-__speculoos__ _Speculoss Belgian biscuits._  
 __Sped case__  
 __speed demon__  
 __speed-dial__ _v_  
@@ -13755,7 +13754,7 @@ __spell<sup>1</sup>__ _v_
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
-__spent rocket stages__ :camera:  
+__rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
@@ -13777,13 +13776,13 @@ __spin<sup>2</sup>__ _v_ :two::hammer: _She spins the truth for whoever is payin
 __spinal tap__  
 __spindle__ _n_ :three::hammer:  
 __spindly__  
-__spinel__ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
-__spinet piano__ :camera:  
+__spinel__ _n_ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
+__spinet__ _n_ :camera:  
 __spinnaker__ _n_  
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
-__spiny lobsters__ :camera:  
+__spiny lobster__ _n_ :camera:  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
@@ -13793,7 +13792,7 @@ __spittle__ _n_ :six::hammer: _Spittle and gore clogged his throat._
 __spittoon__  
 __splashdown__  
 __splay__ _v_ :six::hammer: (splahed, splaying)  
-__spleen__ _Interned-stoked spleen._  
+__spleen__ _n_ _Interned-stoked spleen._  
 __splendid__  
 __splendor__  
 __spliced__ _v_  
@@ -13806,11 +13805,11 @@ __splotches__ _n_
 __splurge<sup>1</sup>__ _n_ :two: __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
 __splurge<sup>2</sup>__ _v_ :seven::hammer: (splurged, splurging)  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
-__spluttering__ _A baby’s spluttering._  
+__spluttering__ _n_ _A baby’s spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
-__spoilage__ :dart:  
-__spoilers__ (airplane) :camera:  
+__spoilage__ _n_ :dart:  
+__spoiler__ _n_ (airplane) :camera:  
 __spoke__ _n_  
 __spoliator__ _n_ A plunderer.  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
