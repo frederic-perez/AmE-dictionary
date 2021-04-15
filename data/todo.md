@@ -119,3 +119,15 @@ __anvil__ _n_ A heavy block of iron or steel on which hot metals are shaped by h
 __low and behold__  
 __make amends__ _idiom_ To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __fair enough__ _idiom_ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
+__AAPI__ _abbr_ Asian Americans and Pacific Islanders.  
+__obstreperous__ _adj_ __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
+__intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
+__hothead__ _idiom_ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
+__statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
+__Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
+__Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
+__live and kicking__ _idiom_ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
+__fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
+__amenable__ _adj_  
+__abysmal__ _adj_  
+__pensive__ _adj_  
