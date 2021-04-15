@@ -863,7 +863,7 @@ __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally
 __baby blue__ _n_ :camera:  
 __baby bump__ _Dressing your baby bump._  
 __baby formula__ _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
-__baby shower__ _n_  
+__baby shower__ _n_ :two::hammer:  
 __babysit__ _v_  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
@@ -1007,6 +1007,7 @@ __bare (one’s) teeth__ _idiom_ To display an angry, violent, and/or threatenin
 __bare-bones__ _A bare-bones lab._  
 __barf bag__  
 __barf bucket__  
+__barf__ _v_  
 __bargain__ _n_ :two::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
@@ -4156,6 +4157,7 @@ __dodges__ _n_
 __dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
+__doer__ _n_  
 __doeskin__ _A doeskin wallet._  
 __doesn’t hold water__ _idiom_ Not true or not reasonable.  
 __doff__ _v_ :three::hammer: (doffing; vs don _v_) :two::hammer: _Doff his hat._  
@@ -6075,8 +6077,8 @@ __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling t
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
 __gig<sup>2</sup>__ _v_ :two::hammer: (gigging)  
-__giggles__ _n_  
-__giggling__  
+__giggle<sup>1</sup>__ _v_ :two::hammer: (giggling)  
+__giggle<sup>2</sup>__ _n_  
 __gills > packed to the gills__ _idiom_ :two: Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is packed to the gills! Her mind was packed to the gills with ideas for her new book. I felt packed to the gills after my grandmother’s Thanksgiving meal._  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
@@ -7068,6 +7070,7 @@ __hit and miss__ _idiom_ :two::hammer: (hit or miss)
 __hit bottom__ _idiom_ To reach the lowest or worst point. _Our profits have hit bottom._  
 __hit home__ _idiom_ To be fully understood by or strongly affect or resonate with someone. _It wasn’t until he was threatened with losing his job that the comments about John’s work ethic really hit home._ _The film has an underlying theme of grief and loss that will hit home with a lot of viewers._  
 __hit man__  
+__hit on (one)__ _idiom_ To show one’s romantic or sexual interest in one; to flirt with one. _Are you hitting on me? You’re a married man!_  
 __hit on all cylinders__ _idiom_ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit on all eight__ _So far it’s not hitting on all eight._  
 __hit or miss__ _idiom_ :two::hammer:  
@@ -7308,6 +7311,7 @@ __housing__ _n_ :five::hammer: _A waterproof housing._
 __hovels__ _n_  
 __hover__ _v_  
 __hoverboard__ _n_ :two::hammer:  
+__how come__ _idiom_ Why? Why is it that (something is the case)? _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
 __how’s life (treating you)?__ _idiom_ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ _idiom_ No matter how much.  
 __howl__ _v_ :two::hammer:  
@@ -7449,7 +7453,7 @@ __ie.__ _abbr_ That is to say.
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
 __if you will__ _idiom_ :three: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
-__iffy__ _adj_ _slang_ :four: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
+__iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
@@ -7527,6 +7531,7 @@ __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.
 __in (one’s) dotage__ _idiom_ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ _idiom_ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ _idiom_ Through the force of one’s own skills or qualifications.  
+__in (or out of) someone’s hair__ _idiom_ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
 __in (someone’s) view__ _idiom_ In someone’s opinion.  
 __in (someone’s) wheelhouse__ _idiom_ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
 __in a bad light__ _idiom_ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
@@ -9162,6 +9167,7 @@ __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __melon scratcher__ _That was a melon scratcher._  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
+__melting pot__ _n_  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
@@ -9482,6 +9488,7 @@ __Mountain States__ _n_ (also known as the Mountain West and the Interior West) 
 __mountaintops__ _n_  
 __mountebank__  
 __mounting__ _Evidence is mounting for an ocean at Pluto._  
+__mourner__ _n_  
 __mournfully__  
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
 __mouth__ _v_  
@@ -9985,7 +9992,7 @@ __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ _adj_ _Slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
-__officer__ _n_  
+__officer__ _n_ :two::hammer:  
 __offing__ _A budding rivalry could be in the offing._  
 __offload__ _v_  
 __offramp__  
@@ -12111,6 +12118,7 @@ __retirement__
 __retooled__ _v_ :three::hammer:  
 __retort__ _v_ (retorted)  
 __retracement__  
+__retractable__ _adj_ _Retractable bed._  
 __retrain__ _v_  
 __retread__ _v_ To make or do over again, especially with minimal revision; rehash. _Syn_ make over, rework  
 __retreat<sup>1</sup>__ _v_ :three::hammer:  
@@ -13639,7 +13647,6 @@ __solipsistic__ _adj_ :four::hammer:
 __soloist__ _n_ :three::hammer:  
 __solvent__ _n_  
 __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
-__in (or out of) someone’s hair__ _idiom_ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
 __something is rotten in the state of Denmark__ _idiom_  
 __something or other__ _idiom_ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
 __somewhat__  
@@ -13994,6 +14001,7 @@ __starchitect__
 __stardom__ _n_ :two::hammer:  
 __stardust__ _n_ :four::dart: __1__ A feeling or impression of romance, magic, or ethereality. __2__ (Astronomy) Dusty material found between the stars. __3__ A large number of distant stars appearing to the observer as a cloud of dust.  
 __starfish__  
+__stargazer__ _n_  
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
