@@ -1358,6 +1358,7 @@ __billfold__ _n_
 __billing__ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_  
+__bin__ _n_ __1__ A large container or enclosed space for storing something in bulk, such as coal, grain, or wool. _A man has been rescued after falling in a soybean bin._  
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
 __bindles__ _Drug bindles._  
@@ -12260,6 +12261,7 @@ __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dat
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
 __rock-paper-scissors__ _Is this rock-paper-scissors?_  
 __rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
+__rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ :mega:  
 __Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
@@ -13627,7 +13629,7 @@ __solemn__ :mute:[solem~~n~~]
 __solemnize__ _v_  
 __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
 __solicitous__ _adj_ :two::hammer:  
-__solicitude__ A feeling of excessive concern.  
+__solicitude__ _n_ A feeling of excessive concern.  
 __solid gold__  
 __solid__ _adj_ :dart::seven::hammer: _A solid sell._ _It lasted a solid year._ _It rained for a solid week._ _Solid gold, solid wood._ :es: macizo  
 __solidify__ _v_ :two: __1__ To make solid, compact, or hard: _an ingredient that solidifies the mixture._ __2__ To make strong or united: _a speech that solidified her supporters._  
@@ -13637,9 +13639,9 @@ __solipsistic__ _adj_ :four::hammer:
 __soloist__ _n_ :three::hammer:  
 __solvent__ _n_  
 __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
-__someone’s hair__ _He built the shop to get his hobby out of his wife’s hair._  
+__in (or out of) someone’s hair__ _idiom_ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
 __something is rotten in the state of Denmark__ _idiom_  
-__something or another__ _I ran into Jim Gable’s ex-chauffeur, a guy named Micah something or another._  
+__something or other__ _idiom_ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
 __somewhat__  
 __somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
@@ -13653,7 +13655,7 @@ __soot__ _n_ :three::hammer:
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
-__sophistry__ _The argument was utter sophistry._  
+__sophistry__ _n_ _The argument was utter sophistry._  
 __sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __sopping__ _v_  
@@ -13678,9 +13680,8 @@ __soul__ _n_ :mega:
 __sound barrier__ _n_ _(Aeronautics) (not in technical usage)_ A hypothetical barrier to flight at or above the speed of sound, when a sudden large increase in drag occurs. _Syn_ sonic barrier, transonic barrier  
 __sound bite__ _n_ :six::hammer::astonished: (soundbite, sound bites) _Hoping to score a sound bite._ _Bruce is one of the best sound bites in the NFL._  
 __sound__ _adj_ :four::hammer: _His reasons were sound._ _A sound investment._ _A sound sleep._  
-__sound-wise__ _It’s on YouTube, a crappy version, just visually and sound-wise._  
 __sounding system__  
-__soundly__ _Sleep soundly._  
+__soundly__ _adv_ _Sleep soundly._  
 __soup kitchen__ _n_  
 __souped-up__ _v_  
 __souping up__ _v_  
@@ -13693,10 +13694,10 @@ __soused__ _v_
 __South of the Border__  
 __southpaw__ _n_ :two: A left-handed boxer who leads with the right hand. _To fight a southpaw._ _informal_ A left-hander in any sphere. _Southpaws are handy at math and spatial reasoning._ :es: zurdo  
 __sovereign__ _n_ :two::mute:[soverei~~g~~n]:hammer:  
-__sovereignty__ :pencil2:  
+__sovereignty__ _n_ :pencil2:  
 __sow__ _n_ :four::hammer: _A drunk sow._  
-__soybean bin__ (grain bin) :camera: _A man has been rescued after falling in a soybean bin._  
-__space cadet__ _slang_ A person who is out of touch with reality.  
+__soybean__ _n_  
+__space cadet__ _n_ _slang_ Someone who seems unable to respond appropriately to reality (as if under the influence of some narcotic drug).  
 __space heater__ _n_  
 __space opera__  
 __space__ _v_ _I spaced on that._  
@@ -13754,7 +13755,6 @@ __spell<sup>1</sup>__ _v_
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
-__rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
