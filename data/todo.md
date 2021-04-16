@@ -92,18 +92,6 @@ __secularist__
 __sedulous__ _adj_  
 __share__ _v_ _Everything you share is confidential._  
 __shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
-__shylock__ _n_  
-__skittish__ _adj_  
-__smear__ _v_  
-__squirm__ _v_ To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._  
-__stammer__ _v_ (stammered) To speak with involuntary pauses or repetitions.  
-__startling__ _adj_  
-__stifle__ _v_  
-__sting__ _n_  
-__stockpile__ _n_ Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
-__straight and narrow__  
-__straight shooter__  
-__straightaway__  
 __subtleties__ _n_  
 __sure-fire__ _adj_ _informal_ :dart:  
 __swank__ _adj_ _A swank condominium complex._  

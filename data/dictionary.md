@@ -13151,7 +13151,7 @@ __shy of (something)__ _idiom_ :two::hammer::astonished: _Just shy of its highes
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
-__shylock__ _n_ :two::hammer:  
+__shylock__ _n_ :three::hammer:  
 __shylocking__  
 __shyly__ _(funny spelling)_  
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
@@ -13290,7 +13290,7 @@ __skirmishers__ _n_
 __skirting__ _v_ :two::hammer:  
 __skit__ _n_ :three::hammer:  
 __skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
-__skittish__ _adj_ :nine: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
+__skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
@@ -13474,7 +13474,7 @@ __smash__ _n_ __5__ _informal_ A resounding success. _The picture was a smash fr
 __smashing__  
 __smashmouth__  
 __smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
-__smear<sup>1</sup>__ _v_ :six: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
+__smear<sup>1</sup>__ _v_ :seven: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
 __smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
@@ -13917,7 +13917,7 @@ __squib__ _n_ :two: A short and witty or sarcastic saying or writing.
 __squiffy__  
 __squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
-__squirm<sup>1</sup>__ _v_ :nine::m::hammer: (squirming) _Syn_ twist, worm, wriggle, writhe, wrestle _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
+__squirm<sup>1</sup>__ _v_ :nine::m: (squirming) To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
 __squirt gun__ _n_ :two: A water pistol. _Syn_ squirter, water gun, water pistol _Super-soaker squirt guns._  
@@ -13963,7 +13963,7 @@ __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He 
 __stalwart<sup>2</sup>__ _n_  
 __stamina__ _n_ :three::hammer:  
 __stammer<sup>1</sup>__ _n_ :three::hammer: _The consensus was shrugs and stammers._  
-__stammer<sup>2</sup>__ _v_  
+__stammer<sup>2</sup>__ _v_ :two: (stammered) To speak with involuntary pauses or repetitions.  
 __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophthalmologist vows to stamp out “unjustified” screening for cataract surgery._ _Policemen took their own steps to stamp out smoking on the railways._  
 __stamp__ _n_ _Additional stamp duties went into effect last year._  
 __stamped__ _v_ :two::hammer:  
@@ -14006,7 +14006,7 @@ __stargazer__ _n_
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
-__startling__ _adj_ :three: Causing surprise or fear; striking; astonishing.  
+__startling__ _adj_ :four: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
 __stasis__  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
@@ -14113,7 +14113,7 @@ __still life__ _n_ _Still life painting._
 __stillbirth__ _n_ :two::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
-__sting<sup>1</sup>__ _n_ :two::hammer:  
+__sting<sup>1</sup>__ _n_ :three::hammer:  
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
 __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
@@ -14137,7 +14137,7 @@ __stock-in-trade__ _n_ (stock in trade)
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
-__stockpile<sup>1</sup>__ _n_ :two: A large collection of things that may be needed.  
+__stockpile<sup>1</sup>__ _n_ :three: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
 __stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
 __stodgiest__  
 __stodgy__ _adj_ _The mainstream may sound too stodgy._  
@@ -14189,12 +14189,15 @@ __strafes__ _v_
 __strafing__  
 __straggler__ _n_  
 __straggly__  
+__straight and narrow__  
 __straight arrow__ _n_  
+__straight shooter__  
 __straight-A student__  
 __straight-arrow__ _adj_ :three::hammer: _They were hopelessly straight-arrow._  
 __straight-limbed__  
 __straight<sup>1</sup>__ _adv_ :three::hammer::mute:[strai~~gh~~t] _Five weeks straight._  
 __straight<sup>2</sup>__ _adj_ _Their second straight win._  
+__straightaway__  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one’s body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
 __strain<sup>2</sup>__ _n_ :eight::hammer: _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ _A new strain of coronavirus._  
