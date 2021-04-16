@@ -13475,7 +13475,7 @@ __smashing__
 __smashmouth__  
 __smattering__ _n_ :nine::m: __1__ A slight superficial knowledge of a language or subject. _Edward had only a smattering of Spanish._ _I picked up a smattering of German while on vacation in Germany._ __2__ A small amount of something. _For everyone but the casinos and a smattering of skilled poker players, online gambling is a very bad bet._ _I see just a smattering of raised hands._ _A smattering of raindrops._  
 __smear<sup>1</sup>__ _v_ :six: (smearing) __1__ Make a smudge on; soil by smudging. __2__ Stain by smearing or daubing with a dirty substance. __3__ :dart: Charge falsely or with malicious intent; attack the good name and reputation of someone. _They use social media to smear their opponents._ _The smear campaign._  
-__smear<sup>2</sup>__ _1_ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
+__smear<sup>2</sup>__ _n_ __1__ A blemish made by dirt. __2__ A thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope. __3__ :dart: An act that brings discredit to the person who does it. __4__ Slanderous defamation.  
 __smell test__  
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
@@ -13492,9 +13492,9 @@ __smock<sup>1</sup>__ _n_
 __smock<sup>2</sup>__ _v_  
 __smog__ _n_ :three::hammer:  
 __smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
-__smoke__ _v_ _This person smokes me._  
+__smoke__ _v_ :two: __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smoking jacket__ _n_  
-__smoking__ (cookery)  
+__smoking__ _adj_  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
 __smootch__  
@@ -13515,7 +13515,7 @@ __smug__ _adj_ :nine::m: _(disapproving)_ Showing that you are very satisfied wi
 __smuggling__ _v_  
 __smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
-__smut__ _They want to report smut._  
+__smut__ _n_ _They want to report smut._  
 __snafus__  
 __snag<sup>1</sup>__ _n_ :five::hammer: (snags) :es: problema  
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
@@ -13540,7 +13540,7 @@ __snatch (someone) from the jaws of death__ _idiom_ To rescue someone at the las
 __snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
-__sneaker__ _Sneaker companies._  
+__sneaker__ _n_ _Sneaker companies._  
 __sneaky__  
 __sneer__ _v_  
 __Snellen chart__  
@@ -13555,7 +13555,7 @@ __snigger__ _n_
 __sniggering__ _v_ :two::hammer:  
 __snipe__ _v_  
 __snippet__ _n_ A small piece of anything (especially a piece that has been snipped off).  
-__snit__ _President Trump responded with a typical Twitter-snit._  
+__snit__ _n_ _informal_ A state of agitation or irritation. _President Trump responded with a typical Twitter-snit._  
 __snitch__  
 __snivel__ _v_  
 __snollygoster__ _n_ :two: _slang US_ A politician who cares more for personal gain than serving the people.  
@@ -13573,7 +13573,7 @@ __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.
 __snout__ _n_  
 __snow in__ _idiom_ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between “snow” and “in.” _We were snowed in for several days, with only a small cupboard’s worth of food to subsist on._  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
-__snowbank__ _He was driving and crashed into a snowbank._  
+__snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
@@ -13600,12 +13600,11 @@ __soap opera__
 __soap-spuds__ _n_  
 __soapbox<sup>1</sup>__ _n_  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
-__soaps__ _Horoscopes, sudoku, crossword & soaps._  
 __soar__ _v_  
 __sobering__  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :three: A nickname.  
-__SoCal__ Southern California.  
+__SoCal__ _n_ _informal_ _US_ Southern California.  
 __soccage__  
 __social ladder__  
 __societal__  
@@ -13631,9 +13630,11 @@ __solacing__ _v_ _Solacing her with kisses._
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
 __soldier__ _v_ :two::hammer: (soldiers, soldiered)  
-__sole__ _Its sole responsibility._  
+__sole<sup>1</sup>__ _n_  
+__sole<sup>2</sup>__ _v_  
+__sole<sup>3</sup>__ _adj_ _Its sole responsibility._  
 __solely__ _adv_  
-__solemn__ :mute:[solem~~n~~]  
+__solemn__ _adj_ :mute:[solem~~n~~]  
 __solemnize__ _v_  
 __solicit__ _v_ :three::hammer: (solicited) _We solicited questions to our fanbase._  
 __solicitous__ _adj_ :two::hammer:  
