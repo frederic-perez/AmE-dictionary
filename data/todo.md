@@ -78,6 +78,16 @@ __plate-glass__ _n_
 __pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
 __predicament__ _n_  
 __preeminent__ _adj_  
+__mephitic__ _adj_  
+__a joy to behold__ _idiom_ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
+__chastise__ _v_ Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
+__lodestone__ _n_ From Middle English _lode_ (way) + stone (from its use by sailors to show the way). __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
+__diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
+__rift__ _n_  
+__fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
+__onslaught__ _n_ A violent attack.  
+__hallowed__ _adj_  
+__devious__ _adj_  
 __purloined__ _v_  
 __put a gun to (someone’s) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __repent__ _v_  
