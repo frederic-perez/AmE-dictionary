@@ -41,18 +41,6 @@ __peruse__ _v_ :mega:
 __rabbit hole__ _idiom_ _We are falling down the rabbit hole._  
 __grope__ _v_  
 __bump__ _n_ _A bump free flight._  
-__vainglorious__ _adj_ Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
-__scalp__ _v_ __2__ _informal_ Punish severely.  
-__headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
-__as good as it gets__ _idiom_ As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_  
-__run-of-the-mill__ _adj_ Not special or outstanding; average.  
-__foozle__ _v_  
-__gasconade__ _n_ Boastful talk, bragging, or bluster.  
-__nescience__ _n_  
-__haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
-__polemology__ _n_ The study of war.  
-__bunglesome__ _adj_  
-__busticate__ _v_ _informal US_ To break.  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __mired__ _v_  

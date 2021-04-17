@@ -677,7 +677,7 @@ __as blind as a bat__ _idiom_ Unable to see well.
 __as easy as shooting fish in a barrel__ _idiom_ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ _idiom_ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
-__as good as it gets__ _idiom_ :two::hammer: _Right now, Djokovic is about as good as it gets on a tennis court._  
+__as good as it gets__ _idiom_ :three: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it happens,__ _idiom_ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -1952,6 +1952,7 @@ __bungee rope__
 __bungee running__  
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
+__bunglesome__ _adj_  
 __bungling__ Spoil by incompetence.  
 __bunion__ _n_  
 __bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top of the other.  
@@ -2008,6 +2009,7 @@ __busload__
 __bust out__ _She clearly has something busting out._  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
+__busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_  
 __bustle<sup>2</sup>__ _n_ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
@@ -5580,6 +5582,7 @@ __foothold__ _n_ :two::hammer: _A foothold._
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footloose__ _adj_ :two::pencil2::hammer:  
 __footwork__ _n_ :two::hammer:  
+__foozle__ _v_  
 __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
@@ -5938,6 +5941,7 @@ __gas guzzler__
 __gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
+__gasconade__ _n_ Boastful talk, bragging, or bluster.  
 __gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn’t closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
 __gasket__  
@@ -6609,6 +6613,7 @@ __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2_
 __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
+__haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
 __hair clippers__ _n_ :camera:  
 __hair-splitting__ _idiom_  
 __hair-splittingly__ _idiom_ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
@@ -6878,6 +6883,7 @@ __headshot__ _n_ :dart::two::hammer:
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
+__headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
@@ -9713,6 +9719,7 @@ __nerve__ _n_ :two::hammer: _He’s got nerve._
 __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)  
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
+__nescience__ _n_  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
 __nestlings__ _n_  
@@ -11069,6 +11076,7 @@ __poky__ _adj_ :two::hammer: _Coverage was a little poky._
 __polarity__ _n_ :mega:  
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
+__polemology__ _n_ The study of war.  
 __police state__ _A society log run as a police state._  
 __policyholder__  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
@@ -12434,7 +12442,7 @@ __run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way 
 __run the show__  
 __run-and-gun__ _A run-and-gun platform game._  
 __run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
-__run-of-the-mill__ _adj_ :four: Ordinary, average.  
+__run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
 __rundown__ _n_ :two::hammer:  
@@ -12605,7 +12613,7 @@ __scale up__ _v_ _That’s the challenge of scaling up._
 __scallions__ _n_ :three::hammer:  
 __scallop__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
 __scalp bounties__  
-__scalp__ _v_ :two: __1a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __2__ To cut or tear the scalp from.  
+__scalp__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
 __scalper__ _n_ :four::hammer:  
 __scam__ _v_ :four::hammer: (scammed)  
@@ -13388,6 +13396,7 @@ __slink<sup>1</sup>__ _v_ :four: To move in a quiet furtive manner; sneak: slunk
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
+__slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway.  
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
 __slip<sup>2</sup>__ _v_ Decrease?  
 __slippage__ _n_ :two::hammer:  
@@ -13395,7 +13404,6 @@ __slipper__ _n_ :two::hammer: (bag?)
 __slipperiness__  
 __slippers__  
 __slippery slope__  
-__slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway.  
 __slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod research._ __2__ Careless or negligent: _“Precise sentences were my ideals, though in practice I was slipshod and sentimental” (Wayne Koestenbaum)._ _Syn_ slapdash, haphazard, sloppy  
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
@@ -15758,7 +15766,7 @@ __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
-__vainglorious__ _adj_  
+__vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
