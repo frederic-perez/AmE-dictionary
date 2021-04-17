@@ -56,7 +56,6 @@ __nonlinear__ _adj_
 __nth__  
 __off-color__ _adj_  
 __onset__ _n_  
-__onslaught__ _n_  
 __outgrow__ _v_  
 __pedestrian__  
 __personify__ _v_  
@@ -73,7 +72,7 @@ __lodestone__ _n_ From Middle English _lode_ (way) + stone (from its use by sail
 __diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
 __rift__ _n_  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
-__onslaught__ _n_ A violent attack.  
+__onslaught__ _n_ :two: A violent attack.  
 __hallowed__ _adj_  
 __devious__ _adj_  
 __purloined__ _v_  
@@ -117,3 +116,14 @@ __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, e
 __amenable__ _adj_  
 __abysmal__ _adj_  
 __pensive__ _adj_  
+__ponderous__ _adj_  
+__minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
+__soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep). __1__ Inducing sleep. __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
+__soporific<sup>2</sup>__ _n_ Something that induces sleep.  
+__(it’s) little wonder__ _idiom_ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
+__antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
+__vibrissa__ _n_  
+__behoove__ _v_  
+__gallant__ _adj_  
+__vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
+__vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
