@@ -6646,6 +6646,7 @@ __Han__ A Dutch masculine given name. It can be a short form of Johannes or of H
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handglider__  
+__handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
 __handkerchief__ :mute:[han~~d~~kerchief]  
@@ -10078,7 +10079,7 @@ __on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from
 __on the rise__ _idiom_  
 __on the run__  
 __on the same page__ _idiom_ To agree on something.  
-__on the sly__ _adv_ :four: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _Stealing kisses from me on the slide._  
+__on the sly__ _adv_ _idiom_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
 __on the verge__  
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
@@ -13337,7 +13338,8 @@ __slathered__ _v_
 __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._  
 __slatted__ _v_ :two::hammer: _Slatted sunlight._  
 __slatternly__  
-__slaughter__ :mute:[slau~~gh~~ter]  
+__slaughter<sup>1</sup>__ _n_ :mute:[slau~~gh~~ter]  
+__slaughter<sup>2</sup>__ _v_ :mute:[slau~~gh~~ter]  
 __slave driver__ _n_ A person who makes other people work very hard.  
 __slavishly__ _adv_ :two::hammer: _Following instructions slavishly._ :es: servilmente  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
@@ -13375,12 +13377,12 @@ __sliders__ _n_ (food)
 __slight<sup>1</sup>__ _adj_  
 __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don’t slight your work._  
 __slight<sup>3</sup>__ _n_ :nine: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
-__slightly-built__ _The slightly-built, 27-year-old man._  
+__slightly built__ _idiom_ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
-__sling<sup>2</sup>__ _v_ To throw or drop something carelessly.  
+__sling<sup>2</sup>__ _v_ :two: (slung) To throw or drop something carelessly. _His nose broke and slung a string of blood across his shoulder._  
 __slinger__  
 __slink<sup>1</sup>__ _v_ :four: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
@@ -13393,14 +13395,13 @@ __slipper__ _n_ :two::hammer: (bag?)
 __slipperiness__  
 __slippers__  
 __slippery slope__  
-__slips__ _Sailboats were rocking in their slips._  
+__slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway.  
 __slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod research._ __2__ Careless or negligent: _“Precise sentences were my ideals, though in practice I was slipshod and sentimental” (Wayne Koestenbaum)._ _Syn_ slapdash, haphazard, sloppy  
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
 __slither__ _v_  
 __slithering__ _adj_ :two::hammer:  
-__sliver handgun__ _Officers found a small sliver handgun nuder the passenger seat._  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :five::hammer:  
 __slob__ _n_ :three::hammer: (slobs)  
@@ -13427,7 +13428,7 @@ __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your frien
 __slug down__ _v_ _He slugged down four martinis._  
 __slug<sup>1</sup>__ _n_  
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
-__slugabed__ A person who lazily stays in bed long after the usual time for arising.  
+__slugabed__ _n_ :astonished: __1__ A person who lazily stays in bed long after the usual time for arising. __2__ A self-indulgent person who spends time avoiding work or other useful activity.  
 __sluggard__  
 __sluggish__ _adj_ :two::hammer:  
 __sluice<sup>1</sup>__ _n_ _A sluice for washing gold._  
@@ -13440,23 +13441,21 @@ __slumber<sup>2</sup>__ _v_ :three: __1__ To sleep. __2__ To be dormant or quies
 __slumberland__ _n_ An imaginary land described to children as the place they enter during sleep.  
 __slumming__ _v_ :two::hammer:  
 __slump__ _v_ :two::hammer: (slumped) _People slumping out of chairs._  
-__slung__ _AHis nose broke and slung a string of blood across his shoulder._  
 __slur__ _n_ :two::hammer:  
 __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it slurped against the ice._  
 __slush__ _n_ :six::hammer: _The offshore ice and slush._  
 __slushy__  
-__sly > on the sly__ In a secretive fashion. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ _informal_ A sly person.  
-__slyly__ :astonished: _She smiled slyly._  
-__smack dab__ _I’ll run smack dab over you._  
+__slyly__ _adv_ :astonished: _She smiled slyly._  
+__smack-dab__ _idiom_ Directly; exactly at a particular place. Usually used to emphasize a prepositional phrase of location, especially “in the middle.” _There I was, smack-dab in the middle of Taiwan with no money and no way to contact my family._ _The criminal turned the corner and ran smack-dab into a group of off-duty police officers._  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
 __small fry__ _adj_ (small-fry) Lacking importance.  
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
-__small__ _I rubbed the small of her back._  
+__small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
 __smallpox__ _n_ :two::hammer: :es: viruela  
 __smarmy__ _adj_ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
