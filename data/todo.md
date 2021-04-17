@@ -1,3 +1,13 @@
+__twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
+__proctologist__ _n_  
+__complimentary__ _adj_ _Complimentary popcorn._  
+__prior to__ _idiom_ _prep_ Before. _Prior to this episode._  
+__sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
+__goodness gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
+__flesh out__ _v_  
+__high-end__ _adj_  
+__case the joint__ _idiom_ (casing the joint)  
+__metal__ _adj_ _idiom_ _slang_ Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._  
 __grouchy__ _adj_  
 __jerboa__ _n_ (jerboas)  
 __verdict__ _n_  
