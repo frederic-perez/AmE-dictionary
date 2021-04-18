@@ -40,7 +40,7 @@ __21__ _n_ Drinking game.
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __411__ _n_  
-__800-pound gorilla__  
+__800-pound gorilla__ _idiom_ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a bad penny__ _idiom_ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
 __a bird in the hand is worth two in the bush__  
 __a bit dicey__ _idiom_ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
@@ -13237,14 +13237,14 @@ __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved
 __singletree__ _Singletree plow._  
 __sinistrality__ Left-handedness.  
 __sinkhole__ _n_ :two::hammer:  
-__Sino-Japanese vocabulary__ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
+__Sino-Japanese vocabulary__ _n_ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __sinter__ _v_  
 __siphon off__ _v_ _They were siphoning off readers._  
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
-__sit in__ _I’m sitting in for Ira Glass._  
+__sit in for (one)__ _idiom_ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
 __sit on__ _idiom_ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
@@ -13260,7 +13260,6 @@ __situated__ _adj_ Having a place or location. _Syn_ located, placed, set
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
 __sivvied__ _v_ (?)  
 __six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
-__six-hundred-pound gorilla__ (also eight-hundred-pound gorilla or nine-hundred-pound gorilla) A powerful force; a virtually irresistible influence.  
 __sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a “sizzle reel.”_  
@@ -13270,13 +13269,13 @@ __skank__ _v_ (?)
 __skate__ _v_ :three::hammer: _He don’t let nobody skate unless it’s for money._  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
-__skell__ _How you like it, skell?_  
+__skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like it, skell?_  
 __skeptic__ _adj_ :pencil2:  
 __sketchy__  
 __skewer__ _v_ :two::hammer:  
 __skews__ _v_  
 __skid mark__ _idiom_ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
-__skid row__ _His father would take him to a blind pig on skid row._  
+__skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn’t put skids on sales._  
 __skid<sup>2</sup>__ _v_ _Cars were skidding on the highway._  
 __skillet__ _n_ :four: A pan used for frying foods. _Syn_ frying pan, frypan  
@@ -13287,10 +13286,10 @@ __skimboard__
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don’t skimp on the turkey._  
 __skimpy__ _adj_ :three::hammer:  
-__skin diving__ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
+__skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
-__skip stones__ _Alafair was skipping stones across the water into a cypress stump._  
+__skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ _n_ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
 __skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)  
@@ -13303,8 +13302,7 @@ __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a h
 __skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
-__skulk__ _Jessica makes both friends and enemies skulking around in the night._  
-__skulking__ _v_ :two::hammer:  
+__skulk__ _v_ :three::hammer: _Jessica makes both friends and enemies skulking around in the night._  
 __skullcap__  
 __skunk__ _n_ :two::hammer:  
 __skunworks__  
@@ -13316,14 +13314,14 @@ __skylight__
 __skyrocket__ _v_ :three::hammer:  
 __skyscraper__ _n_  
 __skywriting__  
-__SL,UT__ Abbreviation for Salt Lake City, Utah.  
+__SL,UT__ _abbr_ Abbreviation for Salt Lake City, Utah.  
 __slab__ _n_ :two::hammer: (slabs) _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
 __slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn’t drive with slack reins._  
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
-__slackjawed__ _He had gone slackjawed when Jack topd him the news._  
+__slackjawed__ _idiom_ _He had gone slackjawed when Jack topd him the news._  
 __slackline__ _n_ :two::hammer:  
 __slag__  
 __slain__ _n_  
