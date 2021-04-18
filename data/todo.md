@@ -1,3 +1,13 @@
+__funny money__ _n_  
+__shut (one’s) mouth__ _idiom_  
+__purloin__ _v_  
+__neatnik__ _n_ A very neat and tidy person.  
+__booklore__ _n_ Any knowledge or belief gained from books.  
+__purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
+__ken__ _n_ __1__ Perception; understanding: _complex issues well beyond our ken._  
+__a little from column A, a little from column B__ _idiom_ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
+__indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
+__liquid courage__ _idiom_ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
 __proctologist__ _n_  
 __complimentary__ _adj_ _Complimentary popcorn._  
