@@ -54,6 +54,16 @@ __silver spoon__ _idiom_
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  
+__safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
+__escalation__ _n_  
+__tag along__ _idiom_ :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._  
+__hot flashes__ _n_  
+__PMS__ _abbr_ Premenstrual syndrome.  
+__worried sick__ _idiom_ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
+__pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
+__gloat<sup>1</sup>__ _v_  
+__gloat<sup>2</sup>__ _n_  
+__for crying out loud__ _idiom_  
 __snob__ _n_  
 __artichoke__ _n_  
 __mockingbird__ _n_ :es: sinsonte  
