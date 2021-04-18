@@ -8751,7 +8751,7 @@ __lodging__
 __lodgings__  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
 __loftily__  
-__lofty__ _adj_ :eight::hammer: _His lofty perch._ _A lofty professional career._ _Lofty promises._  
+__lofty__ _adj_ :eight: __1__ Of imposing height. _His lofty perch._ __2__ Elevated in character; exalted. __3__ Affecting grandness; pompous. _A lofty professional career._ _Lofty promises._ __4__ Arrogant; haughty.  
 __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to express a low opinion of someone’s intelligence.  
 __logjam__ _n_  
 __logomachy__ _n_  
@@ -11854,7 +11854,7 @@ __re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re he
 __reach for the sky__  
 __reach for the stars__ _idiom_ :two: Have high or ambitious aims.  
 __reach out to somebody__ _phr v_ To show people that you are interested in them and want to listen to them.  
-__reach out__ _v_ :nine::dart::hammer: _Reaching out to prevent aids._  
+__reach out__ _v_ :nine::dart: __1__ To attempt to make contact with someone, especially in search of or to offer help, guidance, comfort, or support. _I’ve tried reaching out to her, but she doesn’t want to share her feelings with me._ _If you would like to request a refund, please reach out to customer service._ __2__ To broaden one’s social circle or experiences in life. _I kind of lost myself in my job for a few years, so I’m trying to reach out and meet some new people._  
 __reactive__ _adj_ :dart:  
 __read into something__  
 __read it and weep__ _idiom_  
@@ -12425,7 +12425,7 @@ __rumble<sup>2</sup>__ _v_ :nine: (rumbled, rumbling) Are you ready to rumble? T
 __rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._  
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
-__rummage__ _v_ :nine::m::hammer: (rummaged, rummaging) _Jack was rummaging._ _She rummaged through the kitchen cutlery drawer._  
+__rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
 __rummy__  
 __rumor has it__  
 __rumor mill__ _Fighting the rummor mill._  
@@ -12708,7 +12708,7 @@ __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
-__screech<sup>2</sup>__ _v_ :eight::hammer: (screeched, screeching)  
+__screech<sup>2</sup>__ _v_ :eight: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
 __screen__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
