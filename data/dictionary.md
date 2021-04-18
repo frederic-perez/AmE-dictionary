@@ -1934,6 +1934,7 @@ __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manne
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
+__bump__ _n_ _A bump free flight._  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumpers__ _n_ _The bumpers of vehicles._  
@@ -3927,7 +3928,7 @@ __die-cast__ _Merchandise and die-cast sales._
 __die-hard__ Person who resists change.  
 __die-off__ _n_  
 __diecast__  
-__diehard__  
+__diehard__ _adj_ :two::hammer: _A diehard fan._  
 __differ__ _v_ :two::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffident__ _adj_ :two::dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._  
@@ -6452,7 +6453,7 @@ __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunken
 __groomed__  
 __groomers__  
 __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
-__grope (somebody)__ _v informal_ To touch somebody sexually, especially when they do not want you to.  
+__grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
 __ground chuck steak__  
@@ -8905,6 +8906,7 @@ __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._
 __M.O.__ Modus operandi?  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
+__macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
 __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
@@ -8989,6 +8991,7 @@ __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile
 __mallow__ :pencil2:  
 __malnourished__  
 __mamasan__  
+__mammonism__ _n_ The greedy pursuit of riches.  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
 __man<sup>1</sup>__ _Oh, man!_  
@@ -9316,7 +9319,7 @@ __miscarriage__ _n_
 __miscarry__ _v_  
 __miscegenation__  
 __miscellaneous__ :mute:[mis~~c~~ellaneous]  
-__miscellany__ :mega:  
+__miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :three::hammer:  
 __mischievous__  
@@ -9371,7 +9374,7 @@ __mix-up__ _n_ :two::hammer:
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
-__MO__ _abbr_ :two: Modus operandi. _With the same MOs._  
+__MO__ _abbr_ :five: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
@@ -10718,7 +10721,7 @@ __pertinacious__ _adj_
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
-__peruse__ _v_ :three::hammer: (perused)  
+__peruse__ _v_ :four::mega::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
@@ -11686,7 +11689,7 @@ __quote, unquote__ _idiom_ :two::hammer:
 __quotidian__ _adj_  
 __Quran__  
 __R/O__ _abbr_ Rule out.  
-__rabbit hole__ _idiom_ :three::hammer: _We fell into the poop rabbit hole again in this episode._  
+__rabbit hole__ _idiom_ :four::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  

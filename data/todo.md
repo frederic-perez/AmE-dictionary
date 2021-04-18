@@ -56,16 +56,6 @@ __disdain<sup>2</sup>__ _n_
 __witty__ _adj_  
 __snob__ _n_  
 __artichoke__ _n_  
-__diehard__ _adj_ _A diehard fan._  
-__peruse__ _v_ :mega:  
-__rabbit hole__ _idiom_ _We are falling down the rabbit hole._  
-__grope__ _v_  
-__bump__ _n_ _A bump free flight._  
-__macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
-__mammonism__ _n_ The greedy pursuit of riches.  
-__mired__ _v_  
-__miscellany__ _n_ :mega: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
-__MO__ _abbr_ :three:  
 __mockingbird__ _n_ :es: sinsonte  
 __myocarditis__ _n_  
 __necessitate__ _v_  
