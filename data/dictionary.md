@@ -13191,11 +13191,12 @@ __sigh__ _v_ :two::mega::mute:[si~~gh~~]
 __sight__ :mute:[si~~gh~~t]  
 __sightline__ _n_  
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
-__sign__ :mute:[si~~g~~n]  
+__sign__ _n_ :mute:[si~~g~~n]  
 __sign-off__ _n_  
 __signage__ _n_ :four: Signs collectively. _The neon signage._ _Family upset his individual feat isn’t honored with signage._  
 __signal__ _n_ :mega:  
-__signature__ _That’s their signature meal._  
+__signature<sup>1</sup>__ _n_  
+__signature<sup>2</sup>__ _adj_ _That’s their signature meal._  
 __signee__ _n_ :two::hammer: (signees) _Malory was one of four singnees._  
 __signet ring__  
 __significant other__  
@@ -13208,10 +13209,10 @@ __Silly Putty__ _n_ A toy based on silicone polymers that have unusual physical 
 __Silly String__ _n_ (silly string) Aerosol string.  
 __silo__ _n_ :six::hammer: _A silo-launched missile._  
 __silt__ _n_  
-__silver lining__ (See “every cloud has a silver lining.”)  
+__silver lining__ _idiom_ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver screen__  
-__silver spoon__ A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
-__Silver State__ Nevada.  
+__silver spoon__ _idiom_ A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
+__Silver State__ _n_ Nevada.  
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
@@ -13221,7 +13222,7 @@ __Simon Says__ _n_ :two::hammer:
 __simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
-__Sin City__ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
+__Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven’t been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
@@ -13235,10 +13236,10 @@ __sing along<sup>1</sup>__ _n_ :three: (singalongs) A gathering or event where p
 __sing along<sup>2</sup>__ _v_ :two: To sing some music while someone else is singing or playing the same piece of music or while it is being broadcast or performed.  
 __singe__ _v_ :pencil2::three::hammer: (singed)  
 __single out__ _v_ :three: To select one from a group and treat differently.  
-__single-jab__ _Single-jab vacune._  
+__single-jab__ _adj_ _Single-jab vaccine._  
 __single-minded__ _adj_ Steadfast; resolute. _Syn_ resolved  
-__singletree__ _Singletree plow._  
-__sinistrality__ Left-handedness.  
+__singletree__ _n_ The pivoted horizontal crossbar to which the harness traces of a draft animal are attached and which is in turn attached to a vehicle or an implement. Also called regionally _whiffletree_, _whippletree_. _Singletree plow._  
+__sinistrality__ _n_ The condition of being left-handed.  
 __sinkhole__ _n_ :two::hammer:  
 __Sino-Japanese vocabulary__ _n_ That portion of the Japanese vocabulary that is of Chinese origin or makes use of morphemes of Chinese origin (similar to the use of Latin/Greek in English).  
 __sinter__ _v_  
