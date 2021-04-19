@@ -24,6 +24,7 @@ __(one’s) heart’s desire__ _idiom_ Something one very much wants or needs. _
 __(one’s) jollies__ _idiom_ _slang_ One’s amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase “get one’s jollies.” _The restless teenagers got their jollies by throwing rocks at passing cars._  
 __(one’s) nerves are shot__ _idiom_ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ _idiom_ One presumes or anticipates (that); one reckons or thinks (that).  
+__(one) has a point (there)__ _idiom_ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __(someone) (just) doesn’t know when to quit__ _idiom_ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ _idiom_ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
@@ -856,6 +857,7 @@ __axle__ _n_
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __azure__  
 __B & E__ _abbr_ :two: Breaking and entering. _Somebody did a B&E on you._  
+__b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ :mega:  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
@@ -2642,6 +2644,7 @@ __Cincy__ Cincinnati?
 __cinder__  
 __cinder-block town__  
 __Cinderella__ _n_ One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
+__cine__ _n_ :mega:  
 __cinephile__ :mega:  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ _idiom_ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
@@ -4971,7 +4974,7 @@ __expostulate__ _v_ :two::hammer:
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
-__exquisite__ _Exquisite acting._  
+__exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extensively__ _She’s been working extensively._  
@@ -6456,6 +6459,7 @@ __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a g
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
+__grouchy__ _adj_  
 __ground chuck steak__  
 __ground game__  
 __ground zero__ _n_ :two::hammer:  
@@ -7683,7 +7687,7 @@ __indenture__ _v_
 __indentured__  
 __index card__ _n_  
 __indict__ _v_ :six::hammer: (indicted :mega:)  
-__indictment__ _n_ :five::hammer::mega:  
+__indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
 __indigenous__ _Indigenous people._  
 __indiscreet__  
 __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
@@ -7957,6 +7961,7 @@ __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
 __jeopardize__ _v_  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
+__jerboa__ _n_ (jerboas)  
 __jeremiad__  
 __jerk around__  
 __jerk__ _n_ _slang_ :two: Mean or unlikeable person.  
@@ -14589,7 +14594,7 @@ __take (one’s) side__ _idiom_ To support or side with one in an argument.
 __take (something) to heart__ _idiom_  
 __take (the) roll__ _idiom_ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a dive__ _idiom_  
-__take a leak__  
+__take a leak__ _idiom_ :two: _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
 __take a piss__ _idiom_ Urinate.  
 __take a shit__ _v_  
 __take a stand__  
@@ -15195,7 +15200,7 @@ __tottered__
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touch base (with someone)__ _idiom_ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touchline__  
-__touchy__ _adj_ :two::hammer:  
+__touchy__ _adj_ :three: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
@@ -15851,7 +15856,7 @@ __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying
 __verboten__ _adj_ Not allowed.  
 __verbum sap__ _idiom_ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verdant__ _adj_ _Verdant hills._  
-__verdict__ _n_ :three::hammer::pencil2:  
+__verdict__ _n_ :four::hammer::pencil2:  
 __verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge (up)on something__ _idiom_ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __verge__ _n_ :two::hammer:  
@@ -16290,7 +16295,7 @@ __whoop<sup>1</sup>__ _n_ :two::hammer:
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
 __whooping cough__  
-__whoopsie__ _n_ :dart::two: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
+__whoopsie__ _n_ :dart::three: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh<sup>1</sup>__ _n_ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whoosh<sup>2</sup>__ _v_ (whooshed)  
 __whorl__ _n_ :two::hammer: (worls)  
@@ -16607,7 +16612,7 @@ __yonder__
 __yore__ _?_ _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
 __you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
-__you name it__ _idiom_ :dart::three: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
+__you name it__ _idiom_ :dart::five: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I’ll scratch yours__ _idiom_ If you help me, I will help you.  
 __you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ _idiom_ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  

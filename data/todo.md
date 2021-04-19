@@ -18,18 +18,6 @@ __flesh out__ _v_
 __high-end__ _adj_  
 __case the joint__ _idiom_ (casing the joint)  
 __metal__ _adj_ _idiom_ _slang_ Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._  
-__grouchy__ _adj_  
-__jerboa__ _n_ (jerboas)  
-__verdict__ _n_  
-__indictment__ _n_ :two::mega: /ɪnˈdaɪtmənt/  
-__you name it__ _idiom_ :two:  
-__cine__ _n_ :mega:  
-__take a leak__ _idiom_ _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
-__(one) has a point (there)__ _idiom_ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
-__b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
-__touchy__ _adj_ __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
-__whoopsie__ _n_  
-__exquisite__ _adj_  
 __futile__ _adj_  
 __Ding, ding, ding, we have a winner!__ _idiom_ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
