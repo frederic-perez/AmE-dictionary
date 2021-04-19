@@ -60,6 +60,16 @@ __necessitate__ _v_
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
 __nightingale__ _n_ :es: ruiseñor  
 __nighttime__ _n_ :pencil2:  
+__lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion. _  
+__woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
+__woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
+__intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
+__a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
+__a shame__ _idiom_ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’ work out between you two—that’s a real shame._  
+__jabber__ _v_ Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
+__lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?!_  
+__drub__ _v_  
+__the lion’s den__ _idiom_ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __nonlinear__ _adj_  
 __nth__  
 __off-color__ _adj_  
