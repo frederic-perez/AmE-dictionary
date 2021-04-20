@@ -13103,13 +13103,12 @@ __shorts__ _n pl_ (plurale tantum)
 __shot in the arm__ _idiom_ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
-__shot__ _(:es: javalina?)_  
+__shot__ _n_  
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
-__shoulder<sup>1</sup>__ _n_ _Even pulling onto shoulder causes huge jams._  
+__shoulder<sup>1</sup>__ _n_ :two: __8__ The edge or border running on either side of a roadway. :camera: _The shoulders of the freeway will be wider._ _Even pulling onto shoulder causes huge jams._  
 __shoulder<sup>2</sup>__ _v_ :three::hammer:  
-__shoulders__ :camera: _The shoulders of the freeway will be wider._  
 __shout-out > give a shout-out__  
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
@@ -13127,7 +13126,8 @@ __showhouse__
 __showpiece__ _n_ :three::hammer:  
 __showroom__ _n_  
 __showrunner__ _n_ :three::hammer: (show runner)  
-__showstopping__ _A showstopping performance._  
+__showstopper__ _n_ _informal_  
+__showstopping__ _adj_ _A showstopping performance._  
 __showtime__  
 __shrapnel__ _n_ :five: __1__ Fragments of a bomb, shell, or other object thrown out by an explosion. _Bomb shrapnel has sliced apart countless boys._ __2__ _informal_ :pencil2: Small change. _Little more than a few pounds and a handful of shrapnel._ :es: chatarra  
 __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed to the front lines of a war without a shred of experience._  
@@ -13159,7 +13159,7 @@ __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, 
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_ :two::hammer:  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
-__shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
+__shut down__ _idiom_ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
@@ -13170,17 +13170,18 @@ __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy a
 __shylock rackets__  
 __shylock__ _n_ :three::hammer:  
 __shylocking__  
-__shyly__ _(funny spelling)_  
+__shyly__ _adv_ _(funny spelling)_  
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
 __sicced__ _v_  
 __sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
 __sickle cell__  
-__sickly__ :es: enfermizo  
-__siddle up__ _Chuck siddled up beside his brother._  
+__sickly__ _adj_ :es: enfermizo  
+__sidle up (from someone or something)__ _idiom_ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
+__sidle up (to someone or something)__ _idiom_ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __sidearm__  
 __sidebar__ _n_  
 __sidecar shovelhead__  
-__sided__ _Installed in all sided (vs brick) homes._  
+__sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
 __sideline<sup>2</sup>__ _v_ :two::hammer: (sidelined) _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidestep__ _v_ :six::hammer: (sidestepped)  
@@ -13193,7 +13194,8 @@ __sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._
 __sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can’t comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ _v_ :two::mega::mute:[si~~gh~~]  
-__sight__ :mute:[si~~gh~~t]  
+__sight<sup>1</sup>__ _n_ :mute:[si~~gh~~t]  
+__sight<sup>2</sup>__ _v_ :mute:[si~~gh~~t]  
 __sightline__ _n_  
 __sign up__ _v_ :two::hammer: _Sign me up—I want to be part of this community!_  
 __sign__ _n_ :mute:[si~~g~~n]  
