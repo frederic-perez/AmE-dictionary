@@ -1698,7 +1698,7 @@ __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling.
 __box score__  
 __box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
-__boy oh boy__ _idiom_ An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
+__boy oh boy__ _idiom_ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
@@ -2332,6 +2332,7 @@ __casual__ _He put on casual clothes._
 __casualties__  
 __cat got your tongue?__ Have you nothing to say?  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
+__cat__ _n informal_  
 __cat’s horn__ _North Korean markets have everything but a cat’s horn._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
@@ -4027,6 +4028,8 @@ __discourse__
 __discretion__ _n_  
 __discretionary__ _Things to do when you have discretionary time._  
 __discus__ _n_  
+__disdain<sup>1</sup>__ _v_  
+__disdain<sup>2</sup>__ _n_  
 __disdrometer__  
 __disembodied__ _v_ :two::hammer:  
 __disembody__ _v_ (disembodied)  
@@ -4232,7 +4235,7 @@ __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... w
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
-__dork__ _n_ :three: __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
+__dork__ _n_ :four: (dorks) __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
 __dormant__ _adj_ :two::hammer:  
 __dormer__ _n_ :camera:  
@@ -7464,7 +7467,7 @@ __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.
 __ie.__ _abbr_ That is to say.  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
-__if you will__ _idiom_ :three: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
+__if you will__ _idiom_ :four: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
 __iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
@@ -8091,6 +8094,7 @@ __junkie__ _n_ _He was a news junkie._
 __junkyard dog__ _idiom_ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __junta__ _n_ :three::hammer:  
 __jurisprudence__ _n_  
+__juror__ _n_ :mega: (jurors)  
 __jury box__ _n_ An enclosure where the jury sit in court.  
 __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The survivors of the wreck jury-rigged some fishing gear._  
 __jus__  
@@ -8391,6 +8395,7 @@ __lapidify__ _v_
 __lapse<sup>1</sup>__ _v_  
 __lapse<sup>2</sup>__ _n_  
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
+__larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :seven: Theft of personal property. :es: hurto  
 __larder__ _n_ :three::hammer:  
 __largely__ _adv_ :two::hammer:  
@@ -9130,7 +9135,7 @@ __maxed__ _v_
 __maxes__ _v_  
 __maxim__ :es: máxima  
 __Mayan__ :mega:  
-__mayhem__ _n_ :six: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
+__mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
@@ -9205,7 +9210,7 @@ __mental memo__ _n_ :camera:
 __mentees__  
 __Mephistopheles__ _n_ (Mephisto)  
 __merc__ _n_ :two::hammer:  
-__mercantile__  
+__mercantile__ _adj_ :two::hammer:  
 __merch__ _n_ :three::hammer: Merchandaising?  
 __merchant prince__ _n_ A very wealthy or influential merchant.  
 __merchant__  
@@ -13176,8 +13181,6 @@ __sicced__ _v_
 __sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
 __sickle cell__  
 __sickly__ _adj_ :es: enfermizo  
-__sidle up (from someone or something)__ _idiom_ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
-__sidle up (to someone or something)__ _idiom_ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __sidearm__  
 __sidebar__ _n_  
 __sidecar shovelhead__  
@@ -13188,7 +13191,10 @@ __sidestep__ _v_ :six::hammer: (sidestepped)
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
 __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with anyone at Augusta_  
-__sidled__ _v_  
+__sidle up (from someone or something)__ _idiom_ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
+__sidle up (to someone or something)__ _idiom_ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
+__sidle<sup>1</sup>__ _v_ (sidled)  
+__sidle<sup>2</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
 __siege__ _n_ :two::hammer: _An overnight siege shocked the country._  
 __sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._  
 __sieve<sup>2</sup>__ _v_  
@@ -13218,7 +13224,7 @@ __silo__ _n_ :six::hammer: _A silo-launched missile._
 __silt__ _n_  
 __silver lining__ _idiom_ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver screen__  
-__silver spoon__ _idiom_ A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
+__silver spoon__ _idiom_ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __Silver State__ _n_ Nevada.  
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
@@ -13548,7 +13554,7 @@ __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, 
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarky__ _adj informal_ :dart::two: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
+__snarky__ _adj informal_ :dart::three: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  

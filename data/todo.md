@@ -29,18 +29,6 @@ __in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger day
 __here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __slim__ _adj_ _The chances are pretty slim._  
 __my ass__ _interj_ _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
-__snarky__ _adj_  
-__mayhem__ _n_  
-__larcenous__ _adj_  
-__juror__ _n_ :mega: (jurors)  
-__cat__ _n informal_  
-__dork__ _n_ (dorks)  
-__if you will__ _idiom_  
-__mercantile__ _adj_  
-__boy oh boy__ _idiom_ :three:  
-__silver spoon__ _idiom_  
-__disdain<sup>1</sup>__ _v_  
-__disdain<sup>2</sup>__ _n_  
 __witty__ _adj_  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
 __escalation__ _n_  
