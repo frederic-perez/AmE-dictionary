@@ -13032,13 +13032,13 @@ __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy
 __shinding__  
 __shine (someone) on__ _Don’t shine me on._  
 __shine a light__  
-__shine off__ _Don’t try to shine me off, worm man._  
-__shine your light__ _For those who rose hours ago, are you still shining your light?_  
+__shine (one) on__ _idiom_  
+__shine someone__ _idiom_  
 __shiner bucket__  
-__shiner__ _He answered the door with a shiner on one eye from a wrestling match._  
+__shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling match._  
 __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
-__shipborne__ _Airborne and shipborne measured platforms._  
+__shipborne__ _adj_ _Airborne and shipborne measured platforms._  
 __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ _n_ :two::hammer: :es: astillero  
 __shirk<sup>1</sup>__ _n_  
@@ -13049,10 +13049,10 @@ __shit-canning__
 __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
-__shitless__ _They were scared shitless._  
+__shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
 __shiv__ _n_ :two: A knife used as a weapon.  
 __shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
-__shiver-thin__ _A shiver-thin coverlet of old snow._  
+__shiver__ _n_  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
 __shock jock__ _n_ :two: _informal_ A radio disc jockey who is deliberately controversial or provocative.  
@@ -13071,7 +13071,7 @@ __shoo-in__ _n_ :two::hammer:
 __shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
 __shoot for the moon__ _idiom_ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__ _idiom_  
-__shoot the breeze__ _informal_ Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
+__shoot the breeze__ _idiom_ _informal_ Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot up__ _idiom_ :two::hammer: _The number of homeless families shot up during the recession._  
 __shoot your mouth off__ _idiom_ To boast or talk too much, to tell secrets.  
@@ -13089,8 +13089,8 @@ __shorn<sup>1</sup>__ _v_ A past participle of shear.
 __shorn<sup>2</sup>__ _adj_ :four: Having the hair or wool cut or clipped off as if with shears or clippers. _Shorn head._ _Picked up the baby’s shorn curls from the floor._  
 __short fuse__  
 __short hand__  
-__short of (something)__ _Anything short of that._  
-__short__ _He typically wears shorts to work._  
+__short of (something)__ _idiom_ _Anything short of that._  
+__short__ _n_  
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
@@ -13102,9 +13102,10 @@ __shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk
 __shorthand__ _n_ :two::hammer: :es: taquigrafía  
 __shortlist<sup>1</sup>__ _n_ :seven::hammer: _We look at the shortlist’s biggest beasts._ _A women-only shortlist._  
 __shortlist<sup>2</sup>__ _v_ (shortlisted)  
-__shortly before__ _Shortly before Lee’s death, the homeless man walked of the St. David’s Medical Center against medical advice._  
+__shortly after__ _idiom_ Soon after. _Shortly after she hung up, the phone rang again._  
+__shortly before__ _adv_ _Shortly before Lee’s death, the homeless man walked of the St. David’s Medical Center against medical advice._  
 __shortly__ _adv_ :two::hammer: _Shortly before 8 a.m. Tuesday._  
-__shorts__ _n pl_ (plurale tantum)  
+__shorts__ _n pl_ :two: (plurale tantum) _He typically wears shorts to work._  
 __shot in the arm__ _idiom_ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
