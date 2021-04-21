@@ -32,16 +32,6 @@ __my ass__ _interj_ _chiefly US_ _informal_ _impolite_ Used to indicate that wha
 __witty__ _adj_  
 __receive (one’s) just deserts__ _idiom_ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
-__fortitudinous__ _adj_ Having or showing courage.  
-__earthshine__ _n_ The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
-__razzle-dazzle__ _n_ _informal_  
-__logrolling__ _n_  
-__posthumous__ _adj_ __1__ Born after the death of the father. __2__ Published after the death of the author. __3__ Following or occurring after death.  
-__Massachusett__ _n_ :pencil2::mega: (Massachuset)  
-__uncouth__ _adj_ Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._  
-__the granddaddy of them all__ _idiom_ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
-__victual__ _n_ :mega: Food fit for human consumption.  
-__victuals__ _n pl_ :two::mega: Food supplies; provisions.  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
 __escalation__ _n_  
 __tag along__ _idiom_ :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._  

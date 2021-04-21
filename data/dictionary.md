@@ -4536,7 +4536,7 @@ __earth-shattering__
 __earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
 __earthquake drill__  
-__earthshine__ _n_ The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun.  
+__earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
 __earthworks__ _n_  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __easement__  
@@ -5675,6 +5675,7 @@ __forthcoming__
 __forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __fortified wine__  
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
+__fortitudinous__ _adj_ Having or showing courage.  
 __fortnight__  
 __forty winks__ _idiom_ :three: A short sleep during the day. A short nap.  
 __foster care__ _n_ :three::hammer:  
@@ -8767,6 +8768,7 @@ __loggerhead__ _n_ :two: (loggerheads) A stupid person; these words are used to 
 __logjam__ _n_  
 __logomachy__ _n_  
 __logorrhea__ _n_  
+__logrolling__ _n_  
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
@@ -9094,6 +9096,7 @@ __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might,
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
 __masquerade__ _n_  
+__Massachusett__ _n_ :pencil2::mega: (Massachuset)  
 __massacre__ _n_ _There were public roundups and massacres._  
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
 __masseuse__ _n_ :two: A woman who gives massages professionally. :es: masajista  
@@ -11178,6 +11181,7 @@ __postcode lottery__ _n_ :two::hammer:
 __poster boy__ _n_ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the “poster child” of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
 __poster girl__ _n_ _Anne Frank became a kind of poster girl for hope and inspiration, when in fact her story was very tragic._  
+__posthumous__ _adj_ __1__ Born after the death of the father. __2__ Published after the death of the author. __3__ Following or occurring after death.  
 __postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupee.  
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
@@ -11861,7 +11865,7 @@ __razor sharp__
 __razor strop__  
 __razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
 __razz__ _v_ :two: (razzing) To deride, heckle, or tease. _Razzed the teammate who missed the shot._ _Jim loved razzing people._  
-__razzle-dazzle__ _n_ _informal_ :two::hammer:  
+__razzle-dazzle__ _n_ _informal_ :three::hammer:  
 __razzmatazz__ _n_  
 __re__ _prep_ :two: In reference to; in the case of; concerning. _Call Zoe re her thoughts on the managers’ meeting._  
 __reach for the sky__  
@@ -13030,9 +13034,9 @@ __shimmy__ _v_ :three::hammer: (shimmying)
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
+__shine (one) on__ _idiom_  
 __shine (someone) on__ _Don’t shine me on._  
 __shine a light__  
-__shine (one) on__ _idiom_  
 __shine someone__ _idiom_  
 __shiner bucket__  
 __shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling match._  
@@ -14851,6 +14855,7 @@ __the devil is in the detail(s)__ _idiom_ Plans, actions, or situations that see
 __the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
 __the going thing__ _idiom_ The latest and most popular trend, fad, or fashion.  
+__the granddaddy of them all__ _idiom_ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
 __the half of it__ _idiom_ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ _idiom_ A wedding, or marriage in general.  
 __the haves and the have nots__  
@@ -15545,7 +15550,7 @@ __uncongenial__
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
-__uncouth__ _adj_ :three::hammer:  
+__uncouth__ _adj_ :four: Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._  
 __uncrating__  
 __unction__ _n_  
 __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
@@ -15903,8 +15908,9 @@ __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
+__victual__ _n_ :mega: Food fit for human consumption.  
 __victualling__  
-__victuals__ _n_ :three::hammer::mega:  
+__victuals__ _n pl_ :five::mega: Food supplies; provisions.  
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
 __vig__ _n_ :three::hammer:  
