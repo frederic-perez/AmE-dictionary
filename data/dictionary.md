@@ -9887,6 +9887,7 @@ __not have a hope in hell (of doing something)__ _idiom_ To not have any chance 
 __not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __not know (someone) from a bar of soap__ _idiom_ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
+__not the full shilling__ _idiom_ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad) song)._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ :dart: _I wish her nothing but the best._  
@@ -12948,8 +12949,8 @@ __shaggy__
 __shah__ _n_  
 __shake a leg__ _idiom_  
 __shake hands__ _v_ :astonished: Take someone’s hands and shake them as a gesture of greeting or congratulation.  
-__shake__ _We use the scientific method to give each product a fair shake._  
-__shale-oil__ _Shale-oil production._  
+__shake__ _n_ _We use the scientific method to give each product a fair shake._  
+__shale oil__ _n_ _Shale oil production._  
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
@@ -12973,10 +12974,9 @@ __shape up__ _v_
 __shapely__ _adj_ (esp of a woman’s body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __shaping the bullet__  
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that’s rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
-__shark tank__ _Our culture is not a “Shark tank.”_  
 __sharkskin__ _n_  
 __sharp elbows__  
-__sharps collector__ :camera:  
+__sharps collector__ _n_ :camera:  
 __sharpshooter__ _n_ :two::hammer:  
 __shat__ _v_ _In its fright the baby lion shat upon the gold and silk carpet._  
 __shaved ice__  
@@ -12989,13 +12989,13 @@ __sheathed__ _v_ :six::hammer: _Poster of Sharon Stone, sheathed in white._
 __shebang__ _n_ :two::hammer: _The whole shebang._  
 __shed (some) light on (something)__ _idiom_  
 __shed__ _v_ :five: __1__ Cast off hair, skin, horn, or feathers. _A reptile sheds its skin._ _Wing de-icing systems are designed to shed the moisture._ __2__ Get rid of. _He shed his image as a pushy boss._ _The rookie has shed his walking boot and says he’ll be fine._ __3__ Park (a vehicle) in a depot.  
-__shedder__ _A tree shedder._  
+__shedder__ _n_ _A tree shedder._  
 __shedding__ _v_  
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheer fabric__ _n_ :two::hammer:  
-__sheer yoga pants__ :camera:  
+__sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.  
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
@@ -13009,7 +13009,7 @@ __shell out__ _v_ :three::hammer:
 __shell road__  
 __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
 __shell-shocked__ _adj_ :two::hammer:  
-__shellfish__ _Shellfish stewed, jerked._  
+__shellfish__ _n_ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling<sup>1</sup>__ _n_ :es: bombardeo  
 __shelling<sup>2</sup>__ _v_  
@@ -13025,17 +13025,16 @@ __shift swap__ _n_ _It can be difficult to know how to approach asking for a shi
 __shift__  
 __shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
+__shill__ _n_ (shills) _Government shills._  
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
-__shilling__ _I’m not quite the shilling._  
-__shills__ _Government shills._  
 __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
 __shimmy__ _v_ :three::hammer: (shimmying)  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
 __shine (one) on__ _idiom_  
-__shine (someone) on__ _Don’t shine me on._  
+__shine (someone) on__ _idiom_ _Don’t shine me on._  
 __shine a light__  
 __shine someone__ _idiom_  
 __shiner bucket__  
