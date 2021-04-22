@@ -34,6 +34,18 @@ __receive (one’s) just deserts__ _idiom_ To receive that which one deserves, e
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
 __escalation__ _n_  
+__mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
+__joyride__ _n_  
+__diphthong__ _n_  
+__syllable__ _n_  
+__like attracts like__ _idiom_ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
+__doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
+__moxie__ _n_ _slang_ _US and Canadian_ Courage, nerve, or vigour.  
+__sepulcher__ _n_  
+__timeserver__ _n_ One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist.  
+__kismet__ _n_ Fate; fortune.  
+__delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
+__quarry__ _n_ _Syn_ prey  
 __tag along__ _idiom_ :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._  
 __hot flashes__ _n_  
 __PMS__ _abbr_ Premenstrual syndrome.  
