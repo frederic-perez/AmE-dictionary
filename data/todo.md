@@ -70,6 +70,18 @@ __personify__ _v_
 __pestiferous__ _adj_  
 __pin (something) down__ _idiom_ _Pinned it down to two locations._  
 __plate-glass__ _n_  
+__but then again__ _adv_ Alternative form of _then again_.  
+__leeway__ _n_  
+__lucky day__ _n_ A day when something good happens to someone. _This is your lucky day—there’s one ticket left._  
+__cancel out__ _idiom_  
+__drug user__ _n_  
+__jab__ _v_  
+__holler__ _v_ __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
+__A/C__ _abbr_  
+__do (one) wrong__ _idiom_ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
+__back off__ _phr v_  
+__get out of town__ _idiom_  
+__smoke__ _idiom_ __6__ _v_ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._  
 __pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
 __predicament__ _n_  
 __preeminent__ _adj_  
