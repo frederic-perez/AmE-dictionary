@@ -664,6 +664,7 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
+__artichoke__ _n_  
 __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
@@ -5595,6 +5596,7 @@ __for a bit__
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for all seasons__ _idiom_ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for better or worse__  
+__for crying out loud__ _idiom_  
 __for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
 __for good__ _idiom_ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
@@ -6156,7 +6158,8 @@ __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“priva
 __glitz__ _n_ :two::hammer:  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
-__gloat__ _v_ :six::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
+__gloat<sup>1</sup>__ _v_ :seven::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
+__gloat<sup>2</sup>__ _n_  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
@@ -8859,6 +8862,7 @@ __lowlights__
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
+__lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion. _  
 __lucifer match__  
 __lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
@@ -9393,6 +9397,7 @@ __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surround
 __mob__ _n_  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
+__mockingbird__ _n_ :es: sinsonte  
 __mocktail__ _n_ :astonished: A cocktail containing no alcohol.  
 __moderate__ _v_  
 __modicum__ _n_ :eight: If you want to describe a small amount of something, try modicum. If you have a modicum of interest in something, you are a little bit interested. Modicum comes from the Latin modicus, for moderate, and modus, for measure. We often use it to mean “any at all,” as if “If you had a modicum of sense (i.e. any sense at all), you’d be able to see that the pencil you’ve spent the last five minutes looking for is tucked behind your ear.” _A modicum of timidity._  
@@ -9618,6 +9623,7 @@ __my hands are tied__ _idiom_ You are not free to behave in the way that you wou
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _Myeloid leukemia._  
+__myocarditis__ _n_  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
@@ -9704,6 +9710,7 @@ __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial s
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
 __necessary__ :mega:  
+__necessitate__ _v_  
 __necktie__ _n_  
 __necromancer__  
 __necromancy__  
@@ -9740,6 +9747,7 @@ __nest egg__ _n_ :three::hammer:
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
 __nestlings__ _n_  
 __nether__ _adj_ :two::hammer:  
+__netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
@@ -9782,10 +9790,11 @@ __night sweats__ _n_ (nocturnal hyperhidrosis)
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman’s nightgown.  
-__nightingale__ _n_ :two: [Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
+__nightingale__ _n_ :three: [Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
 __nightmarish__ _adj_ :three::hammer:  
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
 __nightstand__ _n_  
+__nighttime__ _n_ :pencil2:  
 __nigiri__ _n_  
 __nihilist__ _n_ :two::hammer:  
 __nihilistic__  
@@ -10623,6 +10632,7 @@ __pedestrian__ _n_ :four::hammer: (pedestrians)
 __pedestrianized__ _v_  
 __pedi__  
 __pediculous__ _adj_ Infested with lice.  
+__pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
 __peep__ _n_ :two::hammer:  
@@ -13584,6 +13594,7 @@ __snippet__ _n_ A small piece of anything (especially a piece that has been snip
 __snit__ _n_ _informal_ A state of agitation or irritation. _President Trump responded with a typical Twitter-snit._  
 __snitch__  
 __snivel__ _v_  
+__snob__ _n_  
 __snollygoster__ _n_ :two: _slang US_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
 __snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
@@ -16461,6 +16472,8 @@ __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or b
 __wood pellets__  
 __wood rasp__ _n_  
 __woodland__ _n_  
+__woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
+__woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
 __woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  

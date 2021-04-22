@@ -38,21 +38,6 @@ __tag along__ _idiom_ :dart: To accompany or closely follow someone or a group, 
 __hot flashes__ _n_  
 __PMS__ _abbr_ Premenstrual syndrome.  
 __worried sick__ _idiom_ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
-__pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
-__gloat<sup>1</sup>__ _v_  
-__gloat<sup>2</sup>__ _n_  
-__for crying out loud__ _idiom_  
-__snob__ _n_  
-__artichoke__ _n_  
-__mockingbird__ _n_ :es: sinsonte  
-__myocarditis__ _n_  
-__necessitate__ _v_  
-__netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
-__nightingale__ _n_ :es: ruiseñor  
-__nighttime__ _n_ :pencil2:  
-__lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion. _  
-__woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
-__woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
 __a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a shame__ _idiom_ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’ work out between you two—that’s a real shame._  
