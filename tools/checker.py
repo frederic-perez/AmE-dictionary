@@ -152,7 +152,6 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
 
 VALID_PARTS_OF_SPEECH = [ \
     '', \
-    '_?_', \
     '_abbr_', \
     '_adj_', \
     '_adj, adv_', \

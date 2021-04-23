@@ -159,7 +159,7 @@ __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger
 __according to plan__ _idiom_ :two: In the way something is supposed to be; as expected. _If everything goes according to plan._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
-__account__ _n_ (testimony?) :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
+__account__ _n_ :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
@@ -252,7 +252,7 @@ __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured so
 __advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
-__advert__ _n_ :two::hammer: (adverts) (advertisement?)  
+__advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
 __advice__ _This is my unsolicited advice._  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
@@ -495,7 +495,7 @@ __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.
 __angle iron__  
 __angle__ _v_  
 __angler fish__ _n_ :camera:  
-__angler__ _n_ :five::hammer: (anglers) _Fisher?_  
+__angler__ _n_ :five::hammer: (anglers)  
 __angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :two::hammer:  
@@ -1310,7 +1310,7 @@ __bevel<sup>2</sup>__ _v_ :two::hammer:
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewilder__  
-__bewitch__ _v_ :es: maravillar?  
+__bewitch__ _v_  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
@@ -1326,7 +1326,7 @@ __bier__ _n_ :pencil2:
 __big boned__ _idiom_ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big brother__  
-__Big C__ Cancer?  
+__Big C__ _n_ _slang_ The disease cancer. Used with _the_.
 __big cat__ :es: felino  
 __big cheese__ An influential person.  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
@@ -1537,7 +1537,7 @@ __BM__ Bowel movement (take a dump).
 __BMX__ _abbr_ :two::hammer: _BMX bike._  
 __bn__ _abbr_ Billion. _US $30bn._  
 __BO__ _abbr_ :two: Body odor.  
-__board__ _n_ :two::hammer: _(basketball)_ Rebound? _Encouraging Amazon’s board (member) diversity._  
+__board__ _n_ :two::hammer: __9__ _Basketball_ A rebound. _Encouraging Amazon’s board (member) diversity._  
 __boarding kennels__ _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
@@ -1646,7 +1646,7 @@ __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Co
 __boorishness__ _n_ :two::hammer:  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
-__boot<sup>1</sup>__ _n_ :two: :hammer: (car’s trunk?) _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
+__boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :three::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _The bootleg Lennon._  
 __bootlegger__  
@@ -6329,14 +6329,13 @@ __gospel__ _n_ :es: evangelio
 __gossipy__ _adj_  
 __gotcha__  
 __gouge__ _v_ :seven::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._  
-__gougers__ _?_ _Transparency helps patients and exposes gougers._  
+__gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
 __gout__  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
-__gracial pace__ _?_ _At a glacial pace._  
 __gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
 __graciousness__  
 __grade__ _v_  
@@ -6351,7 +6350,7 @@ __grand jury__
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ _idiom_ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
 __grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
-__grand-auto__ _?_ _He created a one-man grand-auto crime wave across southwestern Louisiana._  
+__grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -6359,20 +6358,20 @@ __granola__ _n_
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
 __granted<sup>2</sup>__ _adv_ Admittedly.  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
-__graphic sexuality__ _?_ (for movie ratings)  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
 __grappling__ _v_ _Students grappling with the same problem._  
 __grapplings__ _n_  
 __grasp at straws__ _idiom_ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ _idiom_ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
-__grass-routs__ _?_ _Grass-routs campaign._  
-__grassroots__ _n_ :two::hammer: _A grassroots effort._  
+__grass-roots<sup>1</sup>__ _n_  
+__grass-roots<sup>2</sup>__ _adj_ _Grass-roots campaign._  
+__grassroots__ _pl n_ :two::hammer: _A grassroots effort._  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
-__gratin__ _?_ _Sweet potato gratin._  
+__gratin__ _n_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __graupel__ _n_ Precipitation consisting of snow pellets.  
@@ -6976,12 +6975,12 @@ __hell yes__ Affirmative, positive, only in a more certain and stressing manner.
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
-__helluva__ _?_ _A helluva year._  
+__helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
 __help (oneself) (to something)__ _idiom_ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
 __help out__  
 __helpdesk__ _n_ Alternative spelling of help desk.  
-__helpings__ _?_ _Second helpings._  
+__helping__ _n_ (helpings) _Second helpings._  
 __helpless__  
 __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
 __hem and haw__ _idiom_ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
@@ -16534,7 +16533,6 @@ __wrap<sup>2</sup>__ _n_ :mute:[~~w~~rap]
 __wraparound season__  
 __wrath__ _n_ :mute:[~~w~~rath]  
 __wreak havoc__ _idiom_ :three: (wreaked havoc) To cause a lot of problems.  
-__wreath-lying__ _?_ :pencil2:  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
 __wreathe__ _v_ To encircle or adorn, as with a wreath; to envelop: _Her head was wreathed in spring flowers._  
@@ -16588,7 +16586,6 @@ __xenophile__ _n_ A person attracted to that which is foreign, especially to for
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
-__ya’__ _?_ _Ya’ think?_  
 __yadda yadda yadda__ _idiom_ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yahoo<sup>2</sup>__ _interj_ Expressing excitement, delight, or triumph.  
@@ -16644,7 +16641,7 @@ __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does n
 __yolk__ _n_ :mute:[yo~~l~~k]  
 __YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
 __yonder__  
-__yore__ _?_ _Days of yore._  
+__yore__ _n_ Time long pass. _Days of yore._  
 __you are what you eat__ _idiom_ To be healthy, you need to eat good food.  
 __you can say that again__ _idiom_ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
 __you name it__ _idiom_ :dart::five: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
@@ -16652,7 +16649,7 @@ __you scratch my back, I’ll scratch yours__ _idiom_ If you help me, I will hel
 __you’re a lifesaver__ _idiom_ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
 __you’ve got a point there__ _idiom_ Your point of view or opinion makes sense. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you’ve got a point there.”_  
 __your eyes are bigger than your stomach__ _idiom_ You want more food than you can eat.  
-__your face sounds familiar__ _?_ :es: _tu cara me suena_  
+__your face sounds familiar__ _n_ Philippines TV show. :es: _tu cara me suena_  
 __your mileage may vary__  
 __yowl__ _n_ :two::hammer: _His yowl of pain_  
 __yowled__ _v_  
@@ -16694,7 +16691,7 @@ __zip__ _v_ __9__ (Computer Science) Computing to compress (a file) in order to 
 __zip-line<sup>2</sup>__ _v_ :two::hammer: (zip-lining)  
 __zip<sup>1</sup>__ _n_ :three: __1__ _informal_ Energy or liveness. _Manning threw a couple of darts to Hakeem that had plenty of zip._ __2__ A light sharp hissing sound. __3__ Nothing, zero. _Bouncing back from that 13-zip deficit._  
 __zip<sup>2</sup>__ _v informal_ :two: To move with speed and vigour. _The ISS zips around Earth once every 90 minutes._  
-__zippy__ _?_ _A zippy hit parade._  
+__zippy__ _adj_ Full of energy; lively. _A zippy hit parade._  
 __zit__ _n informal_ A spot on the skin.  
 __zone out__ _phr v_ :three: To lose concentration or become inattentive. To fall asleep.  
 __zonk out__ _v_  
