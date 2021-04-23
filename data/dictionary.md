@@ -202,7 +202,7 @@ __activate__ _v_ _Gonzalez was activated from the disabled list._
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :four: :reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :four::reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
@@ -8519,7 +8519,7 @@ __leek__ _n_
 __leeks__ _n_  
 __leer up__  
 __leer__ _v_  
-__leer<sup>1</sup>__ _v_ (leering) :four: :pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
+__leer<sup>1</sup>__ _v_ (leering) :four::pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
 __leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
@@ -13295,14 +13295,13 @@ __sitting<sup>1</sup>__ _n_ :two: __1__ The act or position of one that sits. __
 __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sitting U.S. president._ _Sitting members of parliment._  
 __situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
-__sivvied__ _v_ (?)  
 __six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a “sizzle reel.”_  
 __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling singer._ __2__ Hot enough to make a hissing sound. __3__ Brought to the table in the metal dish it has been cooked in, making such a sound.  
 __skag__  
-__skank__ _v_ (?)  
+__skank__ _v_  
 __skate__ _v_ :three::hammer: _He don’t let nobody skate unless it’s for money._  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
@@ -13763,7 +13762,7 @@ __Spanish moss__ _n_ :two::hammer:
 __Spanx__  
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
-__spare room__ _n_ (spare-room) Guest room, guestroom (). :es: habitación de invitados, cuarto de invitados  
+__spare room__ _n_ (spare-room) Guest room, guestroom. :es: habitación de invitados, cuarto de invitados  
 __spark plug__ _n_ :dart::three: (spark plugs) :es: bujía  
 __sparklers__ _n_  
 __sparred__ _v_  
@@ -14022,7 +14021,7 @@ __stand tall__ _idiom_ :five: To prove or display one’s pride, confidence, or 
 __stand to reason__ _idiom_ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ _idiom_ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __standard of care__ _n_  
-__standard__ _n_ :camera: :es: estandarte (?)  
+__standard__ _n_ :camera: :es: estandarte  
 __standardize__ _v_  
 __standby<sup>1</sup>__ _n_ _The old standby._  
 __standby<sup>2</sup>__ _adj_  
@@ -14695,7 +14694,7 @@ __tap dancing__ _idiom_
 __tap into__ _idiom_ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._  
 __tap__ _v_ :nine: (tapped) __1__ To strike gently with a light blow or blows: _I tapped you on the shoulder to get your attention._ _Then he raised his cup and tapped Cato’s._ __2__ To give a light rap with: _tap a pencil._ __3__ To produce with a succession of light blows: _tap out a rhythm._ __4__ To select, as for membership in an organization; designate. __5__ _informal_ To ask (a person) for money. _Entrepreneurs tap neighbors for funding._  
 __taper off__ _v_ :two::hammer: (tapering off) _The celebration began to taper off._  
-__taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: cirio (?)  
+__taper<sup>1</sup>__ _n_ :four: (tapers) __1__ A convex shape that narrows toward a point. __2__ The property possessed by a shape that narrows toward a point (as a wedge or cone). __3__ _She said the blessing over the tapers._ :es: vela  
 __taper<sup>2</sup>__ _v_ :nine::m: (tapered, tapering) To taper is to gradually grow smaller or more narrow or less intense. Taper is often used with the word “off.” _Part of the power of the Vietnam Memorial is in how the two walls appear to “taper off” into infinity._  
 __tapioca__ _n_ :mega:  
 __tapped out__ _idiom_ Completely exhausted or depleted (of some resource). _A: “Do you want to place another bet?” B: “Nah, I’m tapped out.” Do we have any more ink cartridges? This one’s tapped out._  
@@ -14778,7 +14777,7 @@ __telegenic__
 __telekinesis__ _n_ :mega:  
 __televangelist__ _n_  
 __televised__  
-__tell me about it__ _idiom_ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ya te digo (?)  
+__tell me about it__ _idiom_ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
 __telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
@@ -15121,7 +15120,7 @@ __to hell and back__ _idiom_ :three: Through a difficult, trying, or perilous si
 __to hell__  
 __to let (one’s) guard down__ _idiom_ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to see red__ _idiom_ Very angry.  
-__to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto (?)  
+__to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto  
 __to that effect__  
 __to that end__ _idiom_ :four::hammer: (to that end,)  
 __to this day__ _idiom_ :four::hammer: _I don’t know if they still do it to this day._  
@@ -15743,7 +15742,7 @@ __upping__ _v_ :two::hammer:
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
 __uproot__ _v_ :two::hammer: (uprooted) _Uprooted workers._  
-__upsale__ _n_ (?)  
+__upsale__ _n_ An act of upselling.  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
 __upscale<sup>3</sup>__ _n_  
@@ -15971,7 +15970,7 @@ __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with i
 __vodka__ _n_ :mega:  
 __voguish__  
 __voice over__ _n_ (voice-over)  
-__voicemail call__ _n_ (?)  
+__voicemail__ _n_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
 __volatile__ _adj_  
 __volcano__  
