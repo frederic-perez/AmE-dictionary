@@ -2020,6 +2020,7 @@ __bustle<sup>2</sup>__ _n_ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily 
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
+__but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
 __butt crust__  
 __butt out__ _v_ :two::hammer:  
@@ -9858,6 +9859,7 @@ __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concer
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :four::hammer:  
+__nonlinear__ _adj_  
 __nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
 __nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
@@ -9915,6 +9917,7 @@ __nowcast__
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
+__nth__ _adj_  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
 __nub__ _n_ :two::hammer: _A punched nub._  
@@ -10011,7 +10014,7 @@ __of__ _The gas smells of roggen eggs._
 __off duty__  
 __off kilter__  
 __off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
-__off-color__ _adj_ An off-color joke or remark is rude or offensive.  
+__off-color__ _adj_ :two: An off-color joke or remark is rude or offensive.  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-kilter__ _idiom_ :three::hammer:  
@@ -10147,7 +10150,7 @@ __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :six::hammer: _Early onset dementia._  
+__onset__ _n_ :seven::hammer: _Early onset dementia._  
 __onslaught__ _n_ :two::hammer:  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __oodles__ _idiom_ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
@@ -10260,7 +10263,7 @@ __outfly__ _v_ :two: To fly better or faster than someone or something.
 __outfoxed__  
 __outgain__ _v_ _The Bulldogs outgained the Tide 254-180 before halftime._  
 __outgoing__  
-__outgrow__ _v_ To grow bigger than or too big for something.  
+__outgrow__ _v_ :two: To grow bigger than or too big for something.  
 __outgrowth__  
 __outgunned__ _v_ :two::hammer:  
 __outhouse__  
@@ -10628,7 +10631,7 @@ __pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_  
 __peddle__ _v_ :four: (peddling) __2__ _Informal_ To seek to disseminate; give out: _peddling lies._  
-__pedestrian__ _n_ :four::hammer: (pedestrians)  
+__pedestrian__ _n_ :five::hammer: (pedestrians)  
 __pedestrianized__ _v_  
 __pedi__  
 __pediculous__ _adj_ Infested with lice.  
@@ -10738,6 +10741,7 @@ __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to ci
 __perseverate__ _v_  
 __persnickety__ _adj_ :dart:  
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
+__personify__ _v_  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
 __pert__ _adj_ :two::hammer:  
@@ -10751,6 +10755,7 @@ __pervasive__ _adj_ :three::hammer:
 __pesky__  
 __pessary__ _n_  
 __pester__ _v_ :two::hammer: (pestered)  
+__pestiferous__ _adj_  
 __pestilence__ _n_  
 __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
@@ -10869,6 +10874,7 @@ __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.
 __pilot light__ _n_ :astonished:  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
 __pimple__ _n_ :two::hammer: _Pop the pimples._  
+__pin (something) down__ _idiom_ _Pinned it down to two locations._  
 __pin-curled__  
 __pin-drop silence__  
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
@@ -10982,6 +10988,7 @@ __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plaster
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
 __plate__ _Baseball_  
+__plate-glass__ _n_  
 __plateau<sup>1</sup>__ _n_  
 __plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
 __plating__ _It’s your armor plating._  
@@ -14878,6 +14885,7 @@ __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become
 __the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last of the lot__ _idiom_ The last or final person(s) or thing(s) in a given group or list.  
 __the last thing (one) wants__ _idiom_ Something which one absolutely does not want or has no use for.  
+__the lion’s den__ _idiom_ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ _idiom_ :two: Major share of something.  
 __the name of the game__  
 __the order of the day__  
