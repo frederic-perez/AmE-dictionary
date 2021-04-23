@@ -12882,14 +12882,14 @@ __seminal__ _adj_ _That was a seminal game._
 __seminoles__  
 __Semper fi__ _interj_ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
-__Sen.__ (pl. Sens.) _Sen.Bernie Sanders._  
+__Sen.__ _abbr_ (pl. Sens.) _Sen. Bernie Sanders._  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
-__sensitive__ _Sensitive questions._  
+__sensitive__ _adj_ _Sensitive questions._  
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_  
 __sentience__  
@@ -12899,16 +12899,16 @@ __sentry__ _n_ (sentries)
 __seppuku__ _n_  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sequestered__ _v_  
-__sequestration__ _Sequestration of the jury._  
+__sequestration__ _n_ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
 __seracs__ _n_  
-__sere__ _The sere terrain._  
+__sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
 __Serenity Prayer__  
 __serfdom__ _n_  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
-__serious condition__ _Critical to serious condition, fair condition._  
+__serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
@@ -12927,29 +12927,29 @@ __set out__ _phr v_ :two::dart: To put something where it can be seen or used.
 __set piece__ _n_ :four::hammer: (setpiece, set-piece) _Grappling at set-pieces was an offense they aimed to stamp out._ _The goal was scored on a set piece._  
 __set someone apart__  
 __set the pace__  
-__set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
+__set the stage for something__ _idiom_ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__ _idiom_  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
 __setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
-__setting > picturesque setting__ :es: entorno picturesco  
+__setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
-__seventh heaven__ :astonished:  
+__seventh heaven__ _idiom_ :astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
 __sewer gas__  
 __sewer grate__ _n_ :two::hammer:  
-__sewer__ _A sewer pipe._  
+__sewer__ _n_ _A sewer pipe._  
 __sh__ _interj_ (sh, shhh) Used to urge silence.  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
 __shackle__ _n_  
 __shackles__ _n_ :three::hammer: _A bed with built-in shackles._  
-__shades__ :es: gafas?  
+__shades__ _pl n_ __2__ (Clothing & Fashion) A slang word for sunglasses. :es: gafas de sol  
 __shadow__ _v_  
 __shady__  
 __shaft__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
