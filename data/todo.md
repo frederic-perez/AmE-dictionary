@@ -2,19 +2,6 @@ __hit a brick wall__ _idiom_ :dart: To come up against an immovable or insurmoun
 __scurry__ _v_ To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __sea change__ _n_ :astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __justice is served/done__ _idiom_ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
-__bogart__ _v_ :astonished: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
-__breach of etiquette__ _idiom_ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
-__seclude__ _v_ Keep away from others. _Syn_ sequester, withdraw _During my moody teenage years, I would often seclude myself in my room to brood._  
-__savvy<sup>1</sup>__ _v_ Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe (do you know?), from Latin sapere (to be wise). To understand or know.  
-__savvy<sup>2</sup>__ _n_ Know-how, practical knowledge, or shrewdness.  
-__savvy<sup>3</sup>__ _adj_ Shrewd or knowledgeable, especially in practical matters.  
-__impresario__ _n_ :pencil2:  
-__fey__ _adj_  
-__specialty__ _n_ _Specialty doctor._  
-__suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
-__queue__ _v_  
-__shield__ _v_  
-__entrench__ _v_  
 __teammate__ _n_ :pencil2:  
 __outperform__ _v_  
 __stressor__ _n_ A stimulus that causes stress.  

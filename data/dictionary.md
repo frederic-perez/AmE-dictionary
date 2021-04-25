@@ -1561,7 +1561,7 @@ __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
-__bogart__ _v_  
+__bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
 __bogeyman__ _n_ Variant of boogeyman.  
 __bogged down__ _phr v_  
 __boggles__ _v_  
@@ -1738,6 +1738,7 @@ __brazenly__ _adv_ :two::hammer:
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
+__breach of etiquette__ _idiom_ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
 __breach<sup>1</sup>__ _n_  
 __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
@@ -4788,7 +4789,7 @@ __entrance<sup>2</sup>__ _v_
 __entrant__ _n_ :two::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
 __entreat__ _v_ _Syn_ beg, plead  
 __entrée__  
-__entrench__ _v_ :nine: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
+__entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entryway__ _An entryway aquarium._  
@@ -5239,7 +5240,7 @@ __feud<sup>2</sup>__ _v_
 __feuded__  
 __feverish__  
 __few and far between__  
-__fey__ _adj_  
+__fey__ _adj_ :two::hammer:  
 __fez__ _n_  
 __fiancé__ A man who is engaged to be married.  
 __fiancée__ A woman who is engaged to be married.  
@@ -7541,6 +7542,7 @@ __impound<sup>2</sup>__ _v_ :three::hammer: (impounded) _The Ponticac was impoun
 __impoverished__ _v_  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
+__impresario__ _n_ :pencil2:  
 __impression__ _n_ :two::hammer:  
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
@@ -11682,6 +11684,7 @@ __querulous__ _adj_ :three::hammer:
 __query__ :mega:  
 __questioner__ _n_  
 __questionnaire__ _n_  
+__queue__ _v_  
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
 __quick__ _His nails bitten to the quick._  
@@ -12625,9 +12628,9 @@ __save your breath__ _idiom_ Stop useless talk.
 __saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __savior__  
 __savor__ _v_ (savoring) _I was savoring the moment._  
-__savvy<sup>1</sup>__ _adj_  
-__savvy<sup>2</sup>__ _n_  
-__savvy<sup>3</sup>__ _v_ :two: To understand; comprehend. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
+__savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe (do you know?), from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
+__savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
+__savvy<sup>3</sup>__ _adj_ :two: Shrewd or knowledgeable, especially in practical matters.  
 __saw__ _n_ A maxim or proverb.  
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  
@@ -12814,11 +12817,12 @@ __season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazona
 __seawall__  
 __seaweed__ _n_ :two::hammer: :es: alga  
 __secateurs__ _n_  
+__seclude__ _v_ Keep away from others. _Syn_ sequester, withdraw _During my moody teenage years, I would often seclude myself in my room to brood._  
 __second best__  
 __second nature__  
+__second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
-__second string__ _n_  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
@@ -13032,6 +13036,7 @@ __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)
 __shepherdless__ _n_  
 __sherbet punch__  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
+__shield__ _v_  
 __shiet__  
 __shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
 __shift__  
@@ -13778,7 +13783,7 @@ __speargun__
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
-__specialty__ _n_  
+__specialty__ _n_ :two::hammer: _Specialty doctor._  
 __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
@@ -14446,6 +14451,7 @@ __supplier__ _n_
 __supply and demand__  
 __suppository__ _n_ :two::hammer:  
 __suppurate__ _v_ :two: To form or discharge pus.  
+__suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
 __supremacist__ _n_ _A white supremacist._  
 __supreme<sup>1</sup>__ _adj_ :two::hammer: _The great ones possess supreme confidence._  
 __supreme<sup>2</sup>__ _n_  
