@@ -80,7 +80,7 @@ __a stab at (someone or something)__ _idiom_
 __a whole lot__ _idiom_ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ _idiom_ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __A-list__  
-__A/C__ _abbr_ __1.__ Account. __2__ Account current. __3__ Air conditioning.  
+__A/C__ _abbr_ :two: __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __A4__ :astonished: _A4 stainless steel._  
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
@@ -877,7 +877,7 @@ __back country__ _n_
 __back down__ _v_  
 __back end__ _Dante Exi, started two games at the back end of the trip._  
 __back in the day__ _idiom_ At a time in the past that is remembered with fondness or nostalgia.  
-__back off__ _phr v_ :four: To retreat or draw away.  
+__back off__ _phr v_ :five: To retreat or draw away.  
 __back on (one’s) feet__ _idiom_ __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back out__ _v_ :three::hammer:  
 __back to the salt mines__ _idiom_ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
@@ -1326,7 +1326,7 @@ __bier__ _n_ :pencil2:
 __big boned__ _idiom_ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ _idiom_ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big brother__  
-__Big C__ _n_ _slang_ The disease cancer. Used with _the_.
+__Big C__ _n_ _slang_ The disease cancer. Used with _the_.  
 __big cat__ :es: felino  
 __big cheese__ An influential person.  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
@@ -2190,6 +2190,7 @@ __canapé__ _n_
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary in a coal mine__ _idiom_ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
+__cancel out__ _idiom_  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candle in the wind__ _idiom_ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __candor__ _n_  
@@ -4144,6 +4145,7 @@ __divvy up__ _v_
 __divvy__ _v_ :two::hammer:  
 __dizzy__ _adj_ :two::hammer:  
 __DMV__ _abbr_ :two: Department of Motor Vehicles.  
+__do (one) wrong__ _idiom_ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ _idiom_ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do it by the numbers__  
 __do math__  
@@ -4412,12 +4414,12 @@ __drove__ _They buy tickets in droves._
 __drover__ _n_ :two::hammer:  
 __drown__ _v_ (drowns)  
 __drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
-__drub__ _v_  
+__drub__ _v_ :two::hammer:  
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
 __drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
-__drug user__ _n_ A person who takes drugs. _Syn_ substance abuser, user  
+__drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
 __drum out__ _The were drummed out of the club._  
@@ -6042,7 +6044,7 @@ __get on your nerves__ _idiom_ To annoy someone a lot.
 __get one’s act together__ _idiom_ :two: (get one’s shit together, get it all together) Start to behave more appropriately or effectively; get organized. For example, _Once Joe gets his act together he’ll get a raise_, or _You’d better get it all together before the boss comes back._ The variant using _shit_ is considered vulgar. Galvanize oneself into organizing one’s affairs effectively.  
 __get out of Dodge__ _idiom_ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of here__  
-__get out of town__ _idiom_  
+__get out of town__ _idiom_ :two::hammer:  
 __Get outta here!__ _idiom_  
 __get over someone’s head__ _They’re getting over their heads._  
 __get over__  
@@ -6349,8 +6351,8 @@ __gramps__
 __grand jury__  
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ _idiom_ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
-__grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
+__grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -7179,7 +7181,7 @@ __holdup__ _v_
 __hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
 __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
-__holler__ _v_ :two::hammer:  
+__holler__ _v_ :three: __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?!_  
@@ -7908,7 +7910,7 @@ __Ivy League__ _n_ :two::hammer: _Ivy League school._
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
-__jab<sup>2</sup>__ _v_ :eight: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
+__jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
@@ -8522,7 +8524,7 @@ __leer__ _v_
 __leer<sup>1</sup>__ _v_ (leering) :four::pencil2: _v_ Look or gaze in a lascivious or unpleasant way. _Bystanders were leering at the nude painting._ _Syn_ ogle, look lasciviously  
 __leer<sup>2</sup>__ _n_ A facial expression of contempt or scorn; the upper lip curls. _Syn_ sneer  
 __leery__ _adj informal_ :six: Cautious or wary due to realistic suspicions. _A city leery of gang violence._ _Institutions are leery of the paperwork._  
-__leeway__ _n_ :eight: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
+__leeway__ _n_ :nine: Leeway is a term used to describe the amount of freedom available. If you know you have a paper due on Monday, you might ask your teachers if there is any leeway—could you, say, bring it first thing Tuesday morning? A permissible difference; allowing some freedom to move within limits. _Allowing leeway for students who have low scores._  
 __left and right__ _idiom_  
 __lefty buckets__  
 __leg up__ _idiom_ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
@@ -8866,6 +8868,7 @@ __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of th
 __lucifer match__  
 __lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
+__lucky day__ _n_ A day when something good happens to someone. _This is your lucky day—there’s one ticket left._  
 __lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
@@ -13531,7 +13534,7 @@ __smock<sup>1</sup>__ _n_
 __smock<sup>2</sup>__ _v_  
 __smog__ _n_ :three::hammer:  
 __smoke like a chimney__ _idiom_ To smoke cigarettes, cigars, pipes, etc., continuously and in large amounts.  
-__smoke__ _v_ :two: __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
+__smoke__ _v_ :three::astonished: __6__ _idiom_ _slang_ To perform extremely well, especially with a lot of energy or enthusiasm. _The band has been absolutely smoking for the last two hours. People in the club are going crazy for them!_ _They looked a little sluggish in the first half of the game, but the team is positively smoking now._ __13__ (tr) To subject or expose to smoke. _This person smokes me._ __14__ (Cookery) (tr) To cure (meat, fish, cheese, etc) by treating with smoke.  
 __smoking jacket__ _n_  
 __smoking__ _adj_  
 __smolder<sup>1</sup>__ _n_  
