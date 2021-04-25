@@ -1,3 +1,13 @@
+__specialty__ _n_ _Specialty doctor._  
+__suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._  
+__queue__ _v_  
+__shield__ _v_  
+__entrench__ _v_  
+__teammate__ _n_ :pencil2:  
+__outperform__ _v_  
+__stressor__ _n_ A stimulus that causes stress.  
+__head-to-head__ _adj_  
+__pounce on (someone or something)__ _idiom_  
 __funny money__ _n_  
 __shut (one’s) mouth__ _idiom_  
 __purloin__ _v_  
@@ -35,7 +45,7 @@ __dirtbag__ _n_ _slang_ A filthy or disreputable person.
 __shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
 __sure enough__ _idiom_  
 __long story short__ _idiom_  
-__flash__ _idiom__ __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
+__flash__ _idiom_ __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __on the lookout__ _idiom_  
 __in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
