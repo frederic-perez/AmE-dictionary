@@ -12842,10 +12842,10 @@ __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._
 __seedier__  
 __seediness__  
 __seedling__ _n_ :dart: A young plant, especially one that grows from a seed, rather than from a cutting, for example.  
-__seedy__ _A seedy world._  
+__seedy__ _adj_ _A seedy world._  
 __seek out__  
-__seemingly__ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
-__seen (or known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
+__seemingly__ _adv_ _With our twins in seemingly every event, my wife and I find our enjoyment in watching them participate in what they love._  
+__seen (_or_ known) better days__ _idiom_ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seep__ _v_ :nine::m: (seeped, seeping) (of a liquid) Flow or leak slowly through porous material or small holes. _Water began to seep through the soles of his boots._ _Their blood was seeped into the soil of my continent._ _Blood seeped out of their pores._ _Sweat seeped down his back._ _Syn_ oze, trickle, exude, drip  
 __seepage__ _n_ :two::mega::hammer:  
 __seer__ _n_  
@@ -12857,10 +12857,9 @@ __segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated scho
 __segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
 __seizing__ _n_ :three::hammer:  
-__sekuhata__ Sexual harassment.  
 __seldom__ _adv_ :two::hammer: _People seldom think about their values consciously._  
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
-__self-absorbed__ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
+__self-absorbed__ _adj_ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
 __self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
@@ -12879,11 +12878,10 @@ __sell out__ _idiom_ :two::hammer:
 __sell short__  
 __sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
 __sell-offs__  
-__sellout__ (sold out)  
-__sellouts__ _There have been no sellouts._  
+__sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellouts._  
 __sellsworth__ _n_  
-__semester__ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
-__semi-finished__ _Semi-finished lens._  
+__semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
+__semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
 __Semper fi__ _interj_ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
