@@ -25,6 +25,18 @@ __attaboy__ _idiom_
 __all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
 __spree__ _n_  
+__NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth).  
+__artery__ _n_ :mega:  
+__coronary__ _adj_ :mega:  
+__endarterectomy__ _n_ :mega:  
+__frugal__ _adj_  
+__lowlife__ _n_  
+__dirtbag__ _n_ _slang_ A filthy or disreputable person.  
+__shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
+__sure enough__ _idiom_  
+__long story short__ _idiom_  
+__flash__ _idiom__ __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
+__on the lookout__ _idiom_  
 __in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __slim__ _adj_ _The chances are pretty slim._  
