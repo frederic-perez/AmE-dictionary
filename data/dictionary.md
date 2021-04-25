@@ -3883,7 +3883,7 @@ __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, 
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
-__detail__ _n_ :two::mega::hammer: _A member of the team’s security detail._  
+__detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __deter__ _v_  
@@ -8324,7 +8324,6 @@ __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.
 __labor bureaus__  
 __labor under the illusion of/that__ _idiom_ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Labrador__  
-__labrotories__ ?  
 __labrum__  
 __lace up__ _v_ _Adam laced up his Nikes._  
 __lace__ _n_  
@@ -9805,7 +9804,6 @@ __niladic__
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ Superfluity; excess.  
 __nine yards__ (the whole nine yards)  
-__nineloss__ ?  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
@@ -12317,7 +12315,6 @@ __rock-paper-scissors__ _Is this rock-paper-scissors?_
 __rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ :mega:  
-__Rocky Mountain Empire__ ? WY, UT, CO,NM, NE,KS.  
 __rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
 __rodeo__ :mega:  
 __rods__ _A few rods away._  
@@ -12696,13 +12693,13 @@ __school > charter school__
 __school desk__  
 __school of thought__  
 __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
-__schooling__ _I could smell trout schooling up in the bay._  
+__schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __schwa__ _n_  
 __sciatic__  
 __sciatica__  
-__science__ :mute:[s~~c~~ience]  
+__science__ _n_ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
@@ -12714,14 +12711,14 @@ __scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfu
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce__ _v_  
-__scone__ _Like strawberry jam slathered on a scone._  
+__scone__ _n_ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
 __scoot__ _v_ :four: To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
 __score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
-__scores__ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
+__scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn__ _n_ :two::hammer:  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __scoundrel__ _n_ :two::hammer:  
@@ -12734,11 +12731,11 @@ __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
-__scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._  
+__scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
 __scrapper__  
-__scrapping__ _A lifestyle of snorting and scrapping._  
 __scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
-__scratch__ :mute:[scra~~t~~ch]  
+__scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
+__scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
 __scratcher__ _n_ _Lotto scratcher._  
 __scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
@@ -12759,15 +12756,14 @@ __scrimmage<sup>2</sup>__ _v_
 __scrimshaw__ _n_ A carving (or engraving) on whalebone, whale ivory, walrus tusk, etc., usually by American whalers.  
 __scripted__ _adj_ Written in advance.  
 __scrofulous__  
-__scrolled-iron__ _Scrolled-iron bench._  
 __Scrooge__  
 __scrouching__ _v_  
-__scrounge up__ _To scrounge up the funds._  
+__scrounge up__ _idiom_ _To scrounge up the funds._  
 __scrub brush__  
 __scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._ _He scrubbed his hands at the sink._  
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
-__scrum__ _Beltway scrum._  
+__scrum__ _n_  
 __scrummy__ _adj_ :three: Delicious; lovely.  
 __scrumptious__  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
@@ -12803,9 +12799,9 @@ __seabed__
 __seafarer__  
 __seafaring__  
 __seagulls__ _n_ :two::hammer:  
-__seahawk__ ?  
-__SEAL__ _It is something U.S. Navy SEALs do._  
-__seal__ _Lacy gained 27 yards to seal their fourth division win._  
+__seahawk__ _n_  
+__SEAL__ _n_ (Military) A member of the Sea Air and Land Teams, an elite special operations unit of the United States Navy. _It is something U.S. Navy SEALs do._  
+__seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
 __seamed__ _v_ _A seamed old man._  
 __seamless__  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
@@ -12822,18 +12818,17 @@ __second best__
 __second nature__  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
-__second-string__ _Southhampton beat a largely second-string Arsenal team 2-0._  
+__second string__ _n_  
+__second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
 __secret police__ _n_ A police force that operates secretly, esp. to suppress dissent against the government.  
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
 __secular__ _adj_ :two::hammer:  
 __secure__ _v_ _Go online now to secure your seat._  
-__security blanket__ A blanket (or toy) carried by a child to reduce anxiety. Stems from the Peanuts comic where the character Linus always had his blanket with him.  
-__security detail__ _He travels with a security detail._  
-__security__ :mega:  
+__security blanket__ _idiom_ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
+__security__ _n_ :mega:  
 __sedan chair__ _n_  
-__sedate__ (sedate menswear)  
 __sedative__ _n_ _Not the strongest sedative._  
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
