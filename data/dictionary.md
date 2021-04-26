@@ -12587,7 +12587,7 @@ __sandy-haired__
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
 __sanguine__ _adj_ :seven::hammer::astonished:  
 __sanguinolency__ _n_ Addiction to bloodshed.  
-__sanitation__ _Sanitation systems._  
+__sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
 __sanity check__  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
@@ -12596,8 +12596,8 @@ __sapiosexual__ _n_ A relatively new word that refers to a person who is erotica
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a “duckling,” a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sapper__ _n_ :two::hammer:  
 __sapphire lidar__  
-__sapphire__ :mute:[sa~~p~~phire]  
-__sappy__ _Sappy smile._  
+__sapphire__ _n_ :mute:[sa~~p~~phire]  
+__sappy__ _adj_ _Sappy smile._  
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
@@ -12612,7 +12612,7 @@ __SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathe
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
-__Saturday__ :mega: /’sæÔødi, -deI/  
+__Saturday__ _n_ :mega: /’sæÔødi, -deI/  
 __saturnine__ _adj_ :two::hammer:  
 __satyr__  
 __sauce__ _n_  
@@ -12620,7 +12620,7 @@ __saucerful__
 __saucy__  
 __saunter__ _v_ :three: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
-__sautoir__ _Sautoir necklace._  
+__sautoir__ _n_ _Sautoir necklace._  
 __savagery__  
 __save (one’s) face__  
 __save the day__ _idiom_ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
@@ -12664,20 +12664,21 @@ __scapegoated__ _v_
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man’s psyche for years._  
 __scarce__ _adj_ :three::hammer:  
-__scarcely__ :astonished: _The executioner seemed scarcely older than Rob._  
-__scarlet__ _n_ :two: (vs Scarlett) A strong to vivid red or reddish orange.  
-__Scarlett__ (vs scarlet) A female given name transferred from the surname; in general use since 1936.  
+__scarcely__ _adv_ :astonished: _The executioner seemed scarcely older than Rob._  
+__scarlet__ _n_ :two: (vs _Scarlett_) A strong to vivid red or reddish orange.  
+__Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
-__scenario__ :mute:[s~~c~~enario]  
-__scene__ :mute:[s~~c~~ene]  
+__scenario__ _n_ :mute:[s~~c~~enario]  
+__scene__ _n_ :mute:[s~~c~~ene]  
 __scenic__  
-__scent__ :mute:[s~~c~~ent]  
-__scented__  
+__scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
+__scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
+__scented__ _adj_  
 __schadenfreude__ _n_ :two::astonished: Pleasure derived from the misfortunes of others.  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
