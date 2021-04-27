@@ -12504,14 +12504,13 @@ __rut__ _n_ :two::hammer: _Some guy with rut for brains._
 __ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __RV__ _abbr_ :two: Recreational vehicle.  
-__RVR__ _Write me up with an RVR._  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
-__S’mores__ _S’mores season!_  
-__s/s__ Stainless steel. _s/s appliances._  
-__s&h__ _Every penny will be returned to you (except s&h)._  
-__S&L__ _An S&L swinger._  
+__s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers. _S’mores season!_  
+__s/s__ _abbr_ Stainless steel. _s/s appliances._  
+__s&h__ _abbr_ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
+__S&L__ _abbr_ _An S&L swinger._  
 __sabotage__ _n_  
 __sac-a-lait__  
 __saccharin__ _n_ :pencil2:  
@@ -12521,17 +12520,16 @@ __sacristan__
 __sacristy__ _n_  
 __sacrosanct__  
 __sadden__ _v_ :two::pencil2::hammer: (saddened)  
-__saddle__ _A saddle of meat._  
+__saddle__ _n_ _A saddle of meat._  
 __sadism__ _n_  
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
-__safe word__ _Do you have a safe word?_  
 __safeguard__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
-__safeword__ _n_ :two::hammer:  
+__safe word__ _n_ :three: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -12542,7 +12540,7 @@ __saggy__
 __Sagittarius__ _n_ :pencil2:  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
-__sake__ _For comparison’s sake, it hit 90 twice here all of last July._  
+__sake__ _n_ _For comparison’s sake, it hit 90 twice here all of last July._  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
 __salacious__ _adj_ :four::hammer: _Salacious music._  
@@ -12555,8 +12553,7 @@ __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is 
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
-__salt of the Earth__  
-__salt-of-the-earth__ _A quiet, hardworking, salt-of-the-earth little man._  
+__salt of the earth__ _idiom_ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __saltines__ _n_  
 __salty__  
 __salutary__  
@@ -12582,7 +12579,8 @@ __sandlot__ _n_ :two: A vacant lot used by city boys to play games. _Their sandl
 __sandpaper__ _n_  
 __sandpits__ _n_  
 __sandstone__  
-__sandwich__ :mute:[san~~d~~wich]  
+__sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]  
+__sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy-haired__  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
 __sanguine__ _adj_ :seven::hammer::astonished:  
