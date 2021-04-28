@@ -5980,7 +5980,7 @@ __gaze<sup>2</sup>__ _v_
 __gazebo__  
 __gazette__ _n_  
 __GDP__ _abbr_ Gross domestic product.  
-__gear__ _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
+__gear__ _n_ :two::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __gee__ _interj_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
@@ -12335,7 +12335,6 @@ __role model__ _n_ :two::hammer: _The best role models embrace their flaws._
 __roll (someone’s) eyes__  
 __roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll of the dice__ _Third roll of the dice._  
-__roll on__ _He rolled on the guy who’d hired him for the trucking job._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
@@ -12355,7 +12354,7 @@ __rollout__ _n_ :five::hammer: (rollouts) _Vaccine rollout._
 __rollovers__  
 __roly-poly__ _adj_ Short and plump; pudgy. _A roly-poly hustler._  
 __Roman holiday__ _n_ Enjoyment or profit derived from others’ discomfort or suffering, based on the gladiator matches enjoyed by ancient Romans.  
-__romance__ :astonished:  
+__romance__ _n_ :astonished:  
 __romancer__  
 __romanticize__ _v_ :pencil2:  
 __romp__ _v_ :six::hammer:  
@@ -12365,13 +12364,13 @@ __rood__ _n_ :two::hammer:
 __roofless__ _adj_ Physically or spiritually homeless or deprived of security.  
 __roofrack__  
 __rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
-__room gear__ _Dorm room gear._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
 __roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
 __roost<sup>2</sup>__ _v_  
 __rooster__ _n_ :two::hammer:  
 __root beer__  
+__root-and-branch__ _adj_ :astonished: On a large scale or without discrimination; wholesale: _root-and-branch reforms._  
 __rooter__  
 __rootered__ _v_  
 __rooting__ _v_ _She was rooting in the Dumpster._  
@@ -12386,22 +12385,19 @@ __rosin box__
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
-__rot-and-branch__ _Root-and-branch reforms._  
 __Rotarian__ _n_ :two::hammer: (Rotarians)  
-__roti__ _A roti shop._  
+__roti__ _n_ (Cookery) (in India and the Caribbean) A type of unleavened bread. _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
 __rototiling__  
 __Rottweiler__  
 __rotund__ _adj_  
-__rouble__ _A copper rouble coin._  
-__rough > the rough__ _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
+__rough > the rough__ _n_ __2b__ (Sports) The area of a golf hole in which the grass is left unmowed or is cut to a length longer than that of the fairway. _Tiger Woods hit a 3-iron downwind that went 295 yards and into the rough._  
 __rough-cut__ _adj_ Lacking refinement or cultivation or taste.  
 __roughly__ _adv_ :two::hammer:  
 __roughshod__ _adv_ :five::hammer:  
-__rouler__ _Will _NCIS_ rouler into a new city next year?_  
 __round out__ _v_ :two::hammer:  
-__round robin__ _The con game is one round robin._  
+__round robin__ _n_ _The con game is one round robin._  
 __round the bend__ _idiom_ :two: Crazy, insane.  
 __round the clock__ _idiom_ (around the clock) Nonstop. _There are sirens round the clock._  
 __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
@@ -12433,6 +12429,7 @@ __rubble__ _n_ :two::hammer:
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __Rubenesque__ _adj_  
 __rubicund__ _adj_ Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
+__ruble__ _n_ (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
@@ -12524,11 +12521,11 @@ __sadism__ _n_
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
+__safe word__ _n_ :three: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safeguard__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
-__safe word__ _n_ :three: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __saffron__ _n_ :three::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
