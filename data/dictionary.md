@@ -12403,16 +12403,15 @@ __rouler__ _Will _NCIS_ rouler into a new city next year?_
 __round out__ _v_ :two::hammer:  
 __round robin__ _The con game is one round robin._  
 __round the bend__ _idiom_ :two: Crazy, insane.  
-__round the clock__ _There are sirens round the clock._  
+__round the clock__ _idiom_ (around the clock) Nonstop. _There are sirens round the clock._  
 __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
 __round__ _v_  
 __roundabout__ _n_ :two::hammer: (Children’s attraction.)  
-__roundhouse__ _Try to roundhouse kick a bottle cap off a bottle._  
-__roundly__ _I feel free to roundly criticize this source code._  
+__roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
+__roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
-__rousing__ _The magazine was a rousing success._  
-__roustabout__ _The roustabout Bohemian._  
-__roustabouts__ _n_  
+__rousing__ _adj_ _The magazine was a rousing success._  
+__roustabout__ _n_ :two::hammer: (roustabouts) _The roustabout Bohemian._  
 __rousted__ _v_  
 __rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
 __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.  
@@ -12423,7 +12422,7 @@ __rowhouse__ _n_
 __royalties__  
 __RSVP__ _v_ _Guests must RSVP to foo@bar.baz by June 19._  
 __rub elbows__ _v_  
-__rub off on (someone)__ To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._  
+__rub off on (someone)__ _idiom_ To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._  
 __rub something in someone’s face__  
 __rub<sup>1</sup>__ _n_ :three::hammer: _By “evidence” I mean hard facts, as defined by the scientific community, and there’s the rub._  
 __rub<sup>2</sup>__ _v_  
@@ -12465,7 +12464,7 @@ __rumhead__ _n_ An alcoholic.
 __rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
 __rummy__  
 __rumor has it__  
-__rumor mill__ _Fighting the rummor mill._  
+__rumor mill__ _idiom_ The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __rumple__ _v_ _His clothes were rumpled._  
 __run a fever__ _idiom_ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run afoul__  
@@ -12475,9 +12474,9 @@ __run by__ _phr v_
 __run errands__ _idiom_  
 __run for the hills__ _idiom_  
 __run over__ _phr v_  
-__run tests__ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
+__run tests__ _phr_ _A 42-stone patient to discharge himself, but Cameron finds a way to keep him in hospital to run further tests._  
 __run the show__  
-__run-and-gun__ _A run-and-gun platform game._  
+__run-and-gun__ _adj_ Relating to or being a fast, freewheeling style of play in basketball that de-emphasizes set plays and defense. _A run-and-gun platform game._  
 __run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in with police._ _He had several run-ins with the law._  
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
@@ -12488,7 +12487,7 @@ __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes secon
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
 __runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
-__runs from (date) to (date)__ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
+__runs from (date) to (date)__ _phr_ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
 __runway__  
