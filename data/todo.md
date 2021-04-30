@@ -1,4 +1,14 @@
 __hit a brick wall__ _idiom_ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
+__hackle<sup>1</sup>__ _n_ __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
+__hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
+__herald__ _v_ :mega: /HAIR-uld/  
+__filled to the brim__ _idiom_ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
+__transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
+__rococo__ _adj_ :mega:  
+__a little leery__ _idiom_ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
+__artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
+__carapace__ _n_ From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
+__rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
 __scurry__ _v_ To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __sea change__ _n_ :astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
