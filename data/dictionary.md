@@ -4172,7 +4172,7 @@ __dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in dece
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
-__doeskin__ _A doeskin wallet._  
+__doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
 __doesn’t hold water__ _idiom_ Not true or not reasonable.  
 __doff__ _v_ :three::hammer: (doffing; vs don _v_) :two::hammer: _Doff his hat._  
 __dog and pony show__ _idiom_ a presentation which designed to impress an audience but has no real content.  
@@ -12310,31 +12310,30 @@ __robe<sup>2</sup>__ _v_
 __robin-breasted__  
 __robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
 __robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
-__rock salt__ _Rock salt is used in the UK to treat roads during the winter months._  
+__rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter months._  
 __rock the boat__ _idiom_ :four::hammer: _Please, don’t rock the boat._  
 __rock__ _v_ :two::hammer: _A teen is rocket when her perfect brother starts dating her best friend._ _T.Y. Hilton helped rock the Jacksonville Jaguars._  
 __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._  
-__rock-paper-scissors__ _Is this rock-paper-scissors?_  
+__rock-paper-scissors__ _n_ _Is this rock-paper-scissors?_  
 __rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
-__rocket__ :mega:  
+__rocket__ _n_ :mega:  
 __rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
-__rodeo__ :mega:  
-__rods__ _A few rods away._  
+__rod__ _n_ __5a__ A linear measure equal to 5.5 yards or 16.5 feet (5.03 meters). Also called pole. _A few rods away._  
+__rodeo__ _n_ :mega:  
 __roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
-__roeskin__ _A roeskin belt._  
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
 __roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
-__ROI__ Return on investment.  
+__ROI__ _abbr_ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone’s) eyes__  
-__roll call__ _McConnell indefinitely postponed a critical roll call planned for this week._  
-__roll of the dice__ _Third roll of the dice._  
+__roll call__ _n_ The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
+__roll of the dice__ _idiom_ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
