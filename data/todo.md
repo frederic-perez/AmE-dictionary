@@ -1,16 +1,6 @@
 __hit a brick wall__ _idiom_ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __scurry__ _v_ To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __sea change__ _n_ :astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
-__justice is served/done__ _idiom_ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
-__teammate__ _n_ :pencil2:  
-__outperform__ _v_  
-__stressor__ _n_ A stimulus that causes stress.  
-__head-to-head__ _adj_  
-__pounce on (someone or something)__ _idiom_  
-__need (something) (about) as much as (one) needs a hole in the head__ _idiom_ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
-__squall__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
-__be (as) easy as one-two-three__ _idiom_ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
-__barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  

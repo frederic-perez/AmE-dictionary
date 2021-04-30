@@ -1009,6 +1009,7 @@ __barbs__ _n_ :two::hammer: _His sharp barbs._
 __barded__ _v_  
 __bare (one’s) teeth__ _idiom_ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __bare-bones__ _A bare-bones lab._  
+__barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf bag__  
 __barf bucket__  
 __barf__ _v_  
@@ -1080,6 +1081,7 @@ __bays__ _n_
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BCE__ _abbr_ Before the Common Era.  
+__be (as) easy as one-two-three__ _idiom_ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (one’s) last resort__ _idiom_ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ _idiom_ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ _idiom_ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
@@ -6886,6 +6888,7 @@ __head wind__
 __head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
+__head-to-head__ _adj_  
 __headcheese__ _n_ (head cheese) _(Cookery) US and Canadian_ A seasoned jellied loaf made from the head and sometimes the feet of a pig or calf.  
 __headdress__ _n_ :three::pencil2::hammer: _The pharaoh’s headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
@@ -8111,6 +8114,7 @@ __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The
 __jus__  
 __just saying__ _idiom_ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __just__ _adj_ _The punishments were fair, just and appropriate._  
+__justice is served/done__ _idiom_ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
 __jut__ _v_ :three::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
@@ -9723,6 +9727,7 @@ __necktie__ _n_
 __necromancer__  
 __necromancy__  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
+__need (something) (about) as much as (one) needs a hole in the head__ _idiom_ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
 __neediness__ _n_ The state of being needy; poverty.  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
@@ -10287,7 +10292,7 @@ __outmanoeuvred__
 __outnumber__ _v_  
 __outpace__ _v_ :three::hammer: (outpacing)  
 __outpatient__ _n_ :three::hammer:  
-__outperform__ _v_ :two::hammer:  
+__outperform__ _v_ :three::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
@@ -11228,6 +11233,7 @@ __pottering__ _v_ _She is pottering around the house._
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
+__pounce on (someone or something)__ _idiom_  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :five::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
@@ -13930,7 +13936,8 @@ __squack__
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
 __squalid__ _adj_ :five::pencil2::hammer: _Squalid home._  
-__squall__ _n_ :four: A sudden strong wind or brief turbulent storm.  
+__squall<sup>1</sup>__ _n_ :four: A sudden strong wind or brief turbulent storm.  
+__squall<sup>2</sup>__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
 __squander<sup>1</sup>__ _v_ :three::hammer: _Do not squander time._  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
@@ -14273,6 +14280,7 @@ __streetwise__
 __strengthen__ _v_ :two::hammer:  
 __strenuous__ _adj_ :astonished::four::hammer:  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
+__stressor__ _n_ A stimulus that causes stress.  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
@@ -14754,6 +14762,7 @@ __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._
 __teakwood__ _n_ :pencil2: Teak.  
 __team player__  
 __team up__ _v_  
+__teammate__ _n_ :pencil2:  
 __Teamster__ _n_ :two::hammer:  
 __tear around__ _idiom_ _Her idea of taking a day off is tearing around a golf course._  
 __tear gas__ _n_ :two::hammer:  
