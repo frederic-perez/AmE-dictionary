@@ -14,19 +14,6 @@ __neatnik__ _n_ A very neat and tidy person.
 __booklore__ _n_ Any knowledge or belief gained from books.  
 __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
 __ken__ _n_ __1__ Perception; understanding: _complex issues well beyond our ken._  
-__a little from column A, a little from column B__ _idiom_ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
-__indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
-__liquid courage__ _idiom_ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
-__twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
-__proctologist__ _n_  
-__complimentary__ _adj_ _Complimentary popcorn._  
-__prior to__ _idiom_ _prep_ Before. _Prior to this episode._  
-__sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
-__goodness gracious__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
-__flesh out__ _v_  
-__high-end__ _adj_  
-__case the joint__ _idiom_ (casing the joint)  
-__metal__ _adj_ _idiom_ _slang_ Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._  
 __futile__ _adj_  
 __Ding, ding, ding, we have a winner!__ _idiom_ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  

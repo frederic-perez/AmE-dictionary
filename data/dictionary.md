@@ -71,6 +71,7 @@ __a legend in (one’s) own lifetime__ _idiom_ A person who has an extraordinary
 __a legend in (one’s) own mind__ _idiom_ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
+__a little from column A, a little from column B__ _idiom_ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little__ _idiom_ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
@@ -2307,7 +2308,7 @@ __cascading__
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
 __case study__  
-__case the joint__ _idiom_ :two::hammer:  
+__case the joint__ _idiom_ :three::hammer: (casing the joint)  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __caseous__ _adj_ Resembling cheese.  
@@ -2977,7 +2978,7 @@ __complex__ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :two::pencil2::hammer: _Complimentary rooms._ _Notice the complimentary nature of the two deﬁnitions._  
+__complimentary__ _adj_ :three::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._  
 __comply__ _v_  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -5446,7 +5447,7 @@ __fleece__ _v_ :eight::dart: (fleeced) __1__ To defraud of money or property; sw
 __fleecy__  
 __fleeting__  
 __fleetingly__  
-__flesh out__ _phr v_ :five::hammer: (fleshed out)  
+__flesh out__ _phr v_ :six::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
 __flick knife__ _n_  
@@ -6303,7 +6304,7 @@ __good-natured__ _idiom_ :two: Of or having a kindly, affable, beneficent, and/o
 __goodbye, cruel world__ _idiom_ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
-__goodness gracious__  
+__goodness gracious__ _idiom_ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
 __goodness me__ _idiom_ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _idiom_ _informal_  
 __goody-goody__ _Goody-goody expressions._  
@@ -7047,6 +7048,7 @@ __high street__ _n_ _British informal_ :three::hammer:
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
 __high__ :mute:[hi~~gh~~]  
 __high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
+__high-end__ _adj_  
 __high-fly__ _v_  
 __high-handed__ _idiom_ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
@@ -7700,6 +7702,7 @@ __index card__ _n_
 __indict__ _v_ :six::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
 __indigenous__ _Indigenous people._  
+__indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
 __indiscreet__  
 __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
 __indispensable__  
@@ -8700,6 +8703,7 @@ __lipped__ _v_
 __lippy__ _adj_  
 __lipsalve__ _n_ (lip salve) An ointment which comes in a stick or small tub and which is applied to the lips to soothe dryness, chapping, etc.  
 __liquefy__ _v_ :pencil2::four::hammer: (liquefied) _Liquefied natural gas._  
+__liquid courage__ _idiom_ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __lisp<sup>1</sup>__ _n_  
 __lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
@@ -9244,7 +9248,7 @@ __messtin__ _n_
 __metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
-__metal__ _adj_ :six::hammer: _I don’t know if I’m metal enough to do that._  
+__metal__ _adj_ _idiom_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __meteoroid__ _n_  
@@ -11368,6 +11372,7 @@ __priming__ _v_
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
+__prior to__ _idiom_ _prep_ Before. _Prior to this episode._  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _n_ (priors)  
 __prioritize__ _v_  
@@ -11394,6 +11399,7 @@ __proceeds__ _n_ :seven: The money that has been gained from doing something or 
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
+__proctologist__ _n_  
 __proctor__ University officer (for student discipline)  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
@@ -12613,6 +12619,7 @@ __saucerful__
 __saucy__  
 __saunter__ _v_ :three: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
+__sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
 __sautoir__ _n_ _Sautoir necklace._  
 __savagery__  
 __save (one’s) face__  
@@ -15495,6 +15502,7 @@ __tweeny-weeny__
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
 __twiddle one’s thumbs__ _idiom_ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __twiddle__ _v_ :three::hammer: (twiddling) _Twiddle their tootsies._  
+__twilight sleep__ _n_ A state of partial anaesthesia in which the patient retains a slight degree of consciousness.  
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
