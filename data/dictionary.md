@@ -12267,8 +12267,8 @@ __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wed
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring someone’s bell__ _Mandy rang every bell he possesed._  
 __ring up__ _Ringing up sales._  
-__ring__ _A narcotics ring._  
-__ringed__ _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._  
+__ring__ _n_ _A narcotics ring._  
+__ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
 __ringlets__  
@@ -12278,11 +12278,10 @@ __rink__ _n_
 __rinse and repeat__ _idiom_ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
 __riotous__ _adj_ :two::hammer:  
 __rip your wiring out__  
-__rip__ _The bullets rip._  
-__rip-off__ Something that is not worth what you pay for it.  
-__riparian__ _Riparian woodland._  
-__ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
-__ripe-smelling__ _The ripe-smelling barn._  
+__rip__ _v_ _The bullets rip._  
+__rip-off__ _n_ _slang_ Something that is not worth what you pay for it.  
+__riparian__ _adj_ Of, on, or relating to the banks of a natural course of water. _Riparian woodland._  
+__ripe__ _adj_ :nine::m: __1__ When a fruit is ripe, it is time to pick it and eat it. If you say the time is ripe, then now is the time for action. Ripe means ready. Fully developed or matured and ready to be eaten or used. _Four large ripe tomatoes._ _The ripe-smelling barn._ __2__ Most suitable or right for a particular purpose. _A ripe subject._ _His parents signed him for a church choir at the ripe age of 5._ _The conditions were ripe for a calamity._  
 __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or final condition. _Ripened peach._ _Ripened rice._  
 __ripoff__ _n_ _slang_  
 __riposte__ _n_ :three::hammer: (ripostes)  
@@ -12293,9 +12292,7 @@ __rise__ _v_
 __risers__  
 __risible__ _adj_ :three: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
 __rite__ _n_ :two::hammer:  
-__ritzier__  
-__ritziest__ _One of the ritziest restaurants._  
-__ritzy__ _adj_  
+__ritzy__ _adj_ :three::hammer: (ritzier, ritziest) _One of the ritziest restaurants._  
 __rived__ _v_  
 __riven__  
 __river outfitter__  
@@ -12306,13 +12303,13 @@ __road map__ _n_ :pencil2:
 __road salt__ _n_  
 __roadblock__ _n_  
 __roadkill__ _n_ The remains of an animal or animals killed on the road by motor vehicles. _That coat is made of either pure possum or random roadkill. (Sara Rosinsky)_  
-__roadside__ _Roadside billboards._  
+__roadside__ _n_ __1a__ Ahe area at the edge of a road. __b__ (as modifier): _roadside diners._ _Roadside billboards._  
 __roam__ _v_ :seven: (roaming) __1__ To move about without purpose or plan; wander. :es: vagar _Dinosaurs roaming the turf in Charlotte._ _To roam the country._  
 __roast__ _n_  
-__roasted tea__ :camera:  
-__rob__ _Crimson-robed nuns._  
+__roasted__ _adj_ (meat) Cooked by dry heat in an oven. _Roasted tea._ :camera:  
 __robe<sup>1</sup>__ _n_ :two::hammer: _The judge’s robe._  
 __robe<sup>2</sup>__ _v_  
+__robed__ _adj_ Dressed or clothed especially in fine attire; often used in combination. _Crimson-robed nuns._  
 __robin-breasted__  
 __robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
 __robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
