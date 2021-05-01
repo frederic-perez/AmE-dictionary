@@ -12223,11 +12223,11 @@ __rhinestone cowboy hat__
 __rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _Chronic rhinosinusitis._  
 __rhododendron__ _n_  
-__rhyme__ :mute:[r~~h~~yme]  
-__rhyming__ :pencil2:  
+__rhyme<sup>1</sup>__ _n_ :mute:[r~~h~~yme]  
+__rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:  
 __rhyolites__ _n_  
 __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
-__rib cage__ _Manning had an MRI on his rib cage._  
+__rib cage__ _n_ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ _n_ :two::hammer:  
 __riches__ _pl n_ :nine: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
@@ -12235,7 +12235,7 @@ __rickets__
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
-__RICO__ _He had been indicted on RICO charges._  
+__RICO__ _abbr_ _He had been indicted on RICO charges._  
 __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
@@ -12245,7 +12245,7 @@ __ride__ _n idiom_ One’s vehicle, especially an automobile. _You can park your
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
-__RIF__ _Reading Is Fundamental._  
+__RIF__ _abbr_ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
@@ -12253,26 +12253,26 @@ __riffle__ _v_ :four::hammer: (riffled, riffling) _Annabeth riffled the medicine
 __riffraff__  
 __rifle__ _v_ :three: (rifling) __1__ To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something: _rifled the desk, looking for the keys._ _Rifling through his case._ __2__ To rob or search with the intent to rob: _rifled the travelers of their belongings._ __3__ To steal (goods).  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._ _The rift between the two brothers._  
-__rig__ _Horse and the red wagon were a good rig._  
+__rig__ _n_ _Horse and the red wagon were a good rig._  
 __rigged__  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
-__right on__ _The description of the bomb was right on._  
+__right on__ _idiom_ _The description of the bomb was right on._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
-__rightfully__ _Rightfully so._  
+__rightfully__ _adv_ _Rightfully so._ :es: con razón  
 __rigmarole__ _n_ :three::hammer: _Rigmarole controls._  
 __rigor__  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
 __rim__ _n_ _Utah missed shots at the rim and turned the ball over 18 times._  
-__rimless__ _Rimless glasses._  
+__rimless__ _adj_ _Rimless glasses._  
 __rind__ _n_ :two::hammer: _The color of rind._  
 __ring a bell__ _idiom_  
 __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
-__ring someone’s bell__ _Mandy rang every bell he possesed._  
-__ring up__ _Ringing up sales._  
+__ring someone’s bell__ _idiom_ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
+__ring up__ _idiom_ _Ringing up sales._  
 __ring__ _n_ _A narcotics ring._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
