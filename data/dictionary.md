@@ -5302,6 +5302,7 @@ __Filipino__
 __fill out__  
 __fill someone in__ _Thank you for filling us in._  
 __fill’er up__ (gas station)  
+__filled to the brim__ _idiom_ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ _n_ :three::hammer:  
 __filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
@@ -6610,7 +6611,8 @@ __habitation__ :astonished:
 __habituate__ _v_  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
 __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
-__hackles__ _n_ :two::hammer:  
+__hackle<sup>1</sup>__ _n_ :three: (hackles) __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
+__hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
 __hackneyed__ _adj_ :two::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __hackwork__ _n_  
@@ -6912,6 +6914,7 @@ __hearkened__
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
+__heart sinks, one’s__ _idiom_ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __heartedly__  
 __hearten__ _v_  
@@ -7003,7 +7006,7 @@ __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ colla
 __henna__  
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :nine: (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herdsman__ _n_  
 __here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
 __here’s looking at you__  
@@ -7092,6 +7095,7 @@ __historical__ _adj_
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit (one’s) stride__ _idiom_  
 __hit (something) out of the (ball)park__ _idiom_ To do or perform something extraordinarily well; to produce or earn an exceptional achievement. An allusion to hitting a home run in baseball that lands outside the stadium. _I’m pretty sure I hit that test out of the ballpark._  
+__hit a brick wall__ _idiom_ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
 __hit a snag__ _idiom_ :dart: To encounter an issue, drawback, or challenge. _Our plans for a relaxing night at home hit a snag when a pipe burst in the basement._  
 __hit and miss__ _idiom_ :two::hammer: (hit or miss)  
 __hit bottom__ _idiom_ To reach the lowest or worst point. _Our profits have hit bottom._  
@@ -8732,7 +8736,7 @@ __litter__ _n_ :camera::pencil2:
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
-__live up to (someone’s) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for.  
+__live up to (someone’s) expectations__ _idiom_ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __live wire__  
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
@@ -9358,6 +9362,7 @@ __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––w
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
+__misdiagnosis__ _n_ An incorrect diagnosis.  
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :three::hammer: :es: avaro  
 __miserable__ _We are miserable._  
@@ -9366,7 +9371,7 @@ __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misgiving__ _n_ :five: (misgivings) _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
-__misguided__ _adj_  
+__misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ Information that is incorrect.  
@@ -10672,6 +10677,7 @@ __pen<sup>1</sup>__ _n_ _Cricket pen._
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __penal code__ :mega:  
 __penal__ :mega:  
+__penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
 __pence__ _n_ _(plural?)_ _See what you’re using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb “pencher”) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
@@ -12328,6 +12334,7 @@ __rocket science__ _idiom_ A pursuit, activity, or endeavor that requires extrao
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ _n_ :mega:  
 __rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
+__rococo__ _adj_ :mega:  
 __rod__ _n_ __5a__ A linear measure equal to 5.5 yards or 16.5 feet (5.03 meters). Also called pole. _A few rods away._  
 __rodeo__ _n_ :mega:  
 __roe__ _n_ :two::hammer: _A roe deer._  
@@ -15293,6 +15300,7 @@ __transient<sup>1</sup>__ _adj_ :six::mega: For a short time only; temporary or 
 __transient<sup>2</sup>__ _n_  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translucent__ _adj_  
+__transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
 __transparent__ _adj_ :mega:  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  

@@ -1,15 +1,3 @@
-__hit a brick wall__ _idiom_ :dart: To come up against an immovable or insurmountable difficulty or obstacle. _Our project was going well, but we hit a brick wall when our funding was suddenly cut._  
-__hackle<sup>1</sup>__ _n_ __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
-__hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
-__herald__ _v_ :mega: /HAIR-uld/  
-__filled to the brim__ _idiom_ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
-__transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
-__rococo__ _adj_ :mega:  
-__misguided__ _adj_ Based or acting on error; misled: _well-intentioned but misguided efforts._  
-__misdiagnosis__ _n_ An incorrect diagnosis.  
-__live up to (someone’s) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
-__penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
-__heart sinks, one’s__ _idiom_ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __Catch-22__ _n_  
 __idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
 __get wise (to someone or something)__ _idiom_ To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
