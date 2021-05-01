@@ -8,6 +8,15 @@ __rococo__ _adj_ :mega:
 __misguided__ _adj_ Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __misdiagnosis__ _n_ An incorrect diagnosis.  
 __live up to (someone’s) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
+__penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
+__heart sinks, one’s__ _idiom_ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
+__Catch-22__ _n_  
+__idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
+__get wise (to someone or something)__ _idiom_ To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
+__self-satisfied__ _adj_  
+__c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
+__f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
+__fulfillment__ _n_ :pencil2:  
 __every so often__ _idiom_ Sometimes; occasionally.  
 __bereaved__ _adj_ _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __codpiece__ _n_  
@@ -45,7 +54,8 @@ __live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, 
 __spree__ _n_  
 __NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth).  
 __artery__ _n_ :mega:  
-__coronary__ _adj_ :mega:  
+__coronary<sup>1</sup>__ _adj_ :mega:  
+__coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __endarterectomy__ _n_ :mega:  
 __frugal__ _adj_  
 __lowlife__ _n_  
