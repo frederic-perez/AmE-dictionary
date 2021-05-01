@@ -204,7 +204,10 @@ def entry_has_displaced_part_of_speech(entry):
     """Self-explanatory"""
     for part_of_speech in VALID_PARTS_OF_SPEECH:
         if entry.count(part_of_speech) == 1:
-            return entry.count('__ ' + part_of_speech) != 1
+            tokens = entry.split()
+            do_print = False
+            headword, _, _ = get_headword_part_of_speech_etc(tokens, do_print)
+            return entry.count('__ ' + part_of_speech) != 1 and part_of_speech == headword
     return False
 
 class Checker(object):
