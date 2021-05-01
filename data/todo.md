@@ -5,6 +5,18 @@ __herald__ _v_ :mega: /HAIR-uld/
 __filled to the brim__ _idiom_ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
 __rococo__ _adj_ :mega:  
+__misguided__ _adj_ Based or acting on error; misled: _well-intentioned but misguided efforts._  
+__misdiagnosis__ _n_ An incorrect diagnosis.  
+__live up to (someone’s) expectations__ _idiom_ To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
+__every so often__ _idiom_ Sometimes; occasionally.  
+__bereaved__ _adj_ _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
+__codpiece__ _n_  
+__aplenty__ _adj, adv_  
+__drag (one’s) feet__ _idiom_ To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
+__ha__ _interj_ Used to express surprise, wonder, triumph, puzzlement, or pique.  
+__toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
+__potty training__ _n_ _informal_ Toilet training.  
+__horse around__ _idiom_  
 __a little leery__ _idiom_ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __carapace__ _n_ From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
