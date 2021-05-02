@@ -1,15 +1,3 @@
-__Catch-22__ _n_  
-__idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
-__get wise (to someone or something)__ _idiom_ To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
-__self-satisfied__ _adj_  
-__c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
-__f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
-__fulfillment__ _n_ :pencil2:  
-__every so often__ _idiom_ Sometimes; occasionally.  
-__bereaved__ _adj_ _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
-__codpiece__ _n_  
-__aplenty__ _adj, adv_  
-__drag (one’s) feet__ _idiom_ To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __ha__ _interj_ Used to express surprise, wonder, triumph, puzzlement, or pique.  
 __toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __potty training__ _n_ _informal_ Toilet training.  

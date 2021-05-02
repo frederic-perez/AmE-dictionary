@@ -566,9 +566,9 @@ __ape__ _v_ :two::hammer: (aped)
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
 __aping__  
-__aplenty__  
-__aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__aplenty__ _adj, adv_ :two::hammer:  
 __apnea__ _n_  
+__aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
 __apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
@@ -1276,7 +1276,7 @@ __bequeath__ _v_ :nine::hammer; (bequeathed)
 __bequest__ _n_ :six::hammer: _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
-__bereaved__ _adj_ :two: A bereaved person is someone whose close friend or family member has recently died.  
+__bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
@@ -2088,6 +2088,7 @@ __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and 
 __C-rations__  
 __C-section__ _n_  
 __C-suite__ _C-suite staff._  
+__c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some writers who are not Christians; “in 200 CE.” _A Jewish revolt against Rome ended in defeat in 135 C.E._  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
@@ -2367,7 +2368,7 @@ __catch up__ _v_ :two::hammer: _We can catch up in person._
 __catch wind of (something)__ _idiom_ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __catch wind__ _I don’t know if you caught wond of it._  
 __catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
-__Catch-22__ _It’s a real Catch-22 situation._  
+__Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
 __catch-all__ _n_  
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
@@ -2841,6 +2842,7 @@ __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __code of silence__ _idiom_ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
+__codpiece__ _n_  
 __coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
 __coerce__ _v_  
 __coerced__  
@@ -4324,6 +4326,7 @@ __drab<sup>2</sup>__ _n_
 __Draconian__ _adj_  
 __draconian__ _adj_ :three: Extremely strict and severe.  
 __draft__ _v_ :two::hammer: _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
+__drag (one’s) feet__ _idiom_ To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ _idiom_ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
@@ -4904,7 +4907,7 @@ __every other week__ _idiom_ :two: When something happens “every other week,�
 __every other__ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ _idiom_ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ _idiom_ Every individual person or item within a group, without exception.  
-__every so often__ _adv_ :two: Occasionally. _Every so often she visits her father._  
+__every so often__ _idiom_ _adv_ :three: Sometimes; occasionally. _Every so often she visits her father._  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ _n_ :two::hammer:  
@@ -5022,6 +5025,7 @@ __eyewash__ _Cuddyer explained the balance between effort and eyewash._
 __eyewear__  
 __F-bomb__  
 __f-ing__  
+__f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
 __Fab Four__ The Beatles.  
 __fab__ _adj_ _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
 __fabled__  
@@ -5828,6 +5832,7 @@ __fudge<sup>3</sup>__ _v_ :three::hammer: _You can’t fudge this thinking._
 __fudging__ _Fudging statistics._  
 __fulcrum__ _n_ :three::hammer:  
 __fulfilling__  
+__fulfillment__ _n_ :pencil2:  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
 __full as a tick__ _idiom_ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent’s arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
@@ -6066,7 +6071,7 @@ __get through to__ To make someone understand what you are trying to say.
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone’s skin__ _idiom_  
 __get wind__  
-__get wise to (someone or something)__ _idiom_ To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention.  
+__get wise (to someone or something)__ _idiom_ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
 __get worked up about (something)__ _idiom_ To enter a state of mental or emotional agitation because of something. _You’re getting worked up about nothing—I’m sure the doctor will tell you it’s nothing._  
 __get your act together__  
 __get your ducks in a row__ _idiom_ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
@@ -7473,6 +7478,7 @@ __ideation__ _n_
 __ides__ _n_  
 __idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
+__idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
 __idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no known cause.  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
@@ -12879,7 +12885,7 @@ __self-esteem__ _n_
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
-__self-satisfied__ _adj_ Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
+__self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
 __self-steem__  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
