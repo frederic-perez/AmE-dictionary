@@ -12096,9 +12096,7 @@ __remorse__ _n_
 __remoulade__  
 __remunerate__ _n_  
 __remuneration__ _n_  
-__render__ _v_ :four::hammer::astonished: __1b__ b. To give or make available; provide: _render assistance; render a service._ _Cook bacon until about half the fat is rendered._ _Electronic banking has rendered the system unnecessary for consumer goods._  
-__rendered fat__ :camera:  
-__rendered__ _The grand jury has rendered its decision._  
+__render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rendered the system unnecessary for consumer goods._ __1b__ To give or make available; provide: _render assistance; render a service._ _The grand jury has rendered its decision._ __7__ To reduce, convert, or melt down (fat) by heating. _Cook bacon until about half the fat is rendered._ _Rendered fat._ :camera:  
 __rendering plant__  
 __rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People’s Republic of China.  
@@ -12131,7 +12129,7 @@ __reprobate__ _v_
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_ :two::hammer:  
-__reputedly__ _He reputedly said, “I could stay here forever.”_  
+__reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
 __requite__ _v_  
 __rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or a recorded television performance. _A movie rerun._ _Of course I’ve seen it! It’s a rerun._  
@@ -12141,7 +12139,7 @@ __reservation__ _n_ _Native American reservation._
 __reset__ _v_ :three::mega::hammer:  
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
-__resign__ :mute:[resi~~g~~n]  
+__resign__ _v_ :mute:[resi~~g~~n]  
 __resiliency__  
 __resilient__ _adj_ :three::hammer:  
 __resist<sup>1</sup>__ _v_  
@@ -12159,7 +12157,7 @@ __responsibly__ _adv_ In a responsible manner.
 __rest home__ _n_  
 __restaurateur__  
 __restenosis__ _n_  
-__restitution__ _Pierucci must pay $928 in restitution._  
+__restitution__ _n_ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :four: Unwilling to be controlled or be patient.  
 __restless__ _adj_  
 __restlessness__  
@@ -12196,7 +12194,7 @@ __retronym__ _n_
 __retroscopic__  
 __returnee__  
 __Reuben James__  
-__Reuben__ (A type of sandwich?)  
+__Reuben__ _n_ :mega: /ro͞o′bən/ A hot sandwich consisting of corned beef, Swiss cheese, and sauerkraut usually served on rye bread.  
 __reunion__ _n_ :two: An instance of two or more people coming together again after a period of separation.  
 __reunite__ _v_ :two::hammer:  
 __rev up__ _v_  
@@ -12217,17 +12215,17 @@ __Revolutionary War__
 __revolve__ _v_  
 __revue__ _n_ :two::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ :es: revista, show  
 __rezoning__  
-__RGA__ _RGA chairman._  
+__RGA__ _abbr_ Republican Governors Association. _RGA chairman._  
 __rhabdomancy__  
 __rhapsodize__ _v_ :two::hammer:  
-__rhapsody__ :mute:[r~~h~~apsody]  
+__rhapsody__ _n_ :mute:[r~~h~~apsody] __1__ (music) A composition free in structure and highly emotional in character.  
 __rhathymia__ _n_ :two: Carefree behavior; light-heartedness. The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
 __rhinoceros__ _n_ :mega:  
-__rhinosinusitis__ _Chronic rhinosinusitis._  
+__rhinosinusitis__ _n_ Inflammation of the mucous membrane of the nose and paranasal sinuses. _Syn_ nasosinusitis _Chronic rhinosinusitis._  
 __rhododendron__ _n_  
 __rhyme<sup>1</sup>__ _n_ :mute:[r~~h~~yme]  
 __rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:  
