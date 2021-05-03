@@ -31,6 +31,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jack Benny](https://www.youtube.com/results?gl=US&search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [James Corden](https://www.youtube.com/results?gl=US&search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jeff Ross](https://www.youtube.com/results?gl=US&search_query=Jeff+Ross), the "Roastmaster General."
+- [Jim Gaffigan](https://www.youtube.com/results?gl=US&search_query=Jim+Gaffigan)
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
 - [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
