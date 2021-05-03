@@ -567,8 +567,8 @@ __aphorism__ _n_ :three: A terse saying embodying a general truth or astute obse
 __apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
 __aping__  
 __aplenty__ _adj, adv_ :two::hammer:  
-__apnea__ _n_  
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
 __apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
@@ -11979,22 +11979,22 @@ __recording__ _n_ _When I call, I get a recording. There is never anyone in._
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
 __recourse__ _n_  
-__recreational__ _Recreational marijuana vs medical marijuana._  
-__recreationally__ _He plays tennis recreationally._  
+__recreational__ _adj_ _Recreational marijuana vs medical marijuana._  
+__recreationally__ _adv_ _He plays tennis recreationally._  
 __rectitude__ _n_ Righteousness as a consequence of being honorable and honest. _Syn_ uprightness  
 __rector__  
-__recuse__ _She recused herself._  
+__recuse__ _v_ _She recused herself._  
 __recycler__ _n_ _Joe admitted stealing the copper and taking it to a recycler to get cash for it._  
-__red eye__  
+__red eye__ _n_  
 __red flag__ _n_ :three: Something that irritates or demands immediate action. _Red flag day._ _That raised a red flag to us._  
 __red herring__  
 __red hot__ _idiom_ :two::hammer: _Now the market is red hot._  
-__red line__ _They’re crossing red lines._  
+__red line__ _n_ _They’re crossing red lines._  
 __red pill__ _idiom_  
 __red rover__ _n_  
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
-__red-eye__ _Catch the red-eye._  
+__red-eye__ _n_ _Catch the red-eye._  
 __red-letter day__  
 __redbones__ _n_  
 __redeal__ _v_ To deal playing cards again.  
@@ -12005,9 +12005,8 @@ __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._
 __redos__  
 __redoubt__ _n_ :two::hammer: :es: reducto  
 __redoubtable__ _adj_ :four::astonished: That is to be feared; formidable.  
-__redress__ _To seek redress._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
-__redress<sup>2</sup>__ _n_ A sum of money paid in compensation for loss or injury.  
+__redress<sup>2</sup>__ _n_ :two: A sum of money paid in compensation for loss or injury. _To seek redress._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
 __redwood__ _n_ :two::hammer:  
@@ -12046,7 +12045,7 @@ __register__ _n_ _Instant savings at register when 5 Colgate products are purcha
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regrettably__ _adv_ Unfortunately (used to express apology for or sadness at something).  
-__regular shipping__ (vs _expedited shipping_)  
+__regular__ _adj_ _Regular shipping vs expedited shipping._  
 __regulation__ _n_ :four::hammer: _Hot dogs still in the mouth at the end of regulation count if they are subsequently swallowed._ _Kreider scored the lone goal in regulation (vs in overtime)._ _The Chicago Blackhawks scored two goals in the final 76 seconds of regulation._  
 __regulator__ _n_  
 __regulatory muster__  
@@ -12070,10 +12069,10 @@ __relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, 
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
-__relegation__ _Sports_  
+__relegation__ _n_ _Sports_  
 __relent__ _v_ :four::hammer: (relented)  
 __relentless__ _adj_ :five::hammer: _I relentlessly go to YouTube to watch all new footage._  
-__reliable__ _Must have reliable transportation._  
+__reliable__ _adj_ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
 __reliant__ _adj_ :two::hammer:  
 __relic__ _n_  
