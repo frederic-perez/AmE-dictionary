@@ -86,6 +86,7 @@ __A4__ :astonished: _A4 stainless steel._
 __AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
 __AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
+__AAPI__ _abbr_ Asian Americans and Pacific Islanders.  
 __AAVE__ _abbr_ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
@@ -552,7 +553,7 @@ __antiquity__ _n_ _The wise men of antiquity._
 __antler__ _n_  
 __antral__ _adj_  
 __antsy__ _adj_ :three: Restless, impatient.  
-__anvil__ _n_ :four::hammer: (anvils)  
+__anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
 __anybody’s guess__  
 __anything but__ _It is anything but sweet._  
@@ -4617,6 +4618,7 @@ __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __eh?__ _Impressive, eh?_  
+__Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ :mute:[ei~~gh~~t]  
 __eight-track__ _The eight-track audio tape._  
@@ -5063,6 +5065,7 @@ __faint of heart__ _idiom_ :two: Lacking the courage to face something difficult
 __faint__ _adj_ :two::hammer: _Faint irony._  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
+__fair enough__ _idiom_ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
 __fair shake__  
 __fair__ _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fair-weather fan__ _idiom_ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
@@ -7319,6 +7322,7 @@ __hot-wire__ _Hot-wire cars._
 __hot-wired__  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
+__hothead__ _idiom_ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __hound__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
 __hounds__ _n_  
@@ -7865,6 +7869,7 @@ __intimation__ Making known indirectly.
 __into the fold__ _It brought many viewers into the fold._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
+__intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacy__ _n_ :two::hammer: (intricacies)  
 __intricate__ _adj_ :two::hammer:  
@@ -8754,7 +8759,7 @@ __living wills__
 __lizard brain__ _n_ :two::hammer: (lizard brains)  
 __llama__  
 __llilacs__ _n_  
-__lo and behold__ _idiom_ :two::hammer:  
+__lo and behold__ _idiom_ :three::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded question__  
 __loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
 __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
@@ -8989,7 +8994,7 @@ __majoring__
 __make (one’s) bones__ _idiom_  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
 __make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
-__make amends__ _idiom_ :two::hammer:  
+__make amends__ _idiom_ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
@@ -9848,6 +9853,7 @@ __no questions asked__
 __no spring chicken__ _idiom_ No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
 __no strings attached__ _idiom_ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way around it__  
+__no way, José__ _idiom_  
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
 __no-holds-barred__ _adj_ _informal_ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
@@ -10000,7 +10006,7 @@ __obscure__ _v_
 __obsequious__ _adj_ :two::hammer:  
 __obsidian__  
 __obstinate__  
-__obstreperous__ _adj_ :two::hammer:  
+__obstreperous__ _adj_ :three: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
 __obstreperousness__  
 __obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
@@ -11808,6 +11814,7 @@ __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common pur
 __rally<sup>3</sup>__ _n_  
 __ram<sup>1</sup>__ _v_ :seven::hammer: (rammed, ramming) _JFK’s PT boat was rammed._ _Ramming your feet into the stirrups._  
 __ram<sup>2</sup>__ _n_  
+__Ramadan__ _n_ __1__ (Islam) The ninth month of the Muslim year, lasting 30 days, during which strict fasting is observed from sunrise to sunset. __2__ (Islam) The fast itself.  
 __ramble__ _v_  
 __rambler__ _n_ :three::hammer: (ramblers)  
 __rambling__ _v_ :four::hammer:  
@@ -12083,6 +12090,7 @@ __reliever__
 __relinquish__ _v_ :seven: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
+__relo__ _n_ _informal_ __1__ Relocation.  
 __relocate__ _v_ _They plan to relocate to Denver soon._  
 __reluctant__  
 __rely on__ _v_  
@@ -14070,6 +14078,7 @@ __stasis__
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
+__statecraft__ _n_ The art of conducting public affairs. _Syn_ statesmanship, diplomacy _Only through superior statecraft was he able to avoid a war while simultaneously achieving favorable trade conditions._  
 __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost in a larger than life kind of way. You may encounter a stately gentleman or a stately statue. If you do, take a little bow. _A stately ballroom._ _Stately homes._  
 __statement__  
 __Staten Islander__ _n_  
