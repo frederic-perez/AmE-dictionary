@@ -153,41 +153,42 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
 VALID_PARTS_OF_SPEECH = [ \
     '', \
     '_abbr_', \
+    '_adj informal_', \
+    '_adj vulgar slang_', \
     '_adj_', \
     '_adj, adv_', \
     '_adj, adv, prep_', \
     '_adj, n_', \
-    '_adj informal_', \
-    '_adj vulgar slang_', \
     '_adv_', \
+    '_adv, conj, prep_', \
     '_conj_', \
     '_fig_', \
     '_gramo_', \
     '_idiom_', \
     '_interj slang_', \
-    '_interj, n_', \
     '_interj_', \
-    '_n_', \
-    '_n, adj_', \
-    '_n, v_', \
+    '_interj, n_', \
     '_n idiom_', \
     '_n informal_', \
     '_n phr_', \
     '_n pl_', \
-    '_phr_', \
+    '_n_', \
+    '_n, adj_', \
+    '_n, v_', \
     '_phr informal_', \
     '_phr v_', \
+    '_phr_', \
     '_pl n_', \
     '_prep_', \
     '_pron_', \
     '_prov_', \
     '_suffix_', \
     '_trademark_', \
-    '_v_', \
     '_v idiom_', \
     '_v informal_', \
     '_v intr_', \
     '_v tr_', \
+    '_v_', \
     '_v-link phr_' \
 ]
 
