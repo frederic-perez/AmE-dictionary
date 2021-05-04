@@ -16,6 +16,7 @@ __(as) quick as a bunny__ _idiom_ Incredibly quickly or speedily. _Quick as a bu
 __(deep) in the weeds__ _idiom_  
 __(deep) into the weeds__ _idiom_ :two::hammer:  
 __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned out to be beneficial (that something happened).  
+__(it’s) little wonder__ _idiom_ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(it’s/there’s) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(one’s) final resting place__ _idiom_ The location where one’s body is interred after death.  
@@ -531,6 +532,7 @@ __answer__ :mute:[ans~~w~~er]
 __antagonize__ _v_  
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
+__antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
 __antedate__ _n_  
 __antediluvian__ _adj_  
 __anteroom__ _n_ :two::hammer:  
@@ -5884,6 +5886,8 @@ __fuss<sup>1</sup>__ _n_ :three::hammer:
 __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)  
 __fussbudget__ _n_ :two::hammer:  
 __fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
+__fustian<sup>1</sup>__ _n_  
+__fustian<sup>2</sup>__ _adj_  
 __futile__ _adj_ :two::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -8954,6 +8958,7 @@ __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almond
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ :pencil2:  
+__Machiavellian__ _adj_ :pencil2:  
 __machine__ _n_ :mega:  
 __machinery__ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
@@ -9329,6 +9334,7 @@ __milling__ _n_ :two::hammer: _To avoid disrespectful milling._
 __million__ _The project willl cost around $10 million._ (not ending with ‘s’)  
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
+__minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
 __mince (one’s) words__ _idiom_  
 __mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
@@ -10704,7 +10710,7 @@ __penny-pinch__ _Penny-pinching conservatives._
 __pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
 __pensionary__ :es: jubilado  
-__pensive__ _adj_ :three::hammer: _You look pensive._  
+__pensive__ _adj_ :four::hammer: _You look pensive._  
 __pensively__  
 __pensum__ _n_ A task given, especially as a punishment.  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
@@ -11161,7 +11167,7 @@ __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back fr
 __pompous__ _adj_ :two::hammer:  
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
-__ponderous__ _adj_ :five::hammer: _He shouldered his ponderous bundle._  
+__ponderous__ _adj_ :six::hammer: _He shouldered his ponderous bundle._  
 __pong__ Drinking game?  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
@@ -12918,7 +12924,7 @@ __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _adj_ _Sensitive questions._  
 __sentence__ _n_ _A sentence of judges._  
-__sententious__ _adj_  
+__sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
@@ -13309,6 +13315,7 @@ __sit__ _v_ _Stop sitting on the bull._
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
 __sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
+__sith__ _adv, conj, prep_ An archaic word for since.  
 __sitter__ _n_  
 __sitting duck__ _n_ _informal_ :four: An easy target or victim. _Competent but unprepared new graduates are sitting ducks for psychosocial harm._  
 __sitting on the fence__ _idiom_  
@@ -13730,6 +13737,8 @@ __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._
 __sophistry__ _n_ _The argument was utter sophistry._  
 __sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
+__soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep). __1__ Inducing sleep. __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
+__soporific<sup>2</sup>__ _n_ Something that induces sleep.  
 __sopping__ _v_  
 __soppy__  
 __sorbet__ _n_ :mega:  

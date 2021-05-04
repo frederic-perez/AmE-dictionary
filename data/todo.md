@@ -118,18 +118,6 @@ __Zen<sup>1</sup>__ _n_ (zen) (fter Zen, a school of Mahayana Buddhism. From Jap
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __abjure__ _v_  
 __Hell and half of Georgia__ _idiom_ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
-__sententious__ _adj_ Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
-__sith__ _adv, conj, prep_ An archaic word for since.  
-__Machiavellian__ _adj_ :pencil2:  
-__fustian<sup>1</sup>__ _n_  
-__fustian<sup>2</sup>__ _adj_  
-__pensive__ _adj_  
-__ponderous__ _adj_  
-__minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
-__soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep). __1__ Inducing sleep. __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
-__soporific<sup>2</sup>__ _n_ Something that induces sleep.  
-__(it’s) little wonder__ _idiom_ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
-__antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
 __vibrissa__ _n_  
 __behoove__ _v_  
 __gallant__ _adj_  
