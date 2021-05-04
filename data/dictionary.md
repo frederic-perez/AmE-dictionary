@@ -6797,7 +6797,7 @@ __hate someone’s guts__ _idiom_ Thoroughly despise someone, as in _I hate Pete
 __hatred__ _n_  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
 __haul > long haul__ _We are ready to go long haul._  
-__haul<sup>1</sup>__ _n_ :five::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
+__haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
@@ -11871,7 +11871,7 @@ __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots
 __rash<sup>2</sup>__ _adj_ :two: Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
 __Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
-__raspberry__ :mute:[ras~~p~~berry]  
+__raspberry__ _n_ :mute:[ras~~p~~berry]  
 __raspy__  
 __rat race__  
 __rat-fuck__ _v_  
@@ -11908,7 +11908,7 @@ __ravish__
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
 __raw deal__ _n idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
-__raw-milk__ _Raw-milk cheese—unpasteurized cheese._  
+__raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
 __ray flower__ _n_ (ray floret) One of the flattened marginal florets surrounding the disk in the flower heads of certain composite plants, as the daisy.  
@@ -11928,10 +11928,10 @@ __reactive__ _adj_ :dart:
 __read into something__  
 __read it and weep__ _idiom_  
 __readily__ _adv_ :six::hammer:  
-__readiness__ _Our career readiness software program._  
+__readiness__ _n_ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_ :two::hammer:  
-__ready cash__ _They haven’t enough ready cash to pay the commission._  
+__ready cash__ _n_ _They haven’t enough ready cash to pay the commission._  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
@@ -11941,21 +11941,21 @@ __realtor__ _n_ :three::hammer:
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
 __reamer__ _n_  
-__reap__ _Reaping the benefits._  
-__reappraise__ :es: valorar  
+__reap__ _v_ _Reaping the benefits._  
+__reappraise__ _v_ To make a fresh appraisal or evaluation of.  
 __reasonable__  
 __reasoned__ _v_  
 __reassurance__ _n_ _Igor’s reassurances did not stifle the fear._  
 __rebar__ _n_ A steel reinforcing bar in a reinforced concrete structure, or a grid of such bars.  
 __rebate__ _n_ :six: A partial refund to someone who has paid too much for tax, rent, or a utility. _Syn_ refund, partial refund, repayment _To pay rebates._ :es: reembolso _Amount off MSRP includes all additional available rebate and incentive programs._ _Tax rebates._ _10% rebate with the purchase of 3 or more Bosch kitchen appliances._  
-__rebellion__ :pencil2:  
+__rebellion__ _n_ :pencil2:  
 __rebop__ _n_ :four: A form of jazz improvising by musicians of the post-bebop era that embodies the traditions of bebop but includes the musical advances since that time, i.e. group improvisation, free, pentagonic and intervalic improvising, as well as incorporating contemporary and historic rhythmic concepts.  
 __rebuff__ _v_ :nine::m: (rebuffed) To refuse; to offer sudden or harsh resistance; to turn down or shut out. To refuse to accept a helpful suggestion offer from someone, often by answering in an unfriendly way. _Syn_ reject, turn down, decline _She rebuffed all suggestions that she should resign._ _The effort has been rebuffed._  
 __rebuke__ _n_ :four::hammer:  
 __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures representing syllables and words.  
 __rebut__ _v_  
 __rebuttal__ _n_  
-__rec__ _Damonika has worked as youth and rec leader._  
+__rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
 __recalcitrant__ _adj_  
 __recall__ _n_ :two::hammer:  
 __recant__ _v_ :three::hammer: (recanted)  
@@ -11975,13 +11975,12 @@ __recitalist__
 __reckless__  
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
-__reclaimed wood__ _Antique doors and beams made of reclaimed wood._  
+__reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past and has been used for buildings and structures from the 18th to the early 20th century. The wood is recycled and reused to meet today’s ever-growing need for sustainable and eco-friendly homes and businesses. _Antique doors and beams made of reclaimed wood._  
 __recollect__ _v_  
 __recollection__ _n_ :six::hammer:  
 __reconcile__ _v_  
 __reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
 __recooled__  
-__record haul__ _Ko, 17, finishes LPGA season with record haul._  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
