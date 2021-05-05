@@ -73,6 +73,7 @@ __a legend in (one’s) own mind__ _idiom_ A person who affects or believes him-
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __a little from column A, a little from column B__ _idiom_ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
+__a little leery__ _idiom_ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a little__ _idiom_ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
@@ -673,6 +674,7 @@ __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
+__artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
@@ -1723,6 +1725,7 @@ __brainpan__
 __brainpower__ _n_  
 __brainwash__ _v_  
 __brainwave__ _idiom_ A sudden idea or moment of inspiration; a brainstorm.  
+__brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
@@ -2253,7 +2256,7 @@ __car sickness__
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
-__carapace__ _n_ :four::hammer:  
+__carapace__ _n_ :five: From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
 __carat__  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
@@ -3280,6 +3283,7 @@ __coursework__
 __Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __courtyards__ _n_  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
+__Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
 __cover charge__  
@@ -6615,7 +6619,7 @@ __gyrate__ _v_ :two::hammer:
 __gyroscopic__ :mega: _Gyroscopic effect._  
 __H-E-double-hockey-sticks__ _idiom_ A euphemistic spelling of “hell,” referring to each L resembling a hockey stick in shape. _“Oh yeah?” said Tommy to the schoolyard bully. “Well, you can go to H-E-double-hockey-sticks!”_  
 __H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
-__ha!__ _interj_ :two::hammer:  
+__ha__ _interj_ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. _Ha! I was right all along!_  
 __habeas corpus__ _n_  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
@@ -7289,6 +7293,7 @@ __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, gol
 __horologist__ _n_ Someone who makes or repairs watches.  
 __horripilation__ _n_ :astonished: A bristling of the hair on the skin from cold, fear, etc.; goose bumps.  
 __horse and rabbit stew__ _idiom_ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
+__horse around__ _idiom_  
 __horse race__  
 __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to duplicate successful basketball shots, a letter of the word “horse” is awarded for each missed attempt, and the first player to receive all five letters loses.  
 __horse-trade__ _idiom_ To negotiate, trade, or bargain in a shrewd, judicious manner.  
@@ -11254,6 +11259,7 @@ __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (
 __potholed__ _The island’s potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
+__potty training__ _n_ _informal_ Toilet training.  
 __POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
@@ -11880,9 +11886,9 @@ __rat race__
 __rat-fuck__ _v_  
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
+__ratchet-mouth__ _n idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __ratchet<sup>1</sup>__ _n_ :three::hammer:  
 __ratchet<sup>2</sup>__ _v_ To cause to move by steps or degrees—usually used with up or down. _I heard the phone booth door ratchet back violently on its hinges._  
-__ratchet-mouth__ _n idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
@@ -12412,6 +12418,7 @@ __rose water__ _n_ Perfume consisting of water scented with oil of roses.
 __rosette__ _n_  
 __rosin box__  
 __roster__ _n_ :two::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
+__rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
 __Rotarian__ _n_ :two::hammer: (Rotarians)  
@@ -12814,7 +12821,7 @@ __scumbags__
 __scunner__ _n_ A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo  
 __scupper__ _v_  
 __scuppers__ _n_ :two::hammer:  
-__scurry__ _v_ :two::hammer:  
+__scurry__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
@@ -12822,7 +12829,7 @@ __scuzzy__
 __scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
 __sea canary__ _n_  
-__sea change__ _n_ :two::hammer: _It sufferef a sea change._  
+__sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __seabed__  
 __seafarer__  
 __seafaring__  
@@ -15182,6 +15189,7 @@ __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.
 __toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
 __toilet stool__  
+__toilet training__ _n_ The training of a very young child to control bowel and bladder movements and use the toilet.  
 __toiletries__  
 __Tokyoites__  
 __tolerate__ _v_  
