@@ -11749,7 +11749,7 @@ __quirt__ _n_ :four::hammer: _The horse quirt._
 __quite a few__ _Quite a few of them came to the party._ :es: bastante  
 __quitessential__ _adj_  
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
-__quitter__ _Are you calling me a quitter?_  
+__quitter__ _n_ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading.  
@@ -11768,8 +11768,7 @@ __raccoon__ _n_ :pencil2:
 __raccooned__ _v_  
 __raccoons__  
 __race against time__ _idiom_ To do something very quickly.  
-__racetrack__ _Racetrack cars._  
-__rachet__ _I heard the phone booth door rachet back violently on its hinges._  
+__racetrack__ _n_ _Racetrack cars._  
 __racinos__  
 __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
 __rack__ _n_  
@@ -11783,7 +11782,7 @@ __racous__
 __racousness__  
 __racquet__  
 __racy__ _adj_ :three::hammer: _A racy line from a popular song._ _Racy song._  
-__radial__ _Such a thrill when your radials squeal._  
+__radial__ _n_ _Such a thrill when your radials squeal._  
 __radiation budget__  
 __radical candor__  
 __radiometer__ _n_ :two::hammer:  
@@ -11795,11 +11794,9 @@ __raffle<sup>2</sup>__ _v_ (raffling)
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
 __ragamuffin__ _n_ A shabbily clothed, dirty child.  
 __ragbag__ _n_ :two: A motley assortment of things.  
-__rage__ _n_  
-__rage<sup>1</sup>__ _n_  
-__rage<sup>2</sup>__ _v_  
-__raged__ _v_  
-__raging bull__ _The strength of a raging bull._  
+__rage<sup>1</sup>__ _n_ :two::hammer:  
+__rage<sup>2</sup>__ _v_ :two::hammer: (raged)  
+__raging__ _adj_ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker’s dream._  
 __ragtag__ _n_ :three::hammer: _A ragtag group._  
 __rah-rah__ _adj_ _informal_ :two::hammer: _Rah-rah motivation._  
@@ -11808,7 +11805,7 @@ __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._
 __rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
 __raiment__ _n_ :two::hammer:  
 __rain slickers__ _n_  
-__rainbow pass__ _football_  
+__rainbow pass__ _n_ _football_  
 __rainmaker__  
 __rainout__  
 __raise eyebrows__  
@@ -11836,7 +11833,7 @@ __rampant__ _adj_ :three::hammer:
 __rampantly__  
 __rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ _adj_ :two::hammer:  
-__ranch hand__ _He works as a ranch at the prison._  
+__ranch hand__ _n_ A hired hand on a ranch. _In a denim western shirt and jeans he looks like a ranch hand._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
 __rancor__ _n_  
 __rancorous__ _adj_  
@@ -11847,14 +11844,14 @@ __range<sup>2</sup>__ _v_ _This ranges from clearing out cupboards to limming do
 __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main body of any group. _Rank-and-file employees._ _Rank-and-file protesters._ __2__ The ordinary members of an organization (such as the enlisted soldiers of an army). _Rank-and-file officers._  
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
-__ranking officer__ _He was the ranking officer the last few days._  
+__ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
 __rankle__ _v_ :four: (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
 __ransack__ _v_ :five::hammer: (ransacked)  
 __ransomware__  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
 __rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities of a person’s arrests and convictions.  
-__rap__ _South has a bad rap._  
+__rap__ _n_ _South has a bad rap._  
 __rapacious__ _adj_ :two: Never satisfied until you have taken everything that you can take.  
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
@@ -11875,7 +11872,7 @@ __raring__
 __rascal__  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rash<sup>2</sup>__ _adj_ :two: Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
-__Rashomon effect__ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
+__Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
 __raspberry__ _n_ :mute:[ras~~p~~berry]  
 __raspy__  
@@ -11883,7 +11880,8 @@ __rat race__
 __rat-fuck__ _v_  
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
-__ratchet__ _n_ :three::hammer:  
+__ratchet<sup>1</sup>__ _n_ :three::hammer:  
+__ratchet<sup>2</sup>__ _v_ To cause to move by steps or degrees—usually used with up or down. _I heard the phone booth door ratchet back violently on its hinges._  
 __ratchet-mouth__ _n idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
