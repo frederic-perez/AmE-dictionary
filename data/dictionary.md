@@ -11684,7 +11684,7 @@ __Q__ Character in James Bond films, a quiet genius who understands technology a
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q.E.D.__  
-__Q&A__ _The gathering will feature question-and-answer sessions._  
+__Q&A__ _n_ _The gathering will feature question-and-answer sessions._  
 __QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
 __quack__ _n_ :six: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. __2__ A charlatan; a mountebank. _Partisan quacks._  
@@ -11692,7 +11692,7 @@ __quadrennial__
 __quadroons__  
 __quaff__ _v_ _(chiefly literary)_  
 __quaffable__  
-__quaffing__ _Quaffing tequila shooters on ser with Darth Vader._  
+__quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
@@ -11707,14 +11707,13 @@ __quantifiable__
 __quarrelsome__  
 __quarry__  
 __quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
-__quarts__ _Guzzlings quarts of Coors beer._  
+__quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
 __quavering__  
 __quay__ _n_  
-__queasiness__ _There was queasiness among many residents._  
+__queasiness__ _n_ _There was queasiness among many residents._  
 __queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
-__queer as folk__ _There’s newt so queer as folk._  
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
@@ -11723,13 +11722,14 @@ __quench__ _n_ :two::hammer:
 __quenched__ _v_  
 __quenches__ _v_  
 __querulous__ _adj_ :three::hammer:  
-__query__ :mega:  
+__query<sup>1</sup>__ _n_ :mega:  
+__query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
 __questionnaire__ _n_  
 __queue__ _v_  
 __quibble<sup>1</sup>__ _n_ :dart::two: A small objection or criticism.  
 __quibble<sup>2</sup>__ _v_ :four: (quibbled, quibbling) To argue or find fault over trivial matters or minor concerns; cavil. _Their word choice gets quibbled with._  
-__quick__ _His nails bitten to the quick._  
+__quick__ _n_ _His nails bitten to the quick._  
 __quick-witted__ _adj_ Mentally alert and sharp; keen. _Jane was shifty and quick-witted._  
 __quicken__ _v_ :three::hammer: (quickened) _Spring quickened._  
 __quickening__ _n_ :two::hammer: _He felt a quickening within him._  
@@ -11742,8 +11742,8 @@ __quiescent__ _adj_ :two: __1__ Quiet, still, or inactive.
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilt__  
-__quilting__ _Quilting bee._  
-__quince__ :pencil2: _Quince preserves._  
+__quilting bee__ _n_ A gathering to make quilts.  
+__quince__ _n_ :pencil2: _Quince preserves._ :es: membrillo  
 __quinine__ _n_ :mega:  
 __quinoa__ _n_ :two::hammer:  
 __quinsy__  
@@ -11752,7 +11752,7 @@ __quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Ra
 __quire__ _n_ (Not to be confused with _choir_)  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
-__quite a few__ _Quite a few of them came to the party._ :es: bastante  
+__quite a few__ _idiom_ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
 __quitessential__ _adj_  
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _n_ _Are you calling me a quitter?_  
