@@ -22,18 +22,6 @@ __coronary<sup>1</sup>__ _adj_ :mega:
 __coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __endarterectomy__ _n_ :mega:  
 __frugal__ _adj_  
-__lowlife__ _n_  
-__dirtbag__ _n_ _slang_ A filthy or disreputable person.  
-__shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
-__sure enough__ _idiom_  
-__long story short__ _idiom_  
-__flash__ _idiom_ __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
-__on the lookout__ _idiom_  
-__in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
-__here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
-__slim__ _adj_ _The chances are pretty slim._  
-__my ass__ _interj_ _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
-__witty__ _adj_  
 __receive (one’s) just deserts__ _idiom_ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  

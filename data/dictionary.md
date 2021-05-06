@@ -4007,7 +4007,7 @@ __dirigiste__
 __dirk__ _n_ (weapon?)  
 __dirt bike__ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
-__dirtbag__ _n_ :three::hammer:  
+__dirtbag__ _n_ _slang_ :four: A filthy or disreputable person.  
 __dirtdobbers__  
 __dirty boogie__  
 __dirty bop__ _I did the dirty bop in Pat O’Brien’s and got thrown out._  
@@ -5432,7 +5432,7 @@ __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glo
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
 __flash rust__ :camera:  
-__flash__  
+__flash__ _idiom_ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-flood__  
 __flash-forward__ _Syn_ analepsis  
@@ -7024,6 +7024,7 @@ __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidate
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herdsman__ _n_  
+__here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
 __here’s looking at you__  
 __heresy__ _n_ :two::hammer:  
@@ -7579,6 +7580,7 @@ __impromptu__ _adj_ :two::hammer: _Some things are impromptu._
 __improvidence__  
 __improvident__ _adj_  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
+__in (one’s) day__ _idiom_ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ _idiom_ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ _idiom_ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ _idiom_ Through the force of one’s own skills or qualifications.  
@@ -8819,6 +8821,7 @@ __loner__ Someone who likes being alone.
 __long haul__ _She’s in for the long haul._  
 __long hours__ _idiom_ :two::hammer: _The long hours you’re putting in may not help._  
 __long shot__  
+__long story short__ _idiom_  
 __long time no see__ _idiom_ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
@@ -8892,7 +8895,7 @@ __lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what hap
 __Lower Forty-Eight__ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
-__lowlife__ _n_ _slang_ :two: A criminal or disreputable person.  
+__lowlife__ _n_ _slang_ :three: A criminal or disreputable person.  
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
@@ -9657,7 +9660,7 @@ __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunde
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
 __Mx.__ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
-__my ass__  
+__my ass__ _interj_ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
@@ -10151,6 +10154,7 @@ __on the fly__
 __on the grapevine__ _idiom_ :two::hammer: _Al must have heard something on the grapevine._  
 __on the hoof__  
 __on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
+__on the lookout__ _idiom_  
 __on the rise__ _idiom_  
 __on the run__  
 __on the same page__ _idiom_ To agree on something.  
@@ -11650,11 +11654,11 @@ __pustules__ _n_
 __put (one’s) foot in (one’s) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) money where (one’s) mouth is__ _idiom_ :two::hammer:  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
+__put (something) on the back burner__ _idiom_ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put it on the money__  
 __put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put on a clinic__  
 __put on hold__  
-__put (something) on the back burner__ _idiom_ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_ :two::hammer: _Put out the fires._  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
@@ -11705,8 +11709,8 @@ __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which 
 __quantifiable__  
 __quarrelsome__  
 __quarry__  
-__quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
 __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
+__quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
 __quavering__  
@@ -13220,6 +13224,7 @@ __shut down__ _idiom_ _San Antonio shut down Utah for its fourth straight road v
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
+__shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
 __shy away__ _idiom_  
 __shy of (something)__ _idiom_ :two::hammer::astonished: _Just shy of its highest mark._  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
@@ -13454,6 +13459,7 @@ __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with disc
 __slight<sup>3</sup>__ _n_ :nine: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slightly built__ _idiom_ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
+__slim__ _adj_ _The chances are pretty slim._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
@@ -14495,7 +14501,7 @@ __supreme<sup>2</sup>__ _n_
 __surcease__  
 __surcharge<sup>1</sup>__ _n_ _Additional hotel surcharge of $5.00 per order._  
 __surcharge<sup>2</sup>__ _v_  
-__sure enough__ _idiom_ As one might have expected; certainly. _Sure enough, that’s what happened._  
+__sure enough__ _idiom_ :two: As one might have expected; certainly. _Sure enough, that’s what happened._  
 __surefire__  
 __surety__  
 __surfeit__ _n_ :four: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
@@ -16497,6 +16503,7 @@ __within reason__ _idiom_ Reasonable; reasonably. _You can do anything you want 
 __without fail__ _idiom_ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ _idiom_ With no more delay.  
 __withstand__ _v_ :three::hammer:  
+__witty__ _adj_  
 __wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __WMO__ _abbr_ :three::hammer:  
 __wobble__ _v_ (wobbling)  
