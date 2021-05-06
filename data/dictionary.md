@@ -11609,12 +11609,11 @@ __pungent__ _adj_ :two::hammer:
 __pungi__  
 __punitive__ _adj_ :two::hammer: _Punitive pension tax charges._  
 __punt<sup>1</sup>__ _n_ :two: A kick in which the ball is dropped from the hands and kicked before it touches the ground.  
-__punt<sup>2</sup>__ _v.tr._ To propel (a ball) by means of a punt.  
-__punt<sup>3</sup>__ _v.intr._ __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._  
-__punted__ _Obama punted until after the election._  
+__punt<sup>2</sup>__ _v tr_ To propel (a ball) by means of a punt.  
+__punt<sup>3</sup>__ _v intr_ :two: __1__ To execute a punt. __2__ _informal_ To cease doing something; give up: _Let’s punt on this and try something else._ _Obama punted until after the election._  
 __punters__ _n_ :two::hammer: _I have laced a few punters._  
 __punting__ _v_  
-__puny__ _A puny garden snail._  
+__puny__ _adj_ _A puny garden snail._  
 __pupil__ _n_  
 __pupillary__ _adj_ _Pupillary distance._  
 __puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between young people or children.  
@@ -11628,7 +11627,7 @@ __purge__ _v_
 __purloin__ _v_ :six: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
-__purple__ _A hint of purple._  
+__purple__ _n_ _A hint of purple._  
 __purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
 __purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
 __purr__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
@@ -11642,12 +11641,11 @@ __push the envelope__ _idiom_ To expand on, exceed, or test the limits of the es
 __push<sup>1</sup>__ _idiom_ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __push<sup>2</sup>__ _n_  
 __pushback__ _n_  
-__pushcart__ _A pushcart vendor._  
+__pushcart__ _n_ _A pushcart vendor._  
 __pushing up the daisies__ _idiom_ Dead and buried.  
 __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
-__pushy sales__  
-__pushy__ _I guess I was a little pushy._  
+__pushy__ _adj_ :two::hammer: _I guess I was a little pushy._ _Pushy sales._  
 __pustules__ _n_  
 __put (one’s) foot in (one’s) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) money where (one’s) mouth is__ _idiom_ :two::hammer:  
@@ -11656,7 +11654,7 @@ __put it on the money__
 __put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put on a clinic__  
 __put on hold__  
-__put on the back burner__ _It has put the needs of farmers on the back burner in favor of its own interests._  
+__put (something) on the back burner__ _idiom_ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put our heads together__ _idiom_ To discuss or plan something together with other people.  
 __put out__ _idiom_ :two::hammer: _Put out the fires._  
 __put the wind up (someone)__ _idiom_ To make someone very anxious, upset, or frightened.  
@@ -11666,13 +11664,14 @@ __putbacks__
 __putdowns__  
 __putrid__  
 __putsch__ _n_ A sudden attempt by a group to overthrow a government.  
-__putt__ _Jason missed a 5-foot par putt._  
+__putt<sup>1</sup>__ _n_ A light golf stroke made on the putting green in an effort to place the ball into the hole. _Jason missed a 5-foot par putt._  
+__putt<sup>2</sup>__ _v_  
 __putter__ _v_ :three::hammer: (puttered)  
 __putting aside__  
-__putty knife__ :es: espátula  
+__putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: espátula  
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __PVC__  
-__PX__ Physical Examinatin. _You run the PX for these characters?_  
+__PX__ _abbr_ Physical Examination. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
@@ -11680,7 +11679,7 @@ __pyres__ _n_
 __pyrheliometer__ _n_ :two::hammer:  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
-__Q__ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
+__Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q.E.D.__  
