@@ -26,6 +26,14 @@ __receive (one’s) just deserts__ _idiom_ To receive that which one deserves, e
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
 __escalation__ _n_  
+__vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
+__(on the) fast track__ _idiom_ (A _fast track_ is a horse racing track that’s dry and hard enough for the horses to reach optimum speed. That makes this one of those words where the original definition is self explanatory: a _fast track_ is simply a track that the racers can go as fast as possible on as opposed to one where racers are slowed down by mud or less than optimal conditions.)  
+__trifecta__ _n_ (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.)  
+__homestretch__ _n_ (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
+__down to the wire__ _idiom_ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
+__cachet__ _n_  
+__have (one’s) heart on (one’s) sleeve__ _idiom_ To openly display or make known one’s emotions or sentiments. _She’s always had her heart on her sleeve, so she isn.t very good at holding back when she’s upset about something._  
+__sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only through his unequaled sleight can the juggler manage to keep eight chainsaws safely aloft._  
 __mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
 __joyride__ _n_  
 __diphthong__ _n_  
