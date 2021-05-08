@@ -4,6 +4,18 @@ __pages__ _n_
 __squires__ _n_  
 __extolled__ _v_  
 __vassal__ _n_  
+__minnie__ _n_ A mother.  
+__suborn__ _v_ :astonished:  
+__uphold__ _v_  
+__waiver__ _n_  
+__herd immunity__ _n_  
+__bounty__ _n_ :hammer: _Bounty_ comes from the Latin word _bonus_, meaning good.  
+__inanity__ _n_ Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
+__in favor (with someone)__ _idiom_ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
+__sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
+__in default of (something)__ _idiom_ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
+__straggly__ _adj_ Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
+__color__ _n_ :mega: /ˈkʌl ər/  
 __tyranny__ _n_ :pencil2::mega:  
 __hearth-tax__  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
