@@ -4169,7 +4169,7 @@ __do-gooder__
 __DOA__ _Repeal likely DOA._  
 __doable__ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
-__Doc__  
+__doc__ _n_ _informal_ :two::hammer: (doc)  
 __docent__ _n_ :two: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
 __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
@@ -4272,6 +4272,7 @@ __double up__ _phr v_ To bend suddenly, as in pain or laughter.
 __double whammy__ _idiom_ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __double-cross__ _n_  
 __double-decker__ _n_ :two::hammer: _Double-decker bus._  
+__double-dip__ _v_ _He double dips._  
 __double-edged__ _adj_ _Double-edged sword._  
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
@@ -5442,7 +5443,7 @@ __flat out__
 __flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
-__flat-out__ _adj_  
+__flat-out__ _adj_ :two::hammer: _They flat-out tell us what is happening._  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
@@ -6574,6 +6575,7 @@ __gumption__
 __gums__ _n_  
 __gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
 __gun dog__ _n_ A dog trained to work with sportsmen when they hunt with guns.  
+__gun down__ _v_ _Jim gunned them down._  
 __gun it__ _idiom_ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gun show__  
 __gun-shy__  
@@ -6794,6 +6796,7 @@ __haste__ _n_
 __hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
 __hastily__ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
+__hat off__ _n_ (hats off) _Hats off to Jane._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one’s hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
 __Hatch Act__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
@@ -7207,6 +7210,7 @@ __holdover__
 __holdup__ _v_  
 __hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
+__Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
 __holler__ _v_ :three: __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
@@ -10678,6 +10682,7 @@ __pedestrian__ _n_ :five::hammer: (pedestrians)
 __pedestrianized__ _v_  
 __pedi__  
 __pediculous__ _adj_ Infested with lice.  
+__pedo__  
 __pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
@@ -10703,12 +10708,13 @@ __pen name__ _n_ :two::hammer:
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
 __penal code__ :mega:  
-__penal__ :mega:  
+__penal__ _adj_ :two::mega::hammer: _Penal system._  
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
 __pence__ _n_ _(plural?)_ _See what you’re using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb “pencher”) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
+__penitentiary__  
 __penitents__ _n_  
 __penknife__ _n_ :two::hammer:  
 __pennant races__  
@@ -12034,7 +12040,7 @@ __reeds__ _n_ :four::hammer: _The reeds fringed the Euphrates._
 __reefer__ _n_ :two::hammer: _He was hitting on a reefer._  
 __reefs__ _n_ :two::hammer:  
 __reek<sup>1</sup>__ _n_ :two::hammer:  
-__reek<sup>2</sup>__ _v_ :nine: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
+__reek<sup>2</sup>__ _v_ :nine::m: (reeks, reeked) Smell strongly and unpleasantly; stink. _The yard reeked of wet straw and horse manure._ _Syn_ stink, smell _The whole place reeked of cheap perfume._ _She reeked of cigarette smoke._ _This case reeks of social injustice._ :es: apestar  
 __reel off__ _v_  
 __reel<sup>1</sup>__ _n_  
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
@@ -15824,7 +15830,7 @@ __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used b
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
 __usurp__ _v_  
-__usury__ _n_ :three::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
+__usury__ _n_ :four::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
 __utes__ _n_ (cars?)  
 __utilitarian__  
@@ -16119,6 +16125,7 @@ __war stories__
 __warble__ _v_ :three::hammer:  
 __warblers__  
 __ward off__ _phr v_ :two: o prevent.  
+__warden__ _n_  
 __wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
