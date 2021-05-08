@@ -1,24 +1,21 @@
-
-
-
-__coats-of-arms__  
-__second to none__  
+__coats-of-arms__ _n_  
+__second to none__ _idiom_ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __pages__ _n_  
 __squires__ _n_  
 __extolled__ _v_  
-__vassal__  
+__vassal__ _n_  
 __tyranny__ _n_ :pencil2::mega:  
 __hearth-tax__  
-__usury__  
+__usury__ _n_  
 __reek__ _v_  
 __pedo__  
 __doc__  
-__double dip__ _v_ (?) _He double dips._  
-__gun down__ _Jim gunned them down._  
-__flat-out__ _They flat-out tell us what is happening._  
-__hats off__ _Hats off to Jane._  
+__double-dip__ _v_ _He double dips._  
+__gun down__ _v_ _Jim gunned them down._  
+__flat-out__ _adj_ _They flat-out tell us what is happening._  
+__hat off__ _n_ (hats off) _Hats off to Jane._  
 __warden__ _n_  
-__penal__ :mega: _Penal system._  
+__penal__ _adj_ :mega: _Penal system._  
 __penitentiary__  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __exodus__ _n_ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
