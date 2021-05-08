@@ -1,3 +1,15 @@
+
+
+__reek__ _v_  
+__pedo__  
+__doc__  
+__double dip__ _v_ (?) _He double dips._  
+__gun down__ _Jim gunned them down._  
+__flat-out__ _They flat-out tell us what is happening._  
+__hats off__ _Hats off to Jane._  
+__warden__ _n_  
+__penal__ :mega: _Penal system._  
+__penitentiary__  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __exodus__ _n_ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __Yarborough__ _n_ (yarborough) A hand in bridge or whist in which no card is higher than a nine. After Charles Anderson Worsley, 2nd Earl of Yarborough (1809-1897), who is said to have bet 1000 to 1 against the occurrence of such a hand. The actual odds are 1827 to 1.  
