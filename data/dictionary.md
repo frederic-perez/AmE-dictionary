@@ -11550,7 +11550,7 @@ __psychic__ :mute:[~~p~~sychic]
 __psychology__ :mute:[~~p~~sychology]  
 __psychopathic__  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
-__pterodactyl__ :mute:[~~p~~terodactyl]  
+__pterodactyl__ _n_ :mute:[~~p~~terodactyl]  
 __PTO__ _abbr_ Parent Teacher Organization.  
 __PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
 __puberty blockers__ _n_ _(medicine)_  
@@ -11559,8 +11559,7 @@ __public eye__
 __public house__ _n_ :five::hammer: :es: taberna  
 __public housing__  
 __publican__ _n_ :three::hammer:  
-__pucker__ _v_ :five: (puckered) (especially with reference to a person’s face) Tightly gather or contract into wrinkles or small folds. _The child’s face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida  
-__puckering__ _A flat, mouth-puckering taste._  
+__pucker__ _v_ :six: (puckered) (especially with reference to a person’s face) Tightly gather or contract into wrinkles or small folds. _The child’s face puckered, ready to cry._ _Syn_ wrinkle, crinkle, cockle, crumple :es: fruncida _A flat, mouth-puckering taste._  
 __pud__ _n_ :five::hammer:  
 __pudenda__ _n_  
 __pudge__ _n informal_ A variant spelling (_esp_ US) of podge.  
@@ -11576,8 +11575,7 @@ __pugil__
 __pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxing.  
 __pugnacity__  
 __pugs__  
-__pukingly__ _He was pukingly ill._  
-__pukka__ _Turnley recreated upon the praairie a perfectly pukka England._  
+__pukka__ _adj_ _British informal_ _Turnley recreated upon the praairie a perfectly pukka England._  
 __pull (oneself) together__ _idiom_ :two: Calm down.  
 __pull a U-ie__ _idiom_ To make a U-turn. Primarily heard in US, Australia.  
 __pull away__ _phr v_ :two::hammer:  
@@ -11591,8 +11589,9 @@ __pull-aside__ _n_ _It should not be considered a “meeting” or even a less f
 __pullback__ _n_ :two::hammer:  
 __pulled pork sandwich__  
 __pulley__ _n_ :pencil2::mega:  
-__pullout__ _Pullout couches._  
-__pulmonary embolism__ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
+__pullout<sup>1</sup>__ _n_  
+__pullout<sup>2</sup>__ _adj_ _Pullout couches._  
+__pulmonary embolism__ _n_ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulp__ _n_ _The pulps were running out of steam._  
 __pulpit__ _n_ :three::hammer:  
 __pulsating__  
@@ -11607,7 +11606,7 @@ __punch out__ _v_
 __punch the (time) clock__ _idiom_ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
 __punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
 __punch<sup>2</sup>__ _v_ :three::hammer: _I’m going to punch your ticket._ _You think you can punch my buttons, make me ashamed of myself in front of people?_  
-__punching bag__ _The firm was a regular punching bag._  
+__punching bag__ _n_ _The firm was a regular punching bag._  
 __punchline__ _n_ :pencil2:  
 __punctilious__ _adj_ Marked by precise accordance with details; _meticulous research_; _punctilious in his attention to rules of etiquette._  
 __punctuate__  
