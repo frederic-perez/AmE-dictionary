@@ -1636,6 +1636,7 @@ __bookend<sup>1</sup>__ _n_ :two::hammer:
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
 __bookie__ _n informal_ :three: (bookies) Short for bookmaker.  
 __bookish__  
+__booklore__ _n_ Any knowledge or belief gained from books.  
 __bookmaker__ _n_  
 __bookmarker__ _n_  
 __bookmobile__  
@@ -1869,6 +1870,7 @@ __bruited__
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
+__brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
 __brutal__  
@@ -3982,6 +3984,7 @@ __dimwitted__ _adj_ _slang_ Lacking in intelligence.
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
+__Ding, ding, ding, we have a winner!__ _idiom_ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __dingbat__ _n_  
 __dinghy__ _n_ :nine: (dingy, dingey, dinguies; Nautical Terms) Any small boat, powered by sail, oars, or outboard motor. Also (_esp_ formerly): dingy or dingey.  
 __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.  
@@ -4967,7 +4970,7 @@ __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To gi
 __exhortation__ _n_  
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
-__exodus__  
+__exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __exonerate__ _v_ :four: (exonerating) __1__ To clear from accusation, guilt, or blame. __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
@@ -5870,6 +5873,7 @@ __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or i
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny feeling__ _idiom_ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
+__funny money__ _n_  
 __funny stomach__  
 __fur-ternity leave__  
 __furbish__ _v_  
@@ -5893,7 +5897,7 @@ __fussbudget__ _n_ :two::hammer:
 __fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __fustian<sup>1</sup>__ _n_  
 __fustian<sup>2</sup>__ _adj_  
-__futile__ _adj_ :two::hammer:  
+__futile__ _adj_ :three::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
@@ -8197,7 +8201,7 @@ __keep__ _n_ :es: torreón
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
 __kelp__  
-__ken__ _n_ :two::hammer:  
+__ken__ _n_ :three: __1__ Perception; understanding: _complex issues well beyond our ken._  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_  
 __kerchief__ _n_  
@@ -9753,6 +9757,7 @@ __NCO__
 __NDA__ _abbr_  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
+__neatnik__ _n_ A very neat and tidy person.  
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
 __necessary__ :mega:  
@@ -11633,7 +11638,7 @@ __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, v
 __purée__  
 __puree__ _v_ :three::hammer:  
 __purge__ _v_  
-__purloin__ _v_ :six: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
+__purloin__ _v_ :seven: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
@@ -11641,6 +11646,7 @@ __purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK’s pur
 __purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
 __purr__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
+__purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
@@ -13225,6 +13231,7 @@ __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, 
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>1</sup>__ _interj_ :two::hammer:  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
+__shut (one’s) mouth__ _idiom_  
 __shut down__ _idiom_ _San Antonio shut down Utah for its fourth straight road victory._  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
@@ -16651,6 +16658,7 @@ __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, a
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __yap<sup>2</sup>__ _n_ _slang_ :two: Mouth.  
+__Yarborough__ _n_ (yarborough) A hand in bridge or whist in which no card is higher than a nine. After Charles Anderson Worsley, 2nd Earl of Yarborough (1809-1897), who is said to have bet 1000 to 1 against the occurrence of such a hand. The actual odds are 1827 to 1.  
 __yardage__  
 __yardstick__ _n_ :four: __1__ A ruler or tape that is three feet long. __2__ A measure or standard used for comparison. _On what kind of yardstick is he basing his judgment?_ _Colleges need some standard yardstick._  
 __yarmulke__ _n_ (yarmelke) A skullcap worn by Jewish men and boys, especially those adhering to Orthodox or Conservative Judaism. Also called kippah.  

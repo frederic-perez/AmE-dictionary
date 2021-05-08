@@ -6,18 +6,6 @@ __extolled__ _v_
 __vassal__ _n_  
 __tyranny__ _n_ :pencil2::mega:  
 __hearth-tax__  
-__exodus__ _n_ __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
-__Yarborough__ _n_ (yarborough) A hand in bridge or whist in which no card is higher than a nine. After Charles Anderson Worsley, 2nd Earl of Yarborough (1809-1897), who is said to have bet 1000 to 1 against the occurrence of such a hand. The actual odds are 1827 to 1.  
-__brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
-__funny money__ _n_  
-__shut (one’s) mouth__ _idiom_  
-__purloin__ _v_  
-__neatnik__ _n_ A very neat and tidy person.  
-__booklore__ _n_ Any knowledge or belief gained from books.  
-__purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
-__ken__ _n_ __1__ Perception; understanding: _complex issues well beyond our ken._  
-__futile__ _adj_  
-__Ding, ding, ding, we have a winner!__ _idiom_ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __score__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __attaboy__ _idiom_  
 __all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
