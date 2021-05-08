@@ -1,5 +1,15 @@
 
 
+
+__coats-of-arms__  
+__second to none__  
+__pages__ _n_  
+__squires__ _n_  
+__extolled__ _v_  
+__vassal__  
+__tyranny__ _n_ :pencil2::mega:  
+__hearth-tax__  
+__usury__  
 __reek__ _v_  
 __pedo__  
 __doc__  
