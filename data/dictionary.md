@@ -1694,6 +1694,7 @@ __bouncy house__ _n_
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
+__bounty__ _n_ :hammer: _Bounty_ comes from the Latin word _bonus_, meaning good.  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
@@ -2911,6 +2912,7 @@ __collude__ _v_
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
+__color__ _n_ :mega: /ˈkʌl ər/  
 __colorful__ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
@@ -6944,6 +6946,7 @@ __hearten__ _v_
 __heartening__ _A heartening supper._  
 __heartfelt__  
 __hearth__ _n_ :nine::m: The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._  
+__hearth-tax__  
 __heartily__ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
@@ -7613,9 +7616,11 @@ __in any event__ _idiom_ :two: In any case: _In any event, the audience seemed p
 __in cahoots__  
 __in check__ _Keep those emotions in check._  
 __in deep water__ _idiom_ To be in a difficult situation.  
+__in default of (something)__ _idiom_ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
 __in droves__ _They will come in droves._  
 __in excess of__ _idiom_ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._  
+__in favor (with someone)__ _idiom_ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fold__  
 __in front of (one’s) nose__ _idiom_ Immediately obvious or clearly apparent.  
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
@@ -7687,7 +7692,7 @@ __inalienable__ _adj_ That cannot be transferred to another or others: _inaliena
 __inane__ _adj_ :eight::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_  
 __inanition__ _n_  
-__inanity__ _n_  
+__inanity__ _n_ :two: Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
 __inappropriate__ _What the heck is that? Inappropriate toys!_  
 __inarguably__ :pencil2:  
 __inarticulate__ _adj_ :five::hammer: _Inarticulate people._ :es: incapaz de expresarse  
@@ -12769,7 +12774,8 @@ __scoot__ _v_ :four: To move or go suddenly and speedily; hurry. _The New Fronti
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
-__score__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__score<sup>2</sup>__ _idiom_ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn__ _n_ :two::hammer:  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
@@ -13517,6 +13523,7 @@ __slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)
 __slouchy__  
 __slough<sup>1</sup>__ _n_ :four::mega::hammer:  
 __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
+__sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
 __slubber__ _v_ :two::dart: To do in a hurried or imperfect manner.  
@@ -14288,7 +14295,7 @@ __strafed__ _v_
 __strafes__ _v_  
 __strafing__  
 __straggler__ _n_  
-__straggly__  
+__straggly__ _adj_ :two: Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
 __straight and narrow__  
 __straight arrow__ _n_  
 __straight shooter__  
@@ -15587,7 +15594,7 @@ __tying__ _v_ :pencil2:
 __type-A personalities__  
 __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
 __tyrannize__ _v_ :pencil2: _Most of them are woefully unproductive, and tyrannize our offices._  
-__tyranny__  
+__tyranny__ _n_ :two::pencil2::mega:  
 __tyrant__ _n_ :three::hammer:  
 __tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
