@@ -11506,7 +11506,7 @@ __propel__ _v_ :two::hammer:
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
-__propitiate__ :pencil2:  
+__propitiate__ _v_ :pencil2:  
 __proponent__  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
@@ -11514,7 +11514,7 @@ __propriety__
 __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I’d like to give props to my manager._ _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year’s Tour de France._  
 __prosaic__  
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
-__proselytism__ :astonished:  
+__proselytism__ _n_ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
 __prospect__ _n_ (sports)  
@@ -11529,7 +11529,8 @@ __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie togeth
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
 __protract__ _v_ :three: (protracted) Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend _Wisputants who needlessly protracted the negotiations._  
-__proved__ _His first story proved immensely popular._  
+__prove<sup>1</sup>__ _v tr_  
+__prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
 __provender__  
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
@@ -11538,21 +11539,23 @@ __proviso__ _n_
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :eight: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
 __prowled__ _v_  
-__proxy__ _I’m a proxy for the listener._  
+__proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pruritus__ _n_ Severe itching, often of undamaged skin.  
 __pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
-__psalm__ :mute:[psa~~l~~m, ~~p~~salm]  
+__psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]  
+__psalm<sup>2</sup>__ _v_ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
-__pseudo__ :mute:[~~p~~seudo]  
-__pseudonym__ :mute:[~~p~~seudonym]  
+__pseudo__ _adj_ :mute:[~~p~~seudo] /ˈsu doʊ/  
+__pseudonym__ _n_ :mute:[~~p~~seudonym] /(so͞od′n-ĭm′/  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psyched__ _idiom_ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
-__psychiatrist__ :mute:[~~p~~sychiatrist]  
-__psychic__ :mute:[~~p~~sychic]  
-__psychology__ :mute:[~~p~~sychology]  
+__psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
+__psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
+__psychic<sup>2</sup>__ _adj_ :mute:[~~p~~sychic]  
+__psychology__ _n_ :mute:[~~p~~sychology]  
 __psychopathic__  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __pterodactyl__ _n_ :mute:[~~p~~terodactyl]  
