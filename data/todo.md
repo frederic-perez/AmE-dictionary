@@ -3,6 +3,16 @@ __second to none__ _idiom_ The best; without rival. _Of course my daughter will 
 __pages__ _n_  
 __squires__ _n_  
 __extolled__ _v_  
+__hubris__ _n_ Excessive pride or self-confidence; arrogance.  
+__Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
+__go Galt__ _idiom_ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
+__levelheaded__ _adj_ Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._  
+__shag__ _n_ __1__ Rough, matted hair, wool, or the like. __2__ A mass of this. __3__ A hairdo in which hair is cut in slightly uneven, overlapping layers downward from the crown, sometimes with the hair at the front and back hairlines left longer or wispier than the rest. __3__ A cloth with a nap, as of silk or a heavy or rough woolen fabric. __4__ A rug or carpet with a thick, shaggy pile.  
+__epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
+__clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
+__glimmer of hope__ _idiom_ A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
+__exhilarate__ _v_ Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
+__ebullient__ _adj_  
 __vassal__ _n_  
 __minnie__ _n_ A mother.  
 __suborn__ _v_ :astonished:  
