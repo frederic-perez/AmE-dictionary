@@ -11436,19 +11436,20 @@ __prise<sup>1</sup>__ _n_
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
 __prised out__ _v_  
 __prissy__ _adj_ :four::hammer: _A prissy mustache._  
-__pristine__ _They were in pristine condition._  
+__pristine__ _adj_ _They were in pristine condition._  
 __private dancer__ _n_ A dancer who performs a striptease.  
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
 __privy__ _n_ :five::hammer:  
-__prix__ _A $40 prix fixe meal._  
+__prix__ _n_ Prize. _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ _n_  
 __prize<sup>2</sup>__ _adj_ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
 __prize<sup>3</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a defendant is unable to pay for his own defence. _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
-__pro__ _The pro column, not the con column._  
-__probation__ _A person has ben sentenced to probation._  
+__pro<sup>1</sup>__ _n_ __1__ An argument or consideration in favor of something: _weighing the pros and cons._ _The pro column, not the con column._ __2__ One who supports a proposal or takes the affirmative side in a debate.  
+__pro<sup>2</sup>__ _adj_ __1__ Affirmative; supporting: _a pro vote._ __2__ Professional: _pro football._  
+__probation__ _n_ _A person has ben sentenced to probation._  
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
@@ -11456,7 +11457,8 @@ __proclamation__ _n_ __1__ Something that is proclaimed; a public and official a
 __proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctologist__ _n_  
-__proctor__ University officer (for student discipline)  
+__proctor<sup>1</sup>__ _n_ __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
+__proctor<sup>2</sup>__ _v tr_ (Education) _US_ To supervise (an examination).  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
 __prod<sup>2</sup>__ _n_ :es: _empujón_  
@@ -11493,23 +11495,23 @@ __prominence__
 __prominent__ _adj_ :six::hammer: _Package carrying a prominent warning._  
 __prominently__  
 __promissory__ _adj_ :pencil2: Containing, involving, or having the nature of a promise. _A promissory note._  
-__promotion-and-relegation__ _England’s soccer pyramid features a promotion-and-relegation system._  
+__promotion and relegation__ _n_ In sports leagues, promotion and relegation is a process where teams are transferred between multiple divisions based on their performance for the completed season. _England’s soccer pyramid features a promotion-and-relegation system._  
 __prompt<sup>1</sup>__ _adj_ __1__ Being on time; punctual. __2__ Carried out or performed without delay. _A prompt reply._  
 __prompt<sup>2</sup>__ _v_ :two::hammer: (prompting)  
-__promptly__ :dart: _The importance of detecting diabetes promptly._  
+__promptly__ _adv_ :dart: _The importance of detecting diabetes promptly._  
 __prone<sup>1</sup>__ _adj_ :es: propenso  
 __prone<sup>2</sup>__ _n_  
 __prone<sup>3</sup>__ _v_  
 __prong__ _n_ :four::hammer: (prongs) _A barbed prong._ _A two-prong whatnot._  
 __pronged__  
-__pronounce__ _Prevnar 13® is pronounced “Prev-nar 13.”_  
+__pronounce__ _v_ _Prevnar 13® is pronounced “Prev-nar 13.”_  
 __pronounceable__  
-__prop up__ _But with her leg propped up._  
+__prop up__ _idiom_ _But with her leg propped up._  
 __prop__ _v_ :two::hammer: (propped) _His chin was propped in his hands._  
 __propaganda__ _n_ :astonished:  
 __propel__ _v_ :two::hammer:  
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
-__property owner__ _Watch out for scammers trying to exploit property owners._  
+__property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
 __propitiate__ _v_ :pencil2:  
 __proponent__  
