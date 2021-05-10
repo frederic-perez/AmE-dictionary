@@ -300,6 +300,7 @@ __afters__ _n informal_ :two: Dessert.
 __afterward__ _adv_ :two::hammer:  
 __against oll odds__ _idiom_ Even though something seems completely impossible.  
 __against the clock__ _idiom_ :two: Rushed and short on time.  
+__Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
 __agape__ _He stood there with his mouth agape._  
 __agave__ _n_  
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
@@ -2701,6 +2702,7 @@ __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for ju
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
+__clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
 __clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
 __clang<sup>2</sup>__ _v_  
 __clanging__ :astonished:  
@@ -2832,6 +2834,7 @@ __coast__ _v_ :two::hammer:
 __coaster brakes__  
 __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
+__coats-of-arms__ _n pl_  
 __coattails__ _n_ :three::hammer: _I think we’re going to be riding his coattails a little bit._  
 __coaxing__ _v_  
 __cob__  
@@ -4825,6 +4828,7 @@ __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.
 __epaulets__  
 __epee__  
 __ephemeral__  
+__epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
 __epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
 __epigram__ _n_  
@@ -5009,7 +5013,7 @@ __extensively__ _She’s been working extensively._
 __extent__ _To the same extent._  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
-__extoll__ _v_ :four::hammer: (extolled, extolling)  
+__extoll__ _v_ :five::hammer: (extolled, extolling)  
 __extort__ _v_  
 __extra pair of hands__ _idiom_ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
 __extraneous__  
@@ -6228,6 +6232,7 @@ __go ballistic__ _idiom_ :two::hammer:
 __go dutch__  
 __go figure__ _idiom_ :three: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
 __go for it!__  
+__go Galt__ _idiom_ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go great lengths__ _idiom_ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ _You going native on me, Supercop?_  
 __go off in a huff__ _idiom_ To leave in an angry, belligerent, or vexed mood.  
@@ -7381,7 +7386,7 @@ __hubbub__ _n_ :four::hammer:
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
-__hubris__ _n_ :six::hammer: _Intellectual hubris._  
+__hubris__ _n_ :seven: Excessive pride or self-confidence; arrogance. _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
@@ -8636,6 +8641,7 @@ __lettered__ _adj_ Highly educated; having extensive information or understandin
 __letters after (one’s) name__ _idiom_ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
+__levelheaded__ _adj_ Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
@@ -10451,6 +10457,7 @@ __pagan<sup>2</sup>__ _adj_
 __page__ _n_  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
 __pageboy__  
+__pages__ _n_ A source or record of knowledge: _in the pages of science._  
 __pail__ _n_ :three::hammer: _A lunch pail._  
 __pain__ _n_ _You’re such a pain!_ :es: ¡Pero qué pesado eres!  
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
@@ -12878,6 +12885,7 @@ __seclude__ _v_ Keep away from others. _Syn_ sequester, withdraw _During my mood
 __second best__  
 __second nature__  
 __second string__ _n_  
+__second to none__ _idiom_ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
 __second-guess__ _v_ :seven::dart: (second-guessing)  
 __second-string__ _adj_ _Southhampton beat a largely second-string Arsenal team 2-0._  
@@ -13016,7 +13024,7 @@ __shades__ _pl n_ __2__ (Clothing & Fashion) A slang word for sunglasses. :es: g
 __shadow__ _v_  
 __shady__  
 __shaft__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
-__shag__ _n_ :hammer: _Orange shag carpeting._ _This house has too much shag carpeting._  
+__shag__ _n_ :two: __1__ Rough, matted hair, wool, or the like. __2__ A mass of this. __3__ A hairdo in which hair is cut in slightly uneven, overlapping layers downward from the crown, sometimes with the hair at the front and back hairlines left longer or wispier than the rest. __3__ A cloth with a nap, as of silk or a heavy or rough woolen fabric. __4__ A rug or carpet with a thick, shaggy pile. _This house has too much shag carpeting._  
 __shaggy hemp__  
 __shaggy__  
 __shah__ _n_  
@@ -14023,7 +14031,7 @@ __squeeze__ _v_
 __squelch__ _v_ :five::hammer: (squelched)  
 __squib__ _n_ :two: A short and witty or sarcastic saying or writing.  
 __squiffy__  
-__squire<sup>1</sup>__ _n_ :four::hammer: _Is he her consort or her squire?_  
+__squire<sup>1</sup>__ _n_ :five::hammer: (squires) _Is he her consort or her squire?_  
 __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)  
 __squirm<sup>1</sup>__ _v_ :nine::m: (squirming) To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
