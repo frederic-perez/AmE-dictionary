@@ -3,6 +3,19 @@ __exhilarate__ _v_ Fill with sublime emotion. _Syn_ beatify, inebriate, tickle p
 __ebullient__ _adj_  
 __vassal__ _n_  
 __minnie__ _n_ A mother.  
+__festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
+__festoon<sup>2</sup>__ _v_ To make or hang festoons; to decorate.  
+__touchstone__ _n_  
+__brain surgery__ _idiom_ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
+__halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
+__bragging rights__ _idiom_ The authority and freedom to boast or brag of one.s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
+__fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
+__adulate__ _v_ :mega:  
+__balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
+__balk<sup>2</sup>__ _v_ (intr) To stop, hesitate, or refuse to proceed.  
+__balk<sup>3</sup>__ _v_ (tr) To thwart or hinder.  
+__bottom of the ninth__ _idiom_ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
+__environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __suborn__ _v_ :astonished:  
 __uphold__ _v_  
 __waiver__ _n_  
