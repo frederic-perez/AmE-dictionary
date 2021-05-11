@@ -1312,7 +1312,7 @@ __betray__ _v_ :two::hammer:
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothed__ _adj_ :three: Engaged to be married.  
 __better known as__ _Miyazaki, better known as Aska._  
-__better the devil you know than the devil you don’t__ _idiom_ _proverb_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
+__better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __bettors__  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
 __bevel<sup>2</sup>__ _v_ :two::hammer:  
@@ -7948,7 +7948,7 @@ __it dawned on someone__
 __it figures__ _idiom_ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ _idiom_ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it so happens__  
-__it takes a village__ _idiom_ :two: _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
+__it takes a village__ _prov_ :two: Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
 __it takes two to tango__ _idiom_ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ _idiom_ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
@@ -11337,7 +11337,8 @@ __preceptor__ _n_ :two::hammer:
 __precint__  
 __precipitancy__ _n_ The quality of happening with headlong haste or without warning. _Syn_ suddenness, abruptness  
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
-__precision__ _Precision medicine._  
+__precision<sup>1</sup>__ _n_  
+__precision<sup>2</sup>__ _adj_ _Precision medicine._  
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
@@ -11376,16 +11377,16 @@ __prescient__ _adj_ :eight: Perceiving the significance of events before they oc
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
-__presentation__ :mega:  
+__presentation__ _n_ :mega:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one’s job.  
-__preserve__ _A comedy about gorillas in a preserve._  
-__preserves__ _n_ :two::hammer: _A jar of fig preserves._  
+__preserve__ _n_ __3__ An area maintained for the protection of wildlife or natural resources. _A comedy about gorillas in a preserve._  
+__preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
 __president-elect__ _n_ :four::hammer:  
 __President-elect__ _n_ :six::hammer: (also president-elect)  
 __press box__ _n_  
 __press on__  
 __press the pocket__  
-__pressed khakis__ _A young man with neatly pressed khakis._  
+__pressed__ _adj_ __1__ Compacted by ironing. _Pressed pants._ _A young man with neatly pressed khakis._ :es: planchados __2__ Having very little of something, esp time or money.  
 __pressure cooker__ _n_  
 __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it presumptuous of me to offer you relationship advice when we barely even know each other, but please hear me out._  
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
@@ -11399,12 +11400,12 @@ __prevalence__ _n_ :two: The total number of cases of a disease in a given popul
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :two::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie.  
 __preventable__  
-__preventative__ _Preventative antibiotics._  
-__prevention is better than cure__ _Prov._ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
-__preventive__ _Preventive and corrective maintenance._  
+__preventative__ _adj_ Another form of _preventive_. _Preventative antibiotics._  
+__prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
+__preventive__ _adj_ _Preventive and corrective maintenance._  
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
 __prez__ _n informal_ (Prez) President.  
-__price point__ _The best in price point._  
+__price point__ _n_ _The best in price point._  
 __price tag__ _n_ :two::hammer: _Success always comes with a price tag._  
 __pricey__ _adj_ :two: Expensive. _Syn_ costly, dear  
 __prick-tease__ _n_ :dart: (prick-teaser) A woman who is sexually provocative but refuses to engage in sexual activity. _She was a first-class prick-tease._  
@@ -11418,7 +11419,6 @@ __prickly__ _adj_ :two::hammer:
 __pride flag__  
 __pride<sup>1</sup>__ _n_ :astonished: _A pride of lions._  
 __pride<sup>2</sup>__ _v_ :two::hammer: _We pride ourselves in providing the best car shopping experience._ _We take pride in our Texas roots._  
-__pries__ _He pries your buttocks apart._  
 __priestesses__ _n_  
 __priesthood__ _n_  
 __prima facie__  
@@ -11434,7 +11434,6 @@ __primer__ _n_ :four:hammer:
 __priming__ _v_  
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
-__princes__ :pencil2: _The New Hollywood princesa embraces Kurosawa as their master._  
 __prior to__ _idiom_ _prep_ Before. _Prior to this episode._  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _n_ (priors)  
@@ -11558,7 +11557,8 @@ __prude__ _n_ :three::hammer:
 __prudent__ _adj_ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
 __pruritus__ _n_ Severe itching, often of undamaged skin.  
-__pry__ _v_ :nine::m: To enquire in an overinquisitive or impertinent manner. _To pry the crack open wider and wider._  
+__pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
+__pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
 __psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]  
 __psalm<sup>2</sup>__ _v_ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
