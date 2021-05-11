@@ -5,6 +5,18 @@ __vassal__ _n_
 __minnie__ _n_ A mother.  
 __festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
 __festoon<sup>2</sup>__ _v_ To make or hang festoons; to decorate.  
+__leporine__ _adj_ Of or characteristic of rabbits or hares.  
+__cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
+__brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
+__effulgent__ _adj_  
+__Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private detective, who started a detective agency in 1850. _A Pinkerton was hired to investigate the robbery._  
+__hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
+__like (one’s) life depends on it__ _idiom_ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
+__runoff__ _n_ __1b__ The overflow of fluid from a container. The occurrence of surplus liquid (as water) exceeding the limit or capacity. _Syn_ overflow, overspill _Our basement flooded with runoff from the nearby creek after the torrential downpour._  
+__reminisce__ _v_ To indulge in the process or practice of thinking or telling about past experiences. _Reminisce_ is one of several English verbs starting with re- that mean “to bring an image or idea from the past into the mind.” Others in this group include _remember_, _recall_, _remind_, and _recollect_. _Reminisce_ distinguishes itself from the others by implying a casual recalling of experiences long past, often with a sense of nostalgia. _After the official reunion dinner, the old friends gathered at a pub to reminisce about their high school days, now long past._  
+__live the life of Riley__ _idiom_ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
+__concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
+__gulosity__ _n_ Excessive appetite. _Syn_ greediness  
 __touchstone__ _n_  
 __brain surgery__ _idiom_ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
