@@ -385,6 +385,7 @@ __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __
 __all kidding aside__ _idiom_ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ _idiom_ In a nervous, confused, or agitated state.  
 __all of a sudden__ _adv_ Without warning.  
+__all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the place<sup>1</sup>__ _adj_ _idiom_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ _idiom_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
@@ -670,6 +671,7 @@ __arrears__ _n_ :pencil2:
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrowroot__  
 __arson__ _n_  
+__artery__ _n_ :mega:  
 __artichoke__ _n_  
 __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
@@ -787,7 +789,7 @@ __atrium__ _n_ :two::hammer:
 __atrocious__  
 __atrocity__  
 __atrophy__ _v_ :two::hammer: (atrophied)  
-__attaboy__ _idiom_ :three: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
+__attaboy__ _idiom_ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __attaché case__ _n_ :two::hammer: (attaché cases)  
 __attack dog__ _n_  
 __attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
@@ -3221,6 +3223,8 @@ __cornstarch__
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :five::hammer:  
 __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
+__coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/  
+__coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __coronet__ _n_  
 __corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
 __corporate ladder__ _idiom_  
@@ -4521,6 +4525,7 @@ __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover us
 __dusters__ _n_ _My grandad sold dusters._  
 __dustman__  
 __dustpan__ _n_ :two::hammer: :es: recogedor  
+__dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __dusty__ _A dusty brand._  
 __duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
@@ -4757,6 +4762,7 @@ __end over end__ _He tossed the cigarette end over end into the wastebasket._
 __end result__  
 __end run__ _idiom_ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endangerment__  
+__endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
@@ -5834,7 +5840,7 @@ __frosted silver__
 __frothy__  
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
 __frozen yogurt__  
-__frugal__ _adj_ :two: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __fruit basket__ _California’s Central Valley, fruit basket to the nation._  
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
@@ -7038,6 +7044,7 @@ __henna__
 __henpecked__ _idiom_ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__herd immunity__ _n_  
 __herdsman__ _n_  
 __here and there__ _idiom_ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here you are__ _idiom_ Here is what you needed or asked for; I present this to you.  
@@ -8777,6 +8784,7 @@ __litter__ _n_ :camera::pencil2:
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
+__live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
 __live up to (someone’s) expectations__ _idiom_ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __live wire__  
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
@@ -9979,6 +9987,7 @@ __nowcast__
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
+__NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth).  
 __nth__ _adj_  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
@@ -12006,6 +12015,7 @@ __recap<sup>2</sup>__ _v informal_ :two: Recapitulate.
 __recapitulate__ _v_  
 __recede__ _v_  
 __receipt__ _n_ :two::mute:[recei~~p~~t]:hammer: _Expected items pending receipt from other sources._  
+__receive (one’s) just deserts__ _idiom_ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
 __receivership__  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
@@ -13960,7 +13970,7 @@ __sprained__ _v_ :five::hammer: _A sprained thumb._
 __sprawl__ _v_ :five::hammer: (sprawled, sprawling)  
 __sprawling__ _adj_ :five: Spreading out in different directions. _Sprawling handwriting._  
 __spray charts__  
-__spree__ _n_ :three::hammer: _A killing spree._  
+__spree__ _n_ :four::hammer: _A killing spree._  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
 __springboard__ _n_ :two::hammer:  
@@ -16108,8 +16118,7 @@ __waistcoat__ _n_
 __wait for the other shoe to drop__ _idiom_ To wait for something bad to happen.  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
 __waive__ _v_ :six::hammer: (waived)  
-__waiver__  
-__waivers__ _n_  
+__waiver__ _n_ :two::hammer: (waivers)  
 __wakame__ _n_  
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
 __wake-up call__ _idiom_ :three: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  

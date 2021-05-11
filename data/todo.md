@@ -18,20 +18,6 @@ __bottom of the ninth__ _idiom_ The final and critical moment or moments of a te
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __suborn__ _v_ :astonished:  
 __uphold__ _v_  
-__waiver__ _n_  
-__herd immunity__ _n_  
-__attaboy__ _idiom_  
-__all over (something)__ _idiom_ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
-__live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
-__spree__ _n_  
-__NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth).  
-__artery__ _n_ :mega:  
-__coronary<sup>1</sup>__ _adj_ :mega:  
-__coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
-__endarterectomy__ _n_ :mega:  
-__frugal__ _adj_  
-__receive (one’s) just deserts__ _idiom_ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
-__dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __safe word__ _n_ A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner.  
 __escalation__ _n_  
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
