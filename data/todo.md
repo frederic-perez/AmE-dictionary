@@ -1,18 +1,18 @@
-__glimmer of hope__ _idiom_ A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
-__exhilarate__ _v_ Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
-__ebullient__ _adj_  
-__vassal__ _n_  
-__minnie__ _n_ A mother.  
-__festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
-__festoon<sup>2</sup>__ _v_ To make or hang festoons; to decorate.  
-__leporine__ _adj_ Of or characteristic of rabbits or hares.  
-__cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
-__brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
-__effulgent__ _adj_  
-__Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private detective, who started a detective agency in 1850. _A Pinkerton was hired to investigate the robbery._  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __like (one’s) life depends on it__ _idiom_ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
 __runoff__ _n_ __1b__ The overflow of fluid from a container. The occurrence of surplus liquid (as water) exceeding the limit or capacity. _Syn_ overflow, overspill _Our basement flooded with runoff from the nearby creek after the torrential downpour._  
+__nonesuch__ _n_ (nonsuch)  
+__unshirted__ _adj_ __1__ Serious; unmitigated. _Trump did outdo former holders of the office in one regard: producing unshirted chaos._ __2__ Plain; undisguised. _Maloof first gave Carter his unshirted opinion about some of his recent votes._  
+__descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
+__somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
+__be in for a treat__ _idiom_ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
+__rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
+__in fee__ _idiom_ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
+__ring true__ _idiom_ To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
+__bee__ _n_ A social gathering to carry out some communal task or to hold competitions.  
+__set (something) in cement__ _idiom_ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
+__dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
+__panache__ _n_ The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __reminisce__ _v_ To indulge in the process or practice of thinking or telling about past experiences. _Reminisce_ is one of several English verbs starting with re- that mean “to bring an image or idea from the past into the mind.” Others in this group include _remember_, _recall_, _remind_, and _recollect_. _Reminisce_ distinguishes itself from the others by implying a casual recalling of experiences long past, often with a sense of nostalgia. _After the official reunion dinner, the old friends gathered at a pub to reminisce about their high school days, now long past._  
 __live the life of Riley__ _idiom_ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
