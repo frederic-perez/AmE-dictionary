@@ -11320,21 +11320,21 @@ __powerlessness__
 __powermongers__ _n_  
 __powwows__ _n_  
 __pox__  
-__PPD__ Postponed. _(sporting events)_  
-__ppg__ _Sanders is averaging 13.3 ppg._  
+__PPD__ _abbr_ Postponed. _(sporting events)_  
+__PPG__ _abbr_ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __PR__ _abbr_ _The PR version of my life._  
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
-__practitioner__ _GTD practitioner._  
+__practitioner__ _n_ _GTD practitioner._  
 __Praetorian__  
 __pram suit__ _n_  
 __pram__ _n_ :three::hammer:  
 __prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
-__prat__ _He could be such a prat at times._  
+__prat__ _n_ _British_ A stupid or foolish person. _He could be such a prat at times._  
 __prattle<sup>1</sup>__ _n_  
 __prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
-__prayer beads__ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
+__prayer beads__ _n_ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
 __praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
