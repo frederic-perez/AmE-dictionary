@@ -1717,6 +1717,7 @@ __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
+__brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace yourself__ _idiom_ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
@@ -2119,6 +2120,7 @@ __cache__ :mega: _Sporty cars haven’t lost their cache._
 __cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cackle__ _v_ :four::hammer: (cackling)  
+__cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _n_ Having an unpleasant sound.  
@@ -4587,7 +4589,7 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
-__ebullient__ _adj_ :three: Very happy and enthusiastic.  
+__ebullient__ _adj_ :four: Very happy and enthusiastic.  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__  
@@ -4621,6 +4623,7 @@ __effluent__
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
+__effulgent__ _adj_  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__ _adj_ :two::hammer:  
 __egalitarian__ _adj_  
@@ -4974,7 +4977,7 @@ __exertion__ _n_ :six::hammer: _Her face was bright with exertion._
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
-__exhilarate__ :mute:[ex~~h~~ilarate]  
+__exhilarate__ _v_ :two::mute:[ex~~h~~ilarate] Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhilaration__ _n_  
@@ -5260,7 +5263,8 @@ __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.
 __fester<sup>2</sup>__ _v_ :seven::hammer: (festered, festering) :es: ulcerarse _VA’s challenges will only fester if they are kept shrouded in secrecy._  
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
-__festoon__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
+__festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
+__festoon<sup>2</sup>__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
@@ -6186,6 +6190,7 @@ __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._
 __glean__ _v_ :four::hammer: (gleaned, gleaning)  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
+__glimmer of hope__ _idiom_ A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __glimmer__ _A glimmer of hope._  
 __glimpse<sup>1</sup>__ _n_  
 __glimpse<sup>2</sup>__ _v_  
@@ -8622,6 +8627,7 @@ __Lent__ _n_ :two::hammer: :es: cuaresma
 __lentils__ :es: lentejas  
 __leper__  
 __lepers__  
+__leporine__ _adj_ Of or characteristic of rabbits or hares.  
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lesson learned__ (lesson learned)  
@@ -9385,7 +9391,7 @@ __minie balls__
 __minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :two::hammer: (minions)  
-__minnie__ _n_ A mother.  
+__minnie__ _n_ :two: A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ _n_ :three: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. :es: juglar  
@@ -10974,6 +10980,7 @@ __pink elephants__ _idiom_ This term refers to hallucinations or strange imagina
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pink slip__  
+__Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private detective, who started a detective agency in 1850. _A Pinkerton was hired to investigate the robbery._  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He’s all pinkified for halloween._  
 __pinky__ _n_ Little finger.  
@@ -15927,7 +15934,7 @@ __variety store__
 __varmints__  
 __varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
-__vassal__ _n_  
+__vassal__ _n_ :two::hammer:  
 __vast__ _adj_ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
 __vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
