@@ -11241,7 +11241,7 @@ __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up 
 __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._  
-__popcorn__ :es: gotelé?  
+__popcorn__ _n_  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
@@ -11251,17 +11251,16 @@ __populace__
 __porch screen__  
 __porcupette__ _n_ A baby porcupine.  
 __pore__ _v_ :six::dart::hammer: (poring)  
-__pork pie hat__ :camera:  
 __pork rind__ _n_ :two::dart::hammer: (pork rinds) :es: cortezas de cerdo  
-__porkpie hat__ _n_  
-__porkpie__ _n_ :two::hammer:  
+__porkpie hat__ _n_ :two: (pork pie hat, porkpie) A pork pie hat is one of several different styles of hat that have been popular since the mid-19th century, all of which bear superficial resemblance to a pork pie.  
+__porkpie__ _n_ :two: A hat having a low flat crown and a flexible, narrow brim. Also called _porkpie hat_.  
 __porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
 __porpoises__ _n_  
 __porridge__  
 __porringer__  
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
-__portable building__ :es: barracones?  
+__portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
 __portcullis__ _n_ A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
@@ -11291,7 +11290,7 @@ __postulate__ _v_ (postulated)
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
-__potatoes__ :pencil2:  
+__potatoes__ _n_ :pencil2::mega:  
 __potbelly__ _n_  
 __Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _“the Potemkin village of this country’s borrowed prosperity” (Lewis H. Lapham)._  
 __potent__ _adj_ :two::hammer:  
@@ -11299,11 +11298,11 @@ __potentiometer__ _n_
 __pothead__  
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
-__potholed__ _The island’s potholed highways._  
+__potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n_ _informal_ Toilet training.  
-__POTUS__ _Ronald Reagan was elected governor twice and POTUS for two terms._  
+__POTUS__ _abbr_ :dart: President of the United States. _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __pounce on (someone or something)__ _idiom_  
@@ -11315,7 +11314,7 @@ __pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappoi
 __poutine__ _n_  
 __pouty__ _adj_  
 __pow-wow__  
-__powder blue__ Color?  
+__powder blue__ _n_ :camera: A moderate to pale blue or purplish blue.  
 __powder keg__  
 __power bar__  
 __power play__  
