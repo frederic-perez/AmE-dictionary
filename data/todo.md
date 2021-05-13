@@ -1,3 +1,15 @@
+__alive and kicking__ _idiom_  
+__connective tissue__ _n_  
+__tweak<sup>1</<sup>__ _v tr_ __2__ To adjust; fine-tune: _tweaked her computer setup._  
+__tweak<sup>2</<sup>__ _v intr_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
+__plywood__ _n_ :es: contrachapado, madera laminada  
+__pay homage (to someone or something)__ _idiom_  
+__self-serving__ _adj_  
+__wholeheartedly__ _adv_  
+__polish__ _n_  
+__rampage__ _v_  
+__outlaw__ _n_  
+__lawless__ _adj_  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __like (one’s) life depends on it__ _idiom_ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
 __runoff__ _n_ __1b__ The overflow of fluid from a container. The occurrence of surplus liquid (as water) exceeding the limit or capacity. _Syn_ overflow, overspill _Our basement flooded with runoff from the nearby creek after the torrential downpour._  
