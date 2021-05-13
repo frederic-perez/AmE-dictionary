@@ -1179,6 +1179,7 @@ __bedrolls__
 __bedspreads__ _n_  
 __bedstead__  
 __bee eater__ _n_ :es: abejaruco  
+__bee__ _n_ A social gathering to carry out some communal task or to hold competitions. _A quilting bee._ _Spelling bee._  
 __bee’s knees__  
 __beech__ _n_ :two::hammer:  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
@@ -1724,7 +1725,9 @@ __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public tran
 __bracketology__ _Daily bracketology updates._  
 __brackish__ _Brackish water._  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
+__bragging rights__ _idiom_ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
 __brain drain__  
+__brain surgery__ _idiom_ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __brainchild__ _n_ :four::hammer:  
 __brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
@@ -3043,6 +3046,7 @@ __concise__
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :five::hammer:  
+__concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
@@ -4468,6 +4472,7 @@ __drywall__ _n_ A building material consisting of rectangular sections usually m
 __DSLR__  
 __dub__ _v_ (dubbed)  
 __dubious__ _adj_ :five::hammer:  
+__dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
 __duchy__ _n_  
 __duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
@@ -6585,6 +6590,7 @@ __gullible__ _adj_ :seven: Naive and easily deceived or tricked.
 __gullies__  
 __gulls__  
 __gully__ _We had a real gully washer in the forenoon._  
+__gulosity__ _n_ Excessive appetite. _Syn_ greediness  
 __gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
 __gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
 __gum stump__  
@@ -6690,6 +6696,7 @@ __half-cocked__
 __half-hearted__ _adj_ Done with no real interest or enthusiasm.  
 __half-wits__  
 __halfback__  
+__halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
 __halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; passable.  
 __hall boy__ _n_  
 __Halligan__ _They had Halligan bars for smashing windows._  
@@ -8791,6 +8798,7 @@ __litterbug__ _n_ _informal_ One who litters public areas with trash.
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
+__live the life of Riley__ _idiom_ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __live up to (someone’s) expectations__ _idiom_ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __live wire__  
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
@@ -10514,7 +10522,7 @@ __pampling__
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panaceas__ _n_  
-__panache__ _n_ :four::hammer:  
+__panache__ _n_ :five: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
@@ -12154,7 +12162,7 @@ __remanded__ _v_
 __remarkable__  
 __remarkably__ _adv_ :two::hammer:  
 __remembrance__ _n_ :six: The action of remembering something. _JFK Remembrance Day._ :es: recuerdo  
-__reminisce__ _v_ :three::hammer: (reminiscing)  
+__reminisce__ _v_ :four: (reminiscing) To indulge in the process or practice of thinking or telling about past experiences. _Reminisce_ is one of several English verbs starting with re- that mean “to bring an image or idea from the past into the mind.” Others in this group include _remember_, _recall_, _remind_, and _recollect_. _Reminisce_ distinguishes itself from the others by implying a casual recalling of experiences long past, often with a sense of nostalgia. _After the official reunion dinner, the old friends gathered at a pub to reminisce about their high school days, now long past._  
 __reminiscent__  
 __remit__  
 __remittance__ _n_ :two::hammer:  
@@ -13004,6 +13012,7 @@ __sesquipedalian<sup>1</sup>__ _n_ A long word.
 __sesquipedalian<sup>2</sup>__ _adj_ __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
 __set (someone or something) off__ _idiom_  
 __set (someone) up__ _v_ _Emile’s trying to set you up._  
+__set (something) in cement__ _idiom_ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down<sup>1</sup>__ _idiom_ To seat, to cause to sit.  
 __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
@@ -15325,6 +15334,7 @@ __tottered__
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touch base (with someone)__ _idiom_ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __touchline__  
+__touchstone__ _n_  
 __touchy__ _adj_ :three: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
