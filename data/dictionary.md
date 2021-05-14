@@ -11145,25 +11145,25 @@ __plum wine__
 __plum__ _n_ :three::hammer: _Plum-and-onion stuffing._  
 __plumb__ _v_ :two::hammer:  
 __plumbago__ _n_  
-__plumber__ :mute:[plum~~b~~er]  
+__plumber__ _n_ :mute:[plum~~b~~er]  
 __plumbing__  
 __plummet__ _v_  
 __plummeted__ _v_ :three::hammer: (plummeting)  
-__plump__ _Plump and juicy hotdogs._  
+__plump__ _adj_ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :five::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
-__plurale tantum__ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
+__plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
-__PM__ Particulate matter. Small particles in the air, containing a variety of components.  
+__PM__ _abbr_ Particulate matter. Small particles in the air, containing a variety of components.  
 __PMS__ _abbr_ Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
-__pneumonia__ :mute:[~~p~~neumonia]  
+__pneumonia__ _n_ :mute:[~~p~~neumonia]  
 __PO__ _abbr_ Parole officer.  
-__po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
+__po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
 __poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
@@ -11184,7 +11184,7 @@ __Podunk town__
 __pogrom__ _n_ :four::hammer: (pogroms)  
 __poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
-__poinsettia__ :pencil2:  
+__poinsettia__ _n_ :pencil2:  
 __Point is,__  
 __point-and-shoot camera__  
 __point-blank__  
@@ -11200,7 +11200,7 @@ __polarity__ _n_ :mega:
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
 __polemology__ _n_ The study of war.  
-__police state__ _A society log run as a police state._  
+__police state__ _n_ _A society log run as a police state._  
 __policyholder__  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __polish__ _v_  
@@ -11211,7 +11211,7 @@ __pollster__ _n_
 __pollutant__ _n_ :two::hammer:  
 __Pollyanna__ _n_ A person regarded as being foolishly or blindly optimistic. [From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.]  
 __pols__ _n_  
-__poltergeist__ :mega:  
+__poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
 __polymath__ _n_ :five::hammer:  
@@ -11229,24 +11229,22 @@ __pony up__ _phr v_ _slang_ :two: To pay (money owed or due).
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
-__poo-pooked__ _A poo-pooked (poo-poohed) its properties._  
 __pooch__ _n_ _slang_ :four: A dog.  
 __poodle__ _n_ :es: caniche  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
-__poofy__ :pencil2:  
+__poofy__ _adj_ :pencil2:  
 __pooh-bah__ _n_ An arrogant or conceited person of importance. _Syn_ high-muck-a-muck  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
 __poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
-__poor-boy__ _Poor-boy sandwich._  
+__poor-boy__ _n_ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __poorly<sup>2</sup>__ _adj_  
-__pop eyes__ _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._  
+__popeyed__ _adj_ __1__ Having bulging eyes. __2__ Amazed; astonished: _popeyed with wonder._  
 __pop the cherries__  
-__pop__ _v_ _Kids popping balloons._  
 __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
 __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._  
-__pop<sup>1</sup>__ _n_ :four::hammer: _n informal_ Father. _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
-__pop<sup>2</sup>__ _v_ :four::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._  
+__pop<sup>1</sup>__ _n_ :five::hammer: __1__ _n informal_ Father. __5__ (of eyes) to protrude from the sockets. _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._ _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
+__pop<sup>2</sup>__ _v_ :five::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._ _Kids popping balloons._  
 __popcorn__ _n_  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
