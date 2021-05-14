@@ -2292,7 +2292,7 @@ __Carioca__
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
 __carnage__ _n_ :two::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
-__carnie man__ Carnival man?  
+__carnie__ _n_ _Carnie man._  
 __carnival__  
 __carny__ _n_  
 __carol__ _v_ (caroling) (vs Christmas carol)  
@@ -2355,7 +2355,7 @@ __castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unre
 __castoff__ _n_  
 __casual__ _He put on casual clothes._  
 __casualties__  
-__cat got your tongue?__ Have you nothing to say?  
+__cat got your tongue__ _idiom_ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _idiom_ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __cat__ _n informal_  
 __cat’s horn__ _North Korean markets have everything but a cat’s horn._  
@@ -2666,7 +2666,7 @@ __cigarette stub__ _n_ Another name for a cigarette butt.
 __cigarillo__ _n_ :pencil2::camera::two::hammer:  
 __ciggy__ _n_ _BrE_ _spoken informal_ A cigarette.  
 __cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._  
-__Cincy__ Cincinnati?  
+__Cincy__ _n_ _informal_ Clipping of Cincinnati.  
 __cinder__  
 __cinder-block town__  
 __Cinderella__ _n_ One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
@@ -4400,7 +4400,7 @@ __dress up__ _v_
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
 __dressing__ _It’s going to take longer to get to that turkey and dressing._  
-__dribble__ _v_ :two::hammer: :es: regatear?  
+__dribble__ _v_ :two::hammer: :es: regatear  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
 __drifter__ _n_ :seven::hammer:  
@@ -5736,7 +5736,6 @@ __founder__ _v_ :five::hammer: (foundered) _The attempt foundered._ _His plan fo
 __foundries__ _Metal foundries._  
 __foundry__ _n_ :two::hammer: :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
-__four hundred__ _This room has four hundred doors!_ :es: tropecientos?  
 __four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
 __four-wheeler__  
@@ -8999,7 +8998,6 @@ __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or aut
 __lyre__  
 __lysimeter__  
 __LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
-__M.O.__ Modus operandi?  
 __mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
@@ -9299,7 +9297,7 @@ __mentees__
 __Mephistopheles__ _n_ (Mephisto)  
 __merc__ _n_ :two::hammer:  
 __mercantile__ _adj_ :two::hammer:  
-__merch__ _n_ :three::hammer: Merchandaising?  
+__merch__ _n_ _informal_ :three: Merchandise.  
 __merchant prince__ _n_ A very wealthy or influential merchant.  
 __merchant__  
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
@@ -9474,7 +9472,7 @@ __mix-up__ _n_ :two::hammer:
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
 __MLK__  
-__MO__ _abbr_ :five: Modus operandi. _With the same MOs._  
+__MO__ _abbr_ :six: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
@@ -9533,7 +9531,7 @@ __mood__ _n_ :two::hammer: _Mood story._
 __moody__ _adj_ :two::hammer:  
 __moon roof__  
 __moon__ _v_  
-__moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._ :es: alambique?  
+__moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moonsoon__  
@@ -11164,7 +11162,7 @@ __PM__ Particulate matter. Small particles in the air, containing a variety of c
 __PMS__ _abbr_ Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ :mute:[~~p~~neumonia]  
-__PO__ Parole officer?  
+__PO__ _abbr_ Parole officer.  
 __po-po__ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
@@ -11224,7 +11222,7 @@ __pompous__ _adj_ :two::hammer:
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
 __ponderous__ _adj_ :six::hammer: _He shouldered his ponderous bundle._  
-__pong__ Drinking game?  
+__pong__ _n_  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
 __pony up__ _phr v_ _slang_ :two: To pay (money owed or due).  
@@ -12901,7 +12899,7 @@ __seaport__ _n_
 __sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing__ _adj_ :two::hammer: _Searing work._  
 __seaside__  
-__season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar?  
+__season__ _v_ :two::hammer: _Season to taste with salt and pepper._ :es: sazonar, condimentar  
 __seawall__  
 __seaweed__ _n_ :two::hammer: :es: alga  
 __secateurs__ _n_  
@@ -13527,7 +13525,7 @@ __slip up<sup>1</sup>__ _v_
 __slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
 __slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway.  
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
-__slip<sup>2</sup>__ _v_ Decrease?  
+__slip<sup>2</sup>__ _v_ __4a__ To pass gradually, easily, or imperceptibly into a different state: _He slipped into a coma._ __b__ To decline from a former or standard level; fall off: _The senator’s popularity has slipped._ __c__ To elapse, especially quickly or without notice: _The days slipped by._  
 __slippage__ _n_ :two::hammer:  
 __slipper__ _n_ :two::hammer: (bag?)  
 __slipperiness__  
@@ -14454,7 +14452,7 @@ __subdue__ _v_ :seven::hammer: (subdued)
 __subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
-__sublet__ _v_ :three::hammer: (subletting) :es: subalquilado?  
+__sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __sublimate__ _v_  
 __submachine gun__  
 __suborn__ _v_  
@@ -16275,7 +16273,7 @@ __weevil__ _n_ :two::hammer: _Weevil worms._
 __weevils__  
 __weigh down__ _idiom_ To make someone heavy and unable to move easily.  
 __weigh up__ _phr v_ To calculate, to estimate.  
-__weigh__ _v_ :two::mute:[wei~~gh~~] :es: sopesar?  
+__weigh__ _v_ :two::mute:[wei~~gh~~] :es: pesar; sopesar, considerar  
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
 __weighty__ _adj_ _His weighty agenda._  
 __welfare__ _n_ :three: The health, happiness, and fortunes of a person or group. _Syn_ well-being, health, good health, happiness _They don’t give a damn about the welfare of their families._ :es: bienestar, prosperidad  
