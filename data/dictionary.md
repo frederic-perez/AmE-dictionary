@@ -7312,6 +7312,7 @@ __hoop dress__
 __hoop__ _v_  
 __hoopla__ _n_ :four: __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
+__hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
 __hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
@@ -8534,6 +8535,7 @@ __lavishly__ _adv_ :three::hammer:
 __law and order__  
 __law of the land__  
 __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
+__lawless__ _adj_  
 __lawmaker__ _n_ :five::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
@@ -8715,6 +8717,7 @@ __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; ha
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
 __lightning__ _n_  
+__like (one’s) life depends on it__ _idiom_ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
 __like (two) peas in a pod__ _idiom_ Said of two people who are very similar in interests, actions, or appearance. _idiom_ Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it’s no wonder people sometimes mistake them for sisters._  
 __like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
@@ -9941,6 +9944,7 @@ __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concer
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :four::hammer:  
+__nonesuch__ _n_ (nonsuch)  
 __nonlinear__ _adj_  
 __nonpartisan__ _adj_  
 __nonpliable__ _Nonpliable products._  
@@ -10356,6 +10360,7 @@ __outing__ _n_ :nine::m: (outings) __1__ A short pleasure trip. _Country club ou
 __outlander__  
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
+__outlaw__ _n_  
 __outlay__ _Budget outlays._  
 __outlays__ _n_  
 __outline__ _n_  
@@ -10680,6 +10685,7 @@ __paving stones__
 __paw__ _v_ _A drunken master paws her._  
 __pax vobiscum__ _phr_ Peace be with you.  
 __pay dirt__ _n_ :two::hammer:  
+__pay homage (to someone or something)__ _idiom_  
 __pay off__ _v_  
 __pay the price__ _idiom_ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ _idiom_ :three::hammer:  
@@ -11158,6 +11164,7 @@ __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is 
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
+__plywood__ _n_ :es: contrachapado, madera laminada  
 __PM__ _abbr_ Particulate matter. Small particles in the air, containing a variety of components.  
 __PMS__ _abbr_ Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
@@ -11203,7 +11210,9 @@ __polemology__ _n_ The study of war.
 __police state__ _n_ _A society log run as a police state._  
 __policyholder__  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
-__polish__ _v_  
+__polish<sup>1</sup>__ _v_  
+__polish<sup>2</sup>__ _n_  
+__polish<sup>3</sup>__ _adj_  
 __politburo__  
 __poll watcher__ _n_ A person assigned (as by a political party or candidate) to observe activities at a polling place to guard against illegal voting, fraudulent counting of ballots, and other violations of election laws.  
 __pollen__ _n_ :four::astonished::hammer:  
@@ -11239,13 +11248,13 @@ __poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man’s 
 __poor-boy__ _n_ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
 __poorly<sup>2</sup>__ _adj_  
-__popeyed__ _adj_ __1__ Having bulging eyes. __2__ Amazed; astonished: _popeyed with wonder._  
 __pop the cherries__  
 __pop-up<sup>1</sup>__ _adj_ :two::hammer: _Hip brand Pynta is holding a pop-up in the East Gallery._  
 __pop-up<sup>2</sup>__ _n_ :two::hammer: _A pop-up kitchen._  
 __pop<sup>1</sup>__ _n_ :five::hammer: __1__ _n informal_ Father. __5__ (of eyes) to protrude from the sockets. _Each of a rabbit’s eyes covers more than a hemisphere; that’s why the beastie has such pop eyes._ _It is not easy to persuade viewers to cough up $60 a pop._ _The outfielder shows surprising pop for his size and can play all three outfield positions._ _Shattering boxing’s pay-per-view record with 4.4 million buys at $100 a pop._ _She hit .357 and she has some pop._  
 __pop<sup>2</sup>__ _v_ :five::hammer: _The deep price cut made a first day pop much more likely._ _Cheyenne popped a 43’3 on her first throw._ _Pop the pimples._ _Kids popping balloons._  
 __popcorn__ _n_  
+__popeyed__ _adj_ __1__ Having bulging eyes. __2__ Amazed; astonished: _popeyed with wonder._  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
@@ -11883,7 +11892,7 @@ __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
-__rampage<sup>1</sup>__ _v_ :four::hammer:  
+__rampage<sup>1</sup>__ _v_ :five::hammer:  
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :three::hammer:  
 __rampantly__  
@@ -12570,7 +12579,7 @@ __rung__ _n informal_ :nine: (rungs) A particular level or position in an organi
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running-of-the-mill husband__  
 __runny__ _adj_ :four: Inclined to run or flow: _runny icing; a runny nose._ _Runny eyes._  
-__runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._  
+__runoff__ _n_ :nine::m: __1__ The final decisive race, contest, or election. _Enough votes to force a runoff._ _A runoff vote._ __2__ The portions of the rainfall that ultimately reaches streams. _The runoff waters of spring._ _Sediment runoff._ __3__ The overflow of fluid from a container. The occurrence of surplus liquid (as water) exceeding the limit or capacity. _Syn_ overflow, overspill _Our basement flooded with runoff from the nearby creek after the torrential downpour._  
 __runs from (date) to (date)__ _phr_ _The 45-day review period runs from November 16, 2016 to December 31, 2016._  
 __runs me off__  
 __runt__  
@@ -12956,6 +12965,7 @@ __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
+__self-serving__ _adj_  
 __self-steem__  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __selfless__  
@@ -15779,6 +15789,7 @@ __unsettle__ _v_ _Team Sky riders tried to unsettle their oponents by setting an
 __unsettling__ _adj_ :two: Making one feel rather worried or uncertain. _An unsettling idea._ _The old man’s unsettling eyes._  
 __unshackle__ _v_ _The two guards unshackled Sam at the door._  
 __unsheathe__ _v_ (unsheathed) _He unsheathed his sword._  
+__unshirted__ _adj_ __1__ Serious; unmitigated. _Trump did outdo former holders of the office in one regard: producing unshirted chaos._ __2__ Plain; undisguised. _Maloof first gave Carter his unshirted opinion about some of his recent votes._  
 __unsightly__ _adj_ Unpleasant or offensive to look at; unattractive. _Syn_ ugly _Manning looking at unsightly ending._  
 __unskillful__ _adj_ Poorly done. _Syn_ botchy, butcherly _I am afraid that what was first done was unskillful, if not worse than useless._  
 __unsolicited__ _adj_ Not requested, welcome or invited. _Unsolicited email._  
@@ -16419,7 +16430,7 @@ __whole nine yards, the__
 __whole<sup>1</sup>__ _adj_ :mute:[~~w~~hole]  
 __whole<sup>2</sup>__ _n_ :mute:[~~w~~hole]  
 __whole<sup>3</sup>__ _adv_ :mute:[~~w~~hole] _informal_ Entirely; wholly: _a whole new idea._  
-__wholeheartedly__  
+__wholeheartedly__ _adv_ :two::hammer:  
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
 __wholesome__ _adj_ :three::hammer:  
