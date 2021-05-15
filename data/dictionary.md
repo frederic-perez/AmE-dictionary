@@ -19,6 +19,7 @@ __(it’s) just as well (that) (something happened)__ _idiom_ It is or turned ou
 __(it’s) little wonder__ _idiom_ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(it’s/there’s) no use crying over spilt milk__ _idiom_ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
 __(not) half the person/man/woman (one) used to be__ _idiom_ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
+__(on the) fast track__ _idiom_ (A _fast track_ is a horse racing track that’s dry and hard enough for the horses to reach optimum speed. That makes this one of those words where the original definition is self explanatory: a _fast track_ is simply a track that the racers can go as fast as possible on as opposed to one where racers are slowed down by mud or less than optimal conditions.)  
 __(one’s) final resting place__ _idiom_ The location where one’s body is interred after death.  
 __(one’s) hackles rise__ _idiom_ :dart: One becomes greatly irritated, annoyed, or aggravated. _The disrespect he showed our professor during class made my hackles rise so badly that I had to go take a walk to calm down._  
 __(one’s) heart’s desire__ _idiom_ Something one very much wants or needs. _After my six-month tour in Iraq, my heart’s desire is just to see my husband again._  
@@ -2120,7 +2121,7 @@ __cabochon__ _n_ (Jewellery) A smooth domed gem, polished but unfaceted.
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ :mega: _Sporty cars haven’t lost their cache._  
-__cachet__ _n_ A special quality that makes people admire someone or something, or makes people want to have something.  
+__cachet__ _n_ :two: A special quality that makes people admire someone or something, or makes people want to have something.  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
@@ -4009,6 +4010,7 @@ __dinky__ _adj_ :three::hammer: _A dinky little community._
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
+__diphthong__ _n_  
 __diplodocus__ _n_  
 __diploma__  
 __diplomat__ :mega:  
@@ -4313,6 +4315,7 @@ __down the road__ _idiom_ _informal_ In the future; later on.
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
+__down to the wire__ _idiom_ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
 __down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds.  
 __down-low__  
@@ -4885,7 +4888,7 @@ __erudite__ _adj_ Having or showing knowledge that is gained by studying.
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
-__escalation__ _n_  
+__escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
@@ -6853,6 +6856,7 @@ __have (one’s) hand out__ _idiom_ To be in request, demand, or expectation of 
 __have (one’s) head in the sand__ _idiom_ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
 __have (one’s) head read__ _idiom_ To have one’s logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
 __have (one’s) heart in (something)__ _idiom_ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
+__have (one’s) heart on (one’s) sleeve__ _idiom_ To openly display or make known one’s emotions or sentiments. _She’s always had her heart on her sleeve, so she isn.t very good at holding back when she’s upset about something._  
 __have (someone’s) blood on (one’s) head__ _idiom_ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
 __have (someone’s) number on it__ _idiom_ To be considered the agent or instrument of one’s fate, especially leading to death.  
 __have (someone) coming and going__ _idiom_ To put someone in an inescapable position or situation; to leave someone with no viable options or solutions.  
@@ -7270,7 +7274,7 @@ __homespun<sup>2</sup>__ _n_
 __homestand__ _n_ :five: A series of games played at a team’s home field.  
 __homestead<sup>1</sup>__ _n_ :five::hammer:  
 __homestead<sup>2</sup>__ _v_  
-__homestretch__ _n_ :two::hammer:  
+__homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
 __homie__ _Homies for life._  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
@@ -8120,6 +8124,7 @@ __jovial__ _adj_ :two::hammer:
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
+__joyride__ _n_  
 __jubilation__ _n_  
 __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.  
 __judgment__ _n_ :two::pencil2::hammer:  
@@ -9150,6 +9155,7 @@ __marijuana__
 __marinades__  
 __mariner__ _n_  
 __marjoram__ _n_ Oregano.  
+__mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
 __mark up__ _phr v_ To mark for sale at a higher price.  
 __mark__ _n idiom_ A dupe; a victim selected for a theft or a swindle.  
 __markdown__  
@@ -12615,7 +12621,7 @@ __sadism__ _n_
 __sadistic__ _adj_  
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
-__safe word__ _n_ :three: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
+__safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safeguard__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
@@ -13498,6 +13504,7 @@ __sleepsuit__ _n_
 __sleepwalking__  
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
 __sleety__  
+__sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only through his unequaled sleight can the juggler manage to keep eight chainsaws safely aloft._  
 __slender__  
 __sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._  
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
@@ -15454,7 +15461,7 @@ __trickle<sup>1</sup>__ _n_ :nine::m: __1__ A small group or number of people or
 __trickle<sup>2</sup>__ _v_ :six::hammer: _The money trickled in._  
 __trickster__ _n_ One that swindles or plays tricks. Someone who uses dishonest methods to get what they want. _Trickster hero._  
 __tricksy__  
-__trifecta__ _n_ :five::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
+__trifecta__ _n_ :six::mega: /trʌɪˈfɛktə/ (1970s: from tri- ‘three’ + perfecta.) (Before it was a broad term for three, _trifecta_ referred specifically to bets on horse races. A _trifecta_ is a bet when a bettor chooses the first, second, and third finishers in the correct order. The odds of making the correct ordered picks are low, but the payout is often much higher than basic bets like picking an overall winner. It’s a bet that isn’t typically applied to other sports.) A bet in which the person betting forecasts the first three finishers in a race in the correct order. _He will attempt a trifecta of the long jump, triple jump, and 110-meter high hurdles._  
 __trifle<sup>1</sup>__ _n_ :two::hammer:  
 __trifle<sup>2</sup>__ _v_ :three::hammer: (trifled) _Never to be trifled with._  
 __trigger__ _v_ _The avalanche was triggered by skiers._  
@@ -15943,6 +15950,7 @@ __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.
 __vape__ _n_ _I’m with a beer smoking on my vape._  
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
+__vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
 __VAR__ _abbr_ Video Assistant Referee.  
 __variety store__  
 __varmints__  
