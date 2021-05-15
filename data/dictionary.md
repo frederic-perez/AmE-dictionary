@@ -216,7 +216,7 @@ __ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_,
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
-__Adam’s ale__ _slang_ Water.  
+__Adam’s ale__ _idiom_ _slang_ Water.  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
 __add insult to injury__ _idiom_ :two: To hurt the feelings of a person who is already upset.  
@@ -1109,7 +1109,7 @@ __be hard hit (by something)__ _idiom_ To be adversely affected (by something) t
 __be here to stay__ _idiom_ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be honor-bound to do (something)__ _idiom_ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
-__be in a pickle__ _slang_ To be in a troublesome situation.  
+__be in a pickle__ _idiom_ _slang_ To be in a troublesome situation.  
 __be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in over (one’s) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
@@ -1345,7 +1345,7 @@ __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or conse
 __big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big fish in a small pond__  
-__big house__ _slang_ A high-security prison.  
+__big house__ _n_ _slang_ A high-security prison.  
 __big mon__  
 __Big Pharma__  
 __big retailer__ (Walmart, Target, Amazon.)  
@@ -1918,7 +1918,7 @@ __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his 
 __buffalo__ _n pl_ (also buffaloes, buffalos)  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
-__bug off__ _slang_ To leave someone alone; go away.  
+__bug off__ _idiom_ _slang_  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
@@ -2609,7 +2609,7 @@ __chirp away__ _v_
 __chirping__ _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chisel__ _n_  
 __chiseled__  
-__chit-chat__ _slang_ An informal conversation about things that are not important.  
+__chit-chat__ _n_ An informal conversation about things that are not important.  
 __Chiuaua__  
 __chive__ _n_  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
@@ -2699,7 +2699,7 @@ __claim__ _The White Sox claimed the 2005 title._
 __claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyant__  
 __clam up__ _v_  
-__clam__ _n_ :es: almeja  
+__clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
 __clamant__ _adj_ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
@@ -2708,7 +2708,6 @@ __clammy__ _adj_ :three::hammer: _His skin was clammy._
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
-__clams__ _slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
 __clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
 __clang<sup>2</sup>__ _v_  
@@ -3597,7 +3596,7 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
-__D’oh__ _slang_ Exclamation used when you realize that you did something stupid.  
+__d’oh__ _interj_ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __D&D__ _abbr_ :three: Dungeons and Dragons.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
@@ -7973,7 +7972,7 @@ __it wouldn’t do (someone) any harm (to do something)__ _idiom_ It would or ma
 __it’s a dog’s life__ :dart::astonished:  
 __it’s all good__ _idiom_ A phrase used to express general approval, unconcern, or disinterest.  
 __it’s one of those things__ _idiom_  
-__item__ _slang_ A couple, two people who are romantically involved.  
+__item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __IUD__  
@@ -8009,7 +8008,7 @@ __jamboree__ _n_ :four::hammer: _A campfire jamboree._
 __jammies__ _n_  
 __jampacked__ _v_  
 __jams__ _n_  
-__Jane Doe__ _slang_ An unidentified woman.  
+__Jane Doe__ _idiom_ An unidentified woman.  
 __Janes and Joes__ :pencil2: _Regular Janes and Joes._  
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __janitor__ _n_  
@@ -8092,7 +8091,7 @@ __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athlet
 __jocular__  
 __jody__ _He often complained about his wife’s jody._  
 __John Doe__  
-__john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
+__john__ _idiom_ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
 __Johnnie-come-lately__ _n idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
 __Johnny One-Note__ _idiom_ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
@@ -8101,7 +8100,7 @@ __joint__ _n_ A prison, a jail.
 __joists__  
 __jokesmith__  
 __jokester__ _n_ One who tells or plays jokes; a joker.  
-__jollies__ _slang_ Gun, thrills, enjoyment.  
+__jollies__ _idiom_ _slang_ Gun, thrills, enjoyment.  
 __jollification__ _n_ :two: Festivity; revelry.  
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
@@ -8338,7 +8337,7 @@ __knock on wood__ _idiom_
 __knock someone’s socks off__  
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
-__knocked up__ _slang_ Become pregnant.  
+__knocked up__ _idiom_ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ _idiom_ :dart: To be dying, to be close to death.  
 __knockoff__  
 __knockout__ _A knockout series._  
@@ -10031,7 +10030,7 @@ __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses
 __nursing home__ _n_  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
-__nut__ _slang_ A crazy or strange person.  
+__nut__ _n_ _slang_ A crazy or strange person.  
 __nutmeg__ _n_  
 __nuts and bolts__ _idiom_ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __nuttery__  
