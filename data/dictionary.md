@@ -1355,7 +1355,7 @@ __big yes__
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __big-gulper__ _America’s big-gulpers._  
 __bigger than life__  
-__biggie__ _n_ _Slang_ :four::hammer: _Pearl Harbor was a biggie._  
+__biggie__ _n_ _slang_ :four::hammer: _Pearl Harbor was a biggie._  
 __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
@@ -1918,7 +1918,7 @@ __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his 
 __buffalo__ _n pl_ (also buffaloes, buffalos)  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
-__bug off__ _Slang_ To leave someone alone; go away.  
+__bug off__ _slang_ To leave someone alone; go away.  
 __bug spray__ _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
@@ -2708,7 +2708,7 @@ __clammy__ _adj_ :three::hammer: _His skin was clammy._
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
-__clams__ _Slang_ A dollar. _Most smartwatches run around 300 clams._  
+__clams__ _slang_ A dollar. _Most smartwatches run around 300 clams._  
 __clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
 __clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
 __clang<sup>2</sup>__ _v_  
@@ -4270,7 +4270,7 @@ __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... w
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ :mega: _A bag of Doritos (corn chips)._  
-__dork__ _n_ :four: (dorks) __1__ _Slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
+__dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
 __dormant__ _adj_ :two::hammer:  
 __dormer__ _n_ :camera:  
@@ -4300,7 +4300,7 @@ __doubting Thomas__ _n_
 __doubtless__  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
-__dough__ _n_ :two::mute:[dou~~gh~~] __2__ _Slang_ Money.  
+__dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_  
@@ -6400,7 +6400,7 @@ __grand jury__
 __grand poobah__ _idiom_ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ _idiom_ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
-__grand__ _n_ :three: __2__ _pl._ grand _Slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
+__grand__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiose__  
 __grandstand__ _n_ :five::hammer: (grandstands) _Have a free seat in the grandstand in the Olympic Stadium._ _He found rats in his grandstand._  
@@ -6553,7 +6553,7 @@ __gruffly__
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumbling__ _n_ :two::hammer: (grumblings)  
 __grungy__ _adj_ :two::hammer:  
-__grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _Slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You’ll have as many troopers as you need for the grunt work._ __3__ _Slang_ One who performs routine or mundane tasks. _The grunt work._  
+__grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You’ll have as many troopers as you need for the grunt work._ __3__ _slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
 __GTFO__ _abbr_ _idiom_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guacamole__ _n_  
@@ -6918,7 +6918,7 @@ __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._
 __hawser__ _n_  
 __hawthorn__ _n_ :four::hammer:  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
-__haymaker__ _n_ _Slang_ :three: A powerful blow with the fist.  
+__haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
 __hazardous__ _adj_ :two::mega::hammer:  
@@ -7199,7 +7199,7 @@ __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._
 __hog (something)__ _idiom_ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hog cracklings__  
 __hog the sofa__  
-__hog<sup>1</sup>__ _n_ :two: (hogged) _Slang_ A big, heavy motorcycle.  
+__hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
 __hog<sup>2</sup>__ _v_ :two: __4__ _informal_ To take more than one’s share of: _Don’t hog the couch._ _Don’t hog the floor during meetings._  
 __hogslop__  
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
@@ -7435,7 +7435,7 @@ __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hunger strike__  
 __hungup__ _informal?_ _What’s the hungup?_  
-__hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _Slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
+__hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
@@ -8250,7 +8250,7 @@ __kick ass__ _idiom_ :two: _vulgar_ _slang_ To take forceful or harsh measures t
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ _idiom_ :two: To start to have an effect or to happen.  
-__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _Slang_ To die.  
+__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
@@ -8608,7 +8608,7 @@ __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and a
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _The reasons you can’t sleep well inflight are legion._  
-__legit__ _adj_ _Slang_ :four: Legitimate.  
+__legit__ _adj_ _slang_ :four: Legitimate.  
 __legwork__ _n_  
 __lei__ _n_ A Polynesian garland of flowers.  
 __leis__ _Scented leis._  
@@ -8934,7 +8934,7 @@ __low-res__ _adj_ _informal_ Low-resolution.
 __low-slung__ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  
 __lowbrow__  
-__lowdown__ _n_ _Slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
+__lowdown__ _n_ _slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
@@ -10114,7 +10114,7 @@ __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._
 __off<sup>2</sup>__ _adj_  
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
-__offbeat__ _adj_ _Slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offbeat__ _adj_ _slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __office drones__ _Sara and I met as office drones in 1999._  
 __officer__ _n_ :two::hammer:  
 __offing__ _A budding rivalry could be in the offing._  
@@ -10490,6 +10490,7 @@ __painstaking__ _adj_ :two::hammer: _Painstaking patience._
 __painstakingly__ _adv_ :two::hammer:  
 __paint the town red__ _idiom_ Have a good time.  
 __painter__  
+__pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
 __palanquin__ _n_  
@@ -10872,7 +10873,7 @@ __phalanx__ _n_ :two::hammer:
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: \[ˌfɑr məˈsu tɪ kəl\] (fär′mə-so͞o′tĭ-kəl)  
 __phase out__  
-__phenom__ _n_ :three: _Slang_ A phenomenon, especially a remarkable or outstanding person.  
+__phenom__ _n_ :three: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
 __phew__ _interj_ :two: Used to express relief, fatigue, surprise, or disgust.  
@@ -11093,39 +11094,37 @@ __platoon__ _v_ :two::hammer:
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
 __plaudit__ _n_ :three: (plaudits) An enthusiastic expression of approval.  
-__plausibility__ :pencil2:  
+__plausibility__ _n_ :pencil2:  
 __plausible__ _adj_ :astonished: Expressing or manifesting praise or approval. _Syn_ approbative, affirmative _Her father’s plausive nod was likely as much praise as Jane would receive from her stoic parents._  
 __play ball__  
 __play by the rules__ _idiom_ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
-__play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
+__play chicken__ _idiom_ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down something__ _phr v_ :two: To make something seem less important than it is. _She tried to play down her beauty._  
 __play footsie__ _idiom_ To flirt with someone by secretly touching feet.  
-__play hardball__ _Defense lawyers began playing hardball._  
+__play hardball__ _idiom_ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play havoc__  
 __play it safe__ _v_ :five::hammer: (play safe) _They choose to play it safe._  
 __play second fiddle__  
 __play short__  
-__play the tails off__ _I’m proud of our defense. They played their tails off._  
 __play tricks on someone__  
 __playbook__ _n_ :three::hammer: _The industry’s playbook._  
-__playful__ _A playful aside._  
+__playful__ _adj_ _A playful aside._  
 __playmaker__ _n_  
-__playmaking__ _His playmaking ability._  
-__playoff pairings__ _The final rankings and playoff pairings will be released Sunday._  
-__playpen__ _A portable paypen._  
+__playmaking__ _n_ _His playmaking ability._  
+__playpen__ _n_ A portable enclosure in which babies may be left to play.  
 __playthings__ _n_  
 __playwright__ _n_ :three::hammer:  
 __plea deal__  
 __plea__ _n_ :seven::hammer: _A prayerful plea to break free of alcohol._ _A plea for legitimacy._ _She responded to Jack’s plea for help._  
 __plead out__  
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
-__please__ (Use it at the end of a request/question.)  
+__please__ _adv_ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
 __plethora__ _n_ :six: Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
-__pliable__ _The pliable GOP._  
+__pliable__ _adj_ _The pliable GOP._  
 __pliant__ _adj_ :three::hammer: _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
 __pliers__ _n pl_ (plurale tantum)  
@@ -13269,7 +13268,7 @@ __shrivel__ _v_ :seven: (shriveled) Shrink and wrinkle, as from dryness. _The he
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
-__shtick__ _n_ :three: (also shtik) _Slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
+__shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
 __shucks__ _interj_ :dart: Used to express mild disappointment, disgust, or annoyance.  
@@ -14265,7 +14264,7 @@ __sting<sup>1</sup>__ _n_ :three::hammer:
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
 __stingy__ _adj_ :two::hammer: _Be stingy with your money._ _Syn_ parsimonious, penurious  
-__stink__ _n_ _Slang_ The end of the anal canal of a male or female. _You’ve got to give up yous stink._  
+__stink__ _n_ _slang_ The end of the anal canal of a male or female. _You’ve got to give up yous stink._  
 __stinker__  
 __stinkers__ _n_  
 __stintful__  
