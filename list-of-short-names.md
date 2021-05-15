@@ -17,6 +17,7 @@
 - __Cal__ A masculine given name or a shortened form of a given name (usually Calvin or Callum).
 - __Dan__ An old Scandinavian given name with disputed meaning. Dan is also a Hebrew given name, after Dan, the fifth son of Jacob with Bilhah and founder of the Israelite Tribe of Dan. It is also (along with the variant Danny) a given name or a nickname for people name Daniel.
 - __Deb__ A given name, usually feminine and often a shortened version (hypocorism) of Deborah or Debra.
+- __Dee__ A female given name, short for names beginning with “d.”
 - __Eve__ Derived from the Latin name Eva.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
