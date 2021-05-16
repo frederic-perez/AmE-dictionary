@@ -17,19 +17,6 @@ __bottom of the ninth__ _idiom_ The final and critical moment or moments of a te
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __suborn__ _v_ :astonished:  
 __uphold__ _v_  
-__syllable__ _n_  
-__like attracts like__ _idiom_ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
-__doodad__ _n_ _informal_ Something, especially a small device or part, whose name is unknown or forgotten.  
-__moxie__ _n_ _slang_ _US and Canadian_ Courage, nerve, or vigour.  
-__sepulcher__ _n_  
-__timeserver__ _n_ One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist.  
-__kismet__ _n_ Fate; fortune.  
-__delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
-__quarry__ _n_ _Syn_ prey  
-__tag along__ _idiom_ :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._  
-__hot flashes__ _n_  
-__PMS__ _abbr_ Premenstrual syndrome.  
-__worried sick__ _idiom_ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
 __a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a shame__ _idiom_ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’ work out between you two—that’s a real shame._  

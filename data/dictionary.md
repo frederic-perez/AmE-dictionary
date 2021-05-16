@@ -3826,6 +3826,7 @@ __deli__ _n_ :two::hammer:
 __deliberate__  
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
+__delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delisted__ _v_  
 __deliver__ _v_ :four::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
 __deliverance__ _n_ :four::hammer: _Hope and deliverance._  
@@ -4253,7 +4254,7 @@ __donned__ _v_ _They donned masks._
 __donnybrook__ _n_ A melee; a free-for-all. [After _Donnybrook Fair_, an annual event until 1855 near Dublin.] _Syn_ brawl  
 __donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
 __doo-dah__  
-__doodad__  
+__doodad__ _n_ _informal_ :two: Something, especially a small device or part, whose name is unknown or forgotten.  
 __doodle__ _v_ _Good thinking can happen while doodling about it on a paper tablecloth._  
 __doofer__ _n informal_  
 __dookie-wookie__  
@@ -7356,6 +7357,7 @@ __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ s
 __hot air__ _n_ Loud and confused and empty talk.  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
 __hot desking__ _idiom_ The act or practice of sharing desks or workstations between employees in an office so as to cut down on the amount of office space required.  
+__hot flashes__ _n_  
 __hot glue__  
 __hot potato__ _idiom_ Something that is difficult or dangerous to deal with. _Gun control is a political hot potato._  
 __hot seat__  
@@ -8301,7 +8303,7 @@ __kiosk > pharmacy kiosk__
 __kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._  
 __kirtle__ _n_ :five::hammer: (kirtles)  
 __kischy__  
-__kismet__ _n_ :two: Fate, fortune.  
+__kismet__ _n_ :three: Fate, fortune.  
 __kiss-and-tell__ _Kiss-and-tell narratives._  
 __kitchenware__  
 __kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
@@ -8723,6 +8725,7 @@ __lightning__ _n_
 __like (one’s) life depends on it__ _idiom_ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
 __like (two) peas in a pod__ _idiom_ Said of two people who are very similar in interests, actions, or appearance. _idiom_ Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it’s no wonder people sometimes mistake them for sisters._  
 __like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
+__like attracts like__ _idiom_ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like hell__  
 __like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
@@ -9620,7 +9623,7 @@ __mover and shaker__ A person who wields power and influence; _“a shaker of tr
 __mover__ _n_  
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
-__moxie__ _n_ _slang_ :two::hammer:  
+__moxie__ _n_ :three: _slang_ _US and Canadian_ Courage, nerve, or vigour.  
 __MQTT__ _abbr_ Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
@@ -11169,7 +11172,7 @@ __plutocracy__ _n_ Government by the wealthy.
 __ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
 __PM__ _abbr_ Particulate matter. Small particles in the air, containing a variety of components.  
-__PMS__ _abbr_ Premenstrual syndrome.  
+__PMS__ _abbr_ :two: Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ _n_ :mute:[~~p~~neumonia]  
 __PO__ _abbr_ Parole officer.  
@@ -11767,7 +11770,7 @@ __qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, esp
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
 __quantifiable__  
 __quarrelsome__  
-__quarry__  
+__quarry__ _n_ :two::hammer: _Syn_ prey  
 __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
 __quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
@@ -13002,6 +13005,7 @@ __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._
 __sentry__ _n_ (sentries)  
 __seppuku__ _n_  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
+__sepulcher__ _n_  
 __sequestered__ _v_  
 __sequestration__ _n_ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -14679,6 +14683,7 @@ __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid
 __swooshing__  
 __sword__ _n_ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::four::hammer: (sycophants)  
+__syllable__ _n_  
 __syllogism__ _n_ :two::hammer:  
 __sympathetic__  
 __synaptogenesis__ _n_  
@@ -14720,7 +14725,7 @@ __tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
-__tag along__ _v_ :three::hammer: _His old swing has tagged along._ _You want to tag along?_  
+__tag along__ _idiom_ :four: :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
@@ -15170,7 +15175,7 @@ __timeline__ _n_
 __timeliness__  
 __timely__ _adj, adv_ :nine::m: Occurring at a suitable or opportune time; well-timed. _The timely filing of his income tax return._ _Providing timely information._ _The tests need to be written in a timely fashion._ _In a timely manner._  
 __timepiece__ _n_ A watch, or a clock.  
-__timeserver__ _n_ A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
+__timeserver__ _n_ :two: One who conforms to the prevailing ways and opinions of one’s time or condition for personal advantage; an opportunist. A person whose conduct is shaped to conform to the opinions of the time or of persons in power, esp. for self-serving ends.  
 __timeshare__ _n_ _They have a timeshare in Lake Tahoe._  
 __timetable<sup>1</sup>__ _n_ :two::hammer: _The timetable was tight._  
 __timetable<sup>2</sup>__ _v_  
@@ -16631,6 +16636,7 @@ __worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plasti
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
 __wormhole__ _n_ :two::hammer:  
+__worried sick__ _idiom_ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
 __worrisome__ _adj_ :four::hammer:  
 __worrywarts__  
 __worshiper__  
