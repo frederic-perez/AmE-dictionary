@@ -2937,7 +2937,7 @@ __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)
 __combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
 __combines__ _Basketball_  
 __come across__ _idiom_ :three::hammer:  
-__come again?__  
+__come again?__ _idiom_  
 __come around__  
 __come clean__ _idiom_ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
 __come close to blows__ _idiom_ To nearly devolve into a physical fight.  
@@ -3499,7 +3499,7 @@ __cryptomining__
 __cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
 __crystal clear__  
 __crystal meth__  
-__crystal__ _Meth?_  
+__crystal__ _idiom_ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __crystalline__ _Cristalline lens._  
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
@@ -4468,7 +4468,7 @@ __dry goods__ _Dry goods store._
 __dry humor__  
 __dry run__ _n_ :two::hammer:  
 __dry spel__  
-__dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _pladur?_  
+__dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _Pladur_  
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __DSLR__  
@@ -4647,7 +4647,7 @@ __egotists__
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
-__eh?__ _Impressive, eh?_  
+__eh?__ _interj_ _Impressive, eh?_  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ :mute:[ei~~gh~~t]  
@@ -6165,7 +6165,7 @@ __girdle__ _v_ (girdled)
 __giridon__  
 __gist__ _n_ :mega:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
-__Gitmo__ _Guantanamo?_  
+__Gitmo__ _n_ _informal_ _chiefly US_ Guantánamo  
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one’s) mind__ _idiom_ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ _idiom_ To provide someone with an excuse or a means of escaping (from something).  
@@ -7077,7 +7077,7 @@ __herringbone__ _Basketball shoes with herringbone designs._
 __Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
-__hex key set__ _Allen key set?_  
+__hex key__ _n_ Allen key. _Hex key set._  
 __hex-breaking__ _Looking for a hex-breaking sign._  
 __hey__  
 __heyday__ _n_ :seven: The period of one’s greatest popularity, vigor, or prosperity.  
@@ -7437,7 +7437,6 @@ __Humvee__ _n_ :two::hammer:
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hunger strike__  
-__hungup__ _informal?_ _What’s the hungup?_  
 __hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
@@ -10385,7 +10384,7 @@ __outrageous__ _adj_ :three::hammer:
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
 __outreach__ _n_ :five::hammer: _He’s an HIV outreach worker._  
 __outriggers__  
-__outright__ _adj?_  
+__outright__ _adj, adv_  
 __outset__ _n_ :six::hammer: _The outset of his campaign._  
 __outshine__ _v_ :two: To be much better than someone or something else.  
 __outshit__ _v_  
@@ -12213,7 +12212,7 @@ __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._
 __reprise__ _n_  
 __reprobate__ _v_  
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
-__reps__ _n_ :two::hammer: _American football?_ _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
+__reps__ _n_ :two::hammer: _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_ :two::hammer:  
 __reputedly__ _adv_ According to general belief or supposition: _the reputedly excellent food._  
 __requiescat__ _n_ A wish or prayer for the repose of the dead.  
