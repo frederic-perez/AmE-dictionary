@@ -11072,27 +11072,27 @@ __plain and simple__ _idiom_ :two::hammer::astonished: _This was our mistake, pl
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plaintively__ _adv_ :three:  
-__plaiting__ _Tshanyi earns money plaiting hair._  
-__plan B__ (capital B) An alternative strategy. _It’s time I put plan B into action._  
+__plaiting__ _n_ _Tshanyi earns money plaiting hair._  
+__plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
 __plane tree__ _n_ :two: Any of several trees of the genus _Platanus_, having ball-shaped fruit clusters and, usually, outer bark that flakes off in patches. _It was a place full of plane trees._  
 __plangent__  
 __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
 __plankton__ _n_  
-__plano__ _Plano sunglasses._  
+__plano__ _adj_ Having a flat surface. A corrective lens with a power of zero is called a _plano lens_. These lenses are used when one or both eyes do not require correction of a refractive error. Some people with good natural eyesight like to wear eyeglasses as a style accessory, or want to change the appearance of their eyes using novelty contact lenses. _Plano sunglasses._  
 __plantar fasciitis__ _n_ :two::pencil2::camera: _John was sidelined with planta fasciitis in his right foot._  
-__planter__ _My sidewalk planter._  
-__plaque__ _Plaque in arteries._  
+__planter__ _n_ _My sidewalk planter._  
+__plaque__ _n_ _Plaque in arteries._  
 __plashed__ _v_  
 __plasmapheresis__ _n_  
 __plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
-__plate__ _Baseball_  
+__plate__ _n_ __9__ _Baseball_ Home plate.  
 __plate-glass__ _n_  
 __plateau<sup>1</sup>__ _n_  
 __plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
-__plating__ _It’s your armor plating._  
+__plating__ _n_ _It’s your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
 __platitude__ _n_ :four::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
