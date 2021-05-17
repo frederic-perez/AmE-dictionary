@@ -34,6 +34,18 @@ __rift__ _n_
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
 __onslaught__ _n_ :two: A violent attack.  
 __hallowed__ _adj_  
+__if (one’s) life depended on it__ _idiom_ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
+__grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
+__disjune<sup>1</sup>__ _n_ Breakfast.  
+__disjune<sup>2</sup>__ _v_ To breakfast.  
+__pullulate__ _v_ __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
+__dornick__ _n_ A small stone that is easy to throw.  
+__obsequious__ _adj_  
+__montero__ _n_ A hunter’s cap with side flaps.  
+__hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
+__be like oil and water__ _idiom_ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
+__shimmy__ _v_ Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
+__Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __devious__ _adj_  
 __purloined__ _v_  
 __put a gun to (someone’s) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
