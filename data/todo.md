@@ -76,13 +76,3 @@ __refractory__ _adj_
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __conflate__ _v_ Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __heat wave__ _idiom_ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
-__peccadillo__ _n_ A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
-__litter__ _n_ __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
-__palanquin__ _n_ A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
-__hightail__ _v intr_ To move quickly, especially in retreat or in fleeing. (From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.)  
-__pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
-__dark horse__ _idiom_ (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.)  
-__get someone’s goat__ _idiom_ (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
-__gallant__ _adj_  
-__vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
-__vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  

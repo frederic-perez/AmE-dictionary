@@ -3650,7 +3650,7 @@ __dare__
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
 __dark days__ _idiom_ Times of extreme misfortune or difficult.  
-__dark horse__ _n idiom_ :three::hammer:  
+__dark horse__ _idiom_ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
 __darn<sup>1</sup>__ _interj_ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
@@ -5950,6 +5950,7 @@ __gala__ _n_ __1__ A festive occasion, especially a lavish social event or enter
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
+__gallant__ _adj_  
 __gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
@@ -6099,6 +6100,7 @@ __Get outta here!__ _idiom_
 __get over someone’s head__ _They’re getting over their heads._  
 __get over__  
 __get set__ _v_  
+__get someone’s goat__ _idiom_ (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
 __get the axe__ _idiom_ To lose your job.  
 __get the better of (someone or something)__ _idiom_ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
 __get the drift of something__ _idiom_ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
@@ -7121,6 +7123,7 @@ __highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superio
 __highfalutin__ _adj_  
 __highlight__ _v_  
 __highly__ _I highly recommend it._  
+__hightail__ _v intr_ To move quickly, especially in retreat or in fleeing. (From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.)  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike__ _n_ :two::hammer: (surge?)  
@@ -8802,7 +8805,7 @@ __lithotripter__ _n_
 __litigation__  
 __litigator__ _n_ :two::hammer:  
 __litmus test__ _n_  
-__litter__ _n_ :camera::pencil2:  
+__litter__ _n_ :two::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
@@ -10501,7 +10504,7 @@ __painter__
 __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday._  
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
-__palanquin__ _n_  
+__palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
@@ -10720,7 +10723,7 @@ __pear martinis__
 __pearl onions__  
 __peat__ _n_ :two::hammer: _Battling the blazes in peat swamp forests._  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
-__peccadillo__ _n_ :two: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault.  
+__peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault. A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
 __peccant__  
 __peck away__ _v_  
 __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on her cheek._  
@@ -10765,6 +10768,7 @@ __penal__ _adj_ :two::mega::hammer: _Penal system._
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
 __pence__ _n_ _(plural?)_ _See what you’re using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb “pencher”) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
+__pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __penitentiary__  
@@ -16116,6 +16120,8 @@ __vow__ _v_
 __VTOL__ _n_ A vertical take-off and landing aircraft.  
 __vulcanize__ _v_ To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure.  
 __vulnerable__ _adj_  
+__vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
+__vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
 __vying__ _v_ :seven: Present participle of vie.  
 __wacko<sup>1</sup>__ _n_ :two: Crazy person, lunatic.  
 __wacko<sup>2</sup>__ _adj_  
