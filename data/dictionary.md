@@ -56,7 +56,7 @@ __a falling out__ _idiom_ A severe quarrel or disagreement, especially one that 
 __a fine state of affairs__ _idiom_ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __a fishbowl__ _idiom_ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
-__à gogo__ _informal_ As much as one likes; galore: _wine à gogo._  
+__à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._  
 __a going concern__ _idiom_ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ _idiom_ A sum of money paid to a new employee as a benefit for being recruited by a company.  
 __a good turn__ _idiom_ An action that is beneficial to another person in some way.  
@@ -1490,7 +1490,7 @@ __bloat__ _n_ A group of hippos.
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
-__blood runs cold__ _informal_ To be very frightened.  
+__blood runs cold__ _idiom_ _informal_ To be very frightened.  
 __blood-expander__  
 __blood, sweat, and tears__ _idiom_ A lot of effort and suffering.  
 __bloodshot eyes__ :camera:  
@@ -3553,7 +3553,7 @@ __curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His 
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
-__curveball__ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
+__curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __cushy job__ _idiom_ A job that is easy, stress-free, and/or very well paid.  
 __cushy__ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
@@ -3573,7 +3573,7 @@ __cut one’s eyes at someone or something__ _idiom_ :two: To glance at someone 
 __cut shot__ _n_ A type of shot in several sports.  
 __cut someone some slack__ _idiom_ _Cut her some slack—she’s nervous!_  
 __cut ties with (someone)__ _idiom_ :three::hammer: _I was cutting ties without even knowing._  
-__cut__ _n_ :three: __10__ _Informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
+__cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dry task__  
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
@@ -4312,6 +4312,7 @@ __dovetail__ _v_ (dovetails) :three::hammer:
 __dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down the drain__ _idiom_ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
+__down the pike__ _idiom_ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
 __down the road__ _idiom_ _informal_ In the future; later on.  
 __down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
@@ -7414,7 +7415,7 @@ __hubris__ _n_ :seven: Excessive pride or self-confidence; arrogance. _Intellect
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
-__huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _Informal_ To gather together for conference or consultation.  
+__huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
 __Huey__  
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
@@ -8255,7 +8256,7 @@ __kick ass__ _idiom_ :two: _vulgar_ _slang_ To take forceful or harsh measures t
 __kick board__ _n_ (swimming) :camera:  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ _idiom_ :two: To start to have an effect or to happen.  
-__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _Informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
+__kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
@@ -9869,7 +9870,7 @@ __nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :eight: __1__ To bite at gently a
 __nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nice and (something)__ _idiom_ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
-__nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
+__nice and easy__ _idiom_ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nicety__ _n_  
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
 __nickel__ _n_ _A nickel mine._  
@@ -10729,7 +10730,7 @@ __pecking order__
 __pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_  
-__peddle__ _v_ :four: (peddling) __2__ _Informal_ To seek to disseminate; give out: _peddling lies._  
+__peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestrian__ _n_ :five::hammer: (pedestrians)  
 __pedestrianized__ _v_  
 __pedi__  
@@ -10956,21 +10957,20 @@ __piggy bank__ _n_ A child’s coin bank (often shaped like a pig).
 __piggy-back__  
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
-__pigs in a blanket__ (food?) :camera:  
+__pigs in a blanket__ _n_ (food) :camera:  
 __pigtail__ _n_ :two::hammer: (pigtails)  
-__pike__ _You can handle whatever comes down the pike._  
-__pilaf__ _Chickenpilaf._  
-__Pilates__ :mega:  
+__pilaf__ _n_ _Chicken pilaf._  
+__Pilates__ _n_ :mega: (Etymology: Joseph H. Pilates †1967 U.S. (German-born) fitness instructor.)  
 __pilcrow__  
 __pile bridge__ _n_ :two::hammer:  
+__pile__ _v_ (piling) _There’s a lot of investors piling in._  
 __pileup__  
 __pilfer__ _v_ :three::hammer: (pilfering)  
 __pilfered__ _v_  
-__piling__ _v_ _There’s a lot of investors piling in._  
-__pilings__ _A deserted cabin built on pilings._  
+__piling__ _n_ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
-__pillbox__ _A plum-colored pillbox hat._  
+__pillbox__ _n_ _A plum-colored pillbox hat._  
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
@@ -10995,11 +10995,11 @@ __pine__ _v_ :three::hammer: (pined) _She pined for the pianist._ _It was only i
 __ping__ _v_ _Pinging with heat._  
 __pinion<sup>1</sup>__ _n_  
 __pinion<sup>2</sup>__ _v_ :three::hammer: (pinioned)  
-__pink collar__ _Pink collar jobs._  
 __pink elephants__ _idiom_ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pink slip__  
+__pink-collar__ _adj_ Of, relating to, or constituting a class of employees in occupations (such as nursing and clerical jobs) traditionally held by women.  
 __Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private detective, who started a detective agency in 1850. _A Pinkerton was hired to investigate the robbery._  
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He’s all pinkified for halloween._  
@@ -11008,12 +11008,12 @@ __pinned__
 __pinning__ _v_  
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
 __pinpricks__ _n_  
-__pins and needles__ :es: hormigueo  
+__pins and needles__ _n pl_ :es: hormigueo  
 __pinwheel__ _v_  
 __pinwheeling__  
 __pions__ _n_  
 __pip__ _n_ __1__ A disease of birds, characterized by a thick mucous discharge that forms a crust in the mouth and throat. __2__ _slang_ A minor unspecified human ailment.  
-__pipe down__ _informal_ Stop talking; be less noisy. _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
+__pipe down__ _idiom_ _informal_ To become quiet and calm; to stop being loud or boisterous. Often said as a command. _OK, class, pipe down! Let’s begin our lesson, shall we?_ _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __pipe dream__ _n_ :dart::three::hammer:  
 __pipe tape__  
 __pipehead__  
@@ -11061,8 +11061,7 @@ __pizzle__ _n_ :two::hammer: (penis?)
 __PJs__  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
-__place__ _v_ _Japan placed third behind Norway and Germany in the World Cup men’s ski jumping competition._  
-__placed__ _Katherine Reutten placed fifth in the 1,000-meter final._  
+__place__ _v_ :two: (placed) __8a__ To rank in an order or sequence: _I’d place him second best._ _Japan placed third behind Norway and Germany in the World Cup men’s ski jumping competition._ _Katherine Reutten placed fifth in the 1,000-meter final._ __b__ To estimate: _placed the distance at 100 feet._  
 __placeholder__ _n_ :four::hammer:  
 __placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
@@ -13765,7 +13764,7 @@ __sod__ _n_
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __soffit__  
-__soft-pedal__ _v_ _Informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
+__soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :two::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
 __softly-softly__  
