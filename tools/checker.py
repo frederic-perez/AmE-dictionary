@@ -180,6 +180,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_phr v_', \
     '_phr_', \
     '_pl n_', \
+    '_pref_', \
     '_prep_', \
     '_pron_', \
     '_prov_', \

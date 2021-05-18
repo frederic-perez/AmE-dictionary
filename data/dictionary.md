@@ -4554,7 +4554,7 @@ __dyadic__
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :two::pencil2::hammer:  
-__dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
+__dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  

@@ -4,6 +4,18 @@ __balk<sup>3</sup>__ _v_ (tr) To thwart or hinder.
 __bottom of the ninth__ _idiom_ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __suborn__ _v_ :astonished:  
+__peruse__ _v_  
+__sine die__ _adv_ [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
+__oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
+__oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
+__the keys to the kingdom__ _idiom_ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
+__alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
+__magnum opus__ _n_ __1__ A great work, especially a literary or artistic masterpiece. __2__ The greatest single work of an artist, writer, or composer.  
+__Hoyle__ _n_ (After Edmond Hoyle, British writer on games.) A reference book of rules for card games and other indoor games.  
+__according to Hoyle__ _idiom_ In accord with the prescribed rules or regulations.  
+__heinous__ _adj_  
+__endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
+__bring (something) into effect__ _idiom_ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __uphold__ _v_  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
 __a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
