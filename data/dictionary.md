@@ -10878,7 +10878,7 @@ __petty__ _adj_ :two: Not important and not worth giving attention to. _A petty 
 __petulance__  
 __petulant__ _adj_ :five::mega::hammer:  
 __petulantly__  
-__pew__ _Church pews._  
+__pew__ _n_ _Church pews._  
 __pewter__  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ _n_ :two::hammer:  
@@ -10916,33 +10916,32 @@ __piano wire__
 __pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
 __picayune<sup>1</sup>__ _adj_  
 __picayune<sup>2</sup>__ _n_ :two::hammer:  
-__pick (one’s) nose__ __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
+__pick (one’s) nose__ _idiom_ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick a fight__  
 __pick and roll__  
 __pick me out__  
 __pick on (one)__ _idiom_ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
 __pick up after (someone or oneself)__ _idiom_ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you’re going to use my workshop._  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket’s kiosk._ _His turnover-prone play doesn’t pick up._  
-__pick your nose__ :dart: To use your finger to remove mucus from inside your nose.  
 __pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
-__pick-six__ _Football_  
-__pick-up game__ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
-__pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
-__pick-up__ _The restaurant was little more than a pick-up joint._  
+__pick-six__ _n_ _Football_  
+__pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
+__pick-up line__ _idiom_ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
+__pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with sexual intentions. _The restaurant was little more than a pick-up joint._  
 __pickaxe__ _n_  
 __picker-upper__ _n_ A person who picks things up. _Tom was a quick picker-upper._  
 __picket fence__ _n_  
 __pickets__ _n_  
 __picklock__ _v_  
-__pickoff__ _A pickoff throw to first base._  
+__pickoff__ _n_ __1__ _Baseball_ A play in which a runner is caught off base and is put out by a quick throw, as from the pitcher or catcher. _A pickoff throw to first base._  
 __pickup__  
 __picky__ _adj_ :three::hammer:  
 __picnicware__ _n_ Disposable plates, cups, etc. intended for use on picnics.  
 __pictogram__  
-__picture-perfect__ _The picture-perfect porch._  
+__picture-perfect__ _adj_ _The picture-perfect porch._  
 __picturesque__  
 __piddle__ _v_  
-__piddling__ _He had killed several hours with footless piddling._  
+__piddling__ _adj_ Petty; trifling; trivial. _He had killed several hours with footless piddling._  
 __pie in the sky__ _idiom_ :three::hammer:  
 __piece of cake__  
 __piece of work__ _idiom_ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
