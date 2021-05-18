@@ -1,15 +1,3 @@
-__alive and kicking__ _idiom_  
-__connective tissue__ _n_  
-__tweak<sup>1</<sup>__ _v tr_ __2__ To adjust; fine-tune: _tweaked her computer setup._  
-__tweak<sup>2</<sup>__ _v intr_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
-__descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
-__somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
-__be in for a treat__ _idiom_ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
-__rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
-__in fee__ _idiom_ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
-__ring true__ _idiom_ To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
-__fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
-__adulate__ _v_ :mega:  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v_ (intr) To stop, hesitate, or refuse to proceed.  
 __balk<sup>3</sup>__ _v_ (tr) To thwart or hinder.  

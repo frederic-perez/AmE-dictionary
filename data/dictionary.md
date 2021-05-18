@@ -249,6 +249,7 @@ __adoring__
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
+__adulate__ _v_ :mega:  
 __adulation__  
 __adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulterate__ _v_  
@@ -380,6 +381,7 @@ __alienated__ _adj_ Feeling that you do not belong in a particular society, plac
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_  
 __align__ :mute:[ali~~g~~n]  
+__alive and kicking__ _idiom_  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
 __all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
@@ -1112,6 +1114,7 @@ __be honor-bound to do (something)__ _idiom_ To be or feel obliged to do somethi
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _idiom_ _slang_ To be in a troublesome situation.  
 __be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
+__be in for a treat__ _idiom_ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be just the same (to someone)__ _idiom_ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
 __be kicked upstairs__ _idiom_ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
@@ -3096,6 +3099,7 @@ __conjunction__
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
 __conman__  
+__connective tissue__ _n_  
 __connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :five::hammer: (connived, conniving)  
 __consciousness__ _n_  
@@ -3890,6 +3894,7 @@ __derogative__ _adj_
 __derrick__ _n_  
 __derringer__  
 __dervish__ _n_  
+__descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descent__ :mute:[des~~c~~ent]  
 __descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
@@ -5756,6 +5761,7 @@ __Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)
 __fracas__ _n_ :three: Noisy quarrel.  
 __fracking__ Hydraulic fracturing.  
 __fractious__ _adj_ _His fractious temperament._  
+__fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frail<sup>1</sup>__ _adj_  
 __frail<sup>2</sup>__ _n_  
@@ -7653,6 +7659,7 @@ __in donkeys__ _idiom_ In an exceptionally long period of time. The phrase likel
 __in droves__ _They will come in droves._  
 __in excess of__ _idiom_ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._  
 __in favor (with someone)__ _idiom_ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
+__in fee__ _idiom_ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in fold__  
 __in front of (one’s) nose__ _idiom_ Immediately obvious or clearly apparent.  
 __in full gear__ _idiom_ At the highest or maximum level of function, operation, or performance.  
@@ -11943,6 +11950,7 @@ __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.
 __rarer than hens’ teeth__ _idiom_ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __raring__  
 __rascal__  
+__rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rash<sup>2</sup>__ _adj_ :two: Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
 __Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
@@ -12366,6 +12374,7 @@ __ring a bell__ _idiom_
 __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
 __ring someone’s bell__ _idiom_ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
+__ring true__ _idiom_ To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
 __ring up__ _idiom_ _Ringing up sales._  
 __ring__ _n_ _A narcotics ring._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
@@ -13801,6 +13810,7 @@ __solipsism__ _n_
 __solipsistic__ _adj_ :four::hammer:  
 __soloist__ _n_ :three::hammer:  
 __solvent__ _n_  
+__somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
 __something is rotten in the state of Denmark__ _idiom_  
 __something or other__ _idiom_ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
@@ -15616,7 +15626,8 @@ __twanger__ _n_
 __twangy__  
 __twat__  
 __tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
-__tweak<sup>2</sup>__ _v_  
+__tweak<sup>2</<sup>__ _v tr_ :two: __2__ To adjust; fine-tune: _tweaked her computer setup._  
+__tweak<sup>3</<sup>__ _v intr_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
 __tweed__  
 __tweeny-weeny__  
 __twerp__ _n_ _slang_ A person regarded as insignificant and contemptible. _That malfunctioning little twerp. This is all his fault!_  
