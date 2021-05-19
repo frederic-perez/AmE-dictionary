@@ -17,19 +17,6 @@ __heinous__ _adj_
 __endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __bring (something) into effect__ _idiom_ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __uphold__ _v_  
-__intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
-__a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
-__a shame__ _idiom_ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’ work out between you two—that’s a real shame._  
-__jabber__ _v_ Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
-__lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?!_  
-__pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
-__predicament__ _n_  
-__preeminent__ _adj_  
-__mephitic__ _adj_  
-__a joy to behold__ _idiom_ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
-__chastise__ _v_ Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
-__lodestone__ _n_ From Middle English _lode_ (way) + stone (from its use by sailors to show the way). __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
-__diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
 __rift__ _n_  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
 __onslaught__ _n_ :two: A violent attack.  

@@ -64,6 +64,7 @@ __a great many__ _idiom_ A very large number of (people, things, etc.).
 __a hard pill to swallow__ _idiom_ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
 __a hill of beans__ _idiom_ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ _idiom_ A continuous period of great success, luck, or fortune; a winning streak.  
+__a joy to behold__ _idiom_ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
 __a juggling act__ _idiom_ A difficult and/or precarious situation in which several things are being attempted or must be maintained at the same time.  
 __a kernel of truth__ _idiom_ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
 __a knee-slapper__ _idiom_ A hilarious joke, especially one that evokes loud and prolonged laughter.  
@@ -78,6 +79,8 @@ __a little leery__ _idiom_ Cautious, wary, or uncertain of a given person, place
 __a little__ _idiom_ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ _idiom_ A period of trouble, difficulty, or hardship.  
+__a shame__ _idiom_ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
+__a shiver down (one’s) spine__ _idiom_ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
 __a sly dog__ _idiom_ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ _idiom_ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a stab at (someone or something)__ _idiom_  
@@ -2519,7 +2522,7 @@ __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surfa
 __chassis__  
 __chasten__ _v_ Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
-__chastize__ _v_  
+__chastise__ _v_ :two: (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
 __chatter__ _A machine-gun chatter._  
@@ -3974,6 +3977,7 @@ __diecast__
 __diehard__ _adj_ :two::hammer: _A diehard fan._  
 __differ__ _v_ :two::mega::hammer:  
 __different animal__ _n_ Something different.  
+__diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
 __diffident__ _adj_ :two::dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._  
 __dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
@@ -7913,6 +7917,7 @@ __interim__
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlopers__ _n_ :three::hammer:  
 __interment__ _n_ :three::hammer:  
+__intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
 __intermission__ _n_ :four::hammer::dart:  
 __intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
 __intermittent__  
@@ -7997,7 +8002,7 @@ __ivy__ _n_ :four::hammer: :es: hiedra
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
-__jabber__ _v_ :three::hammer: (jabbered, jabbering) _Mormons return jabbering in Portuguese._  
+__jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
 __jack it up__ _v_  
@@ -8754,6 +8759,7 @@ __lilac tree__
 __lilac__ _n_ :two::hammer:  
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
+__lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?!_  
 __lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
@@ -8857,6 +8863,7 @@ __locomotive__ _n_
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
+__lodestone__ _n_ From Middle English _lode_ (way) + stone (from its use by sailors to show the way). __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
 __lodges__ _Fishing lodges._  
 __lodging__  
@@ -9316,6 +9323,7 @@ __mens room__ _n_
 __mental memo__ _n_ :camera:  
 __mentees__  
 __Mephistopheles__ _n_ (Mephisto)  
+__mephitic__ _adj_  
 __merc__ _n_ :two::hammer:  
 __mercantile__ _adj_ :two::hammer:  
 __merch__ _n_ _informal_ :three: Merchandise.  
@@ -11339,6 +11347,7 @@ __pounce__ _v_ :five::hammer: (pounced)
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: _The child’s lips pouted._ _You better not cry, you better not pout._  
+__pouter__ _n_ Someone with a habitually sullen or gloomy expression. _Syn_ picklepuss, sourpuss _What will it take for you to stop being such a pouter and enjoy yourself?_  
 __poutine__ _n_  
 __pouty__ _adj_  
 __pow-wow__  
@@ -11385,8 +11394,8 @@ __precision<sup>2</sup>__ _adj_ _Precision medicine._
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
-__predicament__ _n_ :nine: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
-__preeminent__ _adj_ :three::hammer:  
+__predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
+__preeminent__ _adj_ :four::hammer:  
 __preempt__ _v_  
 __preemptive__  
 __preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
