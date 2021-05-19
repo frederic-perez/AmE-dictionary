@@ -10795,18 +10795,18 @@ __pensum__ _n_ A task given, especially as a punishment.
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
 __penurious__ _adj_ _Syn_ stingy, parsimonious  
 __peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
-__pep talk__ _Giving Chris Gethard a pep talk._  
+__pep talk__ _n_ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
 __pep<sup>2</sup>__ _v_ (pepping)  
-__Pepe the frog__ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
+__Pepe the Frog__ _n_ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
 __pepper__ _v_ :seven::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
 __per diem__  
-__per se__ :mega: /pər sā′, sē′/  
-__percentile__ :mega:  
+__per se__ _adv_ :mega: /pər sā′, sē′/  
+__percentile__ _n_ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
@@ -10826,9 +10826,9 @@ __peril__ _n_ :two::hammer: (perils)
 __perilous__ _adj_  
 __perimortem__ _adj_ At, or near, the time of death.  
 __perinatal__  
-__periodontal__ _Periodontal health._  
+__periodontal__ _adj_ _Periodontal health._  
 __periodontist__ _n_  
-__perioperative__ _Perioperative morbidity._  
+__perioperative__ _adj_ Relating to, occurring in, or being the period around the time of a surgical operation, _Perioperative morbidity._  
 __Peripatetic<sup>1</sup>__ _adj_ Of or relating to the philosophy or teaching methods of Aristotle, who conducted discussions while walking about in the Lyceum of ancient Athens.  
 __peripatetic<sup>1</sup>__ _adj_ Walking about or from place to place; traveling on foot.  
 __Peripatetic<sup>2</sup>__ _n_ A follower of the philosophy of Aristotle; an Aristotelian.  
@@ -10846,7 +10846,7 @@ __perks__
 __permafrost__ _n_ :two::hammer:  
 __permeate__ _v_  
 __permed__  
-__permit__ _Camping permit fee._  
+__permit__ _n_ _Camping permit fee._  
 __pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
@@ -10875,10 +10875,10 @@ __pet hate__ _idiom_ A source of annoyance for one; a pet peeve. _Ugh, my pet ha
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
 __peter out__  
 __petite__  
+__Petri dish__ _n_ :mega: (petri dish)  
 __petrichor__ _n_ :two::hammer:  
-__petroglyphs__ _Ancient Indian petroglyph._  
+__petroglyph__ _n_ _Ancient Indian petroglyph._  
 __petroleum jelly__  
-__Petry dish__ :mega:  
 __petted__  
 __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the payment of minor incidental expenses.  
 __petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
