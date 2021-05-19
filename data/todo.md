@@ -4,6 +4,18 @@ __balk<sup>3</sup>__ _v_ (tr) To thwart or hinder.
 __bottom of the ninth__ _idiom_ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __suborn__ _v_ :astonished:  
+__Houdini<sup>1</sup>__ _n_ An escape artist.  
+__Houdini<sup>2</sup>__ _v intr_ To escape.  
+__tawdry__ _adj_ [Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy.  
+__kick the tires__ _idiom_ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
+__intemperate__ _adj_ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
+__egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
+__intestinal fortitude__ _idiom_ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
+__malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
+__blithesome__ _adj_  
+__over the course of__ _idiom_ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
+__impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
+__shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
 __peruse__ _v_  
 __sine die__ _adv_ [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
