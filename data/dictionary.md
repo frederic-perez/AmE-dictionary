@@ -10643,10 +10643,9 @@ __part company__ _v_
 __part-time<sup>1</sup>__ _adj_  
 __part-time<sup>2</sup>__ _adv_  
 __partake__ _v_ :nine::m: (partaken, partaking) __1__ (followed by in) To have a share; participate: _to partake in the excitement._ __2__ (Cookery) (followed by of) To take or receive a portion, esp of food or drink: _each partook of the food offered to him._ __3__ (foll by of) to suggest or have some of the quality (of): _music partaking of sadness._  
-__parted hair__ _Diaz wore parted hair._  
-__parted__ _Slightly parted lips._  
+__parted__ _adj_ :two::hammer: _Diaz wore parted hair._ _Slightly parted lips._  
 __parterre__ _n_ :two: An ornamental flower garden having the beds and paths arranged to form a pattern.  
-__participatory__ _I wanted to be a participatory father._  
+__participatory__ _adj_ _I wanted to be a participatory father._  
 __particle board__  
 __partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
 __partner__ _n_  
@@ -10664,12 +10663,12 @@ __pass out__ _phr v_ :three: To become unconscious.
 __pass policy__  
 __pass up__  
 __passage__ _n_ :two::hammer: _The passage of three supplementary budgets this year._ _Natural events include severe weather, frontal passages, and earthquakes._  
-__passel__ _A passel of ducks._  
+__passel__ _n_ A large number or amount. _A passel of ducks._  
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: Sailing is her favorite pastime.  
-__pastries__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
 __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sofa cushion next to her._ _Pat him on the shoulder._  
@@ -10700,7 +10699,7 @@ __patronymic__
 __patsy__ _adj_  
 __patter__  
 __patterned__ _v_ :three::hammer:  
-__patterning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
+__patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :six: The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” People in LA don’t understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
 __Paulistano__  
@@ -10725,7 +10724,7 @@ __PB&J__ _abbr_
 __PC__ _abbr_ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
 __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
 __PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
-__PE__ _There were a lot of students in there ready for a PE class._  
+__PE__ _abbr_ Physical education. _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
 __peachy__ _adj_ _informal_ Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
@@ -10769,7 +10768,7 @@ __peevishly__ _adv_ :two::hammer:
 __peewee__ _n_  
 __peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
-__Pell Grants__ _Young people get cuts in Pell Grants._  
+__Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__  
 __pellet__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
@@ -10778,7 +10777,7 @@ __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the 
 __pen name__ _n_ :two::hammer:  
 __pen<sup>1</sup>__ _n_ _Cricket pen._  
 __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific papers._  
-__penal code__ :mega:  
+__penal code__ _n_ :mega:  
 __penal__ _adj_ :two::mega::hammer: _Penal system._  
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
 __pence__ _n_ _(plural?)_ _See what you’re using in pounds and pence with a smart meter._  
@@ -10793,10 +10792,11 @@ __pennant races__
 __pennant__ _n_ :three::hammer: (pennants)  
 __penned hogs__  
 __penned up__  
-__penny-pinch__ _Penny-pinching conservatives._  
+__penny-pinch__ _v_ Spend money frugally; spend as little as possible. _Syn_ nickel-and-dime _Penny-pinching conservatives._  
 __pennyworth__ _n_ __3__ A bargain: _got my pennyworth at that price._  
 __pens__ _n_ :two::hammer: _Horse corrals and elephant pens._ _Screened pens with rabbits._  
-__pensionary__ :es: jubilado  
+__pensionary<sup>1</sup>__ _adj_  
+__pensionary<sup>2</sup>__ _n_ __1__ A pensioner. :es: jubilado __2__ A hireling.  
 __pensive__ _adj_ :four::hammer: _You look pensive._  
 __pensively__  
 __pensum__ _n_ A task given, especially as a punishment.  
