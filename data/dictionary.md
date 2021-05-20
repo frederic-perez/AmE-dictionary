@@ -963,7 +963,9 @@ __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of co
 __bale<sup>2</sup>__ _v_  
 __baleful__ _adj_ _Syn_ threating, menacing  
 __balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
-__balk__ _v_ :nine::m: /bɔːlk,bɔːk/ (balked) Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
+__balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
+__balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
+__balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
 __ball and chain__ A wife.  
 __ball bearings__  
@@ -1693,6 +1695,7 @@ __bottle opener__ :camera:
 __bottle rocket__ (Mentos-propelled?)  
 __bottled up__ _v_  
 __bottom of the barrel__ _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
+__bottom of the ninth__ _idiom_ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
 __bottom-of-the-barrel__  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
@@ -4848,6 +4851,7 @@ __enunciation__
 __envelop__ _v_  
 __envelope > push the envelope__ _idiom_ To go beyond established limits; to pioneer.  
 __enviable__  
+__environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __environs__ _n pl_  
 __envisage__ _v_ :two: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :four::hammer:  
@@ -7388,6 +7392,8 @@ __hotbed__ _n_ :four: A situation that is ideal for rapid development (especiall
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hothead__ _idiom_ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
+__Houdini<sup>1</sup>__ _n_ An escape artist.  
+__Houdini<sup>2</sup>__ _v intr_ To escape.  
 __hound__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
 __hounds__ _n_  
 __hour__ :mute:[~~h~~our]  
@@ -8275,6 +8281,7 @@ __kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kick
 __kick sand in the air__  
 __kick the bucket__  
 __kick the crap out of (someone)__ _idiom_  
+__kick the tires__ _idiom_ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
 __kick-the-can__ _n_ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
 __kickback schemes__  
@@ -14492,7 +14499,7 @@ __subjugation__ _n_ Forced submission to control by others.
 __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __sublimate__ _v_  
 __submachine gun__  
-__suborn__ _v_  
+__suborn__ _v_ :two::astonished::hammer:  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
@@ -14879,7 +14886,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tautology__ _n_  
-__tawdry__ _adj_ :four: Poor, cheap quality.  
+__tawdry__ _adj_ :five: [Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality.  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
