@@ -1107,6 +1107,7 @@ __be a roaring success__ _idiom_ To be extremely or triumphantly successful.
 __be as good as gone__ _idiom_ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits’ end__ _idiom_ To be worried about something and not know what you should do next.  
 __be brought in from the cold__ _idiom_ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
+__be caught with (one’s) pants down__ _idiom_ To be taken by surprise; to be caught in a vulnerable (often embarrassing) position or situation. _We seriously underestimated our opponents on Saturday and were caught with our pants down._  
 __be champing at the bit__ _idiom_ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ _idiom_ To be emptied or devoid of money, food, resources, etc.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
@@ -2996,6 +2997,7 @@ __Commonwealth__
 __commotion__ _n_  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
+__comp__ _n_ (comps) __4__ A competition.  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
@@ -3024,7 +3026,6 @@ __compounding__ _Compounding the situation._
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comprise__ _v_  
-__comp__ _n_ (comps) __4__ A competition.  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
@@ -10491,19 +10492,18 @@ __oxymoron__ :mega:
 __oyster__ _n_ :two::hammer:  
 __Oz__ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
-__Ozzie__ _n_ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
-__Ozzies__ (Australians?)  
-__pablum__ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
+__Ozzie__ _n_ :two: (Ozzies) __1__ An Ozzie or (Aussie) is an Australian slang term to name themselves, often used in chants on Australia day “Ozzie ozzie ozzie” “oi oi oi.” __2__ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
+__pablum__ _n_ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
 __pace around__ _idiom_ To walk around nervously or anxiously. _He was pacing around making people nervous._  
-__pachinko__ (game)  
+__pachinko__ _n_ A Japanese gambling game played on a vertical pinball machine.  
 __pachyderm__ _n_ :pencil2:  
-__Pacific Basin__ _Pacific Basin nations._  
+__Pacific Basin__ _n_ _Pacific Basin nations._  
 __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of the Pacific Ocean, _esp_ in the context of their developing manufacturing capacity and consumer markets.  
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package deal__ _idiom_ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
 __package peanuts__  
 __package__ _n_ :mega: /păk′ĭj/  
-__padded__ _He leaned back in his padded chair._  
+__padded__ _adj_ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
 __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._  
@@ -10538,9 +10538,10 @@ __palled__ _v_
 __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ _Sleeping pallets (makeshift beds)._  
 __pallholder__ _n_  
 __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
-__palliative__ _Palliative care._  
+__palliative__ _adj_ _Palliative care._  
 __pallor__ _n_ :two::hammer:  
-__palm__ :mega::mute:[pa~~l~~m]  
+__palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]  
+__palm<sup>2</sup>__ _v_ :mega::mute:[pa~~l~~m]  
 __palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
 __palmetto__ _n_ :two::hammer: (palmettos)  
 __palomas__  
@@ -10573,14 +10574,13 @@ __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A
 __panorama__ _n_  
 __pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
-__pantoscopic__ _Pantoscopic tilt._  
+__pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantry__ _n_ :three::hammer:  
-__pants down__ :camera: _You might get caught with your pants down._  
 __pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper chase__ _idiom_ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
-__paper cut__ _He can’t stand the sight of blood, not even from a paper cut._  
+__paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
 __paper tablecloth__ _n_ :two::hammer:  
 __paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
@@ -10589,7 +10589,7 @@ __paperwork__
 __pappy__  
 __paprika__ _n_  
 __paracetamol__ _n_ :dart::mega: \[ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-\]  
-__paradigm__ :mute:[paradi~~g~~m]  
+__paradigm__ _n_ :mute:[paradi~~g~~m]  
 __paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
 __paradoxically__  
@@ -10612,8 +10612,8 @@ __parasternal__ _adj_ Adjacent to the sternum.
 __parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
-__Parcheesi__ :pencil2: _She politely asks him to go play Parcheesi._  
-__parchment paper__ :camera:  
+__Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
+__parchment paper__ _n_ :camera:  
 __parchment__ _n_ :six::hammer: _A parchment chart._  
 __pard__  
 __pardon my French__ _idiom_ :two: Excuse me for swearing.  
@@ -10621,7 +10621,7 @@ __pardon__ _v_ _Pardon my ignorance._
 __pare__ _v_ :three::hammer: (pares, pared)  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
 __pariah__ _n_ :five::hammer:  
-__parietal__ _The parietal portion of the skull._  
+__parietal__ _adj_ _The parietal portion of the skull._  
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
@@ -10636,7 +10636,7 @@ __parolee__ _n_
 __paroxysm__  
 __paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
 __parried__ _v_  
-__parrot nose pliers__ :es: Mordaza pico de loro  
+__parrot nose pliers__ _n_ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
 __parry__ _v_ :two::hammer:  
