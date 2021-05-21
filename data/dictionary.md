@@ -1692,7 +1692,7 @@ __bothersome__ _adj_ :dart::two: Causing bother; troublesome.
 __botnet__  
 __bottle fly__ _n_  
 __bottle opener__ :camera:  
-__bottle rocket__ (Mentos-propelled?)  
+__bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
 __bottled up__ _v_  
 __bottom of the barrel__ _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ _idiom_ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
@@ -2249,7 +2249,7 @@ __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilevered__  
 __canvass__ _v_ :two::hammer::astonished:  
-__cap<sup>1</sup>__ _n informal_ :three: A capital letter. (soccer; hat?)  
+__cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
@@ -2490,7 +2490,7 @@ __chandler__
 __change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
-__chant__ _v_ (vs sing?)  
+__chant__ _v_  
 __chanticleer__ _n_  
 __chanting__  
 __chaos__ :mute:[c~~h~~aos]  
@@ -3024,7 +3024,7 @@ __compounding__ _Compounding the situation._
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comprise__ _v_  
-__comps__ _n_ (Competitors?)  
+__comp__ _n_ (comps) __4__ A competition.  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
@@ -3130,7 +3130,7 @@ __construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning 
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
-__consumption__ (ailment?)  
+__consumption__ _n_ __3a__ Tuberculosis. __b__ A progressive wasting away of the body especially from pulmonary tuberculosis.  
 __contactless__  
 __contagion__  
 __contempt__ _n_ :three::hammer: _Contempt sentence._  
@@ -3755,7 +3755,7 @@ __decimate__ _v_ _It decimated their relationship._
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
 __deck<sup>1</sup>__ _n informal_ The ground or floor.  
-__deck<sup>2</sup>__ _v_ :four::hammer: (Decorate?) _Those are just a few of the things that deck the halls of the raunchy comedy._  
+__deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
 __decline__ _n_  
@@ -3985,7 +3985,7 @@ __diffident__ _adj_ :two::dart: Lacking or marked by a lack of self-confidence; 
 __dig your own grave__ _idiom_ To do something stupid that will cause problems for you in the future.  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
-__digit__ (finger?)  
+__digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
@@ -4036,7 +4036,7 @@ __direction__ _n_ :two::mega:
 __dirge__  
 __dirges__ _n_  
 __dirigiste__  
-__dirk__ _n_ (weapon?)  
+__dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
 __dirt bike__ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
 __dirtbag__ _n_ _slang_ :four: A filthy or disreputable person.  
@@ -4058,7 +4058,7 @@ __disbar<sup>1</sup>__ _n_ _Disbar attorney._
 __disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
-__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ (Why not ‘fired’?) _The patient was discharged the day after the operation._  
+__discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
@@ -4685,7 +4685,7 @@ __elbow__ _v_ (elbowing) _Elbowing your way through crowds._
 __elderberry__  
 __elderflower__  
 __elderly__ :es: tercera edad  
-__eldest__ (is this right?)  
+__eldest__ _adj_  
 __eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
 __elective__ _Other students can take up to four fine arts electives._  
@@ -6251,7 +6251,7 @@ __gnarled__ _v_ :two::hammer: _Gnarled fingers._
 __gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
 __gnash__ _Gnasing teeth._  
 __gnashing__  
-__gnat__ _n_ :four::hammer: (insect?)  
+__gnat__ _n_ :four: Any of various small usually biting dipteran flies. :es: (British usage) mosquito  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
 __gnome__ :mute:[~~g~~nome]  
 __gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
@@ -8974,7 +8974,7 @@ __lowlights__
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
 __lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
-__lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion. _  
+__lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
 __lucky break__ _idiom_ A very fortunate or beneficial chance or happenstance.  
 __lucky charm__  
@@ -13896,7 +13896,7 @@ __spackle__ _n_ :two::hammer:
 __spade-bearded__  
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __spandex__ _n_  
-__spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target. _  
+__spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target._  
 __spangle__ _v_ :six::hammer: (spangled, spangling)  
 __Spanish moss__ _n_ :two::hammer:  
 __Spanx__  
@@ -14671,7 +14671,7 @@ __sweet water__ _n_ :two: _(uncommon)_ Fresh water.
 __sweetbreads__ _n_ Edible glands of an animal.  
 __sweethearts__  
 __sweeting__ _n_ A sweet apple.  
-__swell<sup>1</sup>__ _n_ :four::hammer: _The swell of people from war-torn countries._ _They think they’re doing just swell._ (typo or pun?)  
+__swell<sup>1</sup>__ _n_ :four::hammer: _The swell of people from war-torn countries._  
 __swell<sup>2</sup>__ _v_ :three::hammer: (swelled, swelling)  
 __sweltering__ _adj_ :seven: Uncomfortably hot. _A sweltering Spanish summer._ :es: sofocante  
 __swerve<sup>1</sup>__ _n_ :two::hammer: _Applying swerve and spin to the ball._  
@@ -14870,7 +14870,7 @@ __task__ _v_ :four::hammer: (tasked) _They have been tasked._
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
 __tassel<sup>1</sup>__ _n_ :two::hammer: _A thong with tassels._  
 __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
-__tat__ _n_ :two::hammer: (tattoo?)  
+__tat__ _n_ :two: __3__ _informal_ (tatt) A mark or design made on the skin; a tattoo.  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
