@@ -3,6 +3,18 @@ __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is n
 __intestinal fortitude__ _idiom_ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __blithesome__ _adj_  
+__altruism__ _n_  
+__pooh-bah__ _n_ :dart: [After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. __3__ A person holding many offices or positions of power.  
+__graduate<sup>1</sup>__ _n_  
+__graduate<sup>2</sup>__ _adj_  
+__graduate<sup>3</sup>__ _v_ :dart: [_Graduate_ comes from the Medieval Latin _graduārī_, meaning “to take a degree.” It ultimately derives from the Latin _gradus_, meaning “a step.” Each time you graduate, you take a step to the next level of education.]  
+__grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
+__undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
+__undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
+__aver__ _v_  
+__kick the can down the road__ _idiom_ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
+__objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate, reprobate _During the sentencing, the judge objurgated the crime in the strongest possible terms._  
+__meddlesome__ _adj_  
 __over the course of__ _idiom_ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
