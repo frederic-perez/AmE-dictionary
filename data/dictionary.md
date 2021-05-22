@@ -3544,8 +3544,8 @@ __cuppa__ _n_ :two: A cup of tea.
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curb<sup>2</sup>__ _v_ :three::hammer: _Curb drug resistance._  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
+__curb<sup>2</sup>__ _v_ :three::hammer: _Curb drug resistance._  
 __curdle__  
 __curdled__ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
@@ -6281,6 +6281,7 @@ __go out__ _idiom_ __1__ To go on a date with someone. _Those two have such an o
 __go over (one’s) head__ _idiom_ __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
 __go over the top__  
 __go over the wire__  
+__go overboard__ :dart: _idiom_ To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go places__ _idiom_ :two::hammer: _This kid is going places._  
 __go soft on (someone)__ _idiom_ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ _idiom_ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
@@ -10432,8 +10433,7 @@ __outwit__ _v_ (outwitted)
 __outwork__ _v_  
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
-__over (one’s) head__ _idiom_ __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
-__over one’s head__ _He was over his head._  
+__over (one’s) head__ _idiom_ :two: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
 __over the hill__ _idiom_ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over the top__ _idiom_  
@@ -10441,18 +10441,16 @@ __over-ear headphones__
 __over-the-hill__ _adj_ :two: __1__ Past one’s prime. _I’m over-the-hill for Passion._ __2__ Advanced in age.  
 __over-under__  
 __overachieve__  
-__overall standings__ _31 points in the overall standings._  
 __overall__ _adj, adv_  
 __overarch__ _v_ :three::dart: (overarching) Be central or dominant. _This scene overarches the entire first act._  
 __overarching__ _adj_ :four::hammer: _An overarching quality._ _An overarching principle._  
 __overbite__ _n_ :two::hammer:  
 __overblown__  
-__overboard__ _To go overboard._  
 __overcast__ _adj_  
 __overcome__ _v_ _We need to overcome the current hurdles._  
 __overdo__ _v_  
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
-__overdue__ _A resurgence in social homes is long overdue._  
+__overdue__ _adj_ _A resurgence in social homes is long overdue._  
 __overflight__  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
@@ -10460,7 +10458,9 @@ __overkill__ _v_ _I’ll top the bill, I’ll overkill._
 __overlay__ _n_  
 __overlook__ _v_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
-__overnight__ _The change will not happen overnight._  
+__overnight<sup>1</sup>__ _adj_  
+__overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
+__overnight<sup>3</sup>__ _n_  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
@@ -10474,22 +10474,22 @@ __overtake<sup>1</sup>__ _n_ _He made overtakes._
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overtaxed__  
 __overthink__ _v_  
-__overtime__ :es: horas extras  
+__overtime__ _n_ :es: horas extras  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overwheening__  
 __overwrought__ _adj_ :two::hammer: _Overwrought adults_  
 __overzealous__ _n_  
-__owing__ _Owing to the agitation, supplies of certain components have neen disrupted._  
-__own goal__ _Mikael Lustig scored an own goal._  
+__owing to__ _prep_ Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._  
+__own goal__ _n_ :dart: _Mikael Lustig scored an own goal._  
 __own right__  
 __own up__  
 __own__ _v_  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
-__oxymoron__ :mega:  
+__oxymoron__ _n_ :mega:  
 __oyster__ _n_ :two::hammer:  
-__Oz__ _Iowa would offer the best territory for his American Oz._  
+__Oz__ _n_ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
 __Ozzie__ _n_ :two: (Ozzies) __1__ An Ozzie or (Aussie) is an Australian slang term to name themselves, often used in chants on Australia day “Ozzie ozzie ozzie” “oi oi oi.” __2__ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
 __pablum__ _n_ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
@@ -11081,7 +11081,7 @@ __pivot<sup>2</sup>__ _v_
 __pivotal__ _adj_ :three::hammer:  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
-__pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull's penis.  
+__pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull’s penis.  
 __PJs__  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
@@ -14166,7 +14166,7 @@ __standardize__ _v_
 __standby<sup>1</sup>__ _n_ _The old standby._  
 __standby<sup>2</sup>__ _adj_  
 __standby<sup>3</sup>__ _adv_  
-__standings__ _n_ :three::hammer: _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
+__standings__ _n_ :four: (Sports) A listing of individual competitors or of teams in a league according to their record of performance. _31 points in the overall standings._ _Pac-12 Standings_ _Harvick is third in the standings._ :es: clasificación  
 __standoff__ _n_ :four::hammer:  
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
@@ -14312,7 +14312,7 @@ __stir<sup>1</sup>__ _n_
 __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
-__stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn't do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
+__stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn’t do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
 __stock__ _n_ __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
