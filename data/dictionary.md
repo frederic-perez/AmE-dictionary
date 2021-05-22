@@ -3544,8 +3544,8 @@ __cuppa__ _n_ :two: A cup of tea.
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
-__curb__ _v_ :three::hammer: _Curb drug resistance._  
-__curbs__ _n_ :three::hammer: Bans? _This has created curbs on admission._  
+__curb<sup>2</sup>__ _v_ :three::hammer: _Curb drug resistance._  
+__curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
 __curdle__  
 __curdled__ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
@@ -6482,7 +6482,7 @@ __green thumb__ _Not everyone has a green thumb._
 __green with envy__ _idiom_ Very jealous.  
 __green-behimd-the-ears__  
 __green-eyed__ _adj_ Jealous.  
-__greenback__ _n_ :three::hammer: Dollar? _Green greenbacks._  
+__greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
 __greener pastures__ _idiom_ :two: A better or more exciting job or place.  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :two::hammer:  
@@ -7141,8 +7141,7 @@ __highly__ _I highly recommend it._
 __hightail__ _v intr_ To move quickly, especially in retreat or in fleeing. (From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.)  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
-__hike__ _n_ :two::hammer: (surge?)  
-__hike<sup>1</sup>__ _n_ :two::hammer: _A hike in base wages._  
+__hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
 __hilarious__ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
@@ -7268,7 +7267,7 @@ __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of 
 __holler__ _v_ :three: __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
-__holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?!_  
+__holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?_  
 __holy crickets__ _idiom_ An exclamation of surprise, shock, or astonishment.  
 __Holy Ghost__ _n_ :two::hammer:  
 __holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
@@ -8250,7 +8249,7 @@ __keep mum__ _idiom_ To remain silent; to not say anything (e.g., about a secret
 __keep one’s eyes peeled__ _idiom_ (keep one’s eyes skinned) To watch vigilantly (for).  
 __keep one’s word__ _idiom_ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ _idiom_ To remain unseen, as by hiding or evasion.  
-__keep tab(s) (on someone or something)__ _idiom_ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._  
+__keep tab(s) (on someone or something)__ _idiom_ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
 __keep the lid on (something)__ _idiom_ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep up with (someone or something)__ _idiom_ :two::hammer:  
 __keep your head above water__ _idiom_ To just be able to manage when you have financial difficulties.  
@@ -8767,7 +8766,7 @@ __lilac tree__
 __lilac__ _n_ :two::hammer:  
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
-__lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?!_  
+__lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?_  
 __lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
@@ -8983,7 +8982,7 @@ __lucky day__ _n_ A day when something good happens to someone. _This is your lu
 __lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrative marketing strategy._  
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
-__luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are...why can’t everything just be the same?)  
+__luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are... why can’t everything just be the same?)  
 __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
@@ -9604,7 +9603,7 @@ __mortification__ _n_ :two::hammer:
 __mortify__ _v_ :six::hammer: (mortified)  
 __mortuaries__  
 __MOS__ _abbr_ :two: Mom over shoulder.  
-__mos.__ (Months?)  
+__mos.__ _abbr_ Months.  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
 __most of the time__ _Most of the time I do my breakfast._  
@@ -10730,7 +10729,7 @@ __paywall__ _n_ :four: (paywalls) A feature of a website, application or service
 __PB&J__ _abbr_  
 __PC__ _abbr_ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
 __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
-__PDA__ _n_ _(surgery?)_ _With a PDA, there is continous shunting of blood through the lungs._  
+__PDA__ _abbr_ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
 __PE__ _abbr_ Physical education. _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
@@ -10787,7 +10786,7 @@ __pen<sup>2</sup>__ _v_ :two::hammer: _The team pens hundreds of scientific pape
 __penal code__ _n_ :mega:  
 __penal__ _adj_ :two::mega::hammer: _Penal system._  
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
-__pence__ _n_ _(plural?)_ _See what you’re using in pounds and pence with a smart meter._  
+__pence__ _n_ (Chiefly British) A plural of penny. _See what you’re using in pounds and pence with a smart meter._  
 __penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb “pencher”) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
@@ -11012,7 +11011,7 @@ __pinch > in a pinch__
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
 __pinch-hitter__  
 __pinch<sup>1</sup>__ _n_ :two::hammer: (pinches) _School could face budget pinch._  
-__pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ (:es: pellizco?)  
+__pinch<sup>2</sup>__ _v_ :six::hammer: (pinched) _He smoked his cigarettes down to pinched ends._ _Pinched shut._ :es: pellizco  
 __pincher__ _n_ :two::hammer:  
 __pincushion__  
 __pine (for)__ _v_  
@@ -11082,7 +11081,7 @@ __pivot<sup>2</sup>__ _v_
 __pivotal__ _adj_ :three::hammer:  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
-__pizzle__ _n_ :two::hammer: (penis?)  
+__pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull's penis.  
 __PJs__  
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
@@ -11110,7 +11109,7 @@ __planter__ _n_ _My sidewalk planter._
 __plaque__ _n_ _Plaque in arteries._  
 __plashed__ _v_  
 __plasmapheresis__ _n_  
-__plaster<sup>1</sup>__ _n_ (band-aid?) :two::hammer:(plasters) _Salves, poultices, and plasters._  
+__plaster<sup>1</sup>__ _n_ :two: (plasters) __4__ (Chiefly British) An adhesive bandage. _Salves, poultices, and plasters._  
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
@@ -11678,7 +11677,7 @@ __pulpit__ _n_ :three::hammer:
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
 __pummel__ _v_ :five::hammer: (pummeled)  
-__pump<sup>1</sup>__ _n_ :three::hammer: (gas?) _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
+__pump<sup>1</sup>__ _n_ :three: __5__ _informal_ The place where consumers purchase gasoline. Used with the: _gas prices rising at the pump._ _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
 __pumpkin spice__ _n_  
 __pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
@@ -13274,7 +13273,7 @@ __show (one’s) (true) colors__ _idiom_ :two::hammer: _He has shown his true co
 __show of hands__  
 __show off__ _v_ :two::hammer:  
 __show someone the door__ _idiom_ To dismiss someone from a job.  
-__show-off__ _n_ :two::hammer: (or showoff?)  
+__show-off__ _n_ :two::hammer:  
 __showboat__ _v_  
 __showcase__ _v_  
 __showdown__ _n_ :seven: (showdowns) A final test or confrontation intended to settle a dispute. _Syn_ confrontation, deciding event, clash, face-off _It was an epic showdown._ _Hollywood showdowns._  
@@ -13570,7 +13569,7 @@ __slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers
 __slip<sup>1</sup>__ _n_ :three::hammer: _A pink slip._ _A slip of paper._ _Even the smallest of slips would alert that man to her presence._  
 __slip<sup>2</sup>__ _v_ __4a__ To pass gradually, easily, or imperceptibly into a different state: _He slipped into a coma._ __b__ To decline from a former or standard level; fall off: _The senator’s popularity has slipped._ __c__ To elapse, especially quickly or without notice: _The days slipped by._  
 __slippage__ _n_ :two::hammer:  
-__slipper__ _n_ :two::hammer: (bag?)  
+__slipper__ _n_ :two::hammer:  
 __slipperiness__  
 __slippers__  
 __slippery slope__  
@@ -14313,7 +14312,7 @@ __stir<sup>1</sup>__ _n_
 __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
 __stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
-__stitch__ _n_ :three::hammer: (stitches) :es: puntos? A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._ :es: tener flato  
+__stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn't do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
 __stock__ _n_ __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
@@ -14742,7 +14741,6 @@ __table tennos__
 __tableau__  
 __tableaux__  
 __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of a compressed powdered substance containing an active drug and excipients. _Hair tablet._  
-__tabs__ _n_ _Is May keeping nervous tabs on her rivals?_  
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
@@ -15903,7 +15901,7 @@ __upselling__ _n_ :two: The practice of offering customers additional or more ex
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
 __upshot__ _n_ :seven::hammer:  
-__upside__ _n_ :three::hammer: (advantage?) _I like his speed, and I like his upside._ _The aging Knicks could use upside._  
+__upside__ _n_ :three: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskirt__ _v_ (upskirted)  
 __upskirting__ _n_  
@@ -15929,7 +15927,7 @@ __usher__ _v_ :two::hammer:
 __usurp__ _v_  
 __usury__ _n_ :four::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
-__utes__ _n_ (cars?)  
+__ute__ _n_ _informal_ (utes) A utility vehicle.  
 __utilitarian__  
 __utility room__  
 __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
