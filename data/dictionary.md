@@ -438,6 +438,7 @@ __alternating caps__ Used to convey sarcasm or mockery across the internet. Can 
 __altitude sickness__  
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
+__altruism__ _n_  
 __alum__ _n_ :three::hammer: _A Vanderbilt alum._  
 __aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ _n pl_ :two::hammer:  
@@ -1491,6 +1492,7 @@ __blithely__ _adv_ :nine: In a joyous manner. _The worst option is to blithely a
 __blitheness__  
 __blither__  
 __blithering__  
+__blithesome__ _adj_  
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
 __blitz<sup>1</sup>__ _n informal_ :five: A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _v_ :two::hammer: (blitzed, blitzing)  
@@ -4656,6 +4658,7 @@ __egg__ _v_
 __eggcorn__ _n_ :two::hammer:  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :two::hammer: _A big eggnog party._  
+__egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
@@ -6414,6 +6417,9 @@ __grade__ _v_
 __grader__ _n_ :two::hammer: (graders)  
 __gradual__ _adj_  
 __gradually__  
+__graduate<sup>1</sup>__ _n_  
+__graduate<sup>2</sup>__ _adj_  
+__graduate<sup>3</sup>__ _v_ :dart: [_Graduate_ comes from the Medieval Latin _graduārī_, meaning “to take a degree.” It ultimately derives from the Latin _gradus_, meaning “a step.” Each time you graduate, you take a step to the next level of education.]  
 __graft<sup>1</sup>__ _v_  
 __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
@@ -7917,6 +7923,7 @@ __intangible__
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
+__intemperate__ _adj_ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdicting__  
@@ -7940,6 +7947,7 @@ __intertwine__
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
+__intestinal fortitude__ _idiom_ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
 __intimation__ Making known indirectly.  
 __into the fold__ _It brought many viewers into the fold._  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
@@ -9120,6 +9128,7 @@ __mallards__
 __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
 __mallow__ :pencil2:  
 __malnourished__  
+__malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __mamasan__  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
@@ -11271,7 +11280,7 @@ __pooch__ _n_ _slang_ :four: A dog.
 __poodle__ _n_ :es: caniche  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ _adj_ :pencil2:  
-__pooh-bah__ _n_ An arrogant or conceited person of importance. _Syn_ high-muck-a-muck  
+__pooh-bah__ _n_ :dart::two: [After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
 __poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __poor-boy__ _n_ _Poor-boy sandwich._  
