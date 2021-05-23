@@ -182,7 +182,7 @@ __achalasia__ _n_
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _Out for season after tearing his Achilles against San Diego._  
 __Achilles’ heel__ _n_ A seemingly small but actually crucial weakness.  
-__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia (from the Greek ’nanos’, meaning ’dwarf’), _slang_ lollypopguildophobia (after the trade union of munchkins in the Wizard of Oz)  
+__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek ’nanos’, meaning ’dwarf’], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __acid test__ _idiom_ :two: Something that shows the true worth or value of something or someone.  
 __ACK__  
 __ACL__ Anterior cruciate ligament.  
@@ -210,7 +210,7 @@ __activate__ _v_ _Gonzalez was activated from the disabled list._
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :four::reminder_ribbon: acumen/acute/agudo (from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute) The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :four::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
@@ -583,7 +583,7 @@ __aplenty__ _adj, adv_ :two::hammer:
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
-__apogee__ _n_ __1__ (Astronomy) [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
+__apogee__ _n_ __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -3560,7 +3560,7 @@ __curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubbor
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
-__cursive__ _adj_ :two: /ˈkəːsɪv/ (from Latin curs, ‘run’) Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
+__cursive__ _adj_ :two: /ˈkəːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
 __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
 __curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
@@ -7145,7 +7145,7 @@ __highbrowed__ _idiom_ Of or pertaining to heightened intellectualism or superio
 __highfalutin__ _adj_  
 __highlight__ _v_  
 __highly__ _I highly recommend it._  
-__hightail__ _v intr_ To move quickly, especially in retreat or in fleeing. (From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.)  
+__hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
@@ -7160,7 +7160,7 @@ __hinder__ _v_ :two::hammer:
 __hindsight is (always) 20/20__ _idiom_ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
-__hinterland__ _n_ :five: /ˈhɪntəland/ (from German, from hinter ‘behind’ + ‘land’) The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
+__hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippocampus__ _n_ :pencil2:  
@@ -8879,7 +8879,7 @@ __locomotive__ _n_
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
-__lodestone__ _n_ From Middle English _lode_ (way) + stone (from its use by sailors to show the way). __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
+__lodestone__ _n_ [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
 __lodges__ _Fishing lodges._  
 __lodging__  
@@ -9549,7 +9549,7 @@ __momentous__ _adj_ :two: Of great importance or significance, especially in hav
 __momentum__  
 __monad__  
 __Monday__ :mega: /’möndi, -deI/  
-__mondegreen__ _n_ :two::dart: A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._ (From the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen.”)  
+__mondegreen__ _n_ :two::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money doesn’t grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
@@ -10354,7 +10354,7 @@ __OTT__ _abbr_ Over the top.
 __otter__  
 __ottoman__  
 __ouboros__ _n_  
-__Ouija board__ _n_ :astonished: (from French _oui_ yes + German _ja_ yes) _We were doing Ouija board and I asked what I was going to be._  
+__Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
 __ouster__ _n_  
 __out of date__ _idiom_  
@@ -10796,7 +10796,7 @@ __penal code__ _n_ :mega:
 __penal__ _adj_ :two::mega::hammer: _Penal system._  
 __penance__ _n_ __1__ Voluntary self-punishment to atone for a sin, crime, etc. __2__ A feeling of regret for one’s wrongdoings. :es: penitencia, castigo  
 __pence__ _n_ (Chiefly British) A plural of penny. _See what you’re using in pounds and pence with a smart meter._  
-__penchant__ _n_ :nine::m: (from French, ‘leaning, inclining’, present participle of the verb “pencher”) A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
+__penchant__ _n_ :nine::m: [:scroll: from French, ‘leaning, inclining’, present participle of the verb “pencher”] A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
@@ -10844,7 +10844,7 @@ __perfidy__
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
-__perigee__ _n_ (Astronomy) [:scroll: from peri- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
+__perigee__ _n_ [:scroll: from peri- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
 __perilous__ _adj_  
 __perimortem__ _adj_ At, or near, the time of death.  
@@ -11256,7 +11256,7 @@ __poll watcher__ _n_ A person assigned (as by a political party or candidate) to
 __pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
-__Pollyanna__ _n_ [:scroll: From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.] A person regarded as being foolishly or blindly optimistic.  
+__Pollyanna__ _n_ [:scroll: from the child heroine created by Eleanor Porter (1868–1920), U.S. writer] A person regarded as being foolishly or blindly optimistic.  
 __pols__ _n_  
 __poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
@@ -15984,7 +15984,7 @@ __vanilla-flavored__ _adj_ _He is cautious about every step, to the point of see
 __vanish into thin air__ _idiom_ To disappear completely, without leaving a trace.  
 __vanity plate__ _n_  
 __vanity__ _n_ (in the bathroom)  
-__vanquish__ _v_ :six::dart: (vanquished) (from Old French ‘vencus’, ‘venquis’) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
+__vanquish__ _v_ :six::dart: [:scroll: from Old French ‘vencus’, ‘venquis’] (vanquished) Defeat thoroughly. _Syn_ conquer, defeat (utterly) _He successfully vanquished his rival._ _The situation has even brought back a disease that had long been vanquished in Siria._  
 __vantage point__ _n_ :three: A position or place that affords a wide perspective.  
 __vape pen__ _n_ Vaporizer pen. A device used to produce vapor from a substance.  
 __vape__ _n_ _I’m with a beer smoking on my vape._  
@@ -16059,7 +16059,7 @@ __vermouth__ _n_
 __vernacular__ _n_ :four::hammer:  
 __versatile__ _adj_ :two::hammer.  
 __vertical farm__  
-__verve__ _n_ :five::dart: /vəːv/ (from French, ‘vigour’) Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ _n_ :five::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _adj, adv_ _We were in this very room._  
 __vest__ _v_  
