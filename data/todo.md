@@ -5,6 +5,18 @@ __aver__ _v_
 __kick the can down the road__ _idiom_ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate, reprobate _During the sentencing, the judge objurgated the crime in the strongest possible terms._  
 __meddlesome__ _adj_  
+__tenure__ _n_  
+__emasculated__ _adj_ (of a male animal) Having the testicles removed.  
+__castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
+__rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
+__sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
+__bestie__ _idiom_ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
+__sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
+__paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
+__omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
+__tempus fugit__ _idiom_ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
+__McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
+__copious__ _adj_ [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”]  
 __over the course of__ _idiom_ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __fatuous__ _adj_ Foolish or inane, esp. in an unconscious, complacent manner; silly.  
