@@ -10303,13 +10303,13 @@ __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Charac
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
 __opossum__ _n_  
-__oppo__ _Oppo researchers._  
+__oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opposition__ _n_ :mega:  
 __opprobrium__ _n_  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opt__ _v_  
-__opticks__ _Obsolete form of optics._  
+__opticks__ _n_ _Obsolete form of optics._  
 __optio__ _n_  
 __optometry__ _n_  
 __opulent__  
@@ -10344,12 +10344,12 @@ __osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progress
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
 __ostracize__ _v_ :six::pencil2::hammer: (ostracized)  
-__OT__ _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
+__OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __other than (something)__ _idiom_ :two::hammer: _Other than that, blah blah blah._  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
-__OTL__ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
+__OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OTT__ _abbr_ Over the top.  
 __otter__  
 __ottoman__  
@@ -10367,7 +10367,7 @@ __out of sorts__ _v-link phr_ :six: __1__ Somewhat ill. __2__ Grouching; irritab
 __out of steam__ _idiom_ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the blue__  
 __out of the woods__  
-__out of thin air__ _The great ones create ideas out of thin air._  
+__out of thin air__ _idiom_ From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ _idiom_ Extremely good.  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
 __out-of-the-box__  
@@ -10381,11 +10381,11 @@ __outcast__ _n_
 __outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
-__outdated items__ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
-__outdoor__ _8 pork sausages from British outdoor bred pigs (454g)._  
+__outdated__ _adj_ _I took all the outdated and close-to-outdated items from the fridge and dumped them in the trash can._  
+__outdoor__ _adj_ _8 pork sausages from British outdoor bred pigs (454g)._  
 __outdoorsy__ _adj_ _informal_  
 __outer space__  
-__outfield__ _(baseball)_  
+__outfield__ _n_ _(baseball)_  
 __outfight__ _v_ To fight better than someone.  
 __outfit<sup>1</sup>__ _n_ :five::hammer: (outfits)  
 __outfit<sup>2</sup>__ _v_  
@@ -10404,11 +10404,10 @@ __outlander__
 __outlandish__ _adj_ :nine::m: Looking or sounding bizarre or unfamiliar. _Silva’s outlandish attire._ _An outlandish claim._  
 __outlast__ _v_  
 __outlaw__ _n_  
-__outlay__ _Budget outlays._  
-__outlays__ _n_  
+__outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline__ _n_  
 __outlook__ _n_ :three::hammer:  
-__outmanned__ _Hill was espectacular against the outmanned Thunderbirds._  
+__outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
 __outpace__ _v_ :three::hammer: (outpacing)  
