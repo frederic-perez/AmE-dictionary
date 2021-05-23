@@ -7,17 +7,6 @@ __objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate
 __meddlesome__ _adj_  
 __over the course of__ _idiom_ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
-__shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
-__frugivorous__ _adj_ Feeding on fruit.  
-__grok__ _v_ To understand profoundly and intuitively.  
-__bivouac<sup>1</sup>__ _n_ A temporary encampment, in the open air, typically without tents or cover.  
-__bivouac<sup>2</sup>__ _v intr_ To take shelter temporarily for the night.  
-__malapropism__ _n_ _“Jesus healing those leopards” is an example of malapropism._  
-__deal in something__ _idiom_ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
-__subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
-__truckle__ _v_  
-__mushhead__ _idiom_ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
-__anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __fatuous__ _adj_ Foolish or inane, esp. in an unconscious, complacent manner; silly.  
 __line in the sand__ _idiom_ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __peruse__ _v_  

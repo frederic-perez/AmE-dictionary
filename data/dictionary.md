@@ -499,6 +499,7 @@ __and so it goes__
 __and-a-one, and-a-two...__  
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
+__anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotal__ :mega:  
 __anecdotally__  
 __anemometer__ _n_ :two::hammer:  
@@ -1414,7 +1415,8 @@ __bite off more than you can chew__ To attempt to take on a task that is too muc
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitingly__  
 __bitter pill to swallow__ _idiom_ An unpleasant fact that you must accept.  
-__bivouac__ _v_ :two::astonished::pencil2:  
+__bivouac<sup>1</sup>__ _n_ A temporary encampment, in the open air, typically without tents or cover.  
+__bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black belt__  
@@ -3722,6 +3724,7 @@ __deadline__ _He will put France out of NATO by the deadline of April 4, 1969._
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
 __deafening__ _adj_  
+__deal in something__ _idiom_ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ _idiom_ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
@@ -5871,6 +5874,7 @@ __frothy__
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
 __frozen yogurt__  
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
+__frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _California’s Central Valley, fruit basket to the nation._  
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
@@ -6538,6 +6542,7 @@ __groan__ _v_ :seven::hammer: (groaned) (It sounds like _grown_.)
 __grocer__ _n_ :two::hammer:  
 __grog__  
 __groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
+__grok__ _v_ To understand profoundly and intuitively.  
 __groomed__  
 __groomers__  
 __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
@@ -9111,7 +9116,7 @@ __maki__ _n_
 __maladaptive__ _adj_ Showing faulty adaptation.  
 __malady__  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
-__malapropism__ _n_ :three::hammer:  
+__malapropism__ _n_ :four::dart: 1. Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
@@ -9723,6 +9728,7 @@ __museum__ _n_ :mega:
 __mush__ _n_ :four::hammer: _A mush brain._  
 __mush-mouth__ _The kid with the mush-mouth accent._  
 __mushers__  
+__mushhead__ _idiom_ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
 __mushroom<sup>1</sup>__ _n_  
 __mushroom<sup>2</sup>__ _v_ _Traffic mushroomed in Feb._  
 __mushy__ _adj_ :four::hammer: _Mushy age._  
@@ -13201,6 +13207,7 @@ __shipyard__ _n_ :two::hammer: :es: astillero
 __shirk<sup>1</sup>__ _n_  
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
+__shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
 __shit list__ _n phr_ One’s fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
 __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
@@ -14497,6 +14504,7 @@ __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
+__subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
 __subdue__ _v_ :seven::hammer: (subdued)  
@@ -15547,6 +15555,7 @@ __troy ounce__ _n_ :two::hammer:
 __troy__  
 __truant__  
 __truck__ _v_ _They will not truck with terrorists._  
+__truckle__ _v_  
 __truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
 __trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
 __true to form__  
