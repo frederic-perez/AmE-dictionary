@@ -583,7 +583,7 @@ __aplenty__ _adj, adv_ :two::hammer:
 __aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
-__apogee__ _n_ __1__ (Astronomy) [from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
+__apogee__ _n_ __1__ (Astronomy) [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -829,7 +829,7 @@ __audible__ _v_
 __audit__  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
-__auld lang syne__ _n_ Old times; times past, esp those remembered with affection or nostalgia. [Scottish, literally: old long since]  
+__auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
 __aum__  
 __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
@@ -2091,7 +2091,7 @@ __buzzer__ _Durent Durent missed a floater at the buzzer._
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__  
 __buzzword__  
-__by all accounts__ _idiom_ :dart::three::hammer: From all the reports [that are available]; according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all accounts__ _idiom_ :dart::three::hammer: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
 __by and by__  
 __by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
@@ -2967,7 +2967,7 @@ __comeback__ _n_
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
-__comfortable__ _adj_ :dart::mega: \[ˈkʌmftəbəl\]  
+__comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
 __comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
@@ -4266,7 +4266,7 @@ __don’t tell me it’s raining__
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
-__donnybrook__ _n_ A melee; a free-for-all. [After _Donnybrook Fair_, an annual event until 1855 near Dublin.] _Syn_ brawl  
+__donnybrook__ _n_ [:scroll: After _Donnybrook Fair_, an annual event until 1855 near Dublin.] A melee; a free-for-all. _Syn_ brawl  
 __donut__ _n_ Variant of doughnut. While doughnut remains more common, both of the spellings are perfectly fine.  
 __doo-dah__  
 __doodad__ _n_ _informal_ :two: Something, especially a small device or part, whose name is unknown or forgotten.  
@@ -5402,7 +5402,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
-__firm__ _n_ :dart::mega: \[fûrm\]  
+__firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ The vault or expanse of the heavens; the sky.  
 __first and foremost__ _idiom_ :two::hammer:  
 __first port of call__ _idiom_ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
@@ -6349,7 +6349,7 @@ __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) N
 __golf widow__ _idiom_ A woman whose husband frequently absents himself from home so as to go and play golf.  
 __golliwog__ _n_  
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
-__gomer__ _n_ _slang_ :dart: A first-year Air Force Academy cadet, esp a clumsy trainee [origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] _Gomer Pyle._  
+__gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
 __gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
 __gonorrhea__  
@@ -6419,7 +6419,7 @@ __gradual__ _adj_
 __gradually__  
 __graduate<sup>1</sup>__ _n_  
 __graduate<sup>2</sup>__ _adj_  
-__graduate<sup>3</sup>__ _v_ :dart: [_Graduate_ comes from the Medieval Latin _graduārī_, meaning “to take a degree.” It ultimately derives from the Latin _gradus_, meaning “a step.” Each time you graduate, you take a step to the next level of education.]  
+__graduate<sup>3</sup>__ _v_ :dart: [:scroll: _Graduate_ comes from the Medieval Latin _graduārī_, meaning “to take a degree.” It ultimately derives from the Latin _gradus_, meaning “a step.” Each time you graduate, you take a step to the next level of education.]  
 __graft<sup>1</sup>__ _v_  
 __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
@@ -9919,7 +9919,7 @@ __night sweats__ _n_ (nocturnal hyperhidrosis)
 __night__ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman’s nightgown.  
-__nightingale__ _n_ :three: [Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
+__nightingale__ _n_ :three: [:scroll: Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
 __nightmarish__ _adj_ :three::hammer:  
 __nightshirt__ _n_ A long, loose shirt worn in bed.  
 __nightstand__ _n_  
@@ -10596,7 +10596,7 @@ __paperclip__ _n_
 __paperwork__  
 __pappy__  
 __paprika__ _n_  
-__paracetamol__ _n_ :dart::mega: \[ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-\]  
+__paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __paradigm__ _n_ :mute:[paradi~~g~~m]  
 __paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
@@ -10844,7 +10844,7 @@ __perfidy__
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
-__perigee__ _n_ (Astronomy) [from peri- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
+__perigee__ _n_ (Astronomy) [:scroll: from peri- + _gaia_ earth] The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
 __perilous__ _adj_  
 __perimortem__ _adj_ At, or near, the time of death.  
@@ -10913,7 +10913,7 @@ __pewter__
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ _n_ :two::hammer:  
 __Pharaoh__  
-__pharmaceutical__ _adj_ :two::dart::mega: \[ˌfɑr məˈsu tɪ kəl\] (fär′mə-so͞o′tĭ-kəl)  
+__pharmaceutical__ _adj_ :two::dart::mega: /ˌfɑr məˈsu tɪ kəl/ /fär′mə-so͞o′tĭ-kəl/  
 __phase out__  
 __phenom__ _n_ :three: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
@@ -11256,7 +11256,7 @@ __poll watcher__ _n_ A person assigned (as by a political party or candidate) to
 __pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
 __pollutant__ _n_ :two::hammer:  
-__Pollyanna__ _n_ A person regarded as being foolishly or blindly optimistic. [From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.]  
+__Pollyanna__ _n_ [:scroll: From the child heroine created by Eleanor Porter (1868–1920), U.S. writer.] A person regarded as being foolishly or blindly optimistic.  
 __pols__ _n_  
 __poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
@@ -11280,7 +11280,7 @@ __pooch__ _n_ _slang_ :four: A dog.
 __poodle__ _n_ :es: caniche  
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ _adj_ :pencil2:  
-__pooh-bah__ _n_ :dart::two: [After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
+__pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
 __poor man’s__ _idiom_ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __poor-boy__ _n_ _Poor-boy sandwich._  
@@ -14893,7 +14893,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tautology__ _n_  
-__tawdry__ _adj_ :five: [Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality.  
+__tawdry__ _adj_ :five: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality.  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
@@ -15599,7 +15599,7 @@ __tunnel vision__ _n_ :two::hammer:
 __tuppence__  
 __turbid__ _adj_  
 __turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
-__turducken__ _n_ [from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__turducken__ _n_ [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
 __turkey drumstick__ _n_  
