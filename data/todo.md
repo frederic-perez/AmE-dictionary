@@ -77,16 +77,6 @@ __put (someone or something) to bed__ _idiom_ __1__ To help someone, typically a
 __live and kicking__ _idiom_ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
 __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
 __amenable__ _adj_  
-__abysmal__ _adj_  
-__conciliatory__ _adj_  
-__be in bad with (someone)__ _idiom_ To be disliked or out of favor with someone; to be in trouble with someone. _After pointing out her mistake on the first day of class, I was in bad with my teacher for the rest of the semester._  
-__inequity__ _n_ Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
-__Zen<sup>1</sup>__ _n_ (zen) (fter Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation). An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
-__Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
-__abjure__ _v_  
-__Hell and half of Georgia__ _idiom_ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
-__vibrissa__ _n_  
-__behoove__ _v_  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __refractory__ _adj_  
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  

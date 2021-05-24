@@ -117,7 +117,7 @@ __abide by__ _idiom_ To conform to; comply with: _abide by the rules._
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
-__abjure__ _v_  
+__abjure__ _v_ :two::hammer:  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
@@ -148,7 +148,7 @@ __abutted__
 __abutting__ _Bungalows abutting._  
 __abuzz__ _adj_ :two::hammer:  
 __abysmal failure__ _idiom_ Failure that is total and extreme in measure or implication.  
-__abysmal__  
+__abysmal__ _adj_ :two::hammer:  
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
@@ -1121,6 +1121,7 @@ __be here to stay__ _idiom_ To become permanent or firmly established; to be a n
 __be honor-bound to do (something)__ _idiom_ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ _idiom_ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _idiom_ _slang_ To be in a troublesome situation.  
+__be in bad with (someone)__ _idiom_ To be disliked or out of favor with someone; to be in trouble with someone. _After pointing out her mistake on the first day of class, I was in bad with my teacher for the rest of the semester._  
 __be in for a surprise__ _idiom_ To be guaranteed to receive or experience an unexpected outcome, especially a negative one.  
 __be in for a treat__ _idiom_ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ _idiom_ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
@@ -1233,7 +1234,7 @@ __behind the times__ _idiom_ Old-fashioned.
 __behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
-__behoove__ _v_ :seven::hammer: (behooves)  
+__behoove__ _v_ :eight::hammer: (behooves)  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
 __being at odds__ _They are at odds over the details of legislation._  
@@ -3056,6 +3057,7 @@ __concertmaster__
 __concertmistress__ _The orchestra concertmistress._  
 __concession stand__ _A new concession stand with a real popcorn machine._  
 __conch__ _A conch farm._  
+__conciliatory__ _adj_  
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
@@ -7062,6 +7064,7 @@ __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
+__Hell and half of Georgia__ _idiom_ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell week__ _idiom_ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __hell yes__ Affirmative, positive, only in a more certain and stressing manner.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
@@ -7824,7 +7827,7 @@ __ineffable__ _adj_ :two::hammer:
 __ineffectual__  
 __inefficacious__ _adj_  
 __inequitable__  
-__inequities__  
+__inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _Helium is inert._  
 __inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
@@ -16088,6 +16091,7 @@ __vexing__ _adj_ :three::hammer: _Vexing problem._ _It’s a vexing topic._
 __viable__ _adj_ :two::hammer:  
 __vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
 __viand__ _n_ (viands)  
+__vibrissa__ _n_  
 __vicar__  
 __vicarious__ _adj_ :three: Felt or enjoyed through imagined participation in the experience of others. _Now I just live vicariously through the people who did get to play._  
 __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful or nasty. If you spread vicious rumors about a person, you’re telling people things that will hurt her feelings or ruin her reputation. Cut it out! _A vicious attack._  
@@ -16843,6 +16847,8 @@ __zealotry__
 __zealous__  
 __zeightgeist__  
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
+__Zen<sup>1</sup>__ _n_ (zen) (fter Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation). An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
+__Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
 __zeppelin__ _n_  
 __zero hour__  
