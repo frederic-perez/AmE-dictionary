@@ -10258,9 +10258,11 @@ __on the verge__
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
 __on three__ _On three: One, two, three!_  
 __on top of that__ _idiom_ :five: Additionally; furthermore. _On top of that, ..._  
-__on track__ _He appears to be on track to play._  
-__On your marks, get ready, go!__ (On your mark, get ready, go!)  
-__on__ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn’t care._ _It’s on the Internet._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _Spy on someone._ _A military base on the island of Okinawa._ _Big Brother snooping on innocent Americans._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _The plans are described on its website._ _The shooting happened late on a Saturday night._ _Others would get on line for loans._  
+__on track__ _idiom_ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
+__On your mark(s), get set, go!__ _idiom_  
+__on<sup>1</sup>__ _prep_ :dart: _Please, stay on the train._ _Available on newstands._ _And for those critics out there on the radio talk shows, in the newsapapers, on the Internet and Twitter, Bauer frankly doesn’t care._ _It’s on the Internet._ _A military base on the island of Okinawa._ _The plans are described on its website._ _Quadron pays tribute to Jacson on new album Avalanche._ _On the final day._ _The shooting happened late on a Saturday night._ _Halliburton insists on pressuring our board._ _All those little chiclets on your screen are apps._ _A woman walks a dog on a street in NYC._ _His term ends on Jan. 12, 2015._ _Others would get on line for loans._  
+__on<sup>2</sup>__ _adv_  
+__on<sup>3</sup>__ _adj_  
 __onagers__ _n_  
 __onboard<sup>1</sup>__ _adj_ :two::hammer:  
 __onboard<sup>2/sup>__ _adv_  
@@ -10268,19 +10270,18 @@ __onboard<sup>3</sup>__ _prep_
 __onboard<sup>4</sup>__ _v_  
 __onboarding__ _n_ :two: The induction and assimilation of a new employee into a company or organizationthe management of the early stages of a relationship between a business and a customer. _Onboarding specialist._  
 __once and for all__ _idiom_ Finally; permanently.  
-__once in a blue moom__ Very rarely.  
+__once in a blue moom__ _idiom_ Very rarely.  
 __once in a while__  
 __once-over__  
-__oncoming__ _The oncoming winter’s patterns._  
-__one too many__ _We drank one too many._  
-__one way or another__ _If I fail then it will cost me my head one way or another._  
+__oncoming__ _adj_ _The oncoming winter’s patterns._  
+__one too many__ _idiom_ _We drank one too many._  
+__one way or another__ _idiom_ _If I fail then it will cost me my head one way or another._  
 __one-horse__ _adj_ Small and remote and insignificant. _Syn_ jerkwater _I am leaving this one-horse town and heading into the big city to seek my fortune!_  
-__one-liner__ :dart: A quick joke or quip; a funny observation.  
+__one-liner__ _n_ :dart: A quick joke or quip; a funny observation.  
 __one-night stand__ _idiom_ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__one-run__ _One-run games._  
 __one-trick pony__ _n idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one’s other half__ _idiom_ :two::hammer:  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
@@ -10304,7 +10305,7 @@ __open mike__ _n_ :two::hammer: _When are you going to do an open mike?_
 __open-air bus__  
 __open-wheel car__ _n_ :three::camera::hammer:  
 __opening hours__  
-__operetta__ :pencil2:  
+__operetta__ _n_ :pencil2:  
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
@@ -13753,7 +13754,7 @@ __snivel__ _v_
 __snob__ _n_  
 __snollygoster__ _n_ :two: _slang US_ A politician who cares more for personal gain than serving the people.  
 __snoodlike__  
-__snoop__ _v_ :two: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._  
+__snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
 __snooty__ _adj_ :eight::hammer:  
@@ -14079,6 +14080,7 @@ __sputs__
 __sputter__ _v_ :nine::m: (sputters, sputtered, sputtering) Make a series of soft explosive sounds, typically when being heated or as a symptom of a fault. _The engine sputtered and stopped._ _The car lurched forward, sputtering, and then died._  
 __sputtering__ _adj_  
 __sputum__ _n_  
+__spy on__ _phr v_ _Spy on someone._  
 __squabble<sup>1</sup>__ _v_ :five: (squabbling) To engage in a bad-tempered argument, often over a trivial matter; bicker. _A squabbling family._  
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
 __squack__  
