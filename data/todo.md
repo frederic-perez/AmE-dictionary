@@ -67,16 +67,6 @@ __share__ _v_ _Everything you share is confidential._
 __shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
 __subtleties__ _n_  
 __sure-fire__ _adj_ _informal_ :dart:  
-__swank__ _adj_ _A swank condominium complex._  
-__tab__ _n_ A bill, especially for meals or drinks. _Bar tabs._  
-__work one’s tail off__ _idiom_  
-__self-conscious__ _adj_  
-__self-effacing__ _adj_ Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
-__money pit__ _idiom_ A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
-__put (someone or something) to bed__ _idiom_ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
-__live and kicking__ _idiom_ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
-__fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
-__amenable__ _adj_  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __refractory__ _adj_  
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  

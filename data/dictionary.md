@@ -457,7 +457,7 @@ __ambulation__ _n_ :two::hammer:
 __ambulatory__ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
-__amenable__  
+__amenable__ _adj_ :two::hammer:  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
@@ -5748,6 +5748,7 @@ __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direct
 __forthcoming__  
 __forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __fortified wine__  
+__fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortitudinous__ _adj_ Having or showing courage.  
 __fortnight__  
@@ -8845,6 +8846,7 @@ __litmus test__ _n_
 __litter__ _n_ :two::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
+__live and kicking__ _idiom_ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
 __live large__ _idiom_ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live like a king__ _idiom_ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
 __live the life of Riley__ _idiom_ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
@@ -9561,7 +9563,7 @@ __mondegreen__ _n_ :two::dart: [:scroll: from the Scottish ballad _The Bonny Ear
 __money doesn’t grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
 __money on the hoof__  
-__money pit__  
+__money pit__ _idiom_ :two: A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
 __money talks__ _idiom_ Rich people can get what they want.  
 __money__ _n_ :mega:  
 __moneyed__  
@@ -11755,6 +11757,7 @@ __pustules__ _n_
 __put (one’s) foot in (one’s) mouth__ _idiom_ :two: To unintentionally say something foolish, tactless, or offensive.  
 __put (one’s) money where (one’s) mouth is__ _idiom_ :two::hammer:  
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
+__put (someone or something) to bed__ _idiom_ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (something) on the back burner__ _idiom_ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put it on the money__  
 __put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
@@ -13004,9 +13007,9 @@ __seldom__ _adv_ :two::hammer: _People seldom think about their values conscious
 __select__ _adj_ :two::hammer: (vs selected) _Opens today in select cities._ _Free shipping on select items._  
 __self-absorbed__ _adj_ _Bill Murray is a self-absorbed weatherman in_ Groundhog Day.  
 __self-assured__ _adj_ :three: Having or showing confidence and poise. _Syn_ self-confident  
-__self-conscious__ _adj_ :four::hammer: :es: acomplejado; cohibido, tímido  
+__self-conscious__ _adj_ :five::hammer: :es: acomplejado; cohibido, tímido  
 __self-deprecating__  
-__self-effacing__ _n_ :two::astonished::hammer:  
+__self-effacing__ _adj_ :three::astonished: Tending to make oneself, one’s actions, etc, inconspicuous, esp because of humility or timidity; modest.  
 __self-esteem__ _n_  
 __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._  
 __self-indulgent__ _adj_  
@@ -14660,7 +14663,8 @@ __swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is us
 __swamp<sup>2</sup>__ _v_ :six::hammer: (swamped) _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  
-__swank__ _v_ :four::astonished::hammer:  
+__swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
+__swank<sup>2</sup>__ _v_ :four::astonished::hammer:  
 __swanky__ _adj_ :two::hammer: _Swanky dinner._  
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
@@ -14750,8 +14754,7 @@ __T__ _v_ _His car shit the bed so he’s going to have to T it._
 __T-ball__  
 __T-storm__ _abbr_ Thunderstorm.  
 __T&A__  
-__tab__ _n_ _The tab is $1,000 per person._  
-__tab<sup>1</sup>__ _n_ :four: __1__ _informal_ A restaurant bill. _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
+__tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ (tabbed, tabby)  
 __tabby__  
 __table tennis__  
@@ -16672,6 +16675,7 @@ __work at__ _phr v_ To try hard to develop or improve something.
 __work my tail of__  
 __work off__ _phr v_ To get rid of something by using physical effort.  
 __work on__ _phr v_ :two: To spend time or improving something.  
+__work one’s tail off__ _idiom_  
 __work out__ _phr v_ :two: To find the answer or solution.  
 __work surface__ _n_ A horizontal surface for supporting objects used in working or playing games. _The kitchen’s work surface._  
 __workaday__ _adj_ :two::hammer: _The workaday world._  
