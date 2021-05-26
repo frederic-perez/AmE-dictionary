@@ -7729,7 +7729,7 @@ __in the midst of (something)__ _idiom_
 __in the next breath__ _idiom_ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ _idiom_ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
-__in the offing__  
+__in the offing__ _idiom_ :dart::two: __1__ In the near or immediate future; soon to come: _with exams finished and graduation in the offing._ _A budding rivalry could be in the offing._ __2__ Nearby; at hand.  
 __in the pocket of (someone)__ _idiom_ Under the direct control or influence of someone or some group.  
 __in the same mold__ _idiom_ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ _idiom_ In the countryside, especially in a rustic or particularly unsophisticated area.  
@@ -10167,9 +10167,8 @@ __off<sup>2</sup>__ _adj_
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
 __offbeat__ _adj_ _slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
-__office drones__ _Sara and I met as office drones in 1999._  
+__office drone__ _idiom_ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __officer__ _n_ :two::hammer:  
-__offing__ _A budding rivalry could be in the offing._  
 __offload__ _v_  
 __offramp__  
 __offset<sup>1</sup>__ _v_ :three::hammer: (offsetting)  
@@ -10178,7 +10177,7 @@ __offshoot__ _n_ :three::hammer:
 __offshore__  
 __oft__ _adv_ :two::hammer: _The oft-hated SAT._  
 __oft-shouting-sermon__  
-__often__ :mute:[of~~t~~en]  
+__often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :two::hammer:  
 __OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __ogle__ _v_ :three::hammer: (ogled)  
@@ -10186,11 +10185,11 @@ __oh__ _interj_ :two::hammer: _You went oh for two._
 __Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __Ohioans__  
 __OICU812__ _gramo_ Oh, I See You Ate One, Too  
-__oil slick__ _The greasy shine of an oil slick._  
+__oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
-__okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
+__okay dokay__ _idiom_ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okey-dokey__ _idiom_ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __okra gumbo__  
@@ -10214,7 +10213,7 @@ __omen__ _n_ :five::hammer:
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
-__omnibox__ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as “how many cups are in 2 liters?”_  
+__omnibox__ _n_ _An Omnibox is similar to the traditional web browser address bar, but you can also use it like a search engine. The Omnibox in Google Chrome can also perform mathematical calculations and even answer questions such as “how many cups are in 2 liters?”_  
 __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
 __omnibus<sup>2</sup>__ _n_ :two::hammer:  
@@ -10235,10 +10234,10 @@ __on edge__ _idiom_ :three: Highly tense or nervous; irritable. _Our youngster i
 __on end__  
 __on every level__ _idiom_ _That was a bad idea on every level._  
 __on fire__ _idiom_ Something is going really well or someone is doing a fantastic job.  
-__on foot__ _I work to work on foot._  
-__on me__ _All squadrons, on me!_  
+__on foot__ _idiom_ _I work to work on foot._  
+__on me__ _phr_ _All squadrons, on me!_  
 __on pins and needles__ _idiom_ Worried or excited about something.  
-__on point__ On point is “exactly right” or “perfect.” In slang, the expression often describes someone as “on their game” or “looking sharp.”  
+__on point__ _idiom_ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
 __on steroids__ _idiom_ :four::mega: In a very large, enhanced, or exaggerated form.  
 __on tenterhooks__ _idiom_ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
 __on the back burner__ _idiom_ :two::hammer:  
@@ -10259,7 +10258,7 @@ __on the sly__ _adv_ _idiom_ :five: Slyly, in an inconspicuous manner, so as not
 __on the tip of your tongue__ _idiom_ About to be said or almost remembered.  
 __on the verge__  
 __on thin ice__ _idiom_ In a risky position, in a dangerous situation.  
-__on three__ _On three: One, two, three!_  
+__on three__ _phr_ _On three: One, two, three!_  
 __on top of that__ _idiom_ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ _idiom_ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__ _idiom_  
