@@ -10089,8 +10089,6 @@ __nuts and bolts__ _idiom_ :three: The basic, practical details of a job or othe
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
-__nyuk-nyuk__ _MacFarlane’s nyuk-nyuk Boston-accented voice._  
-__O-line__ (football)  
 __oaf__ _n_ :three: (oafs) A person regarded as stupid or clumsy. _Syn_ goon, lout  
 __oafish__ _adj_ :two::hammer:  
 __oar__ _n_ :three::hammer: (oars)  
@@ -10112,7 +10110,7 @@ __oblivion__ _n_ :two::hammer:
 __oblivious__ _adj_ :five::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obo__ _abbr_ :two: Or best offer.  
-__obscene__ :mute:[obs~~c~~ene]  
+__obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
 __obsequious__ _adj_ :two::hammer:  
 __obsidian__  
@@ -10126,8 +10124,8 @@ __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the p
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :two::mega::pencil2::hammer:  
 __occasional__ _adj_ :pencil2:  
-__occasionally__ :pencil2:  
-__occurr__ :pencil2:  
+__occasionally__ _adv_ :pencil2:  
+__occurr__ _v intr_ :pencil2:  
 __OCD__ _abbr_ :two::hammer:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
@@ -10140,16 +10138,16 @@ __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro
 __oddly enough__ _adv_ :two::hammer:  
 __odds__ _pl n_  
 __oddsmakers__  
-__oddyssey__ :pencil2: _A harrowing oddyssey._  
+__oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
 __odious__  
 __odometer__ _n_ :two::hammer:  
 __OEM__ _abbr_ :three::hammer: _OEMs._  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
-__of a kind__ _You are two of a kind._  
+__of a kind__ _idiom_ _You are two of a kind._  
 __of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
-__of one’s own accord__ Voluntarily.  
+__of one’s own accord__ _idiom_ Voluntarily.  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
-__of__ _The gas smells of roggen eggs._  
+__of__ _prep_ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
 __off to the races__ _idiom_ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
@@ -10159,7 +10157,7 @@ __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.
 __off-kilter__ _idiom_ :three::hammer:  
 __off-price stores__  
 __off-putting__  
-__off-street__ _Off-street parking._  
+__off-street__ _adj_ Located away from a street. _Off-street parking._  
 __off-the-cuff__ _adj_ :two::hammer: _It was just an off-the-cuff remark._  
 __off-the-shelf__  
 __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._  
