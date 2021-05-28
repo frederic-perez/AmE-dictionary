@@ -594,6 +594,7 @@ __apostasy__
 __apostate__ _n_ :three::hammer: (apostates)  
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
+__apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
@@ -12820,6 +12821,7 @@ __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
 __schadenfreude__ _n_ :two::astonished: Pleasure derived from the misfortunes of others.  
+__schedule__ _n_ _A schedule was set._  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
 __schizoid__ _adj_ _She had a schizoid personality._  
@@ -12840,7 +12842,7 @@ __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._
 __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
-__schwa__ _n_  
+__schwa__ _n_ :two: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __sciatic__  
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
@@ -12971,7 +12973,8 @@ __secret police__ _n_ A police force that operates secretly, esp. to suppress di
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
-__secular__ _adj_ :two::hammer:  
+__secular__ _adj_ :three::hammer:  
+__secularist__  
 __secure__ _v_ _Go online now to secure your seat._  
 __security blanket__ _idiom_ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
 __security__ _n_ :mega:  
@@ -12980,7 +12983,7 @@ __sedative__ _n_ _Not the strongest sedative._
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
-__sedulous__ _adj_ :two::hammer: _Syn_ busy  
+__sedulous__ _adj_ :three::hammer: _Syn_ busy  
 __see eye to eye__ _idiom_ :two: To concur, agree.  
 __see red__ _idiom_ :two: To become very angry.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
@@ -13135,6 +13138,7 @@ __shantytown__
 __shape up__ _v_  
 __shapely__ _adj_ (esp of a woman’s body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __shaping the bullet__  
+__share__ _v_ _Everything you share is confidential._  
 __sharecropper__ _n_ :four: A sharecropper is a tenant farmer, someone who works land that’s rented from its owner. Typically, a sharecropper will pay the landowner with part of the harvest, rather than money.  
 __sharkskin__ _n_  
 __sharp elbows__  
@@ -13181,6 +13185,7 @@ __shenanigans__ _n_ :two::hammer:
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
+__shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shield__ _v_  
 __shiet__  
@@ -14533,6 +14538,7 @@ __substation__
 __subsumed__ _v_ :two::hammer:  
 __subterfuge__ _n_ :two: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
+__subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
 __suburbs__  
@@ -14620,6 +14626,7 @@ __surcease__
 __surcharge<sup>1</sup>__ _n_ _Additional hotel surcharge of $5.00 per order._  
 __surcharge<sup>2</sup>__ _v_  
 __sure enough__ _idiom_ :two: As one might have expected; certainly. _Sure enough, that’s what happened._  
+__sure-fire__ _adj_ _informal_ :dart:  
 __surefire__  
 __surety__  
 __surfeit__ _n_ :four: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  

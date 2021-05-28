@@ -58,16 +58,6 @@ __repentance__ _n_
 __ribbon-cutting ceremony__ _n_  
 __roister__ _v_ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
-__schedule__ _n_ _A schedule was set._  
-__schwa__ _n_ (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
-__secular__  
-__secularist__  
-__sedulous__ _adj_  
-__share__ _v_ _Everything you share is confidential._  
-__shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
-__subtleties__ _n_  
-__sure-fire__ _adj_ _informal_ :dart:  
-__apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __refractory__ _adj_  
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __conflate__ _v_ Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
