@@ -53,3 +53,15 @@ __refractory__ _adj_
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __conflate__ _v_ Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __heat wave__ _idiom_ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
+__immodest__ _adj_  
+__feckless__ /ˈfɛk lɪs/ _adj_ __1__ Ineffective; incompetent; futile. __2__ Having no sense of responsibility; indifferent; lazy.  
+__multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
+__whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
+__whizbang<sup>1</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
+__brick__ _n_ A badly missed shot in basketball. _He threw up a brick._  
+__shot clock__ _n_ A clock in basketball that displays a countdown of the time within which shooting the ball is required.  
+__sixth man__ _n_ A player in basketball who is regularly used as the first of a team’s substitutes in a game.  
+__full-court press__ _n_  
+__slam dunk__ _n_  
+__alley-oop__ _n_  
+__jump shot__ _n_  
