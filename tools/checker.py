@@ -3,6 +3,7 @@
 import os.path
 import random # WIP
 import re
+import sys
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
 #
@@ -575,9 +576,15 @@ def check(filename):
     checker.check_undef_high_freq_keywords()
 
 if __name__ == '__main__':
-    TODO = '../data/todo.md'
-    check(TODO)
+    num_arguments = len(sys.argv)
+    print(OKBLUE + 'Number of arguments: ' + str(num_arguments) + ENDC)
+    print(OKBLUE + 'Argument List: ' + str(sys.argv) + ENDC)
 
-    # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
-    DICTIONARY = '../data/dictionary.md'
-    check(DICTIONARY)
+    if ('todo' in sys.argv or num_arguments == 1):
+        TODO = '../data/todo.md'
+        check(TODO)
+
+    if ('dictionary' in sys.argv or num_arguments == 1):
+        # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
+        DICTIONARY = '../data/dictionary.md'
+        check(DICTIONARY)
