@@ -10001,7 +10001,7 @@ __nondescript__ _adj_ :four::hammer:
 __nonesuch__ _n_ (nonsuch)  
 __nonlinear__ _adj_  
 __nonpartisan__ _adj_  
-__nonpliable__ _Nonpliable products._  
+__nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
@@ -10016,15 +10016,15 @@ __nooner__ _n_ _slang_ A brief midday sexual encounter.
 __noontime__ _n_ _It was noontime, time for lunch._  
 __noose<sup>1</sup>__ _n_ :six::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
-__NorCal__ Northern California.  
+__NorCal__ _n_ _US informal_ Northern California.  
 __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy,” about getting back to normal life after the war. Since then, the word has been used often instead of “normality.” _It took me months to get back to normalcy._  
 __normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
 __norovirus__  
-__north__ _The owners are seeking north of $20 billion for the company._  
-__nos__ _They got nos._  
+__north of__ _phr_ More than. _Our base is Windows users worldwide, which is north of 1.2bn._ _The owners are seeking north of $20 billion for the company._  
+__nos__ _abbr_ Numbers: _nos. 9 and 10._  
 __nose > running noses__  
 __nose dive__  
-__nose-thumbing__ :camera:  
+__nose-thumbing__ _n_ :camera: The placing of thumb to nose in derision or contempt.  
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
@@ -10033,7 +10033,7 @@ __nostrum__ _n_ :astonished:
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
 __not (one’s) first rodeo__ _idiom_ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
 __not by any means__ _idiom_ Not in any way; not at all; absolutely not.  
-__not even close__ :dart:  
+__not even close__ _phr_ :dart:  
 __not have a hope in hell (of doing something)__ _idiom_ To not have any chance at all of doing or achieving something.  
 __not have all day__ _idiom_ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __not know (someone) from a bar of soap__ _idiom_ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
@@ -10041,10 +10041,10 @@ __not know someone from Adam__ _idiom_ Not to know someone by sight at all. _I w
 __not the full shilling__ _idiom_ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad) song)._  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
-__nothing but the best__ :dart: _I wish her nothing but the best._  
+__nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
 __notorious__  
 __notwithstanding__ _prep_ :five::hammer:  
-__nought__ :mute:[nou~~gh~~t]  
+__nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
 __nouny__ _adj_  
 __nova__  
@@ -10065,14 +10065,13 @@ __nub__ _n_ :two::hammer: _A punched nub._
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
 __nucleotide__ _n_  
-__nuder__ _Officers found a small sliver handgun nuder the passenger seat._  
 __nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice that can be useful or important.  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
 __numb__ _adj_ :four::mute:[num~~b~~]:hammer:  
-__number of years__ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
-__number__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
+__number<sup>1</sup>__ _n_ __6__ An indefinite quantity of units or individuals. _A number of people complained._ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
+__number<sup>2</sup>__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
 __numbers game__ _n_  
 __numbers runners__  
 __numbly__  
