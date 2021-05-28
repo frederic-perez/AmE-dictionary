@@ -4589,6 +4589,7 @@ __ear__ _n_ _Ear of corn._
 __earbuds__ :camera:  
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
+__early bird__ _idiom_ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early__ _I always get off the bus a stop early on the way to work._  
 __early-onset__ _Early-onset Alzheimer’s disease._  
 __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, use, or recipient: _to earmark goods for export._ _Syn_ allocate __2__ To mark the ear of (a domestic animal) for identification. __3__ To specify or allocate (funds) to be spent in a legislative earmark.  
@@ -9942,23 +9943,21 @@ __nihilistic__
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ Superfluity; excess.  
-__nine yards__ (the whole nine yards)  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
 __niqab__ _v_  
+__nit__ _n_ The egg of certain parasitic insects, especially a head louse. _Hair filled with nits._  
 __nitpick<sup>1</sup>__ _n_  
 __nitpick<sup>2</sup>__ _v_ :seven: (nitpicked, nitpicking) To criticize in a petty and often unjustified criticism. _They will find something to nitpick at you._ _Nitpicking rules._  
 __nitre__ _n_  
-__nits__ _Hair filled with nits._  
 __nitty__ _adj_ _informal_ Foolish; stupid.  
 __nitty-gritty__ _n_ :five: The essence; the essential points. (Usually in get down to the nitty-gritty.) _Once we are down to the nitty-gritty, we can begin to sort things out._  
 __nival__ _adj_ Relating to, growing in or under, or living on snow cover: _nival fauna._  
 __nix<sup>1</sup>__ _n_  
 __nix<sup>2</sup>__ _v_ To cancel something, to stop something from happening.  
-__no early birds__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __no good deed goes unpunished__ _idiom_ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
-__no holds barred__ __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ :es: sin tabúes  
+__no holds barred__ _idiom_ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no jive__  
 __no offense__  
 __no questions asked__  
@@ -9968,30 +9967,27 @@ __no way around it__
 __no way, José__ _idiom_  
 __no worries__ _idiom_ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
-__no-holds-barred__ _adj_ _informal_ :two::hammer: _This book takes a no-holds-barred approach to taking personal responsability._  
 __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone’s books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
-__Nobel__ :mega:  
-__nobody’s doctor__ _I’m nobody’s doctor._  
+__Nobel__ _n_ :mega: /(nəʊˈbɛl/  
 __nocebo__ _n_ :two: A substance that causes undesirable side effects as a result of a patient’s perception that it is harmful rather than as a result of a causative ingredient.  
 __nocent__ _adj_ Having a tendency to cause harm.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
 __noddies__ _n_  
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
-__noir__ _A noir novel._  
+__noir__ _adj_ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :five: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
-__non-call__ _He complained about non-calls._  
 __non-committal__  
-__non-denominational__ _Non-denominational services._  
-__non-exempt__ _Non-exempt position._  
+__non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
 __non-perishables__  
+__noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
 __nonce__  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
@@ -10000,6 +9996,7 @@ __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personn
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
 __nondescript__ _adj_ :four::hammer:  
 __nonesuch__ _n_ (nonsuch)  
+__nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonlinear__ _adj_  
 __nonpartisan__ _adj_  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
@@ -15062,6 +15059,7 @@ __the proof is in the pudding__ _idiom_ The final results of something are the o
 __the real McCoy__ _idiom_ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the sky is the limit__ _idiom_ :two: Anything is possible; there is practically no limit.  
 __the third degree__ _idiom_ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
+__the whole nine yards__ _idiom_  
 __the writing on the wall__  
 __thecracy__  
 __theist__ _adj_  
