@@ -48,15 +48,6 @@ __obsequious__ _adj_
 __montero__ _n_ A hunter’s cap with side flaps.  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __be like oil and water__ _idiom_ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
-__shimmy__ _v_ Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
-__Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
-__devious__ _adj_  
-__purloined__ _v_  
-__put a gun to (someone’s) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
-__repent__ _v_  
-__repentance__ _n_  
-__ribbon-cutting ceremony__ _n_  
-__roister__ _v_ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
 __refractory__ _adj_  
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  

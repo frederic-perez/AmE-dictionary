@@ -327,6 +327,7 @@ __agog__ _adj_
 __agonal__ _adj_ Relating to agony, especially before death. _Agonal breathing._  
 __agonist__ _n_ __3__ One involved in a struggle or competition.  
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
+__Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
 __agronomy__ _n_  
 __aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
@@ -3956,6 +3957,7 @@ __devil is in the detail__ _idiom_ Small things can cause difficulties when you 
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
 __deviltry__  
+__devious__ _adj_  
 __devoid__ _adj_ :two::hammer:  
 __devoir__ _n_ :two::hammer:  
 __devolve__ _v_ _The party must devolve power._  
@@ -11727,7 +11729,7 @@ __purchasable__ _adj_ Capable of being corrupted. _Syn_ bribable, corruptible, v
 __purée__  
 __puree__ _v_ :three::hammer:  
 __purge__ _v_  
-__purloin__ _v_ :seven: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
+__purloin__ _v_ :eight: (purloined) To steal, often in a violation of trust. _Syn_ cabbage, filch, pilfer, snarf, swipe, abstract, nobble, pinch, sneak, hook, lift _Someone at the party purloined my emerald ring!_  
 __purloiner__ _n_  
 __Purple Hearts__  
 __purple__ _n_ _A hint of purple._  
@@ -11756,6 +11758,7 @@ __put (one’s) money where (one’s) mouth is__ _idiom_ :two::hammer:
 __put (or set) the record straight__ _idiom_ To make things clear, to explain something.  
 __put (someone or something) to bed__ _idiom_ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (something) on the back burner__ _idiom_ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
+__put a gun to (someone’s) head__ _idiom_ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __put it on the money__  
 __put off by someone or something__ _idiom_ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put on a clinic__  
@@ -12239,8 +12242,8 @@ __repeal<sup>2</sup>__ _v_
 __repealing__  
 __repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
-__repent__ _v_ :two::hammer: (repented)  
-__repentance__ _n_ :two::hammer:  
+__repent__ _v_ :three::hammer: (repented)  
+__repentance__ _n_ :three::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
 __repine__ _v_ __1__ To feel or express dejection or discontent. _Syn_ complain __2__ To long for something.  
@@ -12362,6 +12365,7 @@ __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:
 __rib cage__ _n_ _Manning had an MRI on his rib cage._  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ _n_ :two::hammer:  
+__ribbon-cutting ceremony__ _n_  
 __riches__ _pl n_ :nine: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
@@ -12472,7 +12476,7 @@ __rogue<sup>1</sup>__ _n_
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __ROI__ _abbr_ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
-__roister__ _v_  
+__roister__ _v_ :two: Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone’s) eyes__  
 __roll call__ _n_ The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
@@ -13194,7 +13198,7 @@ __shill__ _n_ (shills) _Government shills._
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
 __shill<sup>2</sup>__ _v_ :three::hammer: (shilled)  
 __shimmer__ _v_ :four::hammer: (shimmering) _Shimmering eyes._  
-__shimmy__ _v_ :three::hammer: (shimmying)  
+__shimmy__ _v_ :four: (shimmying) Tremble or shake. _Syn_ wobble _I need to take the car to a mechanic because it begins to shimmy every time it is driven at high speed._  
 __shinbones__  
 __shindig__ _n_ :two: A large and noisy party of people. _Syn_ shindy  
 __shinding__  
