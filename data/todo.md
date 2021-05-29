@@ -3,6 +3,18 @@ __sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or w
 __bestie__ _idiom_ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
 __paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
+__fan__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
+__transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
+__stressful__ _adj_  
+__get to know__ _v tr_ To become acquainted with (someone or something); to meet someone.  
+__all in all__ _idiom_  
+__duty__ _n_  
+__thinning__ _n_  
+__out (of) the (starting) gate__ _idiom_ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
+__Nesquik__ _n_ :mega:  
+__concomitant__ _adj_  
+__excruciating__ _adj_  
+__iron__ _v_ :mega: (ironing)  
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __tempus fugit__ _idiom_ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
