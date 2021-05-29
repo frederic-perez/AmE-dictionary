@@ -9832,16 +9832,16 @@ __National Guard__
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __Native American__ _Native American reservation._  
 __nativism__ _n_ :two::hammer:  
-__NATO__ _North Atlantic Treaty Organization_  
+__NATO__ _abbr_ _North Atlantic Treaty Organization_  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
 __naturalization__  
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
-__naughty__ :mute:[nau~~gh~~ty]  
+__naughty__ _adj_ :dart::mute:[nau~~gh~~ty] __1__ Behaving disobediently or mischievously: _a naughty child._ __2__ Indecent; improper: _a naughty wink._  
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
-__navel-gazer__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :two::hammer:  
 __NB__  
@@ -9852,7 +9852,7 @@ __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial s
 __neatnik__ _n_ A very neat and tidy person.  
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
-__necessary__ :mega:  
+__necessary__ _adj_ :mega: /ˈne-sə-ˌser-ē/  
 __necessitate__ _v_  
 __necktie__ _n_  
 __necromancer__  
@@ -9862,15 +9862,13 @@ __need (something) (about) as much as (one) needs a hole in the head__ _idiom_ T
 __neediness__ _n_ The state of being needy; poverty.  
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
-__needlestick__ :pencil2:  
+__needlestick__ _n_ :pencil2:  
 __needy__  
 __nefarious__ _adj_ :six::hammer:  
-__neglected__ _I don’t feel neglected._  
+__neglected__ _adj_ _I don’t feel neglected._  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
-__neigh<sup>2</sup>__ _v_ :es: relinchar  
-__neighbor__ :mute:[nei~~gh~~bor]  
-__neighed__ _v_  
-__neighing__ _v_  
+__neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
+__neighbor__ _n_ :mute:[nei~~gh~~bor]  
 __nematodes__  
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
 __neophilia__ _n_  
@@ -9909,10 +9907,9 @@ __newfangled__ _adj_ Newly come into existence or fashion, esp excessively moder
 __newly__ _adv_ :two::hammer: _The newly elected leader of the Senate Democrats._  
 __news media outlets__  
 __news outlet__  
-__news-stands__ _Available on news-stands and online at onlinestore.usatoday.com._  
 __newsbreak__ _n_  
 __newspaper rack__  
-__newsstand__ _n_ :pencil2:  
+__newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
@@ -9924,14 +9921,15 @@ __nice and easy__ _idiom_ _informal_ In a way that is slow, careful, gentle, or 
 __nicety__ _n_  
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
 __nickel__ _n_ _A nickel mine._  
-__nickle-and-dime__ _A nickle-and-dime con man._  
+__nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
 __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
 __nigh__ _adj_ :two: Near in space or time.  
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
-__night__ :mute:[ni~~gh~~t]  
+__night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
+__night<sup>2</sup>__ _adj_ :mute:[ni~~gh~~t]  
 __nightcap__ _n_ :three::hammer: (nightcaps) _Whiskey nightcaps._  
 __nightie__ _n_ :two: A woman’s nightgown.  
 __nightingale__ _n_ :three: [:scroll: Old English _nihtegale_, literally: night-singer, from night + _galan_ to sing] :es: ruiseñor  
