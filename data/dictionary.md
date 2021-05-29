@@ -850,7 +850,7 @@ __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for pub
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_  
-__aver__ _v_  
+__aver__ _v_ :two::hammer:  
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
@@ -2367,6 +2367,7 @@ __cast a pall__
 __cast-iron__  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
+__castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
 __castigation__ _n_  
 __castle__ :mute:[cas~~t~~le]  
 __castles in the sky__ _idiom_ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
@@ -4731,6 +4732,7 @@ __emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._
 __emaciated__ _adj_  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
 __emancipation__  
+__emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
 __embargo__ _n_  
 __embark__ _They embark on a motorcade._  
@@ -6424,6 +6426,7 @@ __grab__ _v_ _Come here and grab a comic book._
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
 __gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
 __graciousness__  
+__grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
 __grade__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
 __gradual__ _adj_  
@@ -8302,6 +8305,7 @@ __kick in__ _idiom_ :two: To start to have an effect or to happen.
 __kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
+__kick the can down the road__ _idiom_ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__ _idiom_  
 __kick the tires__ _idiom_ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
@@ -9304,6 +9308,7 @@ __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts ma
 __mechanical pencil__  
 __medal__ _v_  
 __medallions__ _Taxi medallions._  
+__meddlesome__ _adj_  
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
@@ -10099,6 +10104,7 @@ __obi__ _n_
 __obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
 __obituaries__  
 __obituary__  
+__objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate, reprobate _During the sentencing, the judge objurgated the crime in the strongest possible terms._  
 __oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
 __oblate__ _n_  
 __obligation__  
@@ -14983,7 +14989,7 @@ __tensile__ _adj_ _Tensile cable._
 __tentative__  
 __tenterhooks__  
 __tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
-__tenure__  
+__tenure__ _n_ :two::hammer:  
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
 __tequila poppers__  
@@ -15764,6 +15770,8 @@ __undercurrent__
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __undergarments__ _n_ :two::hammer:  
+__undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
+__undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
 __undermine__ _v_ :nine::hammer: (undermined)  
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
