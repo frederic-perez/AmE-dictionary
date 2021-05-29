@@ -575,16 +575,26 @@ def check(filename):
     checker.check_duplicated_headwords()
     checker.check_undef_high_freq_keywords()
 
-if __name__ == '__main__':
-    num_arguments = len(sys.argv)
-    print(OKBLUE + 'Number of arguments: ' + str(num_arguments) + ENDC)
-    print(OKBLUE + 'Argument List: ' + str(sys.argv) + ENDC)
+VALID_ARGUMENTS = [ "todo", "dictionary" ]
 
-    if ('todo' in sys.argv or num_arguments == 1):
+def main(argv):
+    num_arguments = len(argv)
+    print(OKBLUE + 'Number of arguments: ' + str(num_arguments) + ENDC)
+    print(OKBLUE + 'Argument List: ' + str(argv) + ENDC)
+    if num_arguments > 3:
+        print(RED + "Too many arguments. Aborting..." + ENDC)
+        sys.exit(1)
+
+
+
+    if ('todo' in argv or num_arguments == 1):
         TODO = '../data/todo.md'
         check(TODO)
 
-    if ('dictionary' in sys.argv or num_arguments == 1):
+    if ('dictionary' in argv or num_arguments == 1):
         # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
         DICTIONARY = '../data/dictionary.md'
         check(DICTIONARY)
+
+if __name__ == '__main__':
+    main(sys.argv[1:])
