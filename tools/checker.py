@@ -577,24 +577,22 @@ def check(filename):
 
 VALID_ARGUMENTS = [ "todo", "dictionary" ]
 
-def main(argv):
+def main(progname, argv):
     num_arguments = len(argv)
-    print(OKBLUE + 'Number of arguments: ' + str(num_arguments) + ENDC)
-    print(OKBLUE + 'Argument List: ' + str(argv) + ENDC)
-    if num_arguments > 3:
+    print(OKBLUE + progname + ': Number of arguments: ' + str(num_arguments) + ENDC)
+    if num_arguments > 0:
+        print(OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
+    if num_arguments > 2:
         print(RED + "Too many arguments. Aborting..." + ENDC)
         sys.exit(1)
 
+    if num_arguments == 0:
+        argv = VALID_ARGUMENTS
+        print(OKBLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + ENDC)
 
-
-    if ('todo' in argv or num_arguments == 1):
-        TODO = '../data/todo.md'
-        check(TODO)
-
-    if ('dictionary' in argv or num_arguments == 1):
-        # DICTIONARY = '/home/fperez/hats/fpcx-GitHub/AmE-dictionary/fleeting/pre-todo.md'
-        DICTIONARY = '../data/dictionary.md'
-        check(DICTIONARY)
+    for arg in argv:
+        currentFile = '../data/' + arg + ".md"
+        check(currentFile)
 
 if __name__ == '__main__':
-    main(sys.argv[1:])
+    main(sys.argv[0], sys.argv[1:])
