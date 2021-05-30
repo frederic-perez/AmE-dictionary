@@ -9769,7 +9769,7 @@ __my ass__ _interj_ :two: _chiefly US_ _informal_ _impolite_ Used to indicate th
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
-__myeloid__ _Myeloid leukemia._  
+__myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
 __myocarditis__ _n_  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myositis__ _n_  
@@ -9783,12 +9783,12 @@ __mysterious__ _adj_ :two::pencil2:
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
 __mystery train__  
 __mystified__  
-__mystique__ :pencil2:  
+__mystique__ _n_ :pencil2:  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :three::hammer:  
-__N-fold__ _It provides a 20-fold increase in device lifetime than what is currently used._  
-__N/A__ Not available.  
+__-fold__ _suffix_ _It provides a 20-fold increase in device lifetime than what is currently used._  
+__N/A__ _abbr_ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
@@ -9812,10 +9812,10 @@ __nameplate__ _n_
 __names and likeness__  
 __namesake__  
 __nana__ _n_ :two::hammer: _Her nana._  
-__Napa Valley__ _The goal is to make Denver the Napa Valley of cannabis._  
+__Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
 __nappy__ _n_ :three::hammer: (chiefly British)  
-__Narcan__ _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
+__Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __narcissistic__ _adj_ :two::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__  
@@ -9825,17 +9825,17 @@ __narrow something down__ _idiom_ If you narrow something down, you reduce the n
 __narrow-minded__ _adj_  
 __narrowcast<sup>1</sup>__ _v_  
 __narrowcast<sup>2</sup>__ _n_  
-__narrowly__ _I narrowly escaped execution._  
-__nary__ _Nary a chance of rain throughout the tournament._  
+__narrowly__ _adv_ _I narrowly escaped execution._  
+__nary__ _adj_ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
 __nascent__ _adj_ :three::hammer: _The nascent market._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
-__Nat Geo__ National Geographic.  
+__Nat Geo__ _abbr_ National Geographic.  
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
-__Native American__ _Native American reservation._  
+__Native American__ _n_ _Native American reservation._  
 __nativism__ _n_ :two::hammer:  
 __NATO__ _abbr_ _North Atlantic Treaty Organization_  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
