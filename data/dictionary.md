@@ -2,6 +2,7 @@ __-desis__ _suffix_ (Surgery) Binding, fixation (the surgeon made two things sti
 __-ectomy__ _suffix_ (Surgery) Indicating surgical excision of a part (the surgeon cut something out): _appendectomy_.  
 __-esis__ _suffix_ Combining form meaning condition, action, or process.  
 __-esque__ _suffix_ :five: An adjective suffix indicating style, manner, resemblance, or distinctive character.  
+__-fold__ _suffix_ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming nouns, often nonce words, that denote an obsessive state of mind or tendency facetiously compared to a disease: _electionitis_; _telephonitis_.  
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
@@ -3213,7 +3214,7 @@ __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you ever
 __copay__ _v_ (co-pay)  
 __COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
 __cope__ _A grey cope._  
-__copious__  
+__copious__ _adj_ :two::hammer: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”]  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
@@ -5221,7 +5222,7 @@ __fatigue__
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
-__fatuous__ _adj_  
+__fatuous__ _adj_ :two: Foolish or inane, esp. in an unconscious, complacent manner; silly.  
 __fatwa__ _n_ :two: Religious edict.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
@@ -7618,6 +7619,7 @@ __immortalize__ _v_ Make famous forever.
 __imp__ _Its imp genius._  
 __impact__ _Sterling struggled to make an impact in the second half._  
 __impairment__  
+__impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __impaneled__ _v_  
 __impart__ _v_  
 __impartible__  
@@ -8806,6 +8808,7 @@ __limpid__ _adj_
 __limpidity__ _n_ _The frigid blue limpidity of the sky._  
 __limply__ _adv_  
 __linchpin__ _n_ :seven: A central cohesive source of support and stability. _Syn_ backbone, keystone, mainstay, anchor _Reduced spending is the linchpin of their economic program._  
+__line in the sand__ _idiom_ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
 __line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
@@ -9288,6 +9291,7 @@ __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you 
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
+__McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
 __MDMA__ _abbr_ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
@@ -9787,7 +9791,6 @@ __mystique__ _n_ :pencil2:
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :three::hammer:  
-__-fold__ _suffix_ _It provides a 20-fold increase in device lifetime than what is currently used._  
 __N/A__ _abbr_ Not available.  
 __NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
@@ -10211,6 +10214,8 @@ __oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way tha
 __olefin__ _n_  
 __olericulture__ _n_ The cultivation of vegetables for the home or market.  
 __oligarch__ _n_ :two::hammer:  
+__oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
+__oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __omelets__  
 __omen__ _n_ :five::hammer:  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
@@ -10454,6 +10459,7 @@ __outwork__ _v_
 __oval<sup>1</sup>__ _adj_ :two: Having the shape of an ellipse or ellipsoid. _Ford oval logo._  
 __oval<sup>2</sup>__ _n_ Anything that is oval in shape, such as a sports ground.  
 __over (one’s) head__ _idiom_ :two: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
+__over the course of__ _idiom_ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __over the hill__ _idiom_ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
 __over the moon__ _adj_ _British informal_ :two: Extremely happy; delighted. _We are over the moon._  
 __over the top__ _idiom_  
@@ -10897,7 +10903,7 @@ __pertinacious__ _adj_
 __pertinent__ _adj_ :two::hammer: _The meeting was full of pertinent information._  
 __pertussis__  
 __perusal__ _n_  
-__peruse__ _v_ :four::mega::hammer: (perused)  
+__peruse__ _v_ :five::mega::hammer: (perused)  
 __Peruvian__  
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
@@ -13419,7 +13425,7 @@ __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. Th
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
 __since__ _adv_ __1__ From then until now or between then and now. _They left town and haven’t been here since._ _The two Senators have since denied knowing Kev._ __2__ Before now; ago: _a name long since forgotten._ __3__ After some point in the past; at a subsequent time. _My friend has since married and moved to California._  
-__sine die__  
+__sine die__ _adv_ :two: [Medieval Latin : Latin sine, _without_ + Latin diē, ablative of diēs, _day_.] Without a day specified for a future meeting; indefinitely: _Parliament was dismissed sine die._  
 __sine qua non__ _n_ :two: An essential element or condition. _“The perfect cake is the sine qua non of the carefully planned modern wedding” (J.M. Hilary)._  
 __sinecure__ _n_ :two: A position or office that requires little or no work but provides a salary.  
 __sinergy__ _n_ (sinergies)  
