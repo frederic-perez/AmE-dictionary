@@ -575,16 +575,24 @@ def check(filename):
     checker.check_duplicated_headwords()
     checker.check_undef_high_freq_keywords()
 
-VALID_ARGUMENTS = [ "todo", "dictionary" ]
+def usageAndAbort(progname, valid_arguments):
+    print(BLUE + "Usage: " + progname + " <arguments> # with <arguments> being one or more of " + str(valid_arguments) + ENDC)
+    sys.exit(1)
 
 def main(progname, argv):
     num_arguments = len(argv)
     print(OKBLUE + progname + ': Number of arguments: ' + str(num_arguments) + ENDC)
     if num_arguments > 0:
         print(OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
+
+    VALID_ARGUMENTS = [ "todo", "dictionary" ]
     if num_arguments > 2:
         print(RED + "Too many arguments. Aborting..." + ENDC)
-        sys.exit(1)
+        usageAndAbort(progname, VALID_ARGUMENTS)
+    for arg in argv:
+        if arg not in VALID_ARGUMENTS:
+            print(RED + progname + ": Argument `" + arg + "` is not valid." + ENDC)
+            usageAndAbort(progname, VALID_ARGUMENTS)
 
     if num_arguments == 0:
         argv = VALID_ARGUMENTS
