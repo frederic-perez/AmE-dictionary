@@ -6,6 +6,18 @@ __paraph__ _n_ A flourish made after or below a signature, originally to prevent
 __fan__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
 __transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
 __stressful__ _adj_  
+__hoopster__ _n_ A basketball player.  
+__playmaker__ _n_ A player who leads the offense for a team (as in basketball or hockey).  
+__lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
+__tipple<sup>1</sup>__ _v intr_ To drink liquor, esp. to excess.  
+__tipple<sup>2</sup>__ _v tr_ To drink (liquor), esp. repeatedly and in small quantities.  
+__tipple<sup>3</sup>__ _n_ Liquor; alcohol.  
+__quincunx__ _n_ [:scroll: From Latin quincunx (five twelfths), from quinque (five) + uncia (twelfth part). In ancient Rome, a quincunx was a coin equivalent to five twelfths of the coin known as an “as” or “libra”. The coin’s value was sometimes represented by five dots, four in corners and one in the middle. The number five on a die is represented by five dots in a quincunx.] An arrangement of five objects or marks with one at each corner of a rectangle or square and one at the center.  
+__commiserate__ _v_  
+__flotilla__ _n_ __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
+__desolate__ _adj_  
+__stealthy__ _adj_ Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, surreptitious, sneaky _Jane thought she was being stealthy as she sneaked in past curfew, but her mother heard the door creak as soon as it opened._  
+__symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __get to know__ _v tr_ To become acquainted with (someone or something); to meet someone.  
 __all in all__ _idiom_  
 __duty__ _n_  
