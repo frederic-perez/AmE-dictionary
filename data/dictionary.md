@@ -1323,6 +1323,7 @@ __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They p
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :four: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
+__bestie__ _idiom_ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
@@ -5162,7 +5163,8 @@ __famine__ _n_ :two::hammer: _It could be feasst or famine._
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
 __fan service__ _idiom_  
-__fan__ _v_ _Jack should have to fan the fire a little._  
+__fan<sup>1</sup>__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
+__fan<sup>2</sup>__ _v_ _Jack should have to fan the fire a little._  
 __fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
@@ -7358,6 +7360,7 @@ __hoop dress__
 __hoop__ _v_  
 __hoopla__ _n_ :four: __2__ _slang US and Canadian_ Noise; bustle, __3__ _slang US_ Nonsense; ballyhoo (sensational or clamorous advertising or publicity). _The hype and hoopla that goes with her first All-Star game._ :es: alboroto  
 __hoops__ _n_ _slang_ :two: The game of basketball. _Can you play hoops?_  
+__hoopster__ _n_ A basketball player.  
 __hoosegow__ _n_ :astonished: (hoosgow) _US_ A slang word for jail. The term was born in the lively mixture of Spanish and English spoken in the western part of the United States—it comes from the Spanish _juzgado_.  
 __Hoosiers__  
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
@@ -9662,10 +9665,10 @@ __motorized scooter__ _n_ :dart: _Police said they know who stole a motorized sc
 __motormouth__  
 __mould__ _n_  
 __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
+__mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
 __mountebank__  
-__mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __mourner__ _n_  
 __mournfully__  
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
@@ -9744,9 +9747,9 @@ __muse<sup>2</sup>__ _v_ :five::hammer: (mused) _He mused on his Facebook page a
 __muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
-__mushmouth__ _n_  
 __mushers__  
 __mushhead__ _idiom_ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
+__mushmouth__ _n_  
 __mushroom<sup>1</sup>__ _n_  
 __mushroom<sup>2</sup>__ _v_ _Traffic mushroomed in Feb._  
 __mushy__ _adj_ :four::hammer: _Mushy age._  
@@ -10627,6 +10630,7 @@ __paramount__ _adj_ :two::hammer: _The reliability of the weather station is par
 __paranoid__ _adj_  
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
+__paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
 __paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
@@ -11165,7 +11169,7 @@ __play short__
 __play tricks on someone__  
 __playbook__ _n_ :three::hammer: _The industry’s playbook._  
 __playful__ _adj_ _A playful aside._  
-__playmaker__ _n_  
+__playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
 __playmaking__ _n_ _His playmaking ability._  
 __playpen__ _n_ A portable enclosure in which babies may be left to play.  
 __playthings__ _n_  
@@ -12383,6 +12387,7 @@ __ricking__ _v_ _Ricking their fingers for blood six or more times a day._
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __RICO__ _abbr_ _He had been indicted on RICO charges._  
 __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
+__rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
@@ -13584,6 +13589,7 @@ __slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday’s 
 __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
 __slider__ _n_ :four::hammer: _What’s up with someone’s slider?_  
 __sliders__ _n_ (food)  
+__sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
 __slight<sup>1</sup>__ _adj_  
 __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don’t slight your work._  
 __slight<sup>3</sup>__ _n_ :nine: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
@@ -14450,6 +14456,7 @@ __streetwise__
 __strengthen__ _v_ :two::hammer:  
 __strenuous__ _adj_ :astonished::four::hammer:  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
+__stressful__ _adj_  
 __stressor__ _n_ A stimulus that causes stress.  
 __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the abdomen, caused by distension of the skin from obesity or during pregnancy.  
 __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
@@ -14523,6 +14530,7 @@ __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebod
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
+__sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
@@ -15472,6 +15480,7 @@ __translucent__ _adj_
 __transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
 __transparent__ _adj_ :mega:  
 __transpose__ _v_ _Someone might have transposed digits._  
+__transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
 __trap question__ _n_ :astonished: _That’s a trap question._  
 __trapdoor__ _n_  

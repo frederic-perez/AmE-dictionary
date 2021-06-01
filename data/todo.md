@@ -1,13 +1,3 @@
-__rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
-__sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
-__bestie__ _idiom_ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
-__sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
-__paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
-__fan__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
-__transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
-__stressful__ _adj_  
-__hoopster__ _n_ A basketball player.  
-__playmaker__ _n_ A player who leads the offense for a team (as in basketball or hockey).  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __tipple<sup>1</sup>__ _v intr_ To drink liquor, esp. to excess.  
 __tipple<sup>2</sup>__ _v tr_ To drink (liquor), esp. repeatedly and in small quantities.  
