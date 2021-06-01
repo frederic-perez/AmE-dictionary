@@ -60,3 +60,14 @@ __slam dunk__ _n_
 __alley-oop__ _n_  
 __PPE__ _abbr_ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __adjuvant__ _adj_  
+__hallmark__ _n_ /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
+__pièce de résistance__ _n_  
+__skylark__ _v_ To frolic; sport.  
+__bovarism__ _n_  
+__palaver<sup>1</sup>__ _n_  
+__palaver<sup>2</sup>__ _v_  
+__lacustrine__ _adj_  
+__the L-bomb__ _idiom_ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
+__kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
+__Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
+__lazy-bones__ _idiom_ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
