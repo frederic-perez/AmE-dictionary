@@ -9574,7 +9574,7 @@ __mom-and-pop__ _Mom-and-pop shops._
 __momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __momentum__  
 __monad__  
-__Monday__ :mega: /’möndi, -deI/  
+__Monday__ _n_ :mega: /’möndi, -deI/  
 __mondegreen__ _n_ :two::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money doesn’t grow on trees__ _idiom_ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ _idiom_ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
@@ -9588,12 +9588,12 @@ __monied__ _v_
 __monies__ _n_ :pencil2: _Taxpayer monies._  
 __moniker__ _n_ :three::hammer:  
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
-__monkey off one’s back__ _The win did remove the major monkey off his back._  
+__monkey off one’s back__ _idiom_ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
 __monkey suit__  
 __monkey wrench__  
 __monogramming__  
 __mononyms__  
-__monopoly__ :mega: /mə-nŏp′ə-lē/  
+__monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstrosity__ _n_ :pencil2::two::hammer:  
@@ -9613,7 +9613,7 @@ __mooring__ _n_ :two::hammer:
 __moot<sup>1</sup>__ _adj_ :nine: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
-__moppet__ _A lovable moppet._  
+__moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral compass__ _idiom_ :two: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics.  
 __moral__  
@@ -9633,7 +9633,8 @@ __morosely__ _adv_ :two::hammer:
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
-__mortgage__ :mute:[mor~~t~~gage]  
+__mortgage<sup>1</sup>__ _n_ :mute:[mor~~t~~gage]  
+__mortgage<sup>2</sup>__ _v_ :mute:[mor~~t~~gage]  
 __mortice__  
 __mortification__ _n_ :two::hammer:  
 __mortify__ _v_ :six::hammer: (mortified)  
@@ -9642,19 +9643,19 @@ __MOS__ _abbr_ :two: Mom over shoulder.
 __mos.__ _abbr_ Months.  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
-__most of the time__ _Most of the time I do my breakfast._  
+__most of the time__ _idiom_ _Most of the time I do my breakfast._  
 __mot juste__ _n_ The appropriate word or expression.  
 __mote__ _n_ :two::hammer: (motes) _A dust mote._  
 __moth__ _n_ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
-__mother-of-pearl__ _Mother-of-pearl inlays._  
+__mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._  
 __motifs__ _n_  
-__motion sickness__ _For one grandson prone to motion sickness, I took some meclizine as well._  
-__motion__ _Defense attorneys had filed motions._  
+__motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
+__motion__ _n_ _Defense attorneys had filed motions._  
 __motley__ _adj_ :six: If you’ve encountered the word motley, it’s most likely in the phrase “motley crew,” which means a diverse and poorly organized group. Think of a band of pirates, or the assorted characters who became The Fellowship of the Ring. In contemporary usage, motley can be used in virtually any context as a synonym for mismatched, heterogeneous, or ragtag. _Motley crew._ _A motley collection._  
 __motocyclist__ _n_  
-__Motor City__ Detroit.  
+__Motor City__ _n_ Detroit.  
 __motor coach__ _n_ :two: A coach (also motor coach, often simply called a bus) is a type of bus used for conveying passengers on excursions.  
 __motor court__  
 __motorcade__ _n_ A procession of motor vehicles, as in a parade.  
