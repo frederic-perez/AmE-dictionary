@@ -9658,14 +9658,14 @@ __motorcade__ _n_ A procession of motor vehicles, as in a parade.
 __motorcycle center (main) stand__ _n_ :es: caballete de la moto  
 __motoring__  
 __motorist__ _n_ :three: A person who drives or travels in a privately owned automobile.  
-__motorized scooter__ _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
+__motorized scooter__ _n_ :dart: _Police said they know who stole a motorized scooter that belonged to a local woman with limited mobility._  
 __motormouth__  
 __mould__ _n_  
 __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto cover or surround with a mound: _to mound a grave._ _Jack was mounding butter pats on his fourth hard roll._  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
 __mountebank__  
-__mounting__ _Evidence is mounting for an ocean at Pluto._  
+__mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __mourner__ _n_  
 __mournfully__  
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
@@ -9678,7 +9678,7 @@ __mouthwash__ _n_ :two::hammer: :es: colutorio
 __move heaven and earth__ _idiom_ To do everything that one can to make something happen.  
 __move the needle__  
 __Movember__ _n_  
-__mover and shaker__ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
+__mover and shaker__ _idiom_ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __mover__ _n_  
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
@@ -9687,7 +9687,7 @@ __MQTT__ _abbr_ Message Queuing Telemetry Transport.
 __Mr Goodwrench__  
 __Mr. Such and Such__  
 __mRNA__ _abbr_ Messenger RNA.  
-__MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
+__MSRP__ _abbr_ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __much obliged__ _idiom_ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __much<sup>1</sup>__ _adj_  
 __much<sup>2</sup>__ _n_  
@@ -9701,7 +9701,7 @@ __muddle__ _v_ :five: (muddled) Bring into a disordered or confusing state. _Syn
 __muddy the water(s)__ _idiom_ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mudslide__ _n_ :three: __2__ A sweet cocktail made with a whiskey-based liqueur blended with cream, a coffee liqueur, and sometimes vodka, served over ice.  
 __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious or scandalous attacks. :es: injurias  
-__muff__ _She drew from her muff a pistol._  
+__muff__ _n_ _She drew from her muff a pistol._  
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
 __muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
@@ -9722,7 +9722,7 @@ __mulligan__ _n_
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicopter__ _n_ _Syn_ multirotor  
 __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
-__multipurpose__ :es: polivalente  
+__multipurpose__ _adj_ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumbo jumbo__ _n_  
@@ -9744,7 +9744,7 @@ __muse<sup>2</sup>__ _v_ :five::hammer: (mused) _He mused on his Facebook page a
 __muselet__ _n_ The wire that holds a champagne cork in place.  
 __museum__ _n_ :mega:  
 __mush__ _n_ :four::hammer: _A mush brain._  
-__mush-mouth__ _The kid with the mush-mouth accent._  
+__mushmouth__ _n_  
 __mushers__  
 __mushhead__ _idiom_ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
 __mushroom<sup>1</sup>__ _n_  
@@ -9753,9 +9753,9 @@ __mushy__ _adj_ :four::hammer: _Mushy age._
 __musing__ _n_ :two: (musings) Contemplation; reflection.  
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
-__muskrat__ _The muskrat season._  
+__muskrat__ _n_ _The muskrat season._  
 __muslin__ _n_ :two::hammer: _Muslin swaddles._ :es: muselina  
-__muss__ _No fuss, no muss._  
+__muss__ _n_ _No fuss, no muss._  
 __mussed__ _v_  
 __mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
 __must have__  
@@ -9768,7 +9768,7 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
-__Mx.__ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
+__Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __my ass__ _interj_ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __my hands are tied__ _idiom_ You are not free to behave in the way that you would like for some reason.  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
