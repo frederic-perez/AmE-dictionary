@@ -2828,7 +2828,7 @@ __cloud nine__ _idiom_ :two::hammer:
 __cloud of suspicion__ _idiom_ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud seeding__ _n_ :two::hammer:  
 __cloud the issue__ _idiom_ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
-__cloud__ _v_ _To cloud my judgement._  
+__cloud__ _v_ :two::hammer: _Distance clouds perspective._ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
 __clout list__ _idiom_ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
 __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective political power. _Latino interests are increasing their political clout._ _The Cubs are unleashing their new clout._  
@@ -5033,7 +5033,7 @@ __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow 
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::nine: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedite__ _v_ :dart::nine::m: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __expedited shipping__ (vs _regular shipping_)  
 __expediting__ _v_  
 __expeditiously__  
@@ -7554,7 +7554,7 @@ __I’d say__ _idiom_ In my opinion; it is my estimation that.
 __I’ll be hanged if I do (something)__ _idiom_ I am determined not to do something.  
 __I’m with you__ _idiom_ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
-__iatrogenic__ Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
+__iatrogenic__ _adj_ :two: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
 __Ibuprofen__  
 __ice cream cone__  
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
@@ -7853,6 +7853,7 @@ __infamy__
 __infant__ _n_  
 __infare__ _n_  
 __infeasible__ _adj_ _Syn_ unfeasible  
+__infectivity__ _n_  
 __inferno__ _All kinds of Indian infernos._  
 __infidel__ _n_  
 __infighting__ _n_ :two::hammer:  
@@ -8202,6 +8203,7 @@ __jump at__ _phr v_ To take an opportunity with enthusiasm.
 __jump for joy__ _idiom_ To be very happy about something.  
 __jump in (one’s) skin__ _idiom_ To start or recoil, as from shock, surprise, or fear.  
 __jump ship__ _idiom_ To leave a job or activity.  
+__jump shot__ _n_  
 __jump start__ _n_ _His friends gave him a jump start._  
 __jump the gun__ _If I jump the gun I’ll need more time to recover._  
 __jump through hoops__ _idiom_ To do a lot of difficult things before you are allowed to have or do something you want.  
@@ -11608,6 +11610,7 @@ __propel__ _v_ :two::hammer:
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
+__prophylaxis__ _n_  
 __propitiate__ _v_ :pencil2:  
 __proponent__  
 __propped up__ _v_  
@@ -12818,7 +12821,8 @@ __scamster__ _n_ _informal_ One who perpetrates a scam or fraud; a windler.
 __scant__ _adj_ :seven: Scant is an adjective that means “a tiny amount,” like your scant attendance at practice this week that results in being benched from the big game. _Details were scant._  
 __scantily__ _adv_ :two::hammer: _A scantily clad spider._  
 __scanty__ _adj_  
-__scapegoated__ _v_  
+__scapegoat<sup>1</sup>__ _n_  
+__scapegoat<sup>2</sup>__ _v_ (scapegoated)  
 __scapular__  
 __scar__ _v_ _CIA to=ture scarred man’s psyche for years._  
 __scarce__ _adj_ :three::hammer:  
@@ -15455,6 +15459,7 @@ __trade__ _n_
 __trade-off__ _n_ _She has to make trade-offs._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
+__tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailing plants__  
@@ -16005,6 +16010,7 @@ __vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
+__vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  

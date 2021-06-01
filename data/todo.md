@@ -58,16 +58,5 @@ __sixth man__ _n_ A player in basketball who is regularly used as the first of a
 __full-court press__ _n_  
 __slam dunk__ _n_  
 __alley-oop__ _n_  
-__jump shot__ _n_  
-__vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
-__tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
-__infectivity__ _n_  
-__shun__ _v_  
-__scapegoat__ _n_  
-__expedite__ _v_  
-__iatrogenic__ _adj_  
-__respite__ _n_  
-__prophylaxis__ _n_  
-__cloud__ _v_ _Distance clouds perspective._  
 __PPE__ _abbr_ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __adjuvant__ _adj_  
