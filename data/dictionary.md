@@ -243,7 +243,7 @@ __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie w
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
 __adjure__ _v_ _Syn_ command  
-__adjuvant__ _adj_ :two::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
+__adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin__ _I was doing just admin stuff._  
 __admit defeat__ _idiom_ To yield to the opposition or accept that one is wrong in some pursuit.  
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
@@ -1721,6 +1721,7 @@ __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful
 __bounty__ _n_ :hammer: _Bounty_ comes from the Latin word _bonus_, meaning good.  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
+__bovarism__ _n_  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
 __bow__ _n_ :five::camera::hammer: _A gift bow._ _Lexus (Toyota’s luxury brand) put the red bows atop its cars two weeks before Thanksgiving._ _Violins, violas, cellos and bows._ _The bow of the ship._  
@@ -6745,7 +6746,7 @@ __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lu
 __halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; passable.  
 __hall boy__ _n_  
 __Halligan__ _They had Halligan bars for smashing windows._  
-__hallmark__ _n_ :four::hammer:  
+__hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :five::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
@@ -8471,6 +8472,7 @@ __laconic__ _adj_ :two: Using or marked by the use of few words; terse or concis
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
+__lacustrine__ _adj_  
 __lacy__ _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
 __laddie__  
@@ -10559,6 +10561,8 @@ __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
+__palaver<sup>1</sup>__ _n_  
+__palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
@@ -10996,6 +11000,7 @@ __picturesque__
 __piddle__ _v_  
 __piddling__ _adj_ Petty; trifling; trivial. _He had killed several hours with footless piddling._  
 __pie in the sky__ _idiom_ :three::hammer:  
+__pièce de résistance__ _n_  
 __piece of cake__  
 __piece of work__ _idiom_ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
 __piece__ _n_ _A piece of cake._  
@@ -11402,6 +11407,7 @@ __powermongers__ _n_
 __powwows__ _n_  
 __pox__  
 __PPD__ _abbr_ Postponed. _(sporting events)_  
+__PPE__ _abbr_ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ _abbr_ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __PR__ _abbr_ _The PR version of my life._  
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
@@ -13521,7 +13527,7 @@ __skunworks__
 __sky high__  
 __skyjack__ _v_ To hijack (an aircraft).  
 __skylark<sup>1</sup>__ _n_ :es: alondra  
-__skylark<sup>2</sup>__ _v_  
+__skylark<sup>2</sup>__ _v_ :two: To frolic; sport.  
 __skylight__  
 __skyrocket__ _v_ :three::hammer:  
 __skyscraper__ _n_  
@@ -15074,6 +15080,7 @@ __the honest truth__ _idiom_ The sincere, unadulterated truth.
 __the idiot box__ _idiom_ A television set, or television in general.  
 __the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
+__the L-bomb__ _idiom_ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
 __the last of the lot__ _idiom_ The last or final person(s) or thing(s) in a given group or list.  
 __the last thing (one) wants__ _idiom_ Something which one absolutely does not want or has no use for.  
