@@ -9474,7 +9474,7 @@ __minion__ _n_ :two::hammer: (minions)
 __minnie__ _n_ :two: A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
-__minstrel__ _n_ :three: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. :es: juglar  
+__minstrel__ _n_ :four: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
 __minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
@@ -9503,8 +9503,8 @@ __misdiagnose__ _v_ _A misdiagnosed patient._
 __misdiagnosis__ _n_ An incorrect diagnosis.  
 __misdirection__ _n_ :three::hammer:  
 __miser__ _n_ :three::hammer: :es: avaro  
-__miserable__ _We are miserable._  
-__miserably__ _Failed miserably._  
+__miserable__ _adj_ _We are miserable._  
+__miserably__ _adv_ _Failed miserably._  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
@@ -9517,7 +9517,7 @@ __mislay__ _v_ _He mislaid his keys._
 __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
-__misogyny__ :pencil2:  
+__misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
@@ -9533,7 +9533,6 @@ __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
-__mistrel__ _A popular minstrel show, such as “Jim Crow.”_  
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
@@ -9544,7 +9543,7 @@ __mix and match__ _idiom_ To put certain things together in different combinatio
 __mix apples and oranges__ _idiom_ To combine or compare two different things.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
-__mixed signals__ _Mr. Trump sent more mixed signals on Monday._  
+__mixed signal__ _idiom_ A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
 __MLK__  
 __MO__ _abbr_ :six: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
@@ -9560,19 +9559,19 @@ __modish__ _adj_
 __mogrify__ _v_  
 __mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
-__Mohs hardness__ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
+__Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __molasses__ _n_ :five::hammer: _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
 __moldy__ _adj_ :two::hammer:  
-__mole grip__ :camera: Locking pliers.  
-__mole wrench__ :camera: Locking pliers.  
+__mole grip__ _n_ :camera: Locking pliers.  
+__mole wrench__ _n_ :camera: Locking pliers.  
 __mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
 __mollify__ _v_ :six::hammer: (mollified)  
 __mollusks__  
 __molten lava__  
-__mom-and-pop__ _Mom-and-pop shops._  
+__mom-and-pop__ _adj_ _Mom-and-pop shops._  
 __momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
 __momentum__  
 __monad__  
