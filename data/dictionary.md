@@ -9405,7 +9405,8 @@ __meter__ _n_ _The cab driver waited with the meter running._
 __metheglin__ _n_ :two::hammer:  
 __methinks__  
 __meticulous__ _adj_ :two: Marked by extreme or excessive care in the consideration or treatment of details.  
-__metro__ _Her products landed on the shelves of stores in metro Detroit._  
+__metro<sup>1</sup>__ _n_ A subway system.  
+__metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
 __mettle__ _n_ :eight::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
@@ -9417,12 +9418,12 @@ __mid-afternoon__
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
 __middle ground__ _idiom_ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
-__middle of the road__ _He is a middle of the road singer, and that’s a good thing._  
+__middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
-__Middle West__ :dart:  
+__Middle West__ _n_ :dart: Another name for the Midwest.  
 __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
-__midget__ _They both raced midgets with plans to go open-wheel racing._  
+__midget__ _n_ __1__ _Offensive_ An extremely small person who is otherwise normally proportioned. __2__ A small or miniature version of something. __3__ A class of small objects, as a class of very small sailboats or racing cars. _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
 __midsize__  
 __midst__  
@@ -9439,7 +9440,9 @@ __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
 __mildew<sup>2</sup>__ _v_ :five::hammer: (mildewed) Affect or be affected with mildew. :es: mohoso  
 __mildewed__ _adj_ __1__ (Plant Pathology) (of a plant) Having mildew. __2__ (of a surface) Affected by mould.  
-__mile-a-minute__ _A mile-a-minute talker._  
+__mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants, some of which are extremely invasive outside their native range and undesirable.  
+__mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
+__mile-a-minute<sup>3</sup>__ _adv_ Very fast. _He was all excited after the game, talking a mile-a-minute about the last-second shot._  
 __mileage__  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
@@ -9456,7 +9459,7 @@ __millennium__ _n_ :two::pencil2:
 __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._  
 __milling machine__ _n_  
 __milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
-__million__ _The project willl cost around $10 million._ (not ending with ‘s’)  
+__million__ _n_ :mega: /ˈmɪljən/ _The project willl cost around $10 million._ (not ending with ‘s’)  
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
@@ -9468,7 +9471,7 @@ __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, pri
 __mind trick__  
 __mind__ _v_ _Mind the gap._  
 __mind-boggling__ _adj_ _informal_ :two: Overwhelming; stunning: _mind-boggling prices._  
-__minder__ :es: guardaespaldas  
+__minder__ _n_ __4__ _slang_ Someone acting as a bodyguard, guard, or assistant, esp in the criminal underworld. :es: guardaespaldas  
 __mindful__  
 __mindset__ _n_  
 __minie balls__  
@@ -9481,8 +9484,9 @@ __minor__ _n_ :two: A field of study that a student is not specializing in and w
 __minstrel__ _n_ :four: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
 __mint bank notes__  
 __mint__ _adj_ Unspoilt, as if fresh from a mint.  
-__minus-9__ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
-__minute__ :mega: /mĭn′ĭt/  
+__minus-9__ _n_ _The Cowboys are tied for last with Detroit in turnover margin with minus-9._  
+__minute<sup>1</sup>__ _n_ :mega: /mĭn′ĭt/  
+__minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
 __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
@@ -9493,7 +9497,7 @@ __misbegotten__ _adj_
 __miscarriage__ _n_  
 __miscarry__ _v_  
 __miscegenation__  
-__miscellaneous__ :mute:[mis~~c~~ellaneous]  
+__miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :three::hammer:  
