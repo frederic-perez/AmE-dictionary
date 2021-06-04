@@ -51,6 +51,7 @@ __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
+__expedite__ _v_ :dart::nine::m: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __far cry (from something)__ _idiom_ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
