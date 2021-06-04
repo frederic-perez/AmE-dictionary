@@ -37,6 +37,18 @@ __refractory__ _adj_
 __in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __conflate__ _v_ Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __heat wave__ _idiom_ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
+__king of the hill__ _idiom_  
+__blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
+__bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
+__king of the jungle__ _idiom_ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
+__savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
+__dentifrice__ _n_  
+__moonshot__ _n_ __1a__ A spacecraft mission to the moon. __b__ An extremely ambitious project or mission undertaken to achieve a monumental goal.  
+__pecuniary__ _adj_  
+__chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
+__chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
+__kindred spirit__ _idiom_  
+__compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __on the leading edge__ _idiom_ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
@@ -56,7 +68,7 @@ __kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwi
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __lazy-bones__ _idiom_ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __backlog__ _n_ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
-__watchdog__ __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ __b__ (as modifier): _a watchdog committee._  
+__watchdog__ _n_ __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ __b__ (as modifier): _a watchdog committee._  
 __asthma__ _n_  
 __temper__ _v_  
 __rigor__ _n_  
