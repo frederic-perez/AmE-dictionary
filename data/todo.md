@@ -28,16 +28,6 @@ __heinous__ _adj_
 __endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __bring (something) into effect__ _idiom_ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __uphold__ _v_  
-__rift__ _n_  
-__fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
-__onslaught__ _n_ :two: A violent attack.  
-__hallowed__ _adj_  
-__if (one’s) life depended on it__ _idiom_ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
-__grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
-__disjune<sup>1</sup>__ _n_ Breakfast.  
-__disjune<sup>2</sup>__ _v_ To breakfast.  
-__pullulate__ _v_ __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
-__dornick__ _n_ A small stone that is easy to throw.  
 __obsequious__ _adj_  
 __montero__ _n_ A hunter’s cap with side flaps.  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  

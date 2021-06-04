@@ -4124,6 +4124,8 @@ __disingenuousness__
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ _n_ :two::hammer:  
 __disinterested__ _adj_  
+__disjune<sup>1</sup>__ _n_ Breakfast.  
+__disjune<sup>2</sup>__ _v_ To breakfast.  
 __dislocate__ _v_ To displace (a body part), especially to displace a bone from its normal position.  
 __dislodge__ _v_  
 __disloyal__  
@@ -4304,6 +4306,7 @@ __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A 
 __dorm__ _n_  
 __dormant__ _adj_ :two::hammer:  
 __dormer__ _n_ :camera:  
+__dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dot__ _v_ (dotted) Mark with a dot.  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
@@ -5222,6 +5225,7 @@ __Father Time__
 __fatherland__ :astonished:  
 __fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
+__fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
 __fatigue__  
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
@@ -6565,6 +6569,7 @@ __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a g
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
+__grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
 __grouchy__ _adj_  
 __ground chuck steak__  
 __ground game__  
@@ -6749,7 +6754,7 @@ __halfway decent__ _idiom_ Somewhat good, useful, or enjoyable, but not very; pa
 __hall boy__ _n_  
 __Halligan__ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
-__hallowed__ _adj_ :five::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
+__hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __ham hocks__ _n_ :two::hammer:  
@@ -7590,6 +7595,7 @@ __idle__ _v_
 __idolatry__ _n_ :two::hammer:  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __ie.__ _abbr_ That is to say.  
+__if (one’s) life depended on it__ _idiom_ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
 __if nothing else__ _And if nothing else, Selig will be watching._  
 __if the shoe fits, wear it__ _idiom_ If a description applies to you, then accept it.  
 __if you will__ _idiom_ :four: If you wish to call it that. _A kind of preoccupation, or obsession if you will._ A phrase used to indicate that what one has just said is an uncommon, metaphorical, or original way of saying something. Similar to the phrases “so to speak” and “in a manner of speaking.” _This arrangement will allow us to eliminate our debt and get back to solid ground, if you will._  
@@ -9418,10 +9424,10 @@ __mid-afternoon__
 __midafternoon__  
 __midday__ _n_ :two::pencil2::hammer:  
 __middle ground__ _idiom_ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
-__middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
 __middle school__ _n_ A school for students intermediate between elementary school and college; usually grades 9 to 12.  
 __Middle West__ _n_ :dart: Another name for the Midwest.  
+__middle-of-the-road__ _adj_ Standing for or following a course of action midway between extremes, esp. being neither liberal nor conservative in politics. _He is a middle of the road singer, and that’s a good thing._  
 __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Mediocre. _Syn_ average _A middling academic career._  
 __midget__ _n_ __1__ _Offensive_ An extremely small person who is otherwise normally proportioned. __2__ A small or miniature version of something. __3__ A class of small objects, as a class of very small sailboats or racing cars. _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
@@ -10313,7 +10319,7 @@ __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _A
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :seven::hammer: _Early onset dementia._  
-__onslaught__ _n_ :two::hammer:  
+__onslaught__ _n_ :three: A violent attack.  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __oodles__ _idiom_ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __oofs__  
@@ -11717,6 +11723,7 @@ __pulled pork sandwich__
 __pulley__ _n_ :pencil2::mega:  
 __pullout<sup>1</sup>__ _n_  
 __pullout<sup>2</sup>__ _adj_ _Pullout couches._  
+__pullulate__ _v_ __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
 __pulmonary embolism__ _n_ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulp__ _n_ _The pulps were running out of steam._  
 __pulpit__ _n_ :three::hammer:  
