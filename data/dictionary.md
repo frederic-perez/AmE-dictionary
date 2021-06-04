@@ -412,6 +412,7 @@ __allegation__ _n_
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __allegedly__  
 __allergens__  
+__alley-oop__ _n_  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
@@ -1820,7 +1821,7 @@ __briar__ _n_ :three::hammer: _Briar patch._
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
-__brick__ _n_ _basketball_  
+__brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brickbats__  
 __bridal gown__ _n_  
 __bridesmaid__  
@@ -5258,7 +5259,7 @@ __featuring__
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
-__feckless__ _adj_ :four: __1__ Weak, ineffective. __2__ Worthless, irresponsible.  
+__feckless__ _adj_ :five: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
 __feed (someone) to the wolves__ _idiom_ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
 __feel all the feels__ _idiom_ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
@@ -5914,6 +5915,7 @@ __full of shit__ _idiom_ :two: _slang_ _rude_ Unreliable or ridiculous; saying u
 __full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ _adj_ :two::hammer:  
+__full-court press__ _n_  
 __full-fledged__ _adj_ :two::hammer: _Full-fledged work._  
 __full-mask helmet__ _n_  
 __fullback__ _n_ _football_ :two::hammer: (fullbacks)  
@@ -9728,6 +9730,7 @@ __mullet__ _n_ :three::hammer: Freshwater or coastal food fishes a spindle-shape
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
 __multicopter__ _n_ _Syn_ multirotor  
+__multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
 __multipurpose__ _adj_ :es: polivalente  
 __multitude__  
@@ -13304,6 +13307,7 @@ __shortly after__ _idiom_ Soon after. _Shortly after she hung up, the phone rang
 __shortly before__ _adv_ _Shortly before Lee’s death, the homeless man walked of the St. David’s Medical Center against medical advice._  
 __shortly__ _adv_ :two::hammer: _Shortly before 8 a.m. Tuesday._  
 __shorts__ _n pl_ :two: (plurale tantum) _He typically wears shorts to work._  
+__shot clock__ _n_ A clock in basketball that displays a countdown of the time within which shooting the ball is required.  
 __shot in the arm__ _idiom_ :two::hammer:  
 __shot in the dark__ _idiom_ An attempt to guess something when you have no information or knowledge about it.  
 __shot put__  
@@ -13478,6 +13482,7 @@ __sitting<sup>2</sup>__ _adj_ :four: In office or actual possession. _The sittin
 __situated__ _adj_ Having a place or location. _Syn_ located, placed, set  
 __situation__ _n_ :five::hammer: _Sorry guys, we have a situation here._ _We’ve got a situation in there!_  
 __six in one, (and) half a dozen in the other__ _idiom_ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__sixth man__ _n_ A player in basketball who is regularly used as the first of a team’s substitutes in a game.  
 __sizable__ _adj_ :two: Of considerable size; fairly large. _Clinton’s sizable lead._  
 __sizzle<sup>1</sup>__ _v_ :three: _Rihanna sizzled when she performed in New York._  
 __sizzle<sup>2</sup>__ _n_ :five: _Filming a “sizzle reel.”_  
@@ -13544,7 +13549,7 @@ __slackline__ _n_ :two::hammer:
 __slag__  
 __slain__ _n_  
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
-__slam dunk__ _n_ :dart::two: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
+__slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :seven::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
@@ -16523,6 +16528,8 @@ __whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in ra
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
 __whithered__  
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
+__whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
+__whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
 __whizz__  
 __whizzing__  
 __WHO__  
