@@ -65,3 +65,17 @@ __immodest__ _adj_
 __kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __lazy-bones__ _idiom_ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
+__backlog__ _n_ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
+__watchdog__ __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ __b__ (as modifier): _a watchdog committee._  
+__asthma__ _n_  
+__temper__ _v_  
+__rigor__ _n_  
+__urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
+__breaking point__ _idiom_  
+__Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
+__basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount contained in a basket. __2__ Any considerable quantity. _Teachers once received apples by the basketful._ _Ed scored great goals by the basketful._  
+__butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
+__field__ _v_ _The press office fielded numerous calls from the media._  
+__derange__ _v_  
+__jab__ _n_ __3__ _informal_ A hypodermic injection.  
+__twitchy__ _adj_ __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
