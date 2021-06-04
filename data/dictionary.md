@@ -1238,7 +1238,7 @@ __behind the times__ _idiom_ Old-fashioned.
 __behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
-__behoove__ _v_ :eight::hammer: (behooves)  
+__behoove__ _v_ :eight: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
 __being at odds__ _They are at odds over the details of legislation._  
@@ -13807,7 +13807,7 @@ __snoodlike__
 __snoop__ _v_ :three: To try to find out about someone’s private affairs by secretly looking in their house, examining their possessions etc. _She snooped around._ _Big Brother snooping on innocent Americans._  
 __snoot__ _v_ :two: To behave disdainfully toward; condescend to.  
 __snootiness__  
-__snooty__ _adj_ :eight::hammer:  
+__snooty__ _adj_ :eight: __1__ Snobbishly aloof; haughty. _A snooty restaurant._ __2__ High-class; exclusive.  
 __snooze__ _n_ A brief light sleep. _Syn_ catnap, forty winks, nap  
 __snort<sup>1</sup>__ _n_ :three: __2__ _slang_ __a__ A drink of liquor, especially when swallowed in one gulp. _Karl took a snort of vodka for courage and headed for the dance floor._ :es: (trago, chupito) Karl tomó un trago de vodka para envalentonarse y se dirigió a la pista de baile. __b__ Cocaine or heroin, especially a small amount sniffed at one time. _A lifestyle of snorting and scrapping._ __c__ The liquor or drug so taken. _Zig offered free snorts of cocaine._  
 __snort<sup>2</sup>__ _v_ :three::hammer: (snorted, snorting) _Ada snorted in derision._  
@@ -14412,7 +14412,7 @@ __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lackin
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
 __stoplight__ _n_ :pencil2: __1__ A taillight that lights up as the driver of a vehicle steps on the brake pedal to slow down or stop. __2__ Traffic light.  
 __stopover__  
-__stoppage__ _n_ :nine::m::hammer: _Keep work stoppages to a minimum._ _A stoppage-time goal._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
+__stoppage__ _n_ :nine::m: __1__ An act or instance of stopping. __2__ The state of being stopped or obstructed. _A stoppage-time goal._ __3__ A cessation of activity, esp. work; strike. _Keep work stoppages to a minimum._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that’s what we did._  
 __stopwatch__ _n_  
 __storefront__ _n_ :two::hammer:  
@@ -14657,7 +14657,7 @@ __superstorm__ _n_ :two::hammer:
 __supervise__ _v_  
 __supping__ _v_  
 __supplant__  
-__supple__ _adj_ :pencil2::nine::hammer: _A supple weapon._ :es: flexible  
+__supple__ _adj_ :pencil2::nine: __1__ Readily bent, folded, or manipulated; pliant: _a wallet made of supple leather._ _Syn_ flexible __2__ Moving and bending with agility; limber: _a supple gymnast._ __3__ Adaptable to changing circumstances: _“The supple ambiguities of English are a large part of its genius” (Mark Abley)._  
 __suppleness__ _n_ _Mental suppleness._  
 __supplier__ _n_  
 __supply and demand__  
