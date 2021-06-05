@@ -2996,7 +2996,7 @@ __commensurate__
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :four::hammer:  
+__commiserate__ _v_ :five::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _A committal graveside service will be held for the family._  
@@ -3930,7 +3930,7 @@ __designated driver__ _n_ The member of a party who is designated to refrain fro
 __designer__ _n_ :es: _maquetador_  
 __desist__ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
-__desolate__ _adj_ __1__ Empty of people.  
+__desolate__ _adj_ :two: __1__ Empty of people.  
 __despair__ _n_  
 __desperate times call for desperate measures__ _idiom_ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __despicable__  
@@ -5586,7 +5586,7 @@ __floppy > floppy socks__
 __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
 __flotation tank__  
-__flotilla__ _n_ :two::mega::hammer:  
+__flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam and jetsam__ _idiom_  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :eight: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
@@ -9075,6 +9075,7 @@ __lustrum__ _n_ :three: Five years.
 __luxe__ _People were accustomed to creating luxe interiors._  
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __lye water__  
+__lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lysimeter__  
@@ -11891,6 +11892,7 @@ __quill__ _n_
 __quilt__  
 __quilting bee__ _n_ A gathering to make quilts.  
 __quince__ _n_ :pencil2: _Quince preserves._ :es: membrillo  
+__quincunx__ _n_ [:scroll: From Latin quincunx (five twelfths), from quinque (five) + uncia (twelfth part). In ancient Rome, a quincunx was a coin equivalent to five twelfths of the coin known as an “as” or “libra”. The coin’s value was sometimes represented by five dots, four in corners and one in the middle. The number five on a die is represented by five dots in a quincunx.] An arrangement of five objects or marks with one at each corner of a rectangle or square and one at the center.  
 __quinine__ _n_ :mega:  
 __quinoa__ _n_ :two::hammer:  
 __quinsy__  
@@ -14300,7 +14302,7 @@ __steadiness__
 __steady__ _adj_ :five: __1__ Firm in position or place; fixed. __2__ Direct and unfaltering; sure. __3__ Free or almost free from change, variation, or fluctuation; uniform: a steady increase in value; a steady breeze. __4__ Not easily excited or upset: steady nerves. __5__ Unwavering, as in purpose; steadfast. __6__ Reliable; dependable. __7__ Temperate; sober.  
 __steady-eddy__  
 __stealth camping__ _n_ _(US)_ Camping out of sight on land not designated as a campsite, especially on land not used for habitation, agriculture etc. _Stealth vans look like a normal Transit van, so you can park on the street, put signs on saying you’re a plumber or whatever and no one would notice._  
-__stealthy__  
+__stealthy__ _adj_ :two: Marked by quiet and caution and secrecy; taking pains to avoid being observed. _Syn_ furtive, surreptitious, sneaky _Jane thought she was being stealthy as she sneaked in past curfew, but her mother heard the door creak as soon as it opened._  
 __steam-pop phenomenon__  
 __steamer trunk__ _n_ A small trunk originally designed to fit under the bunk of a steamship cabin. _A steamer trunk lay opened by the couch._  
 __steamrolled__ _v_  
@@ -14789,6 +14791,7 @@ __sycophant__ _n_ :dart::four::hammer: (sycophants)
 __syllable__ _n_  
 __syllogism__ _n_ :two::hammer:  
 __sympathetic__  
+__symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
 __sync up__ _idiom_ _Syncing up over coffee._  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
@@ -15305,7 +15308,9 @@ __tip over__ _v_ :three::hammer:
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
 __tipoff__ _n_ :two::hammer: (tip-off)  
-__tipple__ _v_ :five::hammer: (tippled)  
+__tipple<sup>1</sup>__ _v intr_ :six: (tippled) To drink liquor, esp. to excess.  
+__tipple<sup>2</sup>__ _v tr_ To drink (liquor), esp. repeatedly and in small quantities.  
+__tipple<sup>3</sup>__ _n_ Liquor; alcohol.  
 __tipsily__  
 __tipster__ _n_ :three::hammer: (tipsters)  
 __tiptoe<sup>1</sup>__ _adj_  
