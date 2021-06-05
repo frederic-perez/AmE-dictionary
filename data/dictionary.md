@@ -2353,6 +2353,7 @@ __case study__
 __case the joint__ _idiom_ :three::hammer: (casing the joint)  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
+__casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __caseous__ _adj_ Resembling cheese.  
 __cash bar__ :camera: _The cost is $30 per person with a cash bar._  
 __cash cow__ _idiom_ A product or business that always makes a lot of profit.  
@@ -8991,6 +8992,7 @@ __lose your train of thought__ _idiom_ To forget what you were talking or thinki
 __loss one’s marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
 __lothario__ _The second verse of_ You’re So Vain _is about one-time Hollywood lothario Warren Beatty._  
+__lotto scratcher__ _n_  
 __lotto__ _n_ Lottery.  
 __louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
 __loudmout__ _He is a loudmout, but there is nothing personal._  
@@ -9326,17 +9328,17 @@ __meat missile__ _n_ _slang_
 __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
 __mechanical pencil__  
 __medal__ _v_  
-__medallions__ _Taxi medallions._  
+__medallions__ _n_  
 __meddlesome__ _adj_  
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
 __medic__ _n informal_ A doctor, medical orderly, or medical student.  
-__medical discharge__ _A medical discharge._  
+__medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
-__medley__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
-__medulla__ :mega:  
+__medulla__ _n_ :mega: /mɪˈdʌlə/  
 __meek<sup>1</sup>__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
@@ -9354,7 +9356,7 @@ __mélange__ _n_
 __melee__ _n_  
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
-__melon scratcher__ _That was a melon scratcher._  
+__melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
@@ -9364,11 +9366,11 @@ __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._
 __memoirs__ _n_  
 __memorable__  
 __memorandum__ _n_ :two::hammer:  
-__memorial__ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
+__memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __menagerie__ _n_ :two::hammer:  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman’s life.  
 __mendacity__  
-__mending__ _Mending flesh._  
+__mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
 __menial__ _n_  
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
@@ -9397,10 +9399,9 @@ __mesh strainer__
 __mesosphere__  
 __mess around__ _idiom_  
 __mess up__ _phr v_  
-__messiah__ :mute:[messia~~h~~]  
-__Messrs.__ _Messrs. Reagan and Busch..._  
+__messiah__ _n_ :mute:[messia~~h~~]  
+__Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._  
 __messtin__ _n_  
-__metal casement windows__ :camera:  
 __metal flashing__  
 __metal shavings__  
 __metal__ _adj_ _idiom_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
@@ -10742,6 +10743,7 @@ __pathogens__ _n_
 __pathography__ _n_  
 __pathologist__ _n_  
 __pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__patient discharge__ _n_ The formal ending of inpatient care.  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
 __patio__ _n_  
@@ -11815,6 +11817,7 @@ __putter__ _v_ :three::hammer: (puttered)
 __putting aside__  
 __putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: espátula  
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
+__puzzler__ _n_ A person or thing that puzzles.  
 __PVC__  
 __PX__ _abbr_ Physical Examination. _You run the PX for these characters?_  
 __pylon__ _n_  
@@ -12923,7 +12926,7 @@ __scrapper__
 __scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, scrapoyband hungry._  
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
-__scratcher__ _n_ _Lotto scratcher._  
+__scratcher__ _n_ __1__ A workman who uses a tool for scratching. __2__ A person who scratches to relieve an itch. __3__ A device used for scratching.  
 __scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
@@ -14961,6 +14964,7 @@ __tawny__ _n_ :three: A light brown to brownish orange.
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
+__taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Public Necessity and Convenience), is a transferable permit in the United States allowing a taxicab driver to operate. Several major cities in the US use these in their taxi licensing systems, including New York City, Boston, Cambridge, Chicago, Philadelphia, and San Francisco.  
 __taxidermy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
 __TBD__  
