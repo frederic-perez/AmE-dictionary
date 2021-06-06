@@ -95,3 +95,15 @@ __thwack__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable t
 __shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
 __saboteur__ _n_  
 __unrecognizable__ _adj_  
+__junk in junk out__ _idiom_ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
+__separate__ _adj_  
+__defer__ _v_ (deferred) To delay or cause to be delayed until a future time; postpone.  
+__embolic__ _adj_ __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
+__pushing up (the) daisies__ _idiom_ Dead and buried. (Usually in the future tense.) _I’ll be pushing up daisies before this problem is solved._ _If you talk to me like that again, you’ll be pushing up the daisies._  
+__delicate__ _adj_  
+__smell blood__ _idiom_  
+__go overboard__ _idiom_  
+__(oh,) snap__ _idiom_  
+__wildfire__ _n_ :pencil2:  
+__trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
+__shame on (one)__ _idiom_ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
