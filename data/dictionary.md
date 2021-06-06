@@ -6322,6 +6322,7 @@ __go to Canossa__ _idiom_ To become or make oneself humble; to do a penance or s
 __go to great lengths__ _idiom_ :two::hammer:  
 __go to hell in a handcart__ _idiom_ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to the dogs__  
+__go to the mat for (someone or something)__ _idiom_ To give someone or something one’s full support; to fight for someone or something until the very end. _We firmly believe that she is in the right on this matter, and we’re ready to go to the mat for her in court if necessary._ _I’m not going to the mat for her._  
 __go to the mattresses__ _idiom_ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
 __go to the wire__  
 __go to war__  
@@ -9220,7 +9221,7 @@ __marathon__ _This is more of a marathon than a sprint._
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
-__marcelled__ _His marcelled hair gleamed like liquid plastic._  
+__marcel__ _v_ (marcelled) To style (the hair) with deep regular waves, using a curling iron. _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
 __Mardi Gras__ _n_ :mega:  
 __mardy__ _adj_  
@@ -9243,7 +9244,7 @@ __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov’t-Issu
 __marmalade__  
 __maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
-__marquetry__ :astonished: _Marketry doors._ :es: marquetería  
+__marquetry__ _n_ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
 __marsh__ _n_ :three::hammer:  
 __marshal<sup>1</sup>__ _n_  
@@ -9251,7 +9252,7 @@ __marshal<sup>2</sup>__ _v_ :eight: (marshals, marshalled, marshalling) __1__ To
 __marshland__ _n_ :two::hammer:  
 __marshmallow__ _n_ :three::four: Althaea officinalis. The word “marshmallow” comes from the mallow plant species, an herb which grows in marshes and other damp areas. _Toasting marshmallows._  
 __marshy__  
-__mart__ A place of trade, eg. an auction room or market.  
+__mart__ _n_ A place of trade, eg. an auction room or market.  
 __martial artist__  
 __martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
 __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
@@ -9273,8 +9274,6 @@ __mastermind__ _v_ :two::hammer: (masterminding)
 __masterpiece__  
 __masthead__ _n_  
 __mastoiditis__ _n_  
-__mat__ _I’m not going to the mat for her._  
-__matahara__ Maternity harassment.  
 __matchmaking service__  
 __matchstick__ _n_ :two::hammer:  
 __matchup__ _n_ :two::hammer: (matchups)  
@@ -9292,19 +9291,20 @@ __Matter of fact,__
 __matter-of-factly__  
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
-__maturities__ _List of maturities._  
+__maturity__ _n_ (maturities) _List of maturities._  
 __maudlin__ _adj_ :four: Foolishly tearful or sentimental, as when drunk.  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __Maundy Thursday__  
 __maven__ _n_ :three::hammer:  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :four::hammer:  
-__mawkish__ Effusively or insincerely emotional.  
+__mawkish__ _adj_ Effusively or insincerely emotional.  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  
-__maxim__ :es: máxima  
-__Mayan__ :mega:  
+__maxim__ _n_ :es: máxima  
+__Mayan<sup>1</sup>__ _adj_ :mega:  
+__Mayan<sup>2</sup>__ _n_ :mega:  
 __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
@@ -9318,7 +9318,7 @@ __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meag
 __mealy-mouthed__ _adj_ Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
-__meannes__ :pencil2:  
+__meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __meant to be__ _idiom_ _It was meant to be made in heaven._  
 __measles__ _n_ :five::pencil2::hammer: :es: sarampión  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
