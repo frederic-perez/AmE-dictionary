@@ -107,3 +107,16 @@ __(oh,) snap__ _idiom_
 __wildfire__ _n_ :pencil2:  
 __trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
 __shame on (one)__ _idiom_ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
+__commonality__ _n_ (commonalities)  
+__snarky__ _adj_ _informal_  
+__a light-bulb moment__ _idiom_ An instance in which an ingenious idea or insight comes to one all of a sudden. _A light-bulb moment came to me as I was taking a bath the other day._  
+__a light bulb goes off in (one’s) head__ _idiom_ :dart: One is suddenly struck with an ingenious or inspired idea, insight, or revelation. In this expression, the phrasal verb “go off” means “turn on” or “become active.” _We spent hours trying to come up with a solution, when suddenly a light bulb went off in my head._  
+__goosebump__ _n_  
+__weaponize__ _v_  
+__speak volumes__ _idiom_ To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
+__be well versed in (something)__ _idiom_ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
+__lose track of (someone or something)__ _idiom_  
+__plummet__ _v_  
+__strip__ _n_ __2__ A comic strip. _The Peanuts strips._  
+__trounce__ _v_  
+__drafter__ _n_  
