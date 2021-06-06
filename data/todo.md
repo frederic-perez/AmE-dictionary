@@ -1,13 +1,3 @@
-__get to know__ _v tr_ To become acquainted with (someone or something); to meet someone.  
-__all in all__ _idiom_  
-__duty__ _n_  
-__thinning__ _n_  
-__out (of) the (starting) gate__ _idiom_ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
-__Nesquik__ _n_ :mega:  
-__concomitant__ _adj_  
-__excruciating__ _adj_  
-__iron__ _v_ :mega: (ironing)  
-__omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __tempus fugit__ _idiom_ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
 __the keys to the kingdom__ _idiom_ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  

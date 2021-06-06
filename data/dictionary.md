@@ -389,7 +389,7 @@ __align__ :mute:[ali~~g~~n]
 __alive and kicking__ _idiom_  
 __all bark and no bite__ _idiom_ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ _idiom_ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
-__all in all,__ _phr_ :four: __1__ Generally; taking everything into account. __2__ Supremely important.  
+__all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all kidding aside__ _idiom_ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ _idiom_ In a nervous, confused, or agitated state.  
 __all of a sudden__ _adv_ Without warning.  
@@ -3069,7 +3069,7 @@ __conciliatory__ _adj_
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :five::hammer:  
+__concomitant__ _adj_ :six::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concourse__ _n_ :five::hammer:  
 __concrete jungle__ _idiom_ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -4570,7 +4570,7 @@ __dustman__
 __dustpan__ _n_ :two::hammer: :es: recogedor  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __dusty__ _A dusty brand._  
-__duty__ _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
+__duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
@@ -5007,7 +5007,7 @@ __excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates
 __excoriation__  
 __excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
 __excruciate__  
-__excruciating__ _adj_ :two: Very painful.  
+__excruciating__ _adj_ :three: Very painful.  
 __excruciatingly__ _The code in each class becomes excruciatingly simple._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exe__ :mega:  
@@ -6152,6 +6152,7 @@ __get the middle finger__
 __get the the green light__ _idiom_ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ _idiom_ To promptly begin or get something started.  
 __get through to__ To make someone understand what you are trying to say.  
+__get to know__ _v tr_ To become acquainted with (someone or something); to meet someone.  
 __get to the point__ _idiom_ To talk directly about the most important part or topic.  
 __get under someone’s skin__ _idiom_  
 __get wind__  
@@ -8015,6 +8016,7 @@ __irk__ _v_ _What irks you?_
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
+__iron__ _v_ :mega: (ironing)  
 __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
@@ -9915,6 +9917,7 @@ __nerve-racking__ _adj_ :four::hammer: (nerve racking, nerve-wracking)
 __nervous laughter__  
 __nervy__ _adj_ :pencil2::three::hammer:  
 __nescience__ _n_  
+__Nesquik__ _n_ :mega:  
 __nest egg__ _n_ :three::hammer:  
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
 __nestlings__ _n_  
@@ -10247,6 +10250,7 @@ __omnibox__ _n_ _An Omnibox is similar to the traditional web browser address ba
 __omnibus bill__ _n_ A bill that includes a number of miscellaneous provisions or appropriations.  
 __omnibus<sup>1</sup>__ _adj_ Containing or including many items.  
 __omnibus<sup>2</sup>__ _n_ :two::hammer:  
+__omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
 __omphaloskepsis__ _n_ The practice of contemplating one’s navel in order to aid meditation.  
 __on (someone’s) behalf__ _idiom_ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
@@ -10396,6 +10400,7 @@ __ouboros__ _n_
 __Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
 __ouster__ _n_  
+__out (of) the (starting) gate__ _idiom_ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
 __out of date__ _idiom_  
 __out of hand__  
 __out of kilter__ _idiom_ :two: _Out of kilter with the times._  
@@ -15149,6 +15154,7 @@ __think over__ _idiom_ To consider or ponder something; to reflect upon somethin
 __think tank__ _n_ :five::hammer:  
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
+__thinning__ _n_  
 __third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
 __this and that__  
 __this is (someone)__ _idiom_ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
