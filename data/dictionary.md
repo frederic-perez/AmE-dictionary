@@ -9136,10 +9136,9 @@ __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial
 __make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
-__make perfect sense__ _It makes perfect sense._  
+__make (perfect) sense__ _idiom_ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
-__make someone tick__ _We’ve never captured one of them, and consequentlydon’t know what makes them tick._  
 __make strides__ _idiom_ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make up one’s mind__ _idiom_ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ _idiom_ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
@@ -9147,8 +9146,7 @@ __make waves__ _idiom_ :four: (making waves) Cause a disturbance or controversy.
 __make-or-break__ _adj_ :two::hammer:  
 __makeover__ _n_ :two::hammer: _LinkedIn profile makeover._  
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
-__makeup date__ _Today’s game has been postponed; no makeup date has been snnounced._  
-__makeup game__  
+__makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
 __maki__ _n_  
 __maladaptive__ _adj_ Showing faulty adaptation.  
 __malady__  
@@ -9162,20 +9160,20 @@ __malevolent__
 __malfeasance__ _n_ :two::hammer:  
 __malfunction__  
 __malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
-__malign__ :mute:[mali~~g~~n]  
+__malign<sup>1</sup>__ _v_ (maligned)  
+__malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
-__maligned__  
 __malingerer__ _n_  
 __mallards__  
 __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
-__mallow__ :pencil2:  
+__mallow__ _n_ :pencil2:  
 __malnourished__  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __mamasan__  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
-__man<sup>1</sup>__ _Oh, man!_  
+__man<sup>1</sup>__ _n_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
 __mandalas__ _n_  
@@ -9183,7 +9181,7 @@ __Mandan man__
 __mandarin__ _n_ (fruit)  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
-__Mandy__ Diminutive form of Amanda.  
+__Mandy__ _n_ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion’s mane._  
 __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
@@ -9197,7 +9195,7 @@ __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
 __manicure__ _v_ __4__ To trim or cut meticulously: _to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
-__manifest__ _A manifest of olive oil._  
+__manifest__ _n_ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
 __manipulation__  
 __manna__ _n_  
@@ -9219,7 +9217,7 @@ __many<sup>1</sup>__ _adj_
 __many<sup>2</sup>__ _n_  
 __maple__  
 __mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
-__marathon__ _This is more of a marathon than a sprint._  
+__marathon__ _n_ _This is more of a marathon than a sprint._  
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
@@ -10212,6 +10210,7 @@ __often__ _adv_ :mute:[of~~t~~en]
 __oftentimes__ _adv_ :two::hammer:  
 __OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __ogle__ _v_ :three::hammer: (ogled)  
+__oh man__ _interj_ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
 __Oh, boy!__ _idiom_ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __Ohioans__  
@@ -16461,6 +16460,7 @@ __whanged__ _v_ :two::hammer:
 __whanging__  
 __wharf__ _n_ :five::hammer: (wharves)  
 __what do you know__ _idiom_ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
+__what makes (one) tick__ _idiom_ _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __What’s that got to do with the price of tea in China?__ _idiom_ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __what’s the haps?__  
 __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]  
