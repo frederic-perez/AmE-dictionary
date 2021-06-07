@@ -758,7 +758,7 @@ __assuage__ _v_ :five::hammer: (assuaged)
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
-__asthma__ _n_  
+__asthma__ _n_ :two::hammer:  
 __astigmatism__ _n_  
 __astir__  
 __astound__ _v_ :two: (astounded) Affect with wonder. _Syn_ amaze, astonish  
@@ -1074,6 +1074,7 @@ __basil__ _n_ :es: albahaca
 __basin__ _n_ :two::hammer:  
 __basing__  
 __basket case__  
+__basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount contained in a basket. __2__ Any considerable quantity. _Teachers once received apples by the basketful._ _Ed scored great goals by the basketful._  
 __bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
@@ -1801,6 +1802,7 @@ __breakaway<sup>1</sup>__ _n_ :two::hammer:
 __breakaway<sup>2</sup>__ _adj_  
 __breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breaking character__  
+__breaking point__ _idiom_  
 __breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
 __breakneck__ _They are on a breakneck pace._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
@@ -2074,6 +2076,7 @@ __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticis
 __butter cups__ _organic peanut butter cups._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
+__butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
 __butterfingers__ _idiom_ A person who frequently drops things, clumsy person.  
 __butternut__  
 __buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily “buttery praise”; “gave him a fulsome introduction”; “an oily sycophantic press agent”; “oleaginous hypocrisy”; “smarmy self-importance”; “the unctuous Uriah Heep”; “soapy compliments”  
@@ -5350,7 +5353,7 @@ __fief__ _n_ :three: A piece of land held under the feudal system. _His personal
 __fiefdom__ _n_ :two::hammer:  
 __field day__  
 __field trip__ _n_  
-__field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._  
+__field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
 __fiendish__  
 __fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
@@ -8129,6 +8132,7 @@ __jetty<sup>1</sup>__ _n_ :two::hammer:
 __jetty<sup>2</sup>__ _adj_  
 __jewelery__ (jewelry)  
 __Jewess__  
+__Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
@@ -9129,6 +9133,7 @@ __major__ _v_
 __major-domo__ _n_ (majordomo)  
 __majoring__  
 __make (one’s) bones__ _idiom_  
+__make (perfect) sense__ _idiom_ _It makes perfect sense._  
 __make a face__ _idiom_ To distort the features of the face; grimace.  
 __make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ _idiom_ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
@@ -9136,7 +9141,6 @@ __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial
 __make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
-__make (perfect) sense__ _idiom_ _It makes perfect sense._  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
 __make strides__ _idiom_ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
@@ -12444,7 +12448,7 @@ __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutel
 __righteous__  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
 __rigmarole__ _n_ :three::hammer: _Rigmarole controls._  
-__rigor__  
+__rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
 __rile__ _v_ :five: (riles, riled, rile up) Make (someone) annoyed or irritated. _A tactic often intended to rile pitchers._ _Of all the things to get riled up about right now, Cam Newton’s touchdown dance ought to be at the bottom of the list._ :es: sacar de quicio  
@@ -15013,7 +15017,7 @@ __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the eart
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
-__temper__ _v_ :six::hammer: (tempered)  
+__temper__ _v_ :seven::hammer: (tempered)  
 __tempera__ _n_  
 __temperament__  
 __temperance__  
@@ -16014,6 +16018,7 @@ __urbane__ _adj_ Showing a high degree of refinement and the assurance that come
 __urbanites__  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
+__urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend earnestly and persistently; plead or insist on: _to urge the need for safety._  
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
@@ -16353,7 +16358,7 @@ __wastrel__ _n_ :two::hammer:
 __watch (one’s) language__ _idiom_ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __watch caps__  
 __watch your six__ _idiom_ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
-__watchdog__ _n_ :two::hammer: _Privacy watchdogs are calling on the Federal Trade Commission to investigate._  
+__watchdog__ _n_ :three: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
 __water buffalo__  
 __water closet__  
