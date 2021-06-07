@@ -221,3 +221,15 @@ __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fus
 __button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
 __button-down<sup>2</sup>__ _n_ A shirt with a button-down collar.  
 __veracity__ _n_ 
+__self-worth__ _n_ Self-esteem; self-respect.  
+__be kept in the dark (about something)__ _idiom_ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
+__percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
+__ransomware__ _n_ Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
+__belly flop__ _n_ _informal_  
+__rigmarole__ _n_ __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure.  
+__let go and let God__ _idiom_ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
+__candor__ _n_ The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
+__glean__ _v_ __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. _b__ To pick over in search of relevant material. __5__ Find out.  
+__peach<sup>1</sup>__ _n_  
+__peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
+__peach<sup>3</sup>__ _v tr_ :astonished: To inform against: _“He has peached me and all the others, to save his life” (Daniel Defoe)._  
