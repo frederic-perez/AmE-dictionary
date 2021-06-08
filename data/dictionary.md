@@ -9042,8 +9042,8 @@ __ludicrousness__
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
 __lug__ _v_ :five::hammer: (lugs) _A passenger lugs an injured swan onto the train._  
-__luge__ _Olimpic luge team._  
-__luger__ _Team USA’s best lugers._  
+__luge__ _n_ _Olimpic luge team._  
+__luger__ _n_ _Team USA’s best lugers._  
 __lugging__ _v_ :three::hammer:  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :three::hammer: (lulled)  
@@ -9057,7 +9057,7 @@ __lump<sup>1</sup>__ _n_ :two: __1__ A compact mass. __2__ An abnormal protubera
 __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chunk together in a certain order or place side by side.  
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
-__lunch lady__ _She worked as a lunch lady._  
+__lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
@@ -9079,24 +9079,25 @@ __luster<sup>2</sup>__ _v_ (lustered)
 __lustre__  
 __lustrous__ _adj_ :two::hammer:  
 __lustrum__ _n_ :three: Five years.  
-__luxe__ _People were accustomed to creating luxe interiors._  
+__luxe<sup>1</sup>__ _n_  
+__luxe<sup>2</sup>__ _adj_ _People were accustomed to creating luxe interiors._  
 __luxuriant__ _adj_ Produced or growing in extreme abundance. _Syn_ lush, profuse, riotous, exuberant _The rivulet was hidden by the luxuriant vegetation of the banks save at one point, where I caught a triangular patch of its glittering water._  
 __lye water__  
 __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (of persons) Having the characteristics, as flabbiness or sluggishness, formerly believed to be due to an excess of lymph in the system.  
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lysimeter__  
-__LZ__ _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
-__mac and cheese__ _He tossed herbs into the mac and cheese and spicy wing dishes._  
+__LZ__ _abbr_ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
+__mac and cheese__ _n_ Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
 __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
-__Mach number__ :pencil2:  
+__Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
 __machine__ _n_ :mega:  
-__machinery__ :mega:  
+__machinery__ _n_ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ _n_ :two::hammer: :es: caballa  
 __mackinaw__  
@@ -9121,14 +9122,13 @@ __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leathe
 __maiden__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
 __mail vest__ _n_ _The man wore a mail vest and greaves._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
-__mailed__ :pencil2: _Two great, mailed figures circling each other in the desert._  
+__mailed__ _adj_ :pencil2: __1__ Covered with or made of plates of mail: _a mailed sleeve._ __2__ Having a hard covering of scales, spines, or horny plate, as an armadillo or a lobster.  
 __mailman__ _n_  
 __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part of the body is permanently damaged. _v_ _Civilians who are not fighting are being maimed and starved._ :es: mutilar  
 __maimed__  
 __Main Street__  
 __mainstay__ _n_ :three::hammer: _A mainstay of his business._  
 __maitre d’__  
-__major ticket__ _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
@@ -9138,7 +9138,6 @@ __make a face__ _idiom_ To distort the features of the face; grimace.
 __make a scene__ _idiom_ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ _idiom_ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make faces (at someone)__ _idiom_ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
-__make it easy on yourself__ _Make it easy on yourself, ’cause breaking up is very hard to do._  
 __make no bones about something__ _idiom_ :two: To say clearly what you think or feel about something.  
 __make out__ _v_ :two::hammer:  
 __make plays__ _v_ _(football) To make plays._  
@@ -15246,6 +15245,7 @@ __tick<sup>2</sup>__ _v_ _Prices ticked up 0.2%._
 __ticker tape__  
 __ticker__ _n_ :two: __1a__ _slang_ A person’s heart. __b__ A watch. __2__ A person or thing that ticks.  
 __ticket taker__ _n_ Someone who is paid to admit only those who have purchased tickets.  
+__ticket__ _n_ __5__ (Government, Politics & Diplomacy) chiefly US and NZ the group of candidates nominated by one party in an election; slate. _Dawn Clark Netsch was the first woman to run for governor on a major ticket._  
 __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
