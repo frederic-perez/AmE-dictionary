@@ -1558,7 +1558,7 @@ __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
-__blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: 1) use a blunt (“dull”) knife to cut your tomatoes; 2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or 3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
+__blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: (1) use a blunt (“dull”) knife to cut your tomatoes; (2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or (3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
 __blunt<sup>2</sup>__ _v_ :four: (blunting) __1__ To dull the edge of (a knife, for example). __2__ To make less effective; weaken: _blunting the criticism with a smile._ _He blunted the attacks._  
 __bluntly__ _adv_ :two::hammer: _“We haven’t got the money,” Ingold responded bluntly._  
 __blurb__ _n_ :two::hammer: (blurbs) _Anonymous titles and blurbs had graced the front cover._ :es: comentario de sobrecubierta  
@@ -8141,7 +8141,7 @@ __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
 __Jill of all trades(, master of none)__ _idiom_ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
-__jilt__ _v_ :two: (jilted: To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
+__jilt__ _v_ :two: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -10005,7 +10005,7 @@ __no-brainer__ _idiom_ A very easy or obvious choice, decision, or solution. (So
 __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not advisable, as because of being improper or unsafe. _Wives and children were a no-no in anyone’s books._ _What are the no-nos of API testing?_  
 __no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
-__Nobel__ _n_ :mega: /(nəʊˈbɛl/  
+__Nobel__ _n_ :mega: /nəʊˈbɛl/  
 __nocebo__ _n_ :two: A substance that causes undesirable side effects as a result of a patient’s perception that it is harmful rather than as a result of a causative ingredient.  
 __nocent__ _adj_ Having a tendency to cause harm.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
@@ -10833,7 +10833,7 @@ __peeved__ _v_
 __peevishly__ _adv_ :two::hammer:  
 __peewee__ _n_  
 __peg someone as something__ _idiom_ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
-__peg__ _v_ (pegged} :three::hammer: _Pegged as a uniform thug._  
+__peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._  
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__  
 __pellet__ _n_  
@@ -11400,7 +11400,7 @@ __potent__ _adj_ :two::hammer:
 __potentiometer__ _n_  
 __pothead__  
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
-__pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface.  
+__pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface).  
 __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
@@ -11684,7 +11684,7 @@ __psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]
 __psalm<sup>2</sup>__ _v_ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
 __pseudo__ _adj_ :mute:[~~p~~seudo] /ˈsu doʊ/  
-__pseudonym__ _n_ :mute:[~~p~~seudonym] /(so͞od′n-ĭm′/  
+__pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psyched__ _idiom_ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
@@ -16928,7 +16928,7 @@ __zealotry__
 __zealous__  
 __zeightgeist__  
 __zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
-__Zen<sup>1</sup>__ _n_ (zen) (fter Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation). An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
+__Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
 __zeppelin__ _n_  
