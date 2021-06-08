@@ -165,6 +165,7 @@ __accompany__ _v_
 __accomplice__  
 __accomplished__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
+__according to Hoyle__ _idiom_ In accord with the prescribed rules or regulations.  
 __according to plan__ _idiom_ :two: In the way something is supposed to be; as expected. _If everything goes according to plan._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
@@ -412,6 +413,7 @@ __allegation__ _n_
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __allegedly__  
 __allergens__  
+__alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
@@ -1837,6 +1839,7 @@ __brighten up__ _phr v_ To make a place more colourful and attractive.
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _A brindle cur._  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring (something) into effect__ _idiom_ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __bring a knife to a gunfigh__ _idiom_ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __bring about__ _idiom_ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
 __bring home the bacon__ _idiom_ To earn money to live on.  
@@ -4815,6 +4818,7 @@ __endangerment__
 __endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
 __endearing__ _adj_ :eight: Inspiring affection or warm sympathy: _the endearing charm of a little child._ _It was so endearing._ _An endearing little grin._ _Syn_ lovable, adorable, cute, sweet, dear :es: entrañable  
+__endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
 __endgame__ _idiom_ :three: The final stages of a process, development, or activity.  
 __endocrine__ _n_ :mega:  
 __endometrium__ _n_ The glandular mucous membrane that lines the uterus.  
@@ -7080,7 +7084,7 @@ __hefty__ _adj_ :two::hammer:
 __hegira__ _n_  
 __height__ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :two::hammer:  
-__heinous__ _adj_ :four: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
+__heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
@@ -7466,6 +7470,7 @@ __how come__ _idiom_ Why? Why is it that (something is the case)? _A: “I’m s
 __how’s life (treating you)?__ _idiom_ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ _idiom_ No matter how much.  
 __howl__ _v_ :two::hammer:  
+__Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
 __hubbub__ _n_ :four::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
@@ -9116,6 +9121,7 @@ __magazine__ _n_ _They were pledged to keep the castle’s magazines full of mil
 __maggot__ _n_ :dart::camera::three::hammer: (maggots)  
 __Magic Marker__  
 __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
+__magnum opus__ _n_ __1__ A great work, especially a literary or artistic masterpiece. __2__ The greatest single work of an artist, writer, or composer.  
 __magpied__ _v_  
 __magpies__  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
@@ -15026,6 +15032,7 @@ __tempest in a teapot__ _idiom_ Tempest in a teapot (American English), or storm
 __tempestuous__ _adj_ :two::hammer:  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
 __Tempranillo__  
+__tempus fugit__ _idiom_ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
 __tenable__ _adj_  
 __tenacious__ _adj_  
 __tenant__ _n_ :two::hammer: (tenants)  
@@ -15109,6 +15116,7 @@ __the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifi
 __the honest truth__ _idiom_ The sincere, unadulterated truth.  
 __the idiot box__ _idiom_ A television set, or television in general.  
 __the jet set__ _idiom_ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
+__the keys to the kingdom__ _idiom_ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
 __the knacker’s yard__ _idiom_ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
 __the L-bomb__ _idiom_ An expression of romantic love for another, especially when said unexpectedly and/or for the first time. Usually used in the phrase “drop the L-bomb.” _We’d only been dating for a couple of months when he dropped the L-bomb on me. I was so shocked that all I could think to say back was, “Thank you!”_  
 __the lady of the house__ _idiom_ A woman who looks after and runs the house; the matriarch of a family or household.  
@@ -15974,7 +15982,7 @@ __upheaval__ _n_ :nine: A state of violent disturbance and disorder (as in polit
 __uphill battle__ _idiom_ :two: Something very difficult to do.  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
-__uphold__ _v_ :eight: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
+__uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __uplevel__ _idiom_ _slang_ :dart: To make progress or improve in a specific skill or area of one’s life. _I started taking an online course to help uplevel my word-processing skills._  
 __uplifting__ _adj_  

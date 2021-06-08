@@ -1,13 +1,3 @@
-__tempus fugit__ _idiom_ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
-__the keys to the kingdom__ _idiom_ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
-__alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
-__magnum opus__ _n_ __1__ A great work, especially a literary or artistic masterpiece. __2__ The greatest single work of an artist, writer, or composer.  
-__Hoyle__ _n_ (After Edmond Hoyle, British writer on games.) A reference book of rules for card games and other indoor games.  
-__according to Hoyle__ _idiom_ In accord with the prescribed rules or regulations.  
-__heinous__ _adj_  
-__endeavor__ _v_ Attempt by employing effort. _Syn_ strive _The candidate promised to endeavor to improve the quality of life in the inner city, but once in office, she did nothing of the sort._  
-__bring (something) into effect__ _idiom_ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
-__uphold__ _v_  
 __obsequious__ _adj_  
 __montero__ _n_ A hunter’s cap with side flaps.  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
