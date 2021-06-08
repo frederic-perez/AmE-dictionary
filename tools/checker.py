@@ -347,7 +347,7 @@ class Checker(object):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '':
-            print(headword + ' ' + part_of_speech + FAIL \
+            print(OKBLUE + BOLD + headword + ENDC + ' ' + part_of_speech + FAIL \
             + ' <<< missing part of speech found' + ENDC)
 
     def treat_displaced_part_of_speech(self, headword, part_of_speech):
