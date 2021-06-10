@@ -57,7 +57,7 @@ __chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.
 __gadfly__ _n_ __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __(with) kind regards__ _idiom_ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __slyboots__ _n_ A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
-__heliacal__ _adj_ [:scroll: [From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
+__heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __kick (someone or something) to the curb__ _idiom_ To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
 __hit (one) when (one) is down__ _idiom_ To criticize, exploit, insult, or otherwise treat badly one who has already suffered a setback or is in a vulnerable position. _Can Jeff’s employee review wait until next week? His girlfriend just left him, and I don’t want to hit him while he’s down._  
@@ -78,15 +78,5 @@ __wildfire__ _n_ :pencil2:
 __trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
 __shame on (one)__ _idiom_ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __commonality__ _n_ (commonalities)  
-__snarky__ _adj_ _informal_  
-__a light-bulb moment__ _idiom_ An instance in which an ingenious idea or insight comes to one all of a sudden. _A light-bulb moment came to me as I was taking a bath the other day._  
-__a light bulb goes off in (one’s) head__ _idiom_ :dart: One is suddenly struck with an ingenious or inspired idea, insight, or revelation. In this expression, the phrasal verb “go off” means “turn on” or “become active.” _We spent hours trying to come up with a solution, when suddenly a light bulb went off in my head._  
-__goosebump__ _n_  
-__weaponize__ _v_  
-__speak volumes__ _idiom_ To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
-__be well versed in (something)__ _idiom_ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
-__lose track of (someone or something)__ _idiom_  
-__plummet__ _v_  
-__strip__ _n_ __2__ A comic strip. _The Peanuts strips._  
 __trounce__ _v_  
 __drafter__ _n_  

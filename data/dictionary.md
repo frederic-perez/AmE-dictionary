@@ -74,6 +74,8 @@ __a lean patch__ _idiom_ A period of failure, decline, or poor performance or re
 __a legend in (one’s) own lifetime__ _idiom_ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ _idiom_ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
 __a life of its own__ _idiom_ The state of something that exists and thrives outside and beyond the control of the point of origin.  
+__a light bulb goes off in (one’s) head__ _idiom_ :dart: One is suddenly struck with an ingenious or inspired idea, insight, or revelation. In this expression, the phrasal verb “go off” means “turn on” or “become active.” _We spent hours trying to come up with a solution, when suddenly a light bulb went off in my head._  
+__a light-bulb moment__ _idiom_ An instance in which an ingenious idea or insight comes to one all of a sudden. _A light-bulb moment came to me as I was taking a bath the other day._  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __a little from column A, a little from column B__ _idiom_ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ _idiom_ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
@@ -1150,6 +1152,7 @@ __be shown the ropes__ _idiom_ To be taught how to do or perform a job, task, or
 __be sitting pretty__ _idiom_ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ _idiom_ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ _idiom_ To remain a contender for success despite setbacks or difficulties.  
+__be well versed in (something)__ _idiom_ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __beach__ _v_  
 __beachhead__ _n_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -6422,6 +6425,7 @@ __goomey__
 __goop__ _n_  
 __goose chase__ _A global goose chase._  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
+__goosebump__ _n_  
 __GOP__  
 __Gordian knot__ _n_ :two::hammer:  
 __gore__ _n_ _Spittle and gore clogged his throat._  
@@ -9000,6 +9004,7 @@ __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held b
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
 __lose it__ _idiom_  
+__lose track of (someone or something)__ _idiom_  
 __lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
 __loss one’s marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
@@ -11247,8 +11252,7 @@ __plumb__ _v_ :two::hammer:
 __plumbago__ _n_  
 __plumber__ _n_ :mute:[plum~~b~~er]  
 __plumbing__  
-__plummet__ _v_  
-__plummeted__ _v_ :three::hammer: (plummeting)  
+__plummet__ _v_ :five::hammer: (plummeted, plummeting)  
 __plump__ _adj_ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
 __plunder__ _v_ :five::hammer: (plundered)  
@@ -13792,7 +13796,7 @@ __snare<sup>1</sup>__ _n_ __1__ A trapping device, often consisting of a noose, 
 __snare<sup>2</sup>__ _v_ :three::hammer: (snared)  
 __snark<sup>1</sup>__ _v_  
 __snark<sup>2</sup>__ _n_ :five::dart: Combination of “snide” and “remark.” Sarcastic comment(s). _The snarky Twitter reaction._  
-__snarky__ _adj informal_ :dart::three: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
+__snarky__ _adj informal_ :dart::four: Annoyed, or saying rude things in an annoyed or sarcastic way. _Snarky remarks._  
 __snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
@@ -13997,7 +14001,7 @@ __spd__
 __speak of the devil__ _v idiom_ :dart: Mention someone’s name who just then appears.  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
-__speak volumes__  
+__speak volumes__ _idiom_ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
 __speargun__  
@@ -14521,6 +14525,7 @@ __stringency__ _adj_ _Suffering from financial stringency._
 __stringent__ _adj_ :nine::m: (stringently) __1__ Imposing rigorous standards of performance; severe: _stringent safety measures._ __2__ Constricted; tight: _operating under a stringent time limit._ __3__ Characterized by scarcity of money, credit restrictions, or other financial strain: _stringent economic policies._  
 __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team leader._  
 __strip mall__ _n_  
+__strip__ _n_ __2__ A comic strip. _The Peanuts strips._  
 __stripling__ _n_  
 __strive__ _v_ :five::hammer:  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
@@ -16398,7 +16403,7 @@ __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._
 __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :four::hammer:  
+__weaponize__ _v_ :five::hammer:  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
