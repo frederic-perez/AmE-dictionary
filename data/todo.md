@@ -80,3 +80,17 @@ __shame on (one)__ _idiom_ An expression of condemnation, often an angry or disa
 __commonality__ _n_ (commonalities)  
 __trounce__ _v_  
 __drafter__ _n_  
+__let’s roll__ _idiom_ Let’s get out of here; let’s get moving. _That’s everything we need from the store. Let’s roll!_  
+__under the aegis of__ _idiom_ Under the protection, sponsorship, or patronage of; under the supervision, control, or management of. _This course will be offered under the aegis of the English Department._  
+__Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
+__enjoin__ _v tr_ __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
+__let’s not and say (that) we did__ _idiom_ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
+__panacea__ _n_ [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
+__tuffet__ _n_ __1__ A clump or tuft of grass. __2__ A low seat, such as a stool.  
+__landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
+__let’s get something straight__ _idiom_ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear. _Before we get into this debate, let’s get something straight—we are to focus solely on the topic at hand, so no deviating into unrelated subjects._  
+__anathema__ _n_ A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
+__Humpty Dumpty__ _n_ [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
+__utmost<sup>1</<sup>__ _adj_  
+__utmost<sup>2</<sup>__ _n_  
+__upmost__ _adj_ Uppermost.  
