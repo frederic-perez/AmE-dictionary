@@ -8971,14 +8971,14 @@ __look down__ _v_
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
 __look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
 __look up__ _Look up to your belongings._  
-__lookalike__ _These lookalike domains are used for scams._  
+__lookalike__ _n_ One that closely resembles another; a double. _These lookalike domains are used for scams._  
 __looker__ _n_ :three::hammer:  
 __lookout__ _n_  
 __lookup__ _n_ :two::hammer:  
 __loom large__ _idiom_ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
-__loony bin__ _The Count’s plot to drive her straight to the loony bin._  
+__loony bin__ _n_ _often offensive_ _slang_ An institution for the mentally ill. _The Count’s plot to drive her straight to the loony bin._  
 __loony__ _adj_ :two::hammer:  
-__loophole__ :es: escapatoria  
+__loophole__ _n_ :es: escapatoria  
 __loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
 __loose cannon__ _idiom_ :two::hammer:  
 __loose ends__ _idiom_ :two::hammer:  
@@ -9003,12 +9003,11 @@ __lose it__ _idiom_
 __lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
 __loss one’s marbles__ _idiom_ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lost count__ _v_ Simple past tense and past participle of lose count.  
-__lothario__ _The second verse of_ You’re So Vain _is about one-time Hollywood lothario Warren Beatty._  
+__Lothario__ _n_ _The second verse of_ You’re So Vain _is about one-time Hollywood Lothario Warren Beatty._  
 __lotto scratcher__ _n_  
 __lotto__ _n_ Lottery.  
 __louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
-__loudmout__ _He is a loudmout, but there is nothing personal._  
-__loudmouth__ _I was a loudmouth._  
+__loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmouth, but there is nothing personal._ :es: bocazas  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
@@ -9017,15 +9016,15 @@ __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window
 __lovacore__  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
-__low and slow__ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
+__low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
-__low-slung__ _Low-slung school._  
+__low-slung__ _adj_ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  
 __lowbrow__  
 __lowdown__ _n_ _slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
-__Lower Forty-Eight__ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
+__Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
 __lowlife__ _n_ _slang_ :three: A criminal or disreputable person.  
