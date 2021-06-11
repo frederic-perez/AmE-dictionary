@@ -2109,7 +2109,7 @@ __buzzer__ _Durent Durent missed a floater at the buzzer._
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__  
 __buzzword__  
-__by all accounts__ _idiom_ :dart::three::hammer: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by all accounts__ _idiom_ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by all means,__  
 __by and by__  
 __by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
@@ -5230,7 +5230,7 @@ __fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his col
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
-__fat rolls__ :camera::hammer: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
+__fat rolls__ :camera: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fatal__ _adj_  
 __Father Time__  
 __fatherland__ :astonished:  
@@ -5636,7 +5636,7 @@ __fly off the handle__ _idiom_ To lose self control, to get very angry.
 __fly on the wall__ _idiom_ :two::hammer:  
 __fly-by-night__  
 __flyboard__  
-__flyer__ _n_ :three::hammer: (For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.) _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
+__flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
 __foam at the mouth__ _idiom_ To be extremely angry.  
 __fob__ _n_ :two::hammer:  
@@ -7349,7 +7349,7 @@ __homophobic__
 __homophones__ _n_ :two::hammer:  
 __honcho__ _n_ :four::hammer: (honchos)  
 __honest to Pete__ _idiom_ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
-__honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, ,blunt, sincere, up front  
+__honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
 __honey-do list__ _idiom_ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honey-mouthed__ _idiom_ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
 __honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
@@ -8342,7 +8342,7 @@ __kick the can down the road__ _idiom_ Especially in politics, to postpone or de
 __kick the crap out of (someone)__ _idiom_  
 __kick the tires__ _idiom_ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a thrust of the foot.  
-__kick-the-can__ _n_ __1__ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness. __2__ :two::hammer: _Kicking the can down the road._  
+__kick-the-can__ _n_ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness.  
 __kickback schemes__  
 __kickback__ _n_ :seven::hammer: (kickbacks) _A kickback deal._  
 __kickoff__ _The kickoff of the shopping season._  
@@ -10395,7 +10395,7 @@ __orthokeratology__
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __ossified__ _v_ :two::hammer:  
-__osteoarthritis__ _n_ :two::hammer: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
+__osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
 __ostracize__ _v_ :six::pencil2::hammer: (ostracized)  
@@ -13944,7 +13944,7 @@ __sorghum__
 __sorority__ _n_ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrowful__ _adj_ Very sad.  
-__sort it out__ _idiom_ :three::hammer: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
+__sort it out__ _idiom_ :three: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
 __sort out__ _v_ :two::hammer:  
 __sort put__  
 __sort__ _n_ :dart::four::hammer: _Bread of four sorts was brought._ _Krysten Ritter’s_ Jessica Jones _is an iron woman of a different sort._ _With_ Jones, _Rosenbert realizes a dream of sorts: creating a series with a female superhero who had just as many character issues as_ Iron Man. _Men of every sort._  
@@ -15671,7 +15671,7 @@ __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’
 __tryst__  
 __tsuifuku__  
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
-__tube sock__ _n_ :camera:hammer: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
+__tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
 __tuck away__  
 __tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
