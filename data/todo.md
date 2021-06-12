@@ -1,13 +1,3 @@
-__obsequious__ _adj_  
-__montero__ _n_ A hunter’s cap with side flaps.  
-__hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
-__be like oil and water__ _idiom_ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
-__sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
-__refractory__ _adj_  
-__in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
-__conflate__ _v_ Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
-__heat wave__ _idiom_ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
-__king of the hill__ _idiom_  
 __blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __king of the jungle__ _idiom_ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  

@@ -1143,6 +1143,7 @@ __be left in the lurch__ _idiom_ To be left or abandoned without assistance in a
 __be left out in the cold__ _idiom_ :two: To be ignored, forgotten and neglected.  
 __be left to (one’s) own devices__ _idiom_ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like herding cats__ _idiom_ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
+__be like oil and water__ _idiom_ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
 __be no picnic__ _Looking after four children is no picnic._  
 __be not just another pretty face__ _idiom_ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ _idiom_ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
@@ -3109,7 +3110,7 @@ __confide__ _v_ :five::hammer: (confided)
 __confidence__  
 __config__ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
-__conflate__ _v_  
+__conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
@@ -6865,6 +6866,7 @@ __hardware__ _n_
 __hardwood<sup>1</sup>__ _n_ :two::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
 __hardy__  
+__hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
 __harissa__ _n_ :two::hammer:  
@@ -7044,6 +7046,7 @@ __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at 
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
+__heat wave__ _idiom_ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
 __heatedly__ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
 __heathen__ _n_ :four::hammer: _They were declared guilty of heathen practice._ :es: pagano  
@@ -7713,6 +7716,7 @@ __in all seriousness__ _idiom_ In one’s sincere opinion; without any disingenu
 __in all truthfulness__ _idiom_ In one’s sincere opinion; without any disingenuousness.  
 __in and of itself__ _idiom_ Considering it alone.  
 __in any event__ _idiom_ :two: In any case: _In any event, the audience seemed pleased with your performance._  
+__in bits and pieces__ _idiom_ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
 __in cahoots__  
 __in check__ _Keep those emotions in check._  
 __in deep water__ _idiom_ To be in a difficult situation.  
@@ -8373,7 +8377,7 @@ __kindred spirit__ _idiom_ :nine::m: (kindred spirits) An individual with the sa
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
 __kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
-__king of the hill__ _idiom_ :two: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
+__king of the hill__ _idiom_ :three: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
@@ -9627,6 +9631,7 @@ __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstrosity__ _n_ :pencil2::two::hammer:  
+__montero__ _n_ A hunter’s cap with side flaps.  
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
 __mood__ _n_ :two::hammer: _Mood story._  
@@ -10156,7 +10161,7 @@ __obnoxious__ _adj_ :three::hammer:
 __obo__ _abbr_ :two: Or best offer.  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
-__obsequious__ _adj_ :two::hammer:  
+__obsequious__ _adj_ :three::hammer:  
 __obsidian__  
 __obstinate__  
 __obstreperous__ _adj_ :three: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
@@ -12209,7 +12214,7 @@ __refectory__ _n_ :five: A communal dining hall in a religious, academic, or oth
 __referenda__  
 __referral__  
 __reffing__  
-__refractory__ _adj_  
+__refractory__ _adj_ :two::hammer:  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
@@ -12839,6 +12844,7 @@ __sawhorse__ _n_ :five::hammer: (sawhorses)
 __sawyer__ _n_ :astonished:  
 __say the world__  
 __saying__ _n_ :two::hammer:  
+__sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
 __scab__ _n_  
 __scabbard__ _n_ :seven: A sheath for a sword, dagger, or bayonet.  
 __scabby__  
