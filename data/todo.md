@@ -118,3 +118,15 @@ __naysayer__ _n_
 __street smart__ _idiom_  
 __don’t get mad, get even__ _idiom_ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __finders keepers(, losers weepers)__ _idiom_  
+__have a heavy heart__ _idiom_ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
+__copious__ _adj_ Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
+__Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
+__sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
+__golden parachute__ _n_ An agreement to pay generous compensation to a company executive if dismissed. From the idea of a parachute softening the blow of an ejection from a high office and the color golden alluding to the large payment received on dismissal.  
+__periodical cicada__ _n_ Seventeen-year locust.  
+__seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
+__let it rest__ _idiom_ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
+__piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
+__colleague__ _n_ /KAH-leeg/  
+__pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
+__leave home__ _idiom_ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
