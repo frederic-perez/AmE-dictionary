@@ -8904,7 +8904,7 @@ __liverwurst__
 __livery driver__  
 __livestock__ _n_  
 __livid__  
-__living quarters__ _Precatious makeshoft living quarters._  
+__living quarters__ _n_ _Precatious makeshoft living quarters._  
 __living wills__  
 __lizard brain__ _n_ :two::hammer: (lizard brains)  
 __llama__  
@@ -8918,15 +8918,14 @@ __loan__ _n_ :two::hammer: (loans)
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
-__locale__ _We want to recruit nationally, but in our locale we have talent._  
-__locales__  
+__locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
 __lock, stock, and barrel__ _idiom_ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __lockdown__ _n_ :three::hammer: _Paris remained in a state of lockdown._ _The school was under lockdown for about two hours after the episode._  
 __locker-room__ _n_ (locker room)  
 __locking pliers__ _n_ :camera: _(used with a sing. or pl. v.)_ Pliers that can be locked in place. Pliers whose jaws are connected at a sliding pivot, permitting them to be temporarily locked in a fixed position. _Syn_ mole grips, mole wrench. :es: alicates de presión  
-__lockout__ _N.J. residents upset over island lockout._  
+__lockout__ _n_ A management action resisting employee’s demands; employees are barred from entering the workplace until they agree to terms. _N.J. residents upset over island lockout._  
 __locks > alcohol ignition locks__  
 __locks__ _n_ _The thick locks of black hair._  
 __locksmith__  
@@ -8937,8 +8936,8 @@ __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for a
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
 __lodestone__ _n_ [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
-__lodge__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
-__lodges__ _Fishing lodges._  
+__lodge<sup>1</sup>__ _n_ _Fishing lodges._  
+__lodge<sup>2</sup>__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
 __lodging__  
 __lodgings__  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
@@ -8955,10 +8954,10 @@ __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebo
 __loll__ _v_ :five::hammer::pencil2: (lolled, lolling) _His head was lolling against Cato’s shoulder._  
 __lollipop__ _n_ (lollypop)  
 __lollygag__ _v_ To waste time by puttering aimlessly; dawdle.  
-__lone wolf__ _They are lone wolf attacks._  
+__lone wolf__ _n_ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
-__loner__ Someone who likes being alone.  
-__long haul__ _She’s in for the long haul._  
+__loner__ _n_ Someone who likes being alone.  
+__long haul__ _n_ _She’s in for the long haul._  
 __long hours__ _idiom_ :two::hammer: _The long hours you’re putting in may not help._  
 __long shot__  
 __long story short__ _idiom_  
@@ -8970,15 +8969,15 @@ __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance 
 __longbow__ _n_ :three::hammer:  
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
-__longitudinal__ _Longitudinal findings from the study._  
+__longitudinal__ _adj_ _Longitudinal findings from the study._  
 __longstanding__ _adj_ :four::hammer:  
-__longtime__ _The longtime dictator._  
+__longtime__ _adj_ _The longtime dictator._  
 __longueur__ _n_ A dull and tedious passage or section (as of a book, play, or musical composition) — usually used in plural.  
 __look back on__ _phr v_ To think about something that happened in the past.  
 __look down__ _v_  
 __look out__ _v_ :two::hammer: _Look out for those beauties._  
 __look up to (one)__ _idiom_ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
-__look up__ _Look up to your belongings._  
+__look up__ _phr v_ _Look up to your belongings._  
 __lookalike__ _n_ One that closely resembles another; a double. _These lookalike domains are used for scams._  
 __looker__ _n_ :three::hammer:  
 __lookout__ _n_  
