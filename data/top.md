@@ -208,28 +208,3 @@ __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they’re determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent’s advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe’s fastest elevator whisk you 24 floors in a mere 20 seconds._  
 __whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
-__ouster__ _n_  
-__bald-faced__ _adj_  
-__bold-faced__ _adj_  
-__exhilarate__ _v_ /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated.  
-__sleeveless__ _adj_ :astonished::mega: /ˈslivlɪs, SLEEV-luhs/lis/ __1__ Unprofitable; futile; unreasonable; irrelevant. What does a sleeve have to do with profit? In former times, a lady would give her detachable sleeve to a knight as a symbol of love and he would wear it as he went around in his adventures. A knight without a sleeve was, well, sleeveless. _A sleeveless errand._ __2__ Without sleeves.  
-__in no circumstances__ _idiom_ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clouds, scatterbrained _	The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters._  
-Usage:	The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters.
-__in (the) bud__ _idiom_ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
-__crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
-__button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
-__button-down<sup>2</sup>__ _n_ A shirt with a button-down collar.  
-__veracity__ _n_ 
-__self-worth__ _n_ Self-esteem; self-respect.  
-__be kept in the dark (about something)__ _idiom_ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
-__percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
-__ransomware__ _n_ Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
-__belly flop__ _n_ _informal_  
-__rigmarole__ _n_ __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure.  
-__let go and let God__ _idiom_ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
-__candor__ _n_ The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
-__glean__ _v_ __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. _b__ To pick over in search of relevant material. __5__ Find out.  
-__peach<sup>1</sup>__ _n_  
-__peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
-__peach<sup>3</sup>__ _v tr_ :astonished: To inform against: _“He has peached me and all the others, to save his life” (Daniel Defoe)._  
