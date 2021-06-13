@@ -8791,7 +8791,7 @@ __lifeblood__ _n_ :four: The blood, as being necessary to life.
 __lifelike__ _adj_ Free from artificiality. _Syn_ natural _The mannequin’s appearance is so lifelike that customers often mistake it for a salesperson._  
 __lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._  
 __lifelong__ _adj_ :two::hammer:  
-__lifer__ _Craighead is a lifer at Baker Hughes._  
+__lifer__ _n informal_ :astonished: A prisoner sentenced to life imprisonment. _Craighead is a lifer at Baker Hughes._  
 __lifesaver__ _n_  
 __lift a finger__ _idiom_ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
 __lift__ _n_ :two::hammer: _I could give you a lift home._  
@@ -8799,12 +8799,11 @@ __liftgate__
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __ligature__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
-__light__ :mute:[li~~gh~~t]  
-__light-headed__ _I feel light-headed from lack of sleep._  
+__light__ _adj, n, v_ :mute:[li~~gh~~t]  
+__light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._ _I feel light-headed from lack of sleep._  
 __lightbulb moment__ _n_ _informal_ :two: A moment of sudden inspiration, revelation, or recognition.  
 __lighten up__ _phr v_ :two: To become less serious.  
 __lightermen__  
-__lightheaded__ _adj_ Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._  
 __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
@@ -8815,7 +8814,7 @@ __like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened st
 __like attracts like__ _idiom_ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like hell__  
-__like hotcakes__ _We are selling English classes like hotcakes._ :es: como churros  
+__sell like hotcakes__ _idiom_ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __like pulling teeth__ _idiom_  
 __like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
@@ -8823,8 +8822,8 @@ __like water off a duck’s back__ _idiom_ Without any apparent effect.
 __like-minded__ _adj_ Agreeing in opinions, goals, etc.  
 __likelier__  
 __likelihood__ _n_ :two::pencil2: Probability.  
-__likely__ _You are likely to get derailed into organizing._  
-__likened himself to__ _Mark faked his death and likened himself to a werewolf to intimidatean investor._  
+__likely__ _adj, adv_ _You are likely to get derailed into organizing._  
+__liken (someone or something) to (someone or something else)__ _idiom_ To represent or describe someone or something as being very similar to someone or something else. _People keep likening him to Ronald Reagan for his particular political positions._ _Mark faked his death and likened himself to a werewolf to intimidate an investor._  
 __likewise__ _adv_ :two::hammer:  
 __lilac tree__  
 __lilac__ _n_ :two::hammer:  
@@ -8834,7 +8833,7 @@ __lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, pe
 __lilt__ _n_ _He talked with the Jamaican lilt._  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
-__limber__ _Limber stick._  
+__limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
@@ -8847,7 +8846,7 @@ __linchpin__ _n_ :seven: A central cohesive source of support and stability. _Sy
 __line in the sand__ _idiom_ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __line up__ _v_ :two::hammer:  
 __line__ _v_ :two::hammer: _The tank was lined to keep it from rusting out._ _The steel-lined tank stored 20,000 gallons of diesel fuel._  
-__line-ups__ _From time to time it is necessary to change (TV) channel line-ups._  
+__line-up__ _n_ _From time to time it is necessary to change (TV) channel line-ups._  
 __lineages__  
 __linear__  
 __lineman__  
@@ -8860,7 +8859,7 @@ __liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve musc
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
-__lintel__ _Stone lintels._  
+__lintel__ _n_ _Stone lintels._ :es: dintel  
 __lion’s share__ _idiom_ :two: The greatest or best part.  
 __lionhearted__ _adj_  
 __lionized__ _v_  
@@ -8874,7 +8873,7 @@ __lisp<sup>1</sup>__ _n_
 __lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
-__listen__ :mute:[lis~~t~~en]  
+__listen__ _v_ :mute:[lis~~t~~en]  
 __listening session__  
 __listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
