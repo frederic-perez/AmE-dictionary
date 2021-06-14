@@ -7928,7 +7928,7 @@ __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __inner circle__ _idiom_ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
-__innit__ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
+__innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
 __innocuous__ _adj_  
 __innumerate__  
 __inobvious__  
@@ -8298,6 +8298,7 @@ __keep (something) straight (in one’s mind/head)__ _idiom_ To be able to under
 __keep (up) (one’s) end of the bargain__ _idiom_ To do as was promised in an agreement or bargain; to carry through with what one agreed to do. Also worded as “keep one’s end of the bargain up.”  
 __keep a close eye on (someone or something)__ _idiom_ To monitor someone or something closely. _Keep a close eye on this pot so that the soup doesn’t boil over._  
 __keep a cool head__ _idiom_ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
+__keep a lid on (something)__ _idiom_ __1__ To keep the level of something from increasing drastically or beyond what is undesirable or dangerous. _They were one of the few countries in the EU able to keep a lid on unemployment during the recession._ __2__ To not allow something to become known to other people; to keep something a secret or classified. _No one else knows about it yet, so keep a lid on it for now._  
 __keep a sharp lookout (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ _idiom_ :two::hammer: _This is keeping myself above water._  
 __keep an eye peeled (for something or someone)__ _idiom_ To remain vigilant or carefully watchful (for something or someone).  
@@ -8707,30 +8708,30 @@ __leis__ _Scented leis._
 __leisurely<sup>1</sup>__ _adj_  
 __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
-__lemme__ _Lemme see._  
+__lemme__ _contraction_ _Lemme see._  
 __lemming__ _n_  
 __lemon law__ _idiom_ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
-__lemon wedges__ :camera: _Lemon wedges for serving._  
+__lemon wedge__ _n_ :camera: _Lemon wedges for serving._  
 __lemon__ _n_ _This house is a lemon, honey._  
 __lemongrass__  
 __lemons > dance of the lemons__  
 __lemony__  
 __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
-__lengthy__ _A lengthy period._  
+__lengthy__ _adj_ __1__ Of considerable length, especially in time; extended: _a lengthy convalescence._ __2__ Tediously long; drawn-out: _a lengthy explanation._  
 __leniency__ _n_ :four::hammer: _Syn_ indulgence, lenience  
 __lenient__ _adj_ :six: (leniently) If you’re not overly strict, and you show tolerance and mercy when someone does something wrong, you’re being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you’re a big fan of discipline and punishment, however, lenient might mean “soft” or “indulgent.” _Olympic officials will be lenient._  
 __lenity__ _n_  
-__Lenny__ Diminutive of Leonard.  
-__lens__ _Lens design._  
+__Lenny__ _n_ Diminutive of Leonard.  
+__lens__ _n_ _Lens design._  
 __lenses__ _n pl_  
 __Lent__ _n_ :two::hammer: :es: cuaresma  
-__lentils__ :es: lentejas  
+__lentil__ _n_ (lentils) :es: lentejas  
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
 __lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
-__lesson learned__ (lesson learned)  
+__lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
 __let (someone) loose (on something)__ _idiom_ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ _idiom_ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
@@ -8748,7 +8749,7 @@ __let the dust settle__ _idiom_ To allow for things return to normal after a per
 __let the good times roll__ _idiom_ To have as much fun or live life as richly as possible. (Often said as an imperative.)  
 __let your hair down__  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
-__letter jacket__ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
+__letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
 __letters after (one’s) name__ _idiom_ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
@@ -8778,10 +8779,9 @@ __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
-__lick-spittle__ _A lick-spittle role._  
+__lick-spittle__ _n_ :dart: One who is abject enough to lick, as it were, another’s spittle; a vulgar flatterer or parasite. _A lick-spittle role._  
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
 __licorice__ _n_ :four::camera: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
-__lid__ _It should keep a lid on the yen._  
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
@@ -8814,7 +8814,6 @@ __like a chicken with the pip__ _idiom_ In low spirits; in a weak or sickened st
 __like attracts like__ _idiom_ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ _idiom_ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like hell__  
-__sell like hotcakes__ _idiom_ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __like pulling teeth__ _idiom_  
 __like shooting fish in a barrel__  
 __like two peas in a pod__ _idiom_ Very similar.  
@@ -13088,6 +13087,7 @@ __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of h
 __selfless__  
 __selfsame__  
 __sell (someone, something, or oneself) short__ _idiom_ To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
+__sell like hotcakes__ _idiom_ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ _idiom_ :two::hammer:  
 __sell short__  
 __sell someone a pup__ _idiom_ To swindle someone by selling them something worthless.  
