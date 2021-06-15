@@ -8637,7 +8637,7 @@ __lay (oneself) out__ _idiom_ To put in a great deal of effort; to inconvenience
 __lay (something) at the feet of (someone)__ _idiom_ To make or hold someone, especially a group of people, responsible for something.  
 __lay the groundwork (for something)__ _idiom_ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
 __lay the table__  
-__lay__ _Lay reader._  
+__lay__ _adj_ _Lay reader._  
 __layman > in layman terms__  
 __layman__ _n_  
 __layoff__  
@@ -8645,8 +8645,8 @@ __layout__ _n_
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
 __laze about__ _idiom_ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
-__laziness__ :pencil2:  
-__lb.__ _Sold in pkgs. of 3 lbs. or more._  
+__laziness__ _n_ :pencil2:  
+__lbs.__ _abbr_ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
@@ -8654,25 +8654,25 @@ __leaden__
 __leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
-__league__ :mute:[leag~~u~~e]  
-__lean and mean__ _Companies are running lean and mean these days._  
+__league__ _v_ :mute:[leag~~u~~e]  
+__lean and mean__ _idiom_ :dart: Fit and ready for hard, efficient work. _Companies are running lean and mean these days._  
 __lean on__ _v_ :two::hammer:  
 __lean protein__  
 __lean<sup>1</sup>__ _adj_ :four::hammer: _He is lean fast._ _Lean food._ _A lean face._  
 __lean<sup>2</sup>__ _v_  
 __leap day__  
 __leap of faith__  
-__leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
+__leap to (someone’s) mind__ _idiom_ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
-__leaps and bounds__ _To grow in leaps and bounds._  
+__leaps and bounds__ _idiom_ :dart: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._  
 __learn the ropes__ _idiom_ :two::hammer:  
 __lease__ _n_ :three::hammer: (on a lease)  
 __leased__ _v_  
 __leather-lunged__ _idiom_ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
 __leave (something) out of account__ _idiom_ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leave much to be desired__ _idiom_ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
-__leaven__ _To leaven the raunch and swagger._  
+__leaven__ _v_ _To leaven the raunch and swagger._  
 __leavings__ _n_  
 __lebkuchen__ _n_ A chewy, honey-sweetened spice cake or cookie, often containing nuts or candied fruits.  
 __lecher__  
@@ -8700,11 +8700,10 @@ __legal tack__
 __legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
-__legion__ _The reasons you can’t sleep well inflight are legion._  
+__legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _slang_ :four: Legitimate.  
 __legwork__ _n_  
-__lei__ _n_ A Polynesian garland of flowers.  
-__leis__ _Scented leis._  
+__lei__ _n_ :two; (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
 __leisurely<sup>1</sup>__ _adj_  
 __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
