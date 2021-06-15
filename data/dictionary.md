@@ -1547,6 +1547,7 @@ __blowout__ _n informal_ :seven: A lopsided victory or thorough defeat. _The Ori
 __blowsy__  
 __blowtorch__ _n_ :two::hammer:  
 __blowup bed__ _n_  
+__blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __blubber__ _n_  
 __bludgeoned__ _v_ :three::hammer:  
@@ -1984,6 +1985,7 @@ __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or saf
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bum<sup>3</sup>>__ _n_ :two: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
+__bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
@@ -2666,6 +2668,8 @@ __chord__ :mute:[c~~h~~ord]
 __choreography__ :mute:[c~~h~~oreography]  
 __chortle__ _v_ :five::hammer: (chortled, chortles)  
 __chorus__ :mute:[c~~h~~orus]  
+__chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
+__chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
 __Christian__ :mute:[C~~h~~ristian]  
@@ -3902,6 +3906,7 @@ __denizen__ _n_ :four::hammer: (denizens)
 __denouement__ _n_ :six::hammer:  
 __denoument__ _n_ :two::hammer:  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
+__dentifrice__ _n_  
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
 __departed__  
@@ -8379,6 +8384,7 @@ __kindred<sup>1</sup>__ _n_ :three::hammer:
 __kindred<sup>2</sup>__ _adj_ :three: __1__ Of the same ancestry or family: _kindred clans._ __2__ Having a similar or related origin, nature, or character: _kindred emotions._  
 __kine__ _n_  
 __king of the hill__ _idiom_ :three: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
+__king of the jungle__ _idiom_ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
@@ -9636,7 +9642,7 @@ __moon roof__
 __moon__ _v_  
 __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewing moonshine._  
 __moonshine<sup>2</sup>__ _v_  
-__moonshot__ _n_ :three: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
+__moonshot__ _n_ :four: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moonsoon__  
 __moonstruck__ _adj_  
 __moor__ _n_ :two::hammer:  
@@ -10820,7 +10826,7 @@ __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on h
 __peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
-__pecuniary__ _adj_ :two::hammer: _Pecuniary benefits._  
+__pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
@@ -12829,6 +12835,7 @@ __save the day__ _idiom_ :two: To produce a good result when a bad result was ex
 __save your breath__ _idiom_ Stop useless talk.  
 __saved by the bell__ _idiom_ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __savior__  
+__savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
 __savor__ _v_ (savoring) _I was savoring the moment._  
 __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Portuguese and/or Spanish sabe (do you know?), from Latin sapere (to be wise). To understand or know. _The agency’s Denver office sent Siringo, who savvied some Spanish, to Santa Fe._  
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  

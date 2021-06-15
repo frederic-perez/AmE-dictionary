@@ -1,13 +1,3 @@
-__blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
-__bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
-__king of the jungle__ _idiom_ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
-__savoir-faire__ _n_ The ability to say or do the right or graceful thing. _Syn_ diplomacy, discretion, finesse, poise, tact, urbanity _While greeting the prince in the ballroom, I stumbled over my words, but my sister-with all her savoir-faire-knew just what to say._  
-__dentifrice__ _n_  
-__moonshot__ _n_ __1a__ A spacecraft mission to the moon. __b__ An extremely ambitious project or mission undertaken to achieve a monumental goal.  
-__pecuniary__ _adj_  
-__chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
-__chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
-__kindred spirit__ _idiom_  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
