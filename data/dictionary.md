@@ -8530,15 +8530,14 @@ __laid-back__ _adj_ _idiom_ :eight: __1__ Calm, casual, or at ease. Unhurried an
 __lain__  
 __lair__ _n_ :two::hammer: _A tiger’s lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
-__lalochezia__ Emotional discharge gained by uttering indecent or filthy words.  
-__lam__ _The Bronco is on the lam._  
+__lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__  
 __lame duck__ _n_ __1a__ An elected officeholder or group continuing in office during the period between failure to win an election and the inauguration of a successor. __b__ An officeholder who has chosen not to run for reelection or is ineligible for reelection. __2__ An ineffective person; a weakling.  
 __lame__ _adj_ :two::hammer: _Lame excuse._  
 __laminate__ _v_ :two::hammer: :es: plastificar  
-__laminated__ _A laminated cheat sheet._  
+__laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lance__ _v_ :astonished:  
@@ -8552,14 +8551,14 @@ __landfall__ _n_ :three::hammer:
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landmark__ _adj_ _A landmark case in 1983._  
-__landscape__ _Landscape gardening._  
+__landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languish__ _v_ :three: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
 __Laotian__  
-__lap dog__ __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_  
+__lap dog__ _idiom_ :dart: __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_ :es: perro faldero  
 __lap of the gods__ _idiom_ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
 __lap pool__  
 __lap<sup>1</sup>__ _n_ _The project’s amenities include two lap pools._  
@@ -8583,7 +8582,7 @@ __laser wall__
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
-__Lasik__ _Lasik surgery._  
+__LASIK__ _abbr_ Laser-assisted in situ keratomileusis. _Lasik surgery._  
 __lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
@@ -8592,14 +8591,13 @@ __last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable ach
 __last straw__ _idiom_ :two: The final problem in a series of problems.  
 __last-ditch attempt__ _idiom_ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
-__last-gasp__ _He scored the last-gasp winner._  
+__last-gasp__ _adj_ _He scored the last-gasp winner._  
 __last-minute__ _idiom_ (used before a noun) Done at the very last possible moment or opportunity.  
 __lastly__ _adv_  
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey kid__ _idiom_ A child who is home alone after school or in general because their parents or guardians are at work.  
 __latchkey__  
-__late > of late__ _The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __late bloomer__ _n idiom_  
 __late model__ _idiom_ Especially regarding an automobile, of a relatively recent design or model.  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
@@ -8611,14 +8609,14 @@ __lather, rinse, (and) repeat__ _idiom_ :two::dart: A sarcastic metaphor for fol
 __lathered__ _v_ :three::hammer: (lathering) _He lathered the bar of soap._  
 __lathes__  
 __Latinas__  
-__Latino__ :pencil2: _In Los Angeles half of the city’s residents are Latino._  
+__Latino__ _n, adj_ :pencil2: _In Los Angeles half of the city’s residents are Latino._  
 __Latinos__ _n_  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
 __laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
-__laudatory__ Expressing praise; commendatory.  
+__laudatory__ _adj_ Expressing praise; commendatory.  
 __laugh in (one’s) sleeve__ _idiom_ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
 __laughing in the aisles__ _idiom_ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
@@ -10195,7 +10193,7 @@ __odometer__ _n_ :two::hammer:
 __OEM__ _abbr_ :three::hammer: _OEMs._  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of a kind__ _idiom_ _You are two of a kind._  
-__of late__ _adv_ :three: You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente  
+__of late__ _idiom_ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of one’s own accord__ _idiom_ Voluntarily.  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _prep_ _The gas smells of roggen eggs._  
@@ -10302,7 +10300,7 @@ __on the flip side__ _idiom_ :two::hammer:
 __on the fly__  
 __on the grapevine__ _idiom_ :two::hammer: _Al must have heard something on the grapevine._  
 __on the hoof__  
-__on the lam__ _idiom_ Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
+__on the lam__ _idiom_ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the lookout__ _idiom_  
 __on the rise__ _idiom_  
 __on the run__  
