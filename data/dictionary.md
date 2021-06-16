@@ -3033,6 +3033,7 @@ __compassionate__ _adj_ :three::hammer:
 __compatriot__  
 __compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :five: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
 __complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
@@ -4149,6 +4150,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
+__Disneyfy__ _v_  
 __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
 __disparagement__ _n_ :two::hammer:  
@@ -5030,6 +5032,7 @@ __exe__ :mega:
 __exec__ _n informal_ :five: (execs) An executive. _I’m a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __exemplary__ _Less-than-exemplary antifouling efforts._  
+__exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
 __exert (oneself)__ _idiom_ To make a concerted effort to do something. Put oneself to strenuous effort.  
@@ -8639,6 +8642,7 @@ __lax__ _adj_ :two::hammer: (not LAX)
 __lay (one’s) life on the line__ _idiom_ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
 __lay (oneself) out__ _idiom_ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
 __lay (something) at the feet of (someone)__ _idiom_ To make or hold someone, especially a group of people, responsible for something.  
+__lay down and die__ _idiom_ :dart: To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
 __lay the groundwork (for something)__ _idiom_ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
 __lay the table__  
 __lay__ _adj_ _Lay reader._  
@@ -9294,6 +9298,7 @@ __mastoiditis__ _n_
 __matchmaking service__  
 __matchstick__ _n_ :two::hammer:  
 __matchup__ _n_ :two::hammer: (matchups)  
+__materfamilias__ _n_ A female head of a family or tribe. _Syn_ matriarch _As materfamilias, my grandmother calls the shots on holidays like Thanksgiving, and no one dares question her._  
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
 __matey__  
@@ -9441,6 +9446,7 @@ __mick__ _n_ :three::hammer:
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
 __midafternoon__  
+__midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
 __midday__ _n_ :two::pencil2::hammer:  
 __middle ground__ _idiom_ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __middle pulmonary vein__ _n_ _Role of right middle pulmonary vein in patients with paroxysmal atrial fibrillation._  
@@ -9940,6 +9946,7 @@ __nestlings__ _n_
 __nether__ _adj_ :two::hammer:  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
 __netizen__ _n_ A person who is a frequent or habitual user of the internet.  
+__nettle__ _v_  
 __nettlesome__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome, galling, irritating, pesky, pestering, vexatious, plaguy, teasing, pestiferous _As punishment, I was given the nettlesome task of filling out each of the forms in triplicate._  
 __neuroblastoma__  
 __neuropeptide__ _n_  
@@ -10301,6 +10308,7 @@ __on the fly__
 __on the grapevine__ _idiom_ :two::hammer: _Al must have heard something on the grapevine._  
 __on the hoof__  
 __on the lam__ _idiom_ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
+__on the leading edge__ _idiom_ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the lookout__ _idiom_  
 __on the rise__ _idiom_  
 __on the run__  
@@ -10396,6 +10404,7 @@ __ornery__ _adj_ :three::hammer:
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
 __orphrery__  
+__orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __orthokeratology__  
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
@@ -15909,6 +15918,7 @@ __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._
 __unhinged__ _adj_ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
 __unhoped-for__ _adj_ So unexpected as to have not been imagined. _Syn_ unthought-of  
 __unicorn__ _n_ Start-up valued at more than $1 billion.  
+__unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  

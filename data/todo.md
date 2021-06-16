@@ -1,13 +1,3 @@
-__compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
-__orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
-__midas__ _n_ /MY-duhs/ [:scroll: After the legendary King Midas who was given the power that anything he touched turned into gold.] __1__ One with the ability to easily turn anything profitable. __2__ One who is extremely wealthy.  
-__on the leading edge__ _idiom_ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
-__materfamilias__ _n_ A female head of a family or tribe. _Syn_ matriarch _As materfamilias, my grandmother calls the shots on holidays like Thanksgiving, and no one dares question her._  
-__exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
-__nettle__ _v_  
-__lay down and die__ _idiom_ :dart: To quit; to give up hope or ambition. _We might have had an unexpected loss in the playoffs, but that doesn’t mean this team is ready to lay down and die!_  
-__unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, inculpable, irreproachable _As is indeed not unfrequent with women of unimpeachable virtue ... at a distance she not only excused illicit love, she positively envied it._  
-__Disneyfy__ _v_  
 __inroad__ _n_  
 __atavism__ _n_  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
