@@ -110,3 +110,15 @@ __piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I 
 __colleague__ _n_ /KAH-leeg/  
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __leave home__ _idiom_ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
+__jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
+__bless your pointy little head__ _idiom_ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
+__mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
+__blitz<sup>1</sup>__ _n_ [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz.  
+__blitz<sup>2</sup>__ _v tr_ To attack, destroy, conquer, etc.  
+__dumpster fire__ _idiom_ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
+__fealty__ _n_  
+__lackadaisical__ _adj_ /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
+__cerulean__ _adj_  
+__fiddlesticks__ _interj_ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
+__schwa__ _n_ The mid-central, neutral vowel sound typically occurring in unstressed syllables in English, however spelled, as the sound of a in alone and sofa.  
+__alone__ _adj_ :mega: /ə-lōn′/  
