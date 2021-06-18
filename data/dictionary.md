@@ -8371,9 +8371,9 @@ __kid<sup>2</sup>__ _v_
 __kiddo__  
 __kids will be kids__ _idiom_ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
-__kike__ _Kike names._  
+__kike__ _n_ _Offensive slang_ Used as a disparaging term for a Jew. _Kike names._  
 __kiki__  
-__kill a mockingbird__ _It was like killing a mockingbird._  
+__kill a mockingbird__ _phr_ To destroy innocence. _It was like killing a mockingbird._  
 __kill clock__ _v_  
 __kill the goose that lays the golden egg(s)__ _idiom_ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he’ll kill the goose that lays the golden eggs._ _We’re killing the goose that laid the golden egg._  
 __kill<sup>1</sup>__ _v_ _slang_ :two::hammer: _Kill the music._  
@@ -8406,11 +8406,11 @@ __kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target
 __kirtle__ _n_ :five::hammer: (kirtles)  
 __kischy__  
 __kismet__ _n_ :three: Fate, fortune.  
-__kiss-and-tell__ _Kiss-and-tell narratives._  
+__kiss-and-tell__ _adj_ _informal_ Disclosing private or confidential information, especially in a firsthand account: _a kiss-and-tell memoir by a presidential aide._  
 __kitchenware__  
-__kite__ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
+__kite__ _n_ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
-__kith and kin__ _To identify kith and kin._  
+__kith and kin__ _idiom_ _old-fashioned_ Friends and relatives.  
 __kitsch__  
 __kitten__  
 __kiwi__  
@@ -8425,17 +8425,17 @@ __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ di
 __knavish__  
 __knead__ _v_ :nine::m::mute:[~~k~~nead] (kneaded, kneading) __1__ To work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching. :es: amasar __2__ To manipulate by similar movements, as the body in a massage. :es: masajear __3__ To make by kneading: _to knead bread._  
 __knee jerk reaction__ _idiom_ A quick and automatic response.  
-__knee__ :mute:[~~k~~nee]  
+__knee__ _n_ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
 __kneecap__ _v_ :three::hammer: (kneecapping)  
 __knell__ _n_ :three::hammer:  
 __knick-knack__ _idiom_ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
 __Knickerbocker__ _n_ __1a__ A descendant of the Dutch settlers of New York. __b__ :dart: A native or inhabitant of New York. __2__ Full breeches gathered and banded just below the knee; knickers.  
-__knife__ :mute:[~~k~~nife]  
-__knight__ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
+__knife__ _n, v_ :mute:[~~k~~nife]  
+__knight__ _n_ :mute:[~~k~~night]:mute:[kni~~gh~~t]  
 __knit tie__  
 __knit__ _v_ :four::mute:[~~k~~nit] To join together. _She’s got a break in this bone, but the ends of the bones will knit without the need for surgery._ _Knit brows._ (to frown)  
-__knob__ _Swallow my knob._  
+__knob__ _n_ __4__ _taboo Brit_ A slang word for penis. _Swallow my knob._  
 __knobbed__ _v_  
 __knock (one’s) head against a/the wall__ _idiom_ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __knock (someone) over with a feather__ _idiom_ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
@@ -8448,7 +8448,7 @@ __knock-knock joke__
 __knocked up__ _idiom_ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ _idiom_ :dart: To be dying, to be close to death.  
 __knockoff__  
-__knockout__ _A knockout series._  
+__knockout__ _n, adj_ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
 __knockout<sup>2</sup>__ _adj_  
 __knockusing__  
