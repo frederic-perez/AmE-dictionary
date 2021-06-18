@@ -792,6 +792,7 @@ __at the ready__ _idiom_ Available for immediate use. _Soldiers with machine gun
 __at the very least__  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at wit’s end__ _He was at wit’s end._  
+__atavism__ _n_  
 __atavistic__ _adj_ :three: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atheist__ _adj_  
 __athenaeum__ _n_  
@@ -919,7 +920,7 @@ __backhoe__ _n_ :two::hammer:
 __backlash<sup>1</sup>__ _n_ :five::hammer: _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
-__backlog__ _n_ :six: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._  
+__backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
 __backpedal__ _v_  
 __backslid__ _v_  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
@@ -5777,6 +5778,7 @@ __formidable__
 __formulate__ _I was formulating my question._  
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
+__Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __fort__ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
@@ -7653,6 +7655,7 @@ __immerse__ _v_
 __immigrated__  
 __immigration__ :mega:  
 __immobile__  
+__immodest__ _adj_  
 __immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
 __imp__ _Its imp genius._  
@@ -7948,6 +7951,7 @@ __inquest__ _n_ :two::hammer:
 __inquisitive__ _adj_  
 __inquisitiveness__  
 __INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
+__inroad__ _n_  
 __inroads__ _n_ :four::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
 __insatiable__ _adj_ _An insatiable learner._  
@@ -8391,6 +8395,7 @@ __king of the hill__ _idiom_ :three: The most powerful, successful, or authorita
 __king of the jungle__ _idiom_ The lion, especially in cultural or artistic depictions. (Usually a misnomer, as lions typically inhabit deserts or dry forests, as opposed to jungles.)  
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
+__kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
@@ -8589,6 +8594,7 @@ __LASIK__ _abbr_ Laser-assisted in situ keratomileusis. _Lasik surgery._
 __lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
+__last burst of fire__ _idiom_ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ _idiom_ The last or final opportunity to get, have, do, or achieve something.  
 __last hurrah__ _idiom_ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
 __last straw__ _idiom_ :two: The final problem in a series of problems.  
@@ -8654,6 +8660,7 @@ __layover__ _n_ :dart::three: A short stop or break in a journey, usually impose
 __layup__ _n_ :three::hammer: (layups)  
 __laze about__ _idiom_ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __laziness__ _n_ :pencil2:  
+__lazy-bones__ _idiom_ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __lbs.__ _abbr_ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
 __LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
@@ -10373,6 +10380,7 @@ __ophthalmologist__ _n_
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opposition__ _n_ :mega:  
+__oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
 __opprobrium__ _n_  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
@@ -14689,6 +14697,7 @@ __superbly__
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__ _adj_ :two::hammer:  
 __superintendent__ _n_ :three::hammer:  
+__superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supernumerary__  
 __superpooch__  
 __supersede__ _v_  
