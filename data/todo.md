@@ -1,13 +1,3 @@
-__derange__ _v_  
-__jab__ _n_ __3__ _informal_ A hypodermic injection.  
-__twitchy__ _adj_ __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
-__serum__ _n_ :es: suero  
-__goal average__ _n_ (sports) The ratio of the numbers of goals scored for and against a team in a series of matches, sometimes used in deciding the team’s position in a table.  
-__roster__ _n_  
-__outsole__ _n_ The outer sole of a shoe or boot.  
-__lose control__ _v_ Lose one’s nerve.  
-__anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
-__tie (one) down__ _idiom_ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __drag (one’s) feet__ _idiom_  
 __per se__  
 __conceited__ _adj_  

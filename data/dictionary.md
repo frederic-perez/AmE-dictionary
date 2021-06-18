@@ -509,6 +509,7 @@ __andragogy__ _n_ The art or science of teaching adults. The methods or techniqu
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotal__ :mega:  
 __anecdotally__  
+__anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemometer__ _n_ :two::hammer:  
 __anew__ _adv_ :four::hammer:  
 __anfractuous__ _adj_ :two: Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
@@ -3924,6 +3925,7 @@ __depressed__ _Depressed wages._
 __deprived__ _A very deprived area._  
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
+__derange__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
@@ -6362,6 +6364,7 @@ __go-to__ _The go-to method for 3D printing._
 __goad__ _v_ :seven::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
+__goal average__ _n_ (sports) The ratio of the numbers of goals scored for and against a team in a series of matches, sometimes used in deciding the team’s position in a table.  
 __goalie__  
 __goalkeeper__  
 __goalpost__ _n_  
@@ -8079,7 +8082,7 @@ __IUD__
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
-__jab<sup>1</sup>__ _n_ :four: A quick, sharp blow, especially with the fist. _A jab in the stomach._ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._ _Syn_ poke, prod  
+__jab<sup>1</sup>__ _n_ :five: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection. _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
@@ -9018,6 +9021,7 @@ __lordy__ _interj_ _chiefly US and Canadian_ An exclamation of surprise or disma
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
+__lose control__ _v_ Lose one’s nerve.  
 __lose it__ _idiom_  
 __lose track of (someone or something)__ _idiom_  
 __lose your train of thought__ _idiom_ To forget what you were talking or thinking about.  
@@ -10508,6 +10512,7 @@ __outshoot__ _v_ :two::hammer: _The Cougars outshot the Sooners 14-6._
 __outsize<sup>1</sup>__ _adj_ :two::hammer: _An outsize risk._  
 __outsize<sup>2</sup>__ _n_  
 __outsmart__ _v_ :two::hammer:  
+__outsole__ _n_ The outer sole of a shoe or boot.  
 __outspend__ _v_  
 __outspoken__ _adj_ :nine::m::pencil2: Frank in stating one’s opinions, especially if they are shocking or controversial. _Syn_ forthright, direct, candid, frank, straightforward, honest  
 __outstanding__ _adj_  
@@ -12609,7 +12614,7 @@ __rosary__ _n_ (rosaries)
 __rose water__ _n_ Perfume consisting of water scented with oil of roses.  
 __rosette__ _n_  
 __rosin box__  
-__roster__ _n_ :two::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
+__roster__ _n_ :three::hammer: _All the calls she gets from different guys, I’d swear she needs a roster by the phone to keep ’em straight._  
 __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beaks of captured ships. Hence the use of the term for a speaking platform. From Latin rostrum (snout, bill, beak), from rodere (to gnaw). __1__ A platform, stage, dais, etc., for public speaking. __2__ A beaklike projection on a warship, used for ramming another ship. __3__ A snout, beak, or bill of an animal.  
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
@@ -13150,6 +13155,7 @@ __serfdom__ _n_
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
+__serum__ _n_ :es: suero  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
@@ -15294,6 +15300,7 @@ __tidbit__ _n_ :six::pencil2::hammer: (tidbits) _He fed the cat tidbits._
 __tide someone over (until something)__ _idiom_ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tidy up__ _phr v_ :three: To put something in order; to clean something. _I need to tidy the place up._  
 __tidy__ _adj_ _A tidy plan._  
+__tie (one) down__ _idiom_ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __tie the can__ _idiom_ _It ain’t every day that you tie the can to a Congressman._  
 __tie-dye__  
 __tie-in__ _n_ _The story “Dr. Cyclops” was an early movie tie-in._  
@@ -15793,7 +15800,7 @@ __twist__ _n_ _I’ll have my vodka martini with a twist of lemon._
 __twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
-__twitchy__ _adj_ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
+__twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
 __two-fold__ _adj_  
