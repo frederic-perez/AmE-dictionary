@@ -6129,6 +6129,7 @@ __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, m
 __gestalt__ _n_  
 __get (one’s) ears lowered__ _idiom_ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ _idiom_ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
+__get (one’s) knuckles rapped__ _idiom_ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (some kind of) mileage out of (something)__ _idiom_ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __get (the hell) out of Dodge__ _idiom_ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
 __get a grip__ _idiom_ :two::hammer:  
@@ -8447,24 +8448,23 @@ __knockout<sup>1</sup>__ _n_
 __knockout<sup>2</sup>__ _adj_  
 __knockusing__  
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
-__knot__ :mute:[~~k~~not]  
+__knot__ _n, v_ :mute:[~~k~~not]  
 __knotty__  
-__know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
+__know (one’s) own mind__ _idiom_ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know a thing or two__ _idiom_ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
-__know better__ _But I knew better._  
+__know better (than to do something)__ _idiom_ To be wise enough, experienced enough, or well trained enough not to have done something wrong. _Mary should have known better than to accept a lift from a stranger._ _Children should know better than to play in the road._  
 __know every trick in the book__ _idiom_ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
 __know full well__ _idiom_ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ _idiom_ :three: To know how to do a job or task properly.  
-__know__ :mute:[~~k~~now]  
+__know__ _v_ :mute:[~~k~~now]  
 __know-it-all__ _n_ _slang_ A person who thinks they know everything.  
 __know-nothing__ _idiom_ A completely ignorant, uninformed, or unknowledgeable person.  
 __knowledgeable__ _adj_  
-__knuckle duster__ _Thugs armed with a knuckle duster._  
+__knuckle duster__ _n_ A small metal weapon; worn over the knuckles on the back of the hand. _Thugs armed with a knuckle duster._  
 __knuckle sandwich__ _idiom_ A punch in the face.  
-__knuckle__ :mute:[~~k~~nuckle]  
+__knuckle__ _n, v_ :mute:[~~k~~nuckle]  
 __knuckleball__ _n_ :two: A throw in baseball that flies in an erratic way and is difficult to hit well because the pitcher holds the ball between the fingertips or knuckles.  
 __knuckler__ _n_ :two: (knucklers) _baseball_ A knuckle ball.  
-__knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __knurled__ _v_ :two::hammer:  
 __KO<sup>1</sup>__ _n_ A knockout in boxing.  
 __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock out.  
@@ -8491,7 +8491,7 @@ __kumquat__ _n_
 __kurtosis__ _n_  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
-__L-plate__ _He saw the L-plate on the back of the car._  
+__L-plate__ _n_ _He saw the L-plate on the back of the car._  
 __l’esprit de l’escalier__ _idiom_ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __la la land__ _n_ _slang_ An unreal place, a fantastic dreamworld.  
 __labor bureaus__  
@@ -8512,11 +8512,11 @@ __lacquered__ _v_
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __lacustrine__ _adj_  
-__lacy__ _Cypress trees that were lacy with new leaf._  
+__lacy__ _adj_ Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._  
 __lad__ _n_  
 __laddie__  
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
-__lading__ _Checking bills of lading._  
+__lading__ _n_ _Checking bills of lading._  
 __Lady Luck__ _idiom_ :two: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
 __lady of Shalott__  
 __lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
