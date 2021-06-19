@@ -587,7 +587,7 @@ def main(progname, argv):
     if num_arguments > 0:
         print(OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
 
-    VALID_ARGUMENTS = [ "todo", "dictionary" ]
+    VALID_ARGUMENTS = [ "todo", "dictionary", "idioms" ]
     if num_arguments > 2:
         print(RED + "Too many arguments. Aborting..." + ENDC)
         usageAndAbort(progname, VALID_ARGUMENTS)
