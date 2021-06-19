@@ -7378,7 +7378,6 @@ __jumbotron__ _n_
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
 __jump shot__ _n_  
 __jump start__ _n_ _His friends gave him a jump start._  
-__jump the gun__ _If I jump the gun I’ll need more time to recover._  
 __jumper<sup>1</sup>__ _n_ _basketball_ A player releases the basketball at the high point of a jump. :es: tiro en suspensión  
 __jumper<sup>2</sup>__ _n_ _Chiefly British_ A pullover sweater.  
 __jumpers__  
@@ -7387,7 +7386,7 @@ __jumpstar<sup>1</sup>__ _n_ Starting an automobile engine that has a weak batte
 __jumpstar<sup>2</sup>__ _v_ :five: __1__ Start (a car engine whose battery is dead) by connecting it to another car’s battery. __2__ Start or re-start vigorously. _The Secretary of State intends to jumpstart the Middle East Peace Process._  
 __jumpsuit__ _n_ :two::hammer:  
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
-__junction__ _Conjunction junctions._  
+__junction__ _n_ _Conjunction junctions._  
 __juncture__ _n_ :six: A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
 __Juneteenth__ _n_  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
@@ -7418,19 +7417,16 @@ __kabobs__
 __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
 __kabuki__ _n_ :three::hammer:  
 __kaffeeklatsch__ _n_  
-__kaflooey__ _On a few occasions the screen went a bit kaflooney._  
 __kale__ _n_ :five::hammer:  
 __kamikaze__ _n_ :mega:  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
-__Katy__ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
+__Katy__ _n_ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to “bold and brave” and while the spelling is now really different, the sounds are similar. Variations of keen as being “bold” and “strong” show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of “sharp” — relating to “an edge or blade.” Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
-__keep an eye__ _Keep an eye on the Twitter._  
 __keep back__ _phr v_ To not tell someone about something. _Whatever you discover... tell me. Don’t keep anything back._  
 __keep down__ _phr v_ To prevent something from increasing in size or number.  
-__keep from__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
@@ -7444,14 +7440,13 @@ __keseboy__
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
-__keystone__ :es: piedra angular  
+__keystone__ _n_ :es: piedra angular  
 __keystroke__ _n_ :two::hammer: (keystrokes)  
 __khakis__ _n_ :two::hammer:  
 __kibble__ _n_  
 __kibbutz__  
 __kibitz__ _v_  
 __kick board__ _n_ (swimming) :camera:  
-__kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick off__ _phr v_ kick off __1__ _Sports_ To begin or resume play with a kickoff. __2__ _informal_ To begin; start: _kicked off the promotional tour with a press conference._ __3__ _slang_ To die.  
 __kick sand in the air__  
 __kick the bucket__  
@@ -7459,7 +7454,7 @@ __kick-starter__ _n_ A motor starter (as on a motorcycle) that is activated by a
 __kick-the-can__ _n_ Kick the Can (also known as 40 40, Pom Pom, Tip the can, and Can up Can Down) is a children’s game related to tag, hide and seek, and capture the flag which can be played outdoors, with as few as three to as many as several dozen players. The game is one of skill, strategy, and stealth, as well as physical fitness.  
 __kickback schemes__  
 __kickback__ _n_ :seven::hammer: (kickbacks) _A kickback deal._  
-__kickoff__ _The kickoff of the shopping season._  
+__kickoff__ _n_ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
 __kid<sup>1</sup>__ _n_ _I was a Nintendo kid._  

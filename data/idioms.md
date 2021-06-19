@@ -871,6 +871,7 @@ __jump at the chance (to do something)__ To accept or seize with alacrity an opp
 __jump for joy__ To be very happy about something.  
 __jump in (one’s) skin__ To start or recoil, as from shock, surprise, or fear.  
 __jump ship__ To leave a job or activity.  
+__jump the gun__ To start something before it is permissible, appropriate, or advisable. The phrase alludes to starting to run in a foot race before the starting gun goes off. _I probably jumped the gun with announcing our engagement before everyone was there, but I was just too excited._  
 __jump through hoops__ To do a lot of difficult things before you are allowed to have or do something you want.  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
@@ -878,7 +879,7 @@ __justice is served/done__ Proper punishment or fair treatment is given by the l
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
-__keep (one’s)/an eye on (someone or something)__ To watch someone or something carefully; to be attentive to someone or something.  
+__keep (one’s)/an eye on (someone or something)__ :two: To watch someone or something carefully; to be attentive to someone or something. _Keep an eye on the Twitter._  
 __keep (someone or something) in check__ :two::hammer: _Devils keep Hawks’ high-flying offense in check._  
 __keep (someone) in the loop__ To keep someone informed about and/or involved in something, such as a plan or project, especially that which involves or pertains to a specific group.  
 __keep (something) straight (in one’s mind/head)__ To be able to understand something clearly and comprehensively; to keep the details of something clear in one’s mind.  
@@ -889,6 +890,7 @@ __keep a lid on (something)__ __1__ To keep the level of something from increasi
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ :two::hammer: _This is keeping myself above water._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
+__keep from (doing something)__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ Keep it a secret.  
 __keep mum__ To remain silent; to not say anything (e.g., about a secret).  
@@ -901,6 +903,7 @@ __keep up with (someone or something)__ :two::hammer:
 __keep your head above water__ To just be able to manage when you have financial difficulties.  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __kick ass__ :two: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
+__kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ :two: To start to have an effect or to happen.  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__  
