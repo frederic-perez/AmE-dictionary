@@ -358,7 +358,7 @@ class Checker(object):
         print(headword + ' ' + part_of_speech + FAIL \
             + ' <<< displaced part of speech found' + ENDC)
 
-    def check_entry(self, entry):
+    def check_entry(self, entry, do_check_parts_of_speech):
         """Looking and tallying mistakes in a particular entry of the dictionary"""
         if not valid_entry_ending(entry):
             self.treat_invalid_entry_ending(entry)
@@ -385,29 +385,30 @@ class Checker(object):
             self.treat_colon_underscore(entry)
         if entry.find(':shit:') > -1:
             self.treat_shit_tag(entry)
-        # if entry_has_tag_of_any_number(entry, 2, 9) and \
-        #   entry_misses_part_of_speech(entry):
-        if entry_misses_part_of_speech(entry):
-            tokens = entry.split()
-            do_print = False
-            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            self.treat_missing_part_of_speech(headword, part_of_speech)
-        if entry_has_displaced_part_of_speech(entry):
-            tokens = entry.split()
-            do_print = False
-            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            self.treat_displaced_part_of_speech(headword, part_of_speech)
-        if entry_has_tag_of_any_number(entry, 3, 9):
-            tokens = entry.split()
-            do_print = False # True
-            headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
-            if part_of_speech.find('_') == -1:
-                self.num_wrong_part_of_speech += 1
-                print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
-                    + ' <<< Wrong part of speech #' \
-                    + str(self.num_wrong_part_of_speech))
+        if do_check_parts_of_speech:
+            # if entry_has_tag_of_any_number(entry, 2, 9) and \
+            #   entry_misses_part_of_speech(entry):
+            if entry_misses_part_of_speech(entry):
+                tokens = entry.split()
+                do_print = False
+                headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+                self.treat_missing_part_of_speech(headword, part_of_speech)
+            if entry_has_displaced_part_of_speech(entry):
+                tokens = entry.split()
+                do_print = False
+                headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+                self.treat_displaced_part_of_speech(headword, part_of_speech)
+            if entry_has_tag_of_any_number(entry, 3, 9):
+                tokens = entry.split()
+                do_print = False # True
+                headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
+                if part_of_speech.find('_') == -1:
+                    self.num_wrong_part_of_speech += 1
+                    print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
+                        + ' <<< Wrong part of speech #' \
+                        + str(self.num_wrong_part_of_speech))
 
-    def check_entries(self):
+    def check_entries(self, do_check_parts_of_speech):
         """Looking for mistakes in the entries of the dictionary
 
         Reads the contents of self.dictionary checking every single entry
@@ -416,7 +417,7 @@ class Checker(object):
 
         for line in input_file:
             entry = line.replace('\n', '')
-            self.check_entry(entry)
+            self.check_entry(entry, do_check_parts_of_speech)
 
         input_file.close()
         succeeded = bool(self.num_displaced_part_of_speech \
@@ -571,9 +572,11 @@ def format_to_print(entry):
     return CYAN + BOLD + clean_headword + ' ' \
         + ENDC + CYAN + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
 
-def check(filename):
+def check(arg, do_check_parts_of_speech):
+    filename = '../data/' + arg + ".md"
+    print(OKBLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + ENDC)
     checker = Checker(filename)
-    checker.check_entries()
+    checker.check_entries(do_check_parts_of_speech)
     checker.check_duplicated_headwords()
     checker.check_undef_high_freq_keywords()
 
@@ -601,8 +604,8 @@ def main(progname, argv):
         print(OKBLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + ENDC)
 
     for arg in argv:
-        currentFile = '../data/' + arg + ".md"
-        check(currentFile)
+        do_check_parts_of_speech = arg != 'idioms'
+        check(arg, do_check_parts_of_speech)
 
 if __name__ == '__main__':
     main(sys.argv[0], sys.argv[1:])
