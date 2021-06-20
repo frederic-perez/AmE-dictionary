@@ -1,15 +1,3 @@
-__per se__  
-__conceited__ _adj_  
-__excoriate__ _v_  
-__stippled finish__ _n_ A dotted or a pebbly-textured finish on a surface coat of paint, plaster, porcelain enamel, etc.; produced by striking the unhardened coat with the bristles of a stippling brush.  
-__chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
-__gadfly__ _n_ __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
-__slyboots__ _n_ A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
-__heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
-__perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
-__thwack__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable to fix it, Dad thwacked the engine, and it started right up._  
-__shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
-__saboteur__ _n_  
 __unrecognizable__ _adj_  
 __separate__ _adj_  
 __defer__ _v_ (deferred) To delay or cause to be delayed until a future time; postpone.  

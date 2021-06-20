@@ -2419,6 +2419,7 @@ __churn__ _v_
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
+__chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
 __Ciceronian__ _adj_  
 __CID__  
@@ -2772,7 +2773,7 @@ __Concacaf__
 __conceded__ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_ :two::hammer:  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
-__conceited__ _adj_ :two: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
+__conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
 __concern__ _v_ :two::hammer: (concerned)  
 __concerted__  
@@ -4625,7 +4626,7 @@ __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an e
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
 __excommunicate__ _v_  
 __excommunication__  
-__excoriate__ _v_ :four::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
+__excoriate__ _v_ :five::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
 __excoriation__  
 __excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
 __excruciate__  
@@ -5528,7 +5529,7 @@ __gable__ _n_
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ :mega:  
 __gadabout__ _n_ A person who goes from place to place in social activity.  
-__gadfly__  
+__gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
 __gaffe__ _n_ :four::hammer: (gaffes)  
 __gaffer__ _n_ _Br_ :two: Boss.  
@@ -6423,6 +6424,7 @@ __heirloom__ _n_ :five::hammer: _Family heirlooms._
 __heisenbug__ _n_  
 __heist capers__  
 __heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
+__heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
@@ -9758,7 +9760,7 @@ __peppermint__
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
 __per diem__  
-__per se__ _adv_ :mega: /pər sā′, sē′/  
+__per se__ _adv_ :two::mega: /pər sā′, sē′/  
 __percentile__ _n_ :mega:  
 __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._  
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
@@ -9768,6 +9770,7 @@ __perdure__ _v_ _formal_ To last permanently; endure.
 __peremptory__ _adj_ :three::hammer:  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
+__perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
 __perfidious__  
 __perfidy__  
 __performance__ _n_ _It denigrates your performance considerably._  
@@ -11506,6 +11509,7 @@ __s/s__ _abbr_ Stainless steel. _s/s appliances._
 __s&h__ _abbr_ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
 __S&L__ _abbr_ _An S&L swinger._  
 __sabotage__ _n_  
+__saboteur__ _n_  
 __sac-a-lait__  
 __saccharin__ _n_ :pencil2:  
 __saccular__ _adj_  
@@ -12046,6 +12050,7 @@ __shirk<sup>1</sup>__ _n_
 __shirk<sup>2</sup>__ _v_ :four::dart: (shirking) To avoid work or duty.  
 __shirttail__ _n_  
 __shirttail<sup>1</sup>__ _n_ __1__ The part of a shirt reaching below the waist, especially in the back. __2__ A brief item added at the end of a newspaper article. __3__ Something small or unimportant.  
+__shirttail<sup>2</sup>__ _adj_ __1__ Very young or immature. __2__ Very small or trivial. __3__ Distantly related.  
 __shit list__ _n phr_ One’s fancied or real list of persons who are hated, not trusterd, to be avoided, etc.  
 __shit-canning__  
 __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
@@ -12450,7 +12455,7 @@ __slurp__ _v_ :four::hammer: _Whitey sucked his soda through a straw until it sl
 __slush__ _n_ :six::hammer: _The offshore ice and slush._  
 __slushy__  
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
-__slyboots__ _n_ _informal_ A sly person.  
+__slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
 __slyly__ _adv_ :astonished: _She smiled slyly._  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
@@ -13106,6 +13111,7 @@ __stinker__
 __stinkers__ _n_  
 __stintful__  
 __stipend__ _n_ :seven::hammer: (stipends)  
+__stippled finish__ _n_ A dotted or a pebbly-textured finish on a surface coat of paint, plaster, porcelain enamel, etc.; produced by striking the unhardened coat with the bristles of a stippling brush.  
 __stipulate__ _v_ :two::hammer:  
 __stipulation__ _n_ :two::hammer:  
 __stir up a hornet’s nest__ _fig_ To create a lot of trouble.  
@@ -13870,7 +13876,7 @@ __thunked__ _v_
 __Thursday__ _n_ :mega: /’θøzdi, -deI/  
 __thusly__  
 __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)  
-__thwack<sup>2</sup>__ _v_  
+__thwack<sup>2</sup>__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable to fix it, Dad thwacked the engine, and it started right up._  
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
