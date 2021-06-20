@@ -7306,7 +7306,6 @@ __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are 
 __Jewry__  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
-__jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
@@ -7322,21 +7321,20 @@ __jinks__
 __jinx<sup>1</sup>__ _v_ :two::hammer:  
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
-__jittery__ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
+__jittery__ _adj_ _Symptoms of low blood sugar may include fast heart beat, sweating, and feeling jittery._  
 __jive<sup>1</sup>__ _v_ :two::hammer: (jiving) _I know when you’re shuckin’ and jivin’ me._  
 __jive<sup>2</sup>__ _n_ :two::astonished::hammer: _This guy is jive._ _You can dance, you can jive, having the time of your life—ABBA’s Dancing Queen lyrics._  
 __job opening__  
 __jobbing__ _v_  
-__jobless coverage__ _Jobless coverage expired for 2 million people._  
+__jobless coverage__ _n_ _Jobless coverage expired for 2 million people._ :es: cobertura de desempleo  
 __jock__ _n informal_ :five: An athlete. _You act like I got jock odor or something._  
 __jockey__ _v_ :two::hammer: (jockeying) _Fierce political jokeying._  
-__Jockeys__ _You’ve probably got him spotting his Jockeys._  
 __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athletes, to support the genitals. _Syn_ athletic support  
 __jocular__  
-__jody__ _He often complained about his wife’s jody._  
+__jody__ _n_ _He often complained about his wife’s jody._  
 __John Doe__  
 __Johnnie-come-lately__ _n idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
-__johnnies__ _Actual voters, not just financiers and think-tank johnnies._  
+__johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
 __joint__ _n_ A prison, a jail.  
 __joists__  
 __jokesmith__  
@@ -7361,17 +7359,16 @@ __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards th
 __joyride__ _n_  
 __jubilation__ _n_  
 __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.  
-__judgment__ _n_ :two::pencil2::hammer:  
-__judgmental__ :pencil2:  
-__judgments__ _Legal judgments._  
+__judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
+__judgmental__ _adj_ :pencil2:  
 __judicious__ _adj_ _Judicious improvements._  
 __jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
-__juice boxes__ :camera:  
+__juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ _adj_ :two::hammer:  
 __jujitsu__ _n_  
-__juke__ _I was looking in my mirror and saw him juke to the right._  
+__juke__ _n_ _I was looking in my mirror and saw him juke to the right._  
 __julep__ _n_ :three::hammer: (juleps)  
 __Juliette balcony__  
 __jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
