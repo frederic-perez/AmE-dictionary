@@ -57,7 +57,7 @@ __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, d
 __blitz<sup>1</sup>__ _n_ [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz.  
 __blitz<sup>2</sup>__ _v tr_ To attack, destroy, conquer, etc.  
 __fealty__ _n_  
-__lackadaisical__ _adj_ /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
+__lackadaisical__ _adj_ :two: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
 __cerulean__ _adj_  
 __fiddlesticks__ _interj_ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __schwa__ _n_ The mid-central, neutral vowel sound typically occurring in unstressed syllables in English, however spelled, as the sound of a in alone and sofa.  
@@ -71,3 +71,14 @@ __bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant,
 __subdue__ _v_ __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._  
 __Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
+__abscond__ _v_ To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
+__aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
+__byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
+__proboscis__ _n_  
+__acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
+__last__ _n_ :astonished: __2__ A form (as of metal or plastic) which is shaped like the human foot and over which a shoe is shaped or repaired.  
+__obnubilate__ _v_  
+__machinate__ _v_  
+__thrawn__ _adj_  
+__canary__ _n_ From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._  
+__dross__ _n_ __1__ _metallurgy_ The scum or unwanted material that forms on the surface of molten metal. __2__ Waste or foreign matter. _Syn_ impurity __3__ Something that is base, trivial, or inferior. _There is quite a lot of dross on TV these days._  
