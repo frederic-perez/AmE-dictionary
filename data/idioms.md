@@ -854,6 +854,7 @@ __it figures__ :three: It makes sense; it is as I expected or might have guessed
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it takes two to tango__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
+__it’s a dog’s life__ _idiom_ :dart::astonished:  
 __it’s all good__ A phrase used to express general approval, unconcern, or disinterest.  
 __it’s one of those things__  
 __Jane Doe__ An unidentified woman.  

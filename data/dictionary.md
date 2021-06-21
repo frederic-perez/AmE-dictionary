@@ -7178,7 +7178,7 @@ __intuit__ _v_ :four: To know or understand by intuition.
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
-__invariably__ _You’ll invariably notice it._  
+__invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
@@ -7186,7 +7186,7 @@ __inveterate__ _adj_ :four: Always doing a particular thing, especially somethin
 __invoice__ _v_  
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
-__IP__ Intelectual property.  
+__IP__ _abbr_ Intelectual property.  
 __ipso facto__ _adv_  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
@@ -7218,7 +7218,6 @@ __IT Band__
 __it dawned on someone__  
 __it so happens__  
 __it takes a village__ _prov_ :two: Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
-__it’s a dog’s life__ :dart::astonished:  
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
@@ -7232,18 +7231,18 @@ __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declama
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
 __jabroni__ _n_  
 __jack it up__ _v_  
-__Jack the Ripper__ _She was a fucking stripper, a Jack the Ripper as the slang went._  
+__Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o’-lantern__  
 __jackass__ _n_  
 __jackhammer__  
 __jackpot__  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
-__Jag__ Jaguar (car)  
+__Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
 __jagged__ _adj_ :two::hammer:  
 __jagging__  
 __jai-alai__ _n_ A Basque or Spanish game played in a court with a ball and a wickerwork racket. _A jai alai game._  
-__jailbait__ A girl who is younger than the legal age of consent for sexual activity.  
+__jailbait__ _n_ _slang_ A girl who is younger than the legal age of consent for sexual activity.  
 __jakelegs__  
 __jakes__ _n_ _The flattery was seldom more than sheep jakes._  
 __jalopy__ _n informal_ A dilapidated old vehicle or aircraft. Old car.  
@@ -7255,7 +7254,7 @@ __jamboree__ _n_ :four::hammer: _A campfire jamboree._
 __jammies__ _n_  
 __jampacked__ _v_  
 __jams__ _n_  
-__Janes and Joes__ :pencil2: _Regular Janes and Joes._  
+__Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._  
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __janitor__ _n_  
 __jape__ _v_  
@@ -7278,7 +7277,7 @@ __jeered__ _v_ :four::hammer: (jeering)
 __jeez__ _interj_ Used to express surprise or annoyance.  
 __Jehova’s Witness__  
 __jejune__  
-__jell__ _The plans didn’t jell._  
+__jell__ _v_ _The plans didn’t jell._  
 __jelly doughnuts__  
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
@@ -7292,7 +7291,6 @@ __jerk__ _n_ _slang_ :two: Mean or unlikeable person.
 __jerkin__ _n_ (jerkins) A close-fitting jacket or short coat, usu. sleeveless, often of leather. _Leather jerkins._  
 __jerry__  
 __jerrycan__ _n_ :camera: (jerry can, jerrican) A flat-sided can with a capacity of between 4.5 and 5 gallons used for storing or transporting liquids, esp motor fuel: originally a German design adopted by the British Army during World War II.  
-__jersey snagging__ _football_  
 __jest__  
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
@@ -7300,7 +7298,7 @@ __jetliners__
 __jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
 __jetty<sup>1</sup>__ _n_ :two::hammer:  
 __jetty<sup>2</sup>__ _adj_  
-__jewelery__ (jewelry)  
+__jewelry__ _n_ (jewellery)  
 __Jewess__  
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
