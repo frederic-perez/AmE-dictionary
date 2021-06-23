@@ -6964,10 +6964,10 @@ __in the water__ _There’s nothing in the water here._
 __in the works__ _We’ve got a couple life tapings in the works._  
 __in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
 __in__ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
-__in-depth__ _He will conduct an in-depth review._  
+__in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
 __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
-__in-laws__ _A room for the in-laws._  
-__in-your-face__ _An in-your-face farewell._  
+__in-law__ _n_ (in-laws) _A room for the in-laws._  
+__in-your-face__ _adj_ _An in-your-face farewell._  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
@@ -6975,8 +6975,8 @@ __inane__ _adj_ :eight::mega: Empty, pointless, lacking sense, complacently fool
 __inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_ :two: Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
-__inappropriate__ _What the heck is that? Inappropriate toys!_  
-__inarguably__ :pencil2:  
+__inappropriate__ _adj_ _What the heck is that? Inappropriate toys!_  
+__inarguably__ _adv_ :pencil2:  
 __inarticulate__ _adj_ :five::hammer: _Inarticulate people._ :es: incapaz de expresarse  
 __inasmuch__  
 __inaugural__  
@@ -6993,8 +6993,10 @@ __incessantly__ _adv_ :two::hammer:
 __inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
 __inchoate__  
 __inchworm__ _n_  
-__incident__ _A stroke incident to pancreatic cancer._  
-__incidental__ _Incidental extracardiac findings._  
+__incident<sup>1</sup>__ _n_  
+__incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
+__incidental<sup>1</sup>__ _adj_  
+__incidental<sup>2</sup>__ _n_  
 __incidentally__ _adv_ :six::hammer:  
 __incipient__ _adj_ _An incipient building._  
 __inclined__ _adj_  
@@ -7006,7 +7008,7 @@ __inconsequential__ _adj_ :two: Lacking worth or importance. _His work seems tri
 __inconspicuous__  
 __incontrovertible__ _adj_ :two: Not open to question. _Syn_ indisputable  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
-__incrementally__ _Make it incrementally better._  
+__incrementally__ _adv_ _Make it incrementally better._  
 __incriminate__ _v_ Suggest that someone is guilty. _Syn_ inculpate, imply _Every paper which would incriminate him was destroyed before he left the house._  
 __incubus__  
 __inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
@@ -7023,7 +7025,7 @@ __indentured__
 __index card__ _n_  
 __indict__ _v_ :six::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
-__indigenous__ _Indigenous people._  
+__indigenous__ _adj_ _Indigenous people._  
 __indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
 __indiscreet__  
 __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a terrible headache and a sense of some hideous indiscretion._  
@@ -7045,7 +7047,7 @@ __ineffectual__
 __inefficacious__ _adj_  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
-__inert__ _Helium is inert._  
+__inert__ _adj_ _Helium is inert._  
 __inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
