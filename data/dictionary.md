@@ -5221,6 +5221,7 @@ __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and p
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
+__fold__ _n_ _It brought many viewers into the fold._  
 __fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
@@ -6638,7 +6639,8 @@ __honeysuckle__
 __Hong Kong__ _“Fragrant harbor” is the literal translation of Hong Kong._  
 __honk__ _n_  
 __honky tonk__ _n_  
-__honor__ _v_ :two::hammer::mute:[~~h~~onor]  
+__honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred with honors._  
+__honor<sup>2</sup>__ _v_ :two::hammer::mute:[~~h~~onor]  
 __honorary__ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
@@ -7052,13 +7054,12 @@ __infant__ _n_
 __infare__ _n_  
 __infeasible__ _adj_ _Syn_ unfeasible  
 __infectivity__ _n_  
-__inferno__ _All kinds of Indian infernos._  
+__inferno__ _n_ _All kinds of Indian infernos._  
 __infidel__ _n_  
 __infighting__ _n_ :two::hammer:  
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
-__infinity pool__ :camera:  
-__infinity-edge__ _An infinity-edge swimming pool._  
+__infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
@@ -7087,7 +7088,7 @@ __iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness,
 __initiative__  
 __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
-__injury-marred__ _Federer had an injury-marred season._  
+__injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
 __inkling__ _n_ :six::hammer:  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
@@ -7107,7 +7108,7 @@ __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpat
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
 __inquisitiveness__  
-__INRI__ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
+__INRI__ _abbr_ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __inroad__ _n_  
 __inroads__ _n_ :four::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
@@ -7132,10 +7133,10 @@ __instill__ _v_ :seven::hammer: (_BrE_ instil; instilled) _She instilled an endu
 __institute__ _v_  
 __institutionalize__ _v_ :two::hammer:  
 __instrumental__  
-__insular__ _His small, insular group of loyalists._  
+__insular__ _adj_ _His small, insular group of loyalists._  
 __insulation__ _n_ :four::hammer:  
 __insure__ _v_ :two::hammer:  
-__insurmountable__ _Alabama built an insurmountable 21-3 halftime lead._  
+__insurmountable__ _adj_ _Alabama built an insurmountable 21-3 halftime lead._  
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
@@ -7158,15 +7159,13 @@ __international friendly__
 __internecine__ _adj_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
-__interred wih honors__ _The magazine saw seven issues and then was interred with honors._  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :seven::hammer: (interspersed)  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
-__intimation__ Making known indirectly.  
-__into the fold__ _It brought many viewers into the fold._  
+__intimation__ _n_ Making known indirectly.  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
