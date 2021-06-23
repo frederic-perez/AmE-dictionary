@@ -1,15 +1,3 @@
-__panacea__ _n_ [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
-__tuffet__ _n_ __1__ A clump or tuft of grass. __2__ A low seat, such as a stool.  
-__landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
-__anathema__ _n_ A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
-__Humpty Dumpty__ _n_ [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
-__utmost<sup>1</<sup>__ _adj_  
-__utmost<sup>2</<sup>__ _n_  
-__upmost__ _adj_ Uppermost.  
-__ouster__ _n_  
-__bald-faced__ _adj_  
-__bold-faced__ _adj_  
-__exhilarate__ _v_ /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated.  
 __sleeveless__ _adj_ :astonished::mega: /ˈslivlɪs, SLEEV-luhs/lis/ __1__ Unprofitable; futile; unreasonable; irrelevant. What does a sleeve have to do with profit? In former times, a lady would give her detachable sleeve to a knight as a symbol of love and he would wear it as he went around in his adventures. A knight without a sleeve was, well, sleeveless. _A sleeveless errand._ __2__ Without sleeves.  
 __flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clouds, scatterbrained _The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters._  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  

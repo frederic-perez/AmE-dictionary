@@ -398,7 +398,7 @@ __anachronism__
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analyst__ :pencil2:  
-__anathema__ _n_ :nine: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.  
+__anathema__ _n_ :nine::m: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary__ _adj_ _Ancillary study end points._  
@@ -837,6 +837,7 @@ __baked__ _adj_ _Kevin is baked._
 __baker’s dozen__  
 __bakeware__ _n_ (Cookery) Dishes and other cooking utensils used for baking.  
 __baking soda__ _n_ Sodium bicarbonate.  
+__bald-faced__ _adj_  
 __balderdash__  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
@@ -1411,6 +1412,7 @@ __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.
 __boilerplate__ _n_ :four::hammer:  
 __boilers__  
 __boisterous__ _adj_ :two::hammer:  
+__bold-faced__ _adj_  
 __boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
@@ -4649,7 +4651,7 @@ __exertion__ _n_ :six::hammer: _Her face was bright with exertion._
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
-__exhilarate__ _v_ :two::mute:[ex~~h~~ilarate] Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
+__exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
 __exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhilaration__ _n_  
@@ -6772,8 +6774,7 @@ __hummus__ _n_ :mega:
 __humor__ _v_ :four::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
-__humpty dumpty__ _n_ :three::hammer:  
-__humpty-dumpty__  
+__Humpty Dumpty__ _n_ :five: (humpty dumpty, humpty-dumpty) [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
 __Humvee__ _n_ :two::hammer:  
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
@@ -7623,6 +7624,7 @@ __lancing irons__
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
+__landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
@@ -9309,7 +9311,7 @@ __ottoman__
 __ouboros__ _n_  
 __Ouija board__ _n_ :astonished: [:scroll: from French _oui_ yes + German _ja_ yes] _We were doing Ouija board and I asked what I was going to be._  
 __ounce__  
-__ouster__ _n_  
+__ouster__ _n_ :two::hammer:  
 __out of hand__  
 __out of order__  
 __out of question__ _phr_ (prepositional phrase) Unquestionably.  
@@ -9509,7 +9511,7 @@ __pamphlet__ _n_
 __pampling__  
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
-__panaceas__ _n_  
+__panacea__ _n_ :two: (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
 __panache__ _n_ :five: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
@@ -14289,7 +14291,7 @@ __tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular
 __tuck<sup>2</sup>__ _n_  
 __Tudor__  
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
-__tuffet__ _n_ A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
+__tuffet__ _n_ :two: __1__ A clump or tuft of grass. __2__ A low seat, such as a stool. A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
 __tufted__  
 __tug of war__ _n_ :four::hammer:  
 __tuition__ _n_ :two::hammer: _The tuition for the workshops is on a sliding scale._  
@@ -14585,6 +14587,7 @@ __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or su
 __upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __uplifting__ _adj_  
 __upmarket__  
+__upmost__ _adj_ Uppermost.  
 __upped__ _v_  
 __upper crust__ _n_ _informal_ The highest social class or group.  
 __upper__ _n_ (uppers)  
@@ -14636,7 +14639,8 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost__ _adj_ :five::hammer:  
+__utmost<sup>1</<sup>__ _adj_ :six:hammer:  
+__utmost<sup>2</<sup>__ _n_  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
 __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or devoted to one’s wife; showing too much love for your wife: _The most openly uxorious husband is almost always the one who is having an affair._  
