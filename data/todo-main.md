@@ -1,15 +1,3 @@
-__unrecognizable__ _adj_  
-__separate__ _adj_  
-__defer__ _v_ (deferred) To delay or cause to be delayed until a future time; postpone.  
-__embolic__ _adj_ __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
-__delicate__ _adj_  
-__wildfire__ _n_ :pencil2:  
-__trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
-__commonality__ _n_ (commonalities)  
-__trounce__ _v_  
-__drafter__ _n_  
-__Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
-__enjoin__ _v tr_ __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
 __panacea__ _n_ [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
 __tuffet__ _n_ __1__ A clump or tuft of grass. __2__ A low seat, such as a stool.  
 __landlubber__ _n_ A person unfamiliar with the sea or seamanship.  

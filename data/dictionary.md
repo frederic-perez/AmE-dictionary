@@ -2722,6 +2722,7 @@ __commode__
 __commodious__  
 __commoditization__  
 __common__ _adj_ :mega: (kŏm′ən)  
+__commonality__ _n_ (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __Commonwealth__  
 __commotion__ _n_  
@@ -3490,7 +3491,7 @@ __defection__ _n_ :seven: Withdrawing support or help despite allegiance or resp
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
-__defer__ _v_ :five::hammer:  
+__defer__ _v_ :six: (deferred) To delay or cause to be delayed until a future time; postpone.  
 __deference__ _n_ :five::hammer:  
 __deferential__  
 __deferentially__  
@@ -3528,6 +3529,7 @@ __delegatable__ _Non-delegatable actions._
 __deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
+__delicate__ _adj_  
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
@@ -4037,6 +4039,7 @@ __drab<sup>2</sup>__ _n_
 __Draconian__ _adj_  
 __draconian__ _adj_ :three: Extremely strict and severe.  
 __draft__ _v_ :two::hammer: _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
+__drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
 __drag racing__  
@@ -4387,6 +4390,7 @@ __embitterment__
 __embodiment__  
 __embody__ _v_  
 __embolden__ _v_ :two::hammer:  
+__embolic__ _adj_ __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
@@ -4463,7 +4467,7 @@ __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention.
 __engulf__ _v_  
 __enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
 __enjambments__  
-__enjoin__ _v_ (enjoined)  
+__enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
 __enliven__ _v_  
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
@@ -8648,6 +8652,7 @@ __mote__ _n_ :two::hammer: (motes) _A dust mote._
 __moth__ _n_ :two::hammer:  
 __mothball__ _v_ :six:hammer: (mothballed) _The reactor was shut down in 1976, and it was mothballed in 1978._  
 __mother hen__  
+__Mother Hubbard__ _n_ [:scroll: After Mother Hubbard, a character in the nursery rhyme “Old Mother Hubbard”.] A loose shapeless dress for a woman.  
 __mother-of-pearl__ _n_ :es: nácar _Mother-of-pearl inlays._  
 __motifs__ _n_  
 __motion sickness__ _n_ :dart: Nausea and dizziness induced by motion, as in travel by aircraft, car, or ship. _For one grandson prone to motion sickness, I took some meclizine as well._  
@@ -11887,6 +11892,7 @@ __sentience__
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
+__separate__ _adj_  
 __seppuku__ _n_  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_  
@@ -14119,6 +14125,7 @@ __traffickers__
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
+__trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
 __trailing plants__  
 __trails__ _n_  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
@@ -14241,7 +14248,7 @@ __trot__
 __troubleshoot__ _v_ :three::hammer:  
 __troubleshooter__  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
-__trounce__ _v_ :five::hammer: (trounces, trounced) _Drama trounces trauma!_  
+__trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  
@@ -14510,6 +14517,7 @@ __unravel__
 __unraveling__  
 __unreal__  
 __unreasonable__ _adj_  
+__unrecognizable__ _adj_  
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :three::hammer:  
@@ -15173,6 +15181,7 @@ __wigglers__
 __wild card__ _n_ :two::hammer: (wildcard) _The wild card was an expected weekend warmup with rain._  
 __wild__ _adj_ :seven::hammer: _It’s wild!_  
 __wilderness__ _n_ :two::hammer:  
+__wildfire__ _n_ :pencil2:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
 __wildness__  
 __wilful__  
