@@ -5227,7 +5227,7 @@ __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and p
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
-__fold__ _n_ _It brought many viewers into the fold._  
+__fold__ _n_ :two::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._  
 __fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
 __fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _Foldaway cot._  
@@ -6951,20 +6951,11 @@ __in a nutshell__
 __in abeyance__  
 __in all likelihood__  
 __in cahoots__  
-__in check__ _Keep those emotions in check._  
-__in droves__ _They will come in droves._  
 __in fold__  
 __in its own right__ _adv_ :three::hammer: (in my own right)  
 __in so far as__ _adv_ :two: (insofar as) To the degree or extent that.  
-__in the fold__ _They kept the devious students in the fold._  
-__in the least__ _Apparently you didn’t understand me in the least._  
 __in the long run__  
-__in the lurch__ _The TV series was left in the lurch._  
-__in the nude__ _Sleeping in the nude._  
-__in the water__ _There’s nothing in the water here._  
-__in the works__ _We’ve got a couple life tapings in the works._  
-__in their own right__ _Children finding the (discarded) needles can be sickening in their own right._  
-__in__ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
+__in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesday._ _They arrived in Philadelphia._ _The man in the street._ _She said it in a letter to lawmakers._ _The pain in my lower back was the worst._ _Both teams are tied for first place in the NFC South._ _Jubilo scored in injury time_ _It was Lucas Mann, in aviator sunglasses._ _The ball is in their court._  
 __in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
 __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  

@@ -772,7 +772,7 @@ __if you will__ :four: If you wish to call it that. _A kind of preoccupation, or
 __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back in my day, the only thing we had to do for fun was stickball, and we were grateful for it!_  
 __in (one’s) dotage__ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
-__in (one’s) own right__ Through the force of one’s own skills or qualifications.  
+__in (one’s) own right__ :two: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._  
 __in (or out of) someone’s hair__ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
 __in (someone’s) wheelhouse__ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
@@ -789,9 +789,11 @@ __in all truthfulness__ In one’s sincere opinion; without any disingenuousness
 __in and of itself__ Considering it alone.  
 __in any event__ :two: In any case: _In any event, the audience seemed pleased with your performance._  
 __in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
+__in check__ Under control; contained or restrained. _Keep those emotions in check._  
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
+__in droves__ In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._  
 __in excess of__ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
@@ -828,9 +830,12 @@ __in the eye of (something)__ At, in, or amidst the central or focal point of so
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
+__in the least__ _Apparently you didn’t understand me in the least._  
+__in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the midst of (something)__  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
+__in the nude__ _Sleeping in the nude._  
 __in the offing__ :dart::two: __1__ In the near or immediate future; soon to come: _with exams finished and graduation in the offing._ _A budding rivalry could be in the offing._ __2__ Nearby; at hand.  
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
@@ -840,6 +845,7 @@ __in the unlikely event (that) (something) happens__ If a very improbable outcom
 __in the view of (someone)__ In someone’s or some group’s opinion.  
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
+__in the works__ In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
