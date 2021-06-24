@@ -1091,7 +1091,7 @@ __bellows__ _n_ :two: A mechanical device that blows a strong current of air; us
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
 __bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
-__belly flop__ _n informal_ :dart::two: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
+__belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
 __belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
@@ -1864,7 +1864,8 @@ __butting__ _v_
 __buttinski__  
 __button man__  
 __button up__ _v_  
-__button-down__ _She was wearing faded jeans and a button-down._  
+__button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
+__button-down<sup>2</sup>__ _n_ A shirt with a button-down collar. _She was wearing faded jeans and a button-down._  
 __buttress__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
 __butyraceous__ _adj_ Of, containing, or resembling butter.  
@@ -2002,7 +2003,7 @@ __canapé__ _n_
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
-__candor__ _n_  
+__candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __cane brakes__  
 __canebrake__ _n_  
@@ -3063,6 +3064,7 @@ __cozen__ _v_ :two::hammer: (cozened)
 __cozy__  
 __CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
+__crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
@@ -5215,6 +5217,7 @@ __flutter<sup>2</sup>__ _n_
 __fluttering__ _n_  
 __fly high__  
 __fly-by-night__  
+__flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clouds, scatterbrained _The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters._  
 __flyboard__  
 __flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
@@ -9760,6 +9763,7 @@ __perch<sup>1</sup>__ _n_ :two::hammer: _His perch for 14 years._
 __perch<sup>2</sup>__ _v_ :six::hammer: (perched) _The sunglasses were perched on the top of her head._  
 __percolate__ _v_  
 __percolator__ _n_  
+__percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
 __perdure__ _v_ _formal_ To last permanently; endure.  
 __peremptory__ _adj_ :three::hammer:  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
@@ -10838,7 +10842,7 @@ __rank<sup>2</sup>__ _v_
 __ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
 __rankle__ _v_ :four: (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
 __ransack__ _v_ :five::hammer: (ransacked)  
-__ransomware__  
+__ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
 __rap sheet__ _n_ _slang_ :three: A record kept by law-enforcement authorities of a person’s arrests and convictions.  
@@ -11267,7 +11271,7 @@ __rigging__ _v_ _There were revelations of widespread exam rigging against women
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
-__rigmarole__ _n_ :three::hammer: _Rigmarole controls._  
+__rigmarole__ _n_ :four: __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
 __rigorous__ _adj_ :dart:  
 __rigors__ _n_  
@@ -11861,6 +11865,7 @@ __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with 
 __self-serving__ _adj_  
 __self-steem__  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
+__self-worth__ _n_ Self-esteem; self-respect.  
 __selfless__  
 __selfsame__  
 __sell short__  
@@ -12360,6 +12365,7 @@ __sleepsuit__ _n_
 __sleepwalking__  
 __sleepwear__ _n_ :two: (vs sportswear, etc.) Clothes worn for sleeping in.  
 __sleety__  
+__sleeveless__ _adj_ :astonished::mega: /ˈslivlɪs, SLEEV-luhs/lis/ __1__ Unprofitable; futile; unreasonable; irrelevant. What does a sleeve have to do with profit? In former times, a lady would give her detachable sleeve to a knight as a symbol of love and he would wear it as he went around in his adventures. A knight without a sleeve was, well, sleeveless. _A sleeveless errand._ __2__ Without sleeves.  
 __sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only through his unequaled sleight can the juggler manage to keep eight chainsaws safely aloft._  
 __slender__  
 __sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._  
@@ -14727,6 +14733,7 @@ __ventilator__ _n_ :two::pencil2: _med_ A machine that helps a patient breathe. 
 __venture__ _n_  
 __venue__ _n_ :two::hammer: _What’s the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
+__veracity__ _n_  
 __veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
 __verbally__  
 __verbatim__  
