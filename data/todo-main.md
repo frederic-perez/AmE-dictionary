@@ -1,15 +1,3 @@
-__glean__ _v_ __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
-__peach<sup>1</sup>__ _n_  
-__peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
-__peach<sup>3</sup>__ _v tr_ :astonished: To inform against: _“He has peached me and all the others, to save his life” (Daniel Defoe)._  
-__there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
-__jackrabbit__ _n_  
-__bookmobile__ _n_ A truck, trailer, or van equipped to serve as a mobile lending library.  
-__twister__ _n_ __3__ _informal_ A tornado or cyclone.  
-__naysayer__ _n_  
-__copious__ _adj_ Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
-__Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
-__sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
 __golden parachute__ _n_ An agreement to pay generous compensation to a company executive if dismissed. From the idea of a parachute softening the blow of an ejection from a high office and the color golden alluding to the large payment received on dismissal.  
 __periodical cicada__ _n_ Seventeen-year locust.  
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  

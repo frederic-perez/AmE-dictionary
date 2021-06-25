@@ -1470,7 +1470,7 @@ __bookish__
 __booklore__ _n_ Any knowledge or belief gained from books.  
 __bookmaker__ _n_  
 __bookmarker__ _n_  
-__bookmobile__  
+__bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile lending library.  
 __bookplate__  
 __bookrunner__  
 __bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
@@ -2936,7 +2936,7 @@ __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you ever
 __copay__ _v_ (co-pay)  
 __COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
 __cope__ _A grey cope._  
-__copious__ _adj_ :two::hammer: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”]  
+__copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
@@ -5757,7 +5757,7 @@ __glass cliff__ The glass cliff is the supposed phenomenon of women in leadershi
 __glass slipper__ _(Cinderella)_  
 __glasses__ _n pl_ (plurale tantum)  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
-__glean__ _v_ :four::hammer: (gleaned, gleaning)  
+__glean__ _v_ :five: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
 __glimmer__ _A glimmer of hope._  
@@ -7235,6 +7235,7 @@ __jack-o’-lantern__
 __jackass__ _n_  
 __jackhammer__  
 __jackpot__  
+__jackrabbit__ _n_  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
@@ -8848,7 +8849,7 @@ __naughty__ _adj_ :dart::mute:[nau~~gh~~ty] __1__ Behaving disobediently or misc
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
-__naysayer__ _n_ :two::hammer:  
+__naysayer__ _n_ :three::hammer:  
 __NB__  
 __NCO__  
 __NDA__ _abbr_  
@@ -9671,6 +9672,9 @@ __PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen
 __PDA__ _abbr_ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
 __PE__ _abbr_ Physical education. _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
+__peach<sup>1</sup>__ _n_  
+__peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
+__peach<sup>3</sup>__ _v tr_ :astonished: To inform against: _“He has peached me and all the others, to save his life” (Daniel Defoe)._  
 __peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
 __peachy__ _adj_ _informal_ Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
 __peak__ _v_  
@@ -12225,6 +12229,7 @@ __Simon Says__ _n_ :two::hammer:
 __simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
+__Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
 __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
@@ -13352,6 +13357,7 @@ __sugary yogurt__
 __suicide vests__  
 __suit up__ _v_  
 __suitor__ _n_ :two::hammer: (suitors)  
+__sukey__ _n_ /SOO-kee/ [:scroll: After Suki, a girl in the nursery rhyme “Polly Put the Kettle On”. From _Sukey_, nickname for _Susanna_.] A tea-kettle.  
 __sulk<sup>1</sup>__ _n_ :two: A mood or display of sullen aloofness or withdrawal: _stayed home in a sulk; a case of the sulks._  
 __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of a wrong done to one, esp in order to gain sympathy; brood sullenly: _the child sulked in a corner after being slapped._  
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
@@ -14368,6 +14374,7 @@ __twinkle__
 __twinned towns__  
 __twirl__ _v_ _Goodman twirled is spectacles._  
 __twist__ _n_ _I’ll have my vodka martini with a twist of lemon._  
+__twister__ _n_ __3__ _informal_ A tornado or cyclone.  
 __twit__ _n_ _The damned last boy was a twit._  
 __twitch<sup>1</sup>__ _n_  
 __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched._  
