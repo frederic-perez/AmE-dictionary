@@ -6846,7 +6846,7 @@ __iatrogenic__ _adj_ :two: Induced unintentionally in a patient by a physician. 
 __Ibuprofen__  
 __ice cream cone__  
 __ice floe__ _n_ :three: A sheet of ice, of variable size, floating in the sea.  
-__ice house__ _Insulated ice houses._  
+__ice house__ _n_ _Insulated ice houses._  
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
@@ -6862,7 +6862,7 @@ __ID window__
 __id__ _n_  
 __ideation__ _n_  
 __ides__ _n_  
-__idiocracy__ _Frank is sick and tired of how America has become a state of idiocracy._  
+__idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no known cause.  
 __idiosyncratic__ _adj_ :two::hammer:  
@@ -6871,14 +6871,13 @@ __idle__ _v_
 __idolatry__ _n_ :two::hammer:  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __ie.__ _abbr_ That is to say.  
-__if nothing else__ _And if nothing else, Selig will be watching._  
 __iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__  
 __ignominy__ _n_  
-__IIRC__ If I recall correctly.  
+__IIRC__ _chat_ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
 __ill__  
 __illation__  
@@ -6891,19 +6890,19 @@ __imbalance__ _n_
 __imbed__ _v_ (imbedding) Less common spelling of _embed_.  
 __imbibe__ _v_ :three::hammer: (imbibing)  
 __imbroglio__  
-__imbrued__ _Imbrued ground._  
+__imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
 __immigrated__  
-__immigration__ :mega:  
+__immigration__ _n_ :mega: /ɪmɪˈɡreɪʃən/  
 __immobile__  
 __immodest__ _adj_  
 __immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
-__imp__ _Its imp genius._  
-__impact__ _Sterling struggled to make an impact in the second half._  
+__imp__ _n_ _Its imp genius._  
+__impact__ _n_ _Sterling struggled to make an impact in the second half._  
 __impairment__  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
 __impaneled__ _v_  
@@ -6931,7 +6930,7 @@ __impervious__ _adj_ :five::hammer:
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
-__impish__ _Impish sense of humor._  
+__impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
 __implausible__  
 __implement__ _n_ :two: A utensil or tool, especially one with a specific purpose.  
 __importune__ _v_ Beg persistently and urgently. _Syn_ insist  

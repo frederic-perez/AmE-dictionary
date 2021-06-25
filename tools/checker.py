@@ -163,6 +163,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_adj, n, v_', \
     '_adv_', \
     '_adv, conj, prep_', \
+    '_chat_', \
     '_conj_', \
     '_contraction_', \
     '_fig_', \
