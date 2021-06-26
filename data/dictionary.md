@@ -1313,8 +1313,8 @@ __blither__
 __blithering__  
 __blithesome__ _adj_  
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
-__blitz<sup>1</sup>__ _n informal_ :five: A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
-__blitz<sup>2</sup>__ _v_ :two::hammer: (blitzed, blitzing)  
+__blitz<sup>1</sup>__ _n_ :six: [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz. __3__ _informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
+__blitz<sup>2</sup>__ _v tr_ :three: (blitzed, blitzing) To attack, destroy, conquer, etc.  
 __blizzard__ _n_ :two::hammer:  
 __bloat__ _n_ A group of hippos.  
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
@@ -2660,7 +2660,7 @@ __collapsible__ _Collapsible shutters._
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
-__colleague__ _n_ :two::mega::mute:[colleag~~u~~e]  
+__colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
 __collect__ _v_ _Click and collect._  
 __collectible__ _n_  
 __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
@@ -4863,7 +4863,7 @@ __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-mon
 __fawn<sup>2</sup>__ _v_ :three: (fawning) Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish  
 __fawningly__  
 __faze__ _v_ :six::hammer: (fazed)  
-__fealty__ _n_ :two::hammer: :es: lealtad (feudal)  
+__fealty__ _n_ :three::hammer: :es: lealtad (feudal)  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearl__ _A fearl youngster._  
 __fearless__ _adj_  
@@ -5846,6 +5846,7 @@ __gold digger__ _n_ _informal_ A woman who has relationships with rich men so th
 __gold rush__  
 __gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
 __Golden Boot__ _The race for the Golden Boot._  
+__golden parachute__ _n_ An agreement to pay generous compensation to a company executive if dismissed. From the idea of a parachute softening the blow of an ejection from a high office and the color golden alluding to the large payment received on dismissal.  
 __golden rule__  
 __golden__ :astonished: Indicating the fiftieth event of a series.  
 __goldenrod__ _n_  
@@ -6840,7 +6841,6 @@ __hysterectomy__ _n_ Surgical removal of part or all of the uterus.
 __hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
-__IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __iatrogenic__ _adj_ :two: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
 __Ibuprofen__  
@@ -7185,6 +7185,7 @@ __inveterate__ _adj_ :four: Always doing a particular thing, especially somethin
 __invoice__ _v_  
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
+__IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
 __IP__ _abbr_ Intelectual property.  
 __ipso facto__ _adv_  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -7329,6 +7330,7 @@ __jock__ _n informal_ :five: An athlete. _You act like I got jock odor or someth
 __jockey__ _v_ :two::hammer: (jockeying) _Fierce political jokeying._  
 __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athletes, to support the genitals. _Syn_ athletic support  
 __jocular__  
+__jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
 __jody__ _n_ _He often complained about his wife’s jody._  
 __John Doe__  
 __Johnnie-come-lately__ _n idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
@@ -7574,7 +7576,7 @@ __laced__ _v_ _I have laced a few punters._
 __lacerate__ _v_  
 __lachrymose__ _adj_ :two::pencil2::hammer:  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
-__lackadaisical__ _adj_ :two::hammer:  
+__lackadaisical__ _adj_ :four: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_ :two: Using or marked by the use of few words; terse or concise.  
@@ -8369,6 +8371,7 @@ __memorandum__ _n_ :two::hammer:
 __memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __menagerie__ _n_ :two::hammer:  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman’s life.  
+__mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
 __menial__ _n_  
@@ -9782,6 +9785,7 @@ __peril__ _n_ :two::hammer: (perils)
 __perilous__ _adj_  
 __perimortem__ _adj_ At, or near, the time of death.  
 __perinatal__  
+__periodical cicada__ _n_ Seventeen-year locust.  
 __periodontal__ _adj_ _Periodontal health._  
 __periodontist__ _n_  
 __perioperative__ _adj_ Relating to, occurring in, or being the period around the time of a surgical operation, _Perioperative morbidity._  
@@ -9977,6 +9981,7 @@ __pipeline__
 __pipeyard__  
 __piping__ _n_ :two::camera: A narrow strip of cloth used to decorate the edges of clothes or furniture. _Uniform trousers with red piping._ _I saw a man in a pale blue suit with white piping on the lapels._  
 __pippin__  
+__piquant__ _adj_ Having an agreeably pungent taste. _Syn_ spicy, zesty _When I feel like spicing things up at dinner, I pour a little of this piquant dressing over my salad._  
 __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you think someone has insulted you or been rude to you.  
 __pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
@@ -10673,6 +10678,7 @@ __pyogenic__ _adj_ :pencil2: Producing pus.
 __pyranometer__ _n_ :four::hammer:  
 __pyres__ _n_  
 __pyrheliometer__ _n_ :two::hammer:  
+__pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
@@ -11934,6 +11940,7 @@ __settee__ _n_ _Shaving tackle on the settee._
 __setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
 __Seven Dwarf status__  
+__seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
 __severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
