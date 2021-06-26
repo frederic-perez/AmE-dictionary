@@ -6725,10 +6725,10 @@ __Houdini<sup>1</sup>__ _n_ An escape artist.
 __Houdini<sup>2</sup>__ _v intr_ To escape.  
 __hound__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
 __hounds__ _n_  
-__hour__ :mute:[~~h~~our]  
-__hourlong__ _The hourlong meeting._  
+__hour__ _n_ :mute:[~~h~~our]  
+__hourlong__ _adj_ Lasting an hour: _an hourlong television episode._ _The hourlong meeting._  
 __house > take it to the house__  
-__house husband__ _Karl is a house hisband._  
+__house husband__ _n_ A man who stays at home cleaning the house, taking care of children, etc. while his wife, husband or partner goes out to work. _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
 __house__ _v_  
@@ -6770,7 +6770,7 @@ __humdrum__ _adj_ :five::hammer: _A humdrum office building._
 __humidor__ _n_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
-__hummer__ _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
+__hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vibrates their mouth by humming. _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
 __hummingbird__ _n_ :es: colibrí  
 __hummocks__  
 __hummus__ _n_ :mega:  
@@ -6791,7 +6791,7 @@ __hurdle__ _n_ :two::hammer:
 __hurdy-gurdy__  
 __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
-__hurly-burly__ _A hurly-burly of writers._  
+__hurly-burly__ _adj, n_ _A hurly-burly of writers._  
 __hurrah__ _interj, n_ A cheer of joy, victory, etc.  
 __hurricane lamp__ _n_  
 __hurricane__  
@@ -6800,7 +6800,7 @@ __husbanded__ _v_ _Rob husbanded his money._
 __husbandry__ _n_ :three::hammer:  
 __hush money__ _n informal_ :two: A bribe paid to keep something secret. _A hush money case._  
 __hush up__ _phr v_ :three: To not let something become known. _The matter had been hushed up._  
-__hush-hush__ Very secret.  
+__hush-hush__ _adj_ _informal_ Very secret. _Though these meetings were hush-hush there were sometimes leaks._  
 __hush<sup>1</sup>__ _n_  
 __hush<sup>2</sup>__ _v_ :four::hammer: _The hushed reference desk of the Denver Public Library._ :es: hacer callar _Hushed streets._  
 __husk<sup>1</sup>__ _n_ :six::hammer: (husks) _Cane husks._  
@@ -6811,20 +6811,20 @@ __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for 
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
 __hx__ _abbr_ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
-__hyacinth__ :pencil2:  
+__hyacinth__ _n_ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrology__  
 __hydrometeors__ _n_  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
 __hygroscopic__  
-__hymn__ :mute:[hym~~n~~]  
+__hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbolic__ _adj_ :five: Exaggerated.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
-__hypertensive__ _To be hypertensive._  
+__hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__  
@@ -6840,7 +6840,7 @@ __hysterectomy__ _n_ Surgical removal of part or all of the uterus.
 __hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
-__I.O.U.__ _Um, this is just a dirty sneaker and an I.O.U._  
+__IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
 __i18n__ _n_ Abbreviation of internationalization (a representation of internationalization as i followed by 18 more letters, followed by n).  
 __iatrogenic__ _adj_ :two: Induced unintentionally in a patient by a physician. Used especially of an infection or other complication of treatment.  
 __Ibuprofen__  
