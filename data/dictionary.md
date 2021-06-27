@@ -6643,15 +6643,15 @@ __homophobic__
 __homophones__ _n_ :two::hammer:  
 __honcho__ _n_ :four::hammer: (honchos)  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
-__honeycomb__ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
+__honeycomb__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
-__Hong Kong__ _“Fragrant harbor” is the literal translation of Hong Kong._  
+__Hong Kong__ _n_ _“Fragrant harbor” is the literal translation of Hong Kong._  
 __honk__ _n_  
 __honky tonk__ _n_  
 __honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred with honors._  
 __honor<sup>2</sup>__ _v_ :two::hammer::mute:[~~h~~onor]  
-__honorary__ _Honorary consul._  
+__honorary__ _adj_ _Honorary consul._  
 __honorees__  
 __hoo-ha__ _n_ :two: A disorderly outburst or tumult. _Syn_ commotion, disturbance :es: _There was a great hoo-ha about it > Se armó la marimorena_ _Marketing hoo-ha._  
 __hooch__ _n_ _slang_ :two::hammer: _Take it easy on the hooch._  
@@ -6665,7 +6665,7 @@ __hook up__
 __hookah__ _n_  
 __hooked__ _adj_ _slang_ Addicted; to like something so much that you need it every day.  
 __hookup__ _n_  
-__hooky__ _A kid playing hooky._  
+__hooky__ _n_ _informal_ Absence without leave; truancy: _play hooky from school._ Failure to attend (especially school). _A kid playing hooky._  
 __hooly__ _adj_ Careful or gentle.  
 __hoop dress__  
 __hoop__ _v_  
@@ -6681,8 +6681,8 @@ __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of h
 __Hopi__ _n_  
 __hopped cars__  
 __hopscotch__ _n_ :two: A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
-__horn buttons__ :camera:  
-__Horn of Africa__ :camera: Somalia.  
+__horn button__ _n_ :camera: A button that you press to activate the horn of an automobile.  
+__Horn of Africa__ _n_ :camera: Somalia.  
 __horn__ _n_  
 __hornswoggle__ _v_ Deprive of by deceit. _Syn_ bunco, con, defraud, diddle, goldbrick, mulct, nobble, rook, scam, swindle, short-change, victimize _I might be a thief, but even I think it is shameful to hornswoggle an old lady out of her life savings!_  
 __horologist__ _n_ Someone who makes or repairs watches.  
@@ -6692,7 +6692,7 @@ __horse__ _n_ (H-O-R-S-E) A game in which players take turns attempting to dupli
 __horsefly__ _n_ Any bloodsucking, usually large fly of the family Tabanidae, especially of the genus Tabanus, a serious pest of horses, cattle, etc. :es: tábano  
 __horselaugh__  
 __horseplay__ _n_  
-__horsepower__ _Physical horsepower._  
+__horsepower__ _n_ _Physical horsepower._  
 __horseradish__ _n_ :two::hammer:  
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
@@ -6701,7 +6701,7 @@ __horsey__ _adj_ (horsy)
 __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
-__hosanna__ _A thousand hosannas._  
+__hosanna__ _interj, n_ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
@@ -6714,11 +6714,10 @@ __hot seat__
 __hot spring__ _n_  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
 __hot water__ _n_  
-__hot__ _We’ve got a hot crowd tonight._  
+__hot__ _adj_ _We’ve got a hot crowd tonight._  
 __hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
-__hot-wire__ _Hot-wire cars._  
-__hot-wired__  
+__hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
