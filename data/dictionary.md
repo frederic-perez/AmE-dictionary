@@ -340,6 +340,7 @@ __almanac__ _n_ An annual publication devoted to the facts and statistics of a g
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
+__alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
 __aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
@@ -1421,6 +1422,7 @@ __bologna__
 __boloney__ Baloney.  
 __bolony__  
 __Bolshevik__  
+__bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with radical views), from Russian Bolshevik, from bolshe (greater), referring to the faction of the Russian Social Democratic party that seized power in the October Revolution of 1917. Ultimately from the Indo-European root bel- (strong), which also gave us debility and Bolshoi Theatre (literally, Great Theater).] __1__ Difficult to manage; rebellious __2__ (Government, Politics & Diplomacy) Politically radical or left-wing. _Syn_ Bolshevik, bolshy, Marxist, red  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
@@ -1770,6 +1772,7 @@ __bumpers__ _n_ _The bumpers of vehicles._
 __bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
+__bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
 __bumpy__  
 __bun__ _n_  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
@@ -2217,7 +2220,7 @@ __centerpiece__
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
-__cerulean<sup>1</sup>__ _adj_ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cerulean<sup>1</sup>__ _adj_ :two: Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
@@ -3597,6 +3600,7 @@ __deranged__ _adj_ :four::hammer: _A deranged man._
 __derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__  
+__deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
 __derogative__ _adj_  
 __derrick__ _n_  
@@ -4951,6 +4955,7 @@ __ficus__ _n_ :mega:
 __fiddle-faddle__  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
+__fiddlesticks__ _interj_ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
 __fidgety__  
@@ -5063,6 +5068,7 @@ __flab__ _n_ Body fat, soft loose flesh on a person’s body.
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flabbergasted__ _adj_ :two::hammer:  
 __flaccid__ _adj_  
+__Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
 __flag-stop service__  
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
@@ -6293,7 +6299,7 @@ __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive 
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
-__harry__ _v_ :seven: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To harass or torment. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
+__harry__ _v_ :eight: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvested fish__ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
@@ -6981,7 +6987,7 @@ __incensed__ _adj_
 __inception__ _n_ :three::hammer:  
 __incessantly__ _adv_ :two::hammer:  
 __inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
-__inchoate__  
+__inchoate__ _adj_ :two: Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  
 __incident<sup>1</sup>__ _n_  
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
@@ -11699,7 +11705,7 @@ __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._
 __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
-__schwa__ _n_ :two: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
+__schwa__ _n_ :three: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __sciatic__  
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
@@ -13306,7 +13312,7 @@ __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ 
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
-__subdue__ _v_ :seven::hammer: (subdued)  
+__subdue__ _v_ :eight::hammer: (subdued) __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._  
 __subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
@@ -13474,7 +13480,7 @@ __swatted__
 __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
-__sweatpants__  
+__sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweeping__ _adj_  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _n_ _sports_  

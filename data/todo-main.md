@@ -1,15 +1,3 @@
-__cerulean__ _adj_  
-__fiddlesticks__ _interj_ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
-__schwa__ _n_ The mid-central, neutral vowel sound typically occurring in unstressed syllables in English, however spelled, as the sound of a in alone and sofa.  
-__alone__ _adj_ :mega: /ə-lōn′/  
-__inchoate__ _adj_ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
-__harry__ _v_ __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack.  
-__deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
-__bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with radical views), from Russian Bolshevik, from bolshe (greater), referring to the faction of the Russian Social Democratic party that seized power in the October Revolution of 1917. Ultimately from the Indo-European root bel- (strong), which also gave us debility and Bolshoi Theatre (literally, Great Theater).] __1__ Difficult to manage; rebellious __2__ (Government, Politics & Diplomacy) Politically radical or left-wing. _Syn_ Bolshevik, bolshy, Marxist, red  
-__sweatpants__ _n pl_ Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
-__bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
-__subdue__ _v_ __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._  
-__Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __abscond__ _v_ To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
