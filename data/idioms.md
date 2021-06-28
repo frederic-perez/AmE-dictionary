@@ -716,8 +716,10 @@ __hit the big time__ To become very famous or successful.
 __hit the gas__ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the ground running__  
 __hit the jackpot__  
+__hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the wall__ :two::hammer:  
+__hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
 __hither and thither__ :three::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
@@ -864,7 +866,7 @@ __it figures__ :three: It makes sense; it is as I expected or might have guessed
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it takes two to tango__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
-__it’s a dog’s life__ _idiom_ :dart::astonished:  
+__it’s a dog’s life__ :dart::astonished:  
 __it’s all good__ A phrase used to express general approval, unconcern, or disinterest.  
 __it’s one of those things__  
 __Jane Doe__ An unidentified woman.  

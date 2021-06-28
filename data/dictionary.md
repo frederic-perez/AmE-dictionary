@@ -6515,13 +6515,13 @@ __high-tail__ _v_
 __highballs__ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
 __highlight__ _v_  
-__highly__ _I highly recommend it._  
+__highly__ _adv_ _I highly recommend it._  
 __hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
 __hijab__ _n_ :four::camera::hammer: (hijabs)  
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
-__hilarious__ Very funny.  
+__hilarious__ _adj_ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
 __hillbilly__ _n_ :two::hammer:  
 __hillocks__  
@@ -6531,26 +6531,23 @@ __hinder__ _v_ :two::hammer:
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
 __hinky__  
 __hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
-__hip flask__ :camera:  
+__hip flask__ _n_ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippocampus__ _n_ :pencil2:  
 __hires__ _n_  
 __hirsutism__  
 __His Majesty the Sultan__  
-__hissy__ _Hissy fit._  
+__hissy__ _n_ _Hissy fit._  
 __histamine__ _n_  
 __historic__ _adj_  
 __historical__ _adj_  
 __histrionic__ _adj_ Deliberately affected; overly dramatic or emotional.  
 __hit man__  
-__hit on all eight__ _So far it’s not hitting on all eight._  
 __hit out__ _v_  
 __hit parade__  
 __hit the books__  
 __hit the brakes__  
-__hit the road__ To leave a place or begin a journey.  
 __hit the sack__  
-__hit up__ _She thought about hitting up an amusement park._  
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
@@ -6560,7 +6557,7 @@ __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face.
 __hiya__ _interj_ An informal term of greeting.  
 __hmm__ _interj_ :two::hammer:  
 __HMOs__  
-__hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
+__hmph__ _interj_ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__  
@@ -6605,7 +6602,7 @@ __holdings__ _n_
 __holdout__ _n_ :two::hammer: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
-__hole in one__ The driving of a golf ball from the tee into the hole in a single stroke.  
+__hole in one__ _n_ The driving of a golf ball from the tee into the hole in a single stroke.  
 __hole up__ _v_ :two::hammer: (holed up)  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
@@ -6636,7 +6633,7 @@ __homestand__ _n_ :five: A series of games played at a team’s home field.
 __homestead<sup>1</sup>__ _n_ :five::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
-__homie__ _Homies for life._  
+__homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
 __homophobic__  
