@@ -6466,7 +6466,7 @@ __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessati
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
-__Henry__ Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
+__Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herd immunity__ _n_  
 __herdsman__ _n_  
@@ -6475,27 +6475,26 @@ __heresy__ _n_ :two::hammer:
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ _adv_ :two::hammer:  
-__herky__ (herky-jerky driving)  
+__herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
 __hermit__  
-__heroics__ _DH David Ortiz will be remembered for his postseason heroics._  
+__heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
-__herringbone__ _Basketball shoes with herringbone designs._  
-__Hershey, PA__ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
+__herringbone__ _n_ _Basketball shoes with herringbone designs._  
+__Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key__ _n_ Allen key. _Hex key set._  
-__hex-breaking__ _Looking for a hex-breaking sign._  
+__hex__ _n_ :astonished: _Looking for a hex-breaking sign._  
 __hey__  
 __heyday__ _n_ :seven: The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
 __hibachi__  
-__hick__  
+__hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
 __hickory__  
-__hicks__ _A collection of web-toed hicks._  
 __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
@@ -6504,13 +6503,13 @@ __higgledy-piggledy__
 __Higgs boson__ _n_ :two: (Higgs particle, God particle) An elementary particle with zero spin and mass greater than zero, predicted to exist by electroweak theory and other gauge theories, discovered in 2012.  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
-__high places__ _I’ve friends in high places._  
+__high places__ _n pl_ Positions and offices of influence and importance. _I’ve friends in high places._  
 __high road__ _n_ :two: __1a__ The easiest or surest path or course. _The high road to happiness._ _Champions take the high road._ __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _n_ :two: __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
 __high school__ _n_ A school especially in the U.S. usually including grades 9–12 or 10–12.  
 __high street__ _n_ _British informal_ :three::hammer:  
 __high tea__ _n_ _BrE_ A meal of cold food, cakes etc eaten in the early evening.  
-__high__ :mute:[hi~~gh~~]  
+__high__ _adj, adv, n_ :mute:[hi~~gh~~]  
 __high-and-mighty__ _adj_ Offensively self-assured or given to exercising usually unwarranted power. _Syn_ autocratic, bossy, peremptory, magisterial, dominating  
 __high-end__ _adj_  
 __high-fly__ _v_  
@@ -6518,7 +6517,7 @@ __high-pressure__ _adj_ Aggressively and persistently persuasive.
 __high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
-__highballs__ _The passengers were sipping highballs at the bar._  
+__highball__ _n_ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
 __highlight__ _v_  
 __highly__ _adv_ _I highly recommend it._  
