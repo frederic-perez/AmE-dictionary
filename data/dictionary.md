@@ -75,7 +75,7 @@ __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbrev
 __abrogation__ _n_ :two::hammer:  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
-__absconded__ _v_ :two::hammer:  
+__abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
@@ -123,6 +123,7 @@ __ACL__ Anterior cruciate ligament.
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
+__acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintances__ :pencil2:  
 __acquiesce__ _v_ :three: To agree to something or to accept something, although you do not want to.  
@@ -272,6 +273,7 @@ __ailerons__
 __ailing__ _v_ :four::hammer: _It is ailing the NFL._  
 __ailment__ _n_ :five: An often persistent bodily disorder or disease; a cause for complaining. Mild illness. _Syn_ complaint, ill _She pretended that she was always well now, and concealed her ailments so craftily that we had to probe for them._  
 __ails__ _v_ :two::hammer:  
+__aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzles__ _Try adjusting your air nozzles to full force._  
@@ -1900,6 +1902,7 @@ __bylaws__
 __byline__ _n_ :six: (bylines)) A line at the head of a newspaper or magazine article carrying the writer’s name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_  
+__byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
 __C-section__ _n_  
@@ -2004,7 +2007,7 @@ __campy__ _A campy biopic._
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
-__canary__ _n_ _slang_ An informer. _Syn_ stool pigeon, fink, snitch  
+__canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
@@ -4128,6 +4131,7 @@ __drop-in__ _A drop-in center._
 __dropout__ _n_  
 __dropping hands__  
 __droppings__ _pl n_ :two::hammer:  
+__dross__ _n_ __1__ _metallurgy_ The scum or unwanted material that forms on the surface of molten metal. __2__ Waste or foreign matter. _Syn_ impurity __3__ Something that is base, trivial, or inferior. _There is quite a lot of dross on TV these days._  
 __drought__ _n_ :three::mute:[drou~~gh~~t] A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
 __drove__ _They buy tickets in droves._  
 __drover__ _n_ :two::hammer:  
@@ -7656,6 +7660,7 @@ __LASIK__ _abbr_ Laser-assisted in situ keratomileusis. _Lasik surgery._
 __lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
+__last__ _n_ :astonished: __2__ A form (as of metal or plastic) which is shaped like the human foot and over which a shoe is shaped or repaired.  
 __last-ditch__ _adj_ :three::hammer: _Last-ditch effort._ _Last-ditch retaliation._  
 __last-gasp__ _adj_ _He scored the last-gasp winner._  
 __lastly__ _adv_  
@@ -8107,6 +8112,7 @@ __Mace<sup>1</sup>__ _n_ _A can of Mace._
 __Mace<sup>2</sup>__ _v_  
 __Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
+__machinate__ _v_  
 __machine__ _n_ :mega:  
 __machinery__ _n_ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
@@ -9101,6 +9107,7 @@ __obliteration__ _n_
 __oblivion__ _n_ :two::hammer:  
 __oblivious__ _adj_ :five::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
+__obnubilate__ _v_  
 __obo__ _abbr_ :two: Or best offer.  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
@@ -10445,6 +10452,7 @@ __pro<sup>2</sup>__ _adj_ __1__ Affirmative; supporting: _a pro vote._ __2__ Pro
 __probation__ _n_ _A person has ben sentenced to probation._  
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
+__proboscis__ _n_  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
@@ -13843,6 +13851,7 @@ __thousandth__
 __thrall__ _n_ :six::hammer:  
 __thrash out__  
 __thrash__ _v_ :nine::m: (thrashed, thrashing) __1__ To move or make something move from side to side in a violent or uncontrolled way. __2__ To beat someone violently, especially in order to punish them. _Thrash talk._ __3__ To defeat someone very easily in a game. _Toronto thrashed New York City F.C._  
+__thrawn__ _adj_  
 __thread the needle__  
 __three-hour__ _adj_ :pencil2: _A three-hour drive._  
 __threequel__ _n_ _There’s the original, the sequel, and the threequel._  
@@ -13981,6 +13990,7 @@ __tirade__ _n_ :eight::hammer:
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
+__titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
