@@ -267,6 +267,7 @@ __ahem__
 __ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
 __ahoy__ _interj_ Used to hail a ship or to attract attention.  
+__aichmophobia__ _n_ The fear of pointed objects, esp needles, pins, etc.  
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
 __ailerons__  
@@ -382,6 +383,7 @@ __Ames__ _Ames, Iowa._
 __amethyst__ _n_ :three::pencil2::hammer:  
 __ametropia__ _n_  
 __amiable__  
+__amicable__ _adj_  
 __amid__  
 __Amish__ _n_ _Amish country._  
 __amiss__ _adj_ :three::hammer: _Jack had sensed something amiss._  
@@ -1160,6 +1162,7 @@ __bewhiskered__
 __bewilder__  
 __bewitch__ _v_  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
+__bibliopole__ _n_ A dealer in rare books.  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
 __bicyclist__  
@@ -5027,6 +5030,7 @@ __fire drill__ _n_ An exercise intended to train people in duties and escape pro
 __fire irons__  
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
+__fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __fire-eater__ _n_ A belligerent grouch.  
 __firebrand__  
 __firebrick__ _n_  
@@ -6451,7 +6455,6 @@ __hell yeah__ _interj_
 __hell yes/no__ _interj_ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
-__fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
 __help out__  
@@ -7065,6 +7068,7 @@ __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. 
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
+__infirmity__ _n_ Bad health or a particular illness.  
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
 __influence-peddling__ _n_ :three::hammer:  
@@ -8324,7 +8328,7 @@ __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in the
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
-__mealy-mouthed__ _adj_ Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
+__mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
@@ -8505,6 +8509,7 @@ __mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck 
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ An instance of misfortune.  
+__misanthropic__ _adj_ Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misbegotten__ _adj_  
 __miscarriage__ _n_  
 __miscarry__ _v_  
@@ -9972,6 +9977,8 @@ __Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private dete
 __pinkeye__  
 __pinkify__ _v_ The act of, normally a guy, wearing pink clothes, and pink accessories. _Dude, did you see Josh? He’s all pinkified for halloween._  
 __pinky__ _n_ Little finger.  
+__pinnacle<sup>1</sup>__ _n_ [:scroll: From Old French, from Latin pinnaculum, diminutive of pinna (wing, feather). Ultimately from the Indo-European root pet- (to rush or fly), which also gave us feather, petition, compete, perpetual, pterodactyl, helicopter, appetence, asymptomatic, auricle, empennage, impetuous, pencel, peripeteia, petulant, propitious, pinnate, and lepidopterology (study of butterflies and moths)] __1__ The highest point. __2__ An architectural ornament capping a tower, buttress, etc.  
+__pinnacle<sup>2</sup>__ _adj_ __1__ To reach the peak of achievement, development, etc. __2__ To form a pinnacle.  
 __pinned__  
 __pinning__ _v_  
 __pinpoint__ _n_ _His face was covered with pinpoints of sweat and dirt._  
@@ -10531,6 +10538,7 @@ __prospectus__
 __prosthetic__ _adj_  
 __prostrate<sup>1</sup>__ _adj_  
 __prostrate<sup>2</sup>__ _v_  
+__prostration__ _n_ __2__ Total exhaustion or weakness; collapse.  
 __protean__ _adj_ :four::hammer:  
 __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie together without protective sheaths at an encampment._  
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
@@ -11922,6 +11930,7 @@ __seracs__ _n_
 __sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
 __Serenity Prayer__  
 __serfdom__ _n_  
+__serial comma__ _n_ Oxford comma.  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
@@ -12270,6 +12279,7 @@ __siphon off__ _v_ _They were siphoning off readers._
 __siphon__ _v_ :three::hammer: (siphoned, siphoning) _It is fairly easy to syphon profits._  
 __sire<sup>1</sup>__ _n_  
 __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._  
+__siriasis__ _n_ Sudden prostration due to exposure to the sun or excessive heat. _Syn_ insolation, sunstroke, thermic fever _We were stranded in the desert, and it was not long before members of our party began exhibiting signs of siriasis._  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
 __sit__ _v_ _Stop sitting on the bull._  
 __sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
@@ -14198,6 +14208,7 @@ __treat<sup>1</sup>__ _v_
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
 __treble<sup>2</sup>__ _v_ :three::dart: To make or become triple.  
+__treen__ _n_ Small woodenware.  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_  
