@@ -6390,17 +6390,17 @@ __heart and soul__
 __heart-in-mouth__ _A heart-in-mouth thriller._  
 __heartedly__  
 __hearten__ _v_  
-__heartening__ _A heartening supper._  
+__heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
 __heartfelt__  
 __hearth__ _n_ :nine::m: The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._  
 __hearth-tax__  
-__heartily__ _A sentiment which I heartily applaud._  
+__heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
 __heat > to catch a lot of heat__  
-__heatedly__ _Clashed heatedly._  
+__heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
 __heathen__ _n_ :four::hammer: _They were declared guilty of heathen practice._ :es: pagano  
 __heathenish__  
@@ -6409,12 +6409,11 @@ __heather__
 __heathy__  
 __heatwave__ _n_  
 __heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
-__heavily__ _He was drinking heavily._  
+__heavily__ _adv_ _He was drinking heavily._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
 __hecatombs__  
-__heck__ _He’s doing a heck of a job._  
 __heckle__ _v_ :three::hammer: (heckled)  
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
@@ -6426,7 +6425,6 @@ __hedge<sup>1</sup>__ _n_
 __hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)  
 __hedonic__  
 __Hedonism__  
-__heebie-jeebies__ If you have the heebie-jeebies, you’re worried, anxious, or jumpy. Haunted houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. _Giving us the heebie jeebies._  
 __heed__ _v_ :nine::m: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
 __heedless__  
 __heedlessly__  
@@ -6437,10 +6435,10 @@ __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._
 __hefted up__  
 __hefty__ _adj_ :two::hammer:  
 __hegira__ _n_  
-__height__ :mute:[hei~~gh~~t]  
+__height__ _n_ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :two::hammer:  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
-__heir__ :mute:[~~h~~eir]  
+__heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
@@ -6449,10 +6447,11 @@ __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, fr
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
-__hell yes__ Affirmative, positive, only in a more certain and stressing manner.  
+__hell yeah__ _interj_  
+__hell yes/no__ _interj_ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
-__hellfire-and-brimstoner__ _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
+__fire-and-brimstone__ _adj_ __1__ (of a sermon, preacher, etc) Zealous, esp in threatening eternal damnation. __2__ Portending future disaster. _He had become a country preacher at the age of fourteen, a regular hellfire-and-brimstoner, but that career was cut short._  
 __helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
 __help out__  

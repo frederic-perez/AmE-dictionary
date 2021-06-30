@@ -688,6 +688,7 @@ __heaven knows__
 __heavy lifting__ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread.  
 __heavy-hearted__ Sorrowful; melancholy; depressed.  
+__heck of a__ _He’s doing a heck of a job._  
 __Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
@@ -1389,7 +1390,7 @@ __the going thing__ The latest and most popular trend, fad, or fashion.
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ A wedding, or marriage in general.  
-__the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used with “get” or “give.”  
+__the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._  
 __the honest truth__ The sincere, unadulterated truth.  
 __the idiot box__ A television set, or television in general.  
 __the jet set__ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
