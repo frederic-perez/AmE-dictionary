@@ -625,6 +625,7 @@ __have (one’s) fill (of something)__ To have, consume, or experience as much (
 __have (one’s) hand out__ To be in request, demand, or expectation of benefits, such as welfare, especially when undeserved or unneeded.  
 __have (one’s) head in the sand__ To refuse to acknowledge or deal with problems, danger, or difficulty, especially in the hopes that they will resolve themselves. The phrase is a reference to ostriches, which were believed (incorrectly) to hide their heads in the ground at the sight of approaching danger.  
 __have (one’s) head read__ To have one’s logic or sanity examined or reevaluated, usually regarding some ridiculous decision, plan, or idea. A reference to a pyschiatric evaluation, the phrase is usually used prescriptively.  
+__have (one’s) heart in (one’s) mouth__ To feel very nervous or anxious. _I had my heart in my mouth as I waited for the ambulance to arrive._ _A heart-in-mouth thriller._  
 __have (one’s) heart in (something)__ To be emotionally and enthusiastically involved in something; to do or undertake something with passion and zeal.  
 __have (one’s) heart on (one’s) sleeve__ To openly display or make known one’s emotions or sentiments. _She’s always had her heart on her sleeve, so she isn.t very good at holding back when she’s upset about something._  
 __have (someone’s) blood on (one’s) head__ To be the cause of (someone’s) death; to bear the guilt or responsibility of (someone’s) death or injury.  
@@ -666,6 +667,7 @@ __have one foot in the grave__ To be very old and close to death.
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
 __have skin in the game__ To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance.  
+__have someone pegged__ _She had me pegged on that, too._  
 __have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
 __have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
@@ -680,6 +682,7 @@ __have/put skin in the game__
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head over heels__ :four: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
 __hear a pin drop, one/you could__ :two: Complete silence.  
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
@@ -1019,6 +1022,7 @@ __live the life of Riley__ If someone lives the life of Riley, they have a very 
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __lo and behold__ :three::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
+__long haul__ _We are ready to go long haul._  
 __long hours__ :two::hammer: _The long hours you’re putting in may not help._  
 __long story short__  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  

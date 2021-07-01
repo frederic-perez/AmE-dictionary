@@ -6289,7 +6289,7 @@ __hardihood__ _n_ The trait of being willing to undertake things that involve ri
 __hardline__ _adj_ :three::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
 __hardly ever__  
 __hardpan__ _n_ :two::hammer: _Hardpan dirt yards._  
-__hardscrabble__ _Hardscrabble journeys._  
+__hardscrabble__ _adj_ Providing or yielding meagerly in return for much effort: _a hardscrabble existence._  
 __hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
@@ -6309,7 +6309,7 @@ __harrow__ _n_
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :eight: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
-__harvested fish__ _Fish oil from harvested fish._  
+__harvest__ _v_ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
@@ -6318,7 +6318,7 @@ __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from 
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
 __hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
-__hastily__ _A hastily arranged news conference._  
+__hastily__ _adv_ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
 __hat off__ _n_ (hats off) _Hats off to Jane._  
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one’s hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
@@ -6326,11 +6326,10 @@ __Hatch Act__
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
 __hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
-__hatchery__ _A fish hatchery._  
+__hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
 __hatchet__  
 __hatred__ _n_  
 __haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
-__haul > long haul__ _We are ready to go long haul._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
@@ -6338,7 +6337,6 @@ __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fle
 __haunt__ _v_  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
 __hauteur__  
-__have someone pegged__ _She had me pegged on that, too._  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
 __havoc__  
@@ -6357,12 +6355,11 @@ __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._
 __hazardous__ _adj_ :two::mega::hammer:  
 __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._  
 __hazel__  
-__hazing__ _The college hazing policy._  
+__hazing__ _n_ :dart: (Education) _chiefly US and Canadian_ the bullying of a student in school. _The college hazing policy._  
 __hazmat suit__  
 __HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
-__head scratching__ :camera: (head-scratching) _In many places, there is still much head scratching over Mr. Trump._  
 __head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
 __head wind__  
 __head__ _v_ _Head to Freakonomics.com._  
@@ -6386,12 +6383,11 @@ __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway w
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
-__hearing__ _law_  
+__hearing__ _n_ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
-__heart-in-mouth__ _A heart-in-mouth thriller._  
 __heartedly__  
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
