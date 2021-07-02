@@ -73,6 +73,7 @@ __abrade__ _v_
 __abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogation__ _n_ :two::hammer:  
+__abrupt__ _adj_ /uh-BRUPT/  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
@@ -1950,6 +1951,7 @@ __cagily__ _adv_
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
 __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
+__cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
@@ -1995,6 +1997,7 @@ __camaraderie__
 __Cambodia__  
 __cameleer__  
 __camellia__  
+__cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
 __camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
 __campaign__ :mute:[campai~~g~~n]  
@@ -3561,6 +3564,7 @@ __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychon
 __deluxe__ _Deluxe album._  
 __delve__ _v_ :two::dart::hammer:  
 __Dem__ A member of the Democratic Party.  
+__demagogue__ _n_ A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demeanor__ _n_  
@@ -3633,6 +3637,7 @@ __despoil__ _v_
 __despoiling__  
 __despondency__  
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
+__despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
@@ -4320,6 +4325,7 @@ __effluent__
 __effort__ _n_ :dart: _Activists launched an effort._  
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
+__effulgence__ _n_ A brilliant radiance. _Syn_ refulgence, shine, radiance  
 __effulgent__ _adj_  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__ _adj_ :two::hammer:  
@@ -4414,7 +4420,7 @@ __embryo__
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
-__emeritus__ _adj_ :two::hammer:  
+__emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
 __emerity__ _Faculty emerity._  
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
@@ -5348,6 +5354,7 @@ __formidable__
 __formulate__ _I was formulating my question._  
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
+__forswear__ _v_  
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __fort__ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
@@ -6447,6 +6454,7 @@ __hell yeah__ _interj_
 __hell yes/no__ _interj_ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
+__hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
 __help out__  
@@ -8113,6 +8121,7 @@ __machinery__ _n_ :mega:
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
 __mackerel__ _n_ :two::hammer: :es: caballa  
 __mackinaw__  
+__macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
 __macula__ _n_  
 __madcap__  
 __madden__ _v_ :two::hammer: (maddening)  
@@ -8418,7 +8427,7 @@ __meticulous__ _adj_ :two: Marked by extreme or excessive care in the considerat
 __metro<sup>1</sup>__ _n_ A subway system.  
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :eight::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __MIA__ _abbr_ :two: Missing in action.  
 __miasma__ _n_  
@@ -12617,6 +12626,7 @@ __snuggles__
 __snugly__ _adv_ :two::hammer:  
 __so far, so good__  
 __so to speak__ _adv_ :three::dart: In a manner of speaking.  
+__so-and-so__ _pron_ An unnamed or unspecified person or thing.  
 __so-called__ _adj_ Doubtful or suspect. _Syn_ alleged, supposed _The so-called master detective tripped over the murder weapon just as he was declaring the case insolvable._  
 __so-so__ _adj_ :two::hammer: _The glass business was a so-so money maker._  
 __soap opera__  
