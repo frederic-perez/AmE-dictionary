@@ -20,6 +20,7 @@
 - __Dee__ A female given name, short for names beginning with “d.”
 - __Emy__ Emy’s language of origin is Germanic,Gothic, Germanic, Latin, and Latin. Emy is a derivative of the Dutch and English Emmy. Emy is a short form of Emilie and Emma. Emy means “universal”, “whole” and “eager”, “industrious” or “ambitious”.
 - __Eve__ Derived from the Latin name Eva.
+- __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
 - __Jed__ A masculine given name or nickname, usually of Jedediah.
