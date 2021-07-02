@@ -600,6 +600,7 @@ __hair-splitting__
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
 __hands down__ :two::hammer: _Hands down, best episode ever._  
+__hands off__ An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hang someone out to dry__ To abandon someone who is in trouble.  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  

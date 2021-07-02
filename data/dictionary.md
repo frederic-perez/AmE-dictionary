@@ -6214,7 +6214,7 @@ __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering r
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __ham hocks__ _n_ :two::hammer:  
-__ham-and-egg__ _A ham-and-egg lawyer._  
+__ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
 __hamdbill__ _n_  
 __hamlet__ _n_  
 __hammam__ _n_  
@@ -6223,23 +6223,21 @@ __hamper<sup>1</sup>__ _n_ :two::dart::hammer: _This square rattan hamper comes 
 __hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
 __hamstring__ _n_ :three::hammer:  
-__Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.  
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
-__handkerchief__ :mute:[han~~d~~kerchief]  
+__handkerchief__ _n_ :mute:[han~~d~~kerchief]  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
-__hands off__ _The Department of Justice has been hands off about enforcement._  
 __hands on__  
-__hands-free__ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
+__hands-free__ _adj_ (Especially of a telephone) Designed to be operated without using the hands. _Hands-free kit._ :es: manos libres  
 __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign policy._  
 __hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-on director._  
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
-__handsome__ :mute:[han~~d~~some]  
+__handsome__ _adj_ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
 __handwaving__ _n idiom_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
@@ -6249,13 +6247,12 @@ __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ gu
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
-__hank__  
+__hank__ _n_ :two::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :four: (hankerings) Craving.  
 __hankies__ _n_  
-__hanks__ :pencil2: _Stringy hanks of blond hair._  
 __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. __2__ Illicit sexual relations.  
-__Hannukah__ (Chanukah)  
+__Hannukah__ _n_ (Chanukah)  
 __hantavirus__  
 __haphazard<sup>1</sup>__ _adj_ :two::hammer:  
 __haphazard<sup>2</sup>__ _n_  
@@ -6264,7 +6261,6 @@ __haphazardly__ _adv_ :three::hammer:
 __hapless__ _adj_ :nine::m: Use the adjective hapless to describe someone unlucky and deserving of pity, like the hapless used car buyer who gives in to the fast-talking salesperson. The word hapless traces all the way back to the Old Norse word happ, meaning “chance, good luck.” Combine this with the suffix -less (“lacking”) and hapless means “unlucky” or “ill-fated.” _The Pentagon is hapless and helpless._ :es: desventurado  
 __haplessness__  
 __happenstance__ _n_ A chance circumstance. _Syn_ coincidence  
-__happy about it__ _I’m not entirely happpy about it._  
 __happy feet__  
 __haps__ _n_ :two::hammer: _What’s the haps?_  
 __haptic__ _adj_ Of or relating to the sense of touch; tactile.  
@@ -6273,7 +6269,6 @@ __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)
 __harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
 __harbinger__ _n_ :four::hammer:  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
-__hard drinking__ _Ed was known for his hard drinking._  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard rock__ _n_  
 __hard sell__  
@@ -6281,6 +6276,7 @@ __hard-ball__
 __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boiled, pugnacious  
 __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
 __hard-core__ _adj_ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
+__hard-drinking__ _adj_ Used to describe a person who often drinks a lot of alcohol.  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
