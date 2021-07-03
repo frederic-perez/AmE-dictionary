@@ -6162,18 +6162,18 @@ __guzzle__ _v_ :three::hammer: _Guzzling ice water._
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
 __GWB__ George Washington Bridge.  
-__GWTW__ Gone With The Wind.  
-__gym-rat__ _He’s a gym-rat type of guy._  
+__GWTW__ _abbr_ Gone With The Wind.  
+__gym rat__ _n_ (gym rat) _He’s a gym-rat type of guy._  
 __gymkhana__  
 __gyoza__ _n_  
 __gyrate__ _v_ :two::hammer:  
-__gyroscopic__ :mega: _Gyroscopic effect._  
-__H174cm x W82.5cm x D44cm__ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
+__gyroscopic__ _adj_ :mega: _Gyroscopic effect._  
+__H174cm x W82.5cm x D44cm__ _phr_ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __ha__ _interj_ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. _Ha! I was right all along!_  
 __habeas corpus__ _n_  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
-__habitation__ :astonished:  
+__habitation__ _n_ :astonished:  
 __habituate__ _v_  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
 __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
@@ -6191,7 +6191,7 @@ __haggis__ _n_ :two::hammer:
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
-__hags__ _Screaming histerically like Shakespearean hags._  
+__hag__ _n_ _Screaming histerically like Shakespearean hags._  
 __hah__ _interj_ A variant spelling of ha.  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
@@ -6205,17 +6205,17 @@ __hairline__
 __hairpiece__ _n_  
 __haking__  
 __halcyon__ _adj_ :three::hammer::pencil2: _Halcyon time of romance._  
-__hale__ _A real hale-and-hearty type with a warm smile._  
+__hale__ _adj_ _A real hale-and-hearty type with a warm smile._  
 __half sibling__  
-__half__ :mute:[ha~~l~~f]  
-__half-baked__ _A half-baked plan to launch a start-up._  
+__half__ _adj, adv, n_ :mute:[ha~~l~~f]  
+__half-baked__ _adj_ :dart: _A half-baked plan to launch a start-up._  
 __half-cocked__  
 __half-hearted__ _adj_ Done with no real interest or enthusiasm.  
 __half-wits__  
 __halfback__  
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
 __hall boy__ _n_  
-__Halligan__ _They had Halligan bars for smashing windows._  
+__Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
