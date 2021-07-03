@@ -129,7 +129,7 @@ __at the ready__ Available for immediate use. _Soldiers with machine guns at the
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ At a time in the past that is remembered with fondness or nostalgia.  
-__back on (one’s) feet__ __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
+__back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __bad blood__ :two::hammer:  
 __bag of tricks__ All the clever methods by which someone achieves something.  
@@ -166,6 +166,7 @@ __be in for a surprise__ To be guaranteed to receive or experience an unexpected
 __be in for a treat__ To be guaranteed to receive or experience something unexpectedly pleasant or beneficial. _Is this your first time seeing this movie? Gosh, you.re in for a treat!_  
 __be in over (one’s) head__ To be too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer. _I think I’m in over my head with Amy. She wants marriage, kids, and a house, and I’m just not ready for any of that._  
 __be just the same (to someone)__ To make no difference (to someone) one way or another; to be unimportant (to someone) what happens.  
+__be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
 __be kicked upstairs__ To be promoted to a higher role or position in a company that has little actual responsibility or authority.  
 __be knocking on heaven’s door__ To be dying; to be approaching or very close to death (i.e., about to be admitted into the afterlife).  
 __be left (out) in the cold__ To be ignored, forgotten, or excluded, as from a group, activity, benefit, etc.  
@@ -359,6 +360,7 @@ __dog-eat-dog__ _adj_ :three: A very competitive situation in which people will 
 __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
+__don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __don’t let the door hit you on the way out__ Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave.  
@@ -425,6 +427,7 @@ __fight or flight__ Two possible physiological reactions to highly stressful or 
 __filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer.  
 __find (something) out the hard way__ To learn or discover something through personal experience, especially that which is difficult, painful, or unpleasant. Can also be phrased as “find out about something the hard way.”  
+__finders keepers(, losers weepers)__  
 __finger on the pulse__  
 __finger-licking good__ Very tasty.  
 __fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
@@ -643,6 +646,7 @@ __have a fling (with someone)__ To have a brief, noncommittal sexual relationshi
 __have a gas__ To have a thoroughly entertaining, enjoyable, and/or amusing time. _We were all having a gas at the party when the police showed up to tell us we were being too loud._  
 __have a hankering for (something)__ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ To be very kind and generous.  
+__have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __have a look-see__ :dart: To have a very quick look or brief examination.  
 __have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand.  
 __have a point (there)__ _He’s got a point._  
@@ -787,6 +791,7 @@ __in (one’s) own right__ :two: Through one’s own talents or efforts. _His fa
 __in (or out of) someone’s hair__ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
 __in (someone’s) wheelhouse__ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
+__in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
 __in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
 __in a big way__ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -817,6 +822,7 @@ __in jest__ As a joke; not seriously. _Speaking in jest._ :es: en broma
 __in layman’s terms__ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
 __in lieu of (something)__ :two::hammer: _In lieu of actual payments._ _In lieu of flowers._  
+__in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
 __in no time (at all)__ In a very little amount of time. _That test was so easy, I was done in no time._  
 __in no way__ Not at all; not by any means. _We are in no way blaming you for what happened, but you still have to cooperate with the police investigation._  
 __in no way, shape, or form__ In no possible manner; under no circumstances; not by any means.  
@@ -995,12 +1001,15 @@ __let (the) perfect be the enemy of (the) good__ To allow the demand, desire, or
 __let alone__ :eight: Not to mention. The phrase is used to emphasize that if other more significant or pressing things are not possible or cannot be accommodated, a lesser thing certainly is not or cannot either. _We can’t afford a vacation, let alone a trip to Disney World._ _If you’re living in the present, let alone in the future, you must buy this Acme product._ _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __let down (one’) hair__ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
+__let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
 __let it slip__ To accidentally or inadvertently reveal a given secret or important piece of information.  
 __let me tell you__ Used to emphasize a statement.  
 __let somebody down__ To disappoint someone.  
 __let someone go__ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we’re going to have to let you go._  
 __let the dust settle__ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
 __let the good times roll__ To have as much fun or live life as richly as possible. (Often said as an imperative.)  
+__let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear. _Before we get into this debate, let’s get something straight—we are to focus solely on the topic at hand, so no deviating into unrelated subjects._  
+__let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
 __let’s roll__ Let’s get out of here; let’s get moving. _That’s everything we need from the store. Let’s roll!_  
 __letters after (one’s) name__ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
@@ -1342,6 +1351,7 @@ __stay put__ :five: To remain in a fixed or established position. _Syn_ stay, st
 __step back__  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
 __strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+__street smart__  
 __strike a chord__ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __stuff your face__ To eat a lot of food quickly.  
 __suffice (it) to say__ :two::hammer:  
@@ -1370,6 +1380,7 @@ __take over__ Assume control, management, or possession of, as in _The pilot tol
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
+__take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
 __take umbrage__ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
 __take up__ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._  
 __take wing__ _Then again, my thoughts took wing._  

@@ -1,15 +1,3 @@
-__let’s not and say (that) we did__ A sarcastic expression indicating that one would really rather not do what has been proposed. _Joe: “Why don’t we go to the farmers’ market today?” Sarah: “Ugh, in this weather? Let’s not and say we did.”_  
-__let’s get something straight__ (expression) Let’s clear up any possible confusion, misunderstanding, or uncertainty (about something); let me make this perfectly clear. _Before we get into this debate, let’s get something straight—we are to focus solely on the topic at hand, so no deviating into unrelated subjects._  
-__in no circumstances__ Never; in no case or situation; irrespective of events or conditions. _In no circumstances are you allowed to drive home after you’ve had more than one drink!_  
-__in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
-__be kept in the dark (about something)__ To be kept uninformed (about something); to be excluded from full knowledge or disclosure (of something). _I don’t fully trust John to keep our plan a secret, so I think it best that he be kept in the dark for now._  
-__let go and let God__ To give up ocdne’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
-__back on (one’s) feet__  
-__take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
-__street smart__  
-__don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
-__finders keepers(, losers weepers)__  
-__have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
