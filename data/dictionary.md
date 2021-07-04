@@ -6103,18 +6103,18 @@ __guild__ _n_ :mega: _The brass guild._
 __guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillotine__ _n_ :mega:  
-__guilt__ :mute:[g~~u~~ilt]  
-__guinea pig__ :mega:  
+__guilt__ _n_ :mute:[g~~u~~ilt]  
+__guinea pig__ _n_ :mega:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
-__guitar case__ :camera:  
-__guitar__ :mute:[g~~u~~itar]  
+__guitar case__ _n_ :camera:  
+__guitar__ _n_ :mute:[g~~u~~itar]  
 __Gulag__ _n_ :two::hammer:  
 __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
 __gullibility__  
 __gullible__ _adj_ :seven: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
-__gully__ _We had a real gully washer in the forenoon._  
+__gully washer__ _n_ _We had a real gully washer in the forenoon._  
 __gulosity__ _n_ Excessive appetite. _Syn_ greediness  
 __gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
 __gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
@@ -6133,9 +6133,9 @@ __gun show__
 __gun-shy__  
 __gung-ho__ _adj informal_ :six::hammer:  
 __gunman__ _n_ :two::hammer:  
-__gunnel__ _The reel clanked once against the aluminium gunnel._  
+__gunnel__ _n_ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
-__gunships__ _Helicopter gunships._  
+__gunship__ _n_ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwhale__ _n_ :two::hammer:  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
@@ -6146,13 +6146,12 @@ __gush<sup>1</sup>__ _n_ :two::hammer:
 __gush<sup>2</sup>__ _v_ :nine::m: (gushes, gushed, gushing) __1__ To flow forth suddenly in great volume: water gushing from a hydrant. _Kids were dancing in the gushing water._ __2__ To emit a sudden and abundant flow, as of tears. __3__ To make an excessive display of sentiment or enthusiasm: gushed over the baby.  
 __gushing__ _adj_  
 __gushy__  
-__gusseted__ _Gusseted underarms._  
+__gusseted__ _adj_ _Gusseted underarms._  
 __gussets__  
 __gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
 __gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ _n_ :two::hammer:  
 __gut__ _v_ _Trump could gut the agency’s budget._  
-__gut-bucket__ _A gut-bucket string band._  
 __guts__ _n_ _slang_ Courage.  
 __gutsy__  
 __gutted__ _adj_ _informal_ Disappointed and upset.  
@@ -6161,7 +6160,7 @@ __guttersnipe__ _n_ :two: A child who spends most of his time in the streets esp
 __guzzle__ _v_ :three::hammer: _Guzzling ice water._  
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
-__GWB__ George Washington Bridge.  
+__GWB__ _abbr_ George Washington Bridge.  
 __GWTW__ _abbr_ Gone With The Wind.  
 __gym rat__ _n_ (gym rat) _He’s a gym-rat type of guy._  
 __gymkhana__  
