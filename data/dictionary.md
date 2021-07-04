@@ -210,7 +210,7 @@ __affiliate__
 __affix__ _v_  
 __afflict__ _v_ :two: Cause physical pain or suffering in. _Syn_ smite _My grandmother is afflicted with arthritis, and it makes it hard for her to get around._ _Hepatitis C afflicts some 150 million people._  
 __affluence__ _n_ :two: The state of having a great deal of money; wealth. _A sign of our growing affluence._ _Syn_ wealth, prosperity, opulence, fortune  
-__affluent__ _adj_ :five: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
+__affluent__ _adj_ :six: (especially of a group or area) Having a great deal of money; wealthy. _Affluent parents._ _In the United States and other affluent nations._  
 __afford__ _v_ :two::hammer: _We can’t afford it._  
 __affordable__ _adj_ :two::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
@@ -1211,7 +1211,7 @@ __billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (militar
 __billfold__ _n_  
 __billing__ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
-__billow<sup>2</sup>__ _v_  
+__billow<sup>2</sup>__ _v_ :two::hammer:  
 __bin__ _n_ __1__ A large container or enclosed space for storing something in bulk, such as coal, grain, or wool. _A man has been rescued after falling in a soybean bin._  
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
@@ -2543,6 +2543,7 @@ __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicking__ _Things seem to be making sense and clicking._  
+__clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
 __climbing__ _n_ :mute:[clim~~b~~ing]  
@@ -6184,13 +6185,13 @@ __hackwork__ _n_
 __haemodialysis__ _n_  
 __haemophilia__  
 __haft sin__  
+__hag__ _n_ _Screaming histerically like Shakespearean hags._  
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
 __haggis__ _n_ :two::hammer:  
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
-__hag__ _n_ _Screaming histerically like Shakespearean hags._  
 __hah__ _interj_ A variant spelling of ha.  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
@@ -7089,7 +7090,7 @@ __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entr
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
-__inimical__  
+__inimical__ _adj_ :two::hammer:  
 __inimitable__ _adj_  
 __iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
@@ -7586,7 +7587,7 @@ __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _S
 __lackadaisical__ _adj_ :four: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
-__laconic__ _adj_ :two: Using or marked by the use of few words; terse or concise.  
+__laconic__ _adj_ :three: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
@@ -8429,7 +8430,7 @@ __metronome__
 __mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
 __MIA__ _abbr_ :two: Missing in action.  
-__miasma__ _n_  
+__miasma__ _n_ :two::hammer:  
 __mick__ _n_ :three::hammer:  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
@@ -8688,6 +8689,7 @@ __mountaintops__ _n_
 __mountebank__  
 __mourner__ _n_  
 __mournfully__  
+__mouse potato__ _n_ [:scroll: Formed on the pattern of couch potato. Mouse refers to the electronic mouse typically used with a computer. Earliest documented use: 1993.] Someone who lives a sedentary life, spending large amounts of leisure time playing computer games, surfing the net, streaming videos, etc.  
 __mouser__ _n_ An animal, especially a cat, that catches mice.  
 __mouth__ _v_  
 __mouth-watering__  
@@ -8790,6 +8792,7 @@ __mycoplasma__ _n_ Any of a group of very small microorganisms without cell wall
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
 __myocarditis__ _n_  
+__myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a person or an animal.  
 __myopia__ _n_ :pencil2::two::hammer:  
 __myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
@@ -8993,7 +8996,7 @@ __nom de guerre__
 __nomadic__  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
-__non sequitur__ _n_ :five: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
+__non sequitur__ _n_ :six: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
 __non-committal__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
@@ -10104,7 +10107,8 @@ __pliant__ _adj_ :three::hammer: _A pliant young waitress._
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
 __pliers__ _n pl_ (plurale tantum)  
 __plies__ _v_  
-__plight__ _n_ :six: Tough situation.  
+__plight<sup>1</sup>__ _n_ :seven: __1__ An unfortunate situation. __2__ A pledge. __3__ A fold, wrinkle, braid, etc. Also called plait or pleat.  
+__plight<sup>2</sup>__ _v_ __1__ To become engaged to marry. __2__ To promise. __3__ To fold, wrinkle, braid, etc.  
 __plinian__ _adj_  
 __plinth__ _n_ :four::hammer: (plinths)  
 __plod__ _v_ :eight: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
@@ -10486,7 +10490,7 @@ __profligate<sup>2</sup>__ _n_ :three::hammer:
 __profoundly__  
 __profusely__ _adv_ :two::hammer:  
 __profusion__  
-__progeny__  
+__progeny__ _n_ :two::hammer:  
 __prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __Prohibitionists__  
