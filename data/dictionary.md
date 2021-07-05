@@ -1197,6 +1197,7 @@ __biggie__ _n_ _slang_ :four::hammer: _Pearl Harbor was a biggie._
 __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
+__bijou__ _n_ __1__ A small dainty usually ornamental piece of delicate workmanship. A small, exquisitely wrought trinket. __2__ Something delicate, elegant, or highly prized.  
 __bikeshed<sup>1</sup>__ _n_  
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
@@ -1690,7 +1691,8 @@ __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a
 __brownstones__ _n_  
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
 __bruin__  
-__bruited__  
+__bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
+__bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
 __brush__ _To brush fires in California._ _The goats cleared brush._  
@@ -5283,6 +5285,7 @@ __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :two::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
+__footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose__ _adj_ :two::pencil2::hammer:  
 __footwork__ _n_ :two::hammer:  
 __foozle__ _v_  
@@ -6203,7 +6206,7 @@ __hairline__
 __hairpiece__ _n_  
 __haking__  
 __halcyon__ _adj_ :three::hammer::pencil2: _Halcyon time of romance._  
-__hale__ _adj_ _A real hale-and-hearty type with a warm smile._  
+__hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
 __half__ _adj, adv, n_ :mute:[ha~~l~~f]  
 __half-baked__ _adj_ :dart: _A half-baked plan to launch a start-up._  
@@ -7186,7 +7189,7 @@ __inurnment__
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
-__inveigle__ _v_ Influence or urge by gentle urging, caressing, or flattering.  
+__inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __invoice__ _v_  
 __invoke__  
@@ -8187,6 +8190,7 @@ __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman su
 __man<sup>1</sup>__ _n_  
 __man<sup>2</sup>__ _v_ (manning)  
 __manacle__ _n_  
+__manavelins__ _n pl_ _slang_ Odds and ends of food. _Syn_ leftovers  
 __mandalas__ _n_  
 __Mandan man__  
 __mandarin__ _n_ (fruit)  
@@ -9091,7 +9095,7 @@ __nutmeg__ _n_
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
-__oaf__ _n_ :three: (oafs) A person regarded as stupid or clumsy. _Syn_ goon, lout  
+__oaf__ _n_ :four: (oafs) __1__ A stupid person. _Syn_ boob __2__ A big clumsy slow-witted person. _Syn_ goon, lout  
 __oafish__ _adj_ :two::hammer:  
 __oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
@@ -9270,7 +9274,7 @@ __opossum__ _n_
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opposition__ _n_ :mega:  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
-__opprobrium__ _n_  
+__opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
 __opt__ _v_  
@@ -9946,7 +9950,7 @@ __pilfered__ _v_
 __piling__ _n_ _A deserted cabin built on pilings._  
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
-__pillbox__ _n_ _A plum-colored pillbox hat._  
+__pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
@@ -13772,6 +13776,8 @@ __tequila poppers__
 __tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __teriyaki__ _n_  
 __termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
+__terpsichorean<sup>1</sup>__ _adj_ Of or relating to dancing.  
+__terpsichorean<sup>2</sup>__ _n_ A dancer.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
 __terrace<sup>2</sup>__ _v_ Make into terraces as for cultivation. _The Incas terraced their mountainous land._  
 __terrapin__  
