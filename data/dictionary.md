@@ -6012,13 +6012,12 @@ __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._
 __grimly__  
 __grimy__ _adj_  
 __grinch__ _n_  
-__grind__ _Most of us are more focused on the daily grind._  
+__grind<sup>1</sup>__ _n_ :two::hammer: _Most of us are more focused on the daily grind._ _The grind of life on the road._  
+__grind<sup>2</sup>__ _v_ (grinding) _Bumping and grinding._  
 __grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
 __grinding half__ _“The people’s business had come to a grinding half, and nothing was going to happen,” he said._  
-__grinding__ _Bumping and grinding._  
-__gring__ _The grind of life on the road._  
 __grip__ _v_  
-__grip-and-grin__ _Grip-and-grin shots._  
+__grip-and-grin__ _n_ __1__ _colloquial_ An event at which one is expected to smile and shake hands for a photograph. __2__ _colloquial_ A photograph of people looking towards the camera and smiling while they shake hands, typically taken at such an event. _Grip-and-grin shots._  
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
@@ -6029,7 +6028,7 @@ __gristle__ _n_ :three::hammer:
 __grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
-__grittier__ _It makes the queso a bit grittier._  
+__grittier__ _adj_ _It makes the queso a bit grittier._  
 __gritting one’s teeth__  
 __gritty__ _adj_ :nine::m: __1__ Composed of or covered with particles resembling meal in texture or consistency. __2__ Willing to face danger. _Syn_ game, gamey, gamy, mettlesome, spirited, spunky, brave, courageous _The gritty determination._ _A gritty victory._  
 __grizzle__ _v_  
@@ -6086,20 +6085,19 @@ __grungy__ _adj_ :two::hammer:
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You’ll have as many troopers as you need for the grunt work._ __3__ _slang_ One who performs routine or mundane tasks. _The grunt work._  
 __grunted__ _v_ :four::hammer:  
 __guacamole__ _n_  
-__guard__ :mute:[g~~u~~ard]  
-__guess__ :mute:[g~~u~~ess]  
+__guard__ _n, v_ :mute:[g~~u~~ard]  
+__guess__ _n, v_ :mute:[g~~u~~ess]  
 __guesstimate__ _n informal_ An estimate based on conjecture.  
-__guesstimation__ does not exist  
+__guesstimation__ _n_  
 __guesswork__ _n_ :two::hammer:  
-__guest claim__ _Guest claim no. 170374._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
 __guffaw<sup>1</sup>__ _n_ :two::hammer:  
 __guffaw<sup>2</sup>__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
-__guide__ :mute:[g~~u~~ide]  
+__guide__ _n, v_ :mute:[g~~u~~ide]  
 __guidepost__ _n_  
-__guidet__ _Two guidettes._  
+__guidette__ _n_ (guidettes) _slang, US, ethnic slur_ [:scroll: guido + _-ette_] Italian-American female; an American female of Italian descent. _Two guidettes._  
 __guild__ _n_ :mega: _The brass guild._  
 __guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
