@@ -5976,30 +5976,29 @@ __gravitas__ _n_ :four: A serious and impressive attitude or way of behaving. _S
 __gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
-__graybeards__ _Senate graybeards._  
+__graybeard__ _n_ _Senate graybeards._  
 __grayling__  
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
-__grazing land__ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
-__GRE__ A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
+__grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
+__GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
 __Great Dane__  
-__great strides__ _He made great strides during his presidency._  
+__stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __Great War__  
-__great-grandchildren__  
-__great-granddaughters__ :pencil2:  
+__great-grandchild__ _n_ (great grandchildren)  
+__great-granddaughter__ _n_ :pencil2: (great granddaughter)  
 __great-grandfather__ _n_  
 __great-grandsons__  
-__greater area__ _Greater Tokyo area._  
 __greave__ _n_ :three::hammer: (greaves) _The man wore a mail vest and greaves._  
 __green card wedding__  
-__green thumb__ _Not everyone has a green thumb._  
+__green thumb__ _n_ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
 __green-eyed__ _adj_ Jealous.  
 __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
-__greenwich__ :mute:[green~~w~~ich]  
+__Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
 __griddle__  
 __gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
@@ -6018,7 +6017,6 @@ __grinch__ _n_
 __grind<sup>1</sup>__ _n_ :two::hammer: _Most of us are more focused on the daily grind._ _The grind of life on the road._  
 __grind<sup>2</sup>__ _v_ (grinding) _Bumping and grinding._  
 __grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
-__grinding half__ _“The people’s business had come to a grinding half, and nothing was going to happen,” he said._  
 __grip__ _v_  
 __grip-and-grin__ _n_ __1__ _colloquial_ An event at which one is expected to smile and shake hands for a photograph. __2__ _colloquial_ A photograph of people looking towards the camera and smiling while they shake hands, typically taken at such an event. _Grip-and-grin shots._  
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
