@@ -47,6 +47,7 @@ __abasiophilia__ _n_
 __abate__ _v_ (abating)  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
+__abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
 __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
 __aberrant__ _adj_  
@@ -334,6 +335,7 @@ __allies__ _n_
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
+__allot__ _v_  
 __allotment__ _n_ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
@@ -1994,6 +1996,7 @@ __callousness__
 __callow__ _adj_ :four::hammer:  
 __calm__ :mute:[ca~~l~~m]  
 __caltrops__ _n_  
+__calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
 __camaraderie__  
 __Cambodia__  
@@ -3627,6 +3630,7 @@ __desecration__ _n_ :two::hammer:
 __desensitize__ _v_  
 __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._  
 __deserted__ _adj_ _Most of the desks were deserted._  
+__desiccate__ _v_ :two: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
 __desideratum__ _n_ Something desired as a necessity.  
 __design__ :mute:[desi~~g~~n]  
 __designated driver__ _n_ The member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home.  
@@ -4604,6 +4608,7 @@ __essentials__ _n_
 __established__ _Established 1978._  
 __esteemed__ _v_ _Our esteemed allies._  
 __estival__ _adj_ Of or relating to the summer.  
+__estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
@@ -4906,6 +4911,7 @@ __feet__ _They were stung by a man who sells socks without feet._
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
+__felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _I am a fellow student._  
@@ -5431,6 +5437,7 @@ __free ride__ _n_ _informal_ :two: Something that is obtained or granted without
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
+__freebooter__ _n_ Someone who takes spoils or plunder (as in war). _Syn_ looter, pillager, plunderer, raider _He was a genial freebooter, living off the enemy, without fear or shame._  
 __freeloading__  
 __freewheeling__ _adj_ :nine: _informal_ Unrestrained in manner, actions, etc.; uninhibited. _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
 __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
@@ -5983,7 +5990,6 @@ __grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and 
 __GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
 __Great Dane__  
-__stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __Great War__  
 __great-grandchild__ _n_ (great grandchildren)  
 __great-granddaughter__ _n_ :pencil2: (great granddaughter)  
@@ -7394,7 +7400,7 @@ __jumpsuit__ _n_ :two::hammer:
 __jumpy__ _adj_ Nervous, afraid that something bad will happen.  
 __junction__ _n_ _Conjunction junctions._  
 __juncture__ _n_ :six: A point in time, esp a critical one (often in the phrase at this juncture). _At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically._ A juncture is a joint or connection between two things. Originally used in the physical sense, it has broadened in meaning to refer to an often urgent decision-making crossroads. _At some point you and your partner will reach a critical juncture and have to decide whether to get serious or break up._ It can also simply mean “point in time.” _She had never learned how to drive and, at this juncture, she knew she never would._ _Prep football at critical juncture._ _The game is at a critical juncture._  
-__Juneteenth__ _n_  
+__Juneteenth__ _n_ :two: June 19, celebrated by African-Americans as the anniversary of the emancipation of slaves in Texas on June 19, 1865.  
 __junior__ _adj_ :two: A person who is a specified number of years younger than someone else. _He’s five years her junior._ _My partner is 15 years my junior and I’m probably going to die before he does._  
 __juniper berries__  
 __juniper__  
@@ -8312,7 +8318,7 @@ __Maundy Thursday__
 __maven__ _n_ :three::hammer:  
 __maverick__ _n_ An independent individual who does not go along with a group or party.  
 __maw__ _n_ :four::hammer:  
-__mawkish__ _adj_ Effusively or insincerely emotional.  
+__mawkish__ _adj_ :two: Excessively and objectionably sentimental. Effusively or insincerely emotional. _Syn_ bathetic, hokey, maudlin, schmaltzy, sentimental, mushy, drippy _His pathos is often exaggerated until it passes into mawkish sentimentality._  
 __max out__ _v_ :three::hammer: (maxed out) _He maxed out on the education available to black children._ _The suitcase was maxed out._  
 __maxed__ _v_  
 __maxes__ _v_  
@@ -8751,7 +8757,7 @@ __muncher__ _n_
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :three::hammer:  
 __Muni bus__  
-__munificent__ _adj_  
+__munificent__ _adj_ :two: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
 __muons__ _n_ _Cosmic-ray muons._  
 __murder book__ _n_ The case file of a murder investigation.  
@@ -11975,6 +11981,7 @@ __shack__ _n_ :two::hammer:
 __shackle__ _n_  
 __shackles__ _n_ :three::hammer: _A bed with built-in shackles._  
 __shades__ _pl n_ __2__ (Clothing & Fashion) A slang word for sunglasses. :es: gafas de sol  
+__shadow cabinet__ _n_  
 __shadow__ _v_  
 __shady__  
 __shaft__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
@@ -13264,6 +13271,7 @@ __stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stre
 __strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals.  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were easing._  
+__stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __stridence__ _n_ :two::hammer:  
 __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; conflict. _Syn_ conflict, friction, discord, disagreement _Strife within the community._ :es: lucha, contienda  
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
@@ -15131,6 +15139,7 @@ __whiff<sup>1</sup>__ _n_ :three::hammer:
 __whiff<sup>2</sup>__ _v_  
 __whiffed__ _v_  
 __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
+__whilom__ _adj_ Having once been; former: _the whilom editor in chief._ _Syn_ erstwhile, former, late, old, once, onetime, past, previous, quondam, sometime  
 __whim__ _n_  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
