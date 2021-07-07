@@ -5862,7 +5862,7 @@ __goalie__
 __goalkeeper__  
 __goalpost__ _n_  
 __goaltender__  
-__goatee__ _Sagging goatee._  
+__goatee__ _n_ _Sagging goatee._  
 __gobble up__ _v_ :four::hammer: _Money-losing Pandora is gobbling up a former competitor on the cheap after huge rivals Apple and Google have entered the market._  
 __gobble<sup>1</sup>__ _v_ :three::hammer: _Gobbling a plate of spaguetti and meatballs._  
 __gobble<sup>2</sup>__ _n_  
@@ -5877,10 +5877,10 @@ __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He go
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
-__Golden Boot__ _The race for the Golden Boot._  
+__Golden Boot__ _n_ _The race for the Golden Boot._  
 __golden parachute__ _n_ An agreement to pay generous compensation to a company executive if dismissed. From the idea of a parachute softening the blow of an ejection from a high office and the color golden alluding to the large payment received on dismissal.  
 __golden rule__  
-__golden__ :astonished: Indicating the fiftieth event of a series.  
+__golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.  
 __goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
@@ -5888,17 +5888,17 @@ __golliwog__ _n_
 __golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
-__gondola__ _A 10-person rescue gondola can be attached to a helicopter._  
+__gondola__ _n_ _A 10-person rescue gondola can be attached to a helicopter._  
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
-__good egg__ _A heel who learns how to be a good egg._  
+__good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
 __Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
-__goody-goody__ _Goody-goody expressions._  
+__goody-goody__ _adj, n_ _Goody-goody expressions._  
 __Goodyear, Charles__  
 __gooey__ _adj_ :five: __1__ Sticky, soft, and often sweet. _Gooey butter cake._ __2__ Oversweet and sentimental.  
 __goof__ _v_ _Goofing around._  
@@ -5907,7 +5907,6 @@ __googolplex__ _n_
 __gooks__ _n_  
 __goomey__  
 __goop__ _n_  
-__goose chase__ _A global goose chase._  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __goosebump__ _n_  
 __GOP__  
@@ -5963,7 +5962,6 @@ __grapplings__ _n_
 __grass-roots<sup>1</sup>__ _n_  
 __grass-roots<sup>2</sup>__ _adj_ _Grass-roots campaign._  
 __grassroots__ _pl n_ :two::hammer: _A grassroots effort._  
-__grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
@@ -5971,9 +5969,9 @@ __gratin__ _n_ _Sweet potato gratin._
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
 __graupel__ _n_ Precipitation consisting of snow pellets.  
-__grave liner__ _Grave liners are stored at the Travis County cemetery._  
+__grave liner__ _n_ (burial vault, burial liner, grave vault) A container, formerly made of wood or brick but more often today made of metal or concrete, that encloses a coffin to help prevent a grave from sinking. _Grave liners are stored at the Travis County cemetery._  
 __grave__  
-__gravel__ _The car was parked on the gravel drive._  
+__gravel__ _n_ _The car was parked on the gravel drive._  
 __gravely__  
 __graven__ _adj_ Cut or impressed into a surface. _Syn_ engraved, etched, inscribed, incised _The lines from the corners of his mouth seemed graven into his face._  
 __gravesite__  

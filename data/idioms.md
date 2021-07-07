@@ -582,6 +582,7 @@ __grand poobah__ The most important or powerful person in a group, organization,
 __grand scheme__ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
 __grasp at straws__ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
+__grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
 __great balls of fire__ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __great deal__ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
@@ -1516,7 +1517,8 @@ __whip by__ (whipping by) _The summer is whipping by._
 __whisper sweet nothings__ To murmur words of affection to someone in a flirtatious manner.  
 __white lie__ Lie to protect another person’s feelings.  
 __white on rice__ As close as can be. Often used in the phrase “like white on rice.”  
-__wild goose chase__ A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._  
+__wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
+__wild goose chase__ :two: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
 __wishy washy__ _slang_ Indecisive or not reliable.  
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
