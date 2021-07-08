@@ -10,3 +10,15 @@ __inimical__ _adj_ __1__ Being adverse often by reason of hostility or malevolen
 __disembarrass__ _v_ Relieve from. _Syn_ rid, free  
 __vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
+__Mesoamerica__ _n_ Another name for Central America.  
+__rummage__ _v_  
+__spangle<sup>1</sup>__ _n_ __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
+__spangle<sup>2</sup>__ _v_ __1__ (tr) To adorn or cause to sparkle by covering with or as if with spangles: _Lights spangled the night skyline._ __2__ (intr) To sparkle in the manner of spangles.  
+__Old Glory__ _n_ The flag of the United States.  
+__bunting__ _n_  
+__gala__ _n_  
+__firmament__ _n_ /ˈfɜːməmənt/ The expanse of the sky; heavens.  
+__gormandize__ _v_ To eat greedily, gluttonously, or ravenously. _Syn_ devour  
+__pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
+__farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
+__squamous__ _adj_  
