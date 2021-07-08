@@ -5799,7 +5799,7 @@ __glint__ _n_ :two::hammer: _The glint of spears._
 __glinting__ _v_  
 __glissade<sup>1</sup>__ _n_  
 __glissade<sup>2</sup>__ _v_  
-__glisten__ :mute:[glis~~t~~en]  
+__glisten__ _n, v_ :mute:[glis~~t~~en]  
 __glister__ _n_ The quality of shining with a bright reflected light. _Syn_ glitter, sparkle, scintillation  
 __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“private parties on Park Avenue and Central Park West, where the literati mingled with glitterati” (Skylines)._  
 __glitz__ _n_ :two::hammer:  
@@ -5811,7 +5811,7 @@ __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chi
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
 __gloom<sup>2</sup>__ _v_  
-__gloppy__ _It will be thick, gloppy, wall-paper-paste-type snow._  
+__gloppy__ _adj_ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
 __glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
@@ -5826,19 +5826,17 @@ __glycemic__
 __GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
 __gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
-__gnash__ _Gnasing teeth._  
-__gnashing__  
+__gnash<sup>1</sup>__ _v_ :two::hammer: _Gnashing teeth._  
+__gnash<sup>2</sup>__ _n_  
 __gnat__ _n_ :four: Any of various small usually biting dipteran flies. :es: (British usage) mosquito  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
-__gnome__ :mute:[~~g~~nome]  
+__gnome__ _n_ :mute:[~~g~~nome]  
 __gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
-__gnu__ :mute:[~~g~~nu]  
+__gnu__ _n_ :mute:[~~g~~nu]  
 __go all out__ _v_ :dart: Perform a task as well as possible. _Syn_ do one’s best, give full measure, give one’s best  
 __go apeshit__  
 __go dutch__  
 __go for it!__  
-__go native__ _You going native on me, Supercop?_  
-__go on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __go over the top__  
 __go over the wire__  
 __go through the roof__  
@@ -5846,14 +5844,12 @@ __go to the dogs__
 __go to the wire__  
 __go to war__  
 __go under__ _phr v_ __1__ To suffer defeat or destruction; fail. _The newspaper went under._ __2__ To lose consciousness.  
-__go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-ahead goal__  
 __go-for-broke__  
 __go-getter__  
 __go-kart__ _n_ (go-cart) A small low motor vehicle with four wheels and an open framework; used for racing.  
 __go-pills__ _n_  
-__go-round__ _The fourth go-round in the_ Madagascar _franchise._  
-__go-to__ _The go-to method for 3D printing._  
+__go-to__ _adj_ _The go-to method for 3D printing._  
 __goad__ _v_ :seven::hammer: (goaded, goading)  
 __goads__ _n_  
 __goahead__  
