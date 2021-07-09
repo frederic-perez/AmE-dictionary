@@ -3018,6 +3018,7 @@ __coterie__ _n_ :two::hammer: (coteries)
 __cottage__ _n_ :two::astonished::hammer:  
 __cotton candy__ _n_ :two::hammer:  
 __cotton dry__  
+__cotton gin__ _n_ A machine that separates the seeds, seed hulls, and other small objects from the fibers of cotton.  
 __cotton swabs__  
 __couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
@@ -5754,14 +5755,13 @@ __gimbal__ _A sensor on a pivoting gimbal._
 __gimmick__ _n_ :two::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
-__gin rummy__ _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
+__gin rummy__ _n_ _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  
 __gingersnap__ _n_  
 __gingham__  
 __gingivitis__ _n_  
 __ginning__  
-__gins__ _He passed cotton gins._  
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __girdle__ _v_ (girdled)  
@@ -5769,9 +5769,6 @@ __giridon__
 __gist__ _n_ :mega:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _n_ _informal_ _chiefly US_ Guantánamo  
-__give (someone) a call__ _Give me a call._  
-__give a shit__ _No-one gave a shit._  
-__give and take__ _Love don’t come easy. It’s a game of give and take._  
 __give in__ _phr v_ :two: __1__ To hand in; submit: _She gave in her report._ __2__ To cease opposition; yield. _I’m never giving in._  
 __give it up for__ _phr v_ :nine::m: Applaud. _Please, give it up for our next guest!_ _Give it up for my friend Adam!_  
 __give someone credit__ _n_ _Dave gave him credit for trying._  
@@ -5782,17 +5779,15 @@ __giveback__ _n_
 __glabella__ _n_ The smooth area between the eyebrows just above the nose.  
 __glad-hand__ _v_  
 __gladdened__  
-__gladed__ _Gladed terrain._  
 __glades__ _n_ _Heathy glades._  
-__glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
-__glass cliff__ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
-__glass slipper__ _(Cinderella)_  
+__glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
+__glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :five: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
-__glimmer__ _A glimmer of hope._  
+__glimmer__ _n, v_  
 __glimpse<sup>1</sup>__ _n_  
 __glimpse<sup>2</sup>__ _v_  
 __glint__ _n_ :two::hammer: _The glint of spears._  
