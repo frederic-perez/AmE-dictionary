@@ -483,10 +483,10 @@ __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every 
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (some kind of) mileage out of (something)__ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __get (the hell) out of Dodge__ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
-__get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
-__get a jump on (someone or something)__  
 __get a grip__ :two::hammer:  
+__get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
 __get a hold on/of (oneself)__  
+__get a jump on (someone or something)__  
 __get a kick out of (someone or something)__ :five::hammer: _You’ll get a kick out of this!_  
 __get ahead of (oneself)__ To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
@@ -1424,6 +1424,7 @@ __the granddaddy of them all__ The biggest, oldest, most impressive, or most res
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
 __the happy day__ A wedding, or marriage in general.  
 __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worry, or anxiety. Often used houses, for example, give many people the heebie-jeebies, while others get the heebie-jeebies from circus clowns. Often used with “get” or “give.” _I have the heebie-jeebies whenever I go to the dentist._  
+__the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ The sincere, unadulterated truth.  
 __the idiot box__ A television set, or television in general.  
 __the jet set__ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
@@ -1465,6 +1466,7 @@ __tight as a drum__ Taut or close-fitting; also, watertight.
 __tighten your belt__ To spend less money.  
 __time and (time) again__ :three::dart: Repeatedly; on multiple occasions.  
 __time and again__ Again and again; repeatedly.  
+__tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
 __to date__ :three: Until now. _To date, no winners have attended._  
@@ -1475,6 +1477,7 @@ __to see red__ Very angry.
 __to that end__ :four::hammer: (to that end,)  
 __to this day__ :four::hammer: _I don’t know if they still do it to this day._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
+__top off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
 __toss and turn__ Sleep badly.  

@@ -13,8 +13,6 @@ __, so why (even) bother?__
 __, to say the least.__  
 __“duh” department__ :astonished: _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
-__#s__ _abbr_ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
-__1:1__ _abbr_ One-To-One Relationship.  
 __101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
 __18-wheeler__ _n_ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
@@ -30,14 +28,8 @@ __à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
-__A/C__ _abbr_ :two: __1.__ Account. __2__ Account current. __3__ Air conditioning.  
 __A4__ :astonished: _A4 stainless steel._  
-__AA__ _abbr_ __1__ Alcoholics Anonymous. __2__ Antiaircraft.  
-__AAA__ _abbr_ (Automotive Engineering) Automobile Association of America.  
 __aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
-__AAPI__ _abbr_ Asian Americans and Pacific Islanders.  
-__AAVE__ _abbr_ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
-__AB__ _abbr_ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
@@ -160,12 +152,10 @@ __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis f
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
-__ADD__ _abbr_ Attention deficit disorder.  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
 __address__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
-__ADHD__ _abbr_ Attention deficit hyperactivity disorder.  
 __adhere__ _v_  
 __adhesive__ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
@@ -768,7 +758,6 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __azure__  
-__B & E__ _abbr_ :two: Breaking and entering. _Somebody did a B&E on you._  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ :mega:  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
@@ -980,7 +969,6 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
-__BCE__ _abbr_ Before the Common Era.  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __be friends__ _I was good friends with her._  
 __be no picnic__ _Looking after four children is no picnic._  
@@ -1386,9 +1374,6 @@ __bluster<sup>1</sup>__ _v_
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
 __BM__ Bowel movement (take a dump).  
-__BMX__ _abbr_ :two::hammer: _BMX bike._  
-__bn__ _abbr_ Billion. _US $30bn._  
-__BO__ _abbr_ :two: Body odor.  
 __board__ _n_ :two::hammer: __9__ _Basketball_ A rebound. _Encouraging Amazon’s board (member) diversity._  
 __boarding kennels__ _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
@@ -1707,7 +1692,6 @@ __brussels sprout__ _n_ :two::hammer: (Brussels sprout)
 __brutal__  
 __brutalized__ _v_  
 __brutish__ _adj_ :two::hammer:  
-__BS__ _abbr_ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
@@ -2215,9 +2199,7 @@ __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __CBT__  
-__CDC__ _abbr_ :three: Center for Disease Control. _A CDC van._  
 __ce__  
-__CE__ _abbr_ __1__ Common Era. __2__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __ceasefire__  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
@@ -2955,7 +2937,6 @@ __cop__ _v_ _My deal was that all charges were dropped against her and I would c
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
-__COPD__ _abbr_ Chronic Obstructive Pulmonary Disease (emphysema).  
 __cope__ _A grey cope._  
 __copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
@@ -3071,7 +3052,6 @@ __coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__  
 __covey__  
-__COVID__ _abbr_ Short for coronavirus disease.  
 __cow__ _v_ :three::hammer: (cowed) _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
@@ -3084,7 +3064,6 @@ __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially a
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :two::hammer: (cozened)  
 __cozy__  
-__CPR__ _abbr_ :two: Cardiopulmonary resuscitation.  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
@@ -3333,7 +3312,6 @@ __cuttin’ a rug__
 __cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __CVD__ Cardiovascular disease.  
-__CVS__ _abbr_ Computer Vision Syndrome.  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
@@ -3344,7 +3322,6 @@ __cytometer__
 __cytometry__  
 __D-ring inset__  
 __d’oh__ _interj_ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
-__D&D__ _abbr_ :three: Dungeons and Dragons.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
@@ -3917,7 +3894,6 @@ __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug o
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
 __dizzy__ _adj_ :two::hammer:  
-__DMV__ _abbr_ :two: Department of Motor Vehicles.  
 __do it by the numbers__  
 __do math__  
 __do-gooder__  
@@ -4061,7 +4037,6 @@ __downturn__ _n_ :three::hammer: (downturns)
 __downward__ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :five::hammer: (dowries) :es: dote  
-__DOY__ _abbr_ Day of year.  
 __doyenne__  
 __doze__ _v_  
 __Dr. Seuss__ United States writer of children’s books (1904-1991).  
@@ -4454,7 +4429,6 @@ __empty box__ _The Etihad is the last empty box on his list._
 __empty nester__ _He and wife Bekki areempty nesters._  
 __empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
-__EMT__ _abbr_ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __emulate__ _v_  
 __emulsified__ _v_  
 __en masse__ _adv_ :two: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._  
@@ -4488,7 +4462,6 @@ __endorse__ _v_ Give support or one’s approval to. _Syn_ second, back _Before 
 __endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
-__ENDR__ _abbr_ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _Endurance race._  
 __endure__ _v_ Last for a long time.  
@@ -4517,7 +4490,6 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
-__ENT__ _abbr_ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
@@ -4602,7 +4574,6 @@ __eschews__ _v_
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
 __esoteric__ _adj_  
-__ESP__ _abbr_ Extrasensory perception. _ESP powers._  
 __espadrilles__ _n_  
 __esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
@@ -5566,7 +5537,6 @@ __futile__ _adj_ :three::hammer:
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
-__GA__ _abbr_ Gamblers Anonymous.  
 __gab away__ _v_ _The gang was gabbing away._  
 __gab<sup>1</sup>__ _v_  
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
@@ -5669,10 +5639,8 @@ __gaze<sup>1</sup>__ _n_
 __gaze<sup>2</sup>__ _v_  
 __gazebo__  
 __gazette__ _n_  
-__GDP__ _abbr_ Gross domestic product.  
 __gear__ _n_ :two::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
-__GED__ _abbr_ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __gee__ _interj_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
 __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
@@ -5815,7 +5783,6 @@ __glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas 
 __glut<sup>2</sup>__ _v_  
 __glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
 __glycemic__  
-__GMO__ _abbr_ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
 __gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
 __gnash<sup>1</sup>__ _v_ :two::hammer: _Gnashing teeth._  
@@ -6152,8 +6119,6 @@ __guttersnipe__ _n_ :two: A child who spends most of his time in the streets esp
 __guzzle__ _v_ :three::hammer: _Guzzling ice water._  
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
-__GWB__ _abbr_ George Washington Bridge.  
-__GWTW__ _abbr_ Gone With The Wind.  
 __gym rat__ _n_ (gym rat) _He’s a gym-rat type of guy._  
 __gymkhana__  
 __gyoza__ _n_  
@@ -6351,7 +6316,6 @@ __haze__ _v_ (hazing) :two::hammer: _Allegations of hazing and telling._
 __hazel__  
 __hazing__ _n_ :dart: (Education) _chiefly US and Canadian_ the bullying of a student in school. _The college hazing policy._  
 __hazmat suit__  
-__HDL-C__ _abbr_ High-density-lipoprotein cholesterol.  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
 __head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
@@ -6809,7 +6773,6 @@ __hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __HVAC__  
-__hx__ _abbr_ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __hyacinth__ _n_ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
@@ -6868,9 +6831,7 @@ __idiot box__
 __idle__ _v_  
 __idolatry__ _n_ :two::hammer:  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
-__ie.__ _abbr_ That is to say.  
 __iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
-__IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
@@ -7108,7 +7069,6 @@ __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpat
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
 __inquisitiveness__  
-__INRI__ _abbr_ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __inroad__ _n_  
 __inroads__ _n_ :four::hammer:  
 __ins and outs__ _pl n_ :two::hammer:  
@@ -7186,7 +7146,6 @@ __invoice__ _v_
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
-__IP__ _abbr_ Intelectual property.  
 __ipso facto__ _adv_  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
@@ -7213,7 +7172,6 @@ __isobar__ _n_
 __issuance__ _n_ :three::hammer:  
 __issue__ _v_  
 __isthmus__  
-__ISV__ _abbr_ Independent software vendor.  
 __IT Band__  
 __it dawned on someone__  
 __it so happens__  
@@ -7545,7 +7503,6 @@ __KO<sup>2</sup>__ _v_ To knock unconscious, especially in a boxing match; knock
 __Kodiak__  
 __koi__ _v_  
 __koinonia__  
-__KOL__ _abbr_ Key opinion leader.  
 __kombucha__ _n_ _Ginger flavor kambucha._  
 __kook__ _n_ _slang_ :two::hammer:  
 __kooky__ _adj_ _slang_ :three: Crazy, mentally unbalanced. Characteristic of a kook; strange or crazy.  
@@ -7651,7 +7608,6 @@ __laser wall__
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
-__LASIK__ _abbr_ Laser-assisted in situ keratomileusis. _Lasik surgery._  
 __lassitude__ _n_ :three: Tiredness and a lack of energy.  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
@@ -7705,8 +7661,6 @@ __layout__ _n_
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
 __layup__ _n_ :three::hammer: (layups)  
 __laziness__ _n_ :pencil2:  
-__lbs.__ _abbr_ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
-__LDS__ _abbr_ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
 __leaden__  
@@ -7798,7 +7752,6 @@ __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for
 __levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
-__LGBTQ__ _abbr_ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :five::hammer:  
@@ -8098,7 +8051,6 @@ __lymphatic__ _adj_ __1__ Pertaining to, containing, or conveying lymph. __2__ (
 __lynch__ _v_ :three::pencil2: To punish (a person) without legal process or authority, especially by hanging, for a perceived offense or as an act of bigotry.  
 __lyre__  
 __lysimeter__  
-__LZ__ _abbr_ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __mac and cheese__ _n_ Abbreviation of macaroni and cheese. _He tossed herbs into the mac and cheese and spicy wing dishes._  
 __mac__ _n_  
 __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.  
@@ -8317,7 +8269,6 @@ __mayoketchup__
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
-__MDMA__ _abbr_ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
 __mead__ _n_  
@@ -8422,7 +8373,6 @@ __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products lan
 __metronome__  
 __mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
-__MIA__ _abbr_ :two: Missing in action.  
 __miasma__ _n_ :two::hammer:  
 __mick__ _n_ :three::hammer:  
 __micturate__ _v_ A less common word for urinate.  
@@ -8560,7 +8510,6 @@ __mitzvah__
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __MLK__  
-__MO__ _abbr_ :six: Modus operandi. _With the same MOs._  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
@@ -8649,8 +8598,6 @@ __mortice__
 __mortification__ _n_ :two::hammer:  
 __mortify__ _v_ :six::hammer: (mortified)  
 __mortuaries__  
-__MOS__ _abbr_ :two: Mom over shoulder.  
-__mos.__ _abbr_ Months.  
 __mosh__  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
@@ -8696,11 +8643,8 @@ __mover__ _n_
 __mow__ _v_ To cut down grass with a machine.  
 __mowed__ _v_  
 __moxie__ _n_ :three: _slang_ _US and Canadian_ Courage, nerve, or vigour.  
-__MQTT__ _abbr_ Message Queuing Telemetry Transport.  
 __Mr Goodwrench__  
 __Mr. Such and Such__  
-__mRNA__ _abbr_ Messenger RNA.  
-__MSRP__ _abbr_ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  
 __much<sup>1</sup>__ _adj_  
 __much<sup>2</sup>__ _n_  
 __mucilaginous__ _adj_ Having the sticky properties of an adhesive.  
@@ -8778,7 +8722,6 @@ __mutism__ _n_
 __mutt__ _n_ :five::hammer:  
 __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
-__MVA__ _abbr_ Motor vehicle accident, or multi-vehicle accident.  
 __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
 __my ass__ _interj_ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
@@ -8802,8 +8745,6 @@ __mystique__ _n_ :pencil2:
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :three::hammer:  
-__N/A__ _abbr_ Not available.  
-__NA__ _abbr_ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
 __nadir__  
@@ -8843,12 +8784,10 @@ __nascence__
 __nascent__ _adj_ :three::hammer: _The nascent market._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
-__Nat Geo__ _abbr_ National Geographic.  
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __Native American__ _n_ _Native American reservation._  
 __nativism__ _n_ :two::hammer:  
-__NATO__ _abbr_ _North Atlantic Treaty Organization_  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
 __natty__ _adj_ :two: Neat, trim, and smart; dapper.  
@@ -8862,7 +8801,6 @@ __navigate__ _v_
 __naysayer__ _n_ :three::hammer:  
 __NB__  
 __NCO__  
-__NDA__ _abbr_  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
 __neatnik__ _n_ A very neat and tidy person.  
@@ -9026,7 +8964,6 @@ __normalcy__ _n_ :four::dart: In the early twentieth century, President Warren H
 __normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
 __norovirus__  
 __north of__ _phr_ More than. _Our base is Windows users worldwide, which is north of 1.2bn._ _The owners are seeking north of $20 billion for the company._  
-__nos__ _abbr_ Numbers: _nos. 9 and 10._  
 __nose > running noses__  
 __nose dive__  
 __nose-thumbing__ _n_ :camera: The placing of thumb to nose in derision or contempt.  
@@ -9054,7 +8991,6 @@ __nowcast__
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
 __noxious__  
 __nozzle__ _n_ :two::hammer:  
-__NPO__ _abbr_ _Latin_ Nil per os (nothing by mouth).  
 __nth__ _adj_  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
 __nuance<sup>2</sup>__ _v_ :five: (nuanced) Give nuances to. _The effect of the music is nuanced by the social situation of listeners._  
@@ -9108,7 +9044,6 @@ __oblivion__ _n_ :two::hammer:
 __oblivious__ _adj_ :five::hammer: _He is very oblivious._  
 __obnoxious__ _adj_ :three::hammer:  
 __obnubilate__ _v_  
-__obo__ _abbr_ :two: Or best offer.  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
 __obscure__ _v_  
 __obsequious__ _adj_ :three::hammer:  
@@ -9125,7 +9060,6 @@ __occasion__ _n_ :two::mega::pencil2::hammer:
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
 __occurr__ _v intr_ :pencil2:  
-__OCD__ _abbr_ :two::hammer:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
 __octogenarians__  
@@ -9140,7 +9074,6 @@ __oddsmakers__
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
 __odious__  
 __odometer__ _n_ :two::hammer:  
-__OEM__ _abbr_ :three::hammer: _OEMs._  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _prep_ _The gas smells of roggen eggs._  
@@ -9170,7 +9103,6 @@ __oft__ _adv_ :two::hammer: _The oft-hated SAT._
 __oft-shouting-sermon__  
 __often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :two::hammer:  
-__OG__ _abbr_ __1__ (Military) Officer of the guard. __2__ Original gangster.  
 __ogle__ _v_ :three::hammer: (ogled)  
 __oh man__ _interj_ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ _interj_ :two::hammer: _You went oh for two._  
@@ -9310,7 +9242,6 @@ __otherness__
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
 __OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
-__OTT__ _abbr_ Over the top.  
 __otter__  
 __ottoman__  
 __ouboros__ _n_  
@@ -9679,11 +9610,6 @@ __payback__ _n_ :two::hammer:
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
-__PB&J__ _abbr_  
-__PC__ _abbr_ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
-__PCP__ _abbr_ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
-__PDA__ _abbr_ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
-__PE__ _abbr_ Physical education. _There were a lot of students in there ready for a PE class._  
 __peach in syrup__ _n_ :es: melocotón en almíbar  
 __peach<sup>1</sup>__ _n_  
 __peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
@@ -10137,11 +10063,8 @@ __plush__ _adj_ :six: Things that are plush are luxurious and a little over the 
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
-__PM__ _abbr_ Particulate matter. Small particles in the air, containing a variety of components.  
-__PMS__ _abbr_ :two: Premenstrual syndrome.  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ _n_ :mute:[~~p~~neumonia]  
-__PO__ _abbr_ Parole officer.  
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
@@ -10286,7 +10209,6 @@ __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s 
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n_ _informal_ Toilet training.  
-__POTUS__ _abbr_ :dart: President of the United States. _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __pouch__ _n_  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
@@ -10310,10 +10232,6 @@ __powerlessness__
 __powermongers__ _n_  
 __powwows__ _n_  
 __pox__  
-__PPD__ _abbr_ Postponed. _(sporting events)_  
-__PPE__ _abbr_ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
-__PPG__ _abbr_ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
-__PR__ _abbr_ _The PR version of my life._  
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
 __practical joke__  
 __practice__ _n_ _A pediatrics practice._  
@@ -10573,8 +10491,6 @@ __psychology__ _n_ :mute:[~~p~~sychology]
 __psychopathic__  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
 __pterodactyl__ _n_ :mute:[~~p~~terodactyl]  
-__PTO__ _abbr_ Parent Teacher Organization.  
-__PTSD__ _abbr_ :four: Post-traumatic stress disorder.  
 __puberty blockers__ _n_ _(medicine)_  
 __pubes__ _n_  
 __public eye__  
@@ -10687,7 +10603,6 @@ __putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: esp�
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __puzzler__ _n_ A person or thing that puzzles.  
 __PVC__  
-__PX__ _abbr_ Physical Examination. _You run the PX for these characters?_  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
@@ -10701,7 +10616,6 @@ __q-tip__
 __Q-tips__ _n_ :three::hammer:  
 __Q.E.D.__  
 __Q&A__ _n_ _The gathering will feature question-and-answer sessions._  
-__QCT__ _abbr_ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
 __quack__ _n_ :six: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. __2__ A charlatan; a mountebank. _Partisan quacks._  
 __quadrennial__  
@@ -10780,7 +10694,6 @@ __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted a
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quotidian__ _adj_  
 __Quran__  
-__R/O__ _abbr_ Rule out.  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
@@ -11135,7 +11048,6 @@ __renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._
 __rent metal__  
 __rent__ _v_ _The elkhound’s hound was rent._  
 __rents__ _n_  
-__rep__ _abbr_ :three::hammer: _You have to do thousands of reps to reach such level._  
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
@@ -11245,7 +11157,6 @@ __Revolutionary War__
 __revolve__ _v_  
 __revue__ _n_ :two::mega: A light theatrical entertainment consisting of a series of short sketches, songs, and dances, typically dealing satirically with topical issue. _A kazoo revue._ :es: revista, show  
 __rezoning__  
-__RGA__ _abbr_ Republican Governors Association. _RGA chairman._  
 __rhabdomancy__  
 __rhapsodize__ _v_ :two::hammer:  
 __rhapsody__ _n_ :mute:[r~~h~~apsody] __1__ (music) A composition free in structure and highly emotional in character.  
@@ -11270,7 +11181,6 @@ __rickets__
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
-__RICO__ _abbr_ _He had been indicted on RICO charges._  
 __ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :four::hammer:  
@@ -11281,7 +11191,6 @@ __ride__ _n idiom_ One’s vehicle, especially an automobile. _You can park your
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
-__RIF__ _abbr_ _Reading Is Fundamental._  
 __rife__ _adj_ :nine::m: Use the adjective rife to mean “full of” or “widespread,” especially when you’re talking about something negative. If the lifeguard says the water is rife with jellyfish, you’re not going to want to swim in it. :es: _It is rife with mistakes._ > Está plagado de errores. _Smallpox was still rife._ > La viruela aún hacía estragos.  
 __riff<sup>1</sup>__ _v_ _informal_ :seven: (rif, riffs, riffed, riffing) To speak amusingly or make (amusing comments or remarks).  
 __riff<sup>2</sup>__ _n_ :three: __1__ An ostinato melodic phrase accompanying a soloist in jazz or rock music. __2__ Any variation or improvisation, as on an idea.  
@@ -11365,7 +11274,6 @@ __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the impor
 __roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
-__ROI__ _abbr_ Return on investment.  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_ :two: Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
@@ -11522,14 +11430,10 @@ __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rus
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
 __ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
-__RV__ _abbr_ :two: Recreational vehicle.  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers. _S’mores season!_  
-__s/s__ _abbr_ Stainless steel. _s/s appliances._  
-__s&h__ _abbr_ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
-__S&L__ _abbr_ _An S&L swinger._  
 __sabotage__ _n_  
 __saboteur__ _n_  
 __sac-a-lait__  
@@ -11902,7 +11806,6 @@ __seminal__ _adj_ _That was a seminal game._
 __seminoles__  
 __Semper fi__ _interj_ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
-__Sen.__ _abbr_ (pl. Sens.) _Sen. Bernie Sanders._  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
@@ -12346,7 +12249,6 @@ __skylight__
 __skyrocket__ _v_ :three::hammer:  
 __skyscraper__ _n_  
 __skywriting__  
-__SL,UT__ _abbr_ Abbreviation for Salt Lake City, Utah.  
 __slab__ _n_ :two::hammer: (slabs) _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
@@ -12516,7 +12418,6 @@ __smell test__
 __smelt__ _v_ :two: (smelting) Extract (metal) from its ore by a process involving heating and melting. _A smelting factory._  
 __smelter__ _n_ :two::hammer: (smelters)  
 __smelting__ _n_ :two: The process of extracting a metal from an ore by heating. _A smelting furnace._  
-__SMH__ _abbr_ Shaking my head.  
 __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
@@ -13109,7 +13010,6 @@ __stew<sup>2</sup>__ _v_ _I have no desire to stew in politics._
 __steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._  
 __stewardship__  
 __stewed tomatoes__  
-__STI__ _abbr_ :four: Sexually transmitted infection.  
 __stick > turnaround stick__  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
@@ -13566,7 +13466,6 @@ __systemic__ _adj_ :two::hammer:
 __syzygy__  
 __T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-ball__  
-__T-storm__ _abbr_ Thunderstorm.  
 __T&A__  
 __tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
 __tab<sup>2</sup>__ _v_ (tabbed, tabby)  
@@ -13815,7 +13714,6 @@ __the day’s full of spiders__
 __the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
 __the haves and the have nots__  
-__the hell out of__ _adv_ _idiomatic_ _informal + impolite_ Used as an intensifier. _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the name of the game__  
 __the order of the day__  
 __the writing on the wall__  
@@ -13985,7 +13883,6 @@ __tinker__ _v_ :three::hammer:
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
-__tip off__ _v idiom_ :three: (tip-off) To secretly inform the police or authorities.  
 __tip over__ _v_ :three::hammer:  
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
@@ -14016,9 +13913,6 @@ __tittle__ _n_ :two::astonished::pencil2: __1__ A small diacritic mark, such as 
 __tix__ _pl n_ _informal_ Tickets.  
 __tixker__  
 __tizzy__  
-__TM__ _abbr_ :three: Trascendental meditation.  
-__TMI__ _abbr_ Too much information.  
-__tn__ _abbr_ Trillion. _US $2.4tn._  
 __to be at sea__  
 __to be in the clear__  
 __to be unheard of__  
@@ -14041,7 +13935,6 @@ __toe-poppers__
 __toe-toppers__  
 __toe<sup>1</sup>__ _n_  
 __toe<sup>2</sup>__ _v_ :two::hammer: (toed)  
-__TOEFL__ _abbr_ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
@@ -14094,7 +13987,6 @@ __top dog__
 __top dollars__  
 __top flight__ _n_  
 __top hat__ _n_  
-__top off__ _v idiom_ _L.A. is topping off pools, watering lawns, washing cars._  
 __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to make it full.  
 __top-dog__  
 __top-flight__  
@@ -14515,7 +14407,6 @@ __unearth__ _v_ :four::hammer: (unearthed)
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
-__UNESCO__ _abbr_ United Nations Educational, Scientific and Cultural Organization.  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
@@ -14682,7 +14573,6 @@ __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or d
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
-__VA__ _abbr_ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __vacant__ _adj_ _Adam parked in a vacant spot._  
 __vacant-eyed__  
 __vacate__ _v_  
@@ -14725,7 +14615,6 @@ __vape__ _n_ _I’m with a beer smoking on my vape._
 __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _vapid conversation._ __2__ Lacking taste, zest, or flavor; flat: _vapid beer._  
 __vaping__ _v_ _Smokers are switching to vaping._  
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
-__VAR__ _abbr_ Video Assistant Referee.  
 __variety store__  
 __varmints__  
 __varnish__ _n_  
@@ -14739,7 +14628,6 @@ __vaudeville__ _n_ :two::pencil2::hammer:
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __vaunted__ _adj_ Hghly or widely praised or boasted about.  
-__VC__ _abbr_ :two::hammer: _A blindfolded VC suspect._  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
@@ -15084,7 +14972,6 @@ __wet a line__
 __wet__ _v_ (wetted) _A wetted wick._  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
-__WFH__ _abbr_  
 __Whac-A-Mole__  
 __whackadoodle__  
 __whale<sup>1</sup>__ _n_ :mute:[w~~h~~ale]  
@@ -15320,7 +15207,6 @@ __withhold__
 __withstand__ _v_ :three::hammer:  
 __witty__ _adj_  
 __wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
-__WMO__ _abbr_ :three::hammer:  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
