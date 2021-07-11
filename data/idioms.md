@@ -200,6 +200,7 @@ __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s si
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
+__bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
 __blow your top__ To become very angry.  
@@ -385,6 +386,7 @@ __drop (someone or something) like a hot potato__ To abandon someone or somethin
 __drop a bombshell__ To announce shocking news.  
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop the ball__ :two: To make a mistake, to fail.  
+__dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
@@ -1004,6 +1006,7 @@ __leaps and bounds__ :dart: __2__ Very large degrees of or rapid progress forwar
 __learn the ropes__ :two::hammer:  
 __leather-lunged__ (used before a noun) Having an extremely or inordinately loud or strong voice, as of someone with very robust lungs. _Despite her petite frame, the leather-lunged lead singer was able to shake the audience with her soulful outpourings._  
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
+__leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __left and right__  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
@@ -1017,6 +1020,7 @@ __let alone__ :eight: Not to mention. The phrase is used to emphasize that if ot
 __let down (one’) hair__ :dart: To cease acting formally or conservatively; to let go of one’s inhibitions or reservations. _Come on, Jim, this is a party! Let down your hair and go a little wild!_  
 __let down (one’s) guard__ To become less guarded or vigilant; to stop being cautious about potential trouble or danger.  
 __let go and let God__ To give up one’s self-determination and yield to the teachings, designs, or instructions of God or the church. _One day, I decided to just let go and let God, and I’ve been a happier person for it ever since._  
+__let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __let it slip__ To accidentally or inadvertently reveal a given secret or important piece of information.  
 __let me tell you__ Used to emphasize a statement.  
 __let somebody down__ To disappoint someone.  
@@ -1028,12 +1032,15 @@ __let’s not and say (that) we did__ A sarcastic expression indicating that one
 __let’s roll__ Let’s get out of here; let’s get moving. _That’s everything we need from the store. Let’s roll!_  
 __letters after (one’s) name__ A series of abbreviations indicating the various levels of higher education or military honors one has received, thereby denoting a presumed level of intelligence, wisdom, or respectability. _I hate hanging out with your PhD colleagues—it seems like they’ll only take you seriously if you have letters after your name._  
 __lift a finger__ To help with something. Often used in the negative to indicate a lack of willingness to exert even the bare minimum of effort. _I clean every weekend, and you never lift a finger to help!_  
+__lightning in a bottle__ An incredibly difficult, unlikely, and/or elusive achievement or period of success. (Usually used with “catch” or “capture.”) Primarily heard in US. _The rookie team, such underdogs in this championship, are trying to capture lightning in a bottle by upsetting the number one seed._  
+__lightning quick__ Incredibly fast; too quick to keep up with. Hyphenated if used before a noun. _Did you see that martial arts expert? His kicks were lightning quick!_ _My brother has a lightning-quick wit._  
 __like (one’s) life depends on it__ With maximum, possibly desperate, effort or energy (i.e., as if one is at risk of losing one’s life if one fails). The boxer started the third round throwing punches like his life depended on it.  
 __like (two) peas in a pod__ Said of two people who are very similar in interests, actions, or appearance. Said of two people who are very similar in interests, actions, or appearance. _Betty and Jennifer are like two peas in a pod, so it’s no wonder people sometimes mistake them for sisters._  
 __like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like pulling teeth__  
+__like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
 __like two peas in a pod__ Very similar.  
 __like water off a duck’s back__ Without any apparent effect.  
 __liken (someone or something) to (someone or something else)__ To represent or describe someone or something as being very similar to someone or something else. _People keep likening him to Ronald Reagan for his particular political positions._ _Mark faked his death and likened himself to a werewolf to intimidate an investor._  
@@ -1041,14 +1048,17 @@ __line in the sand__ A figurative boundary that someone or some group refuses to
 __lion’s share__ :two: The greatest or best part.  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __live and kicking__ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
+__live in an/(one’s) ivory tower__ To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
 __live large__ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live like a king__ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
+__live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
 __live the life of Riley__ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __lo and behold__ :three::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
 __long haul__ _We are ready to go long haul._  
 __long hours__ :two::hammer: _The long hours you’re putting in may not help._  
+__long memory__ A clear memory of events that happened long ago. _I always have a long memory for people who disrespect me. Once you’re in my bad books, you’re there forever!_  
 __long story short__  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
 __look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
