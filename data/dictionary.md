@@ -63,6 +63,7 @@ __abjection__ _n_
 __abjure__ _v_ :two::hammer:  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
+__abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrable _The abominable treatment of prisoners horrified the team of international observers._  
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
@@ -180,6 +181,7 @@ __admin__ _I was doing just admin stuff._
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
 __adroit__  
@@ -735,6 +737,7 @@ __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one pers
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
+__automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :two::hammer: _Nothing avails against the Death._  
@@ -3652,7 +3655,7 @@ __desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visi
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
-__deter__ _v_  
+__deter__ _v_ :two::hammer:  
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ _n_ :two::hammer:  
@@ -3800,6 +3803,7 @@ __discus__ _n_
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
 __disdrometer__  
+__disembarrass__ _v_ Relieve from. _Syn_ rid, free  
 __disembodied__ _v_ :two::hammer:  
 __disembody__ _v_ (disembodied)  
 __disenfranchise__  
@@ -6869,7 +6873,7 @@ __iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit 
 __IFU__ _abbr_ Instructions for use.  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
-__ignominious__  
+__ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_  
 __IIRC__ _chat_ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
@@ -7026,6 +7030,7 @@ __indolent__ _adj_ :two: Very lazy, slothful.
 __indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
+__inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ Always working very hard.  
@@ -7077,7 +7082,7 @@ __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entr
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
-__inimical__ _adj_ :two::hammer:  
+__inimical__ _adj_ :three: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
 __inimitable__ _adj_  
 __iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
 __initiative__  
@@ -9537,6 +9542,8 @@ __paper tape__ _n_
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
 __paperclip__ _n_  
 __paperwork__  
+__papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, etc., used in making sculptures, boxes, ornaments, etc.  
+__papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
 __paprika__ _n_  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
@@ -10768,7 +10775,7 @@ __quitter__ _n_ _Are you calling me a quitter?_
 __quiver__ _v_ :seven::hammer: (quivering)  
 __quixotic__  
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading.  
-__quondam__ _adj_ Of an earlier time; former: _her quondam lover._  
+__quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quotidian__ _adj_  
@@ -14748,6 +14755,7 @@ __vellum__
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
 __venality__  
+__vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
