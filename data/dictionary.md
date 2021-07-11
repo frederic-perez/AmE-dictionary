@@ -5685,7 +5685,7 @@ __Generalissimo Stalin__
 __Generation Xers__  
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
-__generic__ _A generic diet cola._  
+__generic__ _adj, n_ _A generic diet cola._  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ _adj_ :two::hammer:  
@@ -5701,22 +5701,15 @@ __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
 __gestalt__ _n_  
-__get a handle__ _UAVs are used to get a handle on what’s going on._  
-__get a jump__ _Get a jump on things._  
 __get ahold__  
-__get around to__ _Dreams and goals I might get around to at some time._  
 __get away with__  
 __get enough__  
 __get looks__ _v_ :two::hammer:  
-__get me started__ _Don’t get me started!_  
 __get off on (something)__  
-__get off__ _I always get off the bus a stop early on the way to work._  
 __get out of here__  
-__get over someone’s head__ _They’re getting over their heads._  
 __get over__  
 __get set__ _v_  
 __get the middle finger__  
-__get through to__ To make someone understand what you are trying to say.  
 __get to know__ _v tr_ To become acquainted with (someone or something); to meet someone.  
 __get wind__  
 __get your act together__  
@@ -5728,7 +5721,7 @@ __geyser__ _n_
 __ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
 __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
-__ghetto__ :mute:[g~~h~~etto]  
+__ghetto__ _n_ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
@@ -5751,7 +5744,7 @@ __giggle<sup>1</sup>__ _v_ :two::hammer: (giggling)
 __giggle<sup>2</sup>__ _n_  
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
-__gimbal__ _A sensor on a pivoting gimbal._  
+__gimbal__ _n_ _A sensor on a pivoting gimbal._  
 __gimmick__ _n_ :two::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  

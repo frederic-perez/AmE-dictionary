@@ -360,6 +360,7 @@ __dog-eat-dog__ _adj_ :three: A very competitive situation in which people will 
 __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
 __don’t call us, we’ll call you__ _cliché_ Do not be in further contact with us regarding your application/submission/inquiry/etc., we will contact you if we wish to proceed further (generally meaning that no such contact is to be expected).  
 __don’t count your chickens before they hatch__ :dart::three: (don’t count your chickens before they’re hatched) Don’t make plans based on future events that might not happen. _When my mom heard that I was preparing my campaign before even being nominated, she warned me, “Don’t count your chickens before they’re hatched. Why are you begging to drive my car to school tomorrow when you still need to take your license test in the morning? Don’t count your chickens before they’re hatched, babe!_  
+__don’t get (one) started__  
 __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I heard that a co-worker had stolen my idea and presented it as his own, all I could think was, “Don’t get mad, get even.”_  
 __don’t get me started__ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
@@ -482,15 +483,19 @@ __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every 
 __get (one’s) knuckles rapped__ _The Japanese drug company Astellas has had its knuckles rapped for wrongdoing four times in less than three years._  
 __get (some kind of) mileage out of (something)__ To get a lot of use from something, as if it were a car. _Bob always got a lot of mileage out of one joke._  
 __get (the hell) out of Dodge__ To leave or depart from a place, especially quickly or with marked urgency. A reference to Dodge City, Kansas, the clichéd setting of cowboy and western films from the early to mid-1900s.  
+__get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
+__get a jump on (someone or something)__  
 __get a grip__ :two::hammer:  
 __get a hold on/of (oneself)__  
 __get a kick out of (someone or something)__ :five::hammer: _You’ll get a kick out of this!_  
 __get ahead of (oneself)__ To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
+__get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get in the last word__ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
 __get in(to) (someone’s) pants__ _vulgar_ _slang_ To have sex with someone. (Usually said of the intention or expectation.)  
 __get in(to) hot water__ To provoke or incite anger, hostility, or punishment against oneself; to cause or encounter trouble or difficulty, especially that which will result in punishment or reprisal.  
+__get off__ _I always get off the bus a stop early on the way to work._  
 __get on like a house afire__ Of two or more people, to enjoy one another’s company very much from the start and become good friends at once. (Used when people are meeting for the first time.) _I can’t wait for you to meet Mark, I just know the two of you will get on like a house afire!_  
 __get on someone’s nerves__ To annoy someone a lot.  
 __get on your nerves__ To annoy someone a lot.  
@@ -498,6 +503,7 @@ __get one’s act together__ :two: (get one’s shit together, get it all togeth
 __get out of Dodge__ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of town__ :two::hammer:  
 __Get outta here!__  
+__get over someone or something__ _They’re getting over their heads._  
 __get someone’s goat__ (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
 __get the axe__ To lose your job.  
 __get the better of (someone or something)__ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
@@ -506,6 +512,7 @@ __get the gist__ To understand the central, essential, or general matter of some
 __get the knack of__ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ To promptly begin or get something started.  
+__get through to (someone or something)__ To make someone understand what you are trying to say.  
 __get to the point__ To talk directly about the most important part or topic.  
 __get under someone’s skin__  
 __get wise (to someone or something)__ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
