@@ -5552,7 +5552,7 @@ __gaffe__ _n_ :four::hammer: (gaffes)
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
-__gah!__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
+__gah__ _interj_ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
 __gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -5561,7 +5561,7 @@ __galboy__ _n_
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
 __gallant__ _adj_  
-__gallantry__ _He was awarded the Silver Star Medal for Gallantry in Action._  
+__gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
 __galleys__ _n_  
@@ -5574,14 +5574,13 @@ __galoshes__ _n_
 __galumph__ _v_  
 __galvanize__ _v_ :eight: (galvanized) To startle into sudden activity; stimulate.  
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
-__Game of the Goose__ (Goose game) :es: el juego de la oca  
+__Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
-__game__ (hunting)  
+__game__ _n_ (hunting)  
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
 __gamine__  
-__gander__ _Take a dander at the college girls._  
-__gandy__ _Gandy walkers._  
+__gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __Ganjapreneur__  
@@ -5589,12 +5588,12 @@ __gantlet__ _n_ :two::hammer: _A media gantlet._
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
 __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
-__garbage chute__ :camera:  
+__garbage chute__ _n_ :camera:  
 __garbage island__  
 __garbed__ _v_ :two::hammer:  
 __Garden of Eden__  
 __Garden of Gethsemane__  
-__Garden State__ New Jersey.  
+__Garden State__ _n_ New Jersey.  
 __gargantuan__  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
@@ -5612,7 +5611,6 @@ __gars__ _n_ :three::hammer: _Alligator gars._
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
 __gas guzzler__  
-__gas jugs__ :camera: _There were gas jugs in the bed of the vehicle._  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
 __gasconade__ _n_ Boastful talk, bragging, or bluster.  
@@ -5645,9 +5643,9 @@ __gee__ _interj_ _informal_ A mild expression, typically of surprise, enthusiasm
 __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
+__gel__ _v_ (gelled) _His hair was neatly gelled._  
 __gelding__ _n_ :three:hammer:  
 __gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._  
-__gelled__ _His hair was neatly gelled._  
 __gelt__  
 __gemstone__ _n_ :es: piedra preciosa  
 __gender dysphoria__ _n_  
@@ -7320,7 +7318,7 @@ __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.
 __judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
 __judgmental__ _adj_ :pencil2:  
 __judicious__ _adj_ _Judicious improvements._  
-__jug__ _n_ :two: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._  
+__jug__ _n_ :three: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._ :camera: _There were gas jugs in the bed of the vehicle._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
