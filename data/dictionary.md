@@ -1793,6 +1793,7 @@ __bunkmates__
 __bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
+__bunting__ _n_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyancy__  
@@ -4820,6 +4821,7 @@ __farfetch__ _v_ (farfetched)
 __farflung__ _Farflung operations and profits._  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_  
+__farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __farther__ _adv_ :two::hammer:  
@@ -5030,7 +5032,7 @@ __firefly__ _n_ (fireflies) :es: luciérnaga
 __firehouse__ _n_ :two::hammer:  
 __fireworks display__ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
-__firmament__ _n_ The vault or expanse of the heavens; the sky.  
+__firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
 __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
@@ -5552,7 +5554,7 @@ __gah__ _interj_ An interjection denoting frustration and/or excitement. _Gah! I
 __gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
-__gala__ _n_ __1__ A festive occasion, especially a lavish social event or entertainment.  
+__gala__ _n_ :two: __1__ A festive occasion, especially a lavish social event or entertainment.  
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
@@ -5863,7 +5865,7 @@ __Gordian knot__ _n_ :two::hammer:
 __gore__ _n_ _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
-__gormandize__ _v_ Overeat or eat immodestly; make a pig of oneself.  
+__gormandize__ _v_ :two: Overeat or eat immodestly; make a pig of oneself. To eat greedily, gluttonously, or ravenously. _Syn_ devour  
 __gormless__  
 __gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
 __gorse__  
@@ -8348,6 +8350,7 @@ __merit__ _n_ :two::hammer:
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesh strainer__  
+__Mesoamerica__ _n_ Another name for Central America.  
 __mesosphere__  
 __mess up__ _phr v_  
 __messiah__ _n_ :mute:[messia~~h~~]  
@@ -9110,6 +9113,7 @@ __okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word 
 __okra gumbo__  
 __okra__ _n_ :two::hammer:  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the “Dominion of Virginia.”  
+__Old Glory__ _n_ The flag of the United States.  
 __old hat__  
 __Old Hickory bat__  
 __old man__  
@@ -10132,6 +10136,7 @@ __poodle__ _n_ :es: caniche
 __poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ _adj_ :pencil2:  
 __pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
+__pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
 __pool cue__ _n_ :two::dart::hammer: (pool cues) _Syn_ cue stick, pool stick, cue  
 __poor-boy__ _n_ _Poor-boy sandwich._  
 __poorly<sup>1</sup>__ _adv_ :three::hammer: _I sleep poorly._ _This is going to end very poorly._ _Was that handled poorly?_  
@@ -12642,7 +12647,8 @@ __spade-bearded__
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __spandex__ _n_  
 __spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target._  
-__spangle__ _v_ :six::hammer: (spangled, spangling)  
+__spangle<sup>1</sup>__ _n_ __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
+__spangle<sup>2</sup>__ _v_ :seven: (spangled, spangling) __1__ (tr) To adorn or cause to sparkle by covering with or as if with spangles: _Lights spangled the night skyline._ __2__ (intr) To sparkle in the manner of spangles.  
 __Spanish moss__ _n_ :two::hammer:  
 __Spanx__  
 __spar<sup>1</sup>__ _n_  
@@ -12814,6 +12820,7 @@ __squalid__ _adj_ :five::pencil2::hammer: _Squalid home._
 __squall<sup>1</sup>__ _n_ :four: A sudden strong wind or brief turbulent storm.  
 __squall<sup>2</sup>__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
 __squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
+__squamous__ _adj_  
 __squander<sup>1</sup>__ _v_ :three::hammer: _Do not squander time._  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
 __square deal__  

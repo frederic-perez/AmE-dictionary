@@ -1,15 +1,3 @@
-__Mesoamerica__ _n_ Another name for Central America.  
-__rummage__ _v_  
-__spangle<sup>1</sup>__ _n_ __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
-__spangle<sup>2</sup>__ _v_ __1__ (tr) To adorn or cause to sparkle by covering with or as if with spangles: _Lights spangled the night skyline._ __2__ (intr) To sparkle in the manner of spangles.  
-__Old Glory__ _n_ The flag of the United States.  
-__bunting__ _n_  
-__gala__ _n_  
-__firmament__ _n_ /ˈfɜːməmənt/ The expanse of the sky; heavens.  
-__gormandize__ _v_ To eat greedily, gluttonously, or ravenously. _Syn_ devour  
-__pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
-__farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
-__squamous__ _adj_  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __woke__ _adj_ _slang_ Aware of the injustice of the social system in which one lives.  
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
