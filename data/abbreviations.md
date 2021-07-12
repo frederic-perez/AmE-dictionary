@@ -27,6 +27,7 @@ __EMT__ Emergency medical technician: a person who is trained to give emergency 
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __ESP__ Extrasensory perception. _ESP powers._  
+__FT__ _Sports_ __1__ Full-time. __2__ Free throw.  
 __GA__ Gamblers Anonymous.  
 __GDP__ Gross domestic product.  
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  

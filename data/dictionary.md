@@ -5473,22 +5473,18 @@ __fruit basket__ _California’s Central Valley, fruit basket to the nation._
 __fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
-__FT__ _Sports_ Full-time.  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fucking A__ _interj_ _taboo_ _slang_ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
 __fudge<sup>1</sup>__ _n_  
 __fudge<sup>2</sup>__ _adj_  
-__fudge<sup>3</sup>__ _v_ :three::hammer: _You can’t fudge this thinking._  
-__fudging__ _Fudging statistics._  
+__fudge<sup>3</sup>__ _v_ :four::hammer: _You can’t fudge this thinking._ _Fudging statistics._  
 __fulcrum__ _n_ :three::hammer:  
 __fulfilling__  
 __fulfillment__ _n_ :pencil2:  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent’s arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
-__full of hot air__ To talk a lot, especially without saying anything of value or meaning.  
-__full swing__ _The conference was in full swing when I arrived._  
 __full-blown__  
 __full-bodied__ _adj_ :two::hammer:  
 __full-court press__ _n_  
@@ -5498,14 +5494,14 @@ __fullback__ _n_ _football_ :two::hammer: (fullbacks)
 __fullness__  
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
-__fumbling__ _Sexist ads banned: No fumbling dads, frazzled wives._  
+__fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fumed__ _v_  
 __fumitory__  
 __fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
-__fundraiser__ _They were at a fundraiser._  
+__fundraiser__ _n_ _They were at a fundraiser._  
 __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
-__funereal__ _Funereal tone._  
+__funereal__ _adj_ :pencil2: _Funereal tone._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
@@ -5519,7 +5515,7 @@ __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to
 __furlough<sup>2</sup>__ _v_  
 __furnish__ _v_ :three::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
-__furor__ _Social media furor._  
+__furor__ _n_ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
 __further__  
@@ -5544,13 +5540,13 @@ __gabbing__
 __gabfest__  
 __gable__ _n_  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
-__Gabor__ :mega:  
+__Gabor__ _n_ :mega:  
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
 __gaffe__ _n_ :four::hammer: (gaffes)  
 __gaffer__ _n_ _Br_ :two: Boss.  
-__gag__ _The cases’s gag order._  
+__gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
 __gah__ _interj_ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
 __gaiety__ _n_ _Frenetic gaiety._  

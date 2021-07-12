@@ -476,6 +476,7 @@ __frost the cake__
 __fuck a duck__ _slang_ Exclaiming _fuck a duck_ conveys surprise, frustration, anger, or other such heightened emotions. Telling someone to _go fuck a duck_ is a more colorful way of telling them to go screw themselves.  
 __full as a tick__ Having consumed large quantities of food or drink. A reference to a tick that is engorged with blood.  
 __full of beans__ :two: To have a lot of energy.  
+__full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
@@ -832,6 +833,7 @@ __in favor (with someone)__ Highly regarded (by someone); widely accepted or enj
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
+__in full swing__ _The conference was in full swing when I arrived._  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ In trouble.  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
