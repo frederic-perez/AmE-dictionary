@@ -59,7 +59,7 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
-__abounds__  
+__abound__ _v_ :two::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
 __about-face__  
 __aboveboard__  
 __abracadabra__ _n_  
@@ -2257,6 +2257,7 @@ __chanticleer__ _n_
 __chanting__  
 __chaos__ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
+__chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __chaparral__ _n_ :three: Dense vegetation consisting of stunted trees or bushes.  
 __chaperone<sup>1</sup>__ _n_ :three::hammer:  
 __chaperone<sup>2</sup>__ _v_  
@@ -3880,6 +3881,7 @@ __ditty bags__ _n_
 __ditty__ _n_ :three::hammer:  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
+__dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
 __diversion__ _n_  
 __diverted__ _diverted flights_  
@@ -4282,7 +4284,7 @@ __ebb<sup>2</sup>__ _v_
 __ebullient__ _adj_ :four: Very happy and enthusiastic.  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
-__echo chamber__  
+__echo chamber__ _n_ :two: __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
 __ecliptic__ _n_  
@@ -4417,7 +4419,7 @@ __emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representat
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
-__emollient__ _adj_ :two::hammer:  
+__emollient__ _adj_ :three::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emote__ _v_  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -4769,6 +4771,7 @@ __fair__ _To be fair to Jim, he didn’t cause the problem but inherited it._
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fait accompli__  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
+__fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __fall into place__  
 __fall out of love__  
 __fall over__ _v_  
@@ -7773,7 +7776,8 @@ __lifeline__ _n_ :two::hammer: _China has long been North Korea’s lifeline._
 __lifelong__ _adj_ :two::hammer:  
 __lifer__ _n informal_ :astonished: A prisoner sentenced to life imprisonment. _Craighead is a lifer at Baker Hughes._  
 __lifesaver__ _n_  
-__lift__ _n_ :two::hammer: _I could give you a lift home._  
+__lift<sup>1</sup>__ _n_ :two::hammer: _I could give you a lift home._  
+__lift<sup>2</sup>__ _v_ _Who decides when covid-19 restrictions are lifted?_  
 __liftgate__  
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __ligature__ _n_  
@@ -10961,7 +10965,7 @@ __refectory__ _n_ :five: A communal dining hall in a religious, academic, or oth
 __referenda__  
 __referral__  
 __reffing__  
-__refractory__ _adj_ :two::hammer:  
+__refractory__ _adj_ :three::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
@@ -11239,6 +11243,7 @@ __rived__ _v_
 __riven__  
 __river outfitter__  
 __rivulet__ _n_ :three::hammer: (rivulets) _Rivulets of blood._  
+__roach motel__ _n_ In computing, a type of dark pattern deceptive user interface. _The “roach motel” is another opt-in tactic dubbed as such because it opts you in and makes it nearly impossible to leave._  
 __roach paste__  
 __roach__ _n_ :two::hammer: _Roach paste._  
 __road map__ _n_ :pencil2:  
@@ -11820,6 +11825,7 @@ __separate__ _adj_
 __seppuku__ _n_  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_  
+__sequelae__ _n pl_  
 __sequestered__ _v_  
 __sequestration__ _n_ _Sequestration of the jury._  
 __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela  
@@ -13241,7 +13247,7 @@ __subpar__
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
 __subsea__ _n_  
-__subsequent__ _adj_ :four::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._  
+__subsequent__ _adj_ :five::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::three::hammer:  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
@@ -15212,6 +15218,7 @@ __woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._
 __woeful__ _adj_ :three::hammer: _Our woeful train system._  
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
+__woke__ _adj_ _slang_ Aware of the injustice of the social system in which one lives.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
 __womanizer__ _n_ :four::hammer:  
