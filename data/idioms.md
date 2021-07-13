@@ -15,6 +15,7 @@ __(one’s) jollies__ _slang_ One’s amusement, enjoyment, or pleasure. Often u
 __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
+__(right) from the off__ _He knew it from the off._  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the) man/woman of the hour__ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  

@@ -5439,40 +5439,38 @@ __frieze__ _n_
 __frigate__ _n_ :es: fragata  
 __frigid__ (frigid winds) Extremely cold.  
 __frill__ _v_  
-__frilled__ _Frilled apron._  
+__frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
 __frilly__  
 __fringe__  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
 __frisson__ _n_ :three: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
-__frites__ _Steak frites._  
-__fritter__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
-__fritters__ _Corn fritters._  
-__frizzled__ _Frizzled beard._  
+__frites__ _n pl_ Chipped potatoes. _Steak frites._  
+__fritter<sup>1</sup>__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
+__fritter<sup>2</sup>__ _n_ _Corn fritters._  
+__frizzle__ _v_ _Frizzled beard._  
 __frock__  
 __frogman__ _n_  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
 __frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
 __from afar__  
 __from the git-go__  
-__from the off__ _He knew it from the off._  
 __from the rooter to the rooter__  
-__from xyz through xyz__ _The meeting takes place from today through Thursday._  
 __front man__ _n_ :two::hammer: (frontman)  
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
-__front-end__ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
+__front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __frostbite__ _n_ :six::hammer:  
-__frosted glass__ _Illuminated by domes of frosted glass._  
+__frosted glass__ _n_ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
 __frozen yogurt__  
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
-__fruit basket__ _California’s Central Valley, fruit basket to the nation._  
-__fruit juice__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
+__fruit juice__ _n_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
@@ -13775,7 +13773,7 @@ __throes__ _n_ :five::hammer:
 __thromboembolism__ _n_  
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_ :two:: __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
-__through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._  
+__through__ _adj, adv, prep_ :seven::mute:[throu~~gh~~] As an adjective, through means finished or done. As an adverb it can mean backward and forward, completely, up to and including, or all the way to the end. The preposition through means in and out of. _Its current show runs through July 9._ _An exhibition works on display through July 8._ _“The Rat Pack” musical, through July 14._ _“Macbeth.” July 5 through 15._ _Extreme heat and humidity will scorch parts of the central U.S. through the weekend._ _Listing 2 through Listing 5 show the result of splitting the code in Listing 1 into smaller classes and functions._ __4__ _prep_ _chiefly US_ Up to and including: _Monday through Friday._ _The meeting takes place from today through Thursday._  
 __throughfare__ _n_ Another word for thoroughfare.  
 __throw a monkey off his back__  
 __throw down<sup>1</sup>__ _v_  
