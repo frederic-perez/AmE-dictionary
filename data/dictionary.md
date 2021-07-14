@@ -5347,7 +5347,7 @@ __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave
 __forsaken__ _adj_  
 __forswear__ _v_  
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
-__fort__ A fortified place or position stationed with troops.  
+__fort__ _n_ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
@@ -5360,18 +5360,17 @@ __fortnight__
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
-__foul__ _Foul language._  
+__foul__ _adj_ _Foul language._  
 __foul-smelling__ _adj_ Having a very unpleasant smell.  
 __foul-ups__  
 __founder__ _v_ :five::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
-__foundries__ _Metal foundries._  
-__foundry__ _n_ :two::hammer: :es: fundición  
+__foundry__ _n_ :three::hammer: (foundries) _Metal foundries._ :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
 __four-wheeler__  
 __fourth estate__ _n_ :two: (Fourth Estate) Journalists considered as a group; the public press.  
-__fourth wall__ :astonished:  
+__fourth wall__ _n_ :astonished:  
 __fovea__ _n_  
 __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl._  
 __fowl<sup>2</sup>__ _v_  
@@ -5379,9 +5378,8 @@ __fowler__
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
-__Fr.__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __fracas__ _n_ :three: Noisy quarrel.  
-__fracking__ Hydraulic fracturing.  
+__fracking__ _n_ Hydraulic fracturing.  
 __fractious__ _adj_ _His fractious temperament._  
 __fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
@@ -5396,7 +5394,7 @@ __frangible__ _adj_ :two: Capable of being broken; breakable.
 __frankincense__ _n_ :two::astonished: :es: incienso  
 __Frappuccino__  
 __frat house__  
-__frat__ _A frat house._  
+__frat__ _n_ _informal_ A college fraternity. _A frat house._  
 __frats__ _n_  
 __fraudulent__ _adj_  
 __fraught__ _adj_ :nine: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
@@ -5436,11 +5434,11 @@ __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.
 __fretful__ _adj_ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretwork__  
-__friction__ _The coefficient of friction._  
-__Friday__ :mega: /’fraIdi, -deI/  
+__friction__ _n_ _The coefficient of friction._  
+__Friday__ _n_ :mega: /’fraIdi, -deI/  
 __frieze__ _n_  
 __frigate__ _n_ :es: fragata  
-__frigid__ (frigid winds) Extremely cold.  
+__frigid__ _adj_ Extremely cold. _Frigid winds._  
 __frill__ _v_  
 __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
 __frilly__  
