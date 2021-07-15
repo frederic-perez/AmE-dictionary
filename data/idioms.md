@@ -458,10 +458,13 @@ __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of wea
 __for crying out loud__  
 __for good__ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
 __for keeps__ :two: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
+__for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
 __for the ages__ :three: That will stand the test of time; that will be remembered or regarded for years to come. _A comeback for the ages._ _A year for the ages._ _He put together a run for the ages._  
+__for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the most part__ :two::hammer:  
 __for what it’s worth__ :two: For whatever value or merit it seems to have (to you). This expression, which normally precedes the expression of one’s opinion on a controversial topic, implies that the listener may not think much of it, but there it is, anyway. _I’m sorry to hear you lost your job. For what it’s worth, I think you made the right choice confronting your boss._  
+__for years/weeks/days to come__ :dart: Used to emphasize that something will continue for a long time into the future. _This is a moment that will be remembered and celebrated for years to come._ _It was a highlight that would be looped on SportsCenter for days to come._  
 __forever and a day__ __1__ Eternally; always; ceaselessly. __2__ An exceptionally long period of time.  
 __fork over the dough__ To pay, generally unwillingly, a certain amount of money.  
 __forty winks__ :three: A short sleep during the day. A short nap.  

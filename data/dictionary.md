@@ -5256,7 +5256,7 @@ __food bank__
 __food processor__  
 __food stall__  
 __food-handler’s permit__  
-__foodie__ _A foodie and a friend._  
+__foodie__ _n_ _informal_ One who has an ardent or refined interest in food; a gourmet. _A foodie and a friend._  
 __foodstuffs__  
 __fool’s game__  
 __fool’s gold__  
@@ -5280,13 +5280,10 @@ __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish
 __for a bit__  
 __for all intents and purposes__ _adv_ :two: In every practical sense. _To all intents and purposes the case is closed._ _The rest are for all practical purposes useless._ _Syn_ for all practical purposes, to all intents and purposes  
 __for better or worse__  
-__for days to come__ :dart: _It was a highlight that would be looped on SportsCenter for days to come._  
 __for good measure__  
-__for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __For starters__ _phr informal_ :five: You use for starters when you mention something to indicate that it is the first item or point in a series. _These prizes are just for starters. Other exciting offers are flooding in._ _Her manager said, “It will cost her 1.5 million pounds for starters if she loses.”_  
-__for the better__ _My luck did not change for the better upon arrival at the bank._  
 __for the sake of__  
-__for__ _3 for 4 (attempts)._  
+__for__ _prep_ __32__ (used to indicate the number of successes out of a specified number of attempts): _The batter was 2 for 3 in the game._ _3 for 4 (attempts)._  
 __for-profit__  
 __forage<sup>1</sup>__ _n_  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
@@ -5311,8 +5308,8 @@ __forefront__
 __foregather__ _v_ Collect in one place. _Syn_ assemble, meet _The captains of every ship in the fleet rowed into the lagoon to foregather on its secluded beach._  
 __forego__ _v_ :two::hammer: (foregone)  
 __foregone__ _adj_ :two::hammer:  
-__forehead__ :mute:[fore~~h~~ead]  
-__foreign__ :mute:[forei~~g~~n]  
+__forehead__ _n_ :mute:[fore~~h~~ead] :es: frente  
+__foreign__ _adj_ :mute:[forei~~g~~n]  
 __foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
 __foremost__ _adj_  
 __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
@@ -5331,18 +5328,18 @@ __forge__ _v_ _It is up to you to forge ahead with a new attitude._
 __forgear__  
 __forged__ _adj_ Of or relating to that which has been fraudulently imitated.  
 __forgetful__ _adj_  
-__forgive__ _Forgive me, master._  
+__forgive__ _v_ _Forgive me, master._  
 __forgiving__ _adj_  
 __forgo__ _v_ :nine::m: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
 __forgone__  
-__fork__ _Gordon at fork in the road._  
+__fork__ _n, v_ _Gordon at fork in the road._  
 __forklift__  
 __forlorn__ _adj_ :nine::m: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
 __Formica__  
 __formidable__  
-__formulate__ _I was formulating my question._  
+__formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken__ _adj_  
 __forswear__ _v_  
