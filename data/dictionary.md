@@ -1121,7 +1121,7 @@ __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or fa
 __bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
-__beret__ :mute:[bere~~t~~]  
+__beret__ _n_ :two::hammer::mute:[bere~~t~~]  
 __berm__ _n_  
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
@@ -2914,6 +2914,7 @@ __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
 __conveyance__ _n_  
+__conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
 __convivial__ _adj_ :three::hammer:  
 __convoke__ _v_ To call together to a meeting.  
@@ -3148,7 +3149,7 @@ __crib__ _n informal_ :four: A literal translation used in studying a foreign la
 __cribbage__ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
-__crimson__ _n_ :two::hammer: _Crimson cereal._ _Her face went crimson._  
+__crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
 __cringe__ _v_ :eight: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
@@ -3479,7 +3480,7 @@ __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a 
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
 __deep ball__ _Tyron Taylor throws a nice deep ball._  
-__deep cut__ _n_ :three: A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
+__deep cut__ _n_ :four: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
@@ -4451,7 +4452,7 @@ __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions o
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
-__end game__ _n_  
+__end game__ _n_ :two::hammer:  
 __end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
 __endangerment__  
@@ -8389,7 +8390,7 @@ __midwife__ _n_ :two::pencil2: Nurse trained to assist women in childbirth.
 __mien__  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
-__might__ _n_ :two::hammer::mute:[mi~~gh~~t] _China’s economic might._  
+__might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
 __milch__ _adj_ :two: Giving milk. _A milch cow._  
 __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._  
@@ -8456,7 +8457,7 @@ __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :three::hammer:  
-__mischievous__  
+__mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__  
 __misconstrued__  
 __miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
@@ -10349,7 +10350,8 @@ __priming__ _v_
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
-__prior<sup>2</sup>__ _n_ (priors)  
+__prior<sup>2</sup>__ _adv_  
+__prior<sup>3</sup>__ _n_ (priors)  
 __prioritize__ _v_  
 __prise<sup>1</sup>__ _n_  
 __prise<sup>2</sup>__ _v_ (prised) _The window had been prised open._  
@@ -11177,7 +11179,8 @@ __rickets__
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
-__ricochet__ _v_ :four::mega::mute:[ricoche~~t~~]:hammer:  
+__ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:  
+__ricochet<sup>2</sup>__ _n_  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
@@ -14049,6 +14052,7 @@ __tractor__ _n_
 __trade paperback__  
 __trade__ _n_  
 __trade-off__ _n_ _She has to make trade-offs._  
+__trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
@@ -14650,6 +14654,7 @@ __vendor__ _n_ :two::hammer:
 __veneer__ _n_ :six::hammer: (veneers) _A veneer of quality._  
 __venerable__ _adj_  
 __venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
+__vengeful__ _adj_  
 __venial__ _adj_  
 __venison__ _n_ :four::hammer:  
 __Venn__ _n_ (John Venn) English logician who introduced Venn diagrams. (1834-1923)  
