@@ -29,7 +29,6 @@ __A list__ _n informal_ (A-list) A list or group of the most admired or desirabl
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
 __A4__ :astonished: _A4 stainless steel._  
-__aah__ _interj_ Used to express pleasure, satisfaction, surprise, or great joy.  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
@@ -260,7 +259,6 @@ __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._
 __ahem__  
 __ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
-__ahoy__ _interj_ Used to hail a ship or to attract attention.  
 __aichmophobia__ _n_ The fear of pointed objects, esp needles, pins, etc.  
 __aide__ _n_ :two::hammer: (aides)  
 __ail__ _v_  
@@ -744,7 +742,6 @@ __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s reg
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
-__aw__ _interj_ :three: Used to express sympathy, tenderness, disapproval, or disbelief. _Aw, snap!_  
 __awakening__ _n_  
 __awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
@@ -867,7 +864,6 @@ __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._
 __baloney__ _n informal_ (bologna) :two: Nonsense.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
-__bam__ _interj._ __1__ Representing a loud noise or heavy impact. __2__ Representing a sudden or abrupt occurrence. _BAM!_  
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
@@ -1173,7 +1169,6 @@ __Big C__ _n_ _slang_ The disease cancer. Used with _the_.
 __big cat__ :es: felino  
 __big cheese__ An influential person.  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
-__big deal<sup>2</sup>__ _interj_ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big fish in a small pond__  
 __big house__ _n_ _slang_ A high-security prison.  
@@ -1448,7 +1443,6 @@ __bonnie blue flag__
 __bonobo__  
 __bonus__ :mega: /bō′nəs/  
 __boo<sup>1</sup>__ _v_ :two::hammer: (booed) :es: abuchear  
-__boo<sup>2</sup>__ _interj_  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_  
 __booby__ _Information is the booby prize._  
@@ -3326,7 +3320,6 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
-__d’oh__ _interj_ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
@@ -3367,7 +3360,6 @@ __dandelion__ _n_ :six: (dandelions) A wild plant with a bright yellow flower wh
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__ _adj_ :two::hammer:  
-__dang__ _interj_ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ _n_ :two::hammer:  
@@ -3377,7 +3369,6 @@ __dare__
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
 __darkest hour__ _He was willing to stand by him in his darkest hour._  
-__darn<sup>1</sup>__ _interj_ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
@@ -4187,7 +4178,6 @@ __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duff
 __duffle bag__ :camera:  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
-__duh__ _interj_ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
 __dulcimers__ _n_  
 __dull__ _adj_ :two::hammer: _Never a dull moment._  
@@ -4338,7 +4328,6 @@ __egotists__
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
-__eh?__ _interj_ _Impressive, eh?_  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ :mute:[ei~~gh~~t]  
@@ -4449,7 +4438,6 @@ __encampment__ _n_ :two::hammer:
 __encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
-__encore<sup>3</sup>__ _interj_ Used to demand an additional performance.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions or rights gradually or stealthily: _encroach on a neighbor’s land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
@@ -4560,7 +4548,6 @@ __equitably__ _adv_ :es: de forma equitativa
 __equity__ _n_ :three::hammer:  
 __equivocal__ _adj_ _Syn_ ambiguous, confusing  
 __equivocation__ _n_  
-__er__ _interj_ :two: Used to express hesitation or uncertainty. _It does look, er, distinctive._  
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
 __err__ _“The well-being of your child os of paramount concern,” he wrote in his lecture, err, letter._  
@@ -4627,7 +4614,6 @@ __eviction__ _n_ :two::hammer:
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
-__ew__ _interj_ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __ewer__ _n_  
 __ewes__ _n_  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
@@ -4964,7 +4950,6 @@ __ficus__ _n_ :mega:
 __fiddle-faddle__  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
-__fiddlesticks__ _interj_ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
 __fidgety__  
@@ -5473,7 +5458,6 @@ __fruit juice__ _n_ _Items available on the buffet include assorted pastries, fr
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
-__fucking A__ _interj_ _taboo_ _slang_ :two::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
 __fudge<sup>1</sup>__ _n_  
@@ -5547,7 +5531,6 @@ __gaffe__ _n_ :four::hammer: (gaffes)
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
-__gah__ _interj_ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
 __gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
@@ -5634,7 +5617,6 @@ __gazebo__
 __gazette__ _n_  
 __gear__ _n_ :two::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
-__gee__ _interj_ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
 __geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
@@ -5700,7 +5682,6 @@ __gibes__
 __Gibson glass__  
 __giddily__  
 __giddiness__ _n_ :two::hammer:  
-__giddy up__ _interj_ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __giddy__ _adj_ :nine::m: __1__ Very excited and happy. __2__ Suddenly feeling that you might become unconscious and fall. _He felt giddy._ _Luke felt almost giddy with relief._ _Syn_ dizzy, light-headed, faint, weak :es: mareado  
 __gig economy__ _n_ :three: Also called the “on-demand economy,” “sharing economy” or “instant gratification economy,” the gig economy refers to temporary jobs that normally would be full-time occupations.  
 __gig<sup>1</sup>__ _n_ :two::hammer: _We did a ton of stadium gigs._  
@@ -5833,7 +5814,6 @@ __goldenrod__ _n_
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
 __golliwog__ _n_  
-__golly__ _interj_ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
 __gondola__ _n_ _A 10-person rescue gondola can be attached to a helicopter._  
@@ -5842,7 +5822,6 @@ __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn
 __goo__ _n informal_ :two: Sticky substance.  
 __good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
-__Good golly[, Miss Molly!]__ _interj_ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
@@ -6118,7 +6097,6 @@ __gyoza__ _n_
 __gyrate__ _v_ :two::hammer:  
 __gyroscopic__ _adj_ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _phr_ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
-__ha__ _interj_ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. _Ha! I was right all along!_  
 __habeas corpus__ _n_  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
@@ -6141,7 +6119,6 @@ __haggis__ _n_ :two::hammer:
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
-__hah__ _interj_ A variant spelling of ha.  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
 __hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
@@ -6398,8 +6375,6 @@ __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, fr
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
-__hell yeah__ _interj_  
-__hell yes/no__ _interj_ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
@@ -6513,10 +6488,7 @@ __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, c
 __hitherto__ _adv_ :four::hammer:  
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
-__hiya__ _interj_ An informal term of greeting.  
-__hmm__ _interj_ :two::hammer:  
 __HMOs__  
-__hmph__ _interj_ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
 __ho__  
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
 __hoagie__  
@@ -6568,10 +6540,7 @@ __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of 
 __holler__ _v_ :three: __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
-__holy cannoli__ _interj_ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?_  
 __Holy Ghost__ _n_ :two::hammer:  
-__holy guacamole__ _interj_ An exclamation said when surprised, used when in shock or disbelief.  
-__holy moley__ _interj_ An exclamation of surprise, shock, or astonishment.  
 __Holy Rood__  
 __Holy See__  
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
@@ -6657,7 +6626,7 @@ __horsey__ _adj_ (horsy)
 __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  
 __horticulturist__ _n_ :mega:  
-__hosanna__ _interj, n_ _A thousand hosannas._  
+__hosanna__ _n_ _A thousand hosannas._  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
@@ -6748,7 +6717,7 @@ __hurdy-gurdy__
 __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
 __hurly-burly__ _adj, n_ _A hurly-burly of writers._  
-__hurrah__ _interj, n_ A cheer of joy, victory, etc.  
+__hurrah__ _n_ A cheer of joy, victory, etc.  
 __hurricane lamp__ _n_  
 __hurricane__  
 __hurtle__ _v_ :two::hammer: (hurtling)  
@@ -7226,7 +7195,6 @@ __jazz up__ _v_
 __jazzy__  
 __jeans__ _n pl_ (plurale tantum)  
 __jeered__ _v_ :four::hammer: (jeering)  
-__jeez__ _interj_ Used to express surprise or annoyance.  
 __Jehova’s Witness__  
 __jejune__  
 __jell__ _v_ _The plans didn’t jell._  
@@ -7953,7 +7921,6 @@ __loped__ _v_
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__  
 __loquat__ _n_  
-__lordy__ _interj_ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
@@ -8719,7 +8686,6 @@ __mutt__ _n_ :five::hammer:
 __muttering__ _n_ :two::hammer: _A sustained muttering as of subterranean thunder became audible._  
 __muzzle__ _n_ :four: A muzzle is a guard that covers an animal’s mouth to keep it from biting. If your dog is aggressive, you might have to put a muzzle on her when you take her to the dog park. _The muzzle of the gun._  
 __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs., or Ms., it does not indicate gender and may be used by a person with any or no specific gender identity.  
-__my ass__ _interj_ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
@@ -8753,7 +8719,6 @@ __nail it__
 __nail-biter__ _n_ A situation marked by anxiety or tension.  
 __nails__ _n_  
 __naïveté__  
-__namaste__ _interj_  
 __name of the game__ _n_ _slang_ :two: The essential part or quality necessary for the success of an enterprise or the fulfillment of a goal: _“The name of the game was to get the story” (David Fitzpatrick)._  
 __name-and-likeness__  
 __name-calling__  
@@ -9100,8 +9065,6 @@ __oft-shouting-sermon__
 __often__ _adv_ :mute:[of~~t~~en]  
 __oftentimes__ _adv_ :two::hammer:  
 __ogle__ _v_ :three::hammer: (ogled)  
-__oh man__ _interj_ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
-__oh__ _interj_ :two::hammer: _You went oh for two._  
 __Ohioans__  
 __OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
@@ -9786,7 +9749,6 @@ __phase out__
 __phenom__ _n_ :three: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
-__phew__ _interj_ :two: Used to express relief, fatigue, surprise, or disgust.  
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
 __philandering__  
@@ -10132,7 +10094,6 @@ __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a
 __poo__ _n_ (pooh, poo-poo) Excrement. A euphemism used to and by children.  
 __pooch__ _n_ _slang_ :four: A dog.  
 __poodle__ _n_ :es: caniche  
-__poof__ _interj_ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __poofy__ _adj_ :pencil2:  
 __pooh-bah__ _n_ :dart::two: [:scroll: After Pooh-Bah, a government official in Gilbert & Sullivan’s 1885 operetta _The Mikado_. Pooh-Bah holds all the high offices of the state (except Lord High Executioner), including relating to complaints about himself. He is also known as the Lord High Everything Else.] __1__ A person who holds a high office or has great influence. __2__ A pompous, self-important person. An arrogant or conceited person of importance. _Syn_ high-muck-a-muck __3__ A person holding many offices or positions of power.  
 __pooh-pooh__ _v_ To express disdain or scorn for; dismiss or belittle: _pooh-poohed their idea._  
@@ -11273,7 +11234,6 @@ __rodeo__ _n_ :mega:
 __roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
-__roger__ _interj_ __1__ _informal_ All right; OK.  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
@@ -11806,7 +11766,6 @@ __semester__ _n_ A semester is half of a school year. In September of your first
 __semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
-__Semper fi__ _interj_ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
@@ -11870,7 +11829,6 @@ __sewage__ _n_ :two::hammer: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
-__sh__ _interj_ (sh, shhh) Used to urge silence.  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
 __shackle__ _n_  
@@ -11935,7 +11893,6 @@ __sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
 __sheer<sup>2</sup>__ _adv_ _The sheer bulk of those tests can present a daunting management problem._  
 __sheer<sup>3</sup>__ _v_  
-__sheesh__ _interj_ :two: Used to express mild annoyance, surprise, or disgust.  
 __sheet rock__  
 __sheet__ _n_ :two:  
 __sheeting__  
@@ -12008,7 +11965,6 @@ __shogun__ _n_
 __shogunate__ _n_ :two::hammer: _A local shogunate office._  
 __shoo__ _v_ :five::hammer: (shooing)  
 __shoo-in__ _n_ :two::hammer:  
-__shoop__ _interj_ _music_ Used as a scat word in song lyrics. _The shoop shoop song._  
 __shoot the moon__ _v_ :three::hammer:  
 __shoot__ _n_ _Panda bears eat only bamboo shoots._  
 __shoot-from-the-hip__  
@@ -12085,14 +12041,12 @@ __shrubbery__
 __shtick__ _n_ :three: (also shtik) _slang_ A show-business routine or piece of business inserted to gain a laugh or draw attention to oneself. :es: numerito  
 __shuck__ _v_ :five::hammer: (shucked, shucking)  
 __shucking__ _v_ :two::hammer: _I know when you’re shuckin’ and jivin’ me._ _Portraits of a man shucking corn._  
-__shucks__ _interj_ :dart: Used to express mild disappointment, disgust, or annoyance.  
 __shudder__ _v_ :four::hammer: (shudders, shuddered)  
 __shudderings__ _n_  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
 __shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
-__shush<sup>1</sup>__ _interj_ :two::hammer:  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
@@ -13619,7 +13573,6 @@ __techie__ _n informal_ :two: (techies) One who studies or is highly interested 
 __Tecnetium__  
 __tedious__  
 __tee up__ _v_  
-__tee-hee__ _interj_ An exclamation of laughter, esp when mocking.  
 __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains far less popular than the original T-shirt. Plus, the Chicago Manual and other style guides usually recommend T-shirt.  
 __teeing up__ _v_  
 __teem__ _v_  
@@ -13704,7 +13657,6 @@ __that being said__
 __That being said,__  
 __that much__ _adv_ To a certain degree. _I’ll tell you that much._  
 __that will do__  
-__That-a-boy!__ _interj_ That is the way to do it! (Said to a boy or man.) _Come on, Chuck. That-a-boy!_  
 __that’s the breaks__  
 __thaw<sup>1</sup>__ _v_ :five: When things thaw, they’re coming out of deep freeze and warming up. You can thaw a chicken, and a chilly friendship can thaw too.  
 __thaw<sup>2</sup>__ _n_ :seven: __1__ The act of thawing. _The thawing of a frozen turkey takes several hours._ __2__ Warm weather following a freeze; snow and ice melt. _They welcomed the spring thaw._ __3__ A relaxation or slackening of tensions or reserve; becoming less hostile. _It kept the door open for a possible thaw in relations between the Koreas._  
@@ -13727,7 +13679,6 @@ __theist__ _adj_
 __theocracy__  
 __theosophy__  
 __there is no denying__  
-__there is no question__ _interj_ It is indisputable. _There is no question that higher ocean temperatures have resulted in less offshore ice._  
 __thereabout__  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
 __thereof__ _adv_ :two::hammer:  
@@ -14328,9 +14279,6 @@ __UA-ed__ _v_ :two::hammer:
 __ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
-__ugh__ _interj_ :two::hammer:  
-__uh__ _interj_ A representation of a common sound made when hesitating in speech.  
-__uh-oh__ _interj_ :two: Used to express alarm, foreboding, or dismay. _My “uh-oh” bell rings._ _Uh-oh, we can’t seem to find the page you’re looking for._  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
@@ -14983,7 +14931,6 @@ __Whac-A-Mole__
 __whackadoodle__  
 __whale<sup>1</sup>__ _n_ :mute:[w~~h~~ale]  
 __whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]  
-__whammo__ _interj_ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _“The alarm goes off and—whammo!—we’re all at our assigned stations.” (Meg Greenfield)._  
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  
 __whanged__ _v_ :two::hammer:  
 __whanging__  
@@ -14993,10 +14940,8 @@ __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]
 __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
 __what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
 __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
-__what<sup>5</sup>__ _interj_ :mute:[w~~h~~at]  
 __whatnot__ _n_ :two::hammer:  
 __wheat__ _n_ :mute:[w~~h~~eat]  
-__whee__ _interj_ :two: Used to express extreme pleasure or enthusiasm.  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
 __wheel well__ _n_ _The Corvette’s wheel well._  
 __wheel__ _v_ :mute:[w~~h~~eel]  
@@ -15017,7 +14962,6 @@ __wherewithal__ _n_ :four::hammer:
 __whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
 __whetstone__  
-__whew__ _interj_ Used to express strong emotion, such as relief or amazement.  
 __whickering__  
 __whiff<sup>1</sup>__ _n_ :three::hammer:  
 __whiff<sup>2</sup>__ _v_  
@@ -15077,7 +15021,6 @@ __whizz__
 __whizzing__  
 __WHO__  
 __who__ _pron_ :mute:[~~w~~ho]  
-__whoa__ _interj_ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
 __whole milk__  
 __whole nine yards, the__  
@@ -15241,7 +15184,6 @@ __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
-__woohoo__ _interj_ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __wooly__  
 __woomb__  
 __woozy__ _adj_ :two::hammer:  
@@ -15339,7 +15281,6 @@ __xeriscape__ _n_
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
-__yahoo<sup>2</sup>__ _interj_ Expressing excitement, delight, or triumph.  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
 __yakuza__ _n_ :two::hammer:  
@@ -15358,7 +15299,6 @@ __yawn__ _n_ _The sound of yawns and crickets._
 __yawner__ _n_ _slang_ :three: Something that is very boring.  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
-__yay__ _interj_ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
@@ -15377,13 +15317,11 @@ __yew__ _n_ :two::hammer: (yews)
 __Yiddish__ _n_ :two::hammer:  
 __yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
-__yikes__ _interj_ :two: An exclamation of surprise or alarm.  
 __yin and yang__  
 __yipped__ _v_  
 __yipping__ _v_  
 __yips__  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
-__yo__ _interj_ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
@@ -15400,7 +15338,6 @@ __yowled__ _v_
 __yowza__  
 __yuan__ _n_  
 __yucca__ _n_  
-__yuck__ _interj slang_ Used as an expression of disgust or repugnance. _Yuck, it’s spinach again!_  
 __Yule__ _n_ :two::hammer: (yule)  
 __Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__  
