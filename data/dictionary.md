@@ -598,7 +598,7 @@ __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as of today__  
-__asana__ _n_ A posture or manner of sitting (as in the practice of Yoga).  
+__asana__ _n_ :two: A posture or manner of sitting (as in the practice of Yoga).  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
 __ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
 __ascent__ :mute:[as~~c~~ent]  
@@ -2186,6 +2186,7 @@ __catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy cat
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
+__caught up__ _adj_ Having become involved involuntarily: _caught up in the excitement of the crowd; caught up in the scandal._  
 __caught__ :mute:[cau~~gh~~t]  
 __cauldron__ _n_  
 __cauliflower steaks__ :camera:  
@@ -2442,7 +2443,8 @@ __Cinderella__ _n_ One that unexpectedly achieves recognition or success after a
 __cine__ _n_ :mega:  
 __cinephile__ :mega:  
 __cineplex__ _Sequels ruled the cineplex this weekend._  
-__cipher<sup>2</sup>__ _v_ _They often cipher._  
+__cipher<sup>1</sup>__ _n_ (cypher)  
+__cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
 __circuit__ :mute:[circ~~u~~it]  
 __circumambulate__ :pencil2:  
@@ -4038,6 +4040,7 @@ __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn
 __downtime__ _n_ :three::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_ :three::hammer: (downturns)  
+__downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
 __downward__ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :five::hammer: (dowries) :es: dote  
@@ -4604,6 +4607,8 @@ __etymological__ _adj_ _Etymological dictionaries show how languages borrow word
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :four::hammer:  
 __eunuch__ _n_  
+__euphemism__ _n_ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_]  
+__euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
@@ -5196,8 +5201,8 @@ __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating
 __flounder__ _v_ :eight: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
-__flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flowerpot__ _n_ _Clay flowerpot._  
+__flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flown__ _v_ _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
@@ -8546,6 +8551,7 @@ __mononyms__
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
+__monstera__ _n_ :mega: /ˈmɑnstərə/  
 __monstrosity__ _n_ :pencil2::two::hammer:  
 __montero__ _n_ A hunter’s cap with side flaps.  
 __monumental__ _adj_  
@@ -11161,6 +11167,7 @@ __rhinestone cowboy hat__
 __rhinoceros__ _n_ :mega:  
 __rhinosinusitis__ _n_ Inflammation of the mucous membrane of the nose and paranasal sinuses. _Syn_ nasosinusitis _Chronic rhinosinusitis._  
 __rhododendron__ _n_  
+__rhubarb__ _n_  
 __rhyme<sup>1</sup>__ _n_ :mute:[r~~h~~yme]  
 __rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:  
 __rhyolites__ _n_  
@@ -11178,7 +11185,7 @@ __ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:
 __ricochet<sup>2</sup>__ _n_  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :four::hammer:  
-__riddle<sup>1</sup>__ _n_ :six::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
+__riddle<sup>1</sup>__ _n_ :seven::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
 __ride__ _n idiom_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
@@ -12388,7 +12395,7 @@ __slyly__ _adv_ :astonished: _She smiled slyly._
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
-__small fry__ _adj_ (small-fry) Lacking importance.  
+__small fry__ _adj_ :two: (small-fry) Lacking importance.  
 __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportant. _Her business was small potatoes beside his empire._  
 __small print__  
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
@@ -14018,7 +14025,7 @@ __tottered__
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touchline__  
 __touchstone__ _n_  
-__touchy__ _adj_ :three: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
+__touchy__ _adj_ :four: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
@@ -14725,7 +14732,7 @@ __vindicate__ _v_ :nine::hammer: (vindicated)
 __vindication__ _n_ :eight::hammer:  
 __vindictive__ _adj_  
 __vintner__ _n_  
-__vinyasa__ _n_  
+__vinyasa__ _n_ :two::hammer:  
 __viper__ _n_ :three::hammer: (vipers)  
 __viridity__ _n_ __1__ Youth; innocence; inexperience. __2__ The quality or condition of being green, especially as manifested in vegetation.  
 __virtually__ _adv_ :astonished::two: __1__ In fact or to all purposes; practically. _The city was virtually paralyzed by the transit strike._ __2__ Almost but not quite; early. _Virtually everyone gets a headache now and then._  
