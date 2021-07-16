@@ -5173,7 +5173,6 @@ __float<sup>2</sup>__ _v_ :four::hammer:
 __floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flock__ _n_  
-__flodaway__ _Foldaway bed._  
 __floe__ _n_ :two::hammer: _Ice floe._  
 __flog a dead horse__  
 __flog__ _v_ :four::hammer: (flogged, flogging)  
@@ -5182,13 +5181,12 @@ __floodlamps__
 __floodlight__ _n_ :two::hammer:  
 __floor show__  
 __floor vote__ _n_  
-__floor<sup>1</sup>__ _The floor is closed._  
+__floor<sup>1</sup>__ _n_ __9__ The right of one member to speak from such a place in preference to other members: _The senator from Alaska has the floor._ _The floor is closed._  
 __floor<sup>2</sup>__ _v_ :three::hammer: (floored) _I’m kinda floored by what I’m noticing._ _I was completely floored._  
-__floozy__ A woman who has a lot of sexual relationships.  
+__floozy__ _n_ A woman who has a lot of sexual relationships.  
 __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he’s got rented for you._ _One of the most expensive flop in Broadway history._ _Kevin Bell was a flop._  
-__flop<sup>2</sup>__ _v_ :three::hammer: (flops)  
+__flop<sup>2</sup>__ _v_ :four::dart: (flops, flopping) __5__ (Sports) To exaggerate or simulate a fall after contact or near-contact with an opposing player in order to induce a referee to call a penalty; to dive. _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
 __flopper__ _n_ :three::hammer: _Try keeping your flopper in your pants for a change._  
-__flopping__ _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
 __floppy > floppy socks__  
 __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
@@ -5198,7 +5196,7 @@ __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating
 __flounder__ _v_ :eight: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
-__flow__ _Three people in flowing black robes._  
+__flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flowerpot__ _n_ _Clay flowerpot._  
 __flown__ _v_ _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
@@ -5215,10 +5213,9 @@ __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless.
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
 __flunky__ _n_ :four: (flunkie) __1a__ A liveried servant. __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
-__fluorescent__ :mute:[fluores~~c~~ent]  
+__fluorescent__ _adj, n_ :mute:[fluores~~c~~ent]  
 __flurry > in a flurry__  
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
-__flush-mouth design__ (wall oven)  
 __flushed complexion__  
 __fluster__ _v_ :eight: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
@@ -5241,11 +5238,9 @@ __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and p
 __foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
-__fold__ _n_ :two::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._  
-__fold<sup>1</sup>__ _v_ :three::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ (card games)  
-__fold<sup>2</sup>__ _n_ _Mowcow organized rallies to welcome Crimea into the fold._  
-__foldaway__ _Foldaway cot._  
-__folded__ _The American Soccer League folded in 1931._  
+__fold<sup>1</sup>__ _v_ :four::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ (card games)  
+__fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
+__foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __foldout chair__ _n_  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow-up__ _n_ :two::astonished::hammer:  
