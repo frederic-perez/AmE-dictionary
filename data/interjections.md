@@ -11,6 +11,7 @@ __duh__ _slang_ An ironic response to a question or statement, implying that the
 __eh?__ _Impressive, eh?_  
 __encore<sup>3</sup>__ Used to demand an additional performance.  
 __er__ :two: Used to express hesitation or uncertainty. _It does look, er, distinctive._  
+__eureka__ [:scroll: Greek heurēka, _I have found (it)_]  
 __ew__ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __fiddlesticks__ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
 __fucking A__ _taboo_ _slang_ :two::hammer:  
@@ -33,6 +34,7 @@ __hosanna__ _n_
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeez__ Used to express surprise or annoyance.  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
+__meh__ Used to express indifference, apathy, or boredom.  
 __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __namaste__  
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
