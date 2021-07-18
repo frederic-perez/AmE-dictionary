@@ -5051,14 +5051,13 @@ __fittingly__ _adv_ :two::hammer:
 __fivesomes__  
 __fix__ _A quick fix of French fries._  
 __fixable__ _A lot of that is fixable._  
-__fixe__ _A $40 prix fixe meal._  
-__fixer-upper__ _Don’t be afraid to take on a fixer-upper._  
+__fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
 __fixture__ _n_ :four::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
 __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle up__  
 __fizzle__ _v_ :three::hammer: (fizzled)  
-__fizzy__ _A fizzy mix of generational drama and dystopian fantasy._  
+__fizzy__ _adj_ _A fizzy mix of generational drama and dystopian fantasy._  
 __flab__ _n_ Body fat, soft loose flesh on a person’s body.  
 __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)  
 __flabbergasted__ _adj_ :two::hammer:  
@@ -5088,22 +5087,21 @@ __flaming hair__
 __flange__  
 __flank<sup>1</sup>__ _n_ :two: The side of an animal or a person between the ribs and hip. :es: costado  
 __flank<sup>2</sup>__ _v_  
-__flanker__ (soccer position)  
-__flap__ _n_ :three::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._  
+__flanker__ _n_ (football/rubgy/soccer position)  
+__flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._ _The sound of paper flaps on bicycle spokes._  
 __flapjack__ _n_  
-__flaps__ _The sound of paper flaps on bicycle spokes._  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
-__flash rust__ :camera:  
+__flash rust__ _n_ The very rapid onset of rust on a metal substrate.  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
 __flash-flood__  
-__flash-forward__ _Syn_ analepsis  
+__flash-forward__ _n_ The insertion of a later event into the chronological structure of a novel, motion picture, play, etc. _Syn_ analepsis  
 __flashback__  
 __flashlight__ _n_  
 __flat out__  
-__flat white__ _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
+__flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
 __flat-out__ _adj_ :two::hammer: _They flat-out tell us what is happening._  
@@ -5116,7 +5114,7 @@ __flatware coins__
 __flatware__ _n_  
 __flaunt__ _v_ :three::hammer: (flaunting)  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
-__flaxen__ _Flaxen cord._  
+__flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
 __fleck__ _n_  
 __flecked__ _v_ _Floor flecked with blood._  
