@@ -5216,7 +5216,7 @@ __fly-by-night__
 __flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clouds, scatterbrained _The flyaway young girl came to the formal dinner covered in dirt, as she had opted to roll down the hill instead of going around it like her sisters._  
 __flyboard__  
 __flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
-__flying colors__ _adj_ :three: __1__ Flags unfurled and waving in the air. __2__ _idiom (with flying colors)_ With an overwhelming victory, triumph, or success. _In these respects, Delta Air Lines passed with flying colors._  
+__flying colors__ _adj_ :three: Flags unfurled and waving in the air.  
 __fob__ _n_ :two::hammer:  
 __focal fibrosis__  
 __focus__ _n_ :mega:  

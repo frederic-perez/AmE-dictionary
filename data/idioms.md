@@ -1559,7 +1559,7 @@ __with (one’s) pants down__ _slang_ In an embarrassing position.
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
 __with a passion__ _informal_ Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a vengeance__ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
-__with flying colors__ With distinction.  
+__with flying colors__ :two: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
 __within reason__ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ With no more delay.  
