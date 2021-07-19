@@ -9805,7 +9805,6 @@ __pied__
 __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
 __pietist__  
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
-__pig in a poke__ _n idiom_ Something purchased, accepted, or acquired without a preliminary examination.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
 __piggish__  
@@ -10770,7 +10769,6 @@ __rat race__
 __rat-fuck__ _v_  
 __ratched__  
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
-__ratchet-mouth__ _n idiom_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __ratchet<sup>1</sup>__ _n_ :three::hammer:  
 __ratchet<sup>2</sup>__ _v_ To cause to move by steps or degrees—usually used with up or down. _I heard the phone booth door ratchet back violently on its hinges._  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
@@ -10800,7 +10798,6 @@ __ravenous__ _adj_ :five: Extremely hungry.
 __ravine__ _n_ :two::hammer:  
 __ravish__  
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
-__raw deal__ _n idiom_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __raw dog__  
 __raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._  
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
@@ -11147,7 +11144,6 @@ __riddance__ _n_ :four::hammer:
 __riddle<sup>1</sup>__ _n_ :seven::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
-__ride__ _n idiom_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
 __ridership__ _n_ :two::hammer:  
 __ridiculed__ _v_ _They were ridiculed._  
@@ -12426,7 +12422,6 @@ __snarky__ _adj informal_ :dart::four: Annoyed, or saying rude things in an anno
 __snarl<sup>1</sup>__ _n_ :four: __1__ An act or sound of snarling. _The cat drew its mouth back in a snarl._ :es: gruñido __2__ A tangled mass, as of hair or yarn. __3__ A confused, complicated, or tangled situation: _a traffic snarl._  
 __snarl<sup>2</sup>__ _v_ :nine::m: (snarled, snarling) (of an animal such as a dog) Make an aggressive growl with bared teeth. _Snarling Dobermans._ _Syn_ growl, gnash one’s teeth _The wolves are snarling._ :es: gruñir  
 __snarling__ _n_  
-__snatch the pebble__ _v idiom_ :dart: To fully grasp the meaning of a concept or developed a skill to a high degree of proficiency, often that rivals some specific expert. _OH from a student: “it’s like the code is in a perpetual state of waiting to be refactored.” You have snatched the pebble from my hand._  
 __snatch__ _v_ :three::hammer: (snatched)  
 __snazzy__ _adj informal_ :two: Stylish and attractive. _Snazzy little silk dresses._  
 __sneaker__ _n_ _Sneaker companies._  
@@ -12619,7 +12614,6 @@ __spate__ _n_ :eight: /speɪt/ A large number of similar things coming in quick 
 __spatter__ _n_  
 __spay__ _v_ :three::hammer: (spayed)  
 __spd__  
-__speak of the devil__ _v idiom_ :dart: Mention someone’s name who just then appears.  
 __speak out__ _phr v_ :two::hammer: (spoke out)  
 __speak up__ _v_ :two::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
@@ -12744,7 +12738,6 @@ __sprite__ _n_ A small being, human in form, playful and having magical powers. 
 __sprocket__ _n_ _Sprocket holes._  
 __sprout<sup>1</sup>__ _v_ :two: (sprouting) Appear or develop suddenly and in large numbers. _Plush new hotels are sprouting up everywhere._  
 __sprout<sup>2</sup>__ _n_  
-__spruce up__ _v idiom_ :four: To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spruce<sup>1</sup>__ _n_ :four::hammer: :es: abeto  
 __spruce<sup>2</sup>__ _v_  
 __spruce<sup>3</sup>__ _adj_  
@@ -13960,7 +13953,6 @@ __torpor__ _n_ :five: A state of physical or mental inactivity; lethargy. _They 
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
-__toss out__ _v idiom_ _One student tossed out expletives._  
 __toss__ _v_ :two::hammer: (tossing)  
 __toss-up__ _n_ :two::hammer: (toss-ups)  
 __tossing__ _v_ _The prisoner lay tossing and moaning._  
