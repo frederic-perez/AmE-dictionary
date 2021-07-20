@@ -21,3 +21,15 @@ __omniscient__ _adj_ Having total knowledge; knowing everything: _an omniscient 
 __ruthless__ _adj_  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, flood, torrent _The restaurant owner was faced with an inundation of lawsuits from diners who had been sickened by his eatery’s food._  
+__bridle__ _n_ :pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
+__nonplus__ _v_  
+__funambulist__ _n_ An acrobat who performs on a tightrope or slack rope. _Syn_ tightrope walker  
+__Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
+__Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
+__Spokane, Washington__ _n_ [Common popular pronunciation: /spoh-keyn/ Prevailing local pronunciation: /spoh-kan/]  
+__New Orleans, Louisiana__ _n_ :mega: [Common popular pronunciations: /noo awr-lee-uhnz, noo awr-leenz/ Prevailing local pronunciation: /noo awr-luhnz/]  
+__Tucson, Arizona__ _n_ :mega: [Common popular pronunciation: /tuhk-son/ Prevailing local pronunciation: /too-son/]  
+__Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
+__Raleigh, North Carolina__ _n_ :mega: [Common popular pronunciation: /ral-lee/ Prevailing local pronunciation: /raw-lee, rah-lee/]  
+__Mobile, Alabama__ _n_ :mega: [Common popular pronunciation: /moh-buhl/ Prevailing local pronunciation: /moh-beel/]  
+__extemporaneous__ _adj_ Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
