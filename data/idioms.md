@@ -608,6 +608,7 @@ __grease payment__ A sum of money, typically a bribe, paid to a government offic
 __great balls of fire__ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __great deal__ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
 __Greek__ :two::astonished::hammer: _It’s all greek to me._ _It’s in Greek and almost impossible to decode._  
+__green folding__ Paper money, especially in large amounts. _How much green folding is this repair job gonna cost me?_  
 __green with envy__ Very jealous.  
 __greener pastures__ :two: A better or more exciting job or place.  
 __grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something).  
@@ -1065,7 +1066,14 @@ __live paycheck to paycheck__ To spend all of the money one earns by or before t
 __live the life of Riley__ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
 __lo and behold__ :three::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
+__loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
+__loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
+__lock (someone) up and throw away the key__ To incarcerate someone in prison forever or indefinitely. _That crazy drunk driver nearly hit me! I hope they lock him up and throw away the key!_  
+__lock lips (with someone)__ To kiss (someone) passionately and at length. _I’l never forget locking lips with my wife for the very first time._  
 __lock, stock, and barrel__ To the greatest or most complete extent; wholly: _an estate that was auctioned off lock, stock, and barrel._ _Mr. Doe owns lock, stock and barrel._  
+__locker-room humor__ Especially crude, vulgar, or bawdy humor. _I’m no prude by any means, but I hate the locker-room humor my boyfriend partakes in when his buddies are around._  
+__lone it__ To go somewhere or do something alone; to be by oneself. _No one else wanted to leave the party, so I had to lone it back home._  
+__long arm__ Broad, far-reaching power or influence. (Usually paired with a noun, as in “the long arm of the law.”) _The long arm of justice finally put the murderer in jail, where he belongs._  
 __long haul__ _We are ready to go long haul._  
 __long hours__ :two::hammer: _The long hours you’re putting in may not help._  
 __long memory__ A clear memory of events that happened long ago. _I always have a long memory for people who disrespect me. Once you’re in my bad books, you’re there forever!_  
@@ -1085,6 +1093,7 @@ __made of money__ To be very rich.
 __make (one’s) bones__  
 __make (perfect) sense__ _It makes perfect sense._  
 __make a face__ To distort the features of the face; grimace.  
+__make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
@@ -1274,6 +1283,7 @@ __quote, unquote__ :two::hammer:
 __rabbit hole__ :four::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
 __race against time__ To do something very quickly.  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
+__rat race__ [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc.  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __reach for the stars__ :two: Have high or ambitious aims.  
@@ -1467,6 +1477,7 @@ __the lion’s den__ A particularly dangerous, hostile, or oppressive place or s
 __the lion’s share__ :two: Major share of something.  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
+__the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
 __the sky is the limit__ :two: Anything is possible; there is practically no limit.  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the whole nine yards__  
@@ -1515,6 +1526,7 @@ __touch base (with someone)__ :two: To contact someone to update them or receive
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __try out__ :two::hammer:  
+__turf war__  
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
