@@ -5036,21 +5036,20 @@ __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown 
 __fish__ _pl n_ :two:  
 __fishmonger__ _n_  
 __fishpond__ _n_ _A rainwater fishpond on the roof._  
-__fissile__ _Fissile material._  
+__fissile__ _adj_ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
 __fist-pumper__  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __fists bumping__  
 __fistula__ _n_  
 __fit<sup>1</sup>__ _v_ :two::hammer:  
-__fit<sup>2</sup>__ _n_  
+__fit<sup>2</sup>__ _n_ :two::hammer: (fits) _The cathedral has been built in fits._  
 __fitful__ _adj_ :three: Occurring in or characterized by intermittent bursts, as of activity; irregular. _“My sleep, when it came, was fitful” (Kelly Braffet)._  
 __fitfully__ _adv_ In a fitful manner. _Eve slept fitfully that night._  
-__fits__ _The cathedral has been built in fits._  
 __fittingly__ _adv_ :two::hammer:  
 __fivesomes__  
-__fix__ _A quick fix of French fries._  
-__fixable__ _A lot of that is fixable._  
+__fix__ _n_ _A quick fix of French fries._  
+__fixable__ _adj_ _A lot of that is fixable._  
 __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
 __fixture__ _n_ :four::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
 __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
@@ -5615,7 +5614,6 @@ __gazebo__
 __gazette__ _n_  
 __gear__ _n_ :two::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
-__geek out__ _v idiom_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gel__ _v_ (gelled) _His hair was neatly gelled._  
@@ -6170,7 +6168,6 @@ __hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handsome__ _adj_ :mute:[han~~d~~some]  
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
-__handwaving__ _n idiom_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __handyman__ _n_ :three::hammer:  
 __hang out__ _phr v_  
 __hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My real estate agent says there are some legal hang-ups that might delay the sale of our home._  
@@ -7250,7 +7247,6 @@ __jocular__
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
 __jody__ _n_ _He often complained about his wife’s jody._  
 __John Doe__  
-__Johnnie-come-lately__ _n idiom_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
 __joint__ _n_ A prison, a jail.  
 __joists__  
@@ -7577,7 +7573,6 @@ __lastly__ _adv_
 __latch<sup>1</sup>__ _n_ :three::hammer:  
 __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)  
 __latchkey__  
-__late bloomer__ _n idiom_  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
 __lath__ _n_ :three::hammer: (laths)  
@@ -8151,7 +8146,6 @@ __mariner__ _n_
 __marjoram__ _n_ Oregano.  
 __mark of the beast__ _n_ __1__ A mark of evil. __2__ A labeling as unorthodox or heretical.  
 __mark up__ _phr v_ To mark for sale at a higher price.  
-__mark__ _n idiom_ A dupe; a victim selected for a theft or a swindle.  
 __markdown__  
 __markdowns__  
 __marketplace__  
@@ -9128,7 +9122,6 @@ __one-liner__ _n_ :dart: A quick joke or quip; a funny observation.
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__one-trick pony__ _n idiom_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onlooker__ _n_ :two::hammer: (onlookers)  

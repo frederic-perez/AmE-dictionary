@@ -484,6 +484,7 @@ __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you ca
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
+__geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears.  
 __get (one’s) goat__ To annoy or anger one. _That guy just gets my goat every time he opens his mouth._  
@@ -626,6 +627,7 @@ __hair-splittingly__ With extremely minute, unimportant, or imperceptible differ
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
 __hands down__ :two::hammer: _Hands down, best episode ever._  
 __hands off__ An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
+__handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
 __hang someone out to dry__ To abandon someone who is in trouble.  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  
@@ -909,6 +911,7 @@ __jet-setter__ A wealthy individual who travels globally, especially by private 
 __jibed (at something/at doing something)__ _old-fashioned, informal_ To be unwilling to do or accept something: _she agreed to attend but jibbed at making a speech._  
 __Jill of all trades(, master of none)__ A woman who is skilled in or adept at a wide variety of tasks or abilities (i.e., the female equivalent of “Jack of all trades”). If used with “master of none,” it implies that while competent in a variety of things, she is not highly skilled in a particular one.  
 __john__ _slang_ Toilet. The term is thought to derive from Sir John Harrington (1560 – 1612), he was an English courtier, author and translator popularly known as the inventor of the flush toilet.  
+__Johnnie-come-lately__ _n_ :two: (Johnny-come-lately) Someone new to a situation or status.  
 __Johnny One-Note__ Someone who repeatedly expresses or maintains a strong opinion on a single or a few particular subjects.  
 __joined at the hip__ :two: To be exceptionally close to someone.  
 __jollies__ _slang_ Gun, thrills, enjoyment.  
@@ -995,6 +998,7 @@ __last straw__ :two: The final problem in a series of problems.
 __last-ditch attempt__ A final effort or attempt to solve a problem or avoid failure or defeat, especially after a series of failures or setbacks.  
 __last-minute__ (used before a noun) Done at the very last possible moment or opportunity.  
 __latchkey kid__ A child who is home alone after school or in general because their parents or guardians are at work.  
+__late bloomer__ _n_  
 __late model__ Especially regarding an automobile, of a relatively recent design or model.  
 __lather, rinse, (and) repeat__ :two::dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought. _Lather. Rinse. Repeat._  
 __laugh in (one’s) sleeve__ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
@@ -1089,6 +1093,7 @@ __make strides__ :two: To make progress towards a goal. _Medical science has mad
 __make up one’s mind__ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __make waves__ :four: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
+__mark__ _n_ A dupe; a victim selected for a theft or a swindle.  
 __meant to be__ _It was meant to be made in heaven._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __mess around__  
@@ -1187,6 +1192,7 @@ __once in a blue moom__ Very rarely.
 __one too many__ _We drank one too many._  
 __one way or another__ _If I fail then it will cost me my head one way or another._  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
+__one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one’s other half__ :two::hammer:  
 __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
