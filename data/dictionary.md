@@ -4989,27 +4989,23 @@ __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from un
 __Filipino__  
 __fill out__  
 __fill someone in__ _Thank you for filling us in._  
-__fill’er up__ (gas station)  
-__fillers__ _Some pills use fillers made up of rice, or worse, black walnut._  
+__filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ _n_ :three::hammer:  
-__filly__ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
+__filly__ _n_ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
-__filthy__ Very dirty.  
+__filthy__ _adj_  
 __finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
-__fine__ _That’s a very fine line._  
 __fine-tune__ _v_  
 __finery__ _n_ :two: Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
 __finesse<sup>1</sup>__ _n_  
 __finesse<sup>2</sup>__ _v_  
-__finest hour__ :astonished:  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
 __finger-waggers__  
 __finicky__ _adj_ :three:hammer:  
-__finish one’s plate__ See “clean your plate.” _Finish your plate!_  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
 __fir__ _n_ :two::hammer: :es: abeto  
@@ -5024,15 +5020,13 @@ __firebrick__ _n_
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
-__fireworks display__ _A fireworks display will be held on Sunday._  
+__fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
 __first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
-__fish boning__ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
-__fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
 __fish__ _pl n_ :two:  
 __fishmonger__ _n_  
 __fishpond__ _n_ _A rainwater fishpond on the roof._  
