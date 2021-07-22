@@ -294,6 +294,7 @@ __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunka
 __alcove__ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
+__aleatory__ _adj_ /AY-lee-uh-tor-ee/  
 __alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
 __Aleut__ _n_  
 __alfresco<sup>1</sup>__ _adv_  
@@ -957,7 +958,7 @@ __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhe
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
 __battlements__ _n_ :two::hammer:  
 __batty__  
-__bauble__ _n_ :three::hammer: (baubles)  
+__bauble__ _n_ :four: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawdiness__  
 __bawdy__ _adj_ :two::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
@@ -2145,7 +2146,7 @@ __catalyst__ _n_ :two::hammer:
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
 __catapult__ _v_ :two::hammer: (catapulted)  
-__cataract__ _n_ :es: cataratas  
+__cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
@@ -5064,7 +5065,7 @@ __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of pun
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ _n_ :two::hammer:  
+__flagship__ _n_ :three: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things.  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
@@ -8756,7 +8757,7 @@ __necessary evil__
 __necessary__ _adj_ :mega: /ˈne-sə-ˌser-ē/  
 __necessitate__ _v_  
 __necktie__ _n_  
-__necromancer__  
+__necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
 __necromancy__  
 __necropsy__ _n_ An examination and dissection of a dead body to determine cause of death or the changes produced by disease. _Syn_ autopsy, postmortem _Scientists performed a necropsy on the seal to determine whether its death was related to the recent chemical spill._  
 __neediness__ _n_ The state of being needy; poverty.  
@@ -8918,7 +8919,7 @@ __nosebleed__ _n_ :two::hammer: (nosebleeds)
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__  
-__nostrum__ _n_ :astonished:  
+__nostrum__ _n_ :two::astonished::hammer:  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
@@ -8965,6 +8966,7 @@ __nursing home__ _n_
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
+__nutation__ _n_ __1__ The act or an instance of nodding the head.  
 __nutmeg__ _n_  
 __nuttery__  
 __nuttily__  
@@ -9002,6 +9004,7 @@ __obtrude__ _v_ :two::hammer:
 __obtrusive__ _adj_  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
+__obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
 __occasion__ _n_ :two::mega::pencil2::hammer:  
 __occasional__ _adj_ :pencil2:  
@@ -10840,7 +10843,7 @@ __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the mee
 __recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
 __recapitulate__ _v_  
 __recede__ _v_  
-__receipt__ _n_ :two::mute:[recei~~p~~t]:hammer: _Expected items pending receipt from other sources._  
+__receipt__ _n_ :three::mute:[recei~~p~~t]:hammer: /rih-SEET/ _Expected items pending receipt from other sources._  
 __receivership__  
 __recess<sup>1</sup>__ _n_ :two::hammer: (recesses) _The deepest recesses of the brain._  
 __recess<sup>2</sup>__ _v_  
@@ -11393,6 +11396,7 @@ __sadistic__ _adj_
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
 __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
+__safecracker__ _n_ One who breaks into safes in order to steal items from them.  
 __safeguard__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
@@ -12417,7 +12421,7 @@ __sneer__ _v_
 __Snellen chart__  
 __snick__ _v_  
 __snicker<sup>1</sup>__ _v_ :seven: (snickers, snickered, snickering) To laugh quietly and in a way that is not nice at something which is not supposed to be funny.  
-__snicker<sup>2</sup>__ _n_ _The first question set off snickers on the audience._  
+__snicker<sup>2</sup>__ _n_ :two: A partly stifled laugh. _The first question set off snickers on the audience._  
 __snide__ _adj_ :two::hammer:  
 __sniffed__ _v_ :two::hammer:  
 __sniffle__ _v_ (sniffles)  
@@ -13994,6 +13998,7 @@ __trails__ _n_
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
+__traipse__ _v_ Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
 __traipsing__  
 __traitorous__  
 __tramp__ _adj_  
