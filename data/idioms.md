@@ -56,6 +56,7 @@ __a light-bulb moment__ An instance in which an ingenious idea or insight comes 
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
+__a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
@@ -432,6 +433,7 @@ __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  
+__feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
@@ -1074,6 +1076,7 @@ __live and kicking__ Alive, healthy, and alert. (A truncated version of “alive
 __live in an/(one’s) ivory tower__ To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
 __live large__ (living large) To have a luxurious lifestyle. The term sometimes implies that such a lifestyle will be temporary.  
 __live like a king__ (living like kings) To have a luxurious lifestyle, in which one’s every need or desire is satisfied. Typically said of or by a man. _The cost of living is so much lower in Spain that we could live like kings there._  
+__live on a shoestring__ To live within a very tight or limited financial budget. _We were living on a shoestring for a while after our baby was born, but, luckily, I got a promotion, and our situation has improved a bit._  
 __live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
 __live the life of Riley__ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
@@ -1092,6 +1095,12 @@ __long memory__ A clear memory of events that happened long ago. _I always have 
 __long since__ Long ago; of the (relatively) distant past. _I came back to my hometown after college, eager to reconnect with old friends, but they had long since moved away._  
 __long story short__  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
+__look (at something) through rose-colored glasses__ To assume a generally optimistic and cheerful attitude (toward something); to focus on the positive aspects (of something). Primarily heard in US. _I know nostalgia can be misleading, but I really look at my childhood through rose-colored glasses._  
+__look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _I know that the Ivy League students may look askance upon a country bumpkin such as myself, but I will show them that I have the mettle to be their equal._  
+__look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
+__look off__ In sports, especially American football, to mislead an opponent with one’s eyes as to one’s intentions in a given play. A noun or pronoun can be used between “look” and “off.” _Looking off the free safety, the quarterback made an incredible pass to his wide receiver down the center of the field._ _I looked the defender off and hucked it to the end zone._  
+__look on the sunny side (of life/things)__ To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _Life’s too short to worry about every little detail; I say, just look on the sunny side and have a bit of fun!_  
+__look out for number one__ To put one’s own needs, concerns, or responsibilities before those of anyone else. _The only way you’re going to get ahead in this business is if you look out for number one._  
 __look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
 __loom large__ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __loose cannon__ :two::hammer:  
@@ -1338,6 +1347,7 @@ __sass back__ To talk back to someone in a rude, impertinent, and disrespectful 
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
+__scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scrounge up__ _To scrounge up the funds._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
@@ -1442,6 +1452,7 @@ __take (something) to heart__
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
 __take a dive__  
 __take a leak__ :two: _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
+__take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a piss__ Urinate.  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take heart__ :three::dart: To be confident or courageous.  
