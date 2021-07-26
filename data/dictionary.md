@@ -942,6 +942,7 @@ __basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount conta
 __bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
+__bastille__ _n_ [:scroll: After Bastille, a fortress in Paris, that was used to hold prisoners.] A prison.  
 __bastion__ _n_ :four::hammer: _He tried to soften the National Front’s image as a bastion of xenophobes._  
 __bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
@@ -1612,7 +1613,7 @@ __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up
 __brickbats__  
 __bridal gown__ _n_  
 __bridesmaid__  
-__bridle__ _n_  
+__bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__  
 __bright spark__ A clever person.  
@@ -2237,6 +2238,7 @@ __chalk and cheese__ _We are like chalk and cheese._
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_  
 __chalky__ _Chalky skin._  
+__chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :astonished: A bedroom vessel for urination and defecation.  
 __chamomille__  
 __champ__ _n informal_ :two: Champion.  
@@ -5139,7 +5141,7 @@ __flip side__ _n_ A different aspect of something (especially the opposite aspec
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
-__flippant__ _adj_ :five::hammer:  
+__flippant__ _adj_ :six::astonished: Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit<sup>1</sup>__ _v_ :two::hammer:  
@@ -5171,7 +5173,7 @@ __florid__
 __flotation tank__  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
-__flounder__ _v_ :eight: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
+__flounder__ _v_ :nine: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
 __flowerpot__ _n_ _Clay flowerpot._  
@@ -6266,6 +6268,7 @@ __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security te
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
 __hawthorn__ _n_ :four::hammer:  
+__Hawthorne effect__ _n_ [:scroll: After Hawthorne Works, a factory complex of the Western Electric Company, where this effect was observed.] (Sociology) Improvement in the performance of employees, students, etc, brought about by making changes in working methods, resulting from research into means of improving performance.  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
@@ -7087,6 +7090,7 @@ __intricate__ _adj_ :two::hammer:
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
+__inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, flood, torrent _The restaurant owner was faced with an inundation of lawsuits from diners who had been sickened by his eatery’s food._  
 __inured__ _v_ :two::hammer:  
 __inurnment__  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
@@ -7532,6 +7536,7 @@ __landmark__ _adj_ _A landmark case in 1983._
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languish__ _v_ :three: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
+__languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
@@ -8894,7 +8899,7 @@ __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._
 __nonlinear__ _adj_  
 __nonpartisan__ _adj_  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
-__nonplus__ _v_ To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
+__nonplus__ _v_ :two: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
 __nonplussed__ _adj_ :three::pencil2::hammer: _His celebrations have nonplussed commentators._  
 __nonsense__ _n_ :two::hammer: _Nonsense!_ _Pure nonsense!_  
 __nonsensical__ _adj_ _Deadpan delivery of nonsensical jokes._  
@@ -9090,6 +9095,7 @@ __omnibus<sup>1</sup>__ _adj_ Containing or including many items.
 __omnibus<sup>2</sup>__ _n_ :two::hammer:  
 __omnifarious__ _adj_ Of all kinds: _omnifarious knowledge._  
 __omnipresent__ _adj_  
+__omniscient__ _adj_ Having total knowledge; knowing everything: _an omniscient deity; the omniscient narrator._  
 __omphaloskepsis__ _n_ The practice of contemplating one’s navel in order to aid meditation.  
 __on a second thought__  
 __on a whim__  
@@ -11376,7 +11382,7 @@ __rustle up__ _v_
 __rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
-__ruthless__ _adj_ Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
+__ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __Rx lab__  
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
@@ -11934,6 +11940,7 @@ __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.
 __shitcan__ _v_  
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
+__shitshow__ _n_  
 __shiv__ _n_ :two: A knife used as a weapon.  
 __shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver__ _n_  
