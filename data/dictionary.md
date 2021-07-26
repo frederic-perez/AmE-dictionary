@@ -4279,7 +4279,7 @@ __ebb<sup>2</sup>__ _v_
 __ebullient__ _adj_ :four: Very happy and enthusiastic.  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
-__echo chamber__ _n_ :two: __3__ A group of bloggers that repeat and reinforce each others opinions.  
+__echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ :mute:[ec~~h~~o]  
 __eclampsia__  
 __ecliptic__ _n_  
@@ -5217,7 +5217,7 @@ __focus__ _n_ :mega:
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
-__foil<sup>1</sup>__ _n_ :two::hammer: _He lost in the round of 32 in individual foil._  
+__foil<sup>1</sup>__ _n_ :three::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
 __fold<sup>1</sup>__ _v_ :four::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ (card games)  
@@ -5863,6 +5863,8 @@ __graft<sup>1</sup>__ _v_
 __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
 __gramps__  
+__Grand Guignol<sup>1</sup>__ _n_ An event, entertainment, etc., of a sensational or horrific nature. [:scroll: From Le Grand Guignol (literally, The Great Puppet), a theater in Paris that specialized in such entertainment.]  
+__Grand Guignol<sup>2</sup>__ _adj_ Gruesome, grotesque, or horrifying.  
 __grand jury__  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
 __grand__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
@@ -6046,6 +6048,7 @@ __gum up__
 __gum__ _n_ :three::hammer: (gums) _Racks of gum and candy._ :es: encía  
 __gumball__  
 __gumbo__ _n_ :four: _Cultural gumbo._ __1__ A soup or stew thickened with okra pods. __2__ Any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water. __3__ Tall coarse annual of Old World tropics widely cultivated in southern United States and West Indies for its long mucilaginous green pods used as basis for soups and stews; sometimes placed in genus Hibiscus. _Gumbo appetizer bowls._ _Syn_ okra plant  
+__gumdrop__ _n_ A small candy made of sweetened, colored, and flavored gum arabic or gelatin and often coated with sugar. :es: pastilla de goma  
 __gumption__  
 __gums__ _n_  
 __gumshoe__ _n_ __1__ A sneaker or rubber overshoe. __2__ _slang_ An investigator, especially a detective.  
@@ -6891,6 +6894,7 @@ __inbound<sup>2</sup>__ _v_
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :four::hammer:  
 __incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
+__incendiary__ _adj_ _He launched an incendiary attack._  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
 __inception__ _n_ :three::hammer:  
@@ -11023,6 +11027,7 @@ __rerun__ _n_ :two: The act or an instance of rebroadcasting a recorded movie or
 __rescind__ _v_ :three: (Not to be confused with _resend_) Countermand, repeal, veto; nullify, retract: _rescind an agreement._  
 __reseller__  
 __reservation__ _n_ _Native American reservation._  
+__reserve__ _n_ __6__ _Sports_ __a__ A group of players that play only as substitutes for starters in games or are kept from playing for some reason. __b__ One of these players. :es: reserva  
 __reset__ _v_ :three::mega::hammer:  
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
@@ -11224,7 +11229,7 @@ __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed 
 __roister__ _v_ :two: Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone’s) eyes__  
-__roll call__ _n_ The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
+__roll call__ _n_ :two: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
@@ -12869,6 +12874,7 @@ __stargazer__ _n_
 __stargazing__  
 __stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
+__starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startling__ _adj_ :four: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
 __stasis__  
@@ -12971,7 +12977,7 @@ __stigma__
 __stigmatize__ _v_  
 __stile__ _n_  
 __still life__ _n_ _Still life painting._  
-__stillbirth__ _n_ :two::hammer:  
+__stillbirth__ _n_ :three::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
 __sting<sup>1</sup>__ _n_ :three::hammer:  
@@ -13214,6 +13220,7 @@ __sudden cardiac arrest__
 __sudden__  
 __suds__  
 __sudsy__  
+__suffocation__ _n_ :pencil2:  
 __suffrage__ _n_  
 __suffragette__  
 __suffuse__ _v_ :eight: (suffused) The verb suffuse means to spread and fill a space, like the way the smell of wildflowers might suffuse a meadow. Suffuse is a synonym for steep. Like tea whose flavor grows stronger the more it steeps, when you suffuse something it spreads throughout until an area is full, or even overly full. Another synonym, infuse, looks a lot like suffuse. Both words come from the Latin word fundere, which means “to pour.” _It suffuses you with mild pleasure._  
@@ -13254,7 +13261,7 @@ __sunken__
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __suntan__ _n_  
-__super-duper__ _adj_ :four::hammer: (super duper) _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
+__super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__ _adj_ :two::hammer:  
@@ -13538,6 +13545,7 @@ __tawny__ _n_ :three: A light brown to brownish orange.
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
 __taxa__  
+__taxative__ _adj_ (Economics) Of, relating to, or involving taxation.  
 __taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Public Necessity and Convenience), is a transferable permit in the United States allowing a taxicab driver to operate. Several major cities in the US use these in their taxi licensing systems, including New York City, Boston, Cambridge, Chicago, Philadelphia, and San Francisco.  
 __taxidermy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
