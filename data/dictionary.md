@@ -4888,7 +4888,7 @@ __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty ma
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
-__fellow__ _I am a fellow student._  
+__fellow__ _adj, n_ _I am a fellow student._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
@@ -4901,7 +4901,7 @@ __fencers__ _n_
 __fend off__ _v_ :four: Prevent the occurrence of; prevent from happening.  
 __fend__ _v_ (fending)  
 __fennel__ _n_ :two::hammer: :es: hinojo  
-__fenny__ _A fenny marsh._  
+__fenny__ _adj_ _A fenny marsh._  
 __fenugreek__  
 __feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mugger’s feral scowl was terrifying enough to make me empty my pockets without hesitation._ _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
@@ -4914,7 +4914,7 @@ __ferret-faced__
 __ferret<sup>1</sup>__ _n_ :four::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
-__fertil__ :mega:  
+__fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
 __fester<sup>2</sup>__ _v_ :seven::hammer: (festered, festering) :es: ulcerarse _VA’s challenges will only fester if they are kept shrouded in secrecy._  
@@ -4935,10 +4935,9 @@ __feverish__
 __few and far between__  
 __fey__ _adj_ :two::hammer:  
 __fez__ _n_  
-__fiancé__ A man who is engaged to be married.  
-__fiancée__ A woman who is engaged to be married.  
+__fiancé__ _n_ A man who is engaged to be married.  
+__fiancée__ _n_ A woman who is engaged to be married.  
 __fiasco__  
-__fiat__ _Military fiat._  
 __fib<sup>1</sup>__ _n_ A trivial and harmless lie.  
 __fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless lie.  
 __Fibbies__  
@@ -4966,13 +4965,11 @@ __fierce__ _adj_ :two::hammer:
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
 __fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
-__fifth column__ :astonished: _A fifth column preparing to rise up and join the security forces._  
 __fifth wheels__  
-__fig leaf__ _Seeking a “big leaf.”_  
 __figgy pudding__ _n_ A type of Christmas pudding which was originally made with figs.  
 __fight club__  
 __fight tooth and nail__  
-__fight__ :mute:[fi~~gh~~t]  
+__fight__ _n, v_ :mute:[fi~~gh~~t]  
 __figments__  
 __figuratively__ _adv_  
 __figure out__ _phr v_ :two::hammer:  
@@ -4989,7 +4986,6 @@ __filibuster__ _n_ :three::hammer:
 __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from under her fingernails._  
 __Filipino__  
 __fill out__  
-__fill someone in__ _Thank you for filling us in._  
 __filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._  
 __fillip__ _n_ :three::hammer:  
 __filly__ _n_ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
@@ -8359,6 +8355,7 @@ __mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants,
 __mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
 __mile-a-minute<sup>3</sup>__ _adv_ Very fast. _He was all excited after the game, talking a mile-a-minute about the last-second shot._  
 __mileage__  
+__military fiat__ _n_  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
 __milk__ _v_ :three::hammer: _Milk the clock._  

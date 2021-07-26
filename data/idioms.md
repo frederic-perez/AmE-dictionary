@@ -32,6 +32,7 @@ __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden d
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
+__a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
@@ -436,7 +437,9 @@ __feel all the feels__ To experience a range of strong emotions. _Oh man, that v
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
+__fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
+__fill someone in__ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer.  
