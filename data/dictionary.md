@@ -4826,21 +4826,21 @@ __farther__ _adv_ :two::hammer:
 __farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
 __fascia__ _n_ :two::hammer: _The car dashboard fascias._  
-__fascinate__ :mute:[fas~~c~~inate]  
+__fascinate__ _v_ :mute:[fas~~c~~inate]  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
-__fast food__ :mega:  
+__fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
 __fast-track__ _v_  
-__fasten__ :mute:[fas~~t~~en]  
+__fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his collection._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
-__fat rolls__ :camera: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
+__fat rolls__ _n_ :camera: A layer of fat that is saggy and heavy, so it droops down. _Dude, she has to lose those fat rolls!_  
 __fatal__ _adj_  
 __Father Time__  
-__fatherland__ :astonished:  
+__fatherland__ _n_ :astonished:  
 __fathom<sup>1</sup>__ _v_ :five::hammer:  
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
@@ -4855,7 +4855,7 @@ __faulty__ _adj_ :two::hammer::dart: _Faulty software._
 __fauna__ _n_  
 __Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as power, money, fame, etc. _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
-__faux__ _Three faux tombstones._  
+__faux__ _adj_ Artificial; fake: _faux pearls._ _Three faux tombstones._  
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
@@ -4866,13 +4866,12 @@ __fawningly__
 __faze__ _v_ :six::hammer: (fazed)  
 __fealty__ _n_ :three::hammer: :es: lealtad (feudal)  
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
-__fearl__ _A fearl youngster._  
 __fearless__ _adj_  
 __feasible__ _adj_  
 __feast__ _v_ :two::hammer:  
-__feature film__ A full-length film intended as the main item in a cinema programme. :es: largometraje  
+__feature film__ _n_ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
-__feature-length__ _A feature-length animation._  
+__feature-length__ _adj_ (Film) (of a film or programme) similar in extent to a feature although not classed as such. _A feature-length animation._  
 __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children’s reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
 __feature<sup>2</sup>__ _v_  
 __featuring__  
@@ -4883,7 +4882,6 @@ __feckless__ _adj_ :five: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. 
 __fecklessness__  
 __feel for__  
 __feel out__  
-__feet__ _They were stung by a man who sells socks without feet._  
 __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
@@ -5242,7 +5240,8 @@ __fool<sup>3</sup>__ _adj_ _informal_
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
 __foosball__ _n_ :three::hammer: _Foosball table._  
-__foot__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
+__foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the foot. _They were stung by a man who sells socks without feet._  
+__foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
