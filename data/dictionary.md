@@ -164,6 +164,7 @@ __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
 __adjudicator__  
 __adjunct__ _Adjunct professors._  
+__adjunctive__ _adj_  
 __adjure__ _v_ _Syn_ command  
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin__ _I was doing just admin stuff._  
@@ -795,6 +796,7 @@ __backsplash__ _n_ An upright surface or border, as of tile, that protects the w
 __backstop__ _n_ (baseball)  
 __backtrack__ _n_ :two::hammer:  
 __backup__ _n_ _It’s amazing the amount of backup we see from even those most minor crashes._  
+__backwash__ _n_ __3__ A result of an event; an aftermath.  
 __backwater__ _n_ :four: A place or situation regarded as isolated, stagnant, or backward. _An academic backwater._ _An economic backwater._ _A quiet backwater of the Empire._  
 __backwoods__  
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
@@ -862,7 +864,7 @@ __ballpark<sup>2</sup>__ _adj_ :two::hammer:
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
-__baloney__ _n informal_ (bologna) :two: Nonsense.  
+__baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
@@ -1752,7 +1754,7 @@ __bully__
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
-__bum<sup>3</sup>>__ _n_ :two: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
+__bum<sup>3</sup>>__ _n_ :three: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
@@ -2091,7 +2093,7 @@ __carouse__ _v_ :two: (carousing) To drink large amounts of alcohol, especially 
 __carousel__  
 __carpet bombing__  
 __carping__ _v_  
-__carpool__ _v_ :two::hammer:  
+__carpool__ _v_ :three::hammer:  
 __carrel__  
 __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry a torch__  
@@ -2404,6 +2406,7 @@ __Christian__ :mute:[C~~h~~ristian]
 __Christmas fly__  
 __Christmas__ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
+__chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
 __chuckholes__ _n_  
@@ -2462,6 +2465,7 @@ __claddagh__ _n_
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _The White Sox claimed the 2005 title._  
 __claimant__ _n_ :two::hammer: :es: demandante  
+__clairvoyance__ _n_  
 __clairvoyant__  
 __clam up__ _v_  
 __clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
@@ -2638,6 +2642,7 @@ __cognoscente__ _n_ A person with superior, usually specialized knowledge or hig
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
+__cohort__ _n_  
 __coif__ _Strange coif._  
 __coiffed__  
 __coil__ _v_ :two::hammer:  
@@ -3245,6 +3250,7 @@ __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._
 __cudgel__ _n_ :five::hammer: (cudgels)  
 __cue ball__ _n_ :three: The ball a player strikes with the cue, as distinguished from the other balls on the table.  
 __cue card__ _n_  
+__cue__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -3773,6 +3779,7 @@ __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those e
 __discounter__ _n_  
 __discouraging__  
 __discourse__  
+__discrepancy__ _n_  
 __discretion__ _n_  
 __discretionary__ _Things to do when you have discretionary time._  
 __discus__ _n_  
@@ -5240,9 +5247,9 @@ __fool<sup>3</sup>__ _adj_ _informal_
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
 __foosball__ _n_ :three::hammer: _Foosball table._  
+__foot-stomping__  
 __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the foot. _They were stung by a man who sells socks without feet._  
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
-__foot-stomping__  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :two::hammer: _A foothold._  
@@ -5335,7 +5342,7 @@ __foul play__ _n_ :eight::dart: Violence, _esp_ murder.
 __foul__ _adj_ _Foul language._  
 __foul-smelling__ _adj_ Having a very unpleasant smell.  
 __foul-ups__  
-__founder__ _v_ :five::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
+__founder__ _v_ :six::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
 __foundry__ _n_ :three::hammer: (foundries) _Metal foundries._ :es: fundición  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four-bagger__ _n_ _baseball_ Home-run.  
@@ -6838,7 +6845,7 @@ __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain 
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :five::hammer:  
+__impervious__ _adj_ :six::hammer:  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -8185,6 +8192,7 @@ __masterpiece__
 __masthead__ _n_  
 __mastoiditis__ _n_  
 __matchmaking service__  
+__matchmaking__ _n_ Mediation in order to bring about a marriage between others.  
 __matchstick__ _n_ :two::hammer:  
 __matchup__ _n_ :two::hammer: (matchups)  
 __materfamilias__ _n_ A female head of a family or tribe. _Syn_ matriarch _As materfamilias, my grandmother calls the shots on holidays like Thanksgiving, and no one dares question her._  
@@ -9157,6 +9165,7 @@ __opt out__ _v_
 __opt__ _v_  
 __opticks__ _n_ _Obsolete form of optics._  
 __optio__ _n_  
+__optogenetic__ _adj_  
 __optometry__ _n_  
 __opulent__  
 __Orange Julius__  
@@ -10915,7 +10924,7 @@ __refectory__ _n_ :five: A communal dining hall in a religious, academic, or oth
 __referenda__  
 __referral__  
 __reffing__  
-__refractory__ _adj_ :three::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__refractory__ _adj_ :four::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
@@ -11135,7 +11144,7 @@ __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely 
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
 __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or more people, chiefly used in Asian countries. Short for cycle rickshaw.  
 __ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:  
-__ricochet<sup>2</sup>__ _n_  
+__ricochet<sup>2</sup>__ _n_ :two::hammer:  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :four::hammer:  
 __riddle<sup>1</sup>__ _n_ :seven::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
@@ -11841,8 +11850,8 @@ __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
 __shallow__  
-__sham<sup>1</sup>__ _adj_ :two: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
-__sham<sup>2</sup>__ _n_ :three::hammer: _The novelty effect isn’t a sham._  
+__sham<sup>1</sup>__ _adj_ :three: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
+__sham<sup>2</sup>__ _n_ :four::hammer: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
 __shambling__  
@@ -13706,6 +13715,7 @@ __thorny__ _adj_
 __thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
+__thought leader__ _n_  
 __thought__ _n_ :mute:[thou~~gh~~t]  
 __thousandth__  
 __thrall__ _n_ :six::hammer:  
@@ -14022,7 +14032,7 @@ __transceiver__
 __transect__ _n_ :two::hammer:  
 __transfigure__ _v_ Change completely the nature or appearance of.  
 __transfixed__ _adj_ Rendered motionless, esp from horror or shock. Having your attention fixated as though by a spell. _Syn_ fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, spell-bound _I was transfixed by it._  
-__transient<sup>1</sup>__ _adj_ :six::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
+__transient<sup>1</sup>__ _adj_ :seven::mega: For a short time only; temporary or transitory. _Transient lesions._ _A transient log._ _One of the more transient jobs at the paper._  
 __transient<sup>2</sup>__ _n_  
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translucent__ _adj_  
@@ -14620,6 +14630,7 @@ __verdant__ _adj_ _Verdant hills._
 __verdict__ _n_ :four::hammer::pencil2:  
 __verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge__ _n_ :two::hammer:  
+__vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
 __verisimilitude__ _n_ :two::hammer:  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  
