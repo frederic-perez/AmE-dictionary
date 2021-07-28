@@ -4727,12 +4727,12 @@ __eyeglasses__ _n_
 __eyeshades__  
 __eyesight__ _n_ :es: vista  
 __eyestrain__ _n_ A tiredness of the eyes caused by prolonged close work by a person with an uncorrected vision problem.  
-__eyewash__ _Cuddyer explained the balance between effort and eyewash._  
+__eyewash__ _n_ _Cuddyer explained the balance between effort and eyewash._  
 __eyewear__  
 __F-bomb__  
 __f-ing__  
 __f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
-__Fab Four__ The Beatles.  
+__Fab Four__ _n_ The Beatles.  
 __fab__ _adj_ _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
 __fabled__  
 __fabric softener__  
@@ -4769,17 +4769,17 @@ __faint__ _adj_ :two::hammer: _Faint irony._
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
-__fair__ _To be fair to Jim, he didn’t cause the problem but inherited it._  
+__fair__ _adj_ _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fait accompli__  
-__fall from the sky__ _This trust doesn’t fall from the sky._  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __fall into place__  
 __fall out of love__  
 __fall over__ _v_  
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
 __fallacy__ _n_ :five::hammer: _The lump of coding fallacy._  
-__fallback__ _The fallback option._  
+__fallback<sup>1</sup>__ _n_  
+__fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
 __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
@@ -4798,7 +4798,7 @@ __famished__ _adj_ :two: Very hungry.
 __fan letter__ _n_  
 __fan<sup>1</sup>__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
 __fan<sup>2</sup>__ _v_ _Jack should have to fan the fire a little._  
-__fanaticism__ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
+__fanaticism__ _n_ _Fanaticism consists of redoubling your efforts when you have forgotten your aim._  
 __fanbase__ _n_ :astonished:  
 __fancied__ _v_  
 __fanciful__  
@@ -4815,22 +4815,18 @@ __fantastic__ _adj_ :three::hammer::mega:
 __fantasticate__ _v_ To make fantastic.  
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :two::mega::hammer:  
-__far and away__ :astonished:  
-__far and between__ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
-__far-flung__ _adj_ :five::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._  
+__far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
-__farflung__ _Farflung operations and profits._  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_  
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
 __farther__ _adv_ :two::hammer:  
-__farthest-flung__ _Identify dangers in the farthest-flung corners._  
 __farthing__  
 __fascia__ _n_ :two::hammer: _The car dashboard fascias._  
 __fascinate__ _v_ :mute:[fas~~c~~inate]  
@@ -5135,7 +5131,7 @@ __flimflam__ _n_ :dart::two::hammer:
 __flimsy__ _adj_ :two::hammer:  
 __flinch__ _v_  
 __flinch<sup>2</sup>__ _v_ :six: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
-__fling__ _v_ :eight: (flinging) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
+__fling__ _v_ :nine: (flinging, flung) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
 __flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  

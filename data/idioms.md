@@ -421,12 +421,14 @@ __eye candy__ :two: A person or thing that is nice to look at, but has very litt
 __faint of heart__ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
+__fall from the sky__ _This trust doesn’t fall from the sky._  
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short__ :seven: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fan service__  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
+__far and away__ :astonished:  
 __far cry (from something)__ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
@@ -437,6 +439,7 @@ __feel all the feels__ To experience a range of strong emotions. _Oh man, that v
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
+__few and far between__ Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __fill someone in__ _Thank you for filling us in._  
