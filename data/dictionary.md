@@ -5002,6 +5002,7 @@ __fine-tune__ _v_
 __finery__ _n_ :two: Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
 __finesse<sup>1</sup>__ _n_  
 __finesse<sup>2</sup>__ _v_  
+__finger food__ _n_ Food intended to be eaten with the fingers.  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
 __finger-waggers__  
@@ -6282,7 +6283,7 @@ __hazing__ _n_ :dart: (Education) _chiefly US and Canadian_ the bullying of a st
 __hazmat suit__  
 __head and shoulders [above the rest/others]__ _phr informal_ :three: Much better than all the others. By the height of the head and shoulders; hence, by a great degree or space; by far; much; as, he is head and shoulders above them. _Texas is head and shoulders above everybody else with really unique packages for the consumer._  
 __head butt__ _n_ :two::hammer: (head butts) _His rival was trying to touch gloves to apologize for a head butt._  
-__head start__ _n_ :two::hammer: _Giving them a head start on finding a job._  
+__head start__ _n_ :three::hammer: _Giving them a head start on finding a job._  
 __head wind__  
 __head__ _v_ _Head to Freakonomics.com._  
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
@@ -6321,6 +6322,7 @@ __heartland__ _n_ :two: The central or most important part of a country, area, o
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
+__hearty__ _adj_ :astonished: __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._  
 __heat > to catch a lot of heat__  
 __heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
@@ -8313,6 +8315,7 @@ __mesh strainer__
 __Mesoamerica__ _n_ Another name for Central America.  
 __mesosphere__  
 __mess up__ _phr v_  
+__mess__ _n_ :astonished:: __3a__ An amount of food, as for a meal, course, or dish: _cooked up a mess of fish._ __b__ A serving of soft, semiliquid food: _a mess of porridge._  
 __messiah__ _n_ :mute:[messia~~h~~]  
 __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._  
 __messtin__ _n_  
@@ -8645,7 +8648,7 @@ __mumps__
 __munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
-__mundane__ _adj_ :three::hammer:  
+__mundane__ _adj_ :four::hammer:  
 __Muni bus__  
 __munificent__ _adj_ :two: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
@@ -10267,6 +10270,7 @@ __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
 __pretense__ _n_ :two::hammer:  
 __pretentious__ _adj_ :pencil2:  
+__preterm birth__ _n_ Preterm birth (PTB), also known as premature birth, is the birth of a baby at fewer than 37 weeks’ gestational age, as opposed to full term delivery at approximately 40 weeks.  
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
@@ -10347,6 +10351,7 @@ __prod<sup>2</sup>__ _n_ :es: _empujón_
 __prodigal<sup>1</sup>__ _adj_ :two::hammer:  
 __prodigal<sup>2</sup>__ _n_  
 __produce__ _n_ :three::hammer: _People value fresh produce._ _We proudly feature only organic produce._  
+__productive cough__ _n_ (medicine) A cough accompanied by expectoration.  
 __profane__ _adj_  
 __profanely__  
 __profanity__ _n_ :two::hammer: _Shouting profanities._  
@@ -10549,6 +10554,7 @@ __put it on the money__
 __put on a clinic__  
 __put on hold__  
 __put to the test__  
+__put__ _v_ __8__ _Sports_ To hurl with an overhand pushing motion: _put the shot._  
 __putbacks__  
 __putdowns__  
 __putrid__  
@@ -11993,13 +11999,14 @@ __shortly before__ _adv_ _Shortly before Lee’s death, the homeless man walked 
 __shortly__ _adv_ :two::hammer: _Shortly before 8 a.m. Tuesday._  
 __shorts__ _n pl_ :two: (plurale tantum) _He typically wears shorts to work._  
 __shot clock__ _n_ A clock in basketball that displays a countdown of the time within which shooting the ball is required.  
-__shot put__  
+__shot put__ _n_ :two: __1__ [:scroll: The heavy metal ball used in the event is called a shot (based on the use of this word to refer to the metal balls fired from cannons and older firearms). The word put is used in the sense meaning “to throw something.” In shot put, an athlete literally “puts the shot.”] An athletic event in which contestants attempt to put a heavy metal ball as far as possible. __2__ The standard ball used in this competition.  
 __shot__ _n_  
 __shotgun cottage__  
 __shotgun house__  
 __shotput__ _n_  
 __shoulder<sup>1</sup>__ _n_ :two: __8__ The edge or border running on either side of a roadway. :camera: _The shoulders of the freeway will be wider._ _Even pulling onto shoulder causes huge jams._  
 __shoulder<sup>2</sup>__ _v_ :three::hammer:  
+__shout out__ _n_ _Shout out to Jenny for taking our photo._  
 __shout-out > give a shout-out__  
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
@@ -12820,7 +12827,7 @@ __stag<sup>3</sup>__ _adv_
 __stage name__  
 __stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ _n_ :two: Sluggish economic growth coupled with a high rate of inflation and unemployment.  
-__stagger__ _v_ :three::hammer: (staggers) _Walmart will stagger other deals._  
+__stagger__ _v_ :four::hammer: (staggers) _Walmart will stagger other deals._ __4__ To arrange in alternating or overlapping time periods: _staggered the nurses’ shifts._  
 __staggering<sup>1</sup>__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
 __staggering<sup>2</sup>__ _v_  
 __stagnant__ _adj_ :three::hammer:  
