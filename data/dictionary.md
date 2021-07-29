@@ -959,7 +959,7 @@ __batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _He
 __battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
-__battlements__ _n_ :two::hammer:  
+__battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
 __bauble__ _n_ :four: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawdiness__  
@@ -2205,6 +2205,7 @@ __cede__
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
 __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
+__celibacy__ _n_  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
 __Celt__ :mega:  
@@ -3106,7 +3107,7 @@ __crapshoot__
 __crapulous__ _adj_ __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash course__  
 __crash-land__ _v_ _A jet crash-landed in the city._  
-__crass__ _adj_ :three::hammer: _Crass attitudes._  
+__crass__ _adj_ :four: So crude and unrefined as to be lacking in discrimination and sensibility. _Crass attitudes._  
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
@@ -3280,6 +3281,7 @@ __curdle__
 __curdled__ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
+__Curia__ _n_ :three: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
 __curios__  
 __curlicued__ _v_  
@@ -5410,6 +5412,7 @@ __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.
 __fretful__ _adj_ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
 __fretwork__  
+__friar__ _n_ A member of any of various chiefly mendicant religious orders of the Roman Catholic Church, the main orders being Black Friars (Dominicans), Grey Friars (Franciscans), White Friars (Carmelites), and Austin Friars (Augustinians).  
 __friction__ _n_ _The coefficient of friction._  
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
 __frieze__ _n_  
@@ -7038,7 +7041,7 @@ __inset<sup>1</sup>__ _v_ :two::hammer:
 __inset<sup>2</sup>__ _n_  
 __insidious__  
 __insipid__  
-__insofar__ _adv_ :two: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
+__insofar__ _adv_ :four: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolation__  
 __insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ rudeness, cheek _Sara sassed the teacher and was given detention for her insolence._  
 __insolent__ _adj_  
@@ -7860,7 +7863,7 @@ __locust__ _n_ :four::hammer: (locusts)
 __lode__ _n_ :two::hammer:  
 __lodestone__ _n_ [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ _Fishing lodges._  
-__lodge<sup>2</sup>__ _v_ (lodged) _He lodged his will with a lawyer in Rome._  
+__lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
 __lodging__  
 __lodgings__  
 __loft__ _v_ :two::hammer: (lofted) _The men lofted the shields over their heads._  
@@ -10229,7 +10232,7 @@ __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
-__prelate__ _n_  
+__prelate__ _n_ :two: A high-ranking member of the clergy, especially a bishop.  
 __preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
@@ -11072,7 +11075,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
-__retainer__ _n_ :three::hammer: (retainers)  
+__retainer__ :four: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
@@ -11080,7 +11083,7 @@ __retention__
 __rethoric__ _n_ :two::mega::hammer:  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__retinue__ _n_ :four::hammer: (retinues)  
+__retinue__ _n_ :five: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
@@ -13927,7 +13930,7 @@ __tonnes__ _n pl_
 __tonsil__ _n_ _A tonsil infection._  
 __tonsillitis__ _n_  
 __tonsils__ _n_ :two::hammer:  
-__tonsure__ _n_ :four::camera::hammer: _The pate of a monk with a wet red tonsure._  
+__tonsure__ _n_ :five::camera: __1__ The act of shaving the head or part of the head, especially as a preliminary to becoming a priest or a member of a monastic order. __2__ The part of a monk’s or priest’s head that has been shaved. _The pate of a monk with a wet red tonsure._  
 __tony__ _adj informal_ :five: Fashionable among wealthy or stylish people. _A tony restaurant._ _A tony housewife._ _It was a tony place._  
 __toodles__ _v_  
 __toodling__  
