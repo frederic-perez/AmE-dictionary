@@ -4647,12 +4647,11 @@ __excoriation__
 __excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
 __excruciate__  
 __excruciating__ _adj_ :three: Very painful.  
-__excruciatingly__ _The code in each class becomes excruciatingly simple._  
+__excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
-__exe__ :mega:  
 __exec__ _n informal_ :five: (execs) An executive. _I’m a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
-__exemplary__ _Less-than-exemplary antifouling efforts._  
+__exemplary__ _adj_ _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
@@ -4673,14 +4672,13 @@ __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of can
 __exonerate__ _v_ :four: (exonerating) __1__ To clear from accusation, guilt, or blame. __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
-__expansively__ _He sucked expansively on his cigar._  
+__expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
 __expediency__  
 __expedient__  
-__expedite__ _v_ :dart::nine::m: (expedited) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
-__expedited shipping__ (vs _regular shipping_)  
-__expediting__ _v_  
+__expedite__ _v_ :dart::nine::m: (expedited, expediting) To speed up the progress of or execute quickly. _Wear easy on/off shoes to expedite security, take off your belt and clear out your pockets._  
+__expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast delivery or shipping freight option that promises faster than usual shipping speeds compared to standard shipping options.  
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
@@ -4701,8 +4699,8 @@ __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunge
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extemporaneous__ _adj_  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
-__extensively__ _She’s been working extensively._  
-__extent__ _To the same extent._  
+__extensively__ _adv_ _She’s been working extensively._  
+__extent__ _n_  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :five::hammer: (extolled, extolling)  
@@ -4714,17 +4712,17 @@ __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye dropper__ _n_  
-__eye mask__ (to sleep)  
+__eye mask__ _n_ (to sleep)  
 __Eye of Providence__ _n_ (all-seeing eye of God)  
 __eye patch__  
 __eye raiser__  
+__eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
 __eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._  
-__eye-socket__ :es: órbita del ojo  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
 __eyed__ _v_ :two::hammer: _Pay hikes eyed nonregular workers._  
-__eyedrop__ _A natural lubricating eyedrop._  
+__eyedrop__ _n_ _A natural lubricating eyedrop._  
 __eyeglasses__ _n_  
 __eyeshades__  
 __eyesight__ _n_ :es: vista  
@@ -11075,7 +11073,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
-__retainer__ :four: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
+__retainer__ _n_ :four: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  

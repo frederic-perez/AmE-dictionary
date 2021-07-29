@@ -1547,6 +1547,7 @@ __to have someone pegged__ _Ed had him pegged as a skinflint._
 __to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
 __to let (one’s) guard down__ To stop being cautious; to relax and stop being so aware of one’s behavior and other people’s reactions to oneself.  
 __to see red__ Very angry.  
+__to some extent__  
 __to that end__ :four::hammer: (to that end,)  
 __to this day__ :four::hammer: _I don’t know if they still do it to this day._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
