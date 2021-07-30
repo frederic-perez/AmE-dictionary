@@ -1156,6 +1156,7 @@ __bewhiskered__
 __bewilder__  
 __bewitch__ _v_  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
+__Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
 __bibliopole__ _n_ A dealer in rare books.  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
@@ -1236,7 +1237,8 @@ __bivouac<sup>1</sup>__ _n_ A temporary encampment, in the open air, typically w
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
-__black belt__  
+__black belt__ _n_  
+__Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
 __black gold__  
 __black lung__ _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
@@ -2975,6 +2977,7 @@ __corgi__
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __cormorants__  
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
+__Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
 __corn fritters__  
 __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
 __cornerstone__ _n_  
@@ -3008,6 +3011,7 @@ __costumier__ _n_
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
 __cottage__ _n_ :two::astonished::hammer:  
+__Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
 __cotton candy__ _n_ :two::hammer:  
 __cotton dry__  
 __cotton gin__ _n_ A machine that separates the seeds, seed hulls, and other small objects from the fibers of cotton.  
@@ -5434,6 +5438,7 @@ __front-end__ _adj_ _The processing fee must be paid in advance by the mark to t
 __frontispiece__ _n_  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
+__Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
 __frostbite__ _n_ :six::hammer:  
 __frosted glass__ _n_ _Illuminated by domes of frosted glass._  
 __frosted silver__  
@@ -5443,6 +5448,7 @@ __frozen yogurt__
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
+__Fruit Belt__ _n_ Fruit Belt is a term in the United States for an area where the microclimate provides good conditions for fruit growing. Fruit Belts are prominent around the North American Great Lakes region.  
 __fruit juice__ _n_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __fruition__ _n_ :two: The realization or fulfilment of a plan or project. _The plans have come to fruition rather sooner than expected._ _Syn_ fulfilment, realization  
 __frumpy__  
@@ -6190,7 +6196,7 @@ __haptic__ _adj_ Of or relating to the sense of touch; tactile.
 __harangue__ _v_  
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
 __harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
-__harbinger__ _n_ :four::hammer:  
+__harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
 __hard rock__ _n_  
@@ -7192,6 +7198,7 @@ __jeered__ _v_ :four::hammer: (jeering)
 __Jehova’s Witness__  
 __jejune__  
 __jell__ _v_ _The plans didn’t jell._  
+__Jell-O Belt__ _n_ The Mormon Corridor region, which has the highest Mormon populations, was nicknamed the “Jell-O Belt,” referring to the 20th-century Mormon cultural stereotype that Mormons have an affinity for Jell-O.  
 __jelly doughnuts__  
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
@@ -11136,6 +11143,7 @@ __rib cage__ _n_ _Manning had an MRI on his rib cage._
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ _n_ :two::hammer:  
 __ribbon-cutting ceremony__ _n_  
+__Rice Belt__ _n_ The Rice Belt of the United States includes Arkansas, Louisiana, Mississippi and Texas, four southern U.S. states that grow a significant portion of the nation’s rice crop.  
 __riches__ _pl n_ :nine: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
@@ -11384,6 +11392,7 @@ __ruptured__ _v_ _He ruptured his Achilles._
 __ruse__ _n_ :seven::hammer: (ruses)  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
+__Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rustle up__ _v_  
 __rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
@@ -12463,6 +12472,7 @@ __snot rag__
 __snot__ _n_ _slang_ :four: __1__ Nasal mucus; phlegm. __2__ An annoying, arrogant, or impertinent person.  
 __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.  
 __snout__ _n_  
+__Snow Belt__ _n_ (Snowbelt) The northern parts of the U.S. that are subject to considerable snowfall.  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
 __snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
@@ -13261,7 +13271,7 @@ __summertime__ _n_ :three::pencil2::hammer:
 __summit__ _n_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
-__Sun Belt__ _n_ (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
+__Sun Belt__ _n_ :two: (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __sunburn__ _n_  
 __Sunday__ _n_ :mega: /’söndi, -deI/  
 __sunder__ _v_ :two::hammer:  
@@ -14307,6 +14317,7 @@ __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, o
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
 __unburdened__  
+__Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
@@ -14944,6 +14955,7 @@ __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]
 __what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
 __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
 __whatnot__ _n_ :two::hammer:  
+__Wheat Belt__ _n_ The part of North America where wheat is the primary crop.  
 __wheat__ _n_ :mute:[w~~h~~eat]  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
 __wheel well__ _n_ _The Corvette’s wheel well._  
@@ -14961,6 +14973,7 @@ __whence__
 __whereabouts__  
 __whereas__  
 __whereby__  
+__wherefore__ _adv_  
 __wherewithal__ _n_ :four::hammer:  
 __whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
