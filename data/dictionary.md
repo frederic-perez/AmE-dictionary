@@ -4515,7 +4515,7 @@ __entrée__
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
-__entryway__ _An entryway aquarium._  
+__entryway__ _n_ _An entryway aquarium._  
 __entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
 __enunciation__  
 __envelop__ _v_  
@@ -4532,7 +4532,7 @@ __epicure__ _n_ One with sensitive and discriminating tastes especially in food 
 __epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
 __epigram__ _n_  
-__epilepsy__ _Risks of cerebral palsy and epilepsy._  
+__epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
@@ -4562,7 +4562,6 @@ __equivocal__ _adj_ _Syn_ ambiguous, confusing
 __equivocation__ _n_  
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
-__err__ _“The well-being of your child os of paramount concern,” he wrote in his lecture, err, letter._  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
@@ -4575,8 +4574,7 @@ __escalation__ _n_ :two::hammer:
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
-__eschew__ (eschewing commas) _Formal_ To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._  
-__eschews__ _v_  
+__eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
 __esoteric__ _adj_  
@@ -4585,16 +4583,15 @@ __esplanade__ _n_ A flat open stretch of pavement or grass, especially one desig
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
-__essential__ _Special K - 8 essential vitamins._  
-__essentials__ _n_  
-__established__ _Established 1978._  
+__essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
+__essential<sup>2</sup>__ _n_  
+__establish__ _v_ _Established 1978._  
 __esteemed__ _v_ _Our esteemed allies._  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
-__ETA__ _I believe we have an ETA of six days._  
 __etch__ _v_ :five::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
@@ -4616,10 +4613,8 @@ __evanescent__ _adj_
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
-__evening star__ _The evening star was out and the moon rising._  
+__evening star__ _n_ A planet, especially Venus or Mercury, that is prominent near the western horizon shortly after sunset. _The evening star was out and the moon rising._  
 __evergreen__ _adj_  
-__every man for himself__ :dart:  
-__every other__ _A new cartoon will be published every other Sunday._  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ _n_ :two::hammer:  

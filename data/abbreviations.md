@@ -27,6 +27,7 @@ __EMT__ Emergency medical technician: a person who is trained to give emergency 
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __ESP__ Extrasensory perception. _ESP powers._  
+__ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
 __FFP__ Filtering face piece (a filtering half mask).  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  

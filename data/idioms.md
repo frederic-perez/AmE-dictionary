@@ -410,7 +410,8 @@ __envelope > push the envelope__ To go beyond established limits; to pioneer.
 __eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
 __every cloud has a silver lining__ :seven: Used to say that there is something good even in a situation that seems very sad or difficult.  
-__every other week__ :two: When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._  
+__every man for himself__ :dart:  
+__every other__ :three: Every second one in a series, as in _I’m supposed to take this pill every other day._ When something happens “every other week,” this means that it happens about once every two weeks. _We don’t win bigger events every other week._ _A new cartoon will be published every other Sunday._  
 __every rose has its thorn__ Nobody is perfect and every person is riddled with flaws. Even a flower as beautiful as the rose has certain flaws but that does not take away its beauty.  
 __every single one__ Every individual person or item within a group, without exception.  
 __every so often__ _adv_ :three: Sometimes; occasionally. _Every so often she visits her father._  

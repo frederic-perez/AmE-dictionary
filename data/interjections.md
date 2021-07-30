@@ -10,7 +10,7 @@ __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word fo
 __duh__ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
 __eh?__ _Impressive, eh?_  
 __encore<sup>3</sup>__ Used to demand an additional performance.  
-__er__ :two: Used to express hesitation or uncertainty. _It does look, er, distinctive._  
+__er__ :three::dart: Used to express hesitation or uncertainty. _It does look, er, distinctive._ _“The well-being of your child os of paramount concern,” he wrote in his lecture, er, letter._  
 __eureka__ [:scroll: Greek heurēka, _I have found (it)_]  
 __ew__ _informal_ (eww) Expression of disgust or nausea. _Ew! There’s a fly in my soup._  
 __fiddlesticks__ Used to express mild annoyance or impatience. _Syn_ nonsense :es: ¡Tonterías!  
