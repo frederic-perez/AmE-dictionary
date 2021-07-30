@@ -20,6 +20,7 @@ __(one) has a point (there)__ One’s point of view or opinion makes sense and i
 __(right) from the off__ _He knew it from the off._  
 __(someone) (just) doesn’t know when to quit__ Someone would be better off not doing something or acting a certain way because it is or may become destructive, counterproductive, futile, or undesirable.  
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
+__(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
@@ -58,6 +59,7 @@ __a little from column A, a little from column B__ Having been formed from two d
 __a little leery__ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
+__a long row to hoe__ A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _I know finishing this thesis will be a long row to hoe, but I’m actually looking forward to the challenge._  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
@@ -154,6 +156,7 @@ __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.
 __be (someone’s) huckleberry__ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
+__be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
 __be a roaring success__ To be extremely or triumphantly successful.  
 __be as good as gone__ To be very nearly, inevitably, or for all intents and purposes lost, departed, defunct, or deceased.  
 __be at your wits’ end__ To be worried about something and not know what you should do next.  
@@ -1102,6 +1105,7 @@ __long memory__ A clear memory of events that happened long ago. _I always have 
 __long since__ Long ago; of the (relatively) distant past. _I came back to my hometown after college, eager to reconnect with old friends, but they had long since moved away._  
 __long story short__  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
+__long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _If you’re thinking of starting a savings account, it’s good to have some long-run goals for how much you want to put aside each month._  
 __look (at something) through rose-colored glasses__ To assume a generally optimistic and cheerful attitude (toward something); to focus on the positive aspects (of something). Primarily heard in US. _I know nostalgia can be misleading, but I really look at my childhood through rose-colored glasses._  
 __look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _I know that the Ivy League students may look askance upon a country bumpkin such as myself, but I will show them that I have the mettle to be their equal._  
 __look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
@@ -1111,8 +1115,15 @@ __look out for number one__ To put one’s own needs, concerns, or responsibilit
 __look up to (one)__ :dart: To admire or view one as a role model. _Of course I look up to you—you’re my big sister!_  
 __loom large__ To seem imminent and cause worry or unease. _We all started working much faster once the deadline loomed large on the horizon._  
 __loose cannon__ :two::hammer:  
+__loose change__ A small, usually insignificant amount of money, typically consisting of coins. _My wife and I put our loose change in a big jar at the end of the day._  
 __loose ends__ :two::hammer:  
+__loose lip(s)__ The practice, habit, or manner of speaking too frequently and/or without discretion, especially as might unintentionally lead to revealing private or sensitive information to others. _You’ve got a very loose lip, son. You’d do well to learn to keep it shut!_  
+__loose talk__ Uninhibited, indiscreet talk or conversation, especially as might unintentionally lead to revealing private or sensitive information to others. _The details of this project are extremely confidential, so there can’t be any loose talk about it whatsoever._  
+__lose (one’s) bearings__ To lose sight of or become unable to determine one’s orientation, position, or abilities relative to one’s surroundings or situation. _I feel like I’ve been losing my bearings in life ever since I lost my job._  
+__lose (one’s) buttons__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _My poor grandmother started losing her buttons after she had a stroke on her 84th birthday._  
+__lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). _The staff have started losing faith in John’s ability to manage the restaurant properly._  
 __lose it__  
+__lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __lose track of (someone or something)__  
 __lose your train of thought__ To forget what you were talking or thinking about.  
 __loss one’s marbles__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
@@ -1537,6 +1548,7 @@ __tide someone over (until something)__ To supply someone until a certain time o
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __tie the can__ _It ain’t every day that you tie the can to a Congressman._  
 __tight as a drum__ Taut or close-fitting; also, watertight.  
+__tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
 __time and (time) again__ :three::dart: Repeatedly; on multiple occasions.  
 __time and again__ Again and again; repeatedly.  
