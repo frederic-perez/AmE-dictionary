@@ -405,6 +405,7 @@ __easy street, on__ A secure and comfortable financial situation. _Grandpa will 
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elephant in the room__ :two: An obvious problem that people do not want to talk about.  
 __Elvis has left the building__ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
+__empty nester__ _n_ A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  

@@ -23,6 +23,7 @@ __CVS__ Computer Vision Syndrome.
 __D&D__ :three: Dungeons and Dragons.  
 __DMV__ :two: Department of Motor Vehicles.  
 __DOY__ Day of year.  
+__ELIA5__ Explain Like I Am 5.  
 __EMT__ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  

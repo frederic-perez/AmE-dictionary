@@ -1538,7 +1538,7 @@ __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impres
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
-__box__ _n_ :three::hammer: (soccer) _Kyle fouled Ben in the box._  
+__box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
@@ -4383,7 +4383,6 @@ __elevator operator__ :camera:
 __elevator__ _n_  
 __elevators__ (airplane)  
 __elfin__ _adj_  
-__ELIA5__ Explain Like I Am 5.  
 __elicit__ _v_ :seven::hammer: (elicited)  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
@@ -4402,7 +4401,7 @@ __emancipation__
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
 __embargo__ _n_  
-__embark__ _They embark on a motorcade._  
+__embark__ _v_ _They embark on a motorcade._  
 __embattle__ _v_ :four::hammer: (embattled)  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
 __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
@@ -4416,13 +4415,12 @@ __embolic__ _adj_ __1__ Of, relating to, or caused by an embolus or an embolism.
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
-__embroil__ (embroiled)  
+__embroil__ _v_ (embroiled)  
 __embryo__  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
-__emerity__ _Faculty emerity._  
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
@@ -4436,11 +4434,9 @@ __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the s
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
-__Empire State__ The U.S. State of New York.  
+__Empire State__ _n_ The U.S. State of New York.  
 __emporium__ _n_ :two::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
-__empty box__ _The Etihad is the last empty box on his list._  
-__empty nester__ _He and wife Bekki areempty nesters._  
 __empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
 __emulate__ _v_  
@@ -4462,7 +4458,6 @@ __encroachment__ _n_ :six::hammer:
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end game__ _n_ :two::hammer:  
-__end over end__ _He tossed the cigarette end over end into the wastebasket._  
 __end result__  
 __endangerment__  
 __endarterectomy__ _n_ :mega:  
@@ -4476,7 +4471,7 @@ __endow__ _v_ :four::hammer: (endowed)
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
-__endurance__ _Endurance race._  
+__endurance__ _n_ _Endurance race._  
 __endure__ _v_ Last for a long time.  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
@@ -4491,7 +4486,7 @@ __enliven__ _v_
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
-__enormous__ :mega:  
+__enormous__ _adj_ :mega: /(ɪˈnɔːməs/  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
 __enrol__ _v_  
