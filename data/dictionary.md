@@ -767,6 +767,8 @@ __baby blue__ _n_ :camera:
 __baby bump__ _Dressing your baby bump._  
 __baby formula__ _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
 __baby shower__ _n_ :two::hammer:  
+__Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
+__Babylonian exile__ _n_ Babylonian captivity.  
 __babysit__ _v_  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
@@ -4246,6 +4248,7 @@ __dye__ _v_ (dyes, dyed, dyeing) :pencil2:
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :two::pencil2::hammer:  
 __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
+__dysentery__ _n_ Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ (dysfunctional) :pencil2:  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
@@ -5294,7 +5297,7 @@ __forerunner__ _n_ :two::hammer:
 __foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
-__forestall__ _v_ :five: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
+__forestall__ _v_ :six: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :three: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
@@ -5666,7 +5669,7 @@ __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away,
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :five::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
 __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
-__gibbet__ _n_  
+__gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
 __gibed__ _v_  
 __gibes__  
@@ -6537,7 +6540,7 @@ __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hi
 __holloware bullion__  
 __Holy Ghost__ _n_ :two::hammer:  
 __Holy Rood__  
-__Holy See__  
+__Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
 __homage__ _n_  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
@@ -7707,7 +7710,7 @@ __leverage<sup>2</sup>__ _v_ :five::hammer:
 __leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
-__levy<sup>1</sup>__ _v_ :four::hammer: (levyying)  
+__levy<sup>1</sup>__ _v_ :five::hammer: (levying) _The levy of taxes on clerical income._  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
@@ -11727,6 +11730,7 @@ __sediment__ _n_
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
 __sedulous__ _adj_ :three::hammer: _Syn_ busy  
+__see__ _n_ (sees) The official seat, center of authority, jurisdiction, or office of a bishop.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
 __seediness__  
@@ -12117,7 +12121,7 @@ __silverplate__ _v_
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
-__simony__ _n_ The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__simony__ _n_ :four: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
@@ -14592,6 +14596,7 @@ __vaudeville__ _n_ :two::pencil2::hammer:
 __vaulted__ _adj_ _Vaulted ceilings._  
 __vaunt__ _v_ :eight: (vaunted) Boast about or praise (something), especially excessively: _the much vaunted information superhighway._ _His vaunted political organization._ _His vaunted negotiation skills._  
 __vaunted__ _adj_ Hghly or widely praised or boasted about.  
+__veal__ _n_ :es: ternera  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
 __veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
@@ -15172,7 +15177,7 @@ __witty__ _adj_
 __wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
-__woe__ _n_ :three: (woes) Misfortune; calamity: _economic and political woes._  
+__woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
 __woeful__ _adj_ :three::hammer: _Our woeful train system._  
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
