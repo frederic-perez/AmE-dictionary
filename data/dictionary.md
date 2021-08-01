@@ -51,7 +51,7 @@ __abhorrent__ _adj_ :five::hammer:
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
-__abjure__ _v_ :two::hammer:  
+__abjure__ _v_ :three: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrable _The abominable treatment of prisoners horrified the team of international observers._  
@@ -235,6 +235,7 @@ __age<sup>2</sup>__ _v_
 __ageless__  
 __agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
+__agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
 __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
@@ -287,7 +288,7 @@ __akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
-__alacrity__ _n_ :three: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
+__alacrity__ _n_ :four: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __Alas!__  
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
@@ -1233,7 +1234,7 @@ __bitching__ _n_ _Quit your bitching!_
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitingly__  
-__bivouac<sup>1</sup>__ _n_ A temporary encampment, in the open air, typically without tents or cover.  
+__bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
@@ -2901,6 +2902,7 @@ __continual__ _adj_ :two::hammer: _For most systems, change is continual._
 __contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
+__contrafactum__ _n_ A composition that makes use of an existing piece of music with different lyrics.  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
 __contraption__  
 __contrarian__  
@@ -5904,7 +5906,7 @@ __gravitas__ _n_ :four: A serious and impressive attitude or way of behaving. _S
 __gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
 __gravy__ _n_ :three::hammer:  
-__graybeard__ _n_ _Senate graybeards._  
+__graybeard__ _n_ :two: A man who is very old. _Syn_ old man, Methuselah _Senate graybeards._  
 __grayling__  
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
@@ -9380,7 +9382,7 @@ __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
-__palaver<sup>1</sup>__ _n_  
+__palaver<sup>1</sup>__ _n_ :two::hammer:  
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
@@ -13591,7 +13593,7 @@ __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, 
 __teeter__ _v_ :nine::m: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
-__teetotaller__ _n_ One who abstains completely from alcoholic beverages.  
+__teetotaler__ _n_ :two: One who abstains completely from alcoholic beverages.  
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
@@ -14516,7 +14518,7 @@ __uptime__ _n_ :two: The time during which a device, such as a computer, is func
 __upward__  
 __upwardly__  
 __urban legend__  
-__urbane__ _adj_ Showing a high degree of refinement and the assurance that comes from wide social experience. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
+__urbane__ _adj_ :two: Showing a high degree of refinement and the assurance that comes from wide social experience. Notably polite or polished in manner. _Syn_ svelte, polished, refined _In his mind, he was suave and urbane, but in real life, he was just the opposite._  
 __urbanites__  
 __urchin__ _n_ _An underprivileged urchin._  
 __urge on__ _phr v_ :two: To encourage.  
@@ -15025,8 +15027,8 @@ __white<sup>1</sup>__ _n_ :mute:[w~~h~~ite]
 __white<sup>2</sup>__ _adj_ :mute:[w~~h~~ite]  
 __whitelist__ _v_  
 __whiteout__  
-__whitespace__ _n_ _slang_ (Financial) An unexploited opportunity. That is, whitespace is a potential source of profit, almost always associated with some level of risk.  
-__whitewash__ _v_ :four::hammer:  
+__whitewash<sup>1</sup>__ _n_ :two::hammer: __4__ _slang_ (Financial) An unexploited opportunity. _That is, whitespace is a potential source of profit, almost always associated with some level of risk._  
+__whitewash<sup>2</sup>__ _v_ :five: __1__ To paint or coat with whitewash. __2__ To conceal or gloss over (wrongdoing, for example). __3__ (Sports) To defeat (an opponent) in a game in which the opponent does not score.  
 __whitewater<sup>1</sup>__ _n_ (white water) Turbulent or frothy water, as in rapids or surf.  
 __whitewater<sup>2</sup>__ _adj_ (white-water) Of, relating to, intended for, or taking place on whitewater, especially in river rapids: _whitewater rafting._  
 __whithered__  
@@ -15336,7 +15338,7 @@ __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers
 __yin and yang__  
 __yipped__ _v_  
 __yipping__ _v_  
-__yips__  
+__yips__ _n_ :two: (the yips) Nervous tension that causes an athlete to fail (especially causes golfers to miss short putts). _To avoid the yips he changed his style of putting._  
 __ylem__ _n_ noun: (cosmology) The original matter that (according to the big bang theory) existed before the formation of the chemical elements.  
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
