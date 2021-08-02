@@ -4302,10 +4302,9 @@ __ebullient__ _adj_ :four: Very happy and enthusiastic.
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
-__echo__ :mute:[ec~~h~~o]  
+__echo__ _n, v_ :mute:[ec~~h~~o]  
 __eclampsia__  
 __ecliptic__ _n_  
-__econ__ _The econ professor._  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __ecumenical__  
@@ -4337,7 +4336,7 @@ __effulgent__ _adj_
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__ _adj_ :two::hammer:  
 __egalitarian__ _adj_  
-__egg head__ A very studious and academic person.  
+__egg head__ _n_ _informal_ A very studious and academic person.  
 __egg roll__  
 __egg white__  
 __egg__ _v_  
@@ -4353,12 +4352,12 @@ __egret__ _n_ :five: Any of various usually white herons having long plumes duri
 __Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
-__eight__ :mute:[ei~~gh~~t]  
+__eight__ _n_ :mute:[ei~~gh~~t]  
 __eight-track__ _The eight-track audio tape._  
-__eighty-eights__ Piano.  
+__eighty-eight__ _n_ _slang_ Piano.  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
-__either__ :mega:  
+__either__ _adj, adv, conj, pron_ :mega:  
 __ejecta__ _n_ Ejected matter, as that from an erupting volcano.  
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
@@ -4372,11 +4371,11 @@ __elation__ _n_ :four::hammer:
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
 __elderflower__  
-__elderly__ :es: tercera edad  
+__elderly__ _adj, n_ :es: tercera edad  
 __eldest__ _adj_  
 __eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
-__elective__ _Other students can take up to four fine arts electives._  
+__elective__ _n_ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
 __electrolysis__ _n_  
 __electronics__ _n pl_ (plurale tantum)  
@@ -4384,9 +4383,8 @@ __elegy__ _n_ :three: A mournful poem; a lament for the dead. _Syn_ lament, requ
 __elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
 __elevator boy__  
 __elevator control box__  
-__elevator operator__ :camera:  
-__elevator__ _n_  
-__elevators__ (airplane)  
+__elevator operator__ _n_ :camera:  
+__elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
 __elfin__ _adj_  
 __elicit__ _v_ :seven::hammer: (elicited)  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  

@@ -171,6 +171,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_adj vulgar slang_', \
     '_adj_', \
     '_adj, adv_', \
+    '_adj, adv, conj, pron_', \
     '_adj, adv, n_', \
     '_adj, adv, n, v_', \
     '_adj, adv, prep_', \
