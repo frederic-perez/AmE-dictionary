@@ -428,6 +428,7 @@ __angsty__ _adj_ :two::hammer:
 __anguish<sup>1</sup>__ _n_  
 __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)  
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
+__animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :four::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ :es: odio __2__ Purpose; intention; animating spirit.  
@@ -2024,6 +2025,7 @@ __canny__ _adj_ Astute; shrewd, knowing; sagacious.
 __canoe__ _n_ :mega:  
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ _A dense canopy of snow._  
+__canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
 __cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
@@ -2225,7 +2227,7 @@ __centerpiece__
 __centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
-__cerulean<sup>1</sup>__ _adj_ :two: Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cerulean<sup>1</sup>__ _adj_ :three: Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
@@ -3357,9 +3359,7 @@ __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
-__dallied__ _v_  
-__dally__ _v_  
-__dallying__  
+__dally__ _v_ :four::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __dammit__  
@@ -3849,6 +3849,7 @@ __dispenser__
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dispiriting__ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
+__dispraise__ _n_ Disapproval; censure. _Syn_ disparagement  
 __disquiet__  
 __disquisitition__ :pencil2:  
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
@@ -4650,7 +4651,7 @@ __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exec__ _n informal_ :five: (execs) An executive. _I’m a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
-__exemplary__ _adj_ _Less-than-exemplary antifouling efforts._  
+__exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
@@ -6686,6 +6687,7 @@ __huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from col
 __Huey__  
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
+__hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
@@ -8438,6 +8440,7 @@ __misdirection__ _n_ :three::hammer:
 __miser__ _n_ :three::hammer: :es: avaro  
 __miserable__ _adj_ _We are miserable._  
 __miserably__ _adv_ _Failed miserably._  
+__misericord__ _n_ :astonished: __1__ Compassion, pity, or mercy. __2__ Something to provide support to a standing person. __3__ A place where rules are relaxed. __4__ A dagger used to deliver the death stroke to a seriously wounded person.  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
@@ -8884,6 +8887,7 @@ __nocent__ _adj_ Having a tendency to cause harm.
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
 __nod__ _n_  
 __noddies__ _n_  
+__noetic__ _adj_ Of, relating to, originating in, or apprehended by the intellect.  
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _adj_ _A noir novel._  
 __nom de guerre__  
@@ -9930,6 +9934,7 @@ __placket__
 __plague<sup>1</sup__ _n_  
 __plague<sup>2</sup__ _v_  
 __plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
+__plaint__ _n_ A cry of sorrow and grief. _Syn_ lament, lamentation, wail _The plaints of the bereaved widow and her young children haunt me in my sleep._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
 __plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
 __plaintively__ _adv_ :three:  
@@ -10480,6 +10485,7 @@ __pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxi
 __pugnacity__  
 __pugs__  
 __pukka__ _adj_ _British informal_ _Turnley recreated upon the praairie a perfectly pukka England._  
+__pulchritude__ _n_ Physical comeliness.  
 __pull away__ _phr v_ :two::hammer:  
 __pull off__ _v_ :astonished: To achieve (something difficult or unexpected).  
 __pull strings__  
@@ -13897,6 +13903,7 @@ __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
 __toboggan__ _n_  
+__tocsin__ _n_  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
 __toe-curling__ _adj_ _informal_ :two: Causing feelings of acute embarrassment.  
