@@ -75,6 +75,7 @@ __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
 __abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
+__abstruse__ _adj_ Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__  
 __abutted__  
@@ -5119,6 +5120,7 @@ __fleece__ _v_ :eight::dart: (fleeced) __1__ To defraud of money or property; sw
 __fleecy__  
 __fleeting__  
 __fleetingly__  
+__Flemish__ _adj_  
 __flesh out__ _phr v_ :six::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
@@ -6384,7 +6386,7 @@ __helpdesk__ _n_ Alternative spelling of help desk.
 __helping__ _n_ (helpings) _Second helpings._  
 __helpless__  
 __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
-__hem__ _n_ :es: dobladillo  
+__hem__ _n_ :two: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hemlines__ _n_  
 __hemlock__  
 __hemmed__ _v_ :two::hammer:  
@@ -8390,7 +8392,7 @@ __million__ _n_ :mega: /ˈmɪljən/ _The project willl cost around $10 million._
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
-__mince<sup>1</sup>__ _v_ :five: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
+__mince<sup>1</sup>__ _v_ :six: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ _Minced veal cooked in oil._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__ _n_ :two::hammer:  
 __mincing__ _adj_ Affectedly dainty or refined. _Syn_ dainty, niminy-piminy, prim, twee  
@@ -9402,6 +9404,7 @@ __palm<sup>2</sup>__ _v_ :mega::mute:[pa~~l~~m]
 __palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
 __palmetto__ _n_ :two::hammer: (palmettos)  
 __palomas__  
+__palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
@@ -10641,7 +10644,7 @@ __quicksilver__
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
-__quiescent__ _adj_ :two: __1__ Quiet, still, or inactive.  
+__quiescent__ _adj_ :three: __1__ Quiet, still, or inactive.  
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilt__  
@@ -11544,7 +11547,8 @@ __scaffold__ _n_ :mega::two::hammer:
 __scaffolding__ _n_  
 __scale up__ _v_ _That’s the challenge of scaling up._  
 __scallions__ _n_ :three::hammer:  
-__scallop__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
+__scallop<sup>1</sup>__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
+__scallop<sup>2</sup>__ _v_ :camera: (scalloped)  
 __scalp bounties__  
 __scalp__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
@@ -12323,7 +12327,8 @@ __slobber__ _v_ :three::hammer: (slobbered, slobbering)
 __slobby__  
 __slog<sup>1</sup>__ _v_ :nine: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
-__slop__ _n_ :two: Residual waste, such as cafeteria food slop.  
+__slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
+__slop<sup>2</sup>__ _v_ (slopped)  
 __sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
 __sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
@@ -13724,7 +13729,7 @@ __this time around__ _phr_ :dart::hammer: :es: esta vez
 __thistle__ _n_ :mute:[this~~t~~le] :es: cardo  
 __thistledown__ _n_ The mature, silky pappus of a thistle.  
 __thobbing__  
-__Thomas Aquinas__ _n_  
+__Thomas Aquinas__ _n_ :two: (Aquinas /ə-kwī′nəs/, Saint Thomas) [1225-1274] Italian Dominican friar, theologian, and philosopher.  
 __thong__ _n_ :two::hammer:  
 __thoracotomy__ _n_  
 __thorny__ _adj_  
@@ -14156,6 +14161,7 @@ __troubleshoot__ _v_ :three::hammer:
 __troubleshooter__  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
+__trousseau__ _n_ The clothes, linen, etc, collected by a bride for her marriage.  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  
@@ -14331,7 +14337,7 @@ __uncongenial__
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
-__uncouth__ _adj_ :four: Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._  
+__uncouth__ _adj_ :five: Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._  
 __uncrating__  
 __unction__ _n_  
 __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
@@ -15095,6 +15101,7 @@ __wilfull__
 __will__ _v_  
 __willful__  
 __willfully__  
+__William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
 __willpower__ _n_  
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
