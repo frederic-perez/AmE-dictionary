@@ -1192,7 +1192,7 @@ __not have a hope in hell (of doing something)__ To not have any chance at all o
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
-__not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad) song)._  
+__not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  

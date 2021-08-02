@@ -55,6 +55,20 @@ def valid_use_of_underscores(entry):
         return False
     return True
 
+def valid_use_of_parentheses_or_brackets(entry):
+    """Returns False when finding a wrong number of parentheses or brackets"""
+    num_open_char = len(re.findall('\(', entry))
+    num_close_char = len(re.findall('\)', entry))
+    if num_open_char != num_close_char:
+        return False
+
+    num_open_char = len(re.findall('\[', entry))
+    num_close_char = len(re.findall('\]', entry))
+    if num_open_char != num_close_char:
+        return False
+
+    return True
+
 VALID_TAGS = [ \
     'three', 'two', 'astonished', 'camera', 'dart', 'eight', 'es', 'four', 'five', \
     'hammer', 'm', 'mega', 'mute', 'nine', 'pencil2', \
@@ -233,6 +247,7 @@ class Checker(object):
         self.num_invalid_endings = 0
         self.num_invalid_tags = 0
         self.num_invalid_use_of_underscores = 0
+        self.num_invalid_use_of_parentheses_or_brackets = 0
         self.num_missing_part_of_speech = 0
         self.num_tag_shit = 0
         self.num_too_many_double_spaces = 0
@@ -257,6 +272,14 @@ class Checker(object):
         headword = tokens[0]
         print(headword + FAIL + ' <<< Incorrect use of underscores #' \
             + str(self.num_invalid_use_of_underscores) + ENDC)
+
+    def treat_invalid_parentheses_or_brackets_use(self, entry):
+        """Self-explanatory"""
+        self.num_invalid_use_of_parentheses_or_brackets += 1
+        tokens = entry.split()
+        headword = tokens[0]
+        print(headword + FAIL + ' <<< Incorrect use of parentheses or brackets #' \
+            + str(self.num_invalid_use_of_parentheses_or_brackets) + ENDC)
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
@@ -360,6 +383,8 @@ class Checker(object):
             self.treat_invalid_entry_ending(entry)
         if not valid_use_of_underscores(entry):
             self.treat_invalid_underscores_use(entry)
+        if not valid_use_of_parentheses_or_brackets(entry):
+            self.treat_invalid_parentheses_or_brackets_use(entry)
         succeeded, invalid_tag = valid_entry_tags(entry)
         if not succeeded:
             self.treat_invalid_entry_tags(entry, invalid_tag)
@@ -420,6 +445,7 @@ class Checker(object):
             + self.num_invalid_endings \
             + self.num_invalid_tags \
             + self.num_invalid_use_of_underscores \
+            + self.num_invalid_use_of_parentheses_or_brackets \
             + self.num_tag_shit \
             + self.num_too_many_double_spaces \
             + self.num_entries_with_triple_spaces \
@@ -443,6 +469,8 @@ class Checker(object):
             print_colored_if_positive('Entries with invalid tags', self.num_invalid_tags)
             print_colored_if_positive('Entries with invalid use of underscores', \
                 self.num_invalid_use_of_underscores)
+            print_colored_if_positive('Entries with invalid use of parentheses or brackets', \
+                self.num_invalid_use_of_parentheses_or_brackets)
             print_colored_if_positive('Entries with tag :shit:', self.num_tag_shit)
             print_colored_if_positive('Entries with too many double spaces', \
                 self.num_too_many_double_spaces)

@@ -1899,7 +1899,7 @@ __bye__ _Football_ _They will come out of the bye snd battle the Bears for the N
 __bygone__  
 __bylaw__  
 __bylaws__  
-__byline__ _n_ :six: (bylines)) A line at the head of a newspaper or magazine article carrying the writer’s name.  
+__byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine article carrying the writer’s name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
@@ -4490,7 +4490,7 @@ __enliven__ _v_
 __enlivened__  
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
-__enormous__ _adj_ :mega: /(ɪˈnɔːməs/  
+__enormous__ _adj_ :mega: /ɪˈnɔːməs/  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
 __enrol__ _v_  
