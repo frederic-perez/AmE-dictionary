@@ -22,6 +22,7 @@ __21__ _n_ Drinking game.
 __35-degree day__  
 __4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __411__ _n_  
+__8-track__ _n_ (eight-track) A form of magnetic tape technology for audio storage, popular from the mid-1960s to the early 1980s. _The eight-track audio tape._  
 __a bird in the hand is worth two in the bush__  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
 __à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._  
@@ -4256,21 +4257,20 @@ __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the 
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _Canine hip dysplasia._  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
-__dystopia__ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
-__dystopian__  
+__dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
+__dystopian__ _adj_  
 __dystrophy__ _n_ :pencil2:  
 __e-blasts__  
 __e-commerce__  
-__e.g.__ Exempli Gratia.  
 __each other__  
 __eager__  
 __ear candy__ _n_ _slang_ Pleasant-sounding music.  
 __ear__ _n_ _Ear of corn._  
-__earbuds__ :camera:  
+__earbud__ _n_ :camera: (earbuds) A small earphone inserted into the ear.  
 __earlier__ _adv_ :three:  
 __earlocks__ _n_  
-__early__ _I always get off the bus a stop early on the way to work._  
-__early-onset__ _Early-onset Alzheimer’s disease._  
+__early__ _adj, adv_ _I always get off the bus a stop early on the way to work._  
+__Early-onset Alzheimer’s disease__ _n_ (younger-onset Alzheimer’s disease, early-onset AD)  
 __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, use, or recipient: _to earmark goods for export._ _Syn_ allocate __2__ To mark the ear of (a domestic animal) for identification. __3__ To specify or allocate (funds) to be spent in a legislative earmark.  
 __earmuffs__  
 __earnest__ _adj_ :five::hammer:  
@@ -4284,13 +4284,12 @@ __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that 
 __earthworks__ _n_  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __easement__  
-__easier said than done__ Said of a task that is easier to talk about than to do.  
 __easing__  
-__Eastern Block__ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
+__Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ :two: A large, comfortable, upholstered chair.  
 __easy-chair__  
-__easy-to-use__ _An easy-to-use disposable camera._  
+__easy-to-use__ _adj_ Straightforward and simple to use. _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
 __eatery__ _n informal_ :two: (eateries) A restaurant.  
 __eating disorder__  
@@ -4349,11 +4348,9 @@ __egotistical__ _adj_ :two::hammer:
 __egotists__  
 __egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
-__Egyptian Eyes__ _He made Egyptian Eyes for breakfast._  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
 __eight__ _n_ :mute:[ei~~gh~~t]  
-__eight-track__ _The eight-track audio tape._  
 __eighty-eight__ _n_ _slang_ Piano.  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
