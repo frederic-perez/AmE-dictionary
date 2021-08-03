@@ -340,6 +340,7 @@ __alma mater__ _n_ A school, college, or university at which one has studied and
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
 __almost surely__ _Apple almost surely will succeed in upgrading its security._  
+__alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
@@ -1747,8 +1748,7 @@ __bulbous__ _adj_ _A bulbous man._
 __bulk up__ _v_  
 __bulk__ _n_ :two::hammer: _For the bulk of eight years._  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
-__Bull__ _n_ _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
-__bull__ Adult large animal (eg. an elephant).  
+__bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
 __bulletin__ _n_  
@@ -2136,7 +2136,7 @@ __Cassandra__ _n_ A prophet of misfortune or disaster. _Syn_ doomsayer, pessimis
 __cassava__ _n_  
 __casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa meaning “melting pan.”  
 __casserole<sup>2</sup>__ _v_  
-__cassocks__ _n_  
+__cassock__ _n_ :two::hammer:  
 __cast a pall__  
 __cast-iron__  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
@@ -3858,7 +3858,7 @@ __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical.
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
 __dissatisfaction__ _n_ :two::hammer:  
-__dissatisfied__ _adj_ :two::pencil2::hammer:  
+__dissatisfied__ _adj_ :three::pencil2: Feeling or exhibiting a lack of contentment or satisfaction.  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dissed__ _v_ _Rubio had dissed the Bible._  
@@ -4740,7 +4740,7 @@ __face off__ _v_
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
 __face-lift__  
-__facetious__ _adj_ :three::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__facetious__ _adj_ :four::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
 __facile__ _adj_ :two::hammer: _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
@@ -5968,6 +5968,7 @@ __groomed__
 __groomers__  
 __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
+__grope__ _v_  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
 __grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
@@ -8816,7 +8817,7 @@ __neutered__
 __neutrinos__ _n_  
 __Neutron Jack__  
 __New Jerseyan__  
-__New Jerusalem__  
+__New Jerusalem__ _n_ :two: __1__ _Christianity_ The final dwelling place of souls redeemed by Jesus. __2__ An ideal community on earth.  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
 __newcomer__ _n_ One who has only recently arrived.  
@@ -9501,6 +9502,7 @@ __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; 
 __parsimony__ _n_ :three::hammer:  
 __parsley__  
 __parsnip__  
+__parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
 __parsonage__ _n_ :two::pencil2::hammer:  
 __part company__ _v_  
 __part-time<sup>1</sup>__ _adj_  
@@ -11067,6 +11069,7 @@ __respondent__ _n_ :three::hammer: (respondents)
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
 __rest home__ _n_  
+__restate__ _v_  
 __restaurateur__  
 __restenosis__ _n_  
 __restitution__ _n_ _Pierucci must pay $928 in restitution._  
@@ -12556,7 +12559,7 @@ __soloist__ _n_ :three::hammer:
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
 __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
-__somewhat__  
+__somewhat__ _adv_ :two: To some extent or degree; rather.  
 __somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
 __somnolent__ _adj_  
@@ -14384,6 +14387,7 @@ __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy c
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
+__unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
 __unfeasible__ _adj_ _Syn_ infeasible  
@@ -14564,6 +14568,7 @@ __vagrant<sup>2</sup>__ _adj_ :two::hammer:
 __vague__ _adj_ :mute:[vag~~u~~e]  
 __vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
+__vainglory__ _n_  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
