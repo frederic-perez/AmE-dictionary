@@ -4030,7 +4030,7 @@ __down the strech__ _Williams scored nine points in five minutes down the stretc
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
-__down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds.  
+__down__ _n_ __1__ (Zoology) Fine, soft, fluffy feathers forming the first plumage of a young bird and underlying the contour feathers in certain adult birds. __3__ The under plumage of some birds, as geese and ducks, used for filling in quilts, clothing, etc., chiefly for warmth.  
 __down-low__  
 __downbeat<sup>1</sup>__ _n_ :two::hammer:  
 __downbeat<sup>2</sup>__ _adj_  
@@ -4180,13 +4180,13 @@ __dub__ _v_ (dubbed)
 __dubious__ _adj_ :five::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
 __duchy__ _n_  
-__duck down__ _The pillow contains 30 percent duck down and 70 percent duck feathers._  
+__duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
 __duckling__ _n_ (ducklings) A young duck.  
 __duckweed__  
-__ducky__ _ad_ _slang_ Excellent; fine.  
-__duct__ _They damaged a very large AT&T phone duct._  
+__ducky__ _adj_ _slang_ Excellent; fine.  
+__duct__ _n_ _They damaged a very large AT&T phone duct._  
 __ductile__ _adj_ :two::hammer:  
 __dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
@@ -4196,9 +4196,8 @@ __due diligence__ _n_ :eight: The detailed examination of a company and its fina
 __due<sup>1</sup>__ _adj_  
 __due<sup>2</sup>__ _n_  
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
-__duffel bag__ _n_ :three::hammer:  
+__duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
-__duffle bag__ :camera:  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
@@ -4217,14 +4216,14 @@ __dump<sup>1</sup>__ _n_ _A munitions dump._
 __dump<sup>2</sup>__ _v_ :two::hammer: _Dumping ash on the carpet._ _They walkes to the trash can and dumped their cups._  
 __dumpling__ _n_ :two::hammer: (dumplings) _Bavarian bread dumpling._  
 __dumpster fire__ _n slang_ A complete and utter disaster or a completely chaotic situation likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people.  
-__dun__ _Dun-colored hair._  
+__dun-colored__ _adj_ Having a dun color ._Dun-colored hair._  
 __dunce__ _n_ :three: A person regarded as dim-witted or foolish. _We are complete dunces at self-perfection._  
 __dune__ _n_  
 __dung fork__ _n_  
 __dungarees__ _n_ :six::hammer: _The men in black dungarees stood motionless._  
 __dunno__  
 __duo__  
-__dupe__ _A dupe of a president._  
+__dupe__ _n_ _A dupe of a president._  
 __duped__ _v_ :six::hammer: _He had been duped by her._ _Putin feels that the West duped Russia into de facto sanctioning international intervention in Libya._ _Settlers duped, children abandoned, Indians deported._  
 __duplex__ _n_ :two::hammer: (duplexes)  
 __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in behavior or speech. _A duplicitous cigarette industry._  
@@ -4238,7 +4237,7 @@ __dusters__ _n_ _My grandad sold dusters._
 __dustman__  
 __dustpan__ _n_ :two::hammer: :es: recogedor  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
-__dusty__ _A dusty brand._  
+__dusty__ _adj_ _A dusty brand._  
 __duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
@@ -4252,10 +4251,10 @@ __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._
 __dynasty__ _n_ :two::pencil2::hammer:  
 __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysentery__ _n_ Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
-__dysfunction__ (dysfunctional) :pencil2:  
+__dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
-__dysplasia__ _Canine hip dysplasia._  
+__dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__ _adj_  
