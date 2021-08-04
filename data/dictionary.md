@@ -1162,6 +1162,7 @@ __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _
 __bewhiskered__  
 __bewilder__  
 __bewitch__ _v_  
+__bezel__ _n_ __4__ The frame around a display screen.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
 __bibliopole__ _n_ A dealer in rare books.  
@@ -1563,7 +1564,7 @@ __brainpan__
 __brainpower__ _n_  
 __brainwash__ _v_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
-__braise__ _v_ :two::hammer: (braised) _Braised turkey and gravy stuffing._ :es: estofar  
+__braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
 __brambles__ _n_ :four::hammer:  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
@@ -3490,6 +3491,7 @@ __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried hum
 __decussate<sup>1</sup>__ _v_  
 __decussate<sup>2</sup>__ _adj_  
 __dedication__  
+__deduct__ _n_ _If they fall from the balance beam, a full point is deducted._  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
@@ -3837,6 +3839,7 @@ __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weat
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
+__dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
 __Disneyfy__ _v_  
 __disolute__ _adj_ Lacking moral restraint; indulging in sensual pleasures or vices.  
 __disparage__ _v_ :nine::m: (disparaged, disparaging) To criticize someone or something in a way that shows you do not think they are very good or important.  
@@ -6166,6 +6169,8 @@ __hands-off__ _adj_ :two: Characterized by nonintervention: _a hands-off foreign
 __hands-on__ _adj_ :two::hammer: _A hands-on implementation strategy._ _A hands-on director._  
 __handsel__ _n_ __1__ A gift for good luck at the beginning of a new year, new venture, etc.  
 __handsome__ _adj_ :mute:[han~~d~~some]  
+__handspring__ _n_ An acrobatic feat in which one starts from a standing position and wheels the body forward or backward in a complete circle, landing first on the hands and then on the feet, without contact by the rest of the body.  
+__handstand__ _n_ An act or instance of supporting the body in a vertical position by balancing on the palms of the hands.  
 __handsy__ _adj_ Prone to touching other people with one’s hands, especially inappropriately.  
 __handyman__ _n_ :three::hammer:  
 __hang out__ _phr v_  
@@ -7406,6 +7411,7 @@ __kinship__ _n_ :two::hammer:
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
 __kiosk__ _n_ :camera::two::hammer: _Automated Passport Control kiosks._ _Target’s in-store registry kiosks._  
+__kip__ _n_ __5__ (kĭp-up) A maneuver in gymnastics, martial arts, and similar sports in which a person moves from lying on the back directly to a standing position by thrusting the legs upward and pushing off with hands placed palms-down near the ears.  
 __kirtle__ _n_ :five::hammer: (kirtles)  
 __kischy__  
 __kismet__ _n_ :three: Fate, fortune.  
@@ -11076,7 +11082,7 @@ __restive__ _adj_ :four: Unwilling to be controlled or be patient.
 __restless__ _adj_  
 __restlessness__  
 __restrain__ _v_ _Adding competition could restrain prices._  
-__restraint__ _n_ :two::hammer:  
+__restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; constraint.  
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
@@ -12296,6 +12302,7 @@ __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the pass
 __slim__ _adj_ _The chances are pretty slim._  
 __slime__ _n_ :two::hammer:  
 __sliminess__  
+__slimy__ _adj_ _Slimy sales techniques._  
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __sling<sup>2</sup>__ _v_ :two: (slung) To throw or drop something carelessly. _His nose broke and slung a string of blood across his shoulder._  
 __slinger__  
@@ -12326,7 +12333,7 @@ __slog<sup>1</sup>__ _v_ :nine: (slogging) __1__ Work hard over a period of time
 __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
-__sloppy joe__ _n informal_ A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
+__sloppy joe__ _n informal_ :two: (sloppy joe sandwich) A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
 __sloppy seconds__  
 __sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
@@ -12752,7 +12759,7 @@ __spray charts__
 __spree__ _n_ :four::hammer: _A killing spree._  
 __sprig__ _n_ :three::hammer: _A sprig of mint._  
 __sprigs__  
-__springboard__ _n_ :two::hammer:  
+__springboard__ _n_ :three::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
 __sprinkle<sup>1</sup>__ _n_ :two: __2__ A light rainfall.  

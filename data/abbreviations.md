@@ -87,6 +87,7 @@ __POTUS__ :dart: President of the United States. _Ronald Reagan was elected gove
 __PPD__ Postponed. _(sporting events)_  
 __PPE__ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
+__ppl__ _informal_ People.  
 __PR__ _The PR version of my life._  
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
