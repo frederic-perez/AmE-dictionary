@@ -3922,7 +3922,7 @@ __do it by the numbers__
 __do math__  
 __do-gooder__  
 __DOA__ _Repeal likely DOA._  
-__doable__ _It was not a lot of time but it was doable._  
+__doable__ _adj_ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
 __docent__ _n_ :two: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
@@ -3931,7 +3931,7 @@ __docked__ _v_
 __docket__ _n_ :five::hammer:  
 __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a politician appeared the day before an election._ _A photograph doctored by his aides._  
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
-__doddle__ Something easily done, fixed, etc.  
+__doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodges__ _n_  
 __dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
@@ -3990,7 +3990,7 @@ __dopamine__ _n_ :mega:
 __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
-__Doritos__ :mega: _A bag of Doritos (corn chips)._  
+__Doritos__ _n_ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
 __dormant__ _adj_ :two::hammer:  
@@ -4016,7 +4016,7 @@ __double-edged__ _adj_ _Double-edged sword._
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
-__doubt__ :mute:[dou~~b~~t]  
+__doubt__ _n, v_ :mute:[dou~~b~~t]  
 __doubting Thomas__ _n_  
 __doubtless__  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
@@ -4024,13 +4024,11 @@ __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
-__douse__ _v_  
-__dousing__ _The Nationals are dousing the District of Columbia with new hope._  
+__douse__ _v_ :two::hammer: _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
-__down the strech__ _Williams scored nine points in five minutes down the stretch._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
 __down under__ _n informal_ :three: (Down Under) _Best regards from down under._  
@@ -4059,12 +4057,12 @@ __downtime__ _n_ :three::hammer:
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_ :three::hammer: (downturns)  
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
-__downward__ _A downward spiral._  
+__downward__ _adj, adv_ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :five::hammer: (dowries) :es: dote  
 __doyenne__  
 __doze__ _v_  
-__Dr. Seuss__ United States writer of children’s books (1904-1991).  
+__Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
@@ -4113,7 +4111,7 @@ __dress rehearsal__
 __dress up__ _v_  
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
-__dressing__ _It’s going to take longer to get to that turkey and dressing._  
+__dressing__ _n_ _It’s going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :two::hammer: :es: regatear  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
@@ -4123,7 +4121,6 @@ __driftwood__ _n_ :two::hammer: _Driftwood logs._
 __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
-__drink like a fish__ To drink too much alcohol.  
 __drip-dry__ _adj, n, v_ :two::hammer: _Cotton drip-dry._  
 __dripping__ _n_ :two: __2__ (often _drippings_) The fat and juices exuded from roasting meat, often used in making gravy. _Pan drippings._  
 __drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  

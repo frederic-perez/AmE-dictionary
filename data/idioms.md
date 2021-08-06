@@ -851,6 +851,7 @@ __in a measure__ To a certain degree or extent; somewhat.
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
+__drink like a fish__ To drink too much alcohol.  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in and of itself__ Considering it alone.  
