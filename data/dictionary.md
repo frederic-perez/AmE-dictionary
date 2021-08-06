@@ -3622,6 +3622,7 @@ __derogative__ _adj_
 __derrick__ _n_  
 __derringer__  
 __dervish__ _n_  
+__Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descent__ :mute:[des~~c~~ent]  
 __descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
@@ -4695,7 +4696,7 @@ __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._
 __expound__ _v_  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
-__extemporaneous__ _adj_  
+__extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
 __extended family__ _n_ A family group that consists of parents, children, and other relatives, often living in close proximity.  
 __extensively__ _adv_ _She’s been working extensively._  
 __extent__ _n_  
@@ -5439,7 +5440,7 @@ __frontispiece__ _n_
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
-__frostbite__ _n_ :six::hammer:  
+__frostbite__ _n_ :seven::hammer:  
 __frosted glass__ _n_ _Illuminated by domes of frosted glass._  
 __frosted silver__  
 __frothy__  
@@ -5477,6 +5478,7 @@ __fumed__ _v_
 __fumitory__  
 __fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
+__funambulist__ _n_ An acrobat who performs on a tightrope or slack rope. _Syn_ tightrope walker  
 __fundraiser__ _n_ _They were at a fundraiser._  
 __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
 __funereal__ _adj_ :pencil2: _Funereal tone._  
@@ -7936,6 +7938,7 @@ __lotto scratcher__ _n_
 __lotto__ _n_ Lottery.  
 __louche__ _adj_ Of questionable taste or morality. _Syn_ shady _It did not surprise me that the owner of that louche nightclub downtown was arrested for selling illegal drugs to the patrons._  
 __loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmouth, but there is nothing personal._ :es: bocazas  
+__Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
@@ -8483,6 +8486,7 @@ __MLK__
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
+__Mobile, Alabama__ _n_ :mega: [Common popular pronunciation: /moh-buhl/ Prevailing local pronunciation: /moh-beel/]  
 __mocassin__ _n_ :three: (moccasin, moccasins) Soft leather shoe; originally worn by Native Americans.  
 __mockie__ _n_ :two::hammer:  
 __mockingbird__ _n_ :es: sinsonte  
@@ -8823,6 +8827,7 @@ __neutrinos__ _n_
 __Neutron Jack__  
 __New Jerseyan__  
 __New Jerusalem__ _n_ :two: __1__ _Christianity_ The final dwelling place of souls redeemed by Jesus. __2__ An ideal community on earth.  
+__New Orleans, Louisiana__ _n_ :mega: [Common popular pronunciations: /noo awr-lee-uhnz, noo awr-leenz/ Prevailing local pronunciation: /noo awr-luhnz/]  
 __newbie__ _n_ (newbies)  
 __newborn__ _n_  
 __newcomer__ _n_ One who has only recently arrived.  
@@ -10722,6 +10727,7 @@ __raise eyebrows__
 __raked over the coals__  
 __raking__ _v_  
 __rakish__ _adj_ :five: Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
+__Raleigh, North Carolina__ _n_ :mega: [Common popular pronunciation: /ral-lee/ Prevailing local pronunciation: /raw-lee, rah-lee/]  
 __rally<sup>1</sup>__ _v tr_ :nine::m: __1__ To call together for a common purpose; assemble: _rally troops at a parade ground._ __2__ To reassemble and restore to order: _rally scattered forces._ __3__ To rouse or revive from inactivity or decline: _paused to refresh themselves and rally their strength._  
 __rally<sup>2</sup>__ _v intr_ :nine::m: __1__ To come together for a common purpose: _The candidate’s supporters rallied on the common._ __2__ To join in an effort for a common cause: _“In the terror and confusion of change, society rallied round the kings.” (Garrett Mattingly)_ __3a__ To recover abruptly from a setback, disadvantage, or disease: _The patient rallied after the fever broke._ __b__ To increase sharply in price or value after a decline: _The housing market rallied in the spring._ _The Dow Jones rallied 1.4% Monday._ _The euro initially rallied by the most in nearly a month._ __4__ _Sports_ To exchange strokes before a point is won, as in tennis. _This time Oklahoma State rallied furiously for a 35-31 victory._ _The Czechs rallied to a 4-6, 6-3, 6-2 victory._  
 __rally<sup>3</sup>__ _n_  
@@ -12730,6 +12736,7 @@ __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs 
 __spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
 __spoilage__ _n_ :dart:  
 __spoiler__ _n_ (airplane) :camera:  
+__Spokane, Washington__ _n_ [Common popular pronunciation: /spoh-keyn/ Prevailing local pronunciation: /spoh-kan/]  
 __spoke__ _n_  
 __spoliator__ _n_ A plunderer.  
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
@@ -14089,7 +14096,7 @@ __treasure__ _v_ :four::hammer:
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
-__treble<sup>2</sup>__ _v_ :three::dart: To make or become triple.  
+__treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
 __treen__ _n_ Small woodenware.  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
@@ -14202,6 +14209,7 @@ __tubthumping__
 __tuck away__  
 __tuck<sup>1</sup>__ _v_ :five: (tucks, tucked) To put something in a particular place, especially in order to keep it safe or hidden. _The money was neatly tucked in his wallet._ _The violin was tucked under his arm._ _The quarterback tucks the ball._  
 __tuck<sup>2</sup>__ _n_  
+__Tucson, Arizona__ _n_ :mega: [Common popular pronunciation: /tuhk-son/ Prevailing local pronunciation: /too-son/]  
 __Tudor__  
 __Tuesday__ _n_ :mega: /’tuzdi, -deI/  
 __tuffet__ _n_ :two: __1__ A clump or tuft of grass. __2__ A low seat, such as a stool. A low seat or a stool to rest the feet of a seated person. _Syn_ footrest, footstool, ottoman _He reclined in his chair with a contented sigh and put his feet up on the nearest tuffet._  
@@ -15226,6 +15234,7 @@ __wooly__
 __woomb__  
 __woozy__ _adj_ :two::hammer:  
 __wop__  
+__Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
 __wording__ _n_  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
