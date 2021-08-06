@@ -4124,36 +4124,34 @@ __drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
 __drink like a fish__ To drink too much alcohol.  
-__drip-dry__ _Cotton drip-dry._  
-__drip-drying__  
+__drip-dry__ _adj, n, v_ :two::hammer: _Cotton drip-dry._  
 __dripping__ _n_ :two: __2__ (often _drippings_) The fat and juices exuded from roasting meat, often used in making gravy. _Pan drippings._  
 __drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to change the rules._  
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
-__drive-up__ _Drive-up motels._  
+__drive-up__ _adj_ Designed to permit customers to remain in their motor vehicles while being accommodated: _a drive-up window at the bank._ _Drive-up motels._  
 __drivel__ _n_ :dart::three: __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
-__driven snow__ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
+__driven snow__ _n_ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __drivetrains__  
 __driveway__  
 __drizzle<sup>1</sup>__ _v_ :two::hammer: (drizzled)  
 __drizzle<sup>2</sup>__ _n_  
 __drizzly__ _adj_ :two::hammer:  
-__drogue__ _Drogue parachutes._  
+__drogue parachute__ _n_  
 __droit du seigneur__  
 __droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
-__drone<sup>1</sup>__ _The drone of an outboard motor reverberated._  
+__drone<sup>1</sup>__ _n_ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
 __drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
 __drop out__  
 __drop__ _n_  
-__drop-in__ _A drop-in center._  
+__drop-in__ _adj_ Provided for short-term use: _a drop-in center for runaways._  
 __dropout__ _n_  
 __dropping hands__  
 __droppings__ _pl n_ :two::hammer:  
 __dross__ _n_ __1__ _metallurgy_ The scum or unwanted material that forms on the surface of molten metal. __2__ Waste or foreign matter. _Syn_ impurity __3__ Something that is base, trivial, or inferior. _There is quite a lot of dross on TV these days._  
 __drought__ _n_ :three::mute:[drou~~gh~~t] A prolonged period of abnormally low rainfall, leading to a shortage of water. :es: sequía  
-__drove__ _They buy tickets in droves._  
 __drover__ _n_ :two::hammer:  
 __drown__ _v_ (drowns)  
 __drowse__ _v_ To be or cause to be sleepy, dull, or sluggish.  
@@ -4165,14 +4163,14 @@ __drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeyw
 __drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
-__drum out__ _The were drummed out of the club._  
+__drum out__ _v_ _The were drummed out of the club._  
 __drum up__  
 __drum__ _v_  
-__drumbeat__ _Their drumbeat of criticism._  
+__drumbeat__ _n_ _Their drumbeat of criticism._  
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
 __druthers__  
 __dry age__ _v_  
-__dry goods__ _Dry goods store._  
+__dry goods__ _n pl_ Textiles, clothing, and related articles of trade. Also called _soft goods._ _Dry goods store._  
 __dry humor__  
 __dry run__ _n_ :two::hammer:  
 __dry spel__  
