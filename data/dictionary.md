@@ -1122,7 +1122,7 @@ __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._
 __bento__ Boxed meals.  
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
 __bequest__ _n_ :six::hammer: _A dark bequest of Nazism._  
-__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
+__berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
@@ -1557,6 +1557,7 @@ __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public tran
 __bracketology__ _Daily bracketology updates._  
 __brackish__ _Brackish water._  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
+__braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
 __brainchild__ _n_ :four::hammer:  
 __brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
@@ -2747,7 +2748,8 @@ __commoditization__
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
-__Commonwealth__  
+__Commonwealth__ _n_  
+__commonwealth__ _n_  
 __commotion__ _n_  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
@@ -2917,7 +2919,7 @@ __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know
 __contretemps__  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :four::hammer:  
+__contrivance__ _n_ :five: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
@@ -3247,7 +3249,7 @@ __crux of the matter__ _She saw the crux of the matter in seconds._
 __crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
-__crybaby__ _n_ :dart::two: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
+__crybaby__ _n_ :dart::three: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
 __cryotherapy__  
 __cryptojacking__  
 __cryptomining__  
@@ -3748,6 +3750,7 @@ __diphthong__ _n_
 __diplodocus__ _n_  
 __diploma__  
 __diplomat__ :mega:  
+__diplomatics__ _n_ [:scroll: From Latin diploma (a letter of recommendation or an official document), from Greek diploma (a folded paper).] _The study of documents, especially historical documents, in an effort to authenticate, date, interpret, etc._  
 __dips__ _n_  
 __dipsomania__  
 __dipstick__  
@@ -4689,6 +4692,7 @@ __expose__ _v_
 __expostulate__ _v_ :two::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
+__expropriate__ _v_ To take (a property) for public use.  
 __expunge__ _v_ :two: (expunged) __1__ To erase, delete, or strike out: _expunged their names from the list._ __2__ To eliminate completely; wipe out: _a government’s attempt to expunge dissidents._  
 __exquisite__ _adj_ :two::hammer: _Exquisite acting._  
 __extemporaneous__ _adj_ :two::astonished: Carried out or performed with little or no preparation. _Syn_ impromptu, off-the-cuff, offhand, unrehearsed, ad-lib _Though she had not practiced for some time, Mary’s extemporaneous piano recital wowed her dinner guests._  
@@ -7715,6 +7719,7 @@ __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for
 __levy<sup>1</sup>__ _v_ :five::hammer: (levying) _The levy of taxes on clerical income._  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
+__lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :five::hammer:  
@@ -9503,7 +9508,7 @@ __parrot__ _v_ To repeat or imitate, especially without understanding.
 __parroting__ _v_  
 __parry__ _v_ :two::hammer:  
 __parse__ _v_  
-__parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. _Syn_ stingy, penurious __2__ Sparing, restrained.  
+__parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
 __parsley__  
 __parsnip__  
@@ -10699,6 +10704,7 @@ __radiometer__ _n_ :two::hammer:
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
 __radome__ _n_ :two::hammer:  
+__raffish__ _adj_ [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish.  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
 __raffle<sup>2</sup>__ _v_ (raffling)  
 __raft__ _n_ :five: __1a__ A collection of logs or timber fastened together for conveyance by water. __b__ A flat structure for support or transportation on water. __2__ A floating cohesive mass. __3__ A large collection or quantity. _A raft of reforms._  
@@ -14665,6 +14671,7 @@ __verdict__ _n_ :four::hammer::pencil2:
 __verdigris__ _n_ :astonished: __2__ A green patina or crust of copper sulfate or copper chloride formed on copper, brass, and bronze exposed to air or seawater for long periods of time. “Green of Greece” is the literal translation of “vert de Grece,” the Anglo-French phrase from which the modern word _verdigris_ descends.  
 __verge__ _n_ :two::hammer:  
 __vergence__ _n_ __2__ The inward or outward turning of one or both eyes that occurs when focusing on an object.  
+__verigreen__ _n_ A simple or gullible person.  
 __verisimilitude__ _n_ :two::hammer:  
 __veritable__ _adj_ :two::hammer:  
 __vermicelli__  

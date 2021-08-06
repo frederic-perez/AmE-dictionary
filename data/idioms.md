@@ -60,6 +60,7 @@ __a little leery__ Cautious, wary, or uncertain of a given person, place, or thi
 __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
 __a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
 __a long row to hoe__ A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _I know finishing this thesis will be a long row to hoe, but I’m actually looking forward to the challenge._  
+__a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _You’re playing a losing game if you think you can convince Sarah to go to college._  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
@@ -394,6 +395,7 @@ __drag (someone) kicking and screaming__ To force someone to go somewhere or do 
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
+__drink like a fish__ To drink too much alcohol.  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
 __drop a bombshell__ To announce shocking news.  
@@ -851,7 +853,6 @@ __in a measure__ To a certain degree or extent; somewhat.
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
-__drink like a fish__ To drink too much alcohol.  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in and of itself__ Considering it alone.  
