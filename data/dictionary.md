@@ -82,7 +82,7 @@ __abundant__
 __abutted__  
 __abutting__ _Bungalows abutting._  
 __abuzz__ _adj_ :two::hammer:  
-__abysmal__ _adj_ :two::hammer:  
+__abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
@@ -140,7 +140,7 @@ __activate__ _v_ _Gonzalez was activated from the disabled list._
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
-__acumen__ _n_ :four::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad__ _n informal_ Advertisement.  
@@ -617,7 +617,7 @@ __ash borers__ _Emerald ash borers._
 __ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
-__asinine__ _adj_ :pencil2::four: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
+__asinine__ _adj_ :pencil2::five: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
@@ -4442,6 +4442,7 @@ __emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/
 __Empire State__ _n_ The U.S. State of New York.  
 __emporium__ _n_ :two::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
+__emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre_, meaning “to undertake.’] An adventurous, daring, or chivalric enterprise.  
 __empty-handed__ _adj_  
 __empty-net/power-play/short-handed goal__  
 __emulate__ _v_  
@@ -5543,6 +5544,7 @@ __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action.
 __gallbladder__  
 __galleon__ _n_  
 __galleys__ _n_  
+__Gallicism__ _n_  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __galloping__  
@@ -5669,6 +5671,7 @@ __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ _n_ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
+__ghost kitchen__ _n_ (delivery-only restaurant, virtual kitchen, shadow kitchen, commissary kitchen, cloud kitchen, dark kitchen) A professional food preparation and cooking facility set up for the preparation of delivery-only meals.  
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
@@ -6091,6 +6094,7 @@ __gutsy__
 __gutted__ _adj_ _informal_ Disappointed and upset.  
 __gutter__ _n_ :three::hammer: _He turned his head and spit in the gutter._  
 __guttersnipe__ _n_ :two: A child who spends most of his time in the streets especially in slum areas. _Syn_ street urchin _In Shaw’s _Pygmalion_, an elocution expert plucks a guttersnipe from Covent Garden market and teaches her to talk like a lady._  
+__guttural__ _adj_ :pencil2: [:scroll: French, from New Latin gutturālis, from Latin guttur, throat.]  
 __guzzle__ _v_ :three::hammer: _Guzzling ice water._  
 __guzzler__ _n_ :two::hammer: _Taxing gas guzzlers._  
 __guzzling__ _v_ _Fed up with that old gas guzzling boiler? We can replace it!_  
@@ -6664,9 +6668,9 @@ __house > take it to the house__
 __house husband__ _n_ A man who stays at home cleaning the house, taking care of children, etc. while his wife, husband or partner goes out to work. _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
+__house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __house<sup>1</sup>__ _n_ __9__ (often House) A family line including ancestors and descendants, especially a royal or noble family: _the House of Orange._ _The houses of Navarre, Castile, and Aragon._  
 __house<sup>2</sup>__ _v_  
-__house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __houseboats__ _n_  
 __housebound__  
 __housecarls__  
@@ -8103,6 +8107,8 @@ __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile
 __mallow__ _n_ :pencil2:  
 __malnourished__  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
+__mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
+__mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
 __mamasan__  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
@@ -9911,6 +9917,7 @@ __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you thin
 __pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__piscine__ _adj_ :astonished: Of, relating to, or characteristic of a fish or fishes.  
 __pissed__ _adj_  
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
@@ -14695,6 +14702,7 @@ __vertical farm__
 __verve__ _n_ :five::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _adj, adv_ _We were in this very room._  
+__vespine__ _adj_  
 __vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ _n_ :two::mega::hammer:  
