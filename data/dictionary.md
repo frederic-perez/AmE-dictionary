@@ -3794,7 +3794,7 @@ __discombobulater__ _Now more than ever, there is little room for navel-gazers, 
 __discomfiture__ _n_  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
-__discontinuation__ _Assessing the safety of oral anticoagulation discontinuation._  
+__discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinuation._  
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
 __discount__ _v_ :two::hammer: _Discount the facts presented._ _Why were those eyewitness discounted?_  
 __discounter__ _n_  
@@ -3802,7 +3802,7 @@ __discouraging__
 __discourse__  
 __discrepancy__ _n_  
 __discretion__ _n_  
-__discretionary__ _Things to do when you have discretionary time._  
+__discretionary__ _adj_ _Things to do when you have discretionary time._  
 __discus__ _n_  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
@@ -3819,7 +3819,7 @@ __disgorgement__
 __disgruntle__ _v_ Put into a bad mood or into bad humour.  
 __disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
-__disguise__ :mute:[disg~~u~~ise]  
+__disguise__ _n, v_ :mute:[disg~~u~~ise]  
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
 __disheartened__ _adj_  
@@ -3827,7 +3827,7 @@ __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._
 __disheveled__ _adj_ :three: (dishevelled) In disarray; extremely disorderly.  
 __dishing__ _v_  
 __dishonest__  
-__dishwasher__ _I worked as a dishwasher._  
+__dishwasher__ _n_ _I worked as a dishwasher._  
 __dishy__  
 __disillusioned__  
 __disillusionment__  
@@ -3859,11 +3859,11 @@ __dispel__ _v_ :six::hammer: (dispelled)
 __dispensed__ _v_  
 __dispenser__  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
-__dispiriting__ _Dispiriting results._  
+__dispiriting__ _adj_ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
 __dispraise__ _n_ Disapproval; censure. _Syn_ disparagement  
 __disquiet__  
-__disquisitition__ :pencil2:  
+__disquisitition__ _n_ :pencil2:  
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
@@ -3903,7 +3903,7 @@ __ditch__ _v_ _She ditched her glass and made her way through the crowded restau
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
 __dither__ _n_ :mega: A state of indecisive agitation.  
 __dithered__ _v_  
-__ditsy__ _Ditsy nanny._  
+__ditsy__ _adj_ _Ditsy nanny._  
 __ditty bags__ _n_  
 __ditty__ _n_ :three::hammer:  
 __diva__  
@@ -3911,7 +3911,7 @@ __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, dig
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
 __diversion__ _n_  
-__diverted__ _diverted flights_  
+__divert__ _v_ _Diverted flights_  
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
@@ -3919,7 +3919,7 @@ __divest__ _v_ :five::hammer: (divested) _The entire company crowded into the re
 __divestiture__ _n_ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
-__divisive__ _He is more interested in spouting divisive sound bites._  
+__divisive__ _adj_ _He is more interested in spouting divisive sound bites._  
 __divot__ _n_ :three: A divot is a little chunk of grass or turf that gets dug out of the ground. Playing golf creates many divots.  
 __divvy up__ _v_  
 __divvy__ _v_ :two::hammer:  
@@ -3927,7 +3927,6 @@ __dizzy__ _adj_ :two::hammer:
 __do it by the numbers__  
 __do math__  
 __do-gooder__  
-__DOA__ _Repeal likely DOA._  
 __doable__ _adj_ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
