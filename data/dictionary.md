@@ -345,7 +345,7 @@ __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
-__aloof__ _adj_ :two: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
+__aloof__ _adj_ :three: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
 __also-ran__ _To become an also-ran._  
@@ -657,7 +657,7 @@ __astound__ _v_ :two: (astounded) Affect with wonder. _Syn_ amaze, astonish
 __astraddle__  
 __astray<sup>1</sup>__ _adv_  
 __astray<sup>2</sup>__ _adj_  
-__astride__ _adv_ :three::hammer:  
+__astride__ _adj, adv, prep_ :four::hammer:  
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
@@ -1154,6 +1154,7 @@ __bethren__ _n_
 __betoken__ _v_  
 __betray__ _v_ :two::hammer:  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
+__betrothal__ _n_  
 __betrothed__ _adj_ :three: Engaged to be married.  
 __better known as__ _Miyazaki, better known as Aska._  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
@@ -1931,6 +1932,7 @@ __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flat
 __cache__ :mega: _Sporty cars haven’t lost their cache._  
 __cachet__ _n_ :two: A special quality that makes people admire someone or something, or makes people want to have something.  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
+__cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
@@ -4023,7 +4025,7 @@ __doublet__ _n_ :camera:
 __doubly__  
 __doubt__ _n, v_ :mute:[dou~~b~~t]  
 __doubting Thomas__ _n_  
-__doubtless__  
+__doubtless__ _adj, adv_ :two::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
@@ -4881,7 +4883,7 @@ __featuring__
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
-__feckless__ _adj_ :five: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
+__feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
 __feel for__  
 __feel out__  
@@ -6662,7 +6664,8 @@ __house > take it to the house__
 __house husband__ _n_ A man who stays at home cleaning the house, taking care of children, etc. while his wife, husband or partner goes out to work. _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
-__house__ _v_  
+__house<sup>1</sup>__ _n_ __9__ (often House) A family line including ancestors and descendants, especially a royal or noble family: _the House of Orange._ _The houses of Navarre, Castile, and Aragon._  
+__house<sup>2</sup>__ _v_  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __houseboats__ _n_  
 __housebound__  
@@ -6811,7 +6814,7 @@ __ill__
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
-__illustrious__ _adj_ :three::hammer::pencil2: _An illustrious career._  
+__illustrious__ _adj_ :four::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
@@ -7947,7 +7950,7 @@ __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ 
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
-__lout__ _n_ :three::hammer: _Syn_ oaf  
+__lout__ _n_ :four::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love-in__  
@@ -8958,6 +8961,7 @@ __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keepi
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
 __notorious__  
+__Notre Dame__ _n_ Our Lady (the Virgin Mary).  
 __notwithstanding__ _prep_ :five::hammer:  
 __nought__ _n_ :mute:[nou~~gh~~t] (naught) __1__ Nothing. __2__ A cipher (0); zero.  
 __noun__ _n_  
@@ -8992,7 +8996,8 @@ __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers
 __nummary__ _adj_ Of or relating to coins.  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
-__nurse<sup>2</sup>__ _v_ :three::hammer:  
+__nurse<sup>2</sup>__ _v tr_ :three::hammer:  
+__nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing. _  
 __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nursing home__ _n_  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
@@ -9499,7 +9504,7 @@ __paring__
 __parishioner__  
 __parkour__  
 __parlay__ _v_ :four::hammer: (parlayed)  
-__parley<sup>1</sup__ _n_ :two::hammer:  
+__parley<sup>1</sup__ _n_ :three::hammer:  
 __parley<sup>2</sup__ _v_  
 __parliament__ _n_ :pencil2::two::hammer:  
 __parlor__  
