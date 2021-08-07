@@ -966,9 +966,11 @@ __batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _He
 __battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
+__battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
 __bauble__ _n_ :four: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
+__bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
 __bawdiness__  
 __bawdy__ _adj_ :two::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
@@ -2359,6 +2361,7 @@ __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To 
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
+__child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
 __chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
@@ -2748,8 +2751,8 @@ __commoditization__
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
-__Commonwealth__ _n_  
 __commonwealth__ _n_  
+__Commonwealth__ _n_  
 __commotion__ _n_  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
@@ -3564,7 +3567,7 @@ __delivered__ _On Thursday the No. 4-ranked Cougars delivered._
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
-__delouse__ _v_ _They’re deloused once a month._  
+__delouse__ _v_ :two::hammer: _They’re deloused once a month._  
 __delude__ _v_ :four::hammer: (deluded)  
 __deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
@@ -5668,7 +5671,7 @@ __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of 
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
-__ghoul__ _n_ :five::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
+__ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
 __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
@@ -6336,6 +6339,7 @@ __heathen__ _n_ :four::hammer: _They were declared guilty of heathen practice._ 
 __heathenish__  
 __heathenism__  
 __heather__  
+__heathern__ _adj, n_  
 __heathy__  
 __heatwave__ _n_  
 __heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
@@ -6470,6 +6474,7 @@ __hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘
 __hip flask__ _n_ :camera:  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippocampus__ _n_ :pencil2:  
+__hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  
 __hires__ _n_  
 __hirsutism__  
 __His Majesty the Sultan__  
@@ -7274,7 +7279,8 @@ __joog__ _v_
 __joshed__ _v_ :two::hammer:  
 __jostle__ _v_ :eight::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
 __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
-__joust__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
+__joust<sup>1</sup>__ _n_ A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
+__joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ _adj_ :two::hammer:  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
@@ -10188,6 +10194,7 @@ __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot�
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n_ _informal_ Toilet training.  
 __pouch__ _n_  
+__poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fashionable in the 14th-15th centuries. __2__ A shoe made in this way.  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :five::hammer: (pounced)  
@@ -12969,7 +12976,7 @@ __steed__ _n_ :two::hammer: (steeds)
 __steel drum__ _n_ :two::hammer:  
 __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._  
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
-__steep<sup>2</sup>__ _v_ :nine: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
+__steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
 __steeplechase__  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
@@ -14912,7 +14919,7 @@ __weakness__ _n_ (weaknesses) _What are your personal strengths and weaknesses?_
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
 __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
-__wean__ _v_ :eight: (weaned) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
+__wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :five::hammer:  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
@@ -14970,6 +14977,7 @@ __wen__ _n_ :camera::two::hammer:
 __wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._ _She had to wend her way through the crowd._  
 __wet a line__  
 __wet__ _v_ (wetted) _A wetted wick._  
+__wet-nurse__ _n_ A woman hired to suckle a child of someone else.  
 __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)  
 __wetbrain__  
 __Whac-A-Mole__  
