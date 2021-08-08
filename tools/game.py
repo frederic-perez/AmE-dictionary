@@ -75,7 +75,7 @@ class Game(object):
             # print OKCYAN + '  ' + entry + ENDC
             print(format_to_print(entry))
             question += 1
-            user_response = raw_input(OKBLUE + 'Quit (q)? ' + ENDC)
+            user_response = input(OKBLUE + 'Quit (q)? ' + ENDC)
             do_quit = user_response == 'q'
 
 if __name__ == '__main__':
