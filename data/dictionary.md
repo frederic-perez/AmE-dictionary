@@ -723,6 +723,7 @@ __aum__
 __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
 __auspices__  
+__Aussie__ _n_ _informal_  
 __austere__  
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
 __authorial__  
@@ -1246,6 +1247,7 @@ __bite the dust__ _In 1945, what was left of the old Science Fiction League fina
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
+__biweekly__ _adj, adv, n_  
 __biz__ _n_ :two::hammer: _Hot biz model._  
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black belt__ _n_  
@@ -2975,7 +2977,7 @@ __copter__ _n_ :three::hammer: _Navy copter._
 __Coptic__  
 __copy__ _n_ __2a__ Material, such as a manuscript, that is to be set in type. __b__ :astonished: The words to be printed or spoken in an advertisement.  
 __copyedit__ _v_ To correct and prepare (a manuscript, for example) for publication.  
-__copyeditor__ _n_ A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
+__copyeditor__ _n_ :two: (copy editor) A person who edits a manuscript, text, etc., for publication, esp. to correct errors in style, punctuation, and grammar.  
 __copyleft__ _n_  
 __copywriter__ _n_  
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
@@ -3968,6 +3970,7 @@ __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small p
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
 __dolt__ _n_ :two: A stupid person; a dunce.  
+__domestic__ _adj_  
 __domicile__  
 __dominatrix__ _n_  
 __domino effect__ _n_ A cumulative effect produced when one event sets off a chain of similar events. _The domino effect of increasing the speed limit in one of several contiguous states._  
@@ -4575,6 +4578,7 @@ __erudite__ _adj_ Having or showing knowledge that is gained by studying.
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
+__erythro-__ _pref_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
@@ -6687,7 +6691,7 @@ __hoverboard__ _n_ :two::hammer:
 __howl__ _v_ :two::hammer:  
 __Hoyle__ _n_ [:scroll: After Edmond Hoyle, British writer on games.] A reference book of rules for card games and other indoor games.  
 __hub__ _n_ _The wagon’s wheels sank to the hubs._  
-__hubbub__ _n_ :four::hammer:  
+__hubbub__ _n_ :five::hammer:  
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
@@ -8007,7 +8011,8 @@ __lunchpail__
 __lunchtime__  
 __lunge<sup>1</sup>__ _v_ :seven::hammer: (lunges, lunged, lunging) _A bull lunges into the pen._ _A police dog lunging at a child._ _The dog snarled and lunged._  
 __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amputee did lunges with Mr. Obama._  
-__lupine__  
+__lupine<sup>1</sup>__ _n_ :two: (lupin) :es: altramuz  
+__lupine<sup>2</sup>__ _adj_ __1__ Characteristic of or resembling a wolf. __2__ Rapacious; ravenous.  
 __lupus__  
 __lurch__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
@@ -8155,7 +8160,8 @@ __mantrap__ _n_
 __many<sup>1</sup>__ _adj_  
 __many<sup>2</sup>__ _n_  
 __maple__  
-__mar__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
+__mar<sup>1</sup>__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
+__mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.  
 __marathon__ _n_ _This is more of a marathon than a sprint._  
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
@@ -11717,7 +11723,8 @@ __scumbags__
 __scunner__ _n_ A strong dislike. _They took a scunner against the United States._ _To take a scunner to sb/sth._ :es: tomarla con algn/algo, tenerle ojeriza a algn/algo  
 __scupper__ _v_  
 __scuppers__ _n_ :two::hammer:  
-__scurry__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
+__scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ scamper, scuttle, skitter _Once we heard thunder and saw lightning, we scurried from the beach and sprinted back to the house._  
+__scurry<sup>2</sup>__ _n_  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
@@ -12678,7 +12685,7 @@ __speargun__
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
 __specially__ _adv_ :two: Specifically, in a special manner. _A can of Coke rested in the specially made holder._ _Specialty apparel sellers._  
-__specialty__ _n_ :two::hammer: _Specialty doctor._  
+__specialty__ _n_ :three::hammer: _Specialty doctor._  
 __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper money. _Syn_ coinage, metal money, mintage _he king then descended and went himself to see the barrels of specie, in gold and silver, which ... four men had just rolled into a cellar._  
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
@@ -13518,6 +13525,7 @@ __takeout<sup>2</sup>__ _adj_
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _n_ _A specific set of talents._  
+__talk away__ _v_ To consume or pass (as time) in talking. _Talking the long night hours away._  
 __talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  
 __talk into__ _phr v_ :two::hammer:  
 __talk out of__ _phr v_ To persuade someone not to do something. _I want you to talk him out of it._  
