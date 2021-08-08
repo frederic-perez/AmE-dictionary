@@ -3703,8 +3703,8 @@ __diddle-shit__
 __diddle-squat__  
 __die down__ _phr v_ To lose strength; subside: _The winds died down._  
 __die out__ _phr v_  
-__die-cast__ _Merchandise and die-cast sales._  
-__die-hard__ Person who resists change.  
+__die-cast__ _adj_ _Merchandise and die-cast sales._  
+__die-hard__ _adj, n_ Person who resists change.  
 __die-off__ _n_  
 __diecast__  
 __diehard__ _adj_ :two::hammer: _A diehard fan._  
@@ -3718,7 +3718,7 @@ __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates 
 __digress__ _v_ :two: To stray temporarily from the topic at hand, as in delivering a speech or engaging in a discussion. _Syn_ swerve  
 __digression__ _n_ :two::hammer:  
 __digs__ _n_ _Sherman took digs at the NFL during a news conference._  
-__dikes__ :pencil2:  
+__dike__ _n_ :pencil2: (dyke)  
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __dilemma__  
@@ -3727,12 +3727,12 @@ __dill__ _n_ :two::hammer: _A dill pickle._
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
 __dilutive__  
-__dim__ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
+__dim<sup>1</sup>__ _n_ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
+__dim<sup>2</sup>__ _v_ (dimmed) :two::hammer:  
 __dime > on the dime__  
-__dimed__ _v_ (dimed) :two::hammer: _I’m going to roust Jimmy Sty and tell him you dimed him._  
 __diminish__ _v_  
 __diminishing returns__  
-__dimly__ _He was dimly aware of it._  
+__dimly__ _adv_ _He was dimly aware of it._  
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
 __dimply__  
@@ -3754,7 +3754,7 @@ __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipp
 __diphthong__ _n_  
 __diplodocus__ _n_  
 __diploma__  
-__diplomat__ :mega:  
+__diplomat__ _n_ :mega:  
 __diplomatics__ _n_ [:scroll: From Latin diploma (a letter of recommendation or an official document), from Greek diploma (a folded paper).] _The study of documents, especially historical documents, in an effort to authenticate, date, interpret, etc._  
 __dips__ _n_  
 __dipsomania__  
@@ -3766,12 +3766,11 @@ __dirge__
 __dirges__ _n_  
 __dirigiste__  
 __dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
-__dirt bike__ :camera:  
+__dirt bike__ _n_ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
 __dirtbag__ _n_ _slang_ :four: A filthy or disreputable person.  
 __dirtdobbers__  
 __dirty boogie__  
-__dirty bop__ _I did the dirty bop in Pat O’Brien’s and got thrown out._  
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
 __dis<sup>2</sup>__ _v_ :two::hammer:  
@@ -3789,10 +3788,9 @@ __disbelief__ _n_
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
-__disciple__ :mute:[dis~~c~~iple]  
+__disciple__ _n_ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
-__discombobulate__ _v_ :two::pencil2: To throw into a state of confusion. _Syn_ befuddle  
-__discombobulater__ _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
+__discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discomfiture__ _n_  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
