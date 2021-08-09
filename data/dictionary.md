@@ -50,7 +50,7 @@ __abhor__ _v_ :pencil2:
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ _adj_ :three: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ _adj_ :four: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :three: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
@@ -2888,6 +2888,8 @@ __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A
 __conspicuously__  
 __constituency__ _n_ :six::hammer: (constituencies)  
 __constituent__ _n_ :six::hammer: (constituents)  
+__constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
+__constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set of principles governing a state, organization, etc. __2__ Relating to someone’s physical or mental condition. __3__ Relating to the fundamental makeup of something or someone; essential.  
 __constrained__ _adj_  
 __construction paper__ _A heart made of construction paper._  
 __construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
@@ -5450,6 +5452,7 @@ __frosted glass__ _n_ _Illuminated by domes of frosted glass._
 __frosted silver__  
 __frothy__  
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
+__frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__  
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
@@ -5588,6 +5591,7 @@ __garnets__ _n_
 __garnish__ _v_ :three: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garrison__ _n_  
 __garroted__ _v_  
+__garrulous__ _adj_ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -7126,6 +7130,7 @@ __invoke__
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
 __ipso facto__ _adv_  
+__irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
 __irate<sup>2</sup>__ _v_ :two::hammer:  
 __ire__ _n_ :two::hammer:  
@@ -8399,6 +8404,7 @@ __militia__ _n_ :two::hammer: (militias)
 __militiaman__ _n_ :pencil2:  
 __milk__ _v_ :three::hammer: _Milk the clock._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
+__milkshake__ _n_ :astonished: (milk shake) A beverage that is made of milk, ice cream, and often flavoring and is blended or whipped until foamy.  
 __milkweed__  
 __mill<sup>1</sup>__ _n_ A million dollards.  
 __mill<sup>2</sup>__ _v_ :two::hammer: (milled) _They milled in front of the courtroom door._ _The children milled around._  
@@ -9892,6 +9898,7 @@ __pinion<sup>2</sup>__ _v_ :three::hammer: (pinioned)
 __pink eye__ _n_ :two::hammer:  
 __pink slime__  
 __pink slip__  
+__pink__ _v_ [:scroll: The verb pink referring to perforation and piercing is from a Middle English word meaning “to thrust.” It dates to the early 16th century whereas the noun referring to the color pink and its related adjective date to the 17th and 18th centuries, respectively.] __1a__ To perforate in an ornamental pattern. __b__ To cut a saw-toothed edge on. __2a__ Pierce, stab. __b__ To wound by irony, criticism, or ridicule.  
 __pink-collar__ _adj_ Of, relating to, or constituting a class of employees in occupations (such as nursing and clerical jobs) traditionally held by women.  
 __Pinkerton__ _n_ A detective. After Allan Pinkerton (1819-1884), a private detective, who started a detective agency in 1850. _A Pinkerton was hired to investigate the robbery._  
 __pinkeye__  
@@ -11087,6 +11094,7 @@ __reset__ _v_ :three::mega::hammer:
 __residency__ _n_ :two::hammer: __3__ _(Music, other)_ A regular series of concerts by a band or singer at one venue. _The Beautiful Anonymous residency on Feb 14; tickets availeble._  
 __resident__ _n_  
 __resign__ _v_ :mute:[resi~~g~~n]  
+__resilience__ _n_ __1__ The capability of a strained body to recover its size and shape after deformation caused especially by compressive stress. __2__ An ability to recover from or adjust easily to misfortune or change.  
 __resiliency__  
 __resilient__ _adj_ :three::hammer:  
 __resist<sup>1</sup>__ _v_  
@@ -11662,6 +11670,7 @@ __scoundrel__ _n_ :two::hammer:
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
 __scourge__ _n_ :nine::m: /skəːdʒ/ A person or thing that causes great trouble or suffering. _Syn_ affliction, bane, curse, plague _The scourge of mass unemployment._ _Some conservative members called him a scourge who had put national security at risk._ _It goes back to the scourges of smallpox and the Black Plague._  
+__Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian  
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl<sup>1</sup>__ _n_  
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
@@ -14659,6 +14668,7 @@ __veil__ _v_
 __vein__ _n_ _Gold vein._  
 __velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
 __Velcro__ _n_  
+__velleity__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
@@ -15423,7 +15433,7 @@ __zeal__ _n_
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :three: A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ _n_ :four: A German word meaning time spirit, used to mean the spirit of the age.  
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
