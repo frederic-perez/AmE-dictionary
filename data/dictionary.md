@@ -3099,7 +3099,7 @@ __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fus
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
-__crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas energéticas (en contra)  
+__crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas enérgicas (en contra)  
 __cracked eggs__ _Cheering for cracked eggs._  
 __cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
 __crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
@@ -3578,7 +3578,7 @@ __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or 
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
 __deluxe__ _Deluxe album._  
 __delve__ _v_ :two::dart::hammer:  
-__Dem__ A member of the Democratic Party.  
+__Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
@@ -3586,7 +3586,7 @@ __demeanor__ _n_
 __demigod__  
 __demographic__ _adj_  
 __demonize__ _v_ :four::hammer: (demonizing)  
-__demonstrate__ :pencil2:  
+__demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
@@ -3608,7 +3608,7 @@ __dentifrice__ _n_
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
 __departed__  
-__dependable__ _Applicants are required to have a dependable vehicle._  
+__dependable__ _adj_ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __depolarize__ _v_  
 __deposit__ _n_  
@@ -3616,8 +3616,8 @@ __deposition__ _n_ :three::hammer:
 __depraved__ _adj_  
 __depravity__  
 __depress__ _v_ _Depressing a company’s value._  
-__depressed__ _Depressed wages._  
-__deprived__ _A very deprived area._  
+__depressed__ _adj_ _Depressed wages._  
+__deprived__ _adj_ _A very deprived area._  
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
 __derange__ _v_  
@@ -3633,7 +3633,7 @@ __derringer__
 __dervish__ _n_  
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
-__descent__ :mute:[des~~c~~ent]  
+__descent__ _n_ :mute:[des~~c~~ent]  
 __descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :three::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
@@ -3642,10 +3642,10 @@ __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._
 __deserted__ _adj_ _Most of the desks were deserted._  
 __desiccate__ _v_ :two: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
 __desideratum__ _n_ Something desired as a necessity.  
-__design__ :mute:[desi~~g~~n]  
+__design__ _n, v_ :mute:[desi~~g~~n]  
 __designated driver__ _n_ The member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home.  
 __designer__ _n_ :es: _maquetador_  
-__desist__ _Desist from the practice of medicine._  
+__desist__ _v_ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __desolate__ _adj_ :two: __1__ Empty of people.  
 __despair__ _n_  
@@ -3670,7 +3670,6 @@ __detour__
 __detractor__  
 __detrimental__  
 __detritus__ _n_  
-__deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devastate__ _v_  
 __develop__ _v_ :mega:  
 __development__ _n_ :three: A district that has been developed to serve some purpose; _“such land is practical for small park developments.”_ _Choose your home from 8 new developments across London._  
@@ -3698,7 +3697,7 @@ __diatribes__ _n_
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
 __dichotomy__ _n_ :two::mega::hammer:  
-__dickens__ _Psychosomatic afflictions hurt like the dickens._  
+__dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
 __diction__ _n_ :five::hammer: _The priest diction._  
 __diddle-shit__  

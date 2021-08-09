@@ -356,6 +356,7 @@ __dealbreaker__ :five: A specific issue or thing that will cause an agreement, d
 __deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
 __deepfake__ :two::hammer:  
 __desperate times call for desperate measures__ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
+__deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
