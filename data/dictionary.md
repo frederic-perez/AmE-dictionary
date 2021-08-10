@@ -1941,7 +1941,7 @@ __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll ju
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _n_ Having an unpleasant sound.  
-__cacophony__ _n_ :two::hammer:  
+__cacophony__ _n_ :three: Jarring, discordant sound; dissonance. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
@@ -2037,7 +2037,7 @@ __canoe__ _n_ :mega:
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
-__cantankerous__ _adj_ :three: Always complaining or arguing and easily annoyed.  
+__cantankerous__ _adj_ :four: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
@@ -2489,7 +2489,7 @@ __clairvoyance__ _n_
 __clairvoyant__  
 __clam up__ _v_  
 __clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
-__clamant__ _adj_ Compelling or pressing; urgent.  
+__clamant__ _adj_ :two: __1__ Clamorous; loud. __2__ Compelling or pressing; urgent.  
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
 __clamming__ _adj_ _His clamming forehead._  
@@ -2741,7 +2741,7 @@ __commandeered__ _v_ :astonished::two::hammer:
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__  
+__commensurate__ _adj_ :two: __1__ Proportionate. __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -3506,12 +3506,12 @@ __deduct__ _n_ _If they fall from the balance beam, a full point is deducted._
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
-__deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: deep left field. _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :four: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
+__deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
@@ -5585,7 +5585,7 @@ __garland__ _n_ :three::camera::hammer: _Garland motifs on carved oak paneling._
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnets__ _n_  
-__garnish__ _v_ :three: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
+__garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garrison__ _n_  
 __garroted__ _v_  
 __garrulous__ _adj_ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
@@ -7079,6 +7079,7 @@ __insurmountable__ _adj_ _Alabama built an insurmountable 21-3 halftime lead._
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
+__integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
 __intemperate__ _adj_ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
@@ -8566,7 +8567,7 @@ __moonsoon__
 __moonstruck__ _adj_  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_ :two::hammer:  
-__moot<sup>1</sup>__ _adj_ :nine: __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
+__moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _n_ A young child. _A lovable moppet._  
@@ -9671,6 +9672,7 @@ __pence__ _n_ (Chiefly British) A plural of penny. _See what you’re using in p
 __penchant__ _n_ :nine::m: [:scroll: from French, ‘leaning, inclining’, present participle of the verb “pencher”] A strong or habitual liking for something or tendency to do something. _Her penchant for love songs._ _The group has evolved into a diverse group with a penchant for complex pieces._ :es: inclinación, afición, predilección  
 __pencil__ _n_ (_Pencil_ comes from the Latin _penicillus_ literally meaning “little tail.”)  
 __pendant__ _n_ :four::hammer: _The pendant lamps._ :es: colgante  
+__penetralia__ _n pl_ __1__ The innermost parts or recesses. __2__ The most private or secret things.  
 __penitent__ _adj_ Feeling or expressing remorse for misdeeds.  
 __penitentiary__  
 __penitents__ _n_  
@@ -10718,6 +10720,7 @@ __racket<sup>2</sup>__ _v_
 __racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_  
 __racketeering__  
+__raconteur__ _n_ One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
 __racousness__  
 __racquet__  
@@ -11546,6 +11549,7 @@ __sassy__ _adj_ :two::hammer:
 __SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
+__satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ _n_ :mega: /’sæÔødi, -deI/  
 __saturnine__ _adj_ :two::hammer:  
@@ -12564,6 +12568,7 @@ __sod__ _n_
 __soda jerk__ _n informal_ One who works at a soda fountain.  
 __sodden__ _adj_ :three::hammer: _Piss-sodden beds._  
 __soffit__  
+__soft serve__ _n_ :camera: Any of several soft, creamy frozen desserts, such as ice cream and frozen yogurt, dispensed from a machine at the point of sale.  
 __soft-pedal__ _v_ _informal_ :two: (soft-pedal) To make less emphatic or obvious; play down. _Soft-pedal a potentially explosive issue._  
 __soft-spoken__ _adj_ :two::hammer:  
 __soften__ _v_ :two::mute:[sof~~t~~en]:hammer: _Smooths and softens dry skin with nourishing plant oils._  
@@ -13959,6 +13964,7 @@ __toe<sup>1</sup>__ _n_
 __toe<sup>2</sup>__ _v_ :two::hammer: (toed)  
 __toehold__ _n_ :six: __1__ A small ledge or niche just large enough to support the toes, as in climbing. __2__ Any slight or initial support, influence, advantage, progress, or the like: _His knowledge of Latin gave him a toehold for learning French._  
 __toeing__ _v_  
+__tohubohu__ _n_ Chaos, confusion. _Bringing order out of the tohubohu of human relations._  
 __toil<sup>1</sup>__ _n_ :two: Hard unpleasant work done over a long period.  
 __toil<sup>2</sup>__ _v_ :five::hammer: (toiled) _Each toiled for at least four years in the minors._  
 __toilet bowl__  
