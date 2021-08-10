@@ -351,6 +351,7 @@ __dead in the water__ Without any chance for success.
 __dead last__ In last place, especially by a wide margin, as for a race or other competition.  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
 __dead set against something__ To be completely against something.  
+__deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
 __dealbreaker__ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  

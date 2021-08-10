@@ -21,6 +21,7 @@ __COVID__ Short for coronavirus disease.
 __CPR__ :two: Cardiopulmonary resuscitation.  
 __CVS__ Computer Vision Syndrome.  
 __D&D__ :three: Dungeons and Dragons.  
+__DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
 __DMV__ :two: Department of Motor Vehicles.  
 __DOY__ Day of year.  
 __e.g.__ Exempli Gratia.  

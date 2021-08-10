@@ -7,6 +7,7 @@ __-itis__ _suffix_ __1__ Inflammation or disease of: _laryngitis._ __2__ Forming
 __-ostomy__ _suffix_ (Surgery) Artificial or surgical opening (the surgeon made an opening). From Greek _stoma_, mouth.  
 __-pexy__ _suffix_ (Surgery) Fixation (the surgeon moved the organ to the right place). From Greek _pēxis_, fixation.  
 __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form and function to a body part (the surgeon changed the shape of something). From Greek _plastos_, formed, shaped.  
+__-prone__ _adj_ _combining form_ Liable or disposed to suffer: _accident-prone._ _The delay-prone airports of New York, Newark and philadelphia._  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __, so why (even) bother?__  
@@ -3443,9 +3444,8 @@ __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival.
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
 __dead__ _Dead batteries._  
-__deadbeat dad__ _n idiom_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
-__deadline__ _He will put France out of NATO by the deadline of April 4, 1969._  
+__deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
 __deafening__ _adj_  
@@ -3467,9 +3467,9 @@ __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:
 __debtor__ _n_  
 __debunk__ _v_ :two::hammer:  
 __deburr__ _v_  
-__debut__ :mute:[debu~~t~~]  
+__debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
-__decaf__ Decaffeinated coffee.  
+__decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
 __decamped__ _v_  
@@ -3506,7 +3506,7 @@ __deduct__ _n_ _If they fall from the balance beam, a full point is deducted._
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
-__deep ball__ _Tyron Taylor throws a nice deep ball._  
+__deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: deep left field. _Tyron Taylor throws a nice deep ball._  
 __deep cut__ _n_ :four: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep freezers__  
 __deep pockets__  
@@ -3514,7 +3514,6 @@ __Deep South__
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deer__ _adj_ _A deer survey._  
-__DEET__ _Bug spray with DEET to ward off mosquitoes._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
 __defanging__ _n_  
@@ -3554,11 +3553,10 @@ __deist__ _adj_
 __dejected__  
 __deking__  
 __dekulakization__ _n_  
-__delay-prone__ _The delay-prone airports of New York, Newark and philadelphia._  
 __delectable__ _adj_ :five::hammer: _Syn_ delicious  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
-__delegatable__ _Non-delegatable actions._  
+__delegatable__ _adj_ _Non-delegatable actions._  
 __deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
@@ -3567,9 +3565,8 @@ __delight<sup>1</sup>__ _n_ :two::hammer:
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delisted__ _v_  
-__deliver__ _v_ :four::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
+__deliver__ _v_ :five::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
 __deliverance__ _n_ :four::hammer: _Hope and deliverance._  
-__delivered__ _On Thursday the No. 4-ranked Cougars delivered._  
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
@@ -3578,7 +3575,7 @@ __delude__ _v_ :four::hammer: (deluded)
 __deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
-__deluxe__ _Deluxe album._  
+__deluxe__ _adj_ _Deluxe album._  
 __delve__ _v_ :two::dart::hammer:  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser  
