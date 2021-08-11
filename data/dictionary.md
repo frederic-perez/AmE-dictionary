@@ -2855,6 +2855,7 @@ __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mi
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
+__confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
@@ -3419,6 +3420,7 @@ __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center 
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
+__dawn__ _v_  
 __day and age__  
 __day job__  
 __Day Zero__  
@@ -4756,7 +4758,7 @@ __factual__
 __faculty__ _n_  
 __fad__ _n_  
 __faeces__ _n_  
-__faggots__  
+__faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
 __failover__ _n_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
@@ -5490,7 +5492,7 @@ __furled__ _v_ :two::hammer:
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furlough<sup>2</sup>__ _v_  
-__furnish__ _v_ :three::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
+__furnish__ _v_ :four::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _n_ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
@@ -9578,6 +9580,7 @@ __patient zero__ _n_ (epidemiology) The initial patient in the population of an 
 __patinated__ _v_  
 __patio__ _n_  
 __patois__ _n_  
+__patrician__ _adj_ _A patrician class._  
 __patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
@@ -9617,7 +9620,7 @@ __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
 __pearl onions__  
-__peat__ _n_ :two::hammer: _Battling the blazes in peat swamp forests._  
+__peat__ _n_ :three::hammer: _Battling the blazes in peat swamp forests._ :es: turba  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault. A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
 __peccant__  
@@ -12573,7 +12576,7 @@ __soiled__
 __soiree__ _n_ An evening party or reception.  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__ _n_ :four: Something that makes you feel better when you are sad or upset.  
+__solace__ _n_ :five: Something that makes you feel better when you are sad or upset.  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -13077,6 +13080,7 @@ __stocking-stuffers__
 __stockist__ _n_ :two::hammer:  
 __stockpile<sup>1</sup>__ _n_ :three: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
 __stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
+__stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
 __stodgy__ _adj_ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
@@ -13174,7 +13178,7 @@ __stretch marks__ _n_ :two: Streaks or stripes on the skin, especially on the ab
 __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was awake for long streches of time._  
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
-__strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals.  
+__strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals. _Strewing the streets with flowers._  
 __stricken__ _adj_ :six::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were easing._  
 __stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
@@ -13200,6 +13204,7 @@ __stroke__ _n_ _Stroke of good fortune._
 __stroll__ _v_  
 __Strombolian__ _adj_  
 __strong accent__  
+__strongbox__ _n_  
 __strongman__  
 __struck a nerve__  
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
@@ -14439,6 +14444,7 @@ __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
 __unfold__ _v_ :four::hammer: _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
+__unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
 __unfurnished__ _adj_ Having no furniture, especially when available to be rented. _One-bedroom unfurnished flats start at £1,325 a month._  
 __ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
@@ -14580,7 +14586,7 @@ __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used b
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
 __usurp__ _v_  
-__usury__ _n_ :four::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
+__usury__ _n_ :seven::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
 __ute__ _n_ _informal_ (utes) A utility vehicle.  
 __utilitarian__  
