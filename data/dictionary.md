@@ -3402,13 +3402,12 @@ __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled
 __dare__  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daring__ _A daring quality._  
-__darkest hour__ _He was willing to stand by him in his darkest hour._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
-__dashing__ _I think I look rather dashing._  
+__dashing__ _adj_ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -3417,14 +3416,11 @@ __dateable__ _adj_ That can be given a date.
 __dated__ _adj_ :two: Old-fashioned; out-of-date. _The kitchen was dated and cheap._  
 __dateline__  
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
-__daughter__ :mute:[dau~~gh~~ter]  
+__daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
 __dawdled__ _v_  
-__DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __day and age__  
-__day in the sun__ _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __day job__  
-__day tripper__ _You are funny, sitting there like a day tripper._  
 __Day Zero__  
 __daybeds__ _n_  
 __dayglow__  
@@ -3437,13 +3433,9 @@ __de-facto__
 __DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
-__dead duck__ _n idiom_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
-__dead horse__ _n_ Something that has ceased to be useful or relevant.  
-__dead man walking__ _Jack was a dead man walking._  
-__dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead on__  
 __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly like someone or something else.  
-__dead__ _Dead batteries._  
+__dead__ _adj_ _Dead batteries._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  

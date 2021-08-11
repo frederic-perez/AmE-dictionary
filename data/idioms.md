@@ -346,10 +346,16 @@ __date with destiny__ A future event, circumstance, or situation that will or co
 __day in and day out__ :two: Without respite. _He plays chess day in and day out._ _Syn_ all the time  
 __day in day out__ :two: For an indefinite number of successive days. _Syn_ time after time  
 __day or night__ At any point in time; 24 hours a day.  
+__day tripper__ _You are funny, sitting there like a day tripper._  
+__day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
 __dead asleep__ In a deep, immovable sleep.  
+__dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
+__dead horse__ _n_ Something that has ceased to be useful or relevant.  
 __dead in the water__ Without any chance for success.  
 __dead last__ In last place, especially by a wide margin, as for a race or other competition.  
+__dead man walking__ _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
+__dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead set against something__ To be completely against something.  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
@@ -1508,6 +1514,7 @@ __the (hot) skinny__ Confidential information on a particular person or topic. _
 __the back of (one’s) hand__ __1__ A rejection, snub, or rebuke; a display of contempt or scorn for someone or something. _She met their accusations with the back of her hand._ __2__ Used to represent one’s complete knowledge of or familiarity with something. Usually used after the verb “know.” _I’ve read this book so many times, I know it like the back of my hand._  
 __the ball is in someone’s court__ :two: To be responsible for taking the next action.  
 __the bigger they come, the harder they fall__ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
+__the darkest hour is just before the dawn__  
 __the devil is in the detail(s)__ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
 __the going thing__ The latest and most popular trend, fad, or fashion.  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
