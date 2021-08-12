@@ -3220,6 +3220,7 @@ __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._
 __cross-grained__ _adj_ Difficult to deal with.  
 __crossbar__ _n_  
 __crossbeam__ _n_  
+__crossbow__ _n_  
 __crossing t’s__ _Crossing our t’s and dotting our i’s._  
 __crossover__ _Crossover zone._  
 __crossroad__ _At a crossroad._  
@@ -3592,8 +3593,7 @@ __dengue__
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
-__denouement__ _n_ :six::hammer:  
-__denoument__ _n_ :two::hammer:  
+__denouement__ _n_ :nine::hammer: _A tragic denouement._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
@@ -4057,7 +4057,7 @@ __downturn__ _n_ :three::hammer: (downturns)
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
 __downward__ _adj, adv_ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
-__dowry__ _n_ :five::hammer: (dowries) :es: dote  
+__dowry__ _n_ :six::hammer: (dowries) :es: dote  
 __doyenne__  
 __doze__ _v_  
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
@@ -6122,7 +6122,7 @@ __haggling__ _n_ :two::hammer:
 __hagiography__  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
-__hail<sup>2</sup>__ _n_ :seven::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _In an average year hail causes more losses than tornadoes._  
+__hail<sup>2</sup>__ _n_ :eight::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._ _In an average year hail causes more losses than tornadoes._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
 __haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
@@ -6925,6 +6925,7 @@ __incidentally__ _adv_ :six::hammer:
 __incipient__ _adj_ _An incipient building._  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
+__inconclusive__ _adj_  
 __incongruities__ _n_  
 __incongruous__ _adj_  
 __incongruously__  
@@ -7845,6 +7846,7 @@ __live wire__
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
+__livery__ _n_ __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
 __livid__  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
@@ -7904,7 +7906,7 @@ __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have lo
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
-__longbow__ _n_ :three::hammer:  
+__longbow__ _n_ :four::hammer:  
 __longhand__ _n_ :four: Ordinary handwriting (as opposed to shorthand, typing, or printing). _Benedict writes longhand._  
 __longing__ _n_ :dart::two::hammer:  
 __longitudinal__ _adj_ _Longitudinal findings from the study._  
@@ -8614,7 +8616,7 @@ __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto c
 __mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
-__mountebank__  
+__mountebank__ _n_ :two::hammer:  
 __mourner__ _n_  
 __mournfully__  
 __mouse potato__ _n_ [:scroll: Formed on the pattern of couch potato. Mouse refers to the electronic mouse typically used with a computer. Earliest documented use: 1993.] Someone who lives a sedentary life, spending large amounts of leisure time playing computer games, surfing the net, streaming videos, etc.  
@@ -11395,6 +11397,7 @@ __rug > sweep it under the rug__
 __rug__ _n_ :two: Hairpiece, chignon.  
 __rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
 __rugged__ _adj_ :three::hammer: _He was red carded for a rugged foul._  
+__ruinous__ _adj_  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
 __rule__ _n_ (Printing, Lithography & Bookbinding) A printed or drawn character in the form of a long thin line.  
@@ -11660,6 +11663,7 @@ __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Fiv
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn__ _n_ :two::hammer:  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
+__Scots__ _n_  
 __scoundrel__ _n_ :two::hammer:  
 __scour__ _v_ :nine::m: (scours, scoured, scouring) __1a__ To clean, polish, or wash by scrubbing vigorously: _scour a dirty oven._ __b__ To remove by scrubbing: _scour grease from a pan._ __2__ To remove dirt or grease from (cloth or fibers) by means of a detergent. __3__ To clean (wheat) before the milling process. __4__ To clear (an area) by freeing of weeds or other vegetation. __5__ To clear (a channel or pipe) by flushing. __6__ Search thoroughly. _He invests hours scouring film._ __7__ To range over (an area) quickly and energetically.  
 __scourer__ _n_ :es: estropajo  
@@ -13270,7 +13274,7 @@ __subsidiary__
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
-__subterfuge__ _n_ :two: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
+__subterfuge__ _n_ :three: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
@@ -14048,6 +14052,7 @@ __tough love__ _n_ :three::hammer:
 __tough luck__  
 __toupee__ _n_  
 __tour de force__ _n_ :two::hammer:  
+__tournament__ _n_ :four::hammer:  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
 __tousle__ _v_  
@@ -14676,7 +14681,7 @@ __vendetta__ _n_ __1__ A feud between two families that arises from the injury o
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
-__veneer__ _n_ :six::hammer: (veneers) _A veneer of quality._  
+__veneer__ _n_ :seven::hammer: (veneers) _A veneer of quality._  
 __venerable__ _adj_  
 __venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
 __vengeful__ _adj_  
@@ -14992,6 +14997,7 @@ __welling up__
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
 __wellspring__ _n_ :two: __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
+__Welsh__ _n_ __1__ The people of Wales.  
 __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
