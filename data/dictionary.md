@@ -3340,14 +3340,13 @@ __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlets__ _Chicken cutlets._  
 __cutline__ _n_  
-__cutoff__ _The investigation kept going for months beyond its original cutoff date._  
-__cutter__ _A Coast Guard cutter._  
+__cutoff__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
+__cutter__ _n_ _A Coast Guard cutter._  
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin’ a rug__  
 __cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
 __cuttlefish__ _n_ _Cuttlefish bones._  
-__CVD__ Cardiovascular disease.  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
@@ -3360,9 +3359,9 @@ __D-ring inset__
 __dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
-__dabblers__ _He saw the donors as superrich dabblers._  
-__dacha__ _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
-__dada__ _Cinematic dada._  
+__dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
+__dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
+__dada__ _n_ _Cinematic dada._  
 __daedal__ _adj_ __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
 __daffodils__  
 __daffy__  
@@ -3370,7 +3369,6 @@ __daft__ _adj_ :four::hammer:
 __dafter__  
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
-__daily basis__ (on a daily basis) _They work with the team on a daily basis._  
 __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
@@ -3379,7 +3377,7 @@ __dally__ _v_ :four::hammer: (dallied, dallying)
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __dammit__  
-__damn__ :mute:[dam~~n~~]  
+__damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
 __damnation__  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
@@ -3388,7 +3386,7 @@ __damp__ _adj_ _Damp, dirty labor._
 __dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
 __dampness__  
-__damsel__ _The damsel in distress Snow White in 1937._  
+__damsel__ _n_ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
 __dandelion__ _n_ :six: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
@@ -3402,7 +3400,7 @@ __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked 
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
-__daring__ _A daring quality._  
+__daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  

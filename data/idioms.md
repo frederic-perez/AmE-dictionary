@@ -1219,6 +1219,7 @@ __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready t
 __old as the hills__ Someone who is very old.  
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
 __on (someone’s) behalf__ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
+__on a daily basis__ Every day. _They work with the team on a daily basis._  
 __on a dime__  
 __on a high horse__ To act as if you are better than other people.  
 __on a lark__ On a whim or fancy; for fun or as a joke. _On a lark, I skipped school and drove to the beach._  

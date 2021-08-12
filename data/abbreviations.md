@@ -19,6 +19,7 @@ __CE__ __1__ Common Era. __2__ In a pocket calculator, Clear Entry key, used to 
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
 __CPR__ :two: Cardiopulmonary resuscitation.  
+__CVD__ Cardiovascular disease.  
 __CVS__ Computer Vision Syndrome.  
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
