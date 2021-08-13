@@ -46,7 +46,7 @@ __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.
 __aberrant__ _adj_  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
-__abeyance__ _n_ :three::hammer: _You capture the inventory into containers that hold items in abeyance._  
+__abeyance__ _n_ :four: The condition of being temporarily set aside. _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _You capture the inventory into containers that hold items in abeyance._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
@@ -1996,7 +1996,7 @@ __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam 
 __callous<sup>1</sup>__ _adj_ :nine::m::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
-__callow__ _adj_ :four::hammer:  
+__callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
 __calm__ :mute:[ca~~l~~m]  
 __caltrops__ _n_  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
@@ -3679,6 +3679,8 @@ __diablerie__ _n_
 __diabolical__ _adj_  
 __diacritic__ _n_ A mark that shows how you should pronounce a letter in a word.  
 __diadem__ _n_ :two: An ornamental jeweled headdress signifying sovereignty.  
+__dialectic<sup>1</sup>__ _n_ [:scroll: From Greek dia- (between) + legein (to speak)] A discussion employed in investigating the truth of a thesis.  
+__dialectic<sup>2</sup>__ _adj_ Relating to such a discussion.  
 __dialysis__ _n_ :three::hammer:  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
@@ -5564,7 +5566,7 @@ __garbed__ _v_ :two::hammer:
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
-__gargantuan__  
+__gargantuan__ _adj_ :two: Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
@@ -7099,6 +7101,7 @@ __intimation__ _n_ Making known indirectly.
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
+__intransigent__ _adj_ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacy__ _n_ :two::hammer: (intricacies)  
 __intricate__ _adj_ :two::hammer:  
@@ -7493,6 +7496,7 @@ __kulak__ _n_ A comparatively wealthy Soviet peasant who, during the Communist d
 __kumbaya__ _n_ :three: Rooted in an American spiritual and folk song of the same name, kumbaya refers, often disparagingly, to moments of or efforts at harmony and unity.  
 __kumquat__ _n_  
 __kurtosis__ _n_  
+__kvell__ _v intr_ :pencil2: _slang_ To be extraordinarily pleased; esp., to be bursting with pride, as over one’s family. To be happy or show satisfaction. _The parents kvelled over their daughter’s dance solo._  
 __kybosh__ _v_  
 __kyphoplasty__ _n_ A treatment for a vertebral compression fracture in which a collapsed vertebral body is restored to its normal size and shape with a balloon, followed by the injection of bone cement to maintain the bone’s shape and strength.  
 __L-plate__ _n_ _He saw the L-plate on the back of the car._  
@@ -8881,6 +8885,7 @@ __nihilistic__
 __niladic__  
 __nimble__ _adj_ :seven: (nimbler, nimbly) __1__ Quick and light in movement or action; agile. _With a deft motion of her nimble fingers._ _Syn_ agile, graceful, deft, dexterous :es: ágil __2__ (of the mind) Able to think and understand quickly. _Her mind was so nimble and she was so quick to learn._  
 __nimiety__ _n_ Superfluity; excess.  
+__nimrod__ _n_ __1__ (also Nimrod) A hunter. __2__ _informal_ Idiot, jerk.  
 __nip-and-tuck__  
 __nip<sup>1</sup>__ _v_ :five::hammer: (nipped, nipping) _Nip them in the bud._ _The Gaels were nipped at Washington._  
 __nip<sup>2</sup>__ _n_ :two: A small drink of spirits; dram. _There is a nip in the air._  
@@ -11151,6 +11156,7 @@ __revel__ _v_ :seven::hammer: (revelled, revelling, reveling) _She revels in the
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
+__reverberate__ _v_ Ring or echo with sound. _Syn_ resound, ring, echo _The explosion reverberated through the castle._  
 __revered__  
 __reversal of fortune__  
 __reversible__  
@@ -11273,6 +11279,7 @@ __rock-bottom__ _adj_ Extremely low: _rock-bottom prices._
 __rock-paper-scissors__ _n_ _Is this rock-paper-scissors?_  
 __rocket stage__ _n_ A detachable portion of a multistage rocket whose engine provides acceleration for the rocket over a certain portion of the flight trajectory. _Spent rocket stages._  
 __rocket__ _n_ :mega:  
+__rocky road__ _n_ One of the more common flavors that you’ll see outside of plain vanilla and chocolate ice cream. It’s made by mixing chocolate ice cream with marshmallows and chopped almonds.  
 __rocky__ _adj_ __2__ Appearing inclined to fail; discouraging or disappointing: _had a rocky start, but managed to succeed._  
 __rococo__ _adj_ :mega:  
 __rod__ _n_ __5a__ A linear measure equal to 5.5 yards or 16.5 feet (5.03 meters). Also called pole. _A few rods away._  
@@ -12619,7 +12626,7 @@ __soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from
 __soporific<sup>2</sup>__ _n_ Something that induces sleep.  
 __sopping__ _v_  
 __soppy__  
-__sorbet__ _n_ :mega:  
+__sorbet__ _n_ :two::mega::hammer:  
 __sordid__ _adj_  
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :three::hammer:  
@@ -14026,7 +14033,7 @@ __torment__ _v_
 __tormentor__ _n_  
 __torn__ _v_  
 __torpedo__ _v_  
-__torpor__ _n_ :five: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
+__torpor__ _n_ :six: A state of physical or mental inactivity; lethargy. _They veered between apathetic torpor and hysterical fanaticism._ _The economy is in a torpor._ _Syn_ lethargy  
 __torrid__ _adj_ :two::hammer: _A torrid affair._  
 __torte__ _n_ _A torte was named after her._  
 __torturous__ _adj_ :two: (Not to be confused with: tortuous – circuitous; devious; full of twists, turns, or bends) Extremely painful. _Syn_ agonizing, excruciating, harrowing _Losing someone you love is a torturous experience._ Pertains to suffering: _We toil in the torturous heat._  
