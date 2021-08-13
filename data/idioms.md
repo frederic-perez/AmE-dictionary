@@ -329,9 +329,11 @@ __creature of habit__ One who prefers the comfort and reliability of routine and
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
+__crux of the matter__ _She saw the crux of the matter in seconds._  
 __cry over spilled milk__ To be unhappy about what cannot be undone.  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __cushy job__ A job that is easy, stress-free, and/or very well paid.  
+__cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ To do something in the easiest or most inexpensive way.  
 __cut from the same cloth__ To be very similar.  
 __cut from whole cloth__ Completely fictional or utterly false; totally made up. A reference to tailors who would falsely advertise garments being “cut out of whole cloth,” when in reality, they were pieced together from different cuts.  
@@ -1584,6 +1586,7 @@ __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these
 __toss and turn__ Sleep badly.  
 __toss out__ _v_ _One student tossed out expletives._  
 __touch base (with someone)__ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
+__tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __try out__ :two::hammer:  

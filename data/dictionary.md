@@ -3253,11 +3253,10 @@ __crumple<sup>2</sup>__ _n_
 __crunch__ _n_ :two::hammer: (crunches)  
 __crunchtime__  
 __crusader__  
-__crush<sup>1</sup>__ _I was crushed._  
+__crush<sup>1</sup>__ _v_ _I was crushed._  
 __crush<sup>2</sup>__ _n_  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :five::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
-__crux of the matter__ _She saw the crux of the matter in seconds._  
 __crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
@@ -3268,7 +3267,7 @@ __cryptomining__
 __cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
 __crystal clear__  
 __crystal meth__  
-__crystalline__ _Cristalline lens._  
+__crystalline__ _adj_ _Cristalline lens._  
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
 __cuckold<sup>2</sup>__ _v_ :three::hammer:  
@@ -3291,7 +3290,7 @@ __culpability__ _n_ The condition of blameworthiness, criminality, censurability
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
-__cumbersome__ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
+__cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
@@ -3304,8 +3303,8 @@ __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
 __curb<sup>2</sup>__ _v_ :three::hammer: _Curb drug resistance._  
-__curdle__  
-__curdled__ _There has always been a curdled heart at pop’s center._  
+__curdle__ _v_  
+__curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __Curia__ _n_ :three: (Roman Catholic Church) The central administration governing the Church.  
@@ -3324,22 +3323,20 @@ __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a res
 __curtailment__  
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
-__cushy__ _A cushy modern life._  
+__cushy__ _n_ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
 __custard__ _n_ :es: natillas, flan  
 __custodian__  
-__custody__ _Finally my house returned to my custody._  
-__customer > tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
+__custody__ _n_ _Finally my house returned to my custody._  
 __customs__ _n_ (at airport)  
-__cut and dried__ _You seem to think this is cut and dried._  
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
 __cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dry task__  
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
-__cutlets__ _Chicken cutlets._  
+__cutlet__ _n_ _Chicken cutlets._  
 __cutline__ _n_  
 __cutoff__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
 __cutter__ _n_ _A Coast Guard cutter._  
@@ -9004,7 +9001,7 @@ __nummary__ _adj_ Of or relating to coins.
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v tr_ :three::hammer:  
-__nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing. _  
+__nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing._  
 __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nursing home__ _n_  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
