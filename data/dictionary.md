@@ -3208,23 +3208,20 @@ __crony__ _n_ :four: A close friend or companion.
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
 __crook__ _n_ :four::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
-__crop-duster__ _The crop-duster attack in North by Northwest._  
+__crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
-__cross (oneself)__ :es: santiguarse  
-__cross someone’s mind__ _It never crossed my mind._  
-__cross word__ _No one heard her say a cross word about anyone else._  
-__cross your eyes__ _There’s kid stuff that makes adults kind of cross their eyes._  
-__cross__ _v_ _They paled and crossed themselves._  
+__cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
+__cross<sup>2</sup>__ _v_ :three::hammer: _They paled and crossed themselves._ __12__ To turn (the eyes) inward toward the nose. _The boy made a funny face and crossed his eyes._ _There’s kid stuff that makes adults kind of cross their eyes._  
+__cross<sup>3</sup>__ _adj_ _No one heard her say a cross word about anyone else._  
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross-grained__ _adj_ Difficult to deal with.  
 __crossbar__ _n_  
 __crossbeam__ _n_  
 __crossbow__ _n_  
-__crossing t’s__ _Crossing our t’s and dotting our i’s._  
-__crossover__ _Crossover zone._  
-__crossroad__ _At a crossroad._  
-__crossroads__ _n_ :dart::three::hammer::pencil2: _He is at a significant crossroads in his career._ _We’re at a crossroads._ _I’m at a crossroads._ (notice the trailing ‘s’)  
+__crossover<sup>1</sup>__ _n_  
+__crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
+__crossroad__ _n_ _He is at a significant crossroads in his career._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
 __crouch<sup>2</sup>__ _n_  
@@ -3237,8 +3234,8 @@ __crucifix__ _n_
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
-__crudity__ _“Please, excuse the crudity of the model,” said Dr. Brown._  
-__cruel__ _His body looked cruel._  
+__crudity__ _n_ _“Please, excuse the crudity of the model,” said Dr. Brown._  
+__cruel__ _adj_  
 __cruet__ _n_ :mega: A small bottle for holding a condiment, such as vinegar or oil.  
 __cruffy__  
 __cruft__ _n_ :two::hammer:  
