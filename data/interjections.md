@@ -61,7 +61,7 @@ __whew__ Used to express strong emotion, such as relief or amazement.
 __whoa__ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __woohoo__ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
-__yay__ :five: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
+__yay__ :six: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __yeet__ _informal, slang, humorous_ Used to express excitement or approval.  
 __yikes__ :two: An exclamation of surprise or alarm.  
 __yo__ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  

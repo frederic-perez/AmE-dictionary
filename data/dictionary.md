@@ -3211,11 +3211,11 @@ __crooked__ _adj_ :three::hammer: _Crooked media._
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
-__cross<sup>2</sup>__ _v_ :three::hammer: _They paled and crossed themselves._ __12__ To turn (the eyes) inward toward the nose. _The boy made a funny face and crossed his eyes._ _There’s kid stuff that makes adults kind of cross their eyes._  
-__cross<sup>3</sup>__ _adj_ _No one heard her say a cross word about anyone else._  
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross-grained__ _adj_ Difficult to deal with.  
+__cross<sup>2</sup>__ _v_ :three::hammer: _They paled and crossed themselves._ __12__ To turn (the eyes) inward toward the nose. _The boy made a funny face and crossed his eyes._ _There’s kid stuff that makes adults kind of cross their eyes._  
+__cross<sup>3</sup>__ _adj_ _No one heard her say a cross word about anyone else._  
 __crossbar__ _n_  
 __crossbeam__ _n_  
 __crossbow__ _n_  
@@ -3595,6 +3595,7 @@ __deontology__ _n_
 __departed__  
 __dependable__ _adj_ _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
+__deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
 __depolarize__ _v_  
 __deposit__ _n_  
 __deposition__ _n_ :three::hammer:  
@@ -6935,7 +6936,7 @@ __incubus__
 __inculcate__ _v_ :two: To teach and impress by frequent repetitions or admonitions.  
 __incumbency__  
 __incumbent<sup>1</sup>__ _adj_ _It’s incumbent upon us to provide clear definitions of what these things mean._  
-__incumbent<sup>2</sup>__ _n_ :four: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
+__incumbent<sup>2</sup>__ _n_ :five: Currently holding a specified office. _An incumbent president._ _Bunker beat incumbent Mosier 90 votes to 78 votes._  
 __incur__ _v_  
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
@@ -8192,6 +8193,7 @@ __marshmallow__ _n_ :three::four: Althaea officinalis. The word “marshmallow�
 __marshy__  
 __mart__ _n_ A place of trade, eg. an auction room or market.  
 __martial artist__  
+__martinet__ _n_ Someone who demands exact conformity to rules and forms. _Syn_ disciplinarian, moralist _Any deviation from the classroom rules was met with a swift rebuke from our teacher, a real martinet._  
 __martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
 __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
 __martyrdom__ _n_ :three::hammer:  
@@ -8657,6 +8659,7 @@ __muggy__ _adj_ :two::hammer: _The weather was muggy._
 __mulberry__ _n_ :three::hammer: (mulberries)  
 __mulch__ _n_ :two::hammer:  
 __mulching__ _v_  
+__mulct__ _v_ :pencil2: __1__ To punish by a fine. __2a__ To defraud especially of money. _Syn_ swindle __b__ To obtain by fraud, duress, or theft.  
 __muleskinner__ _n_  
 __mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
 __mullah__ _n_  
@@ -9016,6 +9019,7 @@ __nuttily__
 __nuzzled__ _v_  
 __oaf__ _n_ :four: (oafs) __1__ A stupid person. _Syn_ boob __2__ A big clumsy slow-witted person. _Syn_ goon, lout  
 __oafish__ _adj_ :two::hammer:  
+__Oakley__ _n_ A complimentary ticket or pass. Also known as an Annie Oakley. After the sharpshooter Annie Oakley (1860-1926) who was renowned for her skill, from association of the punched ticket with one of her bullet-riddled targets.  
 __oar__ _n_ :three::hammer: (oars)  
 __oases__ _n_  
 __oat__ _n_  
@@ -9522,7 +9526,7 @@ __parried__ _v_
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
-__parry__ _v_ :two::hammer:  
+__parry__ _v_ :dart::three: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer.  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
@@ -10785,7 +10789,7 @@ __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who
 __rank<sup>2</sup>__ _v_  
 __ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
 __rankle__ _v_ :four: (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
-__ransack__ _v_ :five::hammer: (ransacked)  
+__ransack__ _v_ :six: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
 __ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
@@ -11576,7 +11580,7 @@ __saying__ _n_ :two::hammer:
 __sboutout__ _n_ _informal_ A public greeting, esp one broadcast via television or radio. _A belated shoutout to Dave for his recent contribution to the museum._  
 __scab__ _n_  
 __scabbard__ _n_ :seven: A sheath for a sword, dagger, or bayonet.  
-__scabby__  
+__scabby__ _adj_ :two: __1__ Having scabs. __2__ Mean or contemptible.  
 __scabies__  
 __scabs__ _n_ :two::hammer:  
 __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -11971,7 +11975,7 @@ __shenanigans__ _n_ :two::hammer:
 __shepherd__ _v_ :two::mute:[shep~~h~~erd]:mega::astonished: (shepherded)  
 __shepherdless__ _n_  
 __sherbet punch__  
-__shibboleth__ _n_ A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
+__shibboleth__ _n_ :two: A favorite saying of a sect or political group. _Syn_ catchword, motto, slogan  
 __shied__ _v_ :four::hammer: _A wagon was overturned as horses bucked and shied._ _Felix was thrown when his horse shied a a badger._  
 __shield__ _v_  
 __shiet__  
@@ -15119,6 +15123,7 @@ __wholeheartedly__ _adv_ :two::hammer:
 __wholesale__ _adj_ :four: Use the adjective wholesale to describe something that’s done on a big, broad scale, like wholesale changes made by a new government that affect an entire country. It’s pretty common to see the phrase “wholesale destruction,” especially when historians are talking about the overwhelming effects of war or ecological disasters. When wholesale is a verb, it has a very different meaning — to sell things in bulk, usually to someone who is going to sell it again at a higher retail price. The earliest meaning of the word was “in large quantities,” combining whole and sale into the phrase “by whole sale.” _Russia stands for wholesale orruption._ _The wholesale burning of villages._  
 __wholesaler__ _n_ :two: Someone who buys large quantities of goods and resells to merchants rather than to the ultimate customers. _Syn_ jobber, middleman  
 __wholesome__ _adj_ :three::hammer:  
+__wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
@@ -15273,6 +15278,7 @@ __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
+__woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
 __wooly__  
 __woomb__  
 __woozy__ _adj_ :two::hammer:  
@@ -15389,6 +15395,7 @@ __yawn__ _n_ _The sound of yawns and crickets._
 __yawner__ _n_ _slang_ :three: Something that is very boring.  
 __yawning<sup>1</sup>__ _n_ :three: Yawning is what happens when you reflexively open your mouth wide, inhale, and exhale again. Most yawning is caused by sleepiness or extreme boredom. _They dissected the yawning door of a junked Coca-Cola machine._ _Yawning aperture._ _The gap is yawning._  
 __yawning<sup>2</sup>__ _adj_ :six: With the mouth wide open indicating boredom or sleepiness. _He felt a yawning loneliness._ _Yawning pit._  
+__yay__ _adv_ So; by this amount: _“The fish was yay big” he said, spreading his arms three feet apart._  
 __year > year-old, year old, years old__ _n_ :three: (-year-old) In the sentence “He’s a fifty-year-old man,” _fifty-year-old_ is a compound adjective. In the sentence “He’s fifty years old,” the term _fifty years_ is a quantifying phrase used as an adverb to modify the adjective _old_—it is a compound adverb. _A 56-year-old retiree._ _A two-year-old toddler._ _Malone started playing guitar at 5 years old. (He got his first drum set at age 10.)_  
 __year in, year out__  
 __yearn__ _v_ __1__ :eight: (yearning) To have a strong, often sad longing: _yearn for a better life; yearn to see an old friend._ _Mr. Schneider once yearned to be an astronaut._ __2__ To feel deep pity, sympathy, or tenderness: _yearned over the child’s fate._  
