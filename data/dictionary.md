@@ -3146,19 +3146,16 @@ __crayon__ _n_
 __craze<sup>1</sup>__ _v_ :two::hammer: (crazed)  
 __craze<sup>2</sup>__ _n_  
 __creak__ _v_ :three::hammer: (creaked)  
-__creakings__ _Door creakings._  
-__creaky__ _Creaky infrastructure._  
-__crease__ _n_ (creases) _There are creases in the cover._  
-__creased__  
-__creases__ _Knife creases._  
-__creasing__  
+__creaking__ _n_ A squeaking sound. _Door creakings._  
+__creaky__ _adj_ _Creaky infrastructure._  
+__crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
+__crease<sup>2</sup>__ _v_ :two::hammer:  
 __cred__ _n informal_ :six: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :four::hammer:  
 __credenza__ _n_  
-__credit__ _Presidents don’t deserve full credit or blame for the economy’s performance._  
+__credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
-__creep somebody out__ _phr v informal_ To make someone feel nervous, uncomfortable, and slightly frightened.  
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ (crept)  
 __crenelated weir__  
@@ -3175,24 +3172,24 @@ __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.
 __crevasse__ _n_  
 __crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crewcats__  
-__crewcut__ _A crewcut man._  
+__crew cut__ _n_  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
-__cribbage__ _game_  
+__cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
 __cringe__ _v_ :eight: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
-__crinkly__  
+__crinkly__ _adv_  
 __crippling__ _adj_ :four::hammer: _Crippling drought._ _Crippling strikes and violence._  
 __crisp<sup>1</sup>__ _adj_ :six::hammer: _A crisp white tunic._ _In a crisp white dress._ _William teed up Pedro with a crisp pass._  
 __crisp<sup>2</sup>__ _v_  
 __crisp<sup>3</sup>__ _n_  
-__crisper__ _Our dishes and crisper trays._  
-__crisply__ _Nuggent greeted him crisply._  
+__crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
+__crisply__ _adv_ _Nuggent greeted him crisply._  
 __crisscross__  
-__critical condition__ _Critical to serious condition, fair condition._  
+__critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  

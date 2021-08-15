@@ -327,6 +327,7 @@ __count your blessings__ :five: (count (one’s) blessings) To be grateful for t
 __crack someone up__ :two: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior.  
+__creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
 __cross one’s mind__ _It never crossed my mind._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
