@@ -3391,6 +3391,7 @@ __dandy__ _adj_ :two::hammer:
 __dangle__ _v_ :two::hammer: (dangling) _Garret seems to be dangling by a thread._  
 __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ damp, musty, chilly, clammy, wet, moist _An old table in a dank, smelly place._ :es: húmedo  
 __dankness__ _n_ :two::hammer:  
+__danse macabre__ _n_ (Art Terms) Another name for dance of death.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
@@ -7293,6 +7294,7 @@ __jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.
 __judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
 __judgmental__ _adj_ :pencil2:  
 __judicious__ _adj_ _Judicious improvements._  
+__judo__ _n_ [:scroll: A Japanes discipline whose name is based on Chinese words that translate to “soft way.”]  
 __jug__ _n_ :three: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._ :camera: _There were gas jugs in the bed of the vehicle._  
 __juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
@@ -7349,6 +7351,7 @@ __kabuki__ _n_ :three::hammer:
 __kaffeeklatsch__ _n_  
 __kale__ _n_ :five::hammer:  
 __kamikaze__ _n_ :mega:  
+__karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _n_ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
@@ -9287,7 +9290,7 @@ __outlast__ _v_
 __outlaw__ _n_  
 __outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline__ _n_  
-__outlook__ _n_ :three::hammer:  
+__outlook__ _n_ :four::hammer: _What’s the long term outlook after covid?_  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
@@ -10772,7 +10775,7 @@ __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
 __rampage<sup>1</sup>__ _v_ :five::hammer:  
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
-__rampant__ _adj_ :three::hammer:  
+__rampant__ _adj_ :four::hammer:  
 __rampantly__  
 __rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._  
 __ramshackle__ _adj_ :two::hammer:  
@@ -11861,6 +11864,7 @@ __serial comma__ _n_ Oxford comma.
 __seriocomic__ _adj_ Mixing serious and comic elements.  
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
+__seronegative__ _adj_ (Medicine) (of a person whose blood has been tested for a specific disease, such as AIDS) Showing no serological reaction indicating the presence of the disease.  
 __serum__ _n_ :es: suero  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
@@ -12110,13 +12114,14 @@ __shudder__ _v_ :four::hammer: (shudders, shuddered)
 __shudderings__ _n_  
 __shuffle off__  
 __shuffle__ _v_ :three::hammer: (shuffling)  
-__shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir  
+__shun__ _v_ :nine::m: (shunned) To avoid (somebody or something) deliberately, especially habitually. :es: esquivar, rehuir _Cristiano Ronaldo has been widely praised by public health experts after he shunned Coca-Cola during a press conference._  
 __shunt__ _v_ :three::hammer: (shunted, shunting) _With a PDA, there is continous shunting of blood through the lungs._  
 __shush<sup>2</sup>__ _v_ :two::hammer: (shushing)  
 __shut out__ _v_ :two::hammer:  
 __shutout__ _n_ :nine::m: _Sports_ A game in which one side does not score. _Last year, the NL won in a shutout._ _It was the Tigers’s fifth consecutive shutout._ _Chelsea Haas won seven games with six shutouts._  
 __shutter__ _n_ :three::hammer: (shutters) _The finest selection of custom shutters since 1973._  
 __shutterbug__ _n_ _informal_ An enthusiastic amateur photographer.  
+__shuttlecock__ _n_  
 __shy<sup>1</sup>__ _adj_ :five::hammer: _Rob killed himself six months shy of his 40th birthday._ _He might be a ticket or two shy._ _Shy of one thousand pages._ _Shy of leaders._  
 __shy<sup>2</sup>__ _v_ :four::pencil2::hammer: (shied) _Edgerton does not shy away from cultural observations._  
 __shylock rackets__  
@@ -13515,6 +13520,7 @@ __tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
+__tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
@@ -13693,7 +13699,7 @@ __tense__ _adj_ :two::hammer:
 __tensile__ _adj_ _Tensile cable._  
 __tentative__  
 __tenterhooks__  
-__tenuous__ _adj_ :three: Having litthe substance or strength; thin; weak.  
+__tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
 __tenure__ _n_ :two::hammer:  
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
@@ -14726,6 +14732,7 @@ __vertical farm__
 __verve__ _n_ :five::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _adj, adv_ _We were in this very room._  
+__vesicle__ _n_ (vesicula)  
 __vespine__ _adj_  
 __vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
