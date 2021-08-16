@@ -1150,6 +1150,7 @@ __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They p
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
 __best__ _v_ :four: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
+__bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
 __bethren__ _n_  
@@ -1537,7 +1538,7 @@ __bouncy house__ _n_
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
-__bounty__ _n_ :hammer: _Bounty_ comes from the Latin word _bonus_, meaning good.  
+__bounty__ _n_ :two::hammer: _Bounty_ comes from the Latin word _bonus_, meaning good. _To fight under the banner and bounty of the grand seigneur._  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovarism__ _n_  
@@ -2397,6 +2398,7 @@ __chisel__ _n_
 __chiseled__  
 __chit-chat__ _n_ An informal conversation about things that are not important.  
 __Chiuaua__  
+__chivalry__ _n_ :four::hammer:  
 __chive__ _n_  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlorophyll__ _n_ :three::pencil2::hammer:  
@@ -3167,8 +3169,8 @@ __crest__ _v_ _The Fox River is expected to crest Tuesday._
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
 __crevasse__ _n_  
 __crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
-__crewcats__  
 __crew cut__ _n_  
+__crewcats__  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
@@ -5328,6 +5330,7 @@ __foul-smelling__ _adj_ Having a very unpleasant smell.
 __foul-ups__  
 __founder__ _v_ :six::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
 __foundry__ _n_ :three::hammer: (foundries) _Metal foundries._ :es: fundición  
+__fount__ _n_ __1__ A fountain. __2__ One that initiates or dispenses; a source. _The fount of authority._  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
 __four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
@@ -5827,6 +5830,7 @@ __GOP__
 __Gordian knot__ _n_ :two::hammer:  
 __gore__ _n_ _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
+__gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
 __gormandize__ _v_ :two: Overeat or eat immodestly; make a pig of oneself. To eat greedily, gluttonously, or ravenously. _Syn_ devour  
 __gormless__  
@@ -7574,6 +7578,7 @@ __larder__ _n_ :three::hammer:
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
+__larguese__ _n_  
 __lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
@@ -10471,7 +10476,7 @@ __proverb__ _n_ A short, common saying or phrase that gives advice or shares a u
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
 __proviso__ _n_  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__ _n_ :eight: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation.  
+__prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. __2__ Extraordinary ability. _His prowess on the football field._  
 __prowled__ _v_  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
@@ -11244,6 +11249,7 @@ __ripoff__ _n_ _slang_
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
 __ripple__ _v_ :four::hammer: (rippled)  
+__rippling__ _n_ A small wave on the surface of a liquid. _Syn_ riffle, ripple, wavelet _The rippling of streams flowing._  
 __rise__ _v_  
 __risers__  
 __risible__ _adj_ :three: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
@@ -11440,6 +11446,7 @@ __rush<sup>2</sup>__ _v_
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rustle up__ _v_  
 __rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
+__rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves blowing in the wind. _The rustling of forest leaves._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
 __ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
@@ -11761,6 +11768,7 @@ __seaweed__ _n_ :two::hammer: :es: alga
 __secateurs__ _n_  
 __seclude__ _v_ Keep away from others. _Syn_ sequester, withdraw _During my moody teenage years, I would often seclude myself in my room to brood._  
 __second best__  
+__Second Coming__ _n_ (Theology) The prophesied return of Christ to earth at the Last Judgment.  
 __second nature__  
 __second string__ _n_  
 __second wind__ _n_ Renewed energy or strength to continue an undertaking; _She had dinner and got a second wind to finish painting._  
@@ -14188,6 +14196,7 @@ __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or f
 __triptych__  
 __trireme__ _n_  
 __triskelion__ _n_ (triskele)  
+__Tristan and Isolde__ _n_ (Tristan and Isolde) A chivalric romance retold in numerous variations since the 12th century.  
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning “wear out.” An old-fashioned or outdated definition of the word is “frayed or worn out by use,” and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__ _n_ :two::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
@@ -14951,6 +14960,7 @@ __wayposts__
 __wayside__ _n_ :three::hammer:  
 __wayward__ _adj_ :nine::m: Someone wayward is a little stubborn and independent — they’re determined to find their own way and are not easily controlled. Being wayward can mean a few things, but they all have something to do with doing your own thing — often, going against what others want you to do. A rebellious student is wayward. A son who ignores his parent’s advice is wayward. A politician who goes against everyone else in his political party is wayward. Wayward folks like to go their own way — and they often take the unexpected path. _A wayward boy._ _Wayward corporations._ :es: díscolo  
 __WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-40 Company based in San Diego, California.  
+__weakling__ _adj, n_ One that is weak in body, character, or mind.  
 __weakness__ _n_ (weaknesses) _What are your personal strengths and weaknesses?_  
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
 __wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
