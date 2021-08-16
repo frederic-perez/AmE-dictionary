@@ -3023,7 +3023,7 @@ __corrosion__
 __corrugate__ _v_  
 __corrugated__  
 __corsages__  
-__cortisol__ _Cortisol is the primary stress hormone._  
+__cortisol__ _n_ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
 __coruscate__ _v_ :four::astonished: Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._  
 __cosset__ _v_  
@@ -3041,10 +3041,10 @@ __cotton swabs__
 __couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __couch-ridden__  
-__couch-surfing__ :astonished:  
+__couchsurfing__ _n_ :astonished: The practice of sleeping overnight in the houses of friends or fellow members of a social network, esp as an alternative to staying in hotels, hostels, etc.  
 __cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
 __cough up__ _v_  
-__could__ :mute:[cou~~l~~d]  
+__could__ _v_ :mute:[cou~~l~~d]  
 __coulee__  
 __coulrophobia__ _n_ Fear of clowns.  
 __councilor__ _n_  
@@ -3054,26 +3054,23 @@ __count on__ _phr v_ To rely or depend on (someone) to do something.
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
 __countenance<sup>1</sup>__ _n_ :four::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
-__counter__ _n_ :two::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ :es: encimera  
-__counter-depth fridge__ :camera:  
+__counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
-__countered__ _Countered kitchen._  
 __counterfeit__ _adj_ :three::hammer: _Counterfeit money._ _Someone passed two counterfeit $20 bills at the Princeton Community Pool._ :es: falsificación  
 __countermand__ _v_ :three: To cancel or reverse (a previously issued command or order). _Syn_ repeal, rescind, annul, revoke, vacate, reverse, overturn, lift _Countermand the order for cake, send a wire putting off the wedding, dismiss the bridesmaids, and tell the organist he can stop practicing._  
 __counterpoint__ _n_  
 __countertop__ _n_ :two::hammer:  
-__countervail__ _Countervailing evidence._  
+__countervail__ _v_ _Countervailing evidence._  
 __countless__ _adj_ :two::hammer: _Jenkins wandered nervously around the study, examining objects that didn’t interest him and smoking countless cigarettes._  
 __country store__  
 __counts__ _n_ :three::hammer: _Seven counts of murder._ _He was charged with multiple crimes, including counts of money laundering._  
 __coup de grâce__ _n_ :three: __1__ A deathblow or death shot administered to end the suffering of one mortally wounded. __2__ A decisive finishing blow, act, or event.  
-__coup__ :mute:[cou~~p~~]  
-__coupes__ _Coupes, two door models usually sportier than sedans._  
+__coup__ _n, v_ :mute:[cou~~p~~]  
+__coupe__ _n_ (coupé) A closed two-door car shorter than a sedan of the same model. _Coupes, two door models usually sportier than sedans._  
 __coupled__ _v_  
 __coupon__ _n_  
 __course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __coursework__  
-__Courtney Cox moment__ _A Courtney Cox moment (Dancing in the Dark with Bruce Springsteen)._  
 __courtyards__ _n_  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
@@ -3104,7 +3101,6 @@ __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect man
 __crack down__ _v_  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas enérgicas (en contra)  
-__cracked eggs__ _Cheering for cracked eggs._  
 __cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
 __crackerjack<sup>1</sup>__ _adj_ _slang_ :two: Having or demonstrating a high degree of knowledge or skill. _Syn_ adept, crack, expert, master, masterful, masterly, professional, proficient, skilled, skillful  
 __crackerjack<sup>2</sup>__ _n_ _slang_ :two: A person with a high degree of knowledge or skill in a particular field. A person or thing of exceptional quality or ability. _Syn_ ace, adept, authority, dab hand, expert, master, past master, professional, proficient, wizard  
