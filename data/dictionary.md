@@ -2960,10 +2960,9 @@ __cookware__
 __cool your jets__  
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
-__coop<sup>1</sup>__ _To fly the coop._  
+__coop<sup>1</sup>__ _n_ :two::hammer: :es: gallinero _Chicken coops._  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
-__coops__ _Chicken coops._  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
 __cop out__ _v_ :four: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
@@ -2971,13 +2970,13 @@ __cop__ _v_ _My deal was that all charges were dropped against her and I would c
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
 __copay__ _v_ (co-pay)  
-__cope__ _A grey cope._  
+__cope__ _n_ _A grey cope._  
 __copious__ _adj_ :three: [It comes ultimately from Latin, from the word _copia_, meaning “abundance.”] Yielding or containing plenty; affording ample supply. _Syn_ plenteous, ample, rich  
 __copped__ _v_ _He copped to the crime._  
 __copper-bottom hit__  
 __coppice__ _n_  
 __copping__ _v_ :two::hammer: _You’re copping to a murder beef._  
-__cops and robbers__ (play)  
+__cops and robbers__ _n_ (game)  
 __copse__ _n_ :three::hammer: _A brushy copse._  
 __copter__ _n_ :three::hammer: _Navy copter._  
 __Coptic__  
@@ -2990,13 +2989,13 @@ __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched ov
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
 __cordite__ _n_  
-__cordon sanitaire__ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
+__cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
 __corduroy__ _n_ :two: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
 __corduroys__ _n_ Pants made of corduroy.  
-__core-dump__ _The book goes on like this, a chronological core-dump of facts._  
+__core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __cormorants__  
@@ -3012,14 +3011,13 @@ __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or f
 __coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/  
 __coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
 __coronet__ _n_  
-__corporal__ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines.  
+__corporal__ _n_ __1__ (Military) A noncommissioned officer junior to a sergeant in the army, air force, or marines. :es: cabo  
 __corps__ _n_ :three::hammer: _Japan’s deep corps of talented skaters._ _We have a deep receiving corps._ _An inconsistent running back corps._  
 __corpsman__ _n_ :two::hammer: _He served in the U.S. Navy as a hospital corpsman._ _He was trained as a medical corpsman._  
-__corpus__ _A big corpus of examples._  
+__corpus__ _n_ _A big corpus of examples._  
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
-__corrective__ _Preventive and corrective maintenance._  
-__correspondent__ _Our journalists are not experienced war correspondents._  
+__corrective__ _adj_ _Preventive and corrective maintenance._  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrosion__  
 __corrugate__ _v_  
@@ -14895,6 +14893,7 @@ __wanker__ _n_
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
+__war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
 __war stories__  
 __warble__ _v_ :three::hammer:  
 __warblers__  
