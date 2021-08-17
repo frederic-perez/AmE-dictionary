@@ -5603,7 +5603,7 @@ __gaze<sup>1</sup>__ _n_
 __gaze<sup>2</sup>__ _v_  
 __gazebo__  
 __gazette__ _n_  
-__gear__ _n_ :two::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
+__gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
 __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where two old geezers poke at each other._  
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
@@ -6014,6 +6014,7 @@ __guess__ _n, v_ :mute:[g~~u~~ess]
 __guesstimate__ _n informal_ An estimate based on conjecture.  
 __guesstimation__ _n_  
 __guesswork__ _n_ :two::hammer:  
+__guest house__ _n_ _Syn_ boarding house, motel, bed and breakfast, B & B :es: hostal _She ran a seaside guest house for 25 years._  
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
 __guffaw<sup>1</sup>__ _n_ :two::hammer:  
@@ -7272,6 +7273,7 @@ __jolly__ _adj_ :six::hammer: _Jolly handshakes._
 __jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
 __jonesing__ _v_ :two::hammer:  
+__jongleur__ _n_ An itinerant medieval entertainer proficient in juggling, acrobatics, music, and recitation.  
 __joog__ _v_  
 __joshed__ _v_ :two::hammer:  
 __jostle__ _v_ :eight::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
@@ -8990,7 +8992,7 @@ __nub__ _n_ :two::hammer: _A punched nub._
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
 __nucleotide__ _n_  
-__nugget__ _n_ :three::dart: (nuggets) A small piece of information or advice that can be useful or important.  
+__nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
 __nullify__ _v_ :four::hammer: (nullified)  
@@ -9386,6 +9388,7 @@ __Pacific Rim__ _n_ :two: The regions, countries, etc, that lie on the shores of
 __pack__ _v_ :three::hammer: (packed) _Never pack items like medicine or valuables._ _Our stand at the Sydney convention is packed!_  
 __package peanuts__  
 __package__ _n_ :mega: /păk′ĭj/  
+__packtrain__ _n_ :two: A string of animals for transporting supplies and equipment.  
 __padded__ _adj_ _He leaned back in his padded chair._  
 __padding__ _v_ _Those who imagine slumber parties and members padding in their slipeers down dark hallways would be disappointed._  
 __paddle<sup>1</sup>__ _n_  
@@ -9501,7 +9504,7 @@ __parcel<sup>2</sup>__ _v_ :two::hammer:
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
-__parchment__ _n_ :six::hammer: _A parchment chart._  
+__parchment__ _n_ :seven::hammer: _A parchment chart._  
 __pard__  
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
@@ -11120,7 +11123,7 @@ __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks be
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
-__retainer__ _n_ :four: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
+__retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
 __retelling__  
@@ -11388,7 +11391,7 @@ __ruble__ _n_ (rouble in BrE) The standard unit of money in Russia and Belarus. 
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
-__rudder__ _n_ :three::hammer: (airplane) _Dan is like a ship without a rudder._  
+__rudder__ _n_ :four: __1__ A flat piece of wood, metal, etc. fixed to the back of a boat for steering. :es: timón _Dan is like a ship without a rudder._ __2__ A similar device on an aircraft.  
 __rudderless__  
 __ruddy__ _adj_ :nine::m: Ruddy is used to describe something that is reddish—like the color of red hair, tomatoes, or your cheeks on a cold winter’s day. _Until her skin was ruddy._  
 __rude__  
@@ -13109,6 +13112,7 @@ __stoop<sup>1</sup>__ _v_ :nine::m: (stooped) __1__ _(also stoop down)_ To bend 
 __stoop<sup>2</sup>__ _n_  
 __stooped__ _adj_ :four: Hraving the back and shoulders rounded; not erect. _A little oldish misshapen stooping woman._ _Syn_ hunched, round-backed, round-shouldered, stooping, crooked _He was a stooped man._ _Stooped shoulders._ _Although stooped by age, her eyes were sharp._  
 __stop short__ _v_ :nine::m: (stop-short, stopped short) __1__ To come to a sudden and unexpected stop, particularly while speaking or driving a vehicle. __2__ Usually with of, to voluntarily cease an attempt to reach a certain point.  
+__stop up__ _v_ To block. _Some rubbish got into the drain and stopped it up._ _Snakes that stop up one ear with their tail._ :es: taponar  
 __stop-and-go__ _adj_ Alternately proceeding and halting: _stop-and-go traffic jams._  
 __stopgap<sup>1</sup>__ _n_ :nine: An improvised substitute for something lacking; a temporary expedient. _Syn_ make-do, makeshift _This is not an acceptable long term solution, just a stopgap._  
 __stopgap<sup>2/sup>__ _adj_ Serving as a stopgap: _a stopgap solution._  
@@ -13577,6 +13581,7 @@ __tanner__ _n_ :two::hammer:
 __tannery__  
 __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
+__tanning__ _n_  
 __tantalize__ _v_ (tantalizing)  
 __tantalizing__ _adj_ :three::hammer: _The revelations are a tantalizing indication of how much we still have to learn._  
 __tantamount__ _adj_ :dart::seven: Equivalent in seriousness to; virtually the same as. _The resignations were tantamount to an admission of guilt._ _Syn_ equivalent to, equal to, amounting to, synonymous with, virtually the same as, identical to :es: equivalente  
@@ -13937,6 +13942,7 @@ __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesad
 __Tirolean__  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
+__tithe__ _n_ __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
@@ -13982,7 +13988,8 @@ __toilet training__ _n_ The training of a very young child to control bowel and 
 __toiletries__  
 __Tokyoites__  
 __tolerate__ _v_  
-__toll__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
+__toll<sup>1</sup>__ _n_  
+__toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomb__ _n_ :mute:[tom~~b~~]  
 __tomboy__  
