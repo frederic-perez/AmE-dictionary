@@ -2829,14 +2829,14 @@ __concourse__ _n_ :five::hammer:
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
-__condemn__ :mute:[condem~~n~~]  
+__condemn__ _v_ :mute:[condem~~n~~]  
 __condition__ _n_ :two::hammer:  
-__conditional discharge__ _An Urbana man has been sentenced to 30 months of conditional discharge._  
+__conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
 __condo__  
-__condominium__ _First-floor condominium._  
+__condominium__ _n_ _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to passing._  
-__conduct__ _Suspended two games for violating the league’s personal conduct policy._  
+__conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
 __confabulate__ _v_ :three: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
@@ -2851,7 +2851,7 @@ __conferred__ _v_
 __confidant__ _n_ :seven::hammer: (also confidante)  
 __confide__ _v_ :five::hammer: (confided)  
 __confidence__  
-__config__ :mega: _A config file._  
+__config__ _n_ :mega: _A config file._  
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
 __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __confluence__ _n_  
@@ -2866,7 +2866,7 @@ __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a
 __congenial__ _adj_ :three::hammer:  
 __conglomerate__  
 __conglomerates__  
-__congrats__ _Congrats on your wedding._  
+__congrats__ _n pl_ _Congrats on your wedding._  
 __Congressmen__ _n_  
 __conjecture__ _v_ :two::hammer:  
 __conjoined__ _adj_ Consisting of two or more associated entities.  
@@ -2885,7 +2885,7 @@ __consensual__
 __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
-__consigliere__ _Our family consigliere._  
+__consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
 __consoled__ _v_  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
@@ -2895,7 +2895,7 @@ __constituent__ _n_ :six::hammer: (constituents)
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
 __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set of principles governing a state, organization, etc. __2__ Relating to someone’s physical or mental condition. __3__ Relating to the fundamental makeup of something or someone; essential.  
 __constrained__ _adj_  
-__construction paper__ _A heart made of construction paper._  
+__construction paper__ _n_ A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
 __construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultee__ _n_  
 __consumable__  
@@ -2919,7 +2919,7 @@ __contiguous > the contiguous U.S.__
 __continence__ _n_ :two::hammer:  
 __contingency plan__ _n_ :two::hammer:  
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
-__contingent__ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
+__contingent__ _adj_ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
 __contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
@@ -2938,7 +2938,7 @@ __contrived__ _adj_ :two: Deliberately created rather than arising naturally or 
 __controversial__  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
-__convective__ _Convective cloud._  
+__convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
