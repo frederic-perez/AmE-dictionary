@@ -161,7 +161,7 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
     if do_print:
         if ' ' in headword:
             print(OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
-                + ' <<< Composite headword' \
+                + ' « Composite headword' \
                 + ENDC)
     return headword, part_of_speech, tokens[idx+1:]
 
@@ -263,7 +263,7 @@ class Checker(object):
             headword = tokens[0]
         else:
             headword = '(empty)'
-        print(headword + FAIL + ' <<< Incorrect entry ending #' \
+        print(headword + FAIL + ' « Incorrect entry ending #' \
             + str(self.num_invalid_endings) + ENDC)
 
     def treat_invalid_underscores_use(self, entry):
@@ -271,7 +271,7 @@ class Checker(object):
         self.num_invalid_use_of_underscores += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Incorrect use of underscores #' \
+        print(headword + FAIL + ' « Incorrect use of underscores #' \
             + str(self.num_invalid_use_of_underscores) + ENDC)
 
     def treat_invalid_parentheses_or_brackets_use(self, entry):
@@ -279,7 +279,7 @@ class Checker(object):
         self.num_invalid_use_of_parentheses_or_brackets += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Incorrect use of parentheses or brackets #' \
+        print(headword + FAIL + ' « Incorrect use of parentheses or brackets #' \
             + str(self.num_invalid_use_of_parentheses_or_brackets) + ENDC)
 
     def treat_invalid_entry_tags(self, entry, tag):
@@ -288,7 +288,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + ENDC \
-             + ' <<< Invalid tag #' + str(self.num_invalid_tags) + ENDC)
+             + ' « Invalid tag #' + str(self.num_invalid_tags) + ENDC)
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
@@ -297,7 +297,7 @@ class Checker(object):
         headword = tokens[0]
         part_of_speech = tokens[1]
         print(headword + ' ' + part_of_speech + FAIL \
-            + ' <<< Too many double spaces #' \
+            + ' « Too many double spaces #' \
             + str(self.num_too_many_double_spaces) + ENDC)
 
     def treat_triple_spaces(self, entry):
@@ -305,7 +305,7 @@ class Checker(object):
         self.num_entries_with_triple_spaces += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Triple spaces #' \
+        print(headword + FAIL + ' « Triple spaces #' \
             + str(self.num_entries_with_triple_spaces) + ENDC)
 
     def treat_wrong_type_of_space_character(self, entry):
@@ -313,7 +313,7 @@ class Checker(object):
         self.num_entries_with_wrong_type_of_space_character += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Wrong type of space character #' \
+        print(headword + FAIL + ' « Wrong type of space character #' \
             + str(self.num_entries_with_wrong_type_of_space_character) + ENDC)
 
     def treat_tab_character(self, entry):
@@ -321,7 +321,7 @@ class Checker(object):
         self.num_entries_with_tab_character += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Tab character(s) #' \
+        print(headword + FAIL + ' « Tab character(s) #' \
             + str(self.num_entries_with_tab_character) + ENDC)
 
     def treat_straight_single_quote(self, entry):
@@ -329,7 +329,7 @@ class Checker(object):
         self.num_entries_with_straight_single_quote += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Straight single quote #' \
+        print(headword + FAIL + ' « Straight single quote #' \
             + str(self.num_entries_with_straight_single_quote) + ENDC)
 
     def treat_straight_double_quote(self, entry):
@@ -337,7 +337,7 @@ class Checker(object):
         self.num_entries_with_straight_double_quote += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Straight double quote #' \
+        print(headword + FAIL + ' « Straight double quote #' \
             + str(self.num_entries_with_straight_double_quote) + ENDC)
 
     def treat_double_dash(self, entry):
@@ -345,7 +345,7 @@ class Checker(object):
         self.num_entries_with_double_dash += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Double dash #' \
+        print(headword + FAIL + ' « Double dash #' \
             + str(self.num_entries_with_double_dash) + ENDC)
 
     def treat_colon_underscore(self, entry):
@@ -353,7 +353,7 @@ class Checker(object):
         self.num_entries_with_colon_underscore += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(headword + FAIL + ' <<< Colon followed by underscore #' \
+        print(headword + FAIL + ' « Colon followed by underscore #' \
             + str(self.num_entries_with_colon_underscore) + ENDC)
 
     def treat_shit_tag(self, entry):
@@ -363,20 +363,20 @@ class Checker(object):
         headword = tokens[0]
         part_of_speech = tokens[1]
         print(headword + ' ' + part_of_speech + FAIL \
-            + ' <<< :shit: found; use :hammer: instead' + ENDC)
+            + ' « :shit: found; use :hammer: instead' + ENDC)
 
     def treat_missing_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '':
             print(OKBLUE + BOLD + headword + ENDC + ' ' + part_of_speech + FAIL \
-            + ' <<< missing part of speech found' + ENDC)
+            + ' « Missing part of speech found' + ENDC)
 
     def treat_displaced_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
         print(headword + ' ' + part_of_speech + FAIL \
-            + ' <<< displaced part of speech found' + ENDC)
+            + ' « Displaced part of speech found' + ENDC)
 
     def check_entry(self, entry, do_check_parts_of_speech):
         """Looking and tallying mistakes in a particular entry of the dictionary"""
@@ -427,7 +427,7 @@ class Checker(object):
                 if part_of_speech.find('_') == -1:
                     self.num_wrong_part_of_speech += 1
                     print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
-                        + ' <<< Wrong part of speech #' \
+                        + ' « Wrong part of speech #' \
                         + str(self.num_wrong_part_of_speech))
 
     def check_entries(self, do_check_parts_of_speech):
