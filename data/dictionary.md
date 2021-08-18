@@ -89,6 +89,7 @@ __accenting__ _v_
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _Ottolenghi is an accidental chef._  
+__accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaimed__  
 __accolade__ _n_ :seven: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodate__ _v_ :pencil2:  
@@ -524,6 +525,7 @@ __appellate__ _adj_ :three::hammer:
 __appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __applesauce__  
+__applied science__ _n_  
 __apportion__ _v_  
 __apportioned__ _v_  
 __apposition__ _n_ :two::hammer: (grammar)  
@@ -1768,6 +1770,7 @@ __bullion__
 __bullpen__ _n_  
 __bullwhip__  
 __bully__  
+__bulrush__ _n_ A tall strong water plant. :es: junco  
 __bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
@@ -2876,7 +2879,7 @@ __conjure__ _v_ :three::hammer: _Syn_ beg
 __conman__  
 __connective tissue__ _n_  
 __connivance__ _n_ :two: Agreement on a secret plot.  
-__connive__ _v_ :five::hammer: (connived, conniving)  
+__connive__ _v_ :six::hammer: (connived, conniving)  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__  
@@ -3936,6 +3939,7 @@ __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
+__doggerel__ _n_ Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
@@ -6955,6 +6959,7 @@ __indite__ _v_
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
+__indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
 __inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
@@ -9447,7 +9452,7 @@ __pamphlet__ _n_
 __pampling__  
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
-__panacea__ _n_ :two: (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
+__panacea__ _n_ :three: (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
 __panache__ _n_ :five: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
@@ -11220,6 +11225,7 @@ __rigged__
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__  
+__rightful__ _adj_ _Edward III announced himself the rightful King of France._  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
 __rigmarole__ _n_ :four: __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
 __rigor__ _n_ :two::hammer:  
@@ -12386,7 +12392,7 @@ __sloppy seconds__
 __sloppy__ _adj_ :four::hammer: _We were a little sloppy in the second half of the game._  
 __slops__ _n_ :three::hammer: _He makes six bucks an hur and tips cleaning slops._ _Rob aided the porters in feeding patients and cleaning up slops._ _He was relieved of the chore of collecting slops._  
 __slosh__ _v_ :nine::m: (sloshed, sloshing) __1__ _(of liquid in a container)_ Move irregularly with a splashing sound. _Water in the boat sloshed around under our feet._ _Syn_ spill, slop, splash, flow, overflow _Beer sloshed over the side of the glass._ __2__ _(of a person)_ Move through liquid with a splashing sound. _They sloshed up the tracks in the dank woods._ _Syn_ splash, squelch, wade _Workers sloshed around in boots._ :es: chapotear  
-__sloth__ _n_ :four: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
+__sloth__ _n_ :five: __1__ Aversion to work or exertion; laziness; indolence. _The winter sloth._ __2__ Apathy and inactivity in the practice of virtue (personified as one of the deadly sins).  
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)  
 __slouchy__  
@@ -13793,7 +13799,7 @@ __Thomas Aquinas__ _n_ :two: (Aquinas /ə-kwī′nəs/, Saint Thomas) [1225-1274
 __thong__ _n_ :two::hammer:  
 __thoracotomy__ _n_  
 __thorny__ _adj_  
-__thorough__ _adj_ :two::astonished::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._  
+__thorough__ _adj_ :three::astonished::hammer::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._ _Thorough investigation._  
 __thoroughfare__  
 __thoroughly__  
 __thought leader__ _n_  
@@ -14037,7 +14043,9 @@ __top-flight__
 __top-of-mind__  
 __topiary__  
 __topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
-__topsy-turvy__ _adj_ :four::hammer: _Topsy-turvy battles._  
+__topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
+__topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
+__topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
 __torch__ _n_  
 __torches__ _n_  
 __tore__ _v_  
