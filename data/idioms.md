@@ -316,6 +316,7 @@ __come into question__ To become doubted, scrutinized, or a matter of serious di
 __come to fruition__ To successfully be brought into existence or to completion.  
 __come to terms__ :four::hammer:  
 __come together__ :two::hammer:  
+__coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
 __control freak__ :two::hammer:  

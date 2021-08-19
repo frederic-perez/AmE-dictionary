@@ -2738,10 +2738,9 @@ __comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and c
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
 __coming down the pipe__ :dart:  
 __coming up__  
-__coming-of-age__ _A coming-of-age story._  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
-__command__ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
+__command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
@@ -2753,7 +2752,7 @@ __commingled__ _v_ :three::hammer:
 __commiserate__ _v_ :five::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
-__committal__ _A committal graveside service will be held for the family._  
+__committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
 __commodious__  
@@ -2779,7 +2778,7 @@ __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ re
 __complacency__  
 __complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
 __completion__ _n_  
-__complex__ :mega:  
+__complex__ _adj, n, v_ :mega:  
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
@@ -2787,12 +2786,10 @@ __complimentary__ _adj_ :three::pencil2::hammer: _Complimentary rooms._ _Complim
 __comply__ _v_  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
-__composting__ _There’s a brown bin for organic waste, which goes for composting._  
+__composting__ _n_ The activity or practice of converting garden and kitchen waste to compost. _There’s a brown bin for organic waste, which goes for composting._  
 __composure__  
 __compound<sup>1</sup>__ _n_ :two::hammer:  
-__compound<sup>2</sup>__ _v_ _The pandemic has compounded this scandal._  
-__compounded__ _v_ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._  
-__compounding__ _Compounding the situation._  
+__compound<sup>2</sup>__ _v_ :three::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comprise__ _v_  
@@ -2809,7 +2806,7 @@ __con-artist__
 __con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con game with many surprises._ _The pro column, not the con column._ _A real con man._ _The con artist._  
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
 __Concacaf__  
-__conceded__ _A total of 44 goals scored and 48 conceded last year._  
+__concede__ _v_ _A total of 44 goals scored and 48 conceded last year._  
 __conceit<sup>1</sup>__ _n_ :two::hammer:  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
@@ -2819,9 +2816,9 @@ __concerted__
 __concertina wire__  
 __concertina__  
 __concertmaster__  
-__concertmistress__ _The orchestra concertmistress._  
-__concession stand__ _A new concession stand with a real popcorn machine._  
-__conch__ _A conch farm._  
+__concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
+__concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
+__conch__ _n_ _A conch farm._  
 __conciliatory__ _adj_  
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
