@@ -1658,6 +1658,7 @@ __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that sho
 __Bristolian__  
 __britches__ _pl n_ :three: _(Clothing & Fashion)_ A variant spelling of breeches (trousers extending to the knee or just below, worn for riding, mountaineering, etc.). _We think that you’re a little too big for your britches._ _He got too big for his own britches._  
 __Britons__  
+__Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ (broached) :six::hammer: _To broach a conversation._ _He broached the subject._  
@@ -3406,6 +3407,7 @@ __dateline__
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
+__davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __dawdled__ _v_  
 __dawn__ _v_  
 __day and age__  
@@ -5464,7 +5466,8 @@ __fullness__
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
-__fumed__ _v_  
+__fume<sup>1</sup>__ _n_  
+__fume<sup>2</sup>__ _v_ :two::hammer:  
 __fumitory__  
 __fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
@@ -5960,7 +5963,7 @@ __grizzled__ _adj_ :six::hammer: _A grizzled scout._ _Grizzled ballroom vets._
 __groan__ _v_ :seven::hammer: (groaned) (It sounds like _grown_.)  
 __grocer__ _n_ :two::hammer:  
 __grog__  
-__groggy__ _adj_ Stunned or confused and slow to react (as from blows or drunkenness or exhaustion).  
+__groggy__ _adj_ :two: Stunned or confused and slow to react (as from blows or drunkenness or exhaustion). Unsteady and dazed; shaky.  
 __grok__ _v_ To understand profoundly and intuitively.  
 __groomed__  
 __groomers__  
@@ -6370,7 +6373,7 @@ __heir__ _n_ :mute:[~~h~~eir]
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
-__heist__ _n_ :four::hammer: _A jewelry heist._ _A true-life heist drama._  
+__heist__ _n_ :five: A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
 __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
@@ -7746,7 +7749,7 @@ __lichen__ _n_ :mega:
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
 __lick-spittle__ _n_ :dart: One who is abject enough to lick, as it were, another’s spittle; a vulgar flatterer or parasite. _A lick-spittle role._  
 __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)  
-__licorice__ _n_ :four::camera: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
+__licorice__ _n_ :five::camera::mega: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
 __liege__  
@@ -9110,7 +9113,8 @@ __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especi
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
-__okay__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
+__okay<sup>1</sup>__ _adj, adv, v tr_ /ˈoʊˈkeɪ, ˌoʊˈkeɪ, ˈoʊˌkeɪ/  
+__okay<sup>2</sup>__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okra gumbo__  
 __okra__ _n_ :two::hammer:  
 __Old Dominion__ _n_ :two: A reference to the Colony of Virginia, which became the “Dominion of Virginia.”  
@@ -11221,7 +11225,7 @@ __rig__ _n_ _Horse and the red wagon were a good rig._
 __rigged__  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
-__righteous__  
+__righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
 __rightful__ _adj_ _Edward III announced himself the rightful King of France._  
 __rightfully__ _adv_ _Rightfully so._ :es: con razón  
 __rigmarole__ _n_ :four: __1__ Confused or meaningless talk. __2__ A complex and sometimes ritualistic procedure. _Rigmarole controls._  
@@ -12256,6 +12260,7 @@ __skimpy__ _adj_ :three::hammer:
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
+__skinner__ _n_ :dart: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ _n_ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
@@ -13048,6 +13053,7 @@ __steward__ _n_ :three::hammer: (stewards) _Concerned stewards of the Earth._
 __stewardship__  
 __stewed tomatoes__  
 __stick > turnaround stick__  
+__stick of gum__ _n_  
 __stick<sup>1</sup>__ _n_ _A swagger stick._  
 __stick<sup>2</sup>__ _v_ _She began sticking files in a cabinet._  
 __stickball__ _n_ Stickball is a street game related to baseball, usually formed as a pick-up game played in large cities in the Northeastern United States, especially New York City and Philadelphia. The equipment consists of a broom handle and a rubber ball, typically a spaldeen, pensy pinky, high bouncer or tennis ball.  
@@ -14919,6 +14925,7 @@ __warhead__ _n_
 __warily__ _adv_ :two::hammer:  
 __wariness__  
 __warlocks__  
+__warm fuzzies__ _n pl_ _informal_ A feeling or happiness or sentimentality. _Got warm fuzzies from the good news._  
 __warmer__ _n_ _Fragance warmer._  
 __warmonger__ _n_ A person who advocates war or warlike policies. _Syn_ militarist  
 __warmongering__ _n_  
