@@ -1173,6 +1173,7 @@ __bewitch__ _v_
 __bezel__ _n_ __4__ The frame around a display screen.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
+__bibliophile__ _n_  
 __bibliopole__ _n_ A dealer in rare books.  
 __bicker__ _v_ :six: (bickering) Argue about petty and trivial matters. _The time for bickering is over._  
 __bickering__ _n_ A quarrel about petty points. _Everyday bickering._  
@@ -2312,6 +2313,7 @@ __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surfa
 __chassis__  
 __chasten__ _v_ Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
+__chastening__ _n_ A rebuke for making a mistake.  
 __chastise__ _v_ :two: (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
@@ -2606,6 +2608,7 @@ __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bu
 __cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
 __Club Med__ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
+__clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
 __cluck__  
 __clucking__ _Clucking chickens._  
 __clue__ :dart:  
@@ -2688,6 +2691,7 @@ __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleopter
 __coleslaw__ _n_ :five::hammer:  
 __Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
+__colicky__ _adj_ Relating to or suffering from colic.  
 __collage__ _v_  
 __collapse__ _v_ :pencil2:  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
@@ -3158,8 +3162,8 @@ __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used e
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
 __Crescent City__  
-__crescent<sup>1</sup>__ _n_ :two::mute:[cres~~c~~ent]:hammer:  
-__crescent<sup>2</sup>__ _adj_  
+__crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:  
+__crescent<sup>2</sup>__ _adj_ :two::hammer:  
 __crest__ _v_ _The Fox River is expected to crest Tuesday._  
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
 __crevasse__ _n_  
@@ -4444,7 +4448,7 @@ __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions o
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
-__end game__ _n_ :two::hammer:  
+__end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end result__  
 __endangerment__  
 __endarterectomy__ _n_ :mega:  
@@ -6300,6 +6304,7 @@ __headquarters__ _n pl_ (used with a sing. or pl. verb)
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
+__headscarf__ _n_  
 __headshot__ _n_ :dart::two::hammer:  
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
@@ -7349,6 +7354,7 @@ __kabuki__ _n_ :three::hammer:
 __kaffeeklatsch__ _n_  
 __kale__ _n_ :five::hammer:  
 __kamikaze__ _n_ :mega:  
+__kangaroo word__ _n_  
 __karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
@@ -9304,7 +9310,7 @@ __outpour__ _v_ :two::hammer: (outpouring)
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ _adj_ :three::hammer:  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
-__outreach__ _n_ :five::hammer: _He’s an HIV outreach worker._  
+__outreach__ _n_ :six::hammer: _He’s an HIV outreach worker._ _Patient outreach._  
 __outriggers__  
 __outright__ _adj, adv_  
 __outset__ _n_ :six::hammer: _The outset of his campaign._  
@@ -10405,7 +10411,8 @@ __profanity__ _n_ :two::hammer: _Shouting profanities._
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __proficient__  
-__profiteer__ _n_  
+__profiteer<sup>1</sup>__ _n_  
+__profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
 __profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
@@ -10589,7 +10596,7 @@ __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.
 __purslane__ _n_ :four::hammer:  
 __purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
-__push back__ _phr v_  
+__push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
 __push<sup>2</sup>__ _n_  
 __pushback__ _n_  
@@ -13359,7 +13366,7 @@ __suntan__ _n_
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
-__supercilious__ _adj_ :two::hammer:  
+__supercilious__ _adj_ :three: Displaying arrogant pride, scorn, or indifference.  
 __superintendent__ _n_ :three::hammer:  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supernumerary__  
