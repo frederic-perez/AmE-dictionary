@@ -120,15 +120,15 @@ def print_colored(label, number):
     """Self-explanatory"""
     message = label + ' = ' + str(number)
     if number == 0:
-        print(OKGREEN + message + ENDC)
+        print('✅ ' + OKGREEN + message + ENDC)
     else:
-        print(FAIL + message + ENDC)
+        print('🐞 ' + FAIL + message + ENDC)
 
 def print_colored_if_positive(label, number):
     """Self-explanatory"""
     if number > 0:
         message = label + ' = ' + str(number)        
-        print(FAIL + message + ENDC)
+        print('🐞 ' + FAIL + message + ENDC)
 
 def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
@@ -461,7 +461,7 @@ class Checker(object):
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
-            print(OKGREEN + 'No entries-related problems were found in file \'' \
+            print('✅ ' + OKGREEN + 'No entries-related problems were found in file \'' \
                 + self.filename + '\'' + ENDC)
         else:
             print('\nSummary of issues found')
@@ -519,7 +519,7 @@ class Checker(object):
                 if i == 10:
                     break # exit loop
         else:
-            print(OKGREEN + 'No duplicated headwords were found' + ENDC)
+            print('✅ ' + OKGREEN + 'No duplicated headwords were found' + ENDC)
         print
         return bool(size == 0)
 
@@ -555,7 +555,7 @@ class Checker(object):
                 if i == 4: # 10:
                     break
         else:
-            print(OKGREEN + 'No undefined high frequency headwords were found' + ENDC)
+            print('✅ ' + OKGREEN + 'No undefined high frequency headwords were found' + ENDC)
 
         return bool(size == 0)
 
@@ -601,7 +601,7 @@ def format_to_print(entry):
 
 def check(arg, do_check_parts_of_speech):
     filename = '../data/' + arg + ".md"
-    print(OKBLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + ENDC)
+    print('🔵 ' + OKBLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + ENDC)
     checker = Checker(filename)
     checker.check_entries(do_check_parts_of_speech)
     checker.check_duplicated_headwords()
@@ -613,9 +613,9 @@ def usageAndAbort(progname, valid_arguments):
 
 def main(progname, argv):
     num_arguments = len(argv)
-    print(OKBLUE + progname + ': Number of arguments: ' + str(num_arguments) + ENDC)
+    print('🔵 ' + OKBLUE + progname + ': Number of arguments: ' + str(num_arguments) + ENDC)
     if num_arguments > 0:
-        print(OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
+        print('🔵 ' + OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
 
     VALID_ARGUMENTS = [ "abbreviations", "dictionary", "idioms", "interjections", "todo-idioms", "todo-main", "top-dictionary", "top-idioms" ]
     if num_arguments > 2:
@@ -628,7 +628,7 @@ def main(progname, argv):
 
     if num_arguments == 0:
         argv = VALID_ARGUMENTS
-        print(OKBLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + ENDC)
+        print('🔵 ' + OKBLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + ENDC)
 
     for arg in argv:
         do_check_parts_of_speech = arg != "abbreviations" and arg != 'idioms' and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
