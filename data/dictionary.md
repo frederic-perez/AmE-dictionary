@@ -2681,17 +2681,16 @@ __coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope 
 __coke-bottle glasses__  
 __colander__ _n_ :two::hammer:  
 __cold duck__  
-__cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
-__cold-calling__ _He started cold-calling people in New York._  
+__cold-calling__ _n_ Calling potential new customers in the hope of selling stocks, bonds or other financial products and receiving commissions. _He started cold-calling people in New York._  
 __coleopteran__ _n_ (coleopteron) Any of numerous insects of the order Coleoptera; a beetle.  
 __coleslaw__ _n_ :five::hammer:  
-__Colgate__ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
+__Colgate__ _n_ William Colgate (January 25, 1783 – March 25, 1857) was an English manufacturer who founded in 1806 what became the Colgate toothpaste company.  
 __colic__ _n_  
 __collage__ _v_  
 __collapse__ _v_ :pencil2:  
-__collapsible__ _Collapsible shutters._  
+__collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
@@ -2709,11 +2708,11 @@ __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogan
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
 __color__ _n_ :mega: /ˈkʌl ər/  
-__colorful__ _The colorful lawyer is up for the challenges of the task._  
+__colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
-__column__ :mute:[colum~~n~~]  
+__column__ _n_ :mute:[colum~~n~~]  
 __coma__ _n_ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
 __comb<sup>1</sup>__ _n_ (combs) _The hens had red combs, wattles, and earlobes._  
@@ -2721,12 +2720,10 @@ __comb<sup>2</sup>__ _v_ :two::mute:[com~~b~~]:hammer:
 __combat<sup>1</sup>__ _n_  
 __combat<sup>2</sup>__ _v_ (combated, combating, or combatted or combatting)  
 __combatant__ _n_ A person or group engaged in or prepared for a fight, struggle, or dispute. _Syn_ battler, belligerent, fighter, scrapper _Here the two combatants drew their swords and threw off their doublets, for neither had any defensive armor._  
-__combines__ _Basketball_  
+__combine__ _n_ __3__ An association of business corporations, political parties, sporting clubs, etc, for a common purpose.  
 __come around__  
 __come down with__ _phr v_ To start to suffer from an illness, especially one that is not serious.  
-__come into play__ _Other factors inevitably come into play._  
 __come of age__  
-__come to a stop__ _The train came to a stop at Moscow._  
 __come to grips__  
 __come to her senses__  
 __comeback__ _n_  
@@ -2737,7 +2734,6 @@ __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/
 __comforter sets__  
 __comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
-__coming down the pipe__ :dart:  
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  

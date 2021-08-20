@@ -306,13 +306,17 @@ __cloud the issue__ To obfuscate or distract from the topic at hand by introduci
 __clout list__ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
 __code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __cold feet__ :two::hammer:  
+__cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
 __collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __come across__ :three::hammer:  
 __come again?__  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
 __come close to blows__ To nearly devolve into a physical fight.  
+__come down the pike__ :dart: Appear, become prominent, as in _He was the best writer to come down the pike in a long time._ The noun pike here is short for “turnpike” or “road.” _You should take this job offer—who knows when another will come down the pike?_  
+__come into play__ To become a factor in a particular situation. _Once personal insults come into play, it’s very hard to resolve a situation calmly._  
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
 __come to terms__ :four::hammer:  
 __come together__ :two::hammer:  
