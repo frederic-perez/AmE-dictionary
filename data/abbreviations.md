@@ -30,7 +30,7 @@ __DOY__ Day of year.
 __e.g.__ Exempli Gratia.  
 __econ__ _The econ professor._  
 __ELIA5__ Explain Like I Am 5.  
-__EMT__ Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
+__EMT__ :two: Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
 __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, specialize in problems around your head and neck.  
 __ESP__ Extrasensory perception. _ESP powers._  
@@ -103,6 +103,7 @@ __RGA__ Republican Governors Association. _RGA chairman._
 __RICO__ _He had been indicted on RICO charges._  
 __RIF__ _Reading Is Fundamental._  
 __ROI__ Return on investment.  
+__RSV__ Respiratory syncytial virus.  
 __RV__ :two: Recreational vehicle.  
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
@@ -112,6 +113,7 @@ __SL,UT__ Abbreviation for Salt Lake City, Utah.
 __SMH__ Shaking my head.  
 __STI__ :four: Sexually transmitted infection.  
 __T-storm__ Thunderstorm.  
+__TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
 __TMI__ Too much information.  
 __tn__ Trillion. _US $2.4tn._  

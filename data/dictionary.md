@@ -4241,7 +4241,7 @@ __dysfunction__ _n_ :pencil2: (dysfunctional)
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
-__dyspnea__ _n_ Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called air hunger.  
+__dyspnea__ _n_ :two: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called _air hunger_.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__ _adj_  
 __dystrophy__ _n_ :pencil2:  
@@ -5815,7 +5815,8 @@ __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so 
 __goody-goody__ _adj, n_ _Goody-goody expressions._  
 __Goodyear, Charles__  
 __gooey__ _adj_ :five: __1__ Sticky, soft, and often sweet. _Gooey butter cake._ __2__ Oversweet and sentimental.  
-__goof__ _v_ _Goofing around._  
+__goof<sup>1</sup>__ _n_ _slang_ A stupid, clumsy mistake.  
+__goof<sup>2</sup>__ _v_ _Goofing around._  
 __googol__ _n_  
 __googolplex__ _n_  
 __gooks__ _n_  
@@ -7154,7 +7155,7 @@ __IUD__
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :four::hammer: :es: hiedra  
 __J-strokes__  
-__jab<sup>1</sup>__ _n_ :five: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection. _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
+__jab<sup>1</sup>__ _n_ :six: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection. _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
@@ -8127,7 +8128,7 @@ __Mandy__ _n_ Diminutive form of Amanda.
 __mane__ _n_ :five::hammer: _A lion’s mane._  
 __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
 __maneuver<sup>2</sup>__ _v_ :two::hammer:  
-__manger__ _n_ :two: A trough or an open box in which feed for livestock is placed.  
+__manger__ _n_ :three: A container (usually in a barn or stable) from which cattle or horses feed. A trough or an open box in which feed for livestock is placed. _Syn_ trough, feeder, crib _All the feed went into one manger._  
 __mangle__ _v_ :two: __1__ To mutilate or disfigure by battering, hacking, cutting, or tearing: _fishing nets that mangle fish._ _Syn_ maim __2__ To ruin or spoil through ineptitude or ignorance: _mangle a speech._  
 __mangy__ _adj_ :three::hammer:  
 __manhandle__ _v_ :three::hammer: (manhandled) _Manhandling the striker around the waist._  
@@ -8254,6 +8255,7 @@ __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you 
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
+__McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
 __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
@@ -9465,12 +9467,14 @@ __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A
 __panorama__ _n_  
 __pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
+__pantophagous__ _adj_  
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantry__ _n_ :three::hammer:  
 __pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
 __paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
+__paper route__ _n_ __1__ The job of delivering newspapers regularly. __2__ The route taken when delivering newspapers every day. _Syn_ paper round  
 __paper tablecloth__ _n_ :two::hammer:  
 __paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
@@ -10708,6 +10712,7 @@ __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted a
 __quote__ _v_ _In XML, the attribute values must always be quoted._  
 __quotidian__ _adj_  
 __Quran__  
+__R-rated__ _adj_ (of a motion picture) suitable for those under 17 years of age only when accompanied by an adult.  
 __rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
@@ -13606,7 +13611,7 @@ __target ball__
 __target__ _v_ _Liftoff is targeted for 7:50 a.m. EDT, Thursday, July 30._  
 __tariff__ _n_ :six::hammer: (tariffs)  
 __tarmac__ _n_ :four: __1__ Material used for surfacing roads or other outdoor areas, consisting of broken stone mixed with tar. __2__ A runway or other area surfaced with tarmac or a similar material. _A rule allowing passengers on such flights to disembark after a four-hour tarmac delay._ :es: pista; alquitranado  
-__tarnation__ _n_  
+__tarnation__ _n_ :two: A euphemism for damnation.  
 __tarnish__ _v_ :eight::camera: (tarnished) Lose or cause to lose lustre, especially as a result of exposure to air or moisture. _Silver tarnishes too easily._ _Syn_ become discoloured, discolour, stain, rust, oxidize :es: deslustrar  
 __tarp__ _n_ :six::hammer:  
 __tarpaulin__ _n_ :two: Material, such as waterproofed canvas, used to cover and protect things from moisture. _Syn_ tarp :es: lona  
