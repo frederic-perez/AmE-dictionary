@@ -300,7 +300,6 @@ __ckeck out__
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __close, but no cigar__ Close, but not enough to win or succeed.  
-__cloud nine__ :two::hammer:  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __clout list__ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
@@ -1238,6 +1237,7 @@ __on a lark__ On a whim or fancy; for fun or as a joke. _On a lark, I skipped sc
 __on a roll__ :two::hammer: _I’m on a roll._  
 __on a tear__ :two: __1__ _slang_ A spree, binge, or indulgence of intense or prolonged alcohol consumption. _A: I didn’t expect Pete to be drunk already! B: Oh, he’s been on a tear all day._ __2__ _slang_ A sudden showing or burst of intense energy or activity. _The team looked a little sluggish in the first half, but they have been on an absolute tear in the second._ _The stock has been on a tear._ _The U.K. labor market is on a tear._  
 __on all fours__ _adj_ :dart: (down on all fours) In conformity with; corresponding exactly with.  
+__on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mary got her promotion at work, she’s been on cloud nine. I don’t think I’ve ever seen her happier!_  
 __on edge__ :three: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on every level__ _That was a bad idea on every level._  
 __on fire__ Something is going really well or someone is doing a fantastic job.  

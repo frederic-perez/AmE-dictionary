@@ -16,6 +16,7 @@ __BO__ :two: Body odor.
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
 __CE__ __1__ Common Era. __2__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
+__CO__ Carbon monoxide, “the silent killer.”  
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
 __CPR__ :two: Cardiopulmonary resuscitation.  

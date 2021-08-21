@@ -2561,11 +2561,10 @@ __clergy__
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
-__click__ _v_ :two: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
+__click__ _v_ :three: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
 __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
-__clicking__ _Things seem to be making sense and clicking._  
 __clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
@@ -2591,14 +2590,13 @@ __close > not even close__
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
-__closely__ _Obama’s words are being watched closely by world leaders._  
+__closely__ _adv_ _Obama’s words are being watched closely by world leaders._  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
 __clothesline__ _n_ :two::hammer:  
 __clothespin__ _n_ :two::camera::hammer:  
 __cloture__  
-__cloud > to be on cloud 9__ _She and her husband are on cloud 9 about their daughter._  
 __cloud seeding__ _n_ :two::hammer:  
 __cloud__ _v_ :two::hammer: _Distance clouds perspective._ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
@@ -2606,12 +2604,11 @@ __clout<sup>1</sup>__ _n informal_ :nine::m: Influence; _esp_ effective politica
 __clout<sup>2</sup>__ _v_  
 __clove__ _n_ :astonished::dart::camera::two: (cloves) __1__ The dried flower bud of a tropical tree, _Syzygium aromaticum_, of the myrtle family, used whole or ground as a spice. :es: clavo __2__ One of the small sections of a separable bulb, as that of garlic. _4 cloves of garlic, peeled and coarsely chopped._  
 __cloying__ _adj_ :four::hammer: _She is cordial without being cloying._  
-__Club Med__ _Club Med countries._  
+__Club Med__ _n_ _Club Med countries._  
 __club soda__ _n_ :two: A US name for soda water.  
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
-__cluck__  
-__clucking__ _Clucking chickens._  
-__clue__ :dart:  
+__cluck__ _v_ :two::hammer: _Clucking chickens._ :es: cacarear  
+__clue__ _n, v_ :dart:  
 __clump__ _n_ :two::hammer: _The clump of footsteps._  
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He’s got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
@@ -2621,13 +2618,11 @@ __clutch player__
 __clutch<sup>1</sup>__ _n_ :four::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
 __clyster__ _n_ :two::hammer: (clysters)  
-__CO__ Carbon monoxide, “the silent killer.”  
 __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, agricultural, banking or worker cooperatives. _The co-op received loans of $73 million._ _Co-op spokeswoman._  
 __co-opted__ _v_  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
-__coach cabin__ _A standard coach cabin._  
-__coach__ _You’re flying coach._  
+__coach__ _n_ :two: __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
 __coast__ _v_ :two::hammer:  
 __coaster brakes__  
@@ -2672,8 +2667,8 @@ __cogwheel__
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
 __cohort study__ _n_ :two: A particular form of longitudinal study that samples a cohort (a group of people who share a defining characteristic, typically those who experienced a common event in a selected period, such as birth or graduation), performing a cross-section at intervals through time.  
 __cohort__ _n_  
-__coif__ _Strange coif._  
-__coiffed__  
+__coif__ _n_ :es: cofia _Strange coif._  
+__coiffed__ _adj_  
 __coil__ _v_ :two::hammer:  
 __coin purse__  
 __coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _The first casino was coining millions._  
