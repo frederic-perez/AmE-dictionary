@@ -1,7 +1,6 @@
 'module docstring should be here'
 
 import os.path
-import random # WIP
 import re
 import sys
 
@@ -464,8 +463,8 @@ class Checker(object):
             print('✅ ' + OKGREEN + 'No entries-related problems were found in file \'' \
                 + self.filename + '\'' + ENDC)
         else:
-            print('\nSummary of issues found')
-            print('-----------------------')
+            print('\n' + HEADER + 'Summary of issues found' + ENDC)
+            print(HEADER + '-----------------------' + ENDC)
             print_colored_if_positive("Entries with displaced part of speech", \
                 self.num_displaced_part_of_speech)
             print_colored_if_positive('Entries with invalid ending', self.num_invalid_endings)
