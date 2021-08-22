@@ -34,14 +34,14 @@ class Game(object):
                         num_additions += 1
                         if num_additions > 1:
                             print(FAIL + entry \
-                                + ' <<< Too many numeric tags' + ENDC)
+                                + ' <<< Too many numeric tags' + END_C)
 
         input_file.close()
-        print(OKCYAN + '\nSummary of high frequency headwords')
+        print(OK_CYAN + '\nSummary of high frequency headwords')
         print('-----------------------------------')
         for i in range(10, 1, -1):
             print('Entries with ' + str(get_tag(i)) + ' = ' + str(len(self.list[get_index(i)])))
-        print(ENDC)
+        print(END_C)
 
     def print_nine_m(self):
         """Method aimed at learning definitions"""
@@ -71,11 +71,11 @@ class Game(object):
             headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
             clean_headword = headword.replace('__', '')
             clean_part_of_speech = part_of_speech.replace('_', '')
-            print(FAIL + 'Q' + ENDC + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' + ENDC + FAIL + ITALIC + clean_part_of_speech + ENDC)
-            # print OKCYAN + '  ' + entry + ENDC
+            print(FAIL + 'Q' + END_C + FAIL + str(question) + ': ' + BOLD + clean_headword + ' ' + END_C + FAIL + ITALIC + clean_part_of_speech + END_C)
+            # print OK_CYAN + '  ' + entry + END_C
             print(format_to_print(entry))
             question += 1
-            user_response = input(OKBLUE + 'Quit (q)? ' + ENDC)
+            user_response = input(OK_BLUE + 'Quit (q)? ' + END_C)
             do_quit = user_response == 'q'
 
 if __name__ == '__main__':

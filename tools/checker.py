@@ -5,11 +5,12 @@ import re
 import sys
 
 # From https://stackoverflow.com/questions/287871/print-in-terminal-with-colors
+# (see also https://en.wikipedia.org/wiki/ANSI_escape_code)
 #
 HEADER = '\033[95m'
-OKBLUE = '\033[94m'
-OKCYAN = '\033[96m'
-OKGREEN = '\033[92m'
+OK_BLUE = '\033[94m'
+OK_CYAN = '\033[96m'
+OK_GREEN = '\033[92m'
 WARNING = '\033[93m'
 RED = '\033[31m'
 GREEN = '\033[32m'
@@ -20,7 +21,7 @@ CYAN = '\033[36m'
 WHITE = '\033[37m'
 GRAY = '\033[90m'
 FAIL = '\033[91m'
-ENDC = '\033[0m'
+END_C = '\033[0m'
 BOLD = '\033[1m'
 ITALIC = '\33[3m'
 UNDERLINE = '\033[4m'
@@ -119,15 +120,15 @@ def print_colored(label, number):
     """Self-explanatory"""
     message = label + ' = ' + str(number)
     if number == 0:
-        print('✅ ' + OKGREEN + message + ENDC)
+        print('✅ ' + OK_GREEN + message + END_C)
     else:
-        print('🐞 ' + FAIL + message + ENDC)
+        print('🐞 ' + FAIL + message + END_C)
 
 def print_colored_if_positive(label, number):
     """Self-explanatory"""
     if number > 0:
         message = label + ' = ' + str(number)        
-        print('🐞 ' + FAIL + message + ENDC)
+        print('🐞 ' + FAIL + message + END_C)
 
 def get_headword_part_of_speech_etc(tokens, do_print=False):
     """Self-explanatory"""
@@ -159,9 +160,9 @@ def get_headword_part_of_speech_etc(tokens, do_print=False):
         part_of_speech = ''
     if do_print:
         if ' ' in headword:
-            print(OKBLUE + headword + OKCYAN + ' ' + part_of_speech + GRAY \
+            print(OK_BLUE + headword + OK_CYAN + ' ' + part_of_speech + GRAY \
                 + ' « Composite headword' \
-                + ENDC)
+                + END_C)
     return headword, part_of_speech, tokens[idx+1:]
 
 VALID_PARTS_OF_SPEECH = [ \
@@ -265,7 +266,7 @@ class Checker(object):
         else:
             headword = '(empty)'
         print(headword + FAIL + ' « Incorrect entry ending #' \
-            + str(self.num_invalid_endings) + ENDC)
+            + str(self.num_invalid_endings) + END_C)
 
     def treat_invalid_underscores_use(self, entry):
         """Self-explanatory"""
@@ -273,7 +274,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Incorrect use of underscores #' \
-            + str(self.num_invalid_use_of_underscores) + ENDC)
+            + str(self.num_invalid_use_of_underscores) + END_C)
 
     def treat_invalid_parentheses_or_brackets_use(self, entry):
         """Self-explanatory"""
@@ -281,15 +282,15 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Incorrect use of parentheses or brackets #' \
-            + str(self.num_invalid_use_of_parentheses_or_brackets) + ENDC)
+            + str(self.num_invalid_use_of_parentheses_or_brackets) + END_C)
 
     def treat_invalid_entry_tags(self, entry, tag):
         """Self-explanatory"""
         self.num_invalid_tags += 1
         tokens = entry.split()
         headword = tokens[0]
-        print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + ENDC \
-             + ' « Invalid tag #' + str(self.num_invalid_tags) + ENDC)
+        print(FAIL + headword + ' ' + BOLD + ':' + tag + ':' + END_C \
+             + ' « Invalid tag #' + str(self.num_invalid_tags) + END_C)
 
     def treat_too_many_double_spaces(self, entry):
         """Self-explanatory"""
@@ -299,7 +300,7 @@ class Checker(object):
         part_of_speech = tokens[1]
         print(headword + ' ' + part_of_speech + FAIL \
             + ' « Too many double spaces #' \
-            + str(self.num_too_many_double_spaces) + ENDC)
+            + str(self.num_too_many_double_spaces) + END_C)
 
     def treat_triple_spaces(self, entry):
         """Self-explanatory"""
@@ -307,7 +308,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Triple spaces #' \
-            + str(self.num_entries_with_triple_spaces) + ENDC)
+            + str(self.num_entries_with_triple_spaces) + END_C)
 
     def treat_wrong_type_of_space_character(self, entry):
         """Self-explanatory"""
@@ -315,7 +316,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Wrong type of space character #' \
-            + str(self.num_entries_with_wrong_type_of_space_character) + ENDC)
+            + str(self.num_entries_with_wrong_type_of_space_character) + END_C)
 
     def treat_tab_character(self, entry):
         """Self-explanatory"""
@@ -323,7 +324,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Tab character(s) #' \
-            + str(self.num_entries_with_tab_character) + ENDC)
+            + str(self.num_entries_with_tab_character) + END_C)
 
     def treat_straight_single_quote(self, entry):
         """Self-explanatory"""
@@ -331,7 +332,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Straight single quote #' \
-            + str(self.num_entries_with_straight_single_quote) + ENDC)
+            + str(self.num_entries_with_straight_single_quote) + END_C)
 
     def treat_straight_double_quote(self, entry):
         """Self-explanatory"""
@@ -339,7 +340,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Straight double quote #' \
-            + str(self.num_entries_with_straight_double_quote) + ENDC)
+            + str(self.num_entries_with_straight_double_quote) + END_C)
 
     def treat_double_dash(self, entry):
         """Self-explanatory"""
@@ -347,7 +348,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Double dash #' \
-            + str(self.num_entries_with_double_dash) + ENDC)
+            + str(self.num_entries_with_double_dash) + END_C)
 
     def treat_colon_underscore(self, entry):
         """Self-explanatory"""
@@ -355,7 +356,7 @@ class Checker(object):
         tokens = entry.split()
         headword = tokens[0]
         print(headword + FAIL + ' « Colon followed by underscore #' \
-            + str(self.num_entries_with_colon_underscore) + ENDC)
+            + str(self.num_entries_with_colon_underscore) + END_C)
 
     def treat_shit_tag(self, entry):
         """Self-explanatory"""
@@ -364,20 +365,20 @@ class Checker(object):
         headword = tokens[0]
         part_of_speech = tokens[1]
         print(headword + ' ' + part_of_speech + FAIL \
-            + ' « :shit: found; use :hammer: instead' + ENDC)
+            + ' « :shit: found; use :hammer: instead' + END_C)
 
     def treat_missing_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_missing_part_of_speech += 1
         if part_of_speech != '':
-            print(OKBLUE + BOLD + headword + ENDC + ' ' + part_of_speech + FAIL \
-            + ' « Missing part of speech found' + ENDC)
+            print(OK_BLUE + BOLD + headword + END_C + ' ' + part_of_speech + FAIL \
+            + ' « Missing part of speech found' + END_C)
 
     def treat_displaced_part_of_speech(self, headword, part_of_speech):
         """Self-explanatory"""
         self.num_displaced_part_of_speech += 1
         print(headword + ' ' + part_of_speech + FAIL \
-            + ' « Displaced part of speech found' + ENDC)
+            + ' « Displaced part of speech found' + END_C)
 
     def check_entry(self, entry, do_check_parts_of_speech):
         """Looking and tallying mistakes in a particular entry of the dictionary"""
@@ -427,7 +428,7 @@ class Checker(object):
                 headword, part_of_speech, _ = get_headword_part_of_speech_etc(tokens, do_print)
                 if part_of_speech.find('_') == -1:
                     self.num_wrong_part_of_speech += 1
-                    print(FAIL + headword + ' ' + BOLD + part_of_speech + ENDC \
+                    print(FAIL + headword + ' ' + BOLD + part_of_speech + END_C \
                         + ' « Wrong part of speech #' \
                         + str(self.num_wrong_part_of_speech))
 
@@ -460,11 +461,11 @@ class Checker(object):
             + self.num_missing_part_of_speech \
             + self.num_wrong_part_of_speech == 0)
         if succeeded:
-            print('✅ ' + OKGREEN + 'No entries-related problems were found in file \'' \
-                + self.filename + '\'' + ENDC)
+            print('✅ ' + OK_GREEN + 'No entries-related problems were found in file \'' \
+                + self.filename + '\'' + END_C)
         else:
-            print('\n' + HEADER + 'Summary of issues found' + ENDC)
-            print(HEADER + '-----------------------' + ENDC)
+            print('\n' + HEADER + 'Summary of issues found' + END_C)
+            print(HEADER + '-----------------------' + END_C)
             print_colored_if_positive("Entries with displaced part of speech", \
                 self.num_displaced_part_of_speech)
             print_colored_if_positive('Entries with invalid ending', self.num_invalid_endings)
@@ -513,12 +514,12 @@ class Checker(object):
             print('Found ' + str(size) + ' duplicated headwords, the very first being:')
             i = 0
             for headword in repeated_sorted:
-                print('  ' + FAIL + headword + ' ' + repeated[headword] + ENDC)
+                print('  ' + FAIL + headword + ' ' + repeated[headword] + END_C)
                 i += 1
                 if i == 10:
                     break # exit loop
         else:
-            print('✅ ' + OKGREEN + 'No duplicated headwords were found' + ENDC)
+            print('✅ ' + OK_GREEN + 'No duplicated headwords were found' + END_C)
         print
         return bool(size == 0)
 
@@ -549,12 +550,12 @@ class Checker(object):
                 + ' undefined high frequency headwords, the very first being:')
             i = 0
             for headword in undefined_sorted:
-                print('  ' + FAIL + headword + ' ' + OKCYAN + undefined[headword] + ENDC)
+                print('  ' + FAIL + headword + ' ' + OK_CYAN + undefined[headword] + END_C)
                 i += 1
                 if i == 4: # 10:
                     break
         else:
-            print('✅ ' + OKGREEN + 'No undefined high frequency headwords were found' + ENDC)
+            print('✅ ' + OK_GREEN + 'No undefined high frequency headwords were found' + END_C)
 
         return bool(size == 0)
 
@@ -575,59 +576,59 @@ def format_to_print(entry):
             leading_text = '\n'
             if re.search('__[a-z]__', token) != None:
                 leading_text += ' '
-            clean_rest += leading_text + CYAN + BOLD + token.replace('__', '') + ENDC + ' '
+            clean_rest += leading_text + CYAN + BOLD + token.replace('__', '') + END_C + ' '
         else:
             num_underscores = len(re.findall('_', token))
             if num_underscores == 1:
                 if token.find('_') == 0:
                     clean_rest += YELLOW + ITALIC + token.replace('_', '') + ' '
                 else:
-                    clean_rest += token.replace('_', '') + ENDC + ' '
+                    clean_rest += token.replace('_', '') + END_C + ' '
             elif num_underscores == 2:
-                clean_rest += OKGREEN + ITALIC + token.replace('_', '') + ENDC + ' '
+                clean_rest += OK_GREEN + ITALIC + token.replace('_', '') + END_C + ' '
             else:
                 clean_rest += token + ' '
 
     # Final retouches to clean_rest
     for tag in NUMBER_TO_TAG:
         number = tag_to_number(tag)
-        number_str_xt = MAGENTA + '[' + str(number) + ']' + ENDC
+        number_str_xt = MAGENTA + '[' + str(number) + ']' + END_C
         clean_rest = clean_rest.replace(tag, number_str_xt)
-    clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + ENDC)
+    clean_rest = clean_rest.replace(':m:', MAGENTA + '(+)' + END_C)
 
     return CYAN + BOLD + clean_headword + ' ' \
-        + ENDC + CYAN + ITALIC + clean_part_of_speech + ENDC + ' ' + clean_rest
+        + END_C + CYAN + ITALIC + clean_part_of_speech + END_C + ' ' + clean_rest
 
 def check(arg, do_check_parts_of_speech):
     filename = '../data/' + arg + ".md"
-    print('🔵 ' + OKBLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + ENDC)
+    print('🔵 ' + OK_BLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + END_C)
     checker = Checker(filename)
     checker.check_entries(do_check_parts_of_speech)
     checker.check_duplicated_headwords()
     checker.check_undef_high_freq_keywords()
 
 def usageAndAbort(progname, valid_arguments):
-    print(BLUE + "Usage: " + progname + " <arguments> # with <arguments> being one or more of " + str(valid_arguments) + ENDC)
+    print(BLUE + "Usage: " + progname + " <arguments> # with <arguments> being one or more of " + str(valid_arguments) + END_C)
     sys.exit(1)
 
 def main(progname, argv):
     num_arguments = len(argv)
-    print('🔵 ' + OKBLUE + progname + ': Number of arguments: ' + str(num_arguments) + ENDC)
+    print('🔵 ' + OK_BLUE + progname + ': Number of arguments: ' + str(num_arguments) + END_C)
     if num_arguments > 0:
-        print('🔵 ' + OKBLUE + progname + ': Argument list: ' + str(argv) + ENDC)
+        print('🔵 ' + OK_BLUE + progname + ': Argument list: ' + str(argv) + END_C)
 
     VALID_ARGUMENTS = [ "abbreviations", "dictionary", "idioms", "interjections", "todo-idioms", "todo-main", "top-dictionary", "top-idioms" ]
     if num_arguments > 2:
-        print(RED + "Too many arguments. Aborting..." + ENDC)
+        print(RED + "Too many arguments. Aborting..." + END_C)
         usageAndAbort(progname, VALID_ARGUMENTS)
     for arg in argv:
         if arg not in VALID_ARGUMENTS:
-            print(RED + progname + ": Argument `" + arg + "` is not valid." + ENDC)
+            print(RED + progname + ": Argument `" + arg + "` is not valid." + END_C)
             usageAndAbort(progname, VALID_ARGUMENTS)
 
     if num_arguments == 0:
         argv = VALID_ARGUMENTS
-        print('🔵 ' + OKBLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + ENDC)
+        print('🔵 ' + OK_BLUE + progname + ': Argument list after adding default arguments: ' + str(argv) + END_C)
 
     for arg in argv:
         do_check_parts_of_speech = arg != "abbreviations" and arg != 'idioms' and arg != 'interjections' and arg != 'todo-idioms' and arg != 'top-idioms'
