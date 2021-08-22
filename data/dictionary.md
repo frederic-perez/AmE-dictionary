@@ -2432,7 +2432,7 @@ __chow down__ _v_ _informal_ To eat heartily.
 __christening__ _n_  
 __Christian__ :mute:[C~~h~~ristian]  
 __Christmas fly__  
-__Christmas__ :mute:[C~~h~~istmas]  
+__Christmas__ _n_ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chuck out__ _v_  
@@ -2469,29 +2469,29 @@ __cinder__
 __cinder-block town__  
 __Cinderella__ _n_ One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
 __cine__ _n_ :mega:  
-__cinephile__ :mega:  
-__cineplex__ _Sequels ruled the cineplex this weekend._  
+__cinephile__ _n_ :mega:  
+__cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
-__circuit__ :mute:[circ~~u~~it]  
-__circumambulate__ :pencil2:  
+__circuit__ _n_ :mute:[circ~~u~~it]  
+__circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumlocution__ _n_  
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumsphere__  
 __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
-__Cisternian__ :pencil2: _Cisternian monks._  
+__Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
 __City__ _n_ :two: Short for City of London.  
-__civil__ _Some airlines still offer a civil amount of space, even in economy class._  
+__civil__ _adj_ _Some airlines still offer a civil amount of space, even in economy class._  
 __clacks__ _n_  
-__clad__ _A scantily clad spider._  
+__clad__ _v_ _A scantily clad spider._  
 __claddagh__ _n_  
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
-__claim__ _The White Sox claimed the 2005 title._  
+__claim__ _v_ _The White Sox claimed the 2005 title._  
 __claimant__ _n_ :two::hammer: :es: demandante  
 __clairvoyance__ _n_  
 __clairvoyant__  
@@ -2508,7 +2508,7 @@ __clamped__ _v_
 __clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
 __clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
 __clang<sup>2</sup>__ _v_  
-__clanging__ :astonished:  
+__clanging__ _adj_ :astonished:  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
