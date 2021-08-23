@@ -1348,6 +1348,7 @@ __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog 
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :three::dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blotch__ _n_ __1__ A large, irregular spot or blot; stain. __2__ A discolored spot on the skin; blemish. _Black blotches on the skin from internal bleeding._  
 __blotched__ _v_  
 __blotches__ _n_  
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
@@ -1422,7 +1423,7 @@ __bogeyman__ _n_ Variant of boogeyman.
 __bogged down__ _phr v_  
 __boggles__ _v_  
 __bogs__  
-__boil__ _n_ :two::hammer: (pathology) _An ugly purple boil on the right cheek of his arse._  
+__boil__ _n_ :three: __2__ A painful, circumscribed pus-filled inflammation of the skin and subcutaneous tissue usually caused by a local staphylococcal infection. Also called _furuncle._ _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
@@ -1717,6 +1718,7 @@ __bubble wrap__ _n_ :camera:
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
 __bubbly__ _Bubbly breatlessness._  
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
+__bubo__ _n_ An inflamed, tender swelling of a lymph node, especially in the area of the armpit or groin, that is characteristic of certain infectious diseases, such as bubonic plague, tuberculosis, and syphilis.  
 __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
 __bucina__ _n_ _The bucina sounded the recall three times._  
 __buck off__ _v_  
@@ -2481,8 +2483,8 @@ __circumlocution__ _n_
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumsphere__  
-__cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
+__cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
 __City__ _n_ :two: Short for City of London.  
@@ -2540,9 +2542,9 @@ __cleanliness__
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
+__clear bag policy__ _n_ More and more stadiums and venues are implementing a clear bag policy. This means that in order to attend the events you must have a clear bag instead of a regular bag. _Ohio State will have a clear bag policy Saturday._  
 __clear out__ _phr v_ _informal_ To leave a place, usually quickly.  
 __clear__ _v_ :four: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
-__clear bag policy__ _n_ More and more stadiums and venues are implementing a clear bag policy. This means that in order to attend the events you must have a clear bag instead of a regular bag. _Ohio State will have a clear bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam’s guilt isn’t so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
 __clearinghouse__ _n_ :two::hammer:  
@@ -3045,7 +3047,7 @@ __counsel__ _n_ :two::hammer:
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
 __count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
-__countenance<sup>1</sup>__ _n_ :four::hammer: _His countenance was pale and sunken._  
+__countenance<sup>1</sup>__ _n_ :six::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
@@ -3622,7 +3624,7 @@ __designer__ _n_ :es: _maquetador_
 __desist__ _v_ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
 __desolate__ _adj_ :two: __1__ Empty of people.  
-__despair__ _n_  
+__despair__ _n_ :two::hammer:  
 __despicable__  
 __despoil__ _v_  
 __despoiling__  
@@ -5318,7 +5320,7 @@ __fortnight__
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
-__foul__ _adj_ _Foul language._  
+__foul__ _adj_ :two::hammer: _Foul language._ __1a__ Offensive to the senses; revolting. __b__ Having a bad odor or taste: _foul breath; food that tasted foul._ _Everything that issued from the body smelled foul._ __c__ Rotten or putrid: _foul meat._  
 __foul-smelling__ _adj_ Having a very unpleasant smell.  
 __foul-ups__  
 __founder__ _v_ :six::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
@@ -6136,7 +6138,7 @@ __hall boy__ _n_
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
-__halter__ _n_ :five::hammer: _The black woman wore a halter and a pair of shorts._  
+__halter__ _n_ :six: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
@@ -7235,7 +7237,7 @@ __jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
-__jilt__ _v_ :two: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
+__jilt__ _v_ :three: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -9772,7 +9774,7 @@ __pesky__
 __pessary__ _n_  
 __pester__ _v_ :two::hammer: (pestered)  
 __pestiferous__ _adj_  
-__pestilence__ _n_  
+__pestilence__ _n_ :two::hammer:  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
 __peter out__  
 __petite__  
@@ -10063,7 +10065,7 @@ __plumbing__
 __plummet__ _v_ :five::hammer: (plummeted, plummeting)  
 __plump__ _adj_ _Plump and juicy hotdogs._  
 __plums__ _n_ :three::hammer:  
-__plunder__ _v_ :five::hammer: (plundered)  
+__plunder__ _v_ :six::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
 __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
@@ -13296,7 +13298,7 @@ __subsidiary__
 __subsidy__  
 __substation__  
 __subsumed__ _v_ :two::hammer:  
-__subterfuge__ _n_ :three: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
+__subterfuge__ _n_ :four: Subterfuge contains the Latin prefix _subter-_, meaning “secretly,” which derives from the adverb _subter_, meaning “underneath.” The _-fuge_ portion comes from the Latin verb _fugere_, which means “to flee.” __1__ Deception by artifice or stratagem in order to conceal, escape, or evade. __2__ A deceptive device or stratagem.  
 __subtle__ _adj_ :mega::four::mute:[su~~b~~tle]:hammer: :es: sutil  
 __subtleties__ _n_  
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
@@ -14429,6 +14431,7 @@ __undercard__ _n_ :two::hammer: _Undercard debates._
 __undercurrent__  
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__underfoot__ _adv_ _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
