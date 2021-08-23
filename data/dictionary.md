@@ -2422,15 +2422,15 @@ __chomping__ _n_ :two::hammer:
 __chop__ _v_  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
-__chord__ :mute:[c~~h~~ord]  
-__choreography__ :mute:[c~~h~~oreography]  
+__chord__ _n, v_ :mute:[c~~h~~ord]  
+__choreography__ _n_ :mute:[c~~h~~oreography]  
 __chortle__ _v_ :five::hammer: (chortled, chortles)  
-__chorus__ :mute:[c~~h~~orus]  
+__chorus__ _n, v_ :mute:[c~~h~~orus]  
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
 __christening__ _n_  
-__Christian__ :mute:[C~~h~~ristian]  
+__Christian__ _adj, n_ :mute:[C~~h~~ristian]  
 __Christmas fly__  
 __Christmas__ _n_ :mute:[C~~h~~istmas]  
 __chrome__ _n_  
@@ -2512,8 +2512,7 @@ __clanging__ _adj_ :astonished:
 __clank__ _v_ :three::hammer: (clanked, clanking)  
 __clap__ _n_ :two::hammer: _Incurable clap._  
 __clapboard__ _n_ :two::hammer:  
-__clapper__ _He tried to turn somebody into a human bell clapper._  
-__clappy__ _The clappy hold music at your doctor’s office._  
+__clapper__ _n_ _He tried to turn somebody into a human bell clapper._  
 __claptrap__ _n_  
 __claret jug__ _n_ :two: _The champion returning the claret jug used to be a mere formality._  
 __claret__  
@@ -2523,7 +2522,7 @@ __clarion<sup>2</sup>__ _adj_
 __clasp<sup>1</sup>__ _n_  
 __clasp<sup>2</sup>__ _v_ _I clasped the chain around her neck._  
 __clasped__ _v_  
-__class act__ _She was a class act through and through._  
+__class act__ _n_ _She was a class act through and through._  
 __class action__  
 __classic__ _adj_  
 __classical__ _adj_  
@@ -2537,14 +2536,13 @@ __claw<sup>2</sup>__ _v_ :two::hammer:
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
-__clean one’s plate__ Eat up all the food put on one’s plate.  
 __cleanliness__  
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
 __clear out__ _phr v_ _informal_ To leave a place, usually quickly.  
 __clear__ _v_ :four: __13a__ To secure the approval of: _The bill cleared the Senate._ __b__ To authorize or approve. _Cleared the material for publication._ _Al had to clear all meetings with Ed._ _Clearing the hurdle._  
-__clear-bag__ _Ohio State will have a clear-bag policy Saturday._  
+__clear bag policy__ _n_ More and more stadiums and venues are implementing a clear bag policy. This means that in order to attend the events you must have a clear bag instead of a regular bag. _Ohio State will have a clear bag policy Saturday._  
 __clear-cut__ _adj_ :two: Easy to understand or be certain about. _Adam’s guilt isn’t so clear-cut._ _Syn_ definite  
 __clearances__ _n_  
 __clearinghouse__ _n_ :two::hammer:  
@@ -2560,7 +2558,6 @@ __clenched__ _adj_ :two: Closed tightly together. _Clenched fists._
 __clergy__  
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
 __cliché__ _n_ :two::hammer:  
-__click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __click__ _v_ :three: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
 __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
 __clicker training__ _n_ A nickname given to an animal training method based on a bridging stimulus (the clicker) in operant conditioning.  
@@ -12638,7 +12635,7 @@ __soot__ _n_ :three::hammer:
 __soothe__ _v_ (soothing)  
 __sooty__  
 __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._  
-__sophistry__ _n_ _The argument was utter sophistry._  
+__sophistry__ _n_ __1__ A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. __2__ A false argument; sophism. _The argument was utter sophistry._  
 __sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
 __soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep). __1__ Inducing sleep. __2__ Sleepy or drowsy. __3__ Dull or monotonous.  

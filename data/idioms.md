@@ -300,6 +300,8 @@ __circle the drain__ To be in a state of severe deterioration such that one is a
 __ckeck out__  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
+__clean one’s plate__ Eat up all the food put on one’s plate.  
+__click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
