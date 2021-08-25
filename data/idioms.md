@@ -289,6 +289,8 @@ __chafe at the bit__ To be impatient and/or eager for something to happen or ove
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
+__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
+__check out__ _Acording to Jim, the layer’s name checked out._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chew the fat__ To chat or gossip.  

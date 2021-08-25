@@ -2305,7 +2305,7 @@ __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghast
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
 __Charter of Liberties__ _n_  
-__charter__ _Charter schools._  
+__charter school__ _n_ An experimental public school for kindergarten through grade 12; created and organized by teachers and parents and community leaders; operates independently of other schools.  
 __charter<sup>1</sup>__ _n_ :two::hammer:  
 __charter<sup>2</sup>__ _v_  
 __chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
@@ -2329,18 +2329,16 @@ __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boar
 __cheapskate__ _n_ _informal_ :two::dart: Someone who does not like to spend money.  
 __cheat__ _n_  
 __check in__ _v_  
-__check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
-__check out__ _Acording to Jim, the layer’s name checked out._  
 __check something out__  
 __check__ _v_ :six::hammer: _Check your ego at the door._ _With a few extra bucks to check a bag, you can avoid stress._ _Point checked._ _With a few extra bucks (to check a bag) you can avoid stress._ _If you do decide to check a bag, never pack items like medicine or valuables._  
 __checker<sup>1</sup>__ _v_ _Checkered history._  
 __checker<sup>2</sup>__ _n_ A cashier in a supermarket.  
 __checkers__ _n_ :es: damas  
-__checklist__ (single word)  
+__checklist__ _n_ :pencil2:  
 __checkmate__ _n_ _Checkmate comes from Arabic and Persian shat mat, or “the king is dead.”_  
 __checkup__ _n_ :two::hammer:  
 __cheek__ _n_ __2__ _informal_ Impudence; effrontery.  
-__cheekboned__ _High-cheekboned newbies.;-_  
+__cheekbone__ _n_  
 __cheekier__  
 __cheeky__  
 __cheerfully__  
@@ -2369,7 +2367,6 @@ __chicken run__
 __chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
 __chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
-__chicklit__ _A chicklit satire._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  
 __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
@@ -2378,7 +2375,7 @@ __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
-__chillingly__ _His prediction of mass murder of Tutsis proved chillingly accurate._  
+__chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :three::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
 __chimera__ _n_ (chimeras) :two::hammer:  
@@ -2389,7 +2386,7 @@ __chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap
 __chip apart__  
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :four::hammer: (chipped in)  
-__chip shots__ _The golfer was hitting some horrible chip shots._  
+__chip shot__ _n_ A short lofted golf stroke, used in approaching the green. _The golfer was hitting some horrible chip shots._  
 __chip__ _v_ :three::hammer: (chipped, chipping)  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
@@ -2401,7 +2398,7 @@ __chippy<sup>1</sup>__ _adj_
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiropractor__ _n_  
 __chirp away__ _v_  
-__chirping__ _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
+__chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chisel__ _n_  
 __chiseled__  
 __chit-chat__ _n_ An informal conversation about things that are not important.  
@@ -2417,7 +2414,7 @@ __choke hold__ _n_ A restraining hold; someone loops the arm around the neck of 
 __choke<sup>1</sup>__ _n_ _A team of choke artists._  
 __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_  
 __chokehold__ _n_ __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
-__choker__ _A velvet choker._  
+__choker__ _n_ _A velvet choker._  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_  
 __chomping__ _n_ :two::hammer:  
