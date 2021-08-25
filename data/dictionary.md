@@ -2290,16 +2290,16 @@ __chaperone<sup>1</sup>__ _n_ :three::hammer:
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :four::mega:  
-__chapter__ _To the east was the chapter house._  
+__chapter__ _n_ _To the east was the chapter house._  
 __char__ _v_ (charred)  
 __character actor__  
-__character__ :mute:[c~~h~~aracter]  
+__character__ _n_ :mute:[c~~h~~aracter]  
 __charade__ _n_ :three::hammer:  
 __chard__  
-__charging__ Accuse formally.  
-__chargrilled__ _Chargrilled chicken._  
+__charge__ _v_ Accuse formally.  
+__chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
 __charily__  
-__charisma__ :mute:[c~~h~~arisma]  
+__charisma__ _n_ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
@@ -2319,10 +2319,10 @@ __chastening__ _n_ A rebuke for making a mistake.
 __chastise__ _v_ :two: (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chasuble__ _n_ :two::hammer:  
 __chattel__  
-__chatter__ _A machine-gun chatter._  
+__chatter<sup>1</sup>__ _n_ _A machine-gun chatter._  
+__chatter<sup>2</sup>__ _v_  
 __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
 __chauffeured__ _v_  
-__cheap > on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __cheap out__ _v_ To take the cheapest option; try to do something as cheaply as possible.  
 __cheapen__ _v_  
 __cheapjack__ _adj_ Inferior in quality or value. _Syn_ shoddy, tawdry _The boardwalk is rife with shabby shops selling cheapjack souvenirs._  
@@ -2348,7 +2348,7 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
-__chemistry__ :mute:[c~~h~~emistry]  
+__chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
 __chenier__  
 __cherry blossoms__ _n_  
@@ -2356,7 +2356,7 @@ __cherry pick__ _v_ (cherrypick)
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chevron__ _n_  
 __chewed up__  
-__chic__ _Target has been trying to gain back the chic status._  
+__chic__ _adj_ _Target has been trying to gain back the chic status._  
 __chicanery__ _n_ :four: The use of clever plans or actions to deceive people.  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
@@ -2364,7 +2364,6 @@ __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of ski
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
 __chicken pox__  
 __chicken run__  
-__chicken sue flay__ _My moms [sic] home made chicken sue flay, super delicious and yummy._  
 __chicken wire__ _n_ :two::hammer:  
 __chickenpox__ _n_ Also called varicella. An acute contagious disease, primarily of children, that is caused by the varicella-zoster virus and characterized by skin eruptions, slight fever, and malaise. _She got a case of chickenpox._  
 __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garbanzo  

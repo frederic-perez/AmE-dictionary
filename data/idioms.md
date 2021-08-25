@@ -1257,6 +1257,7 @@ __on tenterhooks__ In a state of suspense or anxiety about something; from the i
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __on the back burner__ :two::hammer:  
 __on the cards__ Very likely to happen. _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
+__on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
 __on the defensive__ Prepared to withstand or counter aggression or attack.  
 __on the fence__ Unable to make a decision.  
 __on the flip side__ :two::hammer:  
