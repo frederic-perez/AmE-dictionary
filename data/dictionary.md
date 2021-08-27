@@ -2185,7 +2185,6 @@ __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catca
 __catch fire__ (fig.) _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
-__catch wind__ _I don’t know if you caught wond of it._  
 __catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
 __catch-all__ _n_  
@@ -2206,14 +2205,14 @@ __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rise
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :two::hammer:  
-__catwalkers__ _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
+__catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
 __caucus__ _n_ :three::hammer: _Kentucky will hold a Republican caucus on March 5._  
 __caught up__ _adj_ Having become involved involuntarily: _caught up in the excitement of the crowd; caught up in the scandal._  
-__caught__ :mute:[cau~~gh~~t]  
+__caught__ _v_ :mute:[cau~~gh~~t] Past tense and past participle of catch.  
 __cauldron__ _n_  
-__cauliflower steaks__ :camera:  
+__cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that are roasted in the oven.  
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :five::hammer:  
@@ -2234,7 +2233,7 @@ __celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_
 __celibacy__ _n_  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
-__Celt__ :mega:  
+__Celt__ _n_ (Kelt :mega: /kĕlt/)  
 __celtic<sup>1</sup>__ _n_  
 __celtic<sup>2</sup>__ _adj_ :mega::two::hammer:  
 __cement bird bath__  
@@ -2243,7 +2242,7 @@ __censer__ _n_ :two: A container for burning incense.
 __censure motion__  
 __centennial__  
 __centerpiece__  
-__centrifuges__ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :three: Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
@@ -2253,7 +2252,6 @@ __cesarean<sup>2</sup>__ _n_
 __cessation__ _n_ :three::mega::pencil2: A ceasing or stopping; discontinuance; pause: _temporary cessation of hostilities._  
 __Cessna__  
 __cesspool__ _n_ :nine::m: (cesspit) __1__ _building_ (sink, sump) A covered cistern, etc, for collecting and storing sewage or waste water. __2__ A filthy or corrupt place: _a cesspool of iniquity._ _The journalist cesspool._  
-__CFL__ _Compact fluorescent lamp._  
 __chads__ _n_  
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
@@ -2263,10 +2261,9 @@ __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pr
 __chain smoker__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
-__chalk and cheese__ _We are like chalk and cheese._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
 __chalkboard__ _n_  
-__chalky__ _Chalky skin._  
+__chalky__ _adj_ _Chalky skin._  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :astonished: A bedroom vessel for urination and defecation.  
 __chamomille__  
@@ -2282,7 +2279,7 @@ __changeover__ _n_ :two::hammer:
 __chant__ _v_  
 __chanticleer__ _n_  
 __chanting__  
-__chaos__ :mute:[c~~h~~aos]  
+__chaos__ _n_ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __chaparral__ _n_ :three: Dense vegetation consisting of stunted trees or bushes.  

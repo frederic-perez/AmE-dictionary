@@ -286,6 +286,7 @@ __catch some Zs__ To go to sleep, to take a nap.
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
 __caught with your pants down__ To be found in an embarrassing situation.  
 __chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
+__chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
@@ -1668,6 +1669,7 @@ __white on rice__ As close as can be. Often used in the phrase “like white on 
 __wild goose chase__ :two: A situation where you are looking for something that does not exist or that you are very unlikely to find, so that you waste a lot of time. _It looks like they’ve sent us on a wild goose chase._ A prolonged or chaotic search for something that is difficult to find (often because it does not exist). _I’ve been on a wild goose chase trying to find a bag of Dan’s favorite potato chips._  
 __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all afternoon on a wild-goose chase._  
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
+__wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __wishy washy__ _slang_ Indecisive or not reliable.  
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
