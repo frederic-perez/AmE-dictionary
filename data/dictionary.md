@@ -37,7 +37,7 @@ __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she dan
 __abasement__ _n_  
 __abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
-__abate__ _v_ (abating)  
+__abate__ _v_ :two::hammer: _The plague abated during the winter._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
@@ -256,7 +256,7 @@ __agonistic__ _adj_ :pencil2: Striving to overcome in argument.
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
 __agronomy__ _n_  
-__aground__ _adv_ :two: On or into the ground; in a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough.  
+__aground__ _adj, adv_ :three: __1__ With the bottom stuck on the ground beneath a body of water; stranded. In a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough. _The ghost ship ran aground._ __2__ On or onto the ground.  
 __ague__ _n_ :two::hammer: (agues)  
 __ah__  
 __aha__  
@@ -7408,6 +7408,7 @@ __kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwi
 __kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
 __kinked__ _v_  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
+__kinsfolk__ _n pl_ One’s family or relatives.  
 __kinship__ _n_ :two::hammer:  
 __kinsman__ _n_  
 __kiosk > pharmacy kiosk__  
@@ -7951,6 +7952,7 @@ __lovacore__
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
+__Low Countries__ _n_ :two::hammer:  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
@@ -9501,7 +9503,7 @@ __parcel<sup>2</sup>__ _v_ :two::hammer:
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
-__parchment__ _n_ :seven::hammer: _A parchment chart._  
+__parchment__ _n_ :eight::hammer: _A parchment chart._  
 __pard__  
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
@@ -10475,7 +10477,7 @@ __proverb__ _n_ A short, common saying or phrase that gives advice or shares a u
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
 __proviso__ _n_  
 __provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
-__prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. __2__ Extraordinary ability. _His prowess on the football field._  
+__prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. _It was no lack of prowess that defeated the French and allied knights._ __2__ Extraordinary ability. _His prowess on the football field._  
 __prowled__ _v_  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
@@ -10812,10 +10814,10 @@ __rare news conference__
 __rare__  
 __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
 __raring__  
-__rascal__  
+__rascal__ _n_ :two: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
 __rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
-__rash<sup>2</sup>__ _adj_ :two: Acting or done too quickly, without considering the effects of your actions. _I made a rash decision based on emotions._  
+__rash<sup>2</sup>__ _adj_ :dart::three: Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
 __Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
 __raspberry__ _n_ :mute:[ras~~p~~berry]  
@@ -11744,7 +11746,7 @@ __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagre
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
-__scythe<sup>1</sup>__ _n_ (scythes) :two::hammer:  
+__scythe<sup>1</sup>__ _n_ :three::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
@@ -11804,6 +11806,7 @@ __seersucker__ _n_ :five: Seersucker is a thin, puckered, all-cotton fabric, com
 __seesaw<sup>1</sup>__ _n_ :three::hammer: _Playing on a swing or seesaw._  
 __seesaw<sup>2</sup>__ _v_  
 __seethe__ _v_ :nine::m::dart: (seethes, seethed, seething) If a liquid seethes, it is boiling, but if it’s a person who’s seething, watch out! He or she is really angry! _Pujols was left seething._  
+__seething__ _adj_ __1__ Boiling or foaming as if boiling __2__ Crowded and full of restless activity. __3__ In a state of extreme agitation, esp through anger.  
 __segregate__ _v_ :two::hammer: (segregated) _Same building, but segregated schools._  
 __segue__ _v_ :five::pencil2::mega::hammer:  
 __seize__ _v_ :five::hammer: (seizing) _Seize him!_ _Seizing an opportunity._  
@@ -11838,6 +11841,7 @@ __sempiternal__ _adj_ Enduring forever; eternal.
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
+__seneschal__ _n_ An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
@@ -14038,7 +14042,7 @@ __top-dog__
 __top-flight__  
 __top-of-mind__  
 __topiary__  
-__topple__ _v_ :two::hammer: _Warriors topple Raptors for fifth straight story._  
+__topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
 __topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
