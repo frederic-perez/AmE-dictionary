@@ -2627,6 +2627,7 @@ __cobble up__ _phr v_
 __cobble__ _v_ :two::hammer: (cobbled)  
 __cobbler__ _n_  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
+__cochineal__ _n_  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockerel__  
 __cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
@@ -3661,6 +3662,7 @@ __diadem__ _n_ :two: An ornamental jeweled headdress signifying sovereignty.
 __dialectic<sup>1</sup>__ _n_ [:scroll: From Greek dia- (between) + legein (to speak)] A discussion employed in investigating the truth of a thesis.  
 __dialectic<sup>2</sup>__ _adj_ Relating to such a discussion.  
 __dialysis__ _n_ :three::hammer:  
+__diaphanous__ _adj_ Very sheer and light; almost completely transparent or translucent. _The morning sunrise glowed through the diaphanous curtains._  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
@@ -4272,7 +4274,7 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
-__ebullient__ _adj_ :four: Very happy and enthusiastic.  
+__ebullient__ _adj_ :five: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
@@ -5827,6 +5829,7 @@ __gorse__
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
+__gossamer__ _adj, n_  
 __gossipy__ _adj_  
 __gotcha__  
 __gouge__ _v_ :seven::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._  
@@ -6115,7 +6118,7 @@ __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
-__halcyon__ _adj_ :three::hammer::pencil2: _Halcyon time of romance._  
+__halcyon__ _adj_ :four::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
 __half__ _adj, adv, n_ :mute:[ha~~l~~f]  
@@ -6785,6 +6788,7 @@ __idiosyncratic__ _adj_ :two::hammer:
 __idiot box__  
 __idle__ _v_  
 __idolatry__ _n_ :two::hammer:  
+__idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
 __igloo__ _n_ :mega:  
@@ -7777,7 +7781,7 @@ __lilac__ _n_ :two::hammer:
 __lilliput<sup>1</sup>__ _adj_ Tiny.  
 __lilliput<sup>2</sup>__ _n_ A tiny person or being, such as a child.  
 __lilliputian__ _adj_ Very small. _Syn_ bantam, diminutive, flyspeck, midget, petite, tiny _How am I supposed to fit everything I will need for summer camp in this lilliputian trunk?_  
-__lilt__ _n_ _He talked with the Jamaican lilt._  
+__lilt__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a soft Southern lilt that put me at ease._  
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
@@ -10697,7 +10701,7 @@ __quitessential__ _adj_
 __quittance__ _n_ Payment of a debt or obligation. _Syn_ repayment  
 __quitter__ _n_ _Are you calling me a quitter?_  
 __quiver__ _v_ :seven::hammer: (quivering)  
-__quixotic__  
+__quixotic__ _adj_ :two: Extravagantly chivalrous or romantic; visionary, impractical, or impracticable. _Her actions may seem quixotic, but they also speak to her courage and passion._  
 __quiz__ _n_ :two: (quizzes) A quiz is a short series of questions with a quick result. A magazine quiz might tell a reader if “he’s into you,” or a pop quiz in English class will let your teacher know how far you got (or didn’t get) in last night’s reading.  
 __quondam__ _adj_ :two: Of an earlier time; former: _her quondam lover._  
 __quotation marks__ _n_ _Chroniclers’ figures which seem obviously distorted appear in my text in quotation marks._  
@@ -11654,6 +11658,7 @@ __sciatic__
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
 __scimitar__ _n_ :two::hammer:  
+__scintilla__ _n_  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
 __scion__ _n_ :three::hammer:  
@@ -11864,6 +11869,7 @@ __sequined__ _v_ :four::hammer:
 __sequiturs__  
 __seracs__ _n_  
 __sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
+__serendipity__ _n_  
 __Serenity Prayer__  
 __serfdom__ _n_  
 __serial comma__ _n_ Oxford comma.  
@@ -12135,6 +12141,7 @@ __shylock__ _n_ :three::hammer:
 __shylocking__  
 __shyly__ _adv_ _(funny spelling)_  
 __shyster__ _n informal_ :two: A person, esp a lawyer or politician, who uses discreditable or unethical methods.  
+__sibilance__ _n_ A hissing quality of sound, or the hissing sound itself. _I dozed in the hammock to the ocean’s gentle sibilance._  
 __sicced__ _v_  
 __sick leave__ _n_ :three::hammer: _The UK’s biggest reason for sick leave._  
 __sickle cell__  
@@ -14809,6 +14816,7 @@ __vituperate__ _v_
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
 __vivacious__ _adj_ Full of animation and spirit; lively: _a charming and vivacious host._  
+__vivacity__ _n_  
 __vivarium__ _n_ A place, such as an enclosure or facility, used for keeping living animals for observation or research.  
 __vivid__ _adj_  
 __vizier__ _n_ :two::hammer:  
