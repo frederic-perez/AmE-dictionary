@@ -2025,7 +2025,7 @@ __campier__ _Campier presentations._
 __campiest__ _Birdcage was probably Nichol’s campiest comedy._  
 __campiness__ _Showbiz campiness._  
 __campsite__ _n_  
-__campy__ _A campy biopic._  
+__campy__ _adj_ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
@@ -2036,7 +2036,6 @@ __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at 
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
-__canned__ To get fired, to lose your job.  
 __cannibalization__ _n_  
 __cannibalize__ _v_  
 __cannolis__  
@@ -2060,7 +2059,7 @@ __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
-__caparisoned__ _A host of richly caparisoned men._  
+__caparison__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper<sup>1</sup>__ _n_ :seven: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
 __caper<sup>2</sup>__ _v_  
@@ -2098,7 +2097,7 @@ __cardioembolic__ _adj_
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career suicide__  
 __carefree__  
-__carefully__ _It pays to consider his words carefully._  
+__carefully__ _adv_ _It pays to consider his words carefully._  
 __caresses__ _v_  
 __caretaker__ _n_ :two::hammer: _A caretaker government._  
 __cargo pants__  
@@ -2125,8 +2124,8 @@ __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting fles
 __carry a torch__  
 __carry the cross__  
 __carry-on bag__  
-__carryout__ _A Chinese carryout._  
-__carryover__ _A carryover vehicle._  
+__carryout__ _n_ _A Chinese carryout._  
+__carryover__ _n_ _A carryover vehicle._  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __carte blanche__  
@@ -2143,7 +2142,7 @@ __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags 
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __caseous__ _adj_ Resembling cheese.  
-__cash bar__ :camera: _The cost is $30 per person with a cash bar._  
+__cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
 __cash rebate__  
 __cashier__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
@@ -2160,12 +2159,11 @@ __cast<sup>1</sup>__ _v_ _Votes cast._
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
 __castigation__ _n_  
-__castle__ :mute:[cas~~t~~le]  
+__castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
-__casual__ _He put on casual clothes._  
+__casual__ _adj_ _He put on casual clothes._  
 __casualties__  
 __cat__ _n informal_  
-__cat’s horn__ _North Korean markets have everything but a cat’s horn._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
 __catacombs__ _n_ :two::hammer:  

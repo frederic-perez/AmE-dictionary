@@ -263,6 +263,7 @@ __call of nature__ The need to go to the toilet.
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
+__can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __canary in a coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cancel out__  
