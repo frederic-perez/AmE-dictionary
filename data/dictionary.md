@@ -1986,17 +1986,15 @@ __call for__
 __call forth__  
 __call of duty__  
 __call off__ _phr v_ :two: __1__ To cancel or postpone: _call off a trip; called the trip off._ __2__ To restrain or recall: _Call off your dogs._  
-__call on someone__ _He called on me._  
 __call on__ _v_  
 __call out<sup>1</sup>__ _n_ :two::hammer:  
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
 __call up__ _He called up a text from his brother, who asked how the run went._  
-__call upon someone__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
-__callback__ _That was a callback to a previous episode._  
+__callback__ _n_ _That was a callback to a previous episode._  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -2005,7 +2003,7 @@ __callous<sup>1</sup>__ _adj_ :nine::m::dart: __1__ Having calluses; toughened: 
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
-__calm__ :mute:[ca~~l~~m]  
+__calm__ _adj, n, v_ :mute:[ca~~l~~m]  
 __caltrops__ _n_  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
@@ -2016,14 +2014,14 @@ __camellia__
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
 __camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
-__campaign__ :mute:[campai~~g~~n]  
+__campaign__ _n, v_ :mute:[campai~~g~~n]  
 __camper shell__  
 __camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
 __campground__ _n_ :two: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
-__campier__ _Campier presentations._  
-__campiest__ _Birdcage was probably Nichol’s campiest comedy._  
-__campiness__ _Showbiz campiness._  
+__campier__ _adj_ _Campier presentations._  
+__campiest__ _adj_ _Birdcage was probably Nichol’s campiest comedy._  
+__campiness__ _n_ _Showbiz campiness._  
 __campsite__ _n_  
 __campy__ _adj_ _A campy biopic._  
 __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._  
@@ -2078,7 +2076,7 @@ __capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
-__capuchin monkey__ :mega:  
+__capuchin monkey__ _n_ :mega:  
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
@@ -2177,8 +2175,8 @@ __cataract__ _n_ :two::hammer: :es: cataratas
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
-__catcall__ _v_  
-__catcalling__ _Some catcalling builders shouted abuse at him._  
+__catcall<sup>1</sup>__ _n_  
+__catcall<sup>2</sup>__ _v_ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch fire__ (fig.) _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
