@@ -377,7 +377,7 @@ __ambulation__ _n_ :two::hammer:
 __ambulatory__ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
-__amenable__ _adj_ :two::hammer:  
+__amenable__ _adj_ :dart::three: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
 __Ames__ _Ames, Iowa._  
@@ -506,10 +506,11 @@ __apoplectic__
 __apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __aposematic__ _adj_  
 __apostasy__  
-__apostate__ _n_ :three::hammer: (apostates)  
+__apostate__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
+__apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
@@ -3652,6 +3653,7 @@ __devolved__ _v_
 __devote__ _v_ _We’re devoting this episode to his paintings._  
 __devout__ _adj_  
 __dewlaps__ _n_ :two::hammer:  
+__deworm__ _v tr_ To cure (an animal) of worms; worm.  
 __dexterous__ _adj_  
 __diablerie__ _n_  
 __diabolical__ _adj_  
@@ -3753,7 +3755,7 @@ __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair
 __disastrous__  
 __disavow__ _v_ :three: (disavowed) __1__ To deny responsibility for; repudiate. __2__ To refuse to acknowledge or accept; disclaim.  
 __disbar<sup>1</sup>__ _n_ _Disbar attorney._  
-__disbar<sup>2</sup>__ _v_ :two::hammer: (disbarred)  
+__disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
@@ -5912,6 +5914,8 @@ __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the wa
 __greenhouse__ _n_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
+__greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color between gray and beige. __2__ [:scroll: From French grège (raw, unfinished) influenced by gray/beige.] A fabric or yarn that has not undergone bleaching, dying, or other finishing processes.  
+__greige<sup>2</sup>__ _adj_ __1__ Of a gray-beige color. __2__ Unbleached, undyed, or unfinished.  
 __griddle__  
 __gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
@@ -10114,6 +10118,7 @@ __polish<sup>1</sup>__ _v_
 __polish<sup>2</sup>__ _n_  
 __polish<sup>3</sup>__ _adj_  
 __politburo__  
+__politico__ _n_ A politician.  
 __poll watcher__ _n_ A person assigned (as by a political party or candidate) to observe activities at a polling place to guard against illegal voting, fraudulent counting of ballots, and other violations of election laws.  
 __pollen__ _n_ :four::astonished::hammer:  
 __pollster__ _n_  
@@ -11747,7 +11752,7 @@ __scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ sca
 __scurry<sup>2</sup>__ _n_  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
-__scuttlebutt__ _n_ Stories about someone’s personal life, especially ones that contain unkind or false information.  
+__scuttlebutt__ _n_ :two: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ :three::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
@@ -12447,6 +12452,7 @@ __smart-aleck__ _adj_
 __smart-alecky__ _adj_ _informal_ Rude and disrespectful: _Smart-alecky wit._  
 __smarten__ _v_ _He was smartening himself._ _Syn_ spruce up  
 __smarter than the average bear__  
+__smarty-pants__ _n_ _informal_  
 __smash hit__  
 __smash song__ _n_ _That was a smash song._  
 __smash__ _n_ __5__ _informal_ A resounding success. _The picture was a smash from coast to coast._  
@@ -13365,7 +13371,7 @@ __suntan__ _n_
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
-__supercilious__ _adj_ :three: Displaying arrogant pride, scorn, or indifference.  
+__supercilious__ _adj_ :four: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
 __superintendent__ _n_ :three::hammer:  
 __superluminal__ _adj_ __1__ _Astronomy_ Appearing to travel faster than the speed of light. __2__ _Physics_ Of or relating to a speed or velocity exceeding the speed of light.  
 __supernumerary__  
@@ -14461,6 +14467,7 @@ __undisturbed__ _v_
 __undoing__ _n_  
 __undoubtedly__  
 __undue__  
+__undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
 __undulating__ _v_  
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
