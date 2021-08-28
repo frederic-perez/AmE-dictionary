@@ -579,7 +579,7 @@ __armageddon__
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armistice__ _n_ :two::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
-__armory__  
+__armory__ _n_ :two::hammer: _His armory of weapons._  
 __arms embargo__  
 __arms race__  
 __armscye__ _n_  
@@ -1221,6 +1221,7 @@ __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m no
 __bill<sup>2</sup>__ _v_  
 __billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
+__billhook__ _n_ An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_ :two::hammer:  
@@ -2255,6 +2256,7 @@ __chafe<sup>2</sup>__ _n_
 __chafer__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
+__chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
@@ -2312,6 +2314,7 @@ __chastened__ _adj_ :two: Subdued; humbled.
 __chastening__ _n_ A rebuke for making a mistake.  
 __chastise__ _v_ :two: (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chasuble__ _n_ :two::hammer:  
+__chatelaine__ _n_  
 __chattel__  
 __chatter<sup>1</sup>__ _n_ _A machine-gun chatter._  
 __chatter<sup>2</sup>__ _v_  
@@ -3487,7 +3490,7 @@ __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone�
 __defanging__ _n_  
 __default__ _v_ :five::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
-__defection__ _n_ :seven: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
+__defection__ _n_ :eight: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
@@ -4434,7 +4437,7 @@ __encourage__ _v_ _The Austin American-Statesman encourages feedback from reader
 __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions or rights gradually or stealthily: _encroach on a neighbor’s land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
-__encumbrance__ _n_ :three::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
+__encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end result__  
 __endangerment__  
@@ -5473,7 +5476,7 @@ __furled__ _v_ :two::hammer:
 __furlong__ _n_ :three: An eighth of a mile, 220 yards, 201.168 meters. _The colt went to the track for a 5-furlong workout._  
 __furlough<sup>1</sup>__ _n_ :four: Leave of absence, especially that granted to a member of the services or a missionary. _A civil servant home on furlough._ :es: permiso (militar, por ejemplo)  
 __furlough<sup>2</sup>__ _v_  
-__furnish__ _v_ :four::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
+__furnish__ _v_ :five::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _n_ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
@@ -9995,7 +9998,8 @@ __plaster<sup>1</sup>__ _n_ :two: (plasters) __4__ (Chiefly British) An adhesive
 __plaster<sup>2</sup>__ _v_ :three::hammer: (plastered) _Protestors have plastered the streets with graffiti._ _Blizzard plasters Denver._  
 __plastered__ _adj_ _slang_ Extremely drunk.  
 __plasticity__ _n_  
-__plate__ _n_ __9__ _Baseball_ Home plate.  
+__plate armor__ _n_ :two::hammer:  
+__plate__ _n_ :two: __1a__ A smooth flat thin piece of material. __b__ Forged, rolled, or cast metal in sheets usually thicker than ¹/₄ inch (6 millimeters). __c__ A very thin layer of metal deposited on a surface of base metal by plating. __d__ One of the broad metal pieces used in armor; also armor of such plates. _Linked plates._ __9__ _Baseball_ Home plate.  
 __plate-glass__ _n_  
 __plateau<sup>1</sup>__ _n_  
 __plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
@@ -10712,7 +10716,7 @@ __quote__ _v_ _In XML, the attribute values must always be quoted._
 __quotidian__ _adj_  
 __Quran__  
 __R-rated__ _adj_ (of a motion picture) suitable for those under 17 years of age only when accompanied by an adult.  
-__rabble__ _n_ :four::hammer: _They were once considered rabble-rousers._  
+__rabble__ _n_ :five::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccoon__ _n_ :pencil2:  
@@ -12468,7 +12472,7 @@ __smelting__ _n_ :two: The process of extracting a metal from an ore by heating.
 __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smite__ _v_ :two::hammer: _God will smite me._  
+__smite__ _v_ :three::hammer: _God will smite me._  
 __smithereens__ _n informal_ :three: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
@@ -14675,6 +14679,7 @@ __vampire squid__
 __vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
 __vandals__  
 __vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
+__vanguard__ _n_  
 __vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
 __vanilla-flavored__ _adj_ _He is cautious about every step, to the point of seeming vanilla-flavored._  
 __vanity plate__ _n_  
