@@ -1896,14 +1896,13 @@ __buttwipes__ _n_
 __butyraceous__ _adj_ Of, containing, or resembling butter.  
 __buxom__  
 __buy out__ _v_  
-__buy__ _I didn’t buy his explanations._  
+__buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer didn’t buy my lame excuse for speeding._ _I didn’t buy his explanations._  
 __buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
 __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
-__buzzer__ _Durent Durent missed a floater at the buzzer._  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
 __buzzkiller__  
 __buzzword__  
@@ -1915,7 +1914,7 @@ __by storm__
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by-and-by__ An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
 __by-the-numbers__ _The boxing sequences are by-the-numbers._  
-__bye__ _Football_ _They will come out of the bye snd battle the Bears for the NFC North crown._  
+__bye__ _n_ __2__ _Sports_ The position of one who draws no opponent for a round in a tournament and so advances to the next round. _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
 __bylaw__  
 __bylaws__  
@@ -1923,17 +1922,16 @@ __byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine art
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
-__byzantine__ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
+__byzantine__ _adj_ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
 __C-section__ _n_  
-__C-suite__ _C-suite staff._  
+__C-suite__ _n_ The executive suite in an organization. It refers to all the “C” titles of top level managers such as CEO, CFO, CTO, CIO, etc. _C-suite staff._  
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
-__C.E.__ (CE) Of the period coinciding with the Christian era; preferred by some writers who are not Christians; “in 200 CE.” _A Jewish revolt against Rome ended in defeat in 135 C.E._  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
-__cabin__ _Uncle-s Tom Cabin._  
+__cabin__ _n_ _Uncle-s Tom Cabin._  
 __cabinet<sup>1</sup>__ _n_  
 __cabinet<sup>2</sup>__ _adj_ :two::hammer: _A top cabinet job._  
 __cabinetry__  
@@ -1942,8 +1940,8 @@ __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,40
 __cabochon__ _n_ (Jewellery) A smooth domed gem, polished but unfaceted.  
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
 __caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
-__cache__ :mega: _Sporty cars haven’t lost their cache._  
-__cachet__ _n_ :two: A special quality that makes people admire someone or something, or makes people want to have something.  
+__cache__ _n, v_ :mega:  
+__cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle__ _v_ :four::hammer: (cackling)  
@@ -1961,7 +1959,7 @@ __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child m
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
-__cafeteria__ :mega: (kăf���ĭ-tîr′ē-ə)  
+__cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
@@ -2181,7 +2179,6 @@ __catcall<sup>1</sup>__ _n_
 __catcall<sup>2</sup>__ _v_ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
 __catch fire__ (fig.) _The magazine never quite caught fire._  
-__catch hell__ _I’d catch hell for it._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  

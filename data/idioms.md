@@ -135,6 +135,7 @@ __at large__
 __at length__ _At length a messenger entered the camp site and sought out King._  
 __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._  
 __at once__  
+__at the buzzer__ _Durent missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the ready__ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
@@ -283,6 +284,7 @@ __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic,
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
+__catch hell__ _I’d catch hell for it._  
 __catch one’s breath__ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
