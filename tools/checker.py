@@ -601,7 +601,7 @@ def format_to_print(entry):
 
 def check(arg, do_check_parts_of_speech):
     filename = '../data/' + arg + ".md"
-    print('🔵 ' + OK_BLUE + "Checking " + filename + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + END_C)
+    print('🔵 ' + OK_BLUE + "Checking " + UNDERLINE + filename + END_C + OK_BLUE + " with do_check_parts_of_speech = " + str(do_check_parts_of_speech) + END_C)
     checker = Checker(filename)
     checker.check_entries(do_check_parts_of_speech)
     checker.check_duplicated_headwords()
