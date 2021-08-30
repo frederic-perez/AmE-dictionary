@@ -101,7 +101,7 @@ __accomplished__
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
-__account__ _n_ :four::hammer: _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
+__account__ _n_ :five::hammer: _By many accounts, Americans are tired of the Democratic and Republican Parties._ _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
@@ -1835,7 +1835,7 @@ __burkini__
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
 __burn the candle at both ends__ To work or study day and night.  
-__burners__ (gas cooktop) :camera:  
+__burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burnoose__ _n_  
@@ -1867,7 +1867,7 @@ __bustiers__ _n_
 __bustle<sup>1</sup>__ _v_  
 __bustle<sup>2</sup>__ _n_ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
-__busy bee__ An alert and energetic person.  
+__busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
 __but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
@@ -1878,7 +1878,6 @@ __butt-fumble__
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
-__butter cups__ _organic peanut butter cups._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
 __butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
@@ -1907,13 +1906,12 @@ __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjo
 __buzzkiller__  
 __buzzword__  
 __by all means,__  
-__by and by__  
+__by and by<sup>1</sup>__ _adv_ Presently or eventually.  
+__by and by<sup>2</sup>__ _n_ _US and Canadian_ A future time or occasion.  
 __by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
-__By many accounts,__ _By many accounts, Americans are tired of the Democratic and Republican Parties._  
 __by storm__  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
-__by-and-by__ An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
-__by-the-numbers__ _The boxing sequences are by-the-numbers._  
+__by-and-by__ _n_ :astonished: An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
 __bye__ _n_ __2__ _Sports_ The position of one who draws no opponent for a round in a tournament and so advances to the next round. _They will come out of the bye snd battle the Bears for the NFC North crown._  
 __bygone__  
 __bylaw__  
@@ -1953,7 +1951,7 @@ __cacophony__ _n_ :three: Jarring, discordant sound; dissonance. _Syn_ blare, bl
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
-__Caddy__ Cadillac.  
+__Caddy__ _n_ A Cadillac car.  
 __cadence__ _n_ :two::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
@@ -1968,7 +1966,6 @@ __cahoots__
 __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
-__cake-and-punch__ _The cake-and-punch reception._  
 __cakewalk__  
 __calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
 __calamity__ _n_ :two::mega::hammer:  
@@ -1991,7 +1988,6 @@ __call out<sup>1</sup>__ _n_ :two::hammer:
 __call out<sup>2</sup>__ _v_ :nine: (call someone out) __1__ To order or request to assemble or arrive somewhere; summon: _call out the guard._ _The National Guard was called out when the governor declared a state of emergency._ __2__ Utter aloud; often with surprise, horror, or joy. _Spike Lee called out Hollywood for lacking diversity._ __3__ Challenge to a duel. _Aaron Burr called out Alexander Hamilton._ _It was real weird to have someone call you out._  
 __call the shots__  
 __call to action__  
-__call up__ _He called up a text from his brother, who asked how the run went._  
 __call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
 __callback__ _n_ _That was a callback to a previous episode._  
@@ -2178,7 +2174,6 @@ __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity 
 __catcall<sup>1</sup>__ _n_  
 __catcall<sup>2</sup>__ _v_ _Some catcalling builders shouted abuse at him._  
 __catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
-__catch fire__ (fig.) _The magazine never quite caught fire._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
@@ -9627,6 +9622,7 @@ __peak__ _v_
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
 __peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
+__peanut butter__ _n_ A paste made from ground roasted peanuts. _Organic peanut butter cups._  
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
 __pearl onions__  

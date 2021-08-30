@@ -256,6 +256,7 @@ __by all accounts__ :dart::three: From all the reports (that are available); acc
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
 __by the book__ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
+__by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :two::hammer:  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
@@ -264,6 +265,7 @@ __call of nature__ The need to go to the toilet.
 __call on (someone or something)__ _He called on me._  
 __call someone names__ :two: To call someone by an abusive or insulting name. _Billy cried when the other kids called him names. John was punished for calling his teacher names._ _I wouldn’t call you names._  
 __call someone on the carpet__ To call someone before an authority to be scolded or reprimanded.  
+__call up__ _He called up a text from his brother, who asked how the run went._  
 __call upon (someone or something)__ _It’s nice when they call upon you and you’re able to go out there and show them._  
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
@@ -284,6 +286,7 @@ __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic,
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
 __catch a snooze__ To sleep or take a nap, especially of a short duration.  
+__catch fire__ __1__ Be ignited, as in _This wood is dry enough to catch fire._ __2__ Become inflamed with enthusiasm or passion, as in _His ideas caught fire all over the country._ _The magazine never quite caught fire._  
 __catch hell__ _I’d catch hell for it._  
 __catch one’s breath__ To pause or rest before continuing an activity or beginning a new one; resume regular breathing: Let me catch my breath before I begin anything new.  
 __catch onto (something)__  
