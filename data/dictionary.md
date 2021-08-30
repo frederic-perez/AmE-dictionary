@@ -1272,6 +1272,8 @@ __blackbirder__
 __blacked out__ _v_  
 __blackening__  
 __blackface__  
+__blackguard<sup>1</sup>__ _n_ __1a__ A rude or unscrupulous person __b__ A person who uses foul or abusive language.  
+__blackguard<sup>2</sup>__ _v tr_ To talk about or address in abusive terms.  
 __blackhead__ _n_ :five::hammer: (blackheads)  
 __blackjack<sup>1</sup>__ _n_  
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
@@ -1672,7 +1674,7 @@ __broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stoc
 __broadsided__  
 __brocade__  
 __broccoli__ _n_  
-__brogue__ _n_ :two::hammer:  
+__brogue__ _n_ :three: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
@@ -3454,6 +3456,7 @@ __decline__ _n_
 __declutter__ _v_  
 __decommission__ _v_ :three::hammer: (decommissioned, decommissioning) _Decommissioning process._  
 __decommits__  
+__decompensation__ _n_ __1__ _Medicine_ The inability of a bodily organ or system, especially the circulatory system, to maintain adequate physiological function in the presence of disease.  
 __decongestant__ _n_ :two::pencil2: A drug that helps you breathe more easily when you have a cold. _Decongestants are also known blood pressure-raisers._  
 __deconstruct__ _v_  
 __décor__ _n_  
@@ -3512,6 +3515,7 @@ __defund__ _v_ To stop the flow of funds to.
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
 __deign__ _v_ :two::hammer: (deigned)  
+__deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
 __deist__ _adj_  
 __dejected__  
 __deking__  
@@ -4501,7 +4505,7 @@ __envision__ _v_ :four::hammer:
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
-__ephemeral__  
+__ephemeral__ _adj_ :two: Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
 __epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
@@ -6672,7 +6676,7 @@ __hubbub__ _n_ :five::hammer:
 __hubby__ _n_ _informal_ :two: Husband.  
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
-__hubris__ _n_ :seven: Excessive pride or self-confidence; arrogance. _Intellectual hubris._  
+__hubris__ _n_ :eight: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :four: A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
@@ -7891,7 +7895,7 @@ __loins__ _n_ :two::hammer:
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
 __loll__ _v_ :five::hammer::pencil2: (lolled, lolling) _His head was lolling against Cato’s shoulder._  
 __lollipop__ _n_ (lollypop)  
-__lollygag__ _v_ To waste time by puttering aimlessly; dawdle.  
+__lollygag__ _v intr_ :two: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
 __lone wolf__ _n_ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
 __loner__ _n_ Someone who likes being alone.  
@@ -8933,6 +8937,7 @@ __nondescript__ _adj_ :four::hammer:
 __nonesuch__ _n_ (nonsuch)  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonlinear__ _adj_  
+__nonpareil__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
 __nonpartisan__ _adj_  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus__ _v_ :two: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
@@ -9000,6 +9005,7 @@ __numbers game__ _n_
 __numbers runners__  
 __numbly__  
 __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers._  
+__numinous__ _adj_ _The tourists were overcome by the numinous atmosphere of the catacombs._  
 __nummary__ _adj_ Of or relating to coins.  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
@@ -9818,7 +9824,7 @@ __phytoplankton__ _n_ :two::pencil2::hammer:
 __pianissimo__ _adv_ _music_ :two: Very quietly: used in instructions saying how a piece of music should be played or sung.  
 __piano wire__  
 __pic__ _n_ _slang_ __1__ A photograph. __2__ A movie.  
-__picayune<sup>1</sup>__ _adj_  
+__picayune<sup>1</sup>__ _adj_ :two: Of little value or importance; paltry. _Syn_ fiddling, footling, niggling, piddling, piffling, trivial, petty, lilliputian, little _Giving a police officer a free meal may be against the law, but it seems to be a picayune infraction._  
 __picayune<sup>2</sup>__ _n_ :two::hammer:  
 __pick a fight__  
 __pick and roll__  
@@ -10409,7 +10415,7 @@ __proficient__
 __profiteer<sup>1</sup>__ _n_  
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
-__profligacy__ _n_ The trait of spending extravagantly. _Syn_ prodigality, extravagance  
+__profligacy__ _n_ :two: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
 __profligate<sup>1</sup>__ _adj_ :three::hammer:  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
