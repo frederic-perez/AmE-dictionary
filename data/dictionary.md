@@ -365,7 +365,9 @@ __aluminum__ _n_ :four::pencil2::hammer:
 __alumni__ _n pl_ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
+__ambisinister__ _adj_ Clumsy or unskillful with both hands.  
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
 __ambivalence__  
@@ -1899,7 +1901,7 @@ __butyraceous__ _adj_ Of, containing, or resembling butter.
 __buxom__  
 __buy out__ _v_  
 __buy__ _v_ __5__ _informal_ To accept the truth or feasibility of: _The officer didn’t buy my lame excuse for speeding._ _I didn’t buy his explanations._  
-__buy-in__ _n_ :two::hammer: _He has tried different tactics to accelerate the buy-in._  
+__buy-in__ _n_ :three: Acceptance of and willingness to actively support and participate in something (such as a proposed new plan or policy). _Without buy-in from his troops, Gruden’s just another tuned-out coach._ _He has tried different tactics to accelerate the buy-in._  
 __buybacks__  
 __buyout__ _n_ :eight: (buyouts) The purchase of a controlling share in a company, especially by its own managers (also _management buyout_). _Offering buyouts in an effort to cut 750 civilian workers from its payroll._ _He worked until he took one of the early buyouts._  
 __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._  
@@ -3354,7 +3356,7 @@ __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]
 __damnation__  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
-__damning__ _adj_ :three::astonished::hammer: _A damning independent inquiry._ _A damning veredict._  
+__damning__ _adj_ :four::astonished: Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
@@ -5479,7 +5481,7 @@ __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furn
 __furor__ _n_ _Social media furor._  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
-__further__  
+__further__ _v_ :two::hammer:  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
@@ -6686,6 +6688,7 @@ __huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from col
 __Huey__  
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
+__huffy__ _adj_  
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
@@ -8574,7 +8577,7 @@ __moral__
 __morale__ _n_ :three::hammer:  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ _n_ :two::hammer:  
-__morbidity__ _n_ :two: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._  
+__morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
 __morcellator__  
 __more than meets the eye__  
 __morels__ _n_  
@@ -9267,6 +9270,7 @@ __outbox__ _n_
 __outbreak__ _n_ :five::hammer: (outbreaks)  
 __outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
+__outcaste__ _n_  
 __outcome__ _n_ :two::hammer: (outcomes) _Blood thinners improve outcomes for hospitalized COVID-19 patients._  
 __outcroppings__  
 __outcry__ _n_ :eight: __1__ An exclamation or shout. __2__ A strong expression of public disapproval or anger. _Syn_ protest(s), protestation(s), complaints, howls of protest, objections _The public outcry over the bombing._  
@@ -10495,7 +10499,7 @@ __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney,
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
 __prurient__ _adj_ :two::hammer:  
-__pruritus__ _n_ Severe itching, often of undamaged skin.  
+__pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
 __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
 __psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]  
@@ -13316,7 +13320,7 @@ __subtleties__ _n_
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
 __suburbs__  
-__succinct__ _adj_ :three::pencil2::mega::hammer:  
+__succinct__ _adj_ :four::pencil2::mega::hammer: _My advice is to get your posts succinct._  
 __succinctly__ _adv_ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
@@ -14698,6 +14702,7 @@ __variety store__
 __varmints__  
 __varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
+__vasculitis__ _n_ Inflammation of the blood vessels.  
 __vassal__ _n_ :two::hammer:  
 __vast__ _adj_ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
@@ -15348,6 +15353,7 @@ __workaday__ _adj_ :two::hammer: _The workaday world._
 __workforce__  
 __workhorse__ _n_ _informal_ A person who works tirelessly, especially at difficult or time-consuming tasks.  
 __working title__  
+__workload__ _n_ _A new weight management service will result in a significant rise in GP workload._  
 __workmanlike__  
 __workshop__ _v_ :three::astonished::hammer: (workshopped)  
 __workstation__ _n_ :two::hammer:  
