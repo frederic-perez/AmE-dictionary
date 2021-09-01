@@ -1686,7 +1686,7 @@ __broker<sup>1</sup>__ _n_
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __bromance__ _n_ :two::hammer:  
 __bromide__ _n_ __2a__ A commonplace remark or notion; a platitude. _Syn_ cliché __b__ A tiresome person; a bore.  
-__bronc__ _Bull and bronc riding._  
+__bronc__ _n_ A bronco. _Bull and bronc riding._  
 __bronchus__ _n_ Either of two main branches of the trachea, leading directly to the lungs.  
 __bronco__ _n_ :camera:  
 __broncobusting__  
@@ -1702,9 +1702,8 @@ __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in 
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
-__brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
-__Brownie__ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
+__Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
@@ -1713,7 +1712,8 @@ __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnor
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
-__brush__ _To brush fires in California._ _The goats cleared brush._  
+__brush fire__ _n_ _Brush fires in California._  
+__brush__ _n_ _The goats cleared brush._  
 __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
@@ -1723,18 +1723,18 @@ __brutish__ _adj_ :two::hammer:
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
-__bubbly__ _Bubbly breatlessness._  
+__bubbly__ _adj_ _Bubbly breatlessness._  
 __bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __bubo__ _n_ An inflamed, tender swelling of a lymph node, especially in the area of the armpit or groin, that is characteristic of certain infectious diseases, such as bubonic plague, tuberculosis, and syphilis.  
 __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
 __bucina__ _n_ _The bucina sounded the recall three times._  
 __buck off__ _v_  
-__buck private__ _He served his country as a buck private in Korea._  
+__buck private__ _n_ _He served his country as a buck private in Korea._  
 __buck up__ _v_ To summon one’s courage or spirits; hearten: _My friends tried to buck me up after I lost the contest._  
 __buck<sup>1</sup>__ _n_ Buck is an informal reference to $1 that may trace its origins to the American colonial period when deer skins (buckskins) were commonly traded for goods.  
 __buck<sup>2</sup>__ _v_ :nine::m: (bucked, bucking) __1__ To leap upward arching the back: _The horse bucked in fright._ _Most of the men have never ridden a bucking animal._ _A wagon was overturned as horses bucked and shied._ __2__ To oppose directly and stubbornly; go against: _“Los Angeles County, the most populous county in the country, is bucking the trend.”_ (American Demographics) _Twenty players have bucked the trend by staying with one high school program._ _Many officers bucked the chain of command._  
 __buckaroo__ _n_ :two: A cowboy – used especially when talking to children. The iconic figure of the cowboy has gone by many other names in American English, including buckaroo, cowhand, cowman, cowpoke, cowpuncher, vaquero, and waddy, and two of these words, buckaroo and vaquero, come from Spanish. In California, however, the Spanish word vaquero was Anglicized to buckaroo.  
-__bucket-and-spade__ :camera: _A gem of a bucket-and-spade seaside town._  
+__bucket and spade__ _n_ A child’s toy, consisting of a (usually plastic) bucket and spade, used for building simple sandcastles at the beach.  
 __buckeyes__  
 __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with determination. To start to do something seriously: _I’d better buckle down to those reports._  
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
@@ -1745,7 +1745,7 @@ __buckwheats__
 __budding__  
 __buddy__  
 __budge__ _v_ :three::hammer: (budged)  
-__budget line__ _I had already sent my editor a budget line on the story._  
+__budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
 __buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
@@ -1753,7 +1753,7 @@ __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his 
 __buffalo__ _n pl_ (also buffaloes, buffalos)  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__  
-__bug spray__ _Bug spray with DEET to ward off mosquitoes._  
+__bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
 __bugbear__ _n_ :two: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
@@ -1761,7 +1761,7 @@ __bugger__ _n_ :two::hammer: (buggers)
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
 __bugout__  
-__build a future__ :es: labrarse un futuro  
+__build a future__ _phr_ :es: labrarse un futuro  
 __build up__  
 __build__ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
