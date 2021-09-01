@@ -1683,6 +1683,7 @@ __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __bromance__ _n_ :two::hammer:  
+__bromide__ _n_ __2a__ A commonplace remark or notion; a platitude. _Syn_ cliché __b__ A tiresome person; a bore.  
 __bronc__ _Bull and bronc riding._  
 __bronchus__ _n_ Either of two main branches of the trachea, leading directly to the lungs.  
 __bronco__ _n_ :camera:  
@@ -3318,6 +3319,7 @@ __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat co
 __cuttin’ a rug__  
 __cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
 __cuttlefish__ _n_ _Cuttlefish bones._  
+__cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
@@ -3623,7 +3625,7 @@ __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, 
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
 __destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
-__desultory__ _adj_ :two: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
+__desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -5487,7 +5489,7 @@ __fuss<sup>2</sup>__ _v_ :three::hammer: (fussed, fussing)
 __fussbudget__ _n_ :two::hammer:  
 __fussy__ _adj_ __1__ Inclined to fuss over minor points. __2__ Very particular about detail. __3__ Characterized by overelaborate detail: _the furniture was too fussy to be elegant._  
 __fustian<sup>1</sup>__ _n_  
-__fustian<sup>2</sup>__ _adj_  
+__fustian<sup>2</sup>__ _adj_ :two: __1__ Cheap; worthless. __2__ Pompous; bombastic.  
 __futile__ _adj_ :three::hammer:  
 __futility__ _n_ :six::hammer:  
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
@@ -8622,7 +8624,7 @@ __mountebank__ _n_ :two::hammer:
 __mourner__ _n_  
 __mournfully__  
 __mouse potato__ _n_ [:scroll: Formed on the pattern of couch potato. Mouse refers to the electronic mouse typically used with a computer. Earliest documented use: 1993.] Someone who lives a sedentary life, spending large amounts of leisure time playing computer games, surfing the net, streaming videos, etc.  
-__mouser__ _n_ An animal, especially a cat, that catches mice.  
+__mouser__ _n_ :two: An animal, especially a cat, that catches mice.  
 __mouth__ _v_  
 __mouth-watering__  
 __mouthful__ _n_ A word or phrase that is very long or hard to pronounce.  
@@ -9234,7 +9236,7 @@ __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It 
 __orthokeratology__  
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
-__ossified__ _v_ :two::hammer:  
+__ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible.  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
@@ -9752,7 +9754,7 @@ __permafrost__ _n_ :two::hammer:
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :four: Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
+__pernicious__ _adj_ :five: Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
@@ -11512,6 +11514,7 @@ __sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is 
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
+__saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltines__ _n_  
 __salty__  
 __salutary__  
@@ -12636,7 +12639,7 @@ __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or
 __somewhat__ _adv_ :two: To some extent or degree; rather.  
 __somnambulant__ _adj_  
 __somnambulate__ _v_ :pencil2: To walk or perform another act while asleep or in a sleeplike condition. _Syn_ sleepwalk  
-__somnolent__ _adj_  
+__somnolent__ _adj_ :two: Drowsy; sleepy. _Syn_ slumbery, slumberous _The monotonous sound of his voice had a somnolent effect, and I found myself nodding off during the speech._  
 __son of a biscuit__  
 __sonny__  
 __sonogram__  
@@ -14017,6 +14020,7 @@ __tombstone__ _n_
 __tomcat__  
 __tome__ _n_ A large heavy book, usually about a serious subject.  
 __tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
+__tommyrot__ _n_ Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
 __tone-deaf__ _adj_ :two::hammer:  
 __tong__  
@@ -14094,7 +14098,7 @@ __tour de force__ _n_ :two::hammer:
 __tournament__ _n_ :four::hammer:  
 __tourney__  
 __tourniquet__ _n_ :pencil2: _He was tying a rubber tourniquet around the top of his arm._  
-__tousle__ _v_  
+__tousle__ _v_ :two: To make untidy (especially someone’s hair). _Vic stood in front of the mirror and tousled his hair, trying to get a cool, disheveled look._  
 __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled clothes._  
 __tout__ _v_ :three::hammer: (touted)  
 __tow truck__ _n_  
@@ -15412,6 +15416,7 @@ __wryly__ _adv_ :three::pencil2::hammer:
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
 __X factor__ _n_ _informal_ (X-factor) An unknown or unexplained element that makes something more interesting or valuable. _Terry could become Ryukyu’s X-factor._  
+__Xanadu__ _n_ A place of great beauty, luxury, and contentment.  
 __xenobiotic<sup>1</sup>__ _n_  
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
