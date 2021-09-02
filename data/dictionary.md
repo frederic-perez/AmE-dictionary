@@ -2549,6 +2549,7 @@ __clench__ _n_ :two::hammer:
 __clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
 __clergy__  
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
+__clever clogs__ _n_ [:scroll: The term boots has been used for a fellow or a person since the early 1600s. From there we got the term clever boots and then clever clogs.] Someone perceived to be intelligent or knowledgeable in an annoying way.  
 __cliché__ _n_ :two::hammer:  
 __click__ _v_ :three: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
 __clickbait__ _n_ :two::hammer: _Clickbait headlines._ _Clickbait journalism._  
@@ -2651,7 +2652,7 @@ __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, whi
 __cogency__  
 __cogent__ _adj_ :three: Appealing to the intellect or powers of reasoning; convincing: _a cogent argument._  
 __cognate__  
-__cognizant__  
+__cognizant__ _adj_ :two: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
@@ -3492,6 +3493,7 @@ __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, 
 __defection__ _n_ :eight: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
+__defenestration__ _n_ Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
 __defensive__ _adj_ :two::hammer: _You seem defensive now._  
 __defer__ _v_ :six: (deferred) To delay or cause to be delayed until a future time; postpone.  
 __deference__ _n_ :five::hammer:  
@@ -3918,7 +3920,7 @@ __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
 __doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
-__doff__ _v_ :three::hammer: (doffing; vs don _v_) :two::hammer: _Doff his hat._  
+__doff__ _v_ :four: (doffing; vs don _v_) __1__ To take off; remove: _doff one’s clothes._ __2__ To tip or remove (one’s hat) in salutation. _Doff his hat._ __3__ To put aside; discard.  
 __dog days__  
 __dog sledding__  
 __dog tag__  
@@ -6964,7 +6966,7 @@ __induction__ _n_ :four::hammer: _Induction hall._
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
-__ineffable__ _adj_ :two::hammer:  
+__ineffable__ _adj_ :three::hammer:  
 __ineffectual__  
 __inefficacious__ _adj_  
 __inequitable__  
@@ -7765,6 +7767,7 @@ __lift<sup>2</sup>__ _v_ _Who decides when covid-19 restrictions are lifted?_
 __liftgate__  
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __ligature__ _n_  
+__liger__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ _adj, n, v_ :mute:[li~~gh~~t]  
 __light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._ _I feel light-headed from lack of sleep._  
@@ -10851,6 +10854,7 @@ __rationales__ _n_ _It has four main rationales._
 __rationalize__ _v_  
 __rattan couch__  
 __rattan__  
+__ratter__ _n_  
 __rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
 __rattlers__  
 __rattlesnake__  
@@ -12797,8 +12801,9 @@ __splint<sup>2</sup>__ _v_
 __split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
 __splotched__ _v_  
 __splotches__ _n_  
-__splurge<sup>1</sup>__ _n_ :two: __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
-__splurge<sup>2</sup>__ _v_ :seven::hammer: (splurged, splurging)  
+__splurge<sup>1</sup>__ _n_ :three: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
+__splurge<sup>2</sup>__ _v intr_ :four: (splurged, splurging) To make an ostentatious display.  
+__splurge<sup>3</sup>__ _v tr, v intr_ :four: (splurged, splurging) To spend lavishly or wastefully.  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _n_ _A baby’s spluttering._  
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
@@ -14660,6 +14665,7 @@ __vacate__ _v_
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
+__vacillate__ _v_ To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
 __vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
 __vagaries__ _n_  

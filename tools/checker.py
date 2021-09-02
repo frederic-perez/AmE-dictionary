@@ -206,6 +206,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_v informal_', \
     '_v intr_', \
     '_v tr_', \
+    '_v tr, v intr_', \
     '_v_', \
     '_v-link phr_' \
 ]
