@@ -738,6 +738,7 @@ __have a hankering for (something)__ To have a very strong, persistent desire or
 __have a heart of gold__ To be very kind and generous.  
 __have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __have a look-see__ :dart: To have a very quick look or brief examination.  
+__have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something. _Though I was excited for my daughter to start her college experience, I still had a lump in my throat saying goodbye to her at the airport._  
 __have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand.  
 __have a point (there)__ _He’s got a point._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
@@ -1169,17 +1170,24 @@ __lose track of (someone or something)__
 __lose your train of thought__ To forget what you were talking or thinking about.  
 __loss one’s marbles__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
 __lucky break__ A very fortunate or beneficial chance or happenstance.  
-__lust for life__ Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
+__lust for life__ :two: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __made of money__ To be very rich.  
 __make (one’s) bones__  
 __make (perfect) sense__ _It makes perfect sense._  
+__make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
+__make (the) baby Jesus cry__ To be offensive, immoral, unethical, in poor taste, etc., as might cause or provoke the displeasure or disapproval of Jesus Christ. _I try not to use vulgar language, as my mother told me at a young age that it makes baby Jesus cry._  
 __make a face__ To distort the features of the face; grimace.  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  
 __make a run for it__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for it when we get to the station._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
 __make amends__ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
+__make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make an impression__  
+__make as though__ To behave as if; to pretend or make it appear that. _Samantha’s been making as though she’s writing the next great American novel, but it’s just some trashy thriller._  
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
+__make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
+__make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
+__make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
 __make strides__ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make up one’s mind__ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
@@ -1380,6 +1388,8 @@ __receive (one’s) just deserts__ To receive that which one deserves, especiall
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red pill__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
+__revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
+__revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __right on__ _The description of the bomb was right on._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
@@ -1559,6 +1569,7 @@ __the heebie-jeebies__ An extreme or acute sensation of fear, apprehension, worr
 __the hell out of__ _slang_ To a huge or great degree; very much. _Don’t sneak up on me like that, you scared the hell out of me!_ _That movie scared the hell out of me._ _The boxer beat the hell out of his opponent._  
 __the honest truth__ The sincere, unadulterated truth.  
 __the idiot box__ A television set, or television in general.  
+__the inmates are running the asylum__ The people least capable of running a group or organization are now in charge. Said especially when the result is total chaos or calamity. _With the primary schools giving their young students complete control over the curriculum, it seems as though the inmates are running the asylum._  
 __the jet set__ A group of wealthy individuals who travel globally, especially by private jet, to frequent fashionable resorts, social events, and the like.  
 __the keys to the kingdom__ A resource that will give the possessor access to the most complete or profound knowledge or power possible in a given area or pursuit. A reference to Matthew 16:19, when Jesus said to Peter: “I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.” _Whatever you do, don’t lose this external hard drive with all of our accounts and passwords. Anyone who has it will have the keys to the kingdom!_  
 __the knacker’s yard__ A state of ruin or failure due to having become useless or obsolete. Refers to a slaughterhouse for old or injured horses.  
