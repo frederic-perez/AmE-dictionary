@@ -1647,12 +1647,11 @@ __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, a
 __briers__  
 __brig__  
 __bright spark__ A clever person.  
-__bright__ :mute:[bri~~gh~~t]  
+__bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __bright-orange__ _A bright-orange construction jumpsuit._  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
-__brindle__ _A brindle cur._  
-__bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats. _Syn_ brinded, brindled, tabby _A brindle cur._  
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __briny__ _adj_  
 __brise-soleil__ _Brise-soleil shading._  
@@ -1723,8 +1722,7 @@ __brutish__ _adj_ :two::hammer:
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
-__bubbly__ _adj_ _Bubbly breatlessness._  
-__bubly__ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
+__bubbly__ _adj_ :two::hammer: _Bubbly breatlessness._ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __bubo__ _n_ An inflamed, tender swelling of a lymph node, especially in the area of the armpit or groin, that is characteristic of certain infectious diseases, such as bubonic plague, tuberculosis, and syphilis.  
 __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
 __bucina__ _n_ _The bucina sounded the recall three times._  
@@ -1763,7 +1761,7 @@ __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._
 __bugout__  
 __build a future__ _phr_ :es: labrarse un futuro  
 __build up__  
-__build__ :mute:[b~~u~~ild]  
+__build__ _n, v_ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbous__ _adj_ _A bulbous man._  
@@ -1795,15 +1793,13 @@ __bump__ _n_ _A bump free flight._
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumpers__ _n_ _The bumpers of vehicles._  
-__bumping__ _Bumping and grinding._  
 __bumpkin__  
 __bumps in the road__  
 __bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
 __bumpy__  
 __bun__ _n_  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
-__bunch<sup>2</sup>__ _v_ :camera::six::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._  
-__bunching socks__ :camera:  
+__bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
 __bungalow__ _n_ :two::pencil2::hammer:  
 __bungee cord__ _n_ :camera::three::hammer:  
 __bungee jumping__  
@@ -1812,7 +1808,7 @@ __bungee running__
 __bungle__ _v_ (bungled) :three::hammer: _Cops badly bungled their attempt to frame a guilty man._  
 __bungler__ _n_ :two: Someone who makes mistakes because of incompetence. _Upper-crust bunglers._  
 __bunglesome__ _adj_  
-__bungling__ Spoil by incompetence.  
+__bungling__ _adj_ Spoil by incompetence.  
 __bunion__ _n_  
 __bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top of the other.  
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
@@ -1839,7 +1835,6 @@ __burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or re
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
-__burn the candle at both ends__ To work or study day and night.  
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
@@ -1864,7 +1859,6 @@ __business ties__
 __businesspeople__ _n_  
 __busker__  
 __busload__  
-__bust out__ _She clearly has something busting out._  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
 __busticate__ _v_ _informal US_ To break.  

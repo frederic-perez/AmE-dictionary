@@ -236,6 +236,7 @@ __break the ice__ To make people who have not met before feel more relaxed with 
 __break your back__ To work extremely hard.  
 __break your duck__ To do something for the first time.  
 __breaking point__  
+__bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __bring a knife to a gunfigh__ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __bring about__ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
@@ -249,8 +250,11 @@ __bubble over__ Of an emotion, to be too strong for one to contain or refrain fr
 __buckle up__ :three::hammer: _Bucking up a seat belt._  
 __bug off__ _slang_  
 __bull in a china shop__ :two: A clumsy person.  
+__bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
+__burn the candle at both ends__ To work or study day and night.  
 __burn the midnight oil__ To work late into the night.  
 __burn your bridges__ To destroy all possible ways of going back to a situation.  
+__bust out__ _She clearly has something busting out._  
 __butterfingers__ A person who frequently drops things, clumsy person.  
 __buy the farm__ To die.  
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
