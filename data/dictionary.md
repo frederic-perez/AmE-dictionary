@@ -438,7 +438,7 @@ __anhedonia__ _n_ The inability to feel or experience pleasure.
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :four::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ :es: odio __2__ Purpose; intention; animating spirit.  
+__animus__ _n_ :five::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
@@ -463,7 +463,8 @@ __antagonize__ _v_
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
-__antedate__ _n_  
+__antedate<sup>1</sup>__ _n_  
+__antedate<sup>2</sup>__ _v_ _It long antedated the plague years._  
 __antediluvian__ _adj_  
 __anteroom__ _n_ :two::hammer:  
 __anthologist__ _n_ :three: An editor who makes selections for an anthology.  
@@ -507,8 +508,9 @@ __apologist__ _n_ :two::hammer:
 __apoplectic__  
 __apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __aposematic__ _adj_  
-__apostasy__  
-__apostate__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
+__apostasy__ _n_ :two::hammer:  
+__apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
+__apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ :mute:[apos~~t~~le]  
 __apostrophe__  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
@@ -1346,6 +1348,7 @@ __bloat__ _n_ A group of hippos.
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letters__ _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
+__blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood-expander__  
 __bloodshot eyes__ :camera:  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
@@ -3593,7 +3596,7 @@ __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descent__ _n_ :mute:[des~~c~~ent]  
 __descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
-__desecrate__ _v_ :three::hammer: _Desecrating the flag._  
+__desecrate__ _v_ :four::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desensitize__ _v_  
 __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._  
@@ -5028,6 +5031,7 @@ __flag-stop service__
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
+__flagellant__ _n_  
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
@@ -5269,7 +5273,7 @@ __Forest Recreation Park__
 __forestall__ _v_ :six: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
-__forfeit<sup>2</sup>__ _n_ :three: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
+__forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
 __forge__ _v_ _It is up to you to forge ahead with a new attitude._  
 __forgear__  
@@ -7622,7 +7626,7 @@ __lawmaker__ _n_ :five::hammer: (lawmakers)
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
 __lay the table__  
-__lay__ _adj_ _Lay reader._  
+__lay__ _adj_ :two: __1__ Of, relating to, or involving the laity: _a lay preacher._ __2__ Not of or belonging to a particular profession; nonprofessional: _a lay opinion as to the seriousness of the disease._  
 __layman > in layman terms__  
 __layman__ _n_  
 __layoff__  
@@ -7932,6 +7936,7 @@ __loped__ _v_
 __lopsided__ _adj_ :five: __1__ Heavier, larger, or higher on one side than on the other. __2__ Sagging or leaning to one side. __3__ Characterized by the domination of one competitor over another. _A lopsided 100-38 victory._ _Lopsided losses._  
 __loquacious__  
 __loquat__ _n_  
+__lordship__ _n_ :es: señoría  
 __lore__ _n_ :nine::m: A body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth. :es: saber popular  
 __lorgnettte__ _n_ A pair of eyeglasses or opera glasses with a short handle.  
 __Los Angelino__  
@@ -14991,8 +14996,7 @@ __waterway__
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
 __waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
 __wavering__ _adj_ Uncertain in purpose or action. _A wavering statement._  
-__wax__ _v_ _Moon waxing and waning._  
-__waxed__  
+__wax__ _v_ :three::hammer: _Moon waxing and waning._ _Religious intolerance waxed._  
 __waylay__ _v_  
 __wayposts__  
 __wayside__ _n_ :three::hammer:  
