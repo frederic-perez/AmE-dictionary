@@ -10,6 +10,7 @@ __ADD__ Attention deficit disorder.
 __ADHD__ Attention deficit hyperactivity disorder.  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BCE__ Before the Common Era.  
+__BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
 __bn__ Billion. _US $30bn._  
 __BO__ :two: Body odor.  

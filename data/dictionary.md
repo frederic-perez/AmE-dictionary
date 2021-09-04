@@ -1399,20 +1399,17 @@ __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without 
 __bluster<sup>1</sup>__ _v_  
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__BM__ Bowel movement (take a dump).  
-__board__ _n_ :two::hammer: __9__ _Basketball_ A rebound. _Encouraging Amazon’s board (member) diversity._  
-__boarding kennels__ _Mike was running a boarding kennels._  
+__board__ _n_ :three: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
+__boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
-__boards__ _Green finished with 10 points and 11 boards for the warriors._  
 __boardwalk__  
 __boast__ _v_ :eight: (boasted) __1__ To say (something about oneself) in a proud or self-admiring way. _I can boast about it for eternity._ _Abe boasted of his wine expertise._ __2__ To have or possess (a desirable feature): _a mall that boasts 80 shops._  
 __boaters__  
 __boatswain__  
-__bob__ _v_ :five::hammer: _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ _They had bobbed noses._  
-__bobbed__ _v_  
+__bob<sup>1</sup>__ _v tr_ :seven::astonished: __1__ To strike with a quick light blow. _Syn_ rap _They had bobbed noses._ __2__ To move up and down in a short quick movement. _Bob the head._ To move or cause to move up and down repeatedly, as while floating in water. _Bags bobbing in the water._ _Bald heads bobbed behind them._ _His small head was bobbing._ _He bobbed in the icy Atlantic with a life jacket for three hours before being rescued._ _The ball bobbed loose for a turnover._ __3__ To polish with a bob. _Syn_ buff  
+__bob<sup>2</sup>__ _v intr_ __1a__ To move up and down briefly or repeatedly. __b__ To emerge, arise, or appear suddenly or unexpectedly. __2__ To nod or curtsy briefly. __3__ To try to seize a suspended or floating object with the teeth.  
 __bobber__ _n_ :two::hammer:  
-__bobbing__ _Bags bobbing in the water._  
 __bobbled__ _v_ _The flowers bobbled and swayed._  
 __bobby pin__  
 __bobby socks__  
@@ -1437,7 +1434,7 @@ __boilerplate__ _n_ :four::hammer:
 __boilers__  
 __boisterous__ _adj_ :two::hammer:  
 __bold-faced__ _adj_  
-__boldface names__ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
+__boldface name__ _n_ :dart: A well-known or famous name or person. _Hundreds of mourners, including boldface names like Paul Simon and [Billy] Joel, show up at the funeral._ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
 __bolo tie__ _n_ :two: (bola tie, bolo) A necktie consisting of a piece of cord fastened with an ornamental bar or clasp.  
@@ -1462,7 +1459,7 @@ __bonanza__ _n_ :two::hammer: _Banana bonanza._
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
-__bone chip__ _The horse will have surgery to remove a bone chip in his left front ankle._  
+__bone chips__ _n pl_ Small pieces of cancellous bone generally used to fill bony defects and to promote reossification.  
 __bone spurs__  
 __bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
 __bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
@@ -1511,7 +1508,7 @@ __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team o
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :three::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
-__bootleg__ _The bootleg Lennon._  
+__bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
@@ -1522,7 +1519,7 @@ __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began t
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
 __boredom__  
 __borne__ _v_ :five::hammer:  
-__borough__ :mute:[borou~~gh~~]  
+__borough__ _n_ :mute:[borou~~gh~~]  
 __bosom__  
 __bossdom__ _n_  
 __bossy__ _adj_  
@@ -1531,11 +1528,10 @@ __botched__ _adj_ :four: Used to describe something, usually a job, that is done
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
 __botnet__  
 __bottle fly__ _n_  
-__bottle opener__ :camera:  
+__bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
 __bottled up__ _v_  
 __bottom of the barrel__ _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
-__bottom out__ _Europe is bottomed out._  
 __bottom-of-the-barrel__  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_  
@@ -6052,7 +6048,7 @@ __gunnel__ _n_ _The reel clanked once against the aluminium gunnel._
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunship__ _n_ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
-__gunwhale__ _n_ :two::hammer:  
+__gunwale__ _n_ :two::hammer:  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  

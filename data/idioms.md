@@ -224,6 +224,7 @@ __boil (something) down to (something)__ To reduce or simplify (something) to th
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
+__bottom out__ _Europe is bottomed out._  
 __boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
