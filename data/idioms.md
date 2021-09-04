@@ -199,7 +199,7 @@ __be square (with one)__ To no longer be in dispute or disagreement with one; to
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
-__bear fruit__ (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
+__bear fruit__ :two: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __beat it__ To go away immediately.  
 __beat the clock__ :two: To finish something before the time is up.  
 __beat the shit out of (someone)__ _I expect them to beat the shit out of the Eagles._  
@@ -445,6 +445,7 @@ __drop the ball__ :two: To make a mistake, to fail.
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
+__early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
@@ -522,7 +523,7 @@ __food for thought__ An event, a remark, a fact, etc. which should be considered
 __fool’s errand__ :two: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
 __foot the bill (for something)__ To pay for something; to pay for a bill. _My boss took me out for lunch and the company footed the bill._ _You paid for dinner last time. Let me foot the bill for lunch today._  
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
-__for crying out loud__  
+__for crying out loud__ :two: A expression of frustration or surprise.  
 __for good__ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
 __for keeps__ :two: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
@@ -948,6 +949,7 @@ __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; 
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
+__in the middle of nowhere__ In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
 __in the midst of (something)__  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
@@ -974,6 +976,7 @@ __intestinal fortitude__ Strong courage, conviction, or determination; gumption;
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
+__it takes a village__ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
 __it’s a dog’s life__ :dart::astonished:  
@@ -1045,6 +1048,7 @@ __knee jerk reaction__ A quick and automatic response.
 __knick-knack__ Any miscellaneous trinket or toy, especially one that is delicate or dainty.  
 __knock (one’s) head against a/the wall__ To attempt continuously and fruitlessly to accomplish some task or achieve some goal that is or seems ultimately hopeless.  
 __knock (someone) over with a feather__ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
+__knock it off__ To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
 __knock on wood__  
 __knocked up__ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
@@ -1230,12 +1234,14 @@ __narrow down__ To pare the number of people or things on a list down to a more 
 __narrow escape__ :two::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
+__new car smell__ The scent associated with the inside of a brand new vehicle, caused by the plastics and other materials inside it. _Boy, I love that new car smell, don’t you?_  
 __new kid on the block__ Someone who is new in a place or organization.  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
+__no offense__ :two: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no spring chicken__ No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
 __no strings attached__ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way, José__  
@@ -1308,7 +1314,7 @@ __one’s other half__ :two::hammer:
 __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
-__other than (something)__ :two::hammer: _Other than that, blah blah blah._  
+__other than (something)__ :three::hammer: _Other than that, blah blah blah._  
 __out (of) the (starting) gate__ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
 __out of date__  
 __out of kilter__ :two: _Out of kilter with the times._  
@@ -1589,7 +1595,7 @@ __the lion’s share__ :two: Major share of something.
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
-__the sky is the limit__ :two: Anything is possible; there is practically no limit.  
+__the sky is the limit__ :three: (the sky’s the limit) Anything is possible; there is practically no limit.  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the whole nine yards__  
 __then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
@@ -1599,6 +1605,7 @@ __thick and thin__ :four: Good and bad times. _Supporters ready to back them thr
 __thick skin__ :two::dart::hammer:  
 __think back__ :two: To think about a past event or a past time.  
 __think over__ To consider or ponder something; to reflect upon something. A noun or pronoun can be used between “think” and “over.” _Think it over, and let me know in the morning if you want the job._  
+__third wheel__ The “third wheel” refers to the person who is the outsider when there is a group of three. An analogy can be made to a two-wheeled bicycle or cart; adding a third wheel would not be helpful and would limit mobility. To be the “third wheel” is to be the extra, unnecessary person in a group of three people. _You two go on ahead without me. I don’t want to be the third wheel._  
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
 __through and through__ :four: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
@@ -1638,6 +1645,7 @@ __toss and turn__ Sleep badly.
 __toss out__ _v_ _One student tossed out expletives._  
 __touch base (with someone)__ :two: To contact someone to update them or receive an update from them. _I was just calling to touch base since it’s been a few weeks since we last spoke._ _Syn_ get in touch, connect  
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
+__tough love__ :two: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __try out__ :two::hammer:  
