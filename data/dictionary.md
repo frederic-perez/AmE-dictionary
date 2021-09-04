@@ -482,7 +482,7 @@ __antiquated__ _adj_ :three::hammer:
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
 __antler__ _n_  
-__antral__ _adj_  
+__antral__ _adj_ :two::hammer:  
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
@@ -780,7 +780,7 @@ __baby formula__ _Baby formula should be “ready-to-feed” or prepared using o
 __baby shower__ _n_ :two::hammer:  
 __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
 __Babylonian exile__ _n_ Babylonian captivity.  
-__babysit__ _v_  
+__babysit__ _v_ :two::hammer:  
 __bacchanalian__ _adj_ Used of riotously drunken merrymaking. _A night of bacchanalian revelry._  
 __bachelor party__  
 __back away__  
@@ -2741,6 +2741,7 @@ __Commonwealth__ _n_
 __commotion__ _n_  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
+__comorbidity__ _n_ (Pathology) The occurrence of more than one illness or condition at the same time.  
 __comp__ _n_ (comps) __4__ A competition.  
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
@@ -7024,6 +7025,7 @@ __innumerate__
 __inobvious__  
 __inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
 __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
+__inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquisitive__ _adj_  
@@ -9171,6 +9173,7 @@ __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only o
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
+__onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :seven::hammer: _Early onset dementia._  
@@ -9702,7 +9705,7 @@ __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. 
 __pep<sup>2</sup>__ _v_ (pepping)  
 __Pepe the Frog__ _n_ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
-__pepper__ _v_ :seven::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
+__pepper__ _v_ :eight::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
@@ -11683,7 +11686,8 @@ __scope out__ _v_
 __scorching__  
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
-__scorn__ _n_ :two::hammer:  
+__scorn<sup>1</sup>__ _n_ :two::hammer:  
+__scorn<sup>2</sup>__ _v_ (scorned)  
 __scotch__ _n_ :astonished: __2__ (Games, other than specified) A line marked down, as for hopscotch.  
 __Scots__ _n_  
 __scoundrel__ _n_ :two::hammer:  
@@ -13743,6 +13747,7 @@ __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullov
 __terse__ _adj_ :two: Brief and to the point; effectively concise.  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
+__testosterone__ _n_  
 __testy__  
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
 __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
@@ -14190,7 +14195,7 @@ __trestle__ _n_ :four: /ˈtrɛs(ə)l/ Short for trestle table; an open braced fr
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
-__triage<sup>2</sup>__ _v_ :two::hammer:  
+__triage<sup>2</sup>__ _v_ :three::hammer:  
 __trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
 __tribal__  
 __tribble__ _n_  
@@ -14446,7 +14451,7 @@ __underfoot__ _adv_ _They were reluctant to recognize crisis until it was underf
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
-__undermine__ _v_ :nine::hammer: (undermined)  
+__undermine__ _v_ :nine::m::hammer: (undermined)  
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  

@@ -34,7 +34,7 @@ __hosanna__ _n_
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeez__ Used to express surprise or annoyance.  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
-__meh__ Used to express indifference, apathy, or boredom.  
+__meh__ :two: Used to express indifference, apathy, or boredom.  
 __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
 __namaste__  
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
