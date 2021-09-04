@@ -1472,11 +1472,10 @@ __bonked__ _v_ _The stadium lights bonked out._
 __bonkers__ _adj_ _informal_ :five: Crazy. _That’s bonkers!_  
 __bonnie blue flag__  
 __bonobo__  
-__bonus__ :mega: /bō′nəs/  
+__bonus__ _n_ :mega: /bō′nəs/  
 __boo<sup>1</sup>__ _v_ :two::hammer: (booed) :es: abuchear  
 __boo<sup>3</sup>__ _n_ _informal_ __1a__ A boyfriend or girlfriend. __b__ A spouse. __2__ Used as a term of endearment for such a person.  
 __booby trap__ _n_  
-__booby__ _Information is the booby prize._  
 __booby-trapped 105’s__  
 __boogeyman__  
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
@@ -1567,7 +1566,6 @@ __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and 
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
-__BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
@@ -1591,11 +1589,11 @@ __branding iron__ _n_ :camera:
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
 __brassiere__ _n_  
-__brassy__ _She is brassy, funny, and smart._  
+__brassy__ _adj_ _She is brassy, funny, and smart._  
 __bratty__  
 __bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _But I went into it with a certain bravado._  
 __bravura__  
-__brawn__ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
+__brawn__ _n_ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ _adv_ :two::hammer:  
@@ -1619,15 +1617,14 @@ __breakaway<sup>1</sup>__ _n_ :two::hammer:
 __breakaway<sup>2</sup>__ _adj_  
 __breakdown__ _n_ :three::hammer: _Population breakdown._ _The Postal Service does not release detailed country-by-country shipping breakdowns._  
 __breaking character__  
-__breakneck tempo__ _Forcing defenses to react on the fly to a breakneck tempo._  
-__breakneck__ _They are on a breakneck pace._  
+__breakneck__ _adj_ :two: __1__ Dangerously fast: _a breakneck pace._ _Forcing defenses to react on the fly to a breakneck tempo._ __2__ Likely to cause an accident: _a breakneck curve._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
 __breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_  
 __breakup__ _n_ :three: The termination or disintegration of a relationship (between persons or nations). _Sharing breakup stories._  
 __breakwater__ _n_  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
-__breaststroke__ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
+__breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ _n_ :three::hammer:  
 __breathing room__  
 __breech__ _n_ :five::hammer: (breeches)  
@@ -1646,7 +1643,6 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__  
-__bright spark__ A clever person.  
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __bright-orange__ _A bright-orange construction jumpsuit._  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
@@ -1669,7 +1665,6 @@ __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) 
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ (broached) :six::hammer: _To broach a conversation._ _He broached the subject._  
-__broad daylight__ _A sniper who prays on victims in broad daylight._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  

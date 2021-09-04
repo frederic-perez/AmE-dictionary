@@ -13,6 +13,7 @@ __BCE__ Before the Common Era.
 __BMX__ :two::hammer: _BMX bike._  
 __bn__ Billion. _US $30bn._  
 __BO__ :two: Body odor.  
+__BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
 __CE__ :two: __1__ Common Era. Of the period coinciding with the Christian era; preferred by some writers who are not Christians; “in 200 CE.” _A Jewish revolt against Rome ended in defeat in 135 C.E._ __2__ Christian era. __3__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
