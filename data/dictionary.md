@@ -1350,7 +1350,6 @@ __block letters__ _She wrote something in block letters._
 __blood count__ _n_ :es: hemograma  
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood-expander__  
-__bloodshot eyes__ :camera:  
 __bloody<sup>1</sup>__ _adj_ _Br slang_ Used as an intensive: _Everyone wants to have a convict in his bloody family tree._  
 __bloody<sup>2</sup>__ _adv_ _Br slang_ Used as an intensive: _Bloody well right._  
 __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog posts published into a book.  
@@ -1382,7 +1381,6 @@ __blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Dis
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __blubber__ _n_  
 __bludgeoned__ _v_ :three::hammer:  
-__blue streak__ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __blue string__  
 __blue-blood__  
 __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
@@ -1438,11 +1436,11 @@ __boilers__
 __boisterous__ _adj_ :two::hammer:  
 __bold-faced__ _adj_  
 __boldface name__ _n_ :dart: A well-known or famous name or person. _Hundreds of mourners, including boldface names like Paul Simon and [Billy] Joel, show up at the funeral._ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
-__bole__ _The arrow slammed solidly into the bole of a tree._  
+__bole__ _n_ The trunk of a tree. _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
 __bolo tie__ _n_ :two: (bola tie, bolo) A necktie consisting of a piece of cord fastened with an ornamental bar or clasp.  
 __bologna__  
-__boloney__ Baloney.  
+__boloney__ _n_ Baloney.  
 __bolony__  
 __Bolshevik__  
 __bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with radical views), from Russian Bolshevik, from bolshe (greater), referring to the faction of the Russian Social Democratic party that seized power in the October Revolution of 1917. Ultimately from the Indo-European root bel- (strong), which also gave us debility and Bolshoi Theatre (literally, Great Theater).] __1__ Difficult to manage; rebellious __2__ (Government, Politics & Diplomacy) Politically radical or left-wing. _Syn_ Bolshevik, bolshy, Marxist, red  
@@ -1534,8 +1532,6 @@ __bottle fly__ _n_
 __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
 __bottled up__ _v_  
-__bottom of the barrel__ _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
-__bottom-of-the-barrel__  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
@@ -1568,8 +1564,8 @@ __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
-__bracketology__ _Daily bracketology updates._  
-__brackish__ _Brackish water._  
+__bracketology__ _n_ _Daily bracketology updates._  
+__brackish__ _adj_ __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
@@ -1634,7 +1630,6 @@ __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, bla
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
-__brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brickbats__  
 __bridal gown__ _n_  
@@ -1643,13 +1638,13 @@ __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, a
 __briers__  
 __brig__  
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
-__bright-orange__ _A bright-orange construction jumpsuit._  
+__bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats. _Syn_ brinded, brindled, tabby _A brindle cur._  
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __briny__ _adj_  
-__brise-soleil__ _Brise-soleil shading._  
+__brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
 __brisk__ _adj_ :four::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
 __brisket__ _n_ :three::hammer:  
