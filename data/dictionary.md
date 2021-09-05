@@ -1637,8 +1637,8 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__  
-__bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
+__bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
 __brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats. _Syn_ brinded, brindled, tabby _A brindle cur._  
@@ -2244,7 +2244,7 @@ __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._
 __chalkboard__ _n_  
 __chalky__ _adj_ _Chalky skin._  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
-__chamber pot__ _n_ :astonished: A bedroom vessel for urination and defecation.  
+__chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
 __chamomille__  
 __champ__ _n informal_ :two: Champion.  
 __champagne flutes__ _n_ :camera:  
@@ -5144,7 +5144,7 @@ __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy orga
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :nine: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
-__flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._  
+__flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
 __flowerpot__ _n_ _Clay flowerpot._  
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
 __flown__ _v_ _The flag was flown at half mast._  
@@ -7325,7 +7325,7 @@ __jury-rig__ _v_ To rig or assemble for temporary emergency use; improvise: _The
 __jus__  
 __just__ _adj_ _The punishments were fair, just and appropriate._  
 __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel shard was jutting out of his hand._ _Document jutted out at all angles._ _The head juts out of the wall._  
-__jut__ _v_ :three::hammer: (jutted, jutting)  
+__jut__ _v_ :four::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
@@ -8719,7 +8719,7 @@ __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a pers
 __myopia__ _n_ :pencil2::two::hammer:  
 __myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
-__myrrh__ _n_ :pencil2: :es: mirra  
+__myrrh__ _n_ :two::pencil2::hammer: :es: mirra  
 __myrtle__  
 __mysanthropic__ _adj_ Having or showing a dislike of other people; unsociable.  
 __mysophobia__ _n_ :astonished: A morbid fear of dirt or contamination.  
@@ -10083,6 +10083,7 @@ __pocket change__
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
 __pocket<sup>1</sup>__ _n_ :two: __11__ (football) The area a few yards behind the line of scrimmage that blockers attempt to keep clear so that the quarterback can pass the ball. _Standing tall in the pocket._  
 __pocket<sup>2</sup>__ _v_  
+__pockmark__ _n_ __1__ _Pathology_ (pock) A a pitted scar left on the skin after the healing of a smallpox or similar pustule. __2__ Any pitting of a surface that resembles or suggests such scars.  
 __pockmarked__ _adj_ :camera::two::hammer: _His pockmarked face._  
 __pockmarket__  
 __pockmarks__  
@@ -10130,6 +10131,7 @@ __poltroon__ _n_ An abject coward. _Syn_ craven, recreant
 __polyadic__  
 __polymath__ _n_ :five::hammer:  
 __polystyrene__  
+__pomander__ _n_ __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__ _adj_ :two::hammer:  
@@ -10216,6 +10218,7 @@ __pothead__
 __pother__ _n_ __1__ Commotion; uproar. __2__ A heated discussion, debate, or argument. __3__ A choking or suffocating cloud, as of smoke or dust.  
 __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (especially in a road surface).  
 __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
+__potion__ _n_  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n_ _informal_ Toilet training.  
@@ -10375,6 +10378,7 @@ __prissy__ _adj_ :four::hammer: _A prissy mustache._
 __pristine__ _adj_ _They were in pristine condition._  
 __private dancer__ _n_ A dancer who performs a striptease.  
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
+__privies__ _n pl_ :two: __1a__ An outdoor toilet; an outhouse. __b__ A toilet.  
 __privy__ _n_ :five::hammer:  
 __prix__ _n_ Prize. _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ _n_  
@@ -10393,7 +10397,7 @@ __proceeds__ _n_ :seven: The money that has been gained from doing something or 
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
-__proctologist__ _n_  
+__proctologist__ _n_ :two::hammer:  
 __proctor<sup>1</sup>__ _n_ __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
 __proctor<sup>2</sup>__ _v tr_ (Education) _US_ To supervise (an examination).  
 __procure__ _v_ :two::hammer: (procuring)  
@@ -10868,7 +10872,7 @@ __raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
 __ray flower__ _n_ (ray floret) One of the flattened marginal florets surrounding the disk in the flower heads of certain composite plants, as the daisy.  
-__raze__ _v_ :three: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._  
+__raze__ _v_ :four: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._ _They razed the village._  
 __razor sharp__  
 __razor strop__  
 __razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
@@ -11248,6 +11252,7 @@ __ringleader__ _n_ :two::hammer:
 __ringlets__  
 __ringmaster__ _n_ :two: A person who is in charge of the performances in a circus ring.  
 __ringside__ _n_ :two::hammer: _A ringside seat._  
+__ringworm__ _n_ _Pathology_  
 __rink__ _n_  
 __riotous__ _adj_ :two::hammer:  
 __rip your wiring out__  
@@ -12913,7 +12918,7 @@ __staff__ _n_ :two::astonished: __1__ A stick that some officials carry on forma
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
-__stag<sup>1</sup>__ _n_ _I’m an old stag._  
+__stag<sup>1</sup>__ _n_ :two::hammer: _I’m an old stag._  
 __stag<sup>2</sup>__ _adj_  
 __stag<sup>3</sup>__ _adv_  
 __stage name__  
