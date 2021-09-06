@@ -1132,7 +1132,7 @@ __benison__ _n_
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ Boxed meals.  
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
-__bequest__ _n_ :six::hammer: _A dark bequest of Nazism._  
+__bequest__ _n_ :eight::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
@@ -1301,7 +1301,6 @@ __blatherskite__ _n_
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blazing__  
 __bleach<sup>1</sup>__ _n_  
-__bleached blonde hair__  
 __bleach<sup>2</sup>__ _v tr_ :two: __1a__ To remove the color from, as by means of chemical agents or sunlight: _Over time, the exposure to sunlight bleached the rug in front of the window._ _Bleached blonde hair._ __b__ To make white or colorless: _Dawn bleached the mountains._ __2__ To whiten by causing the death or expulsion of algal symbionts from (coral). _Warm waters bleached the coral._  
 __bleaching__ _n_ :two::hammer: :es: decoloración _Steven called the bleaching a tragedy._  
 __bleak__ _adj_ __1__ :nine::m: _(of an area of land)_ Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: _(of a building or room)_ Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: _(of the weather)_ Cold and miserable. _A bleak midwinter’s day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
@@ -1634,6 +1633,8 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__  
+__brigand__ _n_ A robber or bandit, especially one of an outlaw band.  
+__brigandage__ _n_ :two: Plundering by brigands.  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
@@ -3609,7 +3610,7 @@ __despondency__
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
-__destitute__ _adj_ :two::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
+__destitute__ _adj_ :three::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detente__  
@@ -7274,7 +7275,7 @@ __jowls__ _pl n_ :four::hammer::camera:
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
 __joyride__ _n_  
 __jubilation__ _n_  
-__jubilee__ _n_ :two: __2__ A special anniversary, esp. a 25th or 50th one.  
+__jubilee__ _n_ :three: [:scroll: Comes from Hebrew yobhel, “ram’s horn,” which was used as a trumpet to proclaim the jubilee, a year of emancipation and restoration (every 50 years).] __2__ A special anniversary, esp. a 25th or 50th one. __5__ (in the Roman Catholic Church) __a__ (Also called jubilee year) An appointed year or other period, ordinarily every 25 years, in which a plenary indulgence is granted upon repentance and the performance of certain acts. __b__ the plenary indulgence granted.  
 __judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
 __judgmental__ _adj_ :pencil2:  
 __judicious__ _adj_ _Judicious improvements._  
@@ -8519,7 +8520,8 @@ __mollify__ _v_ :six::hammer: (mollified)
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
-__momentous__ _adj_ :two: Of great importance or significance, especially in having a bearing on future events. _A decision with momentous consequences._ :es: trascendental  
+__momentous__ _adj_ :three: Of great importance or significance, especially in having a bearing on future events: _a momentous occasion; a momentous decision._ _A decision with momentous consequences._ :es: trascendental  
+__momentously__ _adv_ In a momentous way.  
 __momentum__  
 __monad__  
 __Monday__ _n_ :mega: /’möndi, -deI/  
@@ -8851,7 +8853,7 @@ __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and onlin
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
-__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :eight: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
+__nibble<sup>2</sup>__ _v_ (nibbling, nibbled) :nine: __1__ To bite at gently and repeatedly. _The little person broke one off and nibbled at it daintily._ _Goats nibbled._ __2__ To eat with small, quick bites or in small morsels: _nibble a cracker._ __3__ To wear away or diminish bit by bit: _“If you start compromising too early ... they nibble you to death” (People)._ __4__ (intr) To make petty criticisms. __5__ (intr) To consider tentatively or cautiously: _to nibble at an idea._  
 __nibling__ _n_ Blend of nephew, niece +‎ sibling, coined by the American linguist Samuel Elmo Martin (1924–2009) in 1951.  
 __niblings__ _n_ Plural of nibling. A gender-neutral term that encompasses both nieces and nephews.  
 __nicety__ _n_  
@@ -9255,7 +9257,7 @@ __outage__ _n_ :two::hammer: _Power outages._
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :five::hammer: (outbreaks)  
+__outbreak__ _n_ :eight::hammer: (outbreaks)  
 __outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
@@ -11879,6 +11881,7 @@ __seracs__ _n_
 __sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
 __serendipity__ _n_  
 __Serenity Prayer__  
+__serf__ _n_ _A vagrant serf._  
 __serfdom__ _n_  
 __serial comma__ _n_ Oxford comma.  
 __seriocomic__ _adj_ Mixing serious and comic elements.  
@@ -13397,7 +13400,8 @@ __suppurative__ _adj_ _Chronic suppurative skin lesions in a young woman._
 __supremacist__ _n_ _A white supremacist._  
 __supreme<sup>1</sup>__ _adj_ :two::hammer: _The great ones possess supreme confidence._  
 __supreme<sup>2</sup>__ _n_  
-__surcease__  
+__surcease<sup>1</sup>__ _n_ Cessation or intermission.  
+__surcease<sup>2</sup>__ _v_ :two: __1__ To desist from (some action). __2__ To cease or cause to cease.  
 __surcharge<sup>1</sup>__ _n_ _Additional hotel surcharge of $5.00 per order._  
 __surcharge<sup>2</sup>__ _v_  
 __sure-fire__ _adj_ _informal_ :dart:  
@@ -14175,7 +14179,7 @@ __treading__
 __treasure__ _v_ :four::hammer:  
 __treat<sup>1</sup>__ _v_  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
-__treble<sup>1</sup>__ _adj_ :two::hammer: _A treble hook._  
+__treble<sup>1</sup>__ _adj_ :three: __1__ Threefold; triple. _A treble hook._  
 __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
 __treen__ _n_ Small woodenware.  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
