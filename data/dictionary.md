@@ -1254,7 +1254,6 @@ __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
 __bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
-__bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
@@ -1264,13 +1263,12 @@ __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._
 __black belt__ _n_  
 __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
 __black gold__  
-__black lung__ _You can die of black lung._  
+__black lung__ _n_ Pneumoconiosis of coal miners caused by coal dust. _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
 __black out__ _phr v_ :three::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
 __black-eyed peas__  
-__black-out__ _Black-out curtain._  
 __blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
 __blackbirder__  
 __blacked out__ _v_  
@@ -1302,24 +1300,23 @@ __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble
 __blatherskite__ _n_  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
 __blazing__  
-__bleach__ _n_  
+__bleach<sup>1</sup>__ _n_  
 __bleached blonde hair__  
-__bleached__ _Warm waters bleached the coral._  
+__bleach<sup>2</sup>__ _v tr_ :two: __1a__ To remove the color from, as by means of chemical agents or sunlight: _Over time, the exposure to sunlight bleached the rug in front of the window._ _Bleached blonde hair._ __b__ To make white or colorless: _Dawn bleached the mountains._ __2__ To whiten by causing the death or expulsion of algal symbionts from (coral). _Warm waters bleached the coral._  
 __bleaching__ _n_ :two::hammer: :es: decoloración _Steven called the bleaching a tragedy._  
 __bleak__ _adj_ __1__ :nine::m: _(of an area of land)_ Lacking vegetation and exposed to the elements. _A bleak and barren moor._ _This bleak and hostile environment._ _Syn_ bare, exposed, desolate, stark, arid, desert __2__ :two: _(of a building or room)_ Charmless and inhospitable; dreary. _He looked round the bleak little room in despair._ __3__ :four: _(of the weather)_ Cold and miserable. _A bleak midwinter’s day._ _She paints a bleak picture of the future._ _Syn_ cold, keen, raw, harsh, wintry  
 __bleakness__  
 __bleary__ _adj_ :three::hammer:  
-__bleary-eyed__ _Bleary-eyed travelers sometimes end up in the wrong city._  
+__bleary-eyed__ _adj_ __1__ With eyes blurred or reddened, as from exhaustion or lack of sleep. _Bleary-eyed travelers sometimes end up in the wrong city._ __2__ Dull of mind or perception.  
 __bleated__ _v_ :three::hammer: (bleating) _His walkie-talkie bleated._  
 __bleating__ _n_ :two::hammer: _The bleating of a few sheep._  
 __bled__ _v_  
 __bleed blue__  
-__bleeding heart__ _A radical Jewish lawyer with a beard and a bleeding heart._  
+__bleeding heart__ _n_ _A radical Jewish lawyer with a beard and a bleeding heart._  
 __bleep__ _v_ _We’ll bleep your name out._  
 __blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
-__blends__ _I go to a coffee bar with bagels and blends of the day._  
-__blessings__ _With my blessings, go for it!_  
+__blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
 __blight<sup>1</sup>__ _n_ :two::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ _n_ :two: __1__ A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._  
@@ -1346,7 +1343,7 @@ __blitz<sup>2</sup>__ _v tr_ :three: (blitzed, blitzing) To attack, destroy, con
 __blizzard__ _n_ :two::hammer:  
 __bloat__ _n_ A group of hippos.  
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
-__block letters__ _She wrote something in block letters._  
+__block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
 __blood count__ _n_ :es: hemograma  
 __blood libel__ _n_ __1__ (Law) _medieval history_ The malicious accusation that Jews used the blood of non-Jews in religious rituals. __2__ (Law) Any false accusation of violence, murder, or blood lust.  
 __blood-expander__  
@@ -1368,7 +1365,7 @@ __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those morn
 __blow one’s top at someone__  
 __blow someone’s mind__  
 __blow torch__ _n_ :two::hammer:  
-__blow up__ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
+__blow up__ _phr v_ To fill with air; inflate: _blow up a tire._ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  

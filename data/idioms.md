@@ -213,6 +213,7 @@ __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s si
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big spender__ Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
+__bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blood runs cold__ _informal_ To be very frightened.  
@@ -1711,6 +1712,7 @@ __wild-goose chase__ A worthless hunt or chase; a futile pursuit. _I wasted all 
 __win (something) in a walk__ To win (something) easily, handily, or without much or any effort.  
 __wind__ __1__ _informal_ A hint, suggestion, or rumor about something. Used especially with the verb “get.” _Don’t let the boss catch wind of what you’re doing, or you’ll be fired for sure!_ __2__ _informal_ Intestinal gas; flatulence. _It is quite rude to pass wind so openly when in the company of others!_  
 __wishy washy__ _slang_ Indecisive or not reliable.  
+__with (one’s) blessing__ With one’s express approval, consent, or well-wishes. _I asked Samantha to marry me, with her mother and father’s blessing, of course._  
 __with (one’s) pants down__ _slang_ In an embarrassing position.  
 __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manner.  
 __with a passion__ _informal_ Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
