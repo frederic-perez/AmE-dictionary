@@ -891,6 +891,7 @@ __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band i
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
+__baneful__ _adj_ Productive of destruction or woe; seriously harmful. _A baneful influence._ _A baneful effect upon morals._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
@@ -1258,6 +1259,7 @@ __biz__ _n_ :two::hammer: _Hot biz model._
 __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._  
 __black belt__ _n_  
 __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
+__Black Death__ _n_ :two: A form of bubonic plague pandemic in Europe and Asia during the 14th century, when it killed over 50 million people.  
 __black gold__  
 __black lung__ _n_ Pneumoconiosis of coal miners caused by coal dust. _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
@@ -3517,7 +3519,7 @@ __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delisted__ _v_  
 __deliver__ _v_ :five::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
-__deliverance__ _n_ :four::hammer: _Hope and deliverance._  
+__deliverance__ _n_ :five::hammer: _Hope and deliverance._  
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
@@ -5598,6 +5600,7 @@ __generic__ _adj, n_ _A generic diet cola._
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ _adj_ :two::hammer:  
+__gentile__ _n_ (often Gentile) __1__ A person who is not Jewish.  
 __gentility__  
 __gentrification__ _n_ :three: Gentrification is a process of renovation of deteriorated urban neighborhoods by means of the influx of more affluent residents.  
 __gentrify__ _v_ (gentrifying)  
@@ -6205,6 +6208,7 @@ __harebrained__ _adj_ :three::hammer: _A harebrained idea._
 __hares__ _n_  
 __harissa__ _n_ :two::hammer:  
 __hark__ _v_ :two::hammer: (harking)  
+__harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
 __harmonize__ _v_  
 __harness__ _v_ :three::hammer: _Harnessing big data._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
@@ -6297,7 +6301,7 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
 __heartfelt__  
-__hearth__ _n_ :nine::m: The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._  
+__hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._  
 __hearth-tax__  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
@@ -6994,7 +6998,7 @@ __inhalant<sup>2</sup>__ _n_
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__ _adj_ :three: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
 __inimitable__ _adj_  
-__iniquity__ _n_ :three: Morally objectionable behavior. _Syn_ evil, wickedness, immorality  
+__iniquity__ _n_ :four: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality __2__ A grossly immoral act; a sin.  
 __initiative__  
 __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
@@ -7169,6 +7173,7 @@ __jampacked__ _v_
 __jams__ _n_  
 __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._  
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
+__jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
@@ -7186,7 +7191,7 @@ __jaywalking__
 __jazz up__ _v_  
 __jazzy__  
 __jeans__ _n pl_ (plurale tantum)  
-__jeered__ _v_ :four::hammer: (jeering)  
+__jeer__ _v_ :five::hammer: (jeered, jeering)  
 __Jehova’s Witness__  
 __jejune__  
 __jell__ _v_ _The plans didn’t jell._  
@@ -9057,7 +9062,7 @@ __octogenarians__
 __octoroons__  
 __octothorpe__ _n_ The symbol (#).  
 __OD__ _v_  
-__odd__ _adj_ __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._  
+__odd__ _adj_ :two: __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddly enough__ _adv_ :two::hammer:  
 __odds__ _pl n_  
@@ -9550,7 +9555,7 @@ __party line__ _n_
 __party poppers__  
 __party__ _n_  
 __partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
-__parvenu__  
+__parvenu__ _n_ :two: A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
@@ -9570,6 +9575,7 @@ __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.
 __pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
 __patent leather__ _n_ :astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
 __patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
+__paternoster__ _n_ _Beads for telling paternosters._  
 __pathcasting__  
 __pathetic__  
 __pathogenesis__  
@@ -10820,7 +10826,7 @@ __rare news conference__
 __rare__  
 __rarefied__ _adj_ :two::astonished: Extremely high or elevated; lofty; exalted.  
 __raring__  
-__rascal__ _n_ :two: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
+__rascal__ _n_ :three: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
 __rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
 __rash<sup>2</sup>__ _adj_ :dart::three: Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
@@ -13984,6 +13990,7 @@ __to be unheard of__
 __to hell__  
 __to taste (to one’s taste)__ _adj_ :three: Agreeable or pleasing to one. _Add more vinegar to taste._ :es: al gusto  
 __to that effect__  
+__to that extent__ _adv_ To the degree or extent that. _Syn_ in so far, insofar, to that degree, so far _To that extent the Black Death may have been the unrecognized beginning of modern man._  
 __to-do list__  
 __toad bag__ _n_  
 __toadstool__ _n_ The spore-bearing fruiting body of a fungus, typically in the form of a rounded cap on a stalk, especially one that is believed to be inedible or poisonous.  
@@ -14181,6 +14188,7 @@ __treen__ _n_ Small woodenware.
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_  
+__tremor__ _n_  
 __trench coat__ _n_  
 __trenchant__ _adj_  
 __trend__ _v_  
