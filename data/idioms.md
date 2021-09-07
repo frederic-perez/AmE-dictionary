@@ -211,8 +211,10 @@ __bend over backwards__ To try very hard to do something. This phrase has its or
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
+__big cheese__ An influential person.  
 __big spender__ Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
+__bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  

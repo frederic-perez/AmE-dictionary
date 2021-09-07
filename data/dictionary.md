@@ -1193,20 +1193,17 @@ __biennium__ _n_ :three: Two years.
 __bier__ _n_ :pencil2:  
 __big brother__  
 __Big C__ _n_ _slang_ The disease cancer. Used with _the_.  
-__big cat__ :es: felino  
-__big cheese__ An influential person.  
+__big cat__ _n_ :es: felino  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big fish in a small pond__  
 __big house__ _n_ _slang_ A high-security prison.  
 __big mon__  
 __Big Pharma__  
-__big retailer__ (Walmart, Target, Amazon.)  
-__Big Three__ _(automobile manufacturers)_ The three major American automotive companies: General Motors, Ford, and Chrysler.  
+__Big Three__ _n_ _(automobile manufacturers)_ In the automotive industry, the term Big Three refers to a country’s three largest automobile manufacturers. The three major American automotive companies: General Motors, Ford, and Chrysler.  
 __big time__ _n informal_ :five::hammer: _He had shit himself big time._  
 __big yes__  
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
-__big-gulper__ _America’s big-gulpers._  
 __bigger than life__  
 __biggie__ _n_ _slang_ :four::hammer: _Pearl Harbor was a biggie._  
 __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.  
@@ -1218,21 +1215,21 @@ __bikeshed<sup>2</sup>__ _v_
 __bikeshedding__ _n_ :dart:  
 __bilabial__ _adj_ __1__ Produced with the lips close together or touching, as the sounds (p), (b), (m), and (w).  
 __bilge__ _n_  
-__bilk__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
-__bilking__ _Durham was guilty of bilking._  
+__bilk<sup>1</sup>__ _v_ _Durham was guilty of bilking._  
+__bilk<sup>2</sup>__ _n_ __1__ A swindle or cheat. _America was the land of bilk and money._ __2__ A person who swindles or cheats.  
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
 __billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
 __billhook__ _n_ An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
-__billing__ _Now, the women’s contest will take second billing._  
+__billing__ _n_ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_ :two::hammer:  
 __bin__ _n_ __1__ A large container or enclosed space for storing something in bulk, such as coal, grain, or wool. _A man has been rescued after falling in a soybean bin._  
 __bind__ _n_ :two::hammer: _Mechanics are in a similar bind._  
 __binder__ _n_ _My binder._  
-__bindles__ _Drug bindles._  
+__bindle__ _n_ _Drug bindles._  
 __binging__ _v_  
 __binocular__ _adj_ :mega: Adapted for or using both eyes.  
 __binoculars__ _n pl_ (plurale tantum)  
@@ -1248,12 +1245,11 @@ __birds of the same feather__
 __birdseed__ _n_ Seeds that you give to birds as food.  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
-__biscuit__ :mute:[bisc~~u~~it]  
+__biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
-__bite off more than you can chew__ To attempt to take on a task that is too much for you to handle.  
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
@@ -11134,7 +11130,7 @@ __restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; c
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
 __resuscitate__ _v_ :astonished:  
-__retailer__ _n_ :two::hammer: (Big Lots, discount retailer; Staples, office supplies retailer.)  
+__retailer__ _n_ :three: A retailer is a person or business that sells goods to the public. _Big retailers lik Walmart, Target, Amazon._ _Big Lots, discount retailer; Staples, office supplies retailer._  
 __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
 __retaliate__ _v_  
 __retch__ _v_ :four::hammer: (retched)  
