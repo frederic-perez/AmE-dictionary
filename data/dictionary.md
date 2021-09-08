@@ -153,7 +153,7 @@ __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an improm
 __Ada__ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
 __adamant__ _adj_ :two::hammer:  
-__adamantine__ _adj_ Not capable of being swayed or diverted from a course; unsusceptible to persuasion.  
+__adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
 __address__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
@@ -832,6 +832,7 @@ __badgering the witness__ Term used when an attorney is questioning a witness on
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
+__Baedeker__ _n_ /BAY-de-kuhr/ [:scroll: After the German publisher Karl Baedeker (1801-1859) who founded a company that published travel guidebooks.] A guidebook.  
 __baff__ _v_ (baffed)  
 __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrate or prevent from taking action: _a patient whose condition baffled the physicians._ _Syn_ dumbfound, flummox, mystify, nonplus, perplex, puzzle, amaze, stupefy, gravel, vex, pose, stick, beat, get  
 __baffled__ _adj_  
@@ -2547,6 +2548,7 @@ __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction z
 __clockwork__ _n_  
 __clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clogging__ _v_  
+__cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
@@ -4300,7 +4302,7 @@ __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is n
 __egomaniac__  
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
-__egregious__ _adj_ :eight: Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :nine: /ih-GREE-juss/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
@@ -5490,6 +5492,7 @@ __gaiety__ _n_ _Frenetic gaiety._
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
 __gal__  
 __gala__ _n_ :two: __1__ A festive occasion, especially a lavish social event or entertainment.  
+__Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Round Table who alone succeeded in the quest for the Holy Grail. __2__ One considered to be noble, pure, or chivalrous. _I’m not a Galahad. I’m a bully, too._  
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
@@ -7192,7 +7195,7 @@ __jelly doughnuts__
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
-__jeopardize__ _v_  
+__jeopardize__ _v_ :two: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jerboa__ _n_ (jerboas)  
 __jeremiad__  
@@ -8953,7 +8956,7 @@ __nosebleed__ _n_ :two::hammer: (nosebleeds)
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__  
-__nostrum__ _n_ :two::astonished::hammer:  
+__nostrum__ _n_ :three::astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
@@ -11024,6 +11027,7 @@ __relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, 
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
+__relegate__ _v_ To assign to an obscure place, position, or condition. _Syn_ demote, bump _After allowing the other team to score on three consecutive shots, he was relegated to the bench._  
 __relegation__ _n_ _Sports_  
 __relent__ _v_ :four::hammer: (relented)  
 __relentless__ _adj_ :five::hammer: _I relentlessly go to YouTube to watch all new footage._  
@@ -13295,7 +13299,7 @@ __subjugation__ _n_ Forced submission to control by others.
 __sublet__ _v_ :three::hammer: (subletting) :es: subarrendar  
 __sublimate__ _v_  
 __submachine gun__  
-__suborn__ _v_ :two::astonished::hammer:  
+__suborn__ _v_ :three::astonished: __1__ To bribe, incite, or instigate (a person) to commit a wrongful act. __2__ (Law) _criminal law_ To induce (a witness) to commit perjury. _The lawyer attempted to suborn the witness._  
 __subpar__  
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
@@ -15502,6 +15506,7 @@ __zeitgeist__ _n_ :four: A German word meaning time spirit, used to mean the spi
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
+__zephyr__ _n_ /ZEF-uhr/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
