@@ -1047,21 +1047,18 @@ __beep-de-beep__
 __beer gut__  
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __beer pong__ _n_  
-__beer tap__ _A beer tap that was brought from England._  
+__beer tap__ _n_ A valve, specifically a tap, for controlling the release of beer. While other kinds of tap may be called faucet, valve or spigot, the use of tap for beer is almost universal. _A beer tap that was brought from England._  
 __beers on tap__ :camera:  
 __beet__  
 __beetroot__ _n_  
 __beeves__ _n_  
-__befall__  
-__befallen__ _The unthinkable has befallen President._  
-__befalls__ _v_  
+__befall__ _v_ :three::hammer: (befalls, befallen) _The unthinkable has befallen President._  
 __befit__ _v_ :two::hammer: (befits, befitting)  
 __befitting__  
 __before you know it__  
 __beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
-__beg__ _All of this begs the question of Gallego’s own voting record._  
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
@@ -1070,15 +1067,12 @@ __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :eight: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
-__being at odds__ _They are at odds over the details of legislation._  
-__being let go__ _His mother was let go at the plant in 2006._  
 __being on the fitz__  
 __bejeezus__ _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._  
 __bejeweled__ _v_  
@@ -1107,7 +1101,6 @@ __bellow<sup>2</sup>__ _v_ :five::hammer: (bellowed)
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
-__bellum__ _Post-bellum years._  
 __bellwether__ _n_ :two::hammer:  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
@@ -1122,7 +1115,7 @@ __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dis
 __bemuse__ _v_ (bemused)  
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
-__bench__ _Snow will dust the benches and valleys._  
+__bench__ _n_ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
@@ -1131,7 +1124,7 @@ __benevolent__
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
-__bento__ Boxed meals.  
+__bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
 __bequest__ _n_ :eight::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
@@ -1167,7 +1160,6 @@ __betray__ _v_ :two::hammer:
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
 __betrothed__ _adj_ :three: Engaged to be married.  
-__better known as__ _Miyazaki, better known as Aska._  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __bettors__  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
@@ -10197,6 +10189,7 @@ __posse__ _n_ :two::hammer: _A posse clad._
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :two::hammer: :es: zarigüeya  
 __post hoc__  
+__postbellum__ _adj_ Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ _n_ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the “poster child” of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
