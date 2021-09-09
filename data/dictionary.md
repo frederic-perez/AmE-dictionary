@@ -926,7 +926,7 @@ __barf__ _v_
 __bargain__ _n_ :two::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
-__bariatric surgery__ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
+__bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- (“weight” as in barometer), suffix -iatr (“treatment,” as in pediatrics), and suffix -ic (“pertaining to”).  
 __bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
@@ -976,7 +976,7 @@ __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, an
 __batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
-__batting cage__ _The rookie suffered an injury while taking swings in the batting cage._  
+__batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
@@ -990,8 +990,6 @@ __bays__ _n_
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __be dismissed__ :es: retirarse (por ejemplo de la mesa)  
-__be friends__ _I was good friends with her._  
-__be no picnic__ _Looking after four children is no picnic._  
 __beach__ _v_  
 __beachhead__ _n_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -1008,16 +1006,12 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
-__beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
-__beat__ _ESPN never employed a beat writer for each team in the league._  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
-__beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __bebop__ _v_  
 __because__  
-__beck > at your beck__ _Stacks of books at your beck._  
-__beck__  
+__beck__ _n_ A gesture of beckoning or summons.  
 __beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
@@ -1049,7 +1043,6 @@ __beer gut__
 __beer head__ _n_ The frothy foam on top of beer which is produced by bubbles of gas, typically carbon dioxide, rising to the surface.  
 __beer pong__ _n_  
 __beer tap__ _n_ A valve, specifically a tap, for controlling the release of beer. While other kinds of tap may be called faucet, valve or spigot, the use of tap for beer is almost universal. _A beer tap that was brought from England._  
-__beers on tap__ :camera:  
 __beet__  
 __beetroot__ _n_  
 __beeves__ _n_  
@@ -1090,7 +1083,7 @@ __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __belie__ _v_ :nine: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
-__bell pepper__ _1 yellow or red bell pepper._  
+__bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ luggage and run errands.  
 __bellicose__  
