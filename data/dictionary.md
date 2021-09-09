@@ -506,7 +506,7 @@ __apogee__ _n_ __1__ [:scroll: from apogaios away from the earth, from apo- + _g
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
-__apoplexy__ _n_ __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
+__apoplexy__ _n_ :two: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __aposematic__ _adj_  
 __apostasy__ _n_ :two::hammer:  
 __apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
@@ -744,7 +744,7 @@ __autokinesy__ _n_ Self-propelled or self-directed motion or energy.
 __automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
-__avail__ _v_ :two::hammer: _Nothing avails against the Death._  
+__avail__ _v_ :three::hammer: _Nothing avails against the Death._  
 __avalanche__ _n_  
 __aver__ _v_ :two::hammer:  
 __average citizens__  
@@ -1739,6 +1739,7 @@ __bulbous__ _adj_ _A bulbous man._
 __bulk up__ _v_  
 __bulk__ _n_ :two::hammer: _For the bulk of eight years._  
 __bulkhead__ _n_ :four::hammer: _The bulkhead door._  
+__Bull__ _n_  
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
@@ -2386,6 +2387,7 @@ __chorus__ _n, v_ :mute:[c~~h~~orus]
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
+__Christendom__ _n_  
 __christening__ _n_  
 __Christian__ _adj, n_ :mute:[C~~h~~ristian]  
 __Christmas fly__  
@@ -2972,6 +2974,7 @@ __corpus__ _n_ _A big corpus of examples._
 __corral__ _v_  
 __corralled__ _v_ :three::hammer: (corralling)  
 __corrective__ _adj_ _Preventive and corrective maintenance._  
+__correspondent__ _adj, n_  
 __corridor__ _n_ :three::hammer: :es: puente aéreo  
 __corrosion__  
 __corrugate__ _v_  
@@ -3540,7 +3543,7 @@ __dengue__
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
-__denouement__ _n_ :nine::hammer: _A tragic denouement._  
+__denouement__ _n_ :nine: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
@@ -4570,6 +4573,7 @@ __evergreen__ _adj_
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ _n_ :two::hammer:  
+__Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
@@ -5713,7 +5717,7 @@ __glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ g
 __glycemic__  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
 __gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
-__gnash<sup>1</sup>__ _v_ :two::hammer: _Gnashing teeth._  
+__gnash<sup>1</sup>__ _v_ :three::hammer: _Gnashing teeth._  
 __gnash<sup>2</sup>__ _n_  
 __gnat__ _n_ :four: Any of various small usually biting dipteran flies. :es: (British usage) mosquito  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
@@ -6356,9 +6360,10 @@ __helpdesk__ _n_ Alternative spelling of help desk.
 __helping__ _n_ (helpings) _Second helpings._  
 __helpless__  
 __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
-__hem__ _n_ :two: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
+__hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
+__hem<sup>2</sup>__ _v_  
 __hemlines__ _n_  
-__hemlock__  
+__hemlock__ _n_ :two::hammer: :es: cicuta  
 __hemmed__ _v_ :two::hammer:  
 __hemming__  
 __hemodynamic__ _adj_  
@@ -8103,6 +8108,7 @@ __Mandan man__
 __mandarin__ _n_ (fruit)  
 __mandate__ _v_  
 __mandatory__ _adj_ :mega:  
+__mandrake__ _n_ :es: mandrágora  
 __Mandy__ _n_ Diminutive form of Amanda.  
 __mane__ _n_ :five::hammer: _A lion’s mane._  
 __maneuver<sup>1</sup>__ _n_ :two: A movement or combination of movements involving skill and dexterity: _a gymnastics maneuver._  
@@ -10082,7 +10088,7 @@ __podiatrist__ _n_
 __podjo__  
 __podna__ _n_ :two: _slang_ Podna is a very close, or just a friend of yours.  
 __Podunk town__  
-__pogrom__ _n_ :four::hammer: (pogroms)  
+__pogrom__ _n_ :dart::five: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
 __poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
@@ -13404,7 +13410,7 @@ __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__ _v_ :six::hammer: (surmised, surmising)  
+__surmise__ _v_ :seven::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
@@ -14269,7 +14275,7 @@ __truly__ _adj_ :two::hammer: _We truly appreciate it._
 __trumpet__ _v_  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
-__truss__ _n_  
+__truss__ _n_ :two::hammer:  
 __trussed up__ _v_  
 __trussed__ _v_ :three::hammer:  
 __trust company__  
@@ -15332,6 +15338,7 @@ __woozy__ _adj_ :two::hammer:
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
+__wordiness__ _n_  
 __wording__ _n_  
 __wordnesia__ _n_ When a common word looks strange and ungainly.  
 __wordplay__  
