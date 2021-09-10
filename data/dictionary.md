@@ -1643,7 +1643,7 @@ __broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stoc
 __broadsided__  
 __brocade__  
 __broccoli__ _n_  
-__brogue__ _n_ :three: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
+__brogue__ _n_ :four: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
 __broken accent__  
@@ -2120,6 +2120,7 @@ __cast-iron__
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
+__castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he would look back on his day of toil, and castigate himself for failing to fulfill his true purpose of the day._  
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
 __castoff__ _n_  
@@ -2900,7 +2901,7 @@ __convey__ _v_ :two::hammer: (conveyed)
 __conveyance__ _n_  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
-__convivial__ _adj_ :three::hammer:  
+__convivial__ _adj_ :four: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._  
 __convoke__ _v_ To call together to a meeting.  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
 __conwise__  
@@ -3540,7 +3541,7 @@ __dengue__
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
-__denouement__ _n_ :nine: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
+__denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
@@ -5425,6 +5426,7 @@ __full-fledged__ _adj_ :two::hammer: _Full-fledged work._
 __full-mask helmet__ _n_  
 __fullback__ _n_ _football_ :two::hammer: (fullbacks)  
 __fullness__  
+__fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
 __fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -6073,7 +6075,7 @@ __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.
 __hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
 __hackle<sup>1</sup>__ _n_ :three: (hackles) __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
 __hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
-__hackneyed__ _adj_ :two::hammer: _The hackneyed metaphor made him smile._  
+__hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __hackwork__ _n_  
 __haemodialysis__ _n_  
@@ -7166,6 +7168,7 @@ __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
+__Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
@@ -10667,7 +10670,7 @@ __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder),
 __quench__ _n_ :two::hammer:  
 __quenched__ _v_  
 __quenches__ _v_  
-__querulous__ _adj_ :three::hammer:  
+__querulous__ _adj_ :four::hammer:  
 __query<sup>1</sup>__ _n_ :mega:  
 __query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
@@ -10999,6 +11002,7 @@ __regatta__
 __regents__ _n_  
 __regimen__ _n_ _An exercise regimen._  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
+__regnant__ _adj_ __1__ Reigning; ruling: _a queen regnant._ __2__ Predominant. __3__ Widespread; prevalent.  
 __regret__ _v_ :two::hammer: (regreted) :pencil2: _We violated this rule with regret._  
 __regrets__ _n_  
 __regrettably__ _adv_ Unfortunately (used to express apology for or sadness at something).  
@@ -11266,6 +11270,8 @@ __rise__ _v_
 __risers__  
 __risible__ _adj_ :three: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
 __rite__ _n_ :two::hammer:  
+__ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
+__ritz<sup>2</sup>__ _v tr_ /rits/ __1__ To make a show of luxury or opulence. __2__ To behave haughtily toward someone; to snub.  
 __ritzy__ _adj_ :three::hammer: (ritzier, ritziest) _One of the ritziest restaurants._  
 __rived__ _v_  
 __riven__  
@@ -11569,7 +11575,7 @@ __sated__ _v_
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ _n_ :mega: /’sæÔødi, -deI/  
-__saturnine__ _adj_ :two::hammer:  
+__saturnine__ _adj_ :three: Showing a brooding ill humor. _Syn_ glowering, moody, morose, sullen, glum, dour, sour, dark _Since he had heard of Lilla’s death, the gloom of his remorse had made more hopeless his cruel, selfish, saturnine nature._  
 __satyr__  
 __sauce__ _n_  
 __saucerful__  
