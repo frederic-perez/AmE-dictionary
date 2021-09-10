@@ -347,7 +347,8 @@ __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
-__aloof__ _adj_ :three: /əˈluːf/ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
+__aloof<sup>1</sup>__ _adj_ :four: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
+__aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
 __also-ran__ _To become an also-ran._  
@@ -619,7 +620,7 @@ __ascertain__ _v_ :three::hammer:
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
 __ascot__ _n_ :two::hammer:  
-__ascribe__ _v_ :eight: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_  
+__ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borers__ _Emerald ash borers._  
 __ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
@@ -3394,7 +3395,7 @@ __debacle__ _n_ :four::hammer:
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
-__debauchery__ _n_ :three::hammer:  
+__debauchery__ _n_ :four::hammer:  
 __debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
@@ -5270,7 +5271,8 @@ __Formica__
 __formidable__  
 __formulate__ _v_ _I was formulating my question._  
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
-__forsaken__ _adj_  
+__forsaken<sup>1</sup>__ _v_ The past participle of forsake.  
+__forsaken<sup>2</sup>__ _adj_ :two: Completely deserted or helpless; abandoned.  
 __forswear__ _v_  
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __fort__ _n_ A fortified place or position stationed with troops.  
@@ -6951,7 +6953,7 @@ __inextricable__ _adj_
 __inextricably__ _adv_ :three::hammer:  
 __infallibity__  
 __infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocking: _infamous conduct._ _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
-__infamy__  
+__infamy__ _n_ :two::hammer:  
 __infant__ _n_  
 __infare__ _n_  
 __infeasible__ _adj_ _Syn_ unfeasible  
@@ -7050,7 +7052,7 @@ __intemperate__ _adj_ Given to excessive indulgence of bodily appetites, especia
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdicting__  
-__interim__  
+__interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interlopers__ _n_ :three::hammer:  
 __interment__ _n_ :three::hammer:  
@@ -8344,7 +8346,7 @@ __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products lan
 __metronome__  
 __mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
-__miasma__ _n_ :two::hammer:  
+__miasma__ _n_ :three::hammer:  
 __mick__ _n_ :three::hammer:  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
@@ -10584,7 +10586,8 @@ __Purple Hearts__
 __purple__ _n_ _A hint of purple._  
 __purport__ _v_ :seven::hammer: (purported) _The purported attack._ _JFK’s purported affairs._  
 __purportedly__ _adv_ :two: Believed or reputed to be the case. _Syn_ supposedly  
-__purr__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
+__purr<sup>1</sup>__ _n_ __1__ The soft vibrant sound made by a cat. __2__ A sound similar to that made by a cat: the purr of an engine.  
+__purr<sup>2</sup>__ _v_ :three: (purrs, purring) __1__ To make or utter a soft vibrant sound: _The cat purred. The sewing machine purred._ __2__ To express by a soft vibrant sound.  
 __purse__ _v_ _His lips pursed._  
 __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
 __purslane__ _n_ :four::hammer:  
@@ -14660,8 +14663,7 @@ __vaccine__
 __vacillate__ _v_ To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
 __vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
-__vagaries__ _n_  
-__vagary__ _n_ :three::hammer: (vagaries) _The vagaries of economics._  
+__vagary__ _n_ :five::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
 __vagrant<sup>2</sup>__ _adj_ :two::hammer:  
 __vague__ _adj_ :mute:[vag~~u~~e]  
