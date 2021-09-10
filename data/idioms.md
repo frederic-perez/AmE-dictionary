@@ -148,6 +148,8 @@ __bad blood__ :two::hammer:
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
+__bank on__ :four: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._  
+ _Fillon can beat Le Pen, but don’t bank on it._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __barking up the wrong tree__ Looking in the wrong place.  
 __barnburner__ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  

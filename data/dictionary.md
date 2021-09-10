@@ -871,11 +871,10 @@ __ball player__
 __balladeer__  
 __ballast__ _n_ :two::hammer:  
 __ballcap__ _n_ A baseball cap.  
-__ballet__ :mute:[balle~~t~~]  
+__ballet__ _n_ :mute:[balle~~t~~]  
 __ballistic__  
-__balloon__ _n_ _The dog balloon is a fundamental sculpture in the art of balloon animals._  
-__balloon-lined__ _Balloon-lined car dealership._  
-__ballot__ _A lot of guys who did steroids are on the ballot._  
+__balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
+__ballot__ _n_ _A lot of guys who did steroids are on the ballot._  
 __ballpark<sup>1</sup>__ _n_ :two::hammer:  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
@@ -894,12 +893,9 @@ __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or un
 __bane__ _n_ :three::hammer:  
 __baneful__ _adj_ Productive of destruction or woe; seriously harmful. _A baneful influence._ _A baneful effect upon morals._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
-__banged-up pinkie__ :camera:  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ :two::hammer: _Polished mahogany banisters._  
-__bank on__ _phr v_ :three: To have confidence in; to rely on somebody or something. _Ted was banking on that._  
-__bank__ _Fillon can beat Le Pen, but don’t bank on it._  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
@@ -918,7 +914,7 @@ __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack’s bar
 __barbells__  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
-__bare-bones__ _A bare-bones lab._  
+__bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
 __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in various ways-with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all._  
 __barf bag__  
 __barf bucket__  
@@ -932,9 +928,9 @@ __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention
 __bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
 __barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
-__barn__ _Out of the barn._  
+__barn__ _n_ _Out of the barn._  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
-__barnyard__ :pencil2:  
+__barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
@@ -949,7 +945,7 @@ __barring__ _v_ :two::hammer:
 __barrister__ _n_ :two::hammer:  
 __barrow__ _n_  
 __barter__ _v_ :three::hammer: (bartered)  
-__base__ _This film is base, moronic, insulting, and vulgar._  
+__base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_  
@@ -969,7 +965,7 @@ __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal
 __bate__ _v_ (bated) _They watched with bated breath._  
 __bath tissue__  
 __bathhouses__  
-__bathwater__ _Let’s not throw out the baby with the bathwater._  
+__bathwater__ _n_ Water in which a person bathes. _Let’s not throw out the baby with the bathwater._  
 __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
 __baton__ _n_ :two::hammer:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
