@@ -1,3 +1,4 @@
+ _Fillon can beat Le Pen, but don’t bank on it._  
 __(a little/bit) rough around the edge__  
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
@@ -146,10 +147,10 @@ __back on (one’s) feet__ :two: __1__ In good health again after a period of in
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __bad blood__ :two::hammer:  
 __bag of tricks__ All the clever methods by which someone achieves something.  
+__ball and chain__ A wife.  
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
 __bank on__ :four: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._  
- _Fillon can beat Le Pen, but don’t bank on it._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __barking up the wrong tree__ Looking in the wrong place.  
 __barnburner__ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
@@ -217,6 +218,7 @@ __beg the question__ _All of this begs the question of Gallego’s own voting re
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behind the times__ Old-fashioned.  
 __bell the cat__ To perform a daring act.  
+__bellies__ _n_ Pork bellies; pork belly futures. (Securities markets. Often with the.) _Buy the bellies and sell the beans._  
 __bend over backwards__ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
 __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is coming to visit this weekend!_  
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  

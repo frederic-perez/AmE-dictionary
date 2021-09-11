@@ -790,7 +790,7 @@ __back away__
 __back breaker__  
 __back country__ _n_  
 __back down__ _v_  
-__back end__ _Dante Exi, started two games at the back end of the trip._  
+__back end__ _n_ _Dante Exi, started two games at the back end of the trip._  
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
@@ -860,12 +860,11 @@ __balderdash__
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
 __baleful__ _adj_ _Syn_ threating, menacing  
-__balers__ _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
+__baler__ _n_ An agricultural machine for making bales of hay, etc. _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
 __balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
-__ball and chain__ A wife.  
 __ball bearings__  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball player__  
@@ -906,11 +905,10 @@ __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :six::hammer:  
 __banter<sup>2</sup>__ _v_  
-__Baptist__ _A Baptist preacher._  
+__Baptist__ _adj, n_ _A Baptist preacher._  
 __bar top__  
-__BAR__ _BAR man._  
-__barbecue__ _Barbecue sauce._  
-__barbecueing__  
+__barbecue<sup>1</sup>__ _n_ _Barbecue sauce._  
+__barbecue<sup>2</sup>__ _v_ (barbecueing)  
 __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack’s barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
@@ -1047,7 +1045,7 @@ __befall__ _v_ :three::hammer: (befalls, befallen) _The unthinkable has befallen
 __befit__ _v_ :two::hammer: (befits, befitting)  
 __befitting__  
 __before you know it__  
-__beforehand__ :dart: _The driver and the victim had exchanged words beforehand._  
+__beforehand__ _adj, adv_ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
 __beggar__ _n_ :two::hammer:  
@@ -1065,7 +1063,7 @@ __behoove__ _v_ :eight: (behooves) To be necessary or proper for: _It behooves y
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
 __being on the fitz__  
-__bejeezus__ _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._  
+__bejeezus__ _n_ (bejesus) _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._  
 __bejeweled__ _v_  
 __belabor__  
 __belaboring__  
@@ -1084,7 +1082,6 @@ __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ luggage and run errands.  
 __bellicose__  
-__bellies__ _Roots, cracks, offsets and bellies are common issues in Utah’s older homes._  
 __belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
 __bellow<sup>1</sup>__ _n_  
@@ -1098,7 +1095,7 @@ __belly-wash__ _n_ Any kind of drink of poor quality.
 __belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
 __belt socket__ _n_  
-__belt__ A swallow or a gulp of an alcoholic drink.  
+__belt__ _n_ A swallow or a gulp of an alcoholic drink.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
 __belying__ _v_  
