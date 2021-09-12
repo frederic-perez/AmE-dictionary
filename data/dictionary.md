@@ -325,6 +325,7 @@ __allay__ _v_ :four::hammer: (allayed)
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __allegedly__  
+__allegory__ _n_ A visible symbol representing an abstract idea. _Syn_ emblem _The blindfolded figure with scales is an allegory of justice._  
 __allergens__  
 __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Syn_ lenitive, mitigative, palliative _After the blacksmith burned his hand, he applied an alleviative salve to lessen the searing pain._  
 __alley-oop__ _n_  
@@ -532,8 +533,7 @@ __appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas
 __apple cart__  
 __applesauce__  
 __applied science__ _n_  
-__apportion__ _v_  
-__apportioned__ _v_  
+__apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
 __apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
@@ -2620,6 +2620,8 @@ __cohort study__ _n_ :two: A particular form of longitudinal study that samples 
 __cohort__ _n_  
 __coif__ _n_ :es: cofia _Strange coif._  
 __coiffed__ _adj_  
+__coiffure<sup>1</sup>__ _n_ A hairstyle.  
+__coiffure<sup>2</sup>__ _v tr_ To arrange or dress (hair).  
 __coil__ _v_ :two::hammer:  
 __coin purse__  
 __coin__ _v_ :four::hammer: (coined) _To coin a phrase._ _The experiment was coined Project Thunder._ _The first casino was coining millions._  
@@ -5291,6 +5293,7 @@ __founder__ _v_ :six::hammer: (foundered) _The attempt foundered._ _His plan fou
 __foundry__ _n_ :three::hammer: (foundries) _Metal foundries._ :es: fundición  
 __fount__ _n_ __1__ A fountain. __2__ One that initiates or dispenses; a source. _The fount of authority._  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
+__fountainhead__ _n_ __1__ (Physical Geography) A spring that is the source of a stream. __2__ A principal or original source.  
 __four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
 __four-wheeler__  
@@ -5544,7 +5547,7 @@ __gas gauge__
 __gas guzzler__  
 __gas station attendant__ _n_ :camera:  
 __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficiency.  
-__gasconade__ _n_ Boastful talk, bragging, or bluster.  
+__gasconade__ _n_ :two: Boastful talk, bragging, or bluster. _After all his gasconade, the contestant couldn’t manage to complete the obstacle race._  
 __gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn’t closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
 __gasket__  
@@ -6032,7 +6035,7 @@ __gunnel__ _n_ _The reel clanked once against the aluminium gunnel._
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunship__ _n_ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
-__gunwale__ _n_ :two::hammer:  
+__gunwale__ _n_ :three::mega: /ˈɡʌnəl/ (gunnel) [:scroll: From gun + wale (a plank along the side of a ship), from its use as a support for guns in earlier times.] The upper edge of the side of a ship or a boat. The word is often used in the idiom “to the gunwales” meaning to be full, almost overflowing.  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
@@ -8638,7 +8641,7 @@ __mudslinging__ _n_ :three: Efforts to discredit one’s opponent by malicious o
 __muff__ _n_ _She drew from her muff a pistol._  
 __muff-diver__ _n_ :two::hammer:  
 __muffed__ _v_ _The Ducks muffed a kickoff return._  
-__muffle__ _v_ (muffled) :two::hammer: :es: amortiguar (sonido)  
+__muffle__ _v_ :three: Deaden (a sound or noise), especially by wrapping. _Syn_ mute, tone down, dampen, dull :es: amortiguar (sonido) _I was up past my bedtime, so I tried to muffle my sneeze by holding my pillow over my face._  
 __muffler__ _n_ :three: __1__ A heavy scarf worn around the neck for warmth. __2__ A device that absorbs noise, especially one used with an internal-combustion engine. _Syn_ silencer  
 __mug<sup>1</sup>__ _n_ _informal_ The human face.  
 __mug<sup>2</sup>__ _v_ :three::hammer: (mugged, mugging) _They were mugging passerby._  
@@ -11913,6 +11916,7 @@ __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of D
 __Seven Dwarf status__  
 __seventeen-year locust__ _n_ A cicada, _Magicicada septendecim_, of the eastern U.S., having nymphs that live in the soil, usually emerging in great numbers after 17 years in the North or 13 years in the South.  
 __severance (severance contract)__ _n_ :two: _Law_ The division into separate parts of a joint estate, contract, etc.  
+__severance pay__ _n_ A sum of money usually based on length of employment for which an employee is eligible upon termination. :es: finiquito  
 __severance__ _n_ :three::hammer: _Severance pay._  
 __severe attacks__  
 __sewage__ _n_ :two::hammer: :es: aguas residuales  
@@ -14802,9 +14806,10 @@ __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__victual__ _n_ :mega: Food fit for human consumption.  
-__victualling__  
-__victuals__ _n pl_ :five::mega: Food supplies; provisions.  
+__victual<sup>1</sup>__ _n_ :two::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
+__victual<sup>2</sup>__ _v tr_ To provide with food.  
+__victual<sup>3</sup>__ _v intr_ To obtain food or to eat.  
+__victuals__ _n pl_ :five::mega: /ˈvɪtəlz/ Food supplies; provisions.  
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
 __vig__ _n_ :three::hammer:  
