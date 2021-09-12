@@ -695,7 +695,7 @@ __atrium__ _n_ :two::hammer:
 __atrocious__  
 __atrocity__  
 __atrophy__ _v_ :two::hammer: (atrophied)  
-__attaché case__ _n_ :two::hammer: (attaché cases)  
+__attaché case__ _n_ :three: (attaché cases) A slim briefcase with flat, rigid sides, hinges, and usually a lock.  
 __attack dog__ _n_  
 __attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
 __attainability__  
@@ -1468,6 +1468,7 @@ __bookmarker__ _n_
 __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile lending library.  
 __bookplate__  
 __bookrunner__  
+__bookshop__ _n_ A bookstore.  
 __bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
@@ -2236,6 +2237,7 @@ __changeover__ _n_ :two::hammer:
 __chant__ _v_  
 __chanticleer__ _n_  
 __chanting__  
+__chantry__ _n_  
 __chaos__ _n_ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
@@ -4511,6 +4513,7 @@ __equivocal__ _adj_ _Syn_ ambiguous, confusing
 __equivocation__ _n_  
 __eradicate__ _v_ __1__ To do away with as completely as if by pulling up by the roots. __2__ To pull up by the roots.  
 __ergomania__ _n_ An excessive desire to work or exercise.  
+__ermine__ _n_  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
@@ -4905,7 +4908,7 @@ __fidget__ _v_ :three::hammer:
 __fidgety__  
 __fiduciary<sup>1</sup>__ _adj_ __1__ (Law) Involving trust, especially with regard to the relationship between a trustee and a beneficiary. _The company has a fiduciary duty to shareholders._ __2__ (Finance) (of a paper currency) depending for its value on securities (as opposed to gold) or the reputation of the issuer.  
 __fiduciary<sup>2</sup>__ _n_ A trustee.  
-__fief__ _n_ :three: A piece of land held under the feudal system. _His personal fief._  
+__fief__ _n_ :five: A piece of land held under the feudal system. :es: feudo _His personal fief._  
 __fiefdom__ _n_ :two::hammer:  
 __field day__  
 __field trip__ _n_  
@@ -5450,6 +5453,7 @@ __furlough<sup>2</sup>__ _v_
 __furnish__ _v_ :five::hammer: (furnished) _They were furnished with a wealth of new information._ _To furnish suites of labs._ _The propulsive power was furnished by rockets tied to the “space ship.”_  
 __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furnishings._  
 __furor__ _n_ _Social media furor._  
+__furrier__ _n_ A person whose occupation is selling, making, dressing, or repairing fur garments.  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
 __further__ _v_ :two::hammer:  
@@ -6518,7 +6522,7 @@ __Holy Ghost__ _n_ :two::hammer:
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
-__homage__ _n_  
+__homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
@@ -7173,7 +7177,7 @@ __jarring__ _adj_ :four: Surprising, or slightly shocking.
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
-__jaunty__ _adj_ :nine: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
+__jaunty__ _adj_ :nine::m: Having or expressing a buoyant or self-confident air: _a jaunty grin; a hat worn at a jaunty angle._  
 __jawbreaker__ _n_ __1__ A large round hard candy. __2__ _informal_ A word that is difficult to pronounce.  
 __jawing__ _v_ _Stop jawing and get to work._  
 __jay__ _n_  
@@ -7694,6 +7698,7 @@ __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something unde
 __let down__ _phr v_ :two: To disappoint someone by failing to do what they expect you to do.  
 __let on__ _phr v_  
 __let your hair down__  
+__letdown__ _n_ Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
@@ -9547,7 +9552,7 @@ __party line__ _n_
 __party poppers__  
 __party__ _n_  
 __partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
-__parvenu__ _n_ :two: A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
+__parvenu__ _n_ :three: (parvenus) A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
@@ -13366,6 +13371,7 @@ __summertime__ _n_ :three::pencil2::hammer:
 __summit__ _n_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
+__sumptuary__ _adj_  
 __Sun Belt__ _n_ :two: (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __sunburn__ _n_  
 __Sunday__ _n_ :mega: /’söndi, -deI/  
@@ -14623,7 +14629,7 @@ __upskirt__ _v_ (upskirted)
 __upskirting__ _n_  
 __upslope__ _n_  
 __upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of sentences so that statements sound like questions.  
-__upstart__ _n_ :four::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
+__upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
 __uptake__ _n_ :three: __4__ The act of accepting or taking up something on offer or available.  
