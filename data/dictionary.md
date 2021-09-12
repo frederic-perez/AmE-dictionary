@@ -708,7 +708,7 @@ __attest__ _v_ :two::hammer:
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
 __Attn__  
-__Attorney General__ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
+__Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attract__ _v_  
 __attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrition__ _n_ :six::hammer:  
@@ -773,13 +773,13 @@ __axle__ _n_
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __azure__  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
-__b’day__ :mega:  
+__b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
 __babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
 __baby blue__ _n_ :camera:  
-__baby bump__ _Dressing your baby bump._  
-__baby formula__ _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
+__baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
+__baby formula__ _n_ (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
 __baby shower__ _n_ :two::hammer:  
 __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
 __Babylonian exile__ _n_ Babylonian captivity.  
@@ -794,8 +794,7 @@ __back end__ _n_ _Dante Exi, started two games at the back end of the trip._
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
 __back up__ _v_ :four: __1__ To move backwards. This phrase is commonly used to refer to maneuvering a car in reverse. _Back up, you’re standing too close to me!_ _If you back up a little, then your car will be completely in that parking space._ _Traffic will back up as if two lanes were blocked._  
-__back-of-house__ _Back-of-house technology._  
-__back-office__ _Back-office analytics._  
+__back-office__ _adj_ Of or relating to the inner workings of a business or institution. _Syn_ internal _Back-office analytics._  
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
@@ -818,11 +817,7 @@ __backwater__ _n_ :four: A place or situation regarded as isolated, stagnant, or
 __backwoods__  
 __Bactrian camel__ _n_ A two-humped camel (Camelus bactrianus), widely used as a beast of burden in desert regions of central and southwest Asia. Its emoji may be used in association with deserts, the Middle East and Central Asia, and Wednesday (Hump Day).  
 __bad actor__  
-__bad apple__ A troublemaker.  
 __bad egg__ _n_ _informal_ :three: Someone who behaves in a bad or dishonest way.  
-__bad press__ _Drones get a lot of bad press._  
-__bad words__ _Cat says bad words._  
-__bad-hair__ _Arnold can have a bad-hair movie._  
 __bad-mouth__ _v_ _informal_ :three: Criticize (someone) behind their back.  
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  

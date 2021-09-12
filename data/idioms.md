@@ -26,6 +26,7 @@ __(the) man/woman of the hour__ A person currently being celebrated, honored, or
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
+__a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
 __a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
@@ -146,6 +147,8 @@ __back in the day__ At a time in the past that is remembered with fondness or no
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
 __back to the salt mines__ Back to one’s job or daily work, especially when it is very hard or unpleasant. (Workers in salt mines were often slaves and prisoners.) Sometimes used humorously. _I’m not excited to get back to the salt mines on Monday._  
 __bad blood__ :two::hammer:  
+__bad press__ Negative or unflattering coverage by the media. _Drones get a lot of bad press._  
+__bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __bag of tricks__ All the clever methods by which someone achieves something.  
 __ball and chain__ A wife.  
 __ball is in your court__ It is up to you to make the next decision or step.  
