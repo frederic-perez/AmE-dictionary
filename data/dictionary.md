@@ -672,14 +672,11 @@ __astronomical unit__ _n_ A unit of length used in measuring astronomical distan
 __astute__  
 __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
 __at a loss__ _They sat inside the car, at a loss for what to do next._  
-__at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at heart__ _Most people are crooks at heart._  
 __at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
-__at the door__ _The cost to attend is $35 in advance and $40 at the door._  
 __at the earliest__  
 __at the very least__  
-__at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __at wit’s end__ _He was at wit’s end._  
 __atavism__ _n_  
 __atavistic__ _adj_ :three: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
@@ -710,14 +707,13 @@ __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pos
 __Attn__  
 __Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attract__ _v_  
-__attribute noun__ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
+__attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrition__ _n_ :six::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
 __au pair__  
 __au shops__  
-__Au.D__ Doctor of audiology.  
 __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
 __auction > silent auction__  
 __auction off__ _phr v_ To sell something in an auction.  
@@ -766,7 +762,6 @@ __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sa
 __awestruck__ _adj_  
 __awfully__ _adv_ :mega::two::hammer: _That’s awfully nice, thanks._  
 __awhile__ _adv_ For a short time; for an interval of time: _Please stay awhile._ Not to be confused with: “a while” (a period of time): _He had to wait a while for the bus. It has been a while since they’ve seen each other._  
-__AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minute changes caused our plans to go awry._ __2__ In a position that is turned or twisted toward one side; askew.  
 __ax__  
 __axle__ _n_  
@@ -821,10 +816,9 @@ __bad egg__ _n_ _informal_ :three: Someone who behaves in a bad or dishonest way
 __bad-mouth__ _v_ _informal_ :three: Criticize (someone) behind their back.  
 __badass<sup>1</sup>__ _n_  
 __badass<sup>2</sup>__ _adj_ __1__ Tough or aggressive: _a badass rock band._ __2__ Excellent: _a real badass watch._  
-__baddie__ _It’s just what Bond fans want in a baddie._  
+__baddie__ _n_ _It’s just what Bond fans want in a baddie._  
 __bade__ _v_ :five::hammer: _Bade farewell._ _She bade me bring you here._ _He bade them goodnight._ _The brothers bade him welcome._  
 __badger__ _n_ :two::hammer: _Felix was thrown when his horse shied a a badger._  
-__badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __badinage__ _n_ :two::hammer:  
 __badlands__ _n_ Barren land characterized by roughly eroded ridges, peaks, and mesas.  
 __badly__ _adv_ :three::hammer: _When done badly it’s very painful._ _She wants him so badly!_  
@@ -834,7 +828,7 @@ __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrat
 __baffled__ _adj_  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
-__baffling__ _Baffling season._  
+__baffling__ _adj_ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
 __bag out__ _v_ _Why’d you bag out on me?_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
@@ -979,7 +973,6 @@ __bay leaves__
 __bays__ _n_  
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
-__be dismissed__ :es: retirarse (por ejemplo de la mesa)  
 __beach__ _v_  
 __beachhead__ _n_  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -3786,6 +3779,7 @@ __disloyal__
 __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
 __dismayed__ _adj_  
+__dismiss__ _v_ __2__ To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
 __Disneyfy__ _v_  

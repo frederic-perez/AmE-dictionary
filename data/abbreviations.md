@@ -8,6 +8,7 @@ __AAVE__ African American Vernacular English. A nonstandard form of American Eng
 __AB__ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __ADD__ Attention deficit disorder.  
 __ADHD__ Attention deficit hyperactivity disorder.  
+__AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
 __BCE__ Before the Common Era.  
 __BM__ Bowel movement (take a dump).  
