@@ -986,6 +986,7 @@ __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._
 __bear down__ _v_  
 __bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
 __bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
+__beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
@@ -4827,6 +4828,7 @@ __feign__ _v_ :two::mute:[fei~~g~~n]:hammer:
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
+__felix culpa__ _n_ /FAY/FEE-liks KOOL/KUHL-pah/ [:scroll: From Latin felix culpa (happy fault). A related word is serendipity. Felix culpa is also known as a fortunate fall or happy accident. In Christianity, the fall of Adam and Eve is seen as a felix culpa since it resulted in the coming of Christ.] An error or disaster that has fortunate consequences.  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _adj, n_ _I am a fellow student._  
@@ -6730,7 +6732,7 @@ __hypokalemia__
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
-__hysterectomy__ _n_ Surgical removal of part or all of the uterus.  
+__hysterectomy__ _n_ :two: Surgical removal of part or all of the uterus.  
 __hysteria__  
 __hysteric__  
 __hysterical__ _adj_ :three::hammer:  
@@ -6921,9 +6923,10 @@ __indispensable__
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
 __indite__ _v_  
+__indoctrinate__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ _adj_ :four: Very determined and impossible to defeat. _Indomitable will._ _An indomitable force._  
+__indomitable__ _adj_ :five: Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
 __indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
@@ -6958,6 +6961,7 @@ __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute 
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
 __infirm__ _adj_ :two::hammer:  
 __infirmity__ _n_ Bad health or a particular illness.  
+__inflammable__ _adj_ /in-FLAM-uh-bul/  
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
 __influence-peddling__ _n_ :three::hammer:  
@@ -7560,7 +7564,7 @@ __laser wall__
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
 __lashings__ _n_ :two::hammer: _Gooey cheese and lashings of sour cream._  
-__lassitude__ _n_ :three: Tiredness and a lack of energy.  
+__lassitude__ _n_ :four: A state or feeling of weariness, diminished energy, or listlessness. Tiredness and a lack of energy. _Syn_ lethargy, sluggishness _Her rapid footsteps shook her own floors, and she routed lassitude and indifference wherever she came._  
 __lasso__ _v_ :two::hammer: (lassos)  
 __last > next to last__  
 __last__ _n_ :astonished: __2__ A form (as of metal or plastic) which is shaped like the human foot and over which a shoe is shaped or repaired.  
@@ -8275,6 +8279,8 @@ __megalomanic__ _adj_ Suffering from megalomania.
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
 __mélange__ _n_  
+__meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
+__meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
@@ -8392,7 +8398,7 @@ __milling__ _n_ :two::hammer: _To avoid disrespectful milling._
 __million__ _n_ :mega: /ˈmɪljən/ _The project willl cost around $10 million._ (not ending with ‘s’)  
 __milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
-__minatory__ _adj_ Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
+__minatory__ _adj_ :two: Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
 __mince<sup>1</sup>__ _v_ :six: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ _Minced veal cooked in oil._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
 __mince<sup>2</sup>__ _n_  
 __mincemeat__ _n_ :two::hammer:  
@@ -14260,7 +14266,7 @@ __trowel__ _n_ :two::hammer:
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  
 __troy__  
-__truant__  
+__truant__ _n_ :two: Someone who shirks duty. _Syn_ nonattender, no-show _As the two truants rolled up the avenue ... the sense of duties neglected added zest to their holiday._  
 __truck__ _v_ _They will not truck with terrorists._  
 __truckle__ _v_  
 __truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
@@ -14680,6 +14686,7 @@ __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fal
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
+__vamoose__ _v_ [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
 __vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
 __vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
