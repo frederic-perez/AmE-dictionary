@@ -122,9 +122,12 @@ __around the corner__ :two: Going to happen soon.
 __as a duck takes to water__ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as blind as a bat__ Unable to see well.  
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
+__as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ :three: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
+__as many as__ _As many as five terror plots were foiled last year._  
+__as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as of now__ From now on; from this moment on: _As of now, smoking is forbidden in this house._  
 __as the crow flies__ By the most direct way, along a straight line between two places.  
 __as we know it__ :two: As something is currently understood or viewed. This phrase usually implies that current conditions will change, as, for example, _“Nuclear warfare will mark the end of civilization as we know it.”_ First recorded in the late 1800s, the phrase began to be widely used from the 1940s on and has reached cliché status.  

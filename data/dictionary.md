@@ -561,12 +561,12 @@ __arcane__ _adj_ :four: Known or knowable only to a few people. _This function a
 __arch__ _Her character is arch and fake._  
 __archaea__ _n_  
 __arched doorway__ :camera:  
-__archenemy__ :pencil2:  
+__archenemy__ _n_ :pencil2:  
 __archeology__ :mute:[arc~~h~~eology]  
 __archetypal__  
-__Archimedes__ :mega:  
+__Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :three::hammer::pencil2: _Archipelago nation._  
-__architect__ :mute:[arc~~h~~itect]  
+__architect__ _n, v_ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
@@ -574,10 +574,10 @@ __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
-__Argentine__ _The pope is an Argentine._  
+__Argentine__ _n_ _The pope is an Argentine._  
 __arguably__ _adv_ :two::hammer:  
 __argy-bargy__ _n_  
-__Ark of the Covenant__ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
+__Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :mega:  
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
@@ -608,14 +608,11 @@ __artsy__ _adj_ :three::hammer: (arty in BrE)
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
 __artwork__ _n_ :pencil2:  
 __as a general rule__  
-__as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
-__as many as__ _As many as five terror plots were foiled last year._  
-__as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
 __as of today__  
 __asana__ _n_ :two: A posture or manner of sitting (as in the practice of Yoga).  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
-__ascendancy__ _Walt is in ascendancy in his criminal enterprise._  
-__ascent__ :mute:[as~~c~~ent]  
+__ascendancy__ _n_ _Walt is in ascendancy in his criminal enterprise._  
+__ascent__ _n_ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
