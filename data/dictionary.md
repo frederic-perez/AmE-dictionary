@@ -134,7 +134,7 @@ __acrimonious__ _adj_ :three::hammer:
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
 __acrobat__ _n_ :mega:  
 __acrophobia__  
-__across__ _She is sitting across from you at a coffee shop._  
+__across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
 __ACT__ A college entrance exam, competitor to the SAT.  
@@ -490,8 +490,7 @@ __antsy__ _adj_ :three: Restless, impatient.
 __anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
 __anybody’s guess__  
-__anything but__ _It is anything but sweet._  
-__apace__ _Concussion concerns continue apace._  
+__apace__ _adv_ With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
 __apartment__ _n_  
@@ -539,28 +538,28 @@ __appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the w
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
 __appreciable__ _adj_ Capable of being perceived or measured.  
-__appreciate__ _I appreciate it._  
+__appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_  
 __apprehension__ _n_ :two::pencil2::hammer:  
 __apprehensive__ _adj_ Very nervous.  
 __apprentice__ _v_  
-__apprenticeship__ _Apprenticeship program._  
-__approval rating__ _Park’s approval rating has plummeted._  
+__apprenticeship__ _n_ _Apprenticeship program._  
+__approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
 __apricate__ _v_ To bask in the sun.  
 __apropos__ _prep_ :three::mega::hammer:  
 __apt__  
 __aquanaut__ _n_  
-__aquaponics__ _n_  
+__aquaponics__ _n_ _(used with singular verb)_  
 __aquifer__ _n_ :two::hammer:  
 __arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
-__arbitration__ _Arbitration clause._  
+__arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
-__arch__ _Her character is arch and fake._  
+__arch__ _adj_ _Her character is arch and fake._  
 __archaea__ _n_  
-__arched doorway__ :camera:  
+__arched__ _adj_ _Arched doorway._ :camera:  
 __archenemy__ _n_ :pencil2:  
 __archeology__ :mute:[arc~~h~~eology]  
 __archetypal__  
@@ -651,7 +650,7 @@ __assimilation__ _n_
 __assistance animal__ _n_  
 __assists__ _Green had 14 rebounds and nine assists._  
 __associate with__ _phr v_ To spend time with someone.  
-__assorted__ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
+__assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :five::hammer: (assuaged)  
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  

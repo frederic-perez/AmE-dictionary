@@ -112,6 +112,7 @@ __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
+__anything but__ By no means, not at all. _It is anything but sweet._  
 __anything goes__ :two::hammer:  
 __apple of (one’s) eye__  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
