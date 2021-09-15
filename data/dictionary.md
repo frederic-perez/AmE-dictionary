@@ -408,6 +408,7 @@ __anachronism__
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analyst__ :pencil2:  
+__anastomosis__ _n_  
 __anathema__ _n_ :nine::m: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ :mute:[anc~~h~~or]  
 __anchovies__  
@@ -1465,6 +1466,7 @@ __boondoggle__ _n informal_ :four::hammer: (boondoggles)
 __boonies__  
 __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
 __boorishness__ _n_ :two::hammer:  
+__booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccine or toxoid, given at a time after the initial dose to sustain the immune response elicited by the previous dose of the same agent. _Syn_ booster dose  
 __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team or school. _Mississippi boosters._  
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
@@ -2529,6 +2531,7 @@ __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
 __close the loops__  
+__closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
 __closely__ _adv_ _Obama’s words are being watched closely by world leaders._  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
@@ -3763,7 +3766,7 @@ __dishy__
 __disillusioned__  
 __disillusionment__  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
-__disingenuous__ _adj_ :four: Not really honest or sincere, and only pretending to be.  
+__disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ _n_ :two::hammer:  
@@ -6854,6 +6857,7 @@ __in__ _prep_ _Cuba’s team arrived in the USA on a flight to Chicago on Tuesda
 __in-depth__ _adj_ :dart: _He will conduct an in-depth review._  
 __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._  
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
+__in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
@@ -6990,7 +6994,7 @@ __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or 
 __injury time__  
 __injury-marred__ _adj_ _Federer had an injury-marred season._  
 __ink-slinger__ _n_ _slang_ A writer, especially one who produces a large amount of low-quality material for a living.  
-__inkling__ _n_ :six::hammer:  
+__inkling__ _n_ :seven: __1__ A slight suggestion; hint; intimation: _They gave us no inkling of what was going to happen._ _The first inkling of trouble came in an early morning email from a friend._ __2__ A vague idea or notion; slight understanding: _I don’t have an inkling of how it works._  
 __inland<sup>1</sup>__ _adj_ :two::hammer:  
 __inland<sup>2</sup>__ _adv_  
 __inland<sup>3</sup>__ _n_  
@@ -7809,6 +7813,7 @@ __listicle__ _n_ An article constructed in the form of a list. The word is a por
 __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ _Consider the code in Listing 3-1._  
 __listless__ _adj_ :two::hammer:  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
+__lit crit__ _n_ _informal_ Literary criticism.  
 __litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
@@ -8999,6 +9004,7 @@ __nurse<sup>2</sup>__ _v tr_ :three::hammer:
 __nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing._  
 __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nursing home__ _n_  
+__nurturance__ _n_ The providing of loving care and attention.  
 __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish under nurturing Nill._  
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
@@ -11486,7 +11492,8 @@ __safe and sound__ _adj_ Having come to no harm, especially after being exposed 
 __safe house__  
 __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
-__safeguard__ _v_ :two::hammer:  
+__safeguard<sup>1</sup>__ _n_  
+__safeguard<sup>2</sup>__ _v_ :two::hammer:  
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
@@ -12313,7 +12320,7 @@ __slain__ _n_
 __slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
 __slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
-__slander__ _v_ :seven::hammer: (slandering) _Syn_ traduce  
+__slander__ _v_ :eight::hammer: (slandering) _Syn_ traduce  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slapdash__ _adj_ :two::hammer: _His slapdash action._  
 __slapjack__  
@@ -13759,6 +13766,7 @@ __Texas Panhandle__
 __texcetera__  
 __textrovert__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
+__thalassaemia__ _n_ An inherited form of anemia caused by faulty synthesis of hemoglobin. _Syn_ Cooley’s anaemia  
 __thane__ _v_  
 __thang__  
 __thank-you note__ _n_  
@@ -14936,7 +14944,7 @@ __wan__ _adj_ :four::hammer: _A wan reception._
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
 __wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
-__wane__ _v_ :four::hammer: (waning) _The waning hours._  
+__wane__ _v_ :five::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
