@@ -23,3 +23,16 @@ __bailwick__ :two::hammer:
 __recknit bones__  
 __dab__ _v_  
 __pyre__ _n_ _It burned like a funeral Viking pyre._  
+
+__precarious__ _adj_ /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
+__exonerate__ v_ Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._  
+__iodine__ _n_ :es: yodo  
+__recall__ _n, v_  
+__eponym__ _n_  
+__toponym__ _n_  
+__Kafkaesque__ _adj_  
+__Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
+__Titanesque__ _adj_  
+__Bunyanesque__ _adj_  
+__churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
+__Alhambresque__ _adj_  
