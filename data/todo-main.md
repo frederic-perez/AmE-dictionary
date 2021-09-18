@@ -36,3 +36,15 @@ __Titanesque__ _adj_
 __Bunyanesque__ _adj_  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __Alhambresque__ _adj_  
+
+
+__ragtag__ _adj_ _It was a ragtag formation._  
+__shaft__ _n_  
+__windbreaker__ _n_  
+__heave__ _v_  
+__extricate__ _v_  
+__knockout__ _adj_ _A knockout redhead._  
+__sultry__ _adj_ _A sultry smile._  
+__wisp__ _n_ _A wisp of a mustache._  
+__crescendo__ _v_ (crescendoed)  
+__misplace__ _v_  
