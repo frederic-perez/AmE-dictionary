@@ -7,4 +7,17 @@ __few and far between__
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __see eye to eye__ To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
-__tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
+__tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
+
+
+__work one’s fingers to the bone__  
+__firing both barrels all the time__ _You know your father: firing both barrels all the time._  
+__pull someone’s leg__ _Just pulling your leg, Mom._  
+__come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
+__once a snipe, always a snipe__  
+__one hell of__ _You are one hell of a navy wife._  
+__no big deal__ _No big deal, but it looked sloppy._  
+__fair and square__ _You caught me fair and square._  
+__leave no stone unturned__ _We are leaving no stone unturned._  
+__shake a leg__  
+
