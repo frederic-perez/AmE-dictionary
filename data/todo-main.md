@@ -48,3 +48,14 @@ __sultry__ _adj_ _A sultry smile._
 __wisp__ _n_ _A wisp of a mustache._  
 __crescendo__ _v_ (crescendoed)  
 __misplace__ _v_  
+
+__avert__ _v_ :two::hammer: _Tom made a show of averting his eyes._  
+__slash-and-burn__ _Slash-and-burn path._  
+__aft__ :three::hammer:  
+__lair__ _n_ _Like a coyote sleeping in its lair._  
+__brownnose__ _v_ (brownnosing) :pencil2:  
+__hothead__ :three::hammer:  
+__parade rest__ _He stood at parade rest._  
+__jiggle__ _v_ (jiggled)  
+__wirethin__ _adj_  
+__transom__ _n_ :two::hammer:  
