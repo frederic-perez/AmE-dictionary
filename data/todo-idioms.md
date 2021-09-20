@@ -21,3 +21,13 @@ __fair and square__ _You caught me fair and square._
 __leave no stone unturned__ _We are leaving no stone unturned._  
 __shake a leg__  
 
+__go potty__ _He has to go potty._  
+__rest my case__ _I rest my case._  
+__cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
+__be warned__ _Be warned, Commander, I didn’t make this coffee._  
+__kangaroo court__  
+__cashiered__ _v_  
+__uh-oh__ _interj__ _Uh-oh. The cops are here._  
+__don’t press your luck__ :two::hammer:  
+__hit the sack__  
+__fall short__ _He has fallen short as an exec._  
