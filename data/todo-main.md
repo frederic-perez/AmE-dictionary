@@ -59,3 +59,15 @@ __parade rest__ _He stood at parade rest._
 __jiggle__ _v_ (jiggled)  
 __wirethin__ _adj_  
 __transom__ _n_ :two::hammer:  
+
+
+__brackish water__ _n_  
+__jodhpurs__ _n_  
+__tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted.  
+__gangway__ _n_ :four::hammer:  
+__halyards__ _n_  
+__quarterdeck__ _n_  
+__pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
+__milk__ _v_ _The general milked the clapping for a long time._  
+__sallow__ _adj_ (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento  
+__spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
