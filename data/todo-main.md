@@ -71,3 +71,14 @@ __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual 
 __milk__ _v_ _The general milked the clapping for a long time._  
 __sallow__ _adj_ (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento  
 __spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
+
+__face left__ (vs face right) _Two admirals did a left face and screwed everything up._  
+__stanchion__ _He braced his hands on a stanchion._  
+__colophon__  
+__poof__ _interj_ (?)  
+__polio__ _n_  
+__flag officer__ _n_ :four::hammer:  
+__Whackety-Whack__  
+__ornate__ _The ornate front entrance._  
+__garrison cap__ :three::hammer: _He temoved his garrison cap._  
+__guffaw__  
