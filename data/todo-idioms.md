@@ -31,3 +31,15 @@ __uh-oh__ _interj__ _Uh-oh. The cops are here._
 __don’t press your luck__ :two::hammer:  
 __hit the sack__  
 __fall short__ _He has fallen short as an exec._  
+
+
+__chew on someone__ (?)  
+__to be on edge__ _You seem on edge._  
+__arm in arm__ _They were arm in arm, singing with the band._  
+__in all likelihood__ (?)  
+__good riddance (?)  
+__head over heels__  
+__give a rat’s ass__ _I don’t give a rat’s ass._  
+__save the bacon__ (?) _You saved our bacon._  
+__pull rank__ (?) _He pulled rank and told the pilot to shut up._  
+__bum poop__ (?) _Talk about bum poop._  
