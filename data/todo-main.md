@@ -93,4 +93,16 @@ __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive lau
 __lucid__ _adj_ /LOO-sid/  
 __ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._  
 __splenetic__ _adj_ Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
-__responsive__ _adj_ /rih-SPAHN-siv/  
+__responsive__ _adj_ /rih-SPAHN-siv/  
+
+
+__levelheaded__ _He was pretty levelheaded with me._  
+__mystify__ _v_ _He was mystified._  
+__veranda__ _n_  
+__glum__ _adj_ _He sounded glum._  
+__bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
+__consist__ _n_ _A consist of eight passenger cars._  
+__woozy__ _adj_  
+__clammy__ _adj_ _He was clammy._  
+__array__ _v_ (arrayed)  
+__roll__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
