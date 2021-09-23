@@ -37,9 +37,20 @@ __chew on someone__ (?)
 __to be on edge__ _You seem on edge._  
 __arm in arm__ _They were arm in arm, singing with the band._  
 __in all likelihood__ (?)  
-__good riddance (?)  
+__good riddance__ (?)  
 __head over heels__  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
 __save the bacon__ (?) _You saved our bacon._  
 __pull rank__ (?) _He pulled rank and told the pilot to shut up._  
 __bum poop__ (?) _Talk about bum poop._  
+
+__when pigs fly__  
+__curtains for someone__ (?) _If this generator doesn’t work, it’s curtains for us._  
+__sure enough__ (?)  
+__down in the hole__ (?) _He’s down in the hole._  
+__black__ _n_ _You take sugar, cream? No, thanks, just black._  
+__behind our backs__ _Behind our backs they called us the Spic and the Mik._  
+__killing field__ (?)  
+__five bells__ (six thirty?)  
+__stand at attention__ _They were standing at attention._  
+__sanctum sanctorum__  
