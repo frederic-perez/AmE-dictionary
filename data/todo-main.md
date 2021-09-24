@@ -120,3 +120,14 @@ __blot__ _n_
 __whew_ _interj_ (?)  
 __daresay__ _v_  
 __off-color__ _Off-color stories._  
+
+__by the book__  
+__wakeup call__  
+__born to the purple__ _Both were born to the purple._  
+__close calls__  
+__skip a beat__ _His heart skipped a beat._  
+__keep your shirt on__  
+__just the same__ (?)  
+__sixty-four-dollar question__  
+__last time I checked__ _You’re the captain, right? Last time I checked._  
+__aye aye, sir__ _Aye aye, Captain._  
