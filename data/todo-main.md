@@ -131,3 +131,14 @@ __just the same__ (?)
 __sixty-four-dollar question__  
 __last time I checked__ _You’re the captain, right? Last time I checked._  
 __aye aye, sir__ _Aye aye, Captain._  
+
+__drawl__ _n_ _He was from Texas and spoke with a slight drawl._  
+__falsetto__  
+__Godspeed__ _And Godspeed to you all._  
+__prying__ _v_ _They were pounding and prying boards._  
+__Seabees__ _n_ :two::hammer:  
+__drawl__ _v_ (drawled)  
+__bang-up__ _I’m sure you’ll do a bang-up job._  
+__dab__ _v_ _He took a hankerchief and dabbed his brow._  
+__scuttlebutt__ _n_  
+__towheaded__ _adj_  
