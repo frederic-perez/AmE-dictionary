@@ -54,3 +54,15 @@ __killing field__ (?)
 __five bells__ (six thirty?)  
 __stand at attention__ _They were standing at attention._  
 __sanctum sanctorum__  
+
+
+__take heart__  
+__a Hobson’s choice__  
+__tie the knot__  
+__snug as a bug__  
+__sleep the sleep of the dead__  
+__Johnnie-came-lately__ _We were a Johnny-came-lately._  
+__you bet__ _Do you want more coffee? You bet._  
+__save one’s bacon__ _They saved our bacon._  
+__the whole shebang__  
+__get wind of something__  
