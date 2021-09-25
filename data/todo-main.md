@@ -142,3 +142,14 @@ __bang-up__ _I’m sure you’ll do a bang-up job._
 __dab__ _v_ _He took a hankerchief and dabbed his brow._  
 __scuttlebutt__ _n_  
 __towheaded__ _adj_  
+
+__accordion doors__ _He pushed open the phone booth’s accordion doors._  
+__alighted__ _v_  
+__stake truck__ _n_ :camera:  
+__seaplane tender__ :two::hammer:  
+__fumble__ _v_ _She fumbed a Lucky Strike from a pack and worked at a book of matches._  
+__book of matches__ _n_ :dart::camera: _She fumbed a Lucky Strike from a pack and worked at a book of matches._  
+__grovel__ _v_  
+__blackout curtain__ _n_  
+__lugging__ _v_ _The assistant was lugging two heavy suitcases._  
+__petty officer__ _n_ :three::hammer:  
