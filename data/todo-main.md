@@ -165,3 +165,14 @@ __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which m
 __quench__ _v_ To satisfy (one's thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
 __languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
 __inchoate__ _adj_ /in-KOH-ut/  
+
+__exec__ (navy) _He has fallen short as an exec._ :three::hammer:  
+__make a fool of himself__  
+__cox’n__  
+__Val__ _n_ (Vals)  
+__foxholes__ _n_  
+__skedaddle__  
+__referred__ _v_ _Donovan referred to the main engine room of the destroyer._  
+__starboard list__ _She carried a starboard list of about five degrees._  
+__whisked__ _v_ _She whisked into the kitchen._  
+__upright piano__ _n_  
