@@ -450,7 +450,7 @@ __annex__ _n_
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilate__ _v_  
 __annihilation__ :pencil2::mega:  
-__anniversary__ :pencil2::mega:  
+__anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annuity__ _n_ :four::hammer: (annuities)  
 __annum__ _n_  
@@ -461,7 +461,7 @@ __anomic__
 __anorak__ _n_ :two::hammer:  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
-__answer__ :mute:[ans~~w~~er]  
+__answer__ _n, v_ :mute:[ans~~w~~er]  
 __antagonize__ _v_  
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
@@ -513,7 +513,7 @@ __aposematic__ _adj_
 __apostasy__ _n_ :two::hammer:  
 __apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
-__apostle__ :mute:[apos~~t~~le]  
+__apostle__ _n_ :mute:[apos~~t~~le]  
 __apostrophe__  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
@@ -562,7 +562,7 @@ __arch__ _adj_ _Her character is arch and fake._
 __archaea__ _n_  
 __arched__ _adj_ _Arched doorway._ :camera:  
 __archenemy__ _n_ :pencil2:  
-__archeology__ :mute:[arc~~h~~eology]  
+__archeology__ _n_ :mute:[arc~~h~~eology]  
 __archetypal__  
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :three::hammer::pencil2: _Archipelago nation._  
@@ -619,7 +619,7 @@ __ascetic__
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
-__ash borers__ _Emerald ash borers._  
+__ash borer__ _n_ _Emerald ash borers._  
 __ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
@@ -649,7 +649,7 @@ __assiduously__ _adv_ :pencil2::two::hammer:
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
 __assistance animal__ _n_  
-__assists__ _Green had 14 rebounds and nine assists._  
+__assist__ _n_ _Green had 14 rebounds and nine assists._  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :five::hammer: (assuaged)  
@@ -668,13 +668,9 @@ __astringent__
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__  
 __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
-__at a loss__ _They sat inside the car, at a loss for what to do next._  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
-__at heart__ _Most people are crooks at heart._  
-__at one time,__ _At one time, Ms. Hardy could see the beach from her window._  
 __at the earliest__  
 __at the very least__  
-__at wit’s end__ _He was at wit’s end._  
 __atavism__ _n_  
 __atavistic__ _adj_ :three: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atheist__ _adj_  

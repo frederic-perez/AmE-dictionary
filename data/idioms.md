@@ -138,13 +138,17 @@ __ask for the moon__ To ask for too much, to want something that is not possible
 __at (one’s) beck and call__ Completely compliant or obedient to another person; catering to one’s every need. The phrase has a negative connotation. Ready to obey someone’s orders instantly; subject to someone’s slightest whim. _Do you really think I’ll do anything you say? I’m not at your beck and call!_  
 __at a (single) stroke__ All at once, with a single decisive or powerful action. _When the economy crashed, thousands of people lost their jobs, their homes, and their pensions at a single stroke._  
 __at a crossroads__ :dart::four::pencil2: At a point when a choice must be made; at a point of change. _After earning my degree, I’m at a crossroads. I need to figure out which direction my life should take._  
+__at a loss__ _They sat inside the car, at a loss for what to do next._  
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
+__at heart__ _Most people are crooks at heart._  
 __at large__  
 __at length__ _At length a messenger entered the camp site and sought out King._  
 __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._  
 __at once__  
+__at one time__ _At one time, Ms. Hardy could see the beach from her window._  
+__at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
 __at the buzzer__ _Durent missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the ready__ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
