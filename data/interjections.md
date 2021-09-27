@@ -40,7 +40,7 @@ __namaste__
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
-__poof__ :two: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
+__poof__ :three: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __roger__ __1__ _informal_ All right; OK.  
 __Semper fi__ :two: Used as a shortened form of the Latin phrase _semper fidelis_, “always faithful,” motto of the U.S. Marine Corps.  
 __sh__ (sh, shhh) Used to urge silence.  
@@ -57,7 +57,7 @@ __uh-oh__ :two: Used to express alarm, foreboding, or dismay. _My “uh-oh” be
 __whammo__ _slang_ Used to indicate the startling abruptness of a sound, action, or event: _“The alarm goes off and—whammo!—we’re all at our assigned stations.” (Meg Greenfield)._  
 __what<sup>5</sup>__ :mute:[w~~h~~at]  
 __whee__ :two: Used to express extreme pleasure or enthusiasm.  
-__whew__ Used to express strong emotion, such as relief or amazement.  
+__whew__ :two: Used to express strong emotion, such as relief or amazement.  
 __whoa__ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
 __woohoo__ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
