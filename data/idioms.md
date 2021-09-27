@@ -1,4 +1,3 @@
- _Fillon can beat Le Pen, but don’t bank on it._  
 __(a little/bit) rough around the edge__  
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
@@ -120,7 +119,7 @@ __armchair expert__
 __armed to the teeth__ :two: Fully armed, having many weapons.  
 __around the clock__ :two: Without stopping. _Syn_ for 24 hours, round the clock  
 __around the corner__ :two: Going to happen soon.  
-__as a duck takes to water__ _cliché_ Esily and naturally. _She took to singingjust as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
+__as a duck takes to water__ _cliché_ Easily and naturally. _She took to singing just as a duck takes to water._ _The baby adapted to the bottle as a duck takes to water._  
 __as blind as a bat__ Unable to see well.  
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
@@ -149,7 +148,7 @@ __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have 
 __at once__  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
-__at the buzzer__ _Durent missed a floater at the buzzer._  
+__at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the ready__ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
@@ -166,7 +165,7 @@ __bag of tricks__ All the clever methods by which someone achieves something.
 __ball and chain__ A wife.  
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
-__bank on__ :four: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._  
+__bank on__ :four: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __barking up the wrong tree__ Looking in the wrong place.  
 __barnburner__ :three: Any thing, event, or occasion that is especially exciting, impressive, and/or successful.  
@@ -252,7 +251,7 @@ __blood runs cold__ _informal_ To be very frightened.
 __blood, sweat, and tears__ A lot of effort and suffering.  
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
 __blow your top__ To become very angry.  
-__blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to thebluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
+__blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
@@ -277,7 +276,7 @@ __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
-__bring a knife to a gunfigh__ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
+__bring a knife to a gunfight__ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __bring about__ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
 __bring home the bacon__ To earn money to live on.  
 __bring it on__ To begin a fight or competition.  
@@ -343,7 +342,7 @@ __chalk it up__ To link something that has happened to a particular reason or ci
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
-__check out__ _Acording to Jim, the layer’s name checked out._  
+__check out__ :two::hammer: _According to Jim, the layer’s name checked out._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
 __chew the fat__ To chat or gossip.  
@@ -352,7 +351,6 @@ __chicken feed__ A small amount of money.
 __chip on (someone) shoulders__ :nine::dart: (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
-__ckeck out__  
 __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.  
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
