@@ -215,7 +215,7 @@ __affront__ _n_ :two::hammer:
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
 __afire__ _The Klansmen set the bus afire._  
-__afloat__  
+__afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
 __afoul__ _adj_ :two::hammer:  
@@ -648,8 +648,8 @@ __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. 
 __assiduously__ _adv_ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
-__assistance animal__ _n_  
 __assist__ _n_ _Green had 14 rebounds and nine assists._  
+__assistance animal__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :five::hammer: (assuaged)  
@@ -1104,7 +1104,7 @@ __bereavement__ _n_ :seven: State of sorrow over the death or departure of a lov
 __bereft<sup>1</sup>__ _adj_ :three::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
-__berm__ _n_  
+__berm__ _n_ :two::hammer:  
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
@@ -1312,6 +1312,7 @@ __blooker__ _n_ _slang_ :two: Someone with a blog who managed to get their blog 
 __blooms__ _n_ :astonished: _The messengers toured the area to hand out blooms._  
 __bloop__  
 __blooper__ _n informal_ :three::dart: A clumsy mistake, especially one made in public; a faux pas.  
+__blot__ _n_ :two::hammer:  
 __blotch__ _n_ __1__ A large, irregular spot or blot; stain. __2__ A discolored spot on the skin; blemish. _Black blotches on the skin from internal bleeding._  
 __blotched__ _v_  
 __blotches__ _n_  
@@ -2680,6 +2681,7 @@ __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of 
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
 __command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
+__commander in chief__  
 __commend__ _v_ (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
@@ -4431,6 +4433,7 @@ __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortab
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
+__ensign__ _n_ :two::hammer:  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
@@ -11381,7 +11384,7 @@ __roundabout__ _n_ :two::hammer: (Children’s attraction.)
 __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
-__rousing__ _adj_ _The magazine was a rousing success._  
+__rousing__ _adj_ :two::hammer: _A rousing dramatization._ _The magazine was a rousing success._  
 __roustabout__ _n_ :two::hammer: (roustabouts) _The roustabout Bohemian._  
 __rousted__ _v_  
 __rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
@@ -12446,6 +12449,7 @@ __slushy__
 __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly smile._ _Sly humor._ _Sometimes it takes a sly fox to catch a sly fox._ :es: astuto; malicioso  
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
 __slyly__ _adv_ :astonished: _She smiled slyly._  
+__smack-dab__  
 __smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
@@ -12799,7 +12803,7 @@ __split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ :three: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
-__splurge<sup>2</sup>__ _v intr_ :four: (splurged, splurging) To make an ostentatious display.  
+__splurge<sup>2</sup>__ _v intr_ :five: (splurged, splurging) To make an ostentatious display.  
 __splurge<sup>3</sup>__ _v tr, v intr_ :four: (splurged, splurging) To spend lavishly or wastefully.  
 __splutter__ _v_ :five::hammer: (splutters, spluttered) _He spluttered back into consciousness._  
 __spluttering__ _n_ _A baby’s spluttering._  
@@ -13041,7 +13045,7 @@ __steel__ _v_ :two::hammer: (steeled) _He steeled himself for the climb._
 __steep<sup>1</sup>__ _adj_ :six::hammer: _He faces a steep learning curve._ _A steep increase._ _Steep decline._ _A steep battle._  
 __steep<sup>2</sup>__ _v_ :nine::m: (steeped, steeping) __1__ To soak or be soaked in a liquid, e.g. for softening, cleansing, bleaching, or extracting an essence. _Tea steeped in teapots._ _Steeped in hot water._ __2__ To imbue (somebody) thoroughly with a subject, influence, etc.  
 __steeple__ _n_ :three: A steeple is a very tall tower that gets smaller and smaller as it goes up. Many churches have steeples. Steeples are really tall so people can find the church from anywhere in town. _They took their pews and songbooks, and even their steeple._  
-__steeplechase__  
+__steeplechase__ _n_ :two: [:scroll: These horse races originally used churches (which are known for having steeples) to mark the end of the race or as a landmark for riders (who would “chase the steeple”).]  
 __steeplejack__ _n_ A person who climbs steeples, towers, or the like, to build or repair them.  
 __steeples__ _n_  
 __steeply__ _adv_ :two::hammer:  
@@ -14051,7 +14055,7 @@ __toodling__
 __toom__  
 __toot<sup>1</sup>__ _n_ :two::hammer:  
 __toot<sup>2</sup>__ _v_  
-__toote__ _v_ _Tooting the horn at their friends._  
+__toote__ _v_ :two::hammer: _Tooting the horn at their friends._ _The drivers were tooting their horns._  
 __tooth and nail__ _adv_ With every available resource; with unrelenting effort. _She fought tooth and nail._  
 __tooth decay__ _n_ Soft decayed area in a tooth; progressive decay can lead to the death of a tooth. (cavity, cavities) :es: caries  
 __tooth-gnashing__  
@@ -14206,6 +14210,7 @@ __triad__
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
 __triage<sup>2</sup>__ _v_ :three::hammer:  
 __trial__ _n_ :two::hammer: _They take small trials of the power for testing._  
+__triathlon__ _n_ [:scroll: The Greek word âthlon means “contest.” The beginning of the words triathlon, pentathlon, and decathlon indicates the number of different events it involves: tri- means “three,” pent- means “five,” and deca- means “ten.”]  
 __tribal__  
 __tribble__ _n_  
 __Tribeca__  
@@ -15470,7 +15475,7 @@ __yellow wine__
 __yellow__ _adj_ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
-__yeoman__ _n_ :three::hammer:  
+__yeoman__ _n_ :four::hammer:  
 __yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ _n_ :two::hammer:  
