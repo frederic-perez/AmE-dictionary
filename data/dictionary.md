@@ -1896,7 +1896,7 @@ __cackle__ _v_ :four::hammer: (cackling)
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
 __cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
-__cacophonous__ _n_ Having an unpleasant sound.  
+__cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
 __cacophony__ _n_ :three: Jarring, discordant sound; dissonance. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
@@ -2433,7 +2433,7 @@ __claddagh__ _n_
 __cladding__ _n_ __1__ The act or process of bonding one metal to another, usu. to protect the inner metal from corrosion. __2__ Metal bonded to an inner core of another metal. :es: revestimiento  
 __claim__ _v_ _The White Sox claimed the 2005 title._  
 __claimant__ _n_ :two::hammer: :es: demandante  
-__clairvoyance__ _n_  
+__clairvoyance__ _n_ :two: Apparent power to perceive things that are not present to the senses. _Syn_ ESP, extrasensory perception, second sight _The police officer doubted my clairvoyance until I was able to lead him to the missing woman’s remains._  
 __clairvoyant__  
 __clam up__ _v_  
 __clam__ _n_ __1__ _slang_ A dollar. _Most smartwatches run around 300 clams._ __2__ :es: almeja  
@@ -2445,7 +2445,7 @@ __clammy__ _adj_ :three::hammer: _His skin was clammy._
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
-__clandestine__ _adj_ /klænˈdɛstɪn/ Kept or done in secret, often to conceal an illicit or improper purpose.  
+__clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
 __clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
 __clang<sup>2</sup>__ _v_  
 __clanging__ _adj_ :astonished:  
@@ -3194,6 +3194,7 @@ __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that i
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
 __crybaby__ _n_ :dart::three: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
 __cryotherapy__  
+__cryptic__ _adj_  
 __cryptojacking__  
 __cryptomining__  
 __cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
@@ -6125,6 +6126,7 @@ __handgun__ _n_ _Officers found a small silver handgun under the passenger seat.
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
 __handkerchief__ _n_ :mute:[han~~d~~kerchief]  
+__handmaiden__ _n_ /HAND-may-duhn/ [:scroll: From hand + maiden, referring to a young woman who was ready at hand to serve her lady.] __1__ Someone or something that is subservient to another. __2__ A personal maid.  
 __handoff__  
 __handout__ _n_ :five::hammer: (handouts)  
 __hands on__  
@@ -6470,7 +6472,7 @@ __hobble<sup>2</sup>__ _n_
 __hobgoblin__ _n_  
 __hobnailed__ _v_ :two::hammer: _Hobnailed boots._  
 __hobnails__  
-__hobnob__  
+__hobnob__ _v_ :two::hammer: /HAHB-nahb/ _The entertainment columnist learns about the latest gossip by hobnobbing with celebrities._  
 __hobo__ _n_  
 __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hock._  
 __hod__ _n_  
@@ -8432,7 +8434,7 @@ __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laught
 __mirthful__  
 __misadventure__ _n_ An instance of misfortune.  
 __misanthropic__ _adj_ Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
-__misbegotten__ _adj_  
+__misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_  
 __miscarry__ _v_  
 __miscegenation__  
@@ -9044,6 +9046,7 @@ __obstreperous__ _adj_ :three: __1__ Resisting control or restraint in a difficu
 __obstreperousness__  
 __obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
+__obtuse__ _adj_ /ahb-TOOSS/  
 __obtuseness__  
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
@@ -10730,7 +10733,7 @@ __racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._
 __racket<sup>2</sup>__ _v_  
 __racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_  
-__racketeering__  
+__racketeering__ _n_ :two: Engaging in a racket.  
 __raconteur__ _n_ One who tells stories and anecdotes with skill and wit. _Syn_ anecdotist _Dave is quite the raconteur and will no doubt keep my guests entertained throughout the evening._  
 __racous__  
 __racousness__  
@@ -11712,7 +11715,7 @@ __scrappy__ _adj_ :two::hammer: _A scrappy industrial city._ _They are young, sc
 __scratch<sup>1</sup>__ _v_ :mute:[scra~~t~~ch]  
 __scratch<sup>2</sup>__ _n_ :mute:[scra~~t~~ch]  
 __scratcher__ _n_ __1__ A workman who uses a tool for scratching. __2__ A person who scratches to relieve an itch. __3__ A device used for scratching.  
-__scrawl__ _v_ :five: (scrawled) To write hastily or sloppily. _Ben scrawled a notation on the memo._  
+__scrawl__ _v_ :six: (scrawled) To write hastily or sloppily. Write carelessly. _Syn_ scribble _The note that my brother scrawled before his quick exit was unreadable._ _Ben scrawled a notation on the memo._  
 __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._  
 __scream-o-meter__  
 __screaming yellow__  
@@ -12757,6 +12760,7 @@ __spell<sup>1</sup>__ _v_
 __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later._  
 __spellbound__ _adj_  
 __spendolie__  
+__spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
 __spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
@@ -14214,7 +14218,7 @@ __triathlon__ _n_ [:scroll: The Greek word âthlon means “contest.” The begi
 __tribal__  
 __tribble__ _n_  
 __Tribeca__  
-__tribulation__ _n_ :nine::hammer: (tribulations)  
+__tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _n_ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
