@@ -342,7 +342,7 @@ __allusion__ _n_
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ :mute:[a~~l~~mond]  
-__almost surely__ _Apple almost surely will succeed in upgrading its security._  
+__almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
@@ -352,12 +352,12 @@ __aloof<sup>1</sup>__ _adj_ :four: /əˈluːf/ __1__ Emotionally reserved or ind
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
-__also-ran__ _To become an also-ran._  
+__also-ran__ _n_ _To become an also-ran._  
 __also-run__  
 __altar boy__  
 __alter__ _v_  
 __altercation__  
-__alternating caps__ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
+__alternating caps__ _n_ Used to convey sarcasm or mockery across the internet. Can also be used to purposefully mislead and create humour.  
 __altitude sickness__  
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
@@ -378,13 +378,13 @@ __ambivert__ _adj_ A person who is intermediate between an extrovert and an intr
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
 __ambulate__ _v_ To walk from place to place; move about.  
 __ambulation__ _n_ :two::hammer:  
-__ambulatory__ _Hakan Erdem, 12, wasn’t ambulatory._  
+__ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
 __amenable__ _adj_ :dart::three: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
-__Ames__ _Ames, Iowa._  
+__Ames__ _n_ _Ames, Iowa._  
 __amethyst__ _n_ :three::pencil2::hammer:  
 __ametropia__ _n_  
 __amiable__  
@@ -400,17 +400,17 @@ __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ 
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __ample__ _adj_ :seven: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
-__amplification__ _Corrections & Amplifications (newspaper section)._  
+__amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
 __amusement park__ _n_ :two::hammer:  
 __anachronism__  
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
-__analyst__ :pencil2:  
+__analyst__ _n_ :pencil2:  
 __anastomosis__ _n_  
 __anathema__ _n_ :nine::m: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
-__anchor__ :mute:[anc~~h~~or]  
+__anchor__ _n, v_ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary__ _adj_ _Ancillary study end points._  
 __ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
@@ -421,7 +421,7 @@ __and-a-one, and-a-two...__
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
-__anecdotal__ :mega:  
+__anecdotal__ _adj_ :mega:  
 __anecdotally__  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemometer__ _n_ :two::hammer:  
@@ -449,7 +449,7 @@ __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilate__ _v_  
-__annihilation__ :pencil2::mega:  
+__annihilation__ _n_ :pencil2::mega:  
 __anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annuity__ _n_ :four::hammer: (annuities)  
