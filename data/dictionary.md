@@ -231,7 +231,7 @@ __aftermath__ _n_
 __afters__ _n informal_ :two: Dessert.  
 __afterward__ _adv_ :two::hammer:  
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
-__agape__ _He stood there with his mouth agape._  
+__agape__ _adj, adv_ __1__ With the mouth wide open, as in wonder. __2__ Wide open. _He stood there with his mouth agape._  
 __agave__ _n_  
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
@@ -261,7 +261,6 @@ __ague__ _n_ :two::hammer: (agues)
 __ah__  
 __aha__  
 __Aha! moment__  
-__ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahem__  
 __ahistorical__ _adj_ Unconcerned with or unrelated to history or to historical development or to tradition.  
 __ahold__  
@@ -275,7 +274,7 @@ __ails__ _v_ :two::hammer:
 __aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalless, haphazard, vagrant, directionless, unguided _After several hours of aimless driving, we were getting low on fuel._  
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
-__air nozzles__ _Try adjusting your air nozzles to full force._  
+__air nozzle__ _n_ _(mechanical engineering)_ In an automotive engine, a device for supplying air to the air-injection reactor. _Try adjusting your air nozzles to full force._  
 __air vent__  
 __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
@@ -285,8 +284,8 @@ __airfield__
 __airhead__ _n_ _slang_ A stupid person.  
 __airship__ _n_ _Tethered airships._  
 __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; sound: an airtight excuse.  
-__airy__ _The master bedroom is airy._  
-__aisle__ :mega: (īl)  
+__airy__ _adj_ _The master bedroom is airy._  
+__aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
 __akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc.  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
@@ -297,7 +296,7 @@ __Alas!__
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
-__alcove__ _The elevator alcove._  
+__alcove__ _n_ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
@@ -310,16 +309,15 @@ __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someo
 __alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_  
-__align__ :mute:[ali~~g~~n]  
+__align__ _v_ :mute:[ali~~g~~n]  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
-__all over__ _Dick jokes all over._  
 __all righty__  
 __all that said,__  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
 __all-nighters__ _n_  
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
-__all-pro__ _The Browns all-pro receiver._  
+__all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
 __allay__ _v_ :four::hammer: (allayed)  
 __allegation__ _n_  
@@ -341,7 +339,7 @@ __alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are r
 __allusion__ _n_  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
-__almond__ :mute:[a~~l~~mond]  
+__almond__ _adj, n_ :mute:[a~~l~~mond]  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  

@@ -92,6 +92,7 @@ __against oll odds__ Even though something seems completely impossible.
 __against the clock__ :two: Rushed and short on time.  
 __ahead of the curve__ :three:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
+__ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __alive and kicking__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
@@ -100,6 +101,7 @@ __all of a dither__ In a nervous, confused, or agitated state.
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
 __all over the place<sup>1</sup>__ _adj_ Inconsistent; lacking a clear pattern; with a large amount of variation. _I asked each person in turn, and their answers were all over the place._ _Amy Schumer has been all over the place lately._  
 __all over the place<sup>2</sup>__ _adv_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
+__all over__ _Dick jokes all over._  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
 __all that jazz__ :two: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
