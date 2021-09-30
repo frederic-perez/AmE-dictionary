@@ -245,7 +245,7 @@ __aggravation__
 __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aggro__ _n_ :three::hammer:  
-__aghast__ _adj_ :six::hammer:  
+__aghast__ _adj_ :seven: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __agnostic__ _adj_  
@@ -389,7 +389,8 @@ __amiable__
 __amicable__ _adj_  
 __amid__  
 __Amish__ _n_ _Amish country._  
-__amiss__ _adj_ :three::hammer: _Jack had sensed something amiss._  
+__amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
+__amiss<sup>2</sup>__ _adv_  
 __amity__  
 __ammo__  
 __ammonia__ _n_  
@@ -4019,7 +4020,7 @@ __drain board__ _n_ :three::hammer: (drainboard)
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
-__dramedy__  
+__dramedy__ _n_ :two::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
 __draught beer__ _n_ Beer drawn from a keg.  
@@ -5969,6 +5970,7 @@ __grueling__ _adj_ :three: Physically or mentally demanding to the point of exha
 __gruelling__  
 __gruff__ _adj_ :five::hammer:  
 __gruffly__  
+__grum__ _adj_ [:scroll: Probably a blend of grim + glum.] Surly or gloomy.  
 __grumble__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumbling__ _n_ :two::hammer: (grumblings)  
 __grungy__ _adj_ :two::hammer:  
@@ -7772,6 +7774,7 @@ __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
 __limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
+__liminal__ _adj_ __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
 __limo__  
 __limp__ _adj_ :two::hammer: _Limp spinoff._ _Limp wrists._  
@@ -9450,6 +9453,7 @@ __panache__ _n_ :five: The word was popularized in English from the success of E
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
+__Panglossian__ _adj_ Blindly or naively optimistic.  
 __pangram__ _n_ A sentence, verse, etc., that includes all the letters of the alphabet.  
 __panhandle__ _v_  
 __panhandling__  
@@ -10394,7 +10398,7 @@ __probity__ _n_ :two: Complete and confirmed integrity; having strong moral prin
 __proboscis__ _n_  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
-__proclivity__ _n_ A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._  
+__proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctologist__ _n_ :two::hammer:  
 __proctor<sup>1</sup>__ _n_ __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
@@ -10416,7 +10420,7 @@ __profiteer<sup>1</sup>__ _n_
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
 __profligacy__ _n_ :two: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
-__profligate<sup>1</sup>__ _adj_ :three::hammer:  
+__profligate<sup>1</sup>__ _adj_ :four: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
 __profusely__ _adv_ :two::hammer:  
@@ -13422,7 +13426,7 @@ __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging
 __surge<sup>2</sup>__ _n_  
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
-__surmise__ _v_ :seven::hammer: (surmised, surmising)  
+__surmise__ _v_ :eight::hammer: (surmised, surmising)  
 __surmount__ _v_ :two::hammer: (surmounted)  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
@@ -13962,6 +13966,7 @@ __tinker__ _v_ :three::hammer:
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
+__tintinnabulation__ _n_ __1__ The sound made by ringing bells. __2__ A tinkling, bell-like sound. :es: campanilleo  
 __tip over__ _v_ :three::hammer:  
 __tip__ _v_ :three::hammer: _You have to find a way to make Sam tip his hand._  
 __tip-top__ _adj_ _informal_ :two: Excellent. _Tip top perfection._  
@@ -14139,6 +14144,7 @@ __trade-off__ _n_ _She has to make trade-offs._
 __trademarked__ _adj_ (of goods and merchandise) Labeled with proprietary (and legally registered) identification guaranteeing exclusive use. _Trademarked goods._  
 __traduce__ _v_ :two::astonished: Speak badly of or tell lies about (someone) so as to damage their reputation. _Syn_ defame, slander  
 __traffickers__  
+__tragicomedy__ _n_  
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
