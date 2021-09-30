@@ -87,6 +87,7 @@ __Adam’s ale__ _slang_ Water.
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
 __add up to__ To equal or amount to something.  
 __admit defeat__ To yield to the opposition or accept that one is wrong in some pursuit.  
+__adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __advanced in years__ Of an older age.  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  

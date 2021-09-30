@@ -117,7 +117,6 @@ __Achilles__ _Out for season after tearing his Achilles against San Diego._
 __Achilles’ heel__ _n_ A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek ’nanos’, meaning ’dwarf’], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __ACK__  
-__ACL__ Anterior cruciate ligament.  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
@@ -137,7 +136,7 @@ __acrophobia__
 __across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
-__ACT__ A college entrance exam, competitor to the SAT.  
+__ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
@@ -150,7 +149,7 @@ __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with l
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
 __ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
-__Ada__ :mega: /ā′də/  
+__Ada__ _n_ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
@@ -160,18 +159,19 @@ __address__ _v_ :three::hammer: _A multitude of problems need to be addressed._
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __adhere__ _v_  
-__adhesive__ _Double-stick adhesive strips._  
+__adhesive__ _adj, n_ _Double-stick adhesive strips._  
 __adiabatic__ _adj_ :three::hammer:  
 __adjoin__ _v_ Lie adjacent to another or share a boundary. _Syn_ abut, edge, border, march _Canada adjoins the United States._  
 __adjoining__ _adj_ _An adjoining room._  
 __adjourn__ _v_ (adjourned) _The trip was adjourned to Feb. 1._  
 __adjudge__ _v_ :two: To pronounce formally. _It was a tight race, but Frankie was ultimately adjudged the winner._  
 __adjudicator__  
-__adjunct__ _Adjunct professors._  
+__adjunct__ _adj, n_ _Adjunct professors._  
 __adjunctive__ _adj_  
 __adjure__ _v_ _Syn_ command  
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
-__admin__ _I was doing just admin stuff._  
+__admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
+__admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
@@ -182,14 +182,13 @@ __adroit__
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
 __adulation__  
-__adult in the room__ _n idiom_ A person who makes calculated, rational decisions based on all available data. _Everybody is thinking with emotion, but Jim is the only adult in the room._  
 __adulterate__ _v_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
-__advice__ _This is my unsolicited advice._  
+__advice__ _n_ _This is my unsolicited advice._  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
 __advisory<sup>1</sup>__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
@@ -214,12 +213,12 @@ __afforestation__ _n_ :pencil2: The process of planting many trees on an area of
 __affront__ _n_ :two::hammer:  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
-__afire__ _The Klansmen set the bus afire._  
+__afire__ _adj, adv_ _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
 __afoul__ _adj_ :two::hammer:  
-__afresh__ _They had to start afresh._  
+__afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
 __aft__ _adj_ :two::hammer: _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  

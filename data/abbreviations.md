@@ -6,6 +6,7 @@ __AAA__ (Automotive Engineering) Automobile Association of America.
 __AAPI__ Asian Americans and Pacific Islanders.  
 __AAVE__ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
+__ACL__ Anterior cruciate ligament.  
 __ADD__ Attention deficit disorder.  
 __ADHD__ Attention deficit hyperactivity disorder.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
