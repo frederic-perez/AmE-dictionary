@@ -12,25 +12,22 @@ __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something u
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __, so why (even) bother?__  
 __, to say the least.__  
-__“duh” department__ :astonished: _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
-__101__ Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
+__101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
 __18-wheeler__ _n_ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
-__203__ _The Machine-Gun Shooting 203 course._  
 __21__ _n_ Drinking game.  
 __35-degree day__  
-__4-H__ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
+__4-H__ _n_ Of or relating to a government program in the U.S. that teaches farming skills and good citizenship to young people.  
 __411__ _n_  
 __8-track__ _n_ (eight-track) A form of magnetic tape technology for audio storage, popular from the mid-1960s to the early 1980s. _The eight-track audio tape._  
 __a bird in the hand is worth two in the bush__  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
 __à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
-__a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __A-list__  
-__A4__ :astonished: _A4 stainless steel._  
+__A4__ _adj, n_ :astonished: _A4 stainless steel._  
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
@@ -80,15 +77,15 @@ __abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To r
 __abstruse__ _adj_ Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__  
-__abutted__  
-__abutting__ _Bungalows abutting._  
+__abut__ _v_ (abutted, abutting) _Bungalows abutting._  
+__abutting__ _adj_  
 __abuzz__ _adj_ :two::hammer:  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
-__accidental__ _Ottolenghi is an accidental chef._  
+__accidental__ _adj, n_ _Ottolenghi is an accidental chef._  
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaimed__  
 __accolade__ _n_ :seven: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
@@ -113,7 +110,7 @@ __acerbic__ _adj_ :four::hammer:
 __acetate__ _n_  
 __achalasia__ _n_  
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
-__Achilles__ _Out for season after tearing his Achilles against San Diego._  
+__Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
 __Achilles’ heel__ _n_ A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek ’nanos’, meaning ’dwarf’], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __ACK__  
@@ -122,7 +119,7 @@ __acne__ _n_ :mega::three::hammer:
 __acolyte__ _n_ :four::hammer: (acolytes)  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
-__acquaintances__ :pencil2:  
+__acquaintance__ _n_ :pencil2:  
 __acquiesce__ _v_ :three: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  

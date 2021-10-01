@@ -7,7 +7,7 @@ __boo<sup>2</sup>__
 __d’oh__ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
-__duh__ _slang_ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._  
+__duh__ _slang_ /ˈdə, usually with prolonged ə/ __1__ Used to express actual or feigned ignorance or stupidity. _Duh, I don’t know._ __2__ An ironic response to a question or statement, implying that the speaker is stupid or that the reply is obvious: _how did you get in here? – through the door, duh._ _From the “duh” department, sit in a shaded area if you want to see your phone’s screen clearly._  
 __eh?__ _Impressive, eh?_  
 __encore<sup>3</sup>__ Used to demand an additional performance.  
 __er__ :three::dart: Used to express hesitation or uncertainty. _It does look, er, distinctive._ _“The well-being of your child os of paramount concern,” he wrote in his lecture, er, letter._  

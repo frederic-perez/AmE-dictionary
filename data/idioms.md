@@ -64,6 +64,7 @@ __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll j
 __a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
 __a long row to hoe__ A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _I know finishing this thesis will be a long row to hoe, but I’m actually looking forward to the challenge._  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _You’re playing a losing game if you think you can convince Sarah to go to college._  
+__a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
 __a shiver down (one’s) spine__ A shudder felt down one’s back, due to either fear, anticipation, nervousness, or excitement. _I felt a shiver down my spine at the thought of my exam tomorrow._  
