@@ -2054,7 +2054,7 @@ __carol__ _v_ (caroling) (vs Christmas carol)
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :two: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
+__carouse__ _v_ :three: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
 __carousel__  
 __carpet bombing__  
 __carping__ _v_  
@@ -8439,7 +8439,7 @@ __miscegenation__
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
 __mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
-__mischief__ _n_ :three::hammer:  
+__mischief__ _n_ :four::hammer:  
 __mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__  
 __misconstrued__  
@@ -8456,6 +8456,7 @@ __misericord__ _n_ :astonished: __1__ Compassion, pity, or mercy. __2__ Somethin
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
+__misfortune__ _n_  
 __misgiving__ _n_ :five: (misgivings) _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
@@ -8672,6 +8673,7 @@ __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack f
 __mundane__ _adj_ :four::hammer:  
 __Muni bus__  
 __munificent__ _adj_ :two: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
+__munifience__ _n_ _obsolete_ A fortification.  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
 __muons__ _n_ _Cosmic-ray muons._  
 __murder book__ _n_ The case file of a murder investigation.  
@@ -10228,6 +10230,7 @@ __potty training__ _n_ _informal_ Toilet training.
 __pouch__ _n_  
 __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fashionable in the 14th-15th centuries. __2__ A shoe made in this way.  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
+__poultry__ _n_  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
 __pounce__ _v_ :five::hammer: (pounced)  
 __pounding__ _v_ _Pounding the Jaguars._  
@@ -10611,6 +10614,7 @@ __pushcart__ _n_ _A pushcart vendor._
 __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy__ _adj_ :two::hammer: _I guess I was a little pushy._ _Pushy sales._  
+__pusillanimous__ _adj_ Characterized by a lack of courage or determination.  
 __pustules__ _n_  
 __put it on the money__  
 __put on a clinic__  
@@ -10678,7 +10682,7 @@ __quench__ _n_ :two::hammer:
 __quenched__ _v_  
 __quenches__ _v_  
 __querulous__ _adj_ :four::hammer:  
-__query<sup>1</sup>__ _n_ :mega:  
+__query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
 __questionnaire__ _n_  
@@ -10833,7 +10837,7 @@ __raring__
 __rascal__ _n_ :three: __1__ One that is playfully mischievous. __2__ An unscrupulous, dishonest person; a scoundrel.  
 __rascality__ _n_ The trait of indulging in disreputable pranks. _Syn_ prankishness, roguishness _I had underestimated the rascality of my roommate, who had replaced my shoelaces with spaghetti yet again._  
 __rash<sup>1</sup>__ _n_ :nine: (rashes) __1__ An outbreak of reddening or spots on the body. _Discussing diaper rashes with fifteen-year-old mothers._ _Skin rashes._ __2__ A large number of instances of a specified thing during a short period. _A rash of oil problems._ _A rash of promotions._  
-__rash<sup>2</sup>__ _adj_ :dart::three: Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
+__rash<sup>2</sup>__ _adj_ :dart::four: Acting or done too quickly, without considering the effects of your actions. Marked by or proceeding from undue haste or lack of deliberation or caution. _The future Emperor, less rash than his father, saw what was coming and escaped._ _She began to regret her rash decision to leave her job._ _I know you’re angry, but please don’t do anything rash._ _I made a rash decision based on emotions._  
 __Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesses to the same event may see it differently._  
 __rasp__ _v_  
 __raspberry__ _n_ :mute:[ras~~p~~berry]  
@@ -13475,7 +13479,7 @@ __swathe<sup>1</sup>__ _n_
 __swathe<sup>2</sup>__ _v_ :three::hammer: (swathed)  
 __swats__ _n_ :two::hammer:  
 __swatted__  
-__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
+__sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move slowly or rhythmically backwards and forwards or from side to side. _Syn_ swing, shake, oscillate, rock _Swaying in the stands._ _Swaying like a metronome._ _The flowers bobbled and swayed._ __2__ Win approval or support for. _He could sway a mob._ _His speech did not sway the voters._ _He had no sway over him._ _They stood together and swayed._ _Syn_ carry, persuade  
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
@@ -15322,7 +15326,7 @@ __withered__ _adj_ _Withered deals._
 __withering__ _adj_ Tending to overwhelm or destroy; devastating: _withering sarcasm._  
 __withershins__ _adv_ In a direction contrary to the apparent course of the sun; counterclockwise.  
 __withes__ _n_ :two::hammer:  
-__withhold__  
+__withhold__ _v_ :two::hammer::pencil2:  
 __withstand__ _v_ :three::hammer:  
 __witty__ _adj_  
 __wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
