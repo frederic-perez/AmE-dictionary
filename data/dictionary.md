@@ -14287,7 +14287,7 @@ __truant__ _n_ :two: Someone who shirks duty. _Syn_ nonattender, no-show _As the
 __truck__ _v_ _They will not truck with terrorists._  
 __truckle__ _v_  
 __truculent__ _adj_ :five: Defiantly aggressive. _Syn_ belligerent, combative, pugnacious, bellicose, obstreperous _Bitter and truculent when excited, I spoke as I felt, without reserve or softening._  
-__trudge__ _v_ :nine::m::hammer: (trudged, trudging)  
+__trudge__ _v_ :nine::m: (trudged, trudging) To walk in a laborious, heavy-footed way; plod. Walk heavily and firmly, as when weary, or through mud. _Mules plodded in a circle around a grindstone._ _Syn_ footslog, plod, slog, tramp, pad  
 __true to form__  
 __truffle__ _n_ :two::hammer: (truffles)  
 __truism__ _n_ :two::hammer:  
@@ -14441,7 +14441,7 @@ __unakin__ _adj_ Not related or comparable.
 __unalienable__  
 __unallocated__ _adj_ Not allocated or reserved; free. _He had an unallocated fear of radioactivity, born of ignorance._  
 __unanimous__  
-__unapologetic__ _adj_ :nine::hammer:  
+__unapologetic__ _adj_ :nine: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
 __unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
@@ -14474,7 +14474,7 @@ __underfoot__ _adv_ _They were reluctant to recognize crisis until it was underf
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
-__undermine__ _v_ :nine::m::hammer: (undermined)  
+__undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
 __underpin__ _v_ :four::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
@@ -14708,7 +14708,7 @@ __vamp__ _v_ :two::hammer: (vamping)
 __vampire squid__  
 __vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
 __vandals__  
-__vane__ _n_ :nine::hammer: (vanes) _A smooth metal weather vane._ _Wind vane._ _Wind vanes._ _Propeller vane._  
+__vane__ _n_ :nine: (not to be confused with vain, vein) __1__ (Mechanical Engineering) A flat plate or blade of metal mounted on a vertical axis in an exposed position to indicate wind direction. _Syn_ weather vane, wind vane _A smooth metal weather vane._ _Wind vane._ __2__ (Mechanical Engineering) Any one of the flat blades or sails forming part of the wheel of a windmill. __3__ (Mechanical Engineering) Any flat or shaped plate used to direct fluid flow, esp a stator blade in a turbine, etc. __4__ (Mechanical Engineering) A fin or plate fitted to a projectile or missile to provide stabilization or guidance. _Propeller vane._ __5__ (Zoology) _ornithol_ The flat part of a feather, consisting of two rows of barbs on either side of the shaft.  
 __vanguard__ _n_  
 __vanilla__ _n_ :dart::two: __1__ Flavored with the extract of the vanilla bean. __2__ Lacking distinction. _Syn_ plain, ordinary, conventional  
 __vanilla-flavored__ _adj_ _He is cautious about every step, to the point of seeming vanilla-flavored._  
