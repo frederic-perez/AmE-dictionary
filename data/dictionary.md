@@ -513,7 +513,7 @@ __apostrophe__
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
-__appalled__ _adj_ :five: Shocked or dismayed; filled with horror.  
+__appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
 __appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ _n_ :two::hammer: _Campaign apparatus._  
@@ -876,6 +876,7 @@ __banister__ _n_ :two::hammer: _Polished mahogany banisters._
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
+__banneret__ _n_  
 __banquet__ _n_ :mega::two::hammer:  
 __banshee__ _n_  
 __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._  
@@ -5203,7 +5204,7 @@ __For starters__ _phr informal_ :five: You use for starters when you mention som
 __for the sake of__  
 __for__ _prep_ __32__ (used to indicate the number of successes out of a specified number of attempts): _The batter was 2 for 3 in the game._ _3 for 4 (attempts)._  
 __for-profit__  
-__forage<sup>1</sup>__ _n_  
+__forage<sup>1</sup>__ _n_ :three::hammer: _Horses’ forage._  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
 __forager__ _n_ :three::hammer: (foragers)  
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
@@ -5951,7 +5952,7 @@ __grove__ _n_ :two::hammer:
 __grovel__ _v_ :four::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
-__growl<sup>2</sup>__ _v_ :six::hammer: (growled, growling)  
+__growl<sup>2</sup>__ _v_ :seven::hammer: (growled, growling) _The dogs were growling in repulsion._  
 __grown-up<sup>1</sup>__ _adj_  
 __grown-up<sup>2</sup>__ _n_  
 __grub__ _n_ _slang_ :three: Food. _For veterans, this is the three-day weekend to stop counting calories and start devouring free grub._  
@@ -9348,6 +9349,7 @@ __overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._
 __overnight<sup>3</sup>__ _n_  
 __overpass__ _n_  
 __overqualified__ _adj_ Having more knowledge, skill, and/or experience than is needed for a particular job.  
+__overreach__ _v_  
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
@@ -9400,7 +9402,7 @@ __page__ _n_
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pages__ _n_ A source or record of knowledge: _in the pages of science._  
-__pail__ _n_ :three::hammer: _A lunch pail._  
+__pail__ _n_ :four::hammer: _A lunch pail._ _Milk pails._  
 __pain__ _n_ _You’re such a pain!_ :es: ¡Pero qué pesado eres!  
 __painstaking__ _adj_ :two::hammer: _Painstaking patience._  
 __painstakingly__ _adv_ :two::hammer:  
@@ -9636,6 +9638,7 @@ __peck<sup>1</sup>__ _n_ _informal_ A light quick kiss. _He gave her a peck on h
 __peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._  
 __peckerwood__  
 __pecking order__  
+__peculation__ _n_ _Jean was imprisoned for peculation._  
 __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_  
@@ -9751,6 +9754,7 @@ __pernicious__ _adj_ :five: Tending to cause death or serious injury. _Syn_ bane
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
+__perquisite__ _n_  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
 __persnickety__ _adj_ :dart:  
@@ -10492,6 +10496,7 @@ __prowled__ _v_
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
+__prudently__ _adv_  
 __prurient__ _adj_ :two::hammer:  
 __pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
@@ -15343,6 +15348,7 @@ __wonted__ _adj_ Commonly used or practiced; usual.
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
 __wood pellets__  
 __wood rasp__ _n_  
+__wooden-headed__ _adj_ _informal_ Stupid.  
 __woodland__ _n_  
 __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  

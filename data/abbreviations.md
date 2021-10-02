@@ -41,6 +41,7 @@ __ENT__ :three: Ear, nose and throat doctors, often called ENT doctors, speciali
 __ESP__ Extrasensory perception. _ESP powers._  
 __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._  
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
+__FDR__ Franklin Delano Roosevelt  
 __FFP__ Filtering face piece (a filtering half mask).  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __FT__ _Sports_ __1__ Full-time. __2__ Free throw.  

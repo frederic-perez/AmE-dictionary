@@ -27,7 +27,7 @@ __hell yes/no__ _mainly US informal_ Used to emphasize that you strongly agree o
 __hiya__ An informal term of greeting.  
 __hmm__ :two::hammer:  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
-__holy cannoli__ :two: An expression that usually accompanies shock or excitment. _Holy cannoli, what the hell was that?_  
+__holy cannoli__ :two: An expression that usually accompanies shock or excitement. _Holy cannoli, what the hell was that?_  
 __holy guacamole__ An exclamation said when surprised, used when in shock or disbelief.  
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
 __hosanna__ _n_  
@@ -36,7 +36,7 @@ __jeez__ Used to express surprise or annoyance.
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __meh__ :two: Used to express indifference, apathy, or boredom.  
 __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
-__namaste__  
+__namaste__ Used especially among Hindus to express a polite or respectful greeting or farewell.  
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
@@ -63,6 +63,8 @@ __woohoo__ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
 __yay__ :six: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  
 __yeet__ _informal, slang, humorous_ Used to express excitement or approval.  
+__yep__ _interj_ _informal_ Yes.  
 __yikes__ :two: An exclamation of surprise or alarm.  
 __yo__ _slang_ :four: __1__ Used as a greeting or to attract someone’s attention. __2__ Used to express emphasis: _Today’s my birthday, yo._  
 __yuck__ _slang_ Used as an expression of disgust or repugnance. _Yuck, it’s spinach again!_  
+__yup__ _interj_ _informal_ Yes.  
