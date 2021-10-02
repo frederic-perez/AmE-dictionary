@@ -150,6 +150,7 @@ __at large__
 __at length__ _At length a messenger entered the camp site and sought out King._  
 __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._  
 __at once__  
+__at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
@@ -257,6 +258,7 @@ __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and
 __blow your top__ To become very angry.  
 __blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__  
+__bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is an area of wet, muddy ground that it is difficult to walk through.) _We were hoping to open the restaurant by the holidays, but we’ve gotten bogged down with regulations and permits._ __2__ Stuck; prevented from making progress. _The students became bogged down with the algebra problems._  
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
@@ -279,6 +281,7 @@ __breaking point__
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
+__bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
 __bring (something) into effect__ :dart: To cause (something) to apply, begin operating, or take effect; to begin implementing or enforcing (something). _The new government has vowed to bring several policies into effect, aimed at helping struggling citizens get by._  
 __bring a knife to a gunfight__ To come poorly prepared or equipped for some task, goal, competition, or confrontation. Often used in the negative as a forewarning or piece of advice.  
 __bring about__ :two: To cause something to happen. _That landmark civil rights case brought about great societal upheaval._  
@@ -307,6 +310,7 @@ __by the numbers__ _The boxing sequences are by the numbers._
 __by the same token__ :two::hammer:  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
 __bystander effect__ A social psychological phenomenon in which the more people there are viewing a crisis or crime, the less likely they are to offer aid to the victim(s). Also known as bystander apathy.  
+__call down__ __5__ To invoke or request divine intervention. A noun or pronoun can be used between “call” and “down.” _I wouldn’t cross a woman who converses with the spirits—who knows what kinds of punishments she can call down on us!_ _He called down a curse upon the King and his descendants._  
 __call it even__ To acknowledge or consider a situation or exchange as being equal or equitable, as regarding debt, status, ability, a contest, etc.  
 __call of nature__ The need to go to the toilet.  
 __call on (someone or something)__ _He called on me._  
@@ -867,7 +871,7 @@ __hit the road__ To leave a place or begin a journey.
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the wall__ :two::hammer:  
 __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
-__hither and thither__ :three::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
+__hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hog (something)__ To take or use something all for oneself; to not allow others to have or use something. _Hey buddy, quit hogging the road!_ _My wife always hogs the covers at night._  
 __hoist by (one’s) own petard__ To be injured, ruined, or defeated by one’s own action, device, or plot that was intended to harm another; to have fallen victim to one’s own trap or schemes. (Note: “hoist” in this instance is the simple past-tense of the archaic form of the verb, “hoise.”)  
 __hold (one’s) feet to the fire__ To put pressure on one to do, say, or consent to something._Someone holds everyone’s feet to the fire._  
@@ -1250,6 +1254,7 @@ __make fast work of (someone or something)__ __1__ To deal with, finish, or disp
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
+__make light of__ _Squires and servants made light of him._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
 __make matters worse__ To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
@@ -1357,6 +1362,7 @@ __on the rise__
 __on the same page__ To agree on something.  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ About to be said or almost remembered.  
+__on the whole__ Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._  
 __on thin ice__ In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
@@ -1458,6 +1464,7 @@ __receive (one’s) just deserts__ To receive that which one deserves, especiall
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red pill__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
+__religious intolerance__ Intolerance of another’s religious beliefs or practices or lack thereof. _Religious intolerance waxed._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
@@ -1710,8 +1717,10 @@ __turf war__
 __turn around__ To change something unsuccessful into something successful.  
 __turn away__ To refuse to let someone come into a place.  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
+__turn the tables__ To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_  
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
+__two-way street__ _n_ An arrangement or a situation involving reciprocal obligation or mutual action.  
 __uncanny valley__ :three::hammer:  
 __under (one’s) belt__ :two: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  
