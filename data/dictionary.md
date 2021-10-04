@@ -2816,7 +2816,7 @@ __connivance__ _n_ :two: Agreement on a secret plot.
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
-__conscription__  
+__conscription__ _n_ :two::hammer:  
 __consecutive__  
 __consensual__  
 __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
@@ -3156,7 +3156,7 @@ __crossroad__ _n_ _He is at a significant crossroads in his career._
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
 __crouch<sup>2</sup>__ _n_  
-__crow__ _v_ :three::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._  
+__crow__ _v_ :four::hammer: (crowed, crowing) _“There is nothin’ like OPEC clout,” crowed Jim._ _He proclaimed his intention like a cock crowing._  
 __crowbar__ _n_ :three::hammer: (crowbars)  
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
@@ -5345,7 +5345,7 @@ __Frenchman__
 __frenetic__ _adj_  
 __frenzy__ _n_ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
-__freshen__ _v_ _Eve was freshening drinks and handing out cigars._  
+__freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ The occurrence of a water flow resulting from sudden rain or melting snow.  
 __fret away__  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
@@ -6199,7 +6199,7 @@ __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive 
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
-__harry__ _v_ :eight: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
+__harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvest__ _v_ _Fish oil from harvested fish._  
 __hash browns__ _pl n_ :two::hammer:  
@@ -9722,7 +9722,7 @@ __perennial<sup>1</sup>__ _adj_ :three::hammer:
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
 __perfidious__  
-__perfidy__  
+__perfidy__ _n_ :two::hammer:  
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
@@ -10875,6 +10875,7 @@ __raven-haired__
 __ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
 __ravish__  
+__ravisher__ _n_  
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
 __raw dog__  
 __raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._  
@@ -12186,7 +12187,7 @@ __sideways__ _n_ :two::hammer: _I’m not interested in getting sideways with an
 __sidle<sup>1</sup>__ _v_ (sidled)  
 __sidle<sup>2</sup>__ _n_ __1__ An unobtrusive, furtive, or coy advance. __2__ A sideways movement.  
 __siege__ _n_ :two::hammer: _An overnight siege shocked the country._  
-__sieve<sup>1</sup>__ _n_ :six::hammer: _Water leaking from a sieve._  
+__sieve<sup>1</sup>__ _n_ :seven::hammer: _Water leaking from a sieve._ _The Truce was a sieve that failed to contain human behavior._  
 __sieve<sup>2</sup>__ _v_  
 __sift__ _v_ :seven: (sifted) __1__ Put (a fine or loose substance) through a sieve so as to remove lumps or large particles. _Sift the flour into a large bowl._ _Syn_ sieve, strain, screen, filter __2__ Examine (something) thoroughly so as to isolate that which is most important. _Until we sift the evidence ourselves, we can’t comment objectively._ _Syn_ search through, look through, rummage through, root about/around in, ferret (about/around) in, poke around in, go through, turn over, explore, examine, inspect  
 __sigh__ _v_ :two::mega::mute:[si~~gh~~]  
@@ -13706,7 +13707,7 @@ __tee-shirt__ _n_ (tee shirt) Variant spellings of T-shirt. Tee-shirt remains fa
 __teeing up__ _v_  
 __teem__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
-__teeter__ _v_ :nine::m: (teeters, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
 __teetotaler__ _n_ :two: One who abstains completely from alcoholic beverages.  
@@ -13831,6 +13832,7 @@ __think tank__ _n_ :five::hammer:
 __think up__ _phr v_ :two: To invent or imagine something, especially an excuse.  
 __thinner__ _n_ A liquid, such as turpentine, mixed with paint or varnish to reduce its viscosity and make it easier to apply.  
 __thinning__ _n_  
+__third estate__ _n_ The third of the traditional social classes; the common people.  
 __third rail__ _n_ __1__ The rail that supplies the high voltage to power a train on an electric railway. __2__ A subject that tends to be avoided because of its offensive or controversial nature.  
 __this and that__  
 __this time around__ _phr_ :dart::hammer: :es: esta vez  
