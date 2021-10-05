@@ -823,7 +823,7 @@ __bagman__ _n_ _Bill is a bag man for corrupt officials._
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
 __bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
-__bailiwick__ _n_ :two::hammer:  
+__bailiwick__ _n_ :four::hammer:  
 __bailout__ _n_ :four::hammer:  
 __bait__ _v_ _A trap baited by a devil._  
 __bake in__ _v_  
@@ -4605,7 +4605,7 @@ __exhortation__ _n_
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
-__exonerate__ _v_ :four: (exonerating) __1__ To clear from accusation, guilt, or blame. __2__ To relieve from an obligation, duty, or task.  
+__exonerate__ _v_ :five: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
@@ -4747,6 +4747,7 @@ __fang__ _n_ :pencil2::three::hammer: (fangs)
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
 __fantabulous__ _adj_ _informal_ Very good; excellent.  
+__fantail__ _n_ :two::hammer:  
 __fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
 __fantasticate__ _v_ To make fantastic.  
@@ -7090,6 +7091,7 @@ __inveterate__ _adj_ :four: Always doing a particular thing, especially somethin
 __invoice__ _v_  
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
+__iodine__ _n_ :es: yodo  
 __IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
@@ -7279,7 +7281,7 @@ __jujitsu__ _n_
 __juke__ _n_ _I was looking in my mirror and saw him juke to the right._  
 __julep__ _n_ :three::hammer: (juleps)  
 __Juliette balcony__  
-__jumble__ _n_ :five: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
+__jumble__ _n_ :six: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
 __jumbotron__ _n_  
 __jump at__ _phr v_ To take an opportunity with enthusiasm.  
@@ -10268,7 +10270,7 @@ __prayer book__
 __prayer wheel__  
 __praying mantis__ _n_ A mantis, especially the European species _Mantis religiosa_, which while at rest folds its front legs as if in prayer.  
 __pre-emptive__  
-__precarious__  
+__precarious__ _adj_ :two: /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
 __preceded__ _v_  
 __precept__ _n_ A rule, instruction, or principle that teaches correct behavior.  
 __preceptor__ _n_ :two::hammer:  
@@ -10636,7 +10638,7 @@ __PVC__
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
-__pyres__ _n_  
+__pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._  
 __pyrheliometer__ _n_ :two::hammer:  
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
@@ -10941,6 +10943,7 @@ __recidivism__ _n_ :two: The repeating of or returning to criminal behavior by t
 __recidivist__ _n_ :four::hammer:  
 __recitalist__  
 __reckless__  
+__recknit bones__  
 __reckon__ _v_ :three::hammer:  
 __reckoning__ _n_  
 __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past and has been used for buildings and structures from the 18th to the early 20th century. The wood is recycled and reused to meet today’s ever-growing need for sustainable and eco-friendly homes and businesses. _Antique doors and beams made of reclaimed wood._  
@@ -12303,7 +12306,7 @@ __skirting__ _v_ :two::hammer:
 __skit__ _n_ :three::hammer:  
 __skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar’s kick skittered through the hands of the goalkeeper._ _The brittle down leaves of fall skittering down an alley in a gust of wind._  
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
-__skivvies__ _n_ :five: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
+__skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
 __skulk__ _v_ :three::hammer: _Jessica makes both friends and enemies skulking around in the night._  
@@ -12461,7 +12464,7 @@ __sly__ _adj_ :nine::m: Having or showing a cunning and deceitful nature. _A sly
 __slyboots__ _n_ :two: A shifty, deceptive person. _Syn_ dodger, fox _I can never trust that slyboots at the office-she is polite to my face, but I always catch her belittling me to our coworkers!_  
 __slyly__ _adv_ :astonished: _She smiled slyly._  
 __smack-dab__  
-__smack<sup>1</sup>__ _v_ :three::hammer: _He smacked his lips._  
+__smack<sup>1</sup>__ _v_ :four::hammer: _He smacked his lips._ _The bomb smacked into the destroyer._  
 __smack<sup>2</sup>__ _n_  
 __smack<sup>3</sup>__ _adv_  
 __small fry__ _adj_ :two: (small-fry) Lacking importance.  
@@ -14368,7 +14371,7 @@ __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese
 __turpentine__ _n_  
 __turpitude__ _n_ :two: Behavior that is dishonest or immoral.  
 __turquoise__ _n_ :pencil2:  
-__turret__ _n_  
+__turret__ _n_ :four::hammer:  
 __turtledove__ _n_ :es: tórtola  
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
@@ -14432,7 +14435,7 @@ __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the le
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
 __ulterior__ _adj_  
 __ultimately__  
-__ululate__ _v_ Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
+__ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar  
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  

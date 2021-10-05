@@ -1,15 +1,3 @@
-__turret__ _n_ :three::hammer:  
-__ululate__ _v_  
-__fantail__ _n_ :two::hammer:  
-__skivvies__ _n pl_  
-__smack__ _v_ _The bomb smacked into the destroyer._  
-__jumble__ _n_  
-__bailiwick__ _n_ :two::hammer:  
-__recknit bones__  
-__pyre__ _n_ _It burned like a funeral Viking pyre._  
-__precarious__ _adj_ /prih-KAIR-ee-us/ Precarious means “characterized by uncertainty, insecurity, or instability that threatens with danger.” _College debt leaves many students in a precarious financial situation after graduation._ _The books were stacked high in a precarious tower._  
-__exonerate__ _v_ Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._  
-__iodine__ _n_ :es: yodo  
 __recall__ _n, v_  
 __eponym__ _n_  
 __toponym__ _n_  
