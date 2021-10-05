@@ -324,6 +324,7 @@ __can’t be bothered__ Unwilling or disinclined to make the effort necessary to
 __canary in a coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cancel out__  
 __candle in the wind__ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
+__cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __cards are stacked against someone__ Luck is against someone.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
@@ -399,6 +400,7 @@ __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and sli
 __cross (one’s) t’s and dot (one’s) i’s__ To do something carefully and make sure that every last minor detail is completed. _Make sure the legal team crosses their t’s and dots their i’s when drawing up the contract._  
 __cross my heart (and hope to die)__ A vow that one is being truthful. _Billy’s the one who broke the cookie jar—cross my heart and hope to die!_  
 __cross one’s mind__ _It never crossed my mind._  
+__cross swords__ To fight or argue. _They had crossed swords many times._  
 __cross that bridge later__ To deal with a problem, issue, or situation at another point in time. It is recommended especially when the issue is not problematic at the moment.  
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
@@ -534,7 +536,7 @@ __feel all the feels__ To experience a range of strong emotions. _Oh man, that v
 __feel like a million bucks__ To feel exceptionally attractive or in very robust health. _Wow, I feel like a million bucks in this new suit!_  
 __feel like__ :two: __1__ To desire to do something: _We all got bored and felt like leaving._ _I feel like ordering a cup of coffee._ _I don’t feel like it._ __2__ To desire to have something: _I feel like a cup of coffee._  
 __fender bender__ :three: A little car accident. _Stranded by a fender bender._  
-__few and far between__ Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
+__few and far between__ :two: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __fill someone in__ _Thank you for filling us in._  
@@ -818,7 +820,7 @@ __have someone pegged__ :two: _She had me pegged on that, too._ _You got me pegg
 __have the better of (someone or something)__ To have or gain superiority, mastery, or an advantage over someone or something; to have control over someone or something.  
 __have the feel of (something)__ To have a general sense of how to do or use something or how something operates; to be familiar with something.  
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
-__have the goods on (someone)__ To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._  
+__have the goods on (someone)__ :two: To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._ _I got the goods on you._  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn’t have the heart to tell her that I didn’t love her anymore._  
 __have the say__ To have the ultimate authority to command, control, or make a decision.  
 __have the wind up__ To be very anxious, upset, or frightened.  
@@ -896,7 +898,7 @@ __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasi
 __honorable mention__ A recognition or citation of merit given to a contestant, exhibition, entry, etc., in a competition despite that person or thing not being awarded a prize or top honor.  
 __hook, line, and sinker__ Completely and unquestioningly. _The moment I met my wife, I fell for her hook, line, and sinker._  
 __hooked on (someone or something)__  
-__hope against (all) hope__ To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
+__hope against (all) hope__ :two: To continue to hope for something even though it seems unlikely to happen. _I know she said that she wasn’t going to come home for Christmas, but I’m hoping against hope she’ll change her mind._  
 __horse and rabbit stew__ A situation comprised of both crude or unpleasant things as well as those which are pleasing or beneficial, usually with the former in greater proportion to the latter. Used especially in reference to economics or business.  
 __horse around__  
 __horse-trade__ To negotiate, trade, or bargain in a shrewd, judicious manner.  
@@ -1342,6 +1344,7 @@ __on edge__ :three: Highly tense or nervous; irritable. _Our youngster is just f
 __on every level__ _That was a bad idea on every level._  
 __on fire__ Something is going really well or someone is doing a fantastic job.  
 __on foot__ _I work to work on foot._  
+__on occasion__ Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
 __on pins and needles__ Worried or excited about something.  
 __on point__ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
 __on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
@@ -1503,7 +1506,7 @@ __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new part
 __scrounge up__ _To scrounge up the funds._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __security blanket__ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
-__see eye to eye__ :two: To concur, agree.  
+__see eye to eye__ :three: To concur, agree. To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  
 __see red__ :two: To become very angry.  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __sell (someone, something, or oneself) short__ To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
@@ -1598,6 +1601,7 @@ __sweet spot__ A particular point, area, or range where something will be most e
 __sync up__ _Syncing up over coffee._  
 __tag along__ :four: :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
 __tail end__ _The tail end of the day._  
+__tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
 __take (one’s) side__ To support or side with one in an argument.  
 __take (something) to heart__  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
@@ -1612,6 +1616,7 @@ __take it to the bank__
 __take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
 __take over__ Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
+__take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the high road__ To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment.  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
