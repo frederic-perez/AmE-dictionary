@@ -301,6 +301,7 @@ __Aleut__ _n_
 __alfresco<sup>1</sup>__ _adv_  
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
+__Alhambresque__ _adj_  
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
@@ -1766,6 +1767,7 @@ __bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speech
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __bunting__ _n_  
+__Bunyanesque__ _adj_  
 __buoy<sup>1</sup>__ _n_ :two: A floating signal; a life preserver.  
 __buoy<sup>2</sup>__ _v_ :four: (buoyed) __1__ Keep (someone or something) afloat. __2__ Sustain.  
 __buoyancy__  
@@ -2390,6 +2392,7 @@ __churn rate__ _n_ The annual percentage rate at which customers stop subscribin
 __churn__ _v_  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
+__churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
@@ -4478,7 +4481,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :nine::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponym__ _n_  
+__eponym__ _n_ :two::hammer:  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
@@ -7307,6 +7310,7 @@ __junk<sup>2</sup>__ _v_ :two::hammer: (junked) _Google is junking the app Googl
 __junker__  
 __junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
 __junkie__ _n_ _He was a news junkie._  
+__Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
 __junta__ _n_ :three::hammer:  
 __jurisprudence__ _n_  
 __juror__ _n_ :mega: (jurors)  
@@ -7326,6 +7330,7 @@ __kabobs__
 __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
 __kabuki__ _n_ :three::hammer:  
 __kaffeeklatsch__ _n_  
+__Kafkaesque__ _adj_  
 __kale__ _n_ :five::hammer:  
 __kamikaze__ _n_ :mega:  
 __kangaroo word__ _n_  
@@ -10765,7 +10770,7 @@ __rage<sup>1</sup>__ _n_ :two::hammer:
 __rage<sup>2</sup>__ _v_ :two::hammer: (raged)  
 __raging__ _adj_ _The strength of a raging bull._  
 __ragpicker__ _n_ _The ragpicker’s dream._  
-__ragtag__ _n_ :three::hammer: _A ragtag group._  
+__ragtag__ _adj_ :four::hammer: _A ragtag group._ _It was a ragtag formation._  
 __rah-rah__ _adj_ _informal_ :two::hammer: _Rah-rah motivation._  
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
@@ -10927,7 +10932,8 @@ __rebut__ _v_
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
 __recalcitrant__ _adj_  
-__recall__ _n_ :two::hammer:  
+__recall<sup>1</sup>__ _n_ :three::hammer:  
+__recall<sup>2</sup>__ _v_  
 __recant__ _v_ :three::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
@@ -11947,7 +11953,8 @@ __shades__ _pl n_ __2__ (Clothing & Fashion) A slang word for sunglasses. :es: g
 __shadow cabinet__ _n_  
 __shadow__ _v_  
 __shady__  
-__shaft__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
+__shaft<sup>1</sup>__ _n_  
+__shaft<sup>2</sup>__ _v_ _slang_ To treat in a harsh, unfair way: _“He had been shafted by the press quite a bit” (Frank Deford)._ _Mel always enjoyed shafting Sam._  
 __shag__ _n_ :two: __1__ Rough, matted hair, wool, or the like. __2__ A mass of this. __3__ A hairdo in which hair is cut in slightly uneven, overlapping layers downward from the crown, sometimes with the hair at the front and back hairlines left longer or wispier than the rest. __3__ A cloth with a nap, as of silk or a heavy or rough woolen fabric. __4__ A rug or carpet with a thick, shaggy pile. _This house has too much shag carpeting._  
 __shaggy hemp__  
 __shaggy__  
@@ -13994,6 +14001,7 @@ __tirade__ _n_ :eight::hammer:
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
+__Titanesque__ _adj_  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
 __tithe__ _n_ __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
@@ -14092,6 +14100,7 @@ __top-dog__
 __top-flight__  
 __top-of-mind__  
 __topiary__  
+__toponym__ _n_  
 __topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
@@ -15266,6 +15275,7 @@ __winch<sup>2</sup>__ _n_ :three::hammer:
 __wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  
 __wind up__ _phr v_ :three::hammer: _We eventually wind up with that code._  
 __wind-up__ _adj_ _It’s a wind-up toy._  
+__windbreaker__ _n_  
 __winded__ _adj_ :two::dart: Out of breath, as from strenuous exercise. _Syn_ pursy, blown _After crossing the finish line, the winded runner fell to the ground and lay there panting._  
 __windlass__ _n_ :two::hammer:  
 __window dressing__  

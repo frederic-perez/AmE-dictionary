@@ -1,15 +1,3 @@
-__recall__ _n, v_  
-__eponym__ _n_  
-__toponym__ _n_  
-__Kafkaesque__ _adj_  
-__Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
-__Titanesque__ _adj_  
-__Bunyanesque__ _adj_  
-__churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
-__Alhambresque__ _adj_  
-__ragtag__ _adj_ _It was a ragtag formation._  
-__shaft__ _n_  
-__windbreaker__ _n_  
 __heave__ _v_  
 __extricate__ _v_  
 __knockout__ _adj_ _A knockout redhead._  
