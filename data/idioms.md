@@ -73,6 +73,7 @@ __a sobering thought__ A thought or idea which is dispiriting, depressing, or tr
 __a stab at (someone or something)__  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
+__a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abide by__ To conform to; comply with: _abide by the rules._  
 __above and beyond__ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute.  
@@ -815,6 +816,7 @@ __have hot pants (for someone)__
 __have it easy__ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
 __have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity.  
+__have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ To be very old and close to death.  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
@@ -1271,18 +1273,23 @@ __make the world go round__ :dart: To be of critical or integral importance to t
 __make up one’s mind__ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
 __make waves__ :four: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
+__Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
 __mark__ _n_ A dupe; a victim selected for a theft or a swindle.  
+__marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family. _Ever since he married into money, George has been flaunting all of the exotic vacations he and his new wife take._  
 __meant to be__ _It was meant to be made in heaven._  
+__measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __mess around__  
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __middle ground__ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __mince (one’s) words__  
+__mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
 __miss the point__ :two::hammer:  
 __mix and match__ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
 __mix apples and oranges__ To combine or compare two different things.  
+__mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed signal__ A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
 __money doesn’t grow on trees__ Money should not be wasted because it is not something that can be replenished whenever one wants.  
 __money laundering__ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
@@ -1291,6 +1298,7 @@ __money talks__ Rich people can get what they want.
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
 __moral compass__ :two: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics.  
 __more often than not__ Usually; as a rule. _Syn_ by and large, generally, mostly  
+__more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
 __most of the time__ _Most of the time I do my breakfast._  
 __move heaven and earth__ To do everything that one can to make something happen.  
 __mover and shaker__ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
@@ -1670,6 +1678,7 @@ __the last of the lot__ The last or final person(s) or thing(s) in a given group
 __the last thing (one) wants__ Something which one absolutely does not want or has no use for.  
 __the lion’s den__ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :two: Major share of something.  
+__the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
@@ -1677,6 +1686,7 @@ __the sky is the limit__ :three: (the sky’s the limit) Anything is possible; t
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the whole nine yards__  
 __then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
+__there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
