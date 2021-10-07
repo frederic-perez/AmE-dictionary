@@ -1,15 +1,3 @@
-__work one’s fingers to the bone__  
-__firing both barrels all the time__ _You know your father: firing both barrels all the time._  
-__pull someone’s leg__ _Just pulling your leg, Mom._  
-__come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
-__once a snipe, always a snipe__  
-__one hell of__ _You are one hell of a navy wife._  
-__no big deal__ _No big deal, but it looked sloppy._  
-__fair and square__ _You caught me fair and square._  
-__leave no stone unturned__ _We are leaving no stone unturned._  
-__shake a leg__  
-__go potty__ _He has to go potty._  
-__rest my case__ _I rest my case._  
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __kangaroo court__  

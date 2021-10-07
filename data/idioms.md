@@ -383,6 +383,7 @@ __come into question__ To become doubted, scrutinized, or a matter of serious di
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
 __come to terms__ :four::hammer:  
+__come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :two::hammer:  
 __coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -516,6 +517,7 @@ __explore every avenue__ To investigate or pursue every possible means to find a
 __extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __faint of heart__ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
+__fair and square__ _You caught me fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
@@ -549,6 +551,7 @@ __finger on the pulse__
 __finger-licking good__ Very tasty.  
 __fingers crossed__ An expression of hope that something one desires will come to pass or turn out to be true. A truncated version of the phrase “keep your fingers crossed.”  
 __fire-breathing__ (used as a modifier before a noun) Particularly ardent, vehement, or excoriating in speech or behavior. Likened to a dragon or other creature able to shoot streams of fire from its mouth.  
+__firing both barrels all the time__ _You know your father: firing both barrels all the time._  
 __first and foremost__ :two::hammer:  
 __first port of call__ The first place where one stops to visit, accomplish something, or begin a process. Taken from nautical terminology, referring to the first port that a seafaring vessel calls in to at the beginning of a voyage.  
 __fish eye__ _Nobody on the bus would give you the fish eye if you were a grown man and happened to be reading it._  
@@ -677,6 +680,7 @@ __go out__ __1__ To go on a date with someone. _Those two have such an obvious c
 __go over (one’s) head__ __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
 __go overboard__ :dart::two: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go places__ :two::hammer: _This kid is going places._  
+__go potty__ _He has to go potty._  
 __go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ :six::hammer: _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._  
@@ -1143,6 +1147,7 @@ __leather-lunged__ (used before a noun) Having an extremely or inordinately loud
 __leave (something) out of account__ To ignore something; to pay little or no heed to something. _Don’t leave your father’s advice out of account—he knows what he’s talking about!_  
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
+__leave no stone unturned__ _We are leaving no stone unturned._  
 __left and right__  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
@@ -1301,6 +1306,7 @@ __new car smell__ The scent associated with the inside of a brand new vehicle, c
 __new kid on the block__ Someone who is new in a place or organization.  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
+__no big deal__ _No big deal, but it looked sloppy._  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
@@ -1370,8 +1376,10 @@ __on thin ice__ In a risky position, in a dangerous situation.
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__  
+__once a snipe, always a snipe__  
 __once and for all__ Finally; permanently.  
 __once in a blue moom__ Very rarely.  
+__one hell of__ _You are one hell of a navy wife._  
 __one too many__ _We drank one too many._  
 __one way or another__ _If I fail then it will cost me my head one way or another._  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
@@ -1434,7 +1442,7 @@ __prop up__ _But with her leg propped up._
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __pull (oneself) together__ :two: Calm down.  
 __pull a U-ie__ To make a U-turn. Primarily heard in US, Australia.  
-__pull someone’s leg__ :two: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._  
+__pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
@@ -1468,6 +1476,7 @@ __red hot__ :two::hammer: _Now the market is red hot._
 __red pill__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __religious intolerance__ Intolerance of another’s religious beliefs or practices or lack thereof. _Religious intolerance waxed._  
+__rest my case__ _I rest my case._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
@@ -1519,7 +1528,7 @@ __set down<sup>1</sup>__ To seat, to cause to sit.
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
 __seventh heaven__ :astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
-__shake a leg__  
+__shake a leg__ :two::hammer:  
 __shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
 __shed (some) light on (something)__  
 __shine (one) on__  
@@ -1787,6 +1796,7 @@ __with flying colors__ :two: With an overwhelming victory, triumph, or success. 
 __within reason__ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ With no more delay.  
+__work one’s fingers to the bone__  
 __work one’s tail off__  
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
