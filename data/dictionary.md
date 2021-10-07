@@ -2309,6 +2309,7 @@ __chickpea__ _n_ :three::hammer: (chickpeas) _A handful of chickpeas._ :es: garb
 __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To goad into action. _We chided the Pentagon._  
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
+__chieftain__ _n_  
 __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
@@ -6300,7 +6301,8 @@ __hearty__ _adj_ :astonished: __4a__ Enjoying or requiring much food: _a hearty 
 __heat > to catch a lot of heat__  
 __heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
-__heathen__ _n_ :four::hammer: _They were declared guilty of heathen practice._ :es: pagano  
+__heathen<sup>1</sup>__ _adj_  
+__heathen<sup>2</sup>__ _n_ :five::hammer: _They were declared guilty of heathen practice._ :es: pagano  
 __heathenish__  
 __heathenism__  
 __heather__  
@@ -7261,7 +7263,7 @@ __joog__ _v_
 __joshed__ _v_ :two::hammer:  
 __jostle__ _v_ :eight::camera: (jostled, jostling) __1__ To compete for something. _Two candidates jostling for votes._ _Cows are jostling for space._ _Jostled anew._ __2__ To push against someone because you are trying to move past them in a crowd. _We managed to jostle our way to the front._  
 __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent and reliable, but undistinguished. In a hierarchy of workers in a given trade in the guild system, journeymen rank between apprentices and masters. Journeymen had nothing to do with travel. Rather, they were called so because they were paid for a day’s work. These days the word is used metaphorically, for people in any line of work, not just in a trade or craft.  
-__joust<sup>1</sup>__ _n_ A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
+__joust<sup>1</sup>__ _n_ :two: A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
 __joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
 __jovial__ _adj_ :two::hammer:  
@@ -9956,6 +9958,7 @@ __pitch-faced__ _adj_ :two::hammer:
 __pitch-perfect__  
 __pitch<sup>1</sup>__ _n_ :eight: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: campo, cancha  
 __pitch<sup>2</sup>__ _v_ :camera::three::hammer: (pitched) _Pitching bowling balls._ _To pitch a tent._ _If not from pitched battles, where do we find victory?_  
+__pitched battle__ _n_ :two: __1__ An intense battle fought in close contact by troops arranged in a predetermined formation. _He feared to seek pitched battle._ __2__ A fiercely waged battle or struggle between opposing forces.  
 __pitched__ _adj_ :two::hammer: _A pitched battle._ :es: batalla campal  
 __pitchfork__  
 __pitfalls__ _n_ :two::hammer:  
@@ -10705,7 +10708,7 @@ __quicksilver__
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
-__quiescent__ _adj_ :three: __1__ Quiet, still, or inactive.  
+__quiescent__ _adj_ :four: __1__ Quiet, still, or inactive.  
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
 __quilt__  
@@ -12306,7 +12309,7 @@ __skinner__ _n_ :dart: __2__ A person who prepares or deals in skins or hides. _
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ _n_ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
-__skirmish<sup>1</sup>__ _n_ :four::hammer: (skirmishes)  
+__skirmish<sup>1</sup>__ _n_ :five::hammer: (skirmishes)  
 __skirmish<sup>2</sup>__ _v_ :two::hammer:  
 __skirmishers__ _n_  
 __skirting__ _v_ :two::hammer:  
@@ -12833,6 +12836,7 @@ __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs 
 __spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
 __spoilage__ _n_ :dart:  
 __spoiler__ _n_ (airplane) :camera:  
+__spoils__ _n_ _Carpets, jewels, and other spoils._  
 __Spokane, Washington__ _n_ [Common popular pronunciation: /spoh-keyn/ Prevailing local pronunciation: /spoh-kan/]  
 __spoke__ _n_  
 __spoliator__ _n_ A plunderer.  
@@ -13138,7 +13142,7 @@ __stir up a hornet’s nest__ _fig_ To create a lot of trouble.
 __stir<sup>1</sup>__ _n_  
 __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
-__stirrups__ _n_ :three::hammer: _Ramming your feet into the stirrups._  
+__stirrup__ _n_ :four::hammer: _Ramming your feet into the stirrups._  
 __stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn’t do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
@@ -14747,7 +14751,7 @@ __vasculitis__ _n_ Inflammation of the blood vessels.
 __vassal__ _n_ :two::hammer:  
 __vast__ _adj_ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
-__vat__ _n_ :four: A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._ _A large vat of water._  
+__vat__ _n_ :five: __1__ A large vessel, such as a tub, cistern, or barrel, used to hold or store liquids. _A large vat of water._ _Wine vats._ __2__ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vatic__ _adj_ Of or characteristic of a prophet; oracular.  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
@@ -14793,7 +14797,7 @@ __veranda__ _n_ :three: A roofed platform along the outside of a house, level wi
 __verbally__  
 __verbatim__  
 __verberize__  
-__verbiage__ _n_ :two::hammer:  
+__verbiage__ _n_ :three::hammer: _Ornamental verbiage._  
 __verbicide__ _n_ :two::astonished: _facetious_ An act or instance of destroying a word. Misuse or overuse of a word or any use of a word which is damaging to it.  
 __verboten__ _adj_ Not allowed.  
 __verdant__ _adj_ _Verdant hills._  
