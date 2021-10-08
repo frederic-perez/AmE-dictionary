@@ -561,7 +561,7 @@ __archenemy__ _n_ :pencil2:
 __archeology__ _n_ :mute:[arc~~h~~eology]  
 __archetypal__  
 __Archimedes__ _n_ :mega:  
-__archipelago__ _n_ :three::hammer::pencil2: _Archipelago nation._  
+__archipelago__ _n_ :four::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
 __archivist__  
 __archrival__ _n_  
@@ -745,7 +745,7 @@ __avow__ _v_ :two::hammer: (avowed)
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
 __awakening__ _n_  
-__awash__ _adj_ :eight: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ _adj, adv_ :nine: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
@@ -2016,7 +2016,7 @@ __capons__
 __cappie__ _n_  
 __caprice__  
 __caps__ _n_ Capital letters.  
-__capsize__ _v_ :two: To capsize is to overturn, and it usually happens to boats. Don’t rock the boat, baby, or you might just capsize.  
+__capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
@@ -3373,7 +3373,7 @@ __dead__ _adj_ _Dead batteries._
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
-__deadpan<sup>2</sup>__ _v_ (deadpanned) To express in an impassive, matter-of-fact way.  
+__deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
 __deafening__ _adj_  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
@@ -5753,7 +5753,7 @@ __goblin__ _n_ :three::hammer: (goblins)
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
-__godsend__ _n_  
+__godsend__ _n_ :two: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
@@ -7563,7 +7563,7 @@ __lapse<sup>2</sup>__ _n_
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :seven: Theft of personal property. :es: hurto  
-__larder__ _n_ :three::hammer:  
+__larder__ _n_ :four::hammer:  
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
@@ -8005,7 +8005,8 @@ __lunge<sup>2</sup>__ _n_ :three::hammer: _A reckless lunge at Gerrard._ _An amp
 __lupine<sup>1</sup>__ _n_ :two: (lupin) :es: altramuz  
 __lupine<sup>2</sup>__ _adj_ __1__ Characteristic of or resembling a wolf. __2__ Rapacious; ravenous.  
 __lupus__  
-__lurch__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
+__lurch<sup>1</sup>__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to control one’s movements. _Syn_ careen, keel, reel, stagger, swag __1__ (of a ship) To roll or pitch suddenly. Move abruptly. _The ship suddenly lurched to the left._ _Syn_ pitch, shift _We lurched around a bend._ _The cart rumbled and lurched._ __5__ To stagger or sway. _The clock was lurching and stopping._  
+__lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
 __lurid__ _adj_ :three::hammer:  
@@ -9178,6 +9179,7 @@ __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Someth
 __onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
+__onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :seven::hammer: _Early onset dementia._  
@@ -9813,6 +9815,7 @@ __phials__ _n_ _Several glass phials of dirty white meth crystals._
 __philanderer__  
 __philandering__  
 __philanthropy__ _n_  
+__Philippine__ _adj_ Of or pertaining to the Philippines or their inhabitants. _The Philippine archipelago._  
 __Philly__ _n_ :three: Philadelphia  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
@@ -12947,6 +12950,7 @@ __St. Bernard__
 __stab__ _n_ :two::hammer:  
 __stable condition__  
 __stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
+__stadimeter__ _n_  
 __staff__ _n_ :two::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
@@ -13031,7 +13035,7 @@ __stately__ _adj_ :four: To be stately is to appear noble and impressive, almost
 __statement__  
 __Staten Islander__ _n_  
 __stateroom scene__ _n_ This scene (from A night at the opera), one of the most famous comedy scenes of all time, was developed with participation of silent comedy great Buster Keaton, who took inspiration from his own film, The Cameraman. :es: el camarote de los hermanos Marx  
-__stateroom__ _n_ :four: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._  
+__stateroom__ _n_ :five: A private cabin or compartment with sleeping accommodations on a ship or train. _The ocean liner “stateroom scene.”_ _The spacious forward stateroom of the boat._  
 __statesman__ _n_ :two::hammer: _The elder statesman of the group._  
 __statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_  
@@ -13202,7 +13206,7 @@ __straddle__ _v_ :four::hammer: (straddles, straddling)
 __strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
-__straggler__ _n_  
+__straggler__ _n_ :two: A person who walks too slowly during a march etc and gets left behind. _A car was sent to pick up the stragglers._ :es: rezagado  
 __straggly__ _adj_ :two: Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
 __straight and narrow__  
 __straight arrow__ _n_  
@@ -13713,6 +13717,7 @@ __teammate__ _n_ :pencil2:
 __Teamster__ _n_ :two::hammer:  
 __tear gas__ _n_ :two::hammer:  
 __teardown__ _n_  
+__tearjerker__ _n_ _informal_  
 __techie__ _n informal_ :two: (techies) One who studies or is highly interested or proficient in a technical field, especially electronics. _Facebook’s techie in chief._  
 __Tecnetium__  
 __tedious__  
