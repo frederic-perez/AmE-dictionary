@@ -1134,7 +1134,7 @@ __bevel<sup>2</sup>__ _v_ :two::hammer:
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
 __bewhiskered__  
 __bewilder__  
-__bewitch__ _v_  
+__bewitch__ _v_ :two: Cast a spell over someone or something; put a hex on someone or something. _Syn_ hex, jinx, enchant _After reading _Harry Potter_, I spent hours on end trying to bewitch a broomstick to fly._  
 __bezel__ _n_ __4__ The frame around a display screen.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
@@ -2155,6 +2155,8 @@ __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that a
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :five::hammer:  
+__cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
+__cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
@@ -4928,6 +4930,7 @@ __file a case__ _v_
 __file suit__ _v_  
 __file<sup>1</sup>__ _n_  
 __file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
+__filial__ _adj_  
 __filibuster__ _n_ :three::hammer:  
 __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from under her fingernails._  
 __Filipino__  
@@ -7852,6 +7855,7 @@ __loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. T
 __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
 __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
 __loan__ _n_ :two::hammer: (loans)  
+__loanword__ _n_ A word taken from another language and at least partly naturalized.  
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
@@ -12321,6 +12325,7 @@ __skitter__ _v_ :six::hammer: (skittered, skittering) _Neymar’s kick skittered
 __skittish__ _adj_ :nine::m: (skittishness) __1__ _(of an animal, especially a horse)_ Nervous or excitable; easily scared. _A skittish chestnut mare._ _Syn_ restive, excitable, nervous, easily frightened :es: asustadizo __2__ _(of a person)_ Playfully frivolous or unpredictable. _My skittish and immature mother._ _Syn_ playful, lively, high-spirited, frisky :es: frívolo  
 __skivvies__ _n_ :six: (Skivvies: A trademark for underwear.) Men’s underwear consisting of cotton T-shirt and shorts.  
 __skivvy__ _n_ :two: A female domestic servant who does all kinds of menial work.  
+__skosh__ _n_ _slang_ [:scroll: Skosh comes from the Japanese _sukoshi_, which means “a little bit.”] A small amount; a bit.  
 __skulduggery__ _n_ _informal_ :two: (skullduggery) Underhand dealing; trickery.  
 __skulk__ _v_ :three::hammer: _Jessica makes both friends and enemies skulking around in the night._  
 __skullcap__  
@@ -14336,6 +14341,7 @@ __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.
 __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’s patience and goodwill to the limit.  
 __tryst__  
 __tsuifuku__  
+__tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
 __tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
@@ -14437,7 +14443,7 @@ __two-fold__ _adj_
 __two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
 __two-timer__ _n_  
 __twofer__ _n_ _informal_ :three::hammer:  
-__tycoon__ _n_ :four::hammer:  
+__tycoon__ _n_ :five::hammer: [:scroll: Tycoon is an English variation of the Japanese word _taikun_, which comes from Chinese words meaning “great prince.”]  
 __tying__ _v_ :pencil2:  
 __type-A personalities__  
 __typecast__ _v_ :pencil2: _Lawrence avoided the typecasting pitfalls of super-franchise stars before her._  
@@ -14828,7 +14834,7 @@ __vespine__ _adj_
 __vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vestibule__ _n_ :two::mega::hammer:  
-__vestige__ _n_ :two::hammer: (vestiges)  
+__vestige__ _n_ :three: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
 __Veterans Day__ _n_ While “Veterans’ Day” does encompass multiple veterans, that spelling is incorrect according to the Department of Veterans Affairs. In the name of the holiday, the word veterans acts as an _attributive noun_, which means that it behaves like an adjective even though it is a noun. We use attributive nouns all the time without realizing it. For example, if you said “Last week, I went to the Cowboys game,” it is not grammatically imperative to include an apostrophe at the end of Cowboys, because Cowboys acts as an attributive noun.  
 __veto__ _v_  
@@ -14857,7 +14863,7 @@ __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two te
 __vig__ _n_ :three::hammer:  
 __vigorous__ _adj_ _A vigorous intellect._  
 __vile__  
-__vilify__ _v_ :three::hammer: (vilifies)  
+__vilify__ _v_ :four: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :two::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
