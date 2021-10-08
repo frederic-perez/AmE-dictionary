@@ -2161,6 +2161,7 @@ __cavalry__
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
 __caveat__ _n_ :two::hammer:  
+__cavity__ _n_ :es: caries  
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
@@ -3072,6 +3073,7 @@ __crappie__
 __crapshoot__  
 __crapulous__ _adj_ __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash course__  
+__crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
 __crash-land__ _v_ _A jet crash-landed in the city._  
 __crass__ _adj_ :four: So crude and unrefined as to be lacking in discrimination and sensibility. _Crass attitudes._  
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
@@ -3210,7 +3212,7 @@ __cuckolded__ _adj_ :two::hammer:
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
-__cue ball__ _n_ :three: The ball a player strikes with the cue, as distinguished from the other balls on the table.  
+__cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
 __cue__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
@@ -4061,7 +4063,7 @@ __drift__ _n_ :two::hammer: _You get the drift._
 __drifter__ _n_ :seven::hammer:  
 __drifting__  
 __driftwood__ _n_ :two::hammer: _Driftwood logs._  
-__drill<sup>1</sup>__ _n_ :three::hammer: _An evacuation drill._  
+__drill<sup>1</sup>__ _n_ :four::hammer: _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
 __drip-dry__ _adj, n, v_ :two::hammer: _Cotton drip-dry._  
@@ -6351,6 +6353,7 @@ __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, fr
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
+__hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: _You are one hell of a good cook._ __b__ Used as an intensive: _How the hell should I know?_ _Hell yes!_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
@@ -7147,7 +7150,7 @@ __jabroni__ _n_
 __jack it up__ _v_  
 __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o’-lantern__  
-__jackass__ _n_  
+__jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
 __jackhammer__  
 __jackpot__  
 __jackrabbit__ _n_  
@@ -10089,6 +10092,7 @@ __plunder__ _v_ :six::hammer: (plundered)
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
 __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
+__plus__ _adj, conj, n_  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
 __ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
@@ -11884,6 +11888,7 @@ __sell-offs__
 __sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellouts._  
 __sellsworth__ _n_  
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
+__semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-finished__ _adj_ _Semi-finished lens._  
 __seminal__ _adj_ _That was a seminal game._  
 __seminoles__  
@@ -11955,6 +11960,7 @@ __sewage__ _n_ :two::hammer: :es: aguas residuales
 __sewer gas__  
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
+__sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
 __shackle__ _n_  
@@ -12075,7 +12081,7 @@ __shitcan__ _v_
 __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
 __shitshow__ _n_  
-__shiv__ _n_ :two: A knife used as a weapon.  
+__shiv__ _n_ :three: A knife used as a weapon.  
 __shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver__ _n_  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
