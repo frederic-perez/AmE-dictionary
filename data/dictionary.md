@@ -188,8 +188,8 @@ __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.
 __advice__ _n_ _This is my unsolicited advice._  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
-__advisory<sup>1</sup>__ _adj_ :three::hammer: _Advisory committee meeting._ _To take an advisory period._  
-__advisory<sup>2</sup>__ _n_ (advisories)  
+__advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
+__advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
 __aegis__  
 __aerials__  
@@ -3395,6 +3395,7 @@ __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and 
 __debauchery__ _n_ :four::hammer:  
 __debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
+__debrief__ _v_  
 __debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
@@ -5177,7 +5178,7 @@ __foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and p
 __foil<sup>1</sup>__ _n_ :three::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
-__fold<sup>1</sup>__ _v_ :four::hammer: (folded) _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ (card games)  
+__fold<sup>1</sup>__ _v_ :five: __8a__ _Informal_ To discontinue operating; close: _They had to fold the company a year after they started it._ _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ __b__ _Games_ To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
 __fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __foldout chair__ _n_  
@@ -8927,6 +8928,7 @@ __no-no__ _n_ _informal_ :nine::m: (no-nos) Anything that is forbidden or not ad
 __no-questions-asked__ _adj_ :two::hammer: _The had a no-questions-asked policy._  
 __Noachian__ _adj_ :pencil2:  
 __Nobel__ _n_ :mega: /nəʊˈbɛl/  
+__nocebo effect__ _n_  
 __nocebo__ _n_ :two: A substance that causes undesirable side effects as a result of a patient’s perception that it is harmful rather than as a result of a causative ingredient.  
 __nocent__ _adj_ Having a tendency to cause harm.  
 __noctambulant__ _adj_ __1__ Relating to or given to sleepwalking; noctambulous. __2__ Walking or traveling at night.  
@@ -12215,7 +12217,7 @@ __sidebar__ _n_
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sideline<sup>2</sup>__ _v_ :two::hammer: (sidelined) _The first baseman is expected to be sidelined for seven to 10 days._  
+__sideline<sup>2</sup>__ _v_ :three: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidestep__ _v_ :six::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
@@ -13185,6 +13187,7 @@ __stodgy__ _adj_ _The mainstream may sound too stodgy._
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
+__stoma__ _n_  
 __stomach__ _v_ :three::hammer:  
 __stomp__ _v_  
 __stomping__ _v_  
@@ -14903,6 +14906,7 @@ __vise__ _n_
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
+__vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ _adj_ :two::hammer:  
 __vituperate__ _v_  
@@ -15005,7 +15009,7 @@ __wan__ _adj_ :four::hammer: _A wan reception._
 __wand__ _n_  
 __wander__ _v_ :two::hammer: _Let’s wander slowly through the fields, the fields of joy._  
 __wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy feet _His wanderlust would not allow him to stay long in one spot._  
-__wane__ _v_ :five::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._  
+__wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
