@@ -1392,6 +1392,7 @@ __bold-faced__ _adj_
 __boldface name__ _n_ :dart: A well-known or famous name or person. _Hundreds of mourners, including boldface names like Paul Simon and [Billy] Joel, show up at the funeral._ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
 __bole__ _n_ The trunk of a tree. _The arrow slammed solidly into the bole of a tree._  
 __bolide__ _n_ A meteoric flash or flare created when a meteoroid explodes or vaporizes as it passes through Earth’s atmosphere. _Syn_ fireball :astonished:  
+__bollard__ _n_ __1__ (Nautical Terms) A strong wooden or metal post mounted on a wharf, quay, etc, used for securing mooring lines. _es_ noray _Sailors on the pier threw the line off the bollard._  
 __bolo tie__ _n_ :two: (bola tie, bolo) A necktie consisting of a piece of cord fastened with an ornamental bar or clasp.  
 __bologna__  
 __boloney__ _n_ Baloney.  
@@ -2343,6 +2344,7 @@ __chirp away__ _v_
 __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
 __chisel__ _n_  
 __chiseled__  
+__chit__ _n_  
 __chit-chat__ _n_ An informal conversation about things that are not important.  
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
@@ -3275,7 +3277,8 @@ __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlet__ _n_ _Chicken cutlets._  
 __cutline__ _n_  
-__cutoff__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
+__cutoff<sup>1</sup>__ _adj_ __1__ Designating a limit or point of termination: _a cutoff date for applications._ _The investigation kept going for months beyond its original cutoff date._  
+__cutoff<sup>2</sup>__ _n_ (cutoffs) Pants, such as blue jeans, made into shorts by cutting off part of the legs. _Cutoff trousers._  
 __cutter__ _n_ _A Coast Guard cutter._  
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
@@ -5161,6 +5164,7 @@ __flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clo
 __flyboard__  
 __flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: Flags unfurled and waving in the air.  
+__fo’c’sle__ _n_ :two::pencil2: Living quarters consisting of a superstructure in the bow of a merchant ship where the crew is housed. _Syn_ forecastle  
 __fob__ _n_ :two::hammer:  
 __focal fibrosis__  
 __focus__ _n_ :mega:  
@@ -5380,7 +5384,7 @@ __fritter<sup>1</sup>__ _v_ :four::hammer: _Parents worried that their kids off 
 __fritter<sup>2</sup>__ _n_ _Corn fritters._  
 __frizzle__ _v_ _Frizzled beard._  
 __frock__  
-__frogman__ _n_  
+__frogman__ _n_ :two::hammer:  
 __frolic<sup>1</sup>__ _n_ :four::hammer:  
 __frolic<sup>2</sup>__ _v_ :two::hammer: (frolicked)  
 __from afar__  
@@ -6518,7 +6522,7 @@ __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a s
 __hole up__ _v_ :two::hammer: (holed up)  
 __Holi__ _n_ _(Hinduism)_ A Hindu spring festival, celebrated for two to five days, commemorating Krishna’s dalliance with the cowgirls. Bonfires are lit and coloured powder and water thrown over celebrants. Named after _Holika_, legendary female demon.  
 __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of your whole body and mind, rather than just treating a part of the body that is ill. _A holistic approach to cancer._ __2__ Thinking about the whole of something, and not just dealing with particular aspects. _A holistic approach to the region’s development._  
-__holler__ _v_ :three: __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
+__holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __Holy Ghost__ _n_ :two::hammer:  
@@ -7733,6 +7737,7 @@ __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia
 __liberalization__  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __libertine<sup>2</sup>__ _n_  
+__liberty__ _n_ __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ __b__ (as modifier): liberty man; liberty boat.  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
@@ -8160,7 +8165,7 @@ __mantrap__ _n_
 __many<sup>1</sup>__ _adj_  
 __many<sup>2</sup>__ _n_  
 __maple__  
-__mar<sup>1</sup>__ _v_ :eight::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._  
+__mar<sup>1</sup>__ _v_ :nine::pencil2: (mars, marred) If something is marred, it’s damaged due to a flaw. If the big football game on Sunday ends with a fight among fans of the opposing teams, commentators will say that the game was marred by violence. _A game marred by injuries to key players._ _It marred the week._  
 __mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.  
 __marathon__ _n_ _This is more of a marathon than a sprint._  
 __maraud__ _v_  
@@ -8474,7 +8479,7 @@ __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misfortune__ _n_  
-__misgiving__ _n_ :five: (misgivings) _(Often plural)_ A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety  
+__misgiving__ _n_ :six: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
@@ -8840,7 +8845,7 @@ __nervy__ _adj_ :pencil2::three::hammer:
 __nescience__ _n_  
 __Nesquik__ _n_ :mega:  
 __nest egg__ _n_ :three::hammer:  
-__nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest.  
+__nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest. _The tumbler was nestled next to the bottle._  
 __nestlings__ _n_  
 __nether__ _adj_ :two::hammer:  
 __netiquette__ _n_ Etiquette practiced or advocated in electronic communication over a computer network.  
@@ -9052,6 +9057,7 @@ __obliterate__ _v_
 __obliteration__ _n_  
 __oblivion__ _n_ :two::hammer:  
 __oblivious__ _adj_ :five::hammer: _He is very oblivious._  
+__oblong__ _adj_  
 __obnoxious__ _adj_ :three::hammer:  
 __obnubilate__ _v_  
 __obscene__ _adj_ :mute:[obs~~c~~ene]  
@@ -14201,6 +14207,7 @@ __trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on somethi
 __trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
+__tranquil__ _adj_ _His voice was soft and tranquil._  
 __tranquilizer__ _n_ :mega:  
 __transceiver__  
 __transect__ _n_ :two::hammer:  
