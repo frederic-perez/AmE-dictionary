@@ -1086,6 +1086,7 @@ __bench__ _n_ _Snow will dust the benches and valleys._
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
+__beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
@@ -4559,6 +4560,7 @@ __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
+__Euskara__ _n_ :astonished: The Basque language.  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
 __evanescent__ _adj_  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
@@ -4724,6 +4726,7 @@ __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A
 __fall into place__  
 __fall out of love__  
 __fall over__ _v_  
+__fall__ _n_ [:scroll: The name _fall_ is thought to originate in the phrase _the fall of the leaf_, in reference to the time of year when deciduous trees shed their leaves. The name of its inverse season, _spring_, is thought to come from the phrase _spring of the leaf_—the time when everything is blossoming. The multiple senses of the word _fall_ come in handy for the helpful reminder “Spring Forward, Fall Back,” which serves as a mnemonic about how to set our clocks for daylight-saving time.]  
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
 __fallacy__ _n_ :five::hammer: _The lump of coding fallacy._  
 __fallback<sup>1</sup>__ _n_  
@@ -5710,6 +5713,7 @@ __gloom<sup>2</sup>__ _v_
 __gloppy__ _adj_ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
+__glossolalia__ _n_ /glos-uh-LAY-lee-uh/ [:scroll: From Greek glosso- (tongue, language) + -lalia (chatter, babbling), from lalein (to babble).] Unintelligible utterances occurring during religious excitation, schizophrenia, etc. Also known as speaking in tongues.  
 __glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
 __glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
 __glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)  
@@ -6799,7 +6803,7 @@ __imam__
 __imbalance__ _n_  
 __imbed__ _v_ (imbedding) Less common spelling of _embed_.  
 __imbibe__ _v_ :three::hammer: (imbibing)  
-__imbroglio__  
+__imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immanent__ _adj_  
@@ -7017,7 +7021,7 @@ __inlay<sup>2</sup>__ _n_ :two::hammer: _Inlay photo._ _Mother-of-pearl inlays._
 __innards__ _n_ _informal_ :four: __1__ Internal bodily organs; viscera. __2__ The inner parts, as of a machine. _The pictures adorn the innards of each chapter._  
 __innate__  
 __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to invite agreement with a statement: _it’s a funny old world, innit?_  
-__innocuous__ _adj_  
+__innocuous__ _adj_ :two: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
 __innumerate__  
 __inobvious__  
 __inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
@@ -9543,7 +9547,7 @@ __paring knife__ _n_
 __paring__  
 __parishioner__  
 __parkour__  
-__parlay__ _v_ :four::hammer: (parlayed)  
+__parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :three::hammer:  
 __parley<sup>2</sup__ _v_  
 __parliament__ _n_ :pencil2::two::hammer:  
@@ -13132,6 +13136,7 @@ __sticker price__
 __sticker shock__  
 __stickers__  
 __stickler__ _n_ :three::hammer:  
+__sticky-fingered__ _adj_ /STIK-ee fing-guhrd/ Given to stealing.  
 __stiff<sup>1</sup>__ _adj_ :six::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
 __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
 __stiffens__ _v_ _UN stiffens North Korea sanctions._  
@@ -15583,7 +15588,7 @@ __zero in on__ _phr v_ :three: To direct or focus attention on something. _Senso
 __zero in__  
 __zero point__ _n_  
 __zero-sum__ _adj_ :three::hammer: _A zero-sum game._ _A zero-sum relationship._  
-__zest__ _n_ :four::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
+__zest__ _n_ :five::hammer: _The zest of one orange._ _Stir in orange zest and orange juice._  
 __zesty__ _adj_ :two::hammer:  
 __zhuzh__ _v_  
 __zig__ _v_ _They tend to zig when markets zag._  
