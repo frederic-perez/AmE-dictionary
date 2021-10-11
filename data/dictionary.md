@@ -590,6 +590,7 @@ __arrange__ _v_
 __arrangement__ _n_  
 __arrears__ _n_ :pencil2:  
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
+__arrive__ _v_ _He arrived in England in April 1376._  
 __arrowroot__  
 __arson__ _n_  
 __artery__ _n_ :mega:  
@@ -1127,7 +1128,7 @@ __betoken__ _v_
 __betray__ _v_ :two::hammer:  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
-__betrothed__ _adj_ :three: Engaged to be married.  
+__betrothed__ _adj_ :four: Engaged to be married.  
 __better the devil you know than the devil you don’t__ _prov_ When faced with two options, it is better to choose the more familiar one, even if it is undesirable. _A: “Why don’t you just quit your job if you’re so miserable?” B: “Who knows if a new job will be any better! Better the devil you know than the devil you don’t.”_  
 __bettors__  
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
@@ -2452,7 +2453,7 @@ __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for ju
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
-__clang<sup>1</sup>__ _n_ :two::hammer: (sound) _A sharp clang sounded._  
+__clang<sup>1</sup>__ _n_ :three::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._  
 __clang<sup>2</sup>__ _v_  
 __clanging__ _adj_ :astonished:  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
@@ -3025,6 +3026,7 @@ __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a cit
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
 __cover charge__  
+__covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
 __coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._  
@@ -4036,6 +4038,7 @@ __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)
 __draught beer__ _n_ Beer drawn from a keg.  
 __draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an enclosed space.  
 __draw a line__  
+__draw close__ _v_ Move towards. _He was drawing close to a decision._  
 __draw up__ _v_ :three::hammer:  
 __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._  
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
@@ -4583,7 +4586,7 @@ __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which i
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :eight: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
 __exaggeration__ _n_ :pencil2:  
-__exasperation__  
+__exasperation__ _n_ :two::hammer:  
 __exceed__ _v_  
 __exceedingly__  
 __excelsior__  
@@ -8587,7 +8590,7 @@ __mope__ _v_ :pencil2::two::hammer:
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
 __moral__  
-__morale__ _n_ :three::hammer:  
+__morale__ _n_ :four::hammer: _The sunken morale left by defeats._  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ _n_ :two::hammer:  
 __morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
@@ -11013,7 +11016,7 @@ __redos__
 __redoubt__ _n_ :two::hammer: :es: reducto  
 __redoubtable__ _adj_ :four::astonished: That is to be feared; formidable.  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
-__redress<sup>2</sup>__ _n_ :two: A sum of money paid in compensation for loss or injury. _To seek redress._  
+__redress<sup>2</sup>__ _n_ :seven: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
 __redwood__ _n_ :two::hammer:  
@@ -11973,6 +11976,7 @@ __sewer gas__
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
+__shabbily__ _adv_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
 __shackle__ _n_  
@@ -14804,7 +14808,7 @@ __Velcro__ _n_
 __velleity__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
-__venal__ _adj_ :three::astonished: Dishonest and ready to do anything in order to get money.  
+__venal__ _adj_ :four::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._  
 __venality__  
 __vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
