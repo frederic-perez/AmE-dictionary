@@ -53,6 +53,7 @@ __abjection__ _n_
 __abjure__ _v_ :three: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
+__abode__ _n_ __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
 __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrable _The abominable treatment of prisoners horrified the team of international observers._  
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
@@ -3487,7 +3488,7 @@ __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._
 __defund__ _v_ To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
-__deign__ _v_ :two::hammer: (deigned)  
+__deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
 __deist__ _adj_  
 __dejected__  
@@ -3598,6 +3599,7 @@ __destigmatize__ _v_
 __destitute__ _adj_ :three::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
+__detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
 __deter__ _v_ :two::hammer:  
@@ -3761,7 +3763,7 @@ __disfavor__
 __disgorge__ _v_  
 __disgorgement__  
 __disgruntle__ _v_ Put into a bad mood or into bad humour.  
-__disgruntled__ _adj_ :four: Angry or dissatisfied. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
+__disgruntled__ _adj_ :five: Angry or dissatisfied. Feeling or expressing discontent or anger. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __disguise__ _n, v_ :mute:[disg~~u~~ise]  
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
@@ -6903,6 +6905,7 @@ __incendiary__ _adj_ _He launched an incendiary attack._
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
 __inception__ _n_ :three::hammer:  
+__incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
 __inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
 __inchoate__ _adj_ :two: Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
@@ -8112,7 +8115,7 @@ __malefic__ _adj_ Having or exerting a malignant influence.
 __malevolent__  
 __malfeasance__ _n_ :two::hammer:  
 __malfunction__  
-__malice__ _n_ __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
+__malice__ _n_ :two: __1__ Feeling a need to see others suffer. _Syn_ spite __2__ The quality of threatening evil. _Syn_ malevolence  
 __malign<sup>1</sup>__ _v_ (maligned)  
 __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]  
 __malignancy__ _n_ (malignancies)  
@@ -9060,6 +9063,7 @@ __obituary__
 __objurgate__ _v_ Express strong disapproval of. _Syn_ condemn, decry, excoriate, reprobate _During the sentencing, the judge objurgated the crime in the strongest possible terms._  
 __oblast__ _n_ :four: An administrative subdivision, or region, of a republic in the U.S.S.R.  
 __oblate__ _n_  
+__oblation__ _n_  
 __obligation__  
 __oblige__ _v_ :nine::m: (obliges, obliged) __1__ Make (someone) legally or morally bound to do something. _Syn_ compel _Doctors are obliged by law to keep patients alive while there is a chance of recovery._ __2__ Do as (someone) asks or desires in order to help or please them. _Syn_ indulge, gratify _Oblige me by not being sorry for yourself._ __3__ Be indebted or grateful. _Syn_ thankful, grateful _If you can give me a few minutes of your time I’ll be much obliged._  
 __obliterate__ _v_  
@@ -12185,7 +12189,7 @@ __shrimp__
 __shrines__ _n_  
 __shrink__ _n_  
 __shrivel up__ _v_ :three::hammer:  
-__shrivel__ _v_ :seven: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._  
+__shrivel__ _v_ :eight: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
@@ -13277,7 +13281,7 @@ __street name__ _n_ __1__ An alternative name that a person chooses or is given 
 __streetcar__  
 __streetwise__  
 __strengthen__ _v_ :two::hammer:  
-__strenuous__ _adj_ :astonished::four::hammer:  
+__strenuous__ _adj_ :astonished::five::hammer:  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  
 __stressor__ _n_ A stimulus that causes stress.  
@@ -13317,6 +13321,7 @@ __struck a nerve__
 __struck__ _v_ :three::hammer: _The Paris climate was struck almost a year ago._  
 __strudel__ _n_ :three::hammer:  
 __strummed__ _v_ _He then strummed out a string of hits, including “Message in a Bottle.”_  
+__strumpet__ _n_ _archaic_ A prostitute or promiscuous woman.  
 __strung out__  
 __strung__ _v_  
 __strut__ _v_ :five: (strutted) When you strut, you walk with a proud swagger that has a little arrogance thrown in, like the prance of a running back who has just flown past the 250-pound linebackers and planted the ball in the end zone. _Arguing with idiots is like playing chess with a pigeon... No matter how good you are, the bird is going to shit on the board and strut around like it won anyway._ :es: pavonearse  
