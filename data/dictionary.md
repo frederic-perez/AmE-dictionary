@@ -438,7 +438,7 @@ __anhedonia__ _n_ The inability to feel or experience pleasure.
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :five::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
+__animus__ _n_ :six::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
@@ -2711,6 +2711,7 @@ __commoner__ _n_ __1__ A member of the commonalty; a person without a title of n
 __commonwealth__ _n_  
 __Commonwealth__ _n_  
 __commotion__ _n_  
+__communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
 __comorbidity__ _n_ (Pathology) The occurrence of more than one illness or condition at the same time.  
@@ -3900,7 +3901,7 @@ __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.
 __dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
-__doggerel__ _n_ Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
+__doggerel__ _n_ :two: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
@@ -3913,6 +3914,7 @@ __doings__ _n_
 __doldrum__ _n_ :four::hammer: (doldrums)  
 __doldrums__ _n pl_ (plurale tantum)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
+__dole__ _n_  
 __dolirometer__  
 __dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
 __dolt__ _n_ :two: A stupid person; a dunce.  
@@ -5674,7 +5676,8 @@ __gingivitis__ _n_
 __ginning__  
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
-__girdle__ _v_ (girdled)  
+__girdle<sup>1</sup>__ _v_ (girdled)  
+__girdle<sup>2</sup>__ _n_  
 __giridon__  
 __gist__ _n_ :mega:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
@@ -6338,7 +6341,7 @@ __heckle__ _v_ :three::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :eight::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
+__hectic__ _adj_ :nine::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
 __hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -10644,7 +10647,8 @@ __purr<sup>2</sup>__ _v_ :three: (purrs, purring) __1__ To make or utter a soft 
 __purse__ _v_ _His lips pursed._  
 __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.  
 __purslane__ _n_ :four::hammer:  
-__purveyor__ _n_ :six::hammer: _Purveyors of unhelpfully vapid self help._  
+__purveyance__ _n_  
+__purveyor__ _n_ :seven::hammer: _Purveyors of unhelpfully vapid self help._  
 __pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
@@ -11733,6 +11737,7 @@ __scissor lift__
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
 __scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
 __sconce__ _v_  
@@ -14814,7 +14819,7 @@ __velleity__ _n_
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :four::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._  
-__venality__  
+__venality__ _n_ :two::hammer:  
 __vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
