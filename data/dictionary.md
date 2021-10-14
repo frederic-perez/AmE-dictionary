@@ -1879,6 +1879,7 @@ __C-suite__ _n_ The executive suite in an organization. It refers to all the “
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
+__cabal__ _n_ __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
@@ -3982,6 +3983,7 @@ __dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appeara
 __dourly__  
 __douse__ _v_ :two::hammer: _The Nationals are dousing the District of Columbia with new hope._  
 __dove__ _v_  
+__dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
@@ -4665,7 +4667,7 @@ __extoll__ _v_ :five::hammer: (extolled, extolling)
 __extort__ _v_  
 __extraneous__  
 __extremes__  
-__extricate__ _v_ :seven: (extricated) To remove or free from complication, hindrance, or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._  
+__extricate__ _v_ :eight: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
@@ -7060,6 +7062,7 @@ __insomniac__ _n_
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
+__instigate__ _v_ Provoke or stir up. _Syn_ incite  
 __instigator__ _n_  
 __instill__ _v_ :seven::hammer: (_BrE_ instil; instilled) _She instilled an enduring sense of family._ _This idea is instilled in kids._  
 __institute__ _v_  
@@ -7117,6 +7120,7 @@ __invective__ _n_ :five: Abusive or insulting language.
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
+__inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
@@ -9106,7 +9110,7 @@ __oddly enough__ _adv_ :two::hammer:
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
-__odious__  
+__odious__ _adj_ /OH-dee-us/ :two::hammer:  
 __odometer__ _n_ :two::hammer:  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
@@ -9901,6 +9905,8 @@ __pietist__
 __pig emoji__ _n_ Since there is no piggy bank emoji, the pig has become a representation of it and money as well.  
 __pig iron__ _n_ :four::hammer: _Pigs of iron._ _Edgerton is a pig-iron and power station historian._  
 __pigboat__ _n_  
+__pigeonhole<sup>1</sup>__ _n_ /PIJ-uhn-hohl/ __1__ A hole or recess for a pigeon to nest or rest. __2__ One of a series of small compartments for filing papers, etc. __3__ A stereotypical category, not reflecting the complexities.  
+__pigeonhole<sup>2</sup>__ _v tr_ /PIJ-uhn-hohl/ __1__ To place in, or as if, in a pigeonhole. __2__ To lay aside for future consideration. __3__ To stereotype, to put into a preconceived, rigid category.  
 __piggish__  
 __piggy bank__ _n_ A child’s coin bank (often shaped like a pig).  
 __piggy-back__  
@@ -11182,7 +11188,7 @@ __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes grea
 __responsibly__ _adv_ In a responsible manner.  
 __rest home__ _n_  
 __restate__ _v_  
-__restaurateur__  
+__restaurateur__ _n_ :two: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
 __restenosis__ _n_  
 __restitution__ _n_ _Pierucci must pay $928 in restitution._  
 __restive__ _adj_ :four: Unwilling to be controlled or be patient.  
@@ -13465,6 +13471,7 @@ __superpooch__
 __supersede__ _v_  
 __superstorm__ _n_ :two::hammer:  
 __supervise__ _v_  
+__supine__ _adj_ Inactive, passive, or inert, especially from indolence or indifference. _Syn_ lethargic, passive, apathetic, listless _No other colony showed such supine, selfish helplessness in allowing her own border citizens to be mercilessly harried._  
 __supping__ _v_  
 __supplant__  
 __supple__ _adj_ :pencil2::nine: __1__ Readily bent, folded, or manipulated; pliant: _a wallet made of supple leather._ _Syn_ flexible __2__ Moving and bending with agility; limber: _a supple gymnast._ __3__ Adaptable to changing circumstances: _“The supple ambiguities of English are a large part of its genius” (Mark Abley)._  
