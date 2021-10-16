@@ -2656,7 +2656,7 @@ __Collins glass__
 __collocation__ _n_ (collocations)  
 __colloquial__ _adj_  
 __colloquium__  
-__collude__ _v_  
+__collude__ _v_ :two: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
@@ -6122,7 +6122,7 @@ __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a
 __hairline__  
 __hairpiece__ _n_  
 __haking__  
-__halcyon__ _adj_ :four::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
+__halcyon__ _adj_ :five::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
 __half__ _adj, adv, n_ :mute:[ha~~l~~f]  
@@ -9066,6 +9066,7 @@ __oases__ _n_
 __oat__ _n_  
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
+__obelus__ _n_ /OB-uh-luhs/ __1__ A sign (- or ÷) used in ancient manuscripts to indicate a spurious or doubtful word or passage. __2__ A sign (†) used to indicate reference marks. Also known as obelisk or dagger.  
 __obi__ _n_  
 __obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
 __obituaries__  
@@ -9280,7 +9281,7 @@ __ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted int
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
-__ostracize__ _v_ :six::pencil2::hammer: (ostracized)  
+__ostracize__ _v_ :seven::pencil2: (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
 __OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
@@ -9300,7 +9301,7 @@ __out of the blue__
 __out of the woods__  
 __out-and-out__ _adj_ Complete; in all ways. _He’s an out-and-out crook._  
 __out-of-the-box__  
-__outage__ _n_ :two::hammer: _Power outages._  
+__outage__ _n_ :three::hammer: _Power outages._  
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
@@ -9479,6 +9480,7 @@ __palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]
 __palm<sup>2</sup>__ _v_ :mega::mute:[pa~~l~~m]  
 __palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
 __palmetto__ _n_ :two::hammer: (palmettos)  
+__palmy__ _adj_ /ˈpɑːmɪ/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
 __palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
 __palpably__  
@@ -15036,6 +15038,8 @@ __wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy fe
 __wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
+__wanting<sup>1</sup>__ _adj_ __1__ Absent; lacking: _What is wanting is a real understanding of the issue._ __2__ Not measuring up to standards or expectations: _found his performance wanting._  
+__wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button._ __2__ Minus; less: _an hour wanting 15 minutes._  
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
@@ -15243,6 +15247,7 @@ __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
+__whistleblower__ _n_  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
@@ -15602,6 +15607,7 @@ __zaniness__ _n_ :two::hammer:
 __zany__ _adj_ :seven: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
+__zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a cause, especially a religious one. _Syn_ drumbeater, partisan _Jane, who had dabbled in vegetarianism during high school, became an environmental zealot while in college._  
 __zealotry__  
 __zealous__  
 __zeightgeist__  
