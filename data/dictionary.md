@@ -242,7 +242,7 @@ __aggravation__
 __aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aggro__ _n_ :three::hammer:  
-__aghast__ _adj_ :seven: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
+__aghast__ _adj_ :eight: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __agnostic__ _adj_  
@@ -1101,7 +1101,7 @@ __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angril
 __bereave__ _v_ :two::hammer: (bereaved)  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
-__bereft<sup>1</sup>__ _adj_ :three::hammer:  
+__bereft<sup>1</sup>__ _adj_ :five::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
 __berm__ _n_ :two::hammer:  
@@ -2236,6 +2236,7 @@ __chaperone<sup>1</sup>__ _n_ :three::hammer:
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :four::mega:  
+__chapter house__ _n_ _They met in the chapter house of the abbey._  
 __chapter__ _n_ _To the east was the chapter house._  
 __char__ _v_ (charred)  
 __character actor__  
@@ -2388,6 +2389,7 @@ __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playf
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
+__chuff__ _v_ _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
 __chug<sup>2</sup>__ _v_ :four: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._  
 __Chugging beers__  
@@ -4244,7 +4246,7 @@ __easement__
 __easing__  
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
-__easy chair__ _n_ :two: A large, comfortable, upholstered chair.  
+__easy chair__ _n_ :three: A large, comfortable, upholstered chair.  
 __easy-chair__  
 __easy-to-use__ _adj_ Straightforward and simple to use. _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
@@ -4950,6 +4952,7 @@ __file<sup>1</sup>__ _n_
 __file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
 __filial__ _adj_  
 __filibuster__ _n_ :three::hammer:  
+__filigree__ _n_  
 __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from under her fingernails._  
 __Filipino__  
 __fill out__  
@@ -5375,7 +5378,7 @@ __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a
 __freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ The occurrence of a water flow resulting from sudden rain or melting snow.  
 __fret away__  
-__fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
+__fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. _He fretted over his parents._ __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
 __fretful__ _adj_ :two::hammer:  
 __frets__ _n_ _He pressed the bottle neck down on the frets of the guitar._  
@@ -8309,7 +8312,7 @@ __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think ov
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
-__meek<sup>1</sup>__ _adj_ :five: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>1</sup>__ _adj_ :six: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
@@ -11781,7 +11784,7 @@ __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
-__screech<sup>2</sup>__ _v_ :eight: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
+__screech<sup>2</sup>__ _v_ :nine: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
 __screen__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
@@ -13775,7 +13778,7 @@ __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, 
 __teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
-__teetotaler__ _n_ :two: One who abstains completely from alcoholic beverages.  
+__teetotaler__ _n_ :three: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
 __telegenic__  
@@ -15618,7 +15621,7 @@ __zesty__ _adj_ :two::hammer:
 __zhuzh__ _v_  
 __zig__ _v_ _They tend to zig when markets zag._  
 __zilch__  
-__zillion__  
+__zillion__ _n_ _informal_  
 __zinger__ _n_ :three: (zingers) A witty remark; something that is lively, interesting, amusing, or impressive. _I’ve made a few blunders, but had a few zingers too._  
 __zip around__ _phr v_ To move quickly from place to place.  
 __zip line<sup>1</sup>__ _n_ :dart: :es: tirolina  
