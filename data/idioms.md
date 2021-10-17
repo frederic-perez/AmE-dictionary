@@ -227,6 +227,7 @@ __be shown the ropes__ To be taught how to do or perform a job, task, or activit
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
+__be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
 __bean counter__ :two: __1__ A derogatory term used to describe someone who obsesses over trivial and insignificant expenditures in an attempt to save money.  
 __bear fruit__ :two: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
@@ -355,6 +356,7 @@ __check off__ _Thanksgiving weekend is a great time to check off some items from
 __check out__ :two::hammer: _According to Jim, the layer’s name checked out._  
 __cheek by jowl__ :two: side by side; close together. _The pedestrians had to walk cheek by jowl along the narrow streets._ _The two families lived cheek by jowl in one house._  
 __cheesy__ _adj informal_ :three: Something cheap-looking and in poor taste. Cheap and of low quality. _Cheesy motel rooms._  
+__chew on something__  
 __chew the fat__ To chat or gossip.  
 __chew the/(one’s) cud__ To think deeply; to be deeply involved in private thought. (Alludes to the cow’s habit of bringing food back from the first stomach into the mouth to chew it, called chewing the cud.) _He’s chewing his cud about what to do next._  
 __chicken feed__ A small amount of money.  
@@ -369,6 +371,7 @@ __close, but no cigar__ Close, but not enough to win or succeed.
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
 __clout list__ A secret list of people who, through advantageous connections and relationships with people of affluence, authority, or political influence, are given preferential consideration during an admissions or appointments process.  
+__cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
 __code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __cold feet__ :two::hammer:  
 __cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
@@ -468,6 +471,7 @@ __don’t get mad, get even__ :dart: Channel your anger into revenge. _When I he
 __don’t get me started__ An exclamation of weariness or despair regarding a topic that has just been introduced and about which the speaker feels very strongly and (usually) has a negative opinion of.  
 __don’t go there__ Don’t get into that topic of conversation; I don’t want to talk about that. Used humorously, the phrase usually implies that the speaker has a potentially scandalous, sensitive, or otherwise complicated association with the topic.  
 __don’t let the door hit you on the way out__ Leave here quickly and directly; don’t linger on your way out the door. Used sarcastically to express one’s desire to see someone leave.  
+__don’t press your luck__ :two::hammer:  
 __don’t rock the boat__ Don’t say or do something that could upset a stable situation.  
 __don’t shoot the messenger__ Don’t get angry at or punish someone who is simply delivering bad or undesirable news, as he or she is not responsible for it.  
 __don’t sweat it__ _(American English, spoken)_ Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._  
@@ -525,7 +529,7 @@ __fair-weather fan__ A person who is supportive of and enthusiastic about a spor
 __fall from the sky__ _This trust doesn’t fall from the sky._  
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
-__fall short__ :seven: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._  
+__fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fan service__  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
@@ -880,6 +884,7 @@ __hit the ground running__
 __hit the jackpot__  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
+__hit the sack__  
 __hit the wall__ :two::hammer:  
 __hit up__ __1__ To go to a particular place. _Let’s hit up the mall—I’m sure we can find a present for her there._ _She thought about hitting up an amusement park._  
 __hither and thither__ :four::hammer::pencil2: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
@@ -1061,6 +1066,7 @@ __junk in junk out__ (Computers) Expression used to express the relationship bet
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
+__kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
 __keep (one’s) slate clean__ To maintain an impeccable record; to refrain from committing any mistakes or wrongdoings.  
 __keep (one’s) socks on__ To remain patient and calm, especially when beginning to become angry or upset with impatience. Usually said as an imperative.  
@@ -1726,6 +1732,7 @@ __time and again__ Again and again; repeatedly.
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
+__to be on edge__ _You seem on edge._  
 __to date__ :three: Until now. _To date, no winners have attended._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  
 __to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
@@ -1755,6 +1762,7 @@ __turn the tables__ To change or reverse something dramatically. _Wow, they real
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __two-way street__ _n_ An arrangement or a situation involving reciprocal obligation or mutual action.  
+__uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :three::hammer:  
 __under (one’s) belt__ :two: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
 __under (one’s) breath__ Spoken in such a soft, quiet voice that others cannot hear it distinctly.  

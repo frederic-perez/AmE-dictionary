@@ -1,13 +1,3 @@
-__cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
-__be warned__ _Be warned, Commander, I didn’t make this coffee._  
-__kangaroo court__  
-__cashiered__ _v_  
-__uh-oh__ _interj_ _Uh-oh. The cops are here._  
-__don’t press your luck__ :two::hammer:  
-__hit the sack__  
-__fall short__ _He has fallen short as an exec._  
-__chew on something__  
-__to be on edge__ _You seem on edge._  
 __arm in arm__ _They were arm in arm, singing with the band._  
 __in all likelihood__  
 __good riddance__  
