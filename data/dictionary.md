@@ -218,7 +218,7 @@ __aforementioned__ _adj_ :two::hammer:
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ _adj_ :two::hammer: _Aft compartment._ :es: en popa  
+__aft__ _adj, adv_ :six::hammer: _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffects__  
@@ -738,7 +738,7 @@ __aver__ _v_ :two::hammer:
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
-__avert__ _v_ :three::hammer: (averted)  
+__avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
 __aviary__ _n_  
 __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
@@ -3116,6 +3116,7 @@ __crepe paper bells__
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
 __crepe__  
 __crepe-soled shoes__ _n pl_ (crepe shoes) Shoes soled with crepe rubber. _Crepe-soled sneakers._  
+__crescendo__ _v_ (crescendoed)  
 __Crescent City__  
 __crescent<sup>1</sup>__ _n_ :three::mute:[cres~~c~~ent]/ˈkrɛs ənt/:hammer:  
 __crescent<sup>2</sup>__ _adj_ :two::hammer:  
@@ -4669,7 +4670,7 @@ __extoll__ _v_ :five::hammer: (extolled, extolling)
 __extort__ _v_  
 __extraneous__  
 __extremes__  
-__extricate__ _v_ :eight: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
+__extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
 __exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
@@ -6336,7 +6337,7 @@ __heather__
 __heathern__ _adj, n_  
 __heathy__  
 __heatwave__ _n_  
-__heave__ _v_ (heaving) :five::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
+__heave__ _v_ :six::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _adv_ _He was drinking heavily._  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
@@ -7478,9 +7479,8 @@ __knock someone’s socks off__
 __knock__ _n_ :mute:[~~k~~nock]  
 __knock-knock joke__  
 __knockoff__  
-__knockout__ _n, adj_ _A knockout series._  
 __knockout<sup>1</sup>__ _n_  
-__knockout<sup>2</sup>__ _adj_  
+__knockout<sup>2</sup>__ _adj_ :two::hammer: _A knockout series._ _A knockout redhead._  
 __knockusing__  
 __knoll__ _n_ :four: A small hill or mound. _A grassy knoll._  
 __knot__ _n, v_ :mute:[~~k~~not]  
@@ -8512,6 +8512,7 @@ __misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“Ki
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
+__misplace__ _v_  
 __misprint__ _n_ :pencil2::two::hammer: _This is not a misprint._  
 __mispronounce__ _v_  
 __misremember__ _v_ To remember incorrectly.  
@@ -12404,6 +12405,7 @@ __slapjack__
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
 __slash__  
+__slash-and-burn__ _adj_ _Slash-and-burn path._  
 __slash<sup>1</sup>__ _v_ :two::hammer: (slashed)_She slashed at his hands, jabbing and cutting._ _Basketball_ _He is a lanky gunner who can slash._  
 __slash<sup>2</sup>__ _n_ _Slash pines._  
 __slat__ _n_  
@@ -13447,7 +13449,7 @@ __sullen__ _adj_ :two::hammer:
 __sullenly__  
 __sully__ _v_ :four::hammer:  
 __sultanate__  
-__sultry__ _adj_ :three::hammer:  
+__sultry__ _adj_ :four::hammer: _A sultry smile._  
 __summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
 __summarily__ _adv_  
 __summary<sup>1</sup>__ _n_  
@@ -15395,7 +15397,7 @@ __wishful thinking__ _n_ :two: Thinking in which what one wishes were the case i
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
 __wishy-washy__ _adj_ :two: __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
-__wisp__ _n_ :seven::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._  
+__wisp__ _n_ :eight::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ _n_ :two::hammer: _(Plants)_  
 __wistful__ _adj_ :three::hammer:  

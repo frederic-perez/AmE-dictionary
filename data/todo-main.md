@@ -1,13 +1,3 @@
-__heave__ _v_  
-__extricate__ _v_  
-__knockout__ _adj_ _A knockout redhead._  
-__sultry__ _adj_ _A sultry smile._  
-__wisp__ _n_ _A wisp of a mustache._  
-__crescendo__ _v_ (crescendoed)  
-__misplace__ _v_  
-__avert__ _v_ :two::hammer: _Tom made a show of averting his eyes._  
-__slash-and-burn__ _adj_ _Slash-and-burn path._  
-__aft__ _adj, adv_ :four::hammer: _He ended up in the aft gun turret._  
 __lair__ _n_ _Like a coyote sleeping in its lair._  
 __brownnose__ _v_ (brownnosing) :pencil2:  
 __hothead__ _n_ :three::hammer:  
