@@ -3123,7 +3123,7 @@ __crest__ _v_ _The Fox River is expected to crest Tuesday._
 __crestfallen__ _adj_ :six: Dispirited and depressed; dejected.  
 __crevasse__ _n_  
 __crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
-__crew cut__ _n_  
+__crew cut__ _n_ :three::hammer: _A tall crew cut._  
 __crewcats__  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
@@ -7260,7 +7260,8 @@ __jingle<sup>1</sup>__ _v_ :two::hammer: _Jingle, bells!_
 __jingle<sup>2</sup>__ _n_ :two::hammer:  
 __jingoism__ _n_ :three::hammer:  
 __jingoistic__ _adj_ Militantly nationalistic or chauvinistic.  
-__jinks__  
+__jink<sup>1</sup>__ _v_ _Jinked left._  
+__jink<sup>2</sup>__ _n_  
 __jinx<sup>1</sup>__ _v_ :two::hammer:  
 __jinx<sup>2</sup>__ _n_  
 __jitters__ _n_  
@@ -7565,6 +7566,7 @@ __laminate__ _v_ :two::hammer: :es: plastificar
 __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or synthetic resin. _A laminated cheat sheet._  
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
+__lamppost__ _n_  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -9702,7 +9704,7 @@ __pedo__
 __pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a bathroom is unavailable.  
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
-__peep__ _n_ :two::hammer:  
+__peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
 __peeps__ _n pl_ _slang_ Friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
@@ -10220,6 +10222,7 @@ __pop<sup>2</sup>__ _v_ :five::hammer: _The deep price cut made a first day pop 
 __popcorn__ _n_  
 __popeyed__ _adj_ __1__ Having bulging eyes. __2__ Amazed; astonished: _popeyed with wonder._  
 __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chicken fast food restaurants founded in 1972 in New Orleans, Louisiana. Often referred to as Popeyes. _The restaurant wasn’t a Popeyes._  
+__poplar__ _n_ :es: álamo, chopo _Massive poplar trees lined the parkways._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
@@ -11515,7 +11518,7 @@ __run-in__ _n_ :dart::three: (run-ins) __1__ A quarrel or argument. _A run-in wi
 __run-of-the-mill__ _adj_ :five: Not special or outstanding; average. Ordinary, average.  
 __runaway<sup>1</sup>__ _n_ :three::hammer: (runaways)  
 __runaway<sup>2</sup>__ _adj_ _Bryant was a runaway winner._  
-__rundown__ _n_ :two::hammer:  
+__rundown__ _n_ :three::hammer:  
 __rung__ _n informal_ :nine: (rungs) A particular level or position in an organization: _I started on the bottom rung of the company._ _He deserves to be in the lowest rungs of hell._ _The Romans climbed the rungs._  
 __runner-up__ _n_ :nine::m::dart: (runners-up) The competitor who finishes second. _Syn_ second best _Nadal was the runner-up to Roger Federer in 2006-7._ _They are runners-up to Real Madrid._ _Nishikori was runner-up here last season._ _That was a close runner-up._  
 __running-of-the-mill husband__  
@@ -11663,6 +11666,7 @@ __savvy<sup>1</sup>__ _v_ :three: Via pidgin and/or creole language(s), from Por
 __savvy<sup>2</sup>__ _n_ :two: Know-how, practical knowledge, or shrewdness.  
 __savvy<sup>3</sup>__ _adj_ :two: Shrewd or knowledgeable, especially in practical matters.  
 __saw__ _n_ A maxim or proverb.  
+__sawbuck__ _n_ _I had to slip the clerck an extra sawbuck._  
 __sawed-off__  
 __sawgrass__ _n_ :two::hammer:  
 __sawhorse__ _n_ :five::hammer: (sawhorses)  
@@ -13520,6 +13524,7 @@ __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
+__suture__ _n_ :dart: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
 __svelte__ _adj_ :two::hammer:  
 __Svengali__ _n_ A person who manipulates or controls another, especially by force of personality for malicious purposes.  
 __swab__ _n_ _Nasopharyngeal swabs._  
@@ -15431,6 +15436,7 @@ __wonky__ _adj_ :two::hammer:
 __wont__ _adj_  
 __wonted__ _adj_ Commonly used or practiced; usual.  
 __woo-woo__ _adj_ (or just plain woo) refers to ideas considered irrational or based on extremely flimsy evidence or that appeal to mysterious occult forces or powers. Concerned with emotions, mysticism, or spiritualism; other than rational or scientific; mysterious; new agey.  
+__wood chipper__ _n_ A power-driven machine for cutting wood into chips.  
 __wood pellets__  
 __wood rasp__ _n_  
 __wooden-headed__ _adj_ _informal_ Stupid.  
@@ -15487,7 +15493,7 @@ __wrangle__ _v_ :two::hammer: (wrangling)
 __wrap up__ _phr v_ _informal_ To finish a job, meeting etc.  
 __wrap<sup>1</sup>__ _v_ :mute:[~~w~~rap]  
 __wrap<sup>2</sup>__ _n_ :mute:[~~w~~rap]  
-__wraparound season__  
+__wraparound__ _adj_ :two::hammer: _A wraparound front porch._ _Wraparound season._  
 __wrath__ _n_ :mute:[~~w~~rath]  
 __wreath<sup>1</sup>__ _n_ :three::mute:[~~w~~reath] (wreaths) _Funeral wreath._ :es: corona  
 __wreath<sup>2</sup>__ _v_ :mute:[~~w~~reath] _A wreathed sword._  
