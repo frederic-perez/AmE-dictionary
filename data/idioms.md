@@ -1448,6 +1448,7 @@ __pig in a poke__ _n_ Something purchased, accepted, or acquired without a preli
 __pin (something) down__ _Pinned it down to two locations._  
 __pink elephants__ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pipe down__ _informal_ To become quiet and calm; to stop being loud or boisterous. Often said as a command. _OK, class, pipe down! Let’s begin our lesson, shall we?_ _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
+__piping hot__ Very hot. Usually said of food that has just been taken out of the oven and has steam “piping” out of it. _Cook the casserole in the oven for 40 minutes or until it is golden brown and piping hot._ _The coffee was still piping hot._  
 __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  

@@ -1484,6 +1484,7 @@ __borough__ _n_ :mute:[borou~~gh~~]
 __bosom__  
 __bossdom__ _n_  
 __bossy__ _adj_  
+__bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
 __bot__ _n_  
 __botched__ _adj_ :four: Used to describe something, usually a job, that is done badly. _A botched deal._  
 __bothersome__ _adj_ :dart::two: Causing bother; troublesome.  
@@ -2092,7 +2093,8 @@ __caseous__ _adj_ Resembling cheese.
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
 __cash rebate__  
-__cashier__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
+__cashier<sup>1</sup>__ _n_ :two: A cashier is someone who works at a store ringing up people’s purchases. Most cashiers use a cash register for keeping money and making change.  
+__cashier<sup>2</sup>__ _v_ To dismiss from a position of command or responsibility, especially for disciplinary reasons: _was dishonorably cashiered from the army._  
 __cashmere__  
 __casket__ _n_ :two::hammer: _Closed casket, that’s right._  
 __Cassandra__ _n_ A prophet of misfortune or disaster. _Syn_ doomsayer, pessimist, worrywart  
@@ -2839,6 +2841,7 @@ __consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I
 __consequently__  
 __conservancies__  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
+__consist__ _n_ (trains) _A long consist._  
 __consoled__ _v_  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
@@ -3304,7 +3307,7 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
-__dab<sup>1</sup>__ _v_ :six::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._  
+__dab<sup>1</sup>__ _v_ :seven::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
@@ -4746,6 +4749,7 @@ __fallback<sup>1</sup>__ _n_
 __fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
 __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
 __falloff__  
+__Fallon, NV__ _n_  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
@@ -4989,6 +4993,7 @@ __firebrick__ _n_
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
+__firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
@@ -5845,7 +5850,8 @@ __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue,
 __gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
-__grade__ _v_  
+__grade<sup>1</sup>__ _n_ :three::hammer: _The grade over the mountain was well protected._ _Their jeep waited at a grade crossing for five minutes._  
+__grade<sup>2</sup>__ _v_  
 __grader__ _n_ :two::hammer: (graders)  
 __gradual__ _adj_  
 __gradually__  
@@ -8394,7 +8400,7 @@ __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products lan
 __metronome__  
 __mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
 __mezzanine__  
-__miasma__ _n_ :three::hammer:  
+__miasma__ _n_ :four::hammer: _An opaque miasma._  
 __mick__ _n_ :three::hammer:  
 __micturate__ _v_ A less common word for urinate.  
 __mid-afternoon__  
@@ -12828,6 +12834,7 @@ __speckled__ _v_
 __specs__ _n_ :two: Spectacles, glasses.  
 __spectacles__ _pl n_ :two::hammer: _Spectacles or sunglasses?_  
 __spectacular__  
+__spectate__ _v intr_ To be present as a spectator (as at a sports event). _He resumed his spectating._  
 __speculate__ _v_  
 __speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __Sped case__  
@@ -14299,7 +14306,7 @@ __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
-__trestle__ _n_ :four: /ˈtrɛs(ə)l/ Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
+__trestle__ _n_ :five: /ˈtrɛs(ə)l/ (trestles) Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
