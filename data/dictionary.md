@@ -272,6 +272,7 @@ __aimless__ _adj_ Devoid of direction or purpose. _Syn_ random, wayward, goalles
 __aioli__ _n_ Garlic mayonnaise. _Syn_ aioli sauce, garlic sauce  
 __air cast__ _n_ :two::hammer::camera:  
 __air nozzle__ _n_ _(mechanical engineering)_ In an automotive engine, a device for supplying air to the air-injection reactor. _Try adjusting your air nozzles to full force._  
+__air pocket__ _n_  
 __air vent__  
 __airball__ _n_ :four: _basketball_ A shot which misses the backboard, rim and net entirely. _Shooting airballs._  
 __airborne__ _adj_ :two::hammer: _An airborne radar._ _Airborne and shipborne measured platforms._  
@@ -4246,6 +4247,7 @@ __earthquake drill__
 __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
 __earthworks__ _n_  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
+__ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
 __easing__  
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
@@ -4993,6 +4995,7 @@ __firebrick__ _n_
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
+__fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  
 __firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
@@ -7212,6 +7215,7 @@ __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of d
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
+__jarhead__ _n_ _slang_ A US Marine.  
 __jarring__ _adj_ :four: Surprising, or slightly shocking.  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
@@ -7257,6 +7261,7 @@ __Jewry__
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
+__jiggle__ _v_ _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
 __jilt__ _v_ :three: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
@@ -7589,6 +7594,7 @@ __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathe
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :four::hammer:  
 __lantanas__ _n_  
+__lanyard__ _n_ _He reached up and pulled a lanyard, sounding four loud short blasts on the whistle [of the locomotive]._  
 __Laotian__  
 __lap pool__  
 __lap<sup>1</sup>__ _n_ _The project’s amenities include two lap pools._  
@@ -9520,7 +9526,7 @@ __panko__ _n_
 __panned out__  
 __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panorama__ _n_  
-__pant__ _v_ :six: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
+__pant__ _v_ :seven: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
 __pantophagous__ _adj_  
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
@@ -9832,7 +9838,7 @@ __Peruvian__
 __pervasive__ _adj_ :three::hammer:  
 __pesky__  
 __pessary__ _n_  
-__pester__ _v_ :two::hammer: (pestered)  
+__pester__ _v_ :three::hammer: (pestered)  
 __pestiferous__ _adj_  
 __pestilence__ _n_ :two::hammer:  
 __pet__ _n_ __3__ A person especially loved or indulged; a favorite: _the teacher’s pet._  
@@ -12986,7 +12992,7 @@ __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s
 __squat<sup>2</sup>__ _adj_ :six: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn’t know squat aboit what went on over there._  
 __squatter__  
-__squawk__ _v_ :four::hammer: (squawked, squawking) _The walkie-talkie squawked._  
+__squawk__ _v_ :five::hammer: (squawked, squawking) _The walkie-talkie squawked._  
 __squeak__ _v_ :three::hammer: (squeaking)  
 __squeaker__ _n_ __2__ Something achieved (or escaped) by a narrow margin. _Syn_ close call, close shave, narrow escape, squeak _Clippers keep up hot start in squeaker over Thunder._  
 __squeaky__ _adj_ :two::hammer:  
@@ -13899,7 +13905,7 @@ __thereabout__
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
 __thereof__ _adv_ :two::hammer:  
 __thermistor__ _n_ :two::hammer:  
-__thermos__ _n_ (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
+__thermos__ _n_ :two: (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
 __thespian<sup>1</sup>__ _adj_ :two::hammer:  
 __thespian<sup>2</sup>__ _n_  
 __thew__ _n_  
