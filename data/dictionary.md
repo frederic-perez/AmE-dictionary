@@ -300,7 +300,7 @@ __alderman__ _n_ :two::hammer:
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
 __alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
 __Aleut__ _n_  
-__alfresco<sup>1</sup>__ _adv_  
+__alfresco<sup>1</sup>__ _adv_ :two: In the fresh air. _Syn_ outdoors _Dining alfresco is one of my great summer pleasures._  
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
 __algae__ _n_  
 __Alhambresque__ _adj_  
@@ -4368,6 +4368,7 @@ __embankment__
 __embargo__ _n_  
 __embark__ _v_ _They embark on a motorcade._  
 __embattle__ _v_ :four::hammer: (embattled)  
+__embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
 __embezzle__ _v_ :nine::m: /ɪmˈbɛz(ə)l,ɛm-/ (embezzling, embezzlement) Steal or misappropriate (money placed in one’s trust or belonging to the organization for which one works). _Syn_ misappropriate, steal, rob, thieve, pilfer, appropriate _She had embezzled £5,600,000 in company funds._ _He is awaiting trial on charges of helping emblezzle and laundeer $10 million through Delaware shells._ :es: malversación  
 __embezzlement__ _n_  
@@ -5840,7 +5841,7 @@ __gorse__
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
-__gossamer__ _adj, n_  
+__gossamer__ _adj, n_ :two::hammer: /GAH-suh-mer/  
 __gossipy__ _adj_  
 __gotcha__  
 __gouge__ _v_ :seven::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._  
@@ -6032,7 +6033,7 @@ __guide__ _n, v_ :mute:[g~~u~~ide]
 __guidepost__ _n_  
 __guidette__ _n_ (guidettes) _slang, US, ethnic slur_ [:scroll: guido + _-ette_] Italian-American female; an American female of Italian descent. _Two guidettes._  
 __guild__ _n_ :mega: _The brass guild._  
-__guile__ _n_ :three: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
+__guile__ _n_ :four: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillotine__ _n_ :mega:  
 __guilt__ _n_ :mute:[g~~u~~ilt]  
@@ -6827,7 +6828,7 @@ __imagineer__ _n_ A person who is skilled in devising or implementing creative i
 __imam__  
 __imbalance__ _n_  
 __imbed__ _v_ (imbedding) Less common spelling of _embed_.  
-__imbibe__ _v_ :three::hammer: (imbibing)  
+__imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). _Syn_ soak up, absorb  
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
@@ -6855,7 +6856,7 @@ __impeachment__ _n_ :two::hammer:
 __impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _n_ _Syn_ penniless, indigent, penurious  
-__impede__ _v_ :five::hammer: (impeded)  
+__impede__ _v_ :six: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__  
 __impedimenta__ _n_  
 __impelled__  
@@ -10776,6 +10777,8 @@ __quiff__ _n_ A woman regarded as promiscuous.
 __quill__ _n_  
 __quilt__  
 __quilting bee__ _n_ A gathering to make quilts.  
+__quinary<sup>1</sup>__ _adj_  
+__quinary<sup>2</sup>__ _n_  
 __quince__ _n_ :pencil2: _Quince preserves._ :es: membrillo  
 __quincunx__ _n_ [:scroll: From Latin quincunx (five twelfths), from quinque (five) + uncia (twelfth part). In ancient Rome, a quincunx was a coin equivalent to five twelfths of the coin known as an “as” or “libra”. The coin’s value was sometimes represented by five dots, four in corners and one in the middle. The number five on a die is represented by five dots in a quincunx.] An arrangement of five objects or marks with one at each corner of a rectangle or square and one at the center.  
 __quinine__ _n_ :mega:  
@@ -12962,7 +12965,7 @@ __spunky__
 __spur > bone spurs__  
 __spur<sup>1</sup>__ _v_ :six::hammer: (spurred, spurring)  
 __spur<sup>2</sup>__ _n_ _The command post was on the spur of a hill._  
-__spurious__ _adj_ 1590-1600; < Latin _spurius_ bastard __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
+__spurious__ _adj_ :two: [:scroll: 1590-1600; < Latin _spurius_ bastard] __1__ Lacking authenticity or validity in essence or origin; not genuine. __2__ Not trustworthy; dubious or fallacious: _spurious reasoning; a spurious justification._ __3__ _Archaic_ Born to unwed parents.  
 __spurred__ _adj_ _Spurred flowers._  
 __spurt<sup>1</sup>__ _n_ :six: (spurts) A sudden gushing stream. _It has been raining in spurts._ _Stanford owned a two-poin lead in the second half before putting together a 16-3 spurt._ :es: esfuerzo supremo _Growth spurts._  
 __spurt<sup>2</sup>__ _v_ :es: acelerar; hacer un esfuerzo supremo  
@@ -15066,6 +15069,7 @@ __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button
 __wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
+__war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
 __war stories__  
 __warble__ _v_ :three::hammer:  
 __warblers__  
