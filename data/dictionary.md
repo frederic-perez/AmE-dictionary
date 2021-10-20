@@ -4598,7 +4598,7 @@ __ewes__ _n_
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_ :eight: (exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._  
+__exact__ _v_ :nine: (exacted, exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._  
 __exaggeration__ _n_ :pencil2:  
 __exasperation__ _n_ :two::hammer:  
 __exceed__ _v_  
@@ -5809,6 +5809,7 @@ __gondola__ _n_ _A 10-person rescue gondola can be attached to a helicopter._
 __gonorrhea__  
 __gonzo__ _adj_ :three: Conspicuously or grossly unconventional or unusual. _Syn_ bizarre, eccentric, flakey, flaky, freakish, freaky  
 __goo__ _n informal_ :two: Sticky substance.  
+__Good Book__ _n_  
 __good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
 __good Samaritan__  
@@ -6904,7 +6905,7 @@ __in-your-face__ _adj_ _An in-your-face farewell._
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
-__inane__ _adj_ :eight::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Syn_ asinine, fatuous, vacuous, mindless  
+__inane__ _adj_ :nine::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_ :two: Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
@@ -7444,7 +7445,7 @@ __kine__ _n_
 __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could blow us to kingdom come._ __2__ The end of time: _You can complain till kingdom come, but it won’t help._  
 __kingfisher__ _n_  
 __kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
-__kink__ _n_ :four::hammer (kinks) _I was getting the kinks out._  
+__kink__ _n_ :five::hammer (kinks) _I was getting the kinks out._ _Let them work out the kinks._  
 __kinked__ _v_  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinsfolk__ _n pl_ One’s family or relatives.  
@@ -7592,7 +7593,7 @@ __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass
 __languish__ _v_ :three: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
-__lanky__ _adj_ :four::hammer:  
+__lanky__ _adj_ :five::hammer:  
 __lantanas__ _n_  
 __lanyard__ _n_ _He reached up and pulled a lanyard, sounding four loud short blasts on the whistle [of the locomotive]._  
 __Laotian__  
@@ -9513,7 +9514,7 @@ __pampling__
 __pan out__ _v_ :three::hammer:  
 __pan__ _v_ _Obama pans republicans._  
 __panacea__ _n_ :three: (panaceas) [:scroll: _Panacea_ comes from a Greek word meaning “all-healing,” and Panacea was the goddess of healing.] A remedy for all diseases, evils, or difficulties. _Syn_ cure-all  
-__panache__ _n_ :five: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
+__panache__ _n_ :six: The word was popularized in English from the success of Edmond Rostand’s 1897 play _Cyrano de Bergerac_. Cyrano proclaims: “I’m going to take the simplest approach to life of all ... I’ve decided to excel in everything.” He, of course, wears a panache, and it is literally his last word: “Yet there is something still that will always be mine, and when today I go into God’s presence, there I will doff it and sweep the heavenly pavement with a gesture: something I’ll take unstained out of this world ... my panache.” __1__ A confident, stylish manner; swagger. _With great panache._ __2__ A tuft of feathers on a headdress, such as a helmet, hat, etc.  
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
@@ -10259,6 +10260,7 @@ __portcullis__ _n_ A grating of iron or wooden bars or slats, suspended in the g
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__  
+__porthole__ _n_  
 __portly__  
 __portmanteau__  
 __portrait__  
@@ -11253,7 +11255,7 @@ __reunion__ _n_ :two: An instance of two or more people coming together again af
 __reunite__ _v_ :two::hammer:  
 __rev up__ _v_  
 __reveal__ _n_  
-__revel__ _v_ :seven::hammer: (revelled, revelling, reveling) _She revels in them._  
+__revel__ _v_ :eight::hammer: (revelled, revelling, reveling) _She revels in them._ _He paused for a moment, reveling in their incredulity._  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
@@ -12972,6 +12974,7 @@ __sputum__ _n_
 __spy on__ _phr v_ _Spy on someone._  
 __squabble<sup>1</sup>__ _v_ :five: (squabbling) To engage in a bad-tempered argument, often over a trivial matter; bicker. _A squabbling family._  
 __squabble<sup>2</sup>__ _n_ :three: A noisy quarrel about something trivial. _Shrieking marital squabbles._ _Syn_ quarrel, row, argument, fight  
+__squabbling__ _n_ Petty quarrelling. _All this damn squabbling._  
 __squack__  
 __squad car__ _n_ :four::hammer: _The squad car camera was not activated._  
 __squad__ _n_ :four::hammer: _The Olympics squad._  
