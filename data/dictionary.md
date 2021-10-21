@@ -1598,7 +1598,7 @@ __bridal gown__ _n_
 __bridesmaid__  
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
-__brig__  
+__brig__ _n_ :four::hammer:  
 __brigand__ _n_ A robber or bandit, especially one of an outlaw band.  
 __brigandage__ _n_ :two: Plundering by brigands.  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
@@ -2830,6 +2830,7 @@ __conjunction__
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
 __conman__  
+__conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
 __connective tissue__ _n_  
 __connivance__ _n_ :two: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
@@ -3906,7 +3907,7 @@ __dog tag__
 __dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
-__dog-tired__ _adj_ Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
+__dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :two: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
@@ -3949,6 +3950,7 @@ __doorknob hanger__
 __doorman building__ _n_  
 __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatment by others.  
 __doorpost__  
+__doorsill__ _n_  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :mega:  
 __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
@@ -4461,7 +4463,7 @@ __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortab
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
 __ensemble<sup>2</sup>__ _adj_ _An ensemble group._  
 __enshrined__  
-__ensign__ _n_ :two::hammer:  
+__ensign__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
 __ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
@@ -4781,7 +4783,7 @@ __fang__ _n_ :pencil2::three::hammer: (fangs)
 __fannies__  
 __fanny pack__ _n_ :two: A small pouch on a belt, for money and other valuables, worn round the waist or hips. The name “fanny pack” is derived from the way they were traditionally worn facing the rear above the buttocks, for which “fanny” is a slang term in the United States (a person’s buttocks). :es: riñonera  
 __fantabulous__ _adj_ _informal_ Very good; excellent.  
-__fantail__ _n_ :two::hammer:  
+__fantail__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __fantasize__ _v_  
 __fantastic__ _adj_ :three::hammer::mega:  
 __fantasticate__ _v_ To make fantastic.  
@@ -10812,7 +10814,7 @@ __racinos__
 __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
 __rack__ _n_  
 __racked__ _v_ :two::hammer:  
-__racket<sup>1</sup>__ _n_ :four::hammer: _Extortion rackets._  
+__racket<sup>1</sup>__ _n_ :five::hammer: _Extortion rackets._ _He heard the trains making their racket._  
 __racket<sup>2</sup>__ _v_  
 __racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
 __racketeer<sup>2</sup>__ _v_  
@@ -12695,7 +12697,7 @@ __soapbox<sup>2</sup>__ _v informal_ :two::hammer:
 __soar__ _v_  
 __sobering__  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
-__sobriquet__ _n_ :three: A nickname.  
+__sobriquet__ _n_ :four: A nickname.  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
 __soccage__  
 __social ladder__  
@@ -15445,6 +15447,7 @@ __woeful__ _adj_ :three::hammer: _Our woeful train system._
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
 __woke__ _adj_ _slang_ Aware of the injustice of the social system in which one lives.  
+__wolf__ _v_ To eat greedily or voraciously.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
 __womanizer__ _n_ :four::hammer:  
