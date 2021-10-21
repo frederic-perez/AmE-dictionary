@@ -6619,6 +6619,9 @@ __Hoosiers__
 __hoot<sup>1</sup>__ _v_ :seven::hammer: (hooted, hooting) _The driver of the car behind hooted again._  
 __hoot<sup>2</sup>__ _n_ :three: __3__ _informal_ One that is hilariously funny: _“Emmett, that skirt is a hoot!” (Bobbie Ann Mason)._ _You know, it’s a hell of a hoot._  
 __hootenanny__ _n_  
+__hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
+__hoover<sup>2</sup>__ _v tr_ __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
+__hoover<sup>3</sup>__ _v intr_ _informal_ To use a vacuum cleaner: _needs to hoover before the guests arrive._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in_ _The Wiz Live!_  
 __Hopi__ _n_  
 __hopped cars__  
@@ -7235,7 +7238,7 @@ __jazzy__
 __jeans__ _n pl_ (plurale tantum)  
 __jeer__ _v_ :five::hammer: (jeered, jeering)  
 __Jehova’s Witness__  
-__jejune__  
+__jejune__ _adj_ :two: Not interesting; dull. _Syn_ insipid _A jejune novel._  
 __jell__ _v_ _The plans didn’t jell._  
 __Jell-O Belt__ _n_ The Mormon Corridor region, which has the highest Mormon populations, was nicknamed the “Jell-O Belt,” referring to the 20th-century Mormon cultural stereotype that Mormons have an affinity for Jell-O.  
 __jelly doughnuts__  
@@ -7938,7 +7941,8 @@ __logrolling__ _n_
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
-__loll__ _v_ :five::hammer::pencil2: (lolled, lolling) _His head was lolling against Cato’s shoulder._  
+__loll<sup>1</sup>__ _v intr_ :six::pencil2: (lolled, lolling) __1__ To move, stand, or recline in an indolent or relaxed manner. _It was a dreary Saturday, and James decided to loll around in his pajamas and catch up on his TV shows._ __2__ To hang or droop laxly: _a pennant lolling from the mast._ _The exhausted dog plopped on the floor with its tongue lolling out._ _His head was lolling against Cato’s shoulder._  
+__loll<sup>2</sup>__ _v tr_ To permit to hang or droop laxly: _lolled his head on the armrest._  
 __lollipop__ _n_ (lollypop)  
 __lollygag__ _v intr_ :two: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
 __lone wolf__ _n_ _They are lone wolf attacks._  
@@ -8346,6 +8350,7 @@ __mélange__ _n_
 __meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
 __melee__ _n_  
+__mellifluous__ _adj_ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her mellifluous voice could make him agree to anything._  
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
@@ -8974,6 +8979,7 @@ __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome
 __noir__ _adj_ _A noir novel._  
 __nom de guerre__  
 __nomadic__  
+__nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
 __non sequitur__ _n_ :six: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
@@ -13777,7 +13783,7 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tautology__ _n_  
-__tawdry__ _adj_ :five: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality.  
+__tawdry__ _adj_ :six: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality. Tastelessly showy. _Syn_ flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy, brassy, cheap  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
 __tax levy__  
@@ -14558,7 +14564,7 @@ __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarre
 __unbridled__ _adj_ :two::hammer:  
 __unburdened__  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
-__Uncle Sam__ _n_ :dart::two: A personification of the United States government.  
+__Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
