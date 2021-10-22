@@ -176,7 +176,7 @@ __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
-__adroit__  
+__adroit__ _adj_ :two::hammer:  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
 __adulation__  
@@ -480,6 +480,7 @@ __antic__
 __anticipate__ _v_ (anticipated)  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
+__antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
@@ -1913,6 +1914,8 @@ __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
 __caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
+__caffè Americano__ _n_ (often just an Americano) A shot of espresso with two shots of water. It’s popularly said that it was named for the American GIs in Europe during World War II, who couldn’t handle the intensity of Italian espresso. They’d dilute it with water to make the taste more palatable.  
+__caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
 __caftan__ _n_ :four::hammer: (caftans)  
 __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite answer._ _Pam tried to play it cagey._ __2__ Crafty; shrewd: _a cagey lawyer._  
 __cagily__ _adv_  
@@ -3053,7 +3056,7 @@ __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
-__cozen__ _v_ :two::hammer: (cozened)  
+__cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
 __cozy__  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
@@ -7126,7 +7129,7 @@ __intimation__ _n_ Making known indirectly.
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
-__intransigent__ _adj_ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
+__intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
 __intricacy__ _n_ :two::hammer: (intricacies)  
 __intricate__ _adj_ :two::hammer:  
@@ -7649,6 +7652,7 @@ __Latino__ _n, adj_ :pencil2: _In Los Angeles half of the city’s residents are
 __Latinos__ _n_  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
+__latte__ _n_ A caffe latte.  
 __laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
@@ -9947,7 +9951,7 @@ __pigs in a blanket__ _n_ (food) :camera:
 __pigtail__ _n_ :two::hammer: (pigtails)  
 __pilaf__ _n_ _Chicken pilaf._  
 __Pilates__ _n_ :mega: (Etymology: Joseph H. Pilates †1967 U.S. (German-born) fitness instructor.)  
-__pilcrow__  
+__pilcrow__ _n_ :two: [:scroll: Apparently an alteration of the word paragraph, with r changing into l and remodeled along the more familiar words pill and crow.] A symbol (¶) used to indicate paragraph breaks.  
 __pile bridge__ _n_ :two::hammer:  
 __pile__ _v_ (piling) _There’s a lot of investors piling in._  
 __pileup__  
@@ -10059,7 +10063,7 @@ __plague<sup>2</sup__ _v_
 __plaid__ _n_ :two::hammer: _Plaid number._ _Plaid shirt._  
 __plaint__ _n_ A cry of sorrow and grief. _Syn_ lament, lamentation, wail _The plaints of the bereaved widow and her young children haunt me in my sleep._  
 __plaintiff__ _n_ (plaintiffs) :three::hammer:  
-__plaintive__ _adj_ :four: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow.  
+__plaintive__ _adj_ :five: Plaintive is an adjective for describing someone or something with a pleading, sorrowful, desperate tone. If you have ever heard the plaintive howl of a wolf, then you know what we are getting at here. Expressing sorrow; melancholy. _Syn_ mournful _She uttered a plaintive sob, closed her fine eyes, and fled, trying in vain to still the beating of her heart._  
 __plaintively__ _adv_ :three:  
 __plaiting__ _n_ _Tshanyi earns money plaiting hair._  
 __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
@@ -11409,6 +11413,7 @@ __roebuck__
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
+__roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyance in others. _Syn_ mischief, devilment, rascality _Ms. Adams caught Tommy dipping Sally’s pigtail in his inkwell and gave him detention for his roguery._  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
 __roister__ _v_ :two: Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
