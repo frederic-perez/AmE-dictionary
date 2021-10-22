@@ -3274,6 +3274,7 @@ __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a
 __curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
+__curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. _Six curtained-off beds._  
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __cushy__ _n_ _A cushy modern life._  
@@ -7145,7 +7146,7 @@ __invoice__ _v_
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
-__IOU__ _n_ (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._  
+__IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -9284,7 +9285,7 @@ __order around__ _phr v_ To give commands to someone in a bossy way.
 __orderliness__ _n_ __1__ The quality of appreciating method and system. __2__ A condition of regular or proper arrangement; _he put his desk in order_; _the machine is now in working order._  
 __orderly<sup>1</sup>__ _adv_ :two::hammer: _Someone has taken the time to keep the code simple and orderly._  
 __orderly<sup>2</sup>__ _adj_  
-__orderly<sup>3</sup>__ _n_  
+__orderly<sup>3</sup>__ _n_ :two::astonished: __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :four::pencil2::hammer:  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
@@ -10126,7 +10127,7 @@ __plinth__ _n_ :four::hammer: (plinths)
 __plod__ _v_ :eight: (plodded, plodding) __1__ To walk heavily, slowly, and with difficulty. _Syn_ slog, slop, toil, trudge, wade _Plod to the shower._ __2__ To do tedious, laborious, and sometimes menial work. _Syn_ drudge, grub, slave, slog. _Average people go to work and plod through the day._  
 __plonk__ _v_ (plonked)  
 __plop<sup>1</sup>__ _n_ A short sound as of a small, solid object dropping into water without a splash. _The stone fell into the water with a soft plop._  
-__plop<sup>2</sup>__ _v_ :seven: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._  
+__plop<sup>2</sup>__ _v_ :eight: (plopping, plopped, plops) Fall or cause to fall with a plop. _The stone plopped into the pond._ _He plopped his hat on._  
 __plot__ _n_ :two::hammer: _A plot of dirt._ _In the same plot of sand._  
 __plotz__ _v_ :two: _informal_ To faint, collapse, explode, or flop down, as from excitement, frustration, surprise, exhaustion, etc. From Yiddish platsn (to burst), from German platzen (to burst). _I laughed so hard I almost plotzed._  
 __plough__ _v_ :four::hammer: (ploughed) _It wanted to plough cash into the business._  
@@ -12504,7 +12505,7 @@ __slipshod__ _adj_ :dart::two: __1__ Carelessly done or arranged: _slipshod rese
 __slit > hi-slit dress__  
 __slit<sup>1</sup>__ _n_ :three::hammer:  
 __slit<sup>2</sup>__ _v_ :five::hammer: (slitting) To make a long, straight, narrow cut in something. _I took this knife off his belt and I slit his throat._ _Slitted door._ _The screen was slit on the back porch door._  
-__slither__ _v_  
+__slither__ _v_ :two::hammer: _Slithering in mud._  
 __slithering__ _adj_ :two::hammer:  
 __sliver<sup>1</sup>__ _n_ :nine::m::camera: A small slender piece cut or broken off something; a splinter. _A sliver of chicken._ _Slivers of salmon._ _The early sun looked like a sliver of pink ice._ _A sliver of our time._ _Slivers of ice on the quirt._ _Some sliver of light._  
 __sliver<sup>2</sup>__ _v_ :five::hammer:  
@@ -13615,7 +13616,7 @@ __swindler__ _n_ :four::hammer: _In the dark space between anticipation and real
 __swinging bridge__  
 __swipe<sup>1</sup>__ _n_ :two::hammer: _It was Fujita’s swipe at the one-year anniversary fo the New Orleans bounty scandal._  
 __swipe<sup>2</sup>__ _v_ Swipe is a comics term for the intentional copying of a cover, panel, or page from an earlier comic book or graphic novel without crediting the original artist.  
-__swish<sup>1</sup>__ _v_ :three::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
+__swish<sup>1</sup>__ _v_ :four::astonished::hammer: (swishing) _Swishing the liquid._ _To swish a three-pointer._ _Swishing sound._  
 __swish<sup>2</sup>__ _n_ _He felt a slight swish of air._  
 __swish<sup>3</sup>__ _adj_  
 __switch<sup>1</sup>__ _n_  
@@ -14224,7 +14225,7 @@ __tottered__
 __touch and go__ _n_ :two: A precarious or delicate state of affairs.  
 __touchline__  
 __touchstone__ _n_  
-__touchy__ _adj_ :four: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
+__touchy__ _adj_ :five: __1__ Easily upset or irritated; oversensitive. __2__ Extremely risky. __3__ Easily ignited.  
 __tough cookie__ _n_ :three: A very determined person.  
 __tough love__ _n_ :three::hammer:  
 __tough luck__  
@@ -14326,7 +14327,7 @@ __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
-__trestle__ _n_ :five: /ˈtrɛs(ə)l/ (trestles) Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
+__trestle__ _n_ :six: /ˈtrɛs(ə)l/ (trestles) Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
@@ -14360,6 +14361,8 @@ __trimming__ _n_ :dart: __1__ An extra piece used to decorate or complete. __2__
 __trinity__ _n_ _Trinity College in Dublin._  
 __trinkets__ _n_ :five::hammer:  
 __trip wire__ _n_ _You hit a trip wire._  
+__trip-hammer<sup>1</sup>__ _n_  
+__trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
 __triple__  
 __triplex__ _adj_ _A triplex penthouse._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
@@ -15479,7 +15482,7 @@ __woodwork__ _n_ :two::hammer:
 __woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
 __wooly__  
 __woomb__  
-__woozy__ _adj_ :two::hammer:  
+__woozy__ _adj_ :three::hammer:  
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  
