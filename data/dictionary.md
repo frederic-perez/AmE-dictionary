@@ -3500,6 +3500,7 @@ __defrost__
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one’s movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
+__deftness__ _n_  
 __defund__ _v_ To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __dehydration__  
@@ -6020,7 +6021,8 @@ __gruelling__
 __gruff__ _adj_ :five::hammer:  
 __gruffly__  
 __grum__ _adj_ [:scroll: Probably a blend of grim + glum.] Surly or gloomy.  
-__grumble__ _v_ :six::hammer: (grumbled, grumbling)  
+__grumble<sup>1</sup>__ _n_  
+__grumble<sup>2</sup>__ _v_ :six::hammer: (grumbled, grumbling)  
 __grumbling__ _n_ :two::hammer: (grumblings)  
 __grungy__ _adj_ :two::hammer:  
 __grunt__ _n_ :seven: __1__ A deep guttural sound. __2__ _slang_ An infantryman in the US military, especially in the Vietnam War. _Grunts and generals._ _You’ll have as many troopers as you need for the grunt work._ __3__ _slang_ One who performs routine or mundane tasks. _The grunt work._  
@@ -6671,6 +6673,7 @@ __hot-rodder__
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
+__hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __Houdini<sup>1</sup>__ _n_ An escape artist.  
 __Houdini<sup>2</sup>__ _v intr_ To escape.  
@@ -6823,7 +6826,7 @@ __idle__ _v_
 __idolatry__ _n_ :two::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
-__iffy__ _adj_ _slang_ :five: Uncertain or doubtful. _Iffy call._ _I feel a bit iffy._  
+__iffy__ _adj_ _slang_ :six: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
@@ -8655,7 +8658,7 @@ __mortice__
 __mortification__ _n_ :two::hammer:  
 __mortify__ _v_ :six::hammer: (mortified)  
 __mortuaries__  
-__mosh__  
+__mosh__ _v intr_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
 __mote__ _n_ :two::hammer: (motes) _A dust mote._  
@@ -9166,7 +9169,7 @@ __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._
 __off<sup>2</sup>__ _adj_  
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
-__offbeat__ _adj_ _slang_ :three: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
+__offbeat__ _adj_ _slang_ :four: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __officer__ _n_ :two::hammer:  
 __offload__ _v_  
 __offramp__  
@@ -9845,6 +9848,7 @@ __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to ci
 __perseverate__ _v_  
 __persnickety__ _adj_ :dart:  
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
+__personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personify__ _v_  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
@@ -10291,7 +10295,7 @@ __posse__ _n_ :two::hammer: _A posse clad._
 __possum > play possum__ _v informal_ :seven: To pretend to be ignorant, asleep, or deal in order to deceive somebody. _To play possum._ _He’d been playing possum._  
 __possum__ _n_ :two::hammer: :es: zarigüeya  
 __post hoc__  
-__postbellum__ _adj_ Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
+__postbellum__ _adj_ :two: Of, relating to, or characteristic of the period following a war and especially following the American Civil War. _Postbellum years._  
 __postcode lottery__ _n_ :two::hammer:  
 __poster boy__ _n_ :two::hammer:  
 __poster child__ _n_ :four::hammer: _Carl Levin called Kaveladze the “poster child” of using hidden ownership of American shell corporations to launder money._ _The building had been called a poster child for gentrification._  
@@ -11965,6 +11969,7 @@ __sell short__
 __sell-offs__  
 __sellout__ _n_ (sold out, sellouts) :three::hammer: _There have been no sellouts._  
 __sellsworth__ _n_  
+__seltzer__ _n_ __1__ A natural effervescent spring water of high mineral content. __2__ A similar synthetic water, used as a beverage.  
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-finished__ _adj_ _Semi-finished lens._  
@@ -15204,6 +15209,7 @@ __well-disposed__ _adj_ Inclined to help or support; not antagonistic or hostile
 __well-founded__ _adj_ Based on sound reasoning or evidence.  
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
+__well-off__ _adj_  
 __well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
 __well-rounded__ _adj_ :three::hammer:  
 __wellhead__  
