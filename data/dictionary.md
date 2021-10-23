@@ -2832,6 +2832,7 @@ __conjoined__ _adj_ Consisting of two or more associated entities.
 __conjunction__  
 __conjuration__ _n_ Calling up a spirit or devil. _Syn_ invocation  
 __conjure__ _v_ :three::hammer: _Syn_ beg  
+__conk__ _v_ (conked) _Something conked me._  
 __conman__  
 __conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
 __connective tissue__ _n_  
@@ -6113,7 +6114,7 @@ __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dwelle
 __habitation__ _n_ :astonished:  
 __habituate__ _v_  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
-__hack<sup>2</sup>__ _v_ _Coughing and hacking while shuffling around._  
+__hack<sup>2</sup>__ _v_ :two::hammer: _Coughing and hacking while shuffling around._ _That smoke made a man cough and hack for weeks._  
 __hackle<sup>1</sup>__ _n_ :three: (hackles) __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
 __hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.  
 __hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._  
@@ -7784,7 +7785,7 @@ __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia
 __liberalization__  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __libertine<sup>2</sup>__ _n_  
-__liberty__ _n_ __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ __b__ (as modifier): liberty man; liberty boat.  
+__liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ _Liberty is canceled until further notice._ __b__ (as modifier): liberty man; liberty boat.  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
@@ -7946,7 +7947,7 @@ __logrolling__ _n_
 __loincloths__  
 __loins__ _n_ :two::hammer:  
 __loitered__ _v_ :two::hammer: (loitering) _Strategy ideas loitering in a notebook._  
-__loll<sup>1</sup>__ _v intr_ :six::pencil2: (lolled, lolling) __1__ To move, stand, or recline in an indolent or relaxed manner. _It was a dreary Saturday, and James decided to loll around in his pajamas and catch up on his TV shows._ __2__ To hang or droop laxly: _a pennant lolling from the mast._ _The exhausted dog plopped on the floor with its tongue lolling out._ _His head was lolling against Cato’s shoulder._  
+__loll<sup>1</sup>__ _v intr_ :seven::pencil2: (lolled, lolling) __1__ To move, stand, or recline in an indolent or relaxed manner. _It was a dreary Saturday, and James decided to loll around in his pajamas and catch up on his TV shows._ __2__ To hang or droop laxly: _a pennant lolling from the mast._ _The exhausted dog plopped on the floor with its tongue lolling out._ _His head was lolling against Cato’s shoulder._ _The dog’s head was inches away, his tongue lolling to one side._  
 __loll<sup>2</sup>__ _v tr_ To permit to hang or droop laxly: _lolled his head on the armrest._  
 __lollipop__ _n_ (lollypop)  
 __lollygag__ _v intr_ :two: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
@@ -8767,7 +8768,8 @@ __musket__
 __muskmelon__ _n_ :three::hammer:  
 __muskrat__ _n_ _The muskrat season._  
 __muslin__ _n_ :two::hammer: _Muslin swaddles._ :es: muselina  
-__muss__ _n_ _No fuss, no muss._  
+__muss<sup>1</sup>__ _n_ _No fuss, no muss._  
+__muss<sup>2</sup>__ _v_ :two::hammer: (mussed) _Her hair was down and mussed around her face._  
 __mussed__ _v_  
 __mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin musculus, “little mouse.”  
 __must have__  
@@ -9745,6 +9747,7 @@ __peg__ _v_ (pegged) :three::hammer: _Pegged as a uniform thug._
 __Pell Grant__ _n_ _Young people get cuts in Pell Grants._  
 __pell-mell__  
 __pellet__ _n_  
+__pelorus__ _n_  
 __peloton__ _n_ The main group of riders in a cycle race.  
 __pelt<sup>1</sup>__ _n_ :five::hammer: (pelts)  
 __pelt<sup>2</sup>__ _v_ :seven::hammer: (pelted, pelting) _The rain pelted the windows._ _Inmates pelting him with objects from above._ _The rain was pelting down._  
@@ -10841,6 +10844,7 @@ __radical candor__
 __radiometer__ _n_ :two::hammer:  
 __radiosonde__ _n_ :four::hammer:  
 __radish__  
+__radium dial__ _n_ _He checked the radium dial on his watch: 0517._  
 __radome__ _n_ :two::hammer:  
 __raffish__ _adj_ [:scroll: From raff (rubbish), also the source of riffraff.] __1__ Vulgar or tawdry. __2__ Unconventional; carefree; rakish.  
 __raffle<sup>1</sup>__ _n_ :four::hammer:  
@@ -11658,7 +11662,7 @@ __sanitation__ _n_ _Sanitation systems._
 __sanitize__ _v_  
 __sanity check__  
 __sap<sup>1</sup>__ _v_ :nine::m: (saps, sapped, sapping, sappy) Gradually weaken or destroy (a person’s strength or power). _Weak demand sapping trade._ _His energy was sapping._ _Worry never robs tomorrow of its sorrow, it only saps today of its joy._  
-__sap<sup>2</sup>__ _n_ :three::hammer: _A flat-sided sap stuck out of his back pocket._  
+__sap<sup>2</sup>__ _n_ :four::hammer: _A flat-sided sap stuck out of his back pocket._ _What a sap!_  
 __sapiosexual__ _n_ A relatively new word that refers to a person who is erotically attracted to intelligence.  
 __sapling__ _n_ :four: (saplings) A young tree with a slender trunk is known as a sapling. Just as a young duck is called a “duckling,” a young tree is called a sapling. _Tree saplings._ _Twisting saplings._  
 __sapper__ _n_ :two::hammer:  
@@ -12688,6 +12692,7 @@ __snowmobiler__
 __snowpack<sup>1</sup>__ _v_ _Snowpacking measurements._  
 __snowpack<sup>2</sup>__ _n_ :three: A seasonal accumulation of slow-melting packed snow.  
 __snowplows__ _n_  
+__snowshed__ _n_ :two::hammer:  
 __snowshoe__ _v_ :two::hammer: (snowshoeing)  
 __snub-nosed__ _adj_ :two::hammer: _Snub-nosed revolver._ _He wore a snub-nosed .38 in a clip-on holster on his belt._  
 __snub<sup>1</sup>__ _v_ :nine::m: /snʌb/ (snubs, snubbed) Rebuff, ignore, or spurn disdainfully. _Syn_ insult, slight, affront, humiliate _Putin is not just snubbing the United States and the G8._ _He snubbed faculty members and students alike._ _Snubbed nose._ :es: _desaire, repulsa_  
@@ -14431,7 +14436,7 @@ __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’
 __tryst__  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
-__tub__ _n_ :five: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
+__tub__ _n_ :six: __1__ A low wide open container, typically round, originally one made of wood and used _esp_ for washing: now made of wood, plastic, metal, etc, and used in a variety of domestic and industrial situations. _Family tub corn._ _Bring a tub of wet wipes._ :camera: __2__ A small plastic or cardboard container of similar shape for ice cream, margarine, etc. __3__ Also called: bathtub another word (_esp_ US and Canadian) for bath.  
 __tube sock__ _n_ :camera: (tube socks) A long sock that is shaped like a tube without a specific place for the heel and that is often worn while playing sports. A type of knee-high sports sock; usually white with two stripes at the top, which can be in one of various different colours. Generally worn by both guys and girls. Gives off a very retro ’70s-’80s look. _Nothing brings out a good pair of legs like a pair of tube socks._  
 __tubthumping__  
 __tuck away__  
