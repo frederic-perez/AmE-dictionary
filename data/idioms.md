@@ -40,6 +40,7 @@ __a fig leaf__ Something used to hide an embarrassing or shameful problem. In th
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
 __a fishbowl__ A place, situation, or environment in which one has little or no privacy. A reference to the (typically) spherical bowls in which pet fish are often kept, which can be seen into from all sides.  
+__a game of musical chairs__ A situation in which people or things are moved, shuffled, or rearranged from one position to another. _After the boss resigned, it was a regular game of musical chairs in the company to figure out who would take over for whom._  
 __a going concern__ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company.  
 __a good turn__ An action that is beneficial to another person in some way.  
@@ -64,6 +65,8 @@ __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll j
 __a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
 __a long row to hoe__ A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _I know finishing this thesis will be a long row to hoe, but I’m actually looking forward to the challenge._  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _You’re playing a losing game if you think you can convince Sarah to go to college._  
+__a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _My dad is pretty relaxed about most things, but he can be a bit of a mother hen when it comes to who I hang out with._  
+__a motor mouth__ A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
@@ -595,6 +598,7 @@ __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convi
 __freak out__ (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
 __free-wheeling__ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
+__freebooter__ _n_ A person who pillages and plunders, especially a pirate.  
 __fresh-faced__ Of or having an appearance of health, vitality, and/or youthfulness.  
 __Freudian slip__ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
@@ -835,6 +839,7 @@ __have the feel of (something)__ To have a general sense of how to do or use som
 __have the floor__ To have the right or opportunity to speak in a group, especially at a formal event or gathering.  
 __have the goods on (someone)__ :two: To have incriminating evidence or proof against someone. _We know he’s guilty, but we can’t arrest him until we have the goods on him._ _I got the goods on you._  
 __have the heart (to do something)__ To be hard hearted, callous, or unsympathetic (enough to do something); to have the emotional resolve (to do something). Usually used in the negative. _I didn’t have the heart to tell her that I didn’t love her anymore._  
+__have the mouth of a sailor__ To have a tendency or proclivity to use coarse, rude, or vulgar language. _My grandmother is the sweetest old lady you’ll ever know, but, my lord, does she have the mouth of a sailor!_  
 __have the say__ To have the ultimate authority to command, control, or make a decision.  
 __have the wind up__ To be very anxious, upset, or frightened.  
 __have the world by the tail__ To be very successful, contented, and happy in life.  
@@ -862,6 +867,7 @@ __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bulli
 __here and there__ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
 __here you are__ Here is what you needed or asked for; I present this to you.  
 __hide and seek__ A situation in which one party is constantly evading or avoiding another. (A reference to the children’s game “hide and go seek.”) Often used with the verb “play.”  
+__high muckety muck__ _slang_ An especially important, influential, and authoritative person, especially someone who is overbearingly or arrogantly so. _We’re just waiting for the high muckety muck to give us the green light before we get the project started._  
 __high note__ The most successful, impressive, or climactic point (of something).  
 __high profile__ A presence or stance that is deliberately conspicuous and prominent socially.  
 __high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
@@ -1309,7 +1315,10 @@ __moral compass__ :two: That which serves or guides a person’s knowledge, sens
 __more often than not__ Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
 __most of the time__ _Most of the time I do my breakfast._  
+__mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
+__mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or description, especially as makes one’s mouth salivate. _I can’t wait to eat—those steaks you’re cooking smell mouth-watering!_  
 __move heaven and earth__ To do everything that one can to make something happen.  
+__move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
 __mover and shaker__ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
@@ -1323,6 +1332,7 @@ __new car smell__ The scent associated with the inside of a brand new vehicle, c
 __new kid on the block__ Someone who is new in a place or organization.  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
+__nincompoop__ _n_ A silly, foolish, or stupid person.  
 __no big deal__ _No big deal, but it looked sloppy._  
 __no dice__  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
