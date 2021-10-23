@@ -2269,7 +2269,7 @@ __chassis__
 __chasten__ _v_ Censure severely.  
 __chastened__ _adj_ :two: Subdued; humbled.  
 __chastening__ _n_ A rebuke for making a mistake.  
-__chastise__ _v_ :two: (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
+__chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
 __chasuble__ _n_ :two::hammer:  
 __chatelaine__ _n_  
 __chattel__  
@@ -4269,7 +4269,7 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
-__ebullient__ _adj_ :five: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. _The ebullient young scientist couldn’t wait to share their latest discovery._  
+__ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
@@ -4559,6 +4559,7 @@ __esoteric__ _adj_
 __espadrilles__ _n_  
 __esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
+__espresso__ _n_ A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
 __essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
@@ -6967,7 +6968,7 @@ __incur__ _v_
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
 __indefinite__  
-__indelible__ _adj_ :six::hammer::pencil2: _An indelible mark._  
+__indelible__ _adj_ :seven::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
 __index card__ _n_  
@@ -8419,7 +8420,7 @@ __meticulous__ _adj_ :two: Marked by extreme or excessive care in the considerat
 __metro<sup>1</sup>__ _n_ A subway system.  
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
-__mettle__ _n_ :nine::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._  
+__mettle__ _n_ :nine::m::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._  
 __mezzanine__  
 __miasma__ _n_ :four::hammer: _An opaque miasma._  
 __mick__ _n_ :three::hammer:  
@@ -9515,6 +9516,7 @@ __palmetto__ _n_ :two::hammer: (palmettos)
 __palmy__ _adj_ /ˈpɑːmɪ/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
 __palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
+__palpable__ _adj_ Capable of being handled, touched, or felt. _Syn_ tangible  
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
@@ -10602,6 +10604,7 @@ __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
 __psychic<sup>1</sup>__ _n_ :mute:[~~p~~sychic]  
 __psychic<sup>2</sup>__ _adj_ :mute:[~~p~~sychic]  
+__psychobabble__ _n_ /SY-ko-bab-uhl/ Language laden with jargon from psychotherapy or psychiatry, used without concern for accuracy.  
 __psychology__ _n_ :mute:[~~p~~sychology]  
 __psychopathic__  
 __psychotronic__ _adj_ Of or relating to a genre of usually low-budget movies that includes horror, fantasy, science-fiction, and underground films.  
@@ -10704,7 +10707,7 @@ __pushcart__ _n_ _A pushcart vendor._
 __pushover__ _n_ :seven: A pushover is a person who’s easy to fool or influence. A substitute teacher who’s a pushover is easily convinced that the class usually spends an hour watching music videos. If you’re a pushover, you find it hard to deny anyone what they ask for.  
 __pushpins__  
 __pushy__ _adj_ :two::hammer: _I guess I was a little pushy._ _Pushy sales._  
-__pusillanimous__ _adj_ Characterized by a lack of courage or determination.  
+__pusillanimous__ _adj_ :two: Characterized by a lack of courage or determination. Lacking courage; cowardly. _Syn_ spineless, craven _Why, you pusillanimous piece of dirt, you’d run with your tail between your legs if I said boo!_  
 __pustules__ _n_  
 __put it on the money__  
 __put on a clinic__  
@@ -12168,8 +12171,8 @@ __shoddy__ _adj_ :six::hammer:
 __shoebox__ _n_  
 __shoehorn<sup>1</sup>__ _n_ A smooth curved implement, often of plastic or metal, inserted at the heel to help put on a shoe.  
 __shoehorn<sup>2</sup>__ _v_ To squeeze into or as if into an insufficient space: _Can you shoehorn four of us into the back seat of your car?_  
-__shoestring<sup>1</sup>__ _n_  
-__shoestring<sup>2</sup>__ _adj_ :two::hammer: _A shoestring budget._ _A shoestring operation._  
+__shoestring<sup>1</sup>__ _n_ :two: __1__ Shoelace. __2__ A small sum of money; capital that is barely adequate: _a company that started on a shoestring._  
+__shoestring<sup>2</sup>__ _adj_ :three: __1__ Long and slender: _shoestring potatoes._ __2__ Marked by or consisting of a small amount of money: _a shoestring budget._ _A shoestring budget._ _A shoestring operation._  
 __shoftlift__ _v_  
 __shogun__ _n_  
 __shogunate__ _n_ :two::hammer: _A local shogunate office._  
