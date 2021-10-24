@@ -1100,9 +1100,9 @@ __bento__ _n_ Boxed meals.
 __bequeath__ _v_ :nine::hammer; (bequeathed)  
 __bequest__ _n_ :eight::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
-__bereave__ _v_ :two::hammer: (bereaved)  
+__bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
-__bereavement__ _n_ :seven: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
+__bereavement__ _n_ :eight: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
 __bereft<sup>1</sup>__ _adj_ :five::hammer:  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
@@ -5185,6 +5185,7 @@ __flung__ _v_ :two::hammer:
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
 __flunky__ _n_ :four: (flunkie) __1a__ A liveried servant. __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
 __fluorescent__ _adj, n_ :mute:[fluores~~c~~ent]  
+__fluoridation__ _n_ The addition of a fluoride to the water supply (to prevent dental decay). _Syn_ fluoridization  
 __flurry > in a flurry__  
 __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, interest, excitement, etc. within a short period of time: _a sudden flurry of activity_ _After Emancipation, a passionate flurry ensued._ _Neymar took a flurry of short steps before unleasing a kick to the right of the goalkeeper._ __2__ A small amount of snow, rain, etc. that falls for a short time and then stops: _snow flurries_ :es: _(of snow)_ temporal  
 __flushed complexion__  
@@ -5744,6 +5745,7 @@ __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chi
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
 __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._  
 __gloom<sup>2</sup>__ _v_  
+__gloomy__ _adj_ _Winter is coming—but will the gloomiest forecasts come to pass?_  
 __gloppy__ _adj_ _It will be thick, gloppy, wall-paper-paste-type snow._  
 __gloss__ _v_ :three::hammer: (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
@@ -5843,7 +5845,7 @@ __Gordian knot__ _n_ :two::hammer:
 __gore__ _n_ _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
-__gorgonize__ _v_ To affect as a Gorgon might; hypnotize; petrify.  
+__gorgonize__ _v_ :two: To affect as a Gorgon might; hypnotize; petrify.  
 __gormandize__ _v_ :two: Overeat or eat immodestly; make a pig of oneself. To eat greedily, gluttonously, or ravenously. _Syn_ devour  
 __gormless__  
 __gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
@@ -7791,6 +7793,7 @@ __liberalization__
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
 __libertine<sup>2</sup>__ _n_  
 __liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to a sailor. _He granted liberty on Monday with misgivings._ _Liberty is canceled until further notice._ __b__ (as modifier): liberty man; liberty boat.  
+__libration__ _n_ A very slow oscillation, real or apparent, of a satellite as viewed from the larger celestial body around which it revolves. _Due to lunar libration, people on Earth can see about 59% of the Moon over time._  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
 __licentiousness__  
@@ -7936,7 +7939,7 @@ __locomotive__ _n_
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
 __locust__ _n_ :four::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
-__lodestone__ _n_ [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
+__lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ _Fishing lodges._  
 __lodge<sup>2</sup>__ _v_ :two::hammer: (lodged) _The cardinal rented 51 houses to lodge all his retainers._ _He lodged his will with a lawyer in Rome._  
 __lodging__  
@@ -8659,6 +8662,7 @@ __mortice__
 __mortification__ _n_ :two::hammer:  
 __mortify__ _v_ :six::hammer: (mortified)  
 __mortuaries__  
+__mosh pit__ _n_ An area in front of a stage where very physical and rough dancing takes place at a rock concert.  
 __mosh__ _v intr_ :two: To knock against others intentionally while dancing at a rock concert; slam-dance.  
 __mosque__ _n_ :two::hammer: (mosques)  
 __mot juste__ _n_ The appropriate word or expression.  
@@ -14470,6 +14474,7 @@ __tumbler__ _n_ __1__ One that tumbles, especially an acrobat or gymnast. __2a__
 __tumbleweed__ _n_  
 __tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Syn_ garboil, uproar  
 __tumultuous__  
+__tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
 __tunnel vision__ _n_ :two::hammer:  
 __tuppence__  
@@ -14877,7 +14882,8 @@ __vaunted__ _adj_ Hghly or widely praised or boasted about.
 __veal__ _n_ :es: ternera  
 __veep__ _n informal_ A vice president.  
 __veer__ _v_ :two::hammer:  
-__veg__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
+__veg<sup>1</sup>__ _n_ :two: Vegetable. _Eat five servings of fruit or veg each day._  
+__veg<sup>2</sup>__ _v intr_ To engage in relaxing or passive activities. Often used with out.  
 __veggie__ _n informal_ :two: A vegetable. _Holiday veggie roast._  
 __veggies__ _n pl_ _slang_ Vegetables.  
 __vehicle__ _n_ :mute:[ve~~h~~icle]  
