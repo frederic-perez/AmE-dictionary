@@ -1458,8 +1458,8 @@ __bookshop__ _n_ A bookstore.
 __bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
+__boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
 __boomer chains__  
-__booms__ _n_ :two::hammer:  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
@@ -2131,9 +2131,8 @@ __cataract__ _n_ :two::hammer: :es: cataratas
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_  
 __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity or extreme laxness of limbs. __2__ _informal_ So tired or exhausted that one can barely move: _We arrived in Marostica the following day, hungry, cranky, and catatonic with jet lag._  
-__catcall<sup>1</sup>__ _n_  
-__catcall<sup>2</sup>__ _v_ _Some catcalling builders shouted abuse at him._  
-__catcalls__ _n_ :six::hammer: _A pack of men on motorbikes left a wake of catcalls._  
+__catcall<sup>1</sup>__ _n_ :seven::hammer: (catcalls) _A pack of men on motorbikes left a wake of catcalls._  
+__catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
 __catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
@@ -3377,6 +3376,7 @@ __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center 
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
+__davits__ _n_  
 __dawdled__ _v_  
 __dawn__ _v_  
 __day and age__  
@@ -3910,13 +3910,14 @@ __doff__ _v_ :four: (doffing; vs don _v_) __1__ To take off; remove: _doff one�
 __dog days__  
 __dog sledding__  
 __dog tag__  
-__dog__ _v_ :four::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
+__dog__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :two: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
+__dogging__ _adj_ _He swung the dogging lever._  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
 __dogleg<sup>2</sup>__ _v_ (doglegs)  
@@ -6880,7 +6881,7 @@ __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain 
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :six::hammer:  
+__impervious__ _adj_ :seven::hammer:  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -10163,6 +10164,7 @@ __plums__ _n_ :three::hammer:
 __plunder__ _v_ :six::hammer: (plundered)  
 __plunge__ _v_ :two::hammer: _Plunge the toilet._  
 __plunger__ _n_ :two::hammer: _The syringe’s plunger._  
+__plunked__ _v_  
 __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is a noun that appears only in the plural form and does not have a singular variant for referring to a single object. In a less strict usage of the term, it can also refer to nouns whose singular form is rarely used. In English pluralia tantum are frequently words which denote objects that occur or function as pairs or sets, such as spectacles, trousers, pants, scissors, clothes, electronics, bagpipes, or genitals.  
 __plus__ _adj, conj, n_  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
@@ -11696,7 +11698,7 @@ __satyr__
 __sauce__ _n_  
 __saucerful__  
 __saucy__  
-__saunter__ _v_ :three: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
+__saunter__ _v_ :four: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
 __sautoir__ _n_ _Sautoir necklace._  
@@ -12926,6 +12928,7 @@ __spliced__ _v_
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
 __split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
+__splitting headache__ _n_ A very bad headache.  
 __splotched__ _v_  
 __splotches__ _n_  
 __splurge<sup>1</sup>__ _n_ :three: [:scroll: Perhaps a blend of splash + surge, or maybe imitative.] __1__ An expensive indulgence; a spree: _a splurge in a fine restaurant._ __2__ An extravagant display or large amount: _a splurge of flowers._  
@@ -14632,6 +14635,7 @@ __undeterred__
 __undies__  
 __undimpled__  
 __undisturbed__ _v_  
+__undog__ _v_ To loose from a fastening dog or catch. _Sailors undogged hatches._  
 __undoing__ _n_  
 __undoubtedly__  
 __undue__  
