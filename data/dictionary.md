@@ -1610,7 +1610,7 @@ __brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy colorin
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __briny__ _adj_  
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
-__brisk__ _adj_ :four::hammer: _Brisk pace._ _A brisk walk._  
+__brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
@@ -3836,7 +3836,7 @@ __dissatisfy__ _v_ :three::hammer: (dissatisfied)
 __dissection__ _n_ _Dissections in coronary vessels._  
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
-__disseminate__ _v_  
+__disseminate__ _v_ :two::pencil2::hammer:  
 __dissension__  
 __dissent__ _n_ :four::hammer:  
 __dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
@@ -4929,6 +4929,7 @@ __fib<sup>2</sup>__ _v_ :two: (fibbed, fibbing) To tell a trivial and harmless l
 __Fibbies__  
 __fiber__  
 __fiberglass__  
+__fibril__ _n_ __2__ _Anatomy_ A threadlike fiber or filament, such as a myofibril or neurofibril, that is a constituent of a cell or larger structure.  
 __fibrillation__ _n_  
 __fibroplasia__ _n_  
 __fickle__ _adj_ :two::hammer: _A fickle ally._  
@@ -5011,7 +5012,8 @@ __firewall__ _v_ :camera: _The pilot firewalled the throttles._
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
-__first-in-class__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
+__first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
+__first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
@@ -6513,7 +6515,7 @@ __hit the sack__
 __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this process to get their cash._ _The whole system works without a hitch._ _I hope the day goes without a hitch._  
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
-__hitherto__ _adv_ :four::hammer:  
+__hitherto__ _adj, adv_ :five::hammer:  
 __HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __HMOs__  
@@ -8794,6 +8796,7 @@ __Mx.__ _n_ A title of respect prefixed to a person’s surname: unlike Mr., Mrs
 __mycoplasma__ _n_ Any of a group of very small microorganisms without cell walls, of the prokaryote class Mollicutes, that are a common cause of pneumonia and urinary tract infections.  
 __mycorrhiza__ _n_ (mycorhiza) An association of a fungus and a plant in which the fungus lives within or on the outside of the plant’s roots forming a symbiotic or parasitic relationship.  
 __myeloid__ _adj_ (Anatomy) Of or relating to the spinal cord or the bone marrow. _Myeloid leukemia._  
+__myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.  
 __myocarditis__ _n_  
 __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a person or an animal.  
 __myopia__ _n_ :pencil2::two::hammer:  
@@ -9834,6 +9837,7 @@ __peripatetic<sup>2</sup>__ _n_ One who walks from place to place; an itinerant.
 __peripeteia__ _n_ A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work).  
 __peripheral__  
 __perish__ _v_ :two: To die, especially in an accident or by being killed, or to be destroyed. _Three hundred people perished in the earthquake._  
+__peristalsis__ _n_ The wavelike muscular contractions of the digestive tract or other tubular structures by which contents are forced onward toward the opening.  
 __peristaltic__ _adj_  
 __peritonitis__ _n_  
 __periwinkle__ _n_ :two::hammer: (periwinkles)  
@@ -11106,7 +11110,7 @@ __refectory__ _n_ :five: A communal dining hall in a religious, academic, or oth
 __referenda__  
 __referral__  
 __reffing__  
-__refractory__ _adj_ :four::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
 __refrain<sup>2</sup>__ _v_ :two::hammer: _Refraining from email was definitely a challenge._  
 __refugium__ _n_ :two::hammer:  
@@ -13576,6 +13580,7 @@ __suspenders__ _n_ :two::hammer: _Larry King’s suspenders._
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
 __sussed__ _adj_ _Br_ _informal_ If someone is sussed, they are clever and know a lot about something such as clothes, pop music, or politics.  
 __sustain__ _v_ :dart: _Clark and his passengers sustained minor injuries._  
+__sustenance__ _n_ __3__ Something that sustains something else; essential support: _researchers seeking financial sustenance._  
 __susurration__ _n_  
 __sutler__ _n_ A supplier of victuals or supplies to an army. _Syn_ provisioner, victualer, victualler _He became a sutler on a major scale in the war between the States._  
 __sutra__ _n_  
