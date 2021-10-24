@@ -162,6 +162,7 @@ __at the end of (one’s) rope__ Having reached a point of utter exhaustion or e
 __at the ready__ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
+__auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
@@ -568,6 +569,8 @@ __fit like a glove__ To fit perfectly.
 __fit the bill__ :three::hammer: (fill the bill) _His appearance fitted the bill._  
 __five o’clock shadow__ A short beard on a man’s face that has grown since the morning shave.  
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
+__flick off__ :dart: _He flicked off the light._  
+__flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
 __flotsam and jetsam__  
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ To lose self control, to get very angry.  
@@ -912,6 +915,7 @@ __hold your horses__ :two: Slow down, wait.
 __holy crickets__ An exclamation of surprise, shock, or astonishment.  
 __holy smoke__ What a surprise. _Holy smoke! Look at all of those geese!_  
 __home, James (, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
+__honest injun__ An expression used to emphasize the veracity of one’s statement. Based on a colloquial spelling of “Indian” (i.e., Native American). One of many expressions often considered offensive for making reference to Native American stereotypes or tropes. Primarily heard in US. _I swear it wasn’t me who broke the lamp, honest injun!_  
 __honest to Pete__ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
 __honey-do list__ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  
@@ -1312,7 +1316,7 @@ __money pit__ :two: A business, possession, or other financial commitment that r
 __money talks__ Rich people can get what they want.  
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
 __moral compass__ :two: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics.  
-__more often than not__ Usually; as a rule. _Syn_ by and large, generally, mostly  
+__more often than not__ :two: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
 __most of the time__ _Most of the time I do my breakfast._  
 __mouth-breathing__ (used before a noun) Dimwitted, foolish, or stupid; of low or stunted intelligence. _Maybe you wouldn’t have failed the exam if you weren’t such a mouth-breathing nincompoop!_  
@@ -1573,6 +1577,7 @@ __shoot up__ :two::hammer: _The number of homeless families shot up during the r
 __shoot your mouth off__ To boast or talk too much, to tell secrets.  
 __shoot yourself in the foot__ To do or say something that causes problems for you.  
 __short of (something)__ _Anything short of that._  
+__short-order cook__ A restaurant worker whose job is to cook food that can be prepared quickly. _She worked as a short-order cook._ :es: cocinero de comida rápida  
 __shortly after__ Soon after. _Shortly after she hung up, the phone rang again._  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ An attempt to guess something when you have no information or knowledge about it.  
@@ -1580,7 +1585,7 @@ __show (one’s) (true) colors__ :two::hammer: _He has shown his true colors._
 __show someone the door__ To dismiss someone from a job.  
 __shut (one’s) mouth__  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
-__shut-eye__ _I’m going for some shut-eye._  
+__shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
 __shy away__  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
@@ -1752,6 +1757,7 @@ __to see red__ Very angry.
 __to some extent__  
 __to that end__ :four::hammer: (to that end,)  
 __to this day__ :four::hammer: _I don’t know if they still do it to this day._  
+__to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
@@ -1838,6 +1844,7 @@ __work one’s fingers to the bone__
 __work one’s tail off__  
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
+__wouldn’t listen__ _He wouldn’t listen._  
 __wouldn’t touch something/someone with a ten-foot pole__ (_BrA_ wouldn’t touch something/someone with a barge pole) If you say that you wouldn’t touch something or someone with a barge pole, you mean that you do not want to have anything to do with them. _The history of the building kept the price down. No one would touch it with a barge pole._ _A woman like that wouldn’t touch me with a ten-foot pole._ Note: A barge pole is a very long pole that is used to move a barge (= a long, flat boat) forward.  
 __wrap (one’s) head around it__ :six: To comprehend something that one considers challenging, confusing, or a foreign concept. _I’m trying to wrap my head around it._  
 __wreak havoc__ :three: (wreaked havoc) To cause a lot of problems.  
