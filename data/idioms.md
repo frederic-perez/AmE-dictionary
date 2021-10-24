@@ -185,6 +185,7 @@ __barnburner__ :three: Any thing, event, or occasion that is especially exciting
 __barrel of laugh__ :two: Someone who is very funny.  
 __barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __bat an eye__ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn’t even bat an eye when I told her I was moving out._  
+__bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (just) good friends__ A phrase used to emphasize that two people are not in a romantic relationship. _Oh, he’s not my boyfriend—we’re just good friends._  
 __be (one’s) last resort__ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
@@ -403,10 +404,12 @@ __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
 __control freak__ :two::hammer:  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
+__cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __corporate ladder__  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
 __count your blessings__ :five: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior.  
@@ -443,7 +446,7 @@ __day/moment/time in the sun__ A period of being popular or getting a lot of att
 __dead asleep__ In a deep, immovable sleep.  
 __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
-__dead in the water__ Without any chance for success.  
+__dead in the water__ :two: [:scroll: _Dead in the water_ was originally used of a ship and in this context means ‘unable to move’.] Without any chance for success. A person or plan that is dead in the water has failed and has little hope of succeeding in the future: _Now the scandal is out, his leadership campaign is dead in the water._  
 __dead last__ In last place, especially by a wide margin, as for a race or other competition.  
 __dead man walking__ _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
@@ -494,6 +497,7 @@ __down to the wire__ (_Down to the wire_ originally comes from the practice of s
 __down-to-earth__ _adj_ :four: Sensible and realistic.  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
+__dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
@@ -579,7 +583,7 @@ __flotsam and jetsam__
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ To lose self control, to get very angry.  
 __fly on the wall__ :two::hammer:  
-__foam at the mouth__ To be extremely angry.  
+__foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming at the mouth when she heard about the cost of the car repairs._  
 __follow (someone or something) in stride__ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ To do the same thing as someone else did previously.  
 __follow suit__ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs).  
@@ -753,6 +757,7 @@ __green with envy__ Very jealous.
 __greener pastures__ :two: A better or more exciting job or place.  
 __grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something).  
 __grind (someone’s) gears__ To greatly or specifically irritate or annoy someone.  
+__gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
@@ -1439,6 +1444,7 @@ __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits t
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of thin air__ :two: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
+__out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
 __over (one’s) head__ :two: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
 __over the course of__ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
@@ -1460,11 +1466,12 @@ __pay through the nose (for something)__ :three::hammer:
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
 __perfect storm__ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
-__perk up__ :two: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
+__perk up__ :three: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on (one)__ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
 __pick up after (someone or oneself)__ To collect and put away a mess that someone or oneself has left around. _You really need to pick up after yourself if you’re going to use my workshop._  
+__pick-me-up__ Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pie in the sky__ :three::hammer:  
 __piece of work__ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
