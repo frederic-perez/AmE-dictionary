@@ -888,6 +888,7 @@ __bantam__ _n_ :two::hammer: _Playing hockey at the bantam level._
 __bantamweight__ _n_ :two: _Rousey is the women’s bantamweight champ._  
 __banter<sup>1</sup>__ _n_ :six::hammer:  
 __banter<sup>2</sup>__ _v_  
+__banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __bar top__  
 __barbecue<sup>1</sup>__ _n_ _Barbecue sauce._  
@@ -3248,6 +3249,7 @@ __culpability__ _n_ The condition of blameworthiness, criminality, censurability
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
+__culvert__ _n_ _A dry culvert._  
 __cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
@@ -3484,7 +3486,7 @@ __defer__ _v_ :six: (deferred) To delay or cause to be delayed until a future ti
 __deference__ _n_ :five::hammer:  
 __deferential__  
 __deferentially__  
-__deferment__ _n_ :two::hammer:  
+__deferment__ _n_ :three::hammer:  
 __deferral__  
 __deferred__ _v_ :two::hammer:  
 __defiance__  
@@ -3587,7 +3589,7 @@ __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a 
 __derision__  
 __derogative__ _adj_  
 __derrick__ _n_  
-__derringer__  
+__derringer__ _n_ :two::hammer: _A single-shot derringer, in case the enemy captures him alive._  
 __dervish__ _n_  
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
@@ -3999,7 +4001,7 @@ __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
 __dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
-__douse__ _v_ :two::hammer: _The Nationals are dousing the District of Columbia with new hope._  
+__douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ (dovetails) :three::hammer:  
@@ -4043,7 +4045,7 @@ __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in characte
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
 __draconian__ _adj_ :three: Extremely strict and severe.  
-__draft__ _v_ :two::hammer: _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
+__draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
 __drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
 __drag queen__  
@@ -7193,6 +7195,7 @@ __IT Band__
 __it dawned on someone__  
 __it so happens__  
 __it takes a village__ _prov_ :two: Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
+__italicize__ _v_  
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
@@ -11036,7 +11039,7 @@ __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
-__recalcitrant__ _adj_  
+__recalcitrant__ _adj_ :two::hammer:  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
 __recant__ _v_ :three::hammer: (recanted)  
@@ -11435,6 +11438,7 @@ __rodeo__ _n_ :mega:
 __roe__ _n_ :two::hammer: _A roe deer._  
 __roebuck__  
 __Roger Bacon__ _n_ English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)  
+__roger__ _n_ _The first message is a roger to Alpha 66._  
 __rogue<sup>1</sup>__ _n_  
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyance in others. _Syn_ mischief, devilment, rascality _Ms. Adams caught Tommy dipping Sally’s pigtail in his inkwell and gave him detention for his roguery._  
@@ -12542,7 +12546,7 @@ __sliver<sup>2</sup>__ _v_ :five::hammer:
 __slob__ _n_ :three::hammer: (slobs)  
 __slobber__ _v_ :three::hammer: (slobbered, slobbering)  
 __slobby__  
-__slog<sup>1</sup>__ _v_ :nine: (slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
+__slog<sup>1</sup>__ _v_ :nine::m: (slogged, slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
