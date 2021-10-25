@@ -2038,6 +2038,7 @@ __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.
 __carapace__ _n_ :five: From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
 __carat__  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
+__carbine__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __carcass__ _n_ _A whale carcass._  
@@ -2370,7 +2371,7 @@ __choke<sup>2</sup>__ _v_ _Why do we choke under pressure?_
 __chokehold__ _n_ __1__ The act of holding a person’s neck across the windpipe, esp from behind using one arm. __2__ Complete power or control: _the chokehold the mob has had on the town._  
 __choker__ _n_ _A velvet choker._  
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
-__chomp__ _v_  
+__chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
 __chop__ _v_  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
@@ -2963,6 +2964,7 @@ __cormorants__
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
 __Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
 __corn fritters__  
+__cornball__  
 __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
 __cornerstone__ _n_  
 __cornstarch__  
@@ -6560,7 +6562,7 @@ __hold__ _v_ _They hold a particular view._
 __holder__ _n_ :two::hammer:  
 __holding sway__  
 __holdings__ _n_  
-__holdout__ _n_ :two::hammer: _A weeklong holdout._  
+__holdout__ _n_ :three::hammer: _A weeklong holdout._  
 __holdover__  
 __holdup__ _v_  
 __hole in one__ _n_ The driving of a golf ball from the tee into the hole in a single stroke.  
@@ -10244,7 +10246,7 @@ __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back fr
 __pompous__ _adj_ :two::hammer:  
 __ponce__ _n_  
 __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._  
-__ponderous__ _adj_ :six::hammer: _He shouldered his ponderous bundle._  
+__ponderous__ _adj_ :seven::hammer: _He shouldered his ponderous bundle._  
 __pong__ _n_  
 __pontiff__  
 __pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
@@ -11292,6 +11294,7 @@ __reunion__ _n_ :two: An instance of two or more people coming together again af
 __reunite__ _v_ :two::hammer:  
 __rev up__ _v_  
 __reveal__ _n_  
+__reveille__ _n_ :two::hammer: _Reveille was at 0430._  
 __revel__ _v_ :eight::hammer: (revelled, revelling, reveling) _She revels in them._ _He paused for a moment, reveling in their incredulity._  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
@@ -13659,7 +13662,7 @@ __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don�
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :eight::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
-__swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
+__swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
@@ -15357,6 +15360,7 @@ __wholesome__ _adj_ :three::hammer:
 __wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
+__whoop-de-do__ _n_  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
 __whoopee__  
@@ -15573,7 +15577,7 @@ __wrench<sup>1</sup>__ _v_ :two::hammer: (wrenched) _My mother reached up and wr
 __wrench<sup>2</sup>__ _n_ (monkey wrench)  
 __wrenching__ _adj_ _A wrenching prospect._  
 __wrestle with__ _phr v_ To try hard to find the solution to a difficult problem.  
-__wrestle__ _v_ :mute:[~~w~~restle]:mute:[wres~~t~~le]  
+__wrestle__ _v_ :two::hammer::mute:[~~w~~restle]:mute:[wres~~t~~le] _Admiral Smith wrestled with the decision of when to enter the gulf._  
 __wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If the poor wretch waked in the flames and perished, no one cared._ _The lowliest wretch among them._  
 __wretched__ _adj_ :two::hammer:  
 __wrethes__  
