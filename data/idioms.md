@@ -63,6 +63,7 @@ __a light-bulb moment__ An instance in which an ingenious idea or insight comes 
 __a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
 __a little leery__ Cautious, wary, or uncertain of a given person, place, or thing. _To be honest, I’m a little leery of signing up for this deal; it sounds too good to be true._  
 __a little__ __1__ A small amount. _A: “Do you want dessert?” B: “I’ll just have a little since I’m still pretty full from dinner.”_ __2__ _adj_ Slightly. _I’m a little tired after going to the gym, but I can still meet you for dinner, don’t worry!_  
+__a living legend__ A person who has an extraordinary reputation or level of fame while they are still alive. _The singer has made such a huge impact on the world of blues that she’s come to be a living legend._  
 __a living soul__ A person (who is alive). (Often used in the negative to mean “nobody.”) _Our engagement is a complete secret, so don’t tell another living soul, OK?_  
 __a long row to hoe__ A particularly difficult or problematic task, situation, or set of circumstances to contend with or confront. _I know finishing this thesis will be a long row to hoe, but I’m actually looking forward to the challenge._  
 __a losing game__ A failing or hopeless effort; a situation or activity that is ultimately futile or cannot be won. (Most often used in the phrase “play a losing game.”) _You’re playing a losing game if you think you can convince Sarah to go to college._  
@@ -77,6 +78,7 @@ __a shiver down (one’s) spine__ A shudder felt down one’s back, due to eithe
 __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieves a fortuitous outcome.  
 __a sobering thought__ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a stab at (someone or something)__  
+__a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
@@ -105,6 +107,7 @@ __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._
 __alive and kicking__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
+__all hands__ __1__ A call for all members of a ship’s crew to come to the deck, usually in a time of crisis. (A “hand” is a member of a ship’s crew.) _We’re under attack! All hands on deck!_  
 __all kidding aside__ ((all) kidding aside) In all seriousness; being frank for a moment.  
 __all of a dither__ In a nervous, confused, or agitated state.  
 __all over (something)__ :dart: __1__ Actively doing or working on something. _You need this printed out? No worries, I’m all over it._ __2__ Very interested in something. _My daughter is all over tennis these days, so I just signed her up for some lessons._  
@@ -225,6 +228,7 @@ __be left out in the cold__ :two: To be ignored, forgotten and neglected.
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
+__be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __be losing it__ _idiom_ To start becoming crazy, insane, or mentally unstable.  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _I can’t believe you let us down at the last minute. I thought you were made of sterner stuff than that!_ _Did she cry? I thought she was made of sterner stuff._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
@@ -346,6 +350,7 @@ __carry the day__ To win, to be successful.
 __case the joint__ :three::hammer: (casing the joint)  
 __cash cow__ A product or business that always makes a lot of profit.  
 __cash in__  
+__cast in concrete__ Firmly or permanently established; not subject to change; unalterable. _The healthcare law looks promising, but we’ll have to wait until it’s cast in concrete before we know exactly what it will do._  
 __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
@@ -514,6 +519,7 @@ __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic 
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
+__easier than falling off a log__ Extremely easy; very intuitive; requiring little or no skill or effort. _Boy, that test was easier than falling off a log!_  
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
 __elephant in the room__ :two: An obvious problem that people do not want to talk about.  
@@ -1172,6 +1178,7 @@ __lay down and die__ :dart: To quit; to give up hope or ambition. _We might have
 __lay the groundwork (for something)__ To create or prepare the basics or essential foundation (for something); to pave the way (for something). _As CEO of the company, I laid the groundwork for one of the most successful international firms in the country._  
 __laze about__ To relax or spend time idly; to do nothing or very little. _It’s a gorgeous day outside, so you kids get off your butts and quit lazing about!_  
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
+__lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
 __lean and mean__ :dart: Fit and ready for hard, efficient work. _Companies are running lean and mean these days._  
 __leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
 __leaps and bounds__ :dart: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._  
@@ -1228,6 +1235,8 @@ __live on a shoestring__ To live within a very tight or limited financial budget
 __live paycheck to paycheck__ To spend all of the money one earns by or before the next time one is paid, thus saving none or very little in the process. _We’re already living paycheck to paycheck, so I don’t know how we’ll manage this sudden increase in our rent._  
 __live the life of Riley__ If someone lives the life of Riley, they have a very enjoyable life because they have plenty of money and no problems. _He was living the life of Riley while we had barely enough to eat. It was like paradise._ Note: People sometimes use the verbs _lead_ or _have_ instead of _live_. _These people moan about their lives when in reality they’re having the life of Riley._ Note: This expression often shows disapproval or envy.  
 __live up to (someone’s) expectations__ :two: To be as good as or have the qualities that someone predicted, expected, or hoped for. _I’m so excited for the latest movie in the series—I hope it lives up to my expectations!_  
+__living impaired__ Dead. (Pseudo-politically correct slang used for humorous effect.) _The boss has ordered a hit on the stool pigeon, so make sure he’s living impaired by the end of the day._  
+__living the dream__ Leading an extremely ideal life, especially in relation to one’s career. (Sometimes said ironically to mean the opposite.) _The only job I could get with my bachelor’s degree was some mind-numbing data entry work. I’m really living the dream these days._  
 __lo and behold__ :three::pencil2: _spoken_ A phrase used to indicate something surprising or unexpected. _I’d been searching for my glasses all over the house when, lo and behold, they were on my head the whole time._  
 __loaded word__ A word that carries additional emotional weight or significance—whether positive or negative—beyond its literal meaning. _If you want to get into politics, you should always avoid using loaded words that might offend someone unintentionally._  
 __loaf about__ To waste time idly; to spend time doing little or nothing. _Chris, quit loafing about and help me take out the trash!_  
@@ -1882,6 +1891,7 @@ __yadda yadda yadda__ :four: (yada yada yada) And so forth, on and on; something
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
 __you are what you eat__ To be healthy, you need to eat good food.  
 __you can say that again__ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
+__you could hear the grass grow(ing)__ :dart: It is so still or quiet that one would be able to hear even the tiniest, imperceptible sounds. _I reckon you could hear the grass growing in the awkward silence that followed that dreadful performance._  
 __you name it__ :dart::five: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
 __you scratch my back, I’ll scratch yours__ If you help me, I will help you.  
 __you’re a lifesaver__ You are wonderful and/or helpful. _You brought me coffee? Ah, you’re a lifesaver._  
