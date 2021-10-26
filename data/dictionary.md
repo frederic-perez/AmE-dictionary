@@ -7594,6 +7594,7 @@ __lain__
 __lair__ _n_ :two::hammer: _A tiger’s lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
+__lam__ _v_  
 __lamb__ _n_ :two::mute:[lam~~b~~]:hammer:  
 __lambast__ _v informal_ :nine::m: (also lambaste) (lambasted, lambasting) __1__ To beat or whip severely. __2__ To reprimand harshly; berate.  
 __lambent__  
@@ -9672,8 +9673,8 @@ __pat<sup>1</sup>__ _v_ :camera::dart: (patted) Hit lightly. _She patted the sof
 __pat<sup>2</sup>__ _n_ A light touch or stroke.  
 __pat<sup>3</sup>__ _adj_ Exactly suited to the occasion. _A pat reply._  
 __pat<sup>4</sup>__ _adj_ Having only superficial plausibility.  
-__pate__ _n_ :four::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._  
-__patent leather__ _n_ :astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
+__pate__ _n_ :five::hammer: _The pate of a monk with a wet red tonsure._ _His grizzled pate shone like tan wax._ _A balding pate._ _His bald pate._  
+__patent leather__ _n_ :two::astonished: Leather with a glossy varnished surface, used chiefly for shoes, belts, and handbags. _Don’t step on my patent leather shoes._ :es: charol  
 __patently__ _adv_ :two: Obviously. _Patently absurd._ _This is patently false._  
 __paternoster__ _n_ _Beads for telling paternosters._  
 __pathcasting__  
@@ -10966,6 +10967,7 @@ __ratchet<sup>2</sup>__ _v_ To cause to move by steps or degrees—usually used 
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
+__rating__ _n_ :two::hammer:  
 __rationales__ _n_ _It has four main rationales._  
 __rationalize__ _v_  
 __rattan couch__  
@@ -11836,6 +11838,7 @@ __Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl<sup>1</sup>__ _n_  
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
+__scram__ _v_ _We better scram._  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
@@ -14255,6 +14258,7 @@ __tossing__ _v_ _The prisoner lay tossing and moaning._
 __tossup__ _n_ :four::hammer::pencil2: _Diabetes study is a tossup._  
 __tot lot__ _n_ An outdoor playground for very young children. _There are tot lots, but there is no place for us._  
 __totally__ _adv_ :two: Entirely; wholly; completely.  
+__tote board__ _n_ A large, usually electrically operated board that displays changing numerical information, such as betting payoffs or voting results.  
 __totem pole__ _n_ _slang_ :two: A hierarchy: _low on the totem pole._ _You’re at the bottom of the totem pole._  
 __tots__  
 __totter__ _v_  
@@ -14488,6 +14492,7 @@ __tumult__ _n_ Violent and noisy commotion or disturbance of a crowd or mob. _Sy
 __tumultuous__  
 __tuneful__ _adj_ __1__ Having a pleasant or catchy tune; melodious. __2__ Producing a melody or music: _a tuneful blackbird._  
 __tunesmith__ _n_ _informal_ A person who composes popular music or songs.  
+__tunic__ _n_ :two::hammer: __1__ A coat worn as part of a military or other uniform.  
 __tunnel vision__ _n_ :two::hammer:  
 __tuppence__  
 __turbid__ _adj_  
@@ -15697,7 +15702,7 @@ __zeitgeist__ _n_ :four: A German word meaning time spirit, used to mean the spi
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
-__zephyr__ _n_ /ZEF-uhr/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
+__zephyr__ _n_ :two: /ZEF-uhr/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
 __zeppelin__ _n_  
 __zero hour__  
 __zero in on__ _phr v_ :three: To direct or focus attention on something. _Sensors all over the city can zero in on anyone at any time._ _I zeroed in on the first item._  
