@@ -2004,7 +2004,7 @@ __canté__ _n_
 __canted__ _v_ :three::hammer:  
 __canteen__ _n_ :two::hammer: (canteens) (flask)  
 __canter up__ _v_  
-__canter<sup>1</sup>__ _n_ :two::hammer: _Cato urged his mount into an easy canter._  
+__canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilevered__  
@@ -4341,6 +4341,7 @@ __EKG__
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
 __elaborate__ _v_ :dart:  
 __élan__ _n_ :pencil2:  
+__elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
 __elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :three::hammer:  
 __elation__ _n_ :four::hammer:  
@@ -6741,7 +6742,7 @@ __humiliating__ _adj_ Causing awareness of your shortcomings.
 __hummed__ _v_  
 __hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vibrates their mouth by humming. _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
 __hummingbird__ _n_ :es: colibrí  
-__hummocks__  
+__hummock__ _n_ :two: A small natural hill. _Syn_ hillock, knoll, mound  
 __hummus__ _n_ :mega:  
 __humor__ _v_ :four::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
@@ -7154,7 +7155,8 @@ __intrusive__ _adj_
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
 __inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, flood, torrent _The restaurant owner was faced with an inundation of lawsuits from diners who had been sickened by his eatery’s food._  
-__inured__ _v_ :two::hammer:  
+__inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
+__inure__ _v_ :two::hammer: (inured)  
 __inurnment__  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
@@ -7315,6 +7317,7 @@ __jobless coverage__ _n_ _Jobless coverage expired for 2 million people._ :es: c
 __jock__ _n informal_ :five: An athlete. _You act like I got jock odor or something._  
 __jockey__ _v_ :two::hammer: (jockeying) _Fierce political jokeying._  
 __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athletes, to support the genitals. _Syn_ athletic support  
+__jocose__ _adj_ Given to joking; merry. _Syn_ jesting, jocular, joking _Larry, who was usually so jocose, said he didn’t have time for pranks._  
 __jocular__  
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
 __jody__ _n_ _He often complained about his wife’s jody._  
@@ -9861,6 +9864,7 @@ __pernicious__ _adj_ :five: Tending to cause death or serious injury. _Syn_ bane
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
+__perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a very long time. _The property will be passed on from generation to generation in perpetuity._  
 __perquisite__ _n_  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
@@ -15454,7 +15458,7 @@ __winging__ _v_
 __wingspan__ _n_  
 __wingtips__  
 __winking__ _v_  
-__winnow__ _v_ :four::hammer: (winnowed, winnowing) _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
+__winnow__ _v_ :five::hammer: (winnowed, winnowing) [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
 __winsome__  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
 __winterkill__  
@@ -15696,6 +15700,7 @@ __Yule__ _n_ :two::hammer: (yule)
 __Yuletide__ _n_ :two: (archaic) Christmas.  
 __yummy__  
 __yurt__ _n_ :two::hammer: (yurts)  
+__zaftig__ _adj_ _slang_ (zoftig) (of a woman) Having a pleasantly plump figure. _Portraits of zaftig models are exhibited in the artist’s collection._  
 __zaniness__ _n_ :two::hammer:  
 __zany__ _adj_ :seven: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
