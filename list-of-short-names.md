@@ -4,6 +4,7 @@
 
 - __Al__ Often short for Alfred, Albert, Alphonse, Alphons, Allen, Allan, Alan, Alyson, Alysson, Allyson, Alistair, Alister, Alex, Alexander, Alvin, Alyssa, Alsha, Aldrin, Alden, Aldwin, or Alwin.
 - __Ed__ Usually a short form (hypocorism) of Edward, Edgar, Edmund, Edwin, Edith, etc.
+- __Sy__ Sy is a given name, nickname/hypocorism (often of Seymour) and surname.
 - __Ty__ The name Ty developed as an independently given name from the short form of any one of the following male names: Tyler, Tyson, Tyrone, Tyrell, and Tyrese.
 
 ## Three characters
