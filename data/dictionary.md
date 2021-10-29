@@ -1465,6 +1465,7 @@ __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consist
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
 __boonies__  
+__boor__ _n_ _Sometimes you can really be a boor._  
 __boorish__ _adj_ :four: Rude and not caring about other people’s feelings. Coarse, insensitive. _Rob Ford was stripped of his powers for smoking crack, drinking and boorish behavior._  
 __boorishness__ _n_ :two::hammer:  
 __booster shot__ _n_ An additional dose of an immunizing agent, such as a vaccine or toxoid, given at a time after the initial dose to sustain the immune response elicited by the previous dose of the same agent. _Syn_ booster dose  
@@ -2923,7 +2924,7 @@ __cookware__
 __cool your jets__  
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
-__coop<sup>1</sup>__ _n_ :two::hammer: :es: gallinero _Chicken coops._  
+__coop<sup>1</sup>__ _n_ :three::hammer: :es: gallinero _Chicken coops._  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
 __coos__ _v_  
@@ -5050,6 +5051,7 @@ __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)
 __flabbergasted__ _adj_ :two::hammer:  
 __flaccid__ _adj_  
 __Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
+__flag plot__ _n_ :three: The admiral’s tactical and navigational control room aboard a flagship.  
 __flag-stop service__  
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
 __flag<sup>1</sup>__ _v_ :two::hammer:  
@@ -6067,6 +6069,7 @@ __gullible__ _adj_ :seven: Naive and easily deceived or tricked.
 __gullies__  
 __gulls__  
 __gully washer__ _n_ _We had a real gully washer in the forenoon._  
+__gully__ _n_  
 __gulosity__ _n_ Excessive appetite. _Syn_ greediness  
 __gulp<sup>1</sup>__ _n_ :two::hammer: _Sobs and gulps._  
 __gulp<sup>2</sup>__ _v_ :five::hammer: _They gulped their soft drinks._  
@@ -11512,7 +11515,8 @@ __roughshod__ _adv_ :five::hammer:
 __round out__ _v_ :two::hammer:  
 __round robin__ _n_ _The con game is one round robin._  
 __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A round-trip ticket._  
-__round__ _v_  
+__round<sup>1</sup>__ _n_ __26__ (Firearms, Gunnery, Ordnance & Artillery) A single discharge by a number of guns or a single gun. __27__ (Firearms, Gunnery, Ordnance & Artillery) A bullet, blank cartridge, or other charge of ammunition. _He pumped another round._  
+__round<sup>2</sup>__ _v_  
 __roundabout__ _n_ :two::hammer: (Children’s attraction.)  
 __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
@@ -11820,7 +11824,7 @@ __scold__ _n_ A person who habitually scolds, in particular a troublesome and an
 __sconce__ _v_  
 __scone__ _n_ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
-__scoot__ _v_ :four: To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
+__scoot__ _v_ :six: (scooted) To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
 __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete  
 __scope out__ _v_  
 __scorching__  
@@ -12406,7 +12410,7 @@ __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t 
 __skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like it, skell?_  
 __skeptic__ _adj_ :pencil2:  
 __sketchy__  
-__skewer__ _v_ :two::hammer:  
+__skewer__ _v_ :three::astonished::hammer:  
 __skews__ _v_  
 __skid row__ _n_ _slang_ _His father would take him to a blind pig on skid row._  
 __skid<sup>1</sup>__ _n informal_ :seven: __1a__ A period of sharp decline or repeated losses. _Santa Clara ended last season on an 18-game skid, going winless in WCC play._ _The European car market hit a multiyear skid._ __b__ __skids__ A path to ruin or failure _His career hit the skids. Her life is now on the skids._ _Skid marks._ _Shutdown didn’t put skids on sales._  
@@ -13160,6 +13164,7 @@ __statesman__ _n_ :two::hammer: _The elder statesman of the group._
 __statesmen__ _n_ (notice, not ‘statement’)  
 __statin__ _n_  
 __station wagon__ _n_ :four: A car that has a long body and rear door with space behind rear seat.  
+__station__ _n_ _It was difficult to maintain station._  
 __stationary bicycle__ _n_ A “going-nowhere” bicycle.  
 __stationary bike__  
 __stationery__  
@@ -13628,6 +13633,7 @@ __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
+__Swede__ _n_  
 __sweeping__ _adj_  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _n_ _sports_  
