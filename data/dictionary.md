@@ -1054,9 +1054,8 @@ __belaboring__
 __belate__ _v_ :five::hammer: (belated)  
 __belated__ _adj_ _A belated shoutout to Dave for his recent contribution to the museum._  
 __belatedly__ _adv_ :five::hammer:  
-__belch__ _n_  
-__belches__ _v_ _Steam belches from the nuclear power plant._  
-__belching__  
+__belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
+__belch<sup>2</sup>__ _n_  
 __beleaguer__ _v_  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
@@ -4209,7 +4208,7 @@ __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in b
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
-__duress__ _n_ :five::hammer:  
+__duress__ _n_ :six::hammer: _The ability to think under duress._  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -6131,6 +6130,7 @@ __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonym
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ _n_ :astonished:  
 __habituate__ _v_  
+__hachimaki__ _n_ :camera:  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
 __hack<sup>2</sup>__ _v_ :two::hammer: _Coughing and hacking while shuffling around._ _That smoke made a man cough and hack for weeks._  
 __hackle<sup>1</sup>__ _n_ :three: (hackles) __1__ Hairs or feathers on the neck or back of some animals that stand up when the animal is agitated. __2__ Temper; anger. __3__ A comb for dressing fiber.  
@@ -6211,7 +6211,7 @@ __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ gu
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
-__hank__ _n_ :two::pencil2::hammer: _Stringy hanks of blond hair._  
+__hank__ _n_ :three::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :four: (hankerings) Craving.  
 __hankies__ _n_  
@@ -7141,7 +7141,7 @@ __internecine__ _adj_
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interrelate__ _v_ :two::astonished::hammer:  
-__intersperse__ _v_ :seven::hammer: (interspersed)  
+__intersperse__ _v_ :eight::hammer: (interspersed)  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
@@ -10346,6 +10346,7 @@ __pothole__ _n_ :four: (potholes) A pit or hole produced by wear or weathering (
 __potholed__ _adj_ Used of paved surfaces having holes or pits. _The island’s potholed highways._  
 __potion__ _n_  
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
+__potshot__ _n_  
 __pottering__ _v_ _She is pottering around the house._  
 __potty training__ _n_ _informal_ Toilet training.  
 __pouch__ _n_  
@@ -11672,7 +11673,7 @@ __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to pub
 __salvage__ _adj_  
 __Salvation Army__ _n_ :two: A charitable and religious organization to evangelize and to care for the poor and homeless. _Salvation Army shelter._  
 __salve__ _n_ :five: (salves) __1__ _(Medicine)_ An ointment for wounds, sores, etc. _Karim’s skin needed the yellow salve._ _Salves, poultices, and plasters._ __2__ Anything that heals or soothes.  
-__salvo__ _n_ :five::hammer: (salvos) _Joe fired the first salvo._  
+__salvo__ _n_ :six::hammer: (salvos) _A full salvo of torpedoes._ _Joe fired the first salvo._  
 __Sam Browne belt__  
 __Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
@@ -13659,7 +13660,8 @@ __swiftly__
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
 __swig<sup>1</sup>__ _n_ :three::hammer: _Mike Scott takes a swig from a fan’s drink after tumbling into the crowd in Milwaukee._ _A swig of diet soda._  
 __swig<sup>2</sup>__ _v_ :two::hammer:  
-__swill__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
+__swill<sup>1</sup>__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
+__swill<sup>2</sup>__ _n_  
 __swim tube__  
 __swimabout__  
 __swimming hole__ _n_ :two: A place, as in a stream, where there is water deep enough for swimming.  
@@ -14321,6 +14323,7 @@ __trailer park__ _n_ (trailer camp) An area in which parking space for house tra
 __trailing plants__  
 __trails__ _n_  
 __train wreck__ _n_ __2__ _slang_ A disastrous outcome or occurrence; a catastrophe: _described the new budget as a fiscal train wreck._ _This kind of code is often called a train wreck because it look like a bunch of coupled train cars._  
+__train__ _v_ __5__ To point or direct (a gun or camera, for example) at something. _Syn_ aim  
 __trainee__ _n_ :two::pencil2: (trainees) One who is being trained. :es: aprendiz  
 __training wheels__ _n_  
 __traipse__ _v_ Walk or tramp about. _Syn_ shlep _I spent the holiday exploring the countryside, traipsing from town to town with just a knapsack of supplies on my back._  
