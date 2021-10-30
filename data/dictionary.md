@@ -583,7 +583,7 @@ __armageddon__
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armistice__ _n_ :two::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
-__armory__ _n_ :two::hammer: _His armory of weapons._  
+__armory__ _n_ :three::hammer: _His armory of weapons._  
 __arms embargo__  
 __arms race__  
 __armscye__ _n_  
@@ -1069,7 +1069,7 @@ __bellicose__
 __belligerence__ _n_ A hostile or warlike attitude, nature, or inclination. _Syn_ pugnacity, aggressiveness _The little lawyer glared at me a moment, and then the belligerence faded out of his face._  
 __belligerent__  
 __bellow<sup>1</sup>__ _n_  
-__bellow<sup>2</sup>__ _v_ :five::hammer: (bellowed)  
+__bellow<sup>2</sup>__ _v_ :six::hammer: (bellowed)  
 __bellowing__ _n_ A very loud utterance (like the sound of an animal). _Syn_ bellow  
 __bellows__ _n_ :two: A mechanical device that blows a strong current of air; used to make a fire burn more fiercely or to sound a musical instrument. :es: fuelle _Barber’s breathing sounded like a bellows._  
 __bells and whistles__ _pl n_ :four: Nonessential features or enhancements intended especially to add commercial appeal.  
@@ -2757,7 +2757,7 @@ __comprise__ _v_
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
-__compulsory__ _adj_ :eight: __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compulsory__ _adj_ :nine: __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
 __comrade__  
@@ -5440,6 +5440,8 @@ __front man__ _n_ :two::hammer: (frontman)
 __front runner__ _n_ :three::hammer: (front-runner, frontrunner)  
 __front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
+__frontline<sup>1</sup>__ _n_ (front line)  
+__frontline<sup>2</sup>__ _adj_ (front-line)  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
@@ -5521,7 +5523,7 @@ __futility__ _n_ :six::hammer:
 __fuzz__ _n_ _slang_ :two::hammer: The police. _He’d love her with bad skin and no breasts and thick fuzz on her upper lip._  
 __G-Man__  
 __gab away__ _v_ _The gang was gabbing away._  
-__gab<sup>1</sup>__ _v_  
+__gab<sup>1</sup>__ _v_ :two::hammer:  
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
 __gabbing__  
 __gabfest__  
@@ -5531,7 +5533,7 @@ __Gabor__ _n_ :mega:
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
-__gaffe__ _n_ :four::hammer: (gaffes)  
+__gaffe__ _n_ :five::hammer: (gaffes)  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
@@ -6963,6 +6965,7 @@ __incidental<sup>1</sup>__ _adj_
 __incidental<sup>2</sup>__ _n_  
 __incidentally__ _adv_ :six::hammer:  
 __incipient__ _adj_ _An incipient building._  
+__inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
 __incognito__ _adv_ :two::hammer:  
 __inconclusive__ _adj_  
@@ -7155,8 +7158,8 @@ __intrusive__ _adj_
 __intuit__ _v_ :four: To know or understand by intuition.  
 __inundate__ _v_ Fill quickly beyond capacity; as with a liquid. _Syn_ deluge, flood, swamp _If we inundate the senator’s office with letters of protest, we are certain to get her attention._  
 __inundation__ _n_ :astonished: An overwhelming number or amount. _Syn_ deluge, flood, torrent _The restaurant owner was faced with an inundation of lawsuits from diners who had been sickened by his eatery’s food._  
-__inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
 __inure__ _v_ :two::hammer: (inured)  
+__inured__ _adj_ Made tough by habitual exposure. _Syn_ hardened _Doctors become inured to death._  
 __inurnment__  
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
@@ -13824,6 +13827,7 @@ __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a ta
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattle__ _v_  
+__tattletale__ _adj, n_  
 __tattling__  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
@@ -15702,7 +15706,7 @@ __yummy__
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaftig__ _adj_ _slang_ (zoftig) (of a woman) Having a pleasantly plump figure. _Portraits of zaftig models are exhibited in the artist’s collection._  
 __zaniness__ _n_ :two::hammer:  
-__zany__ _adj_ :seven: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
+__zany__ _adj_ :eight: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
 __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a cause, especially a religious one. _Syn_ drumbeater, partisan _Jane, who had dabbled in vegetarianism during high school, became an environmental zealot while in college._  
