@@ -1679,6 +1679,7 @@ __bubble wrap__ _n_ :camera:
 __bubble__ _v_ _A head of cabbage was bubbling in a copper pot of water._  
 __bubbly__ _adj_ :two::hammer: _Bubbly breatlessness._ _A bubbly 20-year-old ever on the look-out for fun and excitement._  
 __bubo__ _n_ An inflamed, tender swelling of a lymph node, especially in the area of the armpit or groin, that is characteristic of certain infectious diseases, such as bubonic plague, tuberculosis, and syphilis.  
+__bubonic__ _adj_ __1__ Of or pertaining to a bubo. __2__ Accompanied by or affected with buboes.  
 __buccaneer__ _n_ Someone who robs at sea or plunders the land from the sea without having a commission from any sovereign nation.  
 __bucina__ _n_ _The bucina sounded the recall three times._  
 __buck off__ _v_  
@@ -2128,7 +2129,8 @@ __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)
 __catalyst__ _n_ :two::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
-__catapult__ _v_ :two::hammer: (catapulted)  
+__catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas  
+__catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
 __cataract__ _n_ :two::hammer: :es: cataratas  
 __catarrh__ _n_ :two::astonished::pencil2: Copious discharge of mucus associated with inflammation of mucous membranes, especially of the nose and throat.  
 __catastrophe__ _n_  
@@ -4490,6 +4492,7 @@ __entice__ _v_ :two::hammer: (enticing)
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
+__entrain__ _v_  
 __entrance<sup>1</sup>__ _n_  
 __entrance<sup>2</sup>__ _v_  
 __entrant__ _n_ :two::dart::astonished: __1__ A person who takes part in a competition or contest. _Syn_ competitor, player, candidate, entry, participant, applicant, contender, contestant _All items submitted for the competition must be the entrant’s own work._ __2__ A new member, as of an association or school. __3__ A person who enters.  
@@ -5358,6 +5361,7 @@ __foxy__ _adj_ __4__ _slang_ Sexually attractive.
 __foyer__ _n_ :three::hammer:  
 __fracas__ _n_ :three: Noisy quarrel.  
 __fracking__ _n_ Hydraulic fracturing.  
+__fractional__ _adj_ _A fractional line of block._  
 __fractious__ _adj_ _His fractious temperament._  
 __fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
@@ -5852,7 +5856,7 @@ __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._
 __goosebump__ _n_  
 __GOP__  
 __Gordian knot__ _n_ :two::hammer:  
-__gore__ _n_ _Spittle and gore clogged his throat._  
+__gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _v_ :two: To affect as a Gorgon might; hypnotize; petrify.  
@@ -6095,7 +6099,7 @@ __gunnel__ _n_ _The reel clanked once against the aluminium gunnel._
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunship__ _n_ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
-__gunwale__ _n_ :three::mega: /ˈɡʌnəl/ (gunnel) [:scroll: From gun + wale (a plank along the side of a ship), from its use as a support for guns in earlier times.] The upper edge of the side of a ship or a boat. The word is often used in the idiom “to the gunwales” meaning to be full, almost overflowing.  
+__gunwale__ _n_ :four::mega: /ˈɡʌnəl, ˈgʌn l/ (gunnel) [:scroll: From gun + wale (a plank along the side of a ship), from its use as a support for guns in earlier times.] The upper edge of the side of a ship or a boat. The word is often used in the idiom “to the gunwales” meaning to be full, almost overflowing.  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
 __gurney__ _n_ :four::hammer:  
@@ -7249,6 +7253,7 @@ __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of d
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
+__jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
 __jarhead__ _n_ _slang_ A US Marine.  
 __jarring__ _adj_ :four: Surprising, or slightly shocking.  
 __jaundice<sup>1</sup>__ _n_  
@@ -9489,6 +9494,7 @@ __Oz__ _n_ _Iowa would offer the best territory for his American Oz._
 __oz.__  
 __Ozzie__ _n_ :two: (Ozzies) __1__ An Ozzie or (Aussie) is an Australian slang term to name themselves, often used in chants on Australia day “Ozzie ozzie ozzie” “oi oi oi.” __2__ Ozzie is a masculine given name, often a short form (hypocorism) of Osvaldo, Oscar, Osborne and other names.  
 __pablum__ _n_ _lit._ Bland or insipid intellectual matter, entertainment, etc. _Sentimental pablum._  
+__pace__ _v_  
 __pachinko__ _n_ A Japanese gambling game played on a vertical pinball machine.  
 __pachyderm__ _n_ :pencil2:  
 __Pacific Basin__ _n_ _Pacific Basin nations._  
@@ -12538,6 +12544,7 @@ __slimy__ _adj_ _Slimy sales techniques._
 __sling<sup>1</sup>__ _n_ :four::hammer: _The sling for his dislocated shoulder._  
 __sling<sup>2</sup>__ _v_ :two: (slung) To throw or drop something carelessly. _His nose broke and slung a string of blood across his shoulder._  
 __slinger__  
+__slingshot__ _n_ A Y-shaped stick or frame having an elastic strap attached to the prongs, used for flinging small projectiles. :es: tirachinas  
 __slink<sup>1</sup>__ _v_ :four: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
 __slip up<sup>1</sup>__ _v_  
