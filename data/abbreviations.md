@@ -95,7 +95,7 @@ __PMS__ :two: Premenstrual syndrome.
 __PO__ Parole officer.  
 __POTUS__ :dart: President of the United States. _Ronald Reagan was elected governor twice and POTUS for two terms._  
 __PPD__ Postponed. _(sporting events)_  
-__PPE__ Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
+__PPE__ :two: Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __ppl__ _informal_ People.  
 __PR__ _The PR version of my life._  

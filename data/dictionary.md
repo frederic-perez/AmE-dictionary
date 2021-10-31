@@ -1657,6 +1657,7 @@ __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in 
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
+__browbeaten__ _adj_  
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
@@ -4455,6 +4456,7 @@ __endorse__ _v_ Give support or one’s approval to. _Syn_ second, back _Before 
 __endow__ _v_ :four::hammer: (endowed)  
 __endowment__ _n_ :four: An endowment is a gift. It might be money given to an institution like a college. Or, an endowment might be a natural gift, say of a physical attribute or a talent. If you lack the endowment of musical talent, you could play the tambourine.  
 __endpiece__ _n_  
+__endpoint__ _n_ _Surrogate endpoints._  
 __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of the earth._ :es: extremos, confines  
 __endurance__ _n_ _Endurance race._  
 __endure__ _v_ Last for a long time.  
@@ -6221,6 +6223,7 @@ __hank__ _n_ :three::pencil2::hammer: _Stringy hanks of blond hair._
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :four: (hankerings) Craving.  
 __hankies__ _n_  
+__hanky panky__  
 __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. __2__ Illicit sexual relations.  
 __Hannukah__ _n_ (Chanukah)  
 __hantavirus__  
@@ -6440,6 +6443,7 @@ __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessati
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henna__  
+__Henrietta Lacks__ _n_  
 __Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herd immunity__ _n_  
@@ -6850,6 +6854,7 @@ __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.
 __iffy__ _adj_ _slang_ :six: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
+__IgNobel prize__ _n_  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_  
 __IIRC__ _chat_ If I recall correctly.  
@@ -13299,7 +13304,7 @@ __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into whic
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
 __stockpile<sup>1</sup>__ _n_ :three: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
-__stockpile<sup>2</sup>__ _v_ To collect large amounts of things that may be needed.  
+__stockpile<sup>2</sup>__ _v_ :two: To collect large amounts of things that may be needed.  
 __stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
 __stodgy__ _adj_ _The mainstream may sound too stodgy._  
@@ -13471,6 +13476,7 @@ __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
+__sub-Saharan Africa__ _n_  
 __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ Between acute and chronic: _subacute endocarditis._  
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
@@ -14031,6 +14037,7 @@ __thrilling__ _adj_
 __throb__ _v_ :six::hammer: (throbs, throbbing) _My head is throbbing._  
 __throbbingly__  
 __throes__ _n_ :five::hammer:  
+__thrombocytopenia__ _n_  
 __thromboembolism__ _n_  
 __throng__ _n_ :seven: A large gathering of people. _A throng of news media members._  
 __throttle__ _v_ :two:: __3__ To strangle (a person); choke. (throttling) _Throttling the Philadelphia Eagles._  
@@ -14260,6 +14267,7 @@ __top-dog__
 __top-flight__  
 __top-of-mind__  
 __topiary__  
+__topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
 __topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
