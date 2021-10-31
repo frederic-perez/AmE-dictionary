@@ -145,7 +145,7 @@ __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions belo
 __ad__ _n informal_ Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
-__ad-lib<sup>3</sup>__ _n_ :four: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
+__ad-lib<sup>3</sup>__ _n_ :five: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. Words, music, or actions uttered, performed, or carried out extemporaneously. _That was a Tom Hanks ad-lib._ _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ _n_ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
@@ -2894,6 +2894,7 @@ __contraband__ _n_
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
 __contrafactum__ _n_ A composition that makes use of an existing piece of music with different lyrics.  
+__contrail__ _n_ (vapor trail) A visible condensation of water droplets or ice crystals from the atmosphere, occurring in the wake of an aircraft, rocket, or missile.  
 __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as _cleave_, meaning “to adhere closely” and “to part or split.”  
 __contraption__  
 __contrarian__  
@@ -4331,6 +4332,7 @@ __egomaniac__
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
 __egregious__ _adj_ :nine: /ih-GREE-juss/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egress__ _n_  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
@@ -5341,6 +5343,7 @@ __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, e
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortitudinous__ _adj_ Having or showing courage.  
 __fortnight__  
+__fortune telling__ _n_  
 __foster care__ _n_ :three::hammer:  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
@@ -6355,6 +6358,7 @@ __headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway w
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
+__heap__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __hearing__ _n_ _law_  
 __hearkened__  
 __hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
@@ -6565,6 +6569,7 @@ __hogslop__
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
+__hokey__ _adj_  
 __hokum__ _n_ :three::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
@@ -11901,6 +11906,7 @@ __Scrooge__
 __scrouching__ _v_  
 __scrub brush__  
 __scrub__ _v_ :four: (scrubbed) __4__ _slang_ To cancel or abandon; drop: _We had to scrub our plans for vacation._ _He scrubbed his hands at the sink._  
+__scrubber__ _n_ __1__ A person or thing that scrubs. __2__ (Chemical Engineering) An apparatus for purifying a gas.  
 __scrubbers__ _n_  
 __scruffy__ _adj_ :nine::m::camera: (scruffier) Shabby and untidy.  
 __scrum__ _n_  
@@ -15170,7 +15176,7 @@ __war stories__
 __warble__ _v_ :three::hammer:  
 __warblers__  
 __ward off__ _phr v_ :two: o prevent.  
-__warden__ _n_  
+__warden__ _n_ :two: __1__ The chief administrative official of a prison.  
 __wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
@@ -15673,7 +15679,7 @@ __yakisoba__ _n_
 __yakuza__ _n_ :two::hammer:  
 __yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
-__yap<sup>1</sup>__ _v_ :three::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
+__yap<sup>1</sup>__ _v_ :four::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __yap<sup>2</sup>__ _n_ _slang_ :two: Mouth.  
 __Yarborough__ _n_ (yarborough) A hand in bridge or whist in which no card is higher than a nine. After Charles Anderson Worsley, 2nd Earl of Yarborough (1809-1897), who is said to have bet 1000 to 1 against the occurrence of such a hand. The actual odds are 1827 to 1.  
 __yardage__  
