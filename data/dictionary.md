@@ -478,6 +478,7 @@ __antibiotic<sup>1</sup>__ _n_
 __antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]  
 __antic__  
 __anticipate__ _v_ (anticipated)  
+__anticlimactic__ _adj_ :pencil2:  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
@@ -1895,7 +1896,7 @@ __cable bookers__
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
 __cabochon__ _n_ (Jewellery) A smooth domed gem, polished but unfaceted.  
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
-__caboose__ _n_ :camera::two::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
+__caboose__ _n_ :camera::three::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
 __cache__ _n, v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
@@ -2398,7 +2399,7 @@ __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playf
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
-__chuff__ _v_ _Trains chuffing._  
+__chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _Trains chuffing._  
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
 __chug<sup>2</sup>__ _v_ :four: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._  
 __Chugging beers__  
@@ -2517,6 +2518,7 @@ __clench__ _n_ :two::hammer:
 __clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
 __clergy__  
 __clerical__ _adj_ :two::hammer: _Clerical duties._ _Basic computer skills and clerical skills required._  
+__clerk__ _v_ To work or serve as a clerk: _clerked in a store; clerks for a judge._  
 __clever clogs__ _n_ [:scroll: The term boots has been used for a fellow or a person since the early 1600s. From there we got the term clever boots and then clever clogs.] Someone perceived to be intelligent or knowledgeable in an annoying way.  
 __cliché__ _n_ :two::hammer:  
 __click__ _v_ :three: __2b__ _slang_ To become clear; fall into place: _The answer finally clicked, and I finished the crossword._ _Suddenly, it clicked._ _It clicks when it clicks._  
@@ -3938,7 +3940,7 @@ __doldrums__ _n pl_ (plurale tantum)
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dole__ _n_  
 __dolirometer__  
-__dollop__ _n_ :five::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
+__dollop__ _n_ :six::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
 __dolt__ _n_ :two: A stupid person; a dunce.  
 __domestic__ _adj_  
 __domicile__  
@@ -6016,7 +6018,7 @@ __groundswell__ _n_ :five::hammer:
 __groundwater__  
 __groundwork__ _n_ :two::hammer: _Joy laid the groundwork with a series of cozy phone calls._  
 __groupie__ _n_ :two::hammer: (groupies)  
-__grouse__ _v_ :five: (groused) To complain; grumble. _We groused about the uncomfortable seating._  
+__grouse__ _v_ :six: (groused, grousing) To complain; grumble. _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
 __grovel__ _v_ :four::hammer: (groveling)  
@@ -8249,7 +8251,7 @@ __mar<sup>2</sup>__ _n_ A disfiguring mark; a blemish.
 __marathon__ _n_ _This is more of a marathon than a sprint._  
 __maraud__ _v_  
 __marauder__ _n_ :two::hammer:  
-__marauding__ _adj_ :two: (of people or animals) Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
+__marauding__ _adj_ :three: (of people or animals) Wandering or raiding in search of plunder or victims. Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcel__ _v_ (marcelled) To style (the hair) with deep regular waves, using a curling iron. _His marcelled hair gleamed like liquid plastic._  
 __march__ _n_ _Demonstrators ona marchin Athens._  
 __Mardi Gras__ _n_ :mega:  
@@ -8798,7 +8800,7 @@ __musing__ _n_ :two: (musings) Contemplation; reflection.
 __musket__  
 __muskmelon__ _n_ :three::hammer:  
 __muskrat__ _n_ _The muskrat season._  
-__muslin__ _n_ :two::hammer: _Muslin swaddles._ :es: muselina  
+__muslin__ _n_ :three: A light thin cotton cloth used for making dresses, curtains, and sheets. _Black muslin dresses._ _Muslin swaddles._ :es: muselina  
 __muss<sup>1</sup>__ _n_ _No fuss, no muss._  
 __muss<sup>2</sup>__ _v_ :two::hammer: (mussed) _Her hair was down and mussed around her face._  
 __mussed__ _v_  
@@ -10315,7 +10317,7 @@ __portcullis__ _n_ A grating of iron or wooden bars or slats, suspended in the g
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__  
-__porthole__ _n_  
+__porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portly__  
 __portmanteau__  
 __portrait__  
@@ -13407,7 +13409,7 @@ __strife__ _n_ :nine::m: Angry or bitter disagreement over fundamental issues; c
 __Strike Force__ _n_ A group or team, as of law-enforcement agents, who are assigned to one special problem.  
 __strike<sup>1</sup>__ _n_ __4a__ A cessation of work by employees in support of demands made on their employer, as for higher pay or improved conditions. __b__ A temporary stoppage of normal activity undertaken as a protest.  
 __strike<sup>2</sup>__ _v_ :two::hammer: _The United States is looking to strike trade deals in countries like Vietnam._  
-__striker__ _n_ :three::hammer: _The match was damp and wouldn’t ignite against the striker._  
+__striker__ _n_ :four::hammer: _The match was damp and wouldn’t ignite against the striker._ __4__ An enlisted person in usually intensive training for a naval technical rating. _The young striker transcribed the message._  
 __string beans__  
 __string tie__  
 __stringency__ _adj_ _Suffering from financial stringency._  
@@ -14353,6 +14355,7 @@ __translate__ _v_ _That doesn’t always translate, believe me._
 __translucent__ _adj_  
 __transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
 __transparent__ _adj_ :mega:  
+__transport__ _n_ :two: _Three attack transports._ _What’s that? A transport? I’m saved!_  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
 __transtentorial__ _adj_ Passing across or through either the tentorial notch or tentorium cerebelli.  
