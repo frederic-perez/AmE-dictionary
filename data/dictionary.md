@@ -1091,6 +1091,7 @@ __bench__ _n_ _Snow will dust the benches and valleys._
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
 __bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
+__benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
 __beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
@@ -4427,7 +4428,7 @@ __empty-handed__ _adj_
 __empty-net/power-play/short-handed goal__  
 __emulate__ _v_  
 __emulsified__ _v_  
-__en masse__ _adv_ :two: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._  
+__en masse__ _adv_ :three: In one group or body; all together: _The protesters marched en masse to the capitol._ _Cruz supporters are going to bolt to Rubio en masse._ _Cavalry could not deploy en masse owing to the marshes, hedges, and ditches._  
 __en route__ _adv_ On or along the way: _We are en route to the museum. The store is en route._  
 __en suite__ _adv_ :two: As part of a set; forming a unit: _a hotel room with bathroom en suite._  
 __enact__ _v_ :nine: (enacted) Make (a bill or other proposal) law. _Legislation was enacted in 1987 to attract international companies._ _Syn_ pass, make law, legislate  
@@ -7176,6 +7177,7 @@ __invariably__ _adj, adv_ _You’ll invariably notice it._
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
+__invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
@@ -7788,7 +7790,7 @@ __lentil__ _n_ (lentils) :es: lentejas
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
-__lese majeste__ _n_ (lèse-majesté) _A number of senior officials were charged with lese majeste._  
+__lese majeste__ _n_ :two: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
@@ -9539,6 +9541,7 @@ __palaver<sup>1</sup>__ _n_ :two::hammer:
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
+__palisades__ _n_  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
 __pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
@@ -9642,7 +9645,8 @@ __paring__
 __parishioner__  
 __parkour__  
 __parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
-__parley<sup>1</sup__ _n_ :three::hammer:  
+__parley__ _v_ _The Prince’s chief knights came under safe-conduct to parley in person._  
+__parley<sup>1</sup__ _n_ :four::hammer:  
 __parley<sup>2</sup__ _v_  
 __parliament__ _n_ :pencil2::two::hammer:  
 __parlor__  
@@ -11090,7 +11094,7 @@ __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past an
 __recollect__ _v_  
 __recollection__ _n_ :six::hammer:  
 __reconcile__ _v_  
-__reconvene__ _v_ :five::hammer: (reconvenes) _Kubiak and Manning will reconvene next week._  
+__reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
 __recounting__ _n_ :two::hammer: _His recounting._  
@@ -11648,6 +11652,7 @@ __sadistic__ _adj_
 __safe and sound__ _adj_ Having come to no harm, especially after being exposed to danger.  
 __safe house__  
 __safe word__ _n_ :four: (safeword) A specific, previously agreed-upon word which, when spoken during BDSM role-play, tells the dominant partner to immediately stop the activity, to protect the physical and psychological safety of the submissive partner. _Do you have a safe word?_  
+__safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to parley in person._  
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
 __safeguard<sup>1</sup>__ _n_  
 __safeguard<sup>2</sup>__ _v_ :two::hammer:  
