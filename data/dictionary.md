@@ -1041,7 +1041,7 @@ __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behold__ _v_ :four::hammer: _The wedding ceremony was a joy to behold._  
+__behold__ _v_ :five::hammer: _The wedding ceremony was a joy to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :eight: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
@@ -2530,6 +2530,7 @@ __clicker training__ _n_ A nickname given to an animal training method based on 
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
+__climactic__ _adj_ _The battle reached climactic fury._  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
 __climbing__ _n_ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
@@ -3110,6 +3111,7 @@ __cratered__ _v_ _Cratered streets._
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
 __craven<sup>1</sup>__ _adj_ :two::hammer: _A craven political figure._  
 __craven<sup>2</sup>__ _n_  
+__cravenly__ _adv_ _Battalions fled shamefully and cravenly._  
 __craw__ _n_  
 __crawl<sup>1</sup>__ _n_  
 __crawl<sup>2</sup>__ _v_ _They pretty much crawled my ass._  
@@ -3263,7 +3265,7 @@ __cummerbund__
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
-__cupidity__ _n_ :astonished:  
+__cupidity__ _n_ :two::astonished::hammer:  
 __cupolas__ _n_  
 __cuppa__ _n_ :two: A cup of tea.  
 __cupping__ _n_ :pencil2:  
@@ -5700,6 +5702,7 @@ __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)
 __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
+__gibe__ _n_ _Many seigneurs returned to face gibes or sudden hostility._  
 __gibed__ _v_  
 __gibes__  
 __Gibson glass__  
@@ -6305,7 +6308,7 @@ __hatcheck girl__
 __hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
 __hatchet__  
 __hatred__ _n_  
-__haughty__ _adj_ :four::hammer: _Oscar votters are as haughty as the critics._  
+__haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
@@ -9498,7 +9501,7 @@ __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._
 __overwheening__  
 __overwrought__ _adj_ :two::hammer: _Overwrought adults_  
 __overzealous__ _n_  
-__owing to__ _prep_ Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._  
+__owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._ _Cavalry coul not deploy en masse owing to the marshes, hedges, and ditches._  
 __own goal__ _n_ :dart: _Mikael Lustig scored an own goal._  
 __own right__  
 __own up__  
@@ -10789,7 +10792,7 @@ __pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._
 __pyrheliometer__ _n_ :two::hammer:  
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
-__pyrrhic__ _adj_ :three::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
+__pyrrhic__ _adj_ :four::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
@@ -11606,6 +11609,7 @@ __rumhead__ _n_ An alcoholic.
 __rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
 __rummy__  
 __rumor has it__  
+__rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
 __rumple__ _v_ _His clothes were rumpled._  
 __run afoul__  
 __run by__ _phr v_  
@@ -11786,6 +11790,7 @@ __scale up__ _v_ _That’s the challenge of scaling up._
 __scallions__ _n_ :three::hammer:  
 __scallop<sup>1</sup>__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
 __scallop<sup>2</sup>__ _v_ :camera: (scalloped)  
+__scalloped__ _adj_ Having an edge shaped like a scallop. _Scalloped robes._  
 __scalp bounties__  
 __scalp__ _v_ :three::astonished: __2__ _informal_ Punish severely. __2a__ To resell at inflated prices: to scalp tickets. __b__ To buy and sell (stocks) for quick profit. __3__ To cut or tear the scalp from.  
 __scalpel__  
