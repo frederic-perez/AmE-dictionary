@@ -1388,6 +1388,7 @@ __bogeyman__ _n_ Variant of boogeyman.
 __bogged down__ _phr v_  
 __boggles__ _v_  
 __bogs__  
+__bogus__ _adj_ __1__ Counterfeit or fake; not genuine: _bogus money; bogus tasks._ _The art dealer proved the painting to be bogus._  
 __boil__ _n_ :three: __2__ A painful, circumscribed pus-filled inflammation of the skin and subcutaneous tissue usually caused by a local staphylococcal infection. Also called _furuncle._ _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
 __boiler__  
@@ -4306,7 +4307,7 @@ __educated guess__ _n_ :three::hammer:
 __eel__  
 __eerie__ _adj_ :seven::hammer:  
 __eerily__ _adv_ :three::hammer:  
-__effete__  
+__effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __effigy__ _n_ :four::hammer: (effigies)  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
@@ -5623,6 +5624,7 @@ __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._
 __gatekeeper__ _n_  
 __gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
+__gauche__ _adj_ Lacking social polish; tactless. _Syn_ unpolished, graceless _Wendy was quite friendly, but her lack of manners made her seem gauche in formal settings._  
 __gaudy__ _adj_ :five: Gay, bright, or colourful in a crude or vulgar manner; garish. _A gaudy G-string._ :es: hortera, chillón  
 __gauge__  
 __gaunt__ _adj_ :nine::m: Very thin especially from disease or hunger or cold. _Gaunt eyes._ _Gaunt drifter._ :es: demacrado  
@@ -9583,7 +9585,8 @@ __panache__ _n_ :six: The word was popularized in English from the success of Ed
 __pander__ _v_ :eight: (panders, pandering) (+to) To provide gratification for the desires of.  
 __panderer__ _n_  
 __pang__ _n_ (pangs) :four::hammer:  
-__Panglossian__ _adj_ Blindly or naively optimistic.  
+__Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
+__Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
 __pangram__ _n_ A sentence, verse, etc., that includes all the letters of the alphabet.  
 __panhandle__ _v_  
 __panhandling__  
@@ -11074,7 +11077,7 @@ __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
-__recalcitrant__ _adj_ :two::hammer:  
+__recalcitrant__ _adj_ :three: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
 __recant__ _v_ :three::hammer: (recanted)  
@@ -12222,7 +12225,7 @@ __shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
 __shitshow__ _n_  
 __shiv__ _n_ :three: A knife used as a weapon.  
-__shivaree__ _n_ _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
+__shivaree__ _n_ :two: _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver__ _n_  
 __shoal__ _n_ :three: (shoals) An area of shallow water.  
 __shoat__ _n_  
@@ -14791,7 +14794,7 @@ __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._
 __unthinkable__ _adj_ _The unthinkable has befallen President._  
 __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
 __untidy__  
-__untoward__ _adj_ :two::hammer:  
+__untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
 __untuck__ _v_  
 __unwarranted__  
 __unwary__ _adj_  
@@ -14910,7 +14913,7 @@ __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fal
 __valuable__ _n_ :astonished:  
 __valuate__ _v_ Evaluate or estimate the nature, quality, ability, extent, or significance of. _Syn_ appraise, assess, measure _The jewelry must be valuated by a professional before the marital assets can be divided._  
 __valued-added__  
-__vamoose__ _v_ [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
+__vamoose__ _v intr_ :two: [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
 __vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
 __vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
@@ -15150,7 +15153,7 @@ __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
-__walkout__ _n_  
+__walkout__ _n_ :two: __1__ A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest.  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
