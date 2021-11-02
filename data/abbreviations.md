@@ -30,6 +30,7 @@ __CVS__ Computer Vision Syndrome.
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
+__DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DOY__ Day of year.  
 __e.g.__ Exempli Gratia.  
@@ -69,6 +70,7 @@ __MIA__ :two: Missing in action.
 __MO__ :six: Modus operandi. _With the same MOs._  
 __MOS__ :two: Mom over shoulder.  
 __mos.__ Months.  
+__MP__ __1__ Member of Parliament. __2__ Military police.  
 __MQTT__ Message Queuing Telemetry Transport.  
 __mRNA__ Messenger RNA.  
 __MSRP__ _$3,500 OFF of MSRP on every new 2015 Mazda 3 Sedan._  

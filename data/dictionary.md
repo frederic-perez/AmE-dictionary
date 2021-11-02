@@ -760,6 +760,7 @@ __awry__ _adj_ :five: __1__ Away from the correct course; amiss: _The last minut
 __ax__  
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
+__aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
 __azure__  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
@@ -1112,7 +1113,7 @@ __berm__ _n_ :two::hammer:
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__ _v_ :four: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _v_ :five: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
@@ -4968,7 +4969,7 @@ __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to
 __fiendish__  
 __fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
-__fife__ _n_ :camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
+__fife__ _n_ :two::camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
 __fifth wheels__  
 __figgy pudding__ _n_ A type of Christmas pudding which was originally made with figs.  
@@ -6289,6 +6290,7 @@ __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._
 __harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvest__ _v_ _Fish oil from harvested fish._  
+__has-been__ _n_ :two: One that is no longer famous, popular, successful, or useful.  
 __hash browns__ _pl n_ :two::hammer:  
 __hash<sup>1</sup>__ _n_ _I’m gonna cook his hash, man._  
 __hash<sup>2</sup>__ _v_  
@@ -8179,7 +8181,7 @@ __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part o
 __maimed__  
 __Main Street__  
 __mainstay__ _n_ :three::hammer: _A mainstay of his business._  
-__maitre d’__  
+__maître d’__ _n_ :two: A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
@@ -11211,7 +11213,7 @@ __relief teams__
 __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
-__relinquish__ _v_ :seven: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
+__relinquish__ _v_ :eight: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relo__ _n_ _informal_ __1__ Relocation.  

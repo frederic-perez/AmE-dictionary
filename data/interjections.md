@@ -33,6 +33,7 @@ __holy moley__ An exclamation of surprise, shock, or astonishment.
 __hosanna__ _n_  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeez__ Used to express surprise or annoyance.  
+__kaboom__  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  
 __meh__ :two: Used to express indifference, apathy, or boredom.  
 __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what has just been said is nonsense. _You think your job is tough work? Tough work, my ass! My job is the tough one._ _Old man? My ass!_  
