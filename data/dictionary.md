@@ -3929,7 +3929,7 @@ __dog__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
-__dogged__ _adj_ :four: Obstinately determined; wilful or tenacious. _Dogged persistence._  
+__dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
 __doggerel__ _n_ :two: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
 __dogging__ _adj_ _He swung the dogging lever._  
@@ -4379,7 +4379,7 @@ __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide yo
 __eligibility__  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
-__elope__ _v_ :seven::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__  
 __elucidate__ _v_ :two::hammer:  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
@@ -4820,7 +4820,7 @@ __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v_ :seven: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ __b__ To happen. __2__ _archaic_ To travel.  
+__fare<sup>2</sup>__ _v_ :eight: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_  
@@ -5195,7 +5195,7 @@ __flown__ _v_ _The flag was flown at half mast._
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
-__fluff__ _n_ :two::hammer:  
+__fluff__ _n_ :three::hammer: _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
@@ -7270,6 +7270,7 @@ __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._
 __jangle__ _v_ :two: (jangled, jangling) __1__ To make a noise by hitting small metal objects against each other. _Phones jangling in Senator Doe’s office._ __2__ If something jangles someone’s nerves, it makes them feel very nervous.  
 __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.  
 __janitor__ _n_  
+__Janus word__ _n_ A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms , antagonyms , or auto-antonyms.  
 __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __jape__ _v_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
@@ -9421,7 +9422,7 @@ __outlast__ _v_
 __outlaw__ _n_  
 __outlay__ _n_ :two: (outlays) An expenditure of money, effort, etc. _Budget outlays._  
 __outline__ _n_  
-__outlook__ _n_ :four::hammer: _What’s the long term outlook after covid?_  
+__outlook__ _n_ :five::hammer: _What’s the long term outlook after covid?_ _Embrace a more positive outlook every single day._  
 __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderbirds._  
 __outmanoeuvred__  
 __outnumber__ _v_  
@@ -10890,8 +10891,8 @@ __raccoons__
 __racetrack__ _n_ _Racetrack cars._  
 __racinos__  
 __rack up__ _v_ :six::hammer: _He had racked up a criminal record._ _Racking up 88 yards and two TDs._  
-__rack__ _n_  
-__racked__ _v_ :two::hammer:  
+__rack<sup>1</sup>__ _n_  
+__rack<sup>2</sup>__ _v_ :three: (racked) __1__ (also _wrack_) To cause great physical or mental suffering to: _Pain racked his entire body._ _Syn_ afflict __2__ To torture by means of the rack. _She woke up racked with anxiety and fear that this was the final blow._ __3__ To place (billiard balls, for example) in a rack.  
 __racket<sup>1</sup>__ _n_ :five::hammer: _Extortion rackets._ _He heard the trains making their racket._  
 __racket<sup>2</sup>__ _v_  
 __racketeer<sup>1</sup>__ _n_ :three: A person who engages in dishonest and fraudulent business dealings. :es: estafador, timador  
@@ -11287,6 +11288,7 @@ __resist<sup>2</sup>__ _n_ _Water resist wristwatch._
 __resistance__  
 __resit<sup>1</sup>__ _n_ _(Education)_ An examination taken again by a person who has not been successful in a previous attempt.  
 __resit<sup>2</sup>__ _v_ _(Education)_ To sit (an examination) again.  
+__resolute__ _adj_ Firm in purpose or belief; steadfast. _Syn_ determined, stalwart, staunch, persevering _I am resolute in my opposition to these proposals, so don’t bother trying to sway me._  
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
@@ -12548,7 +12550,7 @@ __sleight__ _n_ :dart: Adroitness in using the hands. _Syn_ dexterity _Only thro
 __slender__  
 __sleuth<sup>1</sup>__ _n informal_ :three: A detective. _Sassy (TV) sleuth._  
 __sleuth<sup>2</sup>__ _v informal_ :three: (sleuthing) To act as a detective.  
-__slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._  
+__slew__ _n informal_ :nine::m::reminder_ribbon: /sluː/ !few A large amount or number; a lot. _A slew of unpaid bills._ _A slew of appearances by comic book artists._ _REJECTED is a state of mind, and it brings on a slew of awful feelings._  
 __slice__ _n_ :two::hammer: _A big slice of the pie._  
 __slick<sup>1</sup>__ _n_ :four::hammer: _He stole a slick from the ARVN._ _He flew a slick in Vietnam._ _He carried me piggyback into the slick._  
 __slick<sup>2</sup>__ _v_ :two::hammer:  
