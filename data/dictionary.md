@@ -916,6 +916,7 @@ __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barm
 __barn__ _n_ _Out of the barn._  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
 __barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
+__baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
@@ -3022,7 +3023,7 @@ __cough up__ _v_
 __could__ _v_ :mute:[cou~~l~~d]  
 __coulee__  
 __coulrophobia__ _n_ Fear of clowns.  
-__councilor__ _n_  
+__councilor__ _n_ :two::hammer: (councillor)  
 __counsel__ _n_ :two::hammer:  
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
@@ -3059,7 +3060,7 @@ __coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__  
 __covey__  
-__cow__ _v_ :three::hammer: (cowed) _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
+__cow__ _v_ :four: (cowed) To frighten or subdue with threats or a show of force. _Syn_ intimidate _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
@@ -3150,6 +3151,7 @@ __crew cut__ _n_ :three::hammer: _A tall crew cut._
 __crewcats__  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
+__crier__ _n_ _Public criers._  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
@@ -3390,6 +3392,7 @@ __dateline__
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
+__Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direct heir to the throne.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
 __davits__ _n_  
 __dawdled__ _v_  
@@ -5595,7 +5598,7 @@ __garbed__ _v_ :two::hammer:
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
-__gargantuan__ _adj_ :two: Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._  
+__gargantuan__ _adj_ :three: Of immense size, volume, or capacity; gigantic. _Syn_ elephantine, giant, jumbo _He was full to capacity after polishing off a gargantuan, five-course meal._  
 __gargle__ _n_  
 __gargle<sup>1</sup>__ _n_  
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
@@ -9201,6 +9204,7 @@ __odds__ _pl n_
 __oddsmakers__  
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
 __odious__ _adj_ /OH-dee-us/ :two::hammer:  
+__odium__ _n_  
 __odometer__ _n_ :two::hammer:  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
@@ -9348,6 +9352,7 @@ __orderly<sup>2</sup>__ _adj_
 __orderly<sup>3</sup>__ _n_ :two::astonished: __1__ An attendant who does routine, nonmedical work in a hospital. __2__ A soldier assigned to attend and perform various tasks for a superior officer.  
 __ordinance__ _n_ :three::hammer: _Ordinance worker._  
 __ordnance__ _n_ :four::pencil2::hammer:  
+__ordure__ _n_ _In lower-class quarters a pile of ordure usually lay at every doorway._  
 __ore__ _n_ :four::mega::hammer: _Iron ore._ :es: mena, mineral  
 __organization__ _n_ :mega:  
 __originally__ _adv_ :dart:  
@@ -10442,7 +10447,7 @@ __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
 __prehension__ _n_ The act of gripping something firmly with the hands (or the tentacles). _Syn_ taking hold, grasping, seizing  
-__prelate__ _n_ :two: A high-ranking member of the clergy, especially a bishop.  
+__prelate__ _n_ :three: A high-ranking member of the clergy, especially a bishop.  
 __preliminary__  
 __premier__ _adj_  
 __premium__ _n_ :six::hammer: (premiums) _To pay a premium for a larger-but-lighter vehicle._ _People would spend hundreds of dollars a month in premiums._ _Health premiums._ _Individuals have paid their premiums._ _The insurance company can charge you a premium._  
@@ -14971,7 +14976,7 @@ __velleity__ _n_
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :four::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._  
-__venality__ _n_ :two::hammer:  
+__venality__ _n_ :three::hammer:  
 __vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
