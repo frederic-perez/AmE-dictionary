@@ -31,6 +31,7 @@ __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indi
 __holy cannoli__ :two: An expression that usually accompanies shock or excitement. _Holy cannoli, what the hell was that?_  
 __holy guacamole__ An exclamation said when surprised, used when in shock or disbelief.  
 __holy moley__ An exclamation of surprise, shock, or astonishment.  
+__Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
 __jeez__ Used to express surprise or annoyance.  

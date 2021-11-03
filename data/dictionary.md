@@ -391,6 +391,7 @@ __Amish__ _n_ _Amish country._
 __amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
 __amiss<sup>2</sup>__ _adv_  
 __amity__  
+__ammeter__ _n_ :astonished: An instrument for measuring electric currents in amperes.  
 __ammo__  
 __ammonia__ _n_  
 __amnesty player__  
@@ -4604,7 +4605,7 @@ __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculi
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
-__eulogy__ _n_ :four::hammer:  
+__eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
 __euphemism__ _n_ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_]  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
@@ -5961,6 +5962,7 @@ __great-granddaughter__ _n_ :pencil2: (great granddaughter)
 __great-grandfather__ _n_  
 __great-grandsons__  
 __greave__ _n_ :three::hammer: (greaves) _The man wore a mail vest and greaves._  
+__green card marriage__ _n_ A marriage of convenience between a legal resident of the United States of America and a person who would be ineligible for residency but for being married to the resident.  
 __green card wedding__  
 __green thumb__ _n_ _Not everyone has a green thumb._  
 __green-behimd-the-ears__  
@@ -6867,7 +6869,7 @@ __idle__ _v_
 __idolatry__ _n_ :two::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
-__iffy__ _adj_ _slang_ :six: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
+__iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
@@ -8416,7 +8418,7 @@ __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
 __meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
-__melting pot__ _n_  
+__melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
 __memo pad__ _n_  
@@ -9309,7 +9311,7 @@ __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring onl
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :seven::hammer: _Early onset dementia._  
+__onset__ _n_ :eight::hammer: _Early onset dementia._  
 __onslaught__ _n_ :three: A violent attack.  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __oofs__  
@@ -13912,6 +13914,7 @@ __teeing up__ _v_
 __teem__ _v_  
 __teeming__ _adj_ :five::hammer: _The megalopolis is a teeming mass of streets, smells, sights and crowds._  
 __teeter__ _v_ :nine::m: (teeters, teetered, teetering) __1__ To walk or move unsteadily or unsurely; totter. _Iran is teetering on the brink of a civil war._ _The year teetered on the edge of peace._ __2__ To alternate, as between opposing attitudes or positions; vacillate. __3__ To seesaw.  
+__teeter-totter__ _n_ _Upper Northern & Western US_ A plaything consisting of a board balanced on a fulcrum; the board is ridden up and down by children at either end. _Syn_ dandle board, seesaw, teeter, teeterboard, teetertotter, tilting board  
 __teeterboard__ _n_ _Northeastern US_ __1__ A seesaw; teetertotter. __2__ A similar board used by acrobats that propels a person into the air when another person jumps onto the opposite end.  
 __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn_ dry _I happen to be teetotal, so I will forgo the wine being served with dinner._  
 __teetotaler__ _n_ :three: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
@@ -14109,6 +14112,7 @@ __thwack<sup>2</sup>__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at be
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
 __tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
+__tic-tac-toe__ _n_  
 __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
 __tic<sup>2</sup>__ _v_  
 __tick prevention__  
