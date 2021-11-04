@@ -50,7 +50,7 @@ __abhorrent__ _adj_ :five::hammer:
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
 __abject__ _adj_ :four: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
-__abjure__ _v_ :three: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
+__abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abode__ _n_ __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
@@ -610,6 +610,7 @@ __artsy__ _adj_ :three::hammer: (arty in BrE)
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
 __artwork__ _n_ :pencil2:  
 __as a general rule__  
+__as if__ _conj_ :two::hammer:  
 __as of today__  
 __asana__ _n_ :two: A posture or manner of sitting (as in the practice of Yoga).  
 __asbestos__ _n_ :three::hammer: :es: asbesto, amianto  
@@ -1085,6 +1086,7 @@ __belt socket__ _n_
 __belt__ _n_ A swallow or a gulp of an alcoholic drink.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
+__belvedere__ _n_  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ (bemused)  
@@ -1461,6 +1463,7 @@ __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile 
 __bookplate__  
 __bookrunner__  
 __bookshop__ _n_ A bookstore.  
+__bookstall__ _n_  
 __bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
@@ -2014,7 +2017,7 @@ __canter up__ _v_
 __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
-__cantilevered__  
+__cantilever__ _v_ :two::hammer: (cantilevered)  
 __canvass__ _v_ :two::hammer::astonished:  
 __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
@@ -2133,7 +2136,7 @@ __cataclysm__ _n_ :pencil2:
 __catacombs__ _n_ :two::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
-__catalyst__ _n_ :two::hammer:  
+__catalyst__ _n_ :three::hammer:  
 __catalyze__ _v_ :pencil2:  
 __catamounts__  
 __catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas  
@@ -5573,7 +5576,7 @@ __Gallicism__ _n_
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __galloping__  
-__gallows__ _n_  
+__gallows__ _n_ :two::hammer:  
 __galore__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v_  
@@ -11871,7 +11874,8 @@ __scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfu
 __scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
-__sconce__ _v_  
+__sconce<sup>1</sup>__ _n_ __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
+__sconce<sup>2</sup>__ _v_  
 __scone__ _n_ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
 __scoot__ _v_ :six: (scooted) To move or go suddenly and speedily; hurry. _The New Frontiers scoots out of the Solar System at a speed just under that of light._  
@@ -15104,7 +15108,7 @@ __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, 
 __volatile__ _adj_  
 __volcano__  
 __vole__ _n_ A small animal similar to a mouse but with a short tail. _Syn_ field mouse  
-__volition__ _n_ :three::hammer:  
+__volition__ _n_ :four::hammer:  
 __volley__ _n_ :two::hammer: _A volley of invective._  
 __voltage__ _n_ :two::mega::hammer:  
 __voltron__  
@@ -15551,6 +15555,7 @@ __wistfulness__
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._  
 __witchcraft__ _n_ :two::hammer: _A 1958 witchcraft comedy._  
 __with-it__ _adj_ In accord with the most fashionable ideas or style.  
+__withdraw__ _v_ _The nobility was withdrawing support._  
 __withdrawal__ _n_ :two: Withdrawal is when you take something out, like making a withdrawal from your bank account. When you announced you were no longer running for president, your withdrawal from the race disappointed your many supporters. Withdrawal is also used to describe the painful experience that results when you stop taking an addictive drug (when you “take it out” of your system). The state of being emotionally detached is called withdrawal. If a country terminates an agreement like a treaty, that’s a withdrawal too. Remember that withdrawal ends in “wal” and not just “wl.” _I was going through withdrawal._ _Readers suffered withdrawal symptoms._  
 __withe down__ _v_  
 __wither away__ _v_ :two::hammer:  
