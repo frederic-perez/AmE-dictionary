@@ -354,6 +354,7 @@ __case the joint__ :three::hammer: (casing the joint)
 __cash cow__ A product or business that always makes a lot of profit.  
 __cash in__  
 __cast in concrete__ Firmly or permanently established; not subject to change; unalterable. _The healthcare law looks promising, but we’ll have to wait until it’s cast in concrete before we know exactly what it will do._  
+__cast the first stone__ To be the first to criticize someone or something. _OK, fine, I’ll cast the first stone—that movie was awful!_  
 __castles in the sky__ Dreams, hopes, or plans that are impossible, unrealistic, or have very little chance of succeeding.  
 __cat got your tongue__ Used to ask someone why he or she is not saying anything.  
 __cat has nine lives__ _Everybody knows a cat has nine lives. For three he plays, for three he strays, and for the last three he stays._  
@@ -378,6 +379,7 @@ __chew on something__
 __chew the fat__ To chat or gossip.  
 __chew the/(one’s) cud__ To think deeply; to be deeply involved in private thought. (Alludes to the cow’s habit of bringing food back from the first stomach into the mouth to chew it, called chewing the cud.) _He’s chewing his cud about what to do next._  
 __chicken feed__ A small amount of money.  
+__chip away__ :dart: __1__ To break off fragments of something. _We won’t be able to move this huge rock until we chip away at it and make it smaller._ __2__ To come off of something in small pieces. _The paint is so old that it has completely chipped away from this side of the house._ __3__ To complete small, incremental portions of a task. _Try not to get too overwhelmed about cleaning the house and just chip away at it one room at a time._  
 __chip on (someone) shoulders__ :nine::dart: (chip on his shoulder, chip on one’s shoulder) A disposition to quarrel. _Let’s walk into that meeting tomorrow with a chip on our shoulders._  
 __cipher<sup>1</sup>__ _n_ __1__ The mathematical symbol (0) denoting absence of quantity; zero. __2__ :two: A person who is unimportant, insignificant, or without influence. It refers to the mathematical symbol for zero (0).  
 __circle the drain__ To be in a state of severe deterioration such that one is approaching inevitable ruin, failure, or death. Usually used in the continuous form.  
@@ -461,6 +463,7 @@ __dead in the water__ :two: [:scroll: _Dead in the water_ was originally used of
 __dead last__ In last place, especially by a wide margin, as for a race or other competition.  
 __dead man walking__ _Jack was a dead man walking._  
 __dead naming__ The act of referring to a transgender person by the name and/or pronouns they used before transitioning to the gender they currently identify as. Dead naming is just a way to show contempt for transgender people.  
+__dead on (one’s) feet__  
 __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival._  
 __dead set against something__ To be completely against something.  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
@@ -664,6 +667,7 @@ __get one’s act together__ :two: (get one’s shit together, get it all togeth
 __get out of Dodge__ To leave, especially to leave a difficult or dangerous environment with all possible haste.  
 __get out of town__ :two::hammer:  
 __Get outta here!__  
+__get over it__ To move on and accept things the way they are; to stop being concerned by or with something that is in the past or can’t be changed. Often used as an imperative. _Look, I’m going to marry him whether you want me to or not. Get over it!_  
 __get over someone or something__ _They’re getting over their heads._  
 __get someone’s goat__ (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
 __get the axe__ To lose your job.  
@@ -1162,7 +1166,7 @@ __knuckle sandwich__ A punch in the face.
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __labor under the illusion of/that__ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Lady Luck__ :two: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
-__laid-back__ _adj_ :eight: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
+__laid-back__ _adj_ :nine: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __land on (one’s) feet__ To gracefully survive a bad situation.  
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
@@ -1430,6 +1434,7 @@ __on foot__ _I work to work on foot._
 __on occasion__ Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
 __on pins and needles__ Worried or excited about something.  
 __on point__ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
+__on someone’s dime__ _I was living on my mother’s dime._  
 __on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
 __on tap__ __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
@@ -1488,6 +1493,7 @@ __part company (with/from somebody/something)__
 __party crasher__ One who attends a party without having been invited.  
 __party pooper__ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
+__pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :two::dart: To fix something quickly so it can be used until it’s repaired properly or replaced.  
 __pay homage (to someone or something)__  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
@@ -1518,6 +1524,7 @@ __play footsie__ To flirt with someone by secretly touching feet.
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play safe__  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
+__pop up__ To suddenly appear or become available. _Problems started popping up as soon as the software went live._ _He might pop up in this movie in the tail end._  
 __pounce on (someone or something)__  
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prop up__ _But with her leg propped up._  
@@ -1526,6 +1533,7 @@ __pull (oneself) together__ :two: Calm down.
 __pull a U-ie__ To make a U-turn. Primarily heard in US, Australia.  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
+__pull something off__ :dart: __1__ To manage to make something happen. _Yes, I can pull it off. Do you think you can pull off this deal?_  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
@@ -1858,6 +1866,7 @@ __walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, ca
 __walk on water__ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
 __walls have ears__ Someone might be eavesdropping. _Let’s talk in my office—out here, the walls have ears._  
 __wash (someone’s) mouth out (with soap)__ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
+__wash over (someone or something)__  
 __watch (one’s) language__ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
 __watch your six__ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __weigh down__ To make someone heavy and unable to move easily.  
