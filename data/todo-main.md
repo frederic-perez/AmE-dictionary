@@ -1,13 +1,3 @@
-__lair__ _n_ _Like a coyote sleeping in its lair._  
-__brownnose__ _v_ (brownnosing) :pencil2:  
-__hothead__ _n_ :three::hammer:  
-__parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
-__jiggle__ _v_ (jiggled)  
-__wirethin__ _adj_  
-__transom__ _n_ :two::hammer:  
-__brackish water__ _n_  
-__jodhpurs__ _n_  
-__tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
 __gangway__ _n_ :four::hammer:  
 __halyards__ _n_  
 __quarterdeck__ _n_  

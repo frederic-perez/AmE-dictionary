@@ -1538,7 +1538,7 @@ __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibb
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
-__brackish__ _adj_ __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
+__brackish__ _adj_ :two: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
@@ -1668,6 +1668,7 @@ __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; in
 __browbeaten__ _adj_  
 __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Nazi regime. They were called this because of the colored shirts they wore. To call someone a brown shirt is to call them a Nazi soldier, usually hinting that they oppose human rights or freedom. This is a very serious insult, and in forums is used to Flame someone.  
 __Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
+__brownnose__ _v_ (brownnosing) :pencil2:  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstones__ _n_  
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
@@ -6720,6 +6721,7 @@ __hot-rodder__
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
+__hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __Houdini<sup>1</sup>__ _n_ An escape artist.  
@@ -7331,7 +7333,7 @@ __Jewry__
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
 __jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
-__jiggle__ _v_ _In moments, the spedometer jiggled back to forty-eight miles per hour._  
+__jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
 __jilt__ _v_ :three: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
@@ -7359,6 +7361,7 @@ __jockstrap__ _n_ :two: An elasticated belt with a pouch worn by men, esp athlet
 __jocose__ _adj_ Given to joking; merry. _Syn_ jesting, jocular, joking _Larry, who was usually so jocose, said he didn’t have time for pranks._  
 __jocular__  
 __jocund__ _adj_ Marked by or suggestive of high spirits and lively mirthfulness.  
+__jodhpurs__ _n_  
 __jody__ _n_ _He often complained about his wife’s jody._  
 __John Doe__  
 __johnny__ _n_ (johnnies) _Actual voters, not just financiers and think-tank johnnies._  
@@ -7636,7 +7639,7 @@ __lagoon__ _n_ _The Venetian lagoon._
 __lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
 __laid back attitude__  
 __lain__  
-__lair__ _n_ :two::hammer: _A tiger’s lair._  
+__lair__ _n_ :three::hammer: _A tiger’s lair._ _Like a coyote sleeping in its lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
@@ -9633,6 +9636,7 @@ __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false;
 __pappy__  
 __paprika__ _n_  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
+__parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
 __paradigm__ _n_ :mute:[paradi~~g~~m]  
 __paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
@@ -14308,6 +14312,7 @@ __topiary__
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
 __topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
+__tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
 __topsy-turvy<sup>3</sup>__ _n_ A topsy-turvy state.  
@@ -14400,6 +14405,7 @@ __transient<sup>2</sup>__ _n_
 __translate__ _v_ _That doesn’t always translate, believe me._  
 __translucent__ _adj_  
 __transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
+__transom__ _n_ :two::hammer:  
 __transparent__ _adj_ :mega:  
 __transport__ _n_ :two: _Three attack transports._ _What’s that? A transport? I’m saved!_  
 __transpose__ _v_ _Someone might have transposed digits._  
@@ -15534,6 +15540,7 @@ __wire grass__ _n_ _The 2014 U.S. Open was visually intriguing, with its brown s
 __wire-rimmed__ _adj_ _Wire-rimmed glasses._  
 __wire-to-wire__ _adj informal_ :three: From start to finish. _He may not have what it takes to lead from wire-to-wire; Kaymer is just the seventh wire-to-wire winner in U.S. Open history._  
 __wiredraw__ _v_ :astonished: __1__ To draw (metal) into wire. __2__ To treat (a subject, for example) with great length, excessive detail, or overrefinement; spin out.  
+__wirethin__ _adj_  
 __wiry__ _adj_ :two::hammer: _He’s wiry, strong and fast._  
 __Wisconsinites__  
 __wisdom tooth__  
