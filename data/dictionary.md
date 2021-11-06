@@ -1610,8 +1610,8 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
-__brigand__ _n_ A robber or bandit, especially one of an outlaw band.  
-__brigandage__ _n_ :two: Plundering by brigands.  
+__brigand__ _n_ :five: A robber or bandit, especially one of an outlaw band.  
+__brigandage__ _n_ :four: Plundering by brigands. :es: bandidaje, bandolerismo  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
@@ -4358,7 +4358,7 @@ __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._
 __EKG__  
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
 __elaborate__ _v_ :dart:  
-__élan__ _n_ :pencil2:  
+__élan__ _n_ :two::pencil2::hammer:  
 __elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
 __elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
 __elated__ _adj_ :three::hammer:  
@@ -4627,6 +4627,7 @@ __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often 
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
 __eviction__ _n_ :two::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
+__evildoer__ _n_  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
@@ -5417,7 +5418,7 @@ __free ride__ _n_ _informal_ :two: Something that is obtained or granted without
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
 __free-spoken__ _adj_ Characterized by directness in manner or speech; without subtlety or evasion.  
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
-__freebooter__ _n_ Someone who takes spoils or plunder (as in war). _Syn_ looter, pillager, plunderer, raider _He was a genial freebooter, living off the enemy, without fear or shame._  
+__freebooter__ _n_ :two: Someone who takes spoils or plunder (as in war). _Syn_ looter, pillager, plunderer, raider _He was a genial freebooter, living off the enemy, without fear or shame._  
 __freeloading__  
 __freewheeling__ _adj_ :nine: _informal_ Unrestrained in manner, actions, etc.; uninhibited. _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
 __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
@@ -5549,7 +5550,7 @@ __gab<sup>1</sup>__ _v_ :two::hammer:
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
 __gabbing__  
 __gabfest__  
-__gable__ _n_  
+__gable__ _n_ :two::hammer:  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
 __Gabor__ _n_ :mega:  
 __gadabout__ _n_ A person who goes from place to place in social activity.  
@@ -8617,6 +8618,7 @@ __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe f
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
+__miter__ _n_  
 __mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
 __mitzvah__  
@@ -14785,7 +14787,7 @@ __unreasonable__ _adj_
 __unrecognizable__ _adj_  
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
-__unrepentant__ _adj_ :three::hammer:  
+__unrepentant__ _adj_ :four: Having or exhibiting no remorse.  
 __unrequited__ _adj_ :two: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
