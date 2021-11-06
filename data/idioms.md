@@ -130,6 +130,7 @@ __anything but__ By no means, not at all. _It is anything but sweet._
 __anything goes__ :two::hammer:  
 __apple of (one’s) eye__  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
+__arm in arm__ _They were arm in arm, singing with the band._  
 __armchair expert__  
 __armed to the teeth__ :two: Fully armed, having many weapons.  
 __around the clock__ :two: Without stopping. _Syn_ for 24 hours, round the clock  
@@ -433,6 +434,7 @@ __crux of the matter__ _She saw the crux of the matter in seconds._
 __cry over spilled milk__ To be unhappy about what cannot be undone.  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
+__curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
 __cushy job__ A job that is easy, stress-free, and/or very well paid.  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
 __cut and dried__ _You seem to think this is cut and dried._  
@@ -684,6 +686,7 @@ __give (one) some slack__ To be lenient with one; to give one a break. _Give me 
 __give (someone) a call__ _Give me a call._  
 __give (someone) a piece of (one’s) mind__ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
+__give a rat’s ass__ _I don’t give a rat’s ass._  
 __give and take__ _Love don’t come easy. It’s a game of give and take._  
 __give or take__ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
@@ -748,6 +751,7 @@ __good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or e
 __good job__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ A sign, either real or imagined, of good fortune or a propitious outcome.  
+__good riddance__ An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
@@ -871,7 +875,7 @@ __have your head in the clouds__ :two: To be separate from reality, to dream.
 __have/put skin in the game__  
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
-__head over heels__ :four: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
+__head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
 __hear a pin drop, one/you could__ :two: Complete silence.  
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
@@ -989,6 +993,7 @@ __in a measure__ To a certain degree or extent; somewhat.
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
+__in all likelihood__  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
 __in and of itself__ Considering it alone.  
@@ -1519,6 +1524,7 @@ __prop up__ _But with her leg propped up._
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
 __pull (oneself) together__ :two: Calm down.  
 __pull a U-ie__ To make a U-turn. Primarily heard in US, Australia.  
+__pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
@@ -1585,6 +1591,7 @@ __run errands__
 __run for the hills__  
 __salt of the earth__ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
+__save (one’s) bacon__ To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
@@ -1684,7 +1691,7 @@ __strike a chord__ Trigger a feeling or memory, as in _That poem strikes a chord
 __stuff your face__ To eat a lot of food quickly.  
 __suffice (it) to say__ :two::hammer:  
 __Sunday best__ One’s very best clothes, as one would wear to a Sunday church service. _Rita wanders a highway in her Sunday best._  
-__sure enough__ :two: As one might have expected; certainly. _Sure enough, that’s what happened._  
+__sure enough__ :three: As one might have expected; certainly. _Sure enough, that’s what happened._  
 __surprise, surprise__ :two: Said ironically of or in a situation in which something very predictable has happened.  
 __swear in__ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
 __sweat bullets__ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
@@ -1863,7 +1870,7 @@ __what makes (one) tick__ _We’ve never captured one of them, and consequently 
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
-__when pigs fly__ :two: Never, impossible.  
+__when pigs fly__ :three: Never, impossible.  
 __when the chips are down__ :two: When a situation has become difficult. The expression alludes to having a low amount of poker chips, which means that one may soon lose.  
 __where the sun doesn’t shine__  
 __which way the wind blows__ What appears probable or likely; how a certain course or situation is likely to develop. _It looks like I might be considered for the job, but I’m waiting to see which way the wind blows._  

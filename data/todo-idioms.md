@@ -1,13 +1,3 @@
-__arm in arm__ _They were arm in arm, singing with the band._  
-__in all likelihood__  
-__good riddance__  
-__head over heels__  
-__give a rat’s ass__ _I don’t give a rat’s ass._  
-__save (one’s) bacon__ To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
-__pull rank__ _He pulled rank and told the pilot to shut up._  
-__when pigs fly__  
-__curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
-__sure enough__  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __killing field__  
