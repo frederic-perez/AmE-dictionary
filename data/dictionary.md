@@ -3629,8 +3629,7 @@ __desk blotter__ _n_ :six: See blotter.
 __desolate__ _adj_ :two: __1__ Empty of people.  
 __despair__ _n_ :two::hammer:  
 __despicable__  
-__despoil__ _v_  
-__despoiling__  
+__despoil__ _v_ :three::hammer: (despoiled, despoiling)  
 __despondency__  
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
@@ -4206,7 +4205,7 @@ __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correc
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
-__dumbfounded__ _v_ :two::hammer:  
+__dumbfounded__ _v_ :three::hammer:  
 __dumbstruck__ _adj_ :two::hammer:  
 __dummy__ _n_  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
@@ -4999,7 +4998,7 @@ __file<sup>1</sup>__ _n_
 __file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
 __filial__ _adj_  
 __filibuster__ _n_ :three::hammer:  
-__filigree__ _n_  
+__filigree__ _n_ :three::hammer: _The maidens scattered flowers of gold and silver filigree over the riders._  
 __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from under her fingernails._  
 __Filipino__  
 __fill out__  
@@ -6259,7 +6258,7 @@ __haps__ _n_ :two::hammer: _What’s the haps?_
 __haptic__ _adj_ Of or relating to the sense of touch; tactile.  
 __harangue__ _v_  
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
-__harangue<sup>2</sup>__ _v_ :four::hammer: (haranguing)_v_  
+__harangue<sup>2</sup>__ _v_ :five::hammer: (harangued, haranguing)  
 __harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
@@ -6385,8 +6384,7 @@ __heartedly__
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
 __heartfelt__  
-__hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._  
-__hearth-tax__  
+__hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
@@ -8275,6 +8273,7 @@ __mantle<sup>1</sup>__ _n_ :four: An important role or responsibility that passe
 __mantle<sup>2</sup>__ _v_  
 __mantlet__ _n_  
 __mantrap__ _n_  
+__manure__ _n_  
 __many<sup>1</sup>__ _adj_  
 __many<sup>2</sup>__ _n_  
 __maple__  
@@ -12129,7 +12128,7 @@ __sewer gas__
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
-__shabbily__ _adv_ _He has shabbily deceived us._  
+__shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
 __shackle__ _n_  
@@ -12993,6 +12992,7 @@ __spinel__ _n_ Spinel is the magnesium aluminium member of the larger spinel gro
 __spinet__ _n_ :camera:  
 __spinnaker__ _n_  
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
+__spinning__ _n_ (Textiles)  
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
 __spiny lobster__ _n_ :camera:  
@@ -14213,7 +14213,7 @@ __Tirolean__
 __Titanesque__ _adj_  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
-__tithe__ _n_ __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
+__tithe__ _n_ :five: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
@@ -14390,7 +14390,7 @@ __traipse__ _v_ Walk or tramp about. _Syn_ shlep _I spent the holiday exploring 
 __traipsing__  
 __traitorous__  
 __tramp__ _adj_  
-__trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
+__trample__ _v_ :nine::m: (trampled, trampling) __1__ To step heavily on something, so that you crush it with your feet. (trample on/over/through etc) _There was a small fence to stop people trampling on the flowers._ _They trample the weeds heading for the park._ _He could be seen trampling grapes in a wooden vat._ __2__ To behave in a way that shows that you do not care about someone’s rights or feelings. (trample on/over somebody/something) _Don’t let people trample all over you._ _Snow trampled down by detectives._  
 __trampoline__ _n_ :two::hammer:  
 __trampolines__ _n_  
 __tranche__ _n_ __1__ A portion of something (especially money). __2__ A cut or slice of meat: _a tranche of sirloin._  
@@ -14969,7 +14969,7 @@ __vasculitis__ _n_ Inflammation of the blood vessels.
 __vassal__ _n_ :two::hammer:  
 __vast__ _adj_ _A vast number._  
 __vastly__ _adv_ :two::hammer:  
-__vat__ _n_ :five: __1__ A large vessel, such as a tub, cistern, or barrel, used to hold or store liquids. _A large vat of water._ _Wine vats._ __2__ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
+__vat__ _n_ :six: __1__ A large vessel, such as a tub, cistern, or barrel, used to hold or store liquids. _A large vat of water._ _Wine vats._ _He could be seen trampling grapes in a wooden vat._ __2__ A water-insoluble dye, such as indigo, that is applied to a fabric in a reducing bath which converts it to a soluble form, the colour being obtained on subsequent oxidation in the fabric fibres. _Vat soft purple dye._  
 __vatic__ _adj_ Of or characteristic of a prophet; oracular.  
 __vaudeville__ _n_ :two::pencil2::hammer:  
 __vaulted__ _adj_ _Vaulted ceilings._  
