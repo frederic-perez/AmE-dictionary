@@ -2682,6 +2682,7 @@ __collude__ _v_ :two: Act in unison or agreement and in secret towards a deceitf
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
+__colophon__ _n_  
 __color__ _n_ :mega: /ˈkʌl ər/  
 __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
@@ -4746,6 +4747,7 @@ __fabric__ _n_ :two::hammer: _The fabric of time and space._
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
 __façade__ _n_ :two::hammer:  
+__face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
 __face off__ _v_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
@@ -5592,6 +5594,7 @@ __gamine__
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
+__gangway__ _n_ :four::hammer:  
 __Ganjapreneur__  
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
@@ -6202,6 +6205,7 @@ __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halter__ _n_ :six: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
+__halyards__ _n_  
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
 __hamdbill__ _n_  
@@ -8520,7 +8524,7 @@ __mileage__
 __military fiat__ _n_  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
-__milk__ _v_ :three::hammer: _Milk the clock._  
+__milk__ _v_ :four::hammer: _Milk the clock._ _The general milked the clapping for a long time._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
 __milkshake__ _n_ :astonished: (milk shake) A beverage that is made of milk, ice cream, and often flavoring and is blended or whipped until foamy.  
 __milkweed__  
@@ -9615,6 +9619,7 @@ __panko__ _n_
 __panned out__  
 __panoply__ _n_ :three: __1__ An impressive or striking array or arrangement. _A panoply of colorful flags._  
 __panorama__ _n_  
+__pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
 __pant__ _v_ :seven: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
 __pantophagous__ _adj_  
@@ -10838,6 +10843,7 @@ __quarrelsome__
 __quarry__ _n_ :two::hammer: _Syn_ prey  
 __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
 __quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
+__quarterdeck__ _n_  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
 __quavering__  
@@ -11709,7 +11715,7 @@ __sales force__
 __salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :five: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. _Sallow skin._ _A sallow face._ _A sallow complexion._  
+__sallow__ _adj_ :six: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
@@ -13034,6 +13040,7 @@ __sponsee__ _n_ One who is sponsored.
 __sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
 __spontaneous__ _adj_ :mega:  
+__spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
 __spool tables__  
 __spool__ _n_  
 __spoonerism__ _n_  
@@ -13179,6 +13186,7 @@ __stamped__ _v_ :two::hammer:
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
 __stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
+__stanchion__ _n_ _He braced his hands on a stanchion._  
 __stand a chance__  
 __stand strong__  
 __standard of care__ _n_  

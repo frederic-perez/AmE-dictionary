@@ -1,13 +1,3 @@
-__gangway__ _n_ :four::hammer:  
-__halyards__ _n_  
-__quarterdeck__ _n_  
-__pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
-__milk__ _v_ _The general milked the clapping for a long time._  
-__sallow__ _adj_ (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento  
-__spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
-__face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
-__stanchion__ _n_ _He braced his hands on a stanchion._  
-__colophon__  
 __polio__ _n_  
 __flag officer__ _n_ :four::hammer:  
 __Whackety-Whack__  
