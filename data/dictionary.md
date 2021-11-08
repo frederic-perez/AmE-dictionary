@@ -639,7 +639,7 @@ __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote
 __aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
 __aspire__ _v_  
 __aspirin__ _n_ :mega:  
-__assail__ _v_ :two: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
+__assail__ _v_ :three: /əˈseɪl/ __1__ Make a concerted or violent attack on. _The Scots army assailed Edward’s army from the rear._ __2__ :dart: Criticize strongly. _He assailed a group of editors for their alleged excesses._  
 __assailant__  
 __assault__ _n_ :two::hammer:  
 __assembly line__ _n_ :five::hammer:  
@@ -1104,7 +1104,7 @@ __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
-__bequeath__ _v_ :nine::hammer; (bequeathed)  
+__bequeath__ _v_ :nine::m::hammer: (bequeathed)  
 __bequest__ _n_ :eight::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
@@ -3249,7 +3249,7 @@ __crystalline__ _adj_ _Cristalline lens._
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
 __cuckold<sup>2</sup>__ _v_ :three::hammer:  
-__cuckolded__ _adj_ :two::hammer:  
+__cuckolded__ _adj_ :three::hammer:  
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
@@ -6298,7 +6298,7 @@ __harmonize__ _v_
 __harness__ _v_ :three::hammer: _Harnessing big data._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
-__harrow__ _n_  
+__harrow__ _n_ :two::hammer: (harrows)  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
@@ -8407,7 +8407,7 @@ __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think ov
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
-__meek<sup>1</sup>__ _adj_ :six: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>1</sup>__ _adj_ :seven: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
@@ -12155,6 +12155,7 @@ __shale oil__ _n_ _Shale oil production._
 __shale<sup>1</sup>__ _adj_ :two::hammer: _The shale parking lot._ _Shale energy._  
 __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into flat pieces. _A vast field of shale rock._ :es: esquisto, pizarra  
 __shale<sup>3</sup>__ _v_  
+__shallots__ _n_  
 __shallow__  
 __sham<sup>1</sup>__ _adj_ :three: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
 __sham<sup>2</sup>__ _n_ :four::hammer: _The novelty effect isn’t a sham._  
@@ -13655,7 +13656,7 @@ __surmount__ _v_ :two::hammer: (surmounted)
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
-__surplice__ _n_  
+__surplice__ _n_ :two: A loose-fitting, white ecclesiastical gown with wide sleeves, worn over a cassock.  
 __surreptitious__  
 __surreptitiously__ _adj_ :three::hammer:  
 __surrogate__ _n_ :two::hammer:  
@@ -14455,7 +14456,7 @@ __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
 __tress__ _n_ (tresses) long lock of hair esp. the long unbound hair of a woman—usually used in plural. _Blond tresses._  
-__trestle__ _n_ :six: /ˈtrɛs(ə)l/ (trestles) Short for trestle table; an open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: caballete; bastidor  
+__trestle__ _n_ :seven: /ˈtrɛs(ə)l/ __1__ A framework in the form of a horizontal member supported at each end by a pair of splayed legs, used to carry scaffold boards, a table top, etc _A trestle table._ :es: caballete __2__ An open braced framework used to support an elevated structure such as a bridge. _He walks under the Bond Hill railroad trestle._ :es: bastidor  
 __trey__ _n_ :two: (treys) A card, die, or domino with three pips.  
 __triad__  
 __triage<sup>1</sup>__ _n_ :two: The method of deciding who receives medical treatment first, according to how seriously someone is injured.  
@@ -15611,6 +15612,7 @@ __wood pellets__
 __wood rasp__ _n_  
 __wooden-headed__ _adj_ _informal_ Stupid.  
 __woodland__ _n_  
+__woodpile__ _n_  
 __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.  
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
