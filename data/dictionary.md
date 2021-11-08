@@ -145,7 +145,7 @@ __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions belo
 __ad__ _n informal_ Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
-__ad-lib<sup>3</sup>__ _n_ :five: (ad lib, ad libs) Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. Words, music, or actions uttered, performed, or carried out extemporaneously. _That was a Tom Hanks ad-lib._ _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
+__ad-lib<sup>3</sup>__ _n_ :six: (ad lib, ad libs) [:scroll: _Ad-lib_ is a shortening of Latin _ad libitum_, which means “in accordance with one’s wishes.” In the past, ad libitum was used to refer to any activity where the performer was free to do whatever they liked for as long as desired, whether the activity be drawing, working math problems, talking, playing music, or acting. Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. Words, music, or actions uttered, performed, or carried out extemporaneously.] _That was a Tom Hanks ad-lib._ _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ _n_ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
@@ -1110,7 +1110,7 @@ __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angril
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
 __bereavement__ _n_ :eight: State of sorrow over the death or departure of a loved one. _Syn_ mourning  
-__bereft<sup>1</sup>__ _adj_ :five::hammer:  
+__bereft<sup>1</sup>__ _adj_ :six: Suffering the death of a loved one; bereaved. _Syn_ grief-stricken, grieving, mourning _Mourn not for those who have died, but for those who are bereft._  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
 __berm__ _n_ :two::hammer:  
@@ -1925,7 +1925,7 @@ __cadence__ _n_ :two::hammer:
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
-__caducous__ _adj_ Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
+__caducous__ _adj_ :two: /kuh-DOO/DYOO-kuhs/ Tending to fall easily or before the usual time. Dropping off or shedding at an early stage of development, as the gills of most amphibians or the sepals or stipules of certain plants.  
 __cafeteria__ _n_ :mega: /kăf′ĭ-tîr′ē-ə/  
 __caffè Americano__ _n_ (often just an Americano) A shot of espresso with two shots of water. It’s popularly said that it was named for the American GIs in Europe during World War II, who couldn’t handle the intensity of Italian espresso. They’d dilute it with water to make the taste more palatable.  
 __caffè macchiato__ _n_ The name macchiato comes from the Italian word _macchiare_, which means “to stain or spot.” So essentially, a caffè macchiato is a stained (or spotted) coffee.  
@@ -1974,7 +1974,7 @@ __calm__ _adj, n, v_ :mute:[ca~~l~~m]
 __caltrops__ _n_  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
-__camaraderie__  
+__camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
 __Cambodia__  
 __cameleer__  
 __camellia__  
@@ -3841,7 +3841,7 @@ __disparaging__ _adj_ :two: Insulting, ridiculing.
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :six::hammer: (dispelled)  
+__dispel__ _v_ :seven::hammer: (dispelled)  
 __dispensed__ _v_  
 __dispenser__  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
@@ -3933,6 +3933,7 @@ __doff__ _v_ :four: (doffing; vs don _v_) __1__ To take off; remove: _doff one�
 __dog days__  
 __dog sledding__  
 __dog tag__  
+__dog whistle__ _adj_  
 __dog__ _v_ :five::hammer::astonished: _Injury concerns still dog Clowney._ _The demons dogging Mardy Fish won’t be any quieter as he resumes his career in the Paribas Open._  
 __dog-ear__  
 __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.  
@@ -5126,7 +5127,7 @@ __flats__ _n_
 __flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
-__flaunt__ _v_ :three::hammer: (flaunting)  
+__flaunt__ _v_ :four::hammer: (flaunting)  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
@@ -9135,7 +9136,7 @@ __nucleotide__ _n_
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
-__nullify__ _v_ :four::hammer: (nullified)  
+__nullify__ _v_ :five: (nullified) Declare invalid. _Syn_ annul, invalidate, void, quash, avoid _He used his broad executive powers to nullify decisions by local government._  
 __numb__ _adj_ :four::mute:[num~~b~~]:hammer:  
 __number<sup>1</sup>__ _n_ __6__ An indefinite quantity of units or individuals. _A number of people complained._ _Winning the first playoff game in the organization in a number of years was really special to all of us._  
 __number<sup>2</sup>__ _v_ :dart::two::hammer: (numbered) _I hope those days are numbered._ _His days are numbered as Vizier._  
@@ -12925,6 +12926,7 @@ __spaceling__ _v_
 __spackle__ _n_ :two::hammer:  
 __spade-bearded__  
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
+__span__ _v_  
 __spandex__ _n_  
 __spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target._  
 __spangle<sup>1</sup>__ _n_ __1__ A small thin piece of metal or other shiny material used as a decoration, esp on clothes; sequin. __2__ Any glittering or shiny spot or object.  
