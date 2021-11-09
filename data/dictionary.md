@@ -918,6 +918,7 @@ __bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._
 __barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _n_ _Out of the barn._  
+__barnacle__ _n_ __2__ A person or thing that is difficult to get rid of.  
 __barnstorm__ _v_ :two: To tour rural districts making speeches in a political campaign.  
 __barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baron__  
@@ -3442,7 +3443,7 @@ __debauchery__ _n_ :four::hammer:
 __debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_  
-__debriefing__ _n_ :six::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
+__debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early for debriefing._ _A three-day debriefing session._  
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
@@ -5046,6 +5047,7 @@ __firewall__ _v_ :camera: _The pilot firewalled the throttles._
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
+__first leg__ _n_  
 __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __firstborn__  
@@ -6223,6 +6225,7 @@ __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face l
 __hamstring__ _n_ :three::hammer:  
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
+__handcuff__ _v_ _It is handcuffed by lack of funds._  
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
@@ -9228,6 +9231,7 @@ __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._
 __odious__ _adj_ /OH-dee-us/ :two::hammer:  
 __odium__ _n_  
 __odometer__ _n_ :two::hammer:  
+__odyssey__ _n_ :pencil2:  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
 __of__ _prep_ _The gas smells of roggen eggs._  
@@ -13366,7 +13370,7 @@ __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into whic
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
 __stockpile<sup>1</sup>__ _n_ :three: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
-__stockpile<sup>2</sup>__ _v_ :two: To collect large amounts of things that may be needed.  
+__stockpile<sup>2</sup>__ _v_ :three: To collect large amounts of things that may be needed.  
 __stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
 __stodgy__ _adj_ _The mainstream may sound too stodgy._  
@@ -14843,7 +14847,7 @@ __unsung__
 __unswerving__ _adj_ :two::hammer: _Unswerving confidence._ _Unswerving attention._  
 __unswervingly__  
 __unsympathetic__  
-__untapped__ _adj_ __1__ Not having been tapped: an untapped cask of wine. __2__ Not utilized: _untapped resources._ _Untapped talent._  
+__untapped__ _adj_ :two: __1__ Not having been tapped: an untapped cask of wine. __2__ Not utilized: _untapped resources._ _Untapped talent._  
 __untenable__ _adj_ :three: __1__ Not able to be defended. __2__ Not able to be occupied.  
 __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._  
 __unthinkable__ _adj_ _The unthinkable has befallen President._  
@@ -14910,7 +14914,7 @@ __upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of 
 __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :three: __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :four: __4__ The act of accepting or taking up something on offer or available.  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :two: The time during which a device, such as a computer, is functioning or available for use.  
@@ -15298,7 +15302,7 @@ __WD-40__ _n_ Trademark name of a water-displacing spray manufactured by the WD-
 __weakling__ _adj, n_ One that is weak in body, character, or mind.  
 __weakness__ _n_ (weaknesses) _What are your personal strengths and weaknesses?_  
 __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._  
-__wealth__ _n_ :four::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._  
+__wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
 __weaponize__ _v_ :five::hammer:  
