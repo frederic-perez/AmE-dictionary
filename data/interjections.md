@@ -34,6 +34,7 @@ __holy moley__ An exclamation of surprise, shock, or astonishment.
 __Holy Moses__ :two: Used as an exclamation of surprise or amazement.  
 __hosanna__ _n_  
 __hurrah__ _n_ A cheer of joy, victory, etc.  
+__jeepers__  
 __jeez__ Used to express surprise or annoyance.  
 __kaboom__  
 __lordy__ _chiefly US and Canadian_ An exclamation of surprise or dismay.  

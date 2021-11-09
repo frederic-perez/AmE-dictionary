@@ -559,7 +559,7 @@ __arbor__ _n_ :two::hammer: _An arbor of live oaks._
 __arboretum__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
-__arch__ _adj_ _Her character is arch and fake._  
+__arch__ _adj_ :two::hammer: _Her character is arch and fake._  
 __archaea__ _n_  
 __arched__ _adj_ _Arched doorway._ :camera:  
 __archenemy__ _n_ :pencil2:  
@@ -704,6 +704,8 @@ __Attn__
 __Attorney General__ _n_ :astonished: (Attorneys General) _He discussed with two successive Attorneys General._  
 __attract__ _v_  
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
+__attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
+__attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
 __attrition__ _n_ :six::hammer:  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
@@ -8211,7 +8213,7 @@ __makeshift__ _adj_ :eight: Being a crude and temporary expedient.
 __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
 __maki__ _n_  
 __maladaptive__ _adj_ Showing faulty adaptation.  
-__malady__  
+__malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :four::dart: 1. Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
@@ -10208,7 +10210,7 @@ __plenty of (something)__
 __plethora__ _n_ :six: Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
 __pliable__ _adj_ _The pliable GOP._  
-__pliant__ _adj_ :three::hammer: _A pliant young waitress._  
+__pliant__ _adj_ :four: Easily bent or flexed; pliable. _Syn_ bendable _A pliant young waitress._  
 __plied__ _v_ :three::hammer: _She had been plied with opiates and wine._ _He plied Tom with questions._  
 __pliers__ _n pl_ (plurale tantum)  
 __plies__ _v_  
@@ -10578,6 +10580,7 @@ __proboscis__ _n_
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
+__procrastinate__ _v_ /pruh-KRASS-tuh-nayt/  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctologist__ _n_ :two::hammer:  
 __proctor<sup>1</sup>__ _n_ __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
@@ -11157,6 +11160,7 @@ __redbones__ _n_
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
 __redemption__ _n_ :two::hammer: (redemptions)  
+__redline__ _v_  
 __redo__ _v_ :two::hammer:  
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
 __redos__  
@@ -13790,6 +13794,7 @@ __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
+__tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
 __taciturn__  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
@@ -14543,6 +14548,7 @@ __truism__ _n_ :two::hammer:
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
 __trumpet__ _v_  
+__truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
 __truss__ _n_ :two::hammer:  
