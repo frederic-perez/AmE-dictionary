@@ -765,7 +765,7 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
-__azure__  
+__azure__ _n_ :two::hammer:  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
@@ -2447,6 +2447,7 @@ __cineplex__ _n_ _Sequels ruled the cineplex this weekend._
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
+__circlet__ _n_ _A circlet of red-hot iron._  
 __circuit__ _n_ :mute:[circ~~u~~it]  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
@@ -3025,6 +3026,7 @@ __cotton swabs__
 __couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __couch-ridden__  
+__couchant__ _adj_ _Heraldry_ Lying down with the head raised. _Pennants displaying couchant lions._  
 __couchsurfing__ _n_ :astonished: The practice of sleeping overnight in the houses of friends or fellow members of a social network, esp as an alternative to staying in hotels, hostels, etc.  
 __cougar__ _n_ An older woman seeking a sexual relationship with a younger man.  
 __cough up__ _v_  
@@ -6089,7 +6091,7 @@ __guide__ _n, v_ :mute:[g~~u~~ide]
 __guidepost__ _n_  
 __guidette__ _n_ (guidettes) _slang, US, ethnic slur_ [:scroll: guido + _-ette_] Italian-American female; an American female of Italian descent. _Two guidettes._  
 __guild__ _n_ :mega: _The brass guild._  
-__guile__ _n_ :four: __1__ Treacherous cunning; skillful deceit. __2__ A trick or stratagem.  
+__guile__ _n_ :five: __1__ Treacherous cunning; skillful deceit. _Navarre preferred guile and treachery._ __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillotine__ _n_ :mega:  
 __guilt__ _n_ :mute:[g~~u~~ilt]  
@@ -7265,6 +7267,8 @@ __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool
 __jackhammer__  
 __jackpot__  
 __jackrabbit__ _n_  
+__Jacquerie__ _n_  
+__Jacques__ _n_ :four::hammer: _The onslaught of the Jacques._  
 __jade__ _v_ :nine: (jaded) To exhaust or make exhausted from work or use. _Easily jaded eyes._ _Jaded gamer._ _A jaded job seeker._  
 __jaded__ _adj_ :four: No longer enthusiastic or excited about things, especially because you have been disappointed by your many experiences of them.  
 __Jag__ _n_ _informal_ A Jaguar car: often understood as a symbol of affluence.  
@@ -8335,7 +8339,8 @@ __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; us
 __masonry__  
 __masquerade__ _n_  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  
-__massacre__ _n_ _There were public roundups and massacres._  
+__massacre<sup>1</sup>__ _n_ _There were public roundups and massacres._  
+__massacre<sup>2</sup>__ _v_  
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
 __masseuse__ _n_ :two: A woman who gives massages professionally. :es: masajista  
 __massive__  
@@ -13570,7 +13575,7 @@ __succint__
 __succor__ _n_ :three::hammer:  
 __succotash__ _n_ (Cookery) US and Canadian a mixture of cooked sweet corn kernels and lima beans, served as a vegetable.  
 __succubus__ _n_ :three::hammer:  
-__succumb__ _v_ :four::pencil2::mute:[succum~~b~~]:hammer:  
+__succumb__ _v_ :six::pencil2::mute:[succum~~b~~]:hammer:  
 __such-and-such__  
 __sucker__ _n_ :five::hammer: (of a plant) _He is a sucker for anything cute._  
 __sucker-punch__ _v_ _slang_ _Martin sucker-punched Zimmerman and then pounded his head against a concrete sidewalk._  
@@ -14049,6 +14054,7 @@ __there is no denying__
 __thereabout__  
 __thereafter__ _adv_ _Texas took the lead on Javan Felix’s two free throws shortly thereafter._  
 __thereof__ _adv_ :two::hammer:  
+__thereto__ _adv_ _Pushed thereto by the nobles of his party._  
 __thermistor__ _n_ :two::hammer:  
 __thermos__ _n_ :two: (thermoses) A vacuum bottle or similar insulated container, used for keeping liquids hot or cold. Also called _thermos bottle_. _A thermos._  
 __thespian<sup>1</sup>__ _adj_ :two::hammer:  
@@ -14443,7 +14449,7 @@ __travesty__ _n_ :four::hammer: (travesties)
 __trawled__ _v_ :two::hammer:  
 __trawler__  
 __treacherous__ _adj_ :three::hammer:  
-__treachery__ _n_ :four::hammer:  
+__treachery__ _n_ :five::hammer: _Navarre preferred guile and treachery._  
 __treacle__  
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __treading__  
