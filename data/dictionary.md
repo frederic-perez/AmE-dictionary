@@ -448,7 +448,7 @@ __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
 __annihilate__ _v_  
-__annihilation__ _n_ :pencil2::mega:  
+__annihilation__ _n_ :two::pencil2::mega:  
 __anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annuity__ _n_ :four::hammer: (annuities)  
@@ -1194,7 +1194,7 @@ __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m no
 __bill<sup>2</sup>__ _v_  
 __billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
-__billhook__ _n_ An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
+__billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ _Now, the women’s contest will take second billing._  
 __billow<sup>1</sup>__ _n_ :three: __1__ A large wave or swell of water. __2__ A great swell, surge, or undulating mass, as of smoke or sound.  
 __billow<sup>2</sup>__ _v_ :two::hammer:  
@@ -6322,7 +6322,7 @@ __hatch<sup>1</sup>__ _n_ _Hatch of insects._
 __hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
 __hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
-__hatchet__  
+__hatchet__ _n_ :two::hammer:  
 __hatred__ _n_  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
@@ -6882,6 +6882,7 @@ __iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The 
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
+__ignoble__ _adj_  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_  
 __IIRC__ _chat_ If I recall correctly.  
@@ -7204,7 +7205,7 @@ __invective__ _n_ :five: Abusive or insulting language.
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
-__inveterate__ _adj_ :four: Always doing a particular thing, especially something bad, and unlikely to change.  
+__inveterate__ _adj_ :five: Always doing a particular thing, especially something bad, and unlikely to change. _Two inveterate peculators._  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
 __invoke__  
@@ -9324,7 +9325,7 @@ __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent p
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :eight::hammer: _Early onset dementia._  
-__onslaught__ _n_ :three: A violent attack.  
+__onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __oofs__  
 __oompah__ _n_ :two::hammer: _The house oompah band._  
@@ -9802,6 +9803,7 @@ __peck<sup>2</sup>__ _v_ _Pecking away at the piano keys._
 __peckerwood__  
 __pecking order__  
 __peculation__ _n_ _Jean was imprisoned for peculation._  
+__peculator__ _n_ _Two inveterate peculators._  
 __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_  
@@ -11973,7 +11975,7 @@ __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagre
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
 __scuttlebutt__ _n_ :two: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
-__scythe<sup>1</sup>__ _n_ :three::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
+__scythe<sup>1</sup>__ _n_ :four::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
@@ -12699,7 +12701,7 @@ __smelting__ _n_ :two: The process of extracting a metal from an ore by heating.
 __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smite__ _v_ :three::hammer: _God will smite me._  
+__smite__ _v_ :four::hammer: _God will smite me._  
 __smithereens__ _n informal_ :three: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
@@ -14171,7 +14173,7 @@ __tiki torches__ _n_ :camera:
 __tiki<sup>1</sup>__ _adj_ :two::hammer: _Tiki sensibility._  
 __tiki<sup>2</sup>__ _n_  
 __tilapia__  
-__tiller__  
+__tiller__ _n_ :two: One that tills land: _a tiller of soil._  
 __tiltyard__  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
