@@ -46,6 +46,7 @@ __FDR__ Franklin Delano Roosevelt
 __FFP__ Filtering face piece (a filtering half mask).  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __FT__ _Sports_ __1__ Full-time. __2__ Free throw.  
+__FTW__ _abbr_ _slang_ For the win —used especially to express approval or support. _Night out with the girls? Thigh high boots FTW!_  
 __GA__ Gamblers Anonymous.  
 __GDP__ Gross domestic product.  
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  

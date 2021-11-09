@@ -126,7 +126,7 @@ __an eye for an eye, a tooth for a tooth__ Compensation or retribution that is (
 __an honest mistake__ A mistake made unintentionally or unknowingly and without the intention of causing harm; a mistake that anyone might have made in similar circumstances.  
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
-__anything but__ By no means, not at all. _It is anything but sweet._  
+__anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :two::hammer:  
 __apple of (one’s) eye__  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
@@ -230,6 +230,7 @@ __be left out in the cold__ :two: To be ignored, forgotten and neglected.
 __be left to (one’s) own devices__ To be left unsupervised or uncontrolled; to be allowed to do as one pleases. _My job is really great: I know what I need to work on and am just left to my own devices._  
 __be like herding cats__ To be very unwieldy or unmanageable; to be nearly impossible to organize. Usually said of a group of people.  
 __be like oil and water__ To be incompatible or unable to interact or coexist easily, as due to fundamental differences in personality, opinions, beliefs, etc. _The more I pay attention to the news, the more it seems that politics and common sense are as compatible as oil and water._  
+__be little love lost between (two people)__ Of two people, to dislike one another very much. _There’s little love lost between Sarah and my roommate, so it’ll be a little awkward now that Sarah and I are dating._  
 __be looking for trouble__ To be doing something or acting in a manner that will very likely result in trouble, difficulty, or danger. _I’d keep your mouth shut if you want to keep your job—arguing with the boss like that is just looking for trouble!_  
 __be losing it__ _idiom_ To start becoming crazy, insane, or mentally unstable.  
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _I can’t believe you let us down at the last minute. I thought you were made of sterner stuff than that!_ _Did she cry? I thought she was made of sterner stuff._  
@@ -859,6 +860,7 @@ __have it easy__ To have or be in a particularly comfortable or relaxed position
 __have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
 __have its/(one’s) day__ To be at the height of or experience success or prosperity.  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
+__have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ To be very old and close to death.  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
@@ -1378,6 +1380,7 @@ __narrow down__ To pare the number of people or things on a list down to a more 
 __narrow escape__ :two::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  
 __need (something) (about) as much as (one) needs a hole in the head__ To have absolutely no need or use for something. _I’m perfectly happy having a cell phone that just makes phone calls—I need a fancy new smartphone about as much as I need a hole in the head._  
+__never a rose without a/the prick__ _proverb_ There is rarely a good or positive thing, event, or circumstance that is not accompanied by something negative or unpleasant (i.e., just as a rose has thorns). _A: “I can’t believe the amount of taxes I have to pay on my lottery winnings!” B: “Never a rose without the prick, eh?”_  
 __new car smell__ The scent associated with the inside of a brand new vehicle, caused by the plastics and other materials inside it. _Boy, I love that new car smell, don’t you?_  
 __new kid on the block__ Someone who is new in a place or organization.  
 __new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
@@ -1396,10 +1399,13 @@ __no way, José__
 __no worries__ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
 __not (one’s) first rodeo__ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
+__not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I hope all our efforts to help your career have not been lost on you, John._  
 __not by any means__ Not in any way; not at all; absolutely not.  
 __not have a hope in hell (of doing something)__ To not have any chance at all of doing or achieving something.  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
+__not in a million years__ Not at any point; under absolutely no circumstances. _Not in a million years did I think that I would actually win the lottery!_  
+__not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
@@ -1470,6 +1476,7 @@ __one’s other half__ :two::hammer:
 __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
+__open sesame__  
 __other than (something)__ :three::hammer: _Other than that, blah blah blah._  
 __out (of) the (starting) gate__ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
 __out of date__  
@@ -1480,7 +1487,7 @@ __out of thin air__ :two: From nothing, as of something that has suddenly materi
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
-__over (one’s) head__ :two: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
+__over (one’s) head__ :three: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
 __over the course of__ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __over the hill__ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
 __over the top__  
