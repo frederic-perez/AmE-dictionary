@@ -122,6 +122,7 @@ __SL,UT__ Abbreviation for Salt Lake City, Utah.
 __SMH__ Shaking my head.  
 __STI__ :four: Sexually transmitted infection.  
 __T-storm__ Thunderstorm.  
+__TBH__ To be honest.  
 __TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
 __TMI__ Too much information.  

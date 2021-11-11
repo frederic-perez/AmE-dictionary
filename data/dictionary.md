@@ -738,6 +738,7 @@ __autocrat__ _adj_ :two::hammer:
 __autocratic__ _adj_ :three::hammer:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
 __automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
+__autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a pseudonym. __2__ A work published under the real name of the author.  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
@@ -4685,7 +4686,7 @@ __exiguous__ _adj_ :two::hammer:
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __exonerate__ _v_ :five: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
-__exoteric__ _adj_ :two: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
+__exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
@@ -5568,7 +5569,7 @@ __Gabor__ _n_ :mega:
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
-__gaffe__ _n_ :five::hammer: (gaffes)  
+__gaffe__ _n_ :six: A clumsy social error; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
@@ -6428,7 +6429,9 @@ __heckler__ _n_ :four::hammer:
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
 __hectic__ _adj_ :nine::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
-__hector__ _v_ :two::hammer: (hectored) _Chávez hectored the United States often._  
+__hector<sup>1</sup>__ _n_ A bully.  
+__hector<sup>2</sup>__ _v tr_ :three: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
+__hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
 __hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)  
@@ -9341,6 +9344,7 @@ __only problem is__
 __onset__ _n_ :eight::hammer: _Early onset dementia._  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
+__Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
 __oofs__  
 __oompah__ _n_ :two::hammer: _The house oompah band._  
 __oomph__ _n_ :three: __1__ Enthusiasm, vigour, or energy. __2__ Sex appeal.  
@@ -12550,7 +12554,7 @@ __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for 
 __slackline__ _n_ :two::hammer:  
 __slag__  
 __slain__ _n_  
-__slake__ _v_ :three: (slaked) To make someone happy by giving them what they want or need.  
+__slake__ _v_ :four: (slaked) To make someone happy by giving them what they want or need. To satisfy (a craving); quench. _Syn_ allay, assuage _My first act on coming to this water was, of course, to slake my thirst._  
 __slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :eight::hammer: (slandering) _Syn_ traduce  
@@ -13276,7 +13280,7 @@ __stay__ _n_ __20__ _(Law)_ The suspension of a judicial proceeding, etc. _Grant
 __stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :dart::nine: __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
