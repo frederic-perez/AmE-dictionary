@@ -395,6 +395,7 @@ __ammeter__ _n_ :astonished: An instrument for measuring electric currents in am
 __ammo__  
 __ammonia__ _n_  
 __amnesty player__  
+__amnesty__ _n_ :pencil2:  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
@@ -875,6 +876,7 @@ __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead b
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
 __bandit__ _n_ :two::hammer:  
+__banditry__ _n_ The activities of bandits.  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
@@ -1937,6 +1939,7 @@ __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite an
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
+__caitiff__ _adj_ _Caitiff nobles._  
 __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
@@ -2857,7 +2860,7 @@ __conk__ _v_ (conked) _Something conked me._
 __conman__  
 __conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
 __connective tissue__ _n_  
-__connivance__ _n_ :two: Agreement on a secret plot.  
+__connivance__ _n_ :three: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
@@ -10681,7 +10684,7 @@ __provender__
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
 __proviso__ _n_  
-__provost__ _n_ :six: A provost is an administrator at a college or university. The provost is very important to the school.  
+__provost__ _n_ :eight: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. _It was no lack of prowess that defeated the French and allied knights._ __2__ Extraordinary ability. _His prowess on the football field._  
 __prowled__ _v_  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
@@ -11164,6 +11167,7 @@ __red rover__ _n_
 __red tape__ _n_ :dart::four: Excessive formality and routine required before official action can be taken. _It would add red tape and increasing processing time._ :es: trámites, papeleo  
 __red-blooded__ _adj_ Endowed with or exhibiting great bodily or mental health.  
 __red-eye__ _n_ _Catch the red-eye._  
+__red-hot__ _adj_ _A circlet of red-hot iron._  
 __red-letter day__  
 __redbones__ _n_  
 __redeal__ _v_ To deal playing cards again.  
@@ -11174,7 +11178,7 @@ __redo__ _v_ :two::hammer:
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ _n_ :two::hammer: :es: reducto  
-__redoubtable__ _adj_ :four::astonished: That is to be feared; formidable.  
+__redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ :seven: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
@@ -11457,7 +11461,8 @@ __rimless__ _adj_ _Rimless glasses._
 __rind__ _n_ :two::hammer: _The color of rind._  
 __ring finger__ _n_ :two: The third finger, esp of the left hand, on which a wedding ring is traditionally worn.  
 __ring in__ _v_ _Do you want to ring in the new year with Babble-on?_  
-__ring__ _n_ _A narcotics ring._  
+__ring<sup>1</sup>__ _n_ _A narcotics ring._  
+__ring<sup>2</sup>__ _v_ _He was ringed by enemies._  
 __ringed__ _adj_ __1__ Wearing or marked with a ring or rings. _A man whose ringed nose marked him a slave brought wet cloths for theis hands and faces._ __2__ Encircled or surrounded by bands or rings. __3__ (Zoology) Formed from segmented rings; annulate.  
 __ringer__ _n_ :three: __1__ A person who is almost identical to another. _Syn_ clone _I have been told I am a ringer for Bono, but the similarities end the moment I pick up a microphone._ __2__ A contestant, esp a horse, entered in a competition under false representations of identity, record, or ability. _Someone might be throwing in a ringer._  
 __ringleader__ _n_ :two::hammer:  
@@ -14853,6 +14858,7 @@ __unthawed__ _adj_ Not thawed; still frozen. _Unthawed croissant._
 __unthinkable__ _adj_ _The unthinkable has befallen President._  
 __unticked__ _adj_ :dart: Not ticked; unchecked. _Checking an unticked box on my to-do list._  
 __untidy__  
+__untilled__ _adj_ _Untilled fields._  
 __untoward__ _adj_ :three: __1__ Improper; unseemly: _untoward behavior._ __2__ Unfavorable or adverse: _an untoward incident._  
 __untuck__ _v_  
 __unwarranted__  
