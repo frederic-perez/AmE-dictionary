@@ -4304,6 +4304,7 @@ __ebb and floor__
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
 __ebb<sup>1</sup>__ _n_ _A noticeable ebb of despair._  
 __ebb<sup>2</sup>__ _v_  
+__ebullience__ _n_  
 __ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
@@ -6897,7 +6898,7 @@ __ignition interlocks__
 __IgNobel prize__ _n_  
 __ignoble__ _adj_  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
-__ignominy__ _n_  
+__ignominy__ _n_ :two::hammer:  
 __IIRC__ _chat_ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
 __ill__  
@@ -7056,7 +7057,7 @@ __indite__ _v_
 __indoctrinate__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
-__indomitable__ _adj_ :five: Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
+__indomitable__ _adj_ :six: Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
 __indubitably__ _adv_ Without doubt; certainly.  
 __inducements__  
 __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _Syn_ seat, invest _There was a ceremony to induct the president of the academy._  
@@ -7199,6 +7200,7 @@ __intertwined__
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimation__ _n_ Making known indirectly.  
+__intolerable__ _adj_  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
 __intramural__  
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
@@ -7636,7 +7638,7 @@ __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _S
 __lackadaisical__ _adj_ :four: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
-__laconic__ _adj_ :three: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
+__laconic__ _adj_ :four: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
 __lacquered__ _v_  
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
@@ -9024,7 +9026,7 @@ __nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. 
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
-__nigh__ _adj_ :two: Near in space or time.  
+__nigh__ _adj, adv, prep_ :three: An archaic, poetic, or dialect word for near. Near in space or time.  
 __night sweats__ _n_ (nocturnal hyperhidrosis)  
 __night<sup>1</sup>__ _n_ :mute:[ni~~gh~~t]  
 __night<sup>2</sup>__ _adj_ :mute:[ni~~gh~~t]  
@@ -10834,6 +10836,7 @@ __pylon__ _n_
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
 __pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._  
+__Pyrenees__ _n_ :pencil2:  
 __pyrheliometer__ _n_ :two::hammer:  
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
@@ -13198,7 +13201,7 @@ __stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some fri
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk<sup>1</sup>__ _n_  
-__stalk<sup>2</sup>__ _v_ :two::hammer: (stalked)  
+__stalk<sup>2</sup>__ _v_ :three::hammer: (stalked) _Scarcity was stalking France._  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
 __stallion__  
 __stalward__  
@@ -14494,7 +14497,7 @@ __triathlon__ _n_ [:scroll: The Greek word âthlon means “contest.” The begi
 __tribal__  
 __tribble__ _n_  
 __Tribeca__  
-__tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
+__tribulation__ _n_ :nine::m: __1__ Great affliction, trial, or distress; suffering: _a time of great tribulation._ Something hard to bear physically or emotionally. _Syn_ affliction, burden, cross, trial _The realm could not endure the great tribulation and poverty._ __2__ An experience that tests one’s endurance, patience, or faith. A state of pain or anguish that tests one’s resiliency and character. _Syn_ crucible, ordeal, trial, visitation  
 __tributary__ _n_ :two: A stream or river that flows into a larger river. _The Minnesota River is a tributary of the Mississippi River._ _Syn_ affluent  
 __tribute__ _n_ _Her fellow tribute and her hunting buddy._  
 __trick of the light__  
@@ -14528,7 +14531,7 @@ __trireme__ _n_
 __triskelion__ _n_ (triskele)  
 __Tristan and Isolde__ _n_ (Tristan and Isolde) A chivalric romance retold in numerous variations since the 12th century.  
 __trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning “wear out.” An old-fashioned or outdated definition of the word is “frayed or worn out by use,” and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
-__triumvirate__ _n_ :two::hammer:  
+__triumvirate__ _n_ :three::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
 __trochanter__ _n_ :two::hammer: _Greater trochanter._  
 __trodden down__ _v_  
