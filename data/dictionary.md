@@ -1006,7 +1006,7 @@ __beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; 
 __becquerels__  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
-__bedevil__ _v_ :five: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
+__bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
 __bedlam__ _n_ :three: Scene of loud confusion.  
 __Bedouin__  
@@ -2005,6 +2005,7 @@ __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; 
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
+__candy corn__ _n_  
 __cane brakes__  
 __canebrake__ _n_  
 __canister__ _n_ :five::hammer: _Organic coffee canisters._  
@@ -4987,6 +4988,7 @@ __fiefdom__ _n_ :two::hammer:
 __field day__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
+__fiend__ _n_  
 __fiendish__  
 __fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
@@ -7273,7 +7275,7 @@ __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).
 __jabroni__ _n_  
 __jack it up__ _v_  
 __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the slang went._  
-__jack-o’-lantern__  
+__jack-o’-lantern__ _n_ :two::hammer:  
 __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
 __jackhammer__  
 __jackpot__  
@@ -7806,7 +7808,7 @@ __leeway__ _n_ :nine: Leeway is a term used to describe the amount of freedom av
 __lefty buckets__  
 __leg warmer__ _n_  
 __legal tack__  
-__legerdemain__ _n_ :five: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
+__legerdemain__ _n_ :six: __1__ Sleight of hand. __2__ A display of skill and adroitness.  
 __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gracefulness of a person or animal that is quick and nimble. _Syn_ agility, lightsomeness _Common house cats have an extraordinary legerity that enables them to almost always land on their feet._  
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
@@ -8348,7 +8350,7 @@ __mascot__ _n_ :two::hammer: (vs pet)
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._  
 __masonry__  
-__masquerade__ _n_  
+__masquerade__ _n_ :two::hammer:  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  
 __massacre<sup>1</sup>__ _n_ _There were public roundups and massacres._  
 __massacre<sup>2</sup>__ _v_  
@@ -8666,6 +8668,7 @@ __mogrify__ _v_
 __mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _Feeling brave, we steered down an easy tree run, then headed to the moguls._  
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
+__mojo__ _n_  
 __molasses__ _n_ :five::hammer: _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
@@ -8700,7 +8703,7 @@ __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
 __monstera__ _n_ :mega: /ˈmɑnstərə/  
-__monstrosity__ _n_ :pencil2::two::hammer:  
+__monstrosity__ _n_ :pencil2::three::hammer:  
 __montero__ _n_ A hunter’s cap with side flaps.  
 __monumental__ _adj_  
 __moocher__ _n_ :dart: (moochers) One who exploits the generosity of others. _A person who mooches off others._  
@@ -9603,6 +9606,7 @@ __pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or movin
 __pallholder__ _n_  
 __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
 __palliative__ _adj_ _Palliative care._  
+__pallid__ _adj_ Having an abnormally pale or wan complexion. _Syn_ pasty, colorless, ashen  
 __pallor__ _n_ :two::hammer:  
 __palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]  
 __palm<sup>2</sup>__ _v_ :mega::mute:[pa~~l~~m]  
@@ -15375,6 +15379,7 @@ __welterweight__
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._ _She had to wend her way through the crowd._  
+__werewolf__ _n_  
 __wet a line__  
 __wet__ _v_ (wetted) _A wetted wick._  
 __wet-nurse__ _n_ A woman hired to suckle a child of someone else.  
