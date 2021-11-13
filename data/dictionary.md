@@ -2643,7 +2643,7 @@ __coffee-table book__
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
-__cogent__ _adj_ :three: Appealing to the intellect or powers of reasoning; convincing: _a cogent argument._  
+__cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cognate__  
 __cognizant__ _adj_ :two: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
@@ -3570,7 +3570,7 @@ __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychon
 __deluxe__ _adj_ _Deluxe album._  
 __delve__ _v_ :two::dart::hammer:  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
-__demagogue__ _n_ A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser  
+__demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
 __demagogy__  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demeanor__ _n_  
@@ -3625,7 +3625,7 @@ __dervish__ _n_
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
 __descent__ _n_ :mute:[des~~c~~ent]  
-__descry__ _v_ _literary_ Catch sight of. _She descried two figures._ :es: divisar  
+__descry__ _v_ :two: _literary_ To catch sight of (something difficult to discern). _Syn_ spot, spy _From the top of the hill I descried a solitary rider._ _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :four::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desensitize__ _v_  
@@ -4401,7 +4401,7 @@ __eligibility__
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
 __elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
-__eloquent__  
+__eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :two::hammer:  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
@@ -4767,7 +4767,7 @@ __face value__ _n_ :three::hammer:
 __face-lift__  
 __facetious__ _adj_ :four::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
-__facile__ _adj_ :two::hammer: _She’s an extremely facile actress._  
+__facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
 __facsimile<sup>1</sup>__ _n_ :four::hammer: _The lander had two facsimile cameras._  
 __facsimile<sup>2</sup>__ _adj_  
@@ -5254,7 +5254,7 @@ __focal fibrosis__
 __focus__ _n_ :mega:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
-__foible__ _n_ :five: (foibles) A behavioral attribute that is distinctive and peculiar to an individual. :es: manía  
+__foible__ _n_ :six: A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
 __foil<sup>1</sup>__ _n_ :three::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
@@ -8371,6 +8371,7 @@ __matchup__ _n_ :two::hammer: (matchups)
 __materfamilias__ _n_ A female head of a family or tribe. _Syn_ matriarch _As materfamilias, my grandmother calls the shots on holidays like Thanksgiving, and no one dares question her._  
 __materiel__ _n_ Equipment and supplies of a military force.  
 __maternity leave__  
+__materteral__ _adj_ /muh-TUHR-tuhr-uhl/ [:scroll: From Latin matertera (maternal aunt), from mater- (mother).] Characteristic of, or in the manner of, an aunt. This word is the feminine counterpart of the word avuncular (like an uncle).  
 __matey__  
 __matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
 __matriarch__ _n_ :two::hammer:  
@@ -9988,6 +9989,7 @@ __pew__ _n_ _Church pews._
 __pewter__  
 __phagocytosis__ _n_ Process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection.  
 __phalanx__ _n_ :two::hammer:  
+__phantasmagoric__ _adj_  
 __Pharaoh__  
 __pharmaceutical__ _adj_ :two::dart::mega: /ˌfɑr məˈsu tɪ kəl/ /fär′mə-so͞o′tĭ-kəl/  
 __phase out__  
@@ -14309,6 +14311,7 @@ __Tokyoites__
 __tolerate__ _v_  
 __toll<sup>1</sup>__ _n_  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
+__Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomb__ _n_ :mute:[tom~~b~~]  
 __tomboy__  
@@ -15506,7 +15509,7 @@ __whooping cough__
 __whoopsie__ _n_ :dart::three: __1__ An embarrassing mistake. __2__ A piece of excrement, esp one left by a pet.  
 __whoosh<sup>1</sup>__ _n_ :two::hammer: _A whoosh of air._ _He could hear the whoosh of cars speeding past on a expressway._  
 __whoosh<sup>2</sup>__ _v_ (whooshed)  
-__whorl__ _n_ :two::hammer: (worls)  
+__whorl__ _n_ :three: (whorls) A form that coils or spirals; a curl or swirl. _Syn_ curlicue, gyre, ringlet, roll  
 __why on earth__  
 __Wi-Fi__  
 __wicca__ _n_ (Wicca) Witchcraft, esp. benevolent, nature-oriented practices derived from pre-Christian religions.  
