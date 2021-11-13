@@ -2,6 +2,7 @@ __(a little/bit) rough around the edge__
 __(all) kidding aside__ In all seriousness; being frank for a moment.  
 __(as) mad as a wet hen__ Enraged; extremely or inconsolably angry. _My dad was mad as a wet hen after I crashed his car._  
 __(as) mad as hops__ Enraged; extremely or inconsolably angry. _My dad was mad as hops after I crashed his car._  
+__(as) nice as ninepence__ Very tidy, neat, and well-organized; in good order. _James is so meticulous with his office, always keeping it nice as ninepence._  
 __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mary finished her exam and raced out of the classroom._  
 __(deep) in the weeds__  
 __(deep) into the weeds__ :two::hammer:  
@@ -25,6 +26,8 @@ __(someone) (just) doesn’t know when to quit__ Someone would be better off not
 __(something) won’t get (someone) anywhere__ Something, typically a certain behavior, will not help someone progress or succeed in any way.  
 __(the good) Lord willing and the creek don’t rise__ (rural) If all goes as it should; if everything goes well. _We’ve had a lot of delays, but Lord willing and the creek don’t rise, we should have the house finished before winter._  
 __(the) man/woman of the hour__ A person currently being celebrated, honored, or admired by others, especially for a recent victory, accomplishment, or other cause for celebration. _Janet was woman of the hour at the office after securing the biggest customer their business had ever had._  
+__(the) next thing (one) knows__ All of a sudden; out of nowhere; without warning. _I was standing in line, minding my own business, when the next thing I know, a gunman runs into the bank and starts screaming at us to get on the ground!_  
+__(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
 __800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
@@ -71,6 +74,7 @@ __a match made in hell__ An extremely ill-suited pairing of people or things; a 
 __a morning person__ Someone who is more active and alert in the early hours of the morning than later in the day; an early riser. _I tried dating a morning person once, but since I like to sleep in late, it didn’t really work out._  
 __a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _My dad is pretty relaxed about most things, but he can be a bit of a mother hen when it comes to who I hang out with._  
 __a motor mouth__ A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
+__a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
@@ -119,6 +123,7 @@ __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, 
 __all that jazz__ :two: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
 __amateur hour__  
+__amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ To result in no tangible or appreciable difference.  
 __amount to something__  
 __amount to__ :three::hammer:  
@@ -1386,13 +1391,17 @@ __new kid on the block__ Someone who is new in a place or organization.
 __new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
+__nice guy__ A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
 __nincompoop__ _n_ A silly, foolish, or stupid person.  
 __no big deal__ _No big deal, but it looked sloppy._  
+__no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no offense__ :two: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
+__no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
+__no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed. _A: “I don’t want you to feel intimidated, but this employee review will have a huge bearing on whether or not you’re kept on at the end of the year.” B: “Wow, no pressure or anything!”_  
 __no spring chicken__ No longer young or youthful. (A “spring chicken” refers to a young chicken.)  
 __no strings attached__ :three: Free of conditions, limitations, obligations, etc. _The goodwill compensation comes with no strings attached._  
 __no way, José__  
@@ -1777,6 +1786,7 @@ __the last thing (one) wants__ Something which one absolutely does not want or h
 __the lion’s den__ A particularly dangerous, hostile, or oppressive place or situation, especially due to an angry or sinister person or group of people within it. _I felt like I was walking into the lion’s den when I went in front of the board for my annual review._  
 __the lion’s share__ :two: Major share of something.  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
+__the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
