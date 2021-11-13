@@ -34,7 +34,7 @@ __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she dan
 __abasement__ _n_  
 __abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
-__abate__ _v_ :two::hammer: _The plague abated during the winter._  
+__abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
@@ -698,7 +698,7 @@ __attend to__ _phr v_ To deal with something or someone.
 __attend__ _v_ _Brenda attends her monthly appointment at the NIH Clinical Center._  
 __attendee__ _n_ :two::mega::hammer:  
 __attentive__  
-__attest__ _v_ :two::hammer:  
+__attest__ _v_ :three::hammer:  
 __attire__ _n_ :five::hammer: _Casual attire is requested._  
 __attitudinize__ _v_ __1__ To assume an exaggerated or unnatural attitude or pose. _Syn_ pose, posture. Idiom: strike an attitude. __2__ To represent oneself in a given character or as other than what one is. _Syn_ impersonate, masquerade, pass, pose, posture. Idiom: pass oneself off as.  
 __Attn__  
@@ -2426,6 +2426,7 @@ __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick 
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
 __chunk__ _n_ _Nine chunks of cheese._  
+__churl__ _n_  
 __churlish__ _adj_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -5626,7 +5627,7 @@ __gargle<sup>1</sup>__ _n_
 __gargle<sup>2</sup>__ _v_ _My stomach was gargling._  
 __gargoyle__ _n_ :two::hammer: (gargoyles)  
 __garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the same time._  
-__garland__ _n_ :three::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._  
+__garland__ _n_ :four::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnets__ _n_  
@@ -6497,6 +6498,7 @@ __heretofore__ _adv_ :two::hammer:
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
 __hermit__  
+__Herodotus__ _n_  
 __heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
@@ -6760,7 +6762,7 @@ __houseboats__ _n_
 __housebound__  
 __housecarls__  
 __housecleaner__ _n_  
-__household<sup>1</sup>__ _n_  
+__household<sup>1</sup>__ _n_ :two::hammer:  
 __household<sup>2</sup>__ _adj_ :two::hammer: _Household chores to keep your house tidy._ _It uses a normal household power supply._  
 __housekeeping__ _n_ _Call housekeeping before 9:00 AM._  
 __housemother__ _n_  
@@ -9235,6 +9237,7 @@ __octothorpe__ _n_ The symbol (#).
 __OD__ _v_  
 __odd__ _adj_ :two: __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
+__oddity__ _n_  
 __oddly enough__ _adv_ :two::hammer:  
 __odds__ _pl n_  
 __oddsmakers__  
@@ -10976,7 +10979,7 @@ __rah-rah__ _adj_ _informal_ :two::hammer: _Rah-rah motivation._
 __raid__ _n_ A short attack on a place by soldiers, planes, or ships, intended to cause damage but not take control.  
 __rail<sup>1</sup>__ _n_ _She is elegantly rail thin._  
 __rail<sup>2</sup>__ _v_ :four::hammer: (railed) _Syn_ scold _He is railing against Medicaid._  
-__raiment__ _n_ :two::hammer:  
+__raiment__ _n_ :three::hammer:  
 __rain slickers__ _n_  
 __rainbow pass__ _n_ _football_  
 __rainmaker__  
@@ -11370,7 +11373,7 @@ __retention__
 __rethoric__ _n_ :two::mega::hammer:  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
-__retinue__ _n_ :five: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva  
+__retinue__ _n_ :six: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
 __retiree__ _n_ :three::hammer: (retirees) :es: jubilado  
 __retirement__  
 __retooled__ _v_ :three::hammer:  
@@ -11809,7 +11812,7 @@ __sated__ _v_
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ _n_ :mega: /’sæÔødi, -deI/  
-__saturnine__ _adj_ :three: Showing a brooding ill humor. _Syn_ glowering, moody, morose, sullen, glum, dour, sour, dark _Since he had heard of Lilla’s death, the gloom of his remorse had made more hopeless his cruel, selfish, saturnine nature._  
+__saturnine__ _adj_ :four: Showing a brooding ill humor. _Syn_ glowering, moody, morose, sullen, glum, dour, sour, dark _Since he had heard of Lilla’s death, the gloom of his remorse had made more hopeless his cruel, selfish, saturnine nature._  
 __satyr__  
 __sauce__ _n_  
 __saucerful__  
