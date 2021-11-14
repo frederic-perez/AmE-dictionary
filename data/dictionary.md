@@ -596,7 +596,7 @@ __arose__ _v_ :two::hammer:
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_  
 __arrangement__ _n_  
-__arrears__ _n_ :pencil2:  
+__arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrive__ _v_ _He arrived in England in April 1376._  
 __arrowroot__  
@@ -2871,6 +2871,7 @@ __conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._
 __connective tissue__ _n_  
 __connivance__ _n_ :three: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
+__connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
@@ -3246,6 +3247,7 @@ __crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my sui
 __crumple<sup>2</sup>__ _n_  
 __crunch__ _n_ :two::hammer: (crunches)  
 __crunchtime__  
+__crusade__ _n_  
 __crusader__  
 __crush<sup>1</sup>__ _v_ _I was crushed._  
 __crush<sup>2</sup>__ _n_  
@@ -5885,6 +5887,7 @@ __goo__ _n informal_ :two: Sticky substance.
 __Good Book__ _n_  
 __good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
+__Good Friday__  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
@@ -8497,6 +8500,8 @@ __meretricious__ _adj_ :two::hammer:
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
 __merit__ _n_ :two::hammer:  
+__mermaid__ _n_  
+__merman__ _n_  
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesh strainer__  
@@ -9609,6 +9614,7 @@ __palaver<sup>1</sup>__ _n_ :two::hammer:
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
+__palfrey__ _n_ A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances.  
 __palisades__ _n_  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
@@ -13648,6 +13654,7 @@ __summary<sup>2</sup>__ _adj_ :two::hammer: _Summary deaths._ _Summary killings.
 __summations__ _n_ _Both sides made their summations._  
 __summertime__ _n_ :three::pencil2::hammer:  
 __summit__ _n_  
+__summonses__ _n pl_  
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __sumptuary__ _adj_  
@@ -15546,7 +15553,7 @@ __wildness__
 __wilful__  
 __wilfull__  
 __will__ _v_  
-__willful__  
+__willful__ _adj_ :two::hammer:  
 __willfully__  
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
@@ -15807,7 +15814,7 @@ __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._
 __yew tree__ _n_ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
 __Yiddish__ _n_ :two::hammer:  
-__yield<sup>1</sup>__ _v_ :three::hammer: _Failing to yield to pedestrians._  
+__yield<sup>1</sup>__ _v_ :four::hammer: (yielded) _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
 __yin and yang__  
 __yipped__ _v_  
