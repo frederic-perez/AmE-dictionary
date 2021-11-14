@@ -37,6 +37,7 @@ __abasiophilia__ _n_
 __abate__ _v_ :three::hammer: _The plague abated during the winter._ _The brothers returned as the plague abated._  
 __abatement__ _n_ :two::hammer: _A tax abatement._  
 __abattoir__ _n_ :two: Slaughterhouse.  
+__abbesses__ _n pl_  
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
 __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
@@ -297,6 +298,7 @@ __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunka
 __alcove__ _n_ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :two::hammer:  
+__aldermen__ _n_  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
 __alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
 __Aleut__ _n_  
@@ -2292,6 +2294,7 @@ __chasten__ _v_ Censure severely.
 __chastened__ _adj_ :two: Subdued; humbled.  
 __chastening__ _n_ A rebuke for making a mistake.  
 __chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castigate, chasten, objurgate, correct _She chastised him for his insensitive remarks about her weight until he was the one crying._  
+__chastisement__ _n_  
 __chasuble__ _n_ :two::hammer:  
 __chatelaine__ _n_  
 __chattel__  
@@ -3523,7 +3526,7 @@ __deferred__ _v_ :two::hammer:
 __defiance__  
 __defibrillator__ _n_ :two: An electrical device used to counteract fibrillation of the heart muscle and restore normal heartbeat by applying a brief electric shock.  
 __defile<sup>1</sup>__ _n_ :three::hammer:  
-__defile<sup>2</sup>__ _v_ :two: To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
+__defile<sup>2</sup>__ _v_ :three: To damage or sully (someone’s good name, reputation, etc.). _Syn_ sully, taint, corrupt, cloud  
 __definitely__  
 __deflated__ _v_  
 __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to a Coleman cot ($44) but its springs were too weak._  
@@ -3646,7 +3649,7 @@ __despondency__
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
-__destitute__ _adj_ :three::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente  
+__destitute__ _adj_ :five::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
@@ -6495,6 +6498,7 @@ __heresy__ _n_ :two::hammer:
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ _adv_ :two::hammer:  
+__heriot__ _n_  
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
 __hermit__  
@@ -7118,9 +7122,9 @@ __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entr
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
 __inhale__ _v_ _slang_ To eat very quickly.  
-__inimical__ _adj_ :three: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
+__inimical__ _adj_ :four: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
 __inimitable__ _adj_  
-__iniquity__ _n_ :four: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality __2__ A grossly immoral act; a sin.  
+__iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
 __initiative__  
 __injunction__ _n_ :eight: /ɪnˈdʒʌŋ(k)ʃ(ə)n/ An authoritative warning or order. _Syn_ order, ruling, direction, directive, command, instruction, demand _The school requested to lift the injunction._  
 __injury time__  
@@ -7224,7 +7228,7 @@ __invective__ _n_ :five: Abusive or insulting language.
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
 __inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
-__inveterate__ _adj_ :five: Always doing a particular thing, especially something bad, and unlikely to change. _Two inveterate peculators._  
+__inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
 __invoke__  
@@ -8840,7 +8844,7 @@ __muncher__ _n_
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
 __mundane__ _adj_ :four::hammer:  
 __Muni bus__  
-__munificent__ _adj_ :two: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
+__munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munifience__ _n_ _obsolete_ A fortification.  
 __munition__ _n_ :three::hammer: (munitions) _The munitions factory._  
 __muons__ _n_ _Cosmic-ray muons._  
