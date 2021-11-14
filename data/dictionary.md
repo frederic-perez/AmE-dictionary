@@ -723,6 +723,7 @@ __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant
 __audible__ _v_  
 __audit__  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
+__augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
 __aum__  
@@ -873,6 +874,7 @@ __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
+__balter__ _v tr_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
@@ -1006,6 +1008,7 @@ __because__
 __beck__ _n_ A gesture of beckoning or summons.  
 __beckon__ _v_ :five: (beckons, beckoning) /ˈbɛk(ə)n/ (West Germanic origin; related to beacon.) __1__ Make a gesture with the hand, arm, or head to encourage or instruct someone to approach or follow. _Syn_ gesture, signal, wave _Miranda beckoned to Adam._ __2__ Appear attractive or inviting. _Syn_ entice, invite, tempt, coax, lure _The moorland and miles of coastal path beckon many walkers._  
 __becquerels__  
+__bedaub__ _v_ To smear all over with something thick, sticky, or dirty. _Syn_ besmear _The hunter bedaubed himself with mud as a form of camouflage._  
 __bedding__ _n_ Bedclothes. _A bedding brand._  
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
@@ -1641,7 +1644,7 @@ __Britons__
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ (broached) :six::hammer: _To broach a conversation._ _He broached the subject._  
+__broach__ _v_ (broached) :seven: To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
@@ -7834,7 +7837,7 @@ __lemony__
 __length__ _n_ :two::hammer: _He staged a prolonged rally to run down Bodemeister by 1/2 lengths in the 138th Run for the Roses._ _He walked the length of the carriage._  
 __lengthy__ _adj_ __1__ Of considerable length, especially in time; extended: _a lengthy convalescence._ __2__ Tediously long; drawn-out: _a lengthy explanation._  
 __leniency__ _n_ :four::hammer: _Syn_ indulgence, lenience  
-__lenient__ _adj_ :six: (leniently) If you’re not overly strict, and you show tolerance and mercy when someone does something wrong, you’re being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you’re a big fan of discipline and punishment, however, lenient might mean “soft” or “indulgent.” _Olympic officials will be lenient._  
+__lenient__ _adj_ :seven: /LEEN-yunt/ (leniently) If you’re not overly strict, and you show tolerance and mercy when someone does something wrong, you’re being lenient. Lenient means tolerant or relaxed, and is usually used when we’re talking about someone’s attitude toward discipline. In 19th-century child-rearing books, we often read about strict teachers who punish children just for squirming in their seats. These days teachers are more likely to be lenient, more understanding. If you’re a big fan of discipline and punishment, however, lenient might mean “soft” or “indulgent.” _Olympic officials will be lenient._  
 __lenity__ _n_  
 __Lenny__ _n_ Diminutive of Leonard.  
 __lens__ _n_ _Lens design._  
@@ -8320,6 +8323,7 @@ __Mardi Gras__ _n_ :mega:
 __mardy__ _adj_  
 __mare__ _n_  
 __margarine__ _n_  
+__margherita__ _n_  
 __Mariel felons__  
 __marijuana__  
 __marinades__  
@@ -10672,7 +10676,7 @@ __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have p
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
 __prophesy__ _v_ (prophesied)  
 __prophylaxis__ _n_  
-__propitiate__ _v_ :pencil2:  
+__propitiate__ _v_ :pencil2::two::hammer: /proh-PISH-ee-ayt/  
 __proponent__  
 __propped up__ _v_  
 __propped__ _v_ :two::hammer:  
@@ -12918,7 +12922,7 @@ __sop__ _n_ :two::hammer: _A sop of comfort._ _A wine sop._
 __sophistry__ _n_ __1__ A subtle, tricky, superficially plausible, but generally fallacious method of reasoning. __2__ A false argument; sophism. _The argument was utter sophistry._  
 __sophomore__ _n_ :three::mega: A second-year student at a secondary (high) school or college. _My sophomore year._  
 __sophomoric__ _adj_ __1__ Conceited and overconfident of knowledge but poorly informed and immature. __2__ Lacking in maturity, taste, or judgment.  
-__soporific<sup>1</sup>__ _adj_ From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep). __1__ Inducing sleep. __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
+__soporific<sup>1</sup>__ _adj_ :two: /sah-puh-RIFF-ik/ [:scroll: From Latin sopor (a deep sleep). Ultimately from the Indo-European root swep- (to sleep), which also gave us insomnia, hypnosis, soporose, somniloquy (talking while asleep), and somnambulate (to walk in sleep).] __1__ Inducing sleep. _Syn_ somniferous __2__ Sleepy or drowsy. __3__ Dull or monotonous.  
 __soporific<sup>2</sup>__ _n_ Something that induces sleep.  
 __sopping__ _v_  
 __soppy__  
@@ -13187,7 +13191,7 @@ __stab__ _n_ :two::hammer:
 __stable condition__  
 __stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
 __stadimeter__ _n_  
-__staff__ _n_ :two::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._  
+__staff__ _n_ :three::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._ __5__ _Music_ A set of horizontal lines and intermediate spaces used in notation to represent a sequence of pitches, in modern notation normally consisting of five lines and four spaces. Also called _stave_. _Music staff._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -13320,6 +13324,7 @@ __steeply__ _adv_ :two::hammer:
 __steer<sup>1</sup>__ _v_  
 __steer<sup>2</sup>__ _n_ A young ox, especially one castrated before sexual maturity and raised for beef. :es: buey _A cross between a buffalo and a steer._  
 __stein__ _n_  
+__stem rust__ _n_  
 __stem-winding__ _adj_ _informal North American_ (of a speaker or speech) Entertaining and rousing. _Stem-winding speeches by Mr. Trump._  
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
