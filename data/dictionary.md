@@ -341,6 +341,7 @@ __allusion__ _n_
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ _adj, n_ :mute:[a~~l~~mond]  
+__almoner__ _n_ :es: limosnero  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
@@ -1267,7 +1268,7 @@ __blah story__
 __blanched__ _v_  
 __bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
-__blandishments__ _n_  
+__blandishment__ _n_ :two: Often, blandishments. Something, as an action or speech, that tends to entice.  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -2872,6 +2873,7 @@ __connective tissue__ _n_
 __connivance__ _n_ :three: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
+__consanguinity__ _n_  
 __consciousness__ _n_  
 __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
@@ -2929,7 +2931,7 @@ __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know
 __contretemps__  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
-__contrivance__ _n_ :five: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
+__contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
@@ -4798,7 +4800,7 @@ __faint__ _adj_ :two::hammer: _Faint irony._
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
-__fair__ _adj_ _To be fair to Jim, he didn’t cause the problem but inherited it._  
+__fair__ _adj_ :two::hammer: (fairest) _The fairest lady in all the kingdom of England._ _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fait accompli__  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
@@ -7371,7 +7373,7 @@ __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
-__jilt__ _v_ :three: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
+__jilt__ _v_ :five: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -8736,6 +8738,7 @@ __moor__ _n_ :two::hammer:
 __mooring__ _n_ :two::hammer:  
 __moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
 __moot<sup>2</sup>__ _v_ :five::hammer: (mooted) _A mooted rebellion._  
+__moot<sup>3</sup>__ _n_  
 __mope__ _v_ :pencil2::two::hammer:  
 __moppet__ _n_ A young child. _A lovable moppet._  
 __mopping up__  
@@ -9493,6 +9496,7 @@ __outplay__ _v_ :two::hammer: (outplayed)
 __outpoint__ _v_ _Correa outpointed Lindor 124-109._  
 __outpost__  
 __outpour__ _v_ :two::hammer: (outpouring)  
+__outrace__ _v_ _Her expenditures continued to outrace his gifts._  
 __outrage<sup>2</sup>__ _v_  
 __outrageous__ _adj_ :three::hammer:  
 __outré__ _adj_ :two: Passing the bounds of what is usual or considered proper; unconventional; bizarre.  
@@ -9813,6 +9817,7 @@ __pavilion__ _n_
 __pavilions__  
 __paving stones__  
 __paw__ _v_ _A drunken master paws her._  
+__pawn__ _v_ _She pawned her jewelry._  
 __pax vobiscum__ _phr_ Peace be with you.  
 __pay dirt__ _n_ :two::hammer:  
 __pay off__ _v_  
@@ -15279,6 +15284,7 @@ __warblers__
 __ward off__ _phr v_ :two: o prevent.  
 __warden__ _n_ :two: __1__ The chief administrative official of a prison.  
 __wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
+__wardship__ _n_  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _pl n_ :four: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
