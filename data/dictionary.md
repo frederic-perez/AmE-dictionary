@@ -506,10 +506,10 @@ __aphorism__ _n_ :three: A terse saying embodying a general truth or astute obse
 __apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
 __aping__  
 __aplenty__ _adj, adv_ :two::hammer:  
-__aplomb__ _n_ :five: Self-confidence or assurance, especially when in a demanding situation. _Diana passed the test with aplomb._ :es: aplomo  
+__aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
-__apogee__ _n_ __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point.  
+__apogee__ _n_ :two: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -2279,6 +2279,7 @@ __charade__ _n_ :three::hammer:
 __chard__  
 __charge__ _v_ Accuse formally.  
 __chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
+__charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
 __charisma__ _n_ :mute:[c~~h~~arisma]  
 __charlatan__ _n_  
@@ -6033,7 +6034,7 @@ __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
 __gripping__ _adj_ :two::hammer: _A gripping contest._  
-__grisly__ _adj_ :five::hammer: _A grisly synagogue assault._  
+__grisly__ _adj_ :six::hammer: _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -6785,7 +6786,7 @@ __housing equity__
 __housing starts__  
 __housing unit__  
 __housing__ _n_ :five::hammer: _A waterproof housing._  
-__hovels__ _n_  
+__hovel__ _n_ :two: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._  
 __hover__ _v_  
 __hoverboard__ _n_ :two::hammer:  
 __howl__ _v_ :two::hammer:  
@@ -7007,7 +7008,7 @@ __in-your-face__ _adj_ _An in-your-face farewell._
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
-__inane__ _adj_ :nine::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
+__inane__ _adj_ :nine::m::mega: Empty, pointless, lacking sense, complacently foolish: _I was bored by the lecturer’s inane presentation._ _Asking inane questions._ _Syn_ asinine, fatuous, vacuous, mindless  
 __inanely__ _adv_  
 __inanition__ _n_  
 __inanity__ _n_ :two: Total lack of meaning or ideas. _Syn_ mindlessness, pointlessness, senselessness, vacuity _My classmates’ inanity forced me to seek intelligent conversation elsewhere._  
@@ -8347,6 +8348,7 @@ __marksman__ _n_
 __markup__ _n_ :six::hammer: (markups) _A huge markup._ _These U.S. Gov’t-Issued Gold Coins are completely free of dealing markup._ _Factory-direct with no middle-man markups._  
 __marmalade__  
 __maroon__ _v_ :two::hammer: _He felt marooned by the silence._  
+__marplot__ _n_ /MAHR-plot/ [:scroll: After Marplot, the titular character in the 1709 play _The Busy Body by Susannah Centlivre_ (1669-1723). Marplot means well and tries to help only to get in the way of others and foul things up.] A meddlesome person who spoils a plan by interference.  
 __marquee__ _n_ :nine::m: __1__ A canopy projecting over the entrance to a theatre, hotel, or other building. _The company dismantled its large marquee._ __2__ Leading; pre-eminent. _A marquee player._ _Marquee game._ _Marquee grouping._ _Marquee matchup._ _Marquee phone._ _Marquee events._  
 __marquetry__ _n_ :astonished: _Marketry doors._ :es: marquetería  
 __marred__ _v_  
@@ -8889,7 +8891,7 @@ __mussel__ _n_ :three: A bivalve mollusk or clam. Gets its name from Latin muscu
 __must have__  
 __mustache__ _n_ :two::pencil2::hammer: (moustache)  
 __mustachioed__  
-__muster__ _v_ :two: To assemble or gather: _mustering for inspection._  
+__muster__ _v_ :three: To assemble or gather: _mustering for inspection._ Gather or bring together. _Syn_ rally, summon _Mustering all her strength, she pulled hard on the oars._  
 __musty__  
 __mutism__ _n_  
 __mutt__ _n_ :five::hammer:  
@@ -9773,7 +9775,7 @@ __pass out__ _phr v_ :three: To become unconscious.
 __pass policy__  
 __pass up__  
 __passage__ _n_ :two::hammer: _The passage of three supplementary budgets this year._ _Natural events include severe weather, frontal passages, and earthquakes._  
-__passel__ _n_ A large number or amount. _A passel of ducks._  
+__passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel of ducks._  
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __pastiche__ _n_ :three::hammer:  
@@ -13009,6 +13011,7 @@ __speak out__ _phr v_ :two::hammer: (spoke out)
 __speak up__ _v_ :two::hammer:  
 __speakeasy__ _n_ :three::hammer: :es: taberna clandestina  
 __spear chucker__  
+__spear side__ _n_ /SPEER syd/ The male side or branch of a family (opposed to _distaff side_).  
 __speargun__  
 __spearhead__ _v_ :eight: (spearheaded, spearheading) Lead (an attack or movement). _He’s spearheading a campaign to reduce the number of accidents at work._ _Syn_ lead, head, front  
 __special-team__  
