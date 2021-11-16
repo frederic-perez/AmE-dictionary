@@ -2695,7 +2695,7 @@ __Collins glass__
 __collocation__ _n_ (collocations)  
 __colloquial__ _adj_  
 __colloquium__  
-__collude__ _v_ :two: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
+__collude__ _v_ :three: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
@@ -5100,6 +5100,7 @@ __flabbergast__ _v_ _informal_ :four::hammer: (flabbergasted)
 __flabbergasted__ _adj_ :two::hammer:  
 __flaccid__ _adj_  
 __Flag Day__ _n_ June 14, observed in the United States in commemoration of the adoption in 1777 of the official US flag.  
+__flag officer__ _n_ :four::hammer:  
 __flag plot__ _n_ :three: The admiral’s tactical and navigational control room aboard a flagship.  
 __flag-stop service__  
 __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalistic, chauvinistic  
@@ -5642,6 +5643,7 @@ __garment__
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
 __garnets__ _n_  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
+__garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_  
 __garroted__ _v_  
 __garrulous__ _adj_ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
@@ -6106,7 +6108,7 @@ __guest house__ _n_ _Syn_ boarding house, motel, bed and breakfast, B & B :es: h
 __guest<sup>1</sup>__ _n_ :mute:[g~~u~~est]  
 __guest<sup>2</sup>__ _v_ (guested) To appear as a guest: _guested on a television series._  
 __guffaw<sup>1</sup>__ _n_ :two::hammer:  
-__guffaw<sup>2</sup>__ _v_ :eight: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
+__guffaw<sup>2</sup>__ _v_ :nine: (guffaws, guffawed, guffawing) To laugh loudly or boisterously.  
 __guibble__  
 __guide__ _n, v_ :mute:[g~~u~~ide]  
 __guidepost__ _n_  
@@ -6357,6 +6359,7 @@ __hauler__ _n_ :two::hammer: (or haulier)
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
 __haunt__ _v_  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
+__haunting__ _adj_ :dart: Continually recurring to the mind; unforgettable: _a haunting melody._  
 __hauteur__  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
@@ -9210,6 +9213,7 @@ __oases__ _n_
 __oat__ _n_  
 __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2__ Something offensive that you say when you are angry.  
 __oatmeal__ _n_ :three::hammer:  
+__obdurate__ _adj_ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
 __obelus__ _n_ /OB-uh-luhs/ __1__ A sign (- or ÷) used in ancient manuscripts to indicate a spurious or doubtful word or passage. __2__ A sign (†) used to indicate reference marks. Also known as obelisk or dagger.  
 __obi__ _n_  
 __obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
@@ -9416,7 +9420,7 @@ __organization__ _n_ :mega:
 __originally__ _adv_ :dart:  
 __orison__ _n_ Reverent petition to a deity. _Syn_ petition, prayer  
 __ornament__  
-__ornate__ _n_ :five::hammer:  
+__ornate__ _adj_ :six::hammer: _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
@@ -10339,6 +10343,7 @@ __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Poli
 __polemology__ _n_ The study of war.  
 __police state__ _n_ _A society log run as a police state._  
 __policyholder__  
+__polio__ _n_  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
 __polish<sup>1</sup>__ _v_  
 __polish<sup>2</sup>__ _n_  
@@ -13816,6 +13821,7 @@ __sycophant__ _n_ :dart::four::hammer: (sycophants)
 __syllable__ _n_  
 __syllogism__ _n_ :two::hammer:  
 __sympathetic__  
+__sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
 __synaptogenesis__ _n_  
 __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to the brain.  
@@ -15415,6 +15421,7 @@ __wetback__ _n_ _slang_ (offensive) :two::hammer: (wetbacks)
 __wetbrain__  
 __Whac-A-Mole__  
 __whackadoodle__  
+__Whackety-Whack__  
 __whale<sup>1</sup>__ _n_ :mute:[w~~h~~ale]  
 __whale<sup>2</sup>__ _v_ :mute:[w~~h~~ale]  
 __whammy__ _n_ _slang_ :two: An object or power that one uses to cause often evil events. _Syn_ charm, evil eye, magic, spell _A double whammy of injuries._  

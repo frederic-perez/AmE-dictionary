@@ -1,13 +1,3 @@
-__polio__ _n_  
-__flag officer__ _n_ :four::hammer:  
-__Whackety-Whack__  
-__ornate__ _adj_ _The ornate front entrance._  
-__garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
-__guffaw__  
-__obdurate__ _adj_ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
-__sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
-__haunting__  
-__collude__ _v_  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __lucid__ _adj_ /LOO-sid/  
