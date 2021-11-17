@@ -687,6 +687,7 @@ __athwart__
 __atlatl__  
 __atolls__ _n_  
 __atone__ _v_ :three::hammer: (atoned)  
+__atonement__ _n_  
 __atop__  
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
@@ -3272,6 +3273,7 @@ __cubbyhole__ _n_ (cubby-hole) :two::hammer:
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
 __cuckold<sup>2</sup>__ _v_ :three::hammer:  
 __cuckolded__ _adj_ :three::hammer:  
+__cuckoldry__ _n_  
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
 __cudgel__ _n_ :five::hammer: (cudgels)  
@@ -3372,6 +3374,7 @@ __dafter__
 __dago__ _n_ :five: (dagos) _informal offensive_ A Spanish, Portuguese, or Italian-speaking person.  
 __daguerreotypes__  
 __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
+__dainty__ _adj_ _Dainty eyebrows._  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
@@ -4801,7 +4804,7 @@ __faint__ _adj_ :two::hammer: _Faint irony._
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
-__fair__ _adj_ :two::hammer: (fairest) _The fairest lady in all the kingdom of England._ _To be fair to Jim, he didn’t cause the problem but inherited it._  
+__fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fait accompli__  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
@@ -7084,7 +7087,7 @@ __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _
 __inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
-__industrious__ _adj_ Always working very hard.  
+__industrious__ _adj_ :two: Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffable__ _adj_ :three::hammer:  
 __ineffectual__  
@@ -7105,6 +7108,7 @@ __infare__ _n_
 __infeasible__ _adj_ _Syn_ unfeasible  
 __infectivity__ _n_  
 __inferno__ _n_ _All kinds of Indian infernos._  
+__infibulation__ _n_ _The Moslem practice of infibulation involved attaching a padlock to the labia._  
 __infidel__ _n_  
 __infighting__ _n_ :two::hammer:  
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
@@ -7154,7 +7158,7 @@ __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to in
 __innocuous__ _adj_ :two: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
 __innumerate__  
 __inobvious__  
-__inordinate__ _adj_ :six::hammer: _An inordinate amount of information._ _An inordinate amount of time._  
+__inordinate__ _adj_ :seven::hammer: _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
@@ -7324,7 +7328,7 @@ __jangling__ _adj_ A discordant, harsh, or unpleasant (esp metallic) sound.
 __janitor__ _n_  
 __Janus word__ _n_ A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms , antagonyms , or auto-antonyms.  
 __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
-__jape__ _v_  
+__jape__ _v_ :two::hammer: (japing)  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
@@ -10917,7 +10921,7 @@ __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder),
 __quench__ _n_ :two::hammer:  
 __quenched__ _v_  
 __quenches__ _v_  
-__querulous__ _adj_ :four::hammer:  
+__querulous__ _adj_ :five::hammer:  
 __query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
@@ -11399,6 +11403,7 @@ __retch__ _v_ :four::hammer: (retched)
 __retelling__  
 __retention__  
 __rethoric__ _n_ :two::mega::hammer:  
+__reticent__ _adj_ :astonished: Unwilling to speak; reserved; taciturn, uncommunicative: _She was reticent to answer our questions._ Not to be confused with: reluctant: disinclined; unwilling to act: _She’s reluctant to report him to the police._  
 __reticular__  
 __reticulation__ _n_ Arrangement in the form of a network, as for decoration.  
 __retinue__ _n_ :six: (retinues) The retainers or attendants accompanying a high-ranking person. :es: séquito, comitiva _The Duc d’Orleans had a total retinue of over sixty._  
