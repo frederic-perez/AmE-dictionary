@@ -2435,7 +2435,7 @@ __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick 
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
 __chumps__ _n_  
 __chunk__ _n_ _Nine chunks of cheese._  
-__churl__ _n_  
+__churl__ _n_ :two: A rude, boorish person. _Syn_ boor, barbarian, peasant _He is a drunken, brawling, perilous churl, as you may find to your cost._  
 __churlish__ _adj_  
 __churn out__ _phr v_ To produce in an abundant and regular manner: _churns out four novels a year._  
 __churn rate__ _n_ The annual percentage rate at which customers stop subscribing to a service or employees leave a job. _The churn rate for cable is much higher than that for satellite services._  
@@ -2840,7 +2840,7 @@ __confederacy__
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
 __confederate<sup>2</sup>__ _n_  
-__confer__ _v_ (conferred)  
+__confer__ _v_ :two::hammer: (conferred)  
 __conference call__  
 __conferred__ _v_  
 __confidant__ _n_ :seven::hammer: (also confidante)  
@@ -3586,6 +3586,7 @@ __delve__ _v_ :two::dart::hammer:
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
 __demagogy__  
+__démarche__ _n_  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
 __demeanor__ _n_  
 __demigod__  
@@ -4340,6 +4341,7 @@ __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
 __edict__ _n_ :two::hammer:  
+__edify__ _v_ /ED-uh-fye/  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
@@ -4923,7 +4925,7 @@ __feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. W
 __fecklessness__  
 __feel for__  
 __feel out__  
-__feign__ _v_ :two::mute:[fei~~g~~n]:hammer:  
+__feign__ _v_ :three::mute:[fei~~g~~n] To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
@@ -6524,6 +6526,7 @@ __herring__ _n_ :two::hammer:
 __herringbone__ _n_ _Basketball shoes with herringbone designs._  
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
+__hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex__ _n_ :astonished: _Looking for a hex-breaking sign._  
@@ -9000,6 +9003,7 @@ __neglected__ _adj_ _I don’t feel neglected._
 __neigh<sup>1</sup>__ _n_ :es: relincho  
 __neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
 __neighbor__ _n_ :mute:[nei~~gh~~bor]  
+__nekkid__ _adj_ (nonstandard) Pronunciation spelling of _naked_, representing Southern US English.  
 __nematodes__  
 __neoadjuvant__ _adj_ _Neoadjuvant chemotherapy._  
 __neophilia__ _n_  
@@ -10736,7 +10740,7 @@ __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney,
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
 __prudently__ _adv_  
-__prurient__ _adj_ :two::hammer:  
+__prurient__ _adj_ :three::hammer:  
 __pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
 __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a lever. _He pries your buttocks apart._ _To pry the crack open wider and wider._ __2__ To obtain with effort or difficulty: _pried a confession out of the suspect._  
@@ -10900,7 +10904,7 @@ __quaintly__ _adv_ :two::hammer:
 __Quaker__  
 __quakes__ _v_  
 __qualify__ _v_  
-__qualm__ _n_ :nine::m: (qualms) An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
+__qualm__ _n_ :nine::m: /KWAHM/ (qualms) An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
 __quantifiable__  
 __quarrelsome__  
@@ -14298,6 +14302,7 @@ __Titanesque__ _adj_
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
 __tithe__ _n_ :five: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
+__titian__ _n_ A brownish orange.  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
 __title__ _n_ :pencil2:  
