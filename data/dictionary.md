@@ -49,7 +49,7 @@ __abhor__ _v_ :pencil2:
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ _adj_ :four: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ _adj_ :five: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
@@ -524,7 +524,7 @@ __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ ap
 __apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
 __appalled__ _adj_ :six: Shocked or dismayed; filled with horror.  
-__appalling__ _adj_ :six: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
+__appalling__ _adj_ :seven: Something that is appalling is awful or horrible, causing dismay or disgust. It’s definitely not appealing. :es: espantoso _(awful)_ pésimo  
 __apparatchiks__  
 __apparatus__ _n_ :two::hammer: _Campaign apparatus._  
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
@@ -2098,7 +2098,7 @@ __carom<sup>2</sup>__ _n_ (caroms)
 __carouse__ _v_ :three: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
 __carousel__  
 __carpet bombing__  
-__carping__ _v_  
+__carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :three::hammer:  
 __carrel__  
 __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
@@ -2293,7 +2293,7 @@ __charter<sup>1</sup>__ _n_ :two::hammer:
 __charter<sup>2</sup>__ _v_  
 __chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
-__chased__ _v_ _A beautiful chased golden bowl._  
+__chase__ _v_ :two: __3__ To decorate (metal) by engraving or embossing. _The infant received six bowls, gilded and chased._ _A beautiful chased golden bowl._  
 __chasm__ _n_ :nine::m: __1__ A deep, steep-sided opening in the earth’s surface; an abyss or gorge. __2__ A sudden interruption of continuity; a gap. __3__ A pronounced difference of opinion, interests, or loyalty.  
 __chassis__  
 __chasten__ _v_ Censure severely.  
@@ -2463,7 +2463,7 @@ __cineplex__ _n_ _Sequels ruled the cineplex this weekend._
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
 __circadian__ _adj_ :three::hammer:  
-__circlet__ _n_ _A circlet of red-hot iron._  
+__circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
 __circuit__ _n_ :mute:[circ~~u~~it]  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
@@ -11287,7 +11287,7 @@ __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, o
 __rejigged__ _v_  
 __rejiggered__  
 __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
-__rejoinder__ _n_ :three: An answer, especially to a reply.  
+__rejoinder__ _n_ :four: An answer, especially to a reply.  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
@@ -12406,6 +12406,7 @@ __shrapnel__ _n_ :five: __1__ Fragments of a bomb, shell, or other object thrown
 __shred__ _n_ :two::hammer: _A shred of evidence._ _I sat in their place, headed to the front lines of a war without a shred of experience._  
 __shrew__ _n_ __1__ Any of various small, chiefly insectivorous mammals of the family Soricidae, resembling a mouse but having a long pointed snout and small eyes and ears. Also called shrewmouse. :es: musaraña __2__ _pejorative_ A woman regarded as an ill-tempered scold or nag. _Syn_ harridan, harpy, scold, termagant, virago  
 __shrewd__ _adj_  
+__shrewishly__  
 __shriek__ _v_ (shrieked) :two::hammer:  
 __shrieking__  
 __shrieks__  
@@ -12788,7 +12789,7 @@ __smooth<sup>1</sup>__ _v_ :two::hammer: _Smooths and softens dry skin with nour
 __smooth<sup>2</sup>__ _adj_ _A smooth professional._  
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__ _n_ :three::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
-__smote__ _v_  
+__smote__ _v_ :two::hammer: _Smote a horse with a whip._  
 __smothered__  
 __smothering__  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
@@ -12889,6 +12890,7 @@ __sobersides__ _n_ :astonished: A humorless or habitually serious person.
 __sobriquet__ _n_ :four: A nickname.  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
 __soccage__  
+__social contract__ _n_ An implicit agreement among people that results in the organization of society; individual surrenders liberty in return for protection.  
 __social ladder__  
 __societal__  
 __sociopath__ _n_ :two: A psychopath or a person with antisocial personality disorder.  
@@ -13872,6 +13874,7 @@ __tactful__
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
+__taffeta__ _n_  
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
