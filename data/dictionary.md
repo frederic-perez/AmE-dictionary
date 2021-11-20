@@ -1570,6 +1570,7 @@ __brander__
 __branding iron__ _n_ :camera:  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
+__brasserie__ _n_  
 __brassiere__ _n_  
 __brassy__ _adj_ _She is brassy, funny, and smart._  
 __bratty__  
@@ -1921,7 +1922,8 @@ __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,40
 __cabochon__ _n_ (Jewellery) A smooth domed gem, polished but unfaceted.  
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
 __caboose__ _n_ :camera::three::hammer: _Mr. Miller kept 50 engines, boxcars, flatcars and cabooses._  
-__cache__ _n, v_ :mega:  
+__cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn_ hoard, stash _In case of an emergency, I have a small cache of money and weapons hidden in the shed._  
+__cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
@@ -3132,7 +3134,7 @@ __crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a tel
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
-__crapulous__ _adj_ __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
+__crapulous__ _adj_ :two: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash course__  
 __crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
 __crash-land__ _v_ _A jet crash-landed in the city._  
@@ -3314,8 +3316,8 @@ __curfew__ _n_ :three: A regulation requiring people to remain indoors between s
 __Curia__ _n_ :three: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
 __curios__  
-__curlicued__ _v_  
-__curlicues__  
+__curlicue<sup>1</sup>__ _n_ :two::hammer:  
+__curlicue<sup>2</sup>__ _v_ (curlicued)  
 __curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
@@ -3978,6 +3980,7 @@ __dogsled__
 __dogtrot__ _n_  
 __doilies__  
 __doings__ _n_  
+__dojo__ _n_  
 __doldrum__ _n_ :four::hammer: (doldrums)  
 __doldrums__ _n pl_ (plurale tantum)  
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
@@ -4863,7 +4866,7 @@ __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse 
 __fare<sup>2</sup>__ _v_ :eight: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __faro__ _n_ _A farol dealer._  
-__farouche__ _adj_  
+__farouche__ _adj_ :two::hammer:  
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
 __farrago__ _n_ A motley assortment of things. _Syn_ gallimaufry, hodgepodge, hotchpotch, melange, mingle-mangle, mishmash, oddments, odds and ends, omnium-gatherum, ragbag  
 __farrier__ _n_ A person who shoes horses. _Syn_ horseshoer  
@@ -6041,7 +6044,7 @@ __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
 __gripping__ _adj_ :two::hammer: _A gripping contest._  
-__grisly__ _adj_ :six::hammer: _A grisly synagogue assault._  
+__grisly__ _adj_ :seven::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
@@ -6432,7 +6435,7 @@ __heartland__ _n_ :two: The central or most important part of a country, area, o
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
-__hearty__ _adj_ :astonished: __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._  
+__hearty__ _adj_ :two::astonished: __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._  
 __heat > to catch a lot of heat__  
 __heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
@@ -12168,6 +12171,7 @@ __sequined__ _v_ :four::hammer:
 __sequiturs__  
 __seracs__ _n_  
 __sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
+__serein__ _n_  
 __serendipity__ _n_  
 __Serenity Prayer__  
 __serf__ _n_ _A vagrant serf._  
@@ -15742,7 +15746,7 @@ __workstation__ _n_ :two::hammer:
 __worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
 __world powers__ _n_ :astonished:  
 __wormed__ _v_  
-__wormhole__ _n_ :two::hammer:  
+__wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
 __worrisome__ _adj_ :four::hammer:  
 __worrywarts__  
 __worshiper__  
