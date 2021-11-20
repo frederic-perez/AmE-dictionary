@@ -573,6 +573,7 @@ __Archimedes__ _n_ :mega:
 __archipelago__ _n_ :four::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
 __archivist__  
+__archpriest__ _n_  
 __archrival__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
@@ -2807,7 +2808,7 @@ __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
 __concern__ _v_ :two::hammer: (concerned)  
-__concerted__  
+__concerted__ _adj_ :two::hammer: _A concerted effort._  
 __concertina wire__  
 __concertina__  
 __concertmaster__  
@@ -5404,6 +5405,7 @@ __fountainhead__ _n_ __1__ (Physical Geography) A spring that is the source of a
 __four-bagger__ _n_ _baseball_ Home-run.  
 __four-poster beds__  
 __four-wheeler__  
+__fourscore__ _adj_ An archaic word for eighty.  
 __fourth estate__ _n_ :two: (Fourth Estate) Journalists considered as a group; the public press.  
 __fourth wall__ _n_ :astonished:  
 __fovea__ _n_  
@@ -6939,7 +6941,7 @@ __imbed__ _v_ (imbedding) Less common spelling of _embed_.
 __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). _Syn_ soak up, absorb  
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
-__imbue__ _v_ :four: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__imbue__ _v_ :five: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
@@ -7735,7 +7737,7 @@ __larder__ _n_ :four::hammer:
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
-__larguese__ _n_  
+__largesse__ _n_ :two::pencil2::hammer:  
 __lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
@@ -8634,7 +8636,7 @@ __mischief__ _n_ :four::hammer:
 __mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__  
 __misconstrued__  
-__miscreant__ _n_ :seven: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
+__miscreant__ _n_ :eight: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
@@ -9788,6 +9790,7 @@ __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance.
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: Sailing is her favorite pastime.  
+__pastoral__ _adj_ _A pastoral letter._  
 __pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
@@ -11069,6 +11072,7 @@ __rapacious__ _adj_ :two: Never satisfied until you have taken everything that y
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
+__rapine__  
 __rapping__ _v_  
 __rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
 __rapprochement__ _n_ :three::hammer:  
@@ -13554,6 +13558,7 @@ __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying
 __strobe light__ _n_ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
 __stroke__ _n_ _Stroke of good fortune._  
+__stroker__ _n_ _Regular strokers sold their plunder._  
 __stroll__ _v_  
 __Strombolian__ _adj_  
 __strong accent__  
@@ -14961,7 +14966,7 @@ __uppers__
 __upping__ _v_ :two::hammer:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
-__uproot__ _v_ :two::hammer: (uprooted) _Uprooted workers._  
+__uproot__ _v_ :three::hammer: (uprooted) _Uprooted workers._  
 __upsale__ _n_ An act of upselling.  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
