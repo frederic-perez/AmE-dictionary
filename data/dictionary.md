@@ -1006,6 +1006,7 @@ __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affec
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
 __beau__ _n_ :three: A rich, fashionable young man; a dandy. _Executive beau Rich Orosco._ :es: galán  
+__beauteous__ _adj_ Beautiful, especially to the sight.  
 __bebop__ _v_  
 __because__  
 __beck__ _n_ A gesture of beckoning or summons.  
@@ -4510,6 +4511,7 @@ __endurance__ _n_ _Endurance race._
 __endure__ _v_ Last for a long time.  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
+__enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ _I’m engaged with my work._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
@@ -4837,6 +4839,7 @@ __famed__ _adj_ Something that’s famed is very well-known, or famous. Your dad
 __familiar__ _adj_ :two::hammer: _I’m not familiar with it._ _No, I’m not familiar._  
 __family plot__ _n_ _She will be laid to rest in the family plot at Bethesda Cemetery._  
 __famine__ _n_ :two::hammer: _It could be feasst or famine._  
+__famish__ _v_  
 __famished__ _adj_ :two: Very hungry.  
 __fan letter__ _n_  
 __fan<sup>1</sup>__ _n_ (fans) __2__ An ardent devotee; an enthusiast. _We are big fans of preplanning._  
@@ -5368,7 +5371,7 @@ __forged__ _adj_ Of or relating to that which has been fraudulently imitated.
 __forgetful__ _adj_  
 __forgive__ _v_ _Forgive me, master._  
 __forgiving__ _adj_  
-__forgo__ _v_ :nine::m: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ :es: abstenerse de  
+__forgo__ _v_ :nine::m: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ _The Black Prince refused to forgo the battle._ :es: abstenerse de  
 __forgone__  
 __fork__ _n, v_ _Gordon at fork in the road._  
 __forklift__  
@@ -6477,7 +6480,7 @@ __hefted up__
 __hefty__ _adj_ :two::hammer:  
 __hegira__ _n_  
 __height__ _n_ :mute:[hei~~gh~~t]  
-__heightened__ _adj_ :two::hammer:  
+__heightened__ _adj_ :three::hammer:  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
@@ -9618,7 +9621,7 @@ __padlock__
 __paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
-__page__ _n_  
+__page__ _n_ :two::hammer:  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pages__ _n_ A source or record of knowledge: _in the pages of science._  
@@ -9860,6 +9863,7 @@ __peanut butter__ _n_ A paste made from ground roasted peanuts. _Organic peanut 
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
 __pearl onions__  
+__peasant__ _n_  
 __peat__ _n_ :three::hammer: _Battling the blazes in peat swamp forests._ :es: turba  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault. A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
@@ -11390,7 +11394,7 @@ __resolute__ _adj_ Firm in purpose or belief; steadfast. _Syn_ determined, stalw
 __resolve__ _v_ :two::hammer: (resolved) _The issue was resolved._  
 __resounding__ _adj_ :two::hammer: _The answer is a resounding yes._  
 __respirator__ _n_ :two: A masklike device, usually of gauze, worn over the mouth, or nose and mouth, to prevent the inhalation of noxious substances or the like. Health professionals wear respirators to filter out virus particles as they breathe in so they don’t get infected with COVID-19 while helping people and patients.  
-__respite__ _n_ :nine::m: A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
+__respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from something that’s difficult or unpleasant. If you’re cramming for exams, take an occasional walk to give yourself a respite from the intensity.  
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
@@ -14067,7 +14071,7 @@ __tensile__ _adj_ _Tensile cable._
 __tentative__  
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
-__tenure__ _n_ :two::hammer:  
+__tenure__ _n_ :three::hammer:  
 __tenured__  
 __tepid__ _adj_ :five::hammer:  
 __tequila poppers__  
@@ -15786,7 +15790,7 @@ __wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
 __wrinkle__ _v_ :five::mute:[~~w~~rinkle]:hammer: (wrinkled, wrinkling) _His brow wrinkled in thought._  
 __wrist__ _n_ :mute:[~~w~~rist]  
-__writ__ _n_ :three::hammer: _Compulsory State writ._  
+__writ__ _n_ :four::hammer: _Compulsory State writ._  
 __write off__ _phr v_ :three: To accept that a debt or loan won’t be paid back. _Don’t write off Tiger just yet._  
 __write out__ _phr v_ To write something on paper with all the necessary details.  
 __write up__ _phr v_ :three: To write something using notes that you wrote earlier.  
