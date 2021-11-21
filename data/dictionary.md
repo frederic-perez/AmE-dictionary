@@ -393,7 +393,7 @@ __amid__
 __Amish__ _n_ _Amish country._  
 __amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
 __amiss<sup>2</sup>__ _adv_  
-__amity__  
+__amity__ _n_ :two::hammer: /AM-uh-tee/ _Amity between the nations was restored with the treaty._  
 __ammeter__ _n_ :astonished: An instrument for measuring electric currents in amperes.  
 __ammo__  
 __ammonia__ _n_  
@@ -881,6 +881,7 @@ __balter__ _v tr_ _archaic_ To dance or tread clumsily.
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
+__banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
 __bandit__ _n_ :two::hammer:  
@@ -4095,7 +4096,7 @@ __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __Draconian__ _adj_  
-__draconian__ _adj_ :three: Extremely strict and severe.  
+__draconian__ _adj_ :four: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
 __draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
 __drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
@@ -4710,7 +4711,7 @@ __exhortation__ _n_
 __exiguous__ _adj_ :two::hammer:  
 __existential__ _n_ :pencil2:  
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
-__exonerate__ _v_ :five: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
+__exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
 __expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
@@ -4953,6 +4954,7 @@ __fend off__ _v_ :four: Prevent the occurrence of; prevent from happening.
 __fend__ _v_ (fending)  
 __fennel__ _n_ :two::hammer: :es: hinojo  
 __fenny__ _adj_ _A fenny marsh._  
+__Fentanyl__ _n_ Trade names of a narcotic analgesic that can be inhaled and that acts on the central nervous system and may become addictive; used as a veterinary anesthetic and with other drugs before, during, and after surgery; also used as a nonlethal gas to incapacitate people in hostage situations; also abused as a recreational drug.  
 __fenugreek__  
 __feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mugger’s feral scowl was terrifying enough to make me empty my pockets without hesitation._ _Feral hogs._ _Feral cats._ _Three baby feral pigs._  
 __Ferberization__  
@@ -8148,7 +8150,7 @@ __lowlife__ _n_ _slang_ :three: A criminal or disreputable person.
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
-__lucid__ _adj_ Expressed clearly; easily understood; comprehensible; rational or sane: _He’s a muddled fool, full of lucid intervals._  
+__lucid__ _adj_ :two: Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
 __lucky charm__  
@@ -9128,7 +9130,7 @@ __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-den
 __non-existent__ _adj_  
 __non-perishables__  
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
-__nonce__  
+__nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
 __nonchalance__ _n_  
 __nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
@@ -10566,6 +10568,7 @@ __prescription__ _n_ :four::hammer: _Prescription pills._
 __presell__ _v_ To sell something before it is available.  
 __presentation__ _n_ :mega:  
 __presenteeism__ _n_ The practice of reporting to work despite illness or the inability to focus productively on one’s job.  
+__presently__ _adv_ /PREZ-uhnt-lee/ __1__ In a short while: soon. _She will arrive presently._ __2__ _Usage Problem_ At the present time: now. _He is presently staying with us._  
 __preserve__ _n_ __3__ An area maintained for the protection of wildlife or natural resources. _A comedy about gorillas in a preserve._  
 __preserves__ _n pl_ :two: Fruit cooked with sugar to protect against decay or fermentation. _A jar of fig preserves._  
 __president-elect__ _n_ :four::hammer:  
@@ -14548,7 +14551,7 @@ __tremor__ _n_
 __trench coat__ _n_  
 __trenchant__ _adj_  
 __trend__ _v_  
-__trepidation__ _n_ :five: Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
+__trepidation__ _n_ :six: /trep-uh-DAY-shun/ Worry or anxiety about something that is going to happen. _With some trepidation, I asked him out for dinner._  
 __trepidatious__ _adj_ (_less commonly_ trepidacious) Feeling trepidation.  
 __trespass__ _v_ :two::hammer: _No trespassing._  
 __trespasses__ _n_ :pencil2:  
@@ -14882,6 +14885,7 @@ __unimpeachable__ _adj_ Free of guilt; not subject to blame. _Syn_ blameless, in
 __unimpeded__ _v_  
 __Union Jack__ _n_ :camera:  
 __union__ _n_ (unions) :three::hammer: _Union construction worker._  
+__univocal__ _adj_ /yoo-NIV-uh-kul/  
 __unkempt__ _adj_ :three::hammer: _Unkempt beards._  
 __unleavened__ _adj_ :mega:  
 __unlike<sup>1</sup>__ _adj_  
