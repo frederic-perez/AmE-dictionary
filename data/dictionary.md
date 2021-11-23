@@ -1738,7 +1738,7 @@ __buffoon__
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
-__bugbear__ _n_ :two: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
+__bugbear__ _n_ :three: __1__ Any source, real or imaginary, of needless fright or fear. __2__ A persistent problem or source of annoyance.  
 __bugger__ _n_ :two::hammer: (buggers)  
 __buggy__ _n_ :two::mega::hammer: _In the early 1900s, guests arrived by horse and buggy._  
 __bugles__ _n_ :three::hammer: _The echo of Chinese bugles._  
@@ -3229,6 +3229,7 @@ __crossbow__ _n_
 __crossover<sup>1</sup>__ _n_  
 __crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
 __crossroad__ _n_ _He is at a significant crossroads in his career._  
+__crossroads__ _n_ _I’m at a career crossroads._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
 __crouch<sup>2</sup>__ _n_  
@@ -4142,7 +4143,7 @@ __dress rehearsal__
 __dress up__ _v_  
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
-__dressing__ _n_ _It’s going to take longer to get to that turkey and dressing._  
+__dressing__ _n_ :two::hammer: _It’s going to take longer to get to that turkey and dressing._  
 __dribble__ _v_ :two::hammer: :es: regatear  
 __dribbled__ _v_  
 __drift__ _n_ :two::hammer: _You get the drift._  
@@ -5044,6 +5045,7 @@ __filings__ _n_ :two::hammer::astonished: _She scraped the metal filings from un
 __Filipino__  
 __fill out__  
 __filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._  
+__filling__  
 __fillip__ _n_ :three::hammer:  
 __filly__ _n_ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
@@ -7332,7 +7334,7 @@ __jam__ _v_ :two::hammer:
 __jamb__ _n_ :two::hammer: _(building)_ _Window jamb._  
 __jambalaya__ _n_  
 __jamboree__ _n_ :four::hammer: _A campfire jamboree._  
-__jammies__ _n_  
+__jammies__ _n_ :two::hammer:  
 __jampacked__ _v_  
 __jams__ _n_  
 __Jane__ _n_ _slang chiefly US_ A girl or woman. _Regular Janes and Joes._  
@@ -7715,6 +7717,7 @@ __lance__ _v_ :astonished:
 __lanced__ _v_  
 __lancet__ _n_  
 __lancing irons__  
+__land__ _v_ _Thanksgiving this year lands on November 25._  
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
@@ -10753,6 +10756,7 @@ __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney,
 __prude__ _n_ :three::hammer:  
 __prudent__ _adj_ :two::hammer:  
 __prudently__ _adv_  
+__prudishness__ _n_  
 __prurient__ _adj_ :three::hammer:  
 __pruritus__ _n_ :two: Severe itching, often of undamaged skin.  
 __pry<sup>1</sup>__ _v intr_ :nine::m: To look or inquire closely, curiously, or impertinently: _was always prying into the affairs of others._  
@@ -13596,6 +13600,7 @@ __studded__ _adj_ :two::hammer: _Customers gathered for his star-studded celebra
 __stuff sacks__ _n_  
 __stuff__ _v_  
 __stuffer__  
+__stuffing__  
 __stuffy nose__ _n_ The presence of increased secretions and mucus in the nasal passages, most commonly arising as a result of a common cold, allergic reaction, or inflammation or infection of the paranasal sinuses (sinus infection). _Side effects are stuffy or runny nose, and sore throat._  
 __stuffy__ _adj_ :three::hammer:  
 __stump__ _v_ :nine::m::dart: (stumped) There are three ways to stump: you can ask someone a question they can’t answer, you can travel making political speeches, or you can stomp. Stump can mean many things as a verb. The most common use is when someone — like a teacher — asks a question that no one can answer. That’s a case of the teacher stumping the class. Also, politicians traveling through a district, making speeches are stumping, giving what are called stump speeches. Once in a while, to stump means the same thing as two similar words, stomp and stamp. If you’re stumping, stomping, and stamping around, you’re making a lot of noise with your feet. _Computers were loaded with reference materials so that inmates could look up answers (without accessing the Internet) when they were stumped._  
@@ -15430,7 +15435,7 @@ __well-heeled__ _adj_ :two: Having plenty of money.
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-off__ _adj_  
 __well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
-__well-rounded__ _adj_ :three::hammer:  
+__well-rounded__ _adj_ :four::hammer:  
 __wellhead__  
 __welling up__  
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
@@ -15828,7 +15833,7 @@ __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiolo
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
 __yakuza__ _n_ :two::hammer:  
-__yam__ _n_ :two: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
+__yam__ _n_ :three: In North America, a yam is the same thing as a sweet potato, although in most parts of the world these words refer to two completely different vegetables. Yams have flesh that ranges in color from white to deep orange and tastes slightly sweet. The word yam started as igname, from the Portuguese inhame, from a West African source. :es: boniato  
 __yank__ _v_ :two::hammer: _Investors have yanked $39.1 billion from traditional domestic stock mutual funds this year._  
 __yap<sup>1</sup>__ _v_ :four::hammer: (yapping) _The dog was yapping._ _Podcast hosts can’t stop yapping about sweat-whisking underwear._  
 __yap<sup>2</sup>__ _n_ _slang_ :two: Mouth.  

@@ -1,15 +1,3 @@
-🔨 Stuff from the Internet
-
-__well-rounded__ _adj_  
-__bugbear__ (Australian?)  
-__crossroads__ _I’m at a career crossroads._  
-__jammies__ _n_  
-__land__ _v_ _Thanksgiving this year lands on November 25._  
-__prudishness__ _n_  
-__yam__ _n_  
-__stuffing__  
-__dressing__  
-__filling__  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __lucid__ _adj_ /LOO-sid/  
