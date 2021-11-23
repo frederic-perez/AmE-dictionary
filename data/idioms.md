@@ -244,7 +244,7 @@ __be no picnic__ _Looking after four children is no picnic._
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on the lookout__ :two::hammer:  
-__be on track__ To progress or develop as planned, scheduled, or expected.  
+__be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
@@ -261,6 +261,7 @@ __beat your head against the wall__ To try to do something that is hopeless.
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __beg the question__ _All of this begs the question of Gallego’s own voting record._  
+__behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
 __behind the times__ Old-fashioned.  
@@ -276,6 +277,7 @@ __bite (one’s) head off__ To respond to someone with anger that is often sudde
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
+__black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
@@ -1212,6 +1214,7 @@ __left and right__
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
+__legend has it__  
 __lemon law__ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
 __let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
@@ -1269,6 +1272,7 @@ __long arm__ Broad, far-reaching power or influence. (Usually paired with a noun
 __long haul__ _We are ready to go long haul._  
 __long hours__ :two::hammer: _The long hours you’re putting in may not help._  
 __long memory__ A clear memory of events that happened long ago. _I always have a long memory for people who disrespect me. Once you’re in my bad books, you’re there forever!_  
+__long overdue__  
 __long since__ Long ago; of the (relatively) distant past. _I came back to my hometown after college, eager to reconnect with old friends, but they had long since moved away._  
 __long story short__  
 __long time no see__ A phrase used when one encounters someone after having not seen them for a long period of time. _Hey, Al, long time no see! How have you been?_  
@@ -1433,6 +1437,7 @@ __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.
 __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __old as the hills__ Someone who is very old.  
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
+__old school thinking__  
 __on (someone’s) behalf__ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
 __on a daily basis__ Every day. _They work with the team on a daily basis._  
 __on a dime__  
@@ -1595,7 +1600,7 @@ __ring true__ To seem or sound true, sincere, or authentic. _Her moans of pleasu
 __ring up__ _Ringing up sales._  
 __rinse and repeat__ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
 __rise from the ashes__ To recover after a serious failure.  
-__rock the boat__ :four::hammer: _Please, don’t rock the boat._  
+__rock the boat__ :five::hammer: _Please, don’t rock the boat._  
 __rocket science__ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
@@ -1628,7 +1633,7 @@ __security blanket__ :dart: That which gives one a feeling of comfort, confidenc
 __see eye to eye__ :three: To concur, agree. To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  
 __see red__ :two: To become very angry.  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
-__seize the opportunity__ To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
+__seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
 __sell (someone, something, or oneself) short__ To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
 __sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
@@ -1732,6 +1737,7 @@ __take a dive__
 __take a leak__ :two: _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
 __take a load off (one’s feet)__ To sit down and rest one’s feet; to relax. (Usually said as a suggestion.) _Why don’t you go take a load off for a while, and I’ll fix dinner for tonight?_  
 __take a piss__ Urinate.  
+__take by storm__ _The dystopian drama that has taken the internet by storm._  
 __take comfort in (something)__ To be soothed or calmed by something. _When things get tough, I take comfort in the company of my closest friends._  
 __take heart__ :three::dart: To be confident or courageous.  
 __take it away__ _informal_ Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_  
@@ -1825,6 +1831,7 @@ __time and again__ Again and again; repeatedly.
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
+__to be on a mission__  
 __to be on edge__ _You seem on edge._  
 __to date__ :three: Until now. _To date, no winners have attended._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  

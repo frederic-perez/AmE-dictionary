@@ -1,13 +1,3 @@
-__be on track__  
-__take by storm__ _The dystopian drama that has taken the internet by storm._  
-__long overdue__  
-__seize the opportunity__  
-__legend has it__  
-__old school thinking__  
-__rock the boat__  
-__to be on a mission__
-__black__ _n_ _You take sugar, cream? No, thanks, just black._  
-__behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __killing field__  
 __five bells__ (six thirty?)  
 __stand at attention__ _They were standing at attention._  
