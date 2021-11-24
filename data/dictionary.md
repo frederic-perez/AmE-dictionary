@@ -443,6 +443,7 @@ __anguish<sup>2</sup>__ _v_ :two::hammer: (anguishes)
 __anhedonia__ _n_ The inability to feel or experience pleasure.  
 __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions against any one, and certainly intended no disrespectful allusions to your mother._  
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
+__anime__ _n_ /ˈænɪˌmeɪ/ A style of animation developed in Japan, characterized by stylized colorful art and often adult themes.  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
 __animus__ _n_ :six::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
@@ -1555,7 +1556,7 @@ __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibb
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
-__brackish__ _adj_ :two: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
+__brackish__ _adj_ :three: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
@@ -1913,7 +1914,7 @@ __C-suite__ _n_ The executive suite in an organization. It refers to all the “
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
-__cabal__ _n_ __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
+__cabal__ _n_ :two: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
@@ -3766,7 +3767,7 @@ __dinging<sup>1</sup>__ _n_ (Sports medicine) Mild traumatic brain injury.
 __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larger boat.  
 __dingy__ _adj_  
 __dinking<sup>2</sup>__ _v_  
-__dinky__ _adj_ :three::hammer: _A dinky little community._  
+__dinky__ _adj_ :four: Of small size or consequence; insignificant. _A dinky little community._  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
@@ -4791,7 +4792,7 @@ __face off__ _v_
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
 __face-lift__  
-__facetious__ _adj_ :four::astonished::pencil2: Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__facetious__ _adj_ :five::astonished::pencil2: /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
@@ -9772,7 +9773,7 @@ __parried__ _v_
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
 __parrot__ _v_ To repeat or imitate, especially without understanding.  
 __parroting__ _v_  
-__parry__ _v_ :dart::three: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer.  
+__parry__ _v_ :dart::four: __1__ To ward off (something, such as a weapon or blow). __2__ To evade (something, such as a question) by an adroit answer. To deflect, evade, or avoid. _Syn_ hedge, sidestep, skirt, circumvent, dodge, elude, duck _He parried every inquiry so successfully that soon he was the one asking the questions._  
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
@@ -10915,7 +10916,7 @@ __qua__ _prep_ In the capacity or character of; as: _The president qua head of t
 __quack__ _n_ :six: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. __2__ A charlatan; a mountebank. _Partisan quacks._  
 __quadrennial__  
 __quadroons__  
-__quaff__ _v_ _(chiefly literary)_  
+__quaff__ _v_ :two: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
@@ -11559,7 +11560,7 @@ __ripple__ _v_ :four::hammer: (rippled)
 __rippling__ _n_ A small wave on the surface of a liquid. _Syn_ riffle, ripple, wavelet _The rippling of streams flowing._  
 __rise__ _v_  
 __risers__  
-__risible__ _adj_ :three: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
+__risible__ _adj_ :four: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
 __rite__ _n_ :two::hammer:  
 __ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
 __ritz<sup>2</sup>__ _v tr_ /rits/ __1__ To make a show of luxury or opulence. __2__ To behave haughtily toward someone; to snub.  
@@ -11604,7 +11605,7 @@ __rogue<sup>1</sup>__ _n_
 __rogue<sup>2</sup>__ _adj_ :two::hammer: _Rogue behavior._  
 __roguery__ _n_ Reckless or malicious behavior that causes discomfort or annoyance in others. _Syn_ mischief, devilment, rascality _Ms. Adams caught Tommy dipping Sally’s pigtail in his inkwell and gave him detention for his roguery._  
 __roil__ _v_ :nine::m: (roiled, roiling) US term for rile (make someone annoyed or irritated). _Another shocker roils _Game_ finale._ _They plunged into the roiling water._ _His stomach was roiling._ _The sky was gray and roiling with clouds._ :es: enturbiarse; agitarse  
-__roister__ _v_ :two: Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._  
+__roister__ _v_ :three: /ROY-ster/ Engage in boisterous, drunken merrymaking. _Syn_ carouse, riot _Grab your hats and your flasks, lads; we’re going to roister till sunup._ _Fans roistered after their team won the championship._  
 __role model__ _n_ :two::hammer: _The best role models embrace their flaws._  
 __roll (someone’s) eyes__  
 __roll call__ _n_ :two: The calling of a list of names, as of soldiers or students, for checking attendance. _McConnell indefinitely postponed a critical roll call planned for this week._  
@@ -12322,7 +12323,7 @@ __shield__ _v_
 __shiet__  
 __shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
 __shift__  
-__shifty__ _adj_ :two::hammer: _Jane was shifty and quick-witted._  
+__shifty__ _adj_ :four: /SHIF-tee/ __1__ Evasive; untrustworthy. __2__ Changing directions frequently. __3__ Resourceful: able to accomplish what needs done. _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
 __shill__ _n_ (shills) _Government shills._  
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
