@@ -658,6 +658,7 @@ __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._
 __assimilation__ _n_  
 __assist__ _n_ _Green had 14 rebounds and nine assists._  
 __assistance animal__ _n_  
+__assizes__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :five::hammer: (assuaged)  
@@ -1301,7 +1302,7 @@ __bleep__ _v_ _We’ll bleep your name out._
 __blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
 __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of tea._ _I go to a coffee bar with bagels and blends of the day._  
-__blight<sup>1</sup>__ _n_ :two::hammer:  
+__blight<sup>1</sup>__ _n_ :three::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ _n_ :two: __1__ A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._  
 __blind as a bat__  
@@ -2275,7 +2276,7 @@ __chaparral__ _n_ :three: Dense vegetation consisting of stunted trees or bushes
 __chaperone<sup>1</sup>__ _n_ :three::hammer:  
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
-__chaplain__ _n_ :four::mega:  
+__chaplain__ _n_ :six::mega::hammer:  
 __chapter house__ _n_ _They met in the chapter house of the abbey._  
 __chapter__ _n_ _To the east was the chapter house._  
 __char__ _v_ (charred)  
@@ -2636,6 +2637,7 @@ __cobbler__ _n_
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __cochineal__ _n_  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
+__cockcrow__  
 __cockerel__  
 __cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
 __cockle__ _n_ :es: berberecho  
@@ -7533,6 +7535,7 @@ __keno__ _n_
 __kerchief__ _n_  
 __kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
 __keseboy__  
+__kettledrum__ _n_ :es: timbal  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
@@ -8412,6 +8415,7 @@ __maternity leave__
 __materteral__ _adj_ /muh-TUHR-tuhr-uhl/ [:scroll: From Latin matertera (maternal aunt), from mater- (mother).] Characteristic of, or in the manner of, an aunt. This word is the feminine counterpart of the word avuncular (like an uncle).  
 __matey__  
 __matinee__ _n_ :three::hammer: (matinees) _The matinees were killing him._  
+__matins__ _n_ _Matins were chanted._  
 __matriarch__ _n_ :two::hammer:  
 __matriculate__ _v_ __1__ To enroll as a member of a body and especially of a college or university. __2__ To be enrolled at a college or university.  
 __matron__  
@@ -8501,6 +8505,7 @@ __memorable__
 __memorandum__ _n_ :two::hammer:  
 __memorial__ _n_ _In lieu of flowers, memorials may be sent to Foo, Bar, TX._  
 __menagerie__ _n_ :two::hammer:  
+__menageries__ _n_ _Lions were kept in the menageries._  
 __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman’s life.  
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
@@ -13714,6 +13719,7 @@ __sunken__
 __sunset<sup>1</sup>__ _n_  
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __suntan__ _n_  
+__sunup__ _n_  
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
@@ -14422,7 +14428,7 @@ __top up__ _phr v_ To add more liquid to someone’s glass or cup in order to ma
 __top-dog__  
 __top-flight__  
 __top-of-mind__  
-__topiary__  
+__topiary__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
 __topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
@@ -14970,7 +14976,7 @@ __upheaval__ _n_ :nine: A state of violent disturbance and disorder (as in polit
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
-__upkeep__ _n_ :three: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
+__upkeep__ _n_ :four: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
 __uplifting__ _adj_  
 __upmarket__  
 __upmost__ _adj_ Uppermost.  
