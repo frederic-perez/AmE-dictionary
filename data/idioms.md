@@ -198,6 +198,7 @@ __bat an eye__ :two: To display a subtle emotional reaction, such as consternati
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (just) good friends__ A phrase used to emphasize that two people are not in a romantic relationship. _Oh, he’s not my boyfriend—we’re just good friends._  
+__be (of) no use to man or beast__ To be completely useless; to serve no purpose; to be unsuitable to anyone or anything. _After 20 years, my faithful old truck finally broke down for good. It’s no use to man or beast anymore._  
 __be (one’s) last resort__ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
@@ -214,6 +215,7 @@ __be caught with (one’s) pants down__ To be taken by surprise; to be caught in
 __be champing at the bit__ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ To be emptied or devoid of money, food, resources, etc.  
 __be full of yourself__ To think that you are very important in a way that annoys other people.  
+__be given no quarter__ To be offered no mercy, concession, or indulgence. _This match determines if we’re heading to the finals of the tournament, so make sure they are given no quarter!_  
 __be glad to see the back of__ Be happy when a person leaves.  
 __be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be here to stay__ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
@@ -241,6 +243,7 @@ __be losing it__ _idiom_ To start becoming crazy, insane, or mentally unstable.
 __be made of sterner stuff__ To be very strong, determined, or of uncompromising character, especially in comparison to others. _I can’t believe you let us down at the last minute. I thought you were made of sterner stuff than that!_ _Did she cry? I thought she was made of sterner stuff._  
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be no picnic__ _Looking after four children is no picnic._  
+__be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on the lookout__ :two::hammer:  
@@ -1412,11 +1415,15 @@ __no way, José__
 __no worries__ :four: No worries is an expression seen in Australian, British and New Zealand English meaning “do not worry about that”, “that’s all right”, or “sure thing.” It is similar to the American English _no problem._  
 __no-brainer__ A very easy or obvious choice, decision, or solution. (So easy or obvious that it is humorously said to require no brain.) _The answer to the riddle was a total no-brainer—I don’t know why it took me so long to figure out!_  
 __not (one’s) first rodeo__ :two: One is experienced with a certain situation, especially in relation to potential pitfalls or deceitful practices by others. _Don’t think I’ll fall for that old trick. This isn’t my first rodeo, you know._  
+__not a moment too soon__ At the last possible moment before it is too late; just in the nick of time. _The police arrived not a moment too soon, and the would-be burglar was apprehended before anything could be stolen._  
 __not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I hope all our efforts to help your career have not been lost on you, John._  
 __not by any means__ Not in any way; not at all; absolutely not.  
+__not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
 __not have a hope in hell (of doing something)__ To not have any chance at all of doing or achieving something.  
 __not have all day__ To be in a rush; to not have much or any time to spare. Usually used in the present tense.  
+__not have much between the ears__ To be rather stupid, dull, or dimwitted; to not have much common sense or basic intelligence. _She seems nice enough, but I get the sense that she might not have much between the ears._  
+__not have two nickels to rub together__ To be extremely poor; to have very little or no money to spend. Primarily heard in US. _During college, when I didn’t have two nickels to rub together, I survived off of ramen noodles for months at a time._  
 __not in a million years__ Not at any point; under absolutely no circumstances. _Not in a million years did I think that I would actually win the lottery!_  
 __not in a month of Sundays__ Not at any point; under absolutely no circumstances. _Not in a month of Sundays did I think that I would actually win the lottery!_  
 __not know (someone) from a bar of soap__ To be completely unaware of or know nothing about someone; to have never met the person indicated.  
@@ -1424,7 +1431,9 @@ __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
+__now (someone) has gone and done it__ Someone has just done something very grave, foolish, and/or irreparable. _Now you’ve gone and done it! My mother’s gonna tan our hides for breaking that!_  
 __now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said.  
+__nut out__ __1__ _slang_ To discover, through careful consideration, deliberation, or investigation, the solution to something. In this usage, “nut” is slang for one’s head or brain. A noun or pronoun can be used between “nut” and “out.” _Each of us has hit the same stumbling block in the assignment, so we’re going to get together this weekend and nut it out together._ __2__ _slang_ To begin acting in a crazy, erratic, or deranged manner, especially due to extreme anger. In this usage, “nut” is a derogatory slang term meaning “a crazy person.” A noun or pronoun can be used between “nut” and “out.” _Tom totally nutted out after he found out his wife had been cheating on him._  
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
@@ -1756,6 +1765,7 @@ __take your mind off something__ To do something to help you forget about someth
 __talk back__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
 __talking head__ :dart: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._  
+__tan (one’s) hide__ To spank one. _Young lady, I will tan your hide if you disobey me again!_  
 __tap dancing__  
 __tap into__ :seven: __1__ To establish a connection with; have access to: _tapped into a new market for their products._ _It has allowed me to tap into my best talents._ __2__ To take advantage of: _tapped into their enthusiasm to improve the school._ _A good way to tap into their wallets._ _To tap into the millions of dollars to be made from apps._ _It’s possible that a new loan wouldn’t have to be tapped into immediately._  
 __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do you want to place another bet?” B: “Nah, I’m tapped out.” Do we have any more ink cartridges? This one’s tapped out._  
