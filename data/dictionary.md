@@ -1123,7 +1123,7 @@ __benison__ _n_
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m::hammer: (bequeathed)  
-__bequest__ _n_ :eight::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
+__bequest__ _n_ :nine::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
@@ -1465,6 +1465,7 @@ __boogeyman__
 __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.  
 __boohoo__ _v_  
 __book jacket__  
+__Book of Hours__  
 __book of matches__  
 __book<sup>1</sup>__ _n_ _According to the book._  
 __book<sup>2</sup>__ _v_ _I’ll book us a table._  
@@ -1736,7 +1737,7 @@ __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In goo
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n pl_ (also buffaloes, buffalos)  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
-__buffoon__  
+__buffoon__ _n_ :two::hammer:  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
 __bugaboo__ _n_ __1__ An object of often obsessive fear, anxiety, or irritation. __2__ A difficult or persistent problem: _his injury bugaboo returned in the last week._  
@@ -7107,7 +7108,7 @@ __induction__ _n_ :four::hammer: _Induction hall._
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :two: Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
-__ineffable__ _adj_ :three::hammer:  
+__ineffable__ _adj_ :four::hammer:  
 __ineffectual__  
 __inefficacious__ _adj_  
 __inequitable__  
@@ -7236,7 +7237,7 @@ __internecine__ _adj_
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interrelate__ _v_ :two::astonished::hammer:  
-__intersperse__ _v_ :eight::hammer: (interspersed)  
+__intersperse__ _v_ :nine::hammer: (interspersed)  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
@@ -10392,7 +10393,7 @@ __poltroon__ _n_ An abject coward. _Syn_ craven, recreant
 __polyadic__  
 __polymath__ _n_ :five::hammer:  
 __polystyrene__  
-__pomander__ _n_ __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
+__pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
 __pomegranate__ _n_ :two::hammer: (pomegranates)  
 __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__ _adj_ :two::hammer:  
@@ -11330,6 +11331,7 @@ __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total re
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
 __relinquish__ _v_ :eight: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
+__reliquary__ _n_ :two::hammer:  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
 __relo__ _n_ _informal_ __1__ Relocation.  
@@ -11981,7 +11983,7 @@ __scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfu
 __scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
-__sconce<sup>1</sup>__ _n_ __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
+__sconce<sup>1</sup>__ _n_ :two: __1__ A small defensive earthwork or fort. __2__ A decorative wall bracket for holding candles or lights. _Wall sconces._ __3__ A flattened candlestick that has a handle.  
 __sconce<sup>2</sup>__ _v_  
 __scone__ _n_ _Like strawberry jam slathered on a scone._  
 __scones__ _n_  
@@ -14754,7 +14756,8 @@ __twilight sleep__ _n_ A state of partial anaesthesia in which the patient retai
 __twin rooms__  
 __twin__ _v_ _Twinned files._  
 __twindemic__ _n_ Twindemic refers to the dual threat of a severe flu outbreak on top of the COVID-19 pandemic in the fall and winter of 2020.  
-__twine__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
+__twine<sup>1</sup>__ _n_ :two::hammer: _Tie the legs of the turkey together with twine._  
+__twine<sup>2</sup>__ _v_ _Imaginary beasts twine through the pages._  
 __twinge__ _n_ :three::hammer: _A painful twinge._  
 __twinkle__  
 __twinned towns__  
