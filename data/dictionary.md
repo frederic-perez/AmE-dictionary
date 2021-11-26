@@ -2047,7 +2047,8 @@ __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
 __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _a capacious office building._  
-__caparison__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
+__caparison<sup>1</sup>__ _n_  
+__caparison<sup>2</sup>__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
 __caper<sup>1</sup>__ _n_ :seven: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
 __caper<sup>2</sup>__ _v_  
@@ -5368,7 +5369,7 @@ __forerunner__ _n_ :two::hammer:
 __foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
-__forestall__ _v_ :six: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
+__forestall__ _v_ :seven: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
@@ -6562,6 +6563,7 @@ __higgledy-piggledy__
 __Higgs boson__ _n_ :two: (Higgs particle, God particle) An elementary particle with zero spin and mass greater than zero, predicted to exist by electroweak theory and other gauge theories, discovered in 2012.  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
 __high beams__  
+__High Mass__ _n_ A Mass in which the celebrant is assisted by a deacon and a subdeacon and accompanied by acolytes, a thurifer, and a choir. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
 __high places__ _n pl_ Positions and offices of influence and importance. _I’ve friends in high places._  
 __high road__ _n_ :two: __1a__ The easiest or surest path or course. _The high road to happiness._ _Champions take the high road._ __b__ The most positive, diplomatic, or ethical course.  
 __high roller__ _n_ :two: __1__ A gambler who wagers large sums. __2__ One who spends lavishly and ostentatiously on entertainment.  
@@ -7348,6 +7350,7 @@ __janitor__ _n_
 __Janus word__ _n_ A Janus word is a word that is its own opposite—like “fast,” which can refer both to moving very quickly and to staying put. Frequently described as “words that are their own opposites,” Janus words are also known as contronyms , antagonyms , or auto-antonyms.  
 __Janus-faced__ _adj_ /JAY-nuhs-fayst/ [:scroll: After Janus, the Roman god of doors, gates, and transitions.] __1__ Looking in two different directions. __2__ Having two contrasting aspects. __3__ Hypocritical or deceitful.  
 __jape__ _v_ :two::hammer: (japing)  
+__jaquette__ _n_  
 __jar<sup>1</sup>__ _n_ _An opened jar of olives._  
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
@@ -7828,6 +7831,7 @@ __leap day__
 __leap of faith__  
 __leap year__  
 __leapfrog__ _v_ :two::hammer: (leapfrogging)  
+__learned__ _adj_ _A learned physician from Prague._  
 __lease__ _n_ :three::hammer: (on a lease)  
 __leased__ _v_  
 __leaven__ _v_ _To leaven the raunch and swagger._  
@@ -8144,6 +8148,7 @@ __love-in__
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __Low Countries__ _n_ :two::hammer:  
+__Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
 __low-res__ _adj_ _informal_ Low-resolution.  
@@ -9599,7 +9604,7 @@ __overtime__ _n_ :es: horas extras
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
-__overwheening__  
+__overweenimg__ _adj_ :two::hammer: _An overweening pride._  
 __overwrought__ _adj_ :two::hammer: _Overwrought adults_  
 __overzealous__ _n_  
 __owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._ _Cavalry coul not deploy en masse owing to the marshes, hedges, and ditches._  
@@ -10800,6 +10805,7 @@ __puff<sup>2</sup>__ _v_ :five::hammer: (puffed) _I could hear the screen door p
 __puffer jacket__ _n_ (puffer) A quilted, fitted jacket filled with down or other material for warmth.  
 __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._ :es: hinchado  
 __pug__  
+__pug-nosed__ _adj_ _Pug-nosed face._  
 __pugil__  
 __pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxing.  
 __pugnacity__  
@@ -11845,7 +11851,7 @@ __sandpits__ _n_
 __sandstone__  
 __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]  
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
-__sandy-haired__  
+__sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
 __sanguine__ _adj_ :seven::hammer::astonished:  
 __sanguinolency__ _n_ Addiction to bloodshed.  
@@ -13184,6 +13190,7 @@ __spruce<sup>3</sup>__ _adj_
 __spry__ _adj_ :five: Lively, active, and brisk; vigorous.  
 __spuckie__  
 __spud__ _n_ __1__ _informal_ A potato. _There’s nothing quite like a hot spud covered in butter._ __2__ A sharp spadelike tool used for rooting or digging out weeds.  
+__spun sugar__ _n_ a fluffy confection made from threads of hot boiled sugar. _Syn_ candyfloss, cotton candy _A landscape made of spun sugar and painted pastry._  
 __spun__ _v_ :pencil2: (see homespun)  
 __spunk__  
 __spunky__  
