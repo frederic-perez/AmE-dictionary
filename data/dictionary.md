@@ -415,8 +415,7 @@ __anastomosis__ _n_
 __anathema__ _n_ :nine::m: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
 __anchovies__  
-__ancillary__ _adj_ _Ancillary study end points._  
-__ancillary<sup>1</sup>__ _adj_ :three::mega::hammer:  
+__ancillary<sup>1</sup>__ _adj_ :five::mega::hammer: _Ancillary study end points._  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
@@ -2891,7 +2890,7 @@ __conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army
 __conscription__ _n_ :two::hammer:  
 __consecutive__  
 __consensual__  
-__consensus__ _n_ :three::hammer: _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
+__consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
@@ -3290,7 +3289,8 @@ __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._
 __cudgel__ _n_ :five::hammer: (cudgels)  
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
-__cue__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
+__cue<sup>1</sup>__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
+__cue<sup>2</sup>__ _v_  
 __cueball__ _n_ A man or boy with a bald, shaven, or close-clipped head.  
 __cued__ _v_ _Newman cued the clip again._  
 __cues__ _n_  
@@ -3574,7 +3574,7 @@ __delectable__ _adj_ :five::hammer: _Syn_ delicious
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
-__deleterious__ _adj_ :five: Harmful often in a subtle or unexpected way.  
+__deleterious__ _adj_ :six: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious: _the deleterious effects of smoking._  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
 __delicate__ _adj_  
@@ -4702,7 +4702,7 @@ __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe
 __exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
 __exempt__ _v_ :two::hammer:  
-__exemption__ _n_ :two::hammer: _Dru earned an exemption into the tournament._  
+__exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
 __exertion__ _n_ :six::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
@@ -4733,6 +4733,7 @@ __expendable<sup>2</sup>__ _n_ Something that is expendable.
 __expenditure__ _n_ :six: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
+__explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
 __expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
@@ -4767,6 +4768,7 @@ __eye patch__
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
 __eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._  
+__eye-watering__ _adj_  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
 __eyeblack__ _n_ :two: Any of various dark pigments applied under the eyes especially by athletes to reduce solar glare. _He displayed a homophobic slur on his eyeblack._  
@@ -10200,6 +10202,7 @@ __pissed__ _adj_
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
 __pissy__ _adj_ _slang_ _vulgar_ Irritable; cranky.  
 __pistachios__ _n_ :two::pencil2::hammer:  
+__pit latrine__ _n_  
 __pit toilet__ _n_  
 __pit wagon__  
 __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
@@ -10599,7 +10602,7 @@ __presumptuous__ _adj_ Excessively forward. _Syn_ assumptive _You might think it
 __presure cooker__ _n_ __2__ A situation that subjects one to urgent demands, a hectic pace, or other stressful conditions. _It’s a pandemic breakup. Presure cooking._ __3__ A volatile situation.  
 __pretense__ _n_ :two::hammer:  
 __pretentious__ _adj_ :pencil2:  
-__preterm birth__ _n_ Preterm birth (PTB), also known as premature birth, is the birth of a baby at fewer than 37 weeks’ gestational age, as opposed to full term delivery at approximately 40 weeks.  
+__preterm birth__ _n_ :two: Preterm birth (PTB), also known as premature birth, is the birth of a baby at fewer than 37 weeks’ gestational age, as opposed to full term delivery at approximately 40 weeks.  
 __preternatural__ _n_  
 __pretty penny__ _n_ _informal_ A considerable sum of money: _I paid a pretty penny for that ring._  
 __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a tangle of knots._  
