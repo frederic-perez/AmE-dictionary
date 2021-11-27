@@ -36,6 +36,7 @@ __a bad penny__ A person with no value. Typically used in the proverb _“A bad 
 __a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
 __a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
+__a blessing in disguise__ An unfortunate event or situation that results in an unforeseen positive outcome. _Running late for work turned out to be a blessing in disguise. I would have been in the middle of that big multi-car pileup had I left the house on time._  
 __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden discovery, as in a bargain or business deal.  
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
@@ -492,6 +493,7 @@ __dig your own grave__ To do something stupid that will cause problems for you i
 __Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
+__do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
 __do over__  
 __do the dishes__ Wash dishes.  
 __Do your magic__  
@@ -1217,7 +1219,7 @@ __leave (something) out of account__ To ignore something; to pay little or no he
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leave no stone unturned__ _We are leaving no stone unturned._  
-__left and right__  
+__left and right__ :two::hammer:  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
@@ -1409,6 +1411,7 @@ __nice and (something)__ Very something. Used to emphasize how nice something is
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nice guy__ A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
 __nincompoop__ _n_ A silly, foolish, or stupid person.  
+__nine to fivers__  
 __no big deal__ _No big deal, but it looked sloppy._  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__  
@@ -1496,6 +1499,7 @@ __on thin ice__ In a risky position, in a dangerous situation.
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__  
+__on your toes__ Ready to deal with anything that might happen: _We were all on our toes, waiting for the game to begin._  
 __once a snipe, always a snipe__  
 __once and for all__ Finally; permanently.  
 __once in a blue moom__ Very rarely.  
@@ -1562,6 +1566,7 @@ __play chicken__ _slang_ To play dangerous games in order to discover who is the
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play safe__  
+__pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __pop up__ To suddenly appear or become available. _Problems started popping up as soon as the software went live._ _He might pop up in this movie in the tail end._  
 __pounce on (someone or something)__  
@@ -1714,6 +1719,7 @@ __so much so__ :three::hammer: _So much so that working with animals has become 
 __something is rotten in the state of Denmark__  
 __something or other__ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
 __sort it out__ :three: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
+__sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
@@ -1730,6 +1736,7 @@ __stand tall__ :five: To prove or display one’s pride, confidence, or fortitud
 __stand to reason__ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __stay put__ :five: To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
+__steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __step back__  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
 __strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
@@ -1737,6 +1744,7 @@ __street smart__
 __strike a chord__ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
 __stuff your face__ To eat a lot of food quickly.  
 __suffice (it) to say__ :two::hammer:  
+__sugarcoat (something)__ To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
 __Sunday best__ One’s very best clothes, as one would wear to a Sunday church service. _Rita wanders a highway in her Sunday best._  
 __sure enough__ :three: As one might have expected; certainly. _Sure enough, that’s what happened._  
 __surprise, surprise__ :two: Said ironically of or in a situation in which something very predictable has happened.  
@@ -1912,6 +1920,7 @@ __walls have ears__ Someone might be eavesdropping. _Let’s talk in my office�
 __wash (someone’s) mouth out (with soap)__ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash over (someone or something)__  
 __watch (one’s) language__ To speak politely, without using profane, obscene, or rude language. Often used as an imperative. _You watch your language, young lady, or you’ll be grounded for the weekend!_  
+__watch your back__  
 __watch your six__ Your intuitions are correct; the phrase ‘watch your six’ does indeed mean ‘watch your back.’ It refers to the 6 position on the face of a clock. Keep an extra set of eyes on the back of your head. _Dude, be careful man. Watch your six._  
 __weigh down__ To make someone heavy and unable to move easily.  
 __well played__  
