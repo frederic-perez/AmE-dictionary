@@ -4585,7 +4585,7 @@ __Episcopalian__
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
 __epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
-__epitome__ _n_ :nine::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
+__epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :two::hammer:  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
@@ -5370,6 +5370,7 @@ __foreseeable__
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :seven: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
+__forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
@@ -5946,11 +5947,11 @@ __gospel__ _n_ :es: evangelio
 __gossamer__ _adj, n_ :two::hammer: /GAH-suh-mer/  
 __gossipy__ _adj_  
 __gotcha__  
-__gouge__ _v_ :seven::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._  
+__gouge__ _v_ :eight::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._ _Gouging of eyes._  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
-__gout__  
+__gout__ _n_ :two::hammer:  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
 __grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
@@ -8205,7 +8206,7 @@ __lurch<sup>1</sup>__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to 
 __lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
-__lurid__ _adj_ :three::hammer:  
+__lurid__ _adj_ :four::hammer:  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
@@ -8589,6 +8590,7 @@ __miff__ _v_ (miffed) To cause to become offended or annoyed.
 __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
+__Milanese armor__  
 __milch__ _adj_ :two: Giving milk. _A milch cow._  
 __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._  
 __mildew<sup>1</sup>__ _n_ A fungus that produces a superficial (usually white) growth on organic matter.  
@@ -9773,7 +9775,7 @@ __parliament__ _n_ :pencil2::two::hammer:
 __parlor__  
 __parochial__ _adj_ :four::hammer:  
 __parolee__ _n_  
-__paroxysm__  
+__paroxysm__ _n_ :two::hammer:  
 __paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
 __parried__ _v_  
 __parrot nose pliers__ _n_ :es: Mordaza pico de loro  
@@ -10343,7 +10345,7 @@ __pneumonia__ _n_ :mute:[~~p~~neumonia]
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
-__poacher__ _n_ :four: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
+__poacher__ _n_ :five: __1__ (Cookery) A metal pan with individual cups for poaching eggs. __2__ One who hunts or fishes illegally on the property of another. _A chimpanzee that lost its mother to poachers._  
 __poaching__ _n_ :two: Cooking in simmering liquid. _Poaching has become socially unacceptable._  
 __pocket change__  
 __pocket rat__ _n_ Any of various rodents with cheek pouches.  
@@ -13541,6 +13543,7 @@ __strangle__ _v_ :four::hammer: (strangled, strangling) :es: estrangular
 __stranglehold__ _n_ :three::hammer:  
 __strap overalls__  
 __strapless__ _adj_ Having no strap or straps, as a dress or an undergarment. _Strapless black dress._  
+__strappado__ _n_ /straˈpɑːdəʊ,straˈpeɪdəʊ/  
 __strapped__  
 __strapping__ _adj_ Having a sturdy muscular physique; robust. _Two strapping sons._  
 __stratovolcano__ _n_  
@@ -15897,7 +15900,7 @@ __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does n
 __yolk__ _n_ :mute:[yo~~l~~k]  
 __YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
 __yonder__  
-__yore__ _n_ Time long pass. _Days of yore._  
+__yore__ _n_ :two: Time long pass. _Days of yore._ _The good simple days of yore._  
 __your face sounds familiar__ _n_ Philippines TV show. :es: _tu cara me suena_  
 __your mileage may vary__  
 __yowl__ _n_ :two::hammer: _His yowl of pain_  
