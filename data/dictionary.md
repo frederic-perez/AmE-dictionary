@@ -1916,7 +1916,7 @@ __c/o__
 __cab__ _n_ _The cab of his truck._  
 __cabal__ _n_ :two: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
-__cabbage__ _n_ :four::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
+__cabbage__ _n_ :six::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
 __cabinet<sup>1</sup>__ _n_  
 __cabinet<sup>2</sup>__ _adj_ :two::hammer: _A top cabinet job._  
@@ -2058,7 +2058,7 @@ __Capitol__ _n_ The government building in Washington where the United States Se
 __capitulate__ _v_ :two: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
-__capons__  
+__capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
 __cappie__ _n_  
 __caprice__  
 __caps__ _n_ Capital letters.  
@@ -3433,6 +3433,7 @@ __dated__ _adj_ :two: Old-fashioned; out-of-date. _The kitchen was dated and che
 __dateline__  
 __daub__ _v_ :four::hammer: (daubed) _A swastika was daubed on a science center window._ _She daubed some color on her cheeks._  
 __daughter__ _adj, n_ :mute:[dau~~gh~~ter]  
+__daunt__ _n_  
 __daunting__ _adj_ :five: Seeming difficult to deal with in prospect; intimidating.  
 __Dauphin__ _n_ :three: Formerly, the eldest son of the King of France and direct heir to the throne.  
 __davenport__ _n_ :mega: /dăv′ən-pôrt′/ __2__ (Furniture) _US and Canadian_ A large sofa, esp one convertible into a bed.  
@@ -7498,7 +7499,7 @@ __junk food__ _n_ _slang_ A high-calorie food that is low in nutritional value.
 __junk<sup>1</sup>__ _n_ _The “don’t touch my junk” uproar over intrusive TSA pat-downs._  
 __junk<sup>2</sup>__ _v_ :two::hammer: (junked) _Google is junking the app Google+._  
 __junker__  
-__junket__ _n_ _informal_ :two: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
+__junket__ _n_ _informal_ :three: An expensive trip paid for by government money or by a business for people they employ – used to show disapproval. _The championship game junket._  
 __junkie__ _n_ _He was a news junkie._  
 __Junoesque__ _adj_ Having the stately bearing and imposing beauty of the goddess Juno.  
 __junta__ _n_ :three::hammer:  
@@ -7564,7 +7565,7 @@ __kickback__ _n_ :seven::hammer: (kickbacks) _A kickback deal._
 __kickoff__ _n_ _The kickoff of the shopping season._  
 __kicks__ _n_ Pleasures, thrills.  
 __kid around__ _phr v_ To have fun by acting in a silly way.  
-__kid<sup>1</sup>__ _n_ _I was a Nintendo kid._  
+__kid<sup>1</sup>__ _n_ :two::astonished: __1a__ A young goat. _Roasted kid._ __b__ One of the young of certain similar animals. __3__ _Informal_ __a__ A child. __b__ A young person. _I was a Nintendo kid._  
 __kid<sup>2</sup>__ _v_  
 __kiddo__  
 __kids__ _n_ :astonished: _Made by treating the skin of lambs, calves, or kids._  
@@ -7724,6 +7725,7 @@ __laminated__ _adj_ __2__ Covered with a thin protective layer of plastic or syn
 __lampoon<sup>1</sup>__ _n_  
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_  
+__lamprey__ _n_  
 __lance__ _v_ :astonished:  
 __lanced__ _v_  
 __lancet__ _n_  
@@ -9661,7 +9663,7 @@ __palaver<sup>1</sup>__ _n_ :two::hammer:
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
-__palfrey__ _n_ A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances.  
+__palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __palisades__ _n_  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
@@ -11805,7 +11807,7 @@ __safeguard<sup>2</sup>__ _v_ :two::hammer:
 __safekeeping__  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
-__saffron__ _n_ :three::hammer: :es: azafrán  
+__saffron__ _n_ :four::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
 __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __2__ Any of various plants of the genus _Salvia_ of the mint family, having aromatic grayish-green leaves.  
@@ -13637,6 +13639,7 @@ __stunted__ _adj_ Inferior in size or quality.
 __stupas__  
 __stupefy__  
 __sturdy__ _adj_ :four::hammer:  
+__sturgeon__  
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
@@ -14009,7 +14012,7 @@ __tarts__ _n_ (whore)
 __Taser__ _n_ A trademark for a brand of conducted electrical weapons that cause neuromuscular incapacitation, used widely in law enforcement. _A Taser stun gun._  
 __task__ _v_ :four::hammer: (tasked) _They have been tasked._  
 __Tassel Loafers__ _n_ In the construction sector, a slang term for a corporate manager when he/she visits a worksite in person. The term derives from the fact that executives on construction sites can be identified by their fancy shoes.  
-__tassel<sup>1</sup>__ _n_ :two::hammer: _A thong with tassels._  
+__tassel<sup>1</sup>__ _n_ :three::hammer: _A thong with tassels._ _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)  
 __tat__ _n_ :two: __3__ _informal_ (tatt) A mark or design made on the skin; a tattoo.  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
