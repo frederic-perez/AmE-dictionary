@@ -1533,7 +1533,7 @@ __bouncy house__ _n_
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
-__bounty__ _n_ :two::hammer: _Bounty_ comes from the Latin word _bonus_, meaning good. _To fight under the banner and bounty of the grand seigneur._  
+__bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovarism__ _n_  
@@ -1590,6 +1590,7 @@ __brazier__
 __breach<sup>1</sup>__ _n_  
 __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
+__breadcrumb__ _n_  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one’s) neck__  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
@@ -2016,6 +2017,7 @@ __can__ _v_ :two::hammer: _Butler canned a long 3-pointer._
 __canapé__ _n_  
 __canard__ _n_ :two: An unfounded or false, deliberately misleading story.  
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
+__candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
 __candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
@@ -4204,6 +4206,7 @@ __drum up__
 __drum__ _v_  
 __drumbeat__ _n_ _Their drumbeat of criticism._  
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
+__drumstick__ _n_ :astonished: __1__ A stick for beating a drum. __2__ The meaty leg of a chicken, turkey, or other fowl.  
 __druthers__  
 __dry age__ _v_  
 __dry goods__ _n pl_ Textiles, clothing, and related articles of trade. Also called _soft goods._ _Dry goods store._  
@@ -4943,7 +4946,7 @@ __feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. W
 __fecklessness__  
 __feel for__  
 __feel out__  
-__feign__ _v_ :three::mute:[fei~~g~~n] To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
+__feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
@@ -5956,6 +5959,7 @@ __gotcha__
 __gouge__ _v_ :eight::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._ _Gouging of eyes._  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
+__gourd__ _n_ Decorative varieties of squash that aren’t eaten.  
 __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking. __2__ One who is heartily interested in good food and drink.  
 __gout__ _n_ :two::hammer:  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
@@ -7460,7 +7464,7 @@ __journeyman__ _n_ :three: A worker, athlete, performer, etc. who is competent a
 __joust<sup>1</sup>__ _n_ :two: A combat on horseback between two knights with lances especially as part of a tournament. _The rules of heraldry and jousting._  
 __joust<sup>2</sup>__ _v_ :three::hammer: (jousted) _Here people jousted with nature._  
 __jousting__ _adj_ _Jousting egos._  
-__jovial__ _adj_ :two::hammer:  
+__jovial__ _adj_ :three::hammer: /JOH-vee-ul/  
 __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump or flaccid.  
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
@@ -8263,6 +8267,7 @@ __maggot__ _n_ :dart::camera::three::hammer: (maggots)
 __Magic Marker__  
 __magnanimous__ _adj_ :two: Highly moral, especially in showing kindness or forgiveness, as in overlooking insults or not seeking revenge.  
 __magnum opus__ _n_ __1__ A great work, especially a literary or artistic masterpiece. __2__ The greatest single work of an artist, writer, or composer.  
+__magpie__ _n_ :es: urraca  
 __magpied__ _v_  
 __magpies__  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
@@ -14726,10 +14731,11 @@ __tunnel vision__ _n_ :two::hammer:
 __tuppence__  
 __turbid__ _adj_  
 __turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
-__turducken__ _n_ [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
+__turducken__ _n_ :two: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
 __turgid__ _adj_ :three::hammer:  
 __Turkey day__  
 __turkey drumstick__ _n_  
+__turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
 __turmoil__  
 __turn a profit__  
 __turn on__ _phr v_  
