@@ -412,7 +412,7 @@ __anal bleaching__ _n_
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analyst__ _n_ :pencil2:  
 __anastomosis__ _n_  
-__anathema__ _n_ :nine::m: Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
+__anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :five::mega::hammer: _Ancillary study end points._  
@@ -1629,7 +1629,7 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
-__brigand__ _n_ :five: A robber or bandit, especially one of an outlaw band.  
+__brigand__ _n_ :seven: A robber or bandit, especially one of an outlaw band.  
 __brigandage__ _n_ :four: Plundering by brigands. :es: bandidaje, bandolerismo  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
@@ -3392,6 +3392,7 @@ __dalliance__
 __dally__ _v_ :four::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
+__damask__ _n_  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
 __damnation__  
@@ -6356,6 +6357,7 @@ __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.
 __harmonize__ _v_  
 __harness__ _v_ :three::hammer: _Harnessing big data._  
 __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive and tedious degree. _She told her she was always harping on him._  
+__harpy__ _n_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_ :two::hammer: (harrows)  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
@@ -7938,7 +7940,7 @@ __lickety-split__ _adv_ _informal_ :dart::two::hammer: (lickety split)
 __licorice__ _n_ :five::camera::mega: If you’ve ever had a long, sweet, chewy, black candy, you’ve probably had licorice. This is a common type of candy made from the dried roots of the licorice plant. _Colored licorice candy._  
 __lidar__  
 __lie an egg__ _v_ _Springville laid an egg against the Leopards in the state semifinals._  
-__liege__  
+__liege__ _n_ :three::hammer:  
 __lier__ _n_ A person who lies down.  
 __life preserver__ _n_ _Marty McFly’s life preserver._  
 __lifeblood__ _n_ :four: The blood, as being necessary to life.  
@@ -8641,6 +8643,7 @@ __minie balls__
 __minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :two::hammer: (minions)  
+__miniver__ _n_  
 __minnie__ _n_ :two: A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
@@ -11305,6 +11308,7 @@ __regal__ _n_ :five: _A black West Indian with regal manners._ _Even though he w
 __regale__ _v_ :two: (regaled) __1__ To give delight or amusement to: _he regaled them with stories of his youth._ __2__ To provide with choice or abundant food or drink.  
 __regalia__ _n_ :two::hammer:  
 __regatta__  
+__regency__  
 __regents__ _n_  
 __regimen__ _n_ _An exercise regimen._  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
@@ -13307,7 +13311,7 @@ __stamp out__ _phr v_ :two: End or extinguish by forceful means. _Leading ophtha
 __stamp__ _n_ _Additional stamp duties went into effect last year._  
 __stamped__ _v_ :two::hammer:  
 __Stan__ _n_ A masculine given name, often a short form (hypocorism) of Stanley.  
-__stance__ _n_ :eight: The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
+__stance__ _n_ :nine: /ˈstan(t)s/ The way in which someone stands, especially when deliberately adopted (as in baseball, golf, and other sports); a person’s posture. _She altered her stance, resting all her weight on one leg._ _Syn_ posture, body position, pose  
 __stanch__ _v_ :two::hammer:  
 __stanchion__ _n_ _He braced his hands on a stanchion._  
 __stand a chance__  
@@ -13570,7 +13574,7 @@ __street name__ _n_ __1__ An alternative name that a person chooses or is given 
 __streetcar__  
 __streetwise__  
 __strengthen__ _v_ :two::hammer:  
-__strenuous__ _adj_ :astonished::five::hammer:  
+__strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
 __stressful__ _adj_  
 __stressor__ _n_ A stimulus that causes stress.  
@@ -13875,7 +13879,7 @@ __swivel__ _n_
 __swiveling__ _v_  
 __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don’t get yourself in a swivet._  
 __swizzle stir__ _n_  
-__swoon__ _v_ :nine::m: (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
+__swoon__ _v_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
 __swoop<sup>1</sup>__ _n_ :eight::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
