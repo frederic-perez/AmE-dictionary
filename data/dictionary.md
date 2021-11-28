@@ -2253,7 +2253,7 @@ __chain smoker__
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
-__chalkboard__ _n_  
+__chalkboard__ _n_ :two: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard.  
 __chalky__ _adj_ _Chalky skin._  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
@@ -2975,7 +2975,7 @@ __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
-__cop out__ _v_ :four: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ _v_ :six: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  
@@ -5200,7 +5200,8 @@ __flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor wh
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
-__flimflam__ _n_ :dart::two::hammer:  
+__flimflam<sup>1</sup>__ _n_ :dart::two::hammer:  
+__flimflam<sup>2</sup>__ _v_ To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
 __flimsy__ _adj_ :two::hammer:  
 __flinch__ _v_  
 __flinch<sup>2</sup>__ _v_ :six: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
@@ -5547,6 +5548,7 @@ __fulcrum__ _n_ :three::hammer:
 __fulfilling__  
 __fulfillment__ _n_ :pencil2:  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
+__full circle__ _adv_ Back to an original state or position. Often used in the phrase “come/go full circle.” _I started out as an excellent student, and now that my grades are starting to improve again, I feel like I’ve come full circle._  
 __full nelson__ _n_ A wrestling hold in which the holder puts both arms under the opponent’s arms and exerts pressure on the back of the neck (illegal in amateur wrestling).  
 __full-blown__  
 __full-bodied__ _adj_ :two::hammer:  
@@ -6007,6 +6009,7 @@ __graven__ _adj_ Cut or impressed into a surface. _Syn_ engraved, etched, inscri
 __gravesite__  
 __gravestone__  
 __graveyard orbit__  
+__graveyard shift__ _n_ __1__ A work shift that runs during the early morning hours, as from midnight to 8 am. __2__ The workers on such a shift.  
 __gravitas__ _n_ :four: A serious and impressive attitude or way of behaving. _Syn_ seriousness, gravity, solemnity _Darkness suggested gravitas._  
 __gravitate__ _v_ :three::hammer: _He gravitated toward politics._  
 __gravity__ _n_  
@@ -8892,6 +8895,7 @@ __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multi
 __multipurpose__ _adj_ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
+__mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or partially closing the mouth. _Sam has a tendency to mumble._ __2__ To chew food slowly or ineffectively, as if with the gums.  
 __mumbo jumbo__ _n_  
 __mumps__  
 __munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
@@ -12567,7 +12571,7 @@ __sire<sup>2</sup>__ _v_ :three::hammer: (sired) _Another colt sired by him._
 __siriasis__ _n_ Sudden prostration due to exposure to the sun or excessive heat. _Syn_ insolation, sunstroke, thermic fever _We were stranded in the desert, and it was not long before members of our party began exhibiting signs of siriasis._  
 __Sisyphean__ _adj_ :two: Actually or seemingly endless and futile. _A Sisyphean battle against the dust._  
 __sit__ _v_ _Stop sitting on the bull._  
-__sit-down__ _n_ _Johnny Carp says he wants another sit-down._  
+__sit-down__ _n_ :two::hammer: _Johnny Carp says he wants another sit-down._  
 __sit-ins__ _n_  
 __sitdown__ _n_ :two::hammer:  
 __sith__ _adv, conj, prep_ An archaic word for since.  
@@ -13134,7 +13138,8 @@ __splendor__
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
-__split__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
+__split<sup>1</sup>__ _n_ :two::hammer: _Tom would take a $15,00 split of the money from Zig._  
+__split<sup>2</sup>__ _v_ __9__ _slang_ To depart from; leave: _a mobster who suddenly split town._  
 __splitting headache__ _n_ A very bad headache.  
 __splotched__ _v_  
 __splotches__ _n_  
@@ -14339,6 +14344,7 @@ __tipple<sup>2</sup>__ _v tr_ To drink (liquor), esp. repeatedly and in small qu
 __tipple<sup>3</sup>__ _n_ Liquor; alcohol.  
 __tipsily__  
 __tipster__ _n_ :three::hammer: (tipsters)  
+__tipsy__ _adj_ __1__ Slightly drunk. _I was too tipsy to drive._ __2__ Slightly tilted or tipped; askew.  
 __tiptoe<sup>1</sup>__ _adj_  
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  

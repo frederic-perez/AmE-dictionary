@@ -81,6 +81,7 @@ __NA__ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North Americ
 __Nat Geo__ National Geographic.  
 __NATO__ _North Atlantic Treaty Organization_  
 __NDA__  
+__NG__ Not guilty. _The NG celebration at the bar._  
 __nos__ Numbers: _nos. 9 and 10._  
 __NPO__ _Latin_ Nil per os (nothing by mouth).  
 __obo__ :two: Or best offer.  
