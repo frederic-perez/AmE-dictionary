@@ -727,6 +727,7 @@ __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant
 __audible__ _v_  
 __audit__  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
+__augur__ _v_  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
@@ -2779,7 +2780,7 @@ __compartmentalize__ _v_
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
-__compelling__ _adj_ :five: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compelling__ _adj_ :six: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
 __complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
@@ -3171,7 +3172,7 @@ __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy�
 __creditor__ _n_  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
-__creep<sup>2</sup>__ _v_ (crept)  
+__creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated weir__  
 __creosote__  
 __crepe paper bells__  
@@ -3323,7 +3324,7 @@ __curdle__ _v_
 __curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
-__Curia__ _n_ :three: (Roman Catholic Church) The central administration governing the Church.  
+__Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
 __curios__  
 __curlicue<sup>1</sup>__ _n_ :two::hammer:  
@@ -3850,7 +3851,7 @@ __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 po
 __dish up__ _v_  
 __disheartened__ _adj_  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
-__disheveled__ _adj_ :three: (dishevelled) In disarray; extremely disorderly.  
+__disheveled__ _adj_ :four: (dishevelled) In disarray; extremely disorderly.  
 __dishing__ _v_  
 __dishonest__  
 __dishwasher__ _n_ _I worked as a dishwasher._  
@@ -4545,7 +4546,7 @@ __ensemble<sup>2</sup>__ _adj_ _An ensemble group._
 __enshrined__  
 __ensign__ _n_ :three::hammer: _Everyone saluted as the national ensign was raised on the fantail._  
 __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as if in a snare. _They were ensnared in city centre traffic._ :es: entrampar  
-__ensue__ _v_ :six::hammer: (ensued, ensuing) _Complications ensue._  
+__ensue__ _v_ :seven::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
 __entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
@@ -6777,6 +6778,7 @@ __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting;
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hosanna__ _n_ _A thousand hosannas._  
+__hospice__  
 __hoss__  
 __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
@@ -8496,7 +8498,7 @@ __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think ov
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
-__meek<sup>1</sup>__ _adj_ :seven: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>1</sup>__ _adj_ :eight: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
@@ -9733,6 +9735,7 @@ __pantry__ _n_ :three::hammer:
 __pants__ _n_  
 __pants-on-fire__  
 __pantsed__ _v_  
+__papacy__  
 __paper cut__ _n_ (papercut) _He can’t stand the sight of blood, not even from a paper cut._  
 __paper route__ _n_ __1__ The job of delivering newspapers regularly. __2__ The route taken when delivering newspapers every day. _Syn_ paper round  
 __paper tablecloth__ _n_ :two::hammer:  
@@ -12548,7 +12551,7 @@ __silverplate__ _v_
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
-__simony__ _n_ :four: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__simony__ _n_ :five: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
