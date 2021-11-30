@@ -1249,6 +1249,7 @@ __bizarre__ _adj_ :two::hammer: _The bizarre markings on the wagon._
 __black belt__ _n_  
 __Black Belt__ _n_ :two: Strip of rolling prairie land extending across central Alabama and Mississippi with fertile black clayey soil formerly notable for the production of cotton.  
 __Black Death__ _n_ :two: A form of bubonic plague pandemic in Europe and Asia during the 14th century, when it killed over 50 million people.  
+__Black Friday__ _n_ [:scroll: “The origin of Black Friday in this sense is not known for certain. The day was allegedly so named either in reference to traffic congestion in central cities on the day after Thanksgiving or to the supposed fact that retailers’ accounts shifted from red to black with the beginning of the shopping season.”] The Friday immediately following Thanksgiving Day that is considered by retailers to mark the beginning of the holiday shopping season.  
 __black gold__  
 __black lung__ _n_ Pneumoconiosis of coal miners caused by coal dust. _You can die of black lung._  
 __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeared from the interior of the Black Maria under conditions which leave the police puzzled._  
@@ -1825,6 +1826,7 @@ __burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or re
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
+__burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a carrier and is usually intended to be disposed of after use.  
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
 __burnish__ _v_ :six::hammer: (burnishing)  
@@ -4497,6 +4499,7 @@ __enactment__
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
+__enclave__ _n_ /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
@@ -5481,7 +5484,7 @@ __free-spoken__ _adj_ Characterized by directness in manner or speech; without s
 __freebie__ _n_ :five: (freebies) Something you get for free. _If you want to buy some, help yourself, but the freebies are all out._ _The tickets come with some bonus freebies._  
 __freebooter__ _n_ :two: Someone who takes spoils or plunder (as in war). _Syn_ looter, pillager, plunderer, raider _He was a genial freebooter, living off the enemy, without fear or shame._  
 __freeloading__  
-__freewheeling__ _adj_ :nine: _informal_ Unrestrained in manner, actions, etc.; uninhibited. _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
+__freewheeling__ _adj_ :nine::m: _informal_ Unrestrained in manner, actions, etc.; uninhibited. Not concerned with or constrained by rules, conventions, or responsibilities. _Syn_ devil-may-care, happy-go-lucky, harum-scarum, slaphappy, carefree _Enjoy your fun while you can because it won’t be long before you have to bid farewell to your freewheeling lifestyle and settle down._ _Freewheeling style._ _She was freewheeling downhill when she heard a car and put her feet back on the pedals._ _Freewheeling phone calls._ _Freewheeling style._ _A freewheeling conversation._ _The listener expects a freewheeling conversation._ _Let your creative mind freewheel._  
 __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
@@ -6307,6 +6310,7 @@ __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ gu
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
+__Hangul__ _n_ /häng′go͞ol/ The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hank__ _n_ :three::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
 __hankering__ _n_ :four: (hankerings) Craving.  
@@ -9480,6 +9484,7 @@ __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.
 __ornery__ _adj_ :three::hammer:  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
+__orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
 __orphrery__  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __orthokeratology__  
@@ -10163,6 +10168,7 @@ __pillory__ _n_
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
 __pilothouse__ _n_ An enclosed compartment from which a vessel can be navigated.  
+__Piltdown man__ _n_ A hypothetical early modern human whose existence was inferred from bone fragments allegedly found at Piltdown, England, in 1912 but identified as a hoax in 1953.  
 __pimple__ _n_ :two::hammer: _Pop the pimples._  
 __pin-curled__  
 __pin-drop silence__  
@@ -11386,6 +11392,7 @@ __render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rend
 __rendering plant__  
 __rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
 __renminbi__ _n_ :three: The official currency of the People’s Republic of China.  
+__renominate__ _v_  
 __renown__  
 __renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._  
 __rent metal__  
@@ -15309,12 +15316,9 @@ __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in develo
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle<sup>1</sup>__ _v_ :five::hammer: (waffled, waffling)  
+__waffle<sup>1</sup>__ _v_ :six::hammer: (waffled, waffling)  
 __waffle<sup>2</sup>__ _n_  
-__waffling__  
-__waft__ _v_ :two::hammer: _Fine powder that wafts up from footsteps like flour._  
-__wafted__ _v_  
-__wafting__ _v_  
+__waft__ _v_ :five: (wafted, wafting) To carry or be carried gently on or as if on the air or water. _Syn_ drift, float, blow _The scent of her perfume wafted through the room._ _Fine powder that wafts up from footsteps like flour._  
 __wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._  
 __wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
 __wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
@@ -15537,7 +15541,7 @@ __whereas__
 __whereby__  
 __wherefore__ _adv_  
 __wherewithal__ _n_ :four::hammer:  
-__whet__ _v_ :nine: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate: _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
+__whet__ _v_ :nine::m: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate. _Syn_ quicken, pique _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
 __whetstone__  
 __whickering__  
