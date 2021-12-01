@@ -1135,7 +1135,7 @@ __berm__ _n_ :two::hammer:
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__ _v_ :five: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _v_ :six: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
@@ -2749,7 +2749,7 @@ __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolo
 __command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
-__commend__ _v_ (commended)  
+__commend__ _v_ :two::hammer: (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :two: __1__ Proportionate. __2__ Having the same measure.  
@@ -3820,7 +3820,7 @@ __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force
 __disciple__ _n_ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
-__discomfiture__ _n_  
+__discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __disconsolate__ _adj_  
 __discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinuation._  
@@ -4367,6 +4367,7 @@ __educated guess__ _n_ :three::hammer:
 __eel__  
 __eerie__ _adj_ :seven::hammer:  
 __eerily__ _adv_ :three::hammer:  
+__effect__ _v_  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
 __effigy__ _n_ :four::hammer: (effigies)  
@@ -6092,7 +6093,7 @@ __groomed__
 __groomers__  
 __groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
-__grope__ _v_  
+__grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
 __grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
@@ -7741,8 +7742,8 @@ __lampoon<sup>1</sup>__ _n_
 __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. _Syn_ ridicule, satirize _Joe’s coworkers lampoon his affected way of speaking._  
 __lamppost__ _n_  
 __lamprey__ _n_  
-__lance__ _v_ :astonished:  
-__lanced__ _v_  
+__lance__ _v_ :two::astonished::hammer: (lanced)  
+__lances__ _n_ :four::hammer: _A small garrison of 100 lances._  
 __lancet__ _n_  
 __lancing irons__  
 __land__ _v_ _Thanksgiving this year lands on November 25._  
@@ -8514,6 +8515,8 @@ __megalomaniac__ _n_ Someone who enjoys power over other people and always wants
 __megalomanic__ _adj_ Suffering from megalomania.  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
+__melancholy<sup>1</sup>__ _n_  
+__melancholy<sup>2</sup>__ _adj_ _A melancholy man._  
 __mélange__ _n_  
 __meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
@@ -8677,7 +8680,7 @@ __miscarry__ _v_
 __miscegenation__  
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
 __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mixed assortment of items.  
-__mischance__ _n_ __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
+__mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :four::hammer:  
 __mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__  
@@ -13689,7 +13692,7 @@ __subpoena<sup>1</sup>__ _n_ :five::hammer:
 __subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
 __subsea__ _n_  
 __subsequent__ _adj_ :five::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
-__subsequently__ _adv_ :dart::three::hammer:  
+__subsequently__ _adv_ :dart::four::hammer:  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
 __subsidiary__  
@@ -15842,7 +15845,7 @@ __wretch__ _n_ :three: A person pitied for his misfortune. _Syn_ poor devil _If 
 __wretched__ _adj_ :two::hammer:  
 __wrethes__  
 __wriggle__  
-__wriggling__  
+__wriggling__ _adj_ :two: Moving in a twisting or snake-like or wormlike fashion. _A snake pit of wriggling fragments._  
 __wring out__ _v_ _She finished wringing out the jeans and shut off the water._  
 __wring__ _v_ :six::hammer: (wringing) _The Feds just keeps wringing its hands._  
 __wringer__ _n_ :three::hammer: _Run through the wringer._  
