@@ -114,7 +114,7 @@ __achalasia__ _n_
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
 __Achilles’ heel__ _n_ A seemingly small but actually crucial weakness.  
-__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek ’nanos’, meaning ’dwarf’], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
+__achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __ACK__  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
@@ -240,7 +240,7 @@ __agendum__
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
-__aggravators__ _n_ Bits of hair that whip and whirl loose around the face.  
+__aggravator__ _n_ An unpleasant person who is annoying or exasperating.  
 __aggrieved__ _v_ _An aggrieved sense of victimhood._  
 __aggro__ _n_ :three::hammer:  
 __aghast__ _adj_ :eight: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
@@ -503,7 +503,7 @@ __apartment__ _n_
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
-__apiary__ _n_ A place where bees and beehives are kept, especially a place wherebees are raised for their honey.  
+__apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
 __aping__  
 __aplenty__ _adj, adv_ :two::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
