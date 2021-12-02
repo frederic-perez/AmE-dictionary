@@ -5257,7 +5257,7 @@ __florid__
 __flotation tank__  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
-__flounder__ _v_ :nine: (floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
+__flounder__ _v_ :nine::m: (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
 __flowerpot__ _n_ _Clay flowerpot._  
@@ -5407,7 +5407,7 @@ __formulate__ _v_ _I was formulating my question._
 __forsake__ _v_ :six: (forsaken) Leave someone who needs or counts on you; leave in the lurch. _Syn_ desert, desolate, abandon  
 __forsaken<sup>1</sup>__ _v_ The past participle of forsake.  
 __forsaken<sup>2</sup>__ _adj_ :two: Completely deserted or helpless; abandoned.  
-__forswear__ _v_  
+__forswear__ _v_ :two::hammer:  
 __Fort Knox__ _n_ /fort KNAHKS/ [:scroll: After Fort Knox, nickname of the United States Bullion Depository, a vault that houses most of the US government’s gold, in Fort Knox, Kentucky.] __1__ An inordinate amount of wealth. __2__ A place extraordinarily secure and thus impossible to break into.  
 __fort__ _n_ A fortified place or position stationed with troops.  
 __forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
@@ -5682,7 +5682,7 @@ __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, esp
 __garnets__ _n_  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
-__garrison__ _n_  
+__garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
 __garrulous__ _adj_ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
@@ -9795,9 +9795,8 @@ __paring__
 __parishioner__  
 __parkour__  
 __parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
-__parley__ _v_ _The Prince’s chief knights came under safe-conduct to parley in person._  
-__parley<sup>1</sup__ _n_ :four::hammer:  
-__parley<sup>2</sup__ _v_  
+__parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
+__parley<sup>2</sup__ _v_ :two::hammer: _The Prince’s chief knights came under safe-conduct to parley in person._  
 __parliament__ _n_ :pencil2::two::hammer:  
 __parlor__  
 __parochial__ _adj_ :four::hammer:  
@@ -10140,6 +10139,7 @@ __piece of cake__
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
+__Pied Piper__ _n_ _He was to be a new Pied Piper._  
 __pied__  
 __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
 __pietist__  
@@ -13549,7 +13549,7 @@ __straddle__ _v_ :four::hammer: (straddles, straddling)
 __strafed__ _v_  
 __strafes__ _v_  
 __strafing__  
-__straggler__ _n_ :two: A person who walks too slowly during a march etc and gets left behind. _A car was sent to pick up the stragglers._ :es: rezagado  
+__straggler__ _n_ :three: A person who walks too slowly during a march etc and gets left behind. _A car was sent to pick up the stragglers._ :es: rezagado  
 __straggly__ _adj_ :two: Spreading out in different directions. _Syn_ rambling, sprawling _The gardener’s job was to tame the yard’s few straggly bushes and make them look neat and presentable for the party that evening._  
 __straight and narrow__  
 __straight arrow__ _n_  
@@ -14894,7 +14894,7 @@ __understandably__ _adv_ :two::hammer:
 __understated__ _adj_  
 __understatement__ _n_ :two::hammer:  
 __understudy__ _v_  
-__undertake__ _v_ :two::hammer: _A video of cyclists overtaking and undertaking a horse rider._  
+__undertake__ _v_ :three::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
 __undertaker__ _n_  
 __undertow__  
 __underwhelm__ _v_ :two: To fail to excite, stimulate, or impress.  
@@ -15370,7 +15370,7 @@ __wanker__ _n_
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
 __wanting<sup>1</sup>__ _adj_ __1__ Absent; lacking: _What is wanting is a real understanding of the issue._ __2__ Not measuring up to standards or expectations: _found his performance wanting._  
 __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button._ __2__ Minus; less: _an hour wanting 15 minutes._  
-__wanton<sup>1</sup>__ _adj_ :seven: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
+__wanton<sup>1</sup>__ _adj_ :eight: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
 __war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
@@ -15664,7 +15664,7 @@ __willpower__ _n_
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __willyard__ _adj_  
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He’d wilted under it._  
-__wily__ _adj_ :four::hammer:  
+__wily__ _adj_ :five::hammer: _He was cautious and wily._  
 __wimp out__  
 __wimp__ _n_ _slang_ :three: A weak person, a coward. Someone who is not brave, strong, or confident.  
 __wimpiness__  
@@ -15917,7 +15917,7 @@ __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._
 __yew tree__ _n_ :two::hammer:  
 __yew__ _n_ :two::hammer: (yews)  
 __Yiddish__ _n_ :two::hammer:  
-__yield<sup>1</sup>__ _v_ :four::hammer: (yielded) _Failing to yield to pedestrians._  
+__yield<sup>1</sup>__ _v_ :five::hammer: (yielded) _Failing to yield to pedestrians._  
 __yield<sup>2</sup>__ _n_ :three::hammer: _The yield of crops._ _Helping farmers to increase yields._  
 __yin and yang__  
 __yipped__ _v_  
