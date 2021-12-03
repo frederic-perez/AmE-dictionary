@@ -170,7 +170,7 @@ __at heart__ _Most people are crooks at heart._
 __at large__  
 __at length__ _At length a messenger entered the camp site and sought out King._  
 __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._  
-__at once__  
+__at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
@@ -323,6 +323,7 @@ __bring about__ :two: To cause something to happen. _That landmark civil rights 
 __bring home the bacon__ To earn money to live on.  
 __bring it on__ To begin a fight or competition.  
 __bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
+__bring to an end__  
 __broken record__ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
@@ -543,6 +544,7 @@ __drop in the bucket__ :two: A very small or unimportant amount.
 __drop the ball__ :two: To make a mistake, to fail.  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
 __dumpster fire__ _slang_ A complete and utter disaster or a completely chaotic situation, likened to a fire in a dumpster, which quickly becomes uncontrollable. The phrase can be applied to both situations and people. _As you might imagine, a 17-1 loss was a dumpster fire._  
+__each other__ _The Regent ordered nobles and peasantry to pardon each other._  
 __early bird__ _No early birds allowed because it just wouldn’t be fair to the other shoppers who waited until the opening time._ _If you have advertised “No Early birds” then do not allow any early birds to even browse through your sale before the open time._  
 __early days__ The beginning period or phase of some entity, trend, or phenomenon.  
 __easier said than done__ Said of a task that is easier to talk about than to do.  
@@ -823,7 +825,7 @@ __happy as a clam__ Very happy.
 __hard knocks__ :two: The real and practical experiences of life, especially those involving hardship or adversity. _The school of hard knocks._  
 __hard nut to crack__ A problem that is hard to solve or a person who is difficult to understand.  
 __hard on the eyes__ Unattractive; ugly.  
-__hard pressed__ Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._  
+__hard pressed__ :two: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._  
 __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __harp on the same string__ To dwell tediously and repeatedly upon a single subject or topic, especially in complaint. Likened to playing the same note over and over again on a harp.  
@@ -1033,6 +1035,7 @@ __in deep water__ To be in a difficult situation.
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
+__in due time__  
 __in excess of__ :four: Over; greater or more than. _Infrasound can be detected in excess of 100 miles._ _It has been tested to wind speeds in excess of 100m/s._ _Roper hadn’t slept for a period in excess of 24 hours._  
 __in favor (with someone)__ Highly regarded (by someone); widely accepted or enjoyed (by someone). Primarily heard in US. _John had been in favor with his boss ever since he managed to secure that lucrative client._  
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
@@ -1382,6 +1385,7 @@ __middle ground__ :two: Something that people with differing opinions or views c
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __mince (one’s) words__  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
+__miss a beat__ _Without missing a beat._  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
 __miss the point__ :two::hammer:  
 __mix and match__ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
@@ -1616,6 +1620,7 @@ __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term 
 __raw deal__ _n_ :dart: An instance of unfair treatment: _got a raw deal from our insurance company._  
 __reach for the stars__ :two: Have high or ambitious aims.  
 __read it and weep__  
+__ready cash__  
 __receive (one’s) just deserts__ To receive that which one deserves, especially a punishment or unfavorable outcome. (Note: The phrase is often misspelled as “just desserts,” due to the pronunciation of “deserts” and “desserts” being the same in this context.)  
 __red hot__ :two::hammer: _Now the market is red hot._  
 __red pill__  
@@ -1713,6 +1718,7 @@ __sitting pretty__ :three: Living in comfort.
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
+__slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ To issue one with a very mild, inconsequential punishment or warning.  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
@@ -1745,6 +1751,7 @@ __stand out__ __1__ To protrude from something; to project outward from somethin
 __stand tall__ :five: To prove or display one’s pride, confidence, or fortitude. _I know a lot of people are upset, but you did the right thing, so stand tall._  
 __stand to reason__ :two: To be sensible or understandable. _If her friends don’t want to go, it stands to reason that she won’t want to go either._ _It stands to reason that of all the patients in the hospital, trauma patients would be the most vulnerable to shortfalls in hospital safety._  
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
+__starve out__ To deprive someone or something of food in order to force them to submit or surrender. A noun or pronoun can be used between “starve” and “out.” _The empire’s army began starving the rebel city out with a siege that lasted nearly eleven months._ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __stay put__ :five: To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __step back__  
@@ -1892,6 +1899,7 @@ __tough love__ :two: The use of strict disciplinary measures and limitations on 
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
+__true enough__ _It was true enough._  
 __try out__ :two::hammer:  
 __turf war__  
 __turn around__ To change something unsuccessful into something successful.  
