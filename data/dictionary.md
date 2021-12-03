@@ -1123,7 +1123,7 @@ __benison__ _n_
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m::hammer: (bequeathed)  
-__bequest__ _n_ :nine::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
+__bequest__ _n_ :nine::m::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
@@ -1210,7 +1210,7 @@ __bilk<sup>2</sup>__ _n_ __1__ A swindle or cheat. _America was the land of bilk
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
-__billet__ _v_ :three: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
+__billet__ _v_ :five: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ _Now, the women’s contest will take second billing._  
@@ -3106,7 +3106,7 @@ __cow__ _v_ :four: (cowed) To frighten or subdue with threats or a show of force
 __cowboy__ _v_ :two::hammer:  
 __cowcatcher__ _n_ :astonished: Inclined frame on the front of a railroad locomotive for throwing obstacles off the track. _Syn_ he pilot, cattle catcher, cow plow  
 __cowering__ _v_ :two::hammer:  
-__cowl__ _n_ :two::hammer: _Their cowls were filthy rags._ :es: capucha  
+__cowl__ _n_ :three::hammer: _Their cowls were filthy rags._ _Cowl-like hoods._ :es: capucha  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
 __coxswain__  
@@ -3917,7 +3917,7 @@ __dissing__ _v_
 __dissipate__ _v_  
 __dissipation__  
 __dissociate__ _v_ :pencil2:  
-__dissolute__ _adj_ _She was said to be of dissolute morals._  
+__dissolute__ _adj_ :two::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
 __dissonance__  
 __dissuade__ _v_ :pencil2::three: (dissuaded)  
@@ -6333,6 +6333,7 @@ __haptic__ _adj_ Of or relating to the sense of touch; tactile.
 __harangue__ _v_  
 __harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
 __harangue<sup>2</sup>__ _v_ :five::hammer: (harangued, haranguing)  
+__harass__ _v_  
 __harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
 __hard hat__ _n_ :three::hammer: _Workers in hard hats._  
@@ -6874,7 +6875,7 @@ __hunker down__ _v_ Take shelter.
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
 __huramaki__ _n_  
-__hurdle__ _n_ :two::hammer:  
+__hurdle__ _n_ :three::hammer: _They slew them like sheep in the hurdles._  
 __hurdy-gurdy__  
 __hurl__ _v_ :nine::m: (hurled, hurling) Throw (an object) with great force. _Rioters hurled a brick through the windshield of a car._ _An ethnic slur hurled at her._ _Syn_ throw, toss, fling, pitch, cast _Inmates hurling stones._ :es: lanzar, arrojar  
 __hurler__ _n_ :three::hammer: _(baseball)_  
@@ -8084,7 +8085,7 @@ __lockstep__ _n_ :two::hammer:
 __locomote__ _v_ To move from one place to another. _Syn_ go, travel _Unlike most other fish, seahorses maintain an upright position when they locomote._  
 __locomotive__ _n_  
 __locum__ _n_ Someone (physician or clergyman) who substitutes temporarily for another member of the same profession.  
-__locust__ _n_ :four::hammer: (locusts)  
+__locust__ _n_ :five::hammer: (locusts)  
 __lode__ _n_ :two::hammer:  
 __lodestone__ _n_ :two: [:scroll: from Middle English _lode_ (way) + stone (from its use by sailors to show the way)] __1__ A piece of magnetite that has magnetic properties and attracts iron or steel. __2__ One that attracts strongly.  
 __lodge<sup>1</sup>__ _n_ _Fishing lodges._  
@@ -8479,6 +8480,7 @@ __ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in the
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
+__meagerly__  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
@@ -11546,7 +11548,7 @@ __rickshaw__ _n_ :two: A light two-wheeled passenger vehicle drawn by one or mor
 __ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:  
 __ricochet<sup>2</sup>__ _n_ :two::hammer:  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
-__riddance__ _n_ :four::hammer:  
+__riddance__ _n_ :five::hammer: _He agreed to undertake the great riddance._  
 __riddle<sup>1</sup>__ _n_ :seven::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
@@ -14046,9 +14048,9 @@ __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated pota
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
-__tattle__ _v_  
+__tattle<sup>1</sup>__ _n_  
+__tattle<sup>2</sup>__ _v_ :two::hammer: (tattling)  
 __tattletale__ _adj, n_  
-__tattling__  
 __tatty__ _adj_  
 __taunt<sup>1</sup>__ _n_ :two::hammer: (taunts) _Song has heard his share of slurs and taunts._  
 __taunt<sup>2</sup>__ _v_ :seven::hammer: (taunted, taunting)  
