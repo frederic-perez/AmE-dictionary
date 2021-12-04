@@ -2349,6 +2349,7 @@ __cheesecloth__ _n_ :three::hammer:
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
 __chenier__  
+__cherimoya__ _n_ (chirimoya)  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
@@ -3822,6 +3823,7 @@ __disclaimer__ _n_ :two::hammer:
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
+__discompose__ _v_  
 __disconsolate__ _adj_  
 __discontinuation__ _n_ _Assessing the safety of oral anticoagulation discontinuation._  
 __discontinued__ _adj_ :two::hammer: _The magazine was discontinued in 1958._  
@@ -5507,6 +5509,7 @@ __friction__ _n_ _The coefficient of friction._
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
 __frieze__ _n_  
 __frigate__ _n_ :es: fragata  
+__fright__ _n_  
 __frigid__ _adj_ Extremely cold. _Frigid winds._  
 __frill__ _v_  
 __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._  
@@ -5695,8 +5698,7 @@ __gas-guzzler__ _n_ :three: (gas guzzler) A car with relatively low fuel efficie
 __gasconade__ _n_ :two: Boastful talk, bragging, or bluster. _After all his gasconade, the contestant couldn’t manage to complete the obstacle race._  
 __gash<sup>1</sup>__ _n_ :five::hammer: _The gash wasn’t closing._  
 __gash<sup>2</sup>__ _v_ :five::hammer: (gashed, gashing) _He gashed the Hokies’ defense._ _The Lions gashed the Owls._  
-__gasket__  
-__gaskets__  
+__gasket__ _n_ :three::hammer: :es: junta  
 __gasolene__ _n_ :two::hammer::pencil2: _Syn_ gasoline, petrol, gas  
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
@@ -7622,6 +7624,7 @@ __kirtle__ _n_ :five::hammer: (kirtles)
 __kischy__  
 __kismet__ _n_ :three: Fate, fortune.  
 __kiss-and-tell__ _adj_ _informal_ Disclosing private or confidential information, especially in a firsthand account: _a kiss-and-tell memoir by a presidential aide._  
+__kitchen range__  
 __kitchenware__  
 __kite__ _n_ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
@@ -8217,6 +8220,7 @@ __lump<sup>2</sup>__ _v_ __1__ Put together indiscriminately. __2__ Group or chu
 __lumpy__ _adj_ :two::hammer: _Lumpy headlights._  
 __lunacy__ _n_  
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
+__lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
@@ -11974,6 +11978,7 @@ __scapular__
 __scar__ _v_ _CIA to=ture scarred man’s psyche for years._  
 __scarce__ _adj_ :three::hammer:  
 __scarcely__ _adv_ :astonished: _The executioner seemed scarcely older than Rob._  
+__scare__ _n_  
 __scarlet__ _n_ :two: (vs _Scarlett_) A strong to vivid red or reddish orange.  
 __Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
@@ -13125,7 +13130,7 @@ __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scatter
 __spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
-__spiffy<sup>1</sup>__ _adj_ :two::hammer:  
+__spiffy<sup>1</sup>__ _adj_ :three::hammer:  
 __spiffy<sup>2</sup>__ _v_ :two::hammer:  
 __spigot__ _n_ :six: (spigots) __1__ A regulator for controlling the flow of a liquid from a reservoir. _Syn_ faucet _A water spigot._ __2__ The male end of a segment of pipe. _You’ve seen a big water tank with a spigot hanging out over the train tracks._  
 __spike<sup>1</sup>__ _n_  
@@ -13265,6 +13270,7 @@ __square__ _n_ _slang_ A boring person.
 __squarely__  
 __squash__ _v_ :two: __1__ 1. To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
+__squat toilet__ _n_  
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s knees bent and one’s heels close to or touching one’s buttocks or the back of one’s thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one’s haunches, sit on one’s heels :es: agacharse  
 __squat<sup>2</sup>__ _adj_ :six: Short and thickset; disproportionately broad or wide. _He was muscular and squat._ _She kept her squat rotary phone by her bed._ _Syn_ stocky, dumpy, stubby, stumpy, short, thickset, heavily built, sturdy _A squat gray clinic._  
 __squat<sup>3</sup>__ _n_ _Didn’t know squat aboit what went on over there._  
@@ -13772,6 +13778,7 @@ __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._
 __suntan__ _n_  
 __sunup__ _n_  
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
+__superb__ _adj_  
 __superbly__  
 __supercell__ _n_ :two::hammer: _Supercell storms._ _Supercell thunderstorm._  
 __supercilious__ _adj_ :four: Displaying arrogant pride, scorn, or indifference. Feeling or showing haughty disdain. _Syn_ haughty, prideful, sniffy, swaggering, lordly, disdainful _He smiled in a supercilious manner and said I had better do as I was asked._  
