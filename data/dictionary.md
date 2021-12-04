@@ -1003,7 +1003,7 @@ __beanie__ _n_ :camera::dart:
 __beanpole__  
 __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
-__bear__ _v_ :three::hammer: _Second Amendment: The right of the people to keep and bear arms._  
+__bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
 __bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
@@ -1655,7 +1655,7 @@ __Britons__
 __Brittany__ _n_ (not to be confused with _Britannia_; French name: _Bretagne_) A historical region and former province of northwest France on a peninsula between the English Channel and the Bay of Biscay. It was settled c. 500 by Britons driven out of their homeland by the Anglo-Saxons. The region was formally incorporated into France in 1532.  
 __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do you have brittle bones? Then no football or rugby for you._ :es: frágil  
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
-__broach__ _v_ (broached) :seven: To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._  
+__broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
 __broadsided__  
@@ -3839,6 +3839,7 @@ __disdrometer__
 __disembarrass__ _v_ Relieve from. _Syn_ rid, free  
 __disembodied__ _v_ :two::hammer:  
 __disembody__ _v_ (disembodied)  
+__disendowment__ _n_  
 __disenfranchise__  
 __disenfranchised__  
 __disengage__ _v_ :two::hammer:  
@@ -4425,7 +4426,7 @@ __elective__ _n_ _Other students can take up to four fine arts electives._
 __electrical flex__ _n_  
 __electrolysis__ _n_  
 __electronics__ _n pl_ (plurale tantum)  
-__elegy__ _n_ :three: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
+__elegy__ _n_ :four: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  
 __elevator boy__  
 __elevator control box__  
@@ -5049,7 +5050,7 @@ __figure out__ _phr v_ :two::hammer:
 __figure skates__ _n_  
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_  
-__figurehead__ _n_ :two::hammer:  
+__figurehead__ _n_ :three::hammer:  
 __filch__ _v_ :two: (filched) To steal secretly or casually.  
 __file a case__ _v_  
 __file suit__ _v_  
@@ -5444,7 +5445,7 @@ __fowler__
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
-__fracas__ _n_ :three: Noisy quarrel.  
+__fracas__ _n_ :four: Noisy quarrel. _An uproarious fracas._  
 __fracking__ _n_ Hydraulic fracturing.  
 __fractional__ _adj_ _A fractional line of block._  
 __fractious__ _adj_ _His fractious temperament._  
@@ -7340,6 +7341,7 @@ __jabroni__ _n_
 __jack it up__ _v_  
 __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the slang went._  
 __jack-o’-lantern__ _n_ :two::hammer:  
+__jack-straw__ _n_ _An exchange of fiefs as complicated as a game of jack-straw._  
 __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
 __jackhammer__  
 __jackpot__  
@@ -13077,6 +13079,7 @@ __Spanx__
 __spar<sup>1</sup>__ _n_  
 __spar<sup>2</sup>__ _v_  
 __spare room__ _n_ (spare-room) Guest room, guestroom. :es: habitación de invitados, cuarto de invitados  
+__spare__ _v_  
 __spark plug__ _n_ :dart::three: (spark plugs) :es: bujía  
 __sparklers__ _n_  
 __sparred__ _v_  
@@ -15041,6 +15044,7 @@ __upping__ _v_ :two::hammer:
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
 __uproot__ _v_ :three::hammer: (uprooted) _Uprooted workers._  
+__uprparious__ _adj_ _An uproarious fracas._  
 __upsale__ _n_ An act of upselling.  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
 __upscale<sup>2</sup>__ _v_  
