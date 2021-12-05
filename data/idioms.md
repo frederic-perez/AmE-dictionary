@@ -168,7 +168,7 @@ __at any rate__ Whatever happens or may have happened. _For the moment, at any r
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
 __at heart__ _Most people are crooks at heart._  
 __at large__  
-__at length__ _At length a messenger entered the camp site and sought out King._  
+__at length__ :two::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
 __at odds__ :six: (be at odds) In disagreement; in conflict. _The overhaul have put Pemex and the Energy Ministry at odds._ _They’re often at odds._  
 __at once__ :two::hammer:  
 __at one button__ _The Prince did not value a knight at one button._  
@@ -1022,6 +1022,7 @@ __in a jam__ In a troublesome situation.
 __in a measure__ To a certain degree or extent; somewhat.  
 __in a sorry state__ In a pitiful or abject condition.  
 __in a/the flash of an/the eye__ So quickly as to seem almost imperceptible (i.e., in the space of time it takes a person to blink).  
+__in abeyance__ :two: A phrase used to describe something as pending or suspended. _How long do you think they will hold the decision in abeyance? I’m eager to know what they think._ _The bishops held the proceedings against Wyclif in abeyance._ _You capture the inventory into containers that hold items in abeyance._  
 __in all honesty__ In one’s sincere opinion; without any disingenuousness.  
 __in all likelihood__  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  

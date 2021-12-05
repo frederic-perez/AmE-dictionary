@@ -44,7 +44,7 @@ __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.
 __aberrant__ _adj_  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
-__abeyance__ _n_ :four: The condition of being temporarily set aside. _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _You capture the inventory into containers that hold items in abeyance._  
+__abeyance__ _n_ :four: The condition of being temporarily set aside. _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
@@ -5304,7 +5304,7 @@ __focus__ _n_ :mega:
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :six: A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
-__foil<sup>1</sup>__ _n_ :three::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
+__foil<sup>1</sup>__ _n_ :four::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
 __foil<sup>2</sup>__ _v_ :five::hammer: (foiled) _The story’s comic foils along with King’s mother._ _As many as five terror plots were foiled last year._  
 __foist__ _v_ :four: (foisting, foisted) __1__ To pass off as genuine, valuable, or worthy: _“I can usually tell whether a poet ... is foisting off on us what he’d like to think is pure invention” (J.D. Salinger)._ __2__ To impose (something or someone unwanted) upon another by coercion or trickery: _They had extra work foisted on them because they couldn’t say no to the boss._ __3__ To insert fraudulently or deceitfully: _foisted unfair provisions into the contract._  
 __fold<sup>1</sup>__ _v_ :five: __8a__ _Informal_ To discontinue operating; close: _They had to fold the company a year after they started it._ _By the end of 1953 all his digest magazines had folded._ _The newspaper subsequently folded._ _The American Soccer League folded in 1931._ __b__ _Games_ To withdraw (one’s hand) in defeat, as by laying cards face down on a table.  
@@ -6701,6 +6701,7 @@ __Holy Ghost__ _n_ :two::hammer:
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
 __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial and resurrection.  
+__Holy Writ__ _n_  
 __homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
 __home-delivery__  
@@ -6970,6 +6971,7 @@ __ignominy__ _n_ :two::hammer:
 __IIRC__ _chat_ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
 __ill__  
+__ill-fated__ _adj_  
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
@@ -8664,7 +8666,7 @@ __mindset__ _n_
 __minie balls__  
 __minimoon__ _n_ _informal_ A short break spent together by a newly married couple, typically in advance of a longer vacation to be taken at a later date.  
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
-__minion__ _n_ :two::hammer: (minions)  
+__minion__ _n_ :three::hammer: (minions) _King Edward died deserted by the minions of power._  
 __miniver__ _n_  
 __minnie__ _n_ :two: A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
@@ -10705,6 +10707,7 @@ __probation__ _n_ _A person has ben sentenced to probation._
 __probative__ _adj_ Providing proof or evidence.  
 __probity__ _n_ :two: Complete and confirmed integrity; having strong moral principles; _In a world where financial probity may not be widespread._  
 __proboscis__ _n_  
+__proceedings__ _n_ _The bishops held the proceedings against Wyclif in abeyance._  
 __proceeds__ _n_ :seven: The money that has been gained from doing something or selling something. _Proceeds from the sale._ _Operating funds come from rodeo proceeds._ :es: ganancias; ingresos  
 __proclamation__ _n_ __1__ Something that is proclaimed; a public and official announcement. __2__ The act of proclaiming.  
 __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: _a proclivity for exaggeration; a proclivity to complain._ _Syn_ leaning, propensity  
@@ -12215,7 +12218,7 @@ __sempiternal__ _adj_ Enduring forever; eternal.
 __send-of__  
 __sendup__ _v_ _A sendup of the genre._  
 __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly living in New York state south of Lake Ontario. __2__ The Iroquoian language spoken by the Seneca people.  
-__seneschal__ _n_ An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
+__seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
@@ -12462,7 +12465,7 @@ __shout out__ _n_ _Shout out to Jenny for taking our photo._
 __shout-out > give a shout-out__  
 __shove off__ _v_  
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
-__shove<sup>2</sup>__ _v_ Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel  
+__shove<sup>2</sup>__ _v_ :two: Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel _The armed guard shoved people aside to make way for the Duke._  
 __shovel__ _v_  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
@@ -15219,7 +15222,7 @@ __vermouth__ _n_
 __vernacular__ _n_ :four::hammer:  
 __versatile__ _adj_ :two::hammer.  
 __vertical farm__  
-__verve__ _n_ :five::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ _n_ :six::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _adj, adv_ _We were in this very room._  
 __vesicle__ _n_ (vesicula)  
