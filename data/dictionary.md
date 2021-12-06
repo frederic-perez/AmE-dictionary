@@ -377,8 +377,8 @@ __ambivalence__
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
 __amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
-__ambulate__ _v_ To walk from place to place; move about.  
-__ambulation__ _n_ :two::hammer:  
+__ambulate__ _v_ :two: To walk from place to place; move about.  
+__ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulation._  
 __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
@@ -3356,6 +3356,7 @@ __cut me a little slack__
 __cut shot__ _n_ A type of shot in several sports.  
 __cut__ _n_ :three: __10__ _informal_ A portion of profits or earnings; a share. _His cut of the $50,000._ __16__ _Baseball_ A swing of a bat. _He was finished taking his cuts in batting practice._  
 __cut-and-dry task__  
+__cutdown__ _n_ __2__ The surgical insertion of a catheter into a vein, as for the administration of intravenous medication.  
 __cutesy__ _adj_ _informal chiefly US_ Affectedly cute or coy.  
 __cutlass__ _n_ A short heavy sword with a curved single-edged blade, once used as a weapon by sailors.  
 __cutlet__ _n_ _Chicken cutlets._  
@@ -4311,6 +4312,7 @@ __e-blasts__
 __e-commerce__  
 __each other__  
 __eager__  
+__Eagle Scout__ _n_ A Boy Scout who has achieved the highest rank.  
 __ear candy__ _n_ _slang_ Pleasant-sounding music.  
 __ear__ _n_ _Ear of corn._  
 __earbud__ _n_ :camera: (earbuds) A small earphone inserted into the ear.  
@@ -4824,7 +4826,7 @@ __factious__ _adj_ Of, relating to, produced by, or characterized by internal di
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
-__faculty__ _n_  
+__faculty__ _n_ :two::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
@@ -7185,6 +7187,7 @@ __ingratiate__ _v_ :three::hammer:
 __ingress__ _n_ The act of going or coming in; an entering. _Syn_ incoming, entrance _From the time elapsing between the ingress of the beast and the screams, it seems probable that it was not immediately perceived._  
 __inhalant<sup>1</sup>__ _adj_  
 __inhalant<sup>2</sup>__ _n_  
+__inhalation__ _n_ :mega:  
 __inhale__ _v_ _slang_ To eat very quickly.  
 __inimical__ _adj_ :four: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
 __inimitable__ _adj_  
@@ -10265,7 +10268,7 @@ __pitted__ _v_ :four::hammer: (pitting) _Pitted cherries._
 __pituitary__  
 __pivot<sup>1</sup>__ _n_ :three: __1__ A shaft or pin on which something turns. __2a__ A person, thing, or factor having a major or central role, function, or effect. __b__ A key player or position; specifically: an offensive position of a basketball player standing usually with back to the basket to relay passes, shoot, or provide a screen for teammates.  
 __pivot<sup>2</sup>__ _v_  
-__pivotal__ _adj_ :three::hammer:  
+__pivotal__ _adj_ :four: __2__ Of crucial importance.  
 __pixie__  
 __pizazz__ _n_ :three: (pizzazz or pizazz or pzazz) An attractive combination of vitality and glamour. :es: dinamismo  
 __pizzle__ _n_ :two: __1__ The penis of an animal, especially a bull. __2__ A whip made from a bull’s penis.  
@@ -11826,7 +11829,7 @@ __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usua
 __sabotage__ _n_  
 __saboteur__ _n_  
 __sac-a-lait__  
-__saccharin__ _n_ :pencil2:  
+__saccharin__ _n_ :two::pencil2::mega::hammer:  
 __saccular__ _adj_  
 __sackful__  
 __sacristan__  
@@ -12852,7 +12855,7 @@ __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or pa
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
 __smite__ _v_ :four::hammer: _God will smite me._  
-__smithereens__ _n informal_ :three: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
+__smithereens__ _n informal_ :four: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
 __smock<sup>1</sup>__ _n_  
@@ -15832,7 +15835,7 @@ __world powers__ _n_ :astonished:
 __wormed__ _v_  
 __wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
 __worrisome__ _adj_ :four::hammer:  
-__worrywarts__  
+__worrywart__ _n_ :two: One who worries excessively and needlessly.  
 __worshiper__  
 __worst nightmare__ _n_ The thing someone fears most.  
 __wort__  
