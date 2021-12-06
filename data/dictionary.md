@@ -199,6 +199,7 @@ __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or ot
 __aero-hydroponics__  
 __aerospike engine__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
+__affable__ _adj_  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :seven::hammer:  
 __affiliate__  
@@ -681,7 +682,7 @@ __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.
 __at the earliest__  
 __at the very least__  
 __atavism__ _n_  
-__atavistic__ _adj_ :three: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
+__atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
@@ -1991,7 +1992,7 @@ __calling card__
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
 __calliope__ _n_ :two::mega: (calliopes) A musical instrument fitted with steam whistles, played from a keyboard.  
-__callous<sup>1</sup>__ _adj_ :nine::m::dart: __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ :es: insensible, cruel  
+__callous<sup>1</sup>__ _adj_ :nine::m::dart: /ˈkæl əs/ __1__ Having calluses; toughened: _callous skin on the elbow._ __2__ Emotionally hardened; unfeeling: _a callous indifference to the suffering of others._ _A callous remark._ :es: insensible, cruel  
 __callous<sup>2</sup>__ _v_ To make or become callous.  
 __callousness__  
 __callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
@@ -7247,7 +7248,7 @@ __integer__ _n_ :mega: /ˈɪntɪʤɚ/
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
-__intemperate__ _adj_ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
+__intemperate__ _adj_ :two: Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdicting__  
@@ -8061,7 +8062,7 @@ __live wire__
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
-__livery__ _n_ __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
+__livery__ _n_ :two::astonished: __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
 __livid__  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
@@ -8513,7 +8514,7 @@ __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think ov
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
-__meek<sup>1</sup>__ _adj_ :eight: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
+__meek<sup>1</sup>__ _adj_ :nine: Very quiet and gentle and unwilling to argue with people. _Blessed are the meek._  
 __meek<sup>2</sup>__ _n_  
 __meekly__ _adv_ :three::hammer:  
 __meekness__ _n_ :three::hammer:  
@@ -11302,6 +11303,7 @@ __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._
 __redos__  
 __redoubt__ _n_ :two::hammer: :es: reducto  
 __redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
+__redoubted__ _adj_  
 __redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ :seven: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
@@ -11863,7 +11865,7 @@ __sales force__
 __salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
 __salivating__ _v_  
-__sallow__ _adj_ :six: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
+__sallow__ _adj_ :seven: Of a sickly yellowish hue or complexion. Sallow skin is a pale yellow color and does not look healthy. (esp of human skin) Of an unhealthy pale or yellowish color. :es: amarillento _Sallow skin._ _A sallow face._ _A sallow complexion._  
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
@@ -12860,6 +12862,7 @@ __smoking jacket__ _n_
 __smoking__ _adj_  
 __smolder<sup>1</sup>__ _n_  
 __smolder<sup>2</sup>__ _v_ :nine::m: (smolders, smoldered, smoldering) Burn slowly with smoke but no flame. _The bonfire still smouldered, the smoke drifting over the paddock._ _Syn_ burn slowly, smoke, glow :es: arder sin llama  
+__smoldered__ _adj_  
 __smootch__  
 __smooth operator__  
 __smooth-tongued__ _adj_ Artfully persuasive in speech. _Syn_ glib  
@@ -15672,7 +15675,7 @@ __wildness__
 __wilful__  
 __wilfull__  
 __will__ _v_  
-__willful__ _adj_ :two::hammer:  
+__willful__ _adj_ :three::hammer:  
 __willfully__  
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
