@@ -90,7 +90,7 @@ __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncon
 __accidental__ _adj, n_ _Ottolenghi is an accidental chef._  
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaimed__  
-__accolade__ _n_ :seven: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accolade__ _n_ :eight: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodate__ _v_ :pencil2:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
@@ -2756,7 +2756,7 @@ __commander in chief__
 __commend__ _v_ :two::hammer: (commended)  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
-__commensurate__ _adj_ :two: __1__ Proportionate. __2__ Having the same measure.  
+__commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
@@ -4509,6 +4509,7 @@ __enamel__ _n_ :two::hammer: :es: esmalte
 __enamored__  
 __encampment__ _n_ :two::hammer:  
 __enclave__ _n_ /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
+__encomium__ _n_ (Literary & Literary Critical Terms) A formal expression of praise; eulogy; panegyric.  
 __encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
@@ -6575,7 +6576,8 @@ __hesitant__
 __hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
 __hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key__ _n_ Allen key. _Hex key set._  
-__hex__ _n_ :astonished: _Looking for a hex-breaking sign._  
+__hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
+__hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
 __heyday__ _n_ :seven: The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
@@ -7304,6 +7306,7 @@ __invoice__ _v_
 __invoke__  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
+__iota__ _n_ A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
 __IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
@@ -7825,6 +7828,7 @@ __latte__ _n_ A caffe latte.
 __laud<sup>1</sup>__ _v_ :two: (lauded) To give praise to; glorify.  
 __laud<sup>2</sup>__ _n_ (lauds) _Barber was buried after lauds._  
 __laudable__  
+__laudation__ _n_ The act of lauding; praise.  
 __laudatory__ _adj_ Expressing praise; commendatory.  
 __laugh track__ _n_ Recorded laughter added to a soundtrack, as of a television or radio show.  
 __laughing very hard__  
@@ -8303,7 +8307,7 @@ __maim__ _v_ :five: (maimed) Wound or injure (a person or animal) so that part o
 __maimed__  
 __Main Street__  
 __mainstay__ _n_ :three::hammer: _A mainstay of his business._  
-__maître d’__ _n_ :two: A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain  
+__maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in charge of the waiters and the seating of customers. _Syn_ headwaiter, maitre d’hotel, captain _The maître d’ ushered the celebrity couple to a private table at the back of the restaurant._  
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
@@ -8563,6 +8567,7 @@ __menial__ _n_
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
 __menology__  
+__menorah__ _n_ _Judaism_ __1__ A nine-branched candelabrum used in celebrating Hanukkah. _At sundown on the first night of Hanukkah, Aaron’s father helped him light the first candle on the menorah._ __2__ (often Menorah) A ceremonial seven-branched candelabrum of the Jewish. Temple symbolizing the seven days of the Creation.  
 __menorrhagia__ _n_ Abnormally heavy or extended menstrual flow.  
 __mens room__ _n_  
 __mental memo__ _n_ :camera:  
@@ -9070,6 +9075,7 @@ __needlestick__ _n_ :pencil2:
 __needy__  
 __nefarious__ _adj_ :six::hammer:  
 __neglected__ _adj_ _I don’t feel neglected._  
+__negotiate__ _v_ /nih-GOH-shee-ayt/  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
 __neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
 __neighbor__ _n_ :mute:[nei~~gh~~bor]  
@@ -12249,7 +12255,7 @@ __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
 __seracs__ _n_  
-__sere__ _adj_ (sear) Withered; dry: _sere vegetation at the edge of the desert._  
+__sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
 __serendipity__ _n_  
 __Serenity Prayer__  
@@ -14212,6 +14218,7 @@ __the name of the game__
 __the order of the day__  
 __the writing on the wall__  
 __thecracy__  
+__theism__ _n_ Belief in the existence of a god or gods, especially belief in a personal God as creator and ruler of the world.  
 __theist__ _adj_  
 __theocracy__  
 __theosophy__  
