@@ -64,7 +64,7 @@ __about-face__
 __aboveboard__  
 __abracadabra__ _n_  
 __abrade__ _v_  
-__abreast__ _adv_ :six: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro  
+__abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogation__ _n_ :two::hammer:  
 __abrupt__ _adj_ /uh-BRUPT/  
@@ -154,7 +154,8 @@ __adamant__ _adj_ :two::hammer:
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
-__address__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
+__address<sup>1</sup>__ _n_ _The Emperor heard an address of welcome by his host._  
+__address<sup>2</sup>__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __adhere__ _v_  
@@ -2403,6 +2404,7 @@ __chisel__ _n_
 __chiseled__  
 __chit__ _n_  
 __chit-chat__ _n_ An informal conversation about things that are not important.  
+__chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
 __chive__ _n_  
@@ -3978,7 +3980,7 @@ __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
 __doeskin__ _n_ :two::hammer: _A roeskin belt._ _A doeskin wallet._  
-__doff__ _v_ :four: (doffing; vs don _v_) __1__ To take off; remove: _doff one’s clothes._ __2__ To tip or remove (one’s hat) in salutation. _Doff his hat._ __3__ To put aside; discard.  
+__doff__ _v_ :five: (doffed, doffing; vs don _v_) __1__ To take off; remove: _doff one’s clothes._ __2__ To tip or remove (one’s hat) in salutation. _Doff his hat._ _Both doffed their hats as they met._ __3__ To put aside; discard.  
 __dog days__  
 __dog sledding__  
 __dog tag__  
@@ -5264,7 +5266,8 @@ __flotation tank__
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :nine::m: (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
-__flourish__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
+__flourish<sup>1</sup>__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
+__flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
 __flowerpot__ _n_ _Clay flowerpot._  
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
@@ -8058,7 +8061,7 @@ __lithotripter__ _n_
 __litigation__  
 __litigator__ _n_ :two::hammer:  
 __litmus test__ _n_  
-__litter__ _n_ :two::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
+__litter__ _n_ :three::camera::pencil2: __4__ An enclosed or curtained couch mounted on shafts and used to carry a single passenger.  
 __litterbug__ _n_ _informal_ One who litters public areas with trash.  
 __Little Boy__ _n_  
 __live wire__  
@@ -8514,6 +8517,7 @@ __medevac__ _v_
 __medic__ _n informal_ A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
+__medlar__ _n_ :es: níspero  
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __meds__  
 __medulla__ _n_ :mega: /mɪˈdʌlə/  
@@ -14718,6 +14722,7 @@ __truism__ _n_ :two::hammer:
 __trull__  
 __truly__ _adj_ :two::hammer: _We truly appreciate it._  
 __trumpet__ _v_  
+__trumpeter__ _n_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __truncate__ _v_ /TRUNG-kayt/ _Many statements in the court document were truncated before publication._  
 __trundle__ _v_  
 __trundling__ _v_ _Some employees are trundling in._  
