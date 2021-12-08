@@ -1648,7 +1648,6 @@ __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._
 __brisker__  
 __brisket__ _n_ :three::hammer:  
 __briskly__  
-__bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
 __Bristolian__  
@@ -9718,7 +9717,7 @@ __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._
 __palladium__  
 __pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
 __palled__ _v_  
-__pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ _Sleeping pallets (makeshift beds)._  
+__pallet__ _n_ :nine::m: (pallets) A portable platform used for storing or moving cargo or freight. _Rob rented a pallet._ __2__ A narrow hard bed or straw-filled mattress. __3__ _Chiefly Southern US_ A temporary bed made from bedding arranged on the floor, especially for a child. _Sleeping pallets (makeshift beds)._  
 __pallholder__ _n_  
 __palliate__ _v_ Lessen or to try to lessen the seriousness or extent of. _Syn_ extenuate, mitigate  
 __palliative__ _adj_ _Palliative care._  
@@ -13703,7 +13702,7 @@ __sturdy__ _adj_ :four::hammer:
 __sturgeon__  
 __stutter__ _v_ :two::hammer:  
 __style__ _v_  
-__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebode or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
+__stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
 __suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  

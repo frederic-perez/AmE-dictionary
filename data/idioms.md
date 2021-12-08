@@ -35,6 +35,7 @@ __(with) kind regards__ A common, semi-formal valediction used to at the end of 
 __800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
+__a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
 __a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
 __a bit out of it__ Feeling somewhat disoriented, phased, or out of touch with the world; spaced out. _Sorry I’m rambling so much tonight, I’ve been feeling a bit out of it lately._  
@@ -324,6 +325,7 @@ __bring home the bacon__ To earn money to live on.
 __bring it on__ To begin a fight or competition.  
 __bring the house down__ __1__ Literally, to raze or demolish a house so that nothing is left standing. __2__ :dart: To perform or entertain so successfully as to cause the audience to erupt in applause, laughter, or cheers for a long stretch of time.  
 __bring to an end__  
+__bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broken record__ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
@@ -430,6 +432,7 @@ __come to terms__ :four::hammer:
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :two::hammer:  
 __coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
 __control freak__ :two::hammer:  
@@ -524,6 +527,7 @@ __doom and gloom__ :two: A general feeling of pessimism or despondency. This exp
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
 __double down__ To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the drain__ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
@@ -1011,7 +1015,7 @@ __in (one’s) day__ :dart: When one was younger; in one’s younger days. _Back
 __in (one’s) dotage__ In a state of senility or mental decline due to old age.  
 __in (one’s) heyday__ In, at, or during the period of one’s greatest success, power, vigor, etc.  
 __in (one’s) own right__ :two: Through one’s own talents or efforts. _His father was a hall-of-famer, and he’s a pretty good basketball player in his own right._  
-__in (or out of) someone’s hair__ _informal_ Annoying (or ceasing to annoy) someone. _He built the shop to get his hobby out of his wife’s hair._  
+__in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression alludes to entangling one’s hair.]Annoying (or ceasing to annoy) or bothering someone. _He built the shop to get his hobby out of his wife’s hair._ _Yogi Bear is always in the Ranger’s hair._  
 __in (someone’s) view__ In someone’s opinion.  
 __in (someone’s) wheelhouse__ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
 __in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
@@ -1153,6 +1157,7 @@ __keep from (doing something)__ To stop oneself or another from (doing something
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ Keep it a secret.  
 __keep mum__ To remain silent; to not say anything (e.g., about a secret).  
+__keep one’s countenance__ Maintain one’s composure, especially by refraining from laughter. To preserve a calm appearance, hiding one’s emotions. _For my part I decided that for once in my life it was wisest to keep my countenance._  
 __keep one’s eyes peeled__ (keep one’s eyes skinned) To watch vigilantly (for).  
 __keep one’s word__ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ To remain unseen, as by hiding or evasion.  
@@ -1467,6 +1472,7 @@ __of one’s own accord__ Voluntarily.
 __off to the races__ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
 __off-kilter__ :three::hammer:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
+__offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
 __Oh, boy!__ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
@@ -1558,7 +1564,7 @@ __pay the price__ To suffer the consequences for doing something or risking some
 __pay through the nose (for something)__ :three::hammer:  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
-__perfect storm__ :three: A critical or disastrous situation created by a powerful concurrence of factors.  
+__perfect storm__ :four: A critical or disastrous situation created by a powerful concurrence of factors.  
 __perk up__ :three: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
@@ -1666,6 +1672,7 @@ __saved by the bell__ Saved or spared from difficulty or misfortune by some inte
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scrounge up__ _To scrounge up the funds._  
+__second best__ (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second-guess__ _I started second-guessing myself._  
 __security blanket__ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
@@ -1706,7 +1713,7 @@ __show someone the door__ To dismiss someone from a job.
 __shut (one’s) mouth__  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
-__shy away__  
+__shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
@@ -1743,6 +1750,7 @@ __spell it out__ For example, “let me spell it out for you,” is another way 
 __spin one’s wheels__ :three: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._  
 __split hairs__ :two: Argue or worry about small details.  
 __spot on__ _informal_ :four: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
+__spring to life__ To become suddenly alive or more alive. _The party sprang to life after midnight._ _The city sprang to life at dawn._  
 __spruce up__ _v_ :four: To make to look cleaner, neater, or more attractive; to improve. _Juliette spruces up her country look and sound._  
 __spur of the moment__ An impulse characterized by a lack of preparation or consideration. The phrase can be hyphenated and used as a modifier before a noun. _The administrators mada a “spur of the moment” decision to block him._ _You’ve got to stop making these spur-of-the-moment decisions about your business, or you’ll end up running it into the ground!_  
 __stalk out__ :three: (stalked out) To leave (some place) in a haughty, stiff, or threatening manner. _The entire room fell quiet as the count stood up and stalked out slamming the door._  
