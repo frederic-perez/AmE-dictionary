@@ -845,7 +845,7 @@ __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
 __bail skip__  
-__bailiff__ _n_ :three::pencil2::hammer: (bailiffs)  
+__bailiff__ _n_ :four::pencil2::hammer: (bailiffs) :es: alguacil  
 __bailiwick__ _n_ :four::hammer:  
 __bailout__ _n_ :four::hammer:  
 __bait__ _v_ _A trap baited by a devil._  
@@ -3197,7 +3197,7 @@ __crew cut__ _n_ :three::hammer: _A tall crew cut._
 __crewcats__  
 __crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
-__crier__ _n_ _Public criers._  
+__crier__ _n_ :two: __2__ (formerly) an official who made public announcements, esp in a town or court. _Public criers._  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
@@ -5217,6 +5217,7 @@ __flick<sup>1</sup>__ _n_ _slang_ As slang for “film,” it is first attested 
 __flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor where Ruth flicked cigar ashes._ _It flicks charged particles into Earth’s magnetic field._  
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
+__Flight into Egypt__ _n_  
 __flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
 __flimflam<sup>1</sup>__ _n_ :dart::two::hammer:  
 __flimflam<sup>2</sup>__ _v_ To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
@@ -6381,6 +6382,7 @@ __harp on__ _phr v_ :three: (harping on) To talk or write about to an excessive 
 __harpy__ _n_  
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_ :two::hammer: (harrows)  
+__Harrowing of Hell__ _n_  
 __harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
@@ -6566,6 +6568,7 @@ __heriot__ _n_
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
 __hermit__  
+__Herod__ _n_  
 __Herodotus__ _n_  
 __heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
 __heron__ _n_ :three::hammer: (herons)  
@@ -8630,7 +8633,7 @@ __midsize__
 __midst__  
 __midswing__  
 __midway__  
-__midwife__ _n_ :two::pencil2: Nurse trained to assist women in childbirth.  
+__midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
 __mien__  
 __miff__ _v_ (miffed) To cause to become offended or annoyed.  
 __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
@@ -11309,6 +11312,7 @@ __red-letter day__
 __redbones__ _n_  
 __redeal__ _v_ To deal playing cards again.  
 __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedeemed for cash._  
+__Redeemer__ _n_  
 __redemption__ _n_ :two::hammer: (redemptions)  
 __redline__ _v_  
 __redo__ _v_ :two::hammer:  
@@ -12011,7 +12015,7 @@ __scenic__
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
-__schadenfreude__ _n_ :two::astonished: Pleasure derived from the misfortunes of others.  
+__schadenfreude__ _n_ :three::astonished: (Schadenfreude) Pleasure derived from the misfortunes of others.  
 __schedule__ _n_ _A schedule was set._  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
