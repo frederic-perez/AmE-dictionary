@@ -298,6 +298,7 @@ __bog down__ :dart: __1__ To slow down or burden someone or something. (A bog is
 __boil (something) down to (something)__ To reduce or simplify (something) to the most basic, essential, or fundamental element(s).  
 __booby prize__ :astonished: A mock prize given to the worst player or performer. _Bob should get the booby prize for the worst showing in the race._  
 __bored to tears__ Extremely bored to the point of distraction, frustration, or irritation.  
+__born to the purple__ _Both were born to the purple._  
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
@@ -343,7 +344,7 @@ __buy the farm__ To die.
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
-__by the book__ :two: In a way that strictly adheres to the established rules (as recorded in writing).  
+__by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :two::hammer:  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
@@ -408,6 +409,7 @@ __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
+__close call__  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
 __cloud the issue__ To obfuscate or distract from the topic at hand by introducing irrelevant and/or misleading information.  
@@ -708,6 +710,7 @@ __get this show on the road__ To promptly begin or get something started.
 __get through to (someone or something)__ To make someone understand what you are trying to say.  
 __get to the point__ To talk directly about the most important part or topic.  
 __get under someone’s skin__  
+__get wind of something__  
 __get wise (to someone or something)__ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
 __get worked up about (something)__ To enter a state of mental or emotional agitation because of something. _You’re getting worked up about nothing—I’m sure the doctor will tell you it’s nothing._  
 __get your ducks in a row__ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
@@ -1166,6 +1169,7 @@ __keep tab(s) (on someone or something)__ :nine::m: (keep track (of someone or s
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
 __keep up with (someone or something)__ :two::hammer:  
 __keep your head above water__ To just be able to manage when you have financial difficulties.  
+__keep your shirt on__  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __kick (someone or something) to the curb__ To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
 __kick ass__ :two: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
@@ -1668,7 +1672,7 @@ __run for the hills__
 __salt of the earth__ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __sanctum sanctorum__  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
-__save (one’s) bacon__ To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
+__save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
@@ -1728,6 +1732,7 @@ __sitting on the fence__
 __sitting pretty__ :three: Living in comfort.  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
+__skip a beat__ _His heart skipped a beat._  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ To issue one with a very mild, inconsequential punishment or warning.  
@@ -1859,6 +1864,7 @@ __the short and the long of it__ The essential or most important point being mad
 __the sky is the limit__ :three: (the sky’s the limit) Anything is possible; there is practically no limit.  
 __the third degree__ _informal_ Asking serious questions and/or giving someone rough treatment to get information. _I got the third degree when I got home last night._  
 __the whole nine yards__  
+__the whole shebang__  
 __then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
@@ -1945,7 +1951,7 @@ __vanish into thin air__ To disappear completely, without leaving a trace.
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
-__wake-up call__ :three: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
+__wake-up call__ :four: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
 __walk away__ _Knowing when to walk away is an essential life skill._  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
@@ -2002,6 +2008,7 @@ __X’s and O’s__ :three: (Xs and Os) __1__ _sports_ The symbols used to denot
 __yadda yadda yadda__ :four: (yada yada yada) And so forth, on and on; something boring and repetitive.  
 __yeah, yeah (,yeah)__ _informal_ A dismissive phrase commonly used to express impatience, frustration, or incredulity with what the previous speaker has said. _Yeah, yeah, we’ve heard it all before. Now when is your organization going to start taking steps toward real change?_ _A: “And then my dog ate my homework, I swear.” B: “Yeah, yeah, yeah. Tell me what really happened.” A: “I might have forgotten about the assignment.” A: “There we go.”_  
 __you are what you eat__ To be healthy, you need to eat good food.  
+__you bet__ _Do you want more coffee? You bet._  
 __you can say that again__ I agree completely; what you said is especially true. _A: “Wow, that exam was brutally difficult.” B: “You can say that again! It was the hardest test I’ve ever taken.”_  
 __you could hear the grass grow(ing)__ :dart: It is so still or quiet that one would be able to hear even the tiniest, imperceptible sounds. _I reckon you could hear the grass growing in the awkward silence that followed that dreadful performance._  
 __you name it__ :dart::five: You say _you name it_, usually after or before a list, to show that you are talking about a very wide range of things. _Pickled cucumbers, jam, pickled berries, tomatoes; you name it, they’ve got it._ _Foo, bar, baz—you name it._  
