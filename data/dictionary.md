@@ -5868,7 +5868,7 @@ __glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, la
 __glower<sup>1</sup>__ _n_ A sullen or angry stare. _Syn_ glare _His frown deepened into a glower of resentment._  
 __glower<sup>2</sup>__ _v_ :five::hammer: (glowered, glowering)  
 __glue > a glue-type player__  
-__glum__ _adj_ :five: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don’t smile, giggle, or laugh — and they’re rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, “Why so glum?” _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._  
+__glum__ _adj_ :six: To be glum is to be sad. Glum is a word for being depressed, bummed out, or down in the dumps. People who are glum are sometimes said to be sullen, brooding, morose, and moody. Glum folks don’t smile, giggle, or laugh — and they’re rarely seen holding balloons. Being glum is a little more outward-directed than just being sad. To be glum is to act sad in front of other people, almost like you want them to ask, “Why so glum?” _Dell and H.P. Might not be joyful, but should be they be glum?_ _Glum news._ _He sounded glum._  
 __glut<sup>1</sup>__ _n_ :seven: A glut is too much of something. A glut of gas in the marketplace can lower its price. A glut of heavy metal T-shirts in your dresser, however, has nothing to do with the economy but might be a signal that it’s time to clean your room.  
 __glut<sup>2</sup>__ _v_  
 __glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
@@ -7149,6 +7149,7 @@ __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beat
 __ineffable__ _adj_ :four::hammer:  
 __ineffectual__  
 __inefficacious__ _adj_  
+__ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
@@ -7941,7 +7942,7 @@ __letter__ _v_ _I’m currently lettering the forthcoming comic book._
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
-__levelheaded__ _adj_ Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._  
+__levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
@@ -8205,7 +8206,7 @@ __lowlife__ _n_ _slang_ :three: A criminal or disreputable person.
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
-__lucid__ _adj_ :two: Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
+__lucid__ _adj_ :three: /LOO-sid/ Mentally sound; sane or rational. Expressed clearly; easily understood; comprehensible; rational or sane. _Syn_ coherent, logical _He’s a muddled fool, full of lucid intervals._  
 __lucida__ _n_ The brightest star in a constellation: _Rigel is the lucida of the constellation Orion._  
 __lucifer match__  
 __lucky charm__  
@@ -9000,6 +9001,7 @@ __mysterious__ _adj_ :two::pencil2:
 __mystery shopper__ _n_ Someone hired by a company to pose as a customer in order to evaluate the quality of its service.  
 __mystery train__  
 __mystified__  
+__mystify__ _v_ _He was mystified._  
 __mystique__ _n_ :pencil2:  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
@@ -11481,6 +11483,7 @@ __respite__ _n_ :nine::m: /ˈrɛspɪt; -paɪt/ A respite is a break from somethi
 __respondent__ _n_ :three::hammer: (respondents)  
 __responsibility__ _n_ :pencil2::mega::two::hammer: _With great power comes great responsibility._  
 __responsibly__ _adv_ In a responsible manner.  
+__responsive__ _adj_ /rih-SPAHN-siv/  
 __rest home__ _n_  
 __restate__ _v_  
 __restaurateur__ _n_ :two: /res-tuh-ruh-TER/ A restaurateur is a person who owns or manages a restaurant.  
@@ -13189,6 +13192,7 @@ __splay__ _v_ :six::hammer: (splahed, splaying)
 __spleen__ _n_ _Interned-stoked spleen._  
 __splendid__  
 __splendor__  
+__splenetic__ _adj_ Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
 __spliced__ _v_  
 __splint<sup>1</sup>__ _n_  
 __splint<sup>2</sup>__ _v_  
@@ -15074,6 +15078,7 @@ __uppers__
 __upping__ _v_ :two::hammer:  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
+__uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
 __uproot__ _v_ :three::hammer: (uprooted) _Uprooted workers._  
 __uprparious__ _adj_ _An uproarious fracas._  
 __upsale__ _n_ An act of upselling.  
@@ -15221,7 +15226,7 @@ __venture__ _n_
 __venue__ _n_ :two::hammer: _What’s the venue?_  
 __Venus flytrap__ _n_ :camera::two::hammer:  
 __veracity__ _n_  
-__veranda__ _n_ :three: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
+__veranda__ _n_ :four: A roofed platform along the outside of a house, level with the ground floor. _Syn_ porch, gallery, balcony, lanai, sun porch, stoop _We’ll have our coffee on the veranda._  
 __verbally__  
 __verbatim__  
 __verberize__  
@@ -15332,6 +15337,7 @@ __voltron__
 __voluble__  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
 __voracious__ _adj_  
+__vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
 __votaries__  
 __vote in__ _phr v_ To choose somebody for a position by voting.  
 __vote off__ _phr v_ _Nikki was voted off first from Dancing with the Stars._  

@@ -1,13 +1,3 @@
-__vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
-__uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
-__lucid__ _adj_ /LOO-sid/  
-__ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._  
-__splenetic__ _adj_ Affected or marked by ill humor or irritability. _Syn_ bristly, prickly, waspish _The splenetic tone of the complaint letter made James dread meeting its author in person._  
-__responsive__ _adj_ /rih-SPAHN-siv/  
-__levelheaded__ _adj_ _He was pretty levelheaded with me._  
-__mystify__ _v_ _He was mystified._  
-__veranda__ _n_  
-__glum__ _adj_ _He sounded glum._  
 __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __consist__ _n_ _A consist of eight passenger cars._  
 __woozy__ _adj_  
