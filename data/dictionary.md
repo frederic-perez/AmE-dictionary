@@ -600,6 +600,7 @@ __arose__ _v_ :two::hammer:
 __arpents__ _n_ :two::hammer:  
 __arrange__ _v_  
 __arrangement__ _n_  
+__array__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
 __arrive__ _v_ _He arrived in England in April 1376._  
@@ -1757,7 +1758,7 @@ __built-ins__ _n_ Appliances, machinery, and other equipment installed as part o
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
 __bulk__ _n_ :two::hammer: _For the bulk of eight years._  
-__bulkhead__ _n_ :four::hammer: _The bulkhead door._  
+__bulkhead__ _n_ :six::hammer: _The bulkhead door._  
 __Bull__ _n_  
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
@@ -1768,6 +1769,7 @@ __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched
 __bullhorn__ _n_ :dart::two: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice.  
 __bullion__  
 __bullpen__ _n_  
+__bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __bullwhip__  
 __bully__  
 __bulrush__ _n_ A tall strong water plant. :es: junco  
@@ -2507,7 +2509,7 @@ __clamant__ _adj_ :two: __1__ Clamorous; loud. __2__ Compelling or pressing; urg
 __clambake__ _n_  
 __clamber__ _v_ :nine::m: (clambered, clambering) To climb (something) awkwardly, esp by using both hands and feet. _He clambered to his feet._ _She clambered down to the ground._ _Up the darkest wall he clambered, to become a darker shadow clinging to the wall just under the ceiling._  
 __clamming__ _adj_ _His clamming forehead._  
-__clammy__ _adj_ :three::hammer: _His skin was clammy._  
+__clammy__ _adj_ :four::hammer: _His skin was clammy._  
 __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for justice and tolerance._ __2__ To utter or proclaim insistently and noisily. _The delegates clamored their disappointment._  
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
@@ -2902,7 +2904,7 @@ __consensus__ _n_ :four: General or widespread agreement (esp in the phrase cons
 __consequently__  
 __conservancies__  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
-__consist__ _n_ (trains) _A long consist._  
+__consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
@@ -10195,6 +10197,7 @@ __piling__ _n_ _A deserted cabin built on pilings._
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
 __pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
+__pilloried__ _v_  
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
@@ -10263,6 +10266,7 @@ __pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._
 __pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
 __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
+__pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
 __pitch-faced__ _adj_ :two::hammer:  
 __pitch-perfect__  
 __pitch<sup>1</sup>__ _n_ :eight: __1__ A black or dark viscous substance obtained as a residue in the distillation of organic materials and especially tars. __2__ Resin obtained from various conifers and often used medicinally. _There was a jar of hot pitch [in case it was required for the amputation]._ :es: brea __3__ _sports_ A playing field. Also called _wicket._ _We recovered the ball in their side of the pitch after pressing well._ :es: campo, cancha  
@@ -11685,9 +11689,8 @@ __roll call__ _n_ :two: The calling of a list of names, as of soldiers or studen
 __roll out__ _v_ :four::hammer: _The retailer will roll out deals two days early._  
 __roll over__ _v informal_ :two: To defeat overwhelmingly. To be easily defeated without even trying: _We can’t expect them to just roll over for us. They thought the unions would roll over._  
 __roll the dice__  
-__roll__ _v_ :two::hammer: _Roll the video, please._ _You rolled 6, you go 6._  
 __roll<sup>1</sup>__ _n_ :two::hammer: (rolls) _A shot of my rolls hanging over my gym shorts._ _A deli where I buy a morning paper, roll and coffee._  
-__roll<sup>2</sup>__ _v_ :five::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._  
+__roll<sup>2</sup>__ _v_ :eight::hammer: (rolling) _A country rolling with anger and fear._ _U.S. rolls in first World Cup qualifier._ _The Longhorns rolled to an easy victory._ _Roll the video, please._ _You rolled 6, you go 6._ _They hadn’t rolled or pitched too much in the storm they hit just outside of San Francisco._  
 __roller bag__  
 __roller derby__  
 __rollicking__ _adj_ :two: Boisterously carefree, joyful, or high-spirited. _A rollicking adventure film._  
@@ -14717,7 +14720,7 @@ __trot line__
 __trot out__  
 __trot__  
 __troubleshoot__ _v_ :three::hammer:  
-__troubleshooter__  
+__troubleshooter__ _n_ :two::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
 __trousseau__ _n_ The clothes, linen, etc, collected by a bride for her marriage.  
@@ -15826,7 +15829,7 @@ __woodwork__ _n_ :two::hammer:
 __woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
 __wooly__  
 __woomb__  
-__woozy__ _adj_ :three::hammer:  
+__woozy__ _adj_ :four::hammer:  
 __wop__  
 __Worcester, Massachusetts__ _n_ :mega: [Common popular pronunciations: /wur-sess-ter, wawr-chest-ter/ Prevailing local pronunciation: /woos-ter/]  
 __wordie__ _n_ A person with an enthusiastic interest in words and language; a logophile.  

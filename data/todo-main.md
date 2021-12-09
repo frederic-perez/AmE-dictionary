@@ -1,13 +1,3 @@
-__bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
-__consist__ _n_ _A consist of eight passenger cars._  
-__woozy__ _adj_  
-__clammy__ _adj_ _He was clammy._  
-__array__ _v_ (arrayed)  
-__roll__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
-__pitch__ _v_ _They hadn’t rolled or pitched too much 9n the storm they hit just outside of San Francisco._  
-__bulkhead__ _n_ :two::hammer:  
-__pilloried__ _v_  
-__troubleshooter__  
 __rustle__ _v_ _A curtain rustled._  
 __bonfire__ _n_  
 __paraphernalia__  
