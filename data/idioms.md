@@ -871,6 +871,7 @@ __have a heart of gold__ To be very kind and generous.
 __have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
 __have a look-see__ :dart: To have a very quick look or brief examination.  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something. _Though I was excited for my daughter to start her college experience, I still had a lump in my throat saying goodbye to her at the airport._  
+__have a mind like a sieve__ To be exceptionally forgetful or absentminded. _I need to start getting more sleep at night, because lately I’ve had a mind like a sieve._  
 __have a mountain to climb__ To have an extremely difficult, seemingly impossible task at hand.  
 __have a point (there)__ _He’s got a point._  
 __have a say (in something)__ To have an active and participatory role in making or influencing a decision about something.  
@@ -1192,6 +1193,7 @@ __knock (one’s) head against a/the wall__ To attempt continuously and fruitles
 __knock (someone) over with a feather__ To shock, confuse, or astonish someone to a point of complete bewilderment; throw someone for a loop. More often phrased as “you could have knocked me over with a feather,” expressing great bewilderment or surprise.  
 __knock it off__ To stop doing whatever one is doing. Often used as an imperative. _Knock it off, you two! I don’t want to see any more fighting._  
 __knock on wood__  
+__knock the socks off (someone or something)__  
 __knocked up__ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
@@ -1390,14 +1392,21 @@ __marry into money__ To become wealthy or financially secure by marrying someone
 __me three__ _humorous_ An expression of concurrence, agreement, or willingness to participate in addition to others. Said after someone has said “me too” (i.e., “me as well”), thus creating a pun of “too” and “two.” _Dan: “I’m going with you, Steve.” Greg: “Me too!” John: “Me three!”_  
 __meant to be__ _It was meant to be made in heaven._  
 __measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
+__media darling__ A very famous and popular person who receives exceptionally positive media coverage or attention. _Ever since the election season began, the presidential hopeful has become quite the liberal media darling._  
+__meet (someone’s) expectations__ To be as good as or have the qualities that someone predicted, expected, or hoped for. _We’d heard so many good things about the new restaurant, but the food didn’t meet our expectations at all._  
+__meet trouble halfway__ :dart: To worry, grow anxious, or distress oneself unnecessarily over something that has yet to happen. _You can’t go through life meeting trouble halfway, or you’ll end up paralyzed with indecision and anxiety._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
+__memory lane__ A set or series of memories of one’s past life, likened to a roadway that one may visit or take a tour of. (Used primarily in the phrase “stroll/take a trip/walk etc. down memory lane.”) _My grandmother spends more time strolling down memory lane these days than conversing about the present._  
 __mess around__  
+__mess of pottage__ Something of little, trivial, or no value but which appears to be attractive or valuable on first reckoning. An allusion to Esau in Genesis 25:29–32, who sells to Jacob his birthright to his family’s estate for a bowl of lentil stew (pottage). _Only after the economic crash did it become fully clear what messes of pottage these sub-prime mortgages proved to be for first-time homeowners._  
 __metal__ _adj_ _slang_ :seven: Very intense or hardcore. A reference to heavy metal music, which is typically considered to have such qualities. _Whoa, that’s metal—how many hours did it take to get that tattoo?_ _The most metal episode so far._ _I don’t know if I’m metal enough to do that._  
 __middle ground__ :two: Something that people with differing opinions or views can agree upon; a compromise. _More and more, it seems like people of differing views are unwilling to attempt to find a middle ground._  
 __milk it__ To take advantage of the help or kindness of others, as when one acts as if one still needs help after recovering from an illness.  
 __mince (one’s) words__  
+__mind (one’s) manners__ To be well behaved and act appropriately. _Make sure you mind your manners while you are with your Aunt Josephine. I don’t want to hear about you giving her any trouble while I’m away!_  
 __mint money__ To earn a very large amount of money, especially by doing something very successfully. _We’ll be minting money if we can manage to secure a trading partner in China._  
 __miss a beat__ _Without missing a beat._  
+__Miss Right__ The perfect or most suitable woman to be in a relationship with or to marry. _If you’re waiting for Miss Right to just appear in your life, you’re never going to find someone you’ll be happy with. You have to get out there and give people a chance!_  
 __miss the cut__ In golf, to fail to match or better the score necessary to remain in the final two rounds of a four-round tournament, thus resulting in elimination.  
 __miss the point__ :two::hammer:  
 __mix and match__ To put certain things together in different combinations. _You can mix and match any of the items on this table, so take whatever you want._ _The pieces in my spring collection were designed to be mixed and matched._  
@@ -1857,6 +1866,7 @@ __the lion’s den__ A particularly dangerous, hostile, or oppressive place or s
 __the lion’s share__ :two: Major share of something.  
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
+__the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
