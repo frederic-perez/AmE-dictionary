@@ -748,6 +748,7 @@ __autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one pers
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
+__autolysis__ _n_  
 __automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
 __autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a pseudonym. __2__ A work published under the real name of the author.  
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
@@ -1533,6 +1534,7 @@ __boudoir__ _n_
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
+__boule__ _n_ __2__ A round loaf of bread.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
 __bouncy__  
@@ -7926,6 +7928,7 @@ __Lenny__ _n_ Diminutive of Leonard.
 __lens__ _n_ _Lens design._  
 __lenses__ _n pl_  
 __Lent__ _n_ :two::hammer: :es: cuaresma  
+__lentic__ _adj_ /LEN-tik/ [:scroll: From Latin lentus (slow, calm), which also gave us relent, lentamente (slowly, used in music direction), and lentitude (slowness).] Relating to or living in still waters (such as lakes, ponds, or swamps).  
 __lentil__ _n_ (lentils) :es: lentejas  
 __leper__  
 __lepers__  
@@ -7942,6 +7945,7 @@ __lethargic__ _adj_ :two::hammer: _Lethargic voice._
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
+__levain__ _n_  
 __levee__  
 __level__ _v_ :two::hammer: (leveled)  
 __levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, intelligent, healthy _While I stood around bawling uselessly, my levelheaded sister calmly called a towing company and then our parents to let them know that the car had broken down._ _He was pretty levelheaded with me._  
@@ -9716,7 +9720,7 @@ __palaver<sup>2</sup>__ _v_
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
-__palisades__ _n_  
+__palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
 __pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
@@ -9963,7 +9967,7 @@ __pee bottle__ _n_ _informal_ A bottle in which one urinates, especially when a 
 __peek-a-view__  
 __peel off__ _v_ _After chatting with the vets, we peel off and head out to explore some of Vail’s famous back bowls._  
 __peep__ _n_ :three::hammer: _I took twenty sutures out of a kid’s boy this morning. Not a peep._  
-__peeps__ _n pl_ _slang_ Friends.  
+__peeps__ _n pl_ _slang_ :two: Associates; friends.  
 __peer<sup>1</sup>__ _n_ (peers)  
 __peer<sup>2</sup>__ _v_ :two::hammer: (peered, peering) _Peering into their crystal balls._  
 __peered__ _adj_  
@@ -11036,6 +11040,7 @@ __quicksilver__
 __quid pro quo__ _n_ :three::hammer: _He sees counseling as a quid pro quo and not a sincere effort to repair himself._  
 __quid__  
 __quidnunc__ _n_ A person eager to learn news and scandal; gossipmonger.  
+__quiescence__ _n_ A state of quiet (but possibly temporary) inaction. _Syn_ dormancy _The volcano erupted after centuries of quiescence._  
 __quiescent__ _adj_ :four: __1__ Quiet, still, or inactive.  
 __quiff__ _n_ A woman regarded as promiscuous.  
 __quill__ _n_  
@@ -13085,6 +13090,7 @@ __souping up__ _v_
 __sour grapes__ _n_ :three::dart: Pretending to dislike something you cannot have.  
 __sour__ _adj_ __1__ With a taste like a lemon. __2__ With an unpleasant taste or smell, especially because of no longer being fresh. __3__ Unpleasant, unfriendly, or in a bad mood.  
 __source__ _v_  
+__sourdough__ _n_  
 __soured__ _v_ :three::hammer:  
 __sous-chef__ _n_ :mega:  
 __soused__ _v_  
@@ -14265,6 +14271,7 @@ __thobbing__
 __Thomas Aquinas__ _n_ :two: (Aquinas /ə-kwī′nəs/, Saint Thomas) [1225-1274] Italian Dominican friar, theologian, and philosopher.  
 __thong__ _n_ :two::hammer:  
 __thoracotomy__ _n_  
+__thorn__ _n_ __4__ The runic letter þ, used in Old English, Middle English, and Old Norse manuscripts to represent both the voiceless sound (th) of Modern English _thin_ and the voiced sound (th) of Modern English _this_.  
 __thorny__ _adj_  
 __thorough__ _adj_ :three::astonished::hammer::mute:[thorou~~gh~~] _It’s a very serious matter that needs thorough investigation._ _Thorough investigation._  
 __thoroughfare__  
@@ -15918,6 +15925,7 @@ __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour.
 __wryly__ _adv_ :three::pencil2::hammer:  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
+__wynn__ _n_ (wen) An Old English rune (ƿ) having the sound (w) and used in Old English and Middle English writing.  
 __X factor__ _n_ _informal_ (X-factor) An unknown or unexplained element that makes something more interesting or valuable. _Terry could become Ryukyu’s X-factor._  
 __Xanadu__ _n_ A place of great beauty, luxury, and contentment.  
 __xenobiotic<sup>1</sup>__ _n_  
