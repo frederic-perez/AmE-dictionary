@@ -463,7 +463,7 @@ __anodized__ _v_ :two::hammer:
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
 __anomic__  
-__anorak__ _n_ :two::hammer:  
+__anorak__ _n_ :three: A warm waterproof hip-length jacket usually with a hood, originally worn in polar regions, but now worn for any outdoor activity.  
 __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissues or organs.  
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
@@ -7007,7 +7007,7 @@ __immobile__
 __immodest__ _adj_  
 __immolate__ _v_ :mega:  
 __immortalize__ _v_ Make famous forever.  
-__imp__ _n_ _Its imp genius._  
+__imp__ _n_ :two::hammer: _Its imp genius._  
 __impact__ _n_ _Sterling struggled to make an impact in the second half._  
 __impairment__  
 __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mother always warned me not to run with scissors, lest I fall and impale myself on the blades._  
@@ -7578,7 +7578,7 @@ __keep__ _n_ :es: torreón
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
 __kelp__  
-__ken__ _n_ :three: __1__ Perception; understanding: _complex issues well beyond our ken._  
+__ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __kennel__ _n_ :two::hammer:  
 __keno__ _n_  
 __kerchief__ _n_  
@@ -9071,6 +9071,7 @@ __NCO__
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
 __neatnik__ _n_ A very neat and tidy person.  
+__nebbish__ _n_ A person regarded as weak-willed or timid.  
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
 __necessary__ _adj_ :mega: /ˈne-sə-ˌser-ē/  
@@ -9533,7 +9534,7 @@ __ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted int
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
-__ostracize__ _v_ :seven::pencil2: (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
+__ostracize__ _v_ :eight::pencil2: /AH-struh-syze/ (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
 __OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
@@ -10642,7 +10643,7 @@ __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; ab
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
 __prequel__  
-__prerogative__ _n_ :seven::hammer:  
+__prerogative__ _n_ :eight::hammer:  
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
@@ -11159,8 +11160,8 @@ __rank-and-file__ _n_ :six: (rank and file) __1__ People who constitute the main
 __rank<sup>1</sup>__ _n_ _[Urine smelling of] the rank grassiness of someone who has eaten asparagus._  
 __rank<sup>2</sup>__ _v_  
 __ranking__ _adj_ A ranking person has a high, or the highest, position in an organization or is one of the best at an activity. _The panel’s ranking Democrat, William Clay._ _He’s the ship’s ranking officer (=the one with the highest rank)._  
-__rankle__ _v_ :four: (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_  
-__ransack__ _v_ :six: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
+__rankle__ _v_ :five: /RANK-ul/ (rankles, rankled) Gnaw into; make resentful or angry. _Syn_ eat into, grate, fret _If you were aiming to rankle me with your sexist comments, you succeeded!_ _Rae Ann’s snooty attitude and rude behavior rankled the host, but he smiled to hide his irritation._  
+__ransack__ _v tr_ :seven: (ransacked) To search carefully for plunder; pillage. _Syn_ foray, reave, rifle, loot, plunder, strip _My apartment looked like a tornado had torn through it after it was ransacked by a band of thieves._  
 __ransomware__ _n_ :two: Malware that disables the normal operation of a computer until money or other ransom is paid to the person or organization responsible for the malware.  
 __rant<sup>1</sup>__ _n_  
 __rant<sup>2</sup>__ _v_  
@@ -12272,6 +12273,7 @@ __sequin__ _n_ :five::hammer: (sequins) :es: lentejuela
 __sequined__ _v_ :four::hammer:  
 __sequiturs__  
 __seracs__ _n_  
+__seraphic__ _adj_ /suh-RAF-ik/ [:scroll: From Latin seraphim, from Greek seraphim, from Hebrew seraphim, from saraph (to burn).] Like an angel: serene, beautiful, pure, blissful, etc.  
 __sere__ _adj_ :two: (sear) Dried up or withered. Withered; dry: _sere vegetation at the edge of the desert._ _Syn_ shriveled _The desert was edged with sere vegetation._  
 __serein__ _n_  
 __serendipity__ _n_  
@@ -13954,7 +13956,7 @@ __swoopy__
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
 __swooshing__  
 __sword__ _n_ :mute:[s~~w~~ord]  
-__sycophant__ _n_ :dart::four::hammer: (sycophants)  
+__sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllogism__ _n_ :two::hammer:  
 __sympathetic__  
