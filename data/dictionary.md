@@ -3748,7 +3748,7 @@ __diehard__ _adj_ :two::hammer: _A diehard fan._
 __differ__ _v_ :two::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
-__diffident__ _adj_ :two::dart: Lacking or marked by a lack of self-confidence; shy and timid: _He was too diffident to express his opinion._  
+__diffident__ _adj_ :three::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
 __dig__ _n_ _volleyball_ _The Trailblazers got 14 kills and 20 digs from Delayne Daniel._  
 __digest__ _n_ :five::hammer: _The result was the best-looking fiction digest ever published._ _Digest science-fiction magazines had begun to proliferate._  
 __digit__ _n_ __3__ Any of the divisions in which the limbs of most vertebrates terminate, which are typically five in number but may be reduced (as in the horse), and which typically have a series of phalanges bearing a nail, claw, or hoof at the tip.  
@@ -8377,7 +8377,7 @@ __Manhattanite__
 __manhole cover__  
 __manhunt__ _n_ :two::hammer: _A psychological manhunt for happiness._  
 __manic__ _adj_ :two::mega::hammer: _I was manic._  
-__manicure__ _v_ __4__ To trim or cut meticulously: _to manicure a lawn._  
+__manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
 __manifest__ _n_ _A manifest of olive oil._  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
@@ -8658,6 +8658,7 @@ __mileage__
 __military fiat__ _n_  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
+__milk toast__ _n_ Toast, usually buttered, topped with warm milk and often sugar or seasonings.  
 __milk__ _v_ :four::hammer: _Milk the clock._ _The general milked the clapping for a long time._  
 __milkmaid__ _n_ A girl or woman who milks cows.  
 __milkshake__ _n_ :astonished: (milk shake) A beverage that is made of milk, ice cream, and often flavoring and is blended or whipped until foamy.  
@@ -8672,7 +8673,7 @@ __millet__ _n_ :two::hammer: _He had eaten millet gruel._ _Millet soup._
 __milling machine__ _n_  
 __milling__ _n_ :two::hammer: _To avoid disrespectful milling._  
 __million__ _n_ :mega: /ˈmɪljən/ _The project willl cost around $10 million._ (not ending with ‘s’)  
-__milquetoast__ _n_ :two::hammer: _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
+__milquetoast__ _n_ :three: _(often cap.)_ /MILK-tohst/ [:scroll: Caspar _Milquetoast_, a cartoon character invented by H. T. Webster (1885–1952). The character’s name is derived from a bland and fairly inoffensive food, _milk toast_, which, light and easy to digest, is an appropriate food for someone with a weak or “nervous” stomach.] One who has a meek, timid, unassertive nature. _Walt’s journey from a milquetoast chemistry teacher to a ruthless drug kingpin._  
 __mimicker__  
 __minatory__ _adj_ :two: Of a menacing or threatening nature; minacious. _Syn_ menacing, minacious, ominous, sinister, threatening, baleful, forbidding  
 __mince<sup>1</sup>__ _v_ :six: (minced) __1__ Cut up (food, especially meat) into very small pieces, typically in a machine. _Minced beef._ _Minced veal cooked in oil._ __2__ To moderate, restrain, or euphemize (words) for the sake of politeness and decorum: _Don’t mince words: say what you mean._  
@@ -9420,6 +9421,7 @@ __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”:
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __omelets__  
 __omen__ _n_ :five::hammer:  
+__omicron__ _n_ /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ The 15th letter of the Greek alphabet (Ο, ο).  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -12072,6 +12074,7 @@ __scooter__ _n_ :three::hammer: _Motorized scooter._ :es: patinete
 __scope out__ _v_  
 __scorching__  
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
+__score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :two::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
@@ -12185,7 +12188,7 @@ __secret police__ _n_ A police force that operates secretly, esp. to suppress di
 __secret weapon__ _n_ :six: Something that will help you gain a big advantage over your competitors, that they do not know about.  
 __secretariat__ _n_  
 __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from his children._ _Tim would secrete himself in the hotel._  
-__secular__ _adj_ :three::hammer:  
+__secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
 __secularist__  
 __secure__ _v_ _Go online now to secure your seat._  
 __security__ _n_ :mega:  
@@ -13920,7 +13923,7 @@ __swift<sup>1</sup>__ _n_ (bird)
 __swift<sup>2</sup>__ _adj_ :three::hammer: _A swift response._  
 __swiftly__  
 __swiftness__ _n_ :two::hammer: _The days of our lives have flown in the swiftness of time._  
-__swig<sup>1</sup>__ _n_ :three::hammer: _Mike Scott takes a swig from a fan’s drink after tumbling into the crowd in Milwaukee._ _A swig of diet soda._  
+__swig<sup>1</sup>__ _n_ :four::hammer: _Mike Scott takes a swig from a fan’s drink after tumbling into the crowd in Milwaukee._ _A swig of diet soda._  
 __swig<sup>2</sup>__ _v_ :two::hammer:  
 __swill<sup>1</sup>__ _v_ :five::hammer: (swilled, swilling) _Swilling wine._ _Beefy men swilling champagne from magnums._  
 __swill<sup>2</sup>__ _n_  
@@ -14879,7 +14882,7 @@ __tyrant__ _n_ :three::hammer:
 __tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
-__ubiquitous__ _adj_ _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal She is the most ubiquitous media personality around  
+__ubiquitous__ _adj_ :two: Being or seeming to be everywhere at the same time. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
@@ -15935,6 +15938,7 @@ __xenophile__ _n_ A person attracted to that which is foreign, especially to for
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
+__xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
