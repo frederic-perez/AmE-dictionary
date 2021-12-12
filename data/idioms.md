@@ -207,6 +207,7 @@ __be (of) no use to man or beast__ To be completely useless; to serve no purpose
 __be (one’s) last resort__ To be the only remaining thing or person that may help one or be of any use after all other options have been exhausted.  
 __be (someone’s) call__ :dart: To be ultimately left up to someone to decide.  
 __be (someone’s) huckleberry__ (dated) To be well or perfectly suited to someone’s job, need, or purpose.  
+__be (stuck) in a rut__ To become seemingly trapped or stuck in a mundane, non-changing pattern of life, work, and/or personal behavior. _I had so many ambitions when I first graduated from college, but now I feel like I’m in a rut._  
 __be (the) bomb__ To be excellent, extremely entertaining, or of very high quality.  
 __be a different kettle of fish__ To be entirely different in scope or description from someone or something that was just being discussed.  
 __be a long shot__ To be very risky, uncertain, or unlikely to succeed. (Of an attempt, proposition, or guess.) _I know this is a long shot, but would you like to go out on a date with me sometime?_  
@@ -216,6 +217,7 @@ __be as good as gone__ To be very nearly, inevitably, or for all intents and pur
 __be at odds__ _They are at odds over the details of legislation._  
 __be at your wits’ end__ To be worried about something and not know what you should do next.  
 __be brought in from the cold__ To be allowed to join or participate in a group from which one was previously excluded; to be accepted in a certain social setting.  
+__be busted__  
 __be caught with (one’s) pants down__ To be taken by surprise; to be caught in a vulnerable (often embarrassing) position or situation. _We seriously underestimated our opponents on Saturday and were caught with our pants down._  
 __be champing at the bit__ (be chomping at the bit) To be very eager or impatient to do something. The phrase alludes to an excited horse chewing on its “bit” (a metal mouthpiece). _The kids are champing at the bit to go to the park—can you take them?_  
 __be cleaned out__ To be emptied or devoid of money, food, resources, etc.  
@@ -251,6 +253,7 @@ __be no picnic__ _Looking after four children is no picnic._
 __be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
+__be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
 __be on the lookout__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
@@ -302,6 +305,7 @@ __born to the purple__ _Both were born to the purple._
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
+__bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
@@ -360,6 +364,7 @@ __call upon (someone or something)__ _It’s nice when they call upon you and yo
 __calm before the storm__ :two: A peaceful and quiet period before a period of activity or trouble.  
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
+__can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
 __canary in a coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cancel out__  
 __candle in the wind__ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
@@ -623,6 +628,7 @@ __five o’clock shadow__ A short beard on a man’s face that has grown since t
 __flash__ :two: __1__ _v_ _slang_ To expose one’s nudity indecently. _She flashed me anyway._  
 __flick off__ :dart: _He flicked off the light._  
 __flip on__ :dart: To turn something on, typically a switch. A noun or pronoun can be used between “flip” and “on.” _As soon as I flipped on the light, I could see that the house had been robbed._ _He flipped on the radio._  
+__floored__ __1__ Shocked or flabbergasted. _I was completely floored by Rob’s declaration of love—I had no idea he felt that way about me!_ __2__ _slang_ Struck and knocked to the floor. _Can you believe that bully got floored by such a scrawny kid?_ __3__ _slang_ Drunk. _Do you remember last night at the bar at all? You were really floored!_  
 __flotsam and jetsam__  
 __fly in the ointment__ :three: Something that spoils or hinders a proceeding, especially when not anticipated. A flaw or imperfection that detracts from something positive. _The only fly in the ointment in an otherwise perfect wedding day was the fact that the bride tripped when walking down the aisle._  
 __fly off the handle__ To lose self control, to get very angry.  
@@ -722,7 +728,7 @@ __give (someone) a call__ _Give me a call._
 __give (someone) a piece of (one’s) mind__ To tell someone how one feels, often while expressing anger or frustration. _I had to give Sarah a piece of my mind after she left my car a mess for the third time this week._  
 __give (someone) an out__ To provide someone with an excuse or a means of escaping (from something).  
 __give a rat’s ass__ _I don’t give a rat’s ass._  
-__give and take__ _Love don’t come easy. It’s a game of give and take._  
+__give and take__ :two::hammer: _Love don’t come easy. It’s a game of give and take._  
 __give or take__ Plus or minus a specified amount; more or less: _It will cost $20, give or take a dollar or two._  
 __give someone a piece of your mind__ To speak angrily to someone because they have done something wrong.  
 __give someone some lip__ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
@@ -1551,6 +1557,7 @@ __open a can of worms__ :two: To create a situation that will cause a lot of pro
 __open sesame__  
 __other than (something)__ :three::hammer: _Other than that, blah blah blah._  
 __out (of) the (starting) gate__ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
+__out of character__  
 __out of date__  
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
@@ -1599,6 +1606,7 @@ __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ 
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
+__play down__ To make something seem less important or remarkable. _The pharmaceutical company tried to play down the harmful side effects of its new medication._  
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play safe__  
@@ -2006,6 +2014,7 @@ __without fail__ Said of something that happens regularly and predictably with n
 __without further ado__ With no more delay.  
 __work one’s fingers to the bone__  
 __work one’s tail off__  
+__work up a sweat__ __1__ Literally, to perspire due to strenuous physical activity. _Ping pong is actually great exercise. You really can work up a sweat after just a few games._ __2__ By extension, to put forth a large amount of energy or effort into or toward a task. Often used in the negative to indicate the opposite. _That test was so easy, I aced it without even working up a sweat._  
 __worked out__ __5__ _v_ To have a specific result. _I never planned to become a lawyer, that’s just how it worked out._  
 __worried sick__ Very concerned or anxious about a person or situation. _The next time you’re going to be this late getting home, please call me, because I was worried sick!_  
 __wouldn’t listen__ _He wouldn’t listen._  
