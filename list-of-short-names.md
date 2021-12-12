@@ -12,6 +12,7 @@
 - __Abe__ Commonly used in English-speaking countries as a diminutive of the masculine name Abraham, or as a personal name in its own right.
 - __Ada__ A feminine given name. One origin is the Germanic element “adel-” meaning “nobility.” for example as part of the names Adelaide and Adeline. The name can also trace to a Hebrew origin, sometimes spelt Adah עָדָה, meaning “adornment.”
 - __Alf__ The male name Alf or Alv is derived from álf, the Old Norse for “elf.” It is also the shortened form of various Germanic names with álf as their first part, notably Alfred, Álvaro, or more directly from Ataulf (English: Adolph).
+- __Ann__ Variant of Anne, Ann is a form of the Latin female given name Anna. This in turn is a representation of the Hebrew Hannah, which means ‘favour’ or ‘grace.’ Related names include Annie.  
 - __Bea__ A feminine given name, often short for Beatrice.
 - __Ben__ Ben is frequently used as a shortened version of the given names Benjamin, Benedict, or Benson, and is also a very common given name in its own right.
 - __Bob__ A hypocorism, usually of Robert, and sometimes a diminutive of Bobby.
