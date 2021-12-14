@@ -1,13 +1,3 @@
-__rustle__ _v_ _A curtain rustled._  
-__bonfire__ _n_  
-__paraphernalia__  
-__rattan__ _n_ _Rattan chairs._  
-__daresay__ _v_  
-__off-color__ _adj_ _Off-color stories._  
-__drawl<sup>1</sup>__ _n_ _He was from Texas and spoke with a slight drawl._  
-__drawl<sup>2</sup>__ _v_ (drawled)  
-__falsetto__  
-__Godspeed__ _n_ _And Godspeed to you all._  
 __prying__ _v_ _They were pounding and prying boards._  
 __Seabees__ _n_ :two::hammer:  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  

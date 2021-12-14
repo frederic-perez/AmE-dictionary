@@ -1455,7 +1455,7 @@ __bone chips__ _n pl_ Small pieces of cancellous bone generally used to fill bon
 __bone spurs__  
 __bone__ _n_ :two::hammer: _Another bone of contention._ _I have a bone to pick with Clete Purcel._  
 __bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the lammergeier, or the osprey).  
-__bonfire__  
+__bonfire__ _n_ :two::hammer:  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
 __bonkers__ _adj_ _informal_ :five: Crazy. _That’s bonkers!_  
@@ -3431,6 +3431,7 @@ __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked 
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
 __dare__  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
+__daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
@@ -4145,8 +4146,8 @@ __draw<sup>1</sup>__ _n_ _Homeless camps are a draw._
 __draw<sup>2</sup>__ _v_ :three::hammer: _The large dataset is helping to draw global comparisons._ _I’ll draw some blood to be sure._ _We win, lose and draw together._  
 __drawbridge__  
 __drawingrooms__  
-__drawl<sup>1</sup>__ _v_ :two::hammer: (drawled)  
-__drawl<sup>2</sup>__ _n_ :three::hammer: _A Southern drawl._  
+__drawl<sup>1</sup>__ _v_ :three::hammer: (drawled)  
+__drawl<sup>2</sup>__ _n_ :four::hammer: _A Southern drawl._ _He was from Texas and spoke with a slight drawl._  
 __drawstring__ _n_  
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
@@ -4862,6 +4863,7 @@ __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fa
 __fallow ground__  
 __fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
 __false friend__  
+__falsetto__  
 __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
 __falter__ _v_  
 __faltered__ _v_  
@@ -5921,6 +5923,7 @@ __gobs__ _n_ _He vomited gobs of saliva._
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
 __godsend__ _n_ :two: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
+__Godspeed__ _n_ _And Godspeed to you all._  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
@@ -9370,7 +9373,7 @@ __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristi
 __of__ _prep_ _The gas smells of roggen eggs._  
 __off duty__  
 __off kilter__  
-__off-color__ _adj_ :two: An off-color joke or remark is rude or offensive.  
+__off-color__ _adj_ :three: An off-color joke or remark is rude or offensive. _Off-color stories._  
 __off-guard__ _adj_ Not prepared or vigilant.  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-price stores__  
@@ -9808,7 +9811,7 @@ __paranoid__ _adj_
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
 __paraph__ _n_ A flourish made after or below a signature, originally to prevent forgery.  
-__paraphernalia__ _n_ :four::pencil2::hammer: _Star Wars paraphernalia._  
+__paraphernalia__ _n_ :five::pencil2::hammer: _Star Wars paraphernalia._  
 __paraphilia__ _n_ :two::hammer:  
 __paraplegia__ _n_ Complete paralysis of the lower half of the body including both legs, usually caused by damage to the spinal cord.  
 __paraprosdokian__  
@@ -11204,8 +11207,7 @@ __rathole__
 __rating__ _n_ :two::hammer:  
 __rationales__ _n_ _It has four main rationales._  
 __rationalize__ _v_  
-__rattan couch__  
-__rattan__  
+__rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
 __ratter__ _n_  
 __rattle__ _v_ :nine: (rattled) __1__ To make or cause to make a rapid succession of short sharp sounds, as of loose pellets colliding when shaken in a container. _They rattled their swords against the trim of their shields._ __2__ To shake or cause to shake with such a sound: _the explosion rattled the windows._ __3__ To send, move, drive, etc, with such a sound: _the car rattled along the country road._ __4__ _(foll by: on)_ To chatter idly; talk, esp at length: _he rattled on about his work._ __5__ _(tr; foll by off, out, etc)_ To recite perfunctorily or rapidly. __6__ _(tr)_ _informal_ To disconcert; make frightened or anxious.  
 __rattlers__  
@@ -11843,7 +11845,7 @@ __rush<sup>1</sup>__ _n_
 __rush<sup>2</sup>__ _v_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
 __rustle up__ _v_  
-__rustle__ _v_ :six::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
+__rustle__ _v_ :seven::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves blowing in the wind. _The rustling of forest leaves._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
