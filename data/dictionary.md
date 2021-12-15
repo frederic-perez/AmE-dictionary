@@ -538,6 +538,7 @@ __appeases__ _v_
 __appellate__ _adj_ :three::hammer:  
 __appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
+__apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from fruit harvesters using long sticks to dislodge the hanging crop.] A country bumpkin. One of the many terms that city slickers applied to less sophisticated rural dwellers (“rube,” “hayseed,” and “Gomer” are others). Someone who hails from a rural place and is regarded as unworldly. _Ugh, those apple-knockers move too slow for life here in the big city._ __2__ An ignorant or unsophisticated person. __3__ A baseball player, especially a batter. __4__ A fruit picker, farmer, or seller.  
 __applesauce__  
 __applied science__ _n_  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
@@ -784,7 +785,7 @@ __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
-__babushka__ _n_ A headscarf tied under the chin, typical of those traditionally worn by Russian women.  
+__babushka__ _n_ :two: __1__ A headscarf, folded triangularly and tied under the chin, traditionally worn by women in eastern Europe. __2__ An elderly Russian or Polish woman, especially one who is a grandmother.  
 __baby blue__ _n_ :camera:  
 __baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
 __baby formula__ _n_ (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
@@ -1083,7 +1084,7 @@ __belated__ _adj_ _A belated shoutout to Dave for his recent contribution to the
 __belatedly__ _adv_ :five::hammer:  
 __belch<sup>1</sup>__ _v_ :three::hammer: _Smoke belched._ _Steam belches from the nuclear power plant._  
 __belch<sup>2</sup>__ _n_  
-__beleaguer__ _v_  
+__beleaguer__ _v_ :two::hammer: /bih-LEE-gur/  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __belie__ _v_ :nine: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
@@ -2301,7 +2302,7 @@ __chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargr
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
 __charisma__ _n_ :mute:[c~~h~~arisma]  
-__charlatan__ _n_  
+__charlatan__ _n_ :two: A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
@@ -4547,6 +4548,7 @@ __engross__ _v_ :two::hammer::dart: (engrossed)
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
 __enhance__ _v_ Heighten, increase; esp. to increase or improve in value, quality, desirability, or attractiveness.  
+__enigma__ _n_ /ih-NIG-muh/ _The formation of the craters on the planet is an enigma to astrophysicists._  
 __enjambments__  
 __enjoin__ _v tr_ :two: (enjoined) __1a__ To direct (a person) to do something; order or urge: _The doctor enjoined the patient to walk daily._ __b__ To require or impose (an action or behavior, for example) with authority and emphasis; prescribe. __2__ To prohibit or forbid: _The judge enjoined the merger of the firms._ _The court enjoined the company from merging with its competitor._  
 __enliven__ _v_  
@@ -6347,9 +6349,8 @@ __happenstance__ _n_ A chance circumstance. _Syn_ coincidence
 __happy feet__  
 __haps__ _n_ :two::hammer: _What’s the haps?_  
 __haptic__ _adj_ Of or relating to the sense of touch; tactile.  
-__harangue__ _v_  
-__harangue<sup>1</sup>__ _n_ :two::hammer: (harangues)  
-__harangue<sup>2</sup>__ _v_ :five::hammer: (harangued, haranguing)  
+__harangue<sup>1</sup>__ _n_ :three: (harangues) A speech or piece of writing characterized by strong feeling or expression; a tirade. _Syn_ rant _The coach’s angry harangue during halftime somehow managed to motivate the team._  
+__harangue<sup>2</sup>__ _v_ :six::hammer: (harangued, haranguing)  
 __harass__ _v_  
 __harbinger__ _n_ :five: One that indicates or foreshadows what is to come. _Syn_ herald, precursor, forerunner  
 __harbor__ _n_ __2__ A place of shelter; a refuge.  
@@ -7204,7 +7205,7 @@ __inhalant<sup>1</sup>__ _adj_
 __inhalant<sup>2</sup>__ _n_  
 __inhalation__ _n_ :mega:  
 __inhale__ _v_ _slang_ To eat very quickly.  
-__inimical__ _adj_ :four: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly  
+__inimical__ _adj_ :five: __1__ Being adverse often by reason of hostility or malevolence. __2a__ Having the disposition of an enemy. _Syn_ hostile __b__ Reflecting or indicating hostility. _Syn_ unfriendly __3__ Injurious or harmful in effect; adverse. _Syn_ hurtful, injurious _The inimical effects of smoking have been thoroughly documented._  
 __inimitable__ _adj_  
 __iniquity__ _n_ :six: __1__ Gross immorality or injustice; wickedness. _Syn_ evil, wickedness, immorality _The sons of iniquity._ __2__ A grossly immoral act; a sin.  
 __initiative__  
@@ -7308,7 +7309,7 @@ __inurnment__
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
-__inveigle__ _v_ :two: __1__ To win over by wiles. _Syn_ entice __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
+__inveigle__ _v_ :three::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
@@ -9907,6 +9908,7 @@ __patinated__ _v_
 __patio__ _n_  
 __patois__ _n_  
 __patrician__ _adj_ _A patrician class._  
+__patron saint__ _n_ A saint regarded as the special guardian of a person, group, trade, country, etc. _Santa Claus is associated with Saint Nicholas, who is the patron saint of children._  
 __patron__ _n_ :six::hammer: _China, North Korea’s patron._ _Patrons who eat before 6 p.m._ _He became a patron of the greatest contemporary chronicler._  
 __patronage__  
 __patronize__ _v_ :two::hammer:  
@@ -14026,6 +14028,7 @@ __takeout<sup>2</sup>__ _adj_
 __talc__ _n_ :two::hammer: _An Alabama woman blamed the talk in baby powder._  
 __talcum powder__ _n_ :two::hammer: _Talcum powder is made from talc, which absorbs moisture well and helps cut down on friction._ _Talcum powder used in care products has been asbestos-free since the 1970s._  
 __talent__ _n_ _A specific set of talents._  
+__talisman__ _n_ /TAL-iss-mun/ _In ancient times, the gemstone was worn as a talisman to avert evil._  
 __talk away__ _v_ To consume or pass (as time) in talking. _Talking the long night hours away._  
 __talk down to__ _phr v_ :two: To talk to someone as if they are not as clever or important as you are.  
 __talk into__ _phr v_ :two::hammer:  
