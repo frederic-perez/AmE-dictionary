@@ -1,13 +1,3 @@
-__prying__ _v_ _They were pounding and prying boards._  
-__Seabees__ _n_ :two::hammer:  
-__bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
-__dab__ _v_ :two::hammer: _He took a handkerchief and dabbed his brow._  
-__scuttlebutt__ _n_  
-__towheaded__ _adj_  
-__accordion door__ _n_ _He pushed open the phone booth’s accordion doors._  
-__alighted__ _v_  
-__stake truck__ _n_ :camera:  
-__seaplane tender__ _n_ :two::hammer:  
 __fumble__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __book of matches__ _n_ :dart::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __grovel__ _v_  

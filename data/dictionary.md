@@ -98,6 +98,7 @@ __accompany__ _v_
 __accomplice__  
 __accomplished__  
 __accord__ _n_ :three::hammer: _Postponed the signing of an accord._ _The dagger seemed to leave the scabbard of its own accord._ _Its own accord._  
+__accordion door__ _n_ _He pushed open the phone booth’s accordion doors._  
 __accost__ _v_ :two::hammer:  
 __account for__ _phr v_ To explain.  
 __account__ _n_ :five::hammer: _By many accounts, Americans are tired of the Democratic and Republican Parties._ _A heavy account ledger._ _Democratic lawmakers skeptical of that account repeated those concerns on Tuesday._  
@@ -311,7 +312,7 @@ __Alhambresque__ _adj_
 __alienate__ _v_ :nine: (alienated, alienating) To do something that makes someone unfriendly or unwilling to support you. _Alcoholism and violence alienated him from his family._  
 __alienated__ _adj_ Feeling that you do not belong in a particular society, place, or group.  
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
-__alighted__ _v_  
+__alighted__ _v_ :two::hammer:  
 __align__ _v_ :mute:[ali~~g~~n]  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
@@ -899,6 +900,7 @@ __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or un
 __bane__ _n_ :three::hammer:  
 __baneful__ _adj_ Productive of destruction or woe; seriously harmful. _A baneful influence._ _A baneful effect upon morals._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
+__bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ :two::hammer: _Polished mahogany banisters._  
@@ -3385,7 +3387,7 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
-__dab<sup>1</sup>__ _v_ :seven::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._  
+__dab<sup>1</sup>__ _v_ :nine::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
@@ -12156,13 +12158,14 @@ __scurry<sup>1</sup>__ _v_ :three: To move about or proceed hurriedly. _Syn_ sca
 __scurry<sup>2</sup>__ _n_  
 __scut work__ _n_ :four::dart: Trivial, unrewarding, tedious, dirty, and disagreeable chores.  
 __scuttle__ _v_ :nine: (scuttled, scuttling) __1__ Run hurriedly or furtively with short quick steps. __2__ Deliberately cause (a scheme) to fail. _A tighter budgetary policy will scuttle plans to boost consumption._  
-__scuttlebutt__ _n_ :two: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
+__scuttlebutt__ _n_ :three: __1__ _informal_ Rumor; gossip. Stories about someone’s personal life, especially ones that contain unkind or false information.  
 __scuzzy__  
 __scythe<sup>1</sup>__ _n_ :four::pencil2: An implement used for mowing grass, grain, or other crops and composed of a long curving blade fastened at an angle to a long handle.  
 __scythe<sup>2</sup>__ _v_ :two::hammer:  
 __sea canary__ _n_  
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __seabed__  
+__Seabees__ _n_ :two::hammer:  
 __seafarer__  
 __seafaring__  
 __seagulls__ _n_ :two::hammer:  
@@ -12173,6 +12176,7 @@ __seamed__ _v_ _A seamed old man._
 __seamless__  
 __seamstress__ _n_ :two: A woman who sews, especially one who makes her living by sewing.  
 __séance__  
+__seaplane tender__ _n_ :two::hammer:  
 __seaport__ _n_  
 __sear__ _v_ :six: (seared, searing) __1__ Make very hot and dry: _The heat scorched the countryside._ __2__ Become superficially burned: _my eyebrows singed when I bent over the flames._ __3__ Cause to wither or parch from exposure to heat: _The sun parched the earth._ :es: (= wither) > secar, marchitar (Med) > cauterizar; (pain etc) > punzar; (= scorch) > chamuscar, quemar _His lungs seared with burning poison._  
 __searing__ _adj_ :two::hammer: _Searing work._  
@@ -13362,6 +13366,7 @@ __staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._
 __stair-climber__ _n_ An exercise apparatus that simulates the act of climbing stairs.  
 __stair-climbing__ _n_ (stair climbing) __1__ The climbing of a flight of stairs. __2__ Stair-climber (I guess). _Gyms and health clubs offer yoga along with stair-climbing machines._  
 __stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening that contains a staircase.  
+__stake truck__ _n_ :camera:  
 __stake__ _n_  
 __stakeholder__ _n_ :three::hammer:  
 __stakeout__ _n_ :three::hammer: (stakeouts)  
@@ -14582,6 +14587,7 @@ __tousled__ _adj_ :three: Disordered or disheveled: _tousled hair; tousled cloth
 __tout__ _v_ :three::hammer: (touted)  
 __tow truck__ _n_  
 __tower__ _v_ _Towering over our heads._  
+__towheaded__ _adj_  
 __townhouse__ _n_ :five: (townhouses) A house that shares walls with houses on either side of it.  
 __toy dog__ _n_ Any of several breeds of very small dogs kept purely as pets.  
 __toy__ _v_ :two::hammer: (toying)  
