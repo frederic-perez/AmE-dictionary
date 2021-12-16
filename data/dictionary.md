@@ -512,7 +512,7 @@ __aplenty__ _adj, adv_ :two::hammer:
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
-__apogee__ _n_ :two: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
+__apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
@@ -4084,6 +4084,7 @@ __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbi
 __dove__ _v_  
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ (dovetails) :three::hammer:  
+__dowager__  
 __dowdy__ _adj_  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down time__ _n_  
@@ -4731,7 +4732,7 @@ __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent 
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :six::hammer: _Her face was bright with exertion._  
+__exertion__ _n_ :seven::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
@@ -6404,7 +6405,7 @@ __hashish__
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
-__hasten__ _v_ :four::mute:[has~~t~~en]:hammer: (hastened)  
+__hasten__ _v_ :five::mute:[has~~t~~en]:hammer: (hastened)  
 __hastily__ _adv_ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
 __hat off__ _n_ (hats off) _Hats off to Jane._  
@@ -8202,7 +8203,7 @@ __lovacore__
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
-__Low Countries__ _n_ :two::hammer:  
+__Low Countries__ _n_ :three::hammer:  
 __Low Mass__ _n_ A Mass of simple ceremony that was recited rather than sung by the priest. No longer in official use. _He celebrated high mass in his chapel and low mass afterward in his private oratory._  
 __low profile__ _n_ Behavior or activity carried out with deliberate restraint or modesty so as not to attract attention: _keep a low profile._  
 __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._  
@@ -11015,6 +11016,7 @@ __qualify__ _v_
 __qualm__ _n_ :nine::m: /KWAHM/ (qualms) An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
 __quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
 __quantifiable__  
+__quarrel__ _n_  
 __quarrelsome__  
 __quarry__ _n_ :two::hammer: _Syn_ prey  
 __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
@@ -12060,7 +12062,7 @@ __schwa__ _n_ :three: (shwa) __1__ A central vowel represented in the Internatio
 __sciatic__  
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
-__scimitar__ _n_ :two::hammer:  
+__scimitar__ _n_ :three::hammer:  
 __scintilla__ _n_  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
@@ -13968,6 +13970,7 @@ __sword__ _n_ :mute:[s~~w~~ord]
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllogism__ _n_ :two::hammer:  
+__sylvan__  
 __sympathetic__  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
@@ -15274,7 +15277,7 @@ __vermouth__ _n_
 __vernacular__ _n_ :four::hammer:  
 __versatile__ _adj_ :two::hammer.  
 __vertical farm__  
-__verve__ _n_ :six::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
+__verve__ _n_ :seven::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
 __very__ _adj, adv_ _We were in this very room._  
 __vesicle__ _n_ (vesicula)  
@@ -15293,7 +15296,7 @@ __vexatious__ _adj_ Causing irritation or annoyance. _Syn_ annoying, bothersome,
 __vexillology__ _n_ The study of flags.  
 __vexing__ _adj_ :three::hammer: _Vexing problem._ _It’s a vexing topic._  
 __viable__ _adj_ :two::hammer:  
-__vial__ _n_ /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._  
+__vial__ _n_ :two: /ˈvʌɪəl/ A small container, typically cylindrical and made of glass, used especially for holding liquid medicines. _He turned over a vial of cocaine he had there._ _Angels empty the vials of wrath._  
 __viand__ _n_ (viands)  
 __vibrissa__ _n_  
 __vicar__  
