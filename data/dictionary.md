@@ -64,6 +64,7 @@ __about-face__
 __aboveboard__  
 __abracadabra__ _n_  
 __abrade__ _v_  
+__abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
 __abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
 __abridge__ _v_ Reduce in scope while retaining essential elements. _Syn_ abbreviate, shorten, contract, reduce, cut  
 __abrogation__ _n_ :two::hammer:  
@@ -7527,6 +7528,9 @@ __juicy__ _adj_ :two::hammer:
 __jujitsu__ _n_  
 __juke__ _n_ _I was looking in my mirror and saw him juke to the right._  
 __julep__ _n_ :three::hammer: (juleps)  
+__julienne<sup>1</sup>__ _n_ Consommé or broth garnished with long thin strips of vegetables.  
+__julienne<sup>2</sup>__ _adj_ Cut into long thin strips: _julienne potatoes._  
+__julienne<sup>3</sup>__ _v tr_ :astonished: To cut (food) into long thin strips.  
 __Juliette balcony__  
 __jumble__ _n_ :six: An untidy collection or pile of things. _He swallowed a jumble of unmarked pills._ _It was a real emotional jumble for me._ _Hylan has a jumble of strip malls._ _He offered a jumble of contradictory ideas._  
 __jumbo__ _n, adj_ :two: _A jumbo loan._  
@@ -9952,7 +9956,7 @@ __peach<sup>1</sup>__ _n_
 __peach<sup>2</sup>__ _v intr_ :astonished: _slang_ To inform on someone; turn informer: _“iddle-level bureaucrats cravenly peach on their bosses [when] one of them does something the tiniest bit illegal” (National Observer)._  
 __peach<sup>3</sup>__ _v tr_ :astonished: To inform against: _“He has peached me and all the others, to save his life” (Daniel Defoe)._  
 __peacherino__ _adj_ _slang_ A particularly pleasing person or thing.  
-__peachy__ _adj_ _informal_ Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
+__peachy__ _adj_ :two: /PEE-chee/ __1__ Resembling a peach. __2__ _informal_ Excellent; highly desirable. Splendid; fine. _Syn_ bully, corking, cracking, dandy, nifty, smashing, swell, groovy, keen, great  
 __peak__ _v_  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
@@ -11445,7 +11449,7 @@ __reminiscent__
 __remit__  
 __remittance__ _n_ :two::hammer:  
 __remnants__  
-__remonstrate__  
+__remonstrate__ _v_ :two: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
@@ -11785,6 +11789,7 @@ __rousted__ _v_
 __rout<sup>1</sup>__ _n_ :five: An overwhelming defeat.  
 __rout<sup>2</sup>__ _v_ :three: Defeat disastrously.  
 __route__ _n_ :mega:  
+__roux__ _n_  
 __row house__ _n_  
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
@@ -11982,6 +11987,9 @@ __saucy__
 __saunter__ _v_ :four: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
+__sauté<sup>1</sup>__ _v_ To fry lightly in fat in a shallow open pan.  
+__sauté<sup>2</sup>__ _n_ A dish of sautéed food, esp meat that is browned and then cooked in a sauce.  
+__sauté<sup>3</sup>__ _adj_ Sautéed until lightly brown: _sauté potatoes._  
 __sautoir__ _n_ _Sautoir necklace._  
 __savagery__  
 __save (one’s) face__  
@@ -15254,7 +15262,7 @@ __vending__ _n_ The act of selling.
 __vendor__ _n_ :two::hammer:  
 __veneer__ _n_ :seven::hammer: (veneers) _A veneer of quality._  
 __venerable__ _adj_  
-__venerate__ _v_ To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._  
+__venerate__ _v_ :two: /VEN-uh-rayt/ To feel or show deep respect and honor for someone or something. To hold in deep respect. _Syn_ revere _In our culture, we venerate the elderly and pay heed to their wisdom._ _Volunteers of the Peace Corps are venerated for their selfless dedication and contributions._  
 __vengeful__ _adj_  
 __venial__ _adj_  
 __venison__ _n_ :four::hammer:  
