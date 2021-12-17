@@ -1,3 +1,4 @@
+__’tis__ _’Tis the season for word lists._  
 __#s__ :two: Numbers. _Card for driving car over 10,000#s._ _Ability to lift up to 25#s of newspaper bundles._  
 __1:1__ One-To-One Relationship.  
 __A/C__ :two: __1.__ Account. __2__ Account current. __3__ Air conditioning.  

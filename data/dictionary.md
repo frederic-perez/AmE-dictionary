@@ -988,7 +988,7 @@ __batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swin
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
-__bauble__ _n_ :four: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
+__bauble__ _n_ :five: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
 __bawdiness__  
 __bawdy__ _adj_ :two::hammer: _Bawdy humor._  
@@ -2596,6 +2596,7 @@ __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
 __cloakroom__ _n_ :two::hammer:  
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
+__cloche__ _n_ A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clockwork__ _n_  
@@ -5248,7 +5249,7 @@ __flip side__ _n_ A different aspect of something (especially the opposite aspec
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
 __flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
-__flippant__ _adj_ :six::astonished: Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent  
+__flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
 __flipper__  
 __flippers__ _n_ :camera:  
 __flit<sup>1</sup>__ _v_ :two::hammer:  
@@ -7597,6 +7598,7 @@ __kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or 
 __keseboy__  
 __kettledrum__ _n_ :es: timbal  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
+__keylogger__ _n_ A software program or hardware device that records or transmits a user’s keystrokes, and in some cases periodic screen shots, and is usually installed without the user’s knowledge.  
 __keysmash<sup>1</sup>__ _n_  
 __keysmash<sup>2</sup>__ _v_  
 __keystone__ _n_ :es: piedra angular  
@@ -8101,6 +8103,7 @@ __lizard brain__ _n_ :two::hammer: (lizard brains)
 __llama__  
 __llilacs__ _n_  
 __loaded question__  
+__loadmouth__ _n_  
 __loaf<sup>1</sup>__ _n_ :two::hammer: (loaves) _You sell bread for $4 a loaf. Today, you sold 90 loaves for $360 in revenue._  
 __loaf<sup>2</sup>__ _v_ :two: (loafed) To pass time at leisure; idle.  
 __loafer__ _n_ :three: (loafers) One who is habitually idle. _Disliked loafers on the job._  
@@ -8390,6 +8393,7 @@ __manic__ _adj_ :two::mega::hammer: _I was manic._
 __manicure__ _v_ :dart: __1__ To trim, clean, and polish (the fingernails). __2__ To clip or trim evenly and closely; to trim or cut meticulously: _to manicure a hedge; to manicure a lawn._  
 __manicured__ _adj_ _Manicured landscape._  
 __manifest__ _n_ _A manifest of olive oil._  
+__manifesting__ _n_ Any of a number of wish-fulfillment techniques that involve visualization and positive thinking. There is no peer-reviewed data to support the efficacy of manifesting.  
 __manifesto__ _n_ :two::hammer: _My own workplace manifesto._  
 __manipulation__  
 __manna__ _n_  
@@ -13593,6 +13597,7 @@ __stopover__
 __stoppage__ _n_ :nine::m: __1__ An act or instance of stopping. __2__ The state of being stopped or obstructed. _A stoppage-time goal._ __3__ A cessation of activity, esp. work; strike. _Keep work stoppages to a minimum._ _Aer Lingus cabin crew staged a 24-hour work stoppage May 30._  
 __stops__ _n_ :three::hammer: _The last five-six minutes of the first half, we made some stops and that was big._ _Utah pulled away at the beginning of the third quarter, stringing together consecutive stops._ _We wanted to get stops and I think that’s what we did._  
 __stopwatch__ _n_  
+__store-bought__ _adj_ Manufactured and purchased at retail; not homemade: _store-bought cookies._  
 __storefront__ _n_ :two::hammer:  
 __storeful__  
 __storey__ _n_ _BrE_ Variant of story.  
@@ -14477,7 +14482,7 @@ __toast > French toast__
 __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._  
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
-__toboggan__ _n_  
+__toboggan__ _n_ :two::hammer:  
 __tocsin__ _n_  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  

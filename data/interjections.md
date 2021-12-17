@@ -22,7 +22,7 @@ __golly__ Used to express mild surprise or wonder. Originally a euphemism for Go
 __Good golly[, Miss Molly!]__ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __ha__ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. _Ha! I was right all along!_  
 __hah__ A variant spelling of ha.  
-__heck__ Used as a mild oath.  
+__heck__ :two: Used as a mild oath.  
 __hell yeah__  
 __hell yes/no__ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hiya__ An informal term of greeting.  
