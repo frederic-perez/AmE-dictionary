@@ -3632,6 +3632,7 @@ __demonstrators__
 __demur__ _v_ (demurred) :four::hammer: (demurred)  
 __demure__ _adj_ :four: Affectedly modest or shy especially in a playful or provocative way. _Syn_ coy, overmodest  
 __demurely__ _adv_ :three::hammer:  
+__demurral__ _n_  
 __demystify__ _v_  
 __den__ _n_ :seven: __1__ The shelter or retreat of a wild animal; a lair. __2__ A cave or hollow used as a refuge or hiding place. __3__ A hidden or squalid dwelling place: _a den of thieves._ __4__ A secluded room for study or relaxation.  
 __dendrites__ _n_ :two::hammer:  
@@ -3903,7 +3904,7 @@ __disparaging__ _adj_ :two: Insulting, ridiculing.
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :seven::hammer: (dispelled)  
+__dispel__ _v_ :eight::hammer: (dispelled)  
 __dispensed__ _v_  
 __dispenser__  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
@@ -6575,7 +6576,7 @@ __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especial
 __herd immunity__ _n_  
 __herdsman__ _n_  
 __here’s looking at you__  
-__heresy__ _n_ :two::hammer:  
+__heresy__ _n_ :three::hammer:  
 __heretic<sup>1</sup>__ _n_  
 __heretic<sup>2</sup>__ _adj_ :three::hammer:  
 __heretofore__ _adv_ :two::hammer:  
@@ -7250,7 +7251,7 @@ __inset<sup>1</sup>__ _v_ :two::hammer:
 __inset<sup>2</sup>__ _n_  
 __insidious__  
 __insipid__  
-__insofar__ _adv_ :four: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
+__insofar__ _adv_ :five: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolation__  
 __insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ rudeness, cheek _Sara sassed the teacher and was given detention for her insolence._  
 __insolent__ _adj_  
@@ -9684,7 +9685,7 @@ __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overweenimg__ _adj_ :two::hammer: _An overweening pride._  
-__overwrought__ _adj_ :two::hammer: _Overwrought adults_  
+__overwrought__ _adj_ :three::hammer: _Overwrought adults_ _Overwrought minds turned to magic and the supernatural._  
 __overzealous__ _n_  
 __owing to__ _prep_ :two: Because of; on account of: _I couldn’t attend, owing to illness._ _Owing to the agitation, supplies of certain components have neen disrupted._ _Cavalry coul not deploy en masse owing to the marshes, hedges, and ditches._  
 __own goal__ _n_ :dart: _Mikael Lustig scored an own goal._  
@@ -11241,7 +11242,7 @@ __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantl
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
 __ravine__ _n_ :two::hammer:  
-__ravish__  
+__ravish__ _v_ (ravished) :two::hammer:  
 __ravisher__ _n_  
 __ravishing__ _adj_ :four: Extremely attractive; entrancing.  
 __raw dog__  
@@ -12826,6 +12827,7 @@ __slobber__ _v_ :three::hammer: (slobbered, slobbering)
 __slobby__  
 __slog<sup>1</sup>__ _v_ :nine::m: (slogged, slogging) __1__ Work hard over a period of time. _They were slogging away to meet a deadline._ _Syn_ work hard :es: sudar tinta __2__ Hit (someone or something) forcefully and typically wildly, especially in boxing or cricket. _Batsmen careering down the pitch to slog the ball up in the air._  
 __slog<sup>2</sup>__ _n_ :four: (slogs) __1__ A spell of difficult, tiring work or travelling. _It would be a hard slog back to the camp._ __2__ A forceful and uncontrolled hit, especially in cricket. _A slog hit the fielder on the helmet._  
+__slogan__ _n_  
 __slop<sup>1</sup>__ _n_ :two: Residual waste, such as cafeteria food slop.  
 __slop<sup>2</sup>__ _v_ (slopped)  
 __sloppy joe__ _n informal_ :two: (sloppy joe sandwich) A hamburger in which the minced-beef filling is made into a kind of meat sauce, typically with tomatoes and spices.  
@@ -14850,6 +14852,7 @@ __turpitude__ _n_ :two: Behavior that is dishonest or immoral.
 __turquoise__ _n_ :pencil2:  
 __turret__ _n_ :four::hammer:  
 __turtledove__ _n_ :es: tórtola  
+__tush__ _n_ A canine tooth, especially of a horse.  
 __tushie__ _n_ :two::hammer:  
 __tussle__ _n_ :five::hammer: (tussles) _A trade tussle._ _Tusless with German lawmakers are nothing new for Facebook._  
 __tussle<sup>1</sup>__ _n_ :two: (tussles) A rough or vigorous struggle; a scuffle.  
