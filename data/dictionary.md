@@ -644,6 +644,7 @@ __ask over__ _phr v_ To invite people to your house.
 __askance__  
 __asp__ _n_  
 __aspen__  
+__asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
 __aspheric__ _adj_ (aspherical) (of a reflecting surface or lens) Deviating slightly from a perfectly spherical shape and relatively free from aberrations.  
@@ -1276,7 +1277,7 @@ __blackjack<sup>1</sup>__ _n_
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
-__blackout__ _n_ :two::hammer: _Blackout dates._  
+__blackout__ _n_ :two::hammer: _Blackout dates._ _Blackout curtain._  
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
@@ -1474,7 +1475,7 @@ __boogie__ _n_ :two: __1__ Strongly rhythmic rock music. __2__ Boogie-woogie.
 __boohoo__ _v_  
 __book jacket__  
 __Book of Hours__  
-__book of matches__  
+__book of matches__ _n_ :dart::two::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __book<sup>1</sup>__ _n_ _According to the book._  
 __book<sup>2</sup>__ _v_ _I’ll book us a table._  
 __bookcases__ _n_ :two::hammer:  
@@ -2005,6 +2006,7 @@ __callousness__
 __callow__ _adj_ :five: Lacking adult maturity or experience; immature. It is used to describe a young person who does not have much experience and does not know how to behave like an adult. _The drill sergeant’s task is to train the callow recruits._  
 __calm__ _adj, n, v_ :mute:[ca~~l~~m]  
 __caltrops__ _n_  
+__calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
 __camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
@@ -2909,6 +2911,7 @@ __consensus__ _n_ :four: General or widespread agreement (esp in the phrase cons
 __consequently__  
 __conservancies__  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
+__consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
 __consort__ _v_ (consorting)  
@@ -5590,7 +5593,8 @@ __fullback__ _n_ _football_ :two::hammer: (fullbacks)
 __fullness__  
 __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
-__fumble__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
+__fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
+__fumble<sup>2</sup>__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fume<sup>1</sup>__ _n_  
 __fume<sup>2</sup>__ _v_ :two::hammer:  
@@ -6135,7 +6139,7 @@ __groupie__ _n_ :two::hammer: (groupies)
 __grouse__ _v_ :six: (groused, grousing) To complain; grumble. _We groused about the uncomfortable seating._  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
-__grovel__ _v_ :four::hammer: (groveling)  
+__grovel__ _v_ :five::hammer: (groveling)  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :seven::hammer: (growled, growling) _The dogs were growling in repulsion._  
@@ -8232,10 +8236,9 @@ __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or no
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
-__lug__ _v_ :five::hammer: (lugs) _A passenger lugs an injured swan onto the train._  
+__lug__ _v_ :nine::hammer: (lugs, lugging) _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._  
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
-__lugging__ _v_ :three::hammer:  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :three::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
@@ -10114,6 +10117,7 @@ __petroglyph__ _n_ _Ancient Indian petroglyph._
 __petroleum jelly__  
 __petted__  
 __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the payment of minor incidental expenses.  
+__petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
 __petulant__ _adj_ :five::mega::hammer:  
@@ -15312,6 +15316,7 @@ __victuals__ _n pl_ :five::mega: /ˈvɪtəlz/ Food supplies; provisions.
 __video__ _n_  
 __vie for__ _phr v_ :seven: To vie for something means to compete for it. Two teams may vie for the gold medal, but one will have to go home with silver. Vie may be spelled the same as the French word, vie, but they are pronounced differently, vī and vē respectively, and are not related in meaning or history. English vie comes from the Latin verb meaning “to invite” as in to invite a challenge. Be careful of the spelling which includes an ie to y shift. “He intends to vie for the top prize,” but “He is vying for the top prize.”  
 __vig__ _n_ :three::hammer:  
+__vignette__ _n_ /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
 __vigorous__ _adj_ _A vigorous intellect._  
 __vile__  
 __vilify__ _v_ :four: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  

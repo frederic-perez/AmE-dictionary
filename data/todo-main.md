@@ -1,13 +1,3 @@
-__fumble__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
-__book of matches__ _n_ :dart::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
-__grovel__ _v_  
-__blackout curtain__ _n_  
-__lugging__ _v_ _The assistant was lugging two heavy suitcases._  
-__petty officer__ _n_ :three::hammer:  
-__asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
-__calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
-__consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
-__vignette__ _n_ /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
 __pedantic__ _adj_ Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
 __quench__ _v_ To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
