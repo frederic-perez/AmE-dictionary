@@ -630,6 +630,7 @@ __ascent__ _n_ :mute:[as~~c~~ent]
 __ascertain__ _v_ :three::hammer:  
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
 __ascetic__  
+__asceticism__ _n_  
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
@@ -1131,7 +1132,7 @@ __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
-__bequeath__ _v_ :nine::m::hammer: (bequeathed)  
+__bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
 __bequest__ _n_ :nine::m::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
@@ -1522,7 +1523,7 @@ __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She 
 __boredom__  
 __borne__ _v_ :five::hammer:  
 __borough__ _n_ :mute:[borou~~gh~~]  
-__bosom__  
+__bosom__ _n_ :two::hammer:  
 __bossdom__ _n_  
 __bossy__ _adj_  
 __bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
@@ -6318,6 +6319,7 @@ __hand-pick__ _v_ :two::hammer:
 __handcuff__ _v_ _It is handcuffed by lack of funds._  
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
+__handicraft__ _n_  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
 __handkerchief__ _n_ :mute:[han~~d~~kerchief]  
@@ -6520,7 +6522,7 @@ __heckling__ _n_ :two: The practice of calling out comments to interrupt a perso
 __hectare__ _n_  
 __hectic__ _adj_ :nine::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
 __hector<sup>1</sup>__ _n_ A bully.  
-__hector<sup>2</sup>__ _v tr_ :three: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
+__hector<sup>2</sup>__ _v tr_ :four: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
 __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
@@ -7280,6 +7282,8 @@ __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessi
 __intemperate__ _adj_ :two: Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
+__interdict<sup>1</sup>__ _v tr_  
+__interdict<sup>2</sup>__ _n_  
 __interdicting__  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
@@ -10795,7 +10799,7 @@ __Prohibitionists__
 __prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
-__prolix__ _adj_ :two: Using too many words and therefore boring.  
+__prolix__ _adj_ :three: Using too many words and therefore boring.  
 __prolixity__ _n_ Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
@@ -11199,7 +11203,7 @@ __rapport__ _n_ A friendly, harmonious relationship; especially a relationship c
 __rapprochement__ _n_ :three::hammer:  
 __rapt<sup>1</sup>__ _adj_ :six::hammer: _In rapt silence._ _Robert C. Cone had a rapt audience._  
 __rapt<sup>2</sup>__ _v_  
-__rapture<sup>1</sup>__ _n_ :four::hammer: _The film _Carol_ left critics in rapture._  
+__rapture<sup>1</sup>__ _n_ :five::hammer: _The film _Carol_ left critics in rapture._  
 __rapture<sup>2</sup>__ _v_  
 __rapturous__  
 __rare news conference__  
@@ -11603,7 +11607,7 @@ __ribbed__ _v_ :two::hammer:
 __ribbing__ _n_ :two::hammer:  
 __ribbon-cutting ceremony__ _n_  
 __Rice Belt__ _n_ The Rice Belt of the United States includes Arkansas, Louisiana, Mississippi and Texas, four southern U.S. states that grow a significant portion of the nation’s rice crop.  
-__riches__ _pl n_ :nine: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
+__riches__ _pl n_ :nine::m: Use the word riches when you’re talking about wealth, including money, treasures, and expensive belongings. Most people who buy lottery tickets dream of winning riches. Occasionally, someone who’s born into poverty will grow up to earn riches through hard work and a lot of luck — but more often, people inherit their riches from wealthy relatives. You can also use riches in a figurative way, for something bountiful or profuse: “Let’s go to the farmers market and see what riches are available!” Riches was originally richesse, a singular word that was misinterpreted as being plural. _Cultural riches._  
 __rickets__  
 __rickety__ _adj_ :nine: __1__ (of a structure, piece of furniture, etc) Likely to collapse or break; shaky. _Rickety chair._ _Pete pointed to some rickety-looking weather-beaten boards._ _It was a rickety plan at best._ __2__ Feeble with age or illness; infirm. __3__ (Pathology) relating to, resembling, or afflicted with rickets. :es: raquítico  
 __ricking__ _v_ _Ricking their fingers for blood six or more times a day._  
@@ -12735,7 +12739,7 @@ __skywriting__
 __slab__ _n_ :two::hammer: (slabs) _Concrete slabs._  
 __slack<sup>1</sup>__ _n_ :three::hammer: _This is as much slack as you get, Jack._  
 __slack<sup>2</sup>__ _v_ :two::hammer: _His jaw was slack._ _The rain had slackened._  
-__slack<sup>3</sup>__ _adj_ :three::hammer: _Now he couldn’t drive with slack reins._  
+__slack<sup>3</sup>__ _adj_ :five: __1__ Characterized by reduced economic activity. _Syn_ down, dull, off, slow, sluggish, soft _Business is slack._ :es: hay poco movimiento or poca actividad en el negocio _Demand was slack._ :es: hubo poca demanda __2__ Not tautly bound, held, or fastened. _Syn_ lax, loose, relaxed _Now he couldn’t drive with slack reins._ __3__ Guilty of neglect; lacking due care or concern. _Syn_ derelict, lax, neglectful, negligent, remiss  
 __slackened__ _v_  
 __slacker__ _n_ :three::hammer: _Do you, George McFly, want to be a slacker for the rest of your life?_  
 __slackline__ _n_ :two::hammer:  
