@@ -725,6 +725,7 @@ __attrition__ _n_ :six::hammer:
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
+__au gratin__ _adj_ Covered with bread crumbs and sometimes butter and grated cheese, and then browned in an oven: _potatoes au gratin._  
 __au pair__  
 __au shops__  
 __auburn__ _n_ :two::hammer: _Auburn hair._ :es: color castaño rojizo  
@@ -2368,7 +2369,7 @@ __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:
 __chevron__ _n_  
 __chewed up__  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
-__chicanery__ _n_ :four: The use of clever plans or actions to deceive people.  
+__chicanery__ _n_ :five: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
@@ -2546,7 +2547,7 @@ __classical__ _adj_
 __classy__ _adj_ :two::hammer:  
 __clatter<sup>1</sup>__ _n_ :three::hammer: _The clatter of the Telex machines._  
 __clatter<sup>2</sup>__ _v_ (clattered)  
-__claw back__ _v_  
+__claw back__ _v_ :two::hammer:  
 __claw machine__ _n_ :two::camera: A claw crane game machine.  
 __claw<sup>1</sup>__ _n_  
 __claw<sup>2</sup>__ _v_ :two::hammer:  
@@ -2887,7 +2888,7 @@ __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzleme
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
-__congenial__ _adj_ :three::hammer:  
+__congenial__ _adj_ :four: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ __3__ Suitable. _The grapes thrive in the congenial climate._  
 __conglomerate__  
 __conglomerates__  
 __congrats__ _n pl_ _Congrats on your wedding._  
@@ -4731,6 +4732,7 @@ __excrescence__ _n_ Something that bulges out or is protuberant or projects from
 __excruciate__  
 __excruciating__ _adj_ :three: Very painful.  
 __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
+__exculpate__ _v_ To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exec__ _n informal_ :five: (execs) An executive. _I’m a retired tech exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
@@ -4790,6 +4792,7 @@ __extenuate__ _v_ :astonished:
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :five::hammer: (extolled, extolling)  
 __extort__ _v_  
+__extradite__ _v_  
 __extraneous__  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
@@ -6829,6 +6832,7 @@ __hot flashes__ _n_
 __hot glue__  
 __hot seat__  
 __hot spring__ _n_  
+__hot toddy__ _n_ A drink consisting of whiskey, brandy, or other liquor mixed with hot water, sugar, and spices.  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
 __hot water__ _n_  
 __hot__ _adj_ _We’ve got a hot crowd tonight._  
@@ -7851,6 +7855,7 @@ __lathes__
 __Latinas__  
 __Latino__ _n, adj_ :pencil2: _In Los Angeles half of the city’s residents are Latino._  
 __Latinos__ _n_  
+__Latinx__ _adj_  
 __latitude__ _n_ :two::hammer: _No latitude left to ignore a request from the family._ _The firms have a lot of latitude as long as they comply with their own policies._  
 __latrine__ _n_  
 __latte__ _n_ A caffe latte.  
@@ -11229,7 +11234,7 @@ __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._
 __rate<sup>2</sup>__ _v_  
 __rathole__  
 __rating__ _n_ :two::hammer:  
-__rationales__ _n_ _It has four main rationales._  
+__rationale__ _n_ :two::dart: /rash-uh-NAL/ An explanation or reason for something said or done. _Senators who opposed the bill were questioned by media to uncover their rationale for voting against it._ _It has four main rationales._  
 __rationalize__ _v_  
 __rattan__ _n_ :three::hammer: _Rattan chairs._ _Rattan couch._  
 __ratter__ _n_  
@@ -15506,7 +15511,9 @@ __washroom__ _n_
 __washtub__  
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
-__wassail__ _n_ __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp. spiced beer or mulled wine.  
+__wassail<sup>1</sup>__ _n_ :two: __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine.  
+__wassail<sup>2</sup>__ _v tr_ :dart: To drink to the health of; toast.  
+__wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
