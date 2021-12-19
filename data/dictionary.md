@@ -2058,7 +2058,7 @@ __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait o
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilever__ _v_ :two::hammer: (cantilevered)  
-__canvass__ _v_ :two::hammer::astonished:  
+__canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
@@ -3941,7 +3941,7 @@ __dissociate__ _v_ :pencil2:
 __dissolute__ _adj_ :two::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
 __dissonance__  
-__dissuade__ _v_ :pencil2::three: (dissuaded)  
+__dissuade__ _v_ :pencil2::four::hammer: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
@@ -6520,7 +6520,7 @@ __heckle__ _v_ :three::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :nine::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._  
+__hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ :es: agitado  
 __hector<sup>1</sup>__ _n_ A bully.  
 __hector<sup>2</sup>__ _v tr_ :four: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
 __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
@@ -7192,7 +7192,7 @@ __infighting__ _n_ :two::hammer:
 __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. __2__ (Mathematics) Capable of having values approaching zero as a limit.  
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
-__infirm__ _adj_ :two::hammer:  
+__infirm__ _adj_ :three: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
 __infirmity__ _n_ Bad health or a particular illness.  
 __inflammable__ _adj_ /in-FLAM-uh-bul/  
 __inflatable<sup>1</sup>__ _adj_  
@@ -9358,7 +9358,7 @@ __obscure__ _v_
 __obsequious__ _adj_ :three::hammer:  
 __obsidian__  
 __obstinate__  
-__obstreperous__ _adj_ :three: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
+__obstreperous__ _adj_ :four: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
 __obstreperousness__  
 __obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
@@ -10474,6 +10474,7 @@ __polarizing__
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
 __polemology__ _n_ The study of war.  
 __police state__ _n_ _A society log run as a police state._  
+__policy-making__  
 __policyholder__  
 __polio__ _n_  
 __Polish__ _adj_ :three::hammer: _Polish woman with experience; good references._  
@@ -12638,7 +12639,7 @@ __silverplate__ _v_
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
-__simony__ _n_ :five: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__simony__ _n_ :six: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
@@ -13930,7 +13931,7 @@ __swanky__ _adj_ :two::hammer: _Swanky dinner._
 __swap__ _n_  
 __sward__ _n_ :two::hammer:  
 __swarthiness__  
-__swarthy__ _adj_ :two::hammer: _Swarthy skin._ :es: moreno  
+__swarthy__ _adj_ :three::hammer: _Swarthy skin._ :es: moreno  
 __swashbuckling__ _n_ :two::hammer:  
 __swatches__  
 __swath__ _n_ :nine::m: (swathe) __1__ A row or line of grass, corn, or other crop as it falls or lies when mown or reaped. _If the day is windy, the swathes should be high and narrow._ __2__ Strip left clear by the passage of a mowing machine or scythe. _The combine had cut a deep swathe around the border of the fields._ __3__ A broad strip or area of something. _Vast swathes of countryside._ __4__ A strip, belt, or long and relatively narrow extent of anything.  
@@ -14468,7 +14469,7 @@ __Tirolean__
 __Titanesque__ _adj_  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
 __tite__  
-__tithe__ _n_ :five: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
+__tithe__ _n_ :six: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
 __titian__ _n_ A brownish orange.  
 __titillating__ _adj_  
 __titivate__ _v_ Make neat, smart, or trim. _Syn_ slick up, spiff up, spruce _I hope that my plan to titivate the restaurant will help draw more customers to our establishment when we reopen next month._  
@@ -14946,7 +14947,7 @@ __unanimous__
 __unapologetic__ _adj_ :nine: Not willing to apologize or to make an apology. _Pfizer has been unapologetic about its gains from the virus._  
 __unapologetically__ _adv_ :five::hammer: _Union Kitchen is unapologetically for-profit._  
 __unassailable__ _adj_ :two::hammer:  
-__unassuming__ _adj_ :three::hammer: _Hollande, an unassuming and bespectacled Socialist._  
+__unassuming__ _adj_ :four::hammer: _Hollande, an unassuming and bespectacled Socialist._  
 __unavailing__ _adj_ Producing no result or effect. _Syn_ futile, ineffectual, otiose _Immediately conscious how unavailing any struggle against such an overwhelming force must prove, he submitted to his fate._  
 __unblemished__ _adj_ Free from physical or moral spots or stains. _Syn_ unmarred, unmutilated  
 __unbridled__ _adj_ :two::hammer:  
