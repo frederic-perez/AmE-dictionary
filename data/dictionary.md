@@ -126,6 +126,8 @@ __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks f
 __acquaintance__ _n_ :pencil2:  
 __acquiesce__ _v_ :three: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
+__acquisitive__ _adj_  
+__acquisitiveness__ _n_  
 __acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
 __acreage__ _n_ :two: Area of land measured in acres. _Syn_ land area  
@@ -2952,6 +2954,7 @@ __contingency plan__ _n_ :two::hammer:
 __contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _adj_ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
+__continuance__ _n_  
 __contraband__ _n_  
 __contract__ _v_ _Contract the disease._  
 __contractor__ _n_ :hammer::two:  
@@ -3491,6 +3494,7 @@ __dean__ _n_ :four: A senior official at a college or university. _He served as 
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
+__deathbed__ _n_ :two::hammer:  
 __deathless__  
 __debacle__ _n_ :four::hammer:  
 __debasing__ _v_  
@@ -4498,7 +4502,7 @@ __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corr
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
 __eminent__  
-__emissary__ _n_ __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
+__emissary__ _n_ :two: __1__ One designated as the agent of another. _Syn_ representative __2__ A secret agent.  
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
@@ -5195,7 +5199,7 @@ __flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowi
 __flapjack__ _n_  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
-__flare<sup>2</sup>__ _v_ :two::hammer: _The injury flared._  
+__flare<sup>2</sup>__ _v_ :three::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._  
 __flash point__ _n_ :three: The point at which eruption into significant action, creation, or violence occurs. _The latest flaash point is over the president’s push to reduce caaarbon pollution._  
 __flash rust__ _n_ The very rapid onset of rust on a metal substrate.  
 __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated flash-bangs._  
@@ -6304,7 +6308,7 @@ __hall boy__ _n_
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
-__halter__ _n_ :six: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
+__halter__ _n_ :seven: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Citizens with halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __halyards__ _n_  
 __ham hocks__ _n_ :two::hammer:  
@@ -7753,7 +7757,7 @@ __laced__ _v_ _I have laced a few punters._
 __lacerate__ _v_  
 __lachrymose__ _adj_ :two::pencil2::hammer:  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
-__lackadaisical__ _adj_ :four: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
+__lackadaisical__ _adj_ :five: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_ :four: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
@@ -7960,7 +7964,7 @@ __lentil__ _n_ (lentils) :es: lentejas
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
-__lese majeste__ _n_ :two: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
+__lese majeste__ _n_ :three: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
@@ -8482,7 +8486,7 @@ __masonry__
 __masquerade__ _n_ :two::hammer:  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  
 __massacre<sup>1</sup>__ _n_ _There were public roundups and massacres._  
-__massacre<sup>2</sup>__ _v_  
+__massacre<sup>2</sup>__ _v_ :two::hammer: _Five of them were killed and eighty others reportedly massacred._  
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
 __masseuse__ _n_ :two: A woman who gives massages professionally. :es: masajista  
 __massive__  
@@ -11043,7 +11047,8 @@ __quarrel__ _n_
 __quarrelsome__  
 __quarry__ _n_ :two::hammer: _Syn_ prey  
 __quart__ _n_ (quarts) _Guzzlings quarts of Coors beer._  
-__quarter__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
+__quarter<sup>1</sup>__ _n_ :three::hammer: (quarters) _The team’s front office is respected in many quarters._ (military) _To return to their quarters._  
+__quarter<sup>2</sup>__ _v_ (quartered)  
 __quarterdeck__ _n_  
 __quash__ _v_ :nine::m: (quashed) __1__ To annul or put an end to (a court order, indictment, or court proceedings). _To quash her subpoena._ __2__ To put down or suppress forcibly and completely: _quash a rebellion._ __3__ To put an end to or destroy: _quash a rumor; quash hopes of an agreement._  
 __quavered__  
