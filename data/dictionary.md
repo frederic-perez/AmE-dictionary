@@ -554,7 +554,7 @@ __appreciable__ _adj_ Capable of being perceived or measured.
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_  
 __apprehension__ _n_ :two::pencil2::hammer:  
-__apprehensive__ _adj_ Very nervous.  
+__apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice__ _v_  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
@@ -1190,7 +1190,7 @@ __bid farewell__
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn’t bid him farewell._  
 __bid<sup>2</sup>__ _n_ :five::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
 __bidding war__  
-__bidding__  
+__bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
@@ -2825,6 +2825,7 @@ __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _adj_ :nine: __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
+__compunction__ _n_  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
 __comrade__  
@@ -2905,7 +2906,7 @@ __conk__ _v_ (conked) _Something conked me._
 __conman__  
 __conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
 __connective tissue__ _n_  
-__connivance__ _n_ :three: Agreement on a secret plot.  
+__connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
@@ -4155,6 +4156,7 @@ __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright
 __dramedy__ _n_ :two::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
+__draper__ _n_ _Chiefly British_ A dealer in cloth or clothing and dry goods.  
 __draught beer__ _n_ Beer drawn from a keg.  
 __draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an enclosed space.  
 __draw a line__  
@@ -4303,7 +4305,7 @@ __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in b
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
-__duress__ _n_ :six::hammer: _The ability to think under duress._  
+__duress__ _n_ :seven::hammer: _The ability to think under duress._  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -8229,7 +8231,7 @@ __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ 
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
 __lousy__ _adj_ _A lousy trip._  
-__lout__ _n_ :four::hammer: _Syn_ oaf  
+__lout__ _n_ :five::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
 __love-in__  
@@ -9899,7 +9901,7 @@ __parted__ _adj_ :two::hammer: _Diaz wore parted hair._ _Slightly parted lips._
 __parterre__ _n_ :two: An ornamental flower garden having the beds and paths arranged to form a pattern.  
 __participatory__ _adj_ _I wanted to be a participatory father._  
 __particle board__  
-__partisan__ _n_ :three::hammer: (partisans) _A partisan atmosphere._  
+__partisan__ _n_ :four::hammer: (partisans) _A partisan atmosphere._  
 __partner__ _n_  
 __partridge__ _n_ :two::hammer:  
 __party animal__ _n_ :two: A person who loves to go to parties. Someone who likes to attend parties often.  
@@ -14516,7 +14518,7 @@ __toast__ _adj_ :two::hammer: _I’m just toast every day._ _A champagne toast._
 __toaster oven__ _n_ _He keeps frozen pizzas that can be heat in his toaster oven._  
 __toastmaster__ _n_ A person who presides at a dinner and introduces the after-dinner speakers.  
 __toboggan__ _n_ :two::hammer:  
-__tocsin__ _n_  
+__tocsin__ _n_ :two: __1__ An alarm or warning signal, esp one sounded on a bell. __2__ An alarm bell.  
 __toddle__ _v_  
 __toe jam__ _n_ :two::hammer:  
 __toe-curling__ _adj_ _informal_ :two: Causing feelings of acute embarrassment.  
@@ -16047,7 +16049,7 @@ __ylem__ _n_ noun: (cosmology) The original matter that (according to the big ba
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
-__yoke__ _n_ :two::hammer: (yokes) _Egg yoke._  
+__yoke__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
 __YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
