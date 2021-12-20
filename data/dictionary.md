@@ -1248,6 +1248,7 @@ __birds of the same feather__
 __birdseed__ _n_ Seeds that you give to birds as food.  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
+__biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A crisp Italian cookie traditionally flavored with anise and often containing almonds or filberts.  
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
@@ -2989,6 +2990,7 @@ __conwise__
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook-off__  
+__cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
 __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
@@ -5995,7 +5997,8 @@ __gorse__
 __gory__  
 __gosling__ _n_ :two: __1__ A young goose. __2__ A naive or inexperienced young person.  
 __gospel__ _n_ :es: evangelio  
-__gossamer__ _adj, n_ :two::hammer: /GAH-suh-mer/  
+__gossamer<sup>1</sup>__ _adj_ :two: /GAH-suh-mer/ Sheer, light, delicate, or tenuous. _Syn_ ethereal _Tasting cotton candy for the first time, the child was thrilled by the gossamer treat._  
+__gossamer<sup>2</sup>__ _n_ :two::hammer: /GAH-suh-mer/  
 __gossipy__ _adj_  
 __gotcha__  
 __gouge__ _v_ :eight::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._ _Gouging of eyes._  
@@ -6884,14 +6887,14 @@ __hubby__ _n_ _informal_ :two: Husband.
 __hubcap__ _n_ :two::hammer: (hubcaps) :es: tapacubos  
 __hubhub__  
 __hubris__ _n_ :eight: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
-__huckster__ _n_ :four: A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster.  
+__huckster__ _n_ :five: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
 __huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
 __huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
 __Huey__  
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
-__huffy__ _adj_  
+__huffy__ _adj_ :two: Quick to take offense. _Syn_ touchy _I tried to give my coworker some advice after the meeting, but she perceived it as criticism, got all huffy, and stormed away._  
 __hugger-mugger__ _adj, adv, n, v_  
 __huh__  
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
@@ -7337,6 +7340,9 @@ __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
 __invoke__  
+__involute<sup>1</sup>__ _adj_ /IN-vuh-loot/ __1__ Intricate; complex. __2__ Curled inward.  
+__involute<sup>2</sup>__ _n_ /IN-vuh-loot/ A curve traced by a point on a string while winding or unwinding it around another curve.  
+__involute<sup>3</sup>__ _v intr_ /in-vuh-LOOT/ __1__ To curl up. __2__ To return to a former condition or to a normal state.  
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
 __iota__ _n_ A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
@@ -7938,6 +7944,7 @@ __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gr
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _slang_ :four: Legitimate.  
+__LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __legwork__ _n_  
 __lei__ _n_ :two; (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
 __leisurely<sup>1</sup>__ _adj_  
@@ -12518,7 +12525,7 @@ __short__ _n_
 __short-charge__  
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
-__shortbread__ _n_ :two::hammer:  
+__shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
 __shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
@@ -12827,6 +12834,7 @@ __slinger__
 __slingshot__ _n_ A Y-shaped stick or frame having an elastic strap attached to the prongs, used for flinging small projectiles. :es: tirachinas  
 __slink<sup>1</sup>__ _v_ :four: To move in a quiet furtive manner; sneak: slunk away ashamed; _a cat slinking through the grass toward its prey._ _He declined to confirm this as he smiled sheepishly before slinking into an elevator._  
 __slink<sup>2</sup>__ _adj_ Born prematurely.  
+__slinky__ _adj_ __1__ Moving in a sinuously graceful or provocative way. __2__ (Clothing & Fashion) (of clothes) Figure-hugging; clinging. __3__ Characterized by furtive movements.  
 __slip up<sup>1</sup>__ _v_  
 __slip up<sup>2</sup>__ _n_ :three::hammer: (slip-up) _The story avoided slip-ups._  
 __slip__ _n_ __4__ _Nautical_ __a__ A docking place for a ship between two piers. _Sailboats were rocking in their slips._ __b__ A slipway.  
@@ -13587,7 +13595,7 @@ __stirrup__ _n_ :four::hammer: _Ramming your feet into the stirrups._
 __stitch__ _n_ :three: (stitches) __1c__ c. A single loop or knot of thread used in closing a wound or incision in surgery; a suture. :es: puntos de sutura __2__ A sudden sharp pain, especially in the side. :es: punzada _To have a stitch._ :es: tener flato __6__ The least bit of anything: _They wouldn’t do a stitch of work._ _His support was a stitch higher than the combined vote for his two strongest remaining rivals._  
 __stock car__ _n_ __1__ An automobile of a standard make modified for racing. _Stock car racing._ __2__ A railroad car for carrying livestock. :es: vagón para el ganado  
 __stock footage__ _n_ Recorded material, such as film, that is kept by a television network or other media outlet to be broadcast when a subject relating to images in the material is discussed.  
-__stock__ _n_ __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
+__stock__ _n_ :two::hammer: __9__ The broth in which meat, fish, bones, or vegetables are simmered for a relatively long period, used as a base in preparing soup, gravy, or sauces. __14a__ The rear wooden, metal, or plastic handle or support of a rifle, pistol, or automatic weapon, to which the barrel and mechanism are attached. _The plastic stock of the rifle._  
 __stock-in-trade__ _n_ (stock in trade)  
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
