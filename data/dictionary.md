@@ -697,6 +697,8 @@ __athenaeum__ _n_
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
 __athwart__  
 __atlatl__  
+__atole__ _n_ A thick drink of Mexican origin that is made with cornmeal, water, raw sugar, cinnamon, and vanilla and is served warm.  
+__atoll__ _n_ :es: atolón  
 __atolls__ _n_  
 __atone__ _v_ :three::hammer: (atoned)  
 __atonement__ _n_  
@@ -1416,7 +1418,7 @@ __bobby socks__
 __bocce ball__ _n_  
 __bod__ _n_ :two::hammer:  
 __bodacious__  
-__bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._  
+__bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
@@ -2281,6 +2283,7 @@ __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and d
 __chamomille__  
 __champ__ _n informal_ :two: Champion.  
 __champagne flutes__ _n_ :camera:  
+__champurrado__ _n_  
 __chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
 __Chancellor__  
 __chances are__  
@@ -3406,7 +3409,7 @@ __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._
 __dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
 __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _n_ _Cinematic dada._  
-__daedal__ _adj_ __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
+__daedal__ _adj_ :two: /DEE-duhl/ [:scroll: From Latin daedalus (skillful), from Greek daidalos. In Greek mythology, Daedalus was an architect and craftsman who built the labyrinth for King Minos of Crete. When the king imprisoned him so the knowledge of the labyrinth wouldn’t spread, Daedalus made wings for himself and his son Icarus. ] __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
 __daffodils__  
 __daffy__  
 __daft__ _adj_ :four::hammer:  
@@ -5351,6 +5354,7 @@ __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]
 __follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
+__fomite__ _n_ /FOH-myte/ Any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another. _Syn_ vehicle  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
 __FOMO__  
 __food bank__  
@@ -6841,7 +6845,7 @@ __hot flashes__ _n_
 __hot glue__  
 __hot seat__  
 __hot spring__ _n_  
-__hot toddy__ _n_ A drink consisting of whiskey, brandy, or other liquor mixed with hot water, sugar, and spices.  
+__hot toddy__ _n_ :two: A drink consisting of whiskey, brandy, or other liquor mixed with hot water, sugar, and spices.  
 __hot tub__ _n_ A wooden tub, usu. big enough to hold several persons, filled with hot water and often equipped with a whirlpool.  
 __hot water__ _n_  
 __hot__ _adj_ _We’ve got a hot crowd tonight._  
@@ -7660,6 +7664,7 @@ __kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard
 __kin__  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
 __kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
+__kinderpunsch__ _n_  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ _n_ :two: Material for starting a fire, such as dry wood, straw, etc.  
 __kindred<sup>1</sup>__ _n_ :three::hammer:  
@@ -9856,7 +9861,7 @@ __paraprosdokian__
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
-__parcel<sup>1</sup>__ _n_ :seven::hammer: _Delivering mail and small parcels to countries around the world._ _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :eight::hammer: _Delivering mail and small parcels to countries around the world._ :es: paquete _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
@@ -15526,9 +15531,9 @@ __washroom__ _n_
 __washtub__  
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
-__wassail<sup>1</sup>__ _n_ :two: __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine.  
-__wassail<sup>2</sup>__ _v tr_ :dart: To drink to the health of; toast.  
+__wassail<sup>1</sup>__ _n_ :three: __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine.  
 __wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.  
+__wassail<sup>2</sup>__ _v tr_ :dart: To drink to the health of; toast.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
