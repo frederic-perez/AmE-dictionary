@@ -1177,6 +1177,7 @@ __bettors__
 __bevel<sup>1</sup>__ _n_ :two::hammer:  
 __bevel<sup>2</sup>__ _v_ :two::hammer:  
 __bevy__ _n_ :nine::m: A large group of people or things of a particular kind. _He was surrounded by a bevy of beautiful girls._ _A bevy of admirers._ _A bevy of autos will be on display._ _A bevy of drunken sailors._ _Syn_ group, crowd, herd, flock, horde :es: grupo, bandada, manada  
+__bewail__ _v_  
 __bewhiskered__  
 __bewilder__  
 __bewitch__ _v_ :two: Cast a spell over someone or something; put a hex on someone or something. _Syn_ hex, jinx, enchant _After reading _Harry Potter_, I spent hours on end trying to bewitch a broomstick to fly._  
@@ -2126,7 +2127,7 @@ __carol__ _v_ (caroling) (vs Christmas carol)
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :three: (carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
+__carouse__ _v_ :five: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
 __carousel__  
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
@@ -2614,6 +2615,7 @@ __clogging__ _v_
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
+__close in__ _v_ _Winter was closing in._  
 __close the loops__  
 __closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
@@ -4478,8 +4480,8 @@ __elucidate__ _v_ :two::hammer:
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
-__emaciate__ _v_ :five::hammer: (emaciated) _Emaciated cancer patient._  
-__emaciated__ _adj_  
+__emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
+__emaciated__ _adj_ Abnormally thin.  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
 __emancipation__  
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
@@ -7909,7 +7911,7 @@ __layup__ _n_ :three::hammer: (layups)
 __laziness__ _n_ :pencil2:  
 __leaching__ _v_ _Corrosive water leads to leaching of lead in some oñder homes where plumbing contains lead pipes or lead solder._  
 __lead solder__  
-__leaden__  
+__leaden__ _adj_ :two::hammer: _Days of rain and leaden cold._  
 __leadoff__ _n_ :two::hammer:  
 __leaf mold__  
 __leafy__  
@@ -8391,6 +8393,7 @@ __malignancy__ _n_ (malignancies)
 __malingerer__ _n_  
 __mallards__  
 __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
+__mallet__ _n_  
 __mallow__ _n_ :pencil2:  
 __malnourished__  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
@@ -8837,7 +8840,7 @@ __mole grip__ _n_ :camera: Locking pliers.
 __mole wrench__ _n_ :camera: Locking pliers.  
 __mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
-__mollify__ _v_ :six::hammer: (mollified)  
+__mollify__ _v_ :seven::hammer: (mollified)  
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
@@ -14468,7 +14471,8 @@ __tinge<sup>2</sup>__ _v_
 __tingle<sup>1</sup>__ _v_ :six: (tingled, tingling) Cause a stinging or tingling sensation. _He had been duped by her._  
 __tingle<sup>2</sup>__ _n_ A sensation of tingling. _I’m all tingles and shakes._  
 __tink__ _v_  
-__tinker__ _v_ :three::hammer:  
+__tinker<sup>1</sup>__ _n_  
+__tinker<sup>2</sup>__ _v_ :three::hammer:  
 __tinkerer__  
 __tinkle__ _v_ :two::hammer: (tinkled) _Cocktail music tinkled in the background._  
 __tinkling__ _n_ :two::hammer:  
@@ -15532,8 +15536,8 @@ __washtub__
 __washwoman__  
 __waspie__ _n_ A tight-waisted corset.  
 __wassail<sup>1</sup>__ _n_ :three: __1__ (Brewing) (formerly) A toast or salutation made to a person at festivities. __2__ (Brewing) A festivity when much drinking takes place. __3__ (Brewing) Alcoholic drink drunk at such a festivity, esp spiced beer or mulled wine.  
-__wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.  
 __wassail<sup>2</sup>__ _v tr_ :dart: To drink to the health of; toast.  
+__wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastrel__ _n_ :two::hammer:  
@@ -15549,6 +15553,7 @@ __water pill__
 __water seepage__  
 __water__ _v_ _Water the plants._  
 __waterbed__  
+__watercress__ _n_  
 __waterfowl__ _n_ :two::hammer:  
 __waterfront__ _n_ :four::hammer: _Waterfront real state._  
 __waterlogged__  
