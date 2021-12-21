@@ -744,6 +744,7 @@ __augur__ _v_
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
+__Auld Man’s Milk__ _n_  
 __aum__  
 __aurora__ _n_ An atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth’s magnetic lines of force.  
 __auscultation__ _n_  
@@ -912,6 +913,7 @@ __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ :two::hammer: _Polished mahogany banisters._  
+__banjax__ _v tr_ _informal US_ To ruin or destroy, often as a result of incompetence.  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
 __bankroller__ _n_ The person or organization that provides the finance for a project, business, etc.  
@@ -4730,6 +4732,7 @@ __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which i
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :nine: (exacted, exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._  
 __exaggeration__ _n_ :pencil2:  
+__exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
 __exasperation__ _n_ :two::hammer:  
 __exceed__ _v_  
 __exceedingly__  
@@ -6842,6 +6845,7 @@ __host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
+__hot buttered rum__ _n_  
 __hot button__ _n slang_ Something that elicits a strong emotional response or reaction: _an issue that became a hot button among younger voters._  
 __hot flashes__ _n_  
 __hot glue__  
@@ -8832,7 +8836,7 @@ __mogul__ _n_ :five: (moguls) __1__ A very rich or powerful person; a magnate. _
 __mohair__  
 __Mohs hardness__ _n_ _The Mohs scale of mineral hardness is qualitative and arbitrary._  
 __mojo__ _n_  
-__molasses__ _n_ :five::hammer: _Pomegranate molasses._  
+__molasses__ _n_ :six::hammer: :es: melaza _Pomegranate molasses._  
 __mold__ _n_  
 __moldings__  
 __moldy__ _adj_ :two::hammer:  
@@ -8983,8 +8987,9 @@ __mulch__ _n_ :two::hammer:
 __mulching__ _v_  
 __mulct__ _v_ :pencil2: __1__ To punish by a fine. __2a__ To defraud especially of money. _Syn_ swindle __b__ To obtain by fraud, duress, or theft.  
 __muleskinner__ _n_  
-__mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. _His mug of mulled cider._  
+__mull__ _v_ :nine::m: (mulled, mulling) __1__ To think carefully about something over a period of time. _Cheney was mulling a Senate bid._ __2__ (Brewing) To heat with sugar and spices to make a hot drink. To heat and spice (wine, for example). _His mug of mulled cider._  
 __mullah__ _n_  
+__mulled wine__ _n_ Wine heated with sugar and spices and often citrus fruit.  
 __mullet__ _n_ :three::hammer: Freshwater or coastal food fishes a spindle-shaped body; found worldwide.  
 __mulligan__ _n_  
 __mulling__ _n_ The act of one who mulls or thinks over something.  
@@ -9348,7 +9353,7 @@ __nurture__ _v_ :four::hammer: (nurtured, nurturing) _Dallas Stars flourish unde
 __nut case__  
 __nut__ _n_ _slang_ A crazy or strange person.  
 __nutation__ _n_ __1__ The act or an instance of nodding the head.  
-__nutmeg__ _n_  
+__nutmeg__ _n_ :two::hammer: :es: nuez moscada  
 __nuttery__  
 __nuttily__  
 __nuzzled__ _v_  
@@ -14548,6 +14553,7 @@ __Tokyoites__
 __tolerate__ _v_  
 __toll<sup>1</sup>__ _n_  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
+__Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten egg, milk or water, sugar, and spices.  
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
 __tom__ _n_ __1a__ The male of various animals, esp the cat. __b__ (as modifier): _a tom turkey._ __c__ (in combination): a _tomcat._  
 __tomb__ _n_ :mute:[tom~~b~~]  
@@ -15393,7 +15399,7 @@ __vista__ _n_ :three::hammer: (vistas)
 __vital__ _adj_  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
-__vitriolic__ _adj_ :two::hammer:  
+__vitriolic__ _adj_ :three: Bitterly scathing; caustic. _Syn_ acid, blistering, venomous, acrid, acerbic, bitter, virulent _The critic showed no mercy in writing the most vitriolic review of her career._  
 __vituperate__ _v_  
 __vituperation__ _n_ :four: Abusive or venomous language used to express blame or censure or bitter, deep-seated ill will. _Syn_ invective, vitriol, denunciation, abuse, insults  
 __vituperative__  
