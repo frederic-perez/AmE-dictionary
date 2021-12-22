@@ -292,7 +292,7 @@ __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; 
 __airy__ _adj_ _The master bedroom is airy._  
 __aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
-__akin__ _adj_ :five: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc.  
+__akin__ _adj_ :six: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
@@ -1614,6 +1614,7 @@ __breach<sup>1</sup>__ _n_
 __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumb__ _n_  
+__breadcrumbing__ _n_ _slang_ When the “crush” has no intentions of taking things further, but they like the attention. So they flirt here or there, send dm/texts just to keep the person interested, knowing damn well they’re staying single.  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one’s) neck__  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
@@ -2789,7 +2790,7 @@ __commission<sup>2</sup>__ _n_
 __committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
-__commodious__  
+__commodious__ _adj_ :two::hammer: /kuh-MOH-dee-us/  
 __commoditization__  
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ (commonalities)  
@@ -3332,6 +3333,7 @@ __cued__ _v_ _Newman cued the clip again._
 __cues__ _n_  
 __cuff links__  
 __cuffed__ _v_  
+__cuffing season__ _n_ A period during the fall and winter seasons, including holidays from Thanksgiving to Valentine’s Day, when people are more inclined to pair up in committed romantic relationships: _I’m sitting out cuffing season this year—I was miserable tied down like that last winter._  
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
@@ -4428,7 +4430,7 @@ __egg white__
 __egg__ _v_  
 __eggcorn__ _n_ :two::hammer:  
 __egghead__ _n informal_ :three: An overly intellectual person.  
-__eggnog__ _n_ :two::hammer: _A big eggnog party._  
+__eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
 __egotistical__ _adj_ :two::hammer:  
@@ -4965,6 +4967,7 @@ __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.
 __fatso__  
 __fatuous__ _adj_ :two: Foolish or inane, esp. in an unconscious, complacent manner; silly.  
 __fatwa__ _n_ :two: Religious edict.  
+__Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
 __fauna__ _n_  
@@ -7065,7 +7068,7 @@ __impecunious__ _n_ _Syn_ penniless, indigent, penurious
 __impede__ _v_ :six: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__  
 __impedimenta__ _n_  
-__impelled__  
+__impel__ _v_ :two: (impelled) To urge or force (a person) to an action; constrain or motivate. _Syn_ compel, drive, push, inspire, instigate, goad _I don’t consider myself an activist, but I was impelled by recent events to take a stand on this issue._  
 __impending__ _adj_ :nine::m: If something is impending, it is about to happen. If you hear thunder in the distance, you might go inside to escape the impending storm. _Impending deadline._ _(vs looming deadline)_  
 __imperil__ _v_ :five::hammer: (imperiled)  
 __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain of those one views as unworthy.  
@@ -7311,6 +7314,7 @@ __interdict<sup>2</sup>__ _n_
 __interdicting__  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
+__interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
 __interlopers__ _n_ :three::hammer:  
 __interment__ _n_ :three::hammer:  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
@@ -8756,7 +8760,8 @@ __minute<sup>1</sup>__ _n_ :mega: /mĭn′ĭt/
 __minute<sup>2</sup>__ _adj_ :mega: /mĭn′ĭt/  
 __minutia__ _n_ (minutiae) :two: A small or minor detail.  
 __minutiae__ _n pl_ Precise details; small or trifling matters.  
-__mire__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
+__mire<sup>1</sup>__ _n_ An area of wet, soggy, muddy ground; a bog. _Syn_ morass, quag, quagmire  
+__mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or become stuck in mire. __b__ To hinder, entrap, or entangle. _Britain is now mired in crisis._ __2__ To soil with mud or mire.  
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ An instance of misfortune.  
@@ -9558,6 +9563,7 @@ __optometry__ _n_
 __opulent__  
 __Orange Julius__  
 __orb__ _n_ :two::hammer:  
+__orbiting__ _n_ _slang_ When someone who won’t speak to you otherwise still watches every snap on your story/IG and/or likes your posts. Usually someone who has ghosted you, but not always. Basically they’re lingering in your life despite refusing to be an active part in it in any other capacity.  
 __orchestrate__ _v_  
 __ordain__ _v_ :two: Order (something) officially. _It was ordained that anyone hunting in the forest without permission was to pay a fine._ :es: decretar, mandar  
 __ordeal__ _n_ :nine::m: A very unpleasant and prolonged experience. :es: experiencia horrorosa  
