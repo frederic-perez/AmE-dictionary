@@ -557,6 +557,7 @@ __apprehension__ _n_ :two::pencil2::hammer:
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice__ _v_  
 __apprenticeship__ _n_ _Apprenticeship program._  
+__apprise__ _v_ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
 __apricate__ _v_ To bask in the sun.  
 __apropos__ _prep_ :three::mega::hammer:  
@@ -1790,7 +1791,7 @@ __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bulls
 __bullwhip__  
 __bully__  
 __bulrush__ _n_ A tall strong water plant. :es: junco  
-__bulwark__ _n_ :nine: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
+__bulwark__ _n_ :nine::m: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
 __bum<sup>3</sup>>__ _n_ :three: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
@@ -4635,7 +4636,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
-__epithet__ _n_ :five::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
+__epithet__ _n_ :six::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :two::hammer:  
@@ -5381,7 +5382,7 @@ __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the 
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
-__foothold__ _n_ :two::hammer: _A foothold._  
+__foothold__ _n_ :three::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose__ _adj_ :two::pencil2::hammer:  
@@ -5492,7 +5493,7 @@ __fowler__
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
-__fracas__ _n_ :four: Noisy quarrel. _An uproarious fracas._  
+__fracas__ _n_ :five::astonished: Noisy quarrel. _An uproarious fracas._ _An English squire was killed in a fracas._  
 __fracking__ _n_ Hydraulic fracturing.  
 __fractional__ _adj_ _A fractional line of block._  
 __fractious__ _adj_ _His fractious temperament._  
@@ -10670,6 +10671,7 @@ __precipitancy__ _n_ The quality of happening with headlong haste or without war
 __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it fair, has proved a challenge._  
 __precision<sup>1</sup>__ _n_  
 __precision<sup>2</sup>__ _adj_ _Precision medicine._  
+__preclude__ _v_  
 __predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
@@ -11897,7 +11899,7 @@ __runt__
 __runway__  
 __Runyonesque__ _adj_ :two::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :seven::hammer: (ruses)  
+__ruse__ _n_ :eight::hammer: (ruses)  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
@@ -15531,7 +15533,7 @@ __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
 __wash out__ _phr v_ To wash the inside of something.  
-__wash up__ _phr v_ To wash your hands and face.  
+__wash up__ _phr v_ :two: To wash your hands and face.  
 __wash__ _n_ _At the specialty box office, _By the Sea_ was a wash._  
 __washed-out__ _adj_ Having lost freshness or brilliance of color. _Syn_ leached, faded  
 __washed-up__ _adj_ If a person or an organization is washed-up, they will never be successful again. _A washed-up player._  
