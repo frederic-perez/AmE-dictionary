@@ -450,7 +450,7 @@ __animadversion__ _n_ Strong criticism. _Syn_ censure _I meant no animadversions
 __animal__ _n_ Thing. _Standup is a whole different animal._ _A perfect job? Is there any such animal?_  
 __anime__ _n_ /ˈænɪˌmeɪ/ A style of animation developed in Japan, characterized by stylized colorful art and often adult themes.  
 __animosity__ _n_ :nine::m: __1__ Bitter hostility or open enmity; active hatred. _She tried to put her animosity aside._ __2__ A hostile feeling or act. :es: rencor  
-__animus__ _n_ :six::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
+__animus__ _n_ :seven::pencil2: __1__ Strong dislike or enmity; animosity. _The animus between the Yankees and Red Sox._ _His voice was hardly heard against local animus._ :es: odio __2__ Purpose; intention; animating spirit.  
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
@@ -878,7 +878,7 @@ __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
-__balky__ _adj_ :four: /ˈbɔːlki,ˈbɔːki/ Awkward; uncooperative. :reminder_ribbon: balky donkey _He was trying to get his balky donkey to move._  
+__balked__ _v_  
 __ball bearings__  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball player__  
@@ -2777,7 +2777,7 @@ __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolo
 __command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
-__commend__ _v_ :two::hammer: (commended)  
+__commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
@@ -3240,6 +3240,7 @@ __crisp<sup>3</sup>__ _n_
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
 __crisply__ _adv_ _Nuggent greeted him crisply._  
 __crisscross__  
+__crisscrossed__ _adj_  
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
@@ -4813,6 +4814,7 @@ __extoll__ _v_ :five::hammer: (extolled, extolling)
 __extort__ _v_  
 __extradite__ _v_  
 __extraneous__  
+__extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
@@ -5306,7 +5308,7 @@ __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of b
 __florid__  
 __flotation tank__  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
-__flotsam__ _n_ :two: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
+__flotsam__ _n_ :three: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :nine::m: (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish<sup>1</sup>__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
@@ -11217,7 +11219,7 @@ __rampart__ _n_ :five::hammer: (ramparts) _Ancient stone ramparts._
 __ramshackle__ _adj_ :two::hammer:  
 __ranch hand__ _n_ A hired hand on a ranch. _In a denim western shirt and jeans he looks like a ranch hand._  
 __rancher__ _n_ :four: (ranchers) One that owns or manages a ranch.  
-__rancor__ _n_  
+__rancor__ _n_ :two::hammer: _A rising rancor of the poor against the rich._  
 __rancorous__ _adj_  
 __random__ _adj_ :mega: /ˈrændəm/  
 __randy__  
@@ -13263,6 +13265,7 @@ __spindly__
 __spinel__ _n_ Spinel is the magnesium aluminium member of the larger spinel group of minerals. Its name comes from Latin “spina.” Balas ruby is an old name for a rose-tinted variety of spinel.  
 __spinet__ _n_ :camera:  
 __spinnaker__ _n_  
+__spinner__ _n_ _A pastoral letter declared that spinners could be excommunicated for wasting their wool._  
 __spinning wheel__ _n_ A small domestic hand-driven or foot-driven machine for spinning yarn or thread.  
 __spinning__ _n_ (Textiles)  
 __spinouts__  
@@ -15924,6 +15927,7 @@ __woodshed<sup>1</sup>__ _n_ A shed in which firewood is stored.
 __woodshed<sup>2</sup>__ _v_ :astonished: _slang_ To practice on a musical instrument.  
 __woodstove__ _n_  
 __woodwork__ _n_ :two::hammer:  
+__woolcarder__ _n_ :two::hammer: _Peasant’s tools include hammer, knife, ax, and wool-carder’s comb._  
 __woolgathering__ _n_ Indulgence in idle daydreaming. _My woolgathering was abruptly interrupted by a question from the flight attendant._  
 __wooly__  
 __woomb__  
