@@ -1136,6 +1136,7 @@ __benefice__ _n_ _The cardinal had held nine English benefices in London, York, 
 __beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
 __benevolent__  
+__benign__ _adj_ /bih-NYNE/ Benign means “not causing harm or injury.” In medicine, it refers to tumors that are not cancerous. _The email seemed benign, but it was discovered to be from a hacker._ _The tumor was benign._  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
@@ -5703,7 +5704,7 @@ __gallows__ _n_ :two::hammer:
 __galore__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v_  
-__galvanize__ _v_ :eight: (galvanized) To startle into sudden activity; stimulate.  
+__galvanize__ _v_ :nine: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
@@ -6754,6 +6755,7 @@ __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of 
 __holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
+__holly__ _n_ :es: acebo  
 __Holy Ghost__ _n_ :two::hammer:  
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
@@ -7089,6 +7091,7 @@ __imposture__ _n_ The act or instance of engaging in deception under an assumed 
 __impound<sup>1</sup>__ _n_ _The impound yard._  
 __impound<sup>2</sup>__ _v_ :three::hammer: (impounded) _The Ponticac was impounded._  
 __impoverished__ _v_  
+__impracticable__ _adj_ Not capable of being carried out or put into practice. _Syn_ unfeasible, unworkable _Refloating the sunken ship intact proved impracticable because of its fragility._  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
 __impresario__ _n_ :pencil2:  
@@ -9837,6 +9840,7 @@ __panorama__ _n_
 __pansy__ _n_ (pansies) __2__ _slang_ _offensive_ An effeminate or homosexual man or boy.  
 __pant__ _v_ :seven: (panted, panting) To breathe quickly with short breaths, usually with your mouth open, because you have been doing some physical exercise, or because it is very hot: _She finished the race panting heavily._ _Breathless and panting into the microphone._ _In his pain he panted like a dog._  
 __pantalons__ _n_  
+__pantheon__ _n_  
 __pantophagous__ _adj_  
 __pantoscopic__ _adj_ _Pantoscopic tilt._  
 __pantry__ _n_ :three::hammer:  
@@ -9978,7 +9982,7 @@ __patter__
 __patterned__ _v_ :three::hammer:  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
-__paucity__ _n_ :six: The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” People in LA don’t understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._  
+__paucity__ _n_ :seven: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” People in LA don’t understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
 __Paulistano__  
 __paunch__ _n_  
 __paunchy__ _adj_  
@@ -11502,6 +11506,7 @@ __remorse__ _n_
 __remoulade__  
 __remunerate__ _n_  
 __remuneration__ _n_  
+__rend__ _v_ To tear or split apart or into pieces violently. _Syn_ rip, rive _The widow began to rend her clothes in grief._  
 __render__ _v_ :six::hammer::astonished: (rendered) _Electronic banking has rendered the system unnecessary for consumer goods._ __1b__ To give or make available; provide: _render assistance; render a service._ _The grand jury has rendered its decision._ __7__ To reduce, convert, or melt down (fat) by heating. _Cook bacon until about half the fat is rendered._ _Rendered fat._ :camera:  
 __rendering plant__  
 __rendition__ _n_ :four: An interpretation of a musical score or a dramatic piece.  
@@ -14134,6 +14139,7 @@ __tangle<sup>2</sup>__ _v_ :two::hammer: (tangled) _Cousin and Horford tangled i
 __tangled__  
 __tank__ _v_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanker truck__  
+__Tannenbaum__ _n_ (German noun) Fir tree (Christmas tree).  
 __tanner__ _n_ :two::hammer:  
 __tannery__  
 __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
@@ -15877,7 +15883,7 @@ __wisk__ _v_
 __wisp__ _n_ :eight::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ _n_ :two::hammer: _(Plants)_  
-__wistful__ _adj_ :three::hammer:  
+__wistful__ _adj_ :four::dart::hammer:  
 __wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._  
@@ -16135,6 +16141,7 @@ __zonk out__ _v_
 __zonk__ _n_ :two::hammer:  
 __zoom in__ _phr v_ To focus more closely.  
 __zoonotic__ _adj_  
+__zoophobia__ _n_ /zo-uh-FOH-bee-uh/ __1__ An unusual fear of animals. Some examples of zoophobia are acarophobia (insects), ailurophobia (cats), arachnophobia (spiders), and cynophobia (dogs). __2__ A dislike of keeping animals in captivity.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men’s suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
 __zucchini__ _n_ :two::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
