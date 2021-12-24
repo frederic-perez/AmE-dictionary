@@ -1458,6 +1458,7 @@ __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bol
 __bomb__ _v_ :three::mute:[bom~~b~~]:hammer:  
 __bombast__ _n_ :five: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombinate__ _v intr_ /BOM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_  
 __bombing__ _v_  
 __bombshell__ _n_  
 __bombsights__  
@@ -3407,6 +3408,7 @@ __cyanide__ _n_ A very strong poison.
 __cyclone__ _n_ :two::hammer: (cyclones)  
 __cyclopean__ _adj_ __2__ Very big; huge: _has a cyclopean ego._  
 __cynical__ _adj_ :two::pencil2::hammer:  
+__cynophilist__ _n_ /sy-NOH-fi-list/ [:scroll: From From Greek kyon (dog) + -philia (love).] One who loves dogs.  
 __cypress__ _n_ :astonished:  
 __cyst__ _n_ :mega: _Ganglion cysts._  
 __cytometer__  
@@ -3691,7 +3693,7 @@ __dereliction__
 __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
 __derogative__ _adj_  
-__derrick__ _n_  
+__derrick__ _n_ :two::hammer:  
 __derringer__ _n_ :two::hammer: _A single-shot derringer, in case the enemy captures him alive._  
 __dervish__ _n_  
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
@@ -4391,6 +4393,7 @@ __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outbur
 __echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
+__echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also a word created in this manner.  
 __eclampsia__  
 __éclat__ _n_  
 __ecliptic__ _n_  
@@ -5838,7 +5841,7 @@ __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)
 __ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
-__gibe__ _n_ _Many seigneurs returned to face gibes or sudden hostility._  
+__gibe__ _n_ :two: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
 __gibed__ _v_  
 __gibes__  
 __Gibson glass__  
@@ -6731,6 +6734,7 @@ __hogslop__
 __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Syn_ bunkum, guff, rot _The entire article is hogwash, and I demand that you print a retraction posthaste!_  
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
+__hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_  
 __hokum__ _n_ :three::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
@@ -9355,6 +9359,7 @@ __numbers runners__
 __numbly__  
 __numerous__ _adj_ :two::hammer: _Hamilton was the author of numerous potboilers._  
 __numinous__ _adj_ _The tourists were overcome by the numinous atmosphere of the catacombs._  
+__numismatist__ _n_ A collector and student of money (and coins in particular). _Syn_ coin collector  
 __nummary__ _adj_ Of or relating to coins.  
 __nunchucks__  
 __nurse<sup>1</sup>__ _n_  
@@ -11308,7 +11313,7 @@ __raw milk__ _n_ Unpasteurized milk. _Raw milk cheese—unpasteurized cheese._
 __rawhide__ _n_ _Attendees can learn how to braid rawhide._  
 __rawinsonde__ _n_ A radiosonde used to observe the speed and direction of upper-air winds and tracked by a radio direction-finding instrument or radar.  
 __ray flower__ _n_ (ray floret) One of the flattened marginal florets surrounding the disk in the flower heads of certain composite plants, as the daisy.  
-__raze__ _v_ :four: (razed, razing) To level to the ground; demolish. _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._ _They razed the village._  
+__raze__ _v_ :five: (razed, razing) To level to the ground; demolish. _Syn_ pull down, tear down _They would raze our cities, leaving not one stone upon another._ _In March they razed the house._ _Dozens of buildings were razed to make room for new ones._ _They razed the village._  
 __razor sharp__  
 __razor strop__  
 __razor-shell__ _n_ (razorfish, razorclam) :es: navaja  
@@ -12942,7 +12947,7 @@ __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportan
 __small print__  
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
 __smallpox__ _n_ :two::hammer: :es: viruela  
-__smarmy__ _adj_ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
+__smarmy__ _adj_ :two: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
@@ -14470,6 +14475,7 @@ __tiki<sup>2</sup>__ _n_
 __tilapia__  
 __tiller__ _n_ :two: One that tills land: _a tiller of soil._  
 __tiltyard__  
+__timbrology__ _n_ /tim-BROL-uh-jee/ [:scroll: From French timbre (stamp) + -logy (study).] The collecting or study of postage stamps and related matter.  
 __time capsule__ _n_ :five::hammer:  
 __time frame__  
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
