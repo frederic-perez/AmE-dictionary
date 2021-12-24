@@ -2123,7 +2123,7 @@ __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._
 __caribou__  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
-__carnage__ _n_ :two::hammer:  
+__carnage__ _n_ :three::hammer:  
 __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove pink, with grey-green leaves and showy pink, white, or red flowers. :es: clavel  
 __carnie__ _n_ _Carnie man._  
 __carnival__  
@@ -2669,7 +2669,7 @@ __cob__
 __cobble together__ _v_ Put together hastily. _I cobbled together a simple driver program that listened to the keyboard._  
 __cobble up__ _phr v_  
 __cobble__ _v_ :two::hammer: (cobbled)  
-__cobbler__ _n_  
+__cobbler__ _n_ :two::hammer:  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
 __cochineal__ _n_  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
@@ -4392,6 +4392,7 @@ __echelon__ _n_ :hammer: _The upper echelons of the State Security force._
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
 __eclampsia__  
+__éclat__ _n_  
 __ecliptic__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
@@ -4736,6 +4737,7 @@ __ex cathedra__ _adj, adv_ With the authority derived from one’s office or pos
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :nine: (exacted, exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._  
+__exaction__ _n_  
 __exaggeration__ _n_ :pencil2:  
 __exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
 __exasperation__ _n_ :two::hammer:  
@@ -5499,7 +5501,7 @@ __fowler__
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
-__fracas__ _n_ :five::astonished: Noisy quarrel. _An uproarious fracas._ _An English squire was killed in a fracas._  
+__fracas__ _n_ :six::astonished: Noisy quarrel. _An uproarious fracas._ _An English squire was killed in a fracas._  
 __fracking__ _n_ Hydraulic fracturing.  
 __fractional__ _adj_ _A fractional line of block._  
 __fractious__ _adj_ _His fractious temperament._  
@@ -5672,6 +5674,7 @@ __gab away__ _v_ _The gang was gabbing away._
 __gab<sup>1</sup>__ _v_ :two::hammer:  
 __gab<sup>2</sup>__ _n_ :two::hammer: _The gift of gab._  
 __gabbing__  
+__gabelle__ _n_ A tax, especially the salt tax imposed in France before 1790.  
 __gabfest__  
 __gable__ _n_ :two::hammer:  
 __gabled__ _adj_ :two::hammer: _Gabled roofs._  
@@ -10498,7 +10501,7 @@ __podiatrist__ _n_
 __podjo__  
 __podna__ _n_ :two: _slang_ Podna is a very close, or just a friend of yours.  
 __Podunk town__  
-__pogrom__ _n_ :dart::five: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
+__pogrom__ _n_ :dart::six: (pogroms) An organized, often officially encouraged massacre or persecution of a minority group, especially one conducted against Jews.  
 __poignance__ _n_  
 __poignant__ _adj_ :three: Making you feel sad or full of pit. _This is another, more poignant example._ _A poignant ceremony._  
 __poinsettia__ _n_ :pencil2:  
@@ -11947,7 +11950,7 @@ __safe-conduct__ _n_ _The Prince’s chief knights came under safe-conduct to pa
 __safecracker__ _n_ One who breaks into safes in order to steal items from them.  
 __safeguard<sup>1</sup>__ _n_  
 __safeguard<sup>2</sup>__ _v_ :two::hammer:  
-__safekeeping__  
+__safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
 __safety pin__ _n_ :es: imperdible  
 __saffron__ _n_ :four::hammer: :es: azafrán  
@@ -15397,6 +15400,7 @@ __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend
 __villa__ _n_ :two::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
 __villas__ _n_  
+__villeinage__ _n_  
 __vim__ _n informal_ Robust energy and enthusiasm.  
 __vindicate__ _v_ :nine::hammer: (vindicated)  
 __vindication__ _n_ :eight::hammer:  
