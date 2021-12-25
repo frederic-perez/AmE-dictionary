@@ -303,8 +303,7 @@ __albatross__ _n_ :pencil2::three::mega::hammer:
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
 __alcove__ _n_ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
-__alderman__ _n_ :two::hammer:  
-__aldermen__ _n_  
+__alderman__ _n_ :four::hammer: (aldermen)  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
 __alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
 __Aleut__ _n_  
@@ -2990,7 +2989,7 @@ __controversial__
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
-__convene__ _v_ :seven: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
+__convene__ _v_ :eight: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
 __convenience store__  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
@@ -4881,7 +4880,7 @@ __factious__ _adj_ Of, relating to, produced by, or characterized by internal di
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
-__faculty__ _n_ :two::astonished: __1__ A group of similarly trained or educated individuals.  
+__faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
@@ -7875,7 +7874,7 @@ __larder__ _n_ :four::hammer:
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
-__largesse__ _n_ :two::pencil2::hammer:  
+__largesse__ _n_ :three::pencil2::hammer:  
 __lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
@@ -8008,7 +8007,7 @@ __lentil__ _n_ (lentils) :es: lentejas
 __leper__  
 __lepers__  
 __leporine__ _adj_ Of or characteristic of rabbits or hares.  
-__lese majeste__ _n_ :three: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
+__lese majeste__ _n_ :four: (lèse-majesté) Alternative form of lese majesty. A crime injuring or causing harm to the dignity of a reigning sovereign or a state. _Colin drew his dagger in the terrible act of lese majeste._ _A number of senior officials were charged with lese majeste._  
 __lessen__ _v_  
 __lessons learned__ _n_ Experiences distilled from past activities that should be actively taken into account in future actions and behaviors.  
 __lest__ _conj_ :nine::m: __1__ With the intention of preventing (something undesirable); to avoid the risk of. _He spent whole days in his room, wearing headphones lest he disturb anyone._ __2__ (after a clause indicating fear) Because of the possibility of something undesirable happening; in case. _Syn_ in case, just in case, for fear that, in order to avoid _She sat up late worrying lest he be murdered on the way home._  
@@ -8406,7 +8405,7 @@ __maki__ _n_
 __maladaptive__ _adj_ Showing faulty adaptation.  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
-__malapropism__ _n_ :four::dart: 1. Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
+__malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
 __malarkey__ _n_ :dart::five::mega::hammer: Speech or writing designed to obscure, mislead, or impress; bunk. _Syn_ idle words, jazz, nothingness, wind  
 __malcontent__ _n_ _There is not mat space for malcontents or dissenters._  
 __malefactor__ _n_ Someone who has committed a crime or has been legally convicted of a crime. _Syn_ criminal, crook, felon, outlaw  
@@ -9995,7 +9994,8 @@ __patronizing__ _adj_ :two::hammer:
 __patronymic__  
 __patsy__ _adj_  
 __patter__  
-__patterned__ _v_ :three::hammer:  
+__pattern__ _v_ :three::hammer:  
+__patterned__ _adj_ _A patterned background._  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
 __paucity__ _n_ :seven: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” People in LA don’t understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
@@ -12478,6 +12478,7 @@ __shedding__ _v_
 __sheelling__  
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
+__sheepfold__ _n_ (Agriculture) A pen or enclosure for sheep.  
 __sheer fabric__ _n_ :two::hammer:  
 __sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.  
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
@@ -13410,7 +13411,7 @@ __square deal__
 __square dsncing__  
 __square__ _n_ _slang_ A boring person.  
 __squarely__  
-__squash__ _v_ :two: __1__ 1. To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
+__squash__ _v_ :two: __1__ To beat, squeeze, or press into a pulp or a flattened mass; crush. _Syn_ crush _My guess is they could have squashed us flat just as easily._  
 __squat down__ _v_  
 __squat toilet__ _n_  
 __squat<sup>1</sup>__ _v_ :six: (squatted, squatting) Crouch or sit with one’s knees bent and one’s heels close to or touching one’s buttocks or the back of one’s thighs. _I squatted down in front of him._ _Syn_ crouch (down), hunker (down), sit on one’s haunches, sit on one’s heels :es: agacharse  
