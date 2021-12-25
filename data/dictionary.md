@@ -1645,7 +1645,8 @@ __breech__ _n_ :five::hammer: (breeches)
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
-__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and aromatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
+__breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
+__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
@@ -3672,7 +3673,7 @@ __dentifrice__ _n_
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
 __departed__  
-__dependable__ _adj_ _Applicants are required to have a dependable vehicle._  
+__dependable__ _adj_ :two::hammer: _Applicants are required to have a dependable vehicle._  
 __depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
 __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
 __depolarize__ _v_  
@@ -3916,7 +3917,7 @@ __dislodge__ _v_
 __disloyal__  
 __dismal__ _adj_ :eight::mega: Causing gloom or depression; dreary: _dismal weather; took a dismal view of the economy._ _Syn_ dark and drepressing, gloomy, somber  
 __dismay__ _v_ (dismayed) _The proposal has dismayed the Canadian government._  
-__dismayed__ _adj_  
+__dismayed__ _adj_ :two::dart: Filled with depression or discouragement filled with apprehension or alarm.  
 __dismiss__ _v_ __2__ To direct or allow to leave: _dismissed troops after the inspection; dismissed the student after reprimanding him._ _be dismissed_ :es: retirarse (por ejemplo de la mesa)  
 __dismissive__ _adj_ :three::hammer: _Healthy young adults often are dismissive of health issues._  
 __dismount__ _n_ (Gymnastics) A move by which a gymnast gets off an apparatus or finishes a floor exercise, usually landing upright on the feet.  
@@ -4319,7 +4320,7 @@ __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in b
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
-__duress__ _n_ :seven::hammer: _The ability to think under duress._  
+__duress__ _n_ :nine::hammer: _The ability to think under duress._  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -4559,6 +4560,7 @@ __encroachment__ _n_ :six::hammer:
 __encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
+__end product__  
 __end result__  
 __endangerment__  
 __endarterectomy__ _n_ :mega:  
@@ -5614,7 +5616,7 @@ __fuddy-duddy__
 __fudge<sup>1</sup>__ _n_  
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :four::hammer: _You can’t fudge this thinking._ _Fudging statistics._  
-__fulcrum__ _n_ :three::hammer:  
+__fulcrum__ _n_ :four::hammer:  
 __fulfilling__  
 __fulfillment__ _n_ :pencil2:  
 __fulgent__ _adj_ Shining brilliantly; radiant.  
@@ -6600,7 +6602,7 @@ __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, esp
 __hem<sup>2</sup>__ _v_  
 __hemlines__ _n_  
 __hemlock__ _n_ :two::hammer: :es: cicuta  
-__hemmed__ _v_ :two::hammer:  
+__hemmed__ _v_ :three::hammer:  
 __hemming__  
 __hemodynamic__ _adj_  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
@@ -11530,7 +11532,7 @@ __repeal<sup>2</sup>__ _v_
 __repealing__  
 __repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
-__repent__ _v_ :three::hammer: (repented)  
+__repent__ _v_ :four::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
@@ -13164,6 +13166,7 @@ __sorely__ _adv_ :three::hammer:
 __sorghum__  
 __sorority__ _n_ :two::hammer: _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
+__sorrow__ _v_ (sorrowed)  
 __sorrowful__ _adj_ Very sad.  
 __sort out__ _v_ :two::hammer:  
 __sort put__  
@@ -15370,6 +15373,7 @@ __vesicle__ _n_ (vesicula)
 __vespine__ _adj_  
 __vest__ _v_  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
+__vested__ _adj_ _Vested hostilities._  
 __vestibule__ _n_ :two::mega::hammer:  
 __vestige__ _n_ :three: /VESS-tij/ (vestiges) A trace, mark, or visible sign left by something lost or vanished. _The seconds ticked by, but the team still had a vestige of hope._ _The ruins remain as vestiges of the Roman occupation of Britain._  
 __vesting__ _n_ The granting to an employee of the right to pension benefits despite retirement before the usual time or age. _The vesting date._  
