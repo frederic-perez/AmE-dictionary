@@ -801,6 +801,7 @@ __baby blue__ _n_ :camera:
 __baby bump__ _n_ :astonished: The enlarged abdomen of a pregnant woman. _Dressing your baby bump._  
 __baby formula__ _n_ (instant formula, formula) A manufactured food designed and marketed for feeding to babies and infants under 12 months of age. _Baby formula should be “ready-to-feed” or prepared using only filtered water or bottled water._  
 __baby shower__ _n_ :two::hammer:  
+__baby__ _v tr_ __1__ To treat with love and attention. __2__ To treat (someone) like a baby; pamper or overprotect.  
 __Babylonian captivity__ _n_ __1__ (Judaism) The exile of the Jews in Babylonia from about 586 to about 538 bc. __2__ (Historical Terms) The exile of the seven popes in Avignon (1309–77).  
 __Babylonian exile__ _n_ Babylonian captivity.  
 __babysit__ _v_ :two::hammer:  
@@ -954,6 +955,7 @@ __barnstorm__ _v_ :two: To tour rural districts making speeches in a political c
 __barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
+__barrack__ _n_ :astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barre__  
@@ -1857,7 +1859,7 @@ __burning glass__
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burnoose__ _n_  
 __burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
-__burpee__ _n_  
+__burpee__ _n_ :two: __1__ (Gymnastics) A squat thrust that starts and ends in a standing position.  
 __burqa__  
 __burr haircut__  
 __burr__ _n_  
@@ -3052,6 +3054,7 @@ __cormorants__
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
 __Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
 __corn fritters__  
+__corn salad__ _n_ _Syn_ mache :es: canónigo  
 __cornball__  
 __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
 __cornerstone__ _n_  
@@ -3615,7 +3618,7 @@ __dehydration__
 __deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
 __deist__ _adj_  
-__dejected__  
+__dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
 __delectable__ _adj_ :five::hammer: _Syn_ delicious  
@@ -8904,7 +8907,7 @@ __moonshine<sup>1</sup>__ _n_ :four::hammer: (spirit) _People suspected of brewi
 __moonshine<sup>2</sup>__ _v_  
 __moonshot__ _n_ :four: _technology_ An ambitious, exploratory and ground-breaking project undertaken without any expectation of near-term profitability or benefit and also, perhaps, without a full investigation of potential risks and benefits. _Google’s New Moonshot Project: the Human Body_ __1__ The launching of a spacecraft to the moon. __2__ Awesome, fantastic, almost impossible to achieve, the best, the reason for success, reaching the highest point, right on target. _A moonshot type of thing._  
 __moonsoon__  
-__moonstruck__ _adj_  
+__moonstruck__ _adj_ :two: __1__ Mentally deranged, supposedly by the influence of the moon; crazed. __2__ Dreamily romantic or bemused.  
 __moor__ _n_ :two::hammer:  
 __mooring__ _n_ :two::hammer:  
 __moot<sup>1</sup>__ _adj_ :nine::m: [:scroll: _Moot_ derives from _gemōt_, an Old English name for a judicial court. Originally, _moot_ referred to either the court itself or an argument that might be debated by one.] __1__ Subject to debate, dispute, or uncertainty. _Whether the temperature rise was mainly due to the greenhouse effect was a moot point._ _Syn_ debatable, open to debate, arguable __2__ Having little or no practical relevance. _The whole matter is becoming increasingly moot._ _The zero-emissions mandate was a moot point._  
@@ -9018,7 +9021,7 @@ __mulling__ _n_ The act of one who mulls or thinks over something.
 __multicopter__ _n_ _Syn_ multirotor  
 __multifaceted__ _adj_ Having many aspects. _Syn_ multifarious, many-sided _This is a multifaceted problem and cannot be solved by a singular approach._  
 __multifarious__ _adj_ Having many aspects. _Multifarious interests._ _The multifarious noise of a great city._ _Syn_ multifaceted, many-sided, miscellaneous  
-__multipurpose__ _adj_ :es: polivalente  
+__multipurpose__ _n_ :two::dart: Designed or used for several purposes: _a multipurpose room; multipurpose software._ :es: polivalente  
 __multitude__  
 __mum__ _adj_ Silent. _So far, the White House has been mum._  
 __mumble__ _v_ __1__ To speak words indistinctly, as by lowering the voice or partially closing the mouth. _Sam has a tendency to mumble._ __2__ To chew food slowly or ineffectively, as if with the gums.  
@@ -11068,6 +11071,7 @@ __pyre__ _n_ :two::hammer: (pyres) _It burned like a funeral Viking pyre._
 __Pyrenees__ _n_ :pencil2:  
 __pyrheliometer__ _n_ :two::hammer:  
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
+__pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrrhic__ _adj_ :four::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
 __Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
@@ -15082,6 +15086,7 @@ __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy c
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
 __unethically__ _adv_ _He had acted unethically and for that I could never trust him as editor._  
+__uneventful__ _adj_ Lacking in important or interesting occurrences; routine: _an uneventful day._  
 __unfailing__ _adj_ _Unfailing support._  
 __unfathomable__ _adj_ :four: Impossible to ever understand. Fathoms are seafaring units of measure equaling about six feet. So something that is unfathomable is also immeasurable, especially when it comes to depth. _For most people, the field of quantum mechanics is unfathomable._  
 __unfazed__ _v_ :eight::hammer: _They are unfazed by all fof this._  
