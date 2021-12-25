@@ -2452,7 +2452,8 @@ __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many smal
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ _n, v_ :mute:[c~~h~~ord]  
 __choreography__ _n_ :mute:[c~~h~~oreography]  
-__chortle__ _v_ :five::hammer: (chortled, chortles)  
+__chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
+__chortle<sup>2</sup>__ _v_ :six: (chortled, chortles) To utter a chortle or express with a chortle.  
 __chorus__ _n, v_ :mute:[c~~h~~orus]  
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
@@ -7703,7 +7704,8 @@ __kingdom come__ _n_ _informal_ :two: __1__ The next world: _a bomb that could b
 __kingfisher__ _n_  
 __kingpin__ _n_ The most important person in a group or undertaking. _Syn_ bigwig, top banana _A years-long undercover operation finally yielded the evidence needed to bring down the country’s most notorious drug kingpin._  
 __kink__ _n_ :five::hammer (kinks) _I was getting the kinks out._ _Let them work out the kinks._  
-__kinked__ _v_  
+__kink<sup>1</sup>__ _n_ :six: (kinks) __1__ A sharp twist or bend in a wire, rope, hair, etc, esp one caused when it is pulled tight. __6__ _US_ A clever or unusual idea.  
+__kink<sup>2</sup>__ _v_ :two: (kinked) To form or cause to form a kink or kinks. _Kinked catheters._  
 __kinky__ _adj_ :two: __1__ _slang_ Given to unusual, abnormal, or deviant sexual practices. _We all have our little kinky secrets._ __2__ _informal_ Exhibiting unusual idiosyncrasies of personality; quirky; eccentric. __3__ _informal_ Attractive or provocative in a bizarre way: kinky clothes. __4__ Tangled or tightly looped, as a wire or rope. __5__ Tightly curled, as hair.  
 __kinsfolk__ _n pl_ One’s family or relatives.  
 __kinship__ _n_ :two::hammer:  
@@ -7846,6 +7848,7 @@ __lancing irons__
 __land__ _v_ _Thanksgiving this year lands on November 25._  
 __landfall__ _n_ :three::hammer:  
 __landfill__ _n_ :three::hammer:  
+__landform__ _n_ One of the features that make up the earth’s surface, such as a plain, mountain, or valley.  
 __landlock__ _v_ _Laos is the least-developed landlocked country in Asia._  
 __landlubber__ _n_ A person unfamiliar with the sea or seamanship.  
 __landmark__ _adj_ _A landmark case in 1983._  
@@ -8016,6 +8019,7 @@ __let on__ _phr v_
 __let your hair down__  
 __letdown__ _n_ Something that makes you feel disappointed because it is not as good as you expected it to be. _Dinner was a letdown._  
 __lethargic__ _adj_ :two::hammer: _Lethargic voice._  
+__lethologica__ _n_ The temporary inability to remember a word, name, or intended action.  
 __letter jacket__ _n_ A jacket traditionally worn by high school and college students in the United States to represent school and team pride as well as to display personal awards earned in athletics, academics or activities.  
 __letter__ _v_ _I’m currently lettering the forthcoming comic book._  
 __lettered__ _adj_ Highly educated; having extensive information or understanding.  
@@ -10708,7 +10712,7 @@ __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome
 __preeminent__ _adj_ :four::hammer:  
 __preempt__ _v_  
 __preemptive__  
-__preen__ _v_ :nine: (preened, preening) __1__ To trim or dress (feathers, fur, etc.) with the beak or tongue. __2__ To dress (oneself) carefully or smartly; primp. __3__ To pride (oneself) on an achievement, personal quality, etc.  
+__preen__ _v_ :nine::m: (preened, preening) __1a__ To smooth or clean (feathers) with the beak or bill. __b__ To trim or clean (fur) with the tongue, as cats do. __2__ To dress or groom (oneself) with elaborate care; primp. __3__ To take pride or satisfaction in (oneself); gloat.  
 __prefab__ _n_ :two::hammer: (prefabs) _Prefab vacations._  
 __pregnant__ _adj_ __2a__ Weighty or significant; full of meaning: _a conversation occasionally punctuated by pregnant pauses._  
 __prehensile__ _adj_ :pencil2:  
@@ -11737,6 +11741,7 @@ __ripple__ _v_ :four::hammer: (rippled)
 __rippling__ _n_ A small wave on the surface of a liquid. _Syn_ riffle, ripple, wavelet _The rippling of streams flowing._  
 __rise__ _v_  
 __risers__  
+__risibility__ _n_ __1__ Often, risibilities. the ability or disposition to laugh; humorous awareness. __2__ Laughter.  
 __risible__ _adj_ :four: __1__ Having a tendency to laugh. __2__ Causing laughter; ridiculous.  
 __rite__ _n_ :two::hammer:  
 __ritz<sup>1</sup>__ _n_ /rits/ [:scroll: After César Ritz (1850-1918), a Swiss hotelier.] Luxury, glamor, opulence, etc. The word ritz is often used in the phrase “to put on the ritz” meaning to “make an ostentatious show.”  
