@@ -189,7 +189,7 @@ __adulation__
 __adulterate__ _v_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
-__adventitious__ _adj_ :two: Associated with something by chance rather than as an integral part; extrinsic.  
+__adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
 __advice__ _n_ _This is my unsolicited advice._  
@@ -4194,6 +4194,7 @@ __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
 __dredger__  
 __dreg__ _n_ :seven::hammer: (often dregs) _Away from the dregs and junkies._ _Retrieve dregs from the cup._ _The whole mass of scum and dregs of society._  
+__dreidel__ _n_ __1__ A 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. __2__ A children’s game of chance played especially at Hanukkah with a dreidel.  
 __drench__ _v_ :four::hammer: (drenched)  
 __drenched__ _adj_  
 __drenches__ _v_  
@@ -5616,6 +5617,7 @@ __fuddy-duddy__
 __fudge<sup>1</sup>__ _n_  
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :four::hammer: _You can’t fudge this thinking._ _Fudging statistics._  
+__fugacious__ _adj_ Passing away quickly; evanescent. _Syn_ ephemeral, passing, short-lived, transitory, transient  
 __fulcrum__ _n_ :four::hammer:  
 __fulfilling__  
 __fulfillment__ _n_ :pencil2:  
@@ -7505,7 +7507,7 @@ __Jewess__
 __Jewish American__ _n_ American Jews or Jewish Americans are Americans who are Jewish, whether by religion, ethnicity, culture, or nationality. Today the Jewish community in the United States consists primarily of Ashkenazi Jews, who descend from diaspora Jewish populations of Central and Eastern Europe and comprise about 90–95% of the American Jewish population.  
 __Jewry__  
 __jibe<sup>1</sup>__ _n_ _Cato refused to respond to the jibe._  
-__jibe<sup>2</sup>__ _v_ :five::hammer: (jibes) _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
+__jibe<sup>2</sup>__ _v_ :six: (jibes) To be in accord; agree. _Syn_ correspond, match _I expected to find some discrepancies in the books, but your figures jibe with mine._ _His concept of philosophy jibes with American pragmatism._ _It jibes with what offensive coordinator Greg Roman has witnessed all season._  
 __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._  
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
@@ -9159,7 +9161,7 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __needless to say,__  
 __needlestick__ _n_ :pencil2:  
 __needy__  
-__nefarious__ _adj_ :six::hammer:  
+__nefarious__ _adj_ :seven: Evil; wicked; sinful. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._  
 __neglected__ _adj_ _I don’t feel neglected._  
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
@@ -9388,6 +9390,7 @@ __oath__ _n_ __1__ A formal promise, especially one made in a court of law. __2_
 __oatmeal__ _n_ :three::hammer:  
 __obdurate__ _adj_ Hardened against feeling; hardhearted. _Syn_ granitic, stony, flinty _The child’s misery would move even the most obdurate heart._  
 __obelus__ _n_ /OB-uh-luhs/ __1__ A sign (- or ÷) used in ancient manuscripts to indicate a spurious or doubtful word or passage. __2__ A sign (†) used to indicate reference marks. Also known as obelisk or dagger.  
+__obfuscate__ _v_ /AHB-fuh-skayt/ _When asked about the lawsuit alleging plagiarism, the singer obfuscated._  
 __obi__ _n_  
 __obit__ _n_ :three::hammer: _When Weinbaum died of cancer,_ Astounding _published an obit. So did_ Wonder.  
 __obituaries__  
@@ -10156,7 +10159,7 @@ __perpetuity__ _n_ /per-puh-TOO-uh-tee/ A state of continuing forever or for a v
 __perquisite__ _n_  
 __perry__ _n_ :astonished: Alcoholic drink made of pears, similar in taste to cider.  
 __perseverate__ _v_  
-__persnickety__ _adj_ :dart:  
+__persnickety__ _adj_ :dart::two::hammer:  
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personify__ _v_  
@@ -10546,6 +10549,7 @@ __pols__ _n_
 __poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
+__polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
 __polymath__ _n_ :five::hammer:  
 __polystyrene__  
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
@@ -11527,6 +11531,7 @@ __renowned__ _adj_ :three: Having renown; famous. _World-renowned experts._
 __rent metal__  
 __rent__ _v_ _The elkhound’s hound was rent._  
 __rents__ _n_  
+__repast__ _n_  
 __repeal<sup>1</sup>__ _n_  
 __repeal<sup>2</sup>__ _v_  
 __repealing__  
@@ -15922,7 +15927,7 @@ __woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _
 __woeful__ _adj_ :three::hammer: _Our woeful train system._  
 __woefully__ _adv_ :six::hammer: _Her hand landed woefully on her forehead._ _Most of them are woefully unproductive, and tyrannize our offices._  
 __wogs__ _n_  
-__woke__ _adj_ _slang_ Aware of the injustice of the social system in which one lives.  
+__woke__ _adj_ _slang_ :two: Aware of the injustice of the social system in which one lives.  
 __wolf__ _v_ To eat greedily or voraciously.  
 __wolfe range__  
 __woman__ _n_ /ˈwʊmən/ :mega:  
