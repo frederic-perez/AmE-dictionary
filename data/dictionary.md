@@ -154,6 +154,7 @@ __ad-lib<sup>3</sup>__ _n_ :six: (ad lib, ad libs) [:scroll: _Ad-lib_ is a short
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ _n_ :mega: /ā′də/  
 __adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
+__Adam’s apple__ _n_ :two: The slight projection at the front of the throat formed by the largest cartilage of the larynx, usually more prominent in men than in women.  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
@@ -1387,6 +1388,7 @@ __blowup bed__ _n_
 __blowzy__ _adj_ __1__ Having a coarsely ruddy and bloated appearance. __2__ Disheveled and frowzy; unkempt: _blowzy hair._  
 __BLT sandwich__ _n_ :three: Sandwich filled with slices of bacon and tomato with lettuce.  
 __blubber__ _n_  
+__bludgeon__ _n_  
 __bludgeoned__ _v_ :three::hammer:  
 __blue string__  
 __blue-blood__  
@@ -1852,6 +1854,7 @@ __burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or re
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
+__Burmese__ _adj, n_  
 __burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a carrier and is usually intended to be disposed of after use.  
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
@@ -2540,7 +2543,7 @@ __clamor__ _v_ :two: (clamoring) __1__ To make loud demands. _He clamored for ju
 __clampdown__ _n_ :six::hammer: _An immigration clampdown._  
 __clamped__ _v_  
 __clandestine__ _adj_ :two: /klænˈdɛstɪn/ Kept or done in secret, often in order to conceal an illicit or improper purpose. _Syn_ hush-hush, cloak-and-dagger, undercover, underground, hole-and-corner, hugger-mugger, secret, surreptitious _The clandestine affairs of the congressman are being investigated by the ethics committee._  
-__clang<sup>1</sup>__ _n_ :three::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._  
+__clang<sup>1</sup>__ _n_ :four::hammer: (sound) _A sharp clang sounded._ _The shout and clang of battle._  
 __clang<sup>2</sup>__ _v_  
 __clanging__ _adj_ :astonished:  
 __clank__ _v_ :three::hammer: (clanked, clanking)  
@@ -2769,6 +2772,7 @@ __come of age__
 __come to grips__  
 __come to her senses__  
 __comeback__ _n_  
+__comeliness__ _n_  
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
@@ -3865,6 +3869,7 @@ __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force
 __disciple__ _n_ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
+__discomfited__ _adj_ Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __discompose__ _v_  
@@ -5350,7 +5355,7 @@ __flushed complexion__
 __fluster__ _v_ :eight: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter<sup>1</sup>__ _v_ :eight: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _“Her arms rose, fell, and fluttered with the rhythm of the song”_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
+__flutter<sup>1</sup>__ _v_ :nine: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _“Her arms rose, fell, and fluttered with the rhythm of the song”_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
@@ -5450,6 +5455,7 @@ __foreshadow__ _v_ :two::hammer:
 __Forest Recreation Park__  
 __forestall__ _v_ :seven: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
+__forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
 __foretell__  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
@@ -8799,7 +8805,7 @@ __mischief__ _n_ :four::hammer:
 __mischievous__ _adj_ :two::mega::hammer:  
 __misconduct__  
 __misconstrued__  
-__miscreant__ _n_ :eight: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
+__miscreant__ _n_ :nine: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
 __misdemeanor__ _n_ :two::hammer:  
 __misdiagnose__ _v_ _A misdiagnosed patient._  
@@ -11522,7 +11528,7 @@ __reminiscent__
 __remit__  
 __remittance__ _n_ :two::hammer:  
 __remnants__  
-__remonstrate__ _v_ :two: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
+__remonstrate__ _v_ :three: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
@@ -13553,7 +13559,7 @@ __staunch<sup>2</sup>__ _v_ :two::hammer: _He applied pressure to staunch the fl
 __staunchest__ _adj_ :two::hammer:  
 __stave off__ _phr v_ :nine: (staved off) To keep or hold off; repel: _“For 12 years, we’ve sought to stave off this ultimate threat of disaster”._  
 __stave__ _v_  
-__staves__ _n_  
+__staves__ _n_ :two::hammer: _Iron-pointed staves._  
 __stay__ _n_ __20__ _(Law)_ The suspension of a judicial proceeding, etc. _Granted a stay of execution._  
 __stay-at-home__ _adj_ _Stay-at-home dad._  
 __staying power__  
