@@ -34,6 +34,7 @@ __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to wa
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DOY__ Day of year.  
+__Dx__ (DX) __1__ Diagnosis. _Dx: viral pneumonia._ _DX codes._ __2__ Diagnostic. _Dx tests._  
 __e.g.__ Exempli Gratia.  
 __econ__ _The econ professor._  
 __ELIA5__ Explain Like I Am 5.  
@@ -93,6 +94,7 @@ __OTT__ Over the top.
 __PB&J__  
 __PC__ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
 __PCP__ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
+__PCR__ Polymerase chain reaction.  
 __PDA__ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
 __PE__ Physical education. _There were a lot of students in there ready for a PE class._  
 __PM__ Particulate matter. Small particles in the air, containing a variety of components.  
@@ -134,5 +136,7 @@ __UNESCO__ United Nations Educational, Scientific and Cultural Organization.
 __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __VAR__ Video Assistant Referee.  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
+__w/__ _abbr_ With.  
+__w/o__ _abbr_ Without.  
 __WFH__  
 __WMO__ :three::hammer:  

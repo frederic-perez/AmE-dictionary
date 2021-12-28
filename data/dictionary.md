@@ -857,6 +857,7 @@ __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconci
 __baffles__ _n_ _Double-wall louver baffles._  
 __baffling__ _adj_ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
 __bag out__ _v_ _Why’d you bag out on me?_  
+__bag__ _v_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
 __bagman__ _n_ _Bill is a bag man for corrupt officials._  
 __bail out__ _phr v_ :six: To pay for someone’s release from jail.  
@@ -1515,6 +1516,7 @@ __boom and bust__
 __boom box__  
 __boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
 __boomer chains__  
+__boomerang effect__  
 __boon__ _n_ :nine::m: /buːn/ A thing that is helpful or beneficial. _A consistent lexicon is a great boon to the programmers who must use your code._ _The route will be a boon to many travellers._ _Syn_ blessing, godsend, bonus, good thing, benefit, help, aid, advantage, gain  
 __boondocks__ _n_ A remote and undeveloped area. _Syn_ backwoods, hinterland _I have fond memories of my childhood home, but I would never trade city life to go back to the boondocks._  
 __boondoggle__ _n informal_ :four::hammer: (boondoggles)  
@@ -1859,6 +1861,7 @@ __Burmese__ _adj, n_
 __burner phone__ _n_ A prepaid cell phone that is not bound to a contract with a carrier and is usually intended to be disposed of after use.  
 __burner__ _n_ (gas cooktop) :camera:  
 __burning glass__  
+__Burning Man__ _n_  
 __burnish__ _v_ :six::hammer: (burnishing)  
 __burnoose__ _n_  
 __burp__ _v_ :three::hammer: (burped) _He burped loudly and said, “What? Better out than in!”_  
@@ -2241,7 +2244,7 @@ __cause célèbre__ _n_ Any controversy that attracts great public attention.
 __causeway__ _n_ :five::hammer:  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
-__cavalry__  
+__cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
 __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._ _The FAA caved._ _Syn_ Collapse, fall in, give, give way, crumble  
 __caveat emptor__  
 __caveat__ _n_ :two::hammer:  
@@ -2875,6 +2878,7 @@ __concomitant__ _adj_ :six::hammer:
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concourse__ _n_ :five::hammer:  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
+__concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
 __concussive__  
 __condemn__ _v_ :mute:[condem~~n~~]  
@@ -2972,7 +2976,7 @@ __contextualize__ _v_ :dart::four:
 __contiguous > the contiguous U.S.__  
 __continence__ _n_ :two::hammer:  
 __contingency plan__ _n_ :two::hammer:  
-__contingency__ _n_ :six::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
+__contingency__ _n_ :seven::hammer: (contingencies) _Contingency plan._ _The contingency response missions._  
 __contingent__ _adj_ _The University of Illinois conducts criminal background checks on all job candidates upon acceptance of a contingent offer._  
 __continual__ _adj_ :two::hammer: _For most systems, change is continual._  
 __continuance__ _n_  
@@ -3316,7 +3320,7 @@ __crush<sup>1</sup>__ _v_ _I was crushed._
 __crush<sup>2</sup>__ _n_  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :five::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
-__crux__ _n_ :four: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
+__crux__ _n_ :five: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
 __crwth__ _n_ :pencil2::astonished: An ancient Celtic stringed instrument that is plucked or bowed.  
 __cry foul__ _v_ :three: To protest against something that has happened. _But alcohol-safety groups cry foul, saying alcohol makers take credit where it isn’t due._  
 __crybaby__ _n_ :dart::three: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
@@ -3453,6 +3457,7 @@ __damnify__ _v_ To cause loss or damage to (a person); injure.
 __damning__ _adj_ :four::astonished: Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
 __damp__ _adj_ _Damp, dirty labor._  
 __dampen__ _v_  
+__damper__ _n_  
 __damping__ _adj_ :three::hammer: _Damping systems._  
 __dampness__  
 __damsel__ _n_ _The damsel in distress Snow White in 1937._  
@@ -4520,7 +4525,7 @@ __embitterment__
 __embodiment__  
 __embody__ _v_  
 __embolden__ _v_ :two::hammer:  
-__embolic__ _adj_ __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
+__embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
@@ -7120,7 +7125,7 @@ __impression__ _n_ :two::hammer:
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
-__impromptu__ _adj_ :two::hammer: _Some things are impromptu._  
+__impromptu__ _adj_ :three::hammer: _Some things are impromptu._ _The impromptu duet._  
 __improvidence__  
 __improvident__ _adj_  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
@@ -7496,6 +7501,7 @@ __jelly doughnuts__
 __jelly glass__  
 __jelly mold__ _n_ A mold for forming jelly in ornamental shapes.  
 __jelly__ _n_ __5__ A jellyfish. :es: medusa  
+__Jenga__ _n_ (trademark) [:scroll: From the Swahili verb -jenga (“to construct, to build”)] __1__ A game where players take turns to remove wooden blocks from a stack formed brickwise, the loser being the player whose actions cause the tower to fall. __2__ (figuratively) Any activity that involves great precision with a risk of great failure.  
 __jeopardize__ _v_ :two: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jerboa__ _n_ (jerboas)  
@@ -9337,7 +9343,7 @@ __nose-thumbing__ _n_ :camera: The placing of thumb to nose in derision or conte
 __nosebleed__ _n_ :two::hammer: (nosebleeds)  
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
-__nostalgia__  
+__nostalgia__ _n_ :two::hammer:  
 __nostrum__ _n_ :three::astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
@@ -10182,6 +10188,7 @@ __persnickety__ _adj_ :dart::two::hammer:
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
 __personify__ _v_  
+__perspicacious__ _adj_ Having keen mental perception and understanding; discerning. :es: perspicaz  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
 __perspiration__  
 __pert__ _adj_ :two::hammer:  
@@ -10222,6 +10229,7 @@ __phase out__
 __phenom__ _n_ :three: _slang_ A phenomenon, especially a remarkable or outstanding person.  
 __phenomena__ _pl n_  
 __phenomenological__ _adj_ Of, relating to, or based on observed or observable facts.  
+__phenotype__ _n_  
 __phials__ _n_ _Several glass phials of dirty white meth crystals._  
 __philanderer__  
 __philandering__  
@@ -10416,6 +10424,7 @@ __plaintive__ _adj_ :five: Plaintive is an adjective for describing someone or s
 __plaintively__ _adv_ :three:  
 __plaiting__ _n_ _Tshanyi earns money plaiting hair._  
 __plan B__ _n_ (capital B) An alternative strategy. _It’s time I put plan B into action._  
+__Plan B__ _n_ A brand name of levonorgestrel, an emergency contraception drug.  
 __plane tree__ _n_ :two: Any of several trees of the genus _Platanus_, having ball-shaped fruit clusters and, usually, outer bark that flakes off in patches. _It was a place full of plane trees._  
 __plangent__  
 __plank__ _n_ :two::hammer: (planks) _In his Wall Street Journal interview, Trump added a new plank: bringing the nation together._ _Anti-austerity planks._  
@@ -15202,6 +15211,7 @@ __up__ _v_ :two::hammer: _It just ups the ante in the game._ _We need to up our 
 __up-and-comer__  
 __up-tempo__ _adj_ _Up-tempo kind of game._  
 __upbeat__ _adj_ :five: __1__ Marked by cheerfulness or optimism. _Syn_ cheerful, positive, optimistic, promising, encouraging, looking up, hopeful, favourable, rosy, buoyant, heartening, cheery, forward-looking _Neil’s colleagues say he was actually in a joking, upbeat mood._ _An upbeat business forecast._ _An upbeat approach._ _He’s extremely upbeat during down times._ __2__ Happy; cheerful.  
+__upchuck__ _v_ _You know, Freddo, Frank Borman was upchucking most of the way to the moon on_ Apollo 8.  
 __upcoming__  
 __upcycle__ _v_ To recycle a disposable product into an object of greater value or use.  
 __updraft__ _n_ The movement upward of air or other gas.  
