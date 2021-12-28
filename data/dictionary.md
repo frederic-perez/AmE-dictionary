@@ -1497,7 +1497,7 @@ __Book of Hours__
 __book of matches__ _n_ :dart::two::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __book<sup>1</sup>__ _n_ _According to the book._  
 __book<sup>2</sup>__ _v_ _I’ll book us a table._  
-__bookcases__ _n_ :two::hammer:  
+__bookcase__ _n_ :three: (bookcases) A piece of furniture with shelves for holding books. :es: librería, estantería  
 __bookend__ _n_  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
@@ -1509,7 +1509,7 @@ __bookmarker__ _n_
 __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile lending library.  
 __bookplate__  
 __bookrunner__  
-__bookshop__ _n_ A bookstore.  
+__bookshop__ _n_ :two: A bookstore.  
 __bookstall__ _n_  
 __bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
@@ -3750,6 +3750,7 @@ __detractor__
 __detrimental__  
 __detritus__ _n_  
 __devastate__ _v_  
+__devastated__ _adj_ Very shocked and upset by something.  
 __develop__ _v_ :mega:  
 __development__ _n_ :three: A district that has been developed to serve some purpose; _“such land is practical for small park developments.”_ _Choose your home from 8 new developments across London._  
 __deviancy__  
@@ -3909,7 +3910,7 @@ __disgruntlement__
 __disguise__ _n, v_ :mute:[disg~~u~~ise]  
 __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 points and dished out four assists._  
 __dish up__ _v_  
-__disheartened__ _adj_  
+__disheartened__ _adj_ :dart::two: Disappointed about something and having less confidence or less hope about it than before.  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
 __disheveled__ _adj_ :four: (dishevelled) In disarray; extremely disorderly.  
 __dishing__ _v_  
@@ -4106,6 +4107,7 @@ __double bill__
 __double crossing__  
 __double dip__  
 __double down__ _v_ :nine::m: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
+__double glazing__ _n_  
 __double step__ _v_  
 __double take__ _n_ :two::hammer:  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
@@ -7408,8 +7410,10 @@ __irk__ _v_ _What irks you?_
 __irksome__  
 __iron out__ _v_ :two::hammer:  
 __iron trellis__  
-__iron__ _v_ :mega: (ironing)  
+__iron<sup>1</sup>__ _n_ :mega::dart:  
+__iron<sup>2</sup>__ _v_ :mega: (ironing)  
 __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
+__ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical endurance.  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __irrigate__ _v_ :dart:  
@@ -8540,6 +8544,7 @@ __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:
 __martyrdom__ _n_ :three::hammer:  
 __marzipan__ _n_ :two::hammer: :es: mazapán  
 __masago__ _n_  
+__mascara__ _n_ :astonished: A cosmetic applied to thicken, lengthen, and usually darken the eyelashes. :es: rímel  
 __mascot__ _n_ :two::hammer: (vs pet)  
 __mash<sup>1</sup>__ _v_ :two: When you mash something, you crush it. You might, for example, mash a marshmallow by stepping on it. _Mashed potatoes._  
 __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; used in brewing. _Cheddar mash._ _We’ll drink some mash and talk some trash._ _His mash notes._  
@@ -9973,6 +9978,7 @@ __party poppers__
 __party__ _n_  
 __partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
 __parvenu__ _n_ :three: (parvenus) A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
+__Pascal’s wager__ _n_ An argument according to which belief in God is rational whether or not God exists, since falsely believing that God exists leads to no harm whereas correctly believing that God exists may lead to an eternal reward.  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
@@ -12892,7 +12898,7 @@ __slick<sup>3</sup>__ _adj_ :nine::m: __1__ Deft of skilful. _They were slick as
 __slicker__  
 __slickness__  
 __slide rule__ _n_  
-__slide<sup>1</sup>__ _n_ :two::hammer: _A slide in the euro from yesterday’s highs._ _An evacuation slide was activated during a flight Wednesday._  
+__slide<sup>1</sup>__ _n_ :three::hammer: _A slide in the euro from yesterday’s highs._ _An evacuation slide was activated during a flight Wednesday._ :es: tobogán  
 __slide<sup>2</sup>__ _v_ :five: (slid) _His glasses often slid down his nose._ __3a__ To decrease: _Prices slid in morning trading._ __b__ To become less favorable or less desirable: _Economic conditions have begun to slide._  
 __slider__ _n_ :four::hammer: _What’s up with someone’s slider?_  
 __sliders__ _n_ (food)  
