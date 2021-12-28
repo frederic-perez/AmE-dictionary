@@ -12,6 +12,7 @@ __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something u
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
 __, so why (even) bother?__  
 __, to say the least.__  
+__’tis__ _contraction_ Contraction of _it is_.  
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
@@ -1535,7 +1536,7 @@ __bordello__
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
-__boredom__  
+__boredom__ _n_ :two::hammer:  
 __borne__ _v_ :five::hammer:  
 __borough__ _n_ :mute:[borou~~gh~~]  
 __bosom__ _n_ :two::hammer:  
@@ -2436,7 +2437,7 @@ __chit-chat__ _n_ An informal conversation about things that are not important.
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
-__chive__ _n_  
+__chive__ _n_ :two::hammer: :es: cebollino, cebolleta  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlorophyll__ _n_ :three::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
@@ -4640,7 +4641,7 @@ __envelop__ _v_
 __enviable__  
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __environs__ _n pl_  
-__envisage__ _v_ :two: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
+__envisage__ _v_ :three: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :four::hammer:  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
@@ -6439,7 +6440,7 @@ __hardy__
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
-__harissa__ _n_ :two::hammer:  
+__harissa__ _n_ :three: A spicy North African sauce made from chili peppers, garlic, cumin, and other seasonings.  
 __hark__ _v_ :two::hammer: (harking)  
 __harlot__ _n_ _old-fashioned, disparaging_ A woman prostitute.  
 __harmonize__ _v_  
@@ -7426,7 +7427,7 @@ __itinerant__ _adj_
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __IUD__  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
-__ivy__ _n_ :four::hammer: :es: hiedra  
+__ivy__ _n_ :five::hammer: :es: hiedra  
 __J-strokes__  
 __jab<sup>1</sup>__ _n_ :six: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection. _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
@@ -8585,6 +8586,7 @@ __maxim__ _n_ :es: máxima
 __Mayan<sup>1</sup>__ _adj_ :mega:  
 __Mayan<sup>2</sup>__ _n_ :mega:  
 __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you might experience at an overcrowded rock concert or a day-after-Thanksgiving sale. _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._  
+__mayo__ _n_ _informal_ /ˈmeɪ oʊ/ Mayonnaise.  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
 __MC__  
@@ -9126,6 +9128,7 @@ __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._
 __nape__ _n_  
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
+__narcissism__ _n_  
 __narcissistic__ _adj_ :two::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__  
@@ -9381,6 +9384,7 @@ __nunchucks__
 __nurse<sup>1</sup>__ _n_  
 __nurse<sup>2</sup>__ _v tr_ :three::hammer:  
 __nurse<sup>3</sup>__ _v intr_ __1__ To serve as a nurse. __2a__ To take milk from the breast or teat; suckle: _The baby is nursing._ _Puppies nurse for a few weeks._ __b__ To feed an offspring from the breast or teat: _a mother who’s nursing; what to feed cows when they’re nursing._  
+__nursery rhyme__ _n_ A short, rhymed poem or tale for children.  
 __nursery__ _n_ :two: The word nurse is a clue to the meaning of nursery: nurses take care of people, and a nursery is a place of caretaking. One kind of nursery is for babies: it’s a child’s room with a crib and lots of baby toys. The other kind of nursery is for plants: this type of nursery usually has glass walls and a roof, plus everything plants need to be healthy. Nurseries keep plants or babies safe so they can grow. __1__ A child’s room for a baby. _Nursery room._ __2__ A building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions.  
 __nursing home__ _n_  
 __nurturance__ _n_ The providing of loving care and attention.  
@@ -9578,6 +9582,7 @@ __operetta__ _n_ :pencil2:
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
+__opinionated__ _adj_ Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opposition__ _n_ :mega:  
@@ -9748,6 +9753,7 @@ __overreach__ _v_
 __overripe__ _adj_ :two::hammer::camera: Too ripe; more than ripe. _An overripe banana._ _An overripe eggplant._  
 __overseas__  
 __oversee__ _v_ :five::hammer: _Oversee compliance._  
+__overseer__ _n_ _I’ve been targeted by the LinkedIn overseers._  
 __overshadow__ _v_ :two: (overshadowed) To render insignificant or less important in comparison.  
 __oversight__ _n_ :four::hammer: _An oversight board._ _Oversight committee._ _The oversight of risk leads to financial shortfall._  
 __overstating__ _v_  
@@ -10249,6 +10255,7 @@ __pick and roll__
 __pick me out__  
 __pick up__ _v_ :four::hammer: _You could use it when picking up cards at the supermarket’s kiosk._ _His turnover-prone play doesn’t pick up._  
 __pick__ _v_ :two::hammer: _He managed to pick the old lock with a flick knife._ _Pick your choice._  
+__pick-me-up__ _n_ __1__ Something, as a drink or snack, taken to restore one’s energy or good spirits. __2__ Any restorative.  
 __pick-six__ _n_ _Football_  
 __pick-up game__ _n_ A game, usually in basketball, that starts spontaneously by a group of random people or with friends. There aren’t any refs or officiating, and the calls are all on the players, which can get a little unfair and annoying depending on who you play with. The players pick the teams and rules.  
 __pick-up__ _n_ __6__ _informal_ A casual acquaintance, usually one made with sexual intentions. _The restaurant was little more than a pick-up joint._  
@@ -10610,7 +10617,7 @@ __porkpie hat__ _n_ :two: (pork pie hat, porkpie) A pork pie hat is one of sever
 __porkpie__ _n_ :two: A hat having a low flat crown and a flexible, narrow brim. Also called _porkpie hat_.  
 __porky__ _adj_ _derogatory_ _slang_ Fat or corpulent. _The porky swindler._  
 __porphyry__ _n_ :pencil2: Any igneous rock with crystals embedded in a finer groundmass of minerals.  
-__porpoises__ _n_  
+__porpoise__ _n_ :two: A type of blunt-nosed sea animal of the dolphin family.  
 __porridge__  
 __porringer__  
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
@@ -12099,7 +12106,7 @@ __scads__ _n_ :two: A large number of quantity. _Piles of hair extensions, scads
 __scaffold__ _n_ :mega::two::hammer:  
 __scaffolding__ _n_  
 __scale up__ _v_ _That’s the challenge of scaling up._  
-__scallions__ _n_ :three::hammer:  
+__scallion__ _n_ :four::hammer: :es: cebolleta  
 __scallop<sup>1</sup>__ _n_ :three::hammer: _A scallop-shell logo._ :es: vieira  
 __scallop<sup>2</sup>__ _v_ :camera: (scalloped)  
 __scalloped__ _adj_ Having an edge shaped like a scallop. _Scalloped robes._  
@@ -13449,6 +13456,7 @@ __squirmy__
 __squirt gun__ _n_ :two: A water pistol. _Syn_ squirter, water gun, water pistol _Super-soaker squirt guns._  
 __squishing__  
 __squishy__ _adj_  
+__sriracha__ _n_ A spicy condiment made with red chilies, sugar, salt, garlic, and vinegar.  
 __St. Bernard__  
 __stab__ _n_ :two::hammer:  
 __stable condition__  
