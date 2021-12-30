@@ -83,6 +83,7 @@ __a morning person__ Someone who is more active and alert in the early hours of 
 __a mother hen__ A person who looks out for the welfare of others, especially to a fussy, intrusive, or overprotective degree. _My dad is pretty relaxed about most things, but he can be a bit of a mother hen when it comes to who I hang out with._  
 __a motor mouth__ A person who talks incessantly or irrepressibly. _You need to quit being such a motor mouth in the classroom!_  
 __a night out__ An evening spent having an enjoyable time away from home, as in a restaurant, theater, bar, or other such locations. _I never knew how much I would miss being able to have a night out once we had kids._  
+__a piece of cake__  
 __a rolling stone gathers no moss__ People pay a price for being always on the move, in that they have no roots in a specific place.  
 __a rough patch__ A period of trouble, difficulty, or hardship.  
 __a shame__ An unfortunate situation. The term is used either in consolation or ironically. _I heard that things didn’t work out between you two—that’s a real shame._  
@@ -91,6 +92,7 @@ __a sly dog__ Someone who, through cunning, devious, or dishonest means, achieve
 __a sobering thought__ A thought or idea which is dispiriting, depressing, or traumatic.  
 __a stab at (someone or something)__  
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
+__a walk in the park__  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
@@ -313,7 +315,7 @@ __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I fel
 __boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
 __bragging rights__ The authority and freedom to boast or brag of one’s achievements that comes from having won a contest or succeeded in some way, especially against a close rival. _The game matters little to either team’s statistics, but it will ensure bragging rights for the rest of the year._  
-__brain surgery__ A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
+__brain surgery__ :two: A task requiring extreme intelligence, skill, or competence, usually used in a negative or rhetorical manner to indicate the opposite. _Just follow the directions as they’re written—it isn’t brain surgery._  
 __brainwave__ A sudden idea or moment of inspiration; a brainstorm.  
 __brass monkeys__ Very cold weather.  
 __breach of etiquette__ A violation of established social norms or expectations, especially as relates to polite society or specific professions. _In an unexpected breach of etiquette, she announced her candidacy before the governor officially resigned._  
@@ -401,6 +403,7 @@ __chafe at the bit__ To be impatient and/or eager for something to happen or ove
 __chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
+__change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
 __check off__ _Thanksgiving weekend is a great time to check off some items from your family Christmas wish lists._  
 __check out__ :two::hammer: _According to Jim, the layer’s name checked out._  
@@ -714,6 +717,7 @@ __get the axe__ To lose your job.
 __get the better of (someone or something)__ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
 __get the drift of something__ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
 __get the gist__ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
+__get the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal. _We’re just waiting to get the green light from our managers before we release the latest software update._  
 __get the knack of__ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ To promptly begin or get something started.  
@@ -900,7 +904,7 @@ __have had (one’s) chips__ To be defeated; to fail completely; to die or be ki
 __have hot pants (for someone)__  
 __have it easy__ To have or be in a particularly comfortable or relaxed position, such that makes for an easier life.  
 __have it out (with someone)__ To have an argument, verbal fight, or frank discussion (with someone), especially to settle something that has caused anger, frustration, or annoyance.  
-__have its/(one’s) day__ To be at the height of or experience success or prosperity.  
+__have its/(one’s) day__ :two: To be at the height of or experience success or prosperity. _The smartphone is really having its day it seems._  
 __have more than one string to (one’s) bow__ To have multiple viable options or alternatives available in the event that the current course of action, circumstance, opportunity, etc., does not work out. _With all this varied job experience under my belt, I have more than one string to my bow if this particular career path isn’t to my liking._  
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
@@ -923,6 +927,7 @@ __have your head in the clouds__ :two: To be separate from reality, to dream.
 __have/put skin in the game__  
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
+__head and shoulders above someone or something__  
 __head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
 __hear a pin drop, one/you could__ :two: Complete silence.  
@@ -1381,6 +1386,7 @@ __make heavy going of (something)__ To make something harder or more laborious t
 __make light of__ _Squires and servants made light of him._  
 __make like a banana and split__ _humorous slang_ To depart or leave, especially at once or in a hurry. (A pun on “to split,” a slang term meaning to leave or depart, and a “banana split,” an ice-cream-based dessert featuring a banana halved lengthwise.) _This carnival turned out to be really boring. Come on, let’s make like a banana and split!_  
 __make matters worse__ To make an already bad, unpleasant, or difficult situation even more so. (Sometimes used as an independent clause in the infinitive form: “to make matters worse.”) _I heard that Julie is being let go from her job, and to make matters worse, she hasn’t been there long enough to qualify for severance pay!_  
+__make mincemeat (out) of (someone or something)__ To decisively and severely punish or defeat someone. _If he doesn’t stop teasing me, I’m going to make mincemeat of him._ _You better practice for Sunday’s match, or your opponent will make mincemeat out of you._  
 __make no bones about something__ :two: To say clearly what you think or feel about something.  
 __make strides__ :two: To make progress towards a goal. _Medical science has made great strides in tackling infertility._ _The GOP nominee will need to make huge strides with Latino voters._  
 __make the best of a bad bargain__ To deal with and create the best possible outcome of a bad, unfortunate, or unpleasant situation or set of circumstances. _I know this data entry job isn’t what you wanted for a career, but for the time being, try and make the best of a bad bargain._  
@@ -1677,7 +1683,7 @@ __ring up__ _Ringing up sales._
 __rinse and repeat__ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
 __rise from the ashes__ To recover after a serious failure.  
 __rock the boat__ :five::hammer: _Please, don’t rock the boat._  
-__rocket science__ A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
+__rocket science__ :two: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
 __roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
@@ -1718,6 +1724,7 @@ __sell out__ :two::hammer:
 __sell someone a pup__ To swindle someone by selling them something worthless.  
 __set (someone or something) off__  
 __set (something) in cement__ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
+__set about (doing something)__ To undertake a task; to begin doing something. _After the meeting, I’ll set about writing a draft of the report._  
 __set down<sup>1</sup>__ To seat, to cause to sit.  
 __set the stage for something__ To make something likely to happen. _Family problems in childhood set the stage for unsuccessful relationships in adult life._  
 __set the table__  
@@ -1955,6 +1962,7 @@ __turn around__ To change something unsuccessful into something successful.
 __turn away__ To refuse to let someone come into a place.  
 __turn out__ __6__ _v_ To result or end up as; to be ultimately discovered or considered to be (something). _I thought the dinner turned out really well!_ _He turned out to be a liar when all was said and done._ _Turns out I never lost the ticket—it was in my pocket the whole time!_  
 __turn the tables__ To change or reverse something dramatically. _Wow, they really turned the tables on their opponents after the intermission. The score went from 0-3 to 5-3!_  
+__turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __two-way street__ _n_ An arrangement or a situation involving reciprocal obligation or mutual action.  
