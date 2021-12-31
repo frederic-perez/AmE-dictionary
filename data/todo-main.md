@@ -1,15 +1,3 @@
-__sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
-__staycation__ _n_ _This is the perfect week to take a staycation and do nothing._  
-__prizefight__ _n_  
-__sorority__ _n_ /səˈrɒrɪtɪ/ [:scroll: [C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister]] (Education) _chiefly US_ A social club or society for university women.  
-__habitus__ _n_ /HAB-i-tuhs/ __1__ The physical characteristics of a person, especially as relating to disease. __2__ The way someone of a particular social group perceives and responds to the world.  
-__edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
-__astute__ _adj_ /uh-STOOT/  
-__carte blanche__ _n_ /KART-BLAHNCH/  
-__impecunious__ _adj_ Lacking money; penniless. _Syn_ penurious  
-__insinuate__ _v_ /in-SIN-yuh-wayt/  
-__intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
-__encumber__ _v_  
 __yesternight__ _n_ Last night.  
 __wistful__ _adj_  
 __livid__ _adj_ :astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  

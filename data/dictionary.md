@@ -687,7 +687,7 @@ __astray<sup>2</sup>__ _adj_
 __astride__ _adj, adv, prep_ :four::hammer:  
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
-__astute__  
+__astute__ _adj_ :two::hammer: /uh-STOOT/  
 __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at the earliest__  
@@ -2156,7 +2156,7 @@ __carryout__ _n_ _A Chinese carryout._
 __carryover__ _n_ _A carryover vehicle._  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
-__carte blanche__  
+__carte blanche__ _n_ :two::hammer: /KART-BLAHNCH/  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
 __carton__ _n_ :three::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
@@ -4420,6 +4420,7 @@ __ectopic__ _adj_ _Ectopic pregnancy._
 __ecumenical__  
 __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly by redness, itching, and the outbreak of lesions that may discharge serous matter and become encrusted and scaly.  
 __ED prescription__  
+__edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
 __edamame__ _n_  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
@@ -4574,7 +4575,7 @@ __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
 __encroach__ _v_ :nine::m: (encroaching) __1__ To take another’s possessions or rights gradually or stealthily: _encroach on a neighbor’s land._ __2__ To advance beyond proper or former limits: _desert encroaching upon grassland._ :es: ir comiéndole el terreno a alguien, traspasar, invadir  
 __encroachment__ _n_ :six::hammer:  
-__encumber__ _v_ :two: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
+__encumber__ _v_ :three: (encumbered) __1__ To hinder or impede; make difficult; hamper: _encumbered with parcels after going shopping at Christmas; his stupidity encumbers his efforts to learn._  
 __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. _Syn_ hindrance, preventive, interference, hitch  
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end product__  
@@ -6316,6 +6317,7 @@ __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonym
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ _n_ :astonished:  
 __habituate__ _v_  
+__habitus__ _n_ /HAB-i-tuhs/ __1__ The physical characteristics of a person, especially as relating to disease. __2__ The way someone of a particular social group perceives and responds to the world.  
 __hachimaki__ _n_ :camera:  
 __hack<sup>1</sup>__ _n_ _slang_ A newspaper reporter.  
 __hack<sup>2</sup>__ _v_ :two::hammer: _Coughing and hacking while shuffling around._ _That smoke made a man cough and hack for weeks._  
@@ -7099,7 +7101,7 @@ __impeach__ _v_ :two::hammer:
 __impeachment__ _n_ :two::hammer:  
 __impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
-__impecunious__ _n_ _Syn_ penniless, indigent, penurious  
+__impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :six: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
 __impediment__  
 __impedimenta__ _n_  
@@ -7316,6 +7318,7 @@ __inscrutable__ _adj_ :three::hammer:
 __inset<sup>1</sup>__ _v_ :two::hammer:  
 __inset<sup>2</sup>__ _n_  
 __insidious__  
+__insinuate__ _v_ /in-SIN-yuh-wayt/  
 __insipid__  
 __insofar__ _adv_ :five: To such an extent (usu. fol. by _as_): _I will do the work insofar as I am able._  
 __insolation__  
@@ -7368,6 +7371,7 @@ __intertwine__
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
+__intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
 __intolerable__ _adj_  
 __intoxicating__ _adj_ :two: __1__ Producing in a person a state ranging from euphoria to stupor, usually accompanied by loss of inhibitions and control; inebriating. __2__ :dart: Stimulating, exciting, or producing great elation.  
@@ -10851,6 +10855,7 @@ __prix__ _n_ Prize. _A $40 prix fixe meal._
 __prize<sup>1</sup>__ _n_  
 __prize<sup>2</sup>__ _adj_ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
 __prize<sup>3</sup>__ _v_ (prise, prized) :three::hammer: _The deadbolt was prized out of the jamb on the door to the kitchen._ _Alien stories were prized by early readers._  
+__prizefight__ _n_  
 __prizefighter__ _n_ :three::hammer:  
 __pro bono__ _adj_ :three: Of or relating to free legal work on cases in which a defendant is unable to pay for his own defence. _Pro bono consultant._ _Some pro bono work._  
 __pro tem__ _adv_ (pro tempore) Temporarily; for the time being. _The Senate’s president pro tem._  
@@ -13213,7 +13218,7 @@ __sordid__ _adj_
 __sorehead__ _n_ _slang_ One who is easily offended, annoyed, or angered.  
 __sorely__ _adv_ :three::hammer:  
 __sorghum__  
-__sorority__ _n_ :two::hammer: _A member of Zeta Tau Alpha sorority._  
+__sorority__ _n_ :three: /səˈrɒrɪtɪ/ [:scroll: C16: from Medieval Latin _sorōritās_, from Latin _soror_ sister] (Education) _chiefly US_ A social club or society for university women. _A member of Zeta Tau Alpha sorority._  
 __sorrel__  
 __sorrow__ _v_ (sorrowed)  
 __sorrowful__ _adj_ Very sad.  
@@ -13592,6 +13597,7 @@ __stave__ _v_
 __staves__ _n_ :two::hammer: _Iron-pointed staves._  
 __stay__ _n_ __20__ _(Law)_ The suspension of a judicial proceeding, etc. _Granted a stay of execution._  
 __stay-at-home__ _adj_ _Stay-at-home dad._  
+__staycation__ _n_ _This is the perfect week to take a staycation and do nothing._  
 __staying power__  
 __stead__  
 __steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
@@ -14055,6 +14061,7 @@ __sway<sup>1</sup>__ _v_ :nine::m: (swayed, swaying) __1__ Move or cause to move
 __sway<sup>2</sup>__ _n_ :two: __1__ The act of moving from side to side with a swinging motion. __2__ Influence or control. _The mayor has a lot of sway in our town._  
 __swear jar__  
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
+__sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
 __Swede__ _n_  
 __sweeping__ _adj_  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
