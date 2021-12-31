@@ -597,6 +597,7 @@ __fall from the sky__ _This trust doesn’t fall from the sky._
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
+__false friend__ A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fan service__  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
@@ -800,7 +801,7 @@ __good gracious__ A mild exclamation of surprise, alarm, dismay, annoyance, or e
 __good job__ An informal expression of praise for having done something well. (It can also be used sarcastically to mean the opposite.)  
 __good old__ :three::dart: Used before a noun to describe a familiar person or thing with affection or approval. _Good old John: you can always count on him to help._ _I don’t need fancy shoes. I prefer good old sneakers._ _They were talking about the good old days._  
 __good omen__ A sign, either real or imagined, of good fortune or a propitious outcome.  
-__good riddance__ An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_  
+__good riddance__ :two: An expression used when one is pleased that someone or something is leaving or stopping. A shortened version of the phrase “good riddance to bad rubbish.” _Well, I didn’t want to talk to you anyway, so good riddance!_ _A lot of voters are prepared to say “good riddance” to her at the end of her term._  
 __good sport__ :three: (good sports) A person who takes a bad situation well.  
 __good-natured__ :two: Of or having a kindly, affable, beneficent, and/or obliging propensity, inclination, or personality.  
 __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immediately prior to one’s death, especially by suicide.  
@@ -839,6 +840,7 @@ __hands down__ :two::hammer: _Hands down, best episode ever._
 __hands off__ An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
+__hang one’s head__ Express shame or contrition. For example, _No need to hang your head-you’ve done the best you can._  
 __hang someone out to dry__ To abandon someone who is in trouble.  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
@@ -1120,6 +1122,7 @@ __in the works__ In progress; being completed or implemented. _We’ve got a cou
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
+__in your face__  
 __in(to) shape__ In good, robust health; strong or fit.  
 __incumbent (up)on (someone)__ Imposed or expected as an obligation, duty, or requirement on someone.  
 __inner circle__ A small, exclusive, and intimate group of like-minded people sharing a common goal, pursuit, or purpose.  
@@ -1129,6 +1132,7 @@ __intestinal fortitude__ Strong courage, conviction, or determination; gumption;
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
+__it is what it is__ The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
 __it takes a village__ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
@@ -1592,6 +1596,7 @@ __part company (with/from somebody/something)__
 __party crasher__ One who attends a party without having been invited.  
 __party pooper__ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
+__pass up__  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :two::dart: To fix something quickly so it can be used until it’s repaired properly or replaced.  
 __pay homage (to someone or something)__  
@@ -1758,6 +1763,7 @@ __sidle up (from someone or something)__ To move gradually, inconspicuously, or 
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
+__sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
 __sitting on the fence__  
@@ -1859,6 +1865,7 @@ __tapped out__ Completely exhausted or depleted (of some resource). _A: “Do yo
 __tear around__ _Her idea of taking a day off is tearing around a golf course._  
 __tell (someone or something) apart__ To be able to discern or distinguish two or more people or things that appear or seem similar. _This one is real, and this one is the counterfeit—you can tell them apart by the small holographic mark at the top corner of the genuine document._  
 __tell me about it__ (spoken) Used to say that you understand what somebody is talking about and have had the same experience: _I get so annoyed with Steve! Tell me about it. He drives me crazy._ :es: ¡Dímelo a mí!  
+__tell someone off__ To scold someone; to attack someone verbally. (This has a sense of finality about it.) _I was so mad at Bob that I told him off. By the end of the day, I had told off everyone else, too._  
 __tempest in a teapot__ Tempest in a teapot (American English), or storm in a teacup (British English), is an idiom meaning a small event that has been exaggerated out of proportion. There are also lesser known or earlier variants, such as tempest in a teacup, storm in a cream bowl, tempest in a glass of water, storm in a wash-hand basin, and storm in a glass of water.  
 __tempus fugit__ [:scroll: The phrase is Latin for “time flies.”] Time passes quickly. _I can’t believe it’s been so long since my last visit—tempus fugit!_  
 __test the water(s)__ :two::hammer: _We’re testing the waters._  
