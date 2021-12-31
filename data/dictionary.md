@@ -1021,7 +1021,7 @@ __beamish__ _adj_ :two: Smiling, as with happiness or optimism.
 __bean bag chair__  
 __bean__ _v_ _She beans him with a decanter._  
 __beanfeast__ _n_ :dart: An annual dinner party given by an employer for the employees.  
-__beanie__ _n_ :camera::dart:  
+__beanie__ _n_ :two::camera::dart: (beany) __1__ A snug, knitted, brimless cap that usually covers the ears. __2__ A small brimless cap.  
 __beanpole__  
 __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
@@ -2057,7 +2057,7 @@ __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; 
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
 __candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
-__candy cane__ _n_ (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
+__candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __candy corn__ _n_  
 __cane brakes__  
 __canebrake__ _n_  
@@ -4744,6 +4744,7 @@ __evangelist__ _n_ Someone who is very enthusiastic about something and likes to
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent near the western horizon shortly after sunset. _The evening star was out and the moon rising._  
+__eventual__ _adj_  
 __evergreen__ _adj_  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
@@ -5171,6 +5172,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  
+__fireplug__ _n_  
 __firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
 __firm__ _n_ :dart::mega: /fûrm/  
@@ -6176,7 +6178,8 @@ __groggy__ _adj_ :two: Stunned or confused and slow to react (as from blows or d
 __grok__ _v_ To understand profoundly and intuitively.  
 __groomed__  
 __groomers__  
-__groove__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
+__groove<sup>1</sup>__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
+__groove<sup>2</sup>__ _v_ _The Wall-E toy dances and grooves to your music._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
@@ -6783,7 +6786,7 @@ __holistic__ _adj_ :eight: __1__ Based on the idea that you should take care of 
 __holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To complain. _What was he hollering about?_  
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
-__holly__ _n_ :es: acebo  
+__holly__ _n_ :two::astonished::pencil2: Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
 __Holy Ghost__ _n_ :two::hammer:  
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
@@ -9525,9 +9528,10 @@ __olericulture__ _n_ The cultivation of vegetables for the home or market.
 __oligarch__ _n_ :two::hammer:  
 __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
+__omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelets__  
 __omen__ _n_ :five::hammer:  
-__omicron__ _n_ /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ The 15th letter of the Greek alphabet (Ο, ο).  
+__omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
 __omission__  
@@ -9858,7 +9862,7 @@ __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
-__pamper__ _v_ :five::hammer: (pampered)  
+__pamper__ _v_ :six::hammer: (pampered)  
 __pampered__ _adj_  
 __pamphlet__ _n_  
 __pampling__  
@@ -9957,7 +9961,7 @@ __parry__ _v_ :dart::four: __1__ To ward off (something, such as a weapon or blo
 __parse__ _v_  
 __parsimonious__ _adj_ :three: __1__ Exhibiting or marked by thrift or economy; especially: frugal to the point of stinginess. Excessively unwilling to spend. _Syn_ stingy, penurious _I had to sue my parsimonious landlord for not giving me enough heat this winter._ __2__ Sparing, restrained.  
 __parsimony__ _n_ :three::hammer:  
-__parsley__  
+__parsley__ _n_ :two::hammer: :es: perejil  
 __parsnip__  
 __parson__ _n_ __1__ An Anglican cleric with full legal control of a parish under ecclesiastical law; a rector. __2__ A member of the clergy, especially a Protestant minister.  
 __parsonage__ _n_ :two::pencil2::hammer:  
@@ -9987,7 +9991,7 @@ __passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel 
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __pastiche__ _n_ :three::hammer:  
-__pastime__ _n_ :four::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: Sailing is her favorite pastime.  
+__pastime__ _n_ :five::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
 __pastoral__ _adj_ _A pastoral letter._  
 __pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
@@ -12218,6 +12222,7 @@ __Scouser__ _n_ A native or resident of Liverpool, England. _Syn_ Liverpudlian
 __scout out__ _v_ To examine a place or area in order to get information about it.  
 __scowl<sup>1</sup>__ _n_  
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
+__scrabble__ _n_ /ˈskræbəl/  
 __scram__ _v_ _We better scram._  
 __scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
@@ -12387,6 +12392,7 @@ __senile__
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
 __sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _adj_ _Sensitive questions._  
+__sensitivity__ _n_ The ability of a test to correctly identify patients with a disease.  
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
@@ -13282,6 +13288,7 @@ __specie__ _n_ :astonished: Coin money, as distinguished from bullion or paper m
 __species__ _n_ _It is a protected species._  
 __specific__ _n_ :two::hammer: _A few specifics._ _Ther were wome real specifics._  
 __specifically__  
+__specificity__ _n_ The ability of a test to correctly identify people without the disease.  
 __specifics__ _n_ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
 __specious__ _adj_ :three::hammer: _Specious argument._  
@@ -13645,6 +13652,7 @@ __sticker price__
 __sticker shock__  
 __stickers__  
 __stickler__ _n_ :three::hammer:  
+__stickpin__ _n_ An ornamental pin especially for a necktie.  
 __sticky-fingered__ _adj_ /STIK-ee fing-guhrd/ Given to stealing.  
 __stiff<sup>1</sup>__ _adj_ :six::hammer: _Correa had a stiff challenge from shortstop Lindor._ _Working stiffs._ _Stiff political oposition._ _A stiff drink._ _Amazon faces stiff competition from Spotify._ _Stiff criticism._  
 __stiff<sup>2</sup>__ _v_ :two::hammer: (stiffing) _Trump is known for stiffing people he owes._ _Jay was stiffing his partners._  
