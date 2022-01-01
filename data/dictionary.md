@@ -238,6 +238,7 @@ __afters__ _n informal_ :two: Dessert.
 __afterward__ _adv_ :two::hammer:  
 __Agamemnon__ _n_ A legendary king of Mycenae, the son of Atreus and brother of Menelaus, who led the Greeks in the Trojan War and was murdered by his wife Clytemnestra.  
 __agape__ _adj, adv_ __1__ With the mouth wide open, as in wonder. __2__ Wide open. _He stood there with his mouth agape._  
+__agathism__ _n_ /A-guh-thiz-uhm/ [:scroll: From Greek agathos (good), which also gave us agathokakological and the name Agatha.] The doctrine that, in the end, all things tend toward good.  
 __agave__ _n_  
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
@@ -2522,6 +2523,7 @@ __circumlocution__ _n_
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumsphere__  
+__cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
@@ -3746,7 +3748,7 @@ __detergent<sup>2</sup__ _adj_
 __deterrence__ _n_ :two::hammer:  
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
-__detractor__  
+__detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
 __detrimental__  
 __detritus__ _n_  
 __devastate__ _v_  
@@ -7592,6 +7594,7 @@ __jowl__ _n_ The flesh of the lower cheeks or lower jaw, especially when plump o
 __jowls__ _pl n_ :four::hammer::camera:  
 __jowly__ _adj_ :two: (of a person) Having fat cheeks which hang down towards the jaw. _The jowly lawyer._  
 __joyride__ _n_  
+__jubilate__ _v_ :dart: /JOO-buh-layt/ Jubilate means “to feel joy or great delight.” It is an old-fashioned synonym of _rejoice_ that still brings a smile to those who encounter it. _Supporters of the mayoral candidate jubilated when his victory was officially announced._  
 __jubilation__ _n_  
 __jubilee__ _n_ :three: [:scroll: Comes from Hebrew yobhel, “ram’s horn,” which was used as a trumpet to proclaim the jubilee, a year of emancipation and restoration (every 50 years).] __2__ A special anniversary, esp. a 25th or 50th one. __5__ (in the Roman Catholic Church) __a__ (Also called jubilee year) An appointed year or other period, ordinarily every 25 years, in which a plenary indulgence is granted upon repentance and the performance of certain acts. __b__ the plenary indulgence granted.  
 __judgment__ _n_ :three::pencil2::hammer: _Legal judgments._  
@@ -8185,7 +8188,7 @@ __liverwurst__
 __livery driver__  
 __livery__ _n_ :two::astonished: __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
-__livid__  
+__livid__ _adj_ :two::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
 __living wills__  
 __lizard brain__ _n_ :two::hammer: (lizard brains)  
@@ -10079,7 +10082,7 @@ __peculation__ _n_ _Jean was imprisoned for peculation._
 __peculator__ _n_ _Two inveterate peculators._  
 __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._  
 __pedagogue__ _n_ :mega:  
-__pedantic__ _adj_  
+__pedantic__ _adj_ :two: Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
 __pedestrian__ _n_ :five::hammer: (pedestrians)  
 __pedestrianized__ _v_  
@@ -11158,7 +11161,7 @@ __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder),
 __quench__ _n_ :two::hammer:  
 __quenched__ _v_  
 __quenches__ _v_  
-__querulous__ _adj_ :five::hammer:  
+__querulous__ _adj_ :dart::six: Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
 __query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
 __questioner__ _n_  
@@ -12336,6 +12339,7 @@ __secure__ _v_ _Go online now to secure your seat._
 __security__ _n_ :mega:  
 __sedan chair__ _n_  
 __sedative__ _n_ _Not the strongest sedative._  
+__sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
@@ -15958,7 +15962,7 @@ __wisk__ _v_
 __wisp__ _n_ :eight::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  
 __wisteria__ _n_ :two::hammer: _(Plants)_  
-__wistful__ _adj_ :four::dart::hammer:  
+__wistful__ _adj_ :five::dart::hammer:  
 __wistfully__ _adv_ :three::hammer: _She gazed wistfully at the boathouse._  
 __wistfulness__  
 __wit__ _n_ :three::hammer: _He had regained his wits._ _He was at wit’s end._  
@@ -16143,6 +16147,7 @@ __yellow__ _adj_ _slang_ A coward.
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
 __yeoman__ _n_ :four::hammer:  
+__yesternight__ _n_ Last night.  
 __yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
 __yew tree__ _n_ :two::hammer:  
