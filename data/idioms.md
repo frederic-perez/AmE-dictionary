@@ -20,6 +20,7 @@ __(one’s) hands are full__ Someone is too busy or has too much going on to be 
 __(one’s) heart’s desire__ Something one very much wants or needs. _After my six-month tour in Iraq, my heart’s desire is just to see my husband again._  
 __(one’s) jollies__ _slang_ One’s amusement, enjoyment, or pleasure. Often used in reference to some degree of perverse satisfaction. Used especially in the phrase “get one’s jollies.” _The restless teenagers got their jollies by throwing rocks at passing cars._  
 __(one’s) lucky day__ A particular day or moment in one’s life when one experiences extremely good luck, fortune, or favor. _Wow, that’s the third hand of poker I’ve won in a row—it must be my lucky day!_  
+__(one’s) moment in the sun__ A brief period of time in which one is or has been particularly successful, popular, famous, etc., especially when set against an otherwise moderate or unremarkable life. _After 35 years in this one-horse town, all I want is a moment in the sun, a time when the whole world knows and loves me!_  
 __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
@@ -206,6 +207,7 @@ __barnburner__ :three: Any thing, event, or occasion that is especially exciting
 __barrel of laugh__ :two: Someone who is very funny.  
 __barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __bat an eye__ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn’t even bat an eye when I told her I was moving out._  
+__batten down the hatches__ To prepare for a challenging situation. While this originated as a nautical phrase, it is now used for any sort of imminent problem. _There’s a tornado coming—batten down the hatches!_  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (as) easy as one-two-three__ To be extremely easy, simple, or intuitive; to require very little skill or effort. (Sometimes used with the numbers spelled out (“one-two-three”) or written numerically (“123” or “1-2-3”).) _After so many years as an accountant, doing taxes is as easy as one-two-three for me._  
 __be (just) good friends__ A phrase used to emphasize that two people are not in a romantic relationship. _Oh, he’s not my boyfriend—we’re just good friends._  
@@ -1297,9 +1299,11 @@ __like a chicken with the pip__ In low spirits; in a weak or sickened state or m
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
 __like pulling teeth__  
+__like rats abandoning a sinking ship__ With great haste and having only personal wellbeing in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
 __like two peas in a pod__ Very similar.  
 __like water off a duck’s back__ Without any apparent effect.  
+__likely story__ An exclamation of distrust or disbelief in someone’s explanation or story. _Albert: “Sorry I’m late. My car broke down half way here!” Sarah: “Yeah, likely story! I bet you just wanted to finish watching the football game on TV.”_  
 __liken (someone or something) to (someone or something else)__ To represent or describe someone or something as being very similar to someone or something else. _People keep likening him to Ronald Reagan for his particular political positions._ _Mark faked his death and likened himself to a werewolf to intimidate an investor._  
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __lion’s share__ :two: The greatest or best part.  
@@ -1440,10 +1444,11 @@ __mix apples and oranges__ To combine or compare two different things.
 __mixed emotions__ Positive and negative emotions that are experienced simultaneously and are often in conflict with one another. _I’ve got mixed emotions about starting college this fall: on the one hand, I can’t wait to start the next chapter in my education, but, on the other, I will be so sad leaving my friends and family behind._  
 __mixed signal__ :two: A signal, message, or communication that has, or is interpreted as having, multiple, ambiguous, or contradictory meanings. (Often plural.) _I keep getting these mixed signals from my ex-girlfriend. I can’t tell if she just wants to be friends, or if she’s interested in getting back together._  
 __money doesn’t grow on trees__ Money should not be wasted because it is not something that can be replenished whenever one wants.  
-__money laundering__ The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally.  
-__money pit__ :two: A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
+__money laundering__ :two: The act of engaging in transactions designed to obscure the origin of money, especially money that has been obtained illegally. The criminal act or practice of processing large amounts of money obtained through illegitimate or illegal means, often in small increments through banks or other legitimate businesses, so as to conceal its source or origins. _One of the clubs downtown was shut down last week on charges of suspected money laundering for a local criminal enterprise._  
+__money pit__ :three: A business, possession, or other financial commitment that requires or consumes an increasingly large amount of money, especially more than was first anticipated. _I bought this restaurant because of its prime downtown location, but with all the repairs and the huge amount of staff needed to run it, it’s proven to be quite a money pit._  
 __money talks__ Rich people can get what they want.  
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
+__mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
 __moral compass__ :three: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics. _Our country’s moral compass has surely gone awry in recent times, as our priorities seem now to favor the wealthy accumulating more wealth at the expense of any other concern._  
 __more often than not__ :two: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
@@ -1571,6 +1576,7 @@ __once in a blue moom__ Very rarely.
 __one hell of__ _You are one hell of a navy wife._  
 __one too many__ _We drank one too many._  
 __one way or another__ _If I fail then it will cost me my head one way or another._  
+__one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
 __one’s other half__ :two::hammer:  
@@ -1798,6 +1804,7 @@ __something is rotten in the state of Denmark__
 __something or other__ Something unspecified; one thing or another. _A messenger came by and dropped off something or other at the front desk._  
 __sort it out__ :three: __2__ _Fig._ To study a problem and figure it out. _I can’t sort this out without some more time. Let’s sort out this mess and settle it once and for all._  
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
+__sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
@@ -1904,6 +1911,7 @@ __the lion’s share__ :two: Major share of something.
 __the march of time__ The steady, unstoppable advancement of time. _Some people despair at the march of time, as they see themselves aging in the mirror, but I relish growing older and seeing the world change._  
 __the meat of the matter__ The most important, basic, or fundamental essence or element(s) of an issue, problem, or matter at hand. _Thank you all for attending this staff meeting. Before we get to the meat of the matter, I’d like to assure each of you that your jobs are secure._  
 __the mind’s ear__ The imaginative capability to create or recall sound within one’s mind; the part of the mind that experiences imagined or recalled sound. (An allusion to the “mind’s eye,” which is likewise responsible for mental imagery.) _I can still hear in my mind’s ear the sweet laughter of my daughter when she was a child._  
+__the moon on a stick__ Anything and everything that one desires or can imagine wanting (i.e., above and beyond what would be normal or appropriate). _Jim was so smitten with his co-worker that he’d probably try to get her the moon on a stick if she asked for it._ _Jonathan always wants the moon on a stick when it comes to relationships._  
 __the moral high ground__ A position of moral authority or superiority that one’s arguments, beliefs, ideas, etc., are claimed or purported to occupy, especially in comparison to a differing viewpoint. (Used especially in the phrase “take/claim/seize/etc. the moral high ground.”) _The senator always tries to claim the moral high ground during a debate so as to shift public opinion in his favor._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
