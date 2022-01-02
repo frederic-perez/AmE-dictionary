@@ -465,6 +465,7 @@ __anniversary__ _adj, n_ :pencil2::mega:
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
 __annuity__ _n_ :four::hammer: (annuities)  
 __annum__ _n_  
+__annus horribilis__ _n_  
 __anodized__ _v_ :two::hammer:  
 __anodyne<sup>1</sup>__ _adj_  
 __anodyne<sup>2</sup>__ _n_ :two: __1__ A medicine used to relieve pain. _Syn_ analgesic, pain pill, painkiller __2__ Anything that alleviates mental distress.  
@@ -591,6 +592,7 @@ __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, 
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _n_ _The pope is an Argentine._  
+__argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
 __arguably__ _adv_ :two::hammer:  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
@@ -728,7 +730,7 @@ __attract__ _v_
 __attribute noun__ _n_ (noun adjunct) In grammar, a noun adjunct or attributive noun or noun (pre)modifier is an optional noun that modifies another noun; it is a noun functioning as a pre-modifier in a noun phrase. For example, in the phrase “chicken soup” the noun adjunct “chicken” modifies the noun “soup.”  
 __attrite<sup>1</sup>__ _adj_ Regretting one’s wrongdoing only because of the fear of punishment.  
 __attrite<sup>2</sup>__ _v tr, v intr_ (attrit) /uh-TRIT/ __1__ To wear down, erode, or weaken through sustained attacks, friction, etc. __2__ To reduce the size of a workforce by not replacing those who leave. __3__ To drop out from a course of study, job, training, etc.  
-__attrition__ _n_ :six::hammer:  
+__attrition__ _n_ :seven: Erosion by friction. _Syn_ corrasion, detrition, abrasion _The attrition of the stone stairway had occurred by centuries of foot traffic._  
 __attuned__ _adj_ :two: Familiar with something and able to deal with it in a sensitive way.  
 __atwitter__ _adj_ Being in a state of nervous excitement; twittering: _a crowd atwitter with expectation._  
 __atypical__ _adj_ :three::hammer: _Atypical atrial flutter._  
@@ -3545,6 +3547,7 @@ __debunk__ _v_ :two::hammer:
 __deburr__ _v_  
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
+__decadence__ _n_ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
@@ -4705,6 +4708,7 @@ __escalation__ _n_ :two::hammer:
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
+__eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
 __Eskimo__ _n_ :two::mega:  
@@ -7683,6 +7687,7 @@ __kennel__ _n_ :two::hammer:
 __keno__ _n_  
 __kerchief__ _n_  
 __kerfuffle__ _n_ :two: (kerkuffles) _informal_ _chiefly Brit_ A disturbance or commotion typically caused by a dispute or conflict. _In all the kerfuffle, nobody seemed to have noticed Harry, which suited him perfectly._  
+__kersey__ _n_  
 __keseboy__  
 __kettledrum__ _n_ :es: timbal  
 __keyboarding__ _n_ The work of inputting information using a keyboard.  
@@ -8427,6 +8432,7 @@ __maître d’__ _n_ :three: /may-truh-DEE/ A dining-room attendant who is in ch
 __major__ _v_  
 __major-domo__ _n_ (majordomo)  
 __majoring__  
+__majority leader__ _n_ The person who leads the majority party in the Senate or House of Representatives.  
 __make out__ _v_ :two::hammer:  
 __make plays__ _v_ _(football) To make plays._  
 __make rounds__  
@@ -9389,6 +9395,7 @@ __nub__ _n_ :two::hammer: _A punched nub._
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
 __nucleotide__ _n_  
+__nugatory__ _adj_  
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
 __nuke__ _v_ _slang_ :two: To heat or cook something in a microwave oven.  
@@ -11530,6 +11537,7 @@ __rejigged__ _v_
 __rejiggered__  
 __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)  
 __rejoinder__ _n_ :four: An answer, especially to a reply.  
+__rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
 __relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
@@ -14362,6 +14370,7 @@ __terrestrial<sup>1</sup>__ _adj_
 __terrestrial<sup>2</sup>__ _n_  
 __terry-cloth__ _n, adj_ :five::hammer: (terry cloth) _A blue terry-cloth pullover._ _A terry cloth belt._  
 __terse__ _adj_ :two: Brief and to the point; effectively concise.  
+__tesseract__ _n_ (Mathematics) A cube inside another cube.  
 __tester bed__ _n_ :two::hammer:  
 __testimonial__ _n_  
 __testosterone__ _n_  
@@ -16191,7 +16200,7 @@ __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a caus
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :four: A German word meaning time spirit, used to mean the spirit of the age.  
+__zeitgeist__ _n_ :five: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._  
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  
