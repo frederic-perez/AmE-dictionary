@@ -77,7 +77,7 @@ __absent-minded__ _adj_
 __absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
-__abstain__ _v_ :two::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
+__abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abstruse__ _adj_ Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__  
@@ -184,13 +184,13 @@ __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
-__adroit__ _adj_ :two::hammer:  
+__adroit__ _adj_ :three::hammer:  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
 __adulation__  
 __adulterate__ _v_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
-__advent__ _n_ :nine::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
+__advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
@@ -4357,7 +4357,7 @@ __dyad__
 __dyadic__  
 __dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
-__dynasty__ _n_ :two::pencil2::hammer:  
+__dynasty__ _n_ :three::pencil2::hammer:  
 __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysentery__ _n_ Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
@@ -5005,6 +5005,7 @@ __fauna__ _n_
 __Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as power, money, fame, etc. _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
 __faux__ _adj_ Artificial; fake: _faux pearls._ _Three faux tombstones._  
+__faux-pas__  
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
@@ -5417,7 +5418,7 @@ __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the 
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
-__foothold__ _n_ :three::hammer: _A foothold._  
+__foothold__ _n_ :four::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose__ _adj_ :two::pencil2::hammer:  
@@ -6488,6 +6489,7 @@ __hatcheck girl__
 __hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
 __hatchet__ _n_ :two::hammer:  
 __hatred__ _n_  
+__hauberk__ _n_ (Arms & Armour (excluding Firearms)) A long coat of mail, often sleeveless.  
 __haughty__ _adj_ :five::hammer: _Oscar votters are as haughty as the critics._ _Haughty manners._  
 __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotland Yard._ _It’s a small haul for such a high-profile program._  
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
@@ -7260,7 +7262,7 @@ __infinitessimal<sup>1</sup>__ _adj_ __1__ Immeasurably or incalculably minute. 
 __infinitessimal<sup>2</sup>__ _n_ __1__ An immeasurably or incalculably minute amount or quantity. __2__ (Mathematics) A function or variable continuously approaching zero as a limit.  
 __infinity pool__ _n_ :two::camera: A pool (typically a swimming pool) with an edge over which water flows to give the appearance of the water extending to the horizon. _An infinity-edge swimming pool._  
 __infirm__ _adj_ :three: __1__ Weak in body or mind, especially from old age or disease. _Syn_ debile, sapless, weakly, decrepit, feeble, rickety, weak __2__ Not strong or stable; shaky: _an infirm foundation._  
-__infirmity__ _n_ Bad health or a particular illness.  
+__infirmity__ _n_ :two::astonished: Bad health or a particular illness.  
 __inflammable__ _adj_ /in-FLAM-uh-bul/  
 __inflatable<sup>1</sup>__ _adj_  
 __inflatable<sup>2</sup>__ _n_  
@@ -7904,7 +7906,7 @@ __larder__ _n_ :four::hammer:
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
-__largesse__ _n_ :three::pencil2::hammer:  
+__largesse__ _n_ :four::pencil2::hammer:  
 __lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
@@ -11545,7 +11547,7 @@ __relief teams__
 __relief__ _n_ :three::hammer: _Iran continues to insist on instant and total relief from sanctions._ _Monetary relief._ _Stress relief._  
 __relieve__ _v_ _Dave had been relieved of his duties._  
 __reliever__  
-__relinquish__ _v_ :eight: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
+__relinquish__ _v_ :nine: If you relinquish something, you let it go. You relinquish control of the army when you resign as general. You relinquish your plan to sneak into town when your parents find out what’s going on. _To relinquish the throne._  
 __reliquary__ _n_ :two::hammer:  
 __relish<sup>1</sup>__ _n_ :four: __1__ Great enjoyment. _Syn_ enjoy, delight in, love, like, adore, be pleased by _Harvey seems to relish fame._ __2__ A condiment eaten with plain food to add flavor. _Aunts were canning peaches and zucchini relish._  
 __relish<sup>2</sup>__ _v_ :five: __1__ Enjoy greatly. __2__ _archaic_ Make pleasant to the taste; add relish to.  
@@ -15100,7 +15102,7 @@ __undercard__ _n_ :two::hammer: _Undercard debates._
 __undercurrent__  
 __undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
-__underfoot__ _adv_ _They were reluctant to recognize crisis until it was underfoot._  
+__underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
