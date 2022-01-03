@@ -708,6 +708,7 @@ __atolls__ _n_
 __atone__ _v_ :three::hammer: (atoned)  
 __atonement__ _n_  
 __atop__  
+__atraumatic__ _adj_ Without injury.  
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
 __atrocity__  
@@ -894,7 +895,7 @@ __ballcap__ _n_ A baseball cap.
 __ballet__ _n_ :mute:[balle~~t~~]  
 __ballistic__  
 __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the art of balloon animals._ _Balloon-lined car dealership._  
-__ballot__ _n_ _A lot of guys who did steroids are on the ballot._  
+__ballot__ _n_ :two::hammer: _A lot of guys who did steroids are on the ballot._ _Over half of general practices in England would quit primary care networks, indicative ballot shows._  
 __ballpark<sup>1</sup>__ _n_ :two::hammer:  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
 __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
@@ -3588,6 +3589,7 @@ __deduct__ _n_ _If they fall from the balance beam, a full point is deducted._
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
+__deem__ _v_  
 __deep cut__ _n_ :four: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep freezers__  
 __deep pockets__  
@@ -4516,6 +4518,7 @@ __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/
 __elucidate__ _v_ :two::hammer:  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
+__elute__ _v_ _The future of drug-eluting stents._  
 __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: _Elysian peace._ Of such surpassing excellence as to suggest divine inspiration: _An elysian meal._  
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
@@ -7321,6 +7324,7 @@ __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
 __inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
+__inquiry__ _n_  
 __inquisitive__ _adj_  
 __inquisitiveness__  
 __inroad__ _n_  
@@ -8259,6 +8263,7 @@ __loner__ _n_ Someone who likes being alone.
 __long haul__ _n_ _She’s in for the long haul._  
 __long shot__  
 __long__ _adv_ :dart::three::hammer::astonished: _Human rights activists have long complained._ _Critics have long attacked Mr. Obama._ _Anthony has long said that he intends to opt out of his current deal._  
+__long-haul__ _adj_ _Researchers examined a small group of long-haul COVID-19 patients._  
 __long-hauler__ _n_ A long-hauler is a person who suffers from symptoms of COVID-19 for longer than two weeks, and generally for several months. The experience of such persistent symptoms of COVID-19 are sometimes referred to as long COVID.  
 __longan__ _n_ __1__ The small, one-seeded, greenish brown fruit of a large evergreen tree, Euphoria longana, of the soapberry family, native to China and related to the litchi. __2__ The tree itself.  
 __longanimity__ _n_ A disposition to bear injuries patiently. _Syn_ forbearance _The fans continue to show their longanimity by coming back year after year to cheer on the perpetually losing team._  
@@ -8833,7 +8838,7 @@ __mirthful__
 __misadventure__ _n_ An instance of misfortune.  
 __misanthropic__ _adj_ Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
-__miscarriage__ _n_  
+__miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
 __miscegenation__  
 __miscellaneous__ _adj_ :mute:[mis~~c~~ellaneous]  
@@ -9656,6 +9661,7 @@ __ornament__
 __ornate__ _adj_ :six::hammer: _The ornate front entrance._  
 __orneriness__ _n_ :two: Mean-spirited disagreeable contrariness.  
 __ornery__ _adj_ :three::hammer:  
+__orofacial__ _adj_ Relating to the mouth and face.  
 __orographic cloud__ _n_ :two: A cloud whose form and extent is determined by the disturbing effects of orography upon the passing flow of air; because these clouds are linked with the form of the terrestrial relief, they generally move very slowly, if at all, although the winds at the same level may be very strong.  
 __orography__ _n_ The study of the physical geography of mountains and mountain ranges.  
 __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the intelligence; beyond ordinary understanding. _Syn_ occult, mysterious, mystical, secret _The orphic symbols on the tome could only be deciphered by the blind wizard._  
@@ -13543,6 +13549,7 @@ __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.
 __stalk<sup>1</sup>__ _n_  
 __stalk<sup>2</sup>__ _v_ :three::hammer: (stalked) _Scarcity was stalking France._  
 __stalking-horse__ _n_ Something serving to conceal plans; a fictitious reason that is concocted in order to conceal the real reason. _Syn_ pretext _Steve said he needed a book from the library, but that was just a stalking-horse to talk to the girl who worked behind the counter._  
+__stall__ _v_  
 __stallion__  
 __stalward__  
 __stalwart<sup>1</sup>__ _adj_ :nine::m: Loyal, reliable, and hard-working. _He remained a stalwart supporter of the cause._ _Syn_ staunch, loyal, faithful, committed, devoted, dedicated, dependable, reliable, steady  
@@ -13724,7 +13731,7 @@ __stock-in-trade__ _n_ (stock in trade)
 __stockholder__ _n_ :astonished: Someone who owns stocks (=equal parts into which a company’s money is divided) in a company. The British word is shareholder.  
 __stocking-stuffers__  
 __stockist__ _n_ :two::hammer:  
-__stockpile<sup>1</sup>__ _n_ :three: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
+__stockpile<sup>1</sup>__ _n_ :four: A large collection of things that may be needed. Something kept back or saved for future use or a special purpose. _Syn_ reserve, backlog _Over the years, Gina has amassed quite a stockpile of office supplies from her job._  
 __stockpile<sup>2</sup>__ _v_ :three: To collect large amounts of things that may be needed.  
 __stocks__ _n_ __1__ A device consisting of a heavy timber frame with holes for confining the ankles and sometimes the wrists, formerly used for punishment. _They joined in bands to rescue a fellow peasant from the stocks._  
 __stodgiest__  
@@ -15000,7 +15007,7 @@ __turnaround__ _n_ :two::hammer:
 __turndown__ _n_ The act of refusing an offer.  
 __turnip greens__  
 __turnip__ _n_ :three::hammer:  
-__turnkey__ _adj_ :three::hammer: _Turnkey property._  
+__turnkey__ _adj_ :four::hammer: _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
 __turnover__ _n_ :five: __1__ The amount of money taken by a business in a particular period. _Syn_ (gross) revenue, income, yield _The small retailers made more than 50 percent of their turnover from selling cigarettes._ :es: facturación, volumen de ventas __2__ _football_ In American football, the two events that are officially classified as “turnovers” are fumbles (accidental physical loss of a live ball a player has possession of) or interceptions (passes intended for a member of the passing team, but caught by a member of the opposing team).  
