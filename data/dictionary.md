@@ -1129,7 +1129,7 @@ __belt socket__ _n_
 __belt__ _n_ A swallow or a gulp of an alcoholic drink.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __beltway__ _n_ :dart:  
-__belvedere__ _n_  
+__belvedere__ _n_ :two::hammer: _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ (bemused)  
@@ -1161,7 +1161,7 @@ __berm__ _n_ :two::hammer:
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
 __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
-__beseech__ _v_ :six: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
+__beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
 __beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
@@ -2697,6 +2697,7 @@ __cocoon<sup>1</sup>__ _n_
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
+__codicil__ _n_  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __codpiece__ _n_  
 __coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
@@ -3449,7 +3450,7 @@ __dainty__ _adj_ _Dainty eyebrows._
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
-__dally__ _v_ :four::hammer: (dallied, dallying)  
+__dally__ _v_ :five::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __damask__ _n_  
@@ -3708,7 +3709,7 @@ __derange__ _v_
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
-__dereliction__  
+__dereliction__ _n_ :two::hammer:  
 __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
 __derision__  
 __derogative__ _adj_  
@@ -3739,7 +3740,7 @@ __despondency__
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
-__destitute__ _adj_ :five::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente _Destitute peasants._  
+__destitute__ _adj_ :six::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
@@ -5073,7 +5074,7 @@ __ferreting out__ _v_
 __fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
-__fester<sup>2</sup>__ _v_ :seven::hammer: (festered, festering) :es: ulcerarse _VA’s challenges will only fester if they are kept shrouded in secrecy._  
+__fester<sup>2</sup>__ _v_ :eight::hammer: (festered, festering) :es: ulcerarse _VA’s challenges will only fester if they are kept shrouded in secrecy._  
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
 __festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
@@ -7077,7 +7078,7 @@ __ill-fated__ _adj_
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
-__illustrious__ _adj_ :four::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
+__illustrious__ _adj_ :five::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
@@ -10966,6 +10967,7 @@ __protective sheath__ _n_ :camera: _Discarded used hypodermic needles lie togeth
 __protégé__ _n_ :three: One whose welfare, training, or career is promoted by an influential person.  
 __protestation__  
 __protract__ _v_ :three: (protracted) Lengthen in time; cause to be or last longer. _Syn_ prolong, draw out, extend _Wisputants who needlessly protracted the negotiations._  
+__protracted__ _adj_ Extended or lengthened in time; prolonged: _a protracted legal battle._ _The king’s health required protracted stops._  
 __prove<sup>1</sup>__ _v tr_  
 __prove<sup>2</sup>__ _v intr_ To be shown to be such; turn out: a theory that proved impractical in practice; _a schedule that proved to be too demanding._ _His first story proved immensely popular._  
 __provenance__  
@@ -11315,7 +11317,7 @@ __rapacious__ _adj_ :two: Never satisfied until you have taken everything that y
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
-__rapine__  
+__rapine__ _n_ :two: The violent seizure and carrying off of another’s property; plunder.  
 __rapping__ _v_  
 __rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
 __rapprochement__ _n_ :three::hammer:  
@@ -13819,7 +13821,7 @@ __stretch__ _n_ :two::hammer: _We worked for stretches of 6 or 8 hours._ _He was
 __stretch<sup>1</sup>__ _n_ :three::hammer: _An interesting stretch run in the NFC._ _Second-half stretch._  
 __stretch<sup>2</sup>__ _v_ :pencil2: _But then the release cycles began to stretch._  
 __strew__ _v_ :nine::m: (strewed, strewn or strewed) When you strew something, you scatter it all over the place. At a wedding, for example, the flower child’s job is to strew the path with petals. _Strewing the streets with flowers._  
-__stricken__ _adj_ :six::hammer: _Stricken people._  
+__stricken__ _adj_ :seven::hammer: _Stricken people._  
 __stricture__ _n_ :three::hammer: _The strictures on women’s behavior were easing._  
 __stride__ _n_ :dart: __4__ (often strides) A step of progress; an advance: _making great strides in their studies._ _He made great strides during his presidency._  
 __stridence__ _n_ :two::hammer:  
@@ -15339,7 +15341,7 @@ __vagrant<sup>2</sup>__ _adj_ :two::hammer:
 __vague__ _adj_ :mute:[vag~~u~~e]  
 __vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
-__vainglory__ _n_  
+__vainglory__ _n_ :two::hammer:  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
