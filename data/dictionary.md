@@ -1164,7 +1164,7 @@ __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :seven::hammer: _Chelsea are beset with uncertainty._  
+__beset__ _v_ :eight::hammer: _Chelsea are beset with uncertainty._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
@@ -1404,6 +1404,7 @@ __bluegrass__
 __blueprint__ _n_ :seven::hammer: (blueprints)  
 __bluff<sup>1</sup>__ _v_ :three::hammer: (bluffing)  
 __bluff<sup>2</sup>__ _n_ :three::hammer:  
+__bluff<sup>3</sup>__ _adj_ __1__ Good-naturedly frank and hearty. __2__ (Physical Geography) (of a bank, cliff, etc) Presenting a steep broad face.  
 __blunder<sup>1</sup>__ _n_ _I’ve made a lot of computer blunders over de years._  
 __blunder<sup>2</sup>__ _v_ __1__ To make a mistake in; botch: _would-be thieves blundering a break-in._ __2__ To move clumsily or haltingly. __3__ To utter (something) stupidly or thoughtlessly.  
 __blunt<sup>1</sup>__ _adj_ :five: A blunt object is rounded — it isn’t very pointy. A blunt comment is candid — it isn’t very subtle. When we blunt things we make them less lively, sharp, or intense. Blunt and blunder (“make a stupid mistake”) may have the same origins — the Old Norse blundra, meaning “to shut one’s eyes.” So don’t be blunt (“dull” or “obtuse”) — here are a few things you probably don’t want to do: (1) use a blunt (“dull”) knife to cut your tomatoes; (2) make a blunt (“outspoken”) comment that might hurt someone’s feelings; or (3) blunt (“deaden”) the sound of your favorite music by sticking cotton balls in your ears. _A really blunt tool._  
@@ -3220,7 +3221,7 @@ __creaky__ _adj_ _Creaky infrastructure._
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _v_ :two::hammer:  
 __cred__ _n informal_ :six: (creds) Short for credibility: _street cred._  
-__credence__ _n_ :four::hammer:  
+__credence__ _n_ :six::hammer:  
 __credenza__ _n_  
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
@@ -4130,7 +4131,7 @@ __doubtless__ _adj, adv_ :two::hammer:
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
 __douchebag__ _n phr_ _informal_ :two: (douche bag) An obnoxious or contemptible person, typically a man. :es: gilipollas  
 __dough__ _n_ :two::mute:[dou~~gh~~] __2__ _slang_ Money.  
-__dour__ _adj_ :five: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
+__dour__ _adj_ :six: Relentlessly severe, stern, or gloomy in manner or appearance. _A hard, dour, humourless fanatic._ _Hong Kong in dour mood as Chinese leader makes return visit._ _Syn_ stern, unsmiling, unfriendly, frowning, poker-faced  
 __dourly__  
 __douse__ _v_ :three::hammer: _The Nationals are dousing the District of Columbia with new hope._ _They were dousing fire after fire._  
 __dove__ _v_  
@@ -4603,6 +4604,7 @@ __endurance__ _n_ _Endurance race._
 __endure__ _v_ Last for a long time.  
 __enduring__ _v_  
 __enervate__ _v_ To weaken.  
+__enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ _I’m engaged with my work._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
@@ -5159,7 +5161,7 @@ __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for
 __fine print__  
 __fine-tune__ _v_  
 __finery__ _n_ :two: Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
-__finesse<sup>1</sup>__ _n_  
+__finesse<sup>1</sup>__ _n_ :two::hammer:  
 __finesse<sup>2</sup>__ _v_  
 __finger food__ _n_ Food intended to be eaten with the fingers.  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
@@ -5505,7 +5507,7 @@ __fort__ _n_ A fortified place or position stationed with troops.
 __forte<sup>1</sup>__ _n_ :five::mega: Something in which a person excels. _Laundering money was his forte._  
 __forte<sup>2</sup>__ _adv_ In a loud, forceful manner. Used chiefly as a direction.  
 __forthcoming__  
-__forthright__ _adj_ :three: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
+__forthright__ _adj_ :four::dart: Saying what you think and feel directly and honestly, without being afraid of other people’s reactions. Direct and without evasion; straightforward: _a forthright appraisal; forthright criticism._ _Syn_ frank  
 __fortified wine__  
 __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, encourage, confirm, cheer, strengthen, reassure, brace, stiffen, hearten, embolden, invigorate _Prayer fortified the congregants during their crisis._  
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
@@ -6262,6 +6264,7 @@ __guitar case__ _n_ :camera:
 __guitar__ _n_ :mute:[g~~u~~itar]  
 __Gulag__ _n_ :two::hammer:  
 __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
+__gull__ _v_ _They feared being gulled._  
 __gullibility__  
 __gullible__ _adj_ :seven: Naive and easily deceived or tricked.  
 __gullies__  
@@ -8668,7 +8671,7 @@ __megalomanic__ _adj_ Suffering from megalomania.
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
 __melancholy<sup>1</sup>__ _n_  
-__melancholy<sup>2</sup>__ _adj_ _A melancholy man._  
+__melancholy<sup>2</sup>__ _adj_ :two::astonished::hammer: _A melancholy man._  
 __mélange__ _n_  
 __meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
@@ -9937,6 +9940,7 @@ __parakeet__ _n_ :mega: :es: periquito
 __paralysis__ _n_ :mega:  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __paramount__ _adj_ :two::hammer: _The reliability of the weather station is paramount._  
+__paramour__ _n_  
 __paranoid__ _adj_  
 __parapet wall__ _n_ That part of a wall which is entirely above the roof.  
 __parapet__ _n_ :two::hammer:  
@@ -11138,7 +11142,7 @@ __Q-tips__ _n_ :three::hammer:
 __Q.E.D.__  
 __Q&A__ _n_ _The gathering will feature question-and-answer sessions._  
 __qua__ _prep_ In the capacity or character of; as: _The president qua head of the party mediated the dispute._  
-__quack__ _n_ :six: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. __2__ A charlatan; a mountebank. _Partisan quacks._  
+__quack__ _n_ :seven: __2__ An untrained person who pretends to be a physician and dispenses medical advice and treatment. Incompetent doctor. _Other quacks and remedies of all kinds were tried to no avail._ __2__ A charlatan; a mountebank. _Partisan quacks._  
 __quadrennial__  
 __quadroons__  
 __quaff__ _v_ :two: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
