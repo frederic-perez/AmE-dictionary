@@ -1,12 +1,3 @@
-__emerald__ _n_  
-__ply__ _v_  
-__midst__ _n_ _In the midst of this show._  
-__flat out__ _adv_ _informal_ _She flat out told me about it._  
-__henchwoman__ _n_  
-__weathered__ _adj_  
-__foe__ _n_  
-__gimmick__  
-__suped-up__ _adj_ Of a motor vehicle modified for higher performance, applied by extension to other items.  
 __deep cut__  
 __ferocious__ _adj_  
 __banister__ _n_  

@@ -4542,7 +4542,7 @@ __embroil__ _v_ (embroiled)
 __embryo__  
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
-__emerald__ _n_ :three::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
+__emerald__ _n_ :four::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
@@ -5261,7 +5261,7 @@ __flash-flood__
 __flash-forward__ _n_ The insertion of a later event into the chronological structure of a novel, motion picture, play, etc. _Syn_ analepsis  
 __flashback__  
 __flashlight__ _n_  
-__flat out__  
+__flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
@@ -5388,6 +5388,7 @@ __fob__ _n_ :two::hammer:
 __focal fibrosis__  
 __focus__ _n_ :mega:  
 __fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
+__foe__ _n_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :six: A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  
 __foil<sup>1</sup>__ _n_ :four::hammer: _He lost in the round of 32 in individual foil._ _Blister packs are pre-formed plastic/paper/foil packaging used for formed solid drugs._  
@@ -5888,7 +5889,7 @@ __giggle<sup>2</sup>__ _n_
 __gills__ _n_ __1__ The paired respiratory organ of fish and some amphibians, by which oxygen is extracted from water flowing over surfaces within or attached to the walls of the pharynx. :es: branquias __2__ The vertical plates arranged radially on the underside of mushrooms and many toadstools.  
 __gilt-framed__  
 __gimbal__ _n_ _A sensor on a pivoting gimbal._  
-__gimmick__ _n_ :two::hammer: (gimmicks) _No “get in the door” gimmicks._  
+__gimmick__ _n_ :three::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
 __gin rummy__ _n_ _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
@@ -6641,6 +6642,7 @@ __hemodynamic__ _adj_
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchwoman__ _n_  
 __henna__  
 __Henrietta Lacks__ _n_  
 __Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
@@ -8755,7 +8757,7 @@ __middling__ _adj_ :two: __1__ Of medium size, position, or quality. __2__ Medio
 __midget__ _n_ __1__ _Offensive_ An extremely small person who is otherwise normally proportioned. __2__ A small or miniature version of something. __3__ A class of small objects, as a class of very small sailboats or racing cars. _They both raced midgets with plans to go open-wheel racing._  
 __midriff__ _n_ :three::hammer:  
 __midsize__  
-__midst__  
+__midst__ _n_ :two::hammer: _In the midst of this show._  
 __midswing__  
 __midway__  
 __midwife__ _n_ :three::pencil2: Nurse trained to assist women in childbirth.  
@@ -10545,7 +10547,7 @@ __plurale tantum__ _n_ :dart: A plurale tantum (Latin for “plural only”) is 
 __plus__ _adj, conj, n_  
 __plush__ _adj_ :six: Things that are plush are luxurious and a little over the top. A bedspread made of mink fur would be considered plush. Plush originally referred to a rich, soft type of fabric, and it’s now used to describe anything extravagant. A plush lifestyle is one only the wealthy can afford, with expensive restaurants, obedient servants, and fancy furniture. A plush living room is full of paintings and decorations. Someone who dresses in a plush way only buys the finest, most expensive clothing. Plush living is lavish living.  
 __plutocracy__ _n_ Government by the wealthy.  
-__ply__ _v_ :nine: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
+__ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
 __pneumonia__ _n_ :mute:[~~p~~neumonia]  
@@ -13988,6 +13990,7 @@ __sunset<sup>1</sup>__ _n_
 __sunset<sup>2</sup>__ _v_ _30-Day Notice: Sunsetting Old Portfolio._  
 __suntan__ _n_  
 __sunup__ _n_  
+__suped-up__ _adj_ Of a motor vehicle modified for higher performance, applied by extension to other items.  
 __super-duper__ _adj_ :five: (super duper) _informal_ Extremely pleasing, impressive, etc: often used as an exclamation. _Super-duper crisp chicken wings._ _We’ve got super-duper telescopes._  
 __superb__ _adj_  
 __superbly__  
@@ -15701,6 +15704,7 @@ __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of th
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__  
 __weather__ _v_ :two::hammer: (weathering)  
+__weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
 __webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
