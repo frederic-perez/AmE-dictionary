@@ -5472,7 +5472,7 @@ __forerunner__ _n_ :two::hammer:
 __foreseeable__  
 __foreshadow__ _v_ :two::hammer:  
 __Forest Recreation Park__  
-__forestall__ _v_ :seven: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
+__forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
 __foretell__  
@@ -6027,7 +6027,7 @@ __good for you__
 __Good Friday__  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
-__goodly__ _adj_ :two: Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._  
+__goodly__ _adj_ :three: __1__ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._ __2__ Of fine appearance. _Goodly castles._  
 __goody-goody__ _adj, n_ _Goody-goody expressions._  
 __Goodyear, Charles__  
 __gooey__ _adj_ :five: __1__ Sticky, soft, and often sweet. _Gooey butter cake._ __2__ Oversweet and sentimental.  
@@ -8194,7 +8194,7 @@ __live wire__
 __livelihood__ _n_ :dart::three: (livelihoods) Occupation or employment.  
 __liverwurst__  
 __livery driver__  
-__livery__ _n_ :two::astonished: __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
+__livery__ _n_ :three::astonished: (liveries) __1__ The identifying uniform, badge, etc, of a member of a guild or one of the servants of a feudal lord. __4a__ The boarding and care of horses for a fee. _Six servants in livery._  
 __livestock__ _n_  
 __livid__ _adj_ :two::astonished: /LIV-id/ Livid means “very angry, enraged, or furious.” _The child’s parents were livid when they discovered she had lied about her whereabouts._  
 __living quarters__ _n_ _Precatious makeshoft living quarters._  
@@ -8368,7 +8368,7 @@ __lurch<sup>1</sup>__ _v_ :nine: (lurched, lurching) __1__ Qalk as if unable to 
 __lurch<sup>2</sup>__ _n_  
 __lure<sup>1</sup>__ _n_ :two::hammer: _Casting a lure in a long arc out over the dimpled stillness of the pond’s surface._  
 __lure<sup>2</sup>__ _v_ (lured)  
-__lurid__ _adj_ :four::hammer:  
+__lurid__ _adj_ :five::hammer: _A lurid career._  
 __lurk__ _v_ :nine::m: /ləːk/ (lurked, lurking) __1__ Be or remain hidden so as to wait in ambush for someone or something. _A ruthless killer still lurked in the darkness._ __2__ _informal_ Read the postings in an Internet forum without actively contributing.  
 __lush<sup>1</sup>__ _adj_ :nine: __1__ _(of vegetation)_ Abounding in lavish growth. _A lush green jungle._ _Lush wetlands._ __2__ _(esp of fruits)_ Succulent and fleshy __3__ Luxurious, elaborate, or opulent __4__ _slang_ Very attractive or pleasing.  
 __lush<sup>2</sup>__ _n_ _slang_ :two: A person who drinks alcohol habitually or excessively; a drunkard.  
@@ -8420,7 +8420,8 @@ __magpie__ _n_ :es: urraca
 __magpied__ _v_  
 __magpies__  
 __mahogany__ _n_ :five::hammer: _Polished mahogany banisters._ _He took a leather seat at a magohany bar._  
-__maiden__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
+__maiden<sup>1</sup>__ _n_  
+__maiden<sup>2</sup>__ _adj_ :two: __4__ Done for the first time. _A maiden flight._  
 __mail vest__ _n_ _The man wore a mail vest and greaves._  
 __mail__ _n_ :three::hammer: _When we go into battle, the elephant wears his own mail._ _Some elephants were laden with bundles of war mail._ _Elephants covered in mail._  
 __mailed__ _adj_ :pencil2: __1__ Covered with or made of plates of mail: _a mailed sleeve._ __2__ Having a hard covering of scales, spines, or horny plate, as an armadillo or a lobster.  
@@ -10079,7 +10080,7 @@ __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M
 __pear martinis__  
 __pearl onions__  
 __peasant__ _n_  
-__peat__ _n_ :three::hammer: _Battling the blazes in peat swamp forests._ :es: turba  
+__peat__ _n_ :four::hammer: _Battling the blazes in peat swamp forests._ _The huts were filled with peat smoke._ :es: turba  
 __pecan__ _n_ :two::hammer: _Pecan pie._  
 __peccadillo__ _n_ :three: _(pl. peccadilloes or peccadillos)_ :pencil2::astonished: A small sin or fault. A petty misdeed. _Syn_ indiscretion _I have stayed with my husband for the sake of our children, but I can tolerate his frequent peccadilloes no longer._  
 __peccant__  
@@ -11420,7 +11421,7 @@ __rebus__ _n_ A puzzle in which one must decode a message consisting of pictures
 __rebut__ _v_  
 __rebuttal__ _n_  
 __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader._  
-__recalcitrant__ _adj_ :three: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
+__recalcitrant__ _adj_ :four: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
 __recant__ _v_ :three::hammer: (recanted)  
@@ -12171,6 +12172,7 @@ __scarlet__ _n_ :two: (vs _Scarlett_) A strong to vivid red or reddish orange.
 __Scarlett__ _n_ (vs _scarlet_) A female given name transferred from the surname; in general use since 1936. Scarlett is the female name that has originated from the colour scarlet.  
 __scarper__ _n_ A hasty departure.  
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
+__scatheless__ _adj_ _A remarkably scatheless record._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
 __scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
@@ -12211,11 +12213,11 @@ __scimitar__ _n_ :three::hammer:
 __scintilla__ _n_  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
-__scion__ _n_ :three::hammer:  
+__scion__ _n_ :four::hammer:  
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
-__scoff__ _v_ :eight: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :nine: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
@@ -14552,7 +14554,7 @@ __tiki torches__ _n_ :camera:
 __tiki<sup>1</sup>__ _adj_ :two::hammer: _Tiki sensibility._  
 __tiki<sup>2</sup>__ _n_  
 __tilapia__  
-__tiller__ _n_ :two: One that tills land: _a tiller of soil._  
+__tiller__ _n_ :three: One that tills land: _a tiller of soil._  
 __tiltyard__  
 __timbrology__ _n_ /tim-BROL-uh-jee/ [:scroll: From French timbre (stamp) + -logy (study).] The collecting or study of postage stamps and related matter.  
 __time capsule__ _n_ :five::hammer:  
@@ -15610,6 +15612,7 @@ __wanderlust__ _n_ Very strong or irresistible impulse to travel. _Syn_ itchy fe
 __wane__ _v_ :six::hammer: (waning) _The waning hours._ _Protection from two doses of vaccine wanes within six months._ _Covid-19 vaccination: evidence of waning immunity is overstated._  
 __wanker__ _n_  
 __wanly__ _adv_ _She droppedand egg on the floor and looked at it wanly._  
+__want__ _n_ _A time of deep social anger and want._  
 __wanting<sup>1</sup>__ _adj_ __1__ Absent; lacking: _What is wanting is a real understanding of the issue._ __2__ Not measuring up to standards or expectations: _found his performance wanting._  
 __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button._ __2__ Minus; less: _an hour wanting 15 minutes._  
 __wanton<sup>1</sup>__ _adj_ :eight: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
