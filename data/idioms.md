@@ -96,6 +96,7 @@ __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in 
 __a walk in the park__  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
+__a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abide by__ To conform to; comply with: _abide by the rules._  
 __above and beyond__ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
@@ -285,6 +286,7 @@ __behind our backs__ _Behind our backs they called us the Spic and the Mik._
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
 __behind the times__ Old-fashioned.  
+__belie__ _v_  
 __bell the cat__ To perform a daring act.  
 __bellies__ _n_ Pork bellies; pork belly futures. (Securities markets. Often with the.) _Buy the bellies and sell the beans._  
 __bend over backwards__ To try very hard to do something. This phrase has its origin in gymnastics and was used as early as 920 CE to compare the athletic act of bending the back to doing something difficult.  
@@ -297,6 +299,7 @@ __bite (one’s) head off__ To respond to someone with anger that is often sudde
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ _In 1945, what was left of the old Science Fiction League finally bit the dust._  
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
+__black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blood runs cold__ _informal_ To be very frightened.  
@@ -512,6 +515,7 @@ __deepfake__ :two::hammer:
 __desperate times call for desperate measures__ Extreme and undesirable circumstances or situations can only be resolved by resorting to equally extreme actions.  
 __deus ex machina__ _Leaders under fire often wait for some deus ex machina._  
 __devil is in the detail__ Small things can cause difficulties when you examine them closely enough.  
+__die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism that dies hard._  
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
 __Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
@@ -889,6 +893,7 @@ __have a gas__ To have a thoroughly entertaining, enjoyable, and/or amusing time
 __have a hankering for (something)__ To have a very strong, persistent desire or craving for something.  
 __have a heart of gold__ To be very kind and generous.  
 __have a heavy heart__ :dart: To have a dejected or miserable attitude or disposition; to be in a depressed or grievous state. _I’ve had a terribly heavy heart since my dog passed away._  
+__have a light heart__ To have a carefree, uplifted attitude; to be in a happy or gladdened state or condition. _Though it is, of course, bittersweet to leave my friends and family behind, I have a light heart because of the amazing opportunities that await me in Europe._  
 __have a look-see__ :dart: To have a very quick look or brief examination.  
 __have a lump in (one’s) throat__ To have difficulty speaking as a result of feeling that one is about to cry due to an intense emotional response to something. _Though I was excited for my daughter to start her college experience, I still had a lump in my throat saying goodbye to her at the airport._  
 __have a mind like a sieve__ To be exceptionally forgetful or absentminded. _I need to start getting more sleep at night, because lately I’ve had a mind like a sieve._  
@@ -1424,6 +1429,7 @@ __media darling__ A very famous and popular person who receives exceptionally po
 __meet (someone’s) expectations__ To be as good as or have the qualities that someone predicted, expected, or hoped for. _We’d heard so many good things about the new restaurant, but the food didn’t meet our expectations at all._  
 __meet trouble halfway__ :dart: To worry, grow anxious, or distress oneself unnecessarily over something that has yet to happen. _You can’t go through life meeting trouble halfway, or you’ll end up paralyzed with indecision and anxiety._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
+__melee__ _n_ A quarrel, fight, or disturbance marked by very noisy, disorderly, and often violent behavior. _Syn_ affray, brawl, broil, donnybrook, fray, free-for-all, riot, row, ruction, tumult  
 __memory lane__ A set or series of memories of one’s past life, likened to a roadway that one may visit or take a tour of. (Used primarily in the phrase “stroll/take a trip/walk etc. down memory lane.”) _My grandmother spends more time strolling down memory lane these days than conversing about the present._  
 __mess around__  
 __mess of pottage__ Something of little, trivial, or no value but which appears to be attractive or valuable on first reckoning. An allusion to Esau in Genesis 25:29–32, who sells to Jacob his birthright to his family’s estate for a bowl of lentil stew (pottage). _Only after the economic crash did it become fully clear what messes of pottage these sub-prime mortgages proved to be for first-time homeowners._  
@@ -1564,6 +1570,7 @@ __on the rise__
 __on the same page__ To agree on something.  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ About to be said or almost remembered.  
+__on the upswing__ Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
 __on the whole__ Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._  
 __on thin ice__ In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
@@ -1591,9 +1598,11 @@ __out of date__
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
+__out of the wood(s)__ No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
 __out of thin air__ :two: From nothing, as of something that has suddenly materialized. Appearing suddenly and unexpectedly. _The great ones create ideas out of thin air._  
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
+__out of whack__  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
 __over (one’s) head__ :three: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
 __over the course of__ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
@@ -1954,6 +1963,7 @@ __time and (time) again__ :three::dart: Repeatedly; on multiple occasions.
 __time and again__ Again and again; repeatedly.  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
+__to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
 __to be on a mission__  
 __to be on edge__ _You seem on edge._  
