@@ -16,7 +16,7 @@ __’tis__ _contraction_ Contraction of _it is_.
 __(sic)__ _adv_ :two: _Latin_ (also [sic]) When you’re writing a paper and you want to quote a source, but the source contains a misspelling or some other error, you use the word [sic] after the quote so that whoever reads your paper knows the mistake is in the original source, rather than in your own sloppy typing. It’s kind of a way of saying, “Yeah, I know this is wrong, but let’s just be clear — I didn’t do it!”  
 __101__ _adj_ (only after noun) Used to say that a piece of knowledge relating to something is very simple and basic. From the practice in US colleges of numbering courses, the initial (introductory) course normally being numbered “101.”  
 __105s__  
-__18-wheeler__ _n_ A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
+__18-wheeler__ _n_ :two: A trucking rig consisting of a tractor and a trailer and typically having eighteen wheels.  
 __20/20 vision__ _n_  
 __21__ _n_ Drinking game.  
 __35-degree day__  
@@ -116,7 +116,7 @@ __acetate__ _n_
 __achalasia__ _n_  
 __Achilles heel__ _n_ :two: A weakness or vulnerable point.  
 __Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
-__Achilles’ heel__ _n_ A seemingly small but actually crucial weakness.  
+__Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __ACK__  
 __acme__  
@@ -1692,7 +1692,7 @@ __brittle<sup>1</sup>__ _adj_ :nine::m: Something brittle is easily broken. _Do 
 __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the peanut brittle out of your mouth._  
 __broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
-__broad<sup>2</sup>__ _adj_ __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad)  
+__broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadsided__  
 __brocade__  
 __broccoli__ _n_  
@@ -4178,8 +4178,7 @@ __doze__ _v_
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
 __drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
-__Draconian__ _adj_  
-__draconian__ _adj_ :four: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
+__draconian__ _adj_ :six: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
 __draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
 __drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
@@ -4511,6 +4510,7 @@ __elfin__ _adj_
 __elicit__ _v_ :seven::hammer: (elicited)  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
+__eligible__ _adj_  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
 __elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
@@ -5561,7 +5561,7 @@ __frat house__
 __frat__ _n_ _informal_ A college fraternity. _A frat house._  
 __frats__ _n_  
 __fraudulent__ _adj_  
-__fraught__ _adj_ :nine: __1__ (of a situation or course of action) filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
+__fraught__ _adj_ :nine::m: __1__ (of a situation or course of action) Filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
 __fray<sup>1</sup>__ _n_ :three::hammer: _A bitter partisan fray._  
 __fray<sup>2</sup>__ _v_ :nine::m: (frayed) _(of a person’s nerves or temper)_ Show the effects of strain. _Syn_ strain, tax, overtax, irritate, put on edge _The alliance between the groups frayed._  
 __frayed__ _adj_ __1__ (of fabrics or clothing) Unravelling at the edges from damage or wear. _A frayed suit._ __2__ (of temper, nerves, patience, etc) under great strain. _Frayed nerves._  
@@ -9600,7 +9600,7 @@ __one-liner__ _n_ :dart: A quick joke or quip; a funny observation.
 __one-note__  
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
-__onerous__ _adj_ :four::hammer::pencil2: _Onerous task._  
+__onerous__ _adj_ :five::hammer::pencil2::astonished: _Onerous task._  
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
@@ -11282,6 +11282,7 @@ __rainbow pass__ _n_ _football_
 __rainmaker__  
 __rainout__  
 __raise eyebrows__  
+__rake__ _v_ _Rake the leaves._  
 __raked over the coals__  
 __raking__ _v_  
 __rakish__ _adj_ :five: Marked by a carefree unconventionality or disreputableness. _Syn_ devil-may-care, raffish _A black patch over one eye gave him a fearfully rakish look._  
@@ -11351,6 +11352,7 @@ __Rashomon effect__ _n_ _The Rashomon effect is invoked to indicate how witnesse
 __rasp__ _v_  
 __raspberry__ _n_ :mute:[ras~~p~~berry]  
 __raspy__  
+__rastafari__ _n_  
 __rat race__  
 __rat-fuck__ _v_  
 __ratched__  
