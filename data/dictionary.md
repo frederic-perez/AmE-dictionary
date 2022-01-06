@@ -881,7 +881,7 @@ __bald-faced__ _adj_
 __balderdash__  
 __bale<sup>1</sup>__ _n_ (bales) _He sat on a bale of prayer rugs._ _Bales of cotton._  
 __bale<sup>2</sup>__ _v_  
-__baleful__ _adj_ _Syn_ threating, menacing  
+__baleful__ _adj_ :two::hammer: _Syn_ threating, menacing  
 __baler__ _n_ An agricultural machine for making bales of hay, etc. _It required an investment of $1 million for balers, choppers, compactors, colored cans and signage._  
 __balk<sup>1</sup>__ _n_ __1__ A check or hindrance. __2__ A defeat or disappointment. __3__ A beam or rafter. __4__ A ridge; an unplowed strip of land between furrows.  
 __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesitate, or refuse to proceed. Hesitate or be unwilling to accept an idea or undertaking. _Syn_ eschew, resist _He balked at such a drastic solution._ _Cities balk as federal law on marijuana is enforced._  
@@ -7115,7 +7115,7 @@ __impale__ _v_ Pierce with a sharp stake or point. _Syn_ spike, transfix _My mot
 __impaneled__ _v_  
 __impart__ _v_  
 __impartible__  
-__impasse__ _n_ :four::pencil2: Deadlock or stalemate. _At impasse._  
+__impasse__ _n_ :six::pencil2: Deadlock or stalemate. _At impasse._  
 __impassioned__ _adj_  
 __impassively__  
 __impeach__ _v_ :two::hammer:  
@@ -7326,7 +7326,7 @@ __inobvious__
 __inordinate__ _adj_ :seven::hammer: _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
-__inpatient__ _n_ :two: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
+__inpatient__ _n_ :three: Patient at a hospital. _Radel will begin intensive inpatient treatment._  
 __inquest__ _n_ :two::hammer:  
 __inquiry__ _n_  
 __inquisitive__ _adj_  
@@ -8850,7 +8850,7 @@ __miscellany__ _n_ :mega::two: (mɪˈsɛlənɪ; US ˈmɪsəˌleɪnɪ) __1__ A mi
 __mischance__ _n_ :three: __1__ An unfortunate occurrence; a mishap. __2__ Bad luck.  
 __mischief__ _n_ :four::hammer:  
 __mischievous__ _adj_ :two::mega::hammer:  
-__misconduct__  
+__misconduct__ _n_ :two::hammer:  
 __misconstrued__  
 __miscreant__ _n_ :nine: (miscreants) A miscreant is a person who is bad––who lies, breaks the law, yells at small puppies. It’s a somewhat old-fashioned word, popular with old ladies shocked at having their purses stolen at the opera.  
 __miscue__ _n_ (miscues) :three::hammer:  
@@ -9629,7 +9629,7 @@ __operetta__ _n_ :pencil2:
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
-__opinionated__ _adj_ Holding stubbornly and often unreasonably to one’s own opinions.  
+__opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
 __opposition__ _n_ :mega:  
@@ -11618,7 +11618,7 @@ __repeal<sup>2</sup>__ _v_
 __repealing__  
 __repeat__ _n_ :two::dart::hammer: _CBS is filling this spot with a_ Big Bang _repeat today._ _It was off and running, in time to prevent a repeat of the previous year’s last-minute chaos._  
 __repeieve__  
-__repent__ _v_ :four::hammer: (repented)  
+__repent__ _v_ :five::hammer: (repented)  
 __repentance__ _n_ :three::hammer:  
 __repercussion__ _n_ :dart:  
 __repertoire__  
@@ -12683,6 +12683,7 @@ __shove off__ _v_
 __shove<sup>1</sup>__ _n_ A strong push. _She gave him a hefty shove and he nearly fell._ _Syn_ push, thrust, barge, ram  
 __shove<sup>2</sup>__ _v_ :two: Push (someone or something) roughly. _Police started pushing and shoving people down the street._ _Syn_ push, thrust, propel, impel _The armed guard shoved people aside to make way for the Duke._  
 __shovel__ _v_  
+__show jumping__ _n_ :es: concurso hípico  
 __show of hands__  
 __show off__ _v_ :two::hammer:  
 __show-off__ _n_ :two::hammer:  
@@ -12789,7 +12790,7 @@ __silverplate__ _v_
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  
-__simony__ _n_ :six: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
+__simony__ _n_ :eight: /ˈsaɪmənɪ/ (Christianity) The practice, now usually regarded as a sin, of buying or selling spiritual or Church benefits such as pardons, relics, etc, or preferments.  
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
@@ -13905,7 +13906,7 @@ __stunned__ _adj_ :six: When you’re stunned, you’re thrown for a loop: eithe
 __stunner__  
 __stunning__ _adj_ :five::hammer:  
 __stunt<sup>1</sup>__ _n_ :five::hammer: (stunts) _Singers emphasize stunts over music._  
-__stunt<sup>2</sup>__ _v_ :six:hammer: (stunted, stunting) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._ _Acidic oceans are stunting growth of coral reefs._  
+__stunt<sup>2</sup>__ _v_ :seven:hammer: (stunted, stunting) _Movement stunted during the dictatorship._ _The boys were underweight and stunted._ _Stunted grass._ _Acidic oceans are stunting growth of coral reefs._  
 __stunted__ _adj_ Inferior in size or quality.  
 __stupas__  
 __stupefy__  
@@ -15471,7 +15472,8 @@ __versatile__ _adj_ :two::hammer.
 __vertical farm__  
 __verve__ _n_ :seven::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
 __very true__  
-__very__ _adj, adv_ _We were in this very room._  
+__very<sup>1</sup>__ _adj_ :two: __4__ Used to emphasize the importance of what is specified. _For this very reason._ _We were in this very room._  
+__very<sup>2</sup>__ _adv_  
 __vesicle__ _n_ (vesicula)  
 __vespine__ _adj_  
 __vest__ _v_  
@@ -15933,6 +15935,7 @@ __willfully__
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
 __willpower__ _n_  
+__willy__ _n_ _slang_  
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __willyard__ _adj_  
 __wilt__ _v_ :nine::hammer: (wilted, wilting) _A wilting plant in the office._ _He’d wilted under it._  

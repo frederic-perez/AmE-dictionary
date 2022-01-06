@@ -1,15 +1,3 @@
-__impending__ _adj_  
-__show jumping__ _n_ :es: concurso hípico  
-__inpatient__ _n_  
-__misconduct__ _n_  
-__stunting__  
-__willy__ _n_ _slang_  
-__opinionated__ _adj_ :two::hammer:  
-__very__ _adj_ __4__ Used to emphasize the importance of what is specified. _For this very reason._  
-__baleful__  
-__impasse__ _n_ :two::hammer:  
-__simony__ _n_ :two::hammer:  
-__repent__ _v_  
 __gangrene__ _n_ :pencil2:  
 __suave__ _adj_  
 __paperwork__ _n_  
