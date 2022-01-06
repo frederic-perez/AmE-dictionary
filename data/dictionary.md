@@ -499,6 +499,7 @@ __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, di
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
+__antithetical__ _adj_ /an-tuh-THET-ih-kul/  
 __antler__ _n_  
 __antral__ _adj_ :two::hammer:  
 __antsy__ _adj_ :three: Restless, impatient.  
@@ -2110,6 +2111,7 @@ __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boa
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
+__captious__ _adj_ /KAP-shuss/  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
@@ -2279,7 +2281,7 @@ __centerpiece__
 __centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
-__cerulean<sup>1</sup>__ _adj_ :three: Of a deep somewhat purplish blue color similar to that of a clear October sky. _Ceruleaan basins and Marco Polo blue lips and splash fights._  
+__cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
 __cerulean<sup>2</sup>__ _n_ A light shade of blue.  
 __cesarean<sup>1</sup>__ _adj_  
 __cesarean<sup>2</sup>__ _n_  
@@ -6920,6 +6922,8 @@ __hotbed__ _n_ :four: A situation that is ideal for rapid development (especiall
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
+__hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
+__hotspur<sup>2</sup>__ _adj_ /HOT-spuhr/ Having a rash, hotheaded temperament.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __Houdini<sup>1</sup>__ _n_ An escape artist.  
 __Houdini<sup>2</sup>__ _v intr_ To escape.  
@@ -9864,6 +9868,7 @@ __palaver<sup>2</sup>__ _v_
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
+__palindrome__ _n_ /PAL-un-drohm/  
 __palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
 __pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
 __palladium__  
@@ -10107,7 +10112,7 @@ __pecuniary__ _adj_ :three::hammer: _Pecuniary benefits._
 __pedagogue__ _n_ :mega:  
 __pedantic__ _adj_ :two: Characterized by a narrow, often ostentatious concern for book learning and formal rules. _Syn_ donnish, academic _Pedantic and hypercritical, meddlesome and fault-finding, he was a terror to the clerks under him._  
 __peddle__ _v_ :four: (peddling) __2__ _informal_ To seek to disseminate; give out: _peddling lies._  
-__pedestrian__ _n_ :five::hammer: (pedestrians)  
+__pedestrian__ _adj_ :dart::six: (pedestrians) Lacking in vitality, imagination, or distinction. _Syn_ prosaic _His style is so pedestrian that the book is really boring._  
 __pedestrianized__ _v_  
 __pedi__  
 __pediculous__ _adj_ Infested with lice.  
@@ -10828,7 +10833,7 @@ __pretzel__ _v_ Twist, bend, or contort. _He found the snake pretzeled into a ta
 __prevail__ _v_ :two::hammer: (prevails)  
 __prevalence__ _n_ :two: The total number of cases of a disease in a given population at a specific time.  
 __prevalent__ _adj_ :two::hammer:  
-__prevaricate__ _v_ :two::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie.  
+__prevaricate__ _v_ :three::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
 __preventable__  
 __preventative__ _adj_ Another form of _preventive_. _Preventative antibiotics._  
 __prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
@@ -11489,6 +11494,7 @@ __Redeemer__ _n_
 __redemption__ _n_ :two::hammer: (redemptions)  
 __redline__ _v_  
 __redo__ _v_ :two::hammer:  
+__redolence__ _n_ A pleasingly sweet olfactory property. _Syn_ bouquet, fragrance _The moonlight and the redolence of flowers made the garden a romantic spot._  
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
 __redos__  
 __redoubt__ _n_ :two::hammer: :es: reducto  
@@ -11923,6 +11929,7 @@ __round trip__ _n_ :two::hammer: (_less commonly_ round-trip _or_ roundtrip) _A 
 __round<sup>1</sup>__ _n_ __26__ (Firearms, Gunnery, Ordnance & Artillery) A single discharge by a number of guns or a single gun. __27__ (Firearms, Gunnery, Ordnance & Artillery) A bullet, blank cartridge, or other charge of ammunition. _He pumped another round._  
 __round<sup>2</sup>__ _v_  
 __roundabout__ _n_ :two::hammer: (Children’s attraction.)  
+__rounder__ _n_ /RAUN-duhr/ __3__ [:scroll: Apparently referring to one who makes rounds of bars or downs many rounds of drinks. From Latin rotundus (round), from rota (wheel).] A drunkard, idler, or self-indulgent person.  
 __roundhouse__ _n_ _Try to roundhouse kick a bottle cap off a bottle._  
 __roundly__ _adv_ _I feel free to roundly criticize this source code._  
 __roundup__ _n_ :two::hammer: (roundups) _There were public roundups and massacres._  
@@ -13977,7 +13984,7 @@ __sulk<sup>2</sup>__ _v_ :three: (sulking) To be silent and resentful because of
 __sulky__ _adj_ :three::hammer: _Sulky-looking unshaven men._  
 __sullen__ _adj_ :two::hammer:  
 __sullenly__  
-__sully__ _v_ :four::hammer:  
+__sully__ _v_ :five::hammer: /SUL-ee/ _The money-related charges brought against the restaurant’s owner has sullied her reputation._  
 __sultanate__  
 __sultry__ _adj_ :four::hammer: _A sultry smile._  
 __summa cum laude__ _adj, adv_ [ˈsʊmɑː kʊm ˈlaʊdeɪ]  
@@ -14380,7 +14387,7 @@ __tepid__ _adj_ :five::hammer:
 __tequila poppers__  
 __tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __teriyaki__ _n_  
-__termagant__ _n_ A quarrelsome, scolding woman, especially one who is old and shrewish.  
+__termagant__ _n_ :two: A quarrelsome, scolding woman. _Syn_ shrew _His aunt was such a termagant that he dreaded her annual visit._  
 __terpsichorean<sup>1</sup>__ _adj_ Of or relating to dancing.  
 __terpsichorean<sup>2</sup>__ _n_ A dancer.  
 __terrace<sup>1</sup>__ _n_ A level shelf of land interrupting a declivity (with steep slopes above and below) :camera: _Rice terrace._  
@@ -15019,7 +15026,7 @@ __turnsole__ _n_ :pencil2:
 __turnstile__ _n_ :two::hammer:  
 __turophobia__ _n_ :astonished: An irrational or disproportionate fear of cheese.  
 __turpentine__ _n_  
-__turpitude__ _n_ :two: Behavior that is dishonest or immoral.  
+__turpitude__ _n_ :three: Behavior that is dishonest or immoral. A corrupt or depraved or degenerate act or practice. _Syn_ depravity _Seeing the various turpitudes of modern society shook her faith in humanity._  
 __turquoise__ _n_ :pencil2:  
 __turret__ _n_ :four::hammer:  
 __turtledove__ _n_ :es: tórtola  
