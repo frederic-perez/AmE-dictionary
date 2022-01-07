@@ -1239,7 +1239,7 @@ __bilk<sup>2</sup>__ _n_ __1__ A swindle or cheat. _America was the land of bilk
 __bill-file__  
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
-__billet__ _v_ :five: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
+__billet__ _v_ :six: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
 __billfold__ _n_  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ _Now, the women’s contest will take second billing._  
@@ -5434,7 +5434,7 @@ __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.
 __foothold__ _n_ :four::hammer: _A foothold._  
 __footing__ _n_ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
-__footloose__ _adj_ :two::pencil2::hammer:  
+__footloose__ _adj_ :three::pencil2::hammer: _Footloose knights._  
 __footwork__ _n_ :two::hammer:  
 __foozle__ _v_  
 __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
@@ -5737,6 +5737,7 @@ __Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Roun
 __galboy__ _n_  
 __gale__ _n_ :three: An extremely strong wind: _the gale blew down hundreds of trees._  
 __galimatias__ _n_ _rare_ Confused talk; gibberish.  
+__gall__ _v_ (galled)  
 __gallant__ _adj_  
 __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
@@ -5761,6 +5762,7 @@ __gamine__
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
+__gangrene__ _n_ :pencil2:  
 __gangway__ _n_ :four::hammer:  
 __Ganjapreneur__  
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
@@ -7073,7 +7075,7 @@ __idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no k
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idle__ _v_  
-__idolatry__ _n_ :two::hammer:  
+__idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
 __idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
 __iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
@@ -9934,7 +9936,7 @@ __paper tablecloth__ _n_ :two::hammer:
 __paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
 __paperclip__ _n_  
-__paperwork__  
+__paperwork__ _n_ :two::hammer:  
 __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, etc., used in making sculptures, boxes, ornaments, etc.  
 __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
@@ -10330,7 +10332,7 @@ __pièce de résistance__ _n_
 __piece of cake__  
 __piece__ _n_ _A piece of cake._  
 __piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
-__piecemeal<sup>2</sup>__ _adj_ :three: Accomplished or made in stages. _A piecemeal approach._  
+__piecemeal<sup>2</sup>__ _adj_ :four: Accomplished or made in stages. _A piecemeal approach._  
 __Pied Piper__ _n_ _He was to be a new Pied Piper._  
 __pied__  
 __pied-à-terre__ _n_ :two: (pieds-à-terre) A French term meaning foot on the ground, used to mean a house that the owner uses as a secondary home, such as an apartment in town. _Use as pied-à-terre is allowed._  
@@ -10922,7 +10924,7 @@ __profiteer<sup>1</sup>__ _n_
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
 __profligacy__ _n_ :two: The trait of spending extravagantly. _Syn_ prodigality, extravagance  
-__profligate<sup>1</sup>__ _adj_ :four: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
+__profligate<sup>1</sup>__ _adj_ :five: __1__ Shamelessly immoral or debauched. _Syn_ degenerate, degraded, dissipated, dissolute, libertine, riotous, fast _We both know that he has been profligate in every sense of the word; that he has neither integrity nor honor; that he is as false and deceitful as he is insinuating._ __2__ Given to or characterized by reckless waste; wildly extravagant: _a profligate spender; the profligate use of water._  
 __profligate<sup>2</sup>__ _n_ :three::hammer:  
 __profoundly__  
 __profusely__ _adv_ :two::hammer:  
@@ -11415,7 +11417,7 @@ __readily__ _adv_ :six::hammer:
 __readiness__ _n_ _Our career readiness software program._  
 __readings__ _n_  
 __readout__ _n_ :two::hammer:  
-__ready cash__ _n_ _They haven’t enough ready cash to pay the commission._  
+__ready cash__ _n_ :two: Funds for immediate use; cash. _They haven’t enough ready cash to pay the commission._  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
@@ -11443,7 +11445,7 @@ __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader.
 __recalcitrant__ _adj_ :four: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
-__recant__ _v_ :three::hammer: (recanted)  
+__recant__ _v_ :four::hammer: (recanted)  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
 __recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
@@ -13529,7 +13531,7 @@ __stab__ _n_ :two::hammer:
 __stable condition__  
 __stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
 __stadimeter__ _n_  
-__staff__ _n_ :three::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._ __5__ _Music_ A set of horizontal lines and intermediate spaces used in notation to represent a sequence of pitches, in modern notation normally consisting of five lines and four spaces. Also called _stave_. _Music staff._  
+__staff__ _n_ :four::astonished: __1__ A stick that some officials carry on formal occasions. _The shepherd’s staff._ __2__ The people who work for an organization. In American English, staff is usually followed by a singular verb: _The museum’s staff is composed of volunteers._ In British English, staff is usually followed by a plural verb: _The staff are against the idea._ __5__ _Music_ A set of horizontal lines and intermediate spaces used in notation to represent a sequence of pitches, in modern notation normally consisting of five lines and four spaces. Also called _stave_. _Music staff._  
 __staffed__ _v_  
 __staffer__ _n_ :five: A member of the staff of an organization, especially of a newspaper. _Staffers on the New York Times._  
 __stag line__ _n_  
@@ -13916,7 +13918,7 @@ __stutter__ _v_ :two::hammer:
 __style__ _v_  
 __stymie__ _v_ :nine::m: (stymieing, stymied) To present an obstacle to (somebody or something); to thwart; stand in the way of.. _Syn_ blockade, obstruct, stymy, embarrass, hinder, block  
 __Styrofoam__ _n_ :two::hammer: _A large Styrofoam cup of coffee._  
-__suave__ _adj_ :five::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
+__suave__ _adj_ :six::hammer: _The suave action-hero father was played by Antonio Banders with a pronounced Spanish accent._  
 __sub out__ _v_ _Just sub out boy-meets-girl with girl-meets-gorl._  
 __sub rosa__ _adv_ [Latin _sub rosā_, under the rose (from the practice of hanging a rose over a meeting as a symbol of confidentiality).] In secret; privately or confidentially: _held the meeting sub rosa._  
 __sub-Saharan Africa__ _n_  

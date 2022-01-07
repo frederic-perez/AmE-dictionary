@@ -1,15 +1,3 @@
-__gangrene__ _n_ :pencil2:  
-__suave__ _adj_  
-__paperwork__ _n_  
-__piecemeal__  
-__billet__ _v_  
-__ready cash__ _n_ Funds for immediate use; cash.  
-__profligate__ _adj_  
-__staff__ _n_  
-__idolatry__  
-__recant__ _v_  
-__footloose__ _adj_ _Footloose knights._  
-__galled__ _v_  
 __yeomen__  
 __breach__ _n_  
 __caravansary__ _n_  
