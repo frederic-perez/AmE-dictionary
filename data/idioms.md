@@ -271,7 +271,7 @@ __be shown the ropes__ To be taught how to do or perform a job, task, or activit
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
-__be two/three etc years someone’s junior__ To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._  
+__be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
 __be well versed in (something)__ To be very knowledgeable about, skillful in, or competent at something. _John is well versed in lying, so he’s always able to talk his way out of trouble._  
@@ -284,7 +284,7 @@ __beat the shit out of (someone)__ _I expect them to beat the shit out of the Ea
 __beat your head against the wall__ To try to do something that is hopeless.  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
-__beg the question__ _All of this begs the question of Gallego’s own voting record._  
+__beg the question__ :two::hammer: _All of this begs the question of Gallego’s own voting record._  
 __behind our backs__ _Behind our backs they called us the Spic and the Mik._  
 __behind the eight ball__ If someone or something is behind the eight ball, they are in trouble or in a difficult situation. If a child doesn’t get the basics in primary school, they are way behind the eight ball.  
 __behind the scenes__ Without being widely known or attracting attention. Referring to the private portion of a venue, operation, or production, as opposed to the public part. _Let’s have a round of applause for all the people who worked behind the scenes to give us such a great event!_  
@@ -450,7 +450,7 @@ __come into question__ To become doubted, scrutinized, or a matter of serious di
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
-__come to terms__ :four::hammer:  
+__come to terms with (someone or something)__ :five::hammer:  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :two::hammer:  
 __coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
@@ -463,7 +463,7 @@ __cool your jets!__ Calm down! This caution began with air force pilots reducing
 __corporate ladder__  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
-__count your blessings__ :five: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
+__count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
@@ -655,7 +655,7 @@ __foam at the mouth__ :two: To be extraordinarily angry. _She was almost foaming
 __follow (someone or something) in stride__ To follow the direction, lead, or guidance (of someone or something); to act in accordance (with someone or something); to follow suit.  
 __follow in someone’s footsteps__ To do the same thing as someone else did previously.  
 __follow suit__ :six: To do the same thing as others, especially by following their example. The phrase comes from card games, where there are four “suits” (diamonds, hearts, spades, and clubs).  
-__food baby__ :two: A large amount of food in one’s stomach from having just eaten a big meal, especially when it is protruding (and thus resembles the belly of one who is pregnant). _Don’t take any pictures right now, my stomach is huge! I totally have a food baby!_  
+__food baby__ :three: A large amount of food in one’s stomach from having just eaten a big meal, especially when it is protruding (and thus resembles the belly of one who is pregnant). _Don’t take any pictures right now, my stomach is huge! I totally have a food baby!_  
 __food coma__  
 __food for thought__ An event, a remark, a fact, etc. which should be considered very carefully because it is interesting, important, etc: _The lectures were very interesting and gave much food for thought._  
 __fool’s errand__ :two: A task that has little to no chance of being successful or beneficial. _Giving the baby a bath before he eats spaghetti is a fool’s errand._ _It would be a fool’s errand for anyone inside the party to primary him._  
@@ -1563,6 +1563,7 @@ __on the attack__ _He couldn’t stand being criticized any longer and went on t
 __on the back burner__ :two::hammer:  
 __on the cards__ Very likely to happen. _She wants to get a promotion but it doesn’t seem to be on the cards right now._  
 __on the cheap__ _This problem of vetting aviation employees cannot be fixed on the cheap._  
+__on the contrary__ :dart:  
 __on the defensive__ Prepared to withstand or counter aggression or attack.  
 __on the fence__ Unable to make a decision.  
 __on the flip side__ :two::hammer:  
@@ -1571,6 +1572,7 @@ __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from l
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the lookout__  
 __on the rise__  
+__on the road__ __2__ (on the road to) On the way to, following a course that will end in. _We could see Mary was on the road to recovery._  
 __on the same page__ To agree on something.  
 __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be seen; secretly; stealthily. _She was drinking on the sly._ _Syn_ in secret, secretly, furtively, stealthily _They’re flicking through their smartphone notifications on the sly._ _Stealing kisses from me on the slide._  
 __on the tip of your tongue__ About to be said or almost remembered.  
@@ -1600,6 +1602,7 @@ __out (of) the (starting) gate__ At or from the very starting position. _Out the
 __out of character__  
 __out of date__  
 __out of kilter__ :two: _Out of kilter with the times._  
+__out of nowhere__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
 __out of steam__ :dart: Completely exhausted, fatigued, or without energy or motivation.  
 __out of the wood(s)__ No longer in danger or dealing with a particular difficulty, though not entirely resolved. Usually used in the negative. _Her surgery went as well as we could have hoped, but she’s not out of the woods yet._  
@@ -1738,6 +1741,7 @@ __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; 
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
+__Says who?__  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scrounge up__ _To scrounge up the funds._  
@@ -1965,7 +1969,7 @@ __tight as a drum__ Taut or close-fitting; also, watertight.
 __tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
 __time and (time) again__ :three::dart: Repeatedly; on multiple occasions.  
-__time and again__ Again and again; repeatedly.  
+__time and again__ :two: Again and again; repeatedly.  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
