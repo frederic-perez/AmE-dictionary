@@ -171,3 +171,14 @@ __paperwork__ _n_
 __diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __flounder__ _v_  
+__dare__ _I applied to Harvard on a dare._  
+__fretted__ _v_  
+__shantytown__  
+__very__ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
+__schoolwork__ _n_  
+__medical school syndrome__  
+__onesie__ _n_  
+__kegger__  
+__divested__ _v_  
+__swamped__ _v_ _We feel swamped by the mounting pressure to succeed at any cost._  
+__glean__ _v_  
