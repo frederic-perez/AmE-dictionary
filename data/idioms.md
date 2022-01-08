@@ -261,6 +261,7 @@ __be made of sterner stuff__ To be very strong, determined, or of uncompromising
 __be more trouble than it’s worth__ To not be important, useful, or beneficial enough to justify the effort or difficulty that something requires. _With all the repairs this car will need to be road-worthy, it’s going to be more trouble than it’s worth!_  
 __be no picnic__ _Looking after four children is no picnic._  
 __be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
+__be not in Kansas anymore__ To no longer be in a place that one knows or where one is comfortable; to be in a completely unfamiliar and/or discomfiting environment. A reference to The Wizard of Oz, in which Dorothy, upon arriving to Oz, says, _“Toto, I’ve a feeling we’re not in Kansas anymore.”_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
@@ -924,6 +925,7 @@ __have more than one string to (one’s) bow__ To have multiple viable options o
 __have nine lives__ To endure, continue, or survive despite a near encounter with death or disaster. From the common myth that cats have nine lives. _I can’t believe he survived after his bungee cord snapped! He must have nine lives or something._  
 __have no time for (someone or something)__ To have no respect for, interest in, or approval of someone or something and thus have no desire to be involved with him, her, or it.  
 __have one foot in the grave__ To be very old and close to death.  
+__have one’s heart in it__ (put one’s heart in it) Be emotionally involved in something, undertake something enthusiastically, as in _Nancy puts her heart in her teaching._ This expression may also be put negatively as one’s heart is not in it, as in _She decided to quit; her heart just wasn’t in this kind of work._  
 __have rocks in (one’s) head__ To be thoroughly stupid, crazy, absurd, incorrect, etc.  
 __have seen (one’s) day__ To be beyond one’s prime; to be no longer useful, effective, or functional.  
 __have skin in the game__ To have a personal investment, usually monetary, in the pursuit of some goal or achievement, especially in business and finance.  
@@ -1367,7 +1369,7 @@ __lose track of (someone or something)__
 __lose your train of thought__ To forget what you were talking or thinking about.  
 __loss of face__ The state or circumstance of having lost the respect of other people, as due to having done something improper or unacceptable. _After my terrible loss of face in front of the in-laws, I knew I couldn’t return to their home for the foreseeable future._  
 __loss one’s marbles__ To be or become mentally deficient, incompetent, or deranged; to become of unsound mind. _They were losing their marbles._  
-__lost in translation__ Of a word or words, having lost or lacking the full subtlety of meaning or significance when translated from the original language to another, especially when done literally. (Usually formulated as “be/get lost in translation.”) _My friend tried explaining a few French idioms to me, but I’m afraid they were lost in translation._  
+__lost in translation__ :two: Of a word or words, having lost or lacking the full subtlety of meaning or significance when translated from the original language to another, especially when done literally. (Usually formulated as “be/get lost in translation.”) _My friend tried explaining a few French idioms to me, but I’m afraid they were lost in translation._ _Evidence for preventing covid-19 is lost in translation._  
 __low man on the ladder__ The person (not necessarily male) with the least amount of experience, authority, and/or influence in a social or corporate hierarchy. _It can be a little daunting going from being a senior in high school to low man on the ladder again as a college freshman._  
 __lower the bar__ To lower the standards of quality that are expected of or required for something.  
 __lubrication payment__ A small sum of money or other gifts or services to be paid or given to government officials to expedite business operations in countries that do not prohibit such activity. _Whenever I start up a new factory overseas, I make sure to bring along enough cash on hand for any lubrication payments I may need to make._  
@@ -1504,6 +1506,7 @@ __not (one’s) first rodeo__ :two: One is experienced with a certain situation,
 __not a moment too soon__ At the last possible moment before it is too late; just in the nick of time. _The police arrived not a moment too soon, and the would-be burglar was apprehended before anything could be stolen._  
 __not a peep from/out of (someone)__ Not a single word or sound from someone.  
 __not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that things ended this way, but I hope there aren’t any hard feelings._  
+__not as black as you are painted__ _informal_ If someone is not as black as they are painted, they are not as bad as people generally consider them to be. _“I’m really not as black as I’m painted,” he said pointedly._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I hope all our efforts to help your career have not been lost on you, John._  
 __not by any means__ Not in any way; not at all; absolutely not.  
 __not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
@@ -1518,11 +1521,15 @@ __not know (someone) from a bar of soap__ To be completely unaware of or know no
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
+__not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
 __now (someone) has gone and done it__ Someone has just done something very grave, foolish, and/or irreparable. _Now you’ve gone and done it! My mother’s gonna tan our hides for breaking that!_  
 __now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nut out__ __1__ _slang_ To discover, through careful consideration, deliberation, or investigation, the solution to something. In this usage, “nut” is slang for one’s head or brain. A noun or pronoun can be used between “nut” and “out.” _Each of us has hit the same stumbling block in the assignment, so we’re going to get together this weekend and nut it out together._ __2__ _slang_ To begin acting in a crazy, erratic, or deranged manner, especially due to extreme anger. In this usage, “nut” is a derogatory slang term meaning “a crazy person.” A noun or pronoun can be used between “nut” and “out.” _Tom totally nutted out after he found out his wife had been cheating on him._  
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
+__oat opera__ A film or theatrical production about the American West (i.e., a western), especially one that is clichéd or formulaic. _My grandfather and I had a tradition of watching old oat operas every Sunday on TV._  
+__OD__ _v_  
+__odd duck__ A rather unusual, strange, or peculiar person. _His new girlfriend is nice enough, but she’s a bit of an odd duck, don’t you think?_  
 __of a kind__ _You are two of a kind._  
 __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an event or state of affairs that happened or began to exist a short time ago. _Their number have, indeed, been dropping of late._ _Syn_ recently, just now, in recent times, not long ago :es: últimamente _His work of late has not been up to par._ _He seems rather unhappy of late. I hope nothing is wrong. __The Nationals (18-10) are atop a division dominated by the Phillies of late._  
 __of no account__ :two: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
