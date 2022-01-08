@@ -125,7 +125,7 @@ __acolyte__ _n_ :four::hammer: (acolytes)
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
-__acquiesce__ _v_ :three: To agree to something or to accept something, although you do not want to.  
+__acquiesce__ _v_ :four: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
@@ -299,7 +299,7 @@ __akin__ _adj_ :six: __1__ Related by blood; of the same kin. __2__ (often foll 
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
-__alacrity__ _n_ :four: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
+__alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __Alas!__  
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
@@ -557,7 +557,7 @@ __appraisingly__
 __appreciable__ _adj_ Capable of being perceived or measured.  
 __appreciate__ _v_ :pencil2: _I appreciate it._  
 __apprehend__ _v_  
-__apprehension__ _n_ :two::pencil2::hammer:  
+__apprehension__ _n_ :three::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice__ _v_  
 __apprenticeship__ _n_ _Apprenticeship program._  
@@ -1624,7 +1624,7 @@ __brazenly__ _adv_ :two::hammer:
 __brazenness__ _n_ The state or quality of being impudent or arrogantly self-confident.  
 __brazer__  
 __brazier__  
-__breach<sup>1</sup>__ _n_  
+__breach<sup>1</sup>__ _n_ :two::hammer:  
 __breach<sup>2</sup>__ _v_ :six: (breached) To fail to keep. _Syn_ violate  
 __bread and butter__  
 __breadcrumb__ _n_  
@@ -1957,7 +1957,7 @@ __C-suite__ _n_ The executive suite in an organization. It refers to all the “
 __c-word__ _n_ (sometimes capital) A euphemistic way of referring to the word cunt.  
 __c/o__  
 __cab__ _n_ _The cab of his truck._  
-__cabal__ _n_ :two: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
+__cabal__ _n_ :four: __1__ A conspiratorial group of plotters or intriguers. __2__ A secret scheme or plot.  
 __cabana__ _n_ :two::hammer: (cabanas)  
 __cabbage__ _n_ :six::hammer: (cabbages) _A head of cabbage was bubbling in a copper pot of water._  
 __cabin__ _n_ _Uncle-s Tom Cabin._  
@@ -2119,6 +2119,7 @@ __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” 
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
 __carapace__ _n_ :five: From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
 __carat__  
+__caravansary__ _n_  
 __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a large court for accommodating caravans along trade routes in central and western Asia. __2__ A large inn or hostelry.  
 __carbine__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
@@ -3642,7 +3643,7 @@ __deist__ _adj_
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :five::hammer: _Syn_ delicious  
+__delectable__ _adj_ :six::hammer: _Syn_ delicious  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -3974,7 +3975,7 @@ __dissection__ _n_ _Dissections in coronary vessels._
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_ :two::pencil2::hammer:  
-__dissension__  
+__dissension__ _n_ :two::hammer:  
 __dissent__ _n_ :four::hammer:  
 __dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
@@ -6565,7 +6566,7 @@ __health condition__
 __heap__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __hearing__ _n_ _law_  
 __hearkened__  
-__hearsay__ _n_ :seven: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
+__hearsay__ _n_ :eight: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
 __heartedly__  
@@ -8099,6 +8100,7 @@ __liberty__ _n_ :three: __5__ (Nautical Terms) __a__ Authorized leave granted to
 __libration__ _n_ A very slow oscillation, real or apparent, of a satellite as viewed from the larger celestial body around which it revolves. _Due to lunar libration, people on Earth can see about 59% of the Moon over time._  
 __librocubicularist__ _n_ A person who reads in bed.  
 __lice__ _n_ :eight: Plural of louse. A louse is a tiny insect that lives on the skin of animals and people. If you find a louse in your hair, you’ll have to treat your scalp to get rid of any of its friends that might still be lurking there. _Checked him for lice._ _Nits make lice._  
+__licentious__  
 __licentiousness__  
 __lichen__ _n_ :mega:  
 __lick__ _v_ _Fires licked the edges of cars and buildings._  
@@ -8411,6 +8413,7 @@ __Mace<sup>2</sup>__ _v_
 __Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
 __machinate__ _v_  
+__machination__ _n_  
 __machine__ _n_ :mega:  
 __machinery__ _n_ :mega:  
 __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,430 metres (7,970 ft) above sea level.  
@@ -10637,7 +10640,7 @@ __ponder__ _v_ :four::hammer: (ponders) _Sam pondered his yellow fingernails._
 __ponderous__ _adj_ :seven::hammer: _He shouldered his ponderous bundle._  
 __pong__ _n_  
 __pontiff__  
-__pontoon__ _n_ :two::hammer: (pontoon) _The building floated on pontoons._  
+__pontoon__ _n_ :three::hammer: (pontoons) _The building floated on pontoons._  
 __pony up__ _phr v_ _slang_ :two: To pay (money owed or due).  
 __pony__ _v_  
 __Ponzi scheme__ _n_ :three: A form of fraud in which belief in the success of a non-existent enterprise is fostered by the payment of quick returns to the first investors from money invested by later investors. Origin: Named after Charles Ponzi (died 1949), who carried out such a fraud (1919–20).  
@@ -15369,7 +15372,7 @@ __vagrant<sup>2</sup>__ _adj_ :two::hammer:
 __vague__ _adj_ :mute:[vag~~u~~e]  
 __vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
-__vainglory__ _n_ :two::hammer:  
+__vainglory__ _n_ :four::hammer:  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
@@ -16191,7 +16194,7 @@ __yellow wine__
 __yellow__ _adj_ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
-__yeoman__ _n_ :four::hammer:  
+__yeoman__ _n_ :five::hammer: (yeomen)  
 __yesternight__ _n_ Last night.  
 __yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  

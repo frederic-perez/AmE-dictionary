@@ -1,18 +1,3 @@
-__yeomen__  
-__breach__ _n_  
-__caravansary__ _n_  
-__licentious__  
-__cabals__ _n_ :two::hammer:  
-__dissension__ _n_  
-__alacrity__  
-__vainglory__ _n_ :two::hammer:  
-__machination__ _n_  
-__denouement__  
-__acquiesce__ _v_  
-__hearsay__  
-__pontoons__ _n_  
-__apprehension__ _n_ :pencil2:  
-__delectable__  
 __bravado__  
 __rabble__ _n_  
 __van__ _n_ _The knight was in command of the van._  
