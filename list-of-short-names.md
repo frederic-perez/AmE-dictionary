@@ -27,7 +27,10 @@
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
 - __Jed__ A masculine given name or nickname, usually of Jedediah.
 - __Jem__ Jem is a given name, sometimes as a nickname for James, Jeremiah, Jeremy, Jemma, or Jemima, and sometimes as an anglicized version of the Turkish name Cem.
+- __Jen__ Jen is a feminine given name, frequently a shortened form (hypocorism) of Jennifer, and occasionally a surname.
 - __Jim__ A given name or a hypocorism of the given name James and a short form of Jimmy.
+- __Job__ A male given name from the Hebrew name אִיּוֹב ('Iyyov), which means “persecuted, hated.” In the Book of Job in the Old Testament he is a righteous man who is tested by God, enduring many tragedies and hardships while struggling to remain faithful.
+- __Jos__ Jos is a given name and nickname (often of Joseph, Jozef, Josephus, etc.).
 - __Joy__ A common female given name meaning joy, happiness, joyful.
 - __Kay__ In English-speaking countries, it is usually a feminine name, often a short form of Katherine or one of its variants; but it is also used as a first name in its own right, and also as a masculine name (for example in India, the Netherlands, and Sweden).
 - __Ken__ A masculine given name of Scottish / Scottish Gaelic origin. It is used either as a given name or as a short form of names with the letters “Ken” (like Kenneth, Kenan, Kendrick, Kendall, Kennedy, Mackenzie or Kenson). Ken is also a Japanese name which can have many different meanings depending on the kanji used.
