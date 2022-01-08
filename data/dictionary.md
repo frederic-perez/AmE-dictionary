@@ -3036,7 +3036,7 @@ __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
-__cop out__ _v_ :six: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
+__cop out__ _v_ :seven: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
 __cop__ _v_ _My deal was that all charges were dropped against her and I would cop a plea._  
 __cop-out__ _n informal_ Something you do or say in order to avoid doing or accepting something. _Ignoring the problem is a cop-out._  
 __copacetic__ _adj informal_ :six: In excellent order. _He said to tell you everything is copacetic._  

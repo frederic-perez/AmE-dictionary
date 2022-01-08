@@ -189,6 +189,7 @@ __at the ready__ Available for immediate use. _Soldiers with machine guns at the
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
+__aye aye, sir__ _Aye aye, Captain._  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
@@ -235,7 +236,7 @@ __be full of yourself__ To think that you are very important in a way that annoy
 __be given no quarter__ To be offered no mercy, concession, or indulgence. _This match determines if we’re heading to the finals of the tournament, so make sure they are given no quarter!_  
 __be glad to see the back of__ Be happy when a person leaves.  
 __be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
-__be here to stay__ To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
+__be here to stay__ :two: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
 __be in a pickle__ _slang_ To be in a troublesome situation.  
@@ -848,7 +849,7 @@ __haha__ _informal_ Used as a written expression of laughter, or more generally 
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
-__hands down__ :two::hammer: _Hands down, best episode ever._  
+__hands down__ :three::hammer: _Hands down, best episode ever._  
 __hands off__ An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
@@ -968,6 +969,7 @@ __high muckety muck__ _slang_ An especially important, influential, and authorit
 __high note__ The most successful, impressive, or climactic point (of something).  
 __high profile__ A presence or stance that is deliberately conspicuous and prominent socially.  
 __high-handed__ Haughtily presumptuous; arrogantly or inconsiderately overbearing.  
+__high-res__  
 __highbrowed__ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows.  
 __hindsight is (always) 20/20__ It is easier to clearly reevaluate past actions or decisions than when they are being made or done; things are clearer or more obvious when they are reflected upon. A reference to the visual acuity of normal eyesight (20/20 vision).  
 __hit (one’s) stride__  
@@ -1176,6 +1178,7 @@ __jump through hoops__ To do a lot of difficult things before you are allowed to
 __junk in junk out__ (Computers) Expression used to express the relationship between input and output: erroneous input causes erroneous output.  
 __junkyard dog__ An especially nasty, vicious, or savage person or animal (especially a dog). Of a person, often used in the phrase “meaner than a junkyard dog.”  
 __just saying__ :two: (I’m just saying) Used when you are making a criticism or complaint, to make it less likely to offend someone. _I’m just saying I think it could have been done a little more carefully, that’s all._ _Isn’t it a bit small for you? Just saying._  
+__just the same (to one)__  
 __justice is served/done__ Proper punishment or fair treatment is given by the legal system. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change.  
 __kangaroo court__  
 __keep (one’s) cool__ To maintain control of one’s composure, temper, or nerve in a given situation.  
@@ -1711,7 +1714,7 @@ __red hot__ :two::hammer: _Now the market is red hot._
 __red pill__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __religious intolerance__ Intolerance of another’s religious beliefs or practices or lack thereof. _Religious intolerance waxed._  
-__rest my case__ _I rest my case._  
+__rest my case__ :two::hammer: _I rest my case._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
@@ -1760,7 +1763,7 @@ __see eye to eye__ :three: To concur, agree. To agree (with someone); to share t
 __see red__ :two: To become very angry.  
 __seen (_or_ known) better days__ Get in a worse state than in the past; have become old, worn-out, or shabby.  
 __seize the opportunity__ :two: To take advantage of an opportunity when offered. _My uncle offered me a trip to Europe, so I seized the opportunity._  
-__sell (someone, something, or oneself) short__ To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
+__sell (someone, something, or oneself) short__ :two: To undervalue someone, something, or oneself; to underestimate or underappreciate the good qualities of someone, something, or oneself. _Don’t sell yourself short—your writing is really excellent!_  
 __sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
@@ -1806,6 +1809,7 @@ __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three 
 __sitting on the fence__  
 __sitting pretty__ :three: Living in comfort.  
 __six in one, (and) half a dozen in the other__ The difference between these two options is negligible, irrelevant, or unimportant; either option is fine or will work as well as the other.  
+__sixty-four-dollar question__  
 __skid mark__ _slang_ :two: (skid marks) A mark or streak of feces on the inside of one’s underpants.  
 __skip a beat__ _His heart skipped a beat._  
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
