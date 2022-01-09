@@ -42,7 +42,7 @@ __abbesses__ _n pl_
 __abdication__ _n_ A formal resignation and renunciation of powers. _Syn_ stepping down  
 __abecedarian<sup>1</sup>__ _n_ A person who is learning the alphabet or the rudiments of a subject. _Syn_ beginner, fledgling, freshman, greenhorn, initiate, neophyte, novice, novitiate, tenderfoot, tyro _slang_ rookie  
 __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.  
-__aberrant__ _adj_  
+__aberrant__ _adj_ :two::hammer:  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
 __abeyance__ _n_ :four: The condition of being temporarily set aside. _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._  
@@ -107,7 +107,7 @@ __account__ _n_ :five::hammer: _By many accounts, Americans are tired of the Dem
 __accountant__ _n_ :es: contable  
 __accounting__ _n_ _This is an accounting of my experience._  
 __accounts__ _n_ _By some accounts._  
-__accoutrement__ _n_ :five::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
+__accoutrement__ _n_ :six::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
 __accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
@@ -1615,7 +1615,7 @@ __brasserie__ _n_
 __brassiere__ _n_  
 __brassy__ _adj_ _She is brassy, funny, and smart._  
 __bratty__  
-__bravado__ _n_ :three: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _But I went into it with a certain bravado._  
+__bravado__ _n_ :four: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _But I went into it with a certain bravado._  
 __bravura__  
 __brawn__ _n_ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
@@ -2702,7 +2702,7 @@ __cocoon<sup>1</sup>__ _n_
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
 __coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
-__codicil__ _n_  
+__codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
 __codpiece__ _n_  
 __coequality__ _n_ The state of being equal with one another, as in rank, power, value, etc. _Agatha Christie’s _The Secret Adversary_ firmly establishes the coequality of investigative duo Tommy and Tuppence._  
@@ -2944,7 +2944,7 @@ __connive__ _v_ :six::hammer: (connived, conniving)
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __consciousness__ _n_  
-__conscript__ _v_ :three::hammer: (conscripted) _I was conscripted into the army._  
+__conscript__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
 __consecutive__  
 __consensual__  
@@ -3859,8 +3859,7 @@ __dipstick__
 __dire__ _adj_ :eight: (of a situation or event) Extremely serious or urgent. _Doctors warned of dire consequences._ _Syn_ terrible, dreadful, appalling, frightful, awful :es: terrible, horrible, horrendo, fatal _After showing some improvement, Howe’s health again appeared dire last weekend._  
 __direct object__  
 __direction__ _n_ :two::mega:  
-__dirge__  
-__dirges__ _n_  
+__dirge__ _n_ :three::hammer:  
 __dirigiste__  
 __dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
 __dirt bike__ _n_ :camera:  
@@ -4770,7 +4769,7 @@ __evildoer__ _n_
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
 __eviscerate__ _v_  
 __evolve__ _v_  
-__ewer__ _n_  
+__ewer__ _n_ :two::hammer:  
 __ewes__ _n_  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
@@ -5464,7 +5463,7 @@ __forebear__ _n_ :two: A person from whom one is descended. _Syn_ ancestor, pred
 __forebode__ _v_ :six: (foreboding) __1__ (of a situation or occurrence) Act as an advance warning of (something bad). _This lull foreboded some new assault upon him._ _Syn_ presage, augur, portend, forecast, predict __2__ Have a presentiment of (something bad). _I foreboded mischief the moment I heard._ :es: presagiar, presentir  
 __foreboding__ _n_  
 __forecast__ _v_ (forecast or forecasted, forecasting, forecasts)  
-__foreclose__ _v_  
+__foreclose__ _v_ :two::hammer:  
 __foreclosure__ _n_ :two::hammer:  
 __forefathers__  
 __forefinger__ _n_ :two::hammer:  
@@ -7783,9 +7782,9 @@ __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
 __knackered<sup>1</sup>__ _v_  
 __knackered<sup>2</sup>__ _adj_ _BrE_ _slang_ :four: Very tired; exhausted.  
-__knave__  
+__knave__ _n_  
 __knavery__ _n_ Lack of honesty; acts of lying or cheating or stealing. _Syn_ dishonesty _Trust no one; the king’s court is a hotbed of intrigue and malicious knavery._  
-__knavish__  
+__knavish__ _adj_ :two::hammer:  
 __knead__ _v_ :nine::m::mute:[~~k~~nead] (kneaded, kneading) __1__ To work (dough, clay, etc.) into a uniform mixture by pressing, folding, and stretching. :es: amasar __2__ To manipulate by similar movements, as the body in a massage. :es: masajear __3__ To make by kneading: _to knead bread._  
 __knee__ _n_ :mute:[~~k~~nee]  
 __knee-jerk__ _adj_ _slang_ :six::hammer: (knee-jerking) _Knee-jerk hawk._ _Knee-jerk reaction._ _Knee-jerk response._  
@@ -9157,7 +9156,7 @@ __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, 
 __mythos__ _n_ :three::hammer:  
 __nab__ _v_ :six::hammer: (nabbed, nabbing) _You can nab bargains before Black Friday._ _Filipino actor nabbed with 1kg of marijuana._ _Leave no stone unturned to nab the perpetrators._ _She finished second and nabbed $150,000._  
 __nacelle__ _n_ __1__ The enclosed part of an airplane, dirigible, etc., in which the engine is housed or in which cargo or passengers are carried. __2__ The car of a balloon.  
-__nadir__  
+__nadir__ _n_ :two::hammer: _The nadir of French fortunes._  
 __naevus__ _n_ (nevus)  
 __nag<sup>1</sup>__ _v_ :five::hammer:  
 __nag<sup>2</sup>__ _n_ (often derogator) A horse.  
@@ -9855,7 +9854,7 @@ __padlock__
 __paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
-__page__ _n_ :two::hammer:  
+__page__ _n_ :three::hammer:  
 __pageantry__ _n_ Elaborate display or ceremony. _The pageantry of George V’s jubilee._ :es: pompa, espectáculo  
 __pageboy__  
 __pages__ _n_ A source or record of knowledge: _in the pages of science._  
@@ -11246,7 +11245,7 @@ __quote__ _v_ _In XML, the attribute values must always be quoted._
 __quotidian__ _adj_  
 __Quran__  
 __R-rated__ _adj_ (of a motion picture) suitable for those under 17 years of age only when accompanied by an adult.  
-__rabble__ _n_ :five::hammer: _They were once considered rabble-rousers._  
+__rabble__ _n_ :six::hammer: _They were once considered rabble-rousers._  
 __rabble-rouser__  
 __rabies__ _n_ :pencil2::four::hammer: _A wild groundhog found at The Maryland Zoo had rabies._ _A squirrel with rabies._  
 __raccoon__ _n_ :pencil2:  
@@ -11995,6 +11994,7 @@ __rumhead__ _n_ An alcoholic.
 __rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
 __rummy__  
 __rumor has it__  
+__rumor-monger__ _n_ :two::hammer:  
 __rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
 __rumple__ _v_ _His clothes were rumpled._  
 __run afoul__  
@@ -15391,6 +15391,7 @@ __valued-added__
 __vamoose__ _v intr_ :two: [:scroll: from Spanish _vamos_ let’s go, from Latin _vādere_ to go, walk rapidly] To leave a place hurriedly; decamp.  
 __vamp__ _v_ :two::hammer: (vamping)  
 __vampire squid__  
+__van__ _n_ _The knight was in command of the van._  
 __vandalize__ _v_ :two: To willfully damage another’s property. After Vandals, a Germanic tribe who overran Gaul, Spain, and northern Africa, and in 455 CE sacked Rome.  
 __vandals__  
 __vane__ _n_ :nine: (not to be confused with vain, vein) __1__ (Mechanical Engineering) A flat plate or blade of metal mounted on a vertical axis in an exposed position to indicate wind direction. _Syn_ weather vane, wind vane _A smooth metal weather vane._ _Wind vane._ __2__ (Mechanical Engineering) Any one of the flat blades or sails forming part of the wheel of a windmill. __3__ (Mechanical Engineering) Any flat or shaped plate used to direct fluid flow, esp a stator blade in a turbine, etc. __4__ (Mechanical Engineering) A fin or plate fitted to a projectile or missile to provide stabilization or guidance. _Propeller vane._ __5__ (Zoology) _ornithol_ The flat part of a feather, consisting of two rows of barbs on either side of the shaft.  
@@ -15781,7 +15782,7 @@ __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  
 __welted__  
-__welter__ _n_ :three: A confused multitude of things. _A welter of data._ _A welter of chaos._  
+__welter__ _n_ :four: A confused multitude of things. _A welter of data._ _A welter of chaos._ _The welter of different versions._  
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  

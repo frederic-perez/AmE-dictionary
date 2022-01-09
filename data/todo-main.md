@@ -1,18 +1,3 @@
-__bravado__  
-__rabble__ _n_  
-__van__ _n_ _The knight was in command of the van._  
-__conscript__ _n_ :two::hammer:  
-__welter__ _n_ _The welter of different versions._  
-__page__ _n_  
-__aberrant__  
-__nadir__ _n_ _The nadir of French fortunes._  
-__foreclose__ _v_  
-__rumor-monger__ _n_ :two::hammer:  
-__accoutrements__ _n_  
-__codicil__ _n_ _A codicil to a previous will._  
-__ewer__ _n_  
-__knavish__  
-__dirge__ _n_  
 __damask__ _n_ _Apparel of fine damask._  
 __interred__ _v_  
 __discomfited__  
