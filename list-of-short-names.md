@@ -36,6 +36,8 @@
 - __Ken__ A masculine given name of Scottish / Scottish Gaelic origin. It is used either as a given name or as a short form of names with the letters “Ken” (like Kenneth, Kenan, Kendrick, Kendall, Kennedy, Mackenzie or Kenson). Ken is also a Japanese name which can have many different meanings depending on the kanji used.
 - __Kev__ A diminutive of the male given name Kevin.
 - __Lee__ Lee is a given name derived from the English surname Lee. Lee is also a hypocoristic form of the given names Ashley, Beverly, Kimberley, Leona, and Leslie.
+- __Len__ Len is a masculine given name, usually a short form (hypocorism) of Leonard.
+- __Leo__ Leo is a Latin given name. It is usually a masculine given name and it comes from the Latin word leo which in turns comes from the Greek word λέων meaning “lion.” It can also refer to the name Leonard or Leopold.
 - __Liz__ A women’s name of Hebrew origin, meaning “God’s Promise”. It is also a short form of Elizabeth, Elisabeth, Lisbeth, Lizanne, Liszbeth, Lizbeth, Lizabeth, Lyzbeth, Lisa, Lizette, and Alyssa.
 - __Meg__ Often a short form of Margaret, Megan, Megumi (Japanese), etc.
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
