@@ -4428,7 +4428,7 @@ __éclat__ _n_
 __ecliptic__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
-__ecumenical__  
+__ecumenical__ _adj_ :two: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
 __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly by redness, itching, and the outbreak of lesions that may discharge serous matter and become encrusted and scaly.  
 __ED prescription__  
 __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
@@ -4935,6 +4935,7 @@ __fallacy__ _n_ :five::hammer: _The lump of coding fallacy._
 __fallback<sup>1</sup>__ _n_  
 __fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
 __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
+__falling star__ _n_ A meteor; shooting star.  
 __falloff__  
 __Fallon, NV__ _n_  
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
@@ -5022,6 +5023,7 @@ __faux-pas__
 __fava beans__  
 __fave__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
+__favored__ _adj_ Preferred above all others and treated with partiality. _Syn_ best-loved, pet, preferred, favorite _My sister is clearly the favored child—she has a later curfew and gets away with things I never could!_  
 __favoritism__ _n_  
 __fawn<sup>1</sup>__ _n_ :four: __1__ A young deer in its first year. _A six-month-old roe fawn._ :es: cervato __2__ A light brown colour. _Soft shades of pale green and fawn._ _Syn_ beige, yellowish-brown, pale brown :es: color beige  
 __fawn<sup>2</sup>__ _v_ :three: (fawning) Attempting to win favor from influential people by flattery. _Syn_ bootlicking, obsequious, sycophantic, toadyish  
@@ -5168,7 +5170,7 @@ __fine print__
 __fine-tune__ _v_  
 __finery__ _n_ :two: Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
 __finesse<sup>1</sup>__ _n_ :two::hammer:  
-__finesse<sup>2</sup>__ _v_  
+__finesse<sup>2</sup>__ _v_ :two: /fuh-NESS/ To handle, deal with, or do (something) in an indirect and skillful or clever way. _The forward finessed the ball past two defenders and powered it to the left of the goalie for a score._  
 __finger food__ _n_ Food intended to be eaten with the fingers.  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
@@ -7984,7 +7986,7 @@ __lax__ _adj_ :two::hammer: (not LAX)
 __lay the table__  
 __lay__ _adj_ :two: __1__ Of, relating to, or involving the laity: _a lay preacher._ __2__ Not of or belonging to a particular profession; nonprofessional: _a lay opinion as to the seriousness of the disease._  
 __layman > in layman terms__  
-__layman__ _n_  
+__layman__ _n_ :two::hammer: /LAY-mun/  
 __layoff__  
 __layout__ _n_  
 __layover__ _n_ :dart::three: A short stop or break in a journey, usually imposed by scheduling requirements, as of airline flights. _To minimize the risk of missing a connection, never book a layover of less than two hours._ _Colorado enters its two-game layover in Boston on Tuesday night._  
@@ -10712,6 +10714,8 @@ __postulate__ _v_ (postulated)
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
 __pot__ _n_ :three::hammer: _A pot of assets._ _Where are the pot bunkers?_ _A pot of coffee._  
+__pot-valiant<sup>1</sup>__ _n_ /POT-val-yuhnt/ [:scroll: From pot, alluding to a drinking pot + valor (boldness), from Latin valor (worth), from valere (to be well, be of worth). Earliest documented use: 1647.] Someone pot-valiant is also said to display liquid courage or Dutch courage. A person displaying boldness or courage while drunk.  
+__pot-valiant<sup>2</sup>__ _adj_ /POT-val-yuhnt/ Displaying bravado under the influence of alcohol.  
 __potatoes__ _n_ :pencil2::mega:  
 __potbelly__ _n_  
 __Potemkin village__ _n_ Something that appears elaborate and impressive but in actual fact lacks substance: _“the Potemkin village of this country’s borrowed prosperity” (Lewis H. Lapham)._  
@@ -12862,7 +12866,7 @@ __skim<sup>2</sup>__ _n_
 __skimboard__  
 __skimp<sup>1</sup>__ _v_ :five: (skimped) Expend or use less time, money, or material on something than is necessary in an attempt to economize. _Don’t skimp on insurance when you book your holidays._  
 __skimp<sup>2</sup>__ _n informal_ A fashionably short or revealing garment. _She wore a yellow skimp._ _Don’t skimp on the turkey._  
-__skimpy__ _adj_ :three::hammer:  
+__skimpy__ _adj_ :four: Containing little excess. _Syn_ lean _When the car repairs maxed out my already skimpy budget, I knew my shopping days were over._  
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
@@ -14081,7 +14085,7 @@ __swab__ _n_ _Nasopharyngeal swabs._
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
 __swage__ _adj_  
-__swagger<sup>1</sup>__ _n_ _A swagger stick._  
+__swagger<sup>1</sup>__ _n_ :two::hammer: _A swagger stick._  
 __swagger<sup>2</sup>__ _v_ :four::hammer:  
 __Swahili__  
 __swain__ _n_ A young male suitor or lover.  
@@ -15565,7 +15569,7 @@ __volition__ _n_ :four::hammer:
 __volley__ _n_ :two::hammer: _A volley of invective._  
 __voltage__ _n_ :two::mega::hammer:  
 __voltron__  
-__voluble__  
+__voluble__ _adj_ :two: /VAHL-yuh-bul/ Characterized by ready or rapid speech.  
 __volubly__ _adv_ In a chatty manner. _They were speaking volubly into their mobiles._  
 __voracious__ _adj_  
 __vorpal__ _adj_ /VUHR-puhl/ [:scroll: Coined by Lewis Carroll (1832-1898) in his novel _Through the Looking-Glass._] __1__ Sharp. __2__ Deadly.  
