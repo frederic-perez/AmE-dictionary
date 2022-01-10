@@ -1,18 +1,3 @@
-__damask__ _n_ _Apparel of fine damask._  
-__interred__ _v_  
-__discomfited__  
-__usufruct__  
-__disaffected__  
-__flotsam__  
-__skinner__  
-__tanner__  
-__venal__ _adj_ _Venal officials._  
-__clumps__ _n_  
-__hapless__  
-__regent__ _n_  
-__brambles__ _n_  
-__lull__ _v_ (lulled)  
-__hovels__ _n_  
 __ghoulish__ _adj_  
 __defection__ _n_  
 __synod__ _n_ :pencil2:  

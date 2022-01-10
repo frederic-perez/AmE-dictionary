@@ -1604,7 +1604,7 @@ __brainpower__ _n_
 __brainwash__ _v_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
-__brambles__ _n_ :four::hammer:  
+__brambles__ _n_ :five::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
 __brander__  
@@ -2663,7 +2663,7 @@ __club soda__ _n_ :two: A US name for soda water.
 __clubber__ _n_ A person who regularly frequents nightclubs and similar establishments.  
 __cluck__ _v_ :two::hammer: _Clucking chickens._ :es: cacarear  
 __clue__ _n, v_ :dart:  
-__clump__ _n_ :two::hammer: _The clump of footsteps._  
+__clump__ _n_ :three::hammer: _The clump of footsteps._  
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He’s got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
@@ -3458,7 +3458,7 @@ __dalliance__
 __dally__ _v_ :five::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
-__damask__ _n_  
+__damask__ _n_ :two::hammer: _Apparel of fine damask._  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
 __damnation__  
@@ -3872,7 +3872,7 @@ __dis<sup>1</sup>__ _n_ :two::hammer:
 __dis<sup>2</sup>__ _v_ :two::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
-__disaffected__ _adj_ :two::hammer:  
+__disaffected__ _adj_ :three::hammer:  
 __disallow__ _v_ :dart: _The goal was disallowed._  
 __disapprove__ _v_  
 __disarray__ _n_ :four: A state of disorganization or untidiness. _Her grey hair was in disarray._ _Syn_ disorder, confusion, chaos _The room was in disarray._  
@@ -3887,7 +3887,7 @@ __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force
 __disciple__ _n_ :mute:[dis~~c~~iple]  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
-__discomfited__ _adj_ Uncomfortable.  
+__discomfited__ _adj_ :two: Uncomfortable.  
 __discomfiture__ _n_ :two::hammer:  
 __discommode__ _v_ To cause inconvenience or annoyance to; disturb.  
 __discompose__ _v_  
@@ -5353,7 +5353,7 @@ __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of b
 __florid__  
 __flotation tank__  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
-__flotsam__ _n_ :three: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
+__flotsam__ _n_ :four: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :nine::m: (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish<sup>1</sup>__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
@@ -6954,7 +6954,7 @@ __housing equity__
 __housing starts__  
 __housing unit__  
 __housing__ _n_ :five::hammer: _A waterproof housing._  
-__hovel__ _n_ :two: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._  
+__hovel__ _n_ :three: A small, miserable dwelling. _Syn_ shack, shanty, hut, hutch _Compared to the manor house, their own modest home seemed like a hovel._  
 __hover__ _v_  
 __hoverboard__ _n_ :two::hammer:  
 __howl__ _v_ :two::hammer:  
@@ -7391,6 +7391,7 @@ __international friendly__
 __internecine__ _adj_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
+__inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::hammer: (interspersed)  
 __intertwine__  
@@ -8362,7 +8363,7 @@ __lug__ _v_ :nine::hammer: (lugs, lugging) _A passenger lugs an injured swan ont
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
-__lull<sup>2</sup>__ _v_ :three::hammer: (lulled)  
+__lull<sup>2</sup>__ _v_ :four::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
 __lumber<sup>2</sup>__ _n_ :three::hammer: _The lumber mill._ _A shopper checks out with her lumber._ _Lumber & home improvement._  
 __lumberjack__ _n_ :four::hammer:  
@@ -11543,7 +11544,7 @@ __regale__ _v_ :two: (regaled) __1__ To give delight or amusement to: _he regale
 __regalia__ _n_ :two::hammer:  
 __regatta__  
 __regency__  
-__regents__ _n_  
+__regent__ _n_ :two::hammer:  
 __regimen__ _n_ _An exercise regimen._  
 __register__ _n_ _Instant savings at register when 5 Colgate products are purchased in a single transaction._  
 __regnant__ _adj_ __1__ Reigning; ruling: _a queen regnant._ __2__ Predominant. __3__ Widespread; prevalent.  
@@ -12870,7 +12871,7 @@ __skimpy__ _adj_ :four: Containing little excess. _Syn_ lean _When the car repai
 __skin diving__ _n_ Underwater swimming in which the swimmer, without lines to the surface, is variously equipped with a face mask, flipperlike footgear, scuba equipment, etc.  
 __skin parlor__  
 __skinflint__ _n_ One who is very reluctant to spend money; a miser.  
-__skinner__ _n_ :dart: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
+__skinner__ _n_ :dart::two: __2__ A person who prepares or deals in skins or hides. __3__ A person who drives draft animals, as mules. _A resting place for mule skinners guiding packtrains._  
 __skip stones__ _v_ (skip rocks) To throw smooth flat stones into a lake, river etc in a way that makes them jump across the surface. _Alafair was skipping stones across the water into a cypress stump._  
 __skipper__ _n_ :two::hammer:  
 __skips__ _n_ :two::hammer: _One of the skips yelled._  
@@ -14261,7 +14262,7 @@ __tangled__
 __tank__ _v_ :nine::m: (tanked, tanking) __2__ _informal_ To suffer a sudden decline or failure: _The stock market tanked yesterday._ _The Braves are being accussed of losing on purpose now to speed-dial to a brighter future. It’s called tanking._ _There are grand incentives to tank a season._ _The market tanked._ _Laptops tanking your meetings?_ _Milwaukee Brewers and Atlanta Braves are either rebuilding or tanking._  
 __tanker truck__  
 __Tannenbaum__ _n_ (German noun) Fir tree (Christmas tree).  
-__tanner__ _n_ :two::hammer:  
+__tanner__ _n_ :three::hammer:  
 __tannery__  
 __tannic__ _adj_ :six::hammer: Derived from tannin. _The tannic acid takes the sting out._  
 __tannin__ _n_ :two: Any of various complex phenolic substances of plant origin; used in tanning and in medicine. _A tannin solution._  
@@ -15345,6 +15346,7 @@ __urge__ _v_ __2__ _(tr; may take a clause as object)_ To advocate or recommend 
 __urinal__ _n_ __1__ A fixture, typically one attached upright to a wall, used by men for urinating. __2__ A portable receptacle for urine.  
 __urination trough__ _n_  
 __usher__ _v_ :two::hammer:  
+__usufruct__ _n_  
 __usurp__ _v_  
 __usury__ _n_ :seven::dart: __1__ The practice of lending money at an exorbitant interest rate. __2__ An exorbitant amount or rate of interest.  
 __Utahn__ _n_ :two::hammer: (Utahns)  
@@ -15437,7 +15439,7 @@ __Velcro__ _n_
 __velleity__ _n_  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
-__venal__ _adj_ :four::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._  
+__venal__ _adj_ :five::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._ _Venal officials._  
 __venality__ _n_ :three::hammer:  
 __vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
