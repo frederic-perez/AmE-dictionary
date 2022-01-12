@@ -1151,7 +1151,7 @@ __benison__ _n_
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
-__bequest__ _n_ :nine::m::hammer: _A dark bequest of Nazism._ _Bequests to religious institutions._  
+__bequest__ _n_ :nine::m: /bɪˈkwɛst/ __1__ (Law) The act of giving or leaving personal property by a will. __2__ Something that is bequeathed; a legacy. _Syn_ legacy, gift, settlement, heritage, trust, endowment, estate, inheritance, dower, bestowal _Bequests to religious institutions._ _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
 __bereaved__ _adj_ :three: A bereaved person is someone whose close friend or family member has recently died. _Bereaved families are asking the UK prime minister to allow the National Covid Memorial Wall to remain as a national commemoration._  
@@ -1166,7 +1166,7 @@ __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :eight::hammer: _Chelsea are beset with uncertainty._  
+__beset__ _v_ :eight: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
@@ -3437,7 +3437,7 @@ __cyst__ _n_ :mega: _Ganglion cysts._
 __cytometer__  
 __cytometry__  
 __D-ring inset__  
-__dab<sup>1</sup>__ _v_ :nine::hammer: (dabs, dabbing) _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._  
+__dab<sup>1</sup>__ _v_ :nine: (dabs, dabbing) __1__ _v intr/tr_ To touch a surface gently several times with something such as a piece of cloth, in order to make it clean or dry. _Remove the stain by carefully dabbing it with a cloth._ _Marge dabbed at her eyes with a handkerchief._ _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._ __2__ _v tr_ To quickly put small amounts of a substance on a surface._ Dab some lotion onto the affected area._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
