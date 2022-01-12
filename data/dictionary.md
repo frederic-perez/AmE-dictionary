@@ -540,7 +540,7 @@ __apparatus__ _n_ :two::hammer: _Campaign apparatus._
 __appeal<sup>1</sup>__ _v_ __1__ To make an earnest or urgent request, as for help.  
 __appeal<sup>2</sup>__ _n_ :two::hammer: _His case is unresolved on appeal._ _Vilma is appealing his suspension._  
 __appealing__  
-__appease__ _v_ :three: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
+__appease__ _v_ :four: __1__ Pacify or placate (someone) by acceding to their demands. _Amendments have been added to appease local pressure groups._ _Syn_ conciliate, placate, pacify __2__ Assuage or satisfy (a demand or a feeling). _We give to charity because it appeases our guilt._ _Syn_ satisfy, fulfil, gratify  
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
@@ -1920,7 +1920,8 @@ __button man__
 __button up__ _v_  
 __button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
 __button-down<sup>2</sup>__ _n_ A shirt with a button-down collar. _She was wearing faded jeans and a button-down._  
-__buttress__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
+__buttress<sup>1</sup>__ _n_ _Lacy buttresses._  
+__buttress<sup>2</sup>__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
 __butyraceous__ _adj_ Of, containing, or resembling butter.  
 __buxom__  
@@ -3233,6 +3234,7 @@ __creek__ _n_ :two::hammer: _An older house on a creek._
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated weir__  
+__crenellated__ _adj_ _Crenellated walls._  
 __creosote__  
 __crepe paper bells__  
 __crepe rubber__ _n_ :astonished: (crepe) Rubber with a crinkled texture, used especially for shoe soles.  
@@ -3606,7 +3608,7 @@ __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone�
 __defanging__ _n_  
 __default__ _v_ :five::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
-__defection__ _n_ :eight: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
+__defection__ _n_ :nine: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
 __defector__ _n_ :four::hammer: _Army defectors._  
 __defenestration__ _n_ Defenestration originally meant “a throwing of a person or thing out of a window.” Today, it’s more often used for “a usually swift dismissal or expulsion (as from a political party or office).” _Michael’s annoyance at his alarm clock’s persistent drone led to its sudden defenestration from his eighth-floor bedroom._  
@@ -4080,6 +4082,7 @@ __domino effect__ _n_ A cumulative effect produced when one event sets off a cha
 __don__ _v_ Put on (an item of clothing).  
 __don’t tell me it’s raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
+__donjon__ _n_ _The donjon was impervious to time._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
 __donnybrook__ _n_ [:scroll: After _Donnybrook Fair_, an annual event until 1855 near Dublin.] A melee; a free-for-all. _Syn_ brawl  
@@ -5882,7 +5885,7 @@ __ghost word__ _n_ A word form that has entered the language through the perpetu
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
-__ghoulish__ _adj_ Strangely diabolical or cruel; monstrous.  
+__ghoulish__ _adj_ :two: Strangely diabolical or cruel; monstrous.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
 __gibe__ _n_ :two: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
@@ -7137,7 +7140,7 @@ __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain 
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :seven::hammer:  
+__impervious__ _adj_ :eight::hammer: _The donjon was impervious to time._  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -7373,6 +7376,7 @@ __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provide
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
 __intemperate__ _adj_ :two: Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
+__inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
 __interdict<sup>1</sup>__ _v tr_  
 __interdict<sup>2</sup>__ _n_  
@@ -7391,7 +7395,6 @@ __international friendly__
 __internecine__ _adj_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
-__inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::hammer: (interspersed)  
 __intertwine__  
@@ -7458,7 +7461,8 @@ __ischemic__ _adj_
 __islet__ _n_ :two::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
-__issue__ _v_  
+__issue<sup>1</sup>__ _n_ :two::hammer: _She died without issue._ (decendency?)  
+__issue<sup>2</sup>__ _v_  
 __isthmus__  
 __IT Band__  
 __it dawned on someone__  
@@ -7543,7 +7547,7 @@ __Jenga__ _n_ (trademark) [:scroll: From the Swahili verb -jenga (“to construc
 __jeopardize__ _v_ :two: __1__ To risk; hazard: _he jeopardized his job by being persistently unpunctual._ __2__ To put in danger; imperil.  
 __jeopardy__ _n_ (usually preceded by _in_) __1__ Danger of injury, loss, death, etc; risk; peril; hazard: _his health was in jeopardy._  
 __jerboa__ _n_ (jerboas)  
-__jeremiad__  
+__jeremiad__ _n_ :two::astonished: A long mournful lamentation or complaint.  
 __jerk around__  
 __jerk__ _n_ _slang_ :two: Mean or unlikeable person.  
 __jerkin__ _n_ (jerkins) A close-fitting jacket or short coat, usu. sleeveless, often of leather. _Leather jerkins._  
@@ -7862,7 +7866,7 @@ __lacquered__ _v_
 __lacrosse__ _n_ :three::camera::hammer: _A lacrosse team._ _Lacrosse games._  
 __lacuna__ _n_ A gap or missing part, as in a manuscript, series, or logical argument; hiatus.  
 __lacustrine__ _adj_  
-__lacy__ _adj_ Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._  
+__lacy__ _adj_ :two: Of, relating to, or resembling lace. _Cypress trees that were lacy with new leaf._ _Lacy buttresses._  
 __lad__ _n_  
 __laddie__  
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
@@ -8177,7 +8181,7 @@ __liniment__ _n_ A medicinal liquid that is rubbed into the skin to relieve musc
 __lining__ _n_ :two::hammer: _My stomach lining._  
 __links__ _n_ :two: __1__ A golf course. _The links course._  
 __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy like lint._ _Methods to prevent lint fires in your dryer._ _With lint in his navel._  
-__lintel__ _n_ _Stone lintels._ :es: dintel  
+__lintel__ _n_ :two::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_  
 __lionized__ _v_  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
@@ -10353,6 +10357,7 @@ __piggy-back__
 __pigheaded__ _adj_ Obstinate.  
 __pignole__ _n_ :astonished::mega; Pine nuts.  
 __pigs in a blanket__ _n_ (food) :camera:  
+__pigsty__ _n_ (BrE) A pigpen.  
 __pigtail__ _n_ :two::hammer: (pigtails)  
 __pilaf__ _n_ _Chicken pilaf._  
 __Pilates__ _n_ :mega: (Etymology: Joseph H. Pilates †1967 U.S. (German-born) fitness instructor.)  
@@ -10684,7 +10689,7 @@ __porringer__
 __porta-potty__ _n_ :three: A toilet that is in a small plastic building that can be moved.  
 __portable building__ _n_ A portable, demountable or transportable building is a building designed and built to be movable rather than permanently located. :es: barracones  
 __portal__  
-__portcullis__ _n_ A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
+__portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
 __portentous__  
@@ -11345,7 +11350,7 @@ __rapacious__ _adj_ :two: Never satisfied until you have taken everything that y
 __rape__ _n_ _The fields of rape were in full glorious bloom._  
 __rapidly__  
 __rapier__ _n_ :three: (rapiers) A straight sword with a narrow blade and two edges.  
-__rapine__ _n_ :two: The violent seizure and carrying off of another’s property; plunder.  
+__rapine__ _n_ :three: The violent seizure and carrying off of another’s property; plunder.  
 __rapping__ _v_  
 __rapport__ _n_ A friendly, harmonious relationship; especially a relationship characterized by agreement, mutual understanding, or empathy that makes communication possible or easy.  
 __rapprochement__ _n_ :three::hammer:  
@@ -14175,6 +14180,7 @@ __syndicate__ _n_ :pencil2: _The national gambling syndicate._
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
 __synesthesia__ _n_  
+__synod__ _n_ :pencil2:  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
 __synoptical__  
 __syphilis__ _n_ :pencil2:  

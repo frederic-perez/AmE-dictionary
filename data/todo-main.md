@@ -1,18 +1,3 @@
-__ghoulish__ _adj_  
-__defection__ _n_  
-__synod__ _n_ :pencil2:  
-__issue__ _n_ :two::hammer: _She died without issue._ (decendency?)  
-__donjon__ _n_ _The donjon was impervious to time._  
-__impervious__ _adj_ _The donjon was impervious to time._  
-__lintel__ _n_  
-__portcullis__ _n_ :camera:  
-__crenellated__ _adj_ _Crenellated walls._  
-__appease__ _v_  
-__rapine__ _n_  
-__jeremiad__ _n_ :astonished: A long mournful lamentation or complaint.  
-__pigsty__ _n_ (BrE) A pigpen.  
-__buttres__ _n_ _Lacy buttresses._  
-__lacy__ _adj_ Consisting of or resembling lace. _Lacy buttresses._  
 __lugubrious__ _adj_ Excessively mournful; doleful.  
 __ghoulish__ _adj_ Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __damnation__ _n_  
