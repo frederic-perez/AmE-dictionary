@@ -206,7 +206,7 @@ __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or ot
 __aero-hydroponics__  
 __aerospike engine__ _n_  
 __afar__ _adv_ :three: From, to, or at a great distance. _I’ve been watching his magnificent season from afar._ :es: lejos  
-__affable__ _adj_  
+__affable__ _adj_ :two::hammer: /AF-uh-bul/  
 __affiance__ _v_ To bind in a pledge of marriage; betroth.  
 __affidavit__ _n_ :seven::hammer:  
 __affiliate__  
@@ -1286,6 +1286,7 @@ __Black Maria__ _n_ Van used by police to transport prisoners. _Frost disappeare
 __black out__ _phr v_ :three::hammer: (blacked out)  
 __black powder__  
 __black smoke__  
+__black swan__ _n_ /BLAK swan/ [:scroll: From the former belief that all swans were white until black swans were discovered in Australia in 1697.] __1__ An unpredictable occurrence that has major consequences. __2__ Something extremely rare.  
 __black-eyed peas__  
 __blackball__ _v_ Expel from a community or group. _Syn_ banish, cast out, ostracize, shun, ban _They must not know about my sordid past, because if they did, they would immediately blackball me._  
 __blackbirder__  
@@ -3692,7 +3693,7 @@ __dendritic__
 __dengue fever__  
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
-__denigrate__ _v_ _It denigrates your performance considerably._  
+__denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
 __denizen__ _n_ :four::hammer: (denizens)  
 __denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
@@ -4611,7 +4612,8 @@ __ends__ _n_ __1__ _slang_ Money. __2__ The plural of end. _Until the ends of th
 __endurance__ _n_ _Endurance race._  
 __endure__ _v_ Last for a long time.  
 __enduring__ _v_  
-__enervate__ _v_ To weaken.  
+__enervate__ _v_ :astonished: To weaken.  
+__enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
 __engage__ _v_ _I’m engaged with my work._  
@@ -6659,6 +6661,7 @@ __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo
 __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
 __henchwoman__ _n_  
 __henna__  
+__henpeck__ _v tr_ /HEN-pek/ [:scroll: The word hen has been used for a woman or a girl for a long time (1555). So has the verb peck for nagging (1641).] To criticize, nag, pester, etc. in a persistent manner. The word is often used in reference to a wife nagging her husband. A henpecked husband is one considered subservient to his wife and a chickenpecked parent is one nagged, harassed, or bullied by a child. _Syn_ carp at, fuss at, nag, peck at, pick on  
 __Henrietta Lacks__ _n_  
 __Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
 __herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
@@ -8739,6 +8742,7 @@ __meretricious__ _adj_ :two::hammer:
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
 __merit__ _n_ :two::hammer:  
+__meritorious__ _adj_ /mair-uh-TOR-ee-us/ Deserving of honor or esteem. _At the gathering, the company’s president expressed his gratitude to employees for their meritorious service._  
 __mermaid__ _n_  
 __merman__ _n_  
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
@@ -13744,6 +13748,7 @@ __stippled finish__ _n_ A dotted or a pebbly-textured finish on a surface coat o
 __stipulate__ _v_ :two::hammer:  
 __stipulation__ _n_ :two::hammer:  
 __stir up a hornet’s nest__ _fig_ To create a lot of trouble.  
+__stir-crazy__ _adj_ :dart: /STER-KRAY-zee/ Distraught because of prolonged confinement. _Guests at the ski lodge began going stir-crazy after Day 3 of being snowed in by the blizzard._  
 __stir<sup>1</sup>__ _n_  
 __stir<sup>2</sup>__ _v_ :three::hammer: (stirred, stirring :pencil2:)  
 __stirring__ _adj_ :three::hammer: _Stirring tales._  
@@ -14014,6 +14019,7 @@ __summonses__ _n pl_
 __sump pump__  
 __sump__ _n_ :two::hammer:  
 __sumptuary__ _adj_  
+__sumptuous__ _adj_ Of a size or splendor suggesting great expense; lavish. _Syn_ deluxe, opulent, princely, luxurious _The sumptuous homes of the wealthy were full of gilding and ornament._  
 __Sun Belt__ _n_ :two: (sun belt) The southern U.S. states, where it is generally warm and sunny. _Sun Belt cities (Tampa, Phoenix, etc.)_  
 __sunburn__ _n_  
 __Sunday__ _n_ :mega: /’söndi, -deI/  
@@ -14707,7 +14713,7 @@ __tomb__ _n_ :mute:[tom~~b~~]
 __tomboy__  
 __tombstone__ _n_  
 __tomcat__  
-__tome__ _n_ A large heavy book, usually about a serious subject.  
+__tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A tome is a large or scholarly book. _The book is a literary tome set during the French Revolution._  
 __tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __tommyrot__ _n_ Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
@@ -15187,6 +15193,7 @@ __undoing__ _n_
 __undoubtedly__  
 __undue__  
 __undulant__ _adj_ /ˈʌndjʊlənt/ Resembling waves in occurrence, appearance, or motion.  
+__undulate__ _v_ To cause to move in a smooth wavelike motion. _Syn_ roll _The singer undulated her hips to the rhythm of the song._  
 __undulating__ _v_  
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
