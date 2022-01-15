@@ -1,15 +1,3 @@
-__lugubrious__ _adj_ Excessively mournful; doleful.  
-__ghoulish__ _adj_ Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
-__damnation__ _n_  
-__ghastly__ _adj_ _A ghastly affair._  
-__dissipation__ _n_  
-__lady-in-waiting__ _n_ A lady who is in attendance upon a queen or princess.  
-__dally__ _v_  
-__effigy__ _n_  
-__circumspect__ _adj_ Cautious, prudent, or discreet.  
-__prescient__ _adj_  
-__allay__ _v tr_  
-__morbid__ _adj_  
 __donjon__ _n_ :two::hammer:  
 __boudoir__ _n_  
 __prolixity__  

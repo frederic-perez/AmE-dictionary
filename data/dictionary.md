@@ -328,7 +328,7 @@ __all-nighters__ _n_
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
-__allay__ _v_ :four::hammer: (allayed)  
+__allay__ _v tr_ :five::hammer: (allayed)  
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
 __allegedly__  
@@ -2531,6 +2531,7 @@ __circumcircle__
 __circumlocution__ _n_  
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
+__circumspect__ _adj_ Cautious, prudent, or discreet.  
 __circumsphere__  
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
@@ -3458,13 +3459,13 @@ __dainty__ _adj_ _Dainty eyebrows._
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
 __dalliance__  
-__dally__ _v_ :five::hammer: (dallied, dallying)  
+__dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
 __dam__ _n_ _The Hoover Dam._  
 __damask__ _n_ :two::hammer: _Apparel of fine damask._  
 __dammit__  
 __damn__ _adj, adv, n, v_ :mute:[dam~~n~~]  
-__damnation__  
+__damnation__ _n_ :two::hammer:  
 __damnification__ _n_  
 __damnify__ _v_ To cause loss or damage to (a person); injure.  
 __damning__ _adj_ :four::astonished: Causing incrimination: _damning evidence._ _A damning independent inquiry._ _A damning veredict._  
@@ -3988,7 +3989,7 @@ __dissimilarly__
 __dissimulate__ _v_ :two::pencil2::hammer:  
 __dissing__ _v_  
 __dissipate__ _v_  
-__dissipation__  
+__dissipation__ _n_ :two::hammer:  
 __dissociate__ _v_ :pencil2:  
 __dissolute__ _adj_ :two::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
@@ -4451,7 +4452,7 @@ __eerily__ _adv_ :three::hammer:
 __effect__ _v_  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
 __efficacious__ _adj_ Having the power to produce a desired effect. Efficacious suggests possession of a special quality or virtue that makes it possible to achieve a result: _a detergent that is efficacious in removing grease._  
-__effigy__ _n_ :four::hammer: (effigies)  
+__effigy__ _n_ :five::hammer: (effigies)  
 __effing<sup>1</sup>__ _adv_ _vulgar slang_ Used as an intensive.  
 __effing<sup>2</sup>__ _adj_ _vulgar slang_ Used as an intensive.  
 __effluent__  
@@ -5877,7 +5878,7 @@ __getaway day__
 __getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
-__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
+__ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ _A ghastly affair._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
 __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._  
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ _n_ :mute:[g~~h~~etto]  
@@ -5887,7 +5888,7 @@ __ghost word__ _n_ A word form that has entered the language through the perpetu
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
-__ghoulish__ _adj_ :two: Strangely diabolical or cruel; monstrous.  
+__ghoulish__ _adj_ :three: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
 __gibe__ _n_ :two: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
@@ -7875,6 +7876,7 @@ __laddie__
 __laden__ _adj_ :four: Heavily loaded or weighed down. _A suicide attack rammed an explosives-laden vehicle into the main gate of his home._ _Debt-laden banks._ _Salt laden marine environments._  
 __lading__ _n_ _Checking bills of lading._  
 __lady of Shalott__  
+__lady-in-waiting__ _n_ A lady who is in attendance upon a queen or princess.  
 __lady-killer__ _n slang_ A man considered to be extremely attractive to women.  
 __ladybird__ _n_  
 __ladyfinger cookies__  
@@ -8369,6 +8371,7 @@ __lug wrench__ _n_ :two::hammer:
 __lug__ _v_ :nine::hammer: (lugs, lugging) _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._  
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
+__lugubrious__ _adj_ Excessively mournful; doleful.  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :four::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
@@ -8991,6 +8994,7 @@ __moral__
 __morale__ _n_ :four::hammer: _The sunken morale left by defeats._  
 __morass__ _n_ :three::hammer: (morasses) _Morasses of salt._  
 __moratorium__ _n_ :two::hammer:  
+__morbid__ _adj_  
 __morbidity__ _n_ :three: The relative incidence of a particular disease. _COPD is responsible for considerable morbidity and mortality._ _Conditions such as back pain and arthritis are the biggest cause of morbidity in the UK._  
 __morcellator__  
 __more than meets the eye__  
@@ -10824,7 +10828,7 @@ __prerogative__ _n_ :eight::hammer:
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :eight: Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
+__prescient__ _adj_ :nine: /prĕsh′ənt, -ē-ənt, prē′shənt, -shē-ənt/ Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
