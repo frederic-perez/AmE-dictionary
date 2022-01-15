@@ -43,7 +43,9 @@
 - __Mel__ Abbreviated version of the given names Melvyn, Melvin, Melanie, Melika, Melhem, Melina, Melinda, Melody, Melissa, Melitta, Melchior, Melindro.
 - __Mia__ Mia is a female given name, originating as a hypocoristic of various unrelated names. It is usually derived from the name Maria and its variants (Miriam, Maryam, Mary), but it is reportedly also used as a hypocoristic of names such as Amalia, Amelia, Emilia, Emily or Maya.
 - __Pam__ Often a diminutive form of Pamela.
+- __Pat__ Pat is originally a nickname for Patrick or Patrica, though it can be used for any name beginning with “Pat.” Occasionally Pat is used as a given name.
 - __Ray__ Ray is a masculine given name and short form (hypocorism) of Raymond.
+- __Ren__ Nickname for Reginald or other Ren- names, or a variant of Rene. It was used occasionally before the success of the cartoon “Ren and Stimpy.”
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
 - __Rod__ A common diminutive of various masculine given names, including Rodney, Roderick, Rodford and Rodion.
 - __Roy__ Roy is a masculine given name and a family surname with varied origin.
