@@ -3888,7 +3888,7 @@ __disbelief__ _n_
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
-__disciple__ _n_ :mute:[dis~~c~~iple]  
+__disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
 __disclaimer__ _n_ :two::hammer:  
 __discombobulate__ _v_ :three::pencil2: To throw into a state of confusion. _Syn_ befuddle  
 __discomfited__ _adj_ :two: Uncomfortable.  
@@ -4585,7 +4585,7 @@ __enamel__ _n_ :two::hammer: :es: esmalte
 __enamored__  
 __encampment__ _n_ :two::hammer:  
 __enclave__ _n_ /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
-__encomium__ _n_ (Literary & Literary Critical Terms) A formal expression of praise; eulogy; panegyric.  
+__encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
@@ -4753,7 +4753,7 @@ __etymological__ _adj_ _Etymological dictionaries show how languages borrow word
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
 __eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
-__euphemism__ _n_ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_]  
+__euphemism__ _n_ :two: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
@@ -5963,7 +5963,7 @@ __gloom<sup>1</sup>__ _n_ :five::hammer: _She was hidden in the gloom._
 __gloom<sup>2</sup>__ _v_  
 __gloomy__ _adj_ _Winter is coming—but will the gloomiest forecasts come to pass?_  
 __gloppy__ _adj_ _It will be thick, gloppy, wall-paper-paste-type snow._  
-__gloss__ _v_ :three::hammer: (glossing) _We mustn’t gloss over disagreements._  
+__gloss__ _v_ :four::hammer: /GLAHSS/ (glossing) _We mustn’t gloss over disagreements._  
 __glossiness__  
 __glossolalia__ _n_ /glos-uh-LAY-lee-uh/ [:scroll: From Greek glosso- (tongue, language) + -lalia (chatter, babbling), from lalein (to babble).] Unintelligible utterances occurring during religious excitation, schizophrenia, etc. Also known as speaking in tongues.  
 __glossophobia__ _n_ The fear of public speaking. From Greek glosso- (tongue, language) + -phobia (fear).  
@@ -8965,6 +8965,7 @@ __monkey suit__
 __monkey wrench__  
 __monogramming__  
 __mononyms__  
+__monophobia__ _n_ An abnormal fear of being alone.  
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
 __monsoon__ _n_ :four::hammer:  
@@ -9698,6 +9699,7 @@ __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive dege
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
 __ostracize__ _v_ :eight::pencil2: /AH-struh-syze/ (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
+__ostrichism__ _n_ /OS-tri-chiz-uhm/ [:scroll: From the erroneous popular belief that ostriches bury their heads in the sand when facing danger.] The act or policy of refusing to face reality or unpleasant facts. The act of refusing to accept reality or hiding one’s head in the sand.  
 __OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
@@ -10184,7 +10186,7 @@ __pensive__ _adj_ :four::hammer: _You look pensive._
 __pensively__  
 __pensum__ _n_ A task given, especially as a punishment.  
 __pent-up__ _adj_ :three::hammer: _Years of pent-up misery._ _Scott let loose a bit of pent-up frustration armed at NFL Commissioner Roger Goodell._  
-__penurious__ _adj_ _Syn_ stingy, parsimonious  
+__penurious__ _adj_ :two: Unwilling to spend money. _Syn_ stingy, parsimonious _When solicited for a donation, the penurious man began to extend a nickel, but, thinking twice, withdrew it._  
 __peoples__ _pl n_ :three: A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __pep talk__ _n_ _Giving Chris Gethard a pep talk._  
 __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. It takes a lot of pep (and pom-poms) to be a cheerleader. _A pep talk._ _The Huskies were the ones with pep in their step._  
@@ -12257,7 +12259,7 @@ __scimitar__ _n_ :three::hammer:
 __scintilla__ _n_  
 __scintillating__ _adj_ :four::hammer: _Scintillating company._  
 __scintillometer__  
-__scion__ _n_ :four::hammer:  
+__scion__ _n_ :five: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an illustrious family. __2__ A shoot or twig, esp. one cut for grafting or planting.  
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
