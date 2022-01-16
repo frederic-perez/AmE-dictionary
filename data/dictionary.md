@@ -1017,7 +1017,7 @@ __bays__ _n_
 __bazillion__  
 __BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __beach__ _v_  
-__beachhead__ _n_  
+__beachhead__ _n_ :four::hammer:  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -1561,7 +1561,7 @@ __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
 __bottled up__ _v_  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
-__boudoir__ _n_  
+__boudoir__ _n_ :two::hammer:  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
@@ -3994,7 +3994,7 @@ __dissociate__ _v_ :pencil2:
 __dissolute__ _adj_ :two::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
 __dissonance__  
-__dissuade__ _v_ :pencil2::four::hammer: (dissuaded)  
+__dissuade__ _v_ :pencil2::five::hammer: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
 __distinct__ _adj_ :three::hammer: _A distinct throwback to the poster covers of the early magazines._  
@@ -4084,7 +4084,7 @@ __domino effect__ _n_ A cumulative effect produced when one event sets off a cha
 __don__ _v_ Put on (an item of clothing).  
 __don’t tell me it’s raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
-__donjon__ _n_ _The donjon was impervious to time._  
+__donjon__ _n_ :three::hammer: _The donjon was impervious to time._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
 __donnybrook__ _n_ [:scroll: After _Donnybrook Fair_, an annual event until 1855 near Dublin.] A melee; a free-for-all. _Syn_ brawl  
@@ -4301,7 +4301,7 @@ __DSLR__
 __dub__ _v_ (dubbed)  
 __dubious__ _adj_ :five::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
-__duchy__ _n_  
+__duchy__ _n_ :two::hammer:  
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
@@ -4331,7 +4331,7 @@ __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correc
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
 __dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
-__dumbfounded__ _v_ :three::hammer:  
+__dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
 __dumbstruck__ _adj_ :two::hammer:  
 __dummy__ _n_  
 __dump<sup>1</sup>__ _n_ _A munitions dump._  
@@ -4372,7 +4372,7 @@ __dye__ _v_ (dyes, dyed, dyeing) :pencil2:
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :three::pencil2::hammer:  
 __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
-__dysentery__ _n_ Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
+__dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
@@ -5674,6 +5674,7 @@ __full-court press__ _n_
 __full-fledged__ _adj_ :two::hammer: _Full-fledged work._  
 __full-mask helmet__ _n_  
 __fullback__ _n_ _football_ :two::hammer: (fullbacks)  
+__fuller__ _n_ _A crowd of fullers and weavers._  
 __fullness__  
 __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
 __fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
@@ -10959,7 +10960,7 @@ __prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly 
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
 __prolix__ _adj_ :three: Using too many words and therefore boring.  
-__prolixity__ _n_ Excessive wordiness in speech or writing; longwindedness.  
+__prolixity__ _n_ :two: Excessive wordiness in speech or writing; longwindedness.  
 __prolog__ _n_ :two::hammer:  
 __promenade__ _n_ :two::hammer:  
 __Promethean__ _adj_ Creative; boldly original.  
@@ -13124,7 +13125,9 @@ __smuggling__ _v_
 __smugly__ _adv_ :seven: In a self-satisfied manner. _To laugh smugly._  
 __smugness__  
 __smut__ _n_ _They want to report smut._  
-__snafus__  
+__snafu<sup>1</sup>__ _n_ :two: /snæˈfuː/ (Military) [:scroll: s(ituation) n(ormal) a(ll) f(ucked) u(p)] Confusion or chaos regarded as the normal state.  
+__snafu<sup>2</sup>__ _adj_ (postpositive) Confused or muddled up, as usual.  
+__snafu<sup>3</sup>__ _v tr_ (US and Canadian) To throw into chaos.  
 __snag<sup>1</sup>__ _n_ :five::hammer: (snags) :es: problema  
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snake charmer__ _n_ :astonished:  
@@ -15760,6 +15763,7 @@ __weather__ _v_ :two::hammer: (weathering)
 __weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
+__weaver__ _n_ _A crowd of fullers and weavers._  
 __webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __wedding anniversary__ _n_ (not “marriage anniversary”)  
 __wedding band__  
@@ -16117,6 +16121,7 @@ __workshop__ _v_ :three::astonished::hammer: (workshopped)
 __workstation__ _n_ :two::hammer:  
 __worktop__ _n_ A surface in a kitchen, often of heat-resistant laminated plastic, that is used for food preparation. :es: encimera _The marble effect Formica worktops were burned and scarred._  
 __world powers__ _n_ :astonished:  
+__worldliness__ _n_ _The worldliness of friars._  
 __wormed__ _v_  
 __wormhole__ _n_ :three: /WERM-hohl/ A hypothetical structure of space-time that is envisioned as a long thin tunnel connecting points that are separated in (well) space and time. _Some science fiction writers speculate that wormholes are the intergalactic highways of the future._  
 __worrisome__ _adj_ :four::hammer:  

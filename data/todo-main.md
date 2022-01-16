@@ -1,15 +1,3 @@
-__donjon__ _n_ :two::hammer:  
-__boudoir__ _n_  
-__prolixity__  
-__beachhead__ _n_ :three::hammer:  
-__duchy__ _n_  
-__dissuade__ _v_  
-__worldliness__ _n_ _The worldliness of friars._  
-__dumbfound__ _v_ _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
-__fuller__ _n_ _A crowd of fullers and weavers._  
-__weaver__ _n_ _A crowd of fullers and weavers._  
-__snafu__ _n_ (?)  
-__dysentery__ _n_  
 __improvidence__ _n_  
 __autocracy__ _n_  
 __wardship__ _n_  
