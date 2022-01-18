@@ -1318,6 +1318,7 @@ __blatantly__
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
 __blatherskite__ _n_  
 __blaze of glory__ _n_ :two: __1__ An impressive but brief display of strength before expiring, in the way that a fire burns more brightly shortly before burning out.  
+__blaze__ _v_ __2__ To prepare or lead (the way in an endeavor): _blazed the way in space exploration._  
 __blazing__  
 __bleach<sup>1</sup>__ _n_  
 __bleach<sup>2</sup>__ _v tr_ :two: __1a__ To remove the color from, as by means of chemical agents or sunlight: _Over time, the exposure to sunlight bleached the rug in front of the window._ _Bleached blonde hair._ __b__ To make white or colorless: _Dawn bleached the mountains._ __2__ To whiten by causing the death or expulsion of algal symbionts from (coral). _Warm waters bleached the coral._  
@@ -2397,6 +2398,7 @@ __chenier__
 __cherimoya__ _n_ (chirimoya)  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
+__cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, from Hebrew kerubim. Ultimately from the Semitic root krb (to praise).] A person, especially a child, with a sweet innocent appearance.  
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chevron__ _n_  
 __chewed up__  
@@ -3103,6 +3105,7 @@ __corsages__
 __cortisol__ _n_ _Cortisol is the primary stress hormone._  
 __coruscant__ _adj_ Shining or glittering.  
 __coruscate__ _v_ :four::astonished: Be lively or brilliant or exhibit virtuosity. _Syn_ sparkle, scintillate _The flutist.s music coruscated throughout the concert hall._  
+__corvine__ _adj_ Of, resembling, or characteristic of crows.  
 __cosset__ _v_  
 __cosseted__  
 __costliest__ _adj_ :two::hammer:  
@@ -8916,7 +8919,7 @@ __misuse__ _v_ :two::hammer: _It results in code that is easier to understand an
 __miter__ _n_  
 __mitigate__ _v_ :two::hammer:  
 __mitt__ _n_  
-__mitzvah__  
+__mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
 __MLK__  
@@ -12127,7 +12130,7 @@ __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
-__sanguine__ _adj_ :seven::hammer::astonished:  
+__sanguine__ _adj_ :eight::astonished: /SANG-gwin/ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
@@ -13700,7 +13703,7 @@ __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) T
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
-__stentorian__ _adj_ :three: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War.  
+__stentorian__ _adj_ :four: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War. _Syn_ booming _He was woken by the stentorian voice of his teacher, demanding to know why he wasn’t paying attention._  
 __Step ‘n’ Fetch It routine__  
 __step up__ _v_ :four::hammer:  
 __stepfather__ _n_ _(vs godfather)_  
@@ -13777,6 +13780,7 @@ __stodgiest__
 __stodgy__ _adj_ _The mainstream may sound too stodgy._  
 __stoke__ _v_ :nine::m: (stoked, stoking, stoke up) __1__ To add more coal or wood to a fire. _I stoked the furnace for the night._ __2__ To cause something to increase. _Rising oil prices stoked inflation._ _Stoking tensions._  
 __stoking__ _n_  
+__stola__ _n_ /STOH-luh/ A long, draped robe worn by women of ancient Rome. _The traditional garment worn by women in ancient Rome was the stola; men wore the corresponding toga._  
 __stolid__ _adj_ :four: Having or revealing little emotion or sensibility; not easily aroused or excited. _Syn_ impassive _Her face showed nothing but stolid indifference._  
 __stoma__ _n_  
 __stomach__ _v_ :three::hammer:  
@@ -14834,6 +14838,7 @@ __traffickers__
 __tragicomedy__ _n_  
 __tragus__ _n_ __1__ The projection of skin-covered cartilage in front of the meatus of the external ear. __2__ Any of the hairs growing at the entrance to the meatus of the external ear.  
 __trail mix__ _n_ :two: A mixture of high-energy foods, such as dried fruit, nuts, chocolate, and seeds, eaten as a snack especially by hikers. _Infused trail mix._  
+__trailblazer__ _n_ __1__ A leader or pioneer in a particular field __2__ A person who blazes a trail.  
 __trailed__ _v_ _Presidential candidate is trailed by allegaions of torture._  
 __trailer park__ _n_ (trailer camp) An area in which parking space for house trailers is rented, usually providing utilities and services.  
 __trailing plants__  
@@ -15343,7 +15348,7 @@ __upsell__ _v_
 __upselling__ _n_ :two: The practice of offering customers additional or more expensive products or services after they have already agreed to buy something.  
 __upset__ _n_ :two::hammer: _He scored 15 points to lead Syracuse to the upset._  
 __upsetting__  
-__upshot__ _n_ :seven::hammer:  
+__upshot__ _n_ :eight: The final outcome. _Syn_ conclusion, result _The upshot of the disagreement was that they broke up the partnership._  
 __upside__ _n_ :three: __1__ The upper side or portion. __2__ An advantageous aspect: _the upsides and downsides of home ownership._ _I like his speed, and I like his upside._ _The aging Knicks could use upside._ __3__ An upward tendency, as in business profitability or in the prices of a stock.  
 __upside-down__ _adj_ _An upside-down case._  
 __upskirt__ _v_ (upskirted)  
@@ -15965,6 +15970,7 @@ __wildness__
 __wilful__  
 __wilfull__  
 __will__ _v_  
+__will-o’-the-wisp__ _n_ /wĭl′ə-thə-wĭsp′/ __1__ Ignis fatuus. __2__ A delusive or misleading hope.  
 __willful__ _adj_ :three::hammer:  
 __willfully__  
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
@@ -16010,7 +16016,7 @@ __wingspan__ _n_
 __wingtips__  
 __winking__ _v_  
 __winnow__ _v_ :five::hammer: (winnowed, winnowing) [:scroll: Beginning as _windwian_ in Old English, winnow first referred to the removal of chaff from grain by a current of air.] _That is why we have the school, to winnow the chaff from the wheat._ _Nominations are winnowed down to 10 finalists._  
-__winsome__  
+__winsome__ _adj_ :two: /WIN-sum/ Pleasing or cheerful. Sweetly or innocently charming; winning; engaging: _a winsome smile._ _The interviewers all remarked on the candidate’s winsome personality, which made her stand out among the other qualified job applicants._  
 __winterize__ _v_ To prepare or equip (an automobile or house, for example) for winter weather.  
 __winterkill__  
 __wintry__ _adj_ :three: :es: invernal  
