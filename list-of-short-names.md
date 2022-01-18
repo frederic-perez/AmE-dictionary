@@ -46,8 +46,10 @@
 - __Pat__ Pat is originally a nickname for Patrick or Patrica, though it can be used for any name beginning with “Pat.” Occasionally Pat is used as a given name.
 - __Ray__ Ray is a masculine given name and short form (hypocorism) of Raymond.
 - __Ren__ Nickname for Reginald or other Ren- names, or a variant of Rene. It was used occasionally before the success of the cartoon “Ren and Stimpy.”
+- __Rex__ Rex, derived from the Latin word for king (regis), is a male given name. It is not a shorten name but is related to the names Reginald, Rexford, and Regis.
 - __Rob__ A masculine given name, frequently a shortened version (hypocorism) of Robert.
 - __Rod__ A common diminutive of various masculine given names, including Rodney, Roderick, Rodford and Rodion.
+- __Ron__ Ron is a given name. It is mostly used as a shortening of the name Ronald, but is also Hebrew for “joy.”
 - __Roy__ Roy is a masculine given name and a family surname with varied origin.
 - __Sam__ A given name or nickname, often used by people named “Samuel,” “Samson,” and “Samantha”, and occasionally used by people named “Salvatore.”
 - __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
