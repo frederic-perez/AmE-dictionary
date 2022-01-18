@@ -1000,7 +1000,7 @@ __bathwater__ _n_ Water in which a person bathes. _Let’s not throw out the bab
 __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.  
 __baton__ _n_ :two::hammer:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
-__batter<sup>2</sup>__ _v_ :two::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
+__batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
 __battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
@@ -1052,7 +1052,7 @@ __Bedouin__
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
 __bedrest__ _n_ Confinement to bed continuously (as in the case of some sick or injured persons).  
-__bedridden__ _adj_ :three::hammer: _She was practically bedridden._  
+__bedridden__ _adj_ :four: Confined to bed because of illness or infirmity. _She was practically bedridden._  
 __bedrock__ _n_ :seven: Bedrock is the hard layer of rock beneath looser rocks and soil. In some places, the bedrock is exposed, while in others it lies deep underground. A geologist who’s interested in studying the bedrock in different areas might have to dig through the various layers of soil to reach that bedrock. You can also use the word in a figurative way, to mean “the heart of the matter,” or “the basic, fundamental principles.” For example, you might say that fairness and freedom is the bedrock of a good government.  
 __bedrolls__  
 __bedspreads__ _n_  
@@ -2392,6 +2392,7 @@ __cheese__ _adj_
 __cheese-eater__  
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
+__cheesy__ _adj_  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
 __chenier__  
@@ -7270,6 +7271,7 @@ __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beat
 __ineffable__ _adj_ :four::hammer:  
 __ineffectual__  
 __inefficacious__ _adj_  
+__ineligible__ _adj_ /ĭn-ĕl′ĭ-jə-bəl/ __1__ Disqualified by law, rule, or provision: _ineligible to run for office; ineligible for health benefits._ __2__ Unworthy of being chosen; unfit: _considered her ineligible for the job._ _The patient was deemed deemed ineligible for traditional transplant._  
 __ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapable, unavoidable _Those war plans rested on a belief in the ineluctable superiority of the offense over the defense._  
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
@@ -7542,7 +7544,8 @@ __jaywalking__
 __jazz up__ _v_  
 __jazzy__  
 __jeans__ _n pl_ (plurale tantum)  
-__jeer__ _v_ :five::hammer: (jeered, jeering)  
+__jeer<sup>1</sup>__ _n_ A scoffing or taunting remark or shout.  
+__jeer<sup>2</sup>__ _v_ :five::hammer: (jeered, jeering)  
 __Jehova’s Witness__  
 __jejune__ _adj_ :two: Not interesting; dull. _Syn_ insipid _A jejune novel._  
 __jell__ _v_ _The plans didn’t jell._  
@@ -8498,7 +8501,7 @@ __mallards__
 __malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
 __mallet__ _n_  
 __mallow__ _n_ :pencil2:  
-__malnourished__  
+__malnourished__ _adj_ :two: Affected by improper nutrition or an insufficient diet.  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
 __mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
@@ -11211,6 +11214,7 @@ __quavering__
 __quay__ _n_  
 __queasiness__ _n_ _There was queasiness among many residents._  
 __queasy__ _adj_ :five: Causing or suffering from nausea: _feeling queasy after a meal._  
+__queen__ _n_ :astonished: __6__ A mature female cat, especially one kept for breeding purposes.  
 __queer<sup>1</sup>__ _adj_  
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
@@ -13038,6 +13042,7 @@ __slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his
 __sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
+__slowdown__ _n_  
 __slubber__ _v_ :two::dart: To do in a hurried or imperfect manner.  
 __sludge__ _n_ :three: Sludge is thick, damp, almost sticky stuff. If your friend dares you to climb through an old sewer pipe, you might want to check first to see if it’s full of sludge. Any thick, viscous matter. _Sam felt the sludge of too much caffeine and fast food in his blood._ _She felt the alcohol turnto an itchy sludge in her blood._ _Oil sludge._  
 __slug down__ _v_ _He slugged down four martinis._  
@@ -13134,6 +13139,7 @@ __snafu<sup>3</sup>__ _v tr_ (US and Canadian) To throw into chaos.
 __snag<sup>1</sup>__ _n_ :five::hammer: (snags) :es: problema  
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snake charmer__ _n_ :astonished:  
+__snakebite__ _n_  
 __snap<sup>1</sup>__ _n_ :two::hammer: _He played for nine snaps, and rushed four times for 14 yards._ _Played seven more snaps._ _He took his first snaps with the starters._  
 __snap<sup>2</sup>__ _v_ :two::hammer:  
 __snap<sup>3</sup>__ _adj_ _Snapping dog._  
@@ -16197,6 +16203,7 @@ __xenobiotic<sup>1</sup>__ _n_
 __xenobiotic<sup>2</sup>__ _adj_  
 __xenoestrogen__ _n_  
 __xenophile__ _n_ A person attracted to that which is foreign, especially to foreign peoples, manners, or cultures.  
+__xenotransplantation__ _n_ The surgical transfer of cells, tissues, or especially whole organs from an organism of one species to an organism of a different species. _Syn_ xenotransplant  
 __xeriscape__ _n_  
 __XLNC__ _gramo_ Excellency.  
 __XMM__ _gramo_ Exams.  
