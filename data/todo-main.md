@@ -1,15 +1,3 @@
-__improvidence__ _n_  
-__autocracy__ _n_  
-__wardship__ _n_  
-__smitten__  
-__abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
-__acquiesce__ _v_  
-__chattel__ _n_  
-__surmount__ _v_  
-__recant__ _v_ _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
-__convene__ _v_ _A War Council was convened._  
-__topple__ _v_ _Men-at-arms on ladders climbed to the very brink of the walls to be toppled back._  
-__brambles__ _n_  
 __lark__ _n_  
 __cupidity__  
 __spade__ _n_ :two::hammer:  

@@ -32,6 +32,7 @@ __A4__ _adj, n_ :astonished: _A4 stainless steel._
 __abacus__ _n_ :mega:/ ăb′ə-kəs, ə-băk′əs/  
 __abalone__ _n_ :two::hammer:  
 __abandon__ _n_ Freedom from inhibitions, restraint, concern, or worry: _she danced with abandon._ _Netflix is spending with abandon._  
+__abase__ _v_ _To abase a King and leave him on the throne has its dangers._  
 __abasement__ _n_  
 __abashed__ _adj_ :three: Ill at ease, embarrassed, or confused; ashamed.  
 __abasiophilia__ _n_  
@@ -125,7 +126,7 @@ __acolyte__ _n_ :four::hammer: (acolytes)
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
-__acquiesce__ _v_ :four: To agree to something or to accept something, although you do not want to.  
+__acquiesce__ _v_ :five: To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
@@ -762,7 +763,7 @@ __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, T
 __authorial__  
 __authoritative__ _adj_  
 __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
-__autocracy__ _n_ :two: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
+__autocracy__ _n_ :three: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
@@ -1606,7 +1607,7 @@ __brainpower__ _n_
 __brainwash__ _v_  
 __brainy__ _adj_ Having or marked by unusual and impressive intelligence. _Syn_ smart as a whip, brilliant _The brainy teen was surprised to see books she had read in fourth grade on her summer reading list for high school._  
 __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liquid in a closed pot. _Braised beef._ _Braised turkey and gravy stuffing._ :es: estofar  
-__brambles__ _n_ :five::hammer: :es: zarza  
+__brambles__ _n_ :six::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
 __brander__  
@@ -2362,7 +2363,7 @@ __chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castiga
 __chastisement__ _n_  
 __chasuble__ _n_ :two::hammer:  
 __chatelaine__ _n_  
-__chattel__  
+__chattel__ _n_ :two::hammer:  
 __chatter<sup>1</sup>__ _n_ _A machine-gun chatter._  
 __chatter<sup>2</sup>__ _v_  
 __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
@@ -3015,7 +3016,7 @@ __controversial__
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
-__convene__ _v_ :eight: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._  
+__convene__ _v_ :nine: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
 __convenience store__  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
@@ -7170,7 +7171,7 @@ __imprint<sup>1</sup>__ _n_ :two::hammer:
 __imprint<sup>2</sup>__ _v_  
 __imprison__ _v_ :three::hammer: (imprisoned) _They could imprison people._ _Simpson has been imprisoned for almost nine years._  
 __impromptu__ _adj_ :three::hammer: _Some things are impromptu._ _The impromptu duet._  
-__improvidence__  
+__improvidence__ _n_ :two::hammer:  
 __improvident__ _adj_  
 __impunity__ _n_ :two: Exemption or freedom from punishment, harm, or loss.  
 __in a nutshell__  
@@ -11475,7 +11476,7 @@ __rec__ _n_ _informal_ Recreation. _Damonika has worked as youth and rec leader.
 __recalcitrant__ _adj_ :four: Marked by stubborn resistance to and defiance of authority or guidance. _Syn_ refractory  
 __recall<sup>1</sup>__ _n_ :three::hammer:  
 __recall<sup>2</sup>__ _v_  
-__recant__ _v_ :four::hammer: (recanted)  
+__recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
 __recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
@@ -14090,7 +14091,7 @@ __surge<sup>2</sup>__ _n_
 __surliness__  
 __surly__ _adj_ :six: Unfriendly and rude. _A waiter with a surly attitude._  
 __surmise__ _v_ :eight::hammer: (surmised, surmising)  
-__surmount__ _v_ :two::hammer: (surmounted)  
+__surmount__ _v_ :three::hammer: (surmounted)  
 __surmountable__  
 __surname__ _n_ :two::mega::hammer:  
 __surpass__ _v_  
@@ -14776,7 +14777,7 @@ __top-of-mind__
 __topiary__ _adj_ :two::hammer: _Topiary figures adorned the gardens._  
 __topical__ _adj_ _She had applied a topical steroid to the leg lesions._  
 __toponym__ _n_  
-__topple__ _v_ :three::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._  
+__topple__ _v_ :four::hammer: _Warriors topple Raptors for fifth straight story._ _Church towers toppled._ _Men-at-arms on ladders climbed to the very brink of the walls to be toppled back._  
 __tops__ _adv_ :dart: At a maximum; at most: _I’ll give you $25 for that, tops._ _“Ten minutes, tops,” he shouted._  
 __topsy-turvy<sup>1</sup>__ _adj_ :five: __1__ Upside down. __2__ In a state of confusion. _Topsy-turvy battles._  
 __topsy-turvy<sup>2</sup>__ _adv_ In a topsy-turvy manner.  
@@ -15695,7 +15696,7 @@ __warblers__
 __ward off__ _phr v_ :two: o prevent.  
 __warden__ _n_ :two: __1__ The chief administrative official of a prison.  
 __wardrobe__ _n_ :two::hammer: _Left Bank wardrobe._ _Professional wardrobe._  
-__wardship__ _n_  
+__wardship__ _n_ :two::hammer:  
 __warehouse__ _v_ :two::hammer: (warehoused)  
 __warehousing__  
 __wares__ _pl n_ :four: Goods for sale. _Inmates sell artwork and wares they have made in clubs or workshops within the prison._  
