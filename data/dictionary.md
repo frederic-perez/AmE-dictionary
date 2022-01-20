@@ -1265,6 +1265,7 @@ __birds of the same feather__
 __birdseed__ _n_ Seeds that you give to birds as food.  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
+__birthstone__ _n_ A gemstone associated with a particular month and customarily worn by persons born during that month.  
 __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A crisp Italian cookie traditionally flavored with anise and often containing almonds or filberts.  
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
@@ -3551,6 +3552,7 @@ __debasing__ _v_
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
 __debauchery__ _n_ :four::hammer:  
+__debilitating__ _adj_ /dih-BILL-uh-tay-ting/ Causing serious impairment of strength or ability to function. _The flu can be debilitating for several days._  
 __debonair__ _adj_  
 __debouch__ _v_ __1__ March out (as from a defile) into open ground. _The regiments debouched from the valley._ __2__ Pass out or emerge; especially of rivers. _The tributary debouched into the big river._  
 __debrief__ _v_  
@@ -3613,7 +3615,8 @@ __deer__ _adj_ _A deer survey._
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
 __defanging__ _n_  
-__default__ _v_ :five::hammer: _The Solar Energy company defaulted._  
+__default<sup>1</sup>__ _n_  
+__default<sup>2</sup>__ _v_ :five::hammer: _The Solar Energy company defaulted._  
 __defect__ _v_ :eight: (defected) To desert one’s country, cause, allegiance, etc, esp in order to join the opposing forces. _A Soviet grandmaster had defected to the West._ _Syn_ desert, go over to the enemy, change sides/loyalties/allegiances, turn traitor  
 __defection__ _n_ :nine: Withdrawing support or help despite allegiance or responsibility. _Syn_ desertion, abandonment _Booing over Heyward’s defection._  
 __defective__ _adj_  
@@ -5798,7 +5801,7 @@ __garish__ _adj_ :six::hammer::astonished: _They are charming and garish at the 
 __garland__ _n_ :four::camera::hammer: _Garland motifs on carved oak paneling._ _Evergreen garlands._ _A garland of flowers._  
 __garment__  
 __garner__ _v_ :nine::m: (garnered, garnering) Gather or collect (something, especially information or approval). _The police struggled to garner sufficient evidence._ _Syn_ gather, collect, accumulate, amass, assemble  
-__garnets__ _n_  
+__garnet__ _n_ :two::hammer: :es: granate  
 __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or savory touches to (food or drink). __2__ To equip with accessories. _Syn_ furnish __3__ Garnishee.  
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
@@ -7087,6 +7090,7 @@ __ides__ _n_
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
 __idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no known cause.  
+__idiosyncrasy__ _n_ A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idle__ _v_  
@@ -9367,7 +9371,7 @@ __nomadic__
 __nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
-__non sequitur__ _n_ :six: __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. :es: incongruencia  
+__non sequitur__ _n_ :seven: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
 __non-committal__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
@@ -12608,6 +12612,7 @@ __sheet__ _n_ :two:
 __sheeting__  
 __sheik__ _n_ :two::pencil2: __1__ An Arab leader, in particular the chief or head of an Arab tribe, family, or village. _Sheikh Zayed Bin Sultan al-Nahyan._ :es: jeque __2__ A leader in a Muslim community or organization.  
 __sheikhs__  
+__shekel__ _n_ (sheqel) /SHEK-uhl/ [:scroll: From Hebrew sheqel, from shaqal (to weigh). Ultimately from the Semitic root tql (to weigh), which also gave us scallion and shallot.] __1__ Money; wealth; cash. __2__ A monetary unit of Israel.  
 __shell out__ _v_ :three::hammer:  
 __shell road__  
 __shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
@@ -16075,7 +16080,7 @@ __withes__ _n_ :two::hammer:
 __withhold__ _v_ :two::hammer::pencil2:  
 __withstand__ _v_ :three::hammer:  
 __witty__ _adj_  
-__wizened__ _adj_ :four: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness.  
+__wizened__ _adj_ :five: “You’re looking quite wizened today,” is a something you should never, ever say to your grandmother, no matter how shriveled with age she might be. Think of a caricature of a witch — not your beloved granny. Lean and wrinkled by shrinkage as from age or illness. _Syn_ shrunken, withered, shriveled _The wizened face of the man of law was twisted into a wrinkled smile._  
 __wobble__ _v_ (wobbling)  
 __wobbly__ _adj_ :three::hammer: _Wobbly dome of yolk._  
 __woe__ _n_ :four: (woes) Misfortune; calamity: _economic and political woes._ _Born to woe._ :es: Nacido para el infortunio.  
@@ -16279,7 +16284,7 @@ __yummy__
 __yurt__ _n_ :two::hammer: (yurts)  
 __zaftig__ _adj_ _slang_ (zoftig) (of a woman) Having a pleasantly plump figure. _Portraits of zaftig models are exhibited in the artist’s collection._  
 __zaniness__ _n_ :two::hammer:  
-__zany__ _adj_ :eight: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
+__zany__ _adj_ :nine: Amusingly unconventional and idiosyncratic. _His zany humour._ _Syn_ eccentric, bizarre, weird, peculiar, odd, quirky _A zany zebra._ _Zany fruitcakes._ :es: estrafalario, surrealista  
 __zarf__ _n_  
 __zeal__ _n_  
 __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a cause, especially a religious one. _Syn_ drumbeater, partisan _Jane, who had dabbled in vegetarianism during high school, became an environmental zealot while in college._  
