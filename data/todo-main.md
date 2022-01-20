@@ -1,15 +1,4 @@
-__lark__ _n_  
-__cupidity__  
-__spade__ _n_ :two::hammer:  
-__whim__ _n_  
-__ribald__  
-__afire__  
-__stupendous__ _adj_ _A stupendous twelve-hour sermon._  
-__syllogism__ _n_  
-__tiara__ _n_ _The papal tiara._  
-__dissension__ _n_ (?)  
-__inadequacy__  
-__pilloried__ _v_  
+
 __meagerly__ _adv_ _Churches were empty and mass meagerly attended._  
 __dissolute__ _adj_  
 __admonition__  

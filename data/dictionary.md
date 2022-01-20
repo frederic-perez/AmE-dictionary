@@ -221,7 +221,7 @@ __afforestation__ _n_ :pencil2: The process of planting many trees on an area of
 __affront__ _n_ :two::hammer:  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
-__afire__ _adj, adv_ _The Klansmen set the bus afire._  
+__afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
 __afloat__ _adj, adv_ :two::hammer:  
 __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bement Elementary._ __2__ On foot.  
 __aforementioned__ _adj_ :two::hammer:  
@@ -3382,7 +3382,7 @@ __cummerbund__
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
-__cupidity__ _n_ :two::astonished::hammer:  
+__cupidity__ _n_ :three::astonished::hammer:  
 __cupolas__ _n_  
 __cuppa__ _n_ :two: A cup of tea.  
 __cupping__ _n_ :pencil2:  
@@ -3983,7 +3983,7 @@ __dissection__ _n_ _Dissections in coronary vessels._
 __dissed__ _v_ _Rubio had dissed the Bible._  
 __dissemble__ _v_ :five::astonished: (Not to be confused with: disassemble – take to pieces; take apart) Talk or act hypocritically; disguise or conceal. _Syn_ disguise, cloak, mask, pretend  
 __disseminate__ _v_ :two::pencil2::hammer:  
-__dissension__ _n_ :two::hammer:  
+__dissension__ _n_ :three::hammer:  
 __dissent__ _n_ :four::hammer:  
 __dissenter__ _n_ :two::hammer: _There is not mat space for malcontents or dissenters._  
 __disservice<sup>1</sup>__ _n_ :five::hammer::pencil2:  
@@ -7188,6 +7188,7 @@ __in-house__ _adj_ :three::hammer: _In-house experts._ _An in-house system._
 __in-law__ _n_ (in-laws) _A room for the in-laws._  
 __in-tray__ _n_ _What’s in the in-tray of NHS England’s new chief executive?_  
 __in-your-face__ _adj_ _An in-your-face farewell._  
+__inadequacy__  
 __inadvertent__ _adj_ :four: Happening by chance or unexpectedly or unintentionally. _Inadvertent arterial punctures._  
 __inadvertently__ _adv_ :two::hammer:  
 __inalienable__ _adj_ That cannot be transferred to another or others: _inalienable rights._  
@@ -7948,7 +7949,7 @@ __largely__ _adv_ :two::hammer:
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
 __largesse__ _n_ :four::pencil2::hammer:  
-__lark__ _n_ :three::hammer: _Stop this jealousy lark!_  
+__lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
@@ -10389,7 +10390,7 @@ __piling__ _n_ _A deserted cabin built on pilings._
 __pill caddy__ _n_  
 __pillbox hat__ _n_ :two::hammer:  
 __pillbox__ _n_ :two: [:scroll: From pill, from Latin pilula (little ball), from pila (ball) + box, from Old English, from Latin buxis, from pyxis (boxwood box), from Greek pyxis, from pyxos (box tree).] __1__ A small container for pills. __2__ A small fortified enclosure, used for firing weapons, observing, etc. __3__ A small brimless hat with a flat top and straight sides. _A plum-colored pillbox hat._ __4__ Something small or ineffectual.  
-__pilloried__ _v_  
+__pilloried__ _v_ :two::hammer:  
 __pillory__ _n_  
 __pillowcase__ _n_ (pillow case) A cloth cover for a pillow.  
 __pilot light__ _n_ :astonished:  
@@ -11780,6 +11781,7 @@ __rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:
 __rhyolites__ _n_  
 __rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _n_ _Manning had an MRI on his rib cage._  
+__ribald__ _adj_  
 __ribbed__ _v_ :two::hammer:  
 __ribbing__ _n_ :two::hammer:  
 __ribbon-cutting ceremony__ _n_  
@@ -13335,6 +13337,7 @@ __space opera__
 __space__ _v_ _I spaced on that._  
 __spaceling__ _v_  
 __spackle__ _n_ :two::hammer:  
+__spade__ _n_ :two::hammer:  
 __spade-bearded__  
 __spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
 __span__ _v_  
@@ -13950,6 +13953,7 @@ __stunt<sup>2</sup>__ _v_ :seven:hammer: (stunted, stunting) _Movement stunted d
 __stunted__ _adj_ Inferior in size or quality.  
 __stupas__  
 __stupefy__  
+__stupendous__ _adj_ _A stupendous twelve-hour sermon._  
 __sturdy__ _adj_ :four::hammer:  
 __sturgeon__  
 __stutter__ _v_ :two::hammer:  
@@ -14195,7 +14199,7 @@ __swooshing__
 __sword__ _n_ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
-__syllogism__ _n_ :two::hammer:  
+__syllogism__ _n_ :three::hammer:  
 __sylvan__  
 __sympathetic__  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
@@ -14581,7 +14585,7 @@ __thwack<sup>1</sup>__ _n_ :two::hammer: (thwacks)
 __thwack<sup>2</sup>__ _v_ Deliver a hard blow to. _Syn_ smack _Frustrated at being unable to fix it, Dad thwacked the engine, and it started right up._  
 __thwart__ _v_ :nine::m::pencil2: (thwarted) Prevent (someone) from accomplishing something. _Clerk with real gun thwarts BB gun holdup._ :es: frustrar, desbaratar  
 __thyme__ _n_ :four::hammer::mute:[t~~h~~yme] :es: tomillo  
-__tiara__ _n_ :four: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ :es: diadema  
+__tiara__ _n_ :five: /tɪˈɑːrə/ A jewelled ornamental band worn on the front of a woman’s hair. _Brooches, necklaces and tiaras fit for a queen._ _Toddlers & Tiaras, a new reality show._ _The papal tiara._ :es: diadema  
 __tic-tac-toe__ _n_  
 __tic<sup>1</sup>__ _n_ :two::hammer: _A tic sucking on the neck of a dog._  
 __tic<sup>2</sup>__ _v_  
@@ -15874,7 +15878,7 @@ __whiff<sup>2</sup>__ _v_
 __whiffed__ _v_  
 __while__ _v_ :mute:[w~~h~~ile] _To while away the hours drinking vodka._  
 __whilom__ _adj_ Having once been; former: _the whilom editor in chief._ _Syn_ erstwhile, former, late, old, once, onetime, past, previous, quondam, sometime  
-__whim__ _n_  
+__whim__ _n_ :two::hammer:  
 __whimper<sup>1</sup>__ _v_ :four: /ˈwɪmpə/ (whimpering) Make a series of low, feeble sounds expressive of fear, pain, or unhappiness. _Syn_ whine, cry, sniffle, snivel, sob, moan _A child in a bed nearby began to whimper._  
 __whimper<sup>2</sup>__ _n_ :two: A low, broken, sobbing sound; a whine. _She gave a little whimper of protest._ :es: sollozo  
 __whimsical__ _adj_  
