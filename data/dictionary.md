@@ -130,7 +130,7 @@ __acquiesce__ _v_ :five: To agree to something or to accept something, although 
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
-__acquit__ _v_ :four: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
+__acquit__ _v_ :five: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
 __acreage__ _n_ :two: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
@@ -411,6 +411,7 @@ __amnesty__ _n_ :pencil2:
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
+__amphibian__ _n_ :pencil2:  
 __ample__ _adj_ :seven: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
@@ -678,7 +679,7 @@ __assistance animal__ _n_
 __assizes__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__assuage__ _v_ :five::hammer: (assuaged)  
+__assuage__ _v_ :six::hammer: (assuaged)  
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
@@ -3732,6 +3733,7 @@ __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a 
 __derision__  
 __derogative__ _adj_  
 __derrick__ _n_ :two::hammer:  
+__derring-do__ _n_ /ˈdɛrɪŋˈduː, dair-ing-DOO/ _archaic or literary_ A daring spirit or deed; boldness or bold action. _Derring-do_ refers to daring action that requires bravery and courage. _In a spectacular feat of derring-do, the stuntman leaped from the overpass and landed on top of the train as it passed below._  
 __derringer__ _n_ :two::hammer: _A single-shot derringer, in case the enemy captures him alive._  
 __dervish__ _n_  
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
@@ -5742,7 +5744,7 @@ __Gabor__ _n_ :mega:
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
-__gaffe__ _n_ :six: A clumsy social error; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._  
+__gaffe__ _n_ :seven: /ɡæf/ __1__ A clumsy social error, esp a tactless remark; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._ __2__ A blatant mistake or misjudgment.  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
@@ -7955,6 +7957,7 @@ __largess__ _n_
 __largesse__ _n_ :four::pencil2::hammer:  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
+__larvate__ _adj_ :astonished: (larvated) /ˈlɑːveɪt/ (Zoology) Masked or hidden.  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
@@ -9662,6 +9665,7 @@ __operetta__ _n_ :pencil2:
 __operose__ _adj_ :two: __1__ Done with or involving much labor; tedious. Characterized by effort to the point of exhaustion; especially physical effort. __2__ Industrious; diligent.  
 __ophthalmic__ _adj_  
 __ophthalmologist__ _n_  
+__opine__ _v_ /oh-PYNE/  
 __opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
@@ -12065,6 +12069,7 @@ __Rx lab__
 __Rx__ _n_ :two: (Symbol for) a prescription for medicine or a medical appliance.  
 __rye__ _n_ __1__ A cereal grass of cool climates, widely cultivated for its grain. :es: centeno __2__ The grain of this plant, ground into flour or used in making whiskey and for livestock feed. __3__ Rye bread. __4__ (Brewing) Also called: __rye whiskey__ Whiskey distilled from rye.  
 __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers. _S’mores season!_  
+__Sabbath__ _n_ /SAB-uhth/ [:scroll: From Old English sabat, from French sabbat, from Latin sabbatum, from Greek sabbaton, from Hebrew sabbat, from sabat (rest)] __1__ A day of the week observed as a day of rest. __2__ A period of rest. __3__ A meeting of witches and sorcerers (typically spelled as sabbat).  
 __sabotage__ _n_  
 __saboteur__ _n_  
 __sac-a-lait__  
@@ -12633,7 +12638,7 @@ __shield__ _v_
 __shiet__  
 __shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
 __shift__  
-__shifty__ _adj_ :four: /SHIF-tee/ __1__ Evasive; untrustworthy. __2__ Changing directions frequently. __3__ Resourceful: able to accomplish what needs done. _Jane was shifty and quick-witted._  
+__shifty__ _adj_ :five::astonished: /SHIF-tee/ __1__ Having, displaying, or suggestive of deceitful character; evasive or untrustworthy. __2__ Distinguished by frequent changes in direction: _shifty winds._ __3__ Able to accomplish what is needed; resourceful. _Jane was shifty and quick-witted._  
 __shih tzu__ _n_ A toy dog breed developed in China.  
 __shill__ _n_ (shills) _Government shills._  
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
@@ -13985,7 +13990,7 @@ __subpar__
 __subpoena<sup>1</sup>__ _n_ :five::hammer:  
 __subpoena<sup>2</sup>__ _v_ :five::mega::hammer: (subpoenaed)  
 __subsea__ _n_  
-__subsequent__ _adj_ :five::hammer: _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
+__subsequent__ _adj_ :six: Following in time or order; succeeding. _The Justice Ministry plans to introduce the system to other airports in subsequent years._ _The policy to have patients moved from hospitals to care homes may have directly led to subsequent deaths._ :es: posterior, subsiguiente  
 __subsequently__ _adv_ :dart::four::hammer:  
 __subside__ _v_ :dart::six::hammer: (subsided) _My headache has subsided._  
 __subsidence__ _n_  
@@ -14246,6 +14251,7 @@ __tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
+__tadpole__ _n_  
 __tae kwon do__ _n_ (taekwondo) [:scroll: A Korean discipline whose name is formed from the words tae (kick), kwon (fist), and do (way).]  
 __taffeta__ _n_  
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
@@ -15413,6 +15419,7 @@ __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._
 __vaccination__  
 __vaccine__  
 __vacillate__ _v_ To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
+__vacuous__ _adj_ Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
 __vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
 __vagary__ _n_ :five::hammer: (vagaries) _The vagaries of economics._  
@@ -15589,6 +15596,7 @@ __visitation__ _n_ :five::hammer:
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
+__vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
 __vitriolic__ _adj_ :three: Bitterly scathing; caustic. _Syn_ acid, blistering, venomous, acrid, acerbic, bitter, virulent _The critic showed no mercy in writing the most vitriolic review of her career._  
 __vituperate__ _v_  
