@@ -12,6 +12,7 @@ __(it’s/there’s) no use crying over spilt milk__ It does no good to get upse
 __(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(oh,) snap__  
 __(on the) fast track__ (A _fast track_ is a horse racing track that’s dry and hard enough for the horses to reach optimum speed. That makes this one of those words where the original definition is self explanatory: a _fast track_ is simply a track that the racers can go as fast as possible on as opposed to one where racers are slowed down by mud or less than optimal conditions.)  
+__(one’s) blood runs cold__ One becomes seized by an acute and intense sensation of fear, panic, horror, or dread. _My blood ran cold when I overheard that a police officer had been asking about me at work._ _Janet could feel her blood run cold when the murderer she was testifying against walked into the courtroom._  
 __(one’s) door is always open__ :dart: One is always available to be of guidance, support, aid, or assistance whenever needed. Said especially by an employer or teacher to an employee or pupil. _Mrs. Spencer is a great teacher, and her door is always open if we ever have any questions or fall behind._  
 __(one’s) final resting place__ The location where one’s body is interred after death.  
 __(one’s) finest hour__ The moment or time of one’s greatest success or achievement. _The team’s come-from-behind victory in the semi-finals proved to be their finest hour._  
@@ -467,6 +468,7 @@ __conspicuous consumption__ :two: The lavish expenditure of money or acquisition
 __control freak__ :two::hammer:  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
+__coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
 __corporate ladder__  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
@@ -1554,6 +1556,7 @@ __old as the hills__ Someone who is very old.
 __old maid__ An old woman who has never been married or has never had a sexual relationship.  
 __old school thinking__  
 __on (someone’s) behalf__ For the benefit, interest, or support of someone; as an agent, representative, or in place of someone.  
+__on (someone’s) wrong side__ Displeasing to someone; provoking someone’s anger, contempt, or dismissal. _The best way to get through this class is to say nothing unless called upon, and to make sure you don’t get on the teacher’s wrong side!_  
 __on a daily basis__ Every day. _They work with the team on a daily basis._  
 __on a dime__  
 __on a high horse__ To act as if you are better than other people.  
@@ -1587,6 +1590,8 @@ __on the fence__ Unable to make a decision.
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :two::hammer:  
 __on the grapevine__ :two::hammer: _Al must have heard something on the grapevine._  
+__on the gravy train__ In a state, position, or job where one makes an excessive amount of money without expending much or any effort. _I’ll be on the gravy train once I get paid from the settlement of the lawsuit!_  
+__on the hush-hush__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _I need to tell you some important news, but you have to keep it on the hush-hush, OK?_  
 __on the lam__ :two: Attempting to avoid capture, typically as a fugitive from law enforcement; on the run. _The escaped convicts have been on the lam for a week, with no leads as to their whereabouts._  
 __on the leading edge__ Having or knowledgeable of the most advanced technology in a given area, activity, or endeavor. _The local university’s laboratory is on the leading edge when it comes to cancer research._  
 __on the lookout__  
@@ -1605,6 +1610,8 @@ __on your toes__ Ready to deal with anything that might happen: _We were all on 
 __once a snipe, always a snipe__  
 __once and for all__ :two: Finally; permanently.  
 __once in a blue moom__ Very rarely.  
+__one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
+__one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
 __one hell of__ _You are one hell of a navy wife._  
 __one too many__ _We drank one too many._  
 __one way or another__ :two: _If I fail then it will cost me my head one way or another._  
@@ -1973,7 +1980,7 @@ __third wheel__ The “third wheel” refers to the person who is the outsider w
 __this is (someone)__ __1__ A phrase said when introducing someone, followed by the person’s name or their relation. To identify oneself by phone, or to introduce someone. _This is Laura, my cousin._ _Hello, this is Michael Robinson._ __2__ _informal_ Used to quote, paraphrase, or mimic the words of someone else, especially in a mocking or derisive manner. _This is you right now—“Blah, blah, blah, I’m so important, everyone has to listen to me, blah de blah de blah!”_  
 __this too will pass__ Nothing is permanent. This phrase is often used as encouragement to remind someone that a bad or unpleasant situation will eventually end. _While I was going through my divorce, I was constantly reminding myself that this too will pass._  
 __through and through__ :four: Thoroughly or completely; in every way, manner, or aspect. _It’s a flagship through and through._ _She was a class act through and through._  
-__through the grapevine__  
+__through the grapevine__ :two: Through or via an informal means of communication or information, especially gossip. _I heard through the grapevine that John is planning to propose to Samantha next week!_  
 __through thick and thin__ Through good times and bad times.  
 __throw (someone) under the bus__ :two::hammer:  
 __throw a fit__ _He watched a reality show in which a girl throws a hfit when her parents get her the wrong expensive car for her birthday._  
