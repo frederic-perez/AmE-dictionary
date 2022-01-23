@@ -1,4 +1,36 @@
-
+__necessary__  
+__narcissistic__  
+__occasion__  
+__accommodate__  
+__vacuum__  
+__accessory__  
+__broccoli__  
+__zucchini__  
+__spaghetti__  
+__embarrass__  
+__bourbon__  
+__charcuterie__  
+__entrepreneur__  
+__liaison__  
+__Connecticut__  
+__Massachusetts__  
+__epitome__  
+__asthma__  
+__indict__  
+__gnaw__  
+__phlegm__  
+__paradigm__  
+__pneumonia__  
+__island__  
+__rhythm__  
+__Wednesday__  
+__eight__  
+__acquiesce__ /ak-wee-es/  
+__nauseous__ /naw-shuhs/  
+__conscious__ /kon-shuhs/  
+__grateful__  
+__separate__  
+__lightning__  
 __meagerly__ _adv_ _Churches were empty and mass meagerly attended._  
 __dissolute__ _adj_  
 __admonition__  
