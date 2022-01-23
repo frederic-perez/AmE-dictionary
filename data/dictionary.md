@@ -228,7 +228,7 @@ __aforementioned__ _adj_ :two::hammer:
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
-__aft__ _adj, adv_ :six::hammer: _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
+__aft__ _adj, adv_ :seven: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
 __afterburner__ _n_  
 __aftereffects__  
@@ -2137,6 +2137,7 @@ __cardiac arrest__ _n_ :two::hammer:
 __cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
+__career ladder__ _n_  
 __career suicide__  
 __carefree__  
 __carefully__ _adv_ _It pays to consider his words carefully._  
@@ -2852,7 +2853,7 @@ __compliance__ _n_ :three::hammer: _Compliance guy._
 __compliant__  
 __complicit__  
 __complimentary__ _adj_ :three::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._  
-__comply__ _v_  
+__comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
 __composting__ _n_ The activity or practice of converting garden and kitchen waste to compost. _There’s a brown bin for organic waste, which goes for composting._  
@@ -4175,7 +4176,7 @@ __downhearted__ _adj_
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v_ :five::hammer: (downplayed)  
+__downplay__ _v_ :six::hammer: (downplayed)  
 __downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
@@ -7062,6 +7063,7 @@ __hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitt
 __hypoglycemia__  
 __hypokalemia__  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
+__hypotensive__  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
 __hypothermia__ _n_ :two: Abnormally low body temperature.  
 __hysterectomy__ _n_ :two: Surgical removal of part or all of the uterus.  
@@ -10232,6 +10234,7 @@ __perfidy__ _n_ :two::hammer:
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
+__periconceptual__ _adj_ Of, relating to, or done during the period from before conception to early pregnancy: _periconceptional folic acid supplementation._  
 __perigee__ _n_ [:scroll: from peri- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is nearest the earth. Compare apogee.  
 __peril__ _n_ :two::hammer: (perils)  
 __perilous__ _adj_  
@@ -10701,6 +10704,7 @@ __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
 __poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
 __pops__ _n informal_ :two: Father.  
+__popsicle__ _n_ Ice cream or water ice on a small wooden stick.  
 __populace__  
 __porch screen__  
 __porcupette__ _n_ A baby porcupine.  
@@ -12794,7 +12798,7 @@ __sidebar__ _n_
 __sidecar shovelhead__  
 __sided__ _adj_ Having sides usually of a specified number or kind. Often used in combination: _many-sided; marble-sided._  
 __sideline<sup>1</sup>__ _n_ :four: The area or areas next to but outside a playing area. _Investors retreated to the sidelines._  
-__sideline<sup>2</sup>__ _v_ :three: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
+__sideline<sup>2</sup>__ _v_ :four: (sidelined) To remove or keep from active participation. _Women sidelined in pandemic research._ _The first baseman is expected to be sidelined for seven to 10 days._  
 __sidestep__ _v_ :six::hammer: (sidestepped)  
 __sideswiped__ _v_ _She died when her Cobalt sideswiped another car._  
 __sidewalk table__ _n_ _Sitting at a sidewalk table at the Café._  
@@ -13404,7 +13408,7 @@ __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later
 __spellbound__ _adj_  
 __spendolie__  
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
-__spew__ _v_ :seven::hammer: (spewed) _Carbon-spewing coal power plants._  
+__spew__ _v_ :eight::hammer: (spewed) _Carbon-spewing coal power plants._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
 __spiffy<sup>1</sup>__ _adj_ :three::hammer:  
@@ -15233,7 +15237,7 @@ __undulate__ _v_ To cause to move in a smooth wavelike motion. _Syn_ roll _The s
 __undulating__ _v_  
 __undulation__ _n_  
 __unduly__ _adv_ :eight::hammer:  
-__unearth__ _v_ :four::hammer: (unearthed)  
+__unearth__ _v_ :five::hammer: (unearthed)  
 __uneasy calm__ _phr_ :es: calma tensa _People waited to see whether an uneasy calm would last._  
 __unencumbered__ _v_ _Now you can travel unencumbered._  
 __unequivocally__  
@@ -15614,6 +15618,7 @@ __vodka Collins__ _n_ :three: Shake vodka, lemon juice and powdered sugar with i
 __vodka__ _n_ :mega:  
 __voguish__  
 __voice over__ _n_ (voice-over)  
+__voice__ _v_  
 __voicemail__ _n_  
 __voidance__ _n_ The act of removing the contents of something. _Syn_ emptying, evacuation _The voidance of one’s inbox after a long vacation is an unenviable task._  
 __volatile__ _adj_  
@@ -16011,7 +16016,7 @@ __wimpiness__
 __wimpling__ _v_  
 __wimpy__ _adj_ :two::hammer:  
 __win back__ _phr v_ To get back something that you have lost.  
-__wince__ _v_ :seven::hammer: (winced, wincing) _He was wincing in pain._  
+__wince__ _v_ :eight::hammer: (winced, wincing) _He was wincing in pain._  
 __winch<sup>1</sup>__ _v_ _He winched his boat onto his trailer._  
 __winch<sup>2</sup>__ _n_ :three::hammer:  
 __wind down__ _phr v_ :three: To diminish gradually in force or power; relax.  

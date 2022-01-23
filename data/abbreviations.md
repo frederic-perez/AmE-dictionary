@@ -57,6 +57,7 @@ __GWB__ George Washington Bridge.
 __GWTW__ Gone With The Wind.  
 __HDL-C__ High-density-lipoprotein cholesterol.  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
+__ICU__ Intensive care unit.  
 __ie.__ That is to say.  
 __IFU__ Instructions for use.  
 __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
