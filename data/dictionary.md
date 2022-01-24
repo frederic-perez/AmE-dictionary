@@ -89,12 +89,13 @@ __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful,
 __abyss__ _n_ :astonished::mega::six:  
 __accenting__ _v_  
 __accessory pulmonary vein__ _n_ :two::hammer: _Variant anatomy, such as accessory pulmonary veins, can be the source of AF triggers and require isolation._ _The accessory veins most commonly arise near the right-sided pulmonary veins but can occur anywhere including the atrial roof._  
+__accessory__ _adj, n_ :pencil2:  
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _adj, n_ _Ottolenghi is an accidental chef._  
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaimed__  
 __accolade__ _n_ :eight: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
-__accommodate__ _v_ :pencil2:  
+__accommodate__ _v_ :two::pencil2::hammer:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
@@ -1576,7 +1577,7 @@ __bouncy__
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
 __bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
-__bouquet__ _n_  
+__bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bovarism__ _n_  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
@@ -1701,7 +1702,7 @@ __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadsided__  
 __brocade__  
-__broccoli__ _n_  
+__broccoli__ _n_ :two::pencil2::hammer:  
 __brogue__ _n_ :four: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
@@ -2340,6 +2341,7 @@ __char__ _v_ (charred)
 __character actor__  
 __character__ _n_ :mute:[c~~h~~aracter]  
 __charade__ _n_ :three::hammer:  
+__charcuterie__ _n_ :pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
 __chard__  
 __charge__ _v_ Accuse formally.  
 __chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
@@ -2948,6 +2950,7 @@ __conjure__ _v_ :three::hammer: _Syn_ beg
 __conk__ _v_ (conked) _Something conked me._  
 __conman__  
 __conn__ _v_ To direct the steering or course of (a vessel). _To conn the ship._  
+__Connecticut__ _n_ :pencil2:  
 __connective tissue__ _n_  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
@@ -4546,6 +4549,7 @@ __emasculated__ _adj_ (of a male animal) Having the testicles removed.
 __embankment__  
 __embargo__ _n_  
 __embark__ _v_ _They embark on a motorcade._  
+__embarrass__ _v_ :pencil2:  
 __embattle__ _v_ :four::hammer: (embattled)  
 __embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
@@ -4672,6 +4676,7 @@ __entrée__
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
 __entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
+__entrepreneur__ _n_ :pencil2:  
 __entryway__ _n_ _An entryway aquarium._  
 __entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
 __enunciation__  
@@ -8119,7 +8124,7 @@ __lewd__ _adj_ :three::hammer:
 __lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :five::hammer:  
+__liaison__ _n_ :six::pencil2::hammer:  
 __libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
@@ -9212,7 +9217,7 @@ __nape__ _n_
 __nappy__ _n_ :three::hammer: (chiefly British)  
 __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the effects of an apparent drug overdose._  
 __narcissism__ _n_  
-__narcissistic__ _adj_ :two::hammer:  
+__narcissistic__ _adj_ :three::pencil2::hammer:  
 __narrate__ _v_ (narrated)  
 __narrative__  
 __narrow-minded__ _adj_  
@@ -9248,7 +9253,7 @@ __neatnik__ _n_ A very neat and tidy person.
 __nebbish__ _n_ A person regarded as weak-willed or timid.  
 __nebula__ _n_ A very large cloud of dust and gas that exists in outer space.  
 __necessary evil__  
-__necessary__ _adj_ :mega: /ˈne-sə-ˌser-ē/  
+__necessary__ _adj_ /ˈne-sə-ˌser-ē/ :two::mega:pencil2:  
 __necessitate__ _v_  
 __necktie__ _n_  
 __necromancer__ _n_ :two: One who practices magic or sorcery. _Syn_ sorcerer, wizard, magician  
@@ -9522,7 +9527,7 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
-__occasion__ _n_ :two::mega::pencil2::hammer:  
+__occasion__ _n_ :three::mega::pencil2::hammer:  
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
 __occurr__ _v intr_ :pencil2:  
@@ -13353,7 +13358,7 @@ __spaceling__ _v_
 __spackle__ _n_ :two::hammer:  
 __spade__ _n_ :two::hammer:  
 __spade-bearded__  
-__spaghetti__ _n_ (Cookery) Pasta in the form of long strings.  
+__spaghetti__ _n_ :two::pencil2: (Cookery) Pasta in the form of long strings.  
 __span__ _v_  
 __spandex__ _n_  
 __spang__ _adv_ _informal_ Exactly, firmly, or straight: _spang on target._  
@@ -15424,7 +15429,7 @@ __vaccination__
 __vaccine__  
 __vacillate__ _v_ To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
 __vacuous__ _adj_ Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
-__vacuum__ _n_ :two::hammer: _Upright/Canister vacuum._ :camera:  
+__vacuum__ _n_ :three::pencil2::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
 __vagary__ _n_ :five::hammer: (vagaries) _The vagaries of economics._  
 __vagrant<sup>1</sup>__ _n_ :seven: (vagrants) __1__ A person who wanders about idly and has no permanent home or employment; vagabond. __2__ _Law_ An idle person without visible means of support, as a tramp or beggar. __3__ A person who wanders from place to place; wanderer; rover.  
@@ -16338,5 +16343,5 @@ __zoom in__ _phr v_ To focus more closely.
 __zoonotic__ _adj_  
 __zoophobia__ _n_ /zo-uh-FOH-bee-uh/ __1__ An unusual fear of animals. Some examples of zoophobia are acarophobia (insects), ailurophobia (cats), arachnophobia (spiders), and cynophobia (dogs). __2__ A dislike of keeping animals in captivity.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men’s suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
-__zucchini__ _n_ :two::hammer: :es: calabacín  
+__zucchini__ _n_ :three::pencil2::hammer: :es: calabacín  
 __zydeco__ _n_ A kind of black American dance music originally from southern Louisiana, typically featuring accordion and guitar.  
