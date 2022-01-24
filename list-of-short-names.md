@@ -22,6 +22,7 @@
 - __Dee__ A female given name, short for names beginning with “d.”
 - __Emy__ Emy’s language of origin is Germanic,Gothic, Germanic, Latin, and Latin. Emy is a derivative of the Dutch and English Emmy. Emy is a short form of Emilie and Emma. Emy means “universal”, “whole” and “eager”, “industrious” or “ambitious”.
 - __Eve__ Derived from the Latin name Eva.
+- __Hal__ A masculine given name, often a diminutive form (hypocorism) of Harold or Henry or Harvey, and a nickname.
 - __Han__ A Dutch masculine given name. It can be a short form of Johannes or of Hendrik/Henricus.
 - __Jay__ A common given name and nickname. It may be a nickname for Japhet, Jaymond, Jane, James, Javonne, Jamie, Jacob, Jared, Joaquin, Javad, Jeremy, Jeffrey, John, Jules, Jonathan, Joseph, Jason, Jamin, Jaylin, Jordan, Justin, Joel, Jayakumar, etc.
 - __Jeb__ A masculine given name or nickname. It can be derived from the initials “J.E.B.,” or from “Jebediah,” a variant of the biblical name “Jedediah.”
@@ -54,6 +55,7 @@
 - __Sam__ A given name or nickname, often used by people named “Samuel,” “Samson,” and “Samantha”, and occasionally used by people named “Salvatore.”
 - __Sid__ A nickname deriving from (and hypocorism for) the given name Sidney, Siddhartha, Sidonia, or Sidra, though it is also used by people with other given names.
 - __Sue__ Acommon short form of the following female given names: Susan, Susanna/Susannah/Suzanna, Susanne, Suzanne. It is rarely used as a man’s name, a notable example being Sue K. Hicks (1895-1980), American jurist, who may have inspired the song “A Boy Named Sue”.
+- __Ted__ A shortened form of Edward, Thaddeus, or Theodore.
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tom__ Mostly used as a diminutive of Thomas.
 - __Zac__ Zack (and variant spellings Zach, Zac, Zak, Zakk) is sometimes a given name, but more often it is a hypocorism or short form of another given name, usually Zachary in the English speaking world, which derives from Zechariah.
