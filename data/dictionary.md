@@ -3019,6 +3019,7 @@ __contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ str
 __contrive__ _v_ :two::hammer: (contriving)  
 __contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
+__contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
@@ -4691,7 +4692,7 @@ __epaulets__
 __epee__  
 __ephemeral__ _adj_ :two: Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
-__epicurean__ _adj_ :three: (Epicureans) Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
+__epicurean__ _adj_ :four: (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
 __epigram__ _n_  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
@@ -5222,6 +5223,7 @@ __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __firstborn__  
 __firsthand__ _n_ :two::hammer:  
+__firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish__ _pl n_ :two:  
 __fishmonger__ _n_  
@@ -7399,7 +7401,7 @@ __integer__ _n_ :mega: /ˈɪntɪʤɚ/
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
 __intel__ _n_ :four::hammer: _The intel value he might offer._ _The site provides crowd-sourced intel on how female-friendly company policy is at thousands of businesses._  
 __intemperance__ _adj_ :two: Lack of moderation _especially_ habitual or excessive drinking of intoxicants.  
-__intemperate__ _adj_ :two: Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._  
+__intemperate__ _adj_ :three: /in-TEM-puh-rut/ __1__ Given to excessive indulgence of bodily appetites, especially for intoxicating liquors. _Syn_ hard, heavy _As he was prone to intemperate behavior at the alehouse, she expected him to stumble out of the carriage, hiccupping, in the wee hours of the morning._ __2__ Having extreme conditions. _The plant is able to survive in intemperate climates._ __3__ Having or showing a lack of emotional calmness or control. _The journalist apologized for her intemperate rant against the mayor._  
 __intently__ _adv_ :three::hammer: _He watched him intently._  
 __inter__ _v_ (interred) To place in a grave or tomb; bury.  
 __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the upper and lower front teeth, as the fricatives (t) and (th) of _thy_ and _thigh_.  
@@ -7446,7 +7448,7 @@ __inurnment__
 __invariably__ _adj, adv_ _You’ll invariably notice it._  
 __invective__ _n_ :five: Abusive or insulting language.  
 __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehemently. _Syn_ rail  
-__inveigle__ _v_ :three::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
+__inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
@@ -7657,7 +7659,7 @@ __judgmental__ _adj_ :pencil2:
 __judicious__ _adj_ _Judicious improvements._  
 __judo__ _n_ [:scroll: A Japanes discipline whose name is based on Chinese words that translate to “soft way.”]  
 __jug__ _n_ :three: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._ :camera: _There were gas jugs in the bed of the vehicle._  
-__juggernaut__ _n_ :nine::dart: Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. _Jinx-killing juggernaut._  
+__juggernaut__ _n_ :nine::m::dart: /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ _adj_ :two::hammer:  
@@ -15166,7 +15168,7 @@ __ululate__ _v_ :two: Emit long loud cries. _Syn_ howl, wail, yaup, yawl, roar
 __ululations__  
 __um__  
 __umami__ _n_ One of the five basic tastes (along with the tastes sweet, sour, salty, and bitter), the savory taste of foods such as seaweed, cured fish, aged cheeses and meats.  
-__umbrage__ _n_ :two::hammer:  
+__umbrage__ _n_ :three: A feeling of anger caused by being offended. _Syn_ offense _I had tried to phrase it politely, but he still took umbrage at my question._  
 __umpteen__  
 __umpteenth__ _adj_ :two::dart: Last in an indefinitely numerous series.  
 __un-American__  
@@ -15500,7 +15502,7 @@ __vellum__
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :five::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._ _Venal officials._  
 __venality__ _n_ :three::hammer:  
-__vendetta__ _n_ __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
+__vendetta__ _n_ :two: __1__ A feud between two families that arises from the injury or killing of the member of one family by a member of the other family, leading to long-lasting animosity and retaliatory acts of revenge. _Syn_ blood feud __2__ A series of acts attacking or attempting to injure another: _launched a vendetta against his harshest critics in the media._  
 __vending machine__ _n_  
 __vending__ _n_ The act of selling.  
 __vendor__ _n_ :two::hammer:  
@@ -16217,6 +16219,7 @@ __wrong<sup>2</sup>__ _adv_ :mute:[~~w~~rong]
 __wrong<sup>3</sup>__ _n_ :mute:[~~w~~rong]  
 __wrong<sup>4</sup>__ _v_ :mute:[~~w~~rong]  
 __wrongdoing__  
+__wrongous__ _adj_ /ˈrɒŋəs/ [:scroll: From wrong, from Old English wrang + wise (manner)] __1__ (of a person) Unfair, unjust. __2__ Characterized by unfairness or injustice. __3__ Not lawful, unjust. __4__ Not fitting or suitable.  
 __wrought-iron__  
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
