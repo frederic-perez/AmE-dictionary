@@ -520,7 +520,7 @@ __apiary__ _n_ A place where bees and beehives are kept, especially a place wher
 __aping__  
 __aplenty__ _adj, adv_ :two::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
-__apnea__ _n_  
+__apnea__ _n_ :two: Temporary cessation of breathing.  
 __apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
@@ -1600,6 +1600,7 @@ __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a suppo
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :three: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
+__bradypnea__ _n_ Abnormally slow breathing.  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
@@ -2540,7 +2541,7 @@ __circumcircle__
 __circumlocution__ _n_  
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
-__circumspect__ _adj_ Cautious, prudent, or discreet.  
+__circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
 __circumsphere__  
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
@@ -4392,7 +4393,7 @@ __dysfunction__ _n_ :pencil2: (dysfunctional)
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
-__dyspnea__ _n_ :two: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Also called _air hunger_.  
+__dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__ _adj_  
 __dystrophy__ _n_ :pencil2:  
@@ -4772,6 +4773,7 @@ __eulogy__ _n_ :five::hammer:
 __eunuch__ _n_  
 __euphemism__ _n_ :two: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
+__eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
@@ -7060,6 +7062,7 @@ __hymnals__
 __hyperbolic__ _adj_ :five: Exaggerated.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
+__hyperpnea__ _n_ Abnormally deep breathing.  
 __hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is a hypocorism for “Sarah”._  
@@ -7069,6 +7072,7 @@ __hypocritical__ _adj_ :two::hammer::pencil2:
 __hypogeusia__ _n_ A reduced ability to taste things (to taste sweet, sour, bitter, or salty substances). The complete lack of taste is referred to as ageusia. Causes of hypogeusia include the chemotherapy drug bleomycin, an antitumor antibiotic, as well as zinc deficiency.  
 __hypoglycemia__  
 __hypokalemia__  
+__hypopnea__ _n_ Abnormally shallow and slow breathing.  
 __hyposorism__ _n_ __1__ A name of endearment; a pet name. __2__ The use of such names.  
 __hypotensive__  
 __hypothecate__ _v_ To believe especially on uncertain or tentative grounds. _Syn_ conjecture, speculate, theorize, suppose  
@@ -9718,6 +9722,7 @@ __orphic__ _adj_ Having an import not apparent to the senses nor obvious to the 
 __orphrery__  
 __orthogonal__ _adj_ __2__ Not pertinent to the matter under consideration. _It would, said Aichele, but the whole discussion was orthogonal to the argument the petitioners had been making._  
 __orthokeratology__  
+__orthopnea__ _n_ Difficulty breathing except when standing or sitting up.  
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible.  
@@ -11274,7 +11279,7 @@ __quinine__ _n_ :mega:
 __quinoa__ _n_ :two::hammer:  
 __quinsy__  
 __quintessential__ _adj_ :four::hammer:  
-__quip__ _n, v_ :six: (quipped, quippy) A clever or witty remark or comment. _Rapid-fire quips._ :es: pulla  
+__quip__ _n, v_ :seven: (quipped, quippy) /KWIP/ A clever remark or a witty or funny observation or response. A clever or witty remark or comment. _They traded quips over a beer._ _Rapid-fire quips._ :es: pulla  
 __quire__ _n_ (Not to be confused with _choir_)  
 __quirk__ _n_ :eight: (quirky, quirkier) /kwəːk/ A peculiarity of behavior; an idiosyncrasy. _They accepted her attitude as one of her little quirks._  
 __quirt__ _n_ :four::hammer: _The horse quirt._  
@@ -14254,6 +14259,7 @@ __tablet__ _n_ :astonished: __1__ (Pharmacology) A medicinal formulation made of
 __tabulate__ _v_ :two::hammer: (tabulated) _Tabulated scientific data._  
 __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators are being paid $25 for each half day they work._  
 __tachometer__  
+__tachypnea__ _n_ Abnormally rapid and shallow breathing.  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
 __taciturn__  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
