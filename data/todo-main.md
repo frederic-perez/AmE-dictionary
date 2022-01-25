@@ -1,3 +1,22 @@
+__coffice__ (?)  
+__steep__ _v_  
+__barter__ _n_  
+__tempered__ _adj_  
+__ashen__ _Tired-looking executives looked at me ashen-faced._  
+__battered__ _adj_  
+__meltdown__ _n_  
+__inoculate__ _v_  
+__buffer__ _v_  
+__hard-driving__ _adj_ _Hard-driving individuals._  
+__privy__ _Few people are privy to this information._  
+__pernicious__ _adj_ _The belief that we are just our genes is one of the most pernicious myths in modern culture._  
+__scoffed__ _v_  
+__okapi__ _n_  
+__malleable__ _adj_ :two::hammer: _The brain is malleable._  
+__startling__ _adj_  
+__freak__ _adj_ _A freak chemistry lab experiment._  
+__inescapable__ _adj_  
+__baseline__ _n_ _We can permanently raise our happiness baseline._  
 __Massachusetts__  
 __epitome__  
 __asthma__  
