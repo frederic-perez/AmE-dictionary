@@ -61,7 +61,7 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
-__abound__ _v_ :two::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
+__abound__ _v_ :three::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
 __about-face__  
 __aboveboard__  
 __abracadabra__ _n_  
@@ -75,7 +75,7 @@ __abruptly__
 __abs__ _n_ :two::hammer: _Six-pack abs._  
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __absent-minded__ _adj_  
-__absenteeism__ _n_ :three::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
+__absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
 __abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
@@ -150,6 +150,7 @@ __acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
+__ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
@@ -326,6 +327,7 @@ __all of a sudden__ _adv_ Without warning.
 __all righty__  
 __all that said,__  
 __all-hands meeting__ _n_ :dart: A meeting that every employee in a company or department is required to attend. An all-hands meeting may be used to make special announcements.  
+__all-knowing__ _adj_ _Not even the all-knowing Google has a definitive answer to my question._  
 __all-nighters__ _n_  
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
@@ -1864,7 +1866,7 @@ __burden__ _n_
 __burdensome__ _adj_ :two::hammer:  
 __bureaucracy__  
 __burgeon__ _v_  
-__burgeoning__ _adj_ :eight: Rapidly developing or growing; flourishing.  
+__burgeoning__ _adj_ :nine: Rapidly developing or growing; flourishing.  
 __burgermeister__  
 __burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burkini__  
@@ -4769,6 +4771,7 @@ __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculi
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
+__eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
 __euphemism__ _n_ :two: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
@@ -4853,7 +4856,7 @@ __expedited shipping__ _n_ (vs _regular shipping_) Expedited shipping is a fast 
 __expeditiously__  
 __expendable<sup>1</sup>__ _adj_  
 __expendable<sup>2</sup>__ _n_ Something that is expendable.  
-__expenditure__ _n_ :six: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
+__expenditure__ _n_ :seven: (expenditures) In a trip budget, you need to add up all your expenditures, such as hotel, car rental and food costs against the money you have brought to spend. An expenditure is money spent on something. Expenditure is often used when people are talking about budgets. It is the government’s job to decide what to do with tax money collected, or in other words, to determine the expenditure of public funds. The word is more than a long way of saying expense. In business, an expenditure implies an investment, something that will bring value over time. _Going to the theater is our number one expenditure._  
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
@@ -6202,6 +6205,7 @@ __grinch__ _n_
 __grind<sup>1</sup>__ _n_ :two::hammer: _Most of us are more focused on the daily grind._ _The grind of life on the road._  
 __grind<sup>2</sup>__ _v_ (grinding) _Bumping and grinding._  
 __grinder__ _n_ A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the United States. _Syn_ hoagie, Italian sandwich, poor boy, sub, Cuban sandwich, zep, torpedo, wedge, bomber, hero _I usually have a salad for lunch, but today I am going to treat myself to a carb-laden, ham-stuffed grinder._  
+__grindstone__ _n_  
 __grip__ _v_  
 __grip-and-grin__ _n_ __1__ _colloquial_ An event at which one is expected to smile and shake hands for a photograph. __2__ _colloquial_ A photograph of people looking towards the camera and smiling while they shake hands, typically taken at such an event. _Grip-and-grin shots._  
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
@@ -7416,6 +7420,7 @@ __interim__ _adj, adv, n_ :two::hammer:
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
 __interlopers__ _n_ :three::hammer:  
+__interlude__ _n_  
 __interment__ _n_ :three::hammer:  
 __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, intermix _The office mail has been intermingled with the outgoing mail, and it is going to take me all afternoon to sort through it!_  
 __intermission__ _n_ :four::hammer::dart:  
@@ -9863,6 +9868,7 @@ __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person travel
 __overtaxed__  
 __overthink__ _v_  
 __overtime__ _n_ :es: horas extras  
+__overtly__ _adv_  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
@@ -10742,6 +10748,7 @@ __portmanteau__
 __portrait__  
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
+__pose__ _v_ _That’s the question I pose to you._  
 __posh__ _adj_ :six: Things that are posh are swanky, fancy, and high-class. Posh things usually cost a lot of money, too. Elegant and fashionable.  
 __posit__ _v_ :three::hammer::pencil2: (posited) _BYU has posited themselves well._  
 __posse__ _n_ :two::hammer: _A posse clad._  
@@ -10975,6 +10982,7 @@ __profanity__ _n_ :two::hammer: _Shouting profanities._
 __professed__ _v_ :two::hammer:  
 __proffering__  
 __proficient__  
+__profit__ _v_ :astonished:  
 __profiteer<sup>1</sup>__ _n_  
 __profiteer<sup>2</sup>__ _v_ To make excessive profits on goods in short supply.  
 __profiteering__  
@@ -15212,7 +15220,7 @@ __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table
 __underbelly__ _n_ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__ _v_ :seven::hammer: (undercutting) _Why do you undercut yourself so much?_  
+__undercut__ _v_ :eight::hammer: (undercutting) _Why do you undercut yourself so much?_  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  

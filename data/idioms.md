@@ -177,6 +177,7 @@ __at a loss__ _They sat inside the car, at a loss for what to do next._
 __at any cost__ Regardless of the cost involved. _He wanted to save her life at all cost._  
 __at any rate__ Whatever happens or may have happened. _For the moment, at any rate, he was safe._ _Syn_ in any case, anyhow, anyway, at all events, in any event, nevertheless :es: de todos modos, de todas formas  
 __at breakneck speed/pace__ :two: Extremely and often dangerously fast. _He drove away at breakneck speed._  
+__at every turn__ __1__ At every opportunity. _My opponent has tried to discredit me at every turn._ __2__ Everywhere. _I’ve been seeing my old roommate at every turn lately. Just today, I bumped into her at the mall!_  
 __at heart__ _Most people are crooks at heart._  
 __at large__  
 __at length__ :two::hammer: _At length a messenger entered the camp site and sought out King._ _Terms were discussed at length in open session._  
@@ -1881,6 +1882,7 @@ __suffice (it) to say__ :two::hammer:
 __sugarcoat (something)__ To say, explain, or present something in a manner that is easier to accept, understand, cope with, or endure. _Don’t sugarcoat it for me, Doc—is my wife going to make it?_  
 __Sunday best__ One’s very best clothes, as one would wear to a Sunday church service. _Rita wanders a highway in her Sunday best._  
 __sure enough__ :three: As one might have expected; certainly. _Sure enough, that’s what happened._  
+__surefire__ Certain to work, be effective, or have a particular outcome; foolproof. The term is sometimes hyphenated, and it is always used before a noun. _Coming in to work drunk is a surefire way to get yourself fired, Tom._ _We’ve developed a sure-fire method of teaching grammar to grade-schoolers in a way that they will not ignore or forget._ _A surefire tactic._  
 __surprise, surprise__ :two: Said ironically of or in a situation in which something very predictable has happened.  
 __swear in__ To administer an oath to someone as part of the official process of taking public office. A noun or pronoun can be used between “swear” and “in.” _The current president was sworn in after his predecessor died of a sudden heart attack._  
 __sweat bullets__ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
