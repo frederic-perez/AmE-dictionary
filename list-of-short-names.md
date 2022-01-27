@@ -3,6 +3,7 @@
 ## Two characters
 
 - __Al__ Often short for Alfred, Albert, Alphonse, Alphons, Allen, Allan, Alan, Alyson, Alysson, Allyson, Alistair, Alister, Alex, Alexander, Alvin, Alyssa, Alsha, Aldrin, Alden, Aldwin, or Alwin.
+- __Cy__ A masculine given name, often a short form (hypocorism) of Cyril, Cyrus or Seymour, and a nickname.
 - __Ed__ Usually a short form (hypocorism) of Edward, Edgar, Edmund, Edwin, Edith, etc.
 - __Sy__ Sy is a given name, nickname/hypocorism (often of Seymour) and surname.
 - __Ty__ The name Ty developed as an independently given name from the short form of any one of the following male names: Tyler, Tyson, Tyrone, Tyrell, and Tyrese.
@@ -58,7 +59,8 @@
 - __Ted__ A shortened form of Edward, Thaddeus, or Theodore.
 - __Tim__ A masculine given name; it can also be used as a short form of Timothy.
 - __Tom__ Mostly used as a diminutive of Thomas.
+- __Uma__ A given name in various cultures. In India, it is the name of the Hindu goddess, who is more commonly known as Parvati. In Sanskrit the word _umā_ can further mean “tranquillity,” “splendour,” “fame” and “night.”
 - __Zac__ Zack (and variant spellings Zach, Zac, Zak, Zakk) is sometimes a given name, but more often it is a hypocorism or short form of another given name, usually Zachary in the English speaking world, which derives from Zechariah.
-- __Zev__ Ze’ev (Hebrew: זְאֵב / זאב‎ zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff) is a name of Hebrew origin which means wolf. The given name is a masculine form relatively common among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
+- __Zev__ Ze’ev (Hebrew: זְאֵב / זאב zeév; alternative spelling: Zeev, Zev, Zeeb, Zeb, Seff), is a name of Hebrew origin which means wolf. The given name is a masculine form used among Ashkenazi Jews. It is a Biblical name, adapted from a reference to Benjamin in Genesis as a “wolf that raveneth.”
 - __Zig__
 - __Zoe__ A female first name of Greek origin, meaning “Life.”
