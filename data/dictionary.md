@@ -1277,6 +1277,7 @@ __bishop’s benches__
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
+__bite-size__ _adj_  
 __bitingly__  
 __bivouac<sup>1</sup>__ _n_ :two: A temporary encampment, in the open air, typically without tents or cover.  
 __bivouac<sup>2</sup>__ _v intr_ :three::astonished::pencil2: To take shelter temporarily for the night.  
@@ -3021,7 +3022,7 @@ __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Fil
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
 __contrive__ _v_ :two::hammer: (contriving)  
-__contrived__ _adj_ :two: Deliberately created rather than arising naturally or spontaneously. _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
+__contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
@@ -4669,6 +4670,7 @@ __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enth
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __entice__ _v_ :two::hammer: (enticing)  
+__enticing__ _adj_  
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
@@ -6216,7 +6218,7 @@ __gripping__ _adj_ :two::hammer: _A gripping contest._
 __grisly__ _adj_ :seven::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
-__grit__ _n informal_ :seven: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
+__grit__ _n informal_ :eight: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
 __gritted__ _v_  
 __grittier__ _adj_ _It makes the queso a bit grittier._  
@@ -10039,6 +10041,7 @@ __parietal__ _adj_ _The parietal portion of the skull._
 __paring knife__ _n_  
 __paring__  
 __parishioner__  
+__parity__ _n_ :astonished: __1__ The condition of having given birth. __2__ The number of children borne by one woman.  
 __parkour__  
 __parlay__ _v_ :five: (parlayed) To turn (something) into something of greater value. _The young actor parlayed his popularity as a teen heartthrob into a successful film career._  
 __parley<sup>1</sup__ _n_ :five::hammer: _A peace parley._  
@@ -12506,7 +12509,8 @@ __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly livi
 __seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
-__sensible__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
+__sensible<sup>1</sup>__ _adj_  
+__sensible<sup>2</sup>__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _adj_ _Sensitive questions._  
 __sensitivity__ _n_ The ability of a test to correctly identify patients with a disease.  
 __sentence__ _n_ _A sentence of judges._  
@@ -13685,7 +13689,7 @@ __starlings__ _n_
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startling__ _adj_ :four: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
-__stasis__  
+__stasis__ _n_ :two: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  
 __stat__ _adv_ _Med., Pharm._ Immediately. An abbreviation of the Latin _statim_, “immediately,” often used in medical contexts.  
 __State Bar__ _n_ _A State Bar judge._ :es: Colegio de Abogados del Estado  
@@ -15590,7 +15594,7 @@ __vicious__ _adj_ :six: Vicious is an adjective that means intentionally harmful
 __viciously__ _adv_ :two::hammer: _They were persecuted viciously._  
 __victimhood__  
 __victor__ _n_ :three::hammer: _Seward became the righthand man of the victor, Abraham Lincoln._  
-__victual<sup>1</sup>__ _n_ :two::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
+__victual<sup>1</sup>__ _n_ :three::mega: /ˈvɪtəl/ [:scroll: From Latin victualia (provisions), from victus (nourishment), past participle of vivere (to live).] Food, especially food fit for human consumption.  
 __victual<sup>2</sup>__ _v tr_ To provide with food.  
 __victual<sup>3</sup>__ _v intr_ To obtain food or to eat.  
 __victuals__ _n pl_ :five::mega: /ˈvɪtəlz/ Food supplies; provisions.  
@@ -16030,7 +16034,7 @@ __willful__ _adj_ :three::hammer:
 __willfully__  
 __William of Ockham__ _n_ (William of Occam) [1285-1349] English scholastic philosopher and assumed author of Occam’s Razor.  
 __williwaw__ _n_ __1__ A violent squall that blows in near-polar latitudes, as in the Strait of Magellan, Alaska, and the Aleutian Islands. __2__ A state of great turmoil.  
-__willpower__ _n_  
+__willpower__ _n_ :two::hammer:  
 __willy__ _n_ _slang_  
 __willy-nilly__ _adv_ :eight: (willy nilly) Whether desired or not: _After her boss fell sick, she willy-nilly found herself directing the project._ :es: a la fuerza  
 __willyard__ _adj_  
