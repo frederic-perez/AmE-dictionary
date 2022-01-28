@@ -440,6 +440,7 @@ __anecdotal__ _adj_ :mega:
 __anecdotally__  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemometer__ _n_ :two::hammer:  
+__anergy__ _n_ /AN-uhr-jee/ [:scroll: From an- (not) + ergon (work). The opposite of sense 1 is energy and the opposite of sense 2, allergy.] __1__ Lack of energy. __2__ The lack of an immune response to a foreign substance.  
 __anew__ _adv_ :four::hammer:  
 __anfractuous__ _adj_ :two: Full of twists and turns; tortuous. _An anfractuous path._ _Anfractuous cliffs._  
 __Angeleno__ _n_ :two: A native or inhabitant of Los Angeles.  
@@ -523,7 +524,7 @@ __aping__
 __aplenty__ _adj, adv_ :two::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :two: Temporary cessation of breathing.  
-__apocryphal__ _adj_ :two::pencil2: Of doubtful authenticity: spurious.  
+__apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
 __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from apo- + _gaia_ earth] (Astronomy) The point in its orbit around the earth when the moon or an artificial satellite is at its greatest distance from the earth. Compare perigee. __2__ The highest point. The farthest or highest point; the apex. _Syn_ summit, height, peak, climax, pinnacle, zenith, acme  
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
@@ -911,7 +912,7 @@ __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large sm
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
-__bamboozle__ _v_ :four: To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._  
+__bamboozle__ _v_ :five: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
@@ -1474,7 +1475,7 @@ __bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with ra
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
-__bomb__ _v_ :three::mute:[bom~~b~~]:hammer:  
+__bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
 __bombast__ _n_ :five: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ /BOM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_  
@@ -8370,6 +8371,7 @@ __lousy__ _adj_ _A lousy trip._
 __lout__ _n_ :five::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
+__love bombing__ _n_ /luhv __bom__-ing/ The practice of showing a person excessive affection and attention as a way of manipulating them in a relationship. A technique used in cult recruiting, in which membership in the cult is intimately linked to love and attachment which engender complete loyalty to the cause.  
 __love-in__  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
@@ -9186,6 +9188,7 @@ __myeloma__ _n_ A malignant tumor formed by the cells of the bone marrow.
 __myocarditis__ _n_  
 __myology__ _n_ __1__ The study of muscles. __2__ The muscular anatomy of a person or an animal.  
 __myopia__ _n_ :pencil2::two::hammer:  
+__myopic__ _adj_ /mye-OH-pik/ _he corrective eye surgery has been approved for myopic patients._  
 __myositis__ _n_  
 __myriad__ _adj_ :three: Very many.  
 __myrrh__ _n_ :two::pencil2::hammer: :es: mirra  
@@ -9555,7 +9558,7 @@ __oddly enough__ _adv_ :two::hammer:
 __odds__ _pl n_  
 __oddsmakers__  
 __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._  
-__odious__ _adj_ /OH-dee-us/ :two::hammer:  
+__odious__ _adj_ :three: /OH-dee-us/ Arousing or meriting strong dislike, aversion, or intense displeasure. _Syn_ abominable, detestable, execrable _Pray do not talk of that odious man._  
 __odium__ _n_  
 __odometer__ _n_ :two::hammer:  
 __odyssey__ _n_ :pencil2:  
@@ -14123,7 +14126,7 @@ __surcharge<sup>2</sup>__ _v_
 __sure-fire__ _adj_ _informal_ :dart:  
 __surefire__  
 __surety__  
-__surfeit__ _n_ :four: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount.  
+__surfeit__ _n_ :five::astonished: __1a__ Overindulgence in food or drink. __b__ The result of such overindulgence; satiety or disgust. __2__ An excessive amount. _Syn_ overabundance, excess _The surfeit of goods produced caused prices to fall, hurting the economy._  
 __surge<sup>1</sup>__ _v_ :four::hammer: (surging) _A mysterious current surging through Earth._  
 __surge<sup>2</sup>__ _n_  
 __surliness__  
@@ -15620,6 +15623,7 @@ __vise__ _n_
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
+__vitiate__ _v_ To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
@@ -15984,6 +15988,7 @@ __wholesome__ _adj_ :three::hammer:
 __wholistic__ _adj_ A variant spelling of holistic.  
 __Wholly Molly__  
 __wholly__ _adv_ :pencil2::three::hammer: _Something wholly different._ _A problem that is wholly unnecessary._  
+__whom__ _pron_ The objective form of who, used when who is not the subject of its own clause: _whom did you say you had seen?; he can’t remember whom he saw._  
 __whoop-de-do__ _n_  
 __whoop<sup>1</sup>__ _n_ :two::hammer:  
 __whoop<sup>2</sup>__ _v_ :three::hammer: (whooped) _He can whoop him with a switch._  
