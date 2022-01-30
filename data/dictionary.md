@@ -649,7 +649,7 @@ __ascot__ _n_ :two::hammer:
 __ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
 __ash borer__ _n_ _Emerald ash borers._  
-__ashen__ _adj_ :two::hammer::pencil2: _His face turned ashen._  
+__ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking executives looked at me ashen-faced._  
 __ashen-faced__  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::five: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
@@ -981,7 +981,8 @@ __barrette__ _n_ :two: A small clasp for holding the hair in place.
 __barring__ _v_ :two::hammer:  
 __barrister__ _n_ :two::hammer:  
 __barrow__ _n_  
-__barter__ _v_ :three::hammer: (bartered)  
+__barter<sup>1</sup>__ _n_  
+__barter<sup>2</sup>__ _v_ :three::hammer: (bartered)  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
@@ -1007,7 +1008,7 @@ __bathymetry__ _n_ :two: The measurement of the depth of bodies of water.
 __baton__ _n_ :two::hammer:  
 __batter<sup>1</sup>__ _n_ A liquid or semiliquid mixture, as of flour, milk, and eggs, used in cooking.  
 __batter<sup>2</sup>__ _v_ :three::hammer: (battered) _His face was battered._ _Her pride remains battered but intact._  
-__battered__ _adj_ :two: (Cookery) Coated in batter: _a battered cod._  
+__battered__ _adj_ :three: (Cookery) Coated in batter: _a battered cod._  
 __battery__ _n_ :four::hammer: _Cameron was charged with attempted murder, mayhem assault and battery on a person over 60._ _Counts of a domestic battery by strangulation._ (military) _The siege battery was complete._  
 __batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swings in the batting cage._  
 __battledore and shuttlecock__ _n_ An ancient racket game.  
@@ -1786,6 +1787,7 @@ __buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeab
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n pl_ (also buffaloes, buffalos)  
+__buffer__ _v_  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
@@ -2732,6 +2734,7 @@ __coffee grinder__ _n_ A mill that grinds roasted coffee beans.
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee-table book__  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
+__coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The coffee shop down this street is my coffice for 3 hours every day._  
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
@@ -6492,6 +6495,7 @@ __hard-bitten__ _adj_ Tough and callous by virtue of experience. _Syn_ hard-boil
 __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._  
 __hard-core__ _adj_ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-drinking__ _adj_ Used to describe a person who often drinks a lot of alcohol.  
+__hard-driving__ _adj_ _Hard-driving individuals._  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
@@ -7372,6 +7376,7 @@ __innit__ _contraction_ _adv_ _slang_ A contraction of _isn’t it?_, used to in
 __innocuous__ _adj_ :two: Having no adverse effect. _Syn_ harmless _That mushroom may look innocuous, but it is in fact deadly._  
 __innumerate__  
 __inobvious__  
+__inoculate__ _v_  
 __inordinate__ _adj_ :seven::hammer: _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  
@@ -8749,7 +8754,7 @@ __mellifluous__ _adj_ Pleasing to the ear. _Syn_ mellisonant, dulcet, sweet _Her
 __mellow<sup>1</sup>__ _adj_ :two::hammer: _Mellow flavor._  
 __mellow<sup>2</sup>__ _v_ :three::hammer: (mellowed)  
 __melon scratcher__ _phr_ Melon is head, so melon scratcher is a head scratcher or puzzler. _That was a melon scratcher._  
-__meltdown__ _n_ :four: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
+__meltdown__ _n_ :five: __1__ Severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping. __2__ A disaster comparable to a nuclear meltdown.  
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
@@ -10291,7 +10296,7 @@ __permafrost__ _n_ :two::hammer:
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :five: Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ Having a harmful effect or influence. _Syn_ harmful, damaging, destructive  
+__pernicious__ _adj_ :six: Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ Having a harmful effect or influence. _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
@@ -10956,7 +10961,8 @@ __pristine__ _adj_ _They were in pristine condition._
 __private dancer__ _n_ A dancer who performs a striptease.  
 __privation__ _n_ Lack of the basic necessities or comforts of life. _Syn_ neediness, want _They endured years of privation during the war and were used to going without._  
 __privies__ _n pl_ :two: __1a__ An outdoor toilet; an outhouse. __b__ A toilet.  
-__privy__ _n_ :five::hammer:  
+__privy<sup>1</sup>__ _adj_ __1__ (foll by: to) Participating in the knowledge of something secret. _Few people are privy to this information._  
+__privy<sup>2</sup>__ _n_ :five::hammer:  
 __prix__ _n_ Prize. _A $40 prix fixe meal._  
 __prize<sup>1</sup>__ _n_  
 __prize<sup>2</sup>__ _adj_ :two::hammer: _A prize purse of $1 million._ _A notorious outlaw has stolen his prize rifle._  
@@ -14457,6 +14463,7 @@ __tempera__ _n_
 __temperament__  
 __temperance__  
 __temperate__ _adj_ _A temperate climate._  
+__tempered__ _adj_  
 __tempering__ _adj_ _A tempering experience_  
 __tempestuous__ _adj_ :two::hammer:  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
