@@ -1569,6 +1569,7 @@ __bottle fly__ _n_
 __bottle opener__ _n_ :camera: An opener for removing caps or corks from bottles.  
 __bottle rocket__ _n_ A small skyrocket that can be launched from an empty bottle. _Fizzy, soda, and water bottle rockets._  
 __bottled up__ _v_  
+__bottom-line__ _adj_ _Fun also leads to bottom-line results._  
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_ :two::hammer:  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
@@ -2890,7 +2891,7 @@ __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
 __concern__ _v_ :two::hammer: (concerned)  
-__concerted__ _adj_ :two::hammer: _A concerted effort._  
+__concerted__ _adj_ :three::hammer: _A concerted effort._  
 __concertina wire__  
 __concertina__  
 __concertmaster__  
@@ -3164,7 +3165,8 @@ __coup__ _n, v_ :mute:[cou~~p~~]
 __coupe__ _n_ (coupé) A closed two-door car shorter than a sedan of the same model. _Coupes, two door models usually sportier than sedans._  
 __coupled__ _v_  
 __coupon__ _n_  
-__course__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
+__course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
+__course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
 __courtyards__ _n_  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
@@ -4123,7 +4125,7 @@ __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatme
 __doorpost__  
 __doorsill__ _n_  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
-__dopamine__ _n_ :mega:  
+__dopamine__ _n_ :two::mega::hammer:  
 __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
@@ -4168,6 +4170,7 @@ __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __dowager__  
 __dowdy__ _adj_  
+__down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down time__ _n_  
 __down to earth__ _adj_ :three: (down-to-earth) With no illusions or pretensions; practical and realistic. _A down-to-earth view of marriage._ :es: con los pies en la tierra  
@@ -5459,7 +5462,7 @@ __fool<sup>2</sup>__ _v_ _Don’t fool yourself—that’s phony bullshit._
 __fool<sup>3</sup>__ _adj_ _informal_  
 __foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
-__foosball__ _n_ :three::hammer: _Foosball table._  
+__foosball__ _n_ :four::hammer: _Foosball table._  
 __foot-stomping__  
 __foot<sup>1</sup>__ _n_ __9__ The part of a stocking, sock, etc., covering the foot. _They were stung by a man who sells socks without feet._  
 __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cost?_  
@@ -6766,6 +6769,7 @@ __hillside__ _n_
 __hind__ _n_ The hind legs or feet of an animal are its back legs or feet.  
 __hinder__ _v_ :two::hammer:  
 __hindsight__ _n_ :two: The opportunity to judge or understand past events using knowledge that you have gained since then.  
+__hinge__ _v_  
 __hinky__  
 __hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ _n_ :camera:  
@@ -7647,7 +7651,7 @@ __jollification__ _n_ :two: Festivity; revelry.
 __jollity__ _n_ A jolly or merry mood, condition, or activity; gaiety. _Syn_ joviality _The genial festival of Christmas ... lights up the fireside of home with mirth and jollity._  
 __jollof rice__  
 __jolly__ _adj_ :six::hammer: _Jolly handshakes._  
-__jolt<sup>1</sup>__ _n_ :four::hammer: _A spending jolt by the military government._ _It was a jolt of good news._  
+__jolt<sup>1</sup>__ _n_ :five::hammer: _A spending jolt by the military government._ _It was a jolt of good news._ _Find a quick jolt of happiness!_  
 __jolt<sup>2</sup>__ _v_ _The chair jolts._  
 __jonesing__ _v_ :two::hammer:  
 __jongleur__ _n_ An itinerant medieval entertainer proficient in juggling, acrobatics, music, and recitation.  
@@ -8709,6 +8713,7 @@ __meat grinder__
 __meat missile__ _n_ _slang_  
 __mecca__ _n_ :three: (Mecca) _(sometimes not capital)_ A place that attracts many visitors. _Shopping mecca._  
 __mechanical pencil__  
+__med__ _adj_ _informal_ Medical: _med schools; med students._  
 __medal__ _v_  
 __medallions__ _n_  
 __meddlesome__ _adj_  
@@ -10934,7 +10939,7 @@ __Prime Minister__
 __prime-age__  
 __prime<sup>1</sup>__ _adj_ :two::hammer: _Their master bedroom has a prime view of the green wall._  
 __prime<sup>2</sup>__ _n_ :two::hammer:  
-__prime<sup>3</sup>__ _v_ :three::hammer: (primed)  
+__prime<sup>3</sup>__ _v_ :six::astonished::hammer: (primed) _The children who were primed to be happy significantly outperformed the others._  
 __primer__ _n_ :four:hammer:  
 __priming__ _v_  
 __primly__ _adv_ :two::hammer:  
@@ -12542,6 +12547,7 @@ __seriocomic__ _adj_ Mixing serious and comic elements.
 __serious condition__ _n_ _Critical to serious condition, fair condition._  
 __sermon__  
 __seronegative__ _adj_ (Medicine) (of a person whose blood has been tested for a specific disease, such as AIDS) Showing no serological reaction indicating the presence of the disease.  
+__serotonin__ _n_  
 __serum__ _n_ :es: suero  
 __service animal__ _n_ Any animal (often a dog) specially trained to assist a person who is blind, deaf, or disabled in some way. _Syn_ assistance animal  
 __servicers__  
@@ -13661,6 +13667,7 @@ __stand strong__
 __standard of care__ _n_  
 __standard__ _n_ :camera: :es: estandarte  
 __standardize__ _v_  
+__standardized__ _adj_ _Standardized math test._  
 __standby<sup>1</sup>__ _n_ _The old standby._  
 __standby<sup>2</sup>__ _adj_  
 __standby<sup>3</sup>__ _adv_  
