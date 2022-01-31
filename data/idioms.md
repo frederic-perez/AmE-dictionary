@@ -23,6 +23,7 @@ __(one’s) jollies__ _slang_ One’s amusement, enjoyment, or pleasure. Often u
 __(one’s) lucky day__ A particular day or moment in one’s life when one experiences extremely good luck, fortune, or favor. _Wow, that’s the third hand of poker I’ve won in a row—it must be my lucky day!_  
 __(one’s) moment in the sun__ A brief period of time in which one is or has been particularly successful, popular, famous, etc., especially when set against an otherwise moderate or unremarkable life. _After 35 years in this one-horse town, all I want is a moment in the sun, a time when the whole world knows and loves me!_  
 __(one’s) nerves are shot__ One is mentally or emotionally exhausted, overwhelmed, or overwrought.  
+__(one’s) other half__ One’s spouse, romantic partner, or boyfriend/girlfriend. _I’d love to come out to the bars with you after work, but I’d better check in with my other half to make sure we don’t have any plans for this evening._  
 __(one) figures (that)__ One presumes or anticipates (that); one reckons or thinks (that).  
 __(one) has a point (there)__ One’s point of view or opinion makes sense and is worth considering. _A: “It’s snowing—should we really go out for ice cream?” B: “Hmm, you have a point there.”_  
 __(right) from the off__ _He knew it from the off._  
@@ -562,6 +563,7 @@ __don’t shoot the messenger__ Don’t get angry at or punish someone who is si
 __don’t sweat it__ _(American English, spoken)_ Used to tell somebody to stop worrying about something: _If we’re a few minutes late he’ll wait for us, so don’t sweat it._  
 __doom and gloom__ :two: A general feeling of pessimism or despondency. This expression, sometimes found as _gloom and doom_, was particularly pertinent to fears about a nuclear holocaust during the cold war period of the 1950s and 1960s. It became a catchphrase in the 1968 film _Finian’s Rainbow_.  
 __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and make sure that every last minor detail is completed. _Please make sure to dot your i’s and cross your t’s when signing this contract._  
+__dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
 __double down__ To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
 __double talk__  
@@ -973,6 +975,7 @@ __heck of a__ _He’s doing a heck of a job._
 __Hell and half of Georgia__ A great distance or area; a huge amount of space. Primarily heard in US. A very large region; everywhere. _I’ve been looking across Hell and half of Georgia trying to find you!_  
 __hell week__ A week in which new recruits or pledges of an organization, especially a college fraternity or sorority, are subjected to a series of hazing rituals prior to initiation.  
 __help (oneself) (to something)__ To serve oneself (something); to take, consume, or indulge in (something) freely or without permission or restraint.  
+__help (someone) out of a fix__ To help someone avoid or escape from some troublesome, difficult, or dangerous position or situation. _My father’s always having to go down to the courthouse to help my knuckle-headed brother out of some fix or another._ _Thanks so much for staying late with me to finish that report the other day—you really helped me out of a fix!_  
 __hem and haw__ :dart: To speak in an evasive, vague, roundabout way in order to avoid responding to a question or making a definite statement. The phrase comes from the common filler words often used by habit or when one is deciding what to say. _How much longer do we have to hear this guy hem and haw? I wish they would get on with the debate._ _Zoe hems and haws._  
 __henpecked__ Of a man, thoroughly and continually dominated, intimidated, bullied, or browbeaten by a woman, especially his wife or girlfriend.  
 __here and there__ __1__ In different places. _I try to keep some cash here and there around the house in case of emergences._ __2__ In different directions; this way and that. _People ran here and there when the store opened its doors for the big sale._  
@@ -1625,15 +1628,20 @@ __one way or another__ :two: _If I fail then it will cost me my head one way or 
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
 __one-night stand__ A sexual relationship that lasts for only one night. It’s a play on words, because a nightstand is a small low bedside table, typically having drawers.  
 __one-trick pony__ _n_ A person or thing considered as being limited to only one single talent, capability, quality, etc.  
+__one-up (someone)__ To make a point of outdoing, outperforming, outclassing, etc., someone. _I hate telling stories around Jack because he always tries to one-up you with some fabulous anecdote of his own._  
 __one’s other half__ :two::hammer:  
 __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time during my retirement, so I’m planning on taking up a hobby._  
+__open (one’s) big mouth__ To say something that is meant to be a secret; to say something in an indiscreet, noisy, or boorish manner. _Why did you have to open your big mouth about my crush on Tommy? Why couldn’t you just keep it between us?_  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
 __open sesame__  
 __other than (something)__ :three::hammer: _Other than that, blah blah blah._  
 __out (of) the (starting) gate__ At or from the very starting position. _Out the gate, the company’s latest video game console has proven wildly popular._  
+__out of (one’s) hair__ No longer pestering or annoying to one; not one’s responsibility or burden any longer. _I’ve gotten the kids out of my hair for a few hours so I can go and get a relaxing massage by myself._ _Once these auditors from the IRS are out of our hair, we can get back to business as usual._  
+__out of (one’s) shell__ Less shy, reserved, or reticent and in a more sociable, outgoing, or enthusiastic state. _Samantha was quite a quiet girl growing up, but she really started coming out of her shell in college._ _Jack is actually a very funny, engaging guy once he’s out of his shell._  
 __out of character__  
 __out of date__  
+__out of house and home__ Evicted; no longer having a place to live. _If my wife loses her job like so many of her co-workers, we’ll be out of house and home for sure._  
 __out of kilter__ :two: _Out of kilter with the times._  
 __out of nowhere__  
 __out of pocket__ :two::hammer: _Out-of-pocket costs._ _She has put off visits to a retina specialist because she would have to pay the entire cost out of pocket._  
@@ -1970,6 +1978,7 @@ __the moon on a stick__ Anything and everything that one desires or can imagine 
 __the moral high ground__ A position of moral authority or superiority that one’s arguments, beliefs, ideas, etc., are claimed or purported to occupy, especially in comparison to a differing viewpoint. (Used especially in the phrase “take/claim/seize/etc. the moral high ground.”) _The senator always tries to claim the moral high ground during a debate so as to shift public opinion in his favor._  
 __the Nikon choir__ The paparazzi or a large group of photojournalists, especially when actively engaged in photographing someone or something of great interest. (Refers to the Nikon brand of camera.) _As soon as the starlet walked out onto the red carpet, the Nikon choir swelled to a nearly deafening volume._  
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
+__the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
