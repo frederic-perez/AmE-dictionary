@@ -2148,6 +2148,7 @@ __cardioembolic__ _adj_
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career ladder__ _n_  
 __career suicide__  
+__career__ _v_ :astonished: /kuh-REER/ To go at top speed in a headlong manner. _The tourists gripped their seats and exchanged anxious looks as the bus careered along the narrow roads._  
 __carefree__  
 __carefully__ _adv_ _It pays to consider his words carefully._  
 __caresses__ _v_  
@@ -4275,7 +4276,7 @@ __drive__ _n_ :three::hammer: _Inner drive._ _The drive by Senate Democrats to c
 __drive-by<sup>1</sup>__ _adj_  
 __drive-by<sup>2</sup>__ _n_  
 __drive-up__ _adj_ Designed to permit customers to remain in their motor vehicles while being accommodated: _a drive-up window at the bank._ _Drive-up motels._  
-__drivel__ _n_ :dart::three: __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
+__drivel__ _n_ :dart::four: /ˈdrɪvəl/ __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
 __driven snow__ _n_ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
 __drivetrains__  
 __driveway__  
@@ -4722,6 +4723,7 @@ __equaled__ _v_
 __Equality State__ _n_ WY, Wyoming.  
 __equalize__ _v_ :two::hammer: (equalizing) _Tottenham came close to equalizing in the second half._  
 __equalizer__ _n_ :two: __3__ A score that makes the match even.  
+__equanimity__ _n_ The quality of being calm and even-tempered. _Syn_ calmness, composure _Because she was prepared for the news, she was able to respond with equanimity._  
 __equerries__  
 __equestrian<sup>1</sup>__ _adj_  
 __equestrian<sup>2</sup>__ _n_  
@@ -4944,6 +4946,7 @@ __fact checker__ _n_ Someone whose job is to make sure that facts are correct, e
 __fact sheet__  
 __faction__ _n_  
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
+__factoid__ _n_ /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
@@ -10120,7 +10123,7 @@ __pathogenic__
 __pathogens__ _n_  
 __pathography__ _n_  
 __pathologist__ _n_  
-__pathos__ _n_ :four::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
+__pathos__ _n_ :five::hammer: _Ms. Merkel is known to be allergic to pathos and big words._  
 __patient discharge__ _n_ The formal ending of inpatient care.  
 __patient zero__ _n_ (epidemiology) The initial patient in the population of an epidemiological investigation. _Syn_ index case, index patient  
 __patinated__ _v_  
@@ -13582,7 +13585,7 @@ __squad__ _n_ :four::hammer: _The Olympics squad._
 __squalid__ _adj_ :five::pencil2::hammer: _Squalid home._  
 __squall<sup>1</sup>__ _n_ :four: A sudden strong wind or brief turbulent storm.  
 __squall<sup>2</sup>__ _v_ Utter a sudden loud cry. _Syn_ cry, scream, yell, shout, holler, hollo, call _The new mother breathed a sigh of relief as soon as she heard her newborn squalling._  
-__squalor__ _n_ :six: The condition or quality of being squalid; disgusting dirt and filth.  
+__squalor__ _n_ :seven::astonished: __1__ A filthy and wretched condition or quality. Disgusting dirt and filth. _Syn_ sordidness, squalidness _The squalor in which the refugees lived alarmed the aid workers, who knew they had to work quickly to improve these conditions._  
 __squamous__ _adj_  
 __squander<sup>1</sup>__ _v_ :three::hammer: _Do not squander time._  
 __squander<sup>2</sup>__ _n_ Extravagant expenditure; prodigality.  
@@ -14947,7 +14950,7 @@ __traps__ _n_
 __trascends__ _v_  
 __trash talk__ _n_ :two::hammer:  
 __trashing__ _v_  
-__travail__  
+__travail__ _n_ :two: Work, especially when arduous or involving painful effort. _Syn_ effort, exertion, labor, toil _She deserved to take a vacation after her long travail._  
 __travails__ _n_ :two::hammer:  
 __travelogue__ _n_ :two::hammer:  
 __travesty__ _n_ :four::hammer: (travesties)  
@@ -15699,8 +15702,8 @@ __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in develo
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
 __wafer__ _n_ _The orange wafer of sun descending into the smoke from the smoldering cane sutbble._  
-__waffle<sup>1</sup>__ _v_ :six::hammer: (waffled, waffling)  
-__waffle<sup>2</sup>__ _n_  
+__waffle<sup>1</sup>__ _v intr_ :seven: (waffled, waffling) /WAH-fuhl/ [:scroll: From Dutch wafel. Ultimately from the Indo-European root webh- (to weave; to move quickly), which also gave us weave, webster, wave, waver, wafer, wobble, and weft.] To be indecisive or evasive; to waver.  
+__waffle<sup>2</sup>__ _n_ :two: /WAH-fuhl/ __1__ A crisp cake made by baking batter in an appliance with a gridlike pattern. __2__ Evasive speech or writing.  
 __waft__ _v_ :five: (wafted, wafting) To carry or be carried gently on or as if on the air or water. _Syn_ drift, float, blow _The scent of her perfume wafted through the room._ _Fine powder that wafts up from footsteps like flour._  
 __wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._  
 __wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
