@@ -3985,7 +3985,7 @@ __disparaging__ _adj_ :two: Insulting, ridiculing.
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :eight::hammer: (dispelled)  
+__dispel__ _v_ :eight: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate.  
 __dispensed__ _v_  
 __dispenser__  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
@@ -4379,7 +4379,7 @@ __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in b
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
-__duress__ _n_ :nine::hammer: _The ability to think under duress._  
+__duress__ _n_ :nine: __1__ Compulsion by use of force or threat; constraint; coercion (often in the phrase _under duress_). _The ability to think under duress._ __2__ (Law) The illegal exercise of coercion. __3__ Confinement; imprisonment.  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -5123,7 +5123,8 @@ __ferreting out__ _v_
 __fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
-__fester<sup>2</sup>__ _v_ :eight::hammer: (festered, festering) :es: ulcerarse _VA’s challenges will only fester if they are kept shrouded in secrecy._  
+__fester<sup>2</sup>__ _v tr_ :eight: (festered, festering) __1__ To form pus; generate purulent matter; suppurate: _a festering wound._ __2__ To cause ulceration, as a foreign body in the flesh. :es: ulcerarse __3__ To putrefy or rot. __4__ To rankle, as resentment or bitterness: _The desire for revenge festered in her heart._ _VA’s challenges will only fester if they are kept shrouded in secrecy._  
+__fester<sup>3</sup>__ _v intr_ To cause to rankle: _envy festering the spirit._  
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
 __festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
