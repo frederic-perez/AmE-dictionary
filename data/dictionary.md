@@ -687,7 +687,7 @@ __assuage__ _v_ :six::hammer: (assuaged)
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
-__asthma__ _n_ :two::hammer:  
+__asthma__ _n_ :three::pencil2::hammer:  
 __astigmatism__ _n_  
 __astir__  
 __astound__ _v_ :two: (astounded) Affect with wonder. _Syn_ amaze, astonish  
@@ -984,6 +984,7 @@ __barrow__ _n_
 __barter<sup>1</sup>__ _n_  
 __barter<sup>2</sup>__ _v_ :three::hammer: (bartered)  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
+__baseline__ _n_ _We can permanently raise our happiness baseline._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_  
@@ -5616,6 +5617,7 @@ __frazzle<sup>2</sup>__ _n_ __1__ A frayed or tattered condition. __2__ A condit
 __frazzled__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
 __freak out<sup>2</sup>__ _v_  
+__freak__ _adj_ _A freak chemistry lab experiment._  
 __free commune__ _n_ :es: municipio libre  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
@@ -7286,7 +7288,7 @@ __indelible__ _adj_ :seven::pencil2: Impossible to remove, erase, or wash away; 
 __indenture__ _v_  
 __indentured__  
 __index card__ _n_  
-__indict__ _v_ :six::hammer: (indicted :mega:)  
+__indict__ _v_ :seven::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
 __indigenous__ _adj_ _Indigenous people._  
 __indigent__ _adj_ So poor as to lack even necessities; very needy. _Syn_ destitute, impoverished, necessitous, poverty-stricken _As we drove through the slum, our car was mobbed by indigent children begging for money._  
@@ -7316,7 +7318,7 @@ __ineluctable__ _adj_ Not to be avoided or escaped; inevitable. _Syn_ inescapabl
 __inequitable__  
 __inequity__ _n_ :two: (inequities) Injustice by virtue of not conforming with rules or standards. _Syn_ unfairness _Even though I am older, my brother gets more allowance money than I do, and this inequity strains my relationship with my parents._  
 __inert__ _adj_ _Helium is inert._  
-__inescapable__ _adj_ Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
+__inescapable__ _adj_ :two: Impossible to escape or avoid; inevitable: _inescapable consequences._ _Syn_ certain  
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
 __inextricable__ _adj_  
@@ -8542,7 +8544,7 @@ __malign<sup>2</sup>__ _adj_ :mute:[mali~~g~~n]
 __malignancy__ _n_ (malignancies)  
 __malingerer__ _n_  
 __mallards__  
-__malleable__ _adj_ Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile  
+__malleable__ _adj_ :three: Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._  
 __mallet__ _n_  
 __mallow__ _n_ :pencil2:  
 __malnourished__ _adj_ :two: Affected by improper nutrition or an insufficient diet.  
@@ -8653,6 +8655,7 @@ __mash<sup>2</sup>__ _n_ :two: A mixture of mashed malt grains and hot water; us
 __masonry__  
 __masquerade__ _n_ :two::hammer:  
 __Massachusett__ _n_ :pencil2::mega: (Massachuset)  
+__Massachusetts__ _n_  
 __massacre<sup>1</sup>__ _n_ _There were public roundups and massacres._  
 __massacre<sup>2</sup>__ _v_ :two::hammer: _Five of them were killed and eighty others reportedly massacred._  
 __masseur__ _n_ A man who gives massages professionally. :es: masajista  
@@ -9614,6 +9617,7 @@ __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especi
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
 __OK__ _v_ _Lower House panel OKs casino legalization bill._  
+__okapi__ _n_  
 __okay<sup>1</sup>__ _adj, adv, v tr_ /ˈoʊˈkeɪ, ˌoʊˈkeɪ, ˈoʊˌkeɪ/  
 __okay<sup>2</sup>__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
 __okra gumbo__  
@@ -12328,7 +12332,7 @@ __scion__ _n_ :five: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an il
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
-__scoff__ _v_ :nine: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :nine::m: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
 __scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
@@ -13704,7 +13708,7 @@ __stargazing__
 __stark__ _adj_ :five::hammer: _A stark reminder._  
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
-__startling__ _adj_ :four: Causing surprise or fear; striking; astonishing.  
+__startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
 __Stasi__  
 __stasis__ _n_ :two: A stoppage or diminution of flow, as of blood or other body fluid, or of intestinal contents.  
 __stat sheet__ _n_ _informal_ :two: A list of statistics. _The stat sheet for him will be ugly—he missed 10 of his 15 shots._  

@@ -1,15 +1,3 @@
-__scoffed__ _v_  
-__okapi__ _n_  
-__malleable__ _adj_ :two::hammer: _The brain is malleable._  
-__startling__ _adj_  
-__freak__ _adj_ _A freak chemistry lab experiment._  
-__inescapable__ _adj_  
-__baseline__ _n_ _We can permanently raise our happiness baseline._  
-__Massachusetts__  
-__epitome__  
-__asthma__  
-__indict__  
-__gnaw__  
 __phlegm__  
 __paradigm__  
 __pneumonia__  
