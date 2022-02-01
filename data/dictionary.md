@@ -1895,7 +1895,8 @@ __burrow<sup>1</sup>__ _n_ :four::hammer:
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
-__burst__ _v_ :two::hammer: (bursting)  
+__burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
+__burst<sup>2</sup>__ _v_ :two::hammer: (bursting)  
 __bus boy__ _n_ :two::hammer: (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
@@ -5016,6 +5017,7 @@ __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability.
 __fanzine__ _n_ :two::mega::hammer:  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
+__far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v_ :eight: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
@@ -6669,7 +6671,7 @@ __hefted up__
 __hefty__ _adj_ :two::hammer:  
 __hegira__ _n_  
 __height__ _n_ :mute:[hei~~gh~~t]  
-__heightened__ _adj_ :three::hammer:  
+__heightened__ _adj_ :four::hammer:  
 __heinous__ _adj_ :five: __1__ Very shocking and immoral. _A heinous crime._ __2__ _spoken informal_ Extremely bad. _The food in the cafeteria is pretty heinous._  
 __heir__ _n_ :mute:[~~h~~eir]  
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
@@ -9357,7 +9359,7 @@ __nicety__ _n_
 __niche__ _n_ :four::mega::hammer: (nĭch, nēsh)  
 __nickel__ _n_ _A nickel mine._  
 __nickle-and-dime__ _adj_ _A nickle-and-dime con man._  
-__nifty__ _adj informal_ :four: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
+__nifty__ _adj informal_ :five: __1__ Particularly good, skilful, or effective. _Nifty footwork._ _Syn_ skilful, capable, agile _The film has some nifty lenswork._ __2__ Useful, effective, practical. _The wallpaper trimming wheel is a nifty little gadget._ __3__ Attractive or stylish. _A nifty black shirt._ _Syn_ fashionable, stylish, smart  
 __Niger__  
 __niggardly__ _adj_ :two: __1__ Grudging and petty in giving or spending. __2__ Meanly or ungenerously small or scanty: _a niggardly tip to a waiter._  
 __niggling__ _adj_ _Niggling questions._  
@@ -11517,6 +11519,7 @@ __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
 __reamer__ _n_  
 __reap__ _v_ _Reaping the benefits._  
+__reapportion__ _v_  
 __reappraise__ _v_ To make a fresh appraisal or evaluation of.  
 __reasonable__  
 __reasoned__ _v_  
@@ -11902,7 +11905,8 @@ __ripened__ _adj_ :two: Of wines, fruit, cheeses; having reached a desired or fi
 __ripoff__ _n_ _slang_  
 __riposte__ _n_ :three::hammer: (ripostes)  
 __ripped__ _v_  
-__ripple__ _v_ :four::hammer: (rippled)  
+__ripple<sup>1</sup>__ _n_ _Can send ripples of positivity throughout your workplace?_  
+__ripple<sup>2</sup>__ _v_ :four::hammer: (rippled)  
 __rippling__ _n_ A small wave on the surface of a liquid. _Syn_ riffle, ripple, wavelet _The rippling of streams flowing._  
 __rise__ _v_  
 __risers__  
@@ -12332,7 +12336,7 @@ __scion__ _n_ :five: /ˈsaɪ ən/ __1__ A descendant or offspring, esp. of an il
 __scissor lift__  
 __scissors__ _n pl_ (plurale tantum) :two::mute:[s~~c~~issors]  
 __scleroderma__  
-__scoff__ _v_ :nine::m: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at  
+__scoff__ _v_ :nine::m: (scoffed) Speak to someone or about something in a scornfully derisive or mocking way. _Syn_ mock, deride, sneer at _They scoffed at the idea._  
 __scoffer__ _n_  
 __scofflaw__ _n_ :two: A person who flouts rules, conventions, or accepted practices.  
 __scold__ _n_ A person who habitually scolds, in particular a troublesome and angry woman.  
@@ -14212,7 +14216,7 @@ __swear jar__
 __sweatpants__ _n pl_ :two: Loose thick cotton trousers with elasticated cuffs and an elasticated or drawstring waist, worn especially for exercising or relaxing.  
 __sweats__ _n pl_ /swɛts/ (Clothing & Fashion) Sweatshirts and sweatsuit trousers: jeans and sweats. :es: sudaderas y pantalones de chándal  
 __Swede__ _n_  
-__sweeping__ _adj_  
+__sweeping__ _adj_ :two::hammer: _Sweeping policy changes._  
 __sweepstakes__ _pl n_ :three: (also sweepstake) A lottery in which the prize consists of the money paid by the participants.  
 __Sweet 16__ _n_ _sports_  
 __sweet water__ _n_ :two: _(uncommon)_ Fresh water.  
@@ -14967,7 +14971,7 @@ __treacle__
 __treacly__ _adj_ :two: Cloyingly sweet or sentimental.  
 __treading__  
 __treasure__ _v_ :four::hammer:  
-__treat<sup>1</sup>__ _v_  
+__treat<sup>1</sup>__ _v_ :two::hammer: _Treating a friend to lunch is a good way to spend the money on others._  
 __treat<sup>2</sup>__ _n_ :two::hammer:  
 __treble<sup>1</sup>__ _adj_ :three: __1__ Threefold; triple. _A treble hook._  
 __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
@@ -16047,6 +16051,7 @@ __wild__ _adj_ :seven::hammer: _It’s wild!_
 __wilderness__ _n_ :two::hammer:  
 __wildfire__ _n_ :pencil2:  
 __wildling__ _n informal_ The activity by a gang of youths of going on a protracted and violent rampage in a public place, attacking or mugging people at random. _John is about to kill wildling leader Rayder._  
+__wildly__ _adv_ To an extreme or greatly exaggerated degree. _A wildly successful chain of boutique hotels._  
 __wildness__  
 __wilful__  
 __wilfull__  
@@ -16090,7 +16095,7 @@ __windup__ _adj_ _It was a cheap, windup alarm clock._
 __wine list__ _n_ _The wine list._ :es: la carta de vinos  
 __wineskin__ _n_ _He took a sip from his wineskin._  
 __wing it__ _v_ _informal_ :astonished: To perform or speak without rehearsal; to improvise.  
-__wing__ _v_  
+__wing__ _v_ :two::hammer: _I wing my way across the continents._  
 __winger__ _n_ (soccer) :two::hammer:  
 __winging__ _v_  
 __wingspan__ _n_  
