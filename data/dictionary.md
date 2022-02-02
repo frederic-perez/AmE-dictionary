@@ -7192,7 +7192,7 @@ __imperious__ _adj_ :two: Having or showing arrogant superiority to and disdain 
 __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring  
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
-__impervious__ _adj_ :eight::hammer: _The donjon was impervious to time._  
+__impervious__ _adj_ :eight: __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
 __impetus__ _n_ :four::hammer:  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
@@ -7452,7 +7452,7 @@ __internecine__ _adj_
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interrelate__ _v_ :two::astonished::hammer:  
-__intersperse__ _v_ :nine::hammer: (interspersed)  
+__intersperse__ _v_ :nine: (interspersed) __1__ To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
@@ -8423,7 +8423,7 @@ __ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or no
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
-__lug__ _v_ :nine::hammer: (lugs, lugging) _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._  
+__lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with great effort. _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._ __2__ _v tr_ To introduce (an irrelevant topic) into a conversation or discussion. __3__ (Nautical Terms) _v tr_ (of a sailing vessel) To carry too much (sail) for the amount of wind blowing.  
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
 __lugubrious__ _adj_ Excessively mournful; doleful.  
@@ -9784,7 +9784,7 @@ __outage__ _n_ :three::hammer: _Power outages._
 __outback__  
 __outbound__ _adj_ :two::hammer: _Outbound trip._ _The latest trends in Chinese outbound tourism._  
 __outbox__ _n_  
-__outbreak__ _n_ :eight::hammer: (outbreaks)  
+__outbreak__ _n_ :eight::astonished: (outbreaks) __1__ A sudden increase: _an outbreak of influenza._ __2__ A sudden eruption; an outburst: _“an outbreak of strikes, violent agitation, and arrests” (Samuel Chew)._  
 __outburst__ _n_ :three::hammer:  
 __outcast__ _n_  
 __outcaste__ _n_  
