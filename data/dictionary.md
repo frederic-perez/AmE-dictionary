@@ -6116,7 +6116,8 @@ __gossamer<sup>1</sup>__ _adj_ :two: /GAH-suh-mer/ Sheer, light, delicate, or te
 __gossamer<sup>2</sup>__ _n_ :two::hammer: /GAH-suh-mer/  
 __gossipy__ _adj_  
 __gotcha__  
-__gouge__ _v_ :eight::hammer: (gouged) _Consumers gouged by tricks and traps._ _Gouged limbs._ _The doctors gouged the brains._ _Gouging of eyes._  
+__gouge<sup>1</sup>__ _v_ :eight: (gouged) __1__ To cut or scoop out with or as if with a gouge: _“He began to gouge a small pattern in the sand with his cane” (Vladimir Nabokov)._ _The doctors gouged the brains._ __2a__ To force out the eye of (a person) with one’s thumb. __b__ To thrust one’s thumb into the eye of. _Gouging of eyes._ __3__ _Informal_ To extort from. __4__ _Slang_ To swindle. _Consumers gouged by tricks and traps._  
+__gouge<sup>2</sup>__ _n_  
 __gouger__ _n_ (gougers) _Transparency helps patients and exposes gougers._  
 __goulash__  
 __gourd__ _n_ Decorative varieties of squash that aren’t eaten.  
@@ -6407,7 +6408,7 @@ __haggling__ _n_ :two::hammer:
 __hagiography__  
 __Hail Mary__ _n_ :two: (Ave Maria) A prayer based on the greetings of Gabriel and Saint Elizabeth to the Virgin Mary.  
 __hail<sup>1</sup>__ _v_ :nine::m: (hails, hailed, hailing) __1__ To greet. __2__ To praise enthusiastically. _The government is hailing Liverpool’s testing pilot as a great success._ __3__ To call out loudly in order to gain the attention of. _She was hailing a ride home._ __4__ Said of the weather when hail is falling.  
-__hail<sup>2</sup>__ _n_ :eight::hammer: _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._ _In an average year hail causes more losses than tornadoes._  
+__hail<sup>2</sup>__ _n_ :eight: __1__ Precipitation in the form of spherical or irregular pellets of ice larger than 5 millimeters (0.2 inch) in diameter, usually associated with thunderstorms. _In an average year hail causes more losses than tornadoes._ __2__ Something that falls with the force and quantity of a shower of ice and hard snow: _a hail of pebbles; a hail of criticism._ _Raindrops that stung like hail._ _A hail of gunfire._ _He was hit by a hail of bullets._ _The longbow’s fearful hail demoralized the enemy._  
 __hailstone__ _n_ :two: A small ball of frozen rain. _Hailstones damaged windows._  
 __hailstorm__ _n_ :three::hammer:  
 __haimish__ _adj_ _slang_ Homey; cozy and unpretentious.  
@@ -9689,7 +9690,7 @@ __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring onl
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :two::hammer: (onlookers)  
 __only problem is__  
-__onset__ _n_ :eight::hammer: _Early onset dementia._  
+__onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
 __Oobleck__ _n_ A mixture of corn starch and water that behaves like a liquid when at rest and like a solid when pressure is applied.  
