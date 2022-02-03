@@ -360,7 +360,7 @@ __aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
-__aloof<sup>1</sup>__ _adj_ :four: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._  
+__aloof<sup>1</sup>__ _adj_ :five: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
@@ -580,7 +580,7 @@ __arbitration__ _n_ _Arbitration clause._
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
-__arcane__ _adj_ :four: Known or knowable only to a few people. _This function appends arcane strings._  
+__arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch__ _adj_ :two::hammer: _Her character is arch and fake._  
 __archaea__ _n_  
 __arched__ _adj_ _Arched doorway._ :camera:  
@@ -1083,7 +1083,7 @@ __beer tap__ _n_ A valve, specifically a tap, for controlling the release of bee
 __beet__  
 __beetroot__ _n_  
 __beeves__ _n_  
-__befall__ _v_ :three::hammer: (befalls, befallen) _The unthinkable has befallen President._  
+__befall__ _v_ :four: (befalls, befallen) Happen (to). _The unthinkable has befallen President._  
 __befit__ _v_ :two::hammer: (befits, befitting)  
 __befitting__  
 __before you know it__  
@@ -4901,7 +4901,7 @@ __extremes__
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
-__exult__ _v_ (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
+__exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
 __Eye of Providence__ _n_ (all-seeing eye of God)  
@@ -4966,6 +4966,7 @@ __fair shake__
 __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fait accompli__  
+__fall for__ _phr v_  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __fall into place__  
 __fall out of love__  
@@ -5106,7 +5107,7 @@ __fen__ _n_
 __fence-mending__  
 __fence-sitter__ _n_ :two::hammer: _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __fencers__ _n_  
-__fend off__ _v_ :four: Prevent the occurrence of; prevent from happening.  
+__fend off__ _phr v_ :five: Prevent the occurrence of; prevent from happening.  
 __fend__ _v_ (fending)  
 __fennel__ _n_ :two::hammer: :es: hinojo  
 __fenny__ _adj_ _A fenny marsh._  
@@ -6260,6 +6261,7 @@ __ground chuck steak__
 __ground game__  
 __ground zero__ _n_ :two::hammer:  
 __groundbreaker__ _n_ :three::hammer:  
+__groundbreaking__ _adj_ _Groundbreaking science._  
 __Groundhog Day__  
 __groundnut__ _n_  
 __groundskeeper__  
@@ -7970,7 +7972,7 @@ __landlubber__ _n_ A person unfamiliar with the sea or seamanship.
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
-__languish__ _v_ :three: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
+__languish__ _v_ :four: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :five::hammer:  
@@ -9280,7 +9282,7 @@ __naughty__ _adj_ :dart::mute:[nau~~gh~~ty] __1__ Behaving disobediently or misc
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
-__naysayer__ _n_ :three::hammer:  
+__naysayer__ _n_ :four::hammer:  
 __NB__  
 __NCO__  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
@@ -13191,8 +13193,7 @@ __smooth<sup>2</sup>__ _adj_ _A smooth professional._
 __smoothie__ _n_ :two: (smothies) A thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.  
 __smorgasbord__ _n_ :three::astonished: __1__ A buffet meal of various hot and cold hors d’oeuvres, salads, casserole dishes, meats, cheeses, etc. __2__ An extensive array or variety.  
 __smote__ _v_ :two::hammer: _Smote a horse with a whip._  
-__smothered__  
-__smothering__  
+__smother__ _v_ :three::hammer: (smothered, smothering) _Do not smother your true feelings._  
 __smoulder__ _v_ :three: (smouldered, smouldering) __1__ To burn slowly, producing smoke but no flames. _The wood smouldered._ __2__ To feel very strong emotions that you do not express in words, especially anger or sexual feelings.  
 __smouldering__ _adj_ :two::hammer:  
 __smudge__  
