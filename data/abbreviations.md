@@ -7,6 +7,7 @@ __AAA__ (Automotive Engineering) Automobile Association of America.
 __AAPI__ Asian Americans and Pacific Islanders.  
 __AAVE__ African American Vernacular English. A nonstandard form of American English characteristically spoken by African Americans in the United States.  
 __AB__ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
+__ACK__ Acknowledge/Acknowledgement/Acknowledged.  
 __ACL__ Anterior cruciate ligament.  
 __ADD__ Attention deficit disorder.  
 __ADHD__ Attention deficit hyperactivity disorder.  
@@ -110,6 +111,7 @@ __ppl__ _informal_ People.
 __PR__ _The PR version of my life._  
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
+__PVC__ Polyvinyl Chloride.  
 __PX__ Physical Examination. _You run the PX for these characters?_  
 __QCT__ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __R/O__ Rule out.  
@@ -119,15 +121,18 @@ __RICO__ _He had been indicted on RICO charges._
 __RIF__ _Reading Is Fundamental._  
 __ROI__ Return on investment.  
 __RSV__ Respiratory syncytial virus.  
+__RSVP__ Répondez S’il Vous Plaît. _(French: Reply, If You Please; commonly seen on invitations)_ _Guests must RSVP to foo@bar.baz by June 19._  
 __RV__ :two: Recreational vehicle.  
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
 __S&L__ _An S&L swinger._  
+__SEAL__ Sea, Air, Land. _(US Navy military special forces team member)_  
 __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __SMH__ Shaking my head.  
 __STI__ :four: Sexually transmitted infection.  
 __T-storm__ Thunderstorm.  
+__TBD__ To Be Determined/Defined/Decided/Done/Developed/Discussed...  
 __TBH__ To be honest.  
 __TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
@@ -138,7 +143,9 @@ __UNESCO__ United Nations Educational, Scientific and Cultural Organization.
 __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __VAR__ Video Assistant Referee.  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
+__VTOL__ Vertical Take-Off & Landing.  
 __w/__ _abbr_ With.  
 __w/o__ _abbr_ Without.  
 __WFH__  
-__WMO__ :three::hammer:  
+__WHO__ World Health Organization.  
+__WMO__ :three: World Meteorological Organization.  

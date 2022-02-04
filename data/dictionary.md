@@ -120,7 +120,6 @@ __Achilles heel__ _n_ :two: A weakness or vulnerable point.
 __Achilles__ _n_ _Out for season after tearing his Achilles against San Diego._  
 __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.  
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
-__ACK__  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
 __acolyte__ _n_ :four::hammer: (acolytes)  
@@ -11240,7 +11239,6 @@ __putting aside__
 __putty knife__ _n_ :astonished: A spatula used to mix or apply putty. :es: espátula  
 __putty__ _n_ :seven::mega::hammer: _He had skin the color of putty._ _His flesh was like wrinkled putty on his bones._ _Tan putty wrinkling._ :es: masilla  
 __puzzler__ _n_ A person or thing that puzzles.  
-__PVC__  
 __pylon__ _n_  
 __pyogenic__ _adj_ :pencil2: Producing pus.  
 __pyranometer__ _n_ :four::hammer:  
@@ -12052,7 +12050,6 @@ __row house__ _n_
 __rowdy__ _adj_ :six: /ˈraʊdi/ Noisy and disorderly. _Syn_ unruly, disorderly, badly behaved _It was a rowdy but good-natured crowd; the assembly could turn into an arena of political rowdies._  
 __rowhouse__ _n_  
 __royalties__  
-__RSVP__ _v_ _Guests must RSVP to foo@bar.baz by June 19._  
 __rub elbows__ _v_  
 __rub something in someone’s face__  
 __rub<sup>1</sup>__ _n_ :three::hammer: _By “evidence” I mean hard facts, as defined by the scientific community, and there’s the rub._  
@@ -14446,7 +14443,6 @@ __taxative__ _adj_ (Economics) Of, relating to, or involving taxation.
 __taxi medallion__ _n_ A taxi medallion, also known as a CPNC (Certificate of Public Necessity and Convenience), is a transferable permit in the United States allowing a taxicab driver to operate. Several major cities in the US use these in their taxi licensing systems, including New York City, Boston, Cambridge, Chicago, Philadelphia, and San Francisco.  
 __taxidermy__ _n_  
 __taxpayer__ _n_ :two::pencil2::hammer:  
-__TBD__  
 __tchotchkes__ _n_ :three::hammer: _Simpson tchotchkes._  
 __tea party__ _n_ :two::hammer: _Tea party groups._ _Tea party rallies._  
 __teakwood__ _n_ :pencil2: Teak.  
@@ -16017,7 +16013,6 @@ __whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoe
 __whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
 __whizz__  
 __whizzing__  
-__WHO__  
 __who__ _pron_ :mute:[~~w~~ho]  
 __whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
 __whole milk__  
