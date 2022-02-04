@@ -1488,6 +1488,7 @@ __bombsights__
 __bon ton__  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :eight: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
+__bona fides__ _n_ /boh-nuh-FYE-deez/  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
 __bondage__  
@@ -5053,7 +5054,7 @@ __fatigue__
 __fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
-__fatuous__ _adj_ :two: Foolish or inane, esp. in an unconscious, complacent manner; silly.  
+__fatuous__ _adj_ :three: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
 __fatwa__ _n_ :two: Religious edict.  
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
@@ -5252,6 +5253,7 @@ __fishmonger__ _n_
 __fishpond__ _n_ _A rainwater fishpond on the roof._  
 __fissile__ _adj_ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
+__fissure__ _n_ :pencil2: A long narrow opening. _Syn_ crevice, crack, cleft  
 __fist-pumper__  
 __fisticuffs__ _n_ Fighting with the fists. _Syn_ boxing, pugilism  
 __fists bumping__  
@@ -5822,6 +5824,7 @@ __garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a pris
 __garbage chute__ _n_ :camera:  
 __garbage island__  
 __garbed__ _v_ :two::hammer:  
+__garble__ _v tr_ /GAR-bul/ To so alter or distort as to create a wrong impression or change the meaning. _The text on the television was garbled, but viewers could still decipher what was being said._  
 __Garden of Eden__  
 __Garden of Gethsemane__  
 __Garden State__ _n_ New Jersey.  
@@ -6270,7 +6273,8 @@ __groundswell__ _n_ :five::hammer:
 __groundwater__  
 __groundwork__ _n_ :two::hammer: _Joy laid the groundwork with a series of cozy phone calls._  
 __groupie__ _n_ :two::hammer: (groupies)  
-__grouse__ _v_ :six: (groused, grousing) To complain; grumble. _We groused about the uncomfortable seating._  
+__grouse<sup>1</sup>__ _v intr_ :seven: /grous/ To complain or to grumble. _We groused about the uncomfortable seating._  
+__grouse<sup>2</sup>__ _n_ /grous/ A complaint.  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
 __grovel__ _v_ :five::hammer: (groveling)  
@@ -7252,7 +7256,7 @@ __inbound<sup>2</sup>__ _v_
 __incarcerate__ _v_ :two::hammer: (incarcerated)  
 __incarnation__ _n_ :four::hammer:  
 __incel__ _n_ A person who is involuntarily celibate; the state or condition of being involuntarily celibate.  
-__incendiary__ _adj_ _He launched an incendiary attack._  
+__incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, incitive, instigative, rabble-rousing, seditious _The incendiary remarks in the pamphlet spurred the villagers to revolt._ _He launched an incendiary attack._  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
 __inception__ _n_ :three::hammer:  
@@ -7617,7 +7621,7 @@ __jest__
 __jet black__ _n_ :two::hammer: _Her hair was jet black._  
 __jet__ _n_ :two::hammer: _Low-level jet formation._ _The sky was jet overhead._  
 __jetliners__  
-__jettison__ _v_ :seven: (jettisoned, jettisoning) To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._  
+__jettison__ _v_ :eight: /JET-uh-sun/ (jettisoned, jettisoning) __1__ To throw (something) overboard to lighten a ship or aircraft in distress. To cast overboard or off: _a ship jettisoning wastes; a pilot jettisoning aircraft fuel._ _Princess Leia Organa hid the data tapes in the memory banks of R2-D2, and the astromech jettisoned the ship with C-3PO._ _Seven seconds later the aeroshell was jettisoned._ __2__ To get rid of (something). _The coach was jettisoned after the team failed to make the playoffs for the third straight year._  
 __jetty<sup>1</sup>__ _n_ :two::hammer:  
 __jetty<sup>2</sup>__ _adj_  
 __jewelry__ _n_ (jewellery)  
@@ -12479,7 +12483,7 @@ __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which mu
 __sediment__ _n_  
 __sedition__ _n_ :three: Sedition is the illegal act of inciting people to resist or rebel against the government in power. It’s what the southern states did at the start of the Civil War.  
 __seditious__ _adj_ In opposition to a civil authority or government. _Syn_ insurgent, subversive _In an attempt to discourage rebellion, the dictator announced that anyone found in possession of seditious literature would be executed._  
-__sedulous__ _adj_ :three::hammer: _Syn_ busy  
+__sedulous__ _adj_ :four: Persevering and constant in effort or application. _Syn_ assiduous _Her sedulous efforts to learn French eventually enabled her to become almost fluent._  
 __see__ _n_ (sees) The official seat, center of authority, jurisdiction, or office of a bishop.  
 __seeded__ _v_ _2 fresh jalapenos, seeded and sliced into rings._  
 __seedier__  
@@ -14425,6 +14429,9 @@ __taut__ _adj_
 __tautened__  
 __tautly__  
 __tautology__ _n_  
+__taw<sup>1</sup>__ _v intr_ To shoot a marble.  
+__taw<sup>2</sup>__ _v tr_ __1__ To prepare raw material for use. __2__ To tan animal skin with alum and salt.  
+__taw<sup>3</sup>__ _n_ __1__ A large marble used as a shooter. __2__ A line from which the players shoot marbles.  
 __tawdry__ _adj_ :six: [:scroll: Short for tawdry lace, a contraction of St Audrey lace. The story goes that Æthelthryth (c. 636-679 CE), also known as Etheldreda and Audrey, loved fine silk laces in her youth. She died of a throat tumor which she considered a punishment for her fondness of necklaces. She was a queen, but later became a nun, and eventually a saint. Cheap laces sold in St Audrey’s Fair in Ely, England, came to be known as St Audrey lace, and eventually shrank to tawdry lace.] Cheap, showy, and gaudy. Poor, cheap quality. Tastelessly showy. _Syn_ flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy, brassy, cheap  
 __tawny__ _n_ :three: A light brown to brownish orange.  
 __tax break__ _n_ :two::hammer: (tax breaks)  
