@@ -332,6 +332,7 @@ __all-nighters__ _n_
 __all-out__ _adj_ :three: Using all available resources. _Syn_ full-scale _Holding nothing back, the candidate launched an all-out attack on his critics._ _All-out military battle._  
 __all-pro__ _adj_ Chosen as one of the best players within a league. Used chiefly in the National Football League. _The Browns all-pro receiver._  
 __all-round__ _adj_ __1__ Efficient in all respects, esp in sport; versatile: _an all-round player._ __2__ Comprehensive; many-sided; not narrow: _an all-round education._  
+__all-time__ _adj_ _That’s one of my favorite all-time experiments._  
 __allay__ _v tr_ :five::hammer: (allayed)  
 __allegation__ _n_  
 __allege__ _v_ :two: (alleged) __1__ To assert without proof or before proving. __2__ To bring forward as a reason or excuse.  
@@ -2352,7 +2353,7 @@ __chapter__ _n_ _To the east was the chapter house._
 __char__ _v_ (charred)  
 __character actor__  
 __character__ _n_ :mute:[c~~h~~aracter]  
-__charade__ _n_ :three::hammer:  
+__charade__ _n_ :four::hammer:  
 __charcuterie__ _n_ :pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
 __chard__  
 __charge__ _v_ Accuse formally.  
@@ -4308,7 +4309,7 @@ __drub__ _v_ :two::hammer:
 __drubbing__ _n_ :three::dart: (drubbings) __1__ A beating; a sound thrashing. __2__ A decisive, humiliating defeat, as in a game or contest. _The Knights have improved since receiving a drubbing from the Miners._  
 __drudge<sup>1</sup>__ _n_ :two: A person who does tedious, menial, or unpleasant work. _Syn_ navvy, peon, galley slave _Picking up after my ungrateful kids every day makes me feel like little more than a household drudge._  
 __drudge<sup>2</sup>__ _v_ To do hard, menial, or monotonous work.  
-__drudgery__ _n_ :five::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
+__drudgery__ _n_ :six::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywork, plodding, grind _The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day._  
 __drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
@@ -4663,6 +4664,7 @@ __ennui__ _n_ :two::hammer:
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
+__enrichment__ _n_  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
 __ensemble<sup>1</sup>__ _n_ :three::hammer:  
@@ -5040,6 +5042,7 @@ __fast-track__ _v_
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his collection._  
+__fastidiously__ _adv_ :es: meticulosamente _I was fastidiously watching the clock._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
 __Fat Man__ _n_  
@@ -6962,8 +6965,8 @@ __horticulture__
 __horticulturist__ _n_ :mega:  
 __hosanna__ _n_ _A thousand hosannas._  
 __hospice__  
-__hoss__  
-__host__ _n_ :four: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._  
+__hoss__ _n_ (Animals) _dialect informal US_ A horse.  
+__host__ _n_ :five::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
@@ -8786,7 +8789,8 @@ __menarche__ _n_ _(Physiology)_ The first occurrence of menstruation in a woman�
 __mendacious__ _adj_ Lying; untruthful. _Syn_ dishonest, deceptive, deceitful, duplicitous _She was more upset with the mendacious child for his dishonesty than his initial misbehavior._  
 __mendacity__  
 __mending__ _n_ Clothes and other articles that must be repaired: _We let the mending accumulate until Wednesday._  
-__menial__ _n_  
+__menial<sup>1</sup>__ _adj_ _Menial labor._  
+__menial<sup>2</sup>__ _n_  
 __meniscus__ _n_ :two::hammer: _The thermometer’s meniscus._  
 __Mennonite__  
 __menology__  
@@ -10688,6 +10692,7 @@ __point-blank__
 __pointed questions__  
 __pointless__ _adj_ :two::hammer:  
 __poise__  
+__poison ivy__ _n_ :es: hiedra venenosa  
 __poke__ _v_  
 __poker face__ _n_ A face lacking any interpretable expression, as that of an expert poker player.  
 __poker__ _n_ _(Tools)_ A metal rod, usually with a handle, for stirring a fire.  
@@ -12629,7 +12634,7 @@ __shale<sup>2</sup>__ _n_ :five: A soft kind of rock that splits easily into fla
 __shale<sup>3</sup>__ _v_  
 __shallots__ _n_  
 __shallow__  
-__sham<sup>1</sup>__ _adj_ :three: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._  
+__sham<sup>1</sup>__ _adj_ :four: Bogus; false. _Syn_ fake, pretended, feigned, simulated, false, artificial, bogus _Sham marriages._ _The sham elections._ _“Sham surgery” diminished swelling in hurt knees._  
 __sham<sup>2</sup>__ _n_ :four::hammer: _The novelty effect isn’t a sham._  
 __shambled__ _v_ :two::hammer:  
 __shambles__ _n_ :four::hammer: _By 1984, our dreams were a shambles._ _It was in shambles._  
@@ -13652,7 +13657,7 @@ __stage name__
 __stager__ _n_ An experienced person who has been through many battles; someone who has given long service. _Syn_ old hand, old-timer, warhorse, veteran  
 __stagflation__ _n_ :two: Sluggish economic growth coupled with a high rate of inflation and unemployment.  
 __stagger__ _v_ :four::hammer: (staggers) _Walmart will stagger other deals._ __4__ To arrange in alternating or overlapping time periods: _staggered the nurses’ shifts._  
-__staggering<sup>1</sup>__ _adj_ :two: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
+__staggering<sup>1</sup>__ _adj_ :three: Extremely surprising. Causing great astonishment, amazement, or dismay; overwhelming: _a staggering achievement; a staggering defeat._  
 __staggering<sup>2</sup>__ _v_  
 __stagnant__ _adj_ :three::hammer:  
 __staid__ _adj_ :six: Sedate, respectable, and unadventurous. _Staid law firms._ _A staid postelection conference._ _Syn_ sedate, respectable, quiet, serious :es: serio, formal, sereno Characterized by sedate dignity and often a strait-laced sense of propriety. _Syn_ serious, sober, quiet, calm, grave, steady, composed, solemn _I instinctively stood up a little straighter when the staid duke entered the parlor._  
