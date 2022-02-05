@@ -7748,7 +7748,6 @@ __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juve
 __juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-pop__  
-__K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
 __kabobs__  
 __kaboom__ _n_ An onomatopoeia representing the sound of an explosion.  
@@ -8716,10 +8715,8 @@ __mayhem__ _n_ :seven: Mayhem is a violent and rowdy disturbance, like what you 
 __mayo__ _n_ _informal_ /ˈmeɪ oʊ/ Mayonnaise.  
 __mayoketchup__  
 __mayonnaise__ _n_ :astonished::mega:  
-__MC__  
 __McDonald’s__ _n_ :mega: [mic...]  
 __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predictability, control, etc., at the expense of individuality or creativity. __2__ The spread of the influence of American culture.  
-__ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
@@ -8985,7 +8982,6 @@ __mitt__ _n_
 __mitzvah__ _n_ :two: /MITS-vuh/ [:scroll: From Hebrew mitzvah (commandment), from tziwwah (to command). Earliest documented use: 1723. Plural: mitzvahs or mitzvoth. The most familiar usage of the word may be in the terms bar mitzvah (of the age of commandment, for boys) and bat mitzvah (for girls). Jewish children are considered adults at the age of 13 (in some versions of Judaism, the age for girls is 12). This comes with rights and responsibilities. The bar and bat mitzvahs are observed with rituals, ceremonies, and celebrations.] __1__ A good deed. __2__ A duty, obligation, or commandment.  
 __mix-up__ _n_ :two::hammer:  
 __mixed bag__ _n_ :three::hammer: _It’s a mixed bag, really._  
-__MLK__  
 __mo__ _n_ :three: __1__ Month. (mo., mos.) __2__ A mo is a very short length of time. It is short for moment.  
 __moat__ _n_ :eight: __1__ A deep, wide trench, usu. filled with water, surrounding the rampart of a fortified place, as a town or a castle. _The castle’s moat._ __2__ Any similar trench, as one used for confining animals in a zoo.  
 __mob__ _n_  
@@ -9290,8 +9286,6 @@ __navel__ _n_ :four: The depression in the center of the belly where the umbilic
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
 __naysayer__ _n_ :four::hammer:  
-__NB__  
-__NCO__  
 __ne plus ultra__ _n_ n The extreme or perfect point or state. _The new building is the ne plus ultra of theatrical design._  
 __neat__ _adj_ :three::hammer: _Shots of whiskey, moonshine, vodka and cordial served neat or on the rocks._ _That’s a neat idea, Jupe._  
 __neatnik__ _n_ A very neat and tidy person.  
@@ -9581,7 +9575,6 @@ __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine ca
 __octogenarians__  
 __octoroons__  
 __octothorpe__ _n_ The symbol (#).  
-__OD__ _v_  
 __odd__ _adj_ :two: __2__ Being in excess of the indicated or approximate number, extent, or degree. Often used in combination: _invited 30-odd guests._ _Fifty-odd years._  
 __oddball__ _n informal_ :five: A strange or eccentric person. :es: bicho raro  
 __oddity__ _n_  
@@ -9624,11 +9617,9 @@ __often__ _adv_ :mute:[of~~t~~en]
 __oftentimes__ _adv_ :two::hammer:  
 __ogle__ _v_ :three::hammer: (ogled)  
 __Ohioans__  
-__OICU812__ _gramo_ Oh, I See You Ate One, Too  
 __oil slick__ _n_ A film or layer of oil floating on an expanse of water, especially one that has leaked or been discharged from a ship. _The greasy shine of an oil slick._  
 __oilcloth__  
 __oily__ _adj_ Too friendly and polite in a way that is not sincere.  
-__OK__ _v_ _Lower House panel OKs casino legalization bill._  
 __okapi__ _n_  
 __okay<sup>1</sup>__ _adj, adv, v tr_ /ˈoʊˈkeɪ, ˌoʊˈkeɪ, ˈoʊˌkeɪ/  
 __okay<sup>2</sup>__ _n_ (and _adjective_, _adverb_, and _verb_) At any rate, when the word first appeared in print in 1839, it was spelled OK. But, by the 20th century, many publications were using the somewhat more elegant spelling of okay. Which of these spellings you use is really up to you—there’s no clear answer. The Associated Press recommends OK; the Chicago Manual prefers okay.  
@@ -9771,11 +9762,9 @@ __ostium__ _n_ _Careful attention to the ostium of the appendage also provides v
 __ostracism__ _n_  
 __ostracize__ _v_ :eight::pencil2: /AH-struh-syze/ (ostracized) Expel from a community or group. _Syn_ banish, blackball, cast out, shun, ban  
 __ostrichism__ _n_ /OS-tri-chiz-uhm/ [:scroll: From the erroneous popular belief that ostriches bury their heads in the sand when facing danger.] The act or policy of refusing to face reality or unpleasant facts. The act of refusing to accept reality or hiding one’s head in the sand.  
-__OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
 __otherness__  
 __otherworldly__ _adj_ :astonished::three::hammer:  
 __otiose__ _adj_ Serving no useful purpose; having no excuse for being. _Syn_ superfluous, wasted, pointless, senseless _More than half of his acceptance speech was otiose nonsense, and the rest was just a rehash of his campaign promises._  
-__OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __otter__  
 __ottoman__  
 __ouboros__ _n_  
@@ -11249,7 +11238,6 @@ __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
 __pyrrhic__ _adj_ :four::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
-__Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q.E.D.__  
@@ -12230,7 +12218,6 @@ __sashay__ _v_ :five: (sashayed) To walk with a lofty proud gait, often in an at
 __sashimi__ _n_  
 __sass__ _v_ (sassed)  
 __sassy__ _adj_ :two::hammer:  
-__SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
@@ -12448,7 +12435,6 @@ __seafarer__
 __seafaring__  
 __seagulls__ _n_ :two::hammer:  
 __seahawk__ _n_  
-__SEAL__ _n_ (Military) A member of the Sea Air and Land Teams, an elite special operations unit of the United States Navy. _It is something U.S. Navy SEALs do._  
 __seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
 __seamed__ _v_ _A seamed old man._  
 __seamless__  
@@ -14293,7 +14279,6 @@ __syrup__ _n_ _Maple syrup._
 __syrupy__ _adj_ :two: Cloyingly sweet or sentimental. _Syn_ saccharine, treacly _I can appreciate a sentimental or romantic film, but syrupy “chick flicks” are another thing altogether._  
 __systemic__ _adj_ :two::hammer:  
 __syzygy__  
-__T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-ball__  
 __T&A__  
 __tab<sup>1</sup>__ _n_ :six: __1__ _informal_ A restaurant bill. A bill, especially for meals or drinks. _Bar tabs._ _The tab is $1,000 per person._ _The waiter brought three drinks and a new tab._ _Syn_ bill, invoice, account, statement, note/list of charges, charge _The company will pick up the tab for any moving expenses._ __2__ A tally of items ordered in a bar or restaurant. _Bobby had told the barman to put everything on the tab._  
@@ -15705,7 +15690,6 @@ __vouch__ _v_ :two::hammer:
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
-__VTOL__ _n_ A vertical take-off and landing aircraft.  
 __vulcanize__ _v_ To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure.  
 __vulnerable__ _adj_  
 __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
@@ -16295,8 +16279,6 @@ __xenoestrogen__ _n_
 __xenophile__ _n_ A person attracted to that which is foreign, especially to foreign peoples, manners, or cultures.  
 __xenotransplantation__ _n_ The surgical transfer of cells, tissues, or especially whole organs from an organism of one species to an organism of a different species. _Syn_ xenotransplant  
 __xeriscape__ _n_  
-__XLNC__ _gramo_ Excellency.  
-__XMM__ _gramo_ Exams.  
 __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yakety-yak__ _n_ Noisy talk.  
@@ -16348,7 +16330,6 @@ __yo-yo<sup>3</sup>__ _adj_
 __yoke__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
-__YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
 __yonder__  
 __yore__ _n_ :two: Time long pass. _Days of yore._ _The good simple days of yore._  
 __your face sounds familiar__ _n_ Philippines TV show. :es: _tu cara me suena_  

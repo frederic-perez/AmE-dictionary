@@ -64,14 +64,18 @@ __IFU__ Instructions for use.
 __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
 __IP__ Intelectual property.  
 __ISV__ Independent software vendor.  
+__K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __KOL__ Key opinion leader.  
 __LASIK__ Laser-assisted in situ keratomileusis. _Lasik surgery._  
 __lbs.__ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
 __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
+__MC__  
 __MDMA__ Methylene dioxymethamphetamine: an amphetamine derivative, that was used in psychotherapy until it was banned in the U.S. in 1985: now used illicitly as a hallucinogen and mood-enhancer. Also called (informal): ecstasy.  
+__ME__ _n_ :three: Medical Examiner. _The ME said there was a look frozen in their eyes._ _The ME dug him out of the ashes and opened him up._  
 __MIA__ :two: Missing in action.  
+__MLK__  
 __MO__ :six: Modus operandi. _With the same MOs._  
 __MOS__ :two: Mom over shoulder.  
 __mos.__ Months.  
@@ -84,6 +88,8 @@ __N/A__ Not available.
 __NA__ :two: __1__ Narcotics Anonymous _Go to an NA meeting._ __2__ North America __3__ (also n/a) Not applicable.  
 __Nat Geo__ National Geographic.  
 __NATO__ _North Atlantic Treaty Organization_  
+__NB__  
+__NCO__  
 __NDA__  
 __NG__ Not guilty. _The NG celebration at the bar._  
 __NICE__ National Institute for Health and Care Excellence.  
@@ -91,8 +97,13 @@ __nos__ Numbers: _nos. 9 and 10._
 __NPO__ _Latin_ Nil per os (nothing by mouth).  
 __obo__ :two: Or best offer.  
 __OCD__ :two::hammer:  
+__OD__ _v_  
 __OEM__ :three::hammer: _OEMs._  
 __OG__ __1__ (Military) Officer of the guard. __2__ Original gangster.  
+__OICU812__ _gramo_ Oh, I See You Ate One, Too  
+__OK__ _v_ _Lower House panel OKs casino legalization bill._  
+__OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of play specified under the rules of a sport to bring a game to a decision and avoid declaring the match a tie or draw where the scores are the same.  
+__OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OTT__ Over the top.  
 __PB&J__  
 __PC__ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
@@ -113,6 +124,7 @@ __PTO__ Parent Teacher Organization.
 __PTSD__ :four: Post-traumatic stress disorder.  
 __PVC__ Polyvinyl Chloride.  
 __PX__ Physical Examination. _You run the PX for these characters?_  
+__Q__ _n_ Character in James Bond films, a quiet genius who understands technology and creates the tools that help Bond do his work.  
 __QCT__ Quantitative CT. A type of CT scan used to measure density of bone in the vertebrae or in the extremities (peripheral QCT), usually the wrist. QCT is rarely used because it is expensive, results in higher radiation exposure, and is less accurate than DEXA, P-DEXA or DPA.  
 __R/O__ Rule out.  
 __rep__ :three::hammer: _You have to do thousands of reps to reach such level._  
@@ -126,11 +138,13 @@ __RV__ :two: Recreational vehicle.
 __s/s__ Stainless steel. _s/s appliances._  
 __s&h__ Shipping and Handling. _Every penny will be returned to you (except s&h)._  
 __S&L__ _An S&L swinger._  
-__SEAL__ Sea, Air, Land. _(US Navy military special forces team member)_  
+__SAT__ _trademark_ :three: (in the US) A test of a student’s verbal and mathematical skills, used for admission to American colleges, competitor to the ACT.  
+__SEAL__ _n_ (Military) Sea, Air, Land. _(US Navy military special forces team member)_ A member of the Sea Air and Land Teams, an elite special operations unit of the United States Navy. _It is something U.S. Navy SEALs do._  
 __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __SMH__ Shaking my head.  
 __STI__ :four: Sexually transmitted infection.  
+__T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-storm__ Thunderstorm.  
 __TBD__ To Be Determined/Defined/Decided/Done/Developed/Discussed...  
 __TBH__ To be honest.  
@@ -142,10 +156,14 @@ __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test 
 __UNESCO__ United Nations Educational, Scientific and Cultural Organization.  
 __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __VAR__ Video Assistant Referee.  
+__VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. _(aka keyhole surgery of the chest)_  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
-__VTOL__ Vertical Take-Off & Landing.  
+__VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.  
 __w/__ _abbr_ With.  
 __w/o__ _abbr_ Without.  
 __WFH__  
 __WHO__ World Health Organization.  
 __WMO__ :three: World Meteorological Organization.  
+__XLNC__ _gramo_ Excellency.  
+__XMM__ _gramo_ Exams.  
+__YOLO__ _n_ :two: The attitude that a person has just one life to live, so should live it well. From the phrase _you only live once._  
