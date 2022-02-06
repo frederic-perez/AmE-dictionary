@@ -141,7 +141,6 @@ __acrophobia__
 __across__ _adj, adv, prep_ _She is sitting across from you at a coffee shop._  
 __act on__ _phr v_ To take action as a result of advice, information, etc. _There is little chance the senate will act on the invasion._  
 __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _informal_ To become active or troublesome after a period of quiescence: _My left knee acts up in damp weather._  
-__ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
@@ -1023,7 +1022,6 @@ __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._
 __bay leaves__  
 __bays__ _n_  
 __bazillion__  
-__BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __beach__ _v_  
 __beachhead__ _n_ :four::hammer:  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
@@ -2280,7 +2278,6 @@ __cavity__ _n_ :es: caries
 __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
-__CBT__  
 __ce__  
 __ceasefire__  
 __cede__  
@@ -2529,7 +2526,6 @@ __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinega
 __chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
 __Ciceronian__ _adj_  
-__CID__  
 __cigar__ _n_ :mega:  
 __cigarette stub__ _n_ Another name for a cigarette butt.  
 __cigarillo__ _n_ :pencil2::camera::two::hammer:  
@@ -3550,7 +3546,6 @@ __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so 
 __de facto__ _adj_  
 __de-escalate__ _v_  
 __de-facto__  
-__DEA__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
 __dead on__  
@@ -4327,7 +4322,6 @@ __dry spel__
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _Pladur_  
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
-__DSLR__  
 __dub__ _v_ (dubbed)  
 __dubious__ _adj_ :five::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
@@ -4394,7 +4388,6 @@ __duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for bu
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
 __dwelling__ _n_  
-__DWI__  
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
 __dyad__  
 __dyadic__  
@@ -4518,7 +4511,6 @@ __either__ _adj, adv, conj, pron_ :mega:
 __ejecta__ _n_ Ejected matter, as that from an erupting volcano.  
 __eke out__ _v_ :two::hammer: (eked out)  
 __eke__ _v_ :two::hammer: (eking) _Eking out a bit more mileage._  
-__EKG__  
 __el__ _n_ _informal_ :two: An elevated railway. _The el tracks._  
 __elaborate__ _v_ :dart:  
 __élan__ _n_ :two::pencil2::hammer:  
@@ -5463,7 +5455,6 @@ __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act o
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __fomite__ _n_ /FOH-myte/ Any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another. _Syn_ vehicle  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
-__FOMO__  
 __food bank__  
 __food processor__  
 __food stall__  
@@ -6105,7 +6096,6 @@ __goomey__
 __goop__ _n_  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __goosebump__ _n_  
-__GOP__  
 __Gordian knot__ _n_ :two::hammer:  
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
@@ -6190,7 +6180,6 @@ __graybeard__ _n_ :two: A man who is very old. _Syn_ old man, Methuselah _Senate
 __grayling__  
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
 __grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
-__GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
 __Great Dane__  
 __Great War__  
@@ -6815,7 +6804,6 @@ __hitch<sup>1</sup>__ _n_ :four::hammer: _There was only a little hitch in this 
 __hitch<sup>2</sup>__ _v_ _Their clubs had hitched their wagons to the right horse._  
 __hither__ _adv_ :three::hammer: _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._  
 __hitherto__ _adj, adv_ :five::hammer:  
-__HIV__  
 __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face._  
 __HMOs__  
 __ho__  
@@ -7080,7 +7068,6 @@ __husky__ _adj_ :three::hammer: _Husky voice._
 __hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
-__HVAC__  
 __hyacinth__ _n_ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
@@ -7151,7 +7138,6 @@ __IgNobel prize__ _n_
 __ignoble__ _adj_  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
-__IIRC__ _chat_ If I recall correctly.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
 __ill__  
 __ill-fated__ _adj_  
@@ -7498,7 +7484,6 @@ __involute<sup>3</sup>__ _v intr_ /in-vuh-LOOT/ __1__ To curl up. __2__ To retur
 __involution__ _n_ The act of involving or complicating or the state of being involved or complicated. _Syn_ intricacy, elaboration _The tale itself is a mere sketch, with no involution of plot, nor any great interest of events._  
 __iodine__ _n_ :es: yodo  
 __iota__ _n_ A very small amount; a bit. _Syn_ scintilla, shred, smidgeon, whit _There was not an iota of truth to that tale._  
-__IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __ipso facto__ _adv_  
 __irascible__ _adj_ Prone to outbursts of temper; easily angered. _Syn_ potheaded, quick-tempered, choleric, short _He was a singularly irascible man; any little thing would disturb his temper._  
 __irate<sup>1</sup>__ _adj_ :two::hammer:  
@@ -7520,7 +7505,6 @@ __irrefutable__ _adj_ _Irrefutable evidence._
 __irreplaceable__  
 __irrigate__ _v_ :dart:  
 __irritating__ _adj_ _Syn_ annoying, tiresome  
-__IRS__ _n_ :five: _Internal Revenue Service_  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
 __islet__ _n_ :two::hammer: _Transplanting islet cells into the liver._  
@@ -7537,7 +7521,6 @@ __italicize__ _v_
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
-__IUD__  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :five::hammer: :es: hiedra  
 __J-strokes__  
@@ -8107,7 +8090,6 @@ __legerity__ _n_ :two: Physical or mental quickness; nimbleness; agility. The gr
 __leggings__ _n pl_ (plurale tantum)  
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _slang_ :four: Legitimate.  
-__LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __legwork__ _n_  
 __lei__ _n_ :two; (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
 __leisurely<sup>1</sup>__ _adj_  

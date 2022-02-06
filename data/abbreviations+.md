@@ -9,10 +9,12 @@ __AAVE__ African American Vernacular English. A nonstandard form of American Eng
 __AB__ _Latin_ Artium Baccalaureus (Bachelor of Arts). _Guys in the AB._  
 __ACK__ Acknowledge/Acknowledgement/Acknowledged.  
 __ACL__ Anterior cruciate ligament.  
+__ACT__ _n_ A trademark for a standardized college entrance examination. A college entrance exam, competitor to the SAT.  
 __ADD__ Attention deficit disorder.  
 __ADHD__ Attention deficit hyperactivity disorder.  
 __AWOL__ _Military_ Absent from where one should be but without intent to desert. _The men have gone AWOL._  
 __B & E__ :two: Breaking and entering. _Somebody did a B&E on you._  
+__BB__ _n_ :three: A small pellet fired from an air rifle or BB gun. (BBs) _He tilted more BBs into the tiny holes of his game._ _His eyes came together like BBs, then refocused on my face._  
 __BCE__ Before the Common Era.  
 __BM__ Bowel movement (take a dump).  
 __BMX__ :two::hammer: _BMX bike._  
@@ -20,9 +22,11 @@ __bn__ Billion. _US $30bn._
 __BO__ :two: Body odor.  
 __BPA__ Bisphenol A. _BPA free 100% recyclable plastic bottle._  
 __BS__ :three::hammer: (BSing) _One of our core values is: Open company, no BS._  
+__CBT__  
 __CDC__ :three: Center for Disease Control. _A CDC van._  
 __CE__ :two: __1__ Common Era. Of the period coinciding with the Christian era; preferred by some writers who are not Christians; “in 200 CE.” _A Jewish revolt against Rome ended in defeat in 135 C.E._ __2__ Christian era. __3__ In a pocket calculator, Clear Entry key, used to erase the last number entered.  
 __CFL__ _Compact fluorescent lamp._  
+__CID__  
 __CO__ Carbon monoxide, “the silent killer.”  
 __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).  
 __COVID__ Short for coronavirus disease.  
@@ -31,13 +35,17 @@ __CVD__ Cardiovascular disease.
 __CVS__ Computer Vision Syndrome.  
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
+__DEA__  
 __DEET__ Diethyl(meta)toluamide; an insect repellent. _Bug spray with DEET to ward off mosquitoes._  
 __DJ__ Dear John _(break up letter)_  
 __DMV__ :two: Department of Motor Vehicles.  
 __DOY__ Day of year.  
+__DSLR__  
+__DWI__  
 __Dx__ (DX) __1__ Diagnosis. _Dx: viral pneumonia._ _DX codes._ __2__ Diagnostic. _Dx tests._  
 __e.g.__ Exempli Gratia.  
 __econ__ _The econ professor._  
+__EKG__  
 __ELIA5__ Explain Like I Am 5.  
 __EMT__ :two: Emergency medical technician: a person who is trained to give emergency medical care at the scene of an accident or in an ambulance.  
 __ENDR__ Early Neonatal Death Rate (prenatal care evaluation factor).  
@@ -47,6 +55,7 @@ __ETA__ Estimated time of arrival. _I believe we have an ETA of six days._
 __exe__ :mega: /eksˈee/ or /eekˈsee/ or /E-X-E/  
 __FDR__ Franklin Delano Roosevelt  
 __FFP__ Filtering face piece (a filtering half mask).  
+__FOMO__  
 __Fr__ Freshman (Fr) vs Sophomore (So) vs Junior (Jr) vs Senior (Sr)  
 __FT__ _Sports_ __1__ Full-time. __2__ Free throw.  
 __FTW__ _abbr_ _slang_ For the win —used especially to express approval or support. _Night out with the girls? Thigh high boots FTW!_  
@@ -54,21 +63,30 @@ __GA__ Gamblers Anonymous.
 __GDP__ Gross domestic product.  
 __GED__ :two: (GED exam) The General Educational Development Test is designed for people who, for various reasons, did not graduate from high school but want a certificate equivalent to the traditional high school diploma. _GED exam._  
 __GMO__ :three: Genetically modified organism. _Reserve your non-GMO turkey now._ _ngmoproject.org_ _Raised humanely on healthful non-GMO feed._  
+__GOP__  
+__GRE__ _n_ (trademark) A standardized test that is an admissions requirement for most Graduate Schools in the United States.  
 __GWB__ George Washington Bridge.  
 __GWTW__ Gone With The Wind.  
 __HDL-C__ High-density-lipoprotein cholesterol.  
+__HIV__  
+__HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __ICU__ Intensive care unit.  
 __ie.__ That is to say.  
 __IFU__ Instructions for use.  
+__IIRC__ _chat_ If I recall correctly.  
 __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
+__IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __IP__ Intelectual property.  
+__IRS__ _n_ :five: _Internal Revenue Service_  
 __ISV__ Independent software vendor.  
+__IUD__  
 __K9__ _gramo_ :two: (K-9) Canine. _A K-9 van._  
 __KOL__ Key opinion leader.  
 __LASIK__ Laser-assisted in situ keratomileusis. _Lasik surgery._  
 __lbs.__ Plural abbreviation for the pound unit of mass._Sold in pkgs. of 3 lbs. or more._  
 __LDS__ (LDS Church) :two: Latter-day Saint, an adherent of The Church of Jesus Christ of Latter-day Saints, also known as the LDS Church.  
+__LEGO__ _n_ [:scroll: From Danish leg godt _play well_]  
 __LGBTQ__ :three: (LGBT+, LGBTQ+) Lesbian, gay, bisexual, transgender, queer.  
 __LZ__ Landing zone. _It belonged to a guy who flew a slick into a hot LZ when I was wounded._  
 __MC__  
