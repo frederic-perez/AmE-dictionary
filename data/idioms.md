@@ -1049,6 +1049,7 @@ __how come__ Why? Why is it that (something is the case)? _A: “I’m sorry, bu
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ No matter how much.  
 __Humpty Dumptyism__ The act or practice of misusing or misinterpreting a word, phrase, or article of text to suit one’s own meaning or purpose. Taken from the character Humpty Dumpty in Lewis Carroll’s _Through the Looking-Glass_, who states, “When I use a word it means just what I choose it to mean.”  
+__hunker down__ __1__ Literally, to squat. _The magician hunkered down to the eye level of the children._ __2__ To seek refuge in a particular place or area. _We hunkered down at home with some movies while the blizzard raged all weekend._ __3__ To work or begin to work on something in a determined matter. _I can’t believe I didn’t get an A on my project after I’d hunkered down all weekend to do it!_ __4__ To stubbornly maintain some belief. _It seems he’s hunkered down and will never see me as anything but the villain in his life._  
 __hunt where the ducks are__ To pursue or look for one’s objectives, results, or goals in the place where one is most likely to find them.  
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
@@ -1651,10 +1652,12 @@ __out of thin air__ :two: From nothing, as of something that has suddenly materi
 __out of this world__ Extremely good.  
 __out of tune with (someone or something)__ At odds with someone or something; not in harmony or agreement with someone or something. _I’m often out of tune with my family because they don’t approve of my line of work._  
 __out of whack__  
+__out there__ :astonished: Somewhat unusual, unconventional, crazy, or eccentric. Sometimes hyphenated. _Our manager is always coming up with some out-there ideas on how to improve productivity._ _My uncle Jerry is a little out there, but he’s a really sweet guy._  
 __outie__ _slang_ Out of here; leaving. _That’s it, I’m not waiting any longer—I’m outtie! No way, this is too gross for me! I’m outtie._  
 __over (one’s) head__ :three: __1__ Too complicated to be understood by one. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least. A lot of this technical stuff is way over my head._ __2__ Bypassing one’s authority. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __3__ Lingering as a source of concern or worry for one. _All these bills are hanging over my head, and I don’t get paid for another week. I’m so glad that exam is over—it’s been over my head for months._  
 __over the course of__ In or during the process of. _I learned over the course of the meeting that our department was being downsized by over 50 percent._  
 __over the hill__ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
+__over the hills and far away__ To or at some distant, remote point or location. _Rather than focusing on the here and now, John’s ideas for the future are always over the hills and far away._  
 __over the top__  
 __pace around__ To walk around nervously or anxiously. _He was pacing around making people nervous._  
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
@@ -1668,13 +1671,18 @@ __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate
 __pass up__  
 __pat (one) on the back__ To praise one. _The only reason he stays late at work is so the boss will pat him on the back._  
 __patch up__ :three::dart: __1__ To mend, repair, or service something to the point of being functional or whole again, especially temporarily, typically by adding material to cover or connect broken or missing parts. A noun or pronoun can be used between “patch” and “up.” To fix something quickly so it can be used until it’s repaired properly or replaced. _John patched up the hose with an old bike tube._ __2__ To restore a relationship damaged by a disagreement or dispute. A noun or pronoun can be used between “patch” and “up.” _I tried to patch up my dispute with Marcy, but she isn’t ready to forgive me._ __3__ To treat someone’s wound, injury, or illness. A noun or pronoun can be used between “patch” and “up.” _I know you’re hurting, but the doctors here will patch you up._  
+__pay (one’s) last respects__ To show or express one’s respect for someone who has died, especially by attending their funeral, wake, memorial service, etc. _Anyone who wishes to pay their last respects to my husband is welcome to do so at the viewing this Saturday, from 10 AM to 4 PM._  
 __pay homage (to someone or something)__  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
+__pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
+__peg it__ To leave or depart very quickly or suddenly. _You’d better peg it, or you’re going to be late for school!_ _After a really long day at the office, I pegged it out of there as soon as the clock struck 5!_  
 __peg someone as something__ (have someone pegged as something) To think of someone in a certain way. _Susan pegged the new employee as a lazy worker._ _She had him pegged as a fortune hunger._  
+__penguin suit__ _slang_ A man’s formal evening wear, i.e., a tuxedo. _I need to find somewhere I can rent a penguin suit for my brother’s wedding this summer._  
 __perfect storm__ :four: A critical or disastrous situation created by a powerful concurrence of factors.  
 __perk up__ :three: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
+__pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on (one)__ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
