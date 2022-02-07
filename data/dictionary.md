@@ -181,6 +181,7 @@ __admin<sup>1</sup>__ _n_ _informal_ Short for administration.
 __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
+__admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
 __admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
@@ -701,6 +702,7 @@ __asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at the earliest__  
 __at the very least__  
+__ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
 __atavism__ _n_  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
 __atheist__ _adj_  
@@ -1201,6 +1203,7 @@ __bewhiskered__
 __bewilder__  
 __bewitch__ _v_ :two: Cast a spell over someone or something; put a hex on someone or something. _Syn_ hex, jinx, enchant _After reading _Harry Potter_, I spent hours on end trying to bewitch a broomstick to fly._  
 __bezel__ _n_ __4__ The frame around a display screen.  
+__biathlon__ _n_ __1__ An athletic contest in which cross-country skiers carrying rifles shoot at targets along a course. __2__ An athletic contest comprising any two consecutive events, as running and cycling.  
 __bib__ _n_ :four::hammer: _Midcalf silk dresses came with ruffled bibs and hems._  
 __Bible Belt__ _n_ Those states of the S US where Protestant fundamentalism is dominant.  
 __bibliophile__ _n_  
@@ -1992,7 +1995,7 @@ __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
-__cacoethes__ _n_ :two: (Pathology) An uncontrollable urge or desire, esp for something harmful; mania: _a cacoethes for smoking._  
+__cacoethes__ _n_ :three: /kak-oh/uh-WEE-theez/ [:scroll: From Greek kakoethes (ill-disposed), from kakos (bad) + ethe (disposition).] (Pathology) An uncontrollable urge or desire, esp for something harmful. An irresistible urge to do something, especially something inadvisable; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
 __cacophony__ _n_ :three: Jarring, discordant sound; dissonance. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
@@ -3562,7 +3565,7 @@ __dearth__ _n_ :five::dart::hammer:
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
-__debacle__ _n_ :four::hammer:  
+__debacle__ _n_ :five: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
@@ -3718,7 +3721,7 @@ __dengue fever__
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
-__denizen__ _n_ :four::hammer: (denizens)  
+__denizen__ _n_ :five: (denizens) An inhabitant; a resident. _Syn_ dweller _I wandered through the empty streets, looking for a single denizen of this hamlet, but found not one._  
 __denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
@@ -4286,6 +4289,7 @@ __droit du seigneur__
 __droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
 __drone<sup>1</sup>__ _n_ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
+__droop__ _n_ /dro͞op/ A fleshy fruit, such as a peach, plum, or cherry, usually having a single hard stone that encloses a seed. Also called stone fruit.  
 __drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
 __drop out__  
@@ -7987,6 +7991,7 @@ __largesse__ _n_ :four::pencil2::hammer:
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __larvate__ _adj_ :astonished: (larvated) /ˈlɑːveɪt/ (Zoology) Masked or hidden.  
+__lascivious__ _adj_ Given to or expressing lust; lecherous. _Syn_ libidinous, lustful, lewd _Frustrated by his constant lascivious comments, she decided to report him to the supervisor._  
 __laser wall__  
 __lash out__ _v_ :five::hammer: (lashing out)  
 __lashed__ _v_  
@@ -8416,7 +8421,7 @@ __lug wrench__ _n_ :two::hammer:
 __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with great effort. _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._ __2__ _v tr_ To introduce (an irrelevant topic) into a conversation or discussion. __3__ (Nautical Terms) _v tr_ (of a sailing vessel) To carry too much (sail) for the amount of wind blowing.  
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
-__lugubrious__ _adj_ Excessively mournful; doleful.  
+__lugubrious__ _adj_ :two: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :four::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
@@ -12280,7 +12285,7 @@ __scenic__
 __scent<sup>1</sup>__ _n_ :mute:[s~~c~~ent]  
 __scent<sup>2</sup>__ _v_ :mute:[s~~c~~ent]  
 __scented__ _adj_  
-__schadenfreude__ _n_ :three::astonished: (Schadenfreude) Pleasure derived from the misfortunes of others.  
+__schadenfreude__ _n_ :four::astonished: /SHAH-dun-froy-duh/ (Schadenfreude) Pleasure derived from the misfortunes of others. _Schadenfreude was felt by many viewers when the arrogant contestant was voted off the show._  
 __schedule__ _n_ _A schedule was set._  
 __schemer__ _n_ A planner who draws up a personal scheme of action.  
 __schism__ _n_ :three::hammer: :es: cisma  
@@ -12920,6 +12925,7 @@ __skank__ _v_
 __skate__ _v_ :three::hammer: _He don’t let nobody skate unless it’s for money._  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
+__skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
 __skell__ _n_ _slang_ A homeless person who lives as a derelict. _How you like it, skell?_  
 __skeptic__ _adj_ :pencil2:  
 __sketchy__  
@@ -14444,6 +14450,7 @@ __tellingly__
 __telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
 __tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
+__telluric__ _adj_  
 __temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
@@ -15290,7 +15297,8 @@ __unfurnished__ _adj_ Having no furniture, especially when available to be rente
 __ungainly__ _adj_ __1__ Lacking grace or ease of movement or form; clumsy. __2__ Difficult to move or use; unwieldy.  
 __ungird__ _v_ (ungirded) _The Church ungirded him of the knightly belt._  
 __ungodly__ _adj_  
-__ungulate__  
+__ungulate<sup>1</sup>__ _adj_ :two::hammer:  
+__ungulate<sup>2</sup>__ _n_ A hoofed mammal.  
 __unheralded__ _adj_ :two::hammer:  
 __unhindered__ _adj_ :two: without hindrance. _He could proceed unhindered._  
 __unhinged__ _adj_ :two::hammer: _Alex Jones is the most prolific and unhinged conspiracy theorist in America._  
