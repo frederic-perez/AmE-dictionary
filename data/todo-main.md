@@ -5,9 +5,9 @@ __island__
 __rhythm__  
 __Wednesday__  
 __eight__  
-__acquiesce__ /ak-wee-es/  
-__nauseous__ /naw-shuhs/  
-__conscious__ /kon-shuhs/  
+__acquiesce__ _v tr_ /ak-wee-es/  
+__nauseous__ _adj_ /naw-shuhs/  
+__conscious__ _adj_ /kon-shuhs/  
 __grateful__  
 __separate__  
 __lightning__  
@@ -65,8 +65,8 @@ __backpedal__ _v_
 __pincer__ _n_ __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __prescient__  
 __zeitgeist__  
-__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
-__tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
+__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
+__tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
 __hunk__ _n_ _The hunk of grey rock that orbits our planet._  
 __icky__ _adj_  
 __portentous__ _adj_  
@@ -74,12 +74,11 @@ __melancholy__ _adj_
 __harrowing__ _adj_  
 __paperwork__ _n_  
 __diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
-__hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
+__hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __flounder__ _v_  
-__dare__ _I applied to Harvard on a dare._  
+__dare__ _n_ An act of daring; a challenge. _I applied to Harvard on a dare._  
 __fretted__ _v_  
 __shantytown__  
-__very__ _Harvard students complained about the very thing the Soweto students saw as a privilege: shoolwork._  
 __schoolwork__ _n_  
 __medical school syndrome__  
 __onesie__ _n_  
@@ -87,3 +86,29 @@ __kegger__
 __divested__ _v_  
 __swamped__ _v_ _We feel swamped by the mounting pressure to succeed at any cost._  
 __glean__ _v_  
+__macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
+__placebo__ _n_ :mega:  
+__telltale__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
+__hokum__ _n_  
+__prophesy__ _n_ :pencil2: _A self-fulfilling prophesy._  
+__whizzes__ _n_ _Asians are generally thought to be math whizzes compared to other ethnic groups._  
+__undercut__ _v_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
+__sport__ _v_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
+__palpable__ _adj_  
+__mundane__ _adj_  
+__palatable__ _adj_  
+__unwittingly__ _adv_ :dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
+__wryly__ _adv_ :es: irónicamente, con ironía _A few people laughed wryly._  
+__chagrin__  
+__disinterest__ _n_ :pencil2:  
+__rote__  
+__snag__ _n_ _A very telling snag._  
+__illusory__ _adj_ _Illusory boundaries._  
+__aloft__ _adv_ _Simply believing we can fly won’t set us aloft._  
+__bearing__ _n_ _The video game should have had absolutely no bearing on his behavior in the real world._  
+__larceny__ _n_  
+__waking hours__  
+__afterimage__ _n_  
+__maladaptive__  
+__underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
+__tone-deaf__ _adj_  
