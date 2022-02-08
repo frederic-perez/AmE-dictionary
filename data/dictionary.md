@@ -10032,12 +10032,12 @@ __paraprosdokian__
 __parasailing__  
 __paraselene__ _n_ (mock moon) A false moon, in reality a bright spot or a luminous ring surrounding the moon.  
 __parasternal__ _adj_ Adjacent to the sternum.  
-__parcel<sup>1</sup>__ _n_ :eight::hammer: _Delivering mail and small parcels to countries around the world._ :es: paquete _Never miss a visitor or parcel._ _It is part and parcel of overturning obstacles._  
+__parcel<sup>1</sup>__ _n_ :eight: __1__ Something wrapped up or packaged; a package. :es: paquete _Delivering mail and small parcels to countries around the world._ __2__ A plot of land, usually a division of a larger area. __3__ A quantity of merchandise offered for sale. __4__ A group or company; a pack: _“this youthful parcel of noble bachelors” (Shakespeare)._ _Never miss a visitor or parcel._  
 __parcel<sup>2</sup>__ _v_ :two::hammer:  
 __parched__ _adj_ :four: __1__ Dried out from extreme heat: _parched land._ _The dryness will encompass parched California._ __2__ Roasted or dried: _parched rice._ __3__ Very thirsty: _parched laborers._  
 __Parcheesi__ _n_ :pencil2: A brand-name American adaptation of the Indian cross and circle board game Pachisi. _She politely asks him to go play Parcheesi._  
 __parchment paper__ _n_ :camera:  
-__parchment__ _n_ :eight::hammer: _A parchment chart._  
+__parchment__ _n_ :eight::astonished: __1__ The skin of a sheep or goat prepared as a material on which to write or paint. :es: pergamino _A parchment chart._ __2__ A written text or drawing on a sheet of this material. __3__ Paper made in imitation of this material.  
 __pard__  
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
@@ -10242,7 +10242,7 @@ __pep<sup>1</sup>__ _n_ :three::pencil2: Pep is a high spirited kind of energy. 
 __pep<sup>2</sup>__ _v_ (pepping)  
 __Pepe the Frog__ _n_ :camera: A cartoon character appropriated by the white supremacist movement on social media.  
 __pepita__ _n_ :astonished: A pumpkin seed, typically hulled and roasted and eaten as a snack or used in cooking. _Pepitas bring a nice crunch to this otherwise smooth, creamy soup._  
-__pepper__ _v_ :eight::hammer: (peppered, peppering) _Five bullet holes peppered the side of one rental town-house._ _Ivy peppered him with questions._  
+__pepper__ _v_ :eight: (peppered, peppering) __1__ (Cookery) To season with pepper. __2__ To sprinkle liberally; dot: _his prose was peppered with alliteration._ __3__ To pelt with small missiles or gunfire. _Five bullet holes peppered the side of one rental town-house._ __4__ To beset repeatedly, as with questions or requests. _Ivy peppered him with questions._  
 __peppermint__  
 __peppy__ _adj_ :two::hammer: _Peppy but efficient powertrain options._  
 __peptalked__ _v_  
