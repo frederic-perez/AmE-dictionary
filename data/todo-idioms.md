@@ -16,3 +16,7 @@ __shoot themselves in the foot__
 __true story__  
 __no small thing__  
 __this is no picnic__  
+__pick up on (something)__  
+__in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
+__mill about__ To loiter, wander about, or waste time idly (some place). _I’ll just mill about in the store across the street while you get your hair cut._  
+__staying power__ _This exercise has staying power._  

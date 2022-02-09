@@ -109,6 +109,22 @@ __bearing__ _n_ _The video game should have had absolutely no bearing on his beh
 __larceny__ _n_  
 __waking hours__  
 __afterimage__ _n_  
-__maladaptive__  
 __underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __tone-deaf__ _adj_  
+__audit__ _n_ _A tax audit._  
+__strength__ _n_ _They noticed the strengths of their team members._  
+__susceptible__ _adj_  
+__sheepishly__  
+__maladaptive__ _adj_ :two::hammer: _The Tetris Effect need not be maladaptive._  
+__noxious__ _adj_  
+__chain letter__ _n_  
+__waver__ _v_  
+__curmudgeon__  
+__paper-pusher__ _n_ _informal_ __1__ A person who has a routine desk job. _A typical paper-pushing office._ __2__ Bureaucrat.  
+__pounce__ _v_ _We can train our brains to let in the messages that allow us to spot and pounce on more opportunities at work and at play._  
+__hokey__ _adj_ _It may sound hokey._  
+__bear hug__  
+__flat-out__  
+__steno pad__  
+__kindergartner__ _n_  
+__cockeyed__ _adj_ _informal_ _Cockeyed optimism._  
