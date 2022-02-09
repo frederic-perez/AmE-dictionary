@@ -381,6 +381,7 @@ __amalgam__
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
+__ambiguous__ _adj_ /am-big-yoo-uhs/  
 __ambisinister__ _adj_ Clumsy or unskillful with both hands.  
 __ambit__ _n_ __1__ Sphere or scope, as of influence. _Syn_ range  
 __ambitious__ _adj_ :two::hammer:  
@@ -1152,7 +1153,7 @@ __benefic__ _adj_ A rare word for beneficent.
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
 __beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
-__benevolent__  
+__benevolent__ _adj_ /buh-nev-uh-luhnt/ :two::hammer:  
 __benign__ _adj_ /bih-NYNE/ Benign means “not causing harm or injury.” In medicine, it refers to tumors that are not cancerous. _The email seemed benign, but it was discovered to be from a hacker._ _The tumor was benign._  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
@@ -2125,6 +2126,7 @@ __caplet__ _n_ :two::hammer: (caplets)
 __capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
 __cappie__ _n_  
 __caprice__  
+__capricious__ _adj_ /kuh-prish-uhs, -pree-shuhs/  
 __caps__ _n_ Capital letters.  
 __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boats. To overturn or cause to overturn: _The boat capsized; I capsized the canoe._ _Don’t rock the boat, baby, or you might just capsize._  
 __capstone__ _n_  
@@ -2981,8 +2983,7 @@ __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from d
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
 __consort__ _v_ (consorting)  
-__conspicuous__ _adj_ :five: (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
-__conspicuously__  
+__conspicuous__ _adj_ :seven: /kuhn-spik-yoo-uhs/ (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituency__ _n_ :six::hammer: (constituencies)  
 __constituent__ _n_ :six::hammer: (constituents)  
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
@@ -3954,7 +3955,7 @@ __dish out__ _phr v_ :three::hammer: _Guard Yuki Togashi led the Jets with 21 po
 __dish up__ _v_  
 __disheartened__ _adj_ :dart::two: Disappointed about something and having less confidence or less hope about it than before.  
 __dishevel__ _v_ :six::hammer: (disheveled) _A disheveled look of a beat poet._  
-__disheveled__ _adj_ :four: (dishevelled) In disarray; extremely disorderly.  
+__disheveled__ _adj_ :five: /dih-SHEV-uld/ (dishevelled) In disarray; extremely disorderly. Marked by disorder or disarray. _His hair disheveled and his clothes wrinkled, the late student had clearly overslept._  
 __dishing__ _v_  
 __dishonest__  
 __dishwasher__ _n_ _I worked as a dishwasher._  
@@ -4502,7 +4503,7 @@ __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is n
 __egomaniac__  
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
-__egregious__ _adj_ :nine: /ih-GREE-juss/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.  
+__egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
 __egress__ _n_  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
@@ -4703,7 +4704,8 @@ __envision__ _v_ :four::hammer:
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
-__ephemeral__ _adj_ :two: Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
+__ephemeral<sup>1</sup>__ _adj_ :three: /ih-fem-er-uhl/ Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
+__ephemeral<sup>2</sup>__ _n_ /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
 __epicurean__ _adj_ :four: (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
 __epidemic__ _n_ Notice: _n_!  
@@ -8760,6 +8762,7 @@ __meltdown__ _n_ :five: __1__ Severe overheating of the core of a nuclear reacto
 __melting pot__ _n_ :two::hammer:  
 __meme__ _n_ _slang_ :five::mega: A thought, idea, joke, or concept that spreads online, often virally. Can be in the form of an image, a video, an email, an animation, or music.  
 __memento__ _n_ :two::hammer: (mementos) _Removing mementos from a national park is illegal._  
+__memetic__ _adj_ /muh/mee/mi-MET-ik/ [:scroll: From meme, from Greek mimeisthai (to imitate, copy).] Relating to memes.  
 __memo pad__ _n_  
 __memo__ _n_ :four: (memos) Short for memorandum. _A memo sent to reporters._  
 __memoirs__ _n_  
@@ -9744,6 +9747,7 @@ __orthopnea__ _n_ Difficulty breathing except when standing or sitting up.
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible.  
+__ostentatious__ _adj_ /os-ten-tey-shuhs, -tuhn-/  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
 __ostracism__ _n_  
@@ -15189,7 +15193,7 @@ __tyrant__ _n_ :three::hammer:
 __tyro__ _n_ (tiro) A beginner in learning something. _Syn_ beginner, initiate, tiro, novice  
 __U-boat__ _n_  
 __UA-ed__ _v_ :two::hammer:  
-__ubiquitous__ _adj_ :two: Being or seeming to be everywhere at the same time. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
+__ubiquitous__ _adj_ :three: /yoo-bik-wi-tuhs/ Being or seeming to be everywhere at the same time. _Syn_ ever-present, pervasive, omnipresent, all-over, everywhere, universal _She is the most ubiquitous media personality around._  
 __ubuntu__ _n_ A quality made up of sympathy, kindness, and respect toward other people, that is considered to be a part of the African way of life.  
 __ugg boots__ _n_ Boots made of sheepskin with the wool as the lining and the leather as the outside.  
 __ukulele__ _n_ :two::pencil2::hammer: (ukelele)  
@@ -16300,6 +16304,7 @@ __yellow wine__
 __yellow__ _adj_ _slang_ A coward.  
 __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir  
 __yelp<sup>2</sup>__ _n_  
+__yen__ _n_ A strong desire, urge, or craving for something. _After dinner, the family went out for ice cream to satisfy their yen for something sweet._ _Students with a yen to travel should consider studying abroad._  
 __yeoman__ _n_ :five::hammer: (yeomen)  
 __yesternight__ _n_ Last night.  
 __yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
