@@ -1,18 +1,3 @@
-__phlegm__  
-__paradigm__  
-__pneumonia__  
-__island__  
-__rhythm__  
-__Wednesday__  
-__eight__  
-__acquiesce__ _v tr_ /ak-wee-es/  
-__nauseous__ _adj_ /naw-shuhs/  
-__conscious__ _adj_ /kon-shuhs/  
-__grateful__  
-__separate__  
-__lightning__  
-__meagerly__ _adv_ _Churches were empty and mass meagerly attended._  
-__dissolute__ _adj_  
 __admonition__  
 __compunction__  
 __shoal__ _n_  

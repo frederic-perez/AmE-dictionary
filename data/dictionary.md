@@ -126,7 +126,7 @@ __acolyte__ _n_ :four::hammer: (acolytes)
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
-__acquiesce__ _v_ :five: To agree to something or to accept something, although you do not want to.  
+__acquiesce__ _v tr_ :six: /ak-wee-es/ To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
 __acquisitive__ _adj_  
 __acquisitiveness__ _n_  
@@ -2970,6 +2970,7 @@ __connivance__ _n_ :four: Agreement on a secret plot.
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
+__conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
@@ -4019,7 +4020,7 @@ __dissing__ _v_
 __dissipate__ _v_  
 __dissipation__ _n_ :two::hammer:  
 __dissociate__ _v_ :pencil2:  
-__dissolute__ _adj_ :two::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
+__dissolute__ _adj_ :three::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
 __dissonance__  
 __dissuade__ _v_ :pencil2::five::hammer: (dissuaded)  
@@ -4508,7 +4509,7 @@ __egress__ _n_
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
-__eight__ _n_ :mute:[ei~~gh~~t]  
+__eight__ _n_ :two::mute:[ei~~gh~~t]:hammer:  
 __eighty-eight__ _n_ _slang_ Piano.  
 __eighty-six__ _v_ :two::hammer: _I get eighty-sixed out on the street._  
 __eighty-size__ _v_  
@@ -6164,6 +6165,7 @@ __grass-roots<sup>2</sup>__ _adj_ _Grass-roots campaign._
 __grassroots__ _pl n_ :two::hammer: _A grassroots effort._  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
+__grateful__  
 __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique._  
 __gratin__ _n_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
@@ -7513,6 +7515,7 @@ __irrigate__ _v_ :dart:
 __irritating__ _adj_ _Syn_ annoying, tiresome  
 __ischemia__ _n_ A decrease in the blood supply to a bodily organ, tissue, or part caused by constriction or obstruction of the blood vessels. _Syn_ ischaemia  
 __ischemic__ _adj_  
+__island__  
 __islet__ _n_ :two::hammer: _Transplanting islet cells into the liver._  
 __isobar__ _n_  
 __issuance__ _n_ :three::hammer:  
@@ -8195,7 +8198,7 @@ __lightermen__
 __lighthearted__ _adj_ :three: Not being burdened by trouble, worry, or care; happy and carefree. _Syn_ lightsome, blithe  
 __lightning flash__ _n_  
 __lightning rod__ _n_ :three: (lightning-rod) __1__ A metallic conductor that is attached to a high point and leads to the ground; protects the building from destruction by lightning. __2__ :dart: Someone who is a frequent target of negative reactions and serves to distract attention from another. _The unpopular supervisor served as a lightning rod for the criticism that should have been aimed at management._  
-__lightning__ _n_  
+__lightning__ _n_ :two::hammer:  
 __like hell__  
 __like shooting fish in a barrel__  
 __like-minded__ _adj_ Agreeing in opinions, goals, etc.  
@@ -8709,7 +8712,7 @@ __McDonaldization__ _n_ __1__ Standardization that focuses on efficiency, predic
 __mea culpa__  
 __mead__ _n_  
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
-__meagerly__  
+__meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
 __meander__  
 __meandering__  
@@ -9272,6 +9275,7 @@ __naturalization__
 __naturalized__ _adj_ :three::hammer: _A naturalized British citizen._ _A naturalized American citizen._  
 __naught__  
 __naughty__ _adj_ :dart::mute:[nau~~gh~~ty] __1__ Behaving disobediently or mischievously: _a naughty child._ __2__ Indecent; improper: _a naughty wink._  
+__nauseous__ _adj_ /naw-shuhs/  
 __navel__ _n_ :four: The depression in the center of the belly where the umbilical cord had been attached.  
 __navel-gazer__ _n_ (derogatory) One who engages in navel-gazing; a person who is introspective to the point of self-obsession. _Now more than ever, there is little room for navel-gazers, fence-sitters, and discombobulaters._  
 __navigate__ _v_  
@@ -10014,7 +10018,7 @@ __pappy__
 __paprika__ _n_  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
-__paradigm__ _n_ :mute:[paradi~~g~~m]  
+__paradigm__ _n_ :two::mute:[paradi~~g~~m]:hammer:  
 __paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
 __paradoxically__  
@@ -10362,7 +10366,7 @@ __philtrum__
 __phimosis__ _n_ :mega:  
 __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.  
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
-__phlegm__ _n_ :four::hammer:  
+__phlegm__ _n_ :five::hammer:  
 __phlegmy__ _adj_ :three: Charged with phlegm.  
 __photo-op__  
 __photochromic__ _adj_  
@@ -10641,7 +10645,7 @@ __plutocracy__ _n_ Government by the wealthy.
 __ply__ _v_ :nine::m: (plying) __1__ To carry on, pursue, or work at (a job, trade, etc). _It is the perfecting designed environment to ply his trade._ _If she wanted to ply her trade on the premises, the manager wanted a cut._ __2__ To manipulate or wield (a tool). _He was plying a broom._ __3__ To sell (goods, wares, etc), esp at a regular place. __4__ (usually foll by with) To provide (with) or subject (to) repeatedly or persistently: _he plied us with drink the whole evening; to ply a horse with a whip; he plied the speaker with questions._ __5__ (intr) To perform or work steadily or diligently: _to ply with a spade._ __6__ (Nautical Terms) (also intr) (esp of a ship) To travel regularly along (a route) or in (an area): _to ply between Dover and Calais; to ply the trade routes._  
 __plywood__ _n_ :es: contrachapado, madera laminada  
 __pneumatosis__ _n_ _An abdominal computed tomography scan showing hepatic (red arrows) and splenic (blue arrow) pneumatosis._  
-__pneumonia__ _n_ :mute:[~~p~~neumonia]  
+__pneumonia__ _n_ :two::mute:[~~p~~neumonia]:hammer:  
 __po-po__ _n_ _slang_ The police or a police officer. _Watch your back, Tom—po-po coming up behind us. They got a po-po stationed at the front._  
 __po’-boy sandwiches__  
 __poach__ _v_ :four::hammer: (poached, poaching) _Their signs will not be electronically poached._  
@@ -11828,7 +11832,7 @@ __rhubarb__ _n_
 __rhyme<sup>1</sup>__ _n_ :mute:[r~~h~~yme]  
 __rhyme<sup>2</sup>__ _v_ :mute:[r~~h~~yme] (rhyming) :pencil2:  
 __rhyolites__ _n_  
-__rhythm__ _n_ :two::pencil2::mute:[r~~h~~ythm]:hammer:  
+__rhythm__ _n_ :three::pencil2::mute:[r~~h~~ythm]:hammer:  
 __rib cage__ _n_ _Manning had an MRI on his rib cage._  
 __ribald__ _adj_  
 __ribbed__ _v_ :two::hammer:  
@@ -12528,7 +12532,7 @@ __sentience__
 __sentient__ _adj_ :five::hammer:  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
-__separate__ _adj_  
+__separate__ _adj_ :two::hammer:  
 __seppuku__ _n_  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_  
@@ -15849,7 +15853,7 @@ __wedge<sup>2</sup>__ _v_ :two::hammer: (wedged) :es : acuñar
 __wedgie__  
 __wedhe issue__  
 __wedlock__ _n_ :two: The state of being married; matrimony.  
-__Wednesday__ _n_ :mega::mute:[we~~d~~nesday] /’wEnzdi, -deI/  
+__Wednesday__ _n_ :two::mega::mute:[we~~d~~nesday]:hammer: /’wEnzdi, -deI/  
 __wee__ _adj_ :four: _chiefly Scot_ Very small. _Syn_ tiny _Wee hours._ _Comes out of prison with a wee bit of a chemical dependency problem._ _My niece was just a wee tot and was lost in a cornfield._  
 __weed out__ _phr v_ :dart::five: To get rid of unwanted things or people from a group.  
 __weed<sup>1</sup>__ _n_ _Orcutt, 50, raises goats, which she hires out as living weed whackers._  
