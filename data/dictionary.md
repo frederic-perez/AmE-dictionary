@@ -10887,7 +10887,7 @@ __preposterous__ _adj_ :nine::m: Contrary to nature, reason, or common sense; ab
 __preposterously__ _adv_ :two: _Syn_ laughably, ludicrously, ridiculously  
 __preppers__  
 __prequel__  
-__prerogative__ _n_ :eight::hammer:  
+__prerogative__ _n_ :eight: __1__ An exclusive privilege or right exercised by a person or group of people holding a particular office or hereditary rank. __2__ Any privilege or right. __3__ (Government, Politics & Diplomacy) A power, privilege, or immunity restricted to a sovereign or sovereign government.  
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
@@ -11800,7 +11800,7 @@ __reunite__ _v_ :two::hammer:
 __rev up__ _v_  
 __reveal__ _n_  
 __reveille__ _n_ :two::hammer: _Reveille was at 0430._  
-__revel__ _v_ :eight::hammer: (revelled, revelling, reveling) _She revels in them._ _He paused for a moment, reveling in their incredulity._  
+__revel__ _v_ :eight: (revelled, revelling, reveling) __1__ To take great pleasure or delight: _She reveled in her unaccustomed leisure._ _He paused for a moment, reveling in their incredulity._ __2__ To engage in uproarious festivities; make merry.  
 __reveler__ _n_ :nine::m: A celebrant who shares in a noisy party. _The clubs attract revelers as young as thirteen._ _St. Patrick’s day revelers._ _Mardi Gras revelers._  
 __revelry__ _n_ :four: A situation in which people celebrate or enjoy themselves in a lively and noisy way, especially by singing, dancing, and drinking alcohol.  
 __revenant__  
@@ -12099,7 +12099,7 @@ __runt__
 __runway__  
 __Runyonesque__ _adj_ :two::hammer: _A torrent of Runyonesque chitchat._  
 __ruptured__ _v_ _He ruptured his Achilles._  
-__ruse__ _n_ :eight::hammer: (ruses)  
+__ruse__ _n_ :eight: (ruses) An action intended to mislead, deceive, or trick; stratagem.  
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
