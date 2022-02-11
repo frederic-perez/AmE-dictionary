@@ -1,18 +1,3 @@
-__admonition__  
-__compunction__  
-__shoal__ _n_  
-__shriveled__ _v_  
-__ignoble__  
-__pealed__ _v_ _Bells pealed._  
-__varlet__ _n_ (?)  
-__confound__ _v_ :two::hammer:  
-__vitiate__ _v_ _It vitiated the siege._  
-__flutter__ _v_ _Banners fluttering in the wind._  
-__edify__ _v_  
-__hasten__ _v_ (hastening)  
-__quail__ _v_ (quailed) To shrink back in fear; cower.  
-__newsworthy__ _adj_ Of sufficient interest to warrant press coverage.  
-__remonstrate__ _v_  
 __covetous__ _adj_  
 __giddy__ _adj_  
 __blinker__ _n_ __1__ A device for flashing light signals. __2__ A flashing light, as for regulating traffic. __3__ Either of two leather flaps on a bridle, to prevent a horse from seeing sideways; blinder.  

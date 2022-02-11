@@ -182,7 +182,7 @@ __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin st
 __admittedly__ _adv_ By general admission; confessedly. _I’ve stepped outside my admittedly miniscule comfort zone._  
 __admixture__ _n_ :two::hammer:  
 __admonish__ _v_ /ad-MAH-nish/ To express warning or disapproval to (someone) especially in a gentle or earnest manner. _The reporter was admonished by the senator after he interrupted her a second time._  
-__admonition__ _n_ :eight: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
+__admonition__ _n_ :nine: Bringing a skateboard to school is a great way to get an admonition from a teacher not to ride it down the halls. An admonition is advice with a hint of scolding, a warning not to do something.  
 __admonitory__ _adj_ Serving to warn. _Syn_ cautionary, exemplary  
 __adoring__  
 __adorn__ _v_ _The pictures adorn the innards of each chapter._  
@@ -2883,7 +2883,7 @@ __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
 __compulsory__ _adj_ :nine: __1__ Required by regulations or laws; obligatory: _compulsory education._ __2__ involving or employing compulsion; compelling; necessary; essential. _Compulsory vaccination._ _A compulsory Third World condition._ _Vaginal mesh procedures need compulsory register._ _Compulsory State writ._  
-__compunction__ _n_  
+__compunction__ _n_ :two::hammer:  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
 __comrade__  
@@ -2944,7 +2944,7 @@ __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ infern
 __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __confluence__ _n_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
-__confound__ _v_ :nine::m: (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
+__confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
 __confute__ _v_ Prove to be false. _Syn_ disprove _He took out a packet of old letters and began turning them over as if in search of one that would confute Terence’s suspicions._  
 __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzlement.  
@@ -4472,7 +4472,7 @@ __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._
 __edible<sup>1</sup>__ _adj_ Fit to be eaten, especially by humans. Eatable usually means good to eat.  
 __edible<sup>2</sup>__ _n_  
 __edict__ _n_ :two::hammer:  
-__edify__ _v_ /ED-uh-fye/  
+__edify__ _v_ :two::hammer: /ED-uh-fye/  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
@@ -5432,7 +5432,7 @@ __flushed complexion__
 __fluster__ _v_ :eight: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
 __flutist__  
-__flutter<sup>1</sup>__ _v_ :nine: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _“Her arms rose, fell, and fluttered with the rhythm of the song”_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
+__flutter<sup>1</sup>__ _v_ :nine::m: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ _Banners fluttering in the wind._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _“Her arms rose, fell, and fluttered with the rhythm of the song”_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
 __fly high__  
@@ -6550,7 +6550,7 @@ __hashish__
 __hasp__ _n_ :two::hammer: _The hasp and padlock had been splintered loose from the wood._  
 __hassle-free__ _adj_ _informal_ :two: Wthout problems or bother.  
 __haste__ _n_  
-__hasten__ _v_ :five::mute:[has~~t~~en]:hammer: (hastened)  
+__hasten__ _v_ :six::mute:[has~~t~~en]:hammer: (hastened, hastening)  
 __hastily__ _adv_ _A hastily arranged news conference._  
 __hasty__ _adj_ :three::hammer: _A hasty decision._  
 __hat off__ _n_ (hats off) _Hats off to Jane._  
@@ -7143,7 +7143,7 @@ __iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The 
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
 __IgNobel prize__ _n_  
-__ignoble__ _adj_  
+__ignoble__ _adj_ :two::hammer:  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
@@ -9347,6 +9347,7 @@ __news outlet__
 __newsbreak__ _n_  
 __newspaper rack__  
 __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
+__newsworthy__ _adj_ Of sufficient interest to warrant press coverage.  
 __newsy__  
 __nibbed__ _adj_ (used of pens) Having a writing point or nib especially of a certain kind. _A broad-nibbed pen._  
 __nibble<sup>1</sup>__ _n_ (nibbles) :three::hammer:  
@@ -10169,7 +10170,7 @@ __peachy__ _adj_ :two: /PEE-chee/ __1__ Resembling a peach. __2__ _informal_ Exc
 __peak__ _v_  
 __peaks and valleys__  
 __peal<sup>1</sup>__ _n_ :two::hammer: _Jimmy could hear the peal of bells._  
-__peal<sup>2</sup>__ _v_ :two::hammer: _Pealing bells._ _The bells of Notre Dame pealed._  
+__peal<sup>2</sup>__ _v_ :three::hammer: _Pealing bells._ _The bells of Notre Dame pealed._ _Bells pealed._  
 __peanut butter__ _n_ A paste made from ground roasted peanuts. _Organic peanut butter cups._  
 __peanut candy__ _n_ Candy containing whole roasted peanuts; a piece of this. _M&M peanut candy._  
 __pear martinis__  
@@ -11246,7 +11247,7 @@ __quaffable__
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
 __quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
-__quail<sup>2</sup>__ _v_ :three::hammer: (quailed)  
+__quail<sup>2</sup>__ _v_ :four: (quailed) To shrink back in fear; cower.  
 __quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
 __quaintly__ _adv_ :two::hammer:  
 __Quaker__  
@@ -11682,7 +11683,7 @@ __reminiscent__
 __remit__  
 __remittance__ _n_ :two::hammer:  
 __remnants__  
-__remonstrate__ _v_ :three: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
+__remonstrate__ _v_ :four: To reason or plead in protest, objection, or complaint. _Syn_ protest, challenge, argue, object, dispute, dissent, expostulate _I remonstrate against these outrages upon reason and truth, of course, but it does no good._  
 __remora__ _n_ An obstacle, hindrance, or obstruction.  
 __remorse__ _n_  
 __remoulade__  
@@ -12716,7 +12717,7 @@ __shitshow__ _n_
 __shiv__ _n_ :three: A knife used as a weapon.  
 __shivaree__ _n_ :two: _Midwestern & Western US_ A noisy mock serenade for newlyweds. Also called regionally charivari, belling, horning, serenade.  
 __shiver__ _n_  
-__shoal__ _n_ :three: (shoals) An area of shallow water.  
+__shoal__ _n_ :four: (shoals) An area of shallow water.  
 __shoat__ _n_  
 __shock jock__ _n_ :two: _informal_ A radio disc jockey who is deliberately controversial or provocative.  
 __shoddily__  
@@ -12803,7 +12804,7 @@ __shrimp__
 __shrines__ _n_  
 __shrink__ _n_  
 __shrivel up__ _v_ :three::hammer:  
-__shrivel__ _v_ :eight: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
+__shrivel__ _v_ :nine: (shriveled) Shrink and wrinkle, as from dryness. _The heat shriveled the unwatered seedlings._ _The widened empire had shriveled._  
 __shriven__ _v_  
 __shriving__ _n_ :two::hammer:  
 __shrubbery__  
@@ -15511,6 +15512,7 @@ __vapid__ _adj_ :six: __1__ Lacking liveliness, animation, or interest; dull: _v
 __vaping__ _v_ _Smokers are switching to vaping._  
 __vaporous__ _adj_ So thin as to transmit light. _Syn_ cobwebby, diaphanous, filmy, gauzy, see-through, transparent, gossamer, sheer _She was draped in vaporous silks that in the moonlight gave her the appearance of an unearthly apparition._  
 __variety store__  
+__varlet__ _n_  
 __varmints__  
 __varnish__ _n_  
 __varsity__ _n_ :eight: The word varsity identifies the starting team in a sport at a college or university. You have to be good to make varsity. At many schools, sports are a big deal. Thousands of people flock to college football and basketball games, plus other sports. The members of the starting team are varsity players. Varsity players are the best players: that’s why they start, and they usually finish the game too. It can take a while for a player to make varsity status. _He started dating another varsity athlete._ _The junior varsity squad._ _He was on the junior varsity team._  
@@ -15646,7 +15648,7 @@ __vise__ _n_
 __visitation__ _n_ :five::hammer:  
 __vista__ _n_ :three::hammer: (vistas)  
 __vital__ _adj_  
-__vitiate__ _v_ To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._  
+__vitiate__ _v_ :two: To corrupt morally; debase. _Syn_ debauch, deprave, pervert _Ten minutes with these ruffians would vitiate the most honorable gentlemen._ _It vitiated the siege._  
 __vitiligo__ _n_ An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border).  
 __vitreous__ _adj_ Of, relating to, resembling, or having the nature of glass. _Syn_ glassy _The lake was so calm it looked vitreous in the pre-dawn light._  
 __vitriol__ _n_ :six: /ˈvɪtrɪəl/ Bitter criticism or malice. _Chávez’s anti-American vitriol heightened during the presidency of George W. Bush._  
