@@ -2173,7 +2173,7 @@ __carol__ _v_ (caroling) (vs Christmas carol)
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
-__carouse__ _v_ :five: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking.  
+__carouse__ _v_ :six: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. _Syn_ roister _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__  
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
@@ -2743,6 +2743,7 @@ __coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The c
 __cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
+__cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
 __cognizant__ _adj_ :two: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
@@ -3771,7 +3772,8 @@ __designated driver__ _n_ The member of a party who is designated to refrain fro
 __designer__ _n_ :es: _maquetador_  
 __desist__ _v_ _Desist from the practice of medicine._  
 __desk blotter__ _n_ :six: See blotter.  
-__desolate__ _adj_ :two: __1__ Empty of people.  
+__desolate<sup>1</sup>__ _adj_ :three: /des-uh-lit/ __1__ Empty of people.  
+__desolate<sup>2</sup>__ _v_ /des-uh-leyt/ __1__ To lay waste; devastate. __2__ To deprive of inhabitants; depopulate.  
 __despair__ _n_ :two::hammer:  
 __despicable__  
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
@@ -6156,6 +6158,7 @@ __granola__ _n_
 __granted<sup>1</sup>__ _conj_ Even assuming that.  
 __granted<sup>2</sup>__ _adv_ Admittedly.  
 __graph paper__ _n_ :dart: Paper ruled usually into small squares of equal size for use in drawing charts, graphs, or diagrams.  
+__graphomania__ _n_ /graf-oh-MAY-nee-uh/ An obsessive inclination to write.  
 __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1__ Engage in a close fight or struggle without weapons; wrestle. _Passers-by grappled with the man after the knife attack._ _Syn_ wrestle, struggle, tussle __2__ Seize hold of (someone). _He grappled the young man around the throat._ _Syn_ seize, grab __3__ Struggle to deal with or overcome (a difficulty or challenge). _Other towns are still grappling with the problem._ _Syn_ tackle, confront  
 __grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
 __grappling__ _v_ _Students grappling with the same problem._  
@@ -7413,6 +7416,7 @@ __insolence__ _n_ An instance of insolent behavior, treatment, or speech. _Syn_ 
 __insolent__ _adj_  
 __insolvency__  
 __insomniac__ _n_  
+__insouciant__ _adj_ Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
@@ -7915,7 +7919,7 @@ __laced__ _v_ _I have laced a few punters._
 __lacerate__ _v_  
 __lachrymose__ _adj_ :two::pencil2::hammer:  
 __lacing__ _n_ The act of inflicting corporal punishment with repeated blows. _Syn_ whacking, beating, drubbing, licking, thrashing, trouncing _If my mother ever caught me smoking, I would get the lacing of a lifetime._  
-__lackadaisical__ _adj_ :five: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy.  
+__lackadaisical__ _adj_ :six::dart: /lak-uh-DAY-zi-kuhl/ [:scroll: From lackadaisy, alteration of lack a day, contraction of alack the day (an expression of regret, grief, or disapproval).] Lacking enthusiasm; indifferent; lazy. Lacking spirit, liveliness, or interest. _Syn_ languid, languorous, dreamy _In spite of his lackadaisical manner, he has moments of energy that would surprise you._  
 __lackey__ _n_ :three::hammer: (lackeys) _A political lackey._  
 __lackluster__ _adj_ :nine::m: Lacking in vitality, force, or conviction; uninspired or uninspiring. _Technical glitches have contributed to the lackluster response._ _A lackluster 1-0 victory at Malaga._  
 __laconic__ _adj_ :four: Using or marked by the use of few words; terse or concise. _Syn_ curt, crisp _Their father, though very laconic in his expressions of pleasure, was really glad to see them._  
@@ -10264,7 +10268,7 @@ __percolate__ _v_
 __percolator__ _n_  
 __percutaneous__ _adj_ Passed, done, or effected through the skin. _Syn_ transdermal _I simply apply the ointment to my arm, and the medication makes its way into my bloodstream in a process called percutaneous absorption._  
 __perdure__ _v_ _formal_ To last permanently; endure.  
-__peremptory__ _adj_ :three::hammer:  
+__peremptory<sup>1</sup>__ _adj_ :four: /puh-REMP-tuh-ree/ __1__ Expressive of urgency or command. _The soldiers were given a peremptory order to abandon the mission._ __2__ Marked by arrogant self-assurance. _The company’s president has a peremptory manner about her especially at the negotiating table._  
 __perennial<sup>1</sup>__ _adj_ :three::hammer:  
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
@@ -10301,7 +10305,7 @@ __permafrost__ _n_ :two::hammer:
 __permeate__ _v_  
 __permed__  
 __permit__ _n_ _Camping permit fee._  
-__pernicious__ _adj_ :six: Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ Having a harmful effect or influence. _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._  
+__pernicious__ _adj_ :seven: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
@@ -10742,7 +10746,7 @@ __Popeyes Louisiana Kitchen__ _n_ an American multinational chain of fried chick
 __poplar__ _n_ :es: álamo, chopo _Massive poplar trees lined the parkways._  
 __popo__ _n_ (Streets.) The police. _The popo just picked up that stewed dude._  
 __popple__ _v_ To move in a tumbling, irregular manner, as boiling water.  
-__poppycock__ _n_ Senseless talk. _Syn_ hooey, stuff and nonsense  
+__poppycock__ _n_ :two: /pŏp′ē-kŏk′/ Senseless talk; nonsense. _Syn_ hooey, stuff and nonsense  
 __pops__ _n informal_ :two: Father.  
 __popsicle__ _n_ Ice cream or water ice on a small wooden stick.  
 __populace__  
@@ -11720,7 +11724,8 @@ __reprieve<sup>1</sup>__ _n_ :seven: A cancellation or postponement of a punishm
 __reprieve<sup>2</sup>__ _v_ :two: Cancel or postpone the punishment of (someone, especially someone condemned to death). _Under the new regime, prisoners under sentence of death were reprieved._ _Syn_ grant a stay of execution to, cancel/postpone/commute/remit someone’s punishment  
 __reprisal__ _n_ :six::hammer: (reprisals) _A ban on federal reprisals._  
 __reprise__ _n_  
-__reprobate__ _v_  
+__reprobate<sup>1</sup>__ _n_ /REP-ruh-bayt/ A reprobate is an unprincipled or depraved person. Other names for such a being are scoundrel and rogue. _The reprobate preyed on well-to-do elderly women, who he would swindle out of their money._  
+__reprobate<sup>2</sup>__ _v_  
 __reprove__ _v_ :two: __1__ To criticize or correct, :astonished: esp. gently. __2__ To express strong disapproval of; censure.  
 __reps__ _n_ :two::hammer: _To be out there with those guys and gain those reps, gain that experience and build that camaraderie with those guys was huge._  
 __repudiate__ _v_ :two::hammer:  
@@ -12154,6 +12159,7 @@ __sakura__
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
 __salacious__ _adj_ :four::hammer: _Salacious music._  
 __salad spinner__ _n_  
+__salchow__ _n_ /săl′kou′/ [:scroll: After Ulrich Salchow (1877-1949), Swedish figure skater.] A move in figure skating in which the skater, while skating backwards, jumps from the back inside edge of one skate, completes a full rotation, and lands on the back outside edge of the other skate.  
 __sales force__  
 __salesperson__ _n_ :two::hammer:  
 __salient__ _adj_ :four::hammer: _That is a salient fact._  
