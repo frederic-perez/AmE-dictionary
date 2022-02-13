@@ -929,7 +929,7 @@ __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
-__banister__ _n_ :two::hammer: _Polished mahogany banisters._  
+__banister__ _n_ :three::hammer: _Polished mahogany banisters._  
 __banjax__ _v tr_ _informal US_ To ruin or destroy, often as a result of incompetence.  
 __bankroll<sup>1</sup>__ _n_  
 __bankroll<sup>2</sup>__ _v_ :two::hammer:  
@@ -1359,6 +1359,7 @@ __blindside<sup>1</sup>__ _n_ :two: __1__ The part of one’s field of vision, a
 __blindside<sup>2</sup>__ _v_ :six: (blind side, blindsided) __1__ To hit or attack on or from the blind side. __2__ To catch or take unawares, especially with harmful or detrimental results: _The news blindsided us._  
 __bling__ _n_ _slang_ :four: Flashy jewelry worn to create the impression of wealth.  
 __blink__ _v_ _There is no reason to blink._  
+__blinker__ _n_ __1__ A device for flashing light signals. __2__ A flashing light, as for regulating traffic. __3__ Either of two leather flaps on a bridle, to prevent a horse from seeing sideways; blinder.  
 __blip<sup>1</sup>__ _n_ :five: (blips) A blip in a situation is a sudden but temporary change or interruption in it. _Interest rates generally have been declining since last spring, despite a few upward blips in recent weeks._ _Put the blips and bumps in proper proportion._  
 __blip<sup>2</sup>__ _v_  
 __blister pack__ _n_ :camera: Packaging in which a product is sealed between a cardboard backing and clear plastic cover. _Syn_ bubble pack  
@@ -3188,7 +3189,7 @@ __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness 
 __coverup__ _n_  
 __coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
-__covetous__  
+__covetous__ _adj_ :two::hammer:  
 __covey__  
 __cow__ _v_ :four: (cowed) To frighten or subdue with threats or a show of force. _Syn_ intimidate _Law makers cowed by powerful unions._ _His enemies are cowed for the present._  
 __cowboy__ _v_ :two::hammer:  
@@ -3625,7 +3626,7 @@ __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a 
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
 __deem__ _v_  
-__deep cut__ _n_ :four: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
+__deep cut__ _n_ :five: (deep cuts) A song by an artist that only true fans of said artist will enjoy/know. True gems that are found later in an album, a b-side. Rarely if ever played on the radio.  
 __deep freezers__  
 __deep pockets__  
 __Deep South__  
@@ -4491,7 +4492,7 @@ __effort__ _n_ :dart: _Activists launched an effort._
 __effortless__ _adj_  
 __effrontery__ _n_ :four: Behavior that is rude or that shows a lack of respect. :es: desfachatez  
 __effulgence__ _n_ A brilliant radiance. _Syn_ refulgence, shine, radiance  
-__effulgent__ _adj_  
+__effulgent__ _adj_ :two: [:scroll: C18: from Latin _effulgēre_ to shine forth, from _fulgēre_ to shine] Radiant; brilliant.  
 __effusion__ _n_ :two::hammer: _White blood T2-weighted axial sequence showing bilateral pleural effusions._ _Pericardial effusion._  
 __effusive__ _adj_ :two::hammer:  
 __egalitarian__ _adj_  
@@ -5122,7 +5123,7 @@ __Ferberization__
 __Ferberizing__  
 __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
 __ferny__  
-__ferocious__  
+__ferocious__ _adj_ :two::hammer:  
 __ferret out__ _v_ :two::hammer:  
 __ferret-faced__  
 __ferret<sup>1</sup>__ _n_ :four::hammer:  
@@ -7262,7 +7263,7 @@ __inception__ _n_ :three::hammer:
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
 __inch__ _v_ :four::hammer: (inching) _They’ll just inch their way down the field._  
-__inchoate__ _adj_ :two: Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
+__inchoate__ _adj_ :three: /in-KOH-ut/ Only partly in existence; imperfectly formed. _Syn_ incipient _Dave looked at Mr. James Ward wonderingly, until that gentleman broke his train of inchoate thought._  
 __inchworm__ _n_  
 __incident<sup>1</sup>__ _n_  
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
@@ -7975,6 +7976,7 @@ __landscape__ _n_ _Landscape gardening._
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
 __languish__ _v_ :four: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
+__languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
 __lank__ _adj_ :two::hammer: _Her hair hung in lank locks._  
 __lanky__ _adj_ :five::hammer:  
 __lantanas__ _n_  
@@ -7996,7 +7998,7 @@ __larder__ _n_ :four::hammer:
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largess__ _n_  
-__largesse__ _n_ :four::pencil2::hammer:  
+__largesse__ _n_ :five::pencil2::hammer:  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __larvate__ _adj_ :astonished: (larvated) /ˈlɑːveɪt/ (Zoology) Masked or hidden.  
@@ -8945,7 +8947,7 @@ __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.
 __misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misfortune__ _n_  
-__misgiving__ _n_ :six: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
+__misgiving__ _n_ :seven: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
 __misguided__ _adj_ :two: Based or acting on error; misled: _well-intentioned but misguided efforts._  
 __mishap__ _n_ :mega::two::hammer:  
 __mishmash__ _n_ :two::hammer:  
@@ -9687,7 +9689,7 @@ __onerous__ _adj_ :five::hammer::pencil2::astonished: _Onerous task._
 __onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
-__onlooker__ _n_ :two::hammer: (onlookers)  
+__onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
 __onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
@@ -10959,6 +10961,7 @@ __primer__ _n_ :four:hammer:
 __priming__ _v_  
 __primly__ _adv_ :two::hammer:  
 __primp__ _v_ To dress (oneself), esp in fine clothes; prink.  
+__princeling__ _n_ (princelet, princekin) A young, subordinate, or minor prince.  
 __prior<sup>1</sup>__ _adj_ :four::hammer: _Continued from the prior page._ _His data show 30% fewer arrest citations compared to the 15 months prior._ _Make sure that flight controls move prior to flight._ _The only relevant hx is WPW ablation 20 years prior._  
 __prior<sup>2</sup>__ _adv_  
 __prior<sup>3</sup>__ _n_ (priors)  
@@ -11278,9 +11281,8 @@ __queer<sup>1</sup>__ _adj_
 __queer<sup>2</sup>__ _n_  
 __queer<sup>3</sup>__ _v_  
 __quell__ _v_ :nine::m: (quelled) Put an end to (a rebellion or other disorder), typically by the use of force. _Syn_ put an end to, stamp out, put a stop to, end, finish :es: calmar, reprimir  
-__quench__ _n_ :two::hammer:  
-__quenched__ _v_  
-__quenches__ _v_  
+__quench<sup>1</sup>__ _n_ :two::hammer:  
+__quench<sup>2</sup>__ _v_ :three: (quenches, quenched) To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
 __querulous__ _adj_ :dart::six: Given to complaining; peevish. _Syn_ fretful, whiny _The teacher’s patience was wearing thin, but the querulous student nevertheless continued to whine about how much homework she was assigning._  
 __query<sup>1</sup>__ _n_ :mega::two::hammer: _The quest of the Holy Grail._  
 __query<sup>2</sup>__ _v_ :mega:  
@@ -15054,7 +15056,7 @@ __troubleshoot__ _v_ :three::hammer:
 __troubleshooter__ _n_ :two::hammer:  
 __trough__ _n_ :five: (troughs) Lowest point of a wave. _Showers will continue for one more day as a low-pressure trough spins through the region._ _The daily peaks and troughs._  
 __trounce__ _v_ :six::hammer: (trounces, trounced) _Drama trounces trauma!_  
-__trousseau__ _n_ The clothes, linen, etc, collected by a bride for her marriage.  
+__trousseau__ _n_ :two: The clothes, linen, etc, collected by a bride for her marriage. :es: ajuar  
 __trowel__ _n_ :two::hammer:  
 __troweled__ _v_  
 __troy ounce__ _n_ :two::hammer:  

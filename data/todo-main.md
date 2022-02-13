@@ -1,18 +1,3 @@
-__covetous__ _adj_  
-__giddy__ _adj_  
-__blinker__ _n_ __1__ A device for flashing light signals. __2__ A flashing light, as for regulating traffic. __3__ Either of two leather flaps on a bridle, to prevent a horse from seeing sideways; blinder.  
-__onlooker__ _n_  
-__largesse__ _n_  
-__effulgent__ _adj_ [:scroll: C18: from Latin _effulgēre_ to shine forth, from _fulgēre_ to shine] Radiant; brilliant.  
-__misgiving__ _n_  
-__princeling__ _n_ (princelet, princekin) A young, subordinate, or minor prince.  
-__trousseau__ _n_ :es: ajuar  
-__deep cut__  
-__ferocious__ _adj_  
-__banister__ _n_  
-__quench__ _v_ To satisfy (one’s thirst, desires, etc.). _Syn_ slake, allay, assuage _He stopped to quench his thirst at a stream._  
-__languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
-__inchoate__ _adj_ /in-KOH-ut/  
 __exec__ _n_ _informal_ __1__ An executive. __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._ :three::hammer:  
 __make a fool of himself__  
 __cox’n__  
