@@ -343,7 +343,7 @@ __break the bank__ To be very expensive. The phrase is often used in the negativ
 __break the ice__ To make people who have not met before feel more relaxed with each other.  
 __break your back__ To work extremely hard.  
 __break your duck__ To do something for the first time.  
-__breaking point__  
+__breaking point__ :two: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
@@ -679,6 +679,7 @@ __foot the bill (for something)__ To pay for something; to pay for a bill. _My b
 __for all seasons__ :two: __1__ Suitable in or appropriate for every kind of weather. _A coat for all seasons._ __2__ Adaptable to any circumstance. _A singer for all seasons._  
 __for crying out loud__ :two: A expression of frustration or surprise.  
 __for good__ :two::hammer: _Leadville’s only hospital is preparing to close for good in March._ _The magazine was gone for good._  
+__for hours on end__ For a long time, specifically many hours. _When do you think the doctor will call with my test results? I’ve been waiting for hours on end._  
 __for keeps__ :two: __1__ For a very long period of time, possibly forever. _I’m sorry, but you’re stuck with me. As my husband, you have me for keeps._ __2__ For one to maintain or take ownership of. _I would have returned the mug to you sooner, but I thought you gave it to me for keeps._ __3__ With determination to do or complete something. _This is it, girls, the last game of the season. So go out there and play for keeps._  
 __for one__ _Rhode Island, for one, is well on the way to meeting the goals._  
 __for peanuts__ For a very paltry or minuscule amount of money; for nearly no money or the absolute minimum amount. _I managed to get tickets! Suzy’s brother has a connection in the stadium, so we got them for peanuts!_  
@@ -709,6 +710,7 @@ __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you ca
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
+__gaslight__ To manipulate someone psychologically so that they begin to doubt their experience of reality. The phrase comes from the 1938 play _Gas Light_, in which the protagonist attempts to induce insanity in his wife by constantly questioning or doubting her reports of strange events, such as the dimming of the house’s gas lights (which has in fact occurred and is related to the husband’s nefarious activities). _Her husband must be gaslighting her because she suddenly doubts all the evidence that she’s found of his indiscretions._ _The administration has been accused of gaslighting with its repeated attempts to spread disinformation._  
 __geek out__ _v_ To temporarily enter techno-nerd mode while in a non-hackish context, for example at parties held near computer equipment. Especially used when you need to do or say something highly technical and don’t have time to explain: “Pardon me while I geek out for a moment.”  
 __gentleman’s agreement__ A legally non-binding arrangement that is guaranteed only by a verbal or mutually understood agreement by the parties involved.  
 __get (one’s) ears lowered__ To get a haircut, especially to a length that reveals one’s ears.  
@@ -1231,7 +1233,7 @@ __keep your head above water__ To just be able to manage when you have financial
 __keep your shirt on__  
 __keyed up__ :dart::two: Excited, nervous, or anxious. _I’m so keyed up after that concert that there’s no way I’m going to be able to fall asleep._  
 __kick (someone or something) to the curb__ To discard, abandon, or dismiss someone or something that has become redundant, obsolete, useless, or unwanted. _I can’t believe that after 20 years of hard work the company would just kick me to the curb like that!_ _I think it’s about time we kick this old computer to the curb._  
-__kick ass__ :two: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
+__kick ass__ :three: _vulgar_ _slang_ To take forceful or harsh measures to achieve an objective.  
 __kick butt__ To be very exciting or effective. _Syn_ kick ass _The new system really kicked butt, catching several cheaters the first day it was used._  
 __kick in__ :two: To start to have an effect or to happen.  
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
@@ -1282,6 +1284,7 @@ __late bloomer__ _n_
 __late model__ Especially regarding an automobile, of a relatively recent design or model.  
 __lather, rinse, (and) repeat__ :two::dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought. _Lather. Rinse. Repeat._  
 __laugh in (one’s) sleeve__ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
+__laugh off__  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
 __lay (oneself) out__ To put in a great deal of effort; to inconvenience oneself or go through a lot of trouble. _I don’t know why I always lay myself out to impress your parents—they never appreciate what I do anyway._  
@@ -1441,7 +1444,7 @@ __make the welkin ring__ To make a very loud, reverberating sound or noise. (“
 __make the world go round__ :dart: To be of critical or integral importance to the ordinary operation of life or the world at large. (Sometimes used hyperbolically.) _I tell you, coffee made the world go round when I was in grad school!_  
 __make up one’s mind__ :three: To make a decision. _Too much love will kill you if you can’t make up your mind._ _“The time to make up your mind about people is never.” — The Philadelphia Story_  
 __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression. _I’m sorry I missed your game. How about I make it up to you with some ice cream?_ _I hope this makes up for last time._  
-__make waves__ :four: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
+__make waves__ :five: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
@@ -1518,7 +1521,7 @@ __no big deal__ _No big deal, but it looked sloppy._
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
 __no dice__  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
-__no hard feelings__  
+__no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
 __no offense__ :two: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
@@ -1889,6 +1892,7 @@ __sour grapes__ Criticism or disparagement of that which one cannot have. The ph
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
+__spill the beans__ To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
 __spin one’s wheels__ :three: Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._  
 __split hairs__ :two: Argue or worry about small details.  
 __spot on__ _informal_ :five: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
@@ -1924,6 +1928,7 @@ __swear in__ To administer an oath to someone as part of the official process of
 __sweat bullets__ :two::dart: To suffer intense distress, anxiety, worry, or fear.  
 __sweep (one) off (one’s) feet__ To charm one in such a way that they form an instant and strong romantic attraction, usually unexpectedly. _A: “Is Lucy still gushing about her new boyfriend?” B: “Yeah, he must have really swept her off her feet._  
 __sweet spot__ A particular point, area, or range where something will be most effective or beneficial. _The tension is in my shoulders. Move your hands a little higher… there! That’s the sweet spot._  
+__switch gears__ To quickly or abruptly change what one is doing or discussing. _With that out of the way, let’s switch gears and discuss our strategy for the third quarter._  
 __sync up__ _Syncing up over coffee._  
 __tag along__ :four: :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
 __tail end__ _The tail end of the day._  
@@ -2012,6 +2017,7 @@ __the whole shebang__
 __then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
+__there you have it__ Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ :two::dart::hammer:  
