@@ -13001,7 +13001,7 @@ __slain__ _n_
 __slake__ _v_ :four: (slaked) To make someone happy by giving them what they want or need. To satisfy (a craving); quench. _Syn_ allay, assuage _My first act on coming to this water was, of course, to slake my thirst._  
 __slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accomplish or certain to occur: _a case that the prosecutor saw as a slam dunk._  
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
-__slander__ _v_ :eight::hammer: (slandering) _Syn_ traduce  
+__slander__ _v_ :eight: (slandering) To utter or circulate slander (about). _Syn_ traduce :es: difamar  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
 __slapdash__ _adj_ :two::hammer: _His slapdash action._  
 __slapjack__  
@@ -13458,7 +13458,8 @@ __spell<sup>2</sup>__ _n_ :two::hammer: _Dry with clear spells, but cloudy later
 __spellbound__ _adj_  
 __spendolie__  
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
-__spew__ _v_ :eight::hammer: (spewed) _Carbon-spewing coal power plants._  
+__spew<sup>1</sup>__ _v tr_ :eight: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
+__spew<sup>2</sup>__ _v intr_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
 __spiffy<sup>1</sup>__ _adj_ :three::hammer:  
@@ -13915,7 +13916,7 @@ __straight<sup>2</sup>__ _adj_ _Their second straight win._
 __straightaway__  
 __straighten__ _v_ :two: (straightened) To make something straight. _You should straighten him out._ _We straightened the problems out._  
 __strain<sup>1</sup>__ _v_ :nine::m: (strained, straining) __1__ Force (a part of one’s body or oneself) to make an unusually great effort. _I stopped and listened, straining my ears for any sound._ :es: esforzarse __2__ Pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter. _Strain the custard into a bowl._ :es: colar, filtrar  
-__strain<sup>2</sup>__ _n_ :eight::hammer: _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ _A new strain of coronavirus._  
+__strain<sup>2</sup>__ _n_ :eight: __1__ The act or an instance of straining. _Can you keep an even strain?_ _“Out of the strain of the doing, into the peace of the done.”—Julia Louise Woodruff_ __2__ The damage resulting from excessive exertion. __3__ An intense physical or mental effort. __4__ (Music, other) Music (often plural) a theme, melody, or tune. __5__ A great demand on the emotions, resources, etc. __6__ (Psychology) A feeling of tension and tiredness resulting from overwork, worry, etc; stress. __7__ A variety, esp. of microorganisms. _A new strain of coronavirus._  
 __strained__ _adj_ :four::hammer: _A strained thumb._ _A strained voice._  
 __straining__ _v_ :two::hammer:  
 __strains__ _n_ :two::hammer:  
