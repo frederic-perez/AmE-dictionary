@@ -520,6 +520,7 @@ __apartment__ _n_
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
 __aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
 __aping__  
 __aplenty__ _adj, adv_ :two::hammer:  
@@ -1250,6 +1251,7 @@ __bill-file__
 __bill<sup>1</sup>__ _n_ __3__ The entertainment offered by a theater. _I’m not my usual top billing._  
 __bill<sup>2</sup>__ _v_  
 __billet__ _v_ :six: (billeted, billeting) :mega: Provide housing for (military personnel). _Syn_ canton, quarter _The citizens who were forced to billet soldiers in their own private homes were understandably irritated by the imposition._  
+__billet-doux__ _n_ /bill-ee-DOO/ A love letter. _While helping her grandmother pack, Abbie came across a billet-doux from her grandfather that was written when the two were teenagers._  
 __billfold__ _n_  
 __billhook__ _n_ :two: An implement with a curved blade attached to a handle, used especially for clearing brush and for rough pruning.  
 __billing__ _n_ _Now, the women’s contest will take second billing._  
@@ -3036,6 +3038,7 @@ __contrive__ _v_ :two::hammer: (contriving)
 __contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
+__conundrum__ _n_  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
@@ -3360,7 +3363,7 @@ __crunchtime__
 __crusade__ _n_  
 __crusader__  
 __crush<sup>1</sup>__ _v_ _I was crushed._  
-__crush<sup>2</sup>__ _n_  
+__crush<sup>2</sup>__ _n_ :two: __4__ _informal_ __a__ A usually temporary infatuation: _had a crush on her friend’s cousin._ __b__ One who is the object of such an infatuation.  
 __crusty__ _adj_ :two::hammer: _The judge was crusty._  
 __crutch__ _n_ :five::hammer: _Diabetes isn’t a crutch or an anchor._ _It became an escape, then it became a crutch._ _Crutch word._  
 __crux__ _n_ :five: __1__ A vital or decisive stage, point, etc. (often in the phrase _the crux of the matter_) A puzzling or difficult problem : an unsolved question. _Managers ignore the crux of the matter: people don’t leave jobs; they leave managers._ __2__ A baffling problem or difficulty. An essential point requiring resolution or resolving an outcome. __3__ A main or central feature (as of an argument).  
@@ -4500,7 +4503,7 @@ __egg head__ _n_ _informal_ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
-__eggcorn__ _n_ :two::hammer:  
+__eggcorn__ _n_ :three::hammer:  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
@@ -5042,7 +5045,7 @@ __fast track__ _n_
 __fast-track__ _v_  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
-__fastidious__ _adj_ :five::hammer: _He was fastidious about showing off his collection._  
+__fastidious__ _adj_ :six: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
 __fastidiously__ _adv_ :es: meticulosamente _I was fastidiously watching the clock._  
 __fastness__  
 __fat cat__ _n slang_ A person who has great wealth and power.  
@@ -8720,8 +8723,8 @@ __mead__ _n_
 __meager__ _adj_ :dart::eight: __1__ Deficient in quality or quantity. _The meager wages._ __2__ Having little flesh.  
 __meagerly__ _adv_ :two::hammer: _Churches were empty and mass meagerly attended._  
 __mealy-mouthed__ _adj_ :two: (mealymouthed) Hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy. _A mealy-mouthed politician._  
-__meander__  
-__meandering__  
+__meander<sup>1</sup>__ _n_  
+__meander<sup>2</sup>__ _v_ :two: /mee-AN-der/ __1__ To wander aimlessly or casually. _The couple spent the afternoon meandering around the seaside town._ __2__ To follow a winding or intricate course. _The stream meanders through the canyon._  
 __meanness__ _n_ :pencil2: __1a__ Unkindness, spitefulness, or unfairness. _Aal the hatred and meanness, despair and sorrow surrounding us._ __b__ _North American_ Aggressive character; viciousness. _He is also callous, with a streak of meanness._ __2__ Lack of quality or attractiveness; shabbiness. _The meanness of that existence._  
 __measles__ _n_ :five::pencil2::hammer: :es: sarampión  
 __measure up__ _phr v_ To be good enough or to be of the required standard.  
@@ -9455,7 +9458,7 @@ __noontime__ _n_ _It was noontime, time for lunch._
 __noose<sup>1</sup>__ _n_ :six::hammer: (nooses)  
 __noose<sup>2</sup>__ _v_  
 __NorCal__ _n_ _US informal_ Northern California.  
-__normalcy__ _n_ :four::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy,” about getting back to normal life after the war. Since then, the word has been used often instead of “normality.” _It took me months to get back to normalcy._  
+__normalcy__ _n_ :five::dart: In the early twentieth century, President Warren Harding popularized the word normalcy with his slogan: “return to normalcy,” about getting back to normal life after the war. Since then, the word has been used often instead of “normality.” _It took me months to get back to normalcy._  
 __normothermic__ _adj_ (Medicine) Of or pertaining to normothermia; having a normal body temperature.  
 __norovirus__  
 __north of__ _phr_ More than. _Our base is Windows users worldwide, which is north of 1.2bn._ _The owners are seeking north of $20 billion for the company._  
@@ -9570,6 +9573,7 @@ __Occam’s Razor__ _n_ The principle that entities should not be multiplied nee
 __occasion__ _n_ :three::mega::pencil2::hammer:  
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
+__occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
 __occurr__ _v intr_ :pencil2:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
@@ -9947,7 +9951,7 @@ __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
 __palatable__ _adj_ :four::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
-__palaver<sup>1</sup>__ _n_ :two::hammer:  
+__palaver<sup>1</sup>__ _n_ :three: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
 __palaver<sup>2</sup>__ _v_  
 __pale__ _adj_ :three: Inferior or unimpressive. _The new cheese is a pale imitation of continental cheeses._ _He called Mr. Trump’s proposal “beyond the pale.”_  
 __paleo__  
@@ -10150,7 +10154,7 @@ __pattern__ _v_ :three::hammer:
 __patterned__ _adj_ _A patterned background._  
 __patterning__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __patties__ _n_ :three::hammer: _Falafel patties._ _Organic grass-fed hamburger patties._ _Fine art patties._  
-__paucity__ _n_ :seven: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” People in LA don’t understand how New Yorkers can live with such a paucity of space. _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
+__paucity__ _n_ :eight: /PAW-suh-tee/ The word paucity means not enough of something. If you’ve got a paucity of good cheer, for example, you’d better cheer up! One good way to remember the meaning of paucity is that it’s a bit like pauper, as in The Prince and the Pauper. The prince had too much money, and the pauper had a paucity. There are a lot of words that mean “little” or “small,” but paucity is used when you mean specifically “not enough” or “too little.” _Syn_ dearth _People in LA don’t understand how New Yorkers can live with such a paucity of space._ _She was made late by broken trains in Brooklyn and a paucity of taxis._ _There was a paucity of detail in the report._  
 __Paulistano__  
 __paunch__ _n_  
 __paunchy__ _adj_  
@@ -13170,7 +13174,7 @@ __smelting__ _n_ :two: The process of extracting a metal from an ore by heating.
 __smidgen__ _n_ _informal_ :two: (smidgeon or smidgin) A very small amount or part. _The rosato di petit verdot has a smidgen of complexity._  
 __smirk__ _n_ :three::hammer: (smirks)  
 __smirking__  
-__smite__ _v_ :four::hammer: _God will smite me._  
+__smite__ _v_ :five::hammer: (smitten) _God will smite me._  
 __smithereens__ _n informal_ :four: A collection of small fragments or splintered pieces considered as a whole; bits. _Berlin was bombed to smithereens._ _The fragile dish broke into smithereens._  
 __smitten<sup>1</sup>__ _adj_ :nine::m: Smitten means overwhelmed or struck by something, usually love. _The way you light up every time the waiter comes over to your table, it’s obvious you’re smitten with him._ __1__ _(used in combination)_ Affected by something overwhelming. _He was smitten by the landscape._ __2__ Marked by foolish or unreasoning fondness. _He was smitten by her red hair._  
 __smitten<sup>2</sup>__ _v_ :two::hammer: _He was smitten by his ignorance._  
@@ -14750,6 +14754,7 @@ __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesad
 __Tirolean__  
 __Titanesque__ _adj_  
 __titanic__ _adj_ /tye-TAN-ik/ Having great magnitude, force, or power.  
+__titanism__ _n_ /TY-tuh-niz-uhm/ [:scroll: After Titan, any of a family of giant gods in Greek mythology. Titans, under the leadership of Cronus, one of the Titans, overthrew their father Uranus and ruled themselves. Eventually, Cronus’s son, Zeus, rebelled against his father and defeated the Titans. ] A spirit of nonconformity, rebelliousness, or revolt, against authority, convention, etc.  
 __tite__  
 __tithe__ _n_ :six: __1__ A tenth part of something paid as a voluntary contribution or as a tax especially for the support of a religious establishment. _Clerical tithe._ _The tithes of the French clergy._ __3__ Tenth broadly; a small part. __4__ A small tax or levy.  
 __titian__ _n_ A brownish orange.  
@@ -15494,7 +15499,7 @@ __vale__ _n_
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
 __valedictory__ _n_ :two: A closing or farewell statement or address, especially one delivered at graduation exercises.  
-__valentine__  
+__valentine__ _n_ :two: __1a__ A sentimental or humorous greeting card sent to a sweetheart, friend, or family member, for example, on Saint Valentine’s Day. __b__ A gift sent as a token of love to one’s sweetheart on Saint Valentine’s Day. __2__ A person singled out especially as one’s sweetheart on Saint Valentine’s Day.  
 __valiant<sup>1</sup>__ _adj_  
 __valiant<sup>2</sup>__ _n_ :two::hammer:  
 __valkyrie__ _n_ Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.  
