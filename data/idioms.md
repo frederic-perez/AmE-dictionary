@@ -278,6 +278,7 @@ __be on (the) air__ To be broadcasting live, as on television or radio. _OK ever
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
 __be on the lookout__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
+__be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
@@ -1715,8 +1716,10 @@ __pin (something) down__ _Pinned it down to two locations._
 __pink elephants__ This term refers to hallucinations or strange imaginary things seen by people as a result of heavy drinking or the use of narcotics.  
 __pipe down__ _informal_ To become quiet and calm; to stop being loud or boisterous. Often said as a command. _OK, class, pipe down! Let’s begin our lesson, shall we?_ _Pipe down, will you, I’m on the phone._ _Syn_ be quiet, quieten down, be silent, fall silent, hush  
 __piping hot__ Very hot. Usually said of food that has just been taken out of the oven and has steam “piping” out of it. _Cook the casserole in the oven for 40 minutes or until it is golden brown and piping hot._ _The coffee was still piping hot._  
+__pitch a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to pitch a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started pitching a fit in the grocery store._  
 __pitch/throw (someone) a curve ball__ _slang_ __1__ To mislead; deceive. __2__ To cause to be surprised, especially unpleasantly so.  
 __plain and simple__ :two::hammer::astonished: _This was our mistake, plain and simple._  
+__plastic grin__ A forced, artificial smile; a smile someone wears despite having no feelings of happiness or joy. _Look at his big plastic grin—he’s such a con man! I sure hope he doesn’t win the election._  
 __play by the rules__ To adhere to the rules, strictures, or conditions imposed by person or body of authority.  
 __play chicken__ _slang_ To play dangerous games in order to discover who is the bravest.  
 __play down__ To make something seem less important or remarkable. _The pharmaceutical company tried to play down the harmful side effects of its new medication._  
@@ -1726,14 +1729,18 @@ __play safe__
 __played out__  
 __plead the Fifth (Amendment)__ __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
+__poetry in motion__ Something that is very elegant, graceful, and/or beautiful to observe, especially dance or the performing arts. _The ballet was sublime to watch, truly poetry in motion._  
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __pop up__ To suddenly appear or become available. _Problems started popping up as soon as the software went live._ _He might pop up in this movie in the tail end._  
-__pounce on (someone or something)__  
+__pounce (up)on someone or something__ :two::hammer:  
 __practice makes perfect__ _Prov. Cliché_ Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prop up__ _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
+__publicity hound__ Someone who seeks to have the attention of the public constantly focused on him- or herself, typically by means of attracting media coverage. _The former actor’s run at politics is seen by many as just another stunt by a publicity hound desperate to keep the spotlight on himself._  
 __pull (oneself) together__ :two: Calm down.  
+__pull a face (at someone)__ To make a grimacing or humorously distorted facial expression (at someone). _Young lady, don’t you pull a face at me! You will eat your broccoli or you won’t have any dessert._ _The teacher scolded Jimmy for pulling faces at her from the back of class._  
+__pull a prank (on someone)__ To carry out a trick, deception, or practical joke (against someone). _It turns out that the supposed alien visitors that people had been seeing were just a bunch of teenagers pulling a prank on the town._ _I’ve got a great plan to pull a prank on the school for April Fools’ Day._  
 __pull a U-ie__ To make a U-turn. Primarily heard in US, Australia.  
 __pull rank__ _He pulled rank and told the pilot to shut up._  
 __pull someone’s leg__ :three: To make a playful attempt to fool or deceive someone. _You’re pulling my leg._ _Just pulling your leg, Mom._  
@@ -1921,6 +1928,7 @@ __steely-eyed missile man__ An astronaut or engineer who quickly devises an inge
 __step back__  
 __stone cold__ Completely bereft of emotion or concern. Hyphenated if used as a modifier before a noun. _The criminal was stone cold as she sat in the courtroom stone and heard the verdict being handed down._ _Sam was a stone-cold killer._  
 __strangely enough__ Bafflingly; surprisingly; atypically. _Strangely enough, it turned out that we both knew John, but had met him in two different parts of the world._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively far and between._  
+__strap on the (old) feedbag__ _slang_ To begin eating; to have a meal. _I can’t wait to get to Grandma’s and strap on the old feedbag. She always cooks the tastiest food!_  
 __street smart__  
 __stressed out__ Experiencing a lot of mental, emotional, or physical strain or tension. _Now, don’t get stressed out, but the boss has some things he wants you to change in the project._  
 __strike a chord__ Trigger a feeling or memory, as in _That poem strikes a chord in all those touched by the Holocaust._ This term alludes to striking the strings or keys of a musical instrument.  
