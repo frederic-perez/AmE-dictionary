@@ -256,6 +256,7 @@ __aggrieved__ _v_ _An aggrieved sense of victimhood._
 __aggro__ _n_ :three::hammer:  
 __aghast__ _adj_ :eight: Struck with terror, amazement, or horror; shocked and upset. _She was aghast when she heard the news._  
 __agitated__ _adj_ Troubled emotionally and usually deeply. _Agitated parents._  
+__agitation__ _n_ __1__ A state of excitement, disturbance, or worry.  
 __agitprop__ _n_ Political propaganda (especially communist propaganda) communicated via art and literature and cinema.  
 __agnostic__ _adj_  
 __agog__ _adj_  
@@ -1176,7 +1177,7 @@ __berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._
 __beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
-__beset__ _v_ :eight: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
+__beset__ _v_ :nine: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
 __besmeared__ _v_  
 __besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
@@ -4696,7 +4697,7 @@ __entrant__ _n_ :two::dart::astonished: __1__ A person who takes part in a compe
 __entreat__ _v_ _Syn_ beg, plead  
 __entrée__  
 __entrench__ _v_ :nine::m: (entrenched) Establish (an attitude, habit, or belief) so firmly that change is very difficult or unlikely. _Ageism is entrenched in our society._ _Syn_ establish, settle  
-__entrenched__ _adj_ :six: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
+__entrenched__ _adj_ :eight: (of an attitude, habit, or belief) Firmly established and difficult or unlikely to change; ingrained. _An entrenched resistance to change._  
 __entrenchment__  
 __entrepreneur__ _n_ :pencil2:  
 __entryway__ _n_ _An entryway aquarium._  
@@ -7262,6 +7263,7 @@ __incel__ _n_ A person who is involuntarily celibate; the state or condition of 
 __incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, incitive, instigative, rabble-rousing, seditious _The incendiary remarks in the pamphlet spurred the villagers to revolt._ _He launched an incendiary attack._  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
+__incentivize__ _v_  
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
@@ -7334,7 +7336,7 @@ __inescapable__ _adj_ :two: Impossible to escape or avoid; inevitable: _inescapa
 __inexplicable__ _adj_  
 __inexpugnable__ _adj_ Incapable of being overcome, challenged, or refuted. _Syn_ impregnable  
 __inextricable__ _adj_  
-__inextricably__ _adv_ :three::hammer:  
+__inextricably__ _adv_ :four::hammer: _Syn_ inseparably, totally, intricately, irretrievably, indissolubly, indistinguishably _Our survival is inextricably linked to survival of the rainforest._  
 __infallibity__  
 __infamous__ _adj_ :nine::m: __1__ Causing or deserving a bad reputation; shocking: _infamous conduct._ _Princess Leia’s infamous dual-bun hairstyle._ __2__ Disgraceful.  
 __infamy__ _n_ :two::hammer:  
@@ -11030,6 +11032,8 @@ __progeny__ _n_ :two::hammer:
 __prognosticate__ _v_ Indicate by signs. _Syn_ augur, auspicate, bode, omen, portend, foreshadow, presage, predict, prefigure, betoken, forecast, foretell _This neighborhood has seen an urban renewal that prognosticates a social and cultural renaissance._  
 __prohibit__  
 __Prohibitionists__  
+__prolapse<sup>1</sup>__ _v_  
+__prolapse<sup>2</sup>__ _n_  
 __prolegomenon__ _n_ A preliminary or introductory commentary, esp. a scholarly preface or introduction to a book.  
 __proliferate__ _v_ _Digest science-fiction magazines had begun to proliferate._  
 __proliferation__ _n_  
@@ -12389,6 +12393,7 @@ __screen__ _v_ (screened) _The horsemen screened the advance of the column._
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
 __screwball<sup>2</sup>__ _n_  
 __screws > put the screws on someone__ _phr informal_ To use force or threats to make someone do what you want. Usage notes: In the past, screws or thumbscrews (torture instrument) were devices used to hurt people by crushing their thumbs in order to force them to do something. _They put the screws on him until eventually he was forced to resign._  
+__screwup__ _n_ _slang_ (screw-up) /skro͞o′ŭp′/ __1__ One that makes a mess of an undertaking; a bungler. __2__ A blunder; a mess: _a managerial screwup._  
 __scribbled__ _v_  
 __scribe__ _n_ :two::hammer: (scribes)  
 __scribles__ _n_  
@@ -15859,7 +15864,7 @@ __weather vane__
 __weather__ _v_ :two::hammer: (weathering)  
 __weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
-__weave<sup>2</sup>__ _v_ :two::hammer: (weaving) _He was weaving through traffic._  
+__weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
 __weaver__ _n_ _A crowd of fullers and weavers._  
 __webbing__ _n_ _Graphics-oriented brainstorming techniques: mind mapping, clustering, patterning, webbing, and fish boning._  
 __wedding anniversary__ _n_ (not “marriage anniversary”)  
