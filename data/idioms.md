@@ -1422,6 +1422,7 @@ __make (someone’s) ears burn__ To make someone uncomfortable, embarrassed, or 
 __make (something) up as (one) goes (along)__ To improvise continuously as one does something; to do something without formal guidelines, structure, rules, etc. _None of us really knew how to play the game, so we just made it up as we went along._  
 __make (the) baby Jesus cry__ To be offensive, immoral, unethical, in poor taste, etc., as might cause or provoke the displeasure or disapproval of Jesus Christ. _I try not to use vulgar language, as my mother told me at a young age that it makes baby Jesus cry._  
 __make a face__ To distort the features of the face; grimace.  
+__make a fool of himself__  
 __make a hole in (something)__ To take, use up, or deplete a large amount of money available in something, such as a budget, one’s wallet, etc. _The cost of repairing the car is really going to make a hole in our savings._  
 __make a living out of something__  
 __make a long arm for (something)__ To extend one’s arm fully toward something; to reach out for something. _Mary’s new boyfriend made a long arm for the bottle of wine at the end of the table, helping himself to another glass._  

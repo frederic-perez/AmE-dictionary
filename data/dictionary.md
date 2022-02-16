@@ -2183,6 +2183,7 @@ __carpet bombing__
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :three::hammer:  
 __carrel__  
+__carrier pilot__ _n_  
 __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
 __carry a torch__  
 __carry the cross__  
@@ -3202,6 +3203,7 @@ __cowering__ _v_ :two::hammer:
 __cowl__ _n_ :three::hammer: _Their cowls were filthy rags._ _Cowl-like hoods._ :es: capucha  
 __cowled__ _v_  
 __cowpoke__ _n_ _old-fashioned_ :two: A cowboy or cowgirl.  
+__cox’n__  
 __coxswain__  
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
@@ -4844,7 +4846,7 @@ __excruciating__ _adj_ :three: Very painful.
 __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
 __exculpate__ _v_ To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
-__exec__ _n informal_ :five: (execs) An executive. _I’m a retired tech exec._  
+__exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
@@ -5597,6 +5599,7 @@ __fovea__ _n_
 __fowl<sup>1</sup>__ _n_ :three::hammer: _Access to public lands and water fowl._  
 __fowl<sup>2</sup>__ _v_  
 __fowler__  
+__foxholes__ _n_  
 __foxing stains__  
 __foxy__ _adj_ __4__ _slang_ Sexually attractive.  
 __foyer__ _n_ :three::hammer:  
@@ -8263,6 +8266,7 @@ __lisp<sup>1</sup>__ _n_
 __lisp<sup>2</sup>__ _v_  
 __list > listing boat__  
 __list an address__ _v_ :three::hammer: _M. Walk, 24, who listed an address in the 2300 block of West Springfield Avenue, was charged with driving under the influence._  
+__list__ _n_ __3__ An inclination to one side, as of a ship; a tilt. _She carried a starboard list of about five degrees._  
 __listen__ _v_ :mute:[lis~~t~~en]  
 __listening session__  
 __listicle__ _n_ An article constructed in the form of a list. The word is a portmanteau of “list” and “article.”  
@@ -8864,6 +8868,7 @@ __miff__ _v_ (miffed) To cause to become offended or annoyed.
 __miffed__ _adj_ :four: When you’re miffed, you’re offended or annoyed. It would be hard not to feel miffed if your entire family forgot your birthday. _Syn_ annoyed, upset _Complaints from miffed neighbors._ _The bond purchases miffed some officials._  
 __might__ _n_ :three::hammer::mute:[mi~~gh~~t] _China’s economic might._  
 __migrant__ _n_ :three::hammer: (migrants)  
+__mik__ _n_ _informal_ A microphone. _Behind our backs they called us the Spic and the Mik._  
 __Milanese armor__  
 __milch__ _adj_ :two: Giving milk. _A milch cow._  
 __mild__ _adj_ :two::hammer: _People with mild asthma._ _A mild day in October._  
@@ -11622,6 +11627,7 @@ __ref__ _n_ A referee.
 __refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
 __referral__  
+__referred__ _v_ _Donovan referred to the main engine room of the destroyer._  
 __reffing__  
 __refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
 __refrain<sup>1</sup>__ _n_ :five::hammer::astonished:  
@@ -12444,7 +12450,7 @@ __sea canary__ _n_
 __sea change__ _n_ :three::astonished: A major transformation or alteration. _Derek Chauvin was convicted of murdering George Floyd last week, and a number of words and phrases in our dictionary saw dramatic increases in lookups, including_ justice is served _and_ sea change. _It sufferef a sea change._  
 __seabed__  
 __Seabees__ _n_ :two::hammer:  
-__seafarer__  
+__seafarer__ _n_ :two::hammer:  
 __seafaring__  
 __seagulls__ _n_ :two::hammer:  
 __seahawk__ _n_  
@@ -12551,7 +12557,7 @@ __sentient__ _adj_ :five::hammer:
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
-__seppuku__ _n_  
+__seppuku__ _n_ :two::hammer:  
 __sepsis__ _n_ :three::hammer: _Sepsis occurs when the body’s response to infection is imbalanced._  
 __sepulcher__ _n_  
 __sequelae__ _n pl_  
@@ -12949,6 +12955,7 @@ __sizzling__ _adj_ :three: __1__ Exciting and intensely emotional. _The sizzling
 __skag__  
 __skank__ _v_  
 __skate__ _v_ :three::hammer: _He don’t let nobody skate unless it’s for money._  
+__skedaddle__  
 __skeet__ _n_ :four: A shooting sport in which a clay target is thrown from a trap to simulate the flight of a bird. _Skeet shooter._ :es: tiro al plato  
 __skein__ _n_ :four: (skeins) A skein is a ball of coiled yarn. If it weren’t for the skein, the world would be full of tangled messes of yarn that would take hours to untangle before you could start your knitting. :es: _madeja_ _Catapult skeins._  
 __skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
@@ -13469,6 +13476,7 @@ __spendolie__
 __spendthrift__ _n_ One who spends money recklessly or wastefully. _Syn_ scattergood, spend-all, spender _You talk as if a miser on Monday were always a spendthrift on Tuesday._  
 __spew<sup>1</sup>__ _v tr_ :eight: (spewed) __1__ To send out or force out in large amounts: _a volcano that spewed molten lava; spewed invective at his opponent._ _Carbon-spewing coal power plants._ __2__ To vomit or otherwise cast out (matter) through the mouth.  
 __spew<sup>2</sup>__ _v intr_ __1__ To flow or gush forth: _Water was spewing from the hydrant._ __2__ To vomit.  
+__spic__ _n_ _offensive_ Used as an insulting and contemptuous term for a Spanish-American person. _Behind our backs they called us the Spic and the Mik._  
 __Spider-Man__  
 __spiel__ _n_ :two::hammer:  
 __spiffy<sup>1</sup>__ _adj_ :three::hammer:  
@@ -15428,6 +15436,7 @@ __uppercut__
 __uppermost__  
 __uppers__  
 __upping__ _v_ :two::hammer:  
+__upright piano__ _n_  
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
@@ -15500,6 +15509,7 @@ __vague__ _adj_ :mute:[vag~~u~~e]
 __vagus__ _n_ (vagus nerve) Either of the tenth pair of cranial nerves, composed of long sensory and motor neurons that innervate the body from the throat to the abdominal viscera and that function in speech, swallowing, breathing, heart rate, and digestion.  
 __vainglorious__ _adj_ :two: Characterized by or exhibiting excessive vanity; boastful. _Syn_ swelled, big _I saw right through the vainglorious young man and rejected his advances._  
 __vainglory__ _n_ :four::hammer:  
+__Val__ _n_ (Vals)  
 __vale__ _n_  
 __valedictorian<sup>1</sup>__ _n_ :eight: (valedictorians) A student, usu. the one ranking highest academically in a graduating class, who delivers the valedictory at graduation.  
 __valedictorian<sup>2</sup>__ _adj_ _Valedictorian speech._  
@@ -15986,7 +15996,7 @@ __whirred__ _v_ :three::hammer: (wirring) _The arrow whirred over his head._
 __whisk broom__  
 __whisk out__ _v_  
 __whisk<sup>1</sup>__ _v intr_ :nine::m: To move lightly, nimbly, and rapidly. _To whisk it away._ _He whisked his wife and 6-year-old daughter back to Afganistan._ _Let Europe’s fastest elevator whisk you 24 floors in a mere 20 seconds._  
-__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ __2__ To whip (eggs or cream).  
+__whisk<sup>2</sup>__ _v tr_ :nine::m: (whisked) __1__ To move or cause to move with quick light sweeping motions: _whisked crumbs off the table; whisked the children away._ _She whisked into the kitchen._ __2__ To whip (eggs or cream).  
 __whisker__ _n_ :two::hammer: (whiskers) :mute:[w~~h~~iskers]  
 __whisper<sup>1</sup>__ _n_ :mute:[w~~h~~isper]  
 __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]  
