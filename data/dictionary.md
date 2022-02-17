@@ -265,6 +265,7 @@ __agonist__ _n_ __3__ One involved in a struggle or competition.
 __agonistic__ _adj_ :pencil2: Striving to overcome in argument.  
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
+__agribusiness__ _n_  
 __agronomy__ _n_  
 __aground__ _adj, adv_ :three: __1__ With the bottom stuck on the ground beneath a body of water; stranded. In a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough. _The ghost ship ran aground._ __2__ On or onto the ground.  
 __ague__ _n_ :two::hammer: (agues)  
@@ -375,7 +376,7 @@ __altitude sickness__
 __alto voice__  
 __altogether__ _adv_ :two::hammer: _Coach Rose was not altogether pleased with the effort._  
 __altruism__ _n_  
-__alum__ _n_ :three::hammer: _A Vanderbilt alum._  
+__alum__ _n informal_ :four: An alumna or alumnus. _A Vanderbilt alum._  
 __aluminum__ _n_ :four::pencil2::hammer:  
 __alumni__ _n pl_ :two::hammer:  
 __amalgam__  
@@ -3566,6 +3567,7 @@ __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly 
 __dead__ _adj_ _Dead batteries._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
+__deadly__ _adv_ __1__ So as to suggest death. __2__ To an extreme: _deadly serious._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
 __deafening__ _adj_  
@@ -4068,6 +4070,7 @@ __divvy__ _v_ :two::hammer:
 __dizzy__ _adj_ :two::hammer:  
 __do it by the numbers__  
 __do math__  
+__do__ _v_ _5_ _v tr_ To make tidy, elegant, ready, etc, as by arranging or adorning: _to do one’s hair._  
 __do-gooder__  
 __doable__ _adj_ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
@@ -6993,6 +6996,7 @@ __hotbed__ _n_ :four: A situation that is ideal for rapid development (especiall
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
+__hots d’oeuvres__ _n_ /or-DERVEs/  
 __hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
 __hotspur<sup>2</sup>__ _adj_ /HOT-spuhr/ Having a rash, hotheaded temperament.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
@@ -8421,7 +8425,7 @@ __lowdown__ _n_ _slang_ :five: The whole truth: _gave us the lowdown on what hap
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
-__lowlife__ _n_ _slang_ :three: A criminal or disreputable person.  
+__lowlife__ _n_ _slang_ :four: __1__ A contemptible person. A criminal or disreputable person. _That guy is a lowlife, always hitting on the waitresses and causing trouble._ __2__ The class of such people considered collectively. _As a private investigator, I’m well-acquainted with our city’s lowlife._  
 __lowlights__  
 __lowly__ _adj_ :three::hammer: _A lowly subsection of the Ministry of Interior._ _The lowly news reporter._  
 __lozenge__ _n_ (lozenges) Medicine shaped like a sweet that you suck if you have a cough or sore throat.  
@@ -12523,8 +12527,9 @@ __self-fulfilling__ _adj_ :five::hammer: _Self-fulfilling prophecy._
 __self-indulgent__ _adj_  
 __self-righteous__ _adj_ :two: Excessively or hypocritically pious. _My self-righteous neighbor Mary makes herself out to be a paragon of virtue and chastity, but I know that she has some dirty little secrets of her own._  
 __self-satisfied__ _adj_ :two: Having or showing a complacent satisfaction with oneself, one’s own actions, behavior, etc.  
-__self-serving__ _adj_  
+__self-serving__ _adj_ :two: __1__ Serving one’s own interests, especially without concern for the needs or interests of others. __2__ Exhibiting concern solely for one’s own interests: _a speech full of self-serving comments._  
 __self-steem__  
+__self-sustained__ _adj_ Needing no outside support.  
 __self-tanner__ _n_ A cosmetic preparation used to give skin the appearance of having been darkened by the sun. _Syn_ sunless tanner  
 __self-worth__ _n_ Self-esteem; self-respect.  
 __selfless__  
@@ -12734,7 +12739,7 @@ __shit list__ _n phr_ One’s fancied or real list of persons who are hated, not
 __shit-canning__  
 __shit-hole__ _n_ _informal_ A very bad place; a disgusting place.  
 __shitcan__ _v_  
-__shitfaced__ _adj vulgar slang_ :two: Intoxicated; drunk.  
+__shitfaced__ _adj vulgar slang_ :three: Intoxicated; drunk. _He was shitfaced drunk._  
 __shitless__ _adj_ _vulgar_ _slang_ _They were scared shitless._  
 __shitshow__ _n_  
 __shiv__ _n_ :three: A knife used as a weapon.  
@@ -15729,7 +15734,7 @@ __wacko<sup>2</sup>__ _adj_
 __wad__ _n_  
 __wad<sup>1</sup>__ _v_ :seven::hammer: (wadded, wadding) _He wadded up the towel._  
 __wad<sup>2</sup>__ _n_ _Wads of cash._  
-__waddle__ _v_ :two::hammer: (waddling) _Two chubby guys waddling around the pool table._  
+__waddle__ _v_ :three::hammer: (waddling) _Two chubby guys waddling around the pool table._  
 __wade__ _v_ :six::hammer: (waded) _Do not swim or wade in fresh water in developing or wherever the sanitation is poor._  
 __wader__ _n_ _usu in pl_ (waders) _Chest waders._  
 __wadi__ _n_ (in certain Arabic-speaking countries) A valley, ravine, or channel that is dry except in the rainy season.  
