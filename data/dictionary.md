@@ -515,6 +515,7 @@ __antsy__ _adj_ :three: Restless, impatient.
 __anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
 __anybody’s guess__  
+__anytime__  
 __apace__ _adv_ With speed; quickly; swiftly. _Syn_ chop-chop, quickly, rapidly, speedily _Concussion concerns continue apace._  
 __Apart from that,__  
 __apartheid__ _n_ :mega:  
@@ -1564,6 +1565,7 @@ __bordello__
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
+__boreal__ _adj_ /BOH-ree-uhl/ [:scroll: From Boreas, the god of the north wind in Greek mythology.] Northern; relating to the north, north wind, northern regions, etc.  
 __boredom__ _n_ :two::hammer:  
 __borne__ _v_ :five::hammer:  
 __borough__ _n_ :mute:[borou~~gh~~]  
@@ -4464,7 +4466,7 @@ __ebb<sup>2</sup>__ _v_
 __ebullience__ _n_  
 __ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
-__echelon__ _n_ :hammer: _The upper echelons of the State Security force._  
+__echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
 __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also a word created in this manner.  
@@ -6120,7 +6122,7 @@ __Gordian knot__ _n_ :two::hammer:
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
 __gorge__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
-__gorgonize__ _v_ :two: To affect as a Gorgon might; hypnotize; petrify.  
+__gorgonize__ _v tr_ :three: /GOR-guh-nyz/ [:scroll: After Gorgon, any of the three monstrous sisters in Greek mythology: Stheno, Euryale, and Medusa. They had snakes for hair and turned into stone anyone who looked into their eyes (apparently it was OK to objectify people in those days).] To paralyze, petrify, or hypnotize. To affect as a Gorgon might; hypnotize; petrify.  
 __gormandize__ _v_ :two: Overeat or eat immodestly; make a pig of oneself. To eat greedily, gluttonously, or ravenously. _Syn_ devour  
 __gormless__  
 __gorp__ _n_ A mixture of nuts, raisins, dried fruits, seeds, or the like eaten as a high-energy snack, as by hikers and climbers.  
@@ -10290,7 +10292,7 @@ __perennial<sup>1</sup>__ _adj_ :three::hammer:
 __perennial<sup>2</sup>__ _n_ :astonished: A plant that lasts for more than two growing seasons.  
 __perfervid__ _adj_ Characterized by intense emotion. _Syn_ ardent, fervent, fervid, fiery, impassioned, torrid _Their perfervid love affair was punctuated by shouting, hysterical crying, and desperate apologies._  
 __perfidious__  
-__perfidy__ _n_ :two::hammer:  
+__perfidy__ _n_ :three: Deliberate breach of faith; calculated violation of trust. _Syn_ treachery, betrayal, treason _Discovering that he had sold her confidences to the tabloids, she was outraged at his perfidy._  
 __performance__ _n_ _It denigrates your performance considerably._  
 __performative__  
 __perfunctory__ _adj_ :seven::dart: Perfunctory means done as part of a routine or duty. If you give someone a gift and they look at it like it’s roadkill and say nothing about it but a perfunctory “thank you,” you might not be giving them another one anytime soon. A person who does something in a perfunctory way shows little enthusiasm or interest in what they are doing. Many of our everyday greetings are perfunctory. For example, when we say hello and how are you, it’s usually done out of habit. Perfunctory is from Latin perfunctus, from perfungi “to get through with, perform,” formed from the Latin prefix per- “completely” plus fungi “to perform.”  
@@ -10706,6 +10708,7 @@ __poky__ _adj_ :two::hammer: _Coverage was a little poky._
 __polarity__ _n_ :mega:  
 __polarizing__  
 __Pole__ _n_ _(pl. Poles)_ A native or inhabitant of Poland, or a person of Polish descent.  
+__polemic__ _n_ A controversial argument, especially one refuting or attacking a specific opinion or doctrine. _Syn_ tirade, diatribe _He launched into the polemic, not caring whom he offended or won over, intent only on getting his point across._  
 __polemology__ _n_ The study of war.  
 __police state__ _n_ _A society log run as a police state._  
 __policy-making__  
@@ -10863,7 +10866,7 @@ __pram__ _n_ :three::hammer:
 __prance__ _v_ :eight: (pranced, prancing) __1__ To walk with a lofty proud gait, often in an attempt to impress others. _Syn_ strut, swagger, tittup, sashay, cock, ruffle _On the floor exercise, Wieber prances, tumbles and smiles._ __2__ Spring forward on the hind legs. _The horse pranced._ _Prancing reindeer._ __3__ Cause (a horse) to bound spring forward. __4__ Ride a horse such that it springs and bounds forward.  
 __prat__ _n_ _British_ A stupid or foolish person. _He could be such a prat at times._  
 __prattle<sup>1</sup>__ _n_  
-__prattle<sup>2</sup>__ _v_ :three: To talk or chatter idly or meaninglessly; babble or prate.  
+__prattle<sup>2</sup>__ _v_ :four: To talk or chatter idly or meaninglessly; babble or prate. _Syn_ blabber, piffle, gabble, prate _The group of tourists on the plane wouldn’t stop talking, and I fell asleep listening to them prattle._  
 __prayer beads__ _n_ _Ms. Xu was wearing Buddhist prayer beads on one wrist._  
 __prayer book__  
 __prayer wheel__  
@@ -13024,7 +13027,9 @@ __slam dunk__ _n_ :dart::three: __2__ _slang_ Something that is easy to accompli
 __slam__ _v_ :three: __4__ _slang_ To criticize harshly; censure forcefully. __5__ _slang_ To drink quickly (a beverage, especially an alcoholic one). Often used with _back_ or _down_.  
 __slander__ _v_ :eight: (slandering) To utter or circulate slander (about). _Syn_ traduce :es: difamar  
 __slant__ _n_ :two::hammer: _A positive slant on the rejection._  
-__slapdash__ _adj_ :two::hammer: _His slapdash action._  
+__slapdash<sup>1</sup>__ _adv_ In a careless, hasty, or haphazard manner.  
+__slapdash<sup>2</sup>__ _adj_ :three: Careless, hasty, or haphazard. Lacking in careful planning, arrangement, execution, etc., especially as a result of carelessness or haste. _Slapdash editing had an effect on the sales of the magazine._ _He failed to impress his interviewers with his slapdash answers._ _His slapdash action._  
+__slapdash<sup>3</sup>__ _n_ __1__ Slapdash activity or work. __2__ (Building) Another name for roughcast.  
 __slapjack__  
 __slapshot__ _n_ _Ice hockey_ A hard, fast, often wild, shot executed with a powerful downward swing, and with the blade of the stick brushing firmly against the ice prior to striking the puck.  
 __slapstick__  
@@ -15724,7 +15729,7 @@ __vouch__ _v_ :two::hammer:
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
-__vulcanize__ _v_ To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure.  
+__vulcanize__ _v_ :two: /VUHL-kuh-nyz/ [:scroll: After Vulcan, the Roman god of fire, metalworking, etc.] __1__ _v tr_ To harden or improve, for example, rubber by application of sulfur and heat. To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure. __2__ _v intr_ To become hardened.  
 __vulnerable__ _adj_  
 __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
 __vulnerary<sup>2</sup>__ _adj_ :astonished: Useful in healing of wounds.  
