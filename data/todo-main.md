@@ -94,3 +94,44 @@ __bona fide__ _adj_
 __truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
 __redress__ _v tr_  
 __turnip__ _n_ [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
+__metaphor__ _n_ A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
+__hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
+__alliteration__ _n_ Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
+__analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
+__onomatopoeia__ _n_ An onomatopoeia is a word that imitates the sound it refers to. Example: The thunder boomed and the lightning crashed.  
+__allusion__ _n_ Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
+__oxymoron__ _n_ Oxymoron is a figure of speech that uses two opposite words together. Example: The treaty led to a violent peace.  
+__satire__ _n_ Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
+__paradox__ _n_ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young.  
+__simile__ _n_ A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
+__irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
+__personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
+__anecdote__ _n_ An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
+__euphemism__ _n_ Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area.  
+__connotation__ _n_ Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
+__meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimize the importance or significance of something. Example: We must put an end to this peculiar institution. (“Peculiar institution” is a euphemism for slavery.)  
+__apostrophe__ _n_ In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
+__antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
+__sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
+__consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
+__rhetorical question__ _n_ A rhetorical question is a question that isn’t intended to be answered. The point of asking the question is to make an audience think or to cause an emotional reaction. Example: Can we really know what our place in the universe is? We have asked ourselves this question for millennia.  
+__epithet__ _n_ An epithet is a nickname or descriptive term used to refer to someone. Example: You need to listen to me and not Clueless Kevin over there.  
+__anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
+__climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
+__cacophony__ _n_ Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake.  
+__assonance__ _n_ Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
+__pun__ _n_ A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other.  
+__parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
+__aphorism__ _n_ An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned.  
+synecdoche__ _n_ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
+__parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
+__colloquialism__ _n_ A colloquialism is an instance of informal language or a local expression. The act of using such language is also called colloquialism. Example: Here in Philly, we love to eat hoagies and all kinds of tasty jawns.  
+__understatement__ _n_ Understatement is using language to intentionally lessen a major thing or event. Example: The erupting volcano was a little problem for the neighboring city.  
+__syllogism__ _n_ Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
+__eponym__ _n_ An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
+__metonymy__ _n_ Metonymy is when the name of something is replaced with something related to it. Example: He loved music from the cradle (birth) to the grave (death).  
+__parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
+__expletive__ _n_ In rhetoric, an expletive is an interrupting word or phrase used for emphasis. Example: The eggs were not, in any sense of the word, delicious.  
+__metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
+__chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
+__asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
