@@ -845,7 +845,7 @@ __backlash<sup>1</sup>__ _n_ :five::hammer: _It leads to backlash._
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
-__backpedal__ _v_  
+__backpedal__ _v_ :two::hammer:  
 __backslid__ _v_  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
@@ -6554,7 +6554,7 @@ __harpy__ _n_
 __harridan__ _n_ A vicious and scolding woman, especially an older one. _Syn_ shrew, virago  
 __harrow__ _n_ :two::hammer: (harrows)  
 __Harrowing of Hell__ _n_  
-__harrowing__ _adj_ :two::hammer: _A harrowing oddyssey._  
+__harrowing__ _adj_ :three::hammer: _A harrowing oddyssey._  
 __harry__ _v_ :nine: (harried) __1__ To make a destructive raid on (enemy territory). __2__ To force to move along by harassing. __3__ To torment by or as if by constant attack. _The weather will continue to harry firefighters._ _A harried mom._ _Harried souls._  
 __harshest__  
 __harvest__ _v_ _Fish oil from harvested fish._  
@@ -7066,7 +7066,7 @@ __Humvee__ _n_ :two::hammer:
 __hunched__ _v_ :two::hammer: _This poor guy was hunched over 12 hours a day._  
 __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__ A hundred dollars, especially a 100 dollar note. _Paul pulled a fat stack of hundos out of his pocket._  
 __hunger strike__  
-__hunk__ _n_ /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
+__hunk__ _n_ :two: /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ _The hunk of grey rock that orbits our planet._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
 __hunker__ _v_ :three::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
@@ -7138,7 +7138,7 @@ __ice-slick chain__
 __icebox__ _n_  
 __icicles__  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
-__icky__ _adj_ :two::hammer:  
+__icky__ _adj_ :three::hammer:  
 __iconoclasm__  
 __iconoclast__  
 __iconoclastic__  
@@ -8176,7 +8176,7 @@ __lexical__ _adj_
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
 __liaison__ _n_ :six::pencil2::hammer:  
-__libation__ _n_ :two::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
+__libation__ _n_ :three::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
 __libertine<sup>1</sup>__ _adj_ Unrestrained by convention or morality. _Syn_ debauched, degenerate, degraded, dissipated, dissolute, profligate, riotous, fast  
@@ -8773,7 +8773,7 @@ __megalomanic__ _adj_ Suffering from megalomania.
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
 __melancholy<sup>1</sup>__ _n_  
-__melancholy<sup>2</sup>__ _adj_ :two::astonished::hammer: _A melancholy man._  
+__melancholy<sup>2</sup>__ _adj_ :three::astonished::hammer: _A melancholy man._  
 __mélange__ _n_  
 __meld<sup>1</sup>__ _v_ __1__ To blend or merge. __2__ [:scroll: From German melden (to announce).] To declare or make known. For example, in some card games, to declare or display a card or a combination of cards so as to score points.  
 __meld<sup>2</sup>__ _n_ __1__ A blend or merger. __2__ [:scroll: From German melden (to announce).] A card or a combination of cards declared or laid down to score points.  
@@ -10035,7 +10035,7 @@ __paper tablecloth__ _n_ :two::hammer:
 __paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
 __paperclip__ _n_  
-__paperwork__ _n_ :two::hammer:  
+__paperwork__ _n_ :three::hammer:  
 __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, etc., used in making sculptures, boxes, ornaments, etc.  
 __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
@@ -10475,7 +10475,7 @@ __pin-drop silence__
 __pin<sup>1</sup>__ _n_ :camera: _McCloud needed a pin placed in his wrist this offseason._  
 __pin<sup>2</sup>__ _v_ :two: (pinned) _Evans pinned a 32-18 loss to the New York Giants._ _Pin the blame on its inability to develop an economy independent of the United States._  
 __pinafore__  
-__pincers__ _n_  
+__pincer__ _n_ :two: __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
 __pinch > in a pinch__  
 __pinch__ _v_ _slang_ To take (money or property) wrongfully. _Syn_ steal  
 __pinch-hitter__  
@@ -10787,7 +10787,7 @@ __portal__
 __portcullis__ _n_ :two::camera: A grating of iron or wooden bars or slats, suspended in the gateway of a fortified place and lowered to block passage.  
 __portend__ _v_ :seven::hammer: (portended) _...may portend a disruption._  
 __portent__ _n_ :five::hammer: (portents)  
-__portentous__  
+__portentous__ _adj_ :two::hammer:  
 __porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portly__  
 __portmanteau__  
@@ -10916,7 +10916,7 @@ __prerogative__ _n_ :eight: __1__ An exclusive privilege or right exercised by a
 __presage__ _v_ :mega:  
 __presbyopia__ _n_  
 __prescience__ _n_ :four: The fact of knowing something in advance; foreknowledge.  
-__prescient__ _adj_ :nine: /prĕsh′ənt, -ē-ənt, prē′shənt, -shē-ənt/ Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
+__prescient__ _adj_ :nine::m: /prĕsh′ənt, -ē-ənt, prē′shənt, -shē-ənt/ Perceiving the significance of events before they occur. _Syn_ foresighted, psychic, prophetic, divining, discerning, perceptive, clairvoyant, far-sighted, divinatory, mantic _An uncannily prescient prediction._  
 __prescribe__ _v_ :two::hammer:  
 __prescription__ _n_ :four::hammer: _Prescription pills._  
 __presell__ _v_ To sell something before it is available.  
@@ -12459,6 +12459,7 @@ __seabed__
 __Seabees__ _n_ :two::hammer:  
 __seafarer__ _n_ :two::hammer:  
 __seafaring__  
+__seagoing__ _adj_ _Seagoing admirals._  
 __seagulls__ _n_ :two::hammer:  
 __seahawk__ _n_  
 __seal__ _v_ _Lacy gained 27 yards to seal their fourth division win._  
@@ -14523,6 +14524,7 @@ __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.
 __tenon__  
 __tense__ _adj_ :two::hammer:  
 __tensile__ _adj_ _Tensile cable._  
+__tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
 __tentative__  
 __tenterhooks__  
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
@@ -15374,7 +15376,7 @@ __unrecognizable__ _adj_
 __unrelenting__ _adj_ :four::hammer:  
 __unremitting__ _v_  
 __unrepentant__ _adj_ :four: Having or exhibiting no remorse.  
-__unrequited__ _adj_ :two: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
+__unrequited__ _adj_ :three: Not given, rewarded, or felt in return: _unrequited love._ _Her unrequited crush._  
 __unrestrained__  
 __unruffled__ _adj_ _An unruffled commander._  
 __unruly__ _adj_ :nine: Difficult or impossible to discipline, control, or rule. _Unruly campaign speeches._  
@@ -16392,7 +16394,7 @@ __zealot__ _n_ An immoderate, fanatical, or extremely zealous adherent to a caus
 __zealotry__  
 __zealous__  
 __zeightgeist__  
-__zeitgeist__ _n_ :five: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._  
+__zeitgeist__ _n_ :six: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._  
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
 __zenith__ _n_ :mega:  

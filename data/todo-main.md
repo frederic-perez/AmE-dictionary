@@ -1,18 +1,3 @@
-__seagoing__ _adj_ _Seagoing admirals._  
-__preposterous__  
-__libation__  
-__backpedal__ _v_  
-__pincer__ _n_ __3__ A military maneuver in which an enemy force is attacked from two flanks and the front. _A pincer movement._  
-__prescient__  
-__zeitgeist__  
-__unrequited__ _adj_ Not given, rewarded, or felt in return: _unrequited love._  
-__tent-pole__ _n_ (tentpole) A program or film that supports the financial performance of a film studio or television network. It is an analogy for the way a strong central pole provides a stable structure to a tent. A tent-pole film may be expected to support the sale of tie-in merchandise. _A summer-season tent-pole._  
-__hunk__ _n_ _The hunk of grey rock that orbits our planet._  
-__icky__ _adj_  
-__portentous__ _adj_  
-__melancholy__ _adj_  
-__harrowing__ _adj_  
-__paperwork__ _n_  
 __diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __flounder__ _v_  
