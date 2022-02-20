@@ -1,18 +1,3 @@
-__telltale__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
-__hokum__ _n_  
-__prophesy__ _n_ :pencil2: _A self-fulfilling prophesy._  
-__whizzes__ _n_ _Asians are generally thought to be math whizzes compared to other ethnic groups._  
-__undercut__ _v_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
-__sport__ _v_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
-__palpable__ _adj_  
-__mundane__ _adj_  
-__palatable__ _adj_  
-__unwittingly__ _adv_ :dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
-__wryly__ _adv_ :es: irónicamente, con ironía _A few people laughed wryly._  
-__chagrin__  
-__disinterest__ _n_ :pencil2:  
-__rote__  
-__snag__ _n_ _A very telling snag._  
 __illusory__ _adj_ _Illusory boundaries._  
 __aloft__ _adv_ _Simply believing we can fly won’t set us aloft._  
 __bearing__ _n_ _The video game should have had absolutely no bearing on his behavior in the real world._  

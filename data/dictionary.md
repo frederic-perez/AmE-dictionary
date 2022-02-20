@@ -2323,7 +2323,7 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
-__chagrin<sup>1</sup>__ _n_ :nine::m: A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
@@ -3981,7 +3981,7 @@ __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical,
 __disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
 __disinhibition__ _n_ :pencil2:  
-__disinterest__ _n_ :two::hammer:  
+__disinterest__ _n_ :three::pencil2::hammer:  
 __disinterested__ _adj_  
 __disjune<sup>1</sup>__ _n_ Breakfast.  
 __disjune<sup>2</sup>__ _v_ To breakfast.  
@@ -6861,7 +6861,7 @@ __hoist<sup>1</sup>__ _n_ :es: montacargas
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_  
-__hokum__ _n_ :three::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
+__hokum__ _n_ :four::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
@@ -9192,7 +9192,7 @@ __mumps__
 __munch__ _v_ :four:hammer: (munches, munched) _He munched the fruit._  
 __muncher__ _n_  
 __munchies__ _pl n_ _slang_ __1__ Food for snacking. __2__ A craving for snack foods. Often used with the: _an attack of the munchies._  
-__mundane__ _adj_ :four::hammer:  
+__mundane__ _adj_ :five::hammer:  
 __Muni bus__  
 __munificent__ _adj_ :three: Very liberal in giving; generous. _Syn_ lavish, unsparing, unstinting  
 __munifience__ _n_ _obsolete_ A fortification.  
@@ -9972,7 +9972,7 @@ __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
-__palatable__ _adj_ :four::hammer:  
+__palatable__ _adj_ :five::hammer:  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __palaver<sup>1</sup>__ _n_ :three: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
 __palaver<sup>2</sup>__ _v_  
@@ -9998,7 +9998,7 @@ __palmetto__ _n_ :two::hammer: (palmettos)
 __palmy__ _adj_ /ˈpɑːmɪ/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
 __palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
-__palpable__ _adj_ Capable of being handled, touched, or felt. _Syn_ tangible  
+__palpable__ _adj_ :two: Capable of being handled, touched, or felt. _Syn_ tangible  
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
 __palpebral__ _adj_  
@@ -11085,6 +11085,7 @@ __propaganda__ _n_ :astonished:
 __propel__ _v_ :two::hammer:  
 __proper__ _adv_ :two: Thoroughly. _Beat the eggs good and proper._ _They have pushed into the city proper._  
 __property owner__ _n_ A holder or proprietor of land. _Syn_ landholder, landowner _Watch out for scammers trying to exploit property owners._  
+__prophecy__ _n_ :pencil2: _A self-fulfilling prophesy._  
 __prophesy__ _v_ (prophesied)  
 __prophylaxis__ _n_  
 __propitiate__ _v_ :pencil2::two::hammer: /proh-PISH-ee-ayt/  
@@ -12042,6 +12043,7 @@ __rostrum__ _n_ In ancient Rome, a speaking platform was decorated with the beak
 __rosy__ _adj_ :six::hammer: _A rosy picture._ _Predictions of a rosy future._  
 __rot__ _v_  
 __Rotarian__ _n_ :two::hammer: (Rotarians)  
+__rote__ _n_  
 __roti__ _n_ (Cookery) (in India and the Caribbean) A type of unleavened bread. _A roti shop._  
 __Roto-Rooter__  
 __rotorcraft__  
@@ -13242,7 +13244,7 @@ __smut__ _n_ _They want to report smut._
 __snafu<sup>1</sup>__ _n_ :two: /snæˈfuː/ (Military) [:scroll: s(ituation) n(ormal) a(ll) f(ucked) u(p)] Confusion or chaos regarded as the normal state.  
 __snafu<sup>2</sup>__ _adj_ (postpositive) Confused or muddled up, as usual.  
 __snafu<sup>3</sup>__ _v tr_ (US and Canadian) To throw into chaos.  
-__snag<sup>1</sup>__ _n_ :five::hammer: (snags) :es: problema  
+__snag<sup>1</sup>__ _n_ :six::hammer: (snags) :es: problema _A very telling snag._  
 __snag<sup>2</sup>__ _v_ :four::hammer: _He wants to snag a Black Friday deal on a 65-inch Samsung TV._  
 __snake charmer__ _n_ :astonished:  
 __snakebite__ _n_  
@@ -13575,7 +13577,7 @@ __spoonerism__ _n_
 __spoonful__ _n_ :es: cucharada  
 __sporadically__  
 __sport coat__ _n_ :two::camera::hammer: (sportcoat)  
-__sport__  
+__sport__ _v_ :two::hammer: _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
 __spot<sup>1</sup>__ _n_ :three: (spots) A place of relatively small and definite limits. _Partly sunny; a shower and thunderstorm in spots early and late._  
 __spot<sup>2</sup>__ _v_ :two::hammer: (spotted)  
 __spotless__  
@@ -14505,7 +14507,8 @@ __televangelist__ _n_
 __televised__  
 __telling__ _n_ :three::hammer: _In her telling, this “they” of hers is scaring the bejeezus out of good, God-fearing conservatives._ _In their telling, the father’s experience in Cuba becomes a parable._ _A sensitive telling of the case of Richard and Mildred Loving._  
 __tellingly__  
-__telltale__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
+__telltale<sup>1</sup>__ _n_ :four: __3__ An indicator, such as a warning light, that serves to warn of a hazard or problem. _Telltale signs._  
+__telltale<sup>2</sup>__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
 __tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
 __telluric__ _adj_  
@@ -15297,7 +15300,7 @@ __under-the-table__ _adj_ Transacted in an underhand manner. _An under-the-table
 __underbelly__ _n_ :two::hammer: (underbellies)  
 __undercard__ _n_ :two::hammer: _Undercard debates._  
 __undercurrent__  
-__undercut__ _v_ :eight::hammer: (undercutting) _Why do you undercut yourself so much?_  
+__undercut__ _v_ :nine::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
 __underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
@@ -15427,7 +15430,7 @@ __unwielding__
 __unwieldy__ _adj_ :three: __1__ Difficult to carry or handle because of size, shape, or weight. __2__ Hindering progress because of complexity; hard to manage or deal with: _an unwieldy bureaucracy._  
 __unwilling__ _adj_ :two::hammer: _Unwilling medical director._  
 __unwind__ _v_  
-__unwittingly__ _adv_ :two::hammer:  
+__unwittingly__ _adv_ :three::dart: Without knowledge or intention. _Cy had unwittingly primed his employees for failure._  
 __unwritten__ _adj_  
 __unyield__ _v_  
 __unyielding__ _adj_ :three::hammer:  
@@ -16048,7 +16051,7 @@ __whithered__
 __whittle__ _v_ :eight::hammer: (whittled, whittling) _The overwhelming advantage has been whittled down._  
 __whizbang<sup>1</sup>__ _n_ [:scroll: The term has its origin in the onomatopoeic representation of the sound made by a firearm or firework. It was popularized in WWI as high-speed shells were called whizbangs. It was also the name given to a rocket launcher used by the US Army during WWII.] __1__ Someone or something extraordinarily successful. __2__ Someone or something flashy, impressive, technologically innovative, etc. __3__ A firework that makes whizzing sounds and loud bangs.  
 __whizbang<sup>2</sup>__ _adj_ __1__ Highly successful or talented. __2__ Flashy, impressive, fast-paced, loud, etc.  
-__whizz__  
+__whizz__ _n_ :two::hammer: (whizzes) _Asians are generally thought to be math whizzes compared to other ethnic groups._  
 __whizzing__  
 __who__ _pron_ :mute:[~~w~~ho]  
 __whodunit__ _n_ :three: A detective story. A story focused around the mystery of a crime or series of crimes, especially murder, and discovering who committed it. _He has written novels in several other genres, but his whodunits are by far his most popular books._  
@@ -16320,7 +16323,7 @@ __wrought-iron__
 __wrought<sup>1</sup>__ _v_ :four: A past tense and a past participle of work. _Syn_ worked  
 __wrought<sup>2</sup>__ _adj_ __1__ Put together; created: _a carefully wrought plan._ __2__ Shaped by hammering with tools. Used chiefly of metals or metalwork.  
 __wry__ _adj_ :six: /rʌɪ/ Using or expressing dry, especially mocking, humour. _He has a wry ear and a knack for poignance._ _Wry moments._ :es: humor seco y burlesco:  
-__wryly__ _adv_ :three::pencil2::hammer:  
+__wryly__ _adv_ :four::pencil2::hammer: :es: irónicamente, con ironía _A few people laughed wryly._  
 __wunderkind__ _n_ :two: A German word meaning wonder child, used to mean someone who accomplishes great things while still young.  
 __wussification__  
 __wynn__ _n_ (wen) An Old English rune (ƿ) having the sound (w) and used in Old English and Middle English writing.  
