@@ -3525,7 +3525,7 @@ __dankness__ _n_ :two::hammer:
 __danse macabre__ _n_ (Art Terms) Another name for dance of death.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
 __dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
-__dare__  
+__dare__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
@@ -3899,6 +3899,7 @@ __diplodocus__ _n_
 __diploma__  
 __diplomat__ _n_ :mega:  
 __diplomatics__ _n_ [:scroll: From Latin diploma (a letter of recommendation or an official document), from Greek diploma (a folded paper).] _The study of documents, especially historical documents, in an effort to authenticate, date, interpret, etc._  
+__diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
 __dips__ _n_  
 __dipsomania__  
 __dipstick__  
@@ -4061,7 +4062,7 @@ __divert__ _v_ _Diverted flights_
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
-__divest__ _v_ :five::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._ _Divested him of stolen lands and castles._  
+__divest__ _v_ :six::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._ _Divested him of stolen lands and castles._  
 __divestiture__ _n_ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
@@ -5418,7 +5419,7 @@ __florid__
 __flotation tank__  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :four: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
-__flounder__ _v_ :nine::m: (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
+__flounder__ _v_ :nine::m: /floun′dər/ (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
 __flourish<sup>1</sup>__ _n_ :three::hammer::astonished::camera: _A flourish of drums and cymbals._  
 __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants from their silver trumpets._  
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
@@ -6000,7 +6001,7 @@ __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leade
 __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
-__glean__ _v_ :five: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
+__glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  
 __glider__ _n_  
 __glimmer__ _n, v_  
@@ -6719,6 +6720,7 @@ __helpless__
 __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, rashly, recklessly, pell-mell _Montgomery cracked his whip at them, and forthwith they all turned and fled helter-skelter into the trees._  
 __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
+__hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
 __hemlines__ _n_  
 __hemlock__ _n_ :two::hammer: :es: cicuta  
 __hemmed__ _v_ :three::hammer:  
@@ -7783,6 +7785,7 @@ __keep down__ _phr v_ To prevent something from increasing in size or number.
 __keep__ _n_ :es: torreón  
 __keepsake__ _n_ :four: (keepsakes) A small item kept in memory of the person who gave it or originally owned it. _She gave him a piece of her hair as a keepsake._ _Syn_ memento, token of remembrance, souvenir, reminder _There is no doubt about which nation will have the most bright and shiny keepsakes._ _Visit SFGate.com/keepsakes today!_  
 __keg__ _n_ :two::hammer:  
+__kegger__ _n_  
 __kelp__  
 __ken__ _n_ :four::astonished: __1__ Range of what one can know or understand. _Syn_ cognizance Perception; understanding: _complex issues well beyond our ken._ _This level of mathematics is beyond my ken._  
 __kennel__ _n_ :two::hammer:  
@@ -8511,6 +8514,7 @@ __Machu Picchu__ _n_ A 15th-century Inca citadel situated on a mountain ridge 2,
 __mackerel__ _n_ :two::hammer: :es: caballa  
 __mackinaw__  
 __macrocosm__ _n_ The entire world; the universe. _Syn_ cosmos, universe, world, existence, creation  
+__macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
 __macula__ _n_  
 __madcap__  
 __madden__ _v_ :two::hammer: (maddening)  
@@ -8758,6 +8762,7 @@ __medevac helicopter__
 __medevac__ _v_  
 __medic__ _n informal_ A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
+__medical school syndrome__ _n_  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
 __medlar__ _n_ :es: níspero  
 __medley__ _n_ __3__ _Sports_ An event in competitive swimming in which backstroke, breaststroke, butterfly, and freestyle are swum in equal distances by an individual or as divisions of a relay race. _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
@@ -9706,7 +9711,7 @@ __one-note__
 __one-off<sup>1</sup>__ _adj_ _British informal_ Done, made, or happening only once. _A one-off benefit show._  
 __one-off<sup>2</sup>__ _n_ :three: _British informal_ :three: (one-offs) Something done, made, or happening only once. _The meeting is a one-off._  
 __onerous__ _adj_ :five::hammer::pencil2::astonished: _Onerous task._  
-__onesie__ _n_ :three::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
+__onesie__ _n_ :four::hammer: _The actor in the Lycra onesie is stealing the _Avengers_ show._  
 __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring only once. _Syn_ one-shot _It’s a onetime thing._  
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
@@ -10565,6 +10570,7 @@ __PJs__
 __pk__  
 __placard__ _n_ :three::hammer::camera:  
 __place__ _v_ :two: (placed) __8a__ To rank in an order or sequence: _I’d place him second best._ _Japan placed third behind Norway and Germany in the World Cup men’s ski jumping competition._ _Katherine Reutten placed fifth in the 1,000-meter final._ __b__ To estimate: _placed the distance at 100 feet._  
+__placebo__ _n_ :mega:  
 __placeholder__ _n_ :four::hammer:  
 __placemat__ _n_ :two: (place mat, placemats) A mat serving as table linen for an individual place setting.  
 __placid__  
@@ -12348,6 +12354,7 @@ __school desk__
 __school of thought__  
 __school__ _n_ :two::mute:[sc~~h~~ool]:hammer: _A school of fish._  
 __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitation. _I could smell trout schooling up in the bay._  
+__schoolwork__ _n_  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
 __schwa__ _n_ :three: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
@@ -12664,7 +12671,7 @@ __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the
 __shank<sup>2</sup>__ _v_ :four: (shanked) __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement. To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
 __shanties__  
 __shanty__  
-__shantytown__  
+__shantytown__ _n_ :two: A town or section of a town or city where there are many poor people living in shanties.  
 __shape up__ _v_  
 __shapely__ _adj_ (esp of a woman’s body or legs) Pleasing or attractive in shape. _The shapely blonde._  
 __shaping the bullet__  
@@ -14225,7 +14232,7 @@ __swagger<sup>2</sup>__ _v_ :four::hammer:
 __Swahili__  
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
-__swamp<sup>1</sup>__ _n_ :two: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._  
+__swamp<sup>1</sup>__ _n_ :three: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._ _We feel swamped by the mounting pressure to succeed at any cost._  
 __swamp<sup>2</sup>__ _v_ :six::hammer: (swamped) _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  

@@ -1,18 +1,3 @@
-__diplopia__ _n_ A pathological condition of vision in which a single object appears double. Also called double vision.  
-__hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
-__flounder__ _v_  
-__dare__ _n_ An act of daring; a challenge. _I applied to Harvard on a dare._  
-__fretted__ _v_  
-__shantytown__  
-__schoolwork__ _n_  
-__medical school syndrome__  
-__onesie__ _n_  
-__kegger__  
-__divested__ _v_  
-__swamped__ _v_ _We feel swamped by the mounting pressure to succeed at any cost._  
-__glean__ _v_  
-__macrophages__ _n_ _We started looking at macrophages, cells that eat lipids stuck to the walls of blood vessels._  
-__placebo__ _n_ :mega:  
 __telltale__ _adj_ _I exhibit the telltale symptoms of the workaholic’s curse._  
 __hokum__ _n_  
 __prophesy__ _n_ :pencil2: _A self-fulfilling prophesy._  
