@@ -703,7 +703,7 @@ __astride__ _adj, adv, prep_ :four::hammer:
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
-__asunder__ _adv_ :four::hammer: _A world torn asunder by evil and hate._  
+__asunder__ _adv_ :five::hammer: _A world torn asunder by evil and hate._  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at the earliest__  
 __at the very least__  
@@ -4818,7 +4818,8 @@ __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent ne
 __eventual__ _adj_  
 __evergreen__ _adj_  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
-__evict__ _v_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process.  
+__evict<sup>1</sup>__ _n_ :es: desahucio  
+__evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
 __eviction__ _n_ :two::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
@@ -6268,7 +6269,7 @@ __grok__ _v_ To understand profoundly and intuitively.
 __groomed__  
 __groomers__  
 __groove<sup>1</sup>__ _n_ :five::hammer: _Shaking her groove._ _The Rockets are finding a groove in Mike’s system._ _Stocks have found their groove._ _It will be tough to get into the groove again._  
-__groove<sup>2</sup>__ _v_ _The Wall-E toy dances and grooves to your music._  
+__groove<sup>2</sup>__ _v_ :two::hammer: _The Wall-E toy dances and grooves to your music._  
 __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially when they do not want you to.  
 __grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
@@ -6417,6 +6418,7 @@ __hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.
 __hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __hackwork__ _n_  
+__haematuria__ _n_ (hematuria) _n_ (Pathology) The presence of blood or red blood cells in the urine.  
 __haemodialysis__ _n_  
 __haemophilia__  
 __haft sin__  
@@ -6896,6 +6898,7 @@ __homebody__ _n_ :two: A person who prefers staying at home.
 __homecoming__ _n_ :two::hammer: _She had been homecoming queen._  
 __homegoods__  
 __homeground__ _adj_ (home-ground) __1__ Grown or produced in one’s own garden or country. :es: de cosecha propia __2__ Belonging to one’s own particular locality or country. _Home-grown talent._  
+__homegrown__ _adj_  
 __homely__ _adj_ :three::hammer:  
 __homeowner__  
 __homesick__ _adj_ :two::hammer:  
@@ -8280,7 +8283,7 @@ __listing__ _n_ :four::hammer: _One current listing is a $30 million property._ 
 __listless__ _adj_ :two::hammer:  
 __listserv__ _n_ A piece of software that automatically sends a copy of every e-mail received to all members of a group.  
 __lit crit__ _n_ _informal_ Literary criticism.  
-__litany__ _n_ :seven: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
+__litany__ _n_ :eight: __1__ _Christianity_ A liturgical prayer consisting of a series of petitions recited by a leader alternating with fixed responses by the congregation. __2__ A repetitive recital, series, or list: _the litany of layoffs in recent months by corporate giants._  
 __literacy__  
 __literate<sup>1</sup>__ _adj_  
 __literate<sup>2</sup>__ _n_ :two::hammer:  
@@ -8921,7 +8924,7 @@ __minimoon__ _n_ _informal_ A short break spent together by a newly married coup
 __minimus__ _n_ The fifth digit; the little finger or little toe.  
 __minion__ _n_ :three::hammer: (minions) _King Edward died deserted by the minions of power._  
 __miniver__ _n_  
-__minnie__ _n_ :two: A mother.  
+__minnie__ _n_ :three: /ˈmɪnɪ/ A mother.  
 __minnow__ _n_ :eight: (minnows) __1__ A very small fish that lives in rivers and lakes. __2__ An organization or company that is small and unimportant; a small or insignificant person.  
 __minor__ _n_ :two: A field of study that a student is not specializing in and which requires fewer credits, or a student studying such a field. To minor in something is to study it as as a secondary field. _It requires a math minor._  
 __minstrel__ _n_ :four: __1__ A medieval entertainer who traveled from place to place, especially to sing and recite poetry. _A popular minstrel show, such as “Jim Crow.”_ :es: juglar  
@@ -9886,6 +9889,8 @@ __overdo__ _v_
 __overdrive__ _n_ :three::hammer: _Cruising overdrive._ _It’s a 1984 Volvo DL, four speed with overdrive._  
 __overdue__ _adj_ _A resurgence in social homes is long overdue._  
 __overflight__  
+__overhaul<sup>1</sup>__ _v tr_  
+__overhaul<sup>2</sup>__ _n_  
 __overhead bin__ _n_ :four::hammer: (airplane; overhead bins) _Overhead bin space._  
 __overhead__ _n_ :two::hammer: (overheads) _That money just covered their overheads._  
 __overkill__ _v_ _I’ll top the bill, I’ll overkill._  
@@ -10432,7 +10437,7 @@ __piddling__ _adj_ Petty; trifling; trivial. _He had killed several hours with f
 __pièce de résistance__ _n_  
 __piece of cake__  
 __piece__ _n_ _A piece of cake._  
-__piecemeal<sup>1</sup>__ _adv_ :three: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
+__piecemeal<sup>1</sup>__ _adv_ :four: By a small amount at a time; in stages. _Articles acquired piecemeal._ :es: poco a poco  
 __piecemeal<sup>2</sup>__ _adj_ :four: Accomplished or made in stages. _A piecemeal approach._  
 __Pied Piper__ _n_ _He was to be a new Pied Piper._  
 __pied__  
@@ -11492,7 +11497,7 @@ __rattling<sup>1</sup>__ _n_
 __rattling<sup>2</sup>__ _v_  
 __rattling<sup>3</sup>__ _adj_  
 __ratty__ _adj_ _slang_ Dilapidated; in poor condition.  
-__raucous__ _adj_ :nine::m: Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Copland’s Hoedown is raucously fun._ _Syn_ harsh, strident :es: estridente  
+__raucous__ _adj_ :nine::m: /ˈrɔ kəs/ Making or constituting a disturbingly harsh and loud noise. _Raucous youths._ _Copland’s Hoedown is raucously fun._ _Syn_ harsh, strident :es: estridente  
 __raunchiness__  
 __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._  
 __ravaged__ _v_ :four::hammer:  
@@ -13084,7 +13089,7 @@ __sliders__ _n_ (food)
 __sliding scale__ _n_ (Economics) A scale in which indicated prices, taxes, or wages vary in accordance with another factor, as wages with the cost-of-living index or medical charges with a patient’s income.  
 __slight<sup>1</sup>__ _adj_  
 __slight<sup>2</sup>__ _v_ :three: (slighted) __1__ To treat (someone) with discourteous reserve or inattention. __2__ To treat as of small importance; make light of. _Slight a guest._ __3__ To do negligently or thoughtlessly; scant. _Don’t slight your work._  
-__slight<sup>3</sup>__ _n_ :nine: A deliberate discourtesy; a snub. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
+__slight<sup>3</sup>__ _n_ :nine::m: A deliberate discourtesy; a snub. An act or omission indicating supercilious neglect or indifference. _Everyday slights and snubs._ _Seemingly minor slights harm student performance._ _The opera itself is slight._  
 __slim jim__ _n_ :two::hammer: (slim-jim) _Souza used a slim jim to pop the passenger door lock._  
 __slim__ _adj_ _The chances are pretty slim._  
 __slime__ _n_ :two::hammer:  
@@ -13722,7 +13727,7 @@ __standoff__ _n_ :four::hammer:
 __standout<sup>1</sup>__ _adj informal_ :seven: Exceptionally good. _He became a standout quarterback in the NFL._  
 __standout<sup>2</sup>__ _n_ :three: A person, performance, etc., that is clearly superior to others. _PGA tour standout._  
 __standpoint__ _n_ :two::hammer: _From a contractual standpoint._  
-__standstill__ _n_ :two::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
+__standstill__ _n_ :three::hammer: _The car will jump from standstill to 60 mph in 4.4 seconds._  
 __stanza__  
 __staph__ _n_ _informal_ Staphylococcus. _Staph infections._  
 __staple__ _n_ :three::hammer: (staples) _There are staples we’ve come to expect in the American frontier novel._  
@@ -13737,7 +13742,7 @@ __stardust__ _n_ :four::dart: __1__ A feeling or impression of romance, magic, o
 __starfish__  
 __stargazer__ _n_  
 __stargazing__  
-__stark__ _adj_ :five::hammer: _A stark reminder._  
+__stark__ _adj_ :six::hammer: _A stark reminder._  
 __starlings__ _n_  
 __starter__ _n_ __4__ _Sports_ __a__ One who signals the start of a race. __b__ A participant that starts in a game or race. :es: titular  
 __startling__ _adj_ :five: Causing surprise or fear; striking; astonishing.  
@@ -16015,7 +16020,7 @@ __whisper<sup>2</sup>__ _v_ :mute:[w~~h~~isper]
 __whistle-blower__ _n_ :two: One who reveals wrongdoing within an organization to the public or to those in positions of authority.  
 __whistle<sup>1</sup>__ _n_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
 __whistle<sup>2</sup>__ _adj_ :mute:[w~~h~~istle]:mute:[whis~~t~~le]  
-__whistleblower__ _n_  
+__whistleblower__ _n_ :two::hammer:  
 __Whit Sunday__  
 __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota; jot: _he has changed not a whit._ _A whit of intelligence._ _He didn’t care a whit for what others thought of him._  
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
@@ -16369,7 +16374,8 @@ __ylem__ _n_ noun: (cosmology) The original matter that (according to the big ba
 __yo-yo<sup>1</sup>__ _n_ :two: _slang_ A stupid or crazy person.  
 __yo-yo<sup>2</sup>__ _v_ :two::hammer: (yo-yoing)  
 __yo-yo<sup>3</sup>__ _adj_  
-__yoke__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
+__yoke<sup>1</sup>__ _n_ :four::hammer: (yokes) _Egg yoke._ _The yoke of taxes._  
+__yoke<sup>2</sup>__ _v_  
 __yokel__ _n_ :three: (yokels) Someone who is not very intelligent or who does not know a lot about the world, usually because they come from a small town or village.  
 __yolk__ _n_ :mute:[yo~~l~~k]  
 __yonder__  
