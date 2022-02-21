@@ -1181,7 +1181,7 @@ __beseechingly__
 __beseechment__  
 __beset__ _v_ :nine: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
 __besmeared__ _v_  
-__besmirch__ _v_ :five: (besmirched, besmirching) To stain; sully: _a reputation that was besmirched by slander._  
+__besmirch__ _v_ :six: (besmirched, besmirching) Charge falsely or with malicious intent; attack the good name and reputation of someone. To stain; sully: _a reputation that was besmirched by slander._ _Syn_ asperse, calumniate, defame, slander, denigrate, sully, smear _She denied everything the tabloids wrote about her, stating that they were only trying to besmirch her reputation._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
@@ -2089,7 +2089,7 @@ __canard__ _n_ :two: An unfounded or false, deliberately misleading story.
 __canary__ _n_ :two: From French canari (canary), from Spanish canario (canary; of the Canary Islands), from Latin canis (dog). The Canary Islands are named after an animal, but it’s not canaries. It’s dogs. The island’s name is, literally, the Island of the Dogs, from Latin Canariae Insulae, supposedly named after large dogs found there. The canary birds are native to the area and are named after the islands. The yellow sense is after the birds, the singer sense is named after their singing, and finally, the informer sense developed because an informer sings or squeals. The canary has also given us the idiom “canary in the coal mine” to refer to something that gives an early warning of a danger or failure. Due to their small size, canaries are more susceptible to carbon monoxide and other dangerous gases and were carried by coal miners in the mine shafts. __1__ A small finch, native to the Canary Islands, having greenish to yellow color, and known for its melodious song. __2__ A bright yellow color. __3__ A singer. _He enjoyed a close friendship with the MGM canary Kathryn Grayson, with whom he starred in Show Boat._ __4__ An informer. _The two high-ranking mobsters were named in a 39-count indictment in Brooklyn federal court yesterday, which made use of wiretaps and the recordings of a canary who is working with the government._ _Syn_ stool pigeon, fink, snitch  
 __candelabra__ _n_ :astonished: A branched candlestick or lamp with several lights. _Syn_ candelabrum  
 __candidate__ _n_ :mega: (kăn′dĭ-dāt′, -dĭt)  
-__candor__ _n_ :two: The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._  
+__candor__ _n_ :three: /KAN-der/ Unreserved, honest, or sincere expression. The quality of being honest and straightforward in attitude and speech. _Syn_ forthrightness, frankness, directness _While I appreciate candor, sometimes a little white lie is necessary to protect a person’s feelings._ _During the interview, the comedian spoke with candor about the nervousness she feels every time she takes the stage._  
 __candy cane__ _n_ :two: (candy canes) A stick of red and white candy with a curve at one end. _Candy canes on the Christmas tree._  
 __candy corn__ _n_  
 __cane brakes__  
@@ -6755,7 +6755,7 @@ __herringbone__ _n_ _Basketball shoes with herringbone designs._
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
-__hew__ _v_ :eight: (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
+__hew__ _v_ :nine: /HYOO/ (hewing, hewn) _literary_ To cut something with a cutting tool. _The council then tweaked its own proposal so that it would hew to the LDP version._ _Hewing firewood._  
 __hex key__ _n_ Allen key. _Hex key set._  
 __hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
 __hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
@@ -7507,6 +7507,7 @@ __inveigh__ _v_ :three: (inveighed) To protest or complain bitterly or vehementl
 __inveigle__ _v_ :four::dart: __1__ To win over by wiles. To win over by coaxing, flattery, or artful talk. _Syn_ cajole, coax, sweet-talk, wheedle _The salesman inveigled him so successfully that he paid twice the original price._ __2__ To acquire by ingenuity or flattery: _inveigled her way into a promotion._ _Syn_ wangle  
 __invest__ _v_ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __inveterate__ _adj_ :six::hammer: _Two inveterate peculators._  
+__invincible__ _adj_ /in-VIN-suh-bul/  
 __inviolate__ _adj_ Free from violation, injury, desecration, or outrage. _Syn_ intact, whole, untouched, undisturbed, unsullied, unpolluted, unstained, undefiled _The old America had only one foreign policy, and that was to hold inviolate the Monroe doctrine._  
 __invoice__ _v_  
 __invoke__  
@@ -8383,7 +8384,7 @@ __looker__ _n_ :three::hammer:
 __lookout__ _n_  
 __lookup__ _n_ :two::hammer:  
 __loony bin__ _n_ _often offensive_ _slang_ An institution for the mentally ill. _The Count’s plot to drive her straight to the loony bin._  
-__loony__ _adj_ :two::hammer:  
+__loony__ _adj_ :three::hammer: _Every family includes someone who’s a little loony._  
 __loophole__ _n_ :es: escapatoria  
 __loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
 __loose strands__  
@@ -8419,6 +8420,7 @@ __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window
 __lovacore__  
 __love bombing__ _n_ /luhv __bom__-ing/ The practice of showing a person excessive affection and attention as a way of manipulating them in a relationship. A technique used in cult recruiting, in which membership in the cult is intimately linked to love and attachment which engender complete loyalty to the cause.  
 __love-in__  
+__lovebird__ _n_ __2__ (lovebirds) _informal_ A couple who are openly affectionate or demonstrative with each other, especially in public.  
 __lovelorn__ _adj_ Sad because of an unrequited love.  
 __low and slow__ _n_ Low and slow is a term used when discussing food cooked over a fairly long period of time at a low temperature, often used in grilling or barbecuing that involves smoking meat.  
 __Low Countries__ _n_ :three::hammer:  
@@ -9029,7 +9031,7 @@ __mole grip__ _n_ :camera: Locking pliers.
 __mole wrench__ _n_ :camera: Locking pliers.  
 __mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
-__mollify__ _v_ :seven::hammer: (mollified)  
+__mollify__ _v_ :eight: (mollified) To calm in temper or feeling; soothe. _Syn_ appease, assuage, conciliate, pacify, placate _She was so outraged that nothing her friends said could mollify her anger._  
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
@@ -9291,7 +9293,7 @@ __narrowly__ _adv_ _I narrowly escaped execution._
 __nary__ _adj_ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
-__nascent__ _adj_ :three::hammer: _The nascent market._  
+__nascent__ _adj_ :four: Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __National Guard__  
@@ -9453,7 +9455,7 @@ __non-perishables__
 __noncall__ _n_ (sports) A failure to make a call, such as by a referee. _He complained about noncalls._  
 __nonce__ _n_ :two: The present or particular occasion. _Syn_ time being _Her tendency to discover a touch of sadness had for the nonce disappeared._  
 __nonchalance__ _n_  
-__nonchalant__ _adj_ :eight: Behaving calmly and not seeming interested in anything or worried about anything.  
+__nonchalant__ _adj_ :nine: /nahn-shuh-LAHNT/ Behaving calmly and not seeming interested in anything or worried about anything. Having an air of easy unconcern or indifference. _The most experienced public speakers are able to address audiences with a nonchalant ease._  
 __nonchalantly__ _adv_ :six: In a casual way that shows a relaxed lack of concern or interest. _Pete shrugged nonchalantly._  
 __noncommissioned__ _adj_ (of military officers) Appointed from enlisted personnel.  
 __noncommittal__ _adj_ :four: Not involving or revealing commitment to any particular opinion or course of action: _a noncommittal reply._  
@@ -11619,6 +11621,7 @@ __redeem__ _v_ :two::hammer: _This coupon has no cash value and may not be tedee
 __Redeemer__ _n_  
 __redemption__ _n_ :two::hammer: (redemptions)  
 __redline__ _v_  
+__redlining__ _n_  
 __redo__ _v_ :two::hammer:  
 __redolence__ _n_ A pleasingly sweet olfactory property. _Syn_ bouquet, fragrance _The moonlight and the redolence of flowers made the garden a romantic spot._  
 __redolent__ _adj_ :seven::hammer: _His ceremony was redolent with tension._  
@@ -11822,6 +11825,7 @@ __retirement__
 __retooled__ _v_ :three::hammer:  
 __retort__ _v_ (retorted)  
 __retracement__  
+__retract__ _v_  
 __retractable__ _adj_ _Retractable bed._  
 __retrain__ _v_  
 __retread__ _v_ To make or do over again, especially with minimal revision; rehash. _Syn_ make over, rework  
