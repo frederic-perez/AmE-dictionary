@@ -427,11 +427,11 @@ __anachronism__
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analyst__ _n_ :pencil2:  
-__anastomosis__ _n_  
+__anastomosis__ _n_ :two: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
 __anchovies__  
-__ancillary<sup>1</sup>__ _adj_ :five::mega::hammer: _Ancillary study end points._  
+__ancillary<sup>1</sup>__ _adj_ :six::mega::hammer: _Ancillary study end points._  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
@@ -1031,6 +1031,7 @@ __bays__ _n_
 __bazillion__  
 __beach__ _v_  
 __beachhead__ _n_ :four::hammer:  
+__bead__ _n_ __4__ :astonished: (Firearms, Gunnery, Ordnance & Artillery) A small metallic knob acting as the sight of a firearm.  
 __beadledom__ _n_ A gratuitous or officious display or exercise of authority, as by petty officials.  
 __beady__  
 __beam<sup>1</sup>__ _n_ _A wooden beam._  
@@ -1152,7 +1153,7 @@ __bemused__ _adj_ :two: Preoccupied; lost in thought.
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _n_ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
-__bender__ _n_ :two::hammer: _His mother was on a bender._ _You can die on a bender._  
+__bender__ _n_ :three: __2__ _slang_ A spree, especially a drinking spree. _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
 __beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
@@ -1243,6 +1244,7 @@ __bigness__ _n_ __1__ The characteristic of being big. __2__ Size.
 __bigot__ _n_ /ˈbɪɡət/ A person who is intolerant towards those holding different opinions. _He was the founder of the party and widely viewed as a bigot._ :es: intolerante  
 __bigotry__  
 __bijou__ _n_ __1__ A small dainty usually ornamental piece of delicate workmanship. A small, exquisitely wrought trinket. __2__ Something delicate, elegant, or highly prized.  
+__bike__ _v intr_ To ride a bike.  
 __bikeshed<sup>1</sup>__ _n_  
 __bikeshed<sup>2</sup>__ _v_  
 __bikeshedding__ _n_ :dart:  
@@ -3698,6 +3700,7 @@ __delicate__ _adj_
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
+__delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
 __deliver__ _v_ :five::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
 __deliverance__ _n_ :five::hammer: _Hope and deliverance._  
@@ -3751,12 +3754,13 @@ __deposition__ _n_ :three::hammer:
 __depraved__ _adj_  
 __depravity__  
 __depress__ _v_ _Depressing a company’s value._  
-__depressed__ _adj_ _Depressed wages._  
+__depressed__ _adj_ :two: __4__ Lowered in force, amount, etc. _Severely depressed systolic function._ _Depressed wages._  
 __deprived__ _adj_ _A very deprived area._  
 __depute__ _v_ Transfer power to someone. _Syn_ delegate  
 __derail__ _v_  
 __derange__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
+__derangement__ _n_  
 __derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__ _n_ :two::hammer:  
@@ -8128,7 +8132,7 @@ __leggings__ _n pl_ (plurale tantum)
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _slang_ :four: Legitimate.  
 __legwork__ _n_  
-__lei__ _n_ :two; (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
+__lei__ _n_ :two: (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
 __leisurely<sup>1</sup>__ _adj_  
 __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
@@ -12750,6 +12754,7 @@ __shiner__ _n_ _He answered the door with a shiner on one eye from a wrestling m
 __shingle__ _n_ :seven::hammer: (shingles) :es: herpes zóster  
 __shinny__ _v_ Climb awkwardly, as if by scrambling. _Syn_ skin, clamber, scramble, sputter, struggle _I had to shinny up the tree to rescue my stranded cat._  
 __shipborne__ _adj_ _Airborne and shipborne measured platforms._  
+__shipping__ _n_ :astonished: __1a__ The business of transporting freight, esp by ship. __b__ (as modifier): _a shipping magnate; shipping line._ __2a__ :astonished: Ships collectively: _there is a lot of shipping in the Channel._ __b__ The tonnage of a number of ships: _shipping for this year exceeded that of last._  
 __shipshape__ _adj_ :two: Of places; characterized by order and neatness; free from disorder. _Syn_ trim, well-kept _Toys were strewn everywhere in the playroom, but we worked together to clean it up and soon had the place shipshape._  
 __shipyard__ _n_ :two::hammer: :es: astillero  
 __shirk<sup>1</sup>__ _n_  
@@ -14571,6 +14576,7 @@ __testy__
 __tether<sup>1</sup>__ _n_ _Soft bite chewy tether._  
 __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.  
 __tethering ring__ _n_  
+__tetromino__ _n_  
 __Texas Panhandle__  
 __texcetera__  
 __textrovert__  
