@@ -120,7 +120,7 @@ __adult in the room__ _n idiom_ A person who makes calculated, rational decision
 __advanced in years__ Of an older age.  
 __against oll odds__ Even though something seems completely impossible.  
 __against the clock__ :two: Rushed and short on time.  
-__ahead of the curve__ :three:  
+__ahead of the curve__ :four:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __alive and kicking__  
@@ -134,7 +134,7 @@ __all over the place<sup>1</sup>__ _adj_ Inconsistent; lacking a clear pattern; 
 __all over the place<sup>2</sup>__ _adv_ __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
-__all that jazz__ :two: All that stuff; all that nonsense.  
+__all that jazz__ :three: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __amateur hour__  
@@ -190,6 +190,7 @@ __at one time__ _At one time, Ms. Hardy could see the beach from her window._
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
+__at the end of the day__  
 __at the ready__ Available for immediate use. _Soldiers with machine guns at the ready._ _Students with notebooks at the ready._  
 __at times__ On occasion; sometimes. _There was an incredible amount of stress at times._  
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
@@ -297,6 +298,7 @@ __beat the clock__ :two: To finish something before the time is up.
 __beat the shit out of (someone)__ _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ To try to do something that is hopeless.  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
+__been there, done that__  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __beg the question__ :two::hammer: _All of this begs the question of Gallego’s own voting record._  
 __beg to differ__ :dart: To politely disagree with someone else, as in _John told me Max was sure to win, but I beg to differ—I don’t think he has a chance._ This courteous formula for expressing disagreement echoes similar uses of beg in the sense of “ask,” such as I beg your pardon, so used since about 1600.  
@@ -1166,6 +1168,7 @@ __in the wake of (something)__ __1__ In the aftermath of something, often as a c
 __in the wild__ In naturally occurring conditions or environments.  
 __in the wind__  
 __in the works__ In progress; being completed or implemented. _We’ve got a couple life tapings in the works._  
+__in this day and age__  
 __in tow__ :five: __1__ In a condition of being towed: _a car with a trailer in tow._ __2__ Under close guidance; in one’s charge: _The new student was taken in tow by a peer counselor._ __3__ As a companion or follower: _came to dinner with a friend in tow._ _The senator arrived to the press conference with her aides in tow._  
 __in virtue of (something)__ Due to something; because of something; by reason of something.  
 __in your birthday suit__ Naked.  
@@ -1441,6 +1444,7 @@ __make as though__ To behave as if; to pretend or make it appear that. _Samantha
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
+__make great strides__  
 __make ground__ To become more successful, popular, important, or accepted. _No one thought our fast food chain would do well in a country like India, but we’ve started making ground!_  
 __make heavy going of (something)__ To make something harder or more laborious to do, especially more than is usual or necessary. _The Irish rugby squad made heavy going of what should have been a relatively easy win._  
 __make light of__ _Squires and servants made light of him._  
@@ -1829,6 +1833,7 @@ __saved by the bell__ Saved or spared from difficulty or misfortune by some inte
 __Says who?__  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
+__scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
 __scrounge up__ _To scrounge up the funds._  
 __second best__ (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
@@ -1883,6 +1888,7 @@ __silver lining__ The potential for something positive or beneficial to result f
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
 __sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
+__sit on it__ An exclamation of frustration directed at another person. Popularized by the TV show _Happy Days_. _If he thinks he can call at this hour of the night, he can sit on it!_ _Sit on it, Joe—I’m not helping you with this!_  
 __sit on__ (sit on it) To take no action on. _I sent the boss my proposal three weeks ago and he’s been just sitting on it._  
 __sitting on the fence__  
 __sitting pretty__ :three: Living in comfort.  
@@ -1971,6 +1977,7 @@ __take it away__ _informal_ Start up the performance!; Let the show begin! (Typi
 __take it to the bank__  
 __take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
 __take over__ Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
+__take pains__  
 __take someone for granted__ To not show that you are grateful to someone for helping you.  
 __take the cake__ __1__ To be the worst in a series of negative actions. Primarily heard in US. _The one importantly stupid example that teally takes the cake._ _When I found out he had been reading through my text messages, well, that took the cake._ __2__ To be the best or the most outstanding. Primarily heard in US. _You’ve done some nice murals, but this one takes the cake!_  
 __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incriminate oneself, as in _He took the Fifth on so many of the prosecutor’s questions that we’re sure he’s guilty._  
@@ -2071,7 +2078,7 @@ __tighten the purse strings__ To become less liberal with or more controlling of
 __tighten your belt__ To spend less money.  
 __time and (time) again__ :four::dart: Repeatedly; on multiple occasions. _Why do you continue to trust John when he has lied to you time and again?_  
 __time and again__ :two: Again and again; repeatedly.  
-__time flies__ _Time flies when you’re having fun._  
+__time flies__ :two::hammer: _Time flies when you’re having fun._  
 __tip off__ :three: (tip-off) To secretly inform the police or authorities.  
 __tit for tat__ :five: Describing an act of retaliation. The phrase is most likely an alteration of the Dutch phrase “tip for tap,” which means “blow for blow.” Note: Tit for tat is also used before nouns. _A tit for tat dispute has led to the virtual closure of the border between the two countries._ _She’s mad at me, so she refuses to help me plan this event—typical tit for tat._  
 __to (one’s) heart’s desire__ As much as or to the point that one wants; to the point of contentment, satiety, or surfeit. _I’ve made plenty of food for everyone, so please eat to your heart’s desire._  
@@ -2085,7 +2092,7 @@ __to let (one’s) guard down__ To stop being cautious; to relax and stop being 
 __to see red__ Very angry.  
 __to some extent__  
 __to that end__ :four::hammer: (to that end,)  
-__to this day__ :four::hammer: _I don’t know if they still do it to this day._  
+__to this day__ :five::hammer: _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
