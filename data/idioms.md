@@ -149,7 +149,7 @@ __anonymous tip__ Information about something (typically criminal or illegal act
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
 __anything goes__ :two::hammer:  
-__apple of (one’s) eye__  
+__apple of (one’s) eye__ :two::hammer:  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
 __arm in arm__ _They were arm in arm, singing with the band._  
 __armchair expert__  
@@ -279,6 +279,8 @@ __be on a rampage__ To be causing great destruction, disruption, or chaos; to be
 __be on the lookout__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
+__be put in (one’s) place__ To be humbled or have one’s dignity lowered (by someone); to be made aware that one is not as important, respected, influential, etc., as one thinks. _John was really put in his place by the teacher, who scolded him so harshly that he burst into tears._  
+__be put out of business__ To be caused or forced to cease carrying on commercial trading or transactions. _Our bookstore has been a part of the neighborhood for nearly 50 years, but we’re being put out of business by these new electronic books that you can download._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
@@ -1463,6 +1465,7 @@ __marry (someone) for (his or her) money__ To marry someone solely or primarily 
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself. _A: “I hear that the local fishmonger’s daughter is betrothed to a rich foreign lawyer!” B: “My word, she’s certainly marrying above her station, isn’t she?”_  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
 __marry into money__ To become wealthy or financially secure by marrying someone who is wealthy or has a wealthy family. _Ever since he married into money, George has been flaunting all of the exotic vacations he and his new wife take._  
+__match made in heaven__ A very happy marriage or partnership. _When Kelly and Julie partnered up and opened their restaurant, it was a match made in heaven._ _Cindy and Mark look so happy together. That’s a match made in heaven._  
 __me three__ _humorous_ An expression of concurrence, agreement, or willingness to participate in addition to others. Said after someone has said “me too” (i.e., “me as well”), thus creating a pun of “too” and “two.” _Dan: “I’m going with you, Steve.” Greg: “Me too!” John: “Me three!”_  
 __meant to be__ _It was meant to be made in heaven._  
 __measure the drapes__ To begin planning or preparing to replace someone in a job or position before one has actually secured the role, especially during a political election. _The senator has been criticized for measuring the drapes in the Oval Office with a month still to go before the votes will be tallied._  
@@ -1749,16 +1752,20 @@ __pull something off__ :dart: __1__ To manage to make something happen. _Yes, I 
 __pull teeth__ __1__ To do something that is especially difficult, tedious, or requires an extreme amount of effort; to do something in the most difficult or unpleasant way possible. _I’ve been pulling teeth trying to get my family members organized for this get together, but I think it will all be worth it!_ __2__ To make someone or something less powerful, potent, or effective. A noun or pronoun is used between “pull” and “teeth.” _Corporate lobbyists are trying to pull the new law’s teeth to give them greater leeway in the market._  
 __pull your socks up__ To improve your work or behaviour.  
 __punch the (time) clock__ __1__ (of an employee) Clock in or out. __2__ Be employed in a conventional job with regular hours.  
+__puppy love__  
 __push the envelope__ To expand on, exceed, or test the limits of the established norm or standard. _It’s a natural stage for most teenagers to push the envelope of their parents’ rules._  
 __push<sup>1</sup>__ To hype something or someone; to pressure something or someone. _The clerk was pushing one brand so hard that I finally bought it._  
 __pushing up (the) daisies__ Dead and buried. (Usually in the future tense.) _I’ll be pushing up daisies before this problem is solved._ _If you talk to me like that again, you’ll be pushing up the daisies._  
 __pushing up the daisies__ Dead and buried.  
+__put (one’s) back up__ [:scroll: This idiom refers to the way cats arch their backs when they are angry.] To be or become angry, hostile, defensive, defiant, or irritable, or to instill such a feeling in someone else. _John put his back up when his parents brought up the subject of college._ _Election season always puts my dad’s back up._  
 __put (one’s) foot in (one’s) mouth__ :two: To unintentionally say something foolish, tactless, or offensive.  
+__put (one’s) hands together (for someone or something)__ To applaud (someone or something); to clap (for someone or something). _Ladies and gentlemen, please put your hands together for our next comedian this evening!_  
 __put (one’s) money where (one’s) mouth is__ :two::hammer:  
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) to bed__ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (something) on the back burner__ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
 __put a gun to (someone’s) head__ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
+__put it there__ :astonished: Shake my hand. As in greeting or in agreement to a deal. _A: “50 dollars is my final offer for the computer.” B: “I wish I could get more for it, but you win. Put it there!”_ _Hey, John, put it there! I haven’t seen you in a donkey’s age!_  
 __put off by someone or something__ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put our heads together__ To discuss or plan something together with other people.  
 __put out__ :two::hammer: _Put out the fires._  
@@ -1783,6 +1790,7 @@ __religious intolerance__ Intolerance of another’s religious beliefs or practi
 __rest my case__ :two::hammer: _I rest my case._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
+__ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __right on__ _The description of the bomb was right on._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
@@ -2057,7 +2065,7 @@ __thumb (one’s) nose at (someone or something)__ Express scorn or ridicule. Th
 __tide someone over (until something)__ To supply someone until a certain time or until something happens. _Will this amount tide us over until next week?_ _There is enough food here to tide over the entire camp until next month._ _Yes, this will tide us over._  
 __tie (one) down__ To constrain, restrict, impede, or limit one’s ability to do something or go somewhere. _I would love to try something different, but my career has really tied me down. I just don’t think my experience applies to any other profession._  
 __tie the can__ _It ain’t every day that you tie the can to a Congressman._  
-__tie the knot__  
+__tie the knot__ :two::hammer:  
 __tight as a drum__ Taut or close-fitting; also, watertight.  
 __tighten the purse strings__ To become less liberal with or more controlling of one’ expenditures; to decrease the availability of money for spending purposes. _After losing my job, I’ve had to tighten the purse strings quite a bit._  
 __tighten your belt__ To spend less money.  
