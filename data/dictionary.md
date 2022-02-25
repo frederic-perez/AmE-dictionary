@@ -4582,7 +4582,7 @@ __emasculated__ _adj_ (of a male animal) Having the testicles removed.
 __embankment__  
 __embargo__ _n_  
 __embark__ _v_ _They embark on a motorcade._  
-__embarrass__ _v_ :pencil2:  
+__embarrass__ _v_ :two::pencil2: /im-BAIR-us/ To cause to experience a state of self-conscious distress. _No one wants to embarrass themselves with spinach stuck in their teeth during a work luncheon—but it happens._  
 __embattle__ _v_ :four::hammer: (embattled)  
 __embellish__ _v_ /im-BELL-ish/  
 __ember__ _n_ :four: (embers) A small piece of burning or glowing coal or wood in a dying fire. _The embers that burn within your soul._  
@@ -7965,7 +7965,7 @@ __ladybird__ _n_
 __ladyfinger cookies__  
 __lag__ _v_ :three::hammer: (lags)  
 __laggard<sup>1</sup>__ _adj_ :four::hammer:  
-__laggard<sup>2</sup>__ _n_ :two::hammer:  
+__laggard<sup>2</sup>__ _n_ :three: Someone who takes more time than necessary; someone who lags behind. _Syn_ dawdler, trailer, poke _He was such a laggard that his friends were already paying the bill by the time he reached the café._  
 __lagged__  
 __lagoon__ _n_ _The Venetian lagoon._  
 __lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
@@ -7999,6 +7999,7 @@ __landlubber__ _n_ A person unfamiliar with the sea or seamanship.
 __landmark__ _adj_ _A landmark case in 1983._  
 __landscape__ _n_ _Landscape gardening._  
 __landslide__ _n_ :nine::m: __1a__ The downward sliding of a relatively dry mass of earth and rock. __b__ The mass that slides. Also called landslip. __2a__ A percentage of votes greatly exceeding the required margin of victory. _Kasich scored a landslide victory in a swing state._ __b__ An election that sweeps a party or candidate into office. __3__ A great victory. _I will win the game by a near landslide._  
+__languid__ _adj_ Lacking energy or vitality; weak. _Syn_ lackadaisical, languorous _He gave a languid wave of the hand to signify his indifference._  
 __languish__ _v_ :four: (languishing) To suffer deprivation, hardship, or neglect. _Syn_ decline, waste away, fade away, flag, weaken, wilt _He languished in prison for nearly two decades before he was exonerated._  
 __languor__ _n_ A dreamy, lazy mood or quality. _Syn_ dreaminess _His eyes gathered in and reflected the light and languor of the summer day._  
 __languorous__ _adj_ Lacking spirit or liveliness. _Syn_ lackadaisical, languid, dreamy  
@@ -8724,7 +8725,7 @@ __matter-of-factly__
 __mattock__ _n_ :three: A kind of pick that is used for digging; has a flat blade set at right angles to the handle.  
 __maturations__  
 __maturity__ _n_ (maturities) _List of maturities._  
-__maudlin__ _adj_ :four: Foolishly tearful or sentimental, as when drunk.  
+__maudlin__ _adj_ :five: Foolishly tearful or sentimental, as when drunk. Effusively or tearfully sentimental. _Syn_ bathetic, mawkish, schmaltzy, mushy _When the farewells were in danger of becoming maudlin, he judged that it was time to leave._  
 __maul__ _v_ :three::hammer: (mauled, mauling) _The Broncos can be a mauling group._  
 __Maundy Thursday__  
 __maven__ _n_ :three::hammer:  
@@ -9332,7 +9333,7 @@ __neediness__ _n_ The state of being needy; poverty.
 __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her family._  
 __needless to say,__  
 __needlestick__ _n_ :pencil2:  
-__needy__  
+__needy__ _adj_ :two::hammer:  
 __nefarious__ _adj_ :seven: Evil; wicked; sinful. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._  
 __neglected__ _adj_ _I don’t feel neglected._  
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
@@ -10056,6 +10057,7 @@ __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, 
 __papier-mache<sup>2</sup>__ _adj_ :astonished: __1__ Fragile; temporary; false; illusory. __2__ Made of papier-mache.  
 __pappy__  
 __paprika__ _n_  
+__parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on moral attitude, a standard of conduct, or a religious principle. _The priest opened his homily by relating the parable of the Good Samaritan from the Gospel of Luke._  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
 __paradigm__ _n_ :two::mute:[paradi~~g~~m]:hammer:  
@@ -10536,6 +10538,7 @@ __pique<sup>1</sup>__ _n_ :three: An annoyed feeling that you show when you thin
 __pique<sup>2</sup>__ _v_ :nine::pencil2: (piques, piqued) __1__ To cause to feel resentment or indignation. __2__ To provoke; arouse: The portrait piqued her curiosity. _A great story had not only to pique the imagination, it had to touch the heart._ _Focusing his energy on whatever piques his curiosity._ __3__ To pride (oneself): _He piqued himself on his stylish attire._  
 __pirogue__ _n_ :two::hammer:  
 __pirouette__ _n_ :astonished: A full turn of the body on the point of the toe or the ball of the foot in ballet.  
+__Pisces__ _n_ /ˈpaɪsiːz; ˈpɪ-/  
 __piscine__ _adj_ :astonished: Of, relating to, or characteristic of a fish or fishes.  
 __pissed__ _adj_  
 __pisspot__ _n_ :two: A person who drinks a lot of alcohol very often.  
@@ -12335,7 +12338,7 @@ __scarper__ _n_ A hasty departure.
 __scathe__ _v_ (scathing) __1__ To attack with severe criticism. __2__ To injure, as by scorching.  
 __scatheless__ _adj_ _A remarkably scatheless record._  
 __scathing__ _adj_ :nine::m: Bitterly severe. _His scathing indictment of Congress._ :es: mordaz; feroz  
-__scatterbrained__ _adj_ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
+__scatterbrained__ _adj_ :two: /ˈskætəˌbreɪnd/ Exhibiting or characterized by lack of serious thought or concentration; disorganized; silly.  
 __scattergood__ _n_ :three: Someone who spends money prodigally. _Syn_ spendthrift _I prefer to think of myself not as a scattergood but as a collector of rare designer shoes and handbags._  
 __scattershot__ _adj_ :two::hammer:  
 __scenario__ _n_ :mute:[s~~c~~enario]  
@@ -15521,7 +15524,7 @@ __utilitarian__
 __utility room__  
 __utility<sup>1</sup>__ _n_ :two: __1__ The quality of being of practical use. __2__ :three: A facility composed of one or more pieces of equipment connected to or part of a structure and designed to provide a service such as heat or electricity or water or sewage disposal. _Utility bill._ _Utility companies._  
 __utility<sup>2</sup>__ _adj_ _A pair of utility classes._  
-__utmost<sup>1</<sup>__ _adj_ :six:hammer:  
+__utmost<sup>1</<sup>__ _adj_ :seven::mega: /UT-mohst/ __1__ Of the greatest or highest degree, quantity, number, or amount. _The safety of employees is of utmost importance._ _Olympians push themselves to the utmost limit when training._ __2__ Situated at the farthest or most distant point.  
 __utmost<sup>2</<sup>__ _n_  
 __utterance__  
 __utterly__ _adv_ :seven::hammer: _An utterly trivial dispute._  
@@ -15535,7 +15538,7 @@ __vacate__ _v_
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
-__vacillate__ _v_ To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
+__vacillate__ _v intr_ :two: To swing indecisively from one course of action or opinion to another. _Syn_ hover, oscillate, vibrate _I vacillated about what to say for so long that the man on the phone asked if I was still there._  
 __vacuous__ _adj_ Devoid of intelligence. _Syn_ asinine, fatuous, inane, mindless _The interviewer could tell by the candidate’s vacuous comments that he was not qualified for the position._  
 __vacuum__ _n_ :three::pencil2::hammer: _Upright/Canister vacuum._ :camera:  
 __vagabond__ _n_  
