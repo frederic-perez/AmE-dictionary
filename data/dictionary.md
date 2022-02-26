@@ -95,7 +95,7 @@ __accidental__ _adj, n_ _Ottolenghi is an accidental chef._
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaimed__  
 __accolade__ _n_ :eight: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
-__accommodate__ _v_ :two::pencil2::hammer:  
+__accommodate__ _v_ :three::pencil2::hammer:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompanist__  
 __accompany__ _v_  
@@ -2636,7 +2636,7 @@ __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get s
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __cleaver__ _n_ :four::hammer: _A butcher’s cleaver._ _Meat cleaver._  
 __cleft__  
-__clemency__  
+__clemency__ _n_ :two: A disposition to show mercy, especially toward an offender or enemy. _Syn_ mercy _He was willing to show clemency, promising not to report the theft if his property was returned._  
 __clement__ _adj_  
 __clench__ _n_ :two::hammer:  
 __clenched__ _adj_ :two: Closed tightly together. _Clenched fists._  
@@ -7480,6 +7480,7 @@ __intermittent__
 __intern__  
 __international friendly__  
 __internecine__ _adj_  
+__internment__ _n_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interrelate__ _v_ :two::astonished::hammer:  
@@ -8133,7 +8134,7 @@ __leggings__ _n pl_ (plurale tantum)
 __legion__ _adj_ Very great in number: _The holy man’s followers were legion._ _The reasons you can’t sleep well inflight are legion._  
 __legit__ _adj_ _slang_ :four: Legitimate.  
 __legwork__ _n_  
-__lei__ _n_ :two: (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. _Scented leis._  
+__lei__ _n_ :three: /lay, LAY-ee/ [:scroll: From Hawaiian lei.] (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. A garland, typically made of flowers, or leaves, shells, nuts, feathers, etc. _Scented leis._  
 __leisurely<sup>1</sup>__ _adj_  
 __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
@@ -8679,6 +8680,7 @@ __marshmallow__ _n_ :three::four: Althaea officinalis. The word “marshmallow�
 __marshy__  
 __mart__ _n_ A place of trade, eg. an auction room or market.  
 __martial artist__  
+__martial law__ _n_  
 __martinet__ _n_ Someone who demands exact conformity to rules and forms. _Syn_ disciplinarian, moralist _Any deviation from the classroom rules was met with a swift rebuke from our teacher, a real martinet._  
 __martyr<sup>1</sup>__ _n_ :two::pencil2::hammer:  
 __martyr<sup>2</sup>__ _v_ :two::pencil2::hammer:  
@@ -9497,7 +9499,7 @@ __nosebleed__ _n_ :two::hammer: (nosebleeds)
 __nosological__ _adj_  
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__ _n_ :two::hammer:  
-__nostrum__ _n_ :three::astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
+__nostrum__ _n_ :four:astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. Hypothetical remedy for all ills or diseases. _Syn_ cure-all, panacea, catholicon _Stay healthy, for science is no closer to a nostrum than alchemy was._ _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
 __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
@@ -9670,7 +9672,7 @@ __Ole Miss__
 __oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way that is intended to bring some advantage to yourself. If you describe someone as unctuous, you are critical of them because they seem to be full of praise, kindness, or interest, but are obviously insincere. _Syn_ fulsome (formal), oily, smarmy (informal disapproving), unctuous (formal disapproving) _Oleaginous flattery._ __2__ Of or relating to oil.  
 __olefin__ _n_  
 __olericulture__ _n_ The cultivation of vegetables for the home or market.  
-__oligarch__ _n_ :two::hammer:  
+__oligarch__ _n_ :three: One of the rulers in an oligarchy.  
 __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
@@ -11224,6 +11226,7 @@ __punting__ _v_
 __puny__ _adj_ _A puny garden snail._  
 __pupil__ _n_  
 __pupillary__ _adj_ _Pupillary distance._  
+__puppet government__ _n_ A government that is appointed by and whose affairs are directed by an outside authority that may impose hardships on those governed.  
 __puppy love__ _n_ _slang_ Adolescent love or infatuation. Immature love between young people or children.  
 __puppy play__  
 __puppy__  
@@ -15008,6 +15011,7 @@ __translucent__ _adj_
 __transmogrify__ _v_ Change completely the nature or appearance of. _Syn_ metamorphose, transfigure _In Franz Kafka’s story_ The Metamorphosis _, a human being transmogrifies into a bug._  
 __transom__ _n_ :two::hammer:  
 __transparent__ _adj_ :mega:  
+__transpire__ _v_ /tran-SPYRE/ __1__ To happen. _The police are still trying to determine what transpired on the night of the accident._ __2__ To become known. _After the business magnate was arrested for financial-related crimes, it transpired that he has been in insurmountable debt for years._  
 __transport__ _n_ :two: _Three attack transports._ _What’s that? A transport? I’m saved!_  
 __transpose__ _v_ _Someone might have transposed digits._  
 __transseptal__ _adj_ :pencil2: Extending or performed through or across a septum.  
@@ -16004,7 +16008,7 @@ __whereabouts__
 __whereas__  
 __whereby__  
 __wherefore__ _adv_  
-__wherewithal__ _n_ :four::hammer:  
+__wherewithal__ _n_ :five: /WAIR-wih-thawl/ Wherewithal refers to the means, resources, or money that is needed to get or do something. _News reports suggest that the company does not have the wherewithal from investors to prevent a buyout._  
 __whet__ _v_ :nine::m: (whetted, whetting) __1__ To sharpen (a knife, for example); hone. _The keenest whetted blades._ __2__ To make more keen; stimulate. _Syn_ quicken, pique _The frying bacon whetted my appetite._ _Whetting the appetite for next year’s Part 2._  
 __whether__ _conj_ :mute:[w~~h~~ether]  
 __whetstone__  
