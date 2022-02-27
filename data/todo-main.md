@@ -1,18 +1,3 @@
-__illusory__ _adj_ _Illusory boundaries._  
-__aloft__ _adv_ _Simply believing we can fly won’t set us aloft._  
-__bearing__ _n_ _The video game should have had absolutely no bearing on his behavior in the real world._  
-__larceny__ _n_  
-__waking hours__  
-__afterimage__ _n_  
-__underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
-__tone-deaf__ _adj_  
-__audit__ _n_ _A tax audit._  
-__strength__ _n_ _They noticed the strengths of their team members._  
-__susceptible__ _adj_  
-__sheepishly__  
-__maladaptive__ _adj_ :two::hammer: _The Tetris Effect need not be maladaptive._  
-__noxious__ _adj_  
-__chain letter__ _n_  
 __waver__ _v_  
 __curmudgeon__  
 __paper-pusher__ _n_ _informal_ __1__ A person who has a routine desk job. _A typical paper-pushing office._ __2__ Bureaucrat.  

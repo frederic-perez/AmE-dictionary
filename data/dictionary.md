@@ -234,6 +234,7 @@ __after-dark__ _adj_ Occurring in the hours after nightfall—always used before
 __afterburner__ _n_  
 __aftereffects__  
 __afterglow__  
+__afterimage__ _n_ A visual image that persists after the visual stimulus causing it has ceased to act. _Syn_ photogene  
 __aftermarket__  
 __aftermath__ _n_  
 __afters__ _n informal_ :two: Dessert.  
@@ -358,7 +359,7 @@ __almond__ _adj, n_ :mute:[a~~l~~mond]
 __almoner__ _n_ :es: limosnero  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
-__aloft__ _adv_ :four::hammer: _Dwyane Wade raised three fingers aloft._  
+__aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
@@ -757,7 +758,7 @@ __auction off__ _phr v_ To sell something in an auction.
 __audacious__ _adj_ :two::hammer: _In size it was the most audacious._  
 __audacity__ _n_ :two: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __audible__ _v_  
-__audit__  
+__audit__ _n_ :two::hammer: _A tax audit._  
 __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotten. __2__ Difficult and unpleasant: _an Augean chore._  
 __augur__ _v_  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
@@ -1045,7 +1046,7 @@ __beanpole__
 __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
-__bearing__ _n_ :five::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._  
+__bearing__ _n_ :six::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
 __beaters__ _n_ _He watched his beaters pull the dead panther off the huge young man._  
 __beatific__ _adj_ Marked by utter benignity; resembling or befitting an angel or saint.  
@@ -2327,6 +2328,7 @@ __chafe<sup>2</sup>__ _n_
 __chafer__ _n_  
 __chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
 __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
+__chain letter__ _n_  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
 __chain smoker__  
 __chaise__  
@@ -7178,6 +7180,7 @@ __ill-fated__ _adj_
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__  
+__illusory__ _adj_ _Illusory boundaries._  
 __illustrious__ _adj_ :five::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
@@ -8020,7 +8023,7 @@ __lapse<sup>1</sup>__ _v_
 __lapse<sup>2</sup>__ _n_  
 __Laputan__ _adj_ Absurdly fanciful or impractical.  
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
-__larceny__ _n_ :seven: Theft of personal property. :es: hurto  
+__larceny__ _n_ :eight: Theft of personal property. :es: hurto  
 __larder__ _n_ :four::hammer:  
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
@@ -8565,7 +8568,7 @@ __makeover__ _n_ :two::hammer: _LinkedIn profile makeover._
 __makeshift__ _adj_ :eight: Being a crude and temporary expedient.  
 __makeup__ _n_ :two: __2__ An event that is substituted for a previously cancelled event. _The two teams played a makeup one week later._ _Today’s game has been postponed; no makeup date has been snnounced._ _A makeup game._  
 __maki__ _n_  
-__maladaptive__ _adj_ Showing faulty adaptation.  
+__maladaptive__ _adj_ :three: Showing faulty adaptation. _The Tetris Effect need not be maladaptive._  
 __malady__ _n_ :two: A disease, a disorder, or an ailment. _Syn_ illness, sickness _He was stricken with a crippling malady._  
 __malaise__ _n_ :five: __1__ A vague feeling of bodily discomfort, as at the beginning of an illness. __2__ A general sense of depression or unease. _“The markets remain mired in a deep malaise” (New York Times)_ _Postcolonial malaise._ _The general economic malaise._  
 __malapropism__ _n_ :four::dart: __1__ Ludicrous misuse of a word, especially by confusion with one of similar sound. __2__ An example of such misuse. _“Jesus healing those leopards” is an example of malapropism._  
@@ -9518,7 +9521,7 @@ __novelty__ _adj_ A small decorative or amusing article, usu. mass-produced. _Bu
 __nowadays__  
 __nowcast__  
 __nowcasting__ _adj_ :five::hammer: _Nowcasting system._ _Nowcasting applications._  
-__noxious__  
+__noxious__ _adj_ :two::hammer:  
 __nozzle__ _n_ :two::hammer:  
 __nth__ _adj_  
 __nuance<sup>1</sup>__ _n_ :dart::four: (nuances) A subtle difference in or shade of meaning, expression, or sound. _The nuances of facial expression and body language._ _Syn_ fine distinction, subtle difference :es: matiz  
@@ -12713,6 +12716,7 @@ __sheelling__
 __sheen__ _n_ :two::hammer: _The sheen on his hair when he removed his hat._  
 __sheep__ _n_ :three: Plural: sheep. _She killed 38 sheep in a hit-and-run accident._  
 __sheepfold__ _n_ (Agriculture) A pen or enclosure for sheep.  
+__sheepishly__  
 __sheer fabric__ _n_ :two::hammer:  
 __sheer yoga pants__ _n_ :camera: Semi see-through yoga pants.  
 __sheer<sup>1</sup>__ _adj_ :nine::m: __1__ Used for emphasizing the amount or degree of something. _The sheer magnitude of threats._ _Sheer size._ _The sheer scale of the operations surprised many._ __2__ Thin, fine, and translucent: _sheer curtains; sheer chiffon._ __3a__ Completely such, without qualification or exception: _sheer stupidity; sheer happiness._ _Sheer brazenness._ __b__ Free from admixture or adulterants; unmixed: _sheer alcohol._ __c__ Considered or operating apart from anything else: _got the job through sheer persistence._ __4__ Almost perpendicular; steep: _sheer rock cliffs._ _Syn_ steep  
@@ -14002,6 +14006,7 @@ __streamline__ _v_ :six::hammer: (streamlined, streamlining) _Streamlining regul
 __street name__ _n_ __1__ An alternative name that a person chooses or is given (especially in inner city neighborhoods); _“her street name is Bonbon.”_  
 __streetcar__  
 __streetwise__  
+__strength__ _n_ _They noticed the strengths of their team members._  
 __strengthen__ _v_ :two::hammer:  
 __strenuous__ _adj_ :astonished::six::hammer: _A man of of strenuous temperament._  
 __strep > strep throat__ _n_ :two::hammer: _Maybe strepsils is derived from strep (throat)._  
@@ -14228,6 +14233,7 @@ __surreptitiously__ _adj_ :three::hammer:
 __surrogate__ _n_ :two::hammer:  
 __surveyor__  
 __survivalist__ _n_ Someone who tries to insure their personal survival or the survival of their group or nation.  
+__susceptible__ _adj_  
 __suspend__ _v_  
 __suspenders__ _n_ :two::hammer: _Larry King’s suspenders._  
 __suss__ _v_ _chiefly British_ :three: (sussed) __1__ Figure out —usually used with out. __2__ To inspect or investigate so as to gain more knowledge —usually used with out.  
@@ -14873,7 +14879,7 @@ __tome__ _n_ :two: /TOHM/ A large heavy book, usually about a serious subject. A
 __tomfoolery__ _n_ :two: Foolish or senseless behavior. _Syn_ lunacy, craziness, folly, indulgence  
 __tommyrot__ _n_ Pretentious or silly talk or writing. _Syn_ baloney, bilgewater, bosh, drool, humbug, twaddle, tarradiddle _Spare me the tommyrot and just get to the point!_  
 __ton__ _n_ _A metric ton._  
-__tone-deaf__ _adj_ :two::hammer:  
+__tone-deaf__ _adj_ :three::hammer:  
 __tong__  
 __tongue in cheek__ _adj, adv_ :five::dart: (tongue-in-cheek) In a way that is not serious, although it appears to be. _Her delightful tongue-in-cheek humour._ _Karl explained, tongue in cheek, that he was busy with housecleaning._  
 __tongue twister__ _n_ __1__ A word or group of words difficult to articulate rapidly, usually because of a succession of similar consonantal sounds, as in _Shall she sell seashells?_ __2__ Something difficult to pronounce.  
@@ -15319,6 +15325,7 @@ __undercard__ _n_ :two::hammer: _Undercard debates._
 __undercurrent__  
 __undercut__ _v_ :nine::hammer: (undercutting) _Why do you undercut yourself so much?_ _If you’re sporting self-doubt, you’ve undercut your performance before you even begin._  
 __underdog__ _n_ _NBA: New Orleans (underdog) at Oklahoma City (favorite)._  
+__underdone__ _adj_ (Cookery) Insufficiently or lightly cooked. _The potatoes were underdone._  
 __underfoot__ _adv_ :two::hammer: _They were reluctant to recognize crisis until it was underfoot._  
 __undergarments__ _n_ :two::hammer:  
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
@@ -15800,6 +15807,7 @@ __waive__ _v_ :six::hammer: (waived)
 __waiver__ _n_ :two::hammer: (waivers)  
 __wakame__ _n_  
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
+__waking hours__  
 __waldo__ _n_ (waldoes)  
 __walk in sunshine__  
 __walk out__ _phr v_ To leave a relationship suddenly.  
