@@ -14096,7 +14096,7 @@ __subacute__ _adj_ __1__ Somewhat or moderately acute: _subacute sepals._ __2__ 
 __subaltern__ _adj_ Inferior in rank or status. _Syn_ junior-grade, lower-ranking, petty, secondary, lowly _The subaltern officer stood at attention as his superiors examined the floor he had just finished scrubbing._  
 __subclinical__ _adj_ :dart: Of or relating to the stage in the course of a disease before the symptoms are first noted.  
 __subcompact__ _n_ _US_ A small car that is smaller than a compact car.  
-__subdue__ _v_ :eight::hammer: (subdued) __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._  
+__subdue__ _v_ :eight: (subdued) __1__ To subjugate (a region or people, for example) by military force. __2a__ To bring under control by physical force, persuasion, or other means; overcome: _subdued the wild horse; subdued the rebellion in the party ranks._ __b__ To make less intense or prominent; reduce or tone down: _I was unable to subdue my excitement about the upcoming holiday._ __3__ To bring (land) under cultivation: _Farmers subdued the arid lands of Australia._  
 __subfreezing__ _adj_ Below the freezing point. _Subfreezing temperature._  
 __subjugate__ _v_ M:two: ake subservient; force to submit or subdue. _Syn_ subject  
 __subjugation__ _n_ Forced submission to control by others.  
@@ -14320,7 +14320,7 @@ __swiveling__ _v_
 __swivet__ _n_ _informal US_ A state of anxiety, confusion, or excitement: _don’t get yourself in a swivet._  
 __swizzle stir__ _n_  
 __swoon__ _v_ :nine::m: /swo͞on/ (swoons, swooned, swooning) __1__ _literary_ Faint, especially from extreme emotion. _Frankie’s mother swooned and had to be helped to the headmaster’s office._ __2__ Be overcome with admiration, adoration, or other strong emotion. _Women swoon over his manly, unaffected ways._  
-__swoop<sup>1</sup>__ _n_ :eight::hammer: (swoops) _He swiftly adds a blue swoop of acrylic to his brick wall canvas._  
+__swoop<sup>1</sup>__ _n_ :eight: (swoops) __1__ The act of swooping. _He swiftly adds a blue swoop of acrylic to his brick wall canvas._ __2__ Aswift descent.  
 __swoop<sup>2</sup>__ _v_ :nine::m: (swooped, swooping) __1__ If a bird or aircraft swoops, it moves suddenly down through the air, especially in order to attack something. _Swooped down._ __2__ If the police, army etc swoop on a place, they go there without any warning in order to look for someone or something.  
 __swoopy__  
 __swoosh__ _n_ The noise produced by the sudden rush of a fluid (a gas or liquid). _Syn_ whoosh  
@@ -14810,7 +14810,7 @@ __tiptoe<sup>1</sup>__ _adj_
 __tiptoe<sup>2</sup>__ _adv_  
 __tiptoe<sup>3</sup>__ _n_  
 __tiptoe<sup>4</sup>__ _v_ :three: To walk or move quietly on one’s toes.  
-__tirade__ _n_ :eight::hammer:  
+__tirade__ _n_ :eight: A long angry speech, usually of a censorious or denunciatory nature; a diatribe.  
 __tire__ _v_ :two::hammer: _I use a revolving ball to tire the conscious mind into a simple hypnosis._ _To break up the peloton and make teams chase and tire._  
 __tiresome__ _adj_ _Please stop being so tiresome!_ :es: ¡Deja de ser tan pesada, por favor!  
 __Tirolean__  
