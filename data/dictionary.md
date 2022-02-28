@@ -582,6 +582,7 @@ __aquanaut__ _n_
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquifer__ _n_ :two::hammer:  
 __arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
+__arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
@@ -1327,7 +1328,7 @@ __blah story__
 __blanched__ _v_  
 __bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
-__blandishment__ _n_ :two: Often, blandishments. Something, as an action or speech, that tends to entice.  
+__blandishment__ _n_ :three: (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. _Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
@@ -1724,7 +1725,7 @@ __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
 __broadsided__  
 __brocade__  
-__broccoli__ _n_ :two::pencil2::hammer:  
+__broccoli__ _n_ :three::pencil2::hammer:  
 __brogue__ _n_ :four: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
@@ -2984,6 +2985,7 @@ __connivance__ _n_ :four: Agreement on a secret plot.
 __connive__ _v_ :six::hammer: (connived, conniving)  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
+__conscience__ _n_ :pencil2:  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
@@ -4528,7 +4530,8 @@ __egomaniac__
 __egotistical__ _adj_ :two::hammer:  
 __egotists__  
 __egregious__ _adj_ :nine::m: /ih-GREE-juss/ /ih-gree-juhs, -jee-uhs/ Something that is egregious stands out, but not in a good way — it means “really bad or offensive.” If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game. Extraordinary in some bad way; glaring; flagrant: _an egregious mistake; an egregious liar._  
-__egress__ _n_  
+__egress<sup>1</sup>__ _n_ :two::hammer:  
+__egress<sup>2</sup>__ _v intr_ To go out; emerge.  
 __egret__ _n_ :five: Any of various usually white herons having long plumes during breeding season. _Snowy egrets._ :es: garceta  
 __Eid al-Fitr__ _n_ An Islamic festival that begins the day after Ramadan ends.  
 __eidetic__ _adj_ Of, relating to, or marked by extraordinarily detailed and vivid recall of visual images.  
@@ -5599,7 +5602,7 @@ __foul play__ _n_ :eight::dart: Violence, _esp_ murder.
 __foul__ _adj_ :two::hammer: _Foul language._ __1a__ Offensive to the senses; revolting. __b__ Having a bad odor or taste: _foul breath; food that tasted foul._ _Everything that issued from the body smelled foul._ __c__ Rotten or putrid: _foul meat._  
 __foul-smelling__ _adj_ Having a very unpleasant smell.  
 __foul-ups__  
-__founder__ _v_ :six::hammer: (foundered) _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
+__founder__ _v_ :seven: /FOUN-der/ (foundered) __1__ (of a boat or ship) To become submerged; to sink. _As the vessel began to founder, the captain ordered everyone on board to prepare to abandon ship._ __2__ To experience failure or to be unsuccessful. _The entrepreneur recruited a financial advisor to help her business that was foundering._ _The attempt foundered._ _His plan foundered._ _Most of us would have foundered in that situation._  
 __foundry__ _n_ :three::hammer: (foundries) _Metal foundries._ :es: fundición  
 __fount__ _n_ __1__ A fountain. __2__ One that initiates or dispenses; a source. _The fount of authority._  
 __fountain pen__ _n_ :four: A pen with a reservoir or cartridge from which ink flows continuously to the nib. :es: pluma estilográfica  
@@ -9605,7 +9608,7 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
-__occasion__ _n_ :three::mega::pencil2::hammer:  
+__occasion__ _n_ :four::mega::pencil2::hammer:  
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
 __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
@@ -10009,6 +10012,7 @@ __pallor__ _n_ :two::hammer:
 __palm<sup>1</sup>__ _n_ :mega::mute:[pa~~l~~m]  
 __palm<sup>2</sup>__ _v_ :mega::mute:[pa~~l~~m]  
 __palmary__ _adj_ Of first-rate importance; principal; excellent: _a palmary truth._  
+__palmate__ _adj_ /PAL/PAHL/PA/PAH-mayt/ Shaped like a hand with the fingers spread.  
 __palmetto__ _n_ :two::hammer: (palmettos)  
 __palmy__ _adj_ /ˈpɑːmɪ/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
@@ -10391,7 +10395,7 @@ __petty cash__ _n_ :two: A small cash fund kept on a firm’s premises for the p
 __petty officer__ _n_ :three::hammer:  
 __petty__ _adj_ :two: Not important and not worth giving attention to. _A petty argument resulted in her son’s murder._ __2__ Complaining too much about things that are not important. _Don’t be so petty._  
 __petulance__  
-__petulant__ _adj_ :five::mega::hammer:  
+__petulant__ _adj_ :six::mega: Unreasonably irritable or ill-tempered. _Syn_ peevish, testy, cranky, fractious _After their fight, her friend came to make amends, but she was feeling petulant and sulky and ignored him._  
 __petulantly__  
 __pew__ _n_ _Church pews._  
 __pewter__  
@@ -14128,7 +14132,7 @@ __subtleties__ _n_
 __subtract__ _v_ :pencil2: __1__ _Mathematics_ To calculate the difference between (two numbers or quantities) by subtraction. __2__ To remove (a part of a thing, quantity, etc) from the whole.  
 __suburbanites__ _n_  
 __suburbs__  
-__succinct__ _adj_ :four::pencil2::mega::hammer: _My advice is to get your posts succinct._  
+__succinct__ _adj_ :five::pencil2::mega::hammer: _My advice is to get your posts succinct._  
 __succinctly__ _adv_ :pencil2:  
 __succint__  
 __succor__ _n_ :three::hammer:  
