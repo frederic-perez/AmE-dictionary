@@ -1045,6 +1045,7 @@ __beanie__ _n_ :two::camera::dart: (beany) __1__ A snug, knitted, brimless cap t
 __beanpole__  
 __beanstalk__ _n_ :two::hammer: (beanstalks) _Jack and the Beanstalk._  
 __bear down__ _v_  
+__bear hug__  
 __bear__ _v_ :four::hammer: _Second Amendment: The right of the people to keep and bear arms._ _A well-beloved lady who had died at the age of 27 after bearing seven children._  
 __bearing__ _n_ :six::hammer: (bearings) _It does not have a bearing on whether or not he will be our coach next year._ _The video game should have had absolutely no bearing on his behavior in the real world._  
 __beastie__ _n_ _informal_ An animal, especially one regarded with jocular affection.  
@@ -2732,7 +2733,7 @@ __cochineal__ _n_
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockcrow__  
 __cockerel__  
-__cockeyed__ _adj_ :three::hammer: _Cockeyed predictions._  
+__cockeyed__ _adj_ _informal_ :four::hammer: _Cockeyed optimism._ _Cockeyed predictions._  
 __cockle__ _n_ :es: berberecho  
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
@@ -3436,7 +3437,7 @@ __Curie__ _n_ :two::hammer::mega:
 __curios__  
 __curlicue<sup>1</sup>__ _n_ :two::hammer:  
 __curlicue<sup>2</sup>__ _v_ (curlicued)  
-__curmudgeon__ _n_ :seven: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
+__curmudgeon__ _n_ :eight: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
@@ -4156,6 +4157,7 @@ __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a
 __dopamine__ _n_ :two::mega::hammer:  
 __dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
+__doper__ _n_  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
 __Doritos__ _n_ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
@@ -5345,7 +5347,7 @@ __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
 __flat-footed__ _adj_ :four::hammer: _I have never been caught flat-footed by any situation._  
-__flat-out__ _adj_ :two::hammer: _They flat-out tell us what is happening._  
+__flat-out__ _adj_ :three::hammer: _They flat-out tell us what is happening._  
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
@@ -6866,7 +6868,7 @@ __hogwash__ _n_ Worthless, false, or ridiculous speech or writing; nonsense. _Sy
 __hoist<sup>1</sup>__ _n_ :es: montacargas  
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
-__hokey__ _adj_  
+__hokey__ _adj_ :two::hammer: _It may sound hokey._  
 __hokum__ _n_ :four::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
@@ -7841,7 +7843,7 @@ __killjoy__ _n_ One who spoils the enthusiasm or fun of others. _Syn_ wet blanke
 __kiln__ _n_ A type of oven used for baking clay, bricks, etc. to make them hard.  
 __kin__  
 __kindergarten__ _n_ :pencil2::four: Kindergarten is where children are introduced to school; it’s where five year old children learn all about their ABC’s and choice time. Kindergarten comes from the German words Kinder (“children”) and Garten (“garden”). A garden of children is a lovely and poetic image for a classroom full of antsy kids trying their hardest to master basic skills and ideas through creative and interactive lessons. But perhaps that is just how they were seen by the 19th-century German educator Friedrich Fröbel, who is credited with inventing kindergarten, his “method of developing intelligence in young children.”  
-__kindergartner__ _n_ :pencil2::two: A child who attends a preschool or kindergarten.  
+__kindergartner__ _n_ :pencil2::three: A child who attends a preschool or kindergarten.  
 __kinderpunsch__ _n_  
 __kindle__ _v_ _To kindle a fire._  
 __kindling__ _n_ :two: Material for starting a fire, such as dry wood, straw, etc.  
@@ -8440,7 +8442,7 @@ __low-res__ _adj_ _informal_ Low-resolution.
 __low-slung__ _adj_ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  
 __lowbrow__  
-__lowdown__ _n_ _slang_ :five: The whole truth: _gave us the lowdown on what happened at the party._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
+__lowdown__ _n_ _slang_ :six: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
 __lowkey__  
@@ -9631,6 +9633,7 @@ __off duty__
 __off kilter__  
 __off-color__ _adj_ :three: An off-color joke or remark is rude or offensive. _Off-color stories._  
 __off-guard__ _adj_ Not prepared or vigilant.  
+__off-hand__ _adv_  
 __off-key__ _adj, adv_ Varying in pitch from the proper tone of a melody.  
 __off-price stores__  
 __off-putting__  
@@ -10056,6 +10059,7 @@ __paper route__ _n_ __1__ The job of delivering newspapers regularly. __2__ The 
 __paper tablecloth__ _n_ :two::hammer:  
 __paper tape__ _n_  
 __paper towel__ _n_ :two: (paper towels) A disposable towel made of absorbent paper.  
+__paper-pusher__ _n_ _informal_ __1__ A person who has a routine desk job. _A typical paper-pushing office._ __2__ Bureaucrat.  
 __paperclip__ _n_  
 __paperwork__ _n_ :three::hammer:  
 __papier-mache<sup>1</sup>__ _n_ (paper-mache) A mixture of pulped paper, glue, etc., used in making sculptures, boxes, ornaments, etc.  
@@ -10861,7 +10865,7 @@ __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fa
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
 __poultry__ _n_  
 __pounce on__ _v_ :four::hammer: _Critics pounced on the showiness._  
-__pounce__ _v_ :five::hammer: (pounced)  
+__pounce__ _v_ :six::hammer: (pounced) _We can train our brains to let in the messages that allow us to spot and pounce on more opportunities at work and at play._  
 __pounding__ _v_ _Pounding the Jaguars._  
 __pour-over coffee__ _n_  
 __pout__ _v_ :nine::m: (pouts, pouting) __1__ To exhibit displeasure or disappointment; sulk. _Pouting session._ __2__ To protrude the lips in an expression of displeasure or sulkiness. __3__ To project or protrude: _The child’s lips pouted._ _You better not cry, you better not pout._  
@@ -11251,7 +11255,7 @@ __purse-proud__ _adj_ Very proud of one’s accumulation of wealth.
 __purslane__ _n_ :four::hammer:  
 __purveyance__ _n_  
 __purveyor__ _n_ :seven::hammer: _Purveyors of unhelpfully vapid self help._  
-__pus__ _n_ /pʌs/ :pencil2::two: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
+__pus__ _n_ /pʌs/ :pencil2::three: A generally viscous, yellowish-white fluid formed in infected tissue, consisting of white blood cells, cellular debris, and necrotic tissue._Pus bags_  
 __push back__ _phr v_ :two::hammer:  
 __push puppet__ _n_ :camera:  
 __push<sup>2</sup>__ _n_  
@@ -12446,6 +12450,7 @@ __scrimmage<sup>2</sup>__ _v_
 __scrimshaw__ _n_ A carving (or engraving) on whalebone, whale ivory, walrus tusk, etc., usually by American whalers.  
 __scripted__ _adj_ Written in advance.  
 __scrofulous__  
+__scrooch__ _v_  
 __Scrooge__  
 __scrouching__ _v_  
 __scrub brush__  
@@ -13838,6 +13843,7 @@ __stem-winding__ _adj_ _informal North American_ (of a speaker or speech) Entert
 __stem<sup>1</sup>__ _n_ _Biting a stem._  
 __stem<sup>2</sup>__ _v_ :nine::astonished: (stemmed, stemming) __1__ (+ from) To originate or arise from something. __2__ To stop (something flowing). _Three dozen towns are debating how to stem the flow of needles._ __3__ To stop (the onward progress of something). _The country is trying to stem the spread of the avian influenza._ _They redesigned their stores in an effort to stem declining sales._  
 __stench__ _n_ :two: __1__ A strong, foul odor; a stink. _The stench of human effluent._  
+__steno pad__  
 __stenographer__ _n_ :three: A person skilled in the use of shorthand and in typing.  
 __stenosis__ _n_ _Pulmonary vein stenosis._  
 __stentorian__ _adj_ :four: Extremely loud: _a stentorian voice._ If you’re teaching a group of unruly kids, you’ll need to practice a stentorian voice to be heard above the din. In the _Iliad_, Homer described Stentor as a man whose voice was as loud as that of fifty men together. Stentor’s powerful voice made him a natural choice for delivering announcements and proclamations to the assembled Greek army during the Trojan War. _Syn_ booming _He was woken by the stentorian voice of his teacher, demanding to know why he wasn’t paying attention._  
@@ -15903,7 +15909,7 @@ __watershed__ _n_ :four::hammer: _A watershed moment._ _Dignataries recognized t
 __waterspout__ _n_  
 __waterway__  
 __wattles__ _n_ _The hens had red combs, wattles, and earlobes._  
-__waver__ _v_ :two::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
+__waver__ _v_ :three::hammer: _He was wavering on whether to support fellow Republican Donald Trump for president._  
 __wavering__ _adj_ Uncertain in purpose or action. _A wavering statement._  
 __wax__ _v_ :three::hammer: _Moon waxing and waning._ _Religious intolerance waxed._  
 __waylay__ _v_  

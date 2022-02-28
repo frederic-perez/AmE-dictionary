@@ -1,18 +1,3 @@
-__waver__ _v_  
-__curmudgeon__  
-__paper-pusher__ _n_ _informal_ __1__ A person who has a routine desk job. _A typical paper-pushing office._ __2__ Bureaucrat.  
-__pounce__ _v_ _We can train our brains to let in the messages that allow us to spot and pounce on more opportunities at work and at play._  
-__hokey__ _adj_ _It may sound hokey._  
-__bear hug__  
-__flat-out__  
-__steno pad__  
-__kindergartner__ _n_  
-__cockeyed__ _adj_ _informal_ _Cockeyed optimism._  
-__scrooch__ _v_  
-__doper__ _n_  
-__lowdown__ _n_ The real and unadorned facts: _Give me the lowdown on the situation._  
-__off-hand__ _adv_  
-__pus__ _n_  
 __body odor__ _n_  
 __metaphysical__ _adj_  
 __rampage__ _v intr_  
