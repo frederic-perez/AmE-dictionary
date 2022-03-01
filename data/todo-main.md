@@ -60,3 +60,23 @@ __expletive__ _n_ In rhetoric, an expletive is an interrupting word or phrase us
 __metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
+__levy__ _v_  
+__upend__ _v_ :two::hammer:  
+__ticklish__ _adj_  
+__stakeout__ _n_  
+__fatigues__ _n_  
+__guillemet__ _n_ One of two marks (« or ») used in French, Italian, and Russian printing to enclose quotations.  
+__prospective__ _adj_  
+__sauna__ _n_ :mega: /ˈsɔːnə/  
+__heedless__ _adj_ /hēd′lĭs/ Marked by or paying little heed; unmindful or thoughtless.  
+__encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
+__emollient__ _n_ (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin.  
+__discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
+__detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
+__medic__ _n_  
+__strive__ _v_ _We strive for peace._  
+__demonize__ _v tr_  
+__rear<sup>1</sup>__ _v tr_ :astonished: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
+__rear<sup>2</sup>__ _v intr_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
+__flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, four finger holes, and two thumbholes.  
+__recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
