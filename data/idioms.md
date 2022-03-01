@@ -188,6 +188,7 @@ __at once__ :two::hammer:
 __at one button__ _The Prince did not value a knight at one button._  
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
+__at peace__  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of the day__  
@@ -277,6 +278,7 @@ __be on (one’s) conscience__ To be a persistent cause or source of guilt, such
 __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
 __be on (the) air__ To be broadcasting live, as on television or radio. _OK everyone, we’re on the air in five minutes!_  
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
+__be on edge__  
 __be on the lookout__ :two::hammer:  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
@@ -462,7 +464,7 @@ __cold fish__ Someone who has very little emotions, who is regarded as hard-hear
 __collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __come across__ :three::hammer:  
-__come again?__  
+__come again?__ :two::hammer:  
 __come clean__ To admit something to someone, often regarding a wrongdoing that one has tried to hide. _The kids finally came clean about eating the cookies I’d made for the bake sale._  
 __come close to blows__ To nearly devolve into a physical fight.  
 __come down the pike__ :dart: Appear, become prominent, as in _He was the best writer to come down the pike in a long time._ The noun pike here is short for “turnpike” or “road.” _You should take this job offer—who knows when another will come down the pike?_  
@@ -481,6 +483,7 @@ __conspicuous consumption__ :two: The lavish expenditure of money or acquisition
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
 __control freak__ :two::hammer:  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
+__cool it__  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
 __corporate ladder__  
@@ -849,7 +852,7 @@ __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoy
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _informal_  
 __grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
-__grand scheme__ The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.”  
+__grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
 __grasp at straws__ To make a desperate attempt to salvage a bad situation.  
 __grasp in the dark__ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
@@ -1013,7 +1016,7 @@ __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt wi
 __hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit or miss__ :two::hammer:  
 __hit the big time__ To become very famous or successful.  
-__hit the gas__ To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
+__hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the ground running__  
 __hit the jackpot__  
 __hit the road__ To leave a place or begin a journey.  
@@ -1153,7 +1156,7 @@ __in the last analysis__ When everything has been considered; when all the facts
 __in the least__ _Apparently you didn’t understand me in the least._  
 __in the lurch__ In a particularly awkward, difficult, or troublesome situation. _I’ll really be left in the lurch if the manager decides to quit before this project is finished._ _The TV series was left in the lurch._  
 __in the middle of nowhere__ In a place that is far away from other people, houses, or cities. _We got lost in the middle of nowhere._  
-__in the midst of (something)__  
+__in the midst of (something)__ :two::hammer:  
 __in the next breath__ _(especially when speaking)_ In or at the very next moment or opportunity; in a very short space of time.  
 __in the nick of time__ Just at the critical moment; just in time. _I got to the drugstore just in the nick of time. It’s a good thing, because I really need this medicine!_  
 __in the nude__ _Sleeping in the nude._  
@@ -1638,7 +1641,7 @@ __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be s
 __on the tip of your tongue__ About to be said or almost remembered.  
 __on the upswing__ Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
 __on the whole__ :two: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
-__on thin ice__ In a risky position, in a dangerous situation.  
+__on thin ice__ :two: In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__  
@@ -1963,6 +1966,7 @@ __sync up__ _Syncing up over coffee._
 __tag along__ :four: :dart: To accompany or closely follow someone or a group, perhaps when one is not part of the group or when one’s presence is not wanted. _I decided to tag along and see if they found anything interesting._ _Do you mind if my little brother tags along? My parents want him to get out of the house for a while._ _His old swing has tagged along._ _You want to tag along?_  
 __tail end__ _The tail end of the day._  
 __tail off__ To dwindle, diminish, or fade away; to become fainter or weaker.  
+__take (a)hold__  
 __take (one’s) side__ To support or side with one in an argument.  
 __take (something) to heart__  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
@@ -2118,7 +2122,7 @@ __turn the tables__ To change or reverse something dramatically. _Wow, they real
 __turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
-__two-way street__ _n_ An arrangement or a situation involving reciprocal obligation or mutual action.  
+__two-way street__ _n_ :two: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :three::hammer:  
 __under (one’s) belt__ :two: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
