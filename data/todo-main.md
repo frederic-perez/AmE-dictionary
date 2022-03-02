@@ -1,18 +1,3 @@
-__body odor__ _n_  
-__metaphysical__ _adj_  
-__rampage__ _v intr_  
-__vacant__ _adj_ _A vacant look._  
-__crack up__ _phr v_  
-__sting operation__ _n_  
-__palooza__  
-__ramification__ _n_  
-__dissatisfaction__ _n_ :pencil2:  
-__timely__ _adj_  
-__waiver__ _n_  
-__ideation__ _n_  
-__uptake__ _n_  
-__intermural__ _adj_ Between two or more institutions etc; _an intermural track meet._ _An intermural speech tournament._  
-__spiral__ _v_  
 __omen__ _n_  
 __emphysema__ _n_ :mega: /ˌɛmfɪˈsiːmə/  
 __bona fide__ _adj_  

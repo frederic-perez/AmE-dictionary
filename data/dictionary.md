@@ -1462,6 +1462,7 @@ __bodacious__
 __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Indicate by signs. _These signs bode bad news._ _Syn_ augur, presage, portend, foretell _St-Pierre’s return bodes well for nation._ _His conservative definition does not bode well for those who object to having their lives subject to spying._ _Her hesitation at his proposal boded trouble in their future._  
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
+__body odor__ _n_  
 __bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
@@ -3223,6 +3224,7 @@ __crab lice__ _n_
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
 __crack down__ _v_  
+__crack up__ _phr v_  
 __crack__ _v_ :three::hammer: _He cracked 90 mph on the radar gun._ _In this program we are cracking the top ten episodes of 2017._ _We cracked a beer after passing the exam._  
 __crackdown__ _n_ :nine::m: Severely repressive actions. _In 2002, Chávez ordered a crackdown on political opponents._ _Generals continued their crackdowns._ :es: medidas enérgicas (en contra)  
 __cracker-barrel__ _adj_ Suggesting the rustic informality of a country store: _cracker-barrel philosophers._  
@@ -4023,7 +4025,7 @@ __disquisitition__ _n_ :pencil2:
 __disrupt__ _v_ :three::hammer: _A Trump supporter disrupted a Broadway musical._  
 __disruption__ _n_ :two::hammer:  
 __diss__ _v_ _slang_ To insult someone, to treat someone with disrespect. Origin: by 1980, shortening of disrespect or dismiss, originally in U.S. Black English, popularized by hip hop.  
-__dissatisfaction__ _n_ :two::hammer:  
+__dissatisfaction__ _n_ :three::hammer::pencil2:  
 __dissatisfied__ _adj_ :three::pencil2: Feeling or exhibiting a lack of contentment or satisfaction.  
 __dissatisfy__ _v_ :three::hammer: (dissatisfied)  
 __dissection__ _n_ _Dissections in coronary vessels._  
@@ -7160,7 +7162,7 @@ __iconoclast__
 __iconoclastic__  
 __ID window__  
 __id__ _n_  
-__ideation__ _n_  
+__ideation__ _n_ :two::hammer:  
 __ides__ _n_  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
@@ -7485,6 +7487,7 @@ __intermingle__ _v_ To mix or cause to mix or mingle together. _Syn_ blend, inte
 __intermission__ _n_ :four::hammer::dart:  
 __intermit__ _v_ Cease an action temporarily. _Syn_ pause, break  
 __intermittent__  
+__intermural__ _adj_ Between two or more institutions etc; _an intermural track meet._ _An intermural speech tournament._  
 __intern__  
 __international friendly__  
 __internecine__ _adj_  
@@ -8863,6 +8866,7 @@ __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._
 __messtin__ _n_  
 __metal flashing__  
 __metal shavings__  
+__metaphysical__ _adj_  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
 __meteoroid__ _n_  
@@ -10017,6 +10021,7 @@ __palmetto__ _n_ :two::hammer: (palmettos)
 __palmy__ _adj_ /ˈpɑːmɪ/ __1__ Prosperous, flourishing, or luxurious: _a palmy life._ __2__ Covered with, relating to, or resembling palms: _a palmy beach._  
 __palomas__  
 __palomino__ _n_ A horse with a golden or tan coat and a white or cream-colored mane and tail.  
+__palooza__  
 __palpable__ _adj_ :two: Capable of being handled, touched, or felt. _Syn_ tangible  
 __palpably__  
 __palpate__ _v_ To examine by touch especially medically.  
@@ -11454,7 +11459,9 @@ __rambunctious__ _adj_ :five: _informal_ Boisterous; unruly.
 __ramekin__ _n_ (ramequin) A small ceramic bowl used for baking and serving.  
 __ramen shop__  
 __ramen__ _n_ :four::hammer: _Ramen shops._ _Ramen bowls._ _Ramen restaurant._  
+__ramification__ _n_  
 __ramp up__ _v_ :six::hammer: _Official decisions ramped up activity._  
+__rampage__ _v intr_  
 __rampage<sup>1</sup>__ _v_ :five::hammer:  
 __rampage<sup>2</sup>__ _n_ :seven::hammer: (rampages)  
 __rampant__ _adj_ :four::hammer:  
@@ -13558,6 +13565,7 @@ __spinning__ _n_ (Textiles)
 __spinouts__  
 __spinster__ _n_ :two::hammer:  
 __spiny lobster__ _n_ :camera:  
+__spiral__ _v_  
 __spiraling__  
 __spire__ _n_ :three: A tapering roof or analogous pyramidal construction surmounting a tower. _A church spire._  
 __spite__ _n_ :four::hammer: _He brought him along for spite._ _He added her to the list out of spite._ _Some names were added out of spite._  
@@ -13894,6 +13902,7 @@ __still life__ _n_ _Still life painting._
 __stillbirth__ _n_ :three::hammer:  
 __stilt__ _n_ :seven: (stilts) Stilts are poles, posts or pillars used to allow a person or structure to stand at a height above the ground. _Stilt house._ _Stilt walkers._ _Wooden houses on stilts._  
 __stilted__ _adj_ :two: __1__ (of speech, writing, etc) Formal, pompous, or bombastic. __2__ Not flowing continuously or naturally: _Stilted conversation._ __3__ Standing on stilts. _Villages of stilted houses._  
+__sting operation__ _n_  
 __sting<sup>1</sup>__ _n_ :three::hammer:  
 __sting<sup>2</sup>__ _v_ _They were stung by a man who sells socks without feet._  
 __stinger__  
@@ -15521,7 +15530,7 @@ __upspeak__ _n_ :astonished: The tendency to make your voice rise at the end of 
 __upstart__ _n_ :five::hammer: (upstarts) _The digital upstarts are shifting focus to television._ _The latest models are from upstarts like Tesla and Coda._  
 __upstream__  
 __upswing__ _n_ :five: __1__ An upward swing or trend. __2__ An increase, as in movement or business activity.  
-__uptake__ _n_ :four: __4__ The act of accepting or taking up something on offer or available.  
+__uptake__ _n_ :five: __4__ The act of accepting or taking up something on offer or available.  
 __uptick__ _n_ :six::hammer:  
 __uptight__ _adj_ :two::dart::hammer:  
 __uptime__ _n_ :two: The time during which a device, such as a computer, is functioning or available for use.  
@@ -15553,7 +15562,7 @@ __uxorious__ _adj_ /ŭk-sôr′ē-əs, ŭg-zôr′-/ Excessively submissive or d
 __V bolt__  
 __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Allies announced the surrender of German forces in Europe.  
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
-__vacant__ _adj_ _Adam parked in a vacant spot._  
+__vacant__ _adj_ :two::hammer: _A vacant look._ _Adam parked in a vacant spot._  
 __vacant-eyed__  
 __vacate__ _v_  
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
@@ -15814,7 +15823,7 @@ __waist band__
 __waistcoat__ _n_  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
 __waive__ _v_ :six::hammer: (waived)  
-__waiver__ _n_ :two::hammer: (waivers)  
+__waiver__ _n_ :three::hammer: (waivers)  
 __wakame__ _n_  
 __wake__ _n_ :five::hammer: _At wakes._ _Irish wake._ _In the wake of the pandemic._  
 __waking hours__  
