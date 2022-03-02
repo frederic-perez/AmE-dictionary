@@ -12,6 +12,7 @@ __(it’s/there’s) no use crying over spilt milk__ It does no good to get upse
 __(not) half the person/man/woman (one) used to be__ Having a reduced, diminished, or weakened physique, disposition, conviction, prowess, or mental acuity, as after some action, event, or trauma. Sometimes used in the negative but to the same effect.  
 __(oh,) snap__  
 __(on the) fast track__ (A _fast track_ is a horse racing track that’s dry and hard enough for the horses to reach optimum speed. That makes this one of those words where the original definition is self explanatory: a _fast track_ is simply a track that the racers can go as fast as possible on as opposed to one where racers are slowed down by mud or less than optimal conditions.)  
+__(one’s) blood is up__ One is in an angry, aggressive, or violent mood; one is looking or ready for a fight. _Everyone in the office knows to avoid the boss when her blood is up._  
 __(one’s) blood runs cold__ One becomes seized by an acute and intense sensation of fear, panic, horror, or dread. _My blood ran cold when I overheard that a police officer had been asking about me at work._ _Janet could feel her blood run cold when the murderer she was testifying against walked into the courtroom._  
 __(one’s) door is always open__ :dart: One is always available to be of guidance, support, aid, or assistance whenever needed. Said especially by an employer or teacher to an employee or pupil. _Mrs. Spencer is a great teacher, and her door is always open if we ever have any questions or fall behind._  
 __(one’s) final resting place__ The location where one’s body is interred after death.  
@@ -273,6 +274,7 @@ __be no picnic__ _Looking after four children is no picnic._
 __be no slouch__ To be very hardworking, enthusiastic, and/or skillful. _Tom might not be the friendliest coworker in the world, but he’s no slouch when it comes to running the company’s IT systems._  
 __be not in Kansas anymore__ To no longer be in a place that one knows or where one is comfortable; to be in a completely unfamiliar and/or discomfiting environment. A reference to The Wizard of Oz, in which Dorothy, upon arriving to Oz, says, _“Toto, I’ve a feeling we’re not in Kansas anymore.”_  
 __be not just another pretty face__ To have distinguishing achievements, intelligence, skills, or abilities beyond what was or may have been assumed.  
+__be not short of a penny (or two)__ To be exceptionally wealthy; to have no concerns regarding money. _A: “I just heard Sarah just lost her job!” B: “Well, her husband’s family isn’t short of a penny, so I think they’ll be just fine.”_  
 __be on (one’s) best behavior__ To be very polite or exercise exceptionally good manners. Primarily heard in US. _Now, you kids must be on your best behavior for your Auntie this weekend!_  
 __be on (one’s) conscience__ To be a persistent cause or source of guilt, such as an act of wrongdoing.  
 __be on (one’s) soapbox__ To be sharing one’s opinions in an impassioned, impromptu manner, often to others’ annoyance. Soapboxes were once commonly used as makeshift platforms for such speeches. _Once Grandpa was on his soapbox about the local election, I found an excuse to slip out of the room._  
@@ -284,6 +286,7 @@ __be on track__ :two: To progress or develop as planned, scheduled, or expected.
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
 __be put in (one’s) place__ To be humbled or have one’s dignity lowered (by someone); to be made aware that one is not as important, respected, influential, etc., as one thinks. _John was really put in his place by the teacher, who scolded him so harshly that he burst into tears._  
 __be put out of business__ To be caused or forced to cease carrying on commercial trading or transactions. _Our bookstore has been a part of the neighborhood for nearly 50 years, but we’re being put out of business by these new electronic books that you can download._  
+__be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
@@ -410,6 +413,8 @@ __cards are stacked against someone__ Luck is against someone.
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
 __carp at (one)__ To complain to one about someone or something, especially in a way that one finds annoying. _If you hate your job so much, quit carping at me about it and look for a new one!_  
 __carrot and stick__ :two: (carrots and sticks) Reward and punishment.  
+__carry (someone) off their feet__ To completely overwhelm someone with enthusiasm, ardor, or passion. _The strength of the senator’s oration carried the entire crowd off their feet._  
+__carry a torch for__  
 __carry the ball__ To be in charge.  
 __carry the day__ To win, to be successful.  
 __case the joint__ :three::hammer: (casing the joint)  
@@ -460,7 +465,7 @@ __clout list__ A secret list of people who, through advantageous connections and
 __cock one’s head__ :two::hammer: _She cocked her head to the sound of a locomotive._  
 __code of silence__ The practice of not disclosing important or vital information by members of a group, as due to the threat of violence, reprisal, being branded as a traitor, or an inherent sense of honor.  
 __cold feet__ :two::hammer:  
-__cold fish__ Someone who has very little emotions, who is regarded as hard-hearted and unfeeling.  
+__cold fish__ :two: A person who is very reserved or aloof in manner or who lacks normal cordiality, sympathy, or other feeling. Someone who shows no emotion and comes across as unfriendly or disinterested. Someone who has very little emotions, who is regarded as hard-hearted and unfeeling. _The manager decided not to hire Bill as the store greeter because he came across like a cold fish during the interview._  
 __collect (one’s) wits__ To try to calm oneself and think clearly and rationally. _Take a moment to collect your wits, then tell us how the accident happened._  
 __collect dust__ To be in a state of disuse for a prolonged period of time. _My father has lots of old trinkets and memorabilia collecting dust in the attic._  
 __come across__ :three::hammer:  
@@ -801,6 +806,7 @@ __go Galt__ To reduce, restrict, or cease one’s work or productivity as a mean
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go off in a huff__ To leave in an angry, belligerent, or vexed mood.  
+__go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
 __go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner.  
 __go out with the boys__ To go and socialize somewhere with a group of exclusively male friends.  
@@ -1652,6 +1658,7 @@ __once in a blue moom__ Very rarely.
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
 __one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
 __one hell of__ _You are one hell of a navy wife._  
+__one side__ Move aside! Get out of the way! (Short for “move to one side.”) _One side, little man! I’m in a rush, and you’re getting in my way!_  
 __one too many__ _We drank one too many._  
 __one way or another__ :two: _If I fail then it will cost me my head one way or another._  
 __one-horse town__ A very small and unremarkable town that is typically regarded as dull or boring. _I can’t wait to graduate high school and get out of this boring, one-horse town!_  
@@ -1778,6 +1785,7 @@ __put our heads together__ To discuss or plan something together with other peop
 __put out__ :two::hammer: _Put out the fires._  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
 __put up with__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
+__quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
 __quite a few__ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
 __quote, unquote__ :two::hammer:  
 __rabbit hole__ :four::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
@@ -1833,6 +1841,7 @@ __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; 
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
+__Say again?__ Could you please repeat what you just said? _Sorry, Mike, say again? I’m getting bad reception here._  
 __Says who?__  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
