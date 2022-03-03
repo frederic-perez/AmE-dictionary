@@ -65,3 +65,23 @@ __rear<sup>1</sup>__ _v tr_ :astonished: __1__ To care for (children or a child)
 __rear<sup>2</sup>__ _v intr_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, four finger holes, and two thumbholes.  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
+__foolhardy__ _adj_ Unwisely bold or venturesome; rash.  
+__temerity__ _n_ Foolhardy disregard of danger; recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
+__lowbrow<sup>1</sup>__ _n_ One having uncultivated tastes.  
+__lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
+__kitsch__ _n_ /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
+__misanthropic__ _adj_  
+__expostulate__ _v_  
+__freshet__ _n_ /ˈfrɛʃɪt/  
+__disgruntle__ _v_ To make sulky or discontented.  
+__cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
+__trying__ _adj_ /ˈtraɪɪŋ/ :dart: Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
+__affront__ _n_ A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
+__slough__ _v_ /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._  
+__slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
+__pugilism__ _n_ /PYOO-juh-liz-uhm/ [:scroll: From Latin pugil (boxer), from pugnare (to fight), from pugnus (fist).] The hobby or sport of fighting with fists: boxing.  
+__two-fisted__ _adj_ /to͞o′fĭs′tĭd/ [:scroll: The term describes someone using both hands, literally or figuratively, where a clenched fist alludes to vigor, resolve, etc.] __1__ Using or held by both hands: _a two-fisted backhand stroke in tennis._ __2__ _informal_ Characterized by vigor, roughness, or aggression. Strong, tough, and vigorous: _a hard-drinking two-fisted hunter; two-fisted frontier justice._  
+__prosaic__ _adj_ /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
+__feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
+__frowzy__ _adj_  
+__antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
