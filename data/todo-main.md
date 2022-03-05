@@ -1,18 +1,3 @@
-__omen__ _n_  
-__emphysema__ _n_ :mega: /ˌɛmfɪˈsiːmə/  
-__bona fide__ _adj_  
-__truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
-__redress__ _v tr_  
-__turnip__ _n_ [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
-__metaphor__ _n_ A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
-__hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
-__alliteration__ _n_ Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
-__analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
-__onomatopoeia__ _n_ An onomatopoeia is a word that imitates the sound it refers to. Example: The thunder boomed and the lightning crashed.  
-__allusion__ _n_ Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
-__oxymoron__ _n_ Oxymoron is a figure of speech that uses two opposite words together. Example: The treaty led to a violent peace.  
-__satire__ _n_ Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
-__paradox__ _n_ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young.  
 __simile__ _n_ A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  

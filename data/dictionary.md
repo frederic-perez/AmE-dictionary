@@ -345,6 +345,7 @@ __alleviative__ _adj_ Moderating pain or sorrow by making it easier to bear. _Sy
 __alley-oop__ _n_  
 __allies__ _n_  
 __alliterate__ _v_ To use two or more words having the same initial sound, as in: _Sister Suzie sews shirts for sixty-six seasick sailors._  
+__alliteration__ _n_ Alliteration is repeating the same or similar sounds at the beginning of words. Example: She sells seashells by the sea shore.  
 __allocation__ _n_ :two::hammer: _Allocation of resources._  
 __allograft__ _n_  
 __allot__ _v_  
@@ -352,7 +353,7 @@ __allotment__ _n_ :two::hammer:
 __allotted__  
 __allowance__ _n_ :three::hammer:  
 __alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
-__allusion__ _n_  
+__allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
 __almond__ _adj, n_ :mute:[a~~l~~mond]  
@@ -427,6 +428,7 @@ __amusement park__ _n_ :two::hammer:
 __anachronism__  
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
+__analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
 __anastomosis__ _n_ :two: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
@@ -1501,7 +1503,7 @@ __bombshell__ _n_
 __bombsights__  
 __bon ton__  
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
-__bona fide__ _adj_ :eight: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
+__bona fide__ _adj_ :nine: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bona fides__ _n_ /boh-nuh-FYE-deez/  
 __bonanza__ _n_ :two::hammer: _Banana bonanza._  
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
@@ -4624,7 +4626,7 @@ __emote__ _v_
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
-__emphysema__ _n_ :mega: /ĕm′fĭ-sē′mə, -zē′-/  
+__emphysema__ _n_ :two::hammer::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ _n_ The U.S. State of New York.  
 __emporium__ _n_ :two::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
@@ -7121,6 +7123,7 @@ __hygroscopic__
 __hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
+__hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
 __hyperbolic__ _adj_ :five: Exaggerated.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
@@ -8866,6 +8869,7 @@ __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._
 __messtin__ _n_  
 __metal flashing__  
 __metal shavings__  
+__metaphor__ _n_ A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
 __metaphysical__ _adj_  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
 __meteor__  
@@ -9690,7 +9694,7 @@ __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”:
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelets__  
-__omen__ _n_ :five::hammer:  
+__omen__ _n_ :six::hammer:  
 __omicron__ _n_ :two: /ˈɒm ɪˌkrɒn, ˈoʊ mɪ-/ [:scroll: Middle English, from Greek o mīkron, _small o (because of its being a short vowel in Greek)_] The 15th letter of the Greek alphabet (Ο, ο).  
 __ominous__ _adj_ :nine: Menacing; threatening: _ominous black clouds; ominous rumblings of discontent._  
 __ominously__  
@@ -9738,6 +9742,7 @@ __onetime__ _adj_ __1__ Former, sometime. _A onetime actor._ __2__ Occurring onl
 __onionskin__ _n_ /′ən‚yən‚skin/ A thin strong lightweight translucent paper used especially for making carbon copies. _Onionskin pages._ _Onionskin paper._  
 __onlooker__ _n_ :three::hammer: (onlookers)  
 __only problem is__  
+__onomatopoeia__ _n_ An onomatopoeia is a word that imitates the sound it refers to. Example: The thunder boomed and the lightning crashed.  
 __onset__ _n_ :eight::astonished: __1__ The beginning or start of something: _the onset of a cold._ _Early onset dementia._ __2__ An attack; assault.  
 __onslaught__ _n_ :four: A violent attack. _The onslaught of the Jacques._  
 __onus__ _n_ :eight: __1__ A difficult or disagreeable responsibility or necessity; a burden or obligation. If the onus is on someone to do something, it is their responsibility or duty to do it. _Ward’s statement puts the onus back on us._ _The onus for change._  
@@ -9956,7 +9961,7 @@ __own right__
 __own up__  
 __own__ _v_  
 __oxblood__ _n_ :three: (oxblood red) Dark brownish-red color. _Oxblood shoes._  
-__oxymoron__ _n_ :mega:  
+__oxymoron__ _n_ :two::mega: Oxymoron is a figure of speech that uses two opposite words together. Example: The treaty led to a violent peace.  
 __oyster__ _n_ :two::hammer:  
 __Oz__ _n_ _Iowa would offer the best territory for his American Oz._  
 __oz.__  
@@ -10079,7 +10084,7 @@ __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on mor
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
 __paradigm__ _n_ :two::mute:[paradi~~g~~m]:hammer:  
-__paradox__ _n_ :two: __1__ A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
+__paradox__ _n_ :three: __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
@@ -11657,7 +11662,7 @@ __redos__
 __redoubt__ _n_ :two::hammer: :es: reducto  
 __redoubtable__ _adj_ :five::astonished: That is to be feared; formidable. _Two redoubtable warriors._  
 __redoubted__ _adj_  
-__redress<sup>1</sup>__ _v_ :four: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
+__redress<sup>1</sup>__ _v_ :five: The verb redress is used when you are supposed to fix a problem and make amends. You want your parents to redress the fact that you don’t have a pet. Your parents offer to get a hamster, but instead, you say you want a monkey.  
 __redress<sup>2</sup>__ _n_ :seven: A sum of money paid in compensation for loss or injury. _To seek redress._ _They demanded redress of 146 grievances before they would consent to a new subsidy._  
 __redshirt__ _v_ :four::hammer: (redshirting)  
 __redux__ _adj_ :four: Brought back—used postpositively; revived. _Damian has the veneer of the angry young man redux._ _Is the expensive drug remdesivir just Tamiflu redux?_  
@@ -12290,6 +12295,7 @@ __sass__ _v_ (sassed)
 __sassy__ _adj_ :two::hammer:  
 __satchel__ _n_ :two::hammer:  
 __sated__ _v_  
+__satire__ _n_ Satire is using humor to criticize public figures. Example: When Senator Jackson said “numbers don’t lie,” he forgot that his first name wasn’t “Numbers.”  
 __satori__ _n_ _Zen Buddhism_ The state of sudden indescribable intuitive enlightenment.  
 __satrap__ _n_ __1__ A governor of a province in ancient Persia. __2__ A subordinate ruler, often a despot.  
 __Saturday__ _n_ :mega: /’sæÔødi, -deI/  
@@ -15172,6 +15178,7 @@ __trust__ _n_ (trusts)
 __trustee__ _n_ :two::hammer: _Board of Trustees_  
 __trusties__  
 __trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._  
+__truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
 __trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’s patience and goodwill to the limit.  
@@ -15221,7 +15228,7 @@ __turn-key__ _adj_ :five: A term which describes a complete system (hardware and
 __turnaround__ _n_ :two::hammer:  
 __turndown__ _n_ The act of refusing an offer.  
 __turnip greens__  
-__turnip__ _n_ :three::hammer:  
+__turnip__ _n_ :four: [:scroll: The word turnip is a compound of turn as in turned/rounded on a lathe and neep, derived from Latin napus, the word for the plant.]  
 __turnkey__ _adj_ :four::hammer: _Turnkey property._ _Turnkey solutions._  
 __turnoff__ _n_ One that causes loss of interest or enthusiasm. _The music was a turnoff._  
 __turnout__ _n_ :three::hammer: _The turnout rate._  
