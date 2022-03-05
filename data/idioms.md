@@ -616,6 +616,7 @@ __elephant in the room__ :two: An obvious problem that people do not want to tal
 __Elvis has left the building__ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __empty nester__ _n_ A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
 __end (something) on a high note__ :two: To finish, complete, or leave (something) at a successful, impressive, or climactic point.  
+__end game__  
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  
 __engine room__ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
@@ -1083,7 +1084,7 @@ __I’d say__ In my opinion; it is my estimation that.
 __I’ll be hanged if I do (something)__ I am determined not to do something.  
 __I’m with you__ I agree with you. _A: “Ugh, why did we have to get up so darn early?” B: “Hey, I’m with you—I’d rather sleep in. This early wake-up call was all Mom’s idea.”_  
 __ice maiden__ (pejorative) A coolly composed, unemotional woman; a woman without affection or warmth of feeling.  
-__icing on the cake__ :two::hammer:  
+__icing on the cake__ :three::hammer:  
 __idiom__ _n_ __1__ A speech form or an expression of a given language that is peculiar to itself grammatically or cannot be understood from the individual meanings of its elements, as in _keep tabs on_. :es: modismo  
 __idiot mittens__ Mittens or gloves that are attached to one’s sleeves by a length of yarn or string so as to prevent their being lost.  
 __if (one’s) life depended on it__ Under any circumstances; no matter what. (Used almost exclusively with a negative statement regarding something that one couldn’t or wouldn’t do.) _No way am I going to karaoke night. I couldn’t sing if my life depended on it!_  
@@ -1697,8 +1698,10 @@ __over the course of__ In or during the process of. _I learned over the course o
 __over the hill__ Past the peak of one’s life or career; too old. (Hyphenated if used before a noun.)  
 __over the hills and far away__ To or at some distant, remote point or location. _Rather than focusing on the here and now, John’s ideas for the future are always over the hills and far away._  
 __over the top__  
+__owing to__ Because of; as a result of; due to. _Owing to construction on the highway, please anticipate higher levels of traffic than usual._  
 __pace around__ To walk around nervously or anxiously. _He was pacing around making people nervous._  
 __package deal__ :two: A group of many or various things sold together at a single, often reduced price. _They’re offering a package deal where you buy three DVDs and get a fourth for free._  
+__paint a (some kind of) picture of (something)__ To give an elaborate or detailed description of something that portrays it in a specific way. _The board meeting painted a pretty grim picture of the company’s future._  
 __paint the town red__ Have a good time.  
 __paper chase__ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __pardon my French__ :two: Excuse me for swearing.  
@@ -1730,6 +1733,7 @@ __pick up on (something)__
 __pick-me-up__ Something used to improve a person’s mood or level of energy. _After a long week, I needed a pick-me-up, so I stopped by the salon to get a pedicure._ _I was so drowsy on the way to work, so I stopped by the coffee shop for a little pick-me-up._  
 __pick-up line__ A conversation opener with the intent of engaging an un familiar person for romance or dating.  
 __pie in the sky__ :three::hammer:  
+__piece by piece__ Incrementally; slowly; one piece at a time. In stages, gradually. _Let’s go over your exam paper, piece by piece._ _It took years, but piece by piece we turned this ramshackle old house into a real home._  
 __piece of work__ :three: A remarkable person, achievement, or product: _“He’s a very tough piece of work” (Ted Koppel)._ _You’re a piece of work, Bertrand._  
 __pig in a poke__ _n_ Something purchased, accepted, or acquired without a preliminary examination.  
 __pin (something) down__ _Pinned it down to two locations._  
@@ -1785,6 +1789,7 @@ __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a
 __put off by someone or something__ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put our heads together__ To discuss or plan something together with other people.  
 __put out__ :two::hammer: _Put out the fires._  
+__put the hammer down__ To press down the accelerator (of an automobile) as far as possible; to accelerate to or travel at an automobile’s maximum speed. Primarily heard in US. _It would normally take us three days driving to New York from Colorado, but with my brother putting the hammer down the whole way, we made it in two._  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
 __put up with__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
@@ -2057,6 +2062,7 @@ __the Nikon choir__ The paparazzi or a large group of photojournalists, especial
 __the nosebleeds__ A seating area very high up in a stadium or theater, as for a sporting event, musical performance, play, etc., which typically costs less money but has a restricted view. “Nosebleed” refers jocularly to the effects of extremely high altitudes on the body, which can often cause nasal hemorrhaging, among other symptoms. _I wish you wouldn’t be so stingy when you’re buying tickets. I’m sick of watching football games up in the nosebleeds!_  
 __the other side__ Existence after death; the world of the afterlife. _I miss my wife terribly, but I keep the faith that I will see her on the other side some day._  
 __the proof is in the pudding__ The final results of something are the only way to judge its quality or veracity. _OK, if I did everything right, the engine should work right, but the proof will be in the pudding._  
+__the pump__ _informal_ A gasoline pump, used as a synecdoche to represent gas stations as a whole. _Prices at the pump have been at their lowest since 1995._  
 __the real McCoy__ “The real McCoy” is an idiom and metaphor used in much of the English-speaking world to mean “the real thing” or “the genuine article”, e.g. “he’s the real McCoy”.  
 __the short and the long of it__ The essential or most important point being made; the plain truth of the matter. _Bob, the short and the long of it is that we aren’t satisfied with your performance in work lately._  
 __the sky is the limit__ :three: (the sky’s the limit) Anything is possible; there is practically no limit.  
