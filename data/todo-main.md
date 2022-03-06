@@ -70,3 +70,36 @@ __prosaic__ _adj_ /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, eve
 __feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
 __frowzy__ _adj_  
 __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
+__methadone__ _n_  
+__hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
+__peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
+__deglutition__ _n_ The act or process of swallowing.  
+__fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
+__concomitant__ _adj_  
+__lousy__ _adj_  
+__dread<sup>1</sup>__ _v_  
+__dread<sup>2</sup>__ _n_  
+__dread<sup>3</sup>__ _adj_  
+__dispel__ _v_ _She dispelled the myth._  
+__myth__ _n_  
+__passionate__ _adj_  
+__hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
+__crook__ _n_  
+__fleece__ _v_  
+__high-rise__ _adj_  
+__rummy__ _n_  
+__mistress__ _n_ :mega: /ˈmɪstrɪs/  
+__bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
+__recap__ _v tr_  
+__ready__ _v tr_  
+__tepid__ _adj_  
+__reunite__ _v_  
+__slaughter__ _v tr_  
+__madman__ _n_  
+__tremendous__ _adj_  
+__channel__ _v_  
+__toll__ _n_ :two::hammer:  
+__first-hand__ _adj, adv_  
+__flee__ _v_ :two::hammer: _He was forced to flee Ukraine._  
+__practical joke__ _n_  
+__carpool__ _v_  
