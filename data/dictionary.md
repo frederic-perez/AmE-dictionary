@@ -430,6 +430,7 @@ __anal bleaching__ _n_
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
+__anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anastomosis__ _n_ :two: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
@@ -444,6 +445,7 @@ __andragogy__ _n_ The art or science of teaching adults. The methods or techniqu
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotal__ _adj_ :mega:  
 __anecdotally__  
+__anecdote__ _n_ An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemometer__ _n_ :two::hammer:  
 __anergy__ _n_ /AN-uhr-jee/ [:scroll: From an- (not) + ergon (work). The opposite of sense 1 is energy and the opposite of sense 2, allergy.] __1__ Lack of energy. __2__ The lack of an immune response to a foreign substance.  
@@ -511,6 +513,7 @@ __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, di
 __antiquated__ _adj_ :three::hammer:  
 __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
+__antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
 __antler__ _n_  
 __antral__ _adj_ :two::hammer:  
@@ -543,7 +546,7 @@ __apostasy__ _n_ :two::hammer:
 __apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
 __apostate<sup>2</sup>__ _adj_ Guilty of apostasy.  
 __apostle__ _n_ :mute:[apos~~t~~le]  
-__apostrophe__  
+__apostrophe__ _n_ :two: In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
 __apothegm__ _n_ A short, pithy, and instructive saying or formulation. _Syn_ aphorism _Her mother endlessly repeated the apothegm “cleanliness is next to godliness.”_  
 __apotheosis__ _n_ Exaltation to divine rank or stature. _Syn_ deification, exaltation  
 __appall__ _v_ :five::hammer::pencil2: (appalls, appalled) :es: horrorizar, espantar  
@@ -2659,6 +2662,7 @@ __clicker__ _n_ _slang_ The remote-control device used to change settings on a t
 __clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
 __climactic__ _adj_ _The battle reached climactic fury._  
+__climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
 __climbing__ _n_ :mute:[clim~~b~~ing]  
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
@@ -2986,6 +2990,7 @@ __Connecticut__ _n_ :pencil2:
 __connective tissue__ _n_  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
+__connotation__ _n_ Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
@@ -3002,6 +3007,7 @@ __consigliere__ _n_ An adviser, especially to a leader of an organized crime syn
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
+__consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :seven: /kuhn-spik-yoo-uhs/ (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
 __constituency__ _n_ :six::hammer: (constituencies)  
@@ -4746,7 +4752,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
-__epithet__ _n_ :six::hammer: (epithets) _Walmart removed the racial epithet from the headline._  
+__epithet__ _n_ :seven: (epithets) An epithet is a nickname or descriptive term used to refer to someone. Example: You need to listen to me and not Clueless Kevin over there. _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :two::hammer:  
@@ -4818,7 +4824,7 @@ __etymology__ _n_ :astonished: Study of the sources and development of words.
 __eudaimonia__ _n_ A contented state of being happy and healthy and prosperous.  
 __eulogy__ _n_ :five::hammer:  
 __eunuch__ _n_  
-__euphemism__ _n_ :two: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
+__euphemism__ _n_ :three: /YOO-fuh-miz-um/ [:scroll: Greek euphēmismos, from euphēmizein, _to use auspicious words_, from euphēmiā, _use of auspicious words_ : eu-, eu- + phēmē, _speech_] An agreeable or inoffensive word or phrase that is used instead of one that may offend or suggest something unpleasant. Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area. _The euphemism “passed on” is often used to communicate the unpleasant news that someone has “died.”_  
 __euphoria__ _n_ [:scroll: New Latin, from Greek, from euphoros, _healthy_ : eu-, eu- + pherein, _to bear_] A feeling of great happiness or well-being.  
 __eupnea__ _n_ /yoop-NEE-uh/ [:scroll: From Greek eu- (good) + pnein (to breathe).] Normal breathing.  
 __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movements of the rhythm of musical compositions; used to teach musical understanding. _Syn_ eurhythmics, eurhythmy, eurythmy  
@@ -7553,6 +7559,7 @@ __iron<sup>1</sup>__ _n_ :mega::dart:
 __iron<sup>2</sup>__ _v_ :mega: (ironing)  
 __ironclad__ _adj_ :two::hammer: _Ironclad persistence._ _Ironclad commitment._  
 __ironman__ _n_ :mega::dart: (iron man) A strong man of exceptional physical endurance.  
+__irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
 __irrefutable__ _adj_ _Irrefutable evidence._  
 __irreplaceable__  
 __irrigate__ _v_ :dart:  
@@ -8803,6 +8810,7 @@ __megalomaniac__ _n_ Someone who enjoys power over other people and always wants
 __megalomanic__ _adj_ Suffering from megalomania.  
 __megillah__ _n_ _slang_ A tediously detailed or embroidered account: _told us the whole megillah._  
 __meh__  
+__meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimize the importance or significance of something. Example: We must put an end to this peculiar institution. (“Peculiar institution” is a euphemism for slavery.)  
 __melancholy<sup>1</sup>__ _n_  
 __melancholy<sup>2</sup>__ _adj_ :three::astonished::hammer: _A melancholy man._  
 __mélange__ _n_  
@@ -10376,6 +10384,7 @@ __perseverate__ _v_
 __persnickety__ _adj_ :dart::two::hammer:  
 __persona__ _n_ :two: In Latin, _persona_ originally meant “mask.” _That’s my stage persona._  
 __personal best__ _n_ Personal record, also called “personal best” or “PB,” an athlete’s best performance in a particular event.  
+__personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
 __personify__ _v_  
 __perspicacious__ _adj_ Having keen mental perception and understanding; discerning. :es: perspicaz  
 __perspicuous__ _adj_ Clearly expressed; lucid, plain, distinct.  
@@ -11900,6 +11909,7 @@ __rhapsodize__ _v_ :two::hammer:
 __rhapsody__ _n_ :mute:[r~~h~~apsody] __1__ (music) A composition free in structure and highly emotional in character.  
 __rhathymia__ _n_ :two: Carefree behavior; light-heartedness. The state of being carefree. _Syn_ light-heartedness  
 __rhetoric__ _n_ :pencil2::five::hammer: _State rhetoric._ _From divisive rhetoric to civil dialogue._  
+__rhetorical question__ _n_ A rhetorical question is a question that isn’t intended to be answered. The point of asking the question is to make an audience think or to cause an emotional reaction. Example: Can we really know what our place in the universe is? We have asked ourselves this question for millennia.  
 __rheum__ _n_ :two: A watery or thin mucous discharge from the eyes or nose. :es: legaña  
 __rheumy__  
 __rhinestone cowboy hat__  
@@ -12285,6 +12295,7 @@ __sapphire lidar__
 __sapphire__ _n_ :mute:[sa~~p~~phire]  
 __sappy__ _adj_ _Sappy smile._  
 __Saran wrap__ _n_ :two::dart: _(Cookery)_ A thin, clear, stretchy plastic sheeting used as a moisture-proof wrapping.  
+__sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
 __sarcophagi__ _n_  
 __sarcophagus__ _n_ :two: A stone coffin, often inscribed or decorated with sculpture.  
 __sartorial__  
@@ -12966,6 +12977,7 @@ __Silver State__ _n_ Nevada.
 __Silver Tsunami__ _n_ (Grey Tsunami, Gray Tsunami, Silver Wave, Gray Wave, Grey Wave) A metaphor used to describe population aging.  
 __silver-tongued__ _adj_ :two: Persuasive; eloquent: _silver-tongued salesman._  
 __silverplate__ _v_  
+__simile__ _n_ A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
 __simmer down__  
 __simmer__ _v_ :nine::m: (simmers, simmering) (of water or food that is being heated) Stay just below boiling point while bubbling gently. _The goulash was simmering slowly in the oven._ _Syn_ boil gently, not quite boil, cook gently, poach _The Family Corleone is filled with the smell of simmering tomato sauce._ :es: hervir a fuego lento, estar a punto de hervir  
 __Simon Says__ _n_ :two::hammer:  

@@ -1,18 +1,3 @@
-__simile__ _n_ A simile is a comparison in which something is said to figuratively be like something else. Example: It was as hot as a desert this morning.  
-__irony__ _n_ In rhetoric, the notoriously confusing word irony means to use words to mean the opposite of their literal meaning. Example: Ashley said it was a beautiful day while drying off from the drenching rain. (Ashley ironically referred to poor weather as “beautiful.”)  
-__personification__ _n_ Personification is the act of giving human elements to non-human things. Example: The beautiful valley spread its arms out and embraced us.  
-__anecdote__ _n_ An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
-__euphemism__ _n_ Euphemism is using alternative language to refer to explicit or unpleasant things. Example: The baseball struck him in a sensitive area.  
-__connotation__ _n_ Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
-__meiosis__ _n_ As a rhetorical device, meiosis means using euphemism to minimize the importance or significance of something. Example: We must put an end to this peculiar institution. (“Peculiar institution” is a euphemism for slavery.)  
-__apostrophe__ _n_ In rhetoric, apostrophe occurs when a writer or speaker directly addresses an absent person, a concept, or an inanimate object. Example: You have made a fool out of me for the last time, washing machine!  
-__antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
-__sarcasm__ _n_ Sarcasm is using irony to mock something or to show contempt. Example: Oh, yeah, he is a great guy. A great guy who took the last slice of pizza.  
-__consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
-__rhetorical question__ _n_ A rhetorical question is a question that isn’t intended to be answered. The point of asking the question is to make an audience think or to cause an emotional reaction. Example: Can we really know what our place in the universe is? We have asked ourselves this question for millennia.  
-__epithet__ _n_ An epithet is a nickname or descriptive term used to refer to someone. Example: You need to listen to me and not Clueless Kevin over there.  
-__anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
-__climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
 __cacophony__ _n_ Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake.  
 __assonance__ _n_ Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
 __pun__ _n_ A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other.  
