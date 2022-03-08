@@ -528,7 +528,7 @@ __apartheid__ _n_ :mega:
 __apartment__ _n_  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
-__aphorism__ _n_ :three: A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
 __aping__  
@@ -694,6 +694,7 @@ __assist__ _n_ _Green had 14 rebounds and nine assists._
 __assistance animal__ _n_  
 __assizes__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
+__assonance__ _n_ Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :six::hammer: (assuaged)  
 __assurance__ _n_ :two::hammer: (assurances)  
@@ -2017,7 +2018,7 @@ __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll ju
 __cacoethes__ _n_ :three: /kak-oh/uh-WEE-theez/ [:scroll: From Greek kakoethes (ill-disposed), from kakos (bad) + ethe (disposition).] (Pathology) An uncontrollable urge or desire, esp for something harmful. An irresistible urge to do something, especially something inadvisable; mania: _a cacoethes for smoking._  
 __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch  
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
-__cacophony__ _n_ :three: Jarring, discordant sound; dissonance. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
+__cacophony__ _n_ :four Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
@@ -2808,6 +2809,7 @@ __collinear__ _adj_ :pencil2:
 __Collins glass__  
 __collocation__ _n_ (collocations)  
 __colloquial__ _adj_  
+__colloquialism__ _n_ A colloquialism is an instance of informal language or a local expression. The act of using such language is also called colloquialism. Example: Here in Philly, we love to eat hoagies and all kinds of tasty jawns.  
 __colloquium__  
 __collude__ _v_ :three: Act in unison or agreement and in secret towards a deceitful or illegal purpose. _Syn_ conspire, connive _Several local officials have been jailed on charges of colluding with the Mafia._  
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
@@ -4755,7 +4757,7 @@ __epistolary__ _adj_ Relating to the writing of letters.
 __epithet__ _n_ :seven: (epithets) An epithet is a nickname or descriptive term used to refer to someone. Example: You need to listen to me and not Clueless Kevin over there. _Walmart removed the racial epithet from the headline._  
 __epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
-__eponym__ _n_ :two::hammer:  
+__eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
 __Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
@@ -4911,7 +4913,7 @@ __expenditure__ _n_ :seven: (expenditures) In a trip budget, you need to add up 
 __expertise__  
 __expiate__ _v_ :two: __1__ To extinguish the guilt incurred by. __2__ To make amends for.  
 __explant__ _v_ To remove (living tissue) from the natural site of growth and place in a medium for culture.  
-__expletive__ _n_ :two::hammer::pencil2: _Bombing the expletive oout of its oil fields._  
+__expletive__ _n_ :three::hammer::pencil2: In rhetoric, an expletive is an interrupting word or phrase used for emphasis. Example: The eggs were not, in any sense of the word, delicious. _Bombing the expletive out of its oil fields._  
 __explicate__ _v_  
 __explication__ _n_  
 __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:  
@@ -8877,6 +8879,7 @@ __Messrs__ _n_ The plural of Mr. _Messrs. Reagan and Busch..._
 __messtin__ _n_  
 __metal flashing__  
 __metal shavings__  
+__metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
 __metaphor__ _n_ A metaphor is a comparison in which something is said to figuratively be something else. Example: He was a wolf among sheep.  
 __metaphysical__ _adj_  
 __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._  
@@ -8886,6 +8889,7 @@ __meter__ _n_ _The cab driver waited with the meter running._
 __metheglin__ _n_ :two::hammer:  
 __methinks__  
 __meticulous__ _adj_ :two: Marked by extreme or excessive care in the consideration or treatment of details.  
+__metonymy__ _n_ Metonymy is when the name of something is replaced with something related to it. Example: He loved music from the cradle (birth) to the grave (death).  
 __metro<sup>1</sup>__ _n_ A subway system.  
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
@@ -10098,6 +10102,7 @@ __paradoxically__
 __paraglider__ _n_ :es: parapente; parapentista  
 __paragon__ _n_ :six: (paragons) Model of excellence or perfection of a kind; one having no equal. _A paragon of redundancy._  
 __parakeet__ _n_ :mega: :es: periquito  
+__parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
 __paralysis__ _n_ :mega:  
 __paralyze__ _v_ :two::pencil2::hammer: (paralyzed)  
 __paramount__ _adj_ :two::hammer: _The reliability of the weather station is paramount._  
@@ -10123,6 +10128,7 @@ __pard__
 __pardon__ _v_ _Pardon my ignorance._  
 __pare__ _v_ :three::hammer: (pares, pared)  
 __pareidolia__ _n_ The perception of a recognizable image or meaningful pattern where none exists or is intended, as the perception of a face in the surface features of the moon.  
+__parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
 __pariah__ _n_ :five::hammer:  
 __parietal__ _adj_ _The parietal portion of the skull._  
 __paring knife__ _n_  
@@ -10136,6 +10142,7 @@ __parley<sup>2</sup__ _v_ :two::hammer: _The Prince’s chief knights came under
 __parliament__ _n_ :pencil2::two::hammer:  
 __parlor__  
 __parochial__ _adj_ :four::hammer:  
+__parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
 __parolee__ _n_  
 __paroxysm__ _n_ :two::hammer:  
 __paroxysmal__ _adj_ :two: Sudden and uncontrolled.  
@@ -11232,7 +11239,7 @@ __pummel__ _v_ :five::hammer: (pummeled)
 __pump<sup>1</sup>__ _n_ :three: __5__ _informal_ The place where consumers purchase gasoline. Used with the: _gas prices rising at the pump._ _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
 __pumpkin spice__ _n_  
-__pun<sup>1</sup>__ _n_ :four::hammer: :es: juego de palabras  
+__pun<sup>1</sup>__ _n_ :five: A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other. :es: juego de palabras  
 __pun<sup>2</sup>__ _v_  
 __punch out__ _v_  
 __punch<sup>1</sup>__ _n_ A beverage of fruit juices and sometimes a soft drink or carbonated water, often spiced and mixed with a wine or liquor base.  
@@ -14365,7 +14372,7 @@ __swooshing__
 __sword__ _n_ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
-__syllogism__ _n_ :three::hammer:  
+__syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
 __sylvan__  
 __sympathetic__  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
@@ -14375,6 +14382,7 @@ __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
+__synecdoche__ _n_ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
 __synesthesia__ _n_  
 __synod__ _n_ :pencil2:  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
@@ -15377,7 +15385,7 @@ __underscore__ _v_ :five: (underscored, underscoring) Give extra weight to (a co
 __undersecretary__  
 __understandably__ _adv_ :two::hammer:  
 __understated__ _adj_  
-__understatement__ _n_ :two::hammer:  
+__understatement__ _n_ :three: Understatement is using language to intentionally lessen a major thing or event. Example: The erupting volcano was a little problem for the neighboring city.  
 __understudy__ _v_  
 __undertake__ _v_ :three::hammer: _A video of cyclists overtaking and undertaking a horse rider._ _He agreed to undertake the great riddance._  
 __undertaker__ _n_  

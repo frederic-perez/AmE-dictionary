@@ -1,18 +1,3 @@
-__cacophony__ _n_ Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake.  
-__assonance__ _n_ Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
-__pun__ _n_ A person is making a pun when they humorously use words with multiple meanings or words with similar sounds to create wordplay. Example: The farmer tried to get his cows to get along, but they insisted on having a beef with each other.  
-__parallelism__ _n_ Parallelism is using grammatically similar phrases or sentences together. Example: Fool me once, shame on you. Fool me twice, shame on me.  
-__aphorism__ _n_ An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned.  
-synecdoche__ _n_ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
-__parody__ _n_ Parody is an imitation of something with the intent to poke fun at it. Example: If Edgar Allen Poe had written this speech, it might have opened with “Here we are, weak and weary, gathered on a Monday dreary.”  
-__colloquialism__ _n_ A colloquialism is an instance of informal language or a local expression. The act of using such language is also called colloquialism. Example: Here in Philly, we love to eat hoagies and all kinds of tasty jawns.  
-__understatement__ _n_ Understatement is using language to intentionally lessen a major thing or event. Example: The erupting volcano was a little problem for the neighboring city.  
-__syllogism__ _n_ Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
-__eponym__ _n_ An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
-__metonymy__ _n_ Metonymy is when the name of something is replaced with something related to it. Example: He loved music from the cradle (birth) to the grave (death).  
-__parenthesis__ _n_ In rhetoric, parenthesis is an interruption used for clarity. Example: The audience, or at least the paying members of the audience, enjoyed the show.  
-__expletive__ _n_ In rhetoric, an expletive is an interrupting word or phrase used for emphasis. Example: The eggs were not, in any sense of the word, delicious.  
-__metanoia__ _n_ In rhetoric, metanoia refers to any instance of self-correction. Metanoia can involve things like retracting a previous statement to replace it with a new one or amplifying a previous statement by using stronger language. Example: We’ll work on it on Sunday. No, let’s make that Monday—it’s the weekend after, all!  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __levy__ _v_  
