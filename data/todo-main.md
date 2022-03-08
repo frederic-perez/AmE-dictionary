@@ -92,3 +92,27 @@ __baneful__ _adj_ Causing harm, ruin, or death; harmful. _Syn_ pernicious, pesti
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __captious__ _adj_ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
+__court hearing__ _n_ (?)  
+__constructive__ _adj_ _Constructive criticism._  
+__adage__ _n_ _The adage goes: you can’t con an honest man._  
+__fast-talk__ (?)  
+__neighborhing__ _adj_ (typo?)  
+__ceasefire__ _n_ :two::hammer:  
+__golf__ _n_ :mega:  
+__escalate__ _v_  
+__cringe__ _v_  
+__critical mass__  
+__ouch__ _exclamation_  
+__a-huh__ (???)  
+__native__ _n_  
+__misnomer__ _n_  
+__shell__ _v_ :two::hammer: _The Russians are shelling us._  
+__unfold__ _v_  
+__narrative__ _n_  
+__well-read__ _adj_  
+__nesting doll__ _n_ (?)  
+__pummel__ _v_  
+__pit__ _n_ _A pit of snakes._  
+__akin__ _adj_ :mega:  
+__hellish__ _adj_  
+__Bennifer__ (???)  
