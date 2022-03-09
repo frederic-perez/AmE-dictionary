@@ -712,6 +712,7 @@ __astringent__
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
 __asunder__ _adv_ :five::hammer: _A world torn asunder by evil and hate._  
+__asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
 __At ease!__ _phr_ :four: Allowed to refrain from being in rigid formation.  
 __at the earliest__  
 __at the very least__  
@@ -2444,6 +2445,7 @@ __cherub__ _n_ /CHER-uhb/ [:scroll: From Latin cherubim, from Greek kheroubin, f
 __chestnut__ _n_ :three::mute:[ches~~t~~nut]:hammer:  
 __chevron__ _n_  
 __chewed up__  
+__chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
 __chicanery__ _n_ :five: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __chicken > game of chicken__  
@@ -3816,6 +3818,7 @@ __destigmatize__ _v_
 __destitute__ _adj_ :six::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
+__detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
@@ -3950,6 +3953,7 @@ __disbar<sup>1</sup>__ _n_ _Disbar attorney._
 __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)  
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
+__discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  
@@ -4629,7 +4633,7 @@ __emissary__ _n_ :two: __1__ One designated as the agent of another. _Syn_ repre
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
-__emollient__ _adj_ :three::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__emollient__ _adj_ :four: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emote__ _v_  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
@@ -4651,6 +4655,7 @@ __enactment__
 __enamel__ _n_ :two::hammer: :es: esmalte  
 __enamored__  
 __encampment__ _n_ :two::hammer:  
+__encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enclave__ _n_ /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :five::hammer: (encompasses)  
@@ -5091,7 +5096,7 @@ __fathom<sup>1</sup>__ _v_ :five::hammer:
 __fathom<sup>2</sup>__ _n_ (fathoms)  
 __fathomless__ _adj_ __1__ Too deep to be fathomed or measured. :es: insondable __2__ Too obscure or complicated to be understood.  
 __fatigue__  
-__fatigues__ _n_ :three: Clothing worn by military personnel for labor or for field duty.  
+__fatigues__ _n_ :four: Clothing worn by military personnel for labor or for field duty.  
 __fatiguing__ _adj_ Causing physical or mental weariness or exhaustion.  
 __fatso__  
 __fatuous__ _adj_ :three: Foolish or inane, esp. in an unconscious, complacent manner; silly. Foolish or silly, especially in a smug or self-satisfied way. _Syn_ asinine _He made these fatuous pronouncements with such conviction that no one dared to contradict him._  
@@ -6360,6 +6365,7 @@ __guidette__ _n_ (guidettes) _slang, US, ethnic slur_ [:scroll: guido + _-ette_]
 __guild__ _n_ :mega: _The brass guild._  
 __guile__ _n_ :five: __1__ Treacherous cunning; skillful deceit. _Navarre preferred guile and treachery._ __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
+__guillemet__ _n_ One of two marks (« or ») used in French, Italian, and Russian printing to enclose quotations.  
 __guillotine__ _n_ :mega:  
 __guilt__ _n_ :mute:[g~~u~~ilt]  
 __guinea pig__ _n_ :mega:  
@@ -6709,7 +6715,7 @@ __hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)
 __hedonic__  
 __Hedonism__  
 __heed__ _v_ :nine::m: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
-__heedless__  
+__heedless__ _adj_ :two: /hēd′lĭs/ Marked by or paying little heed; unmindful or thoughtless.  
 __heedlessly__  
 __heel<sup>1</sup>__ _n_ _A heel who learns how to be a good egg._  
 __heel<sup>2</sup>__ _v_  
@@ -8205,7 +8211,7 @@ __leverage<sup>2</sup>__ _v_ :five::hammer:
 __leviathan__ _n_ :two::hammer:  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
-__levy<sup>1</sup>__ _v_ :five::hammer: (levying) _The levy of taxes on clerical income._  
+__levy<sup>1</sup>__ _v_ :six::hammer: (levying) _The levy of taxes on clerical income._  
 __levy<sup>2</sup>__ _n_ :five::hammer: (levies) _Infantry levies._ _The UK soft drinks industry levy was one of the first taxes explicitly designed to incentivise manufacturers to reduce sugar content._  
 __lewd__ _adj_ :three::hammer:  
 __lexical__ _adj_  
@@ -11148,7 +11154,7 @@ __proselytism__ _n_ :astonished:
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
 __prosopopoeia__ _n_ Representing an abstract quality or idea as a person or creature personification.  
 __prospect__ _n_ (sports)  
-__prospective__ _adj_ :two: _Prospective clients._  
+__prospective__ _adj_ :three::hammer: _Prospective clients._  
 __prospector__  
 __prospectus__  
 __prosthetic__ _adj_  
@@ -12322,6 +12328,7 @@ __satyr__
 __sauce__ _n_  
 __saucerful__  
 __saucy__  
+__sauna__ _n_ :mega: /ˈsɔːnə/  
 __saunter__ _v_ :four: (sauntered) To walk in a casual manner; stroll. _Lynn sauntered to the edge of the stage._  
 __sausage dog__ _n_ An informal name for dachshund. _Syn_ sausage hound  
 __sausage party__ _n_ :two: (slang, derogatory) A gathering with many more men than women.  
@@ -13759,7 +13766,7 @@ __stairwell__ _n_ :three::camera: _(Architecture)_ A vertical shaft or opening t
 __stake truck__ _n_ :camera:  
 __stake__ _n_  
 __stakeholder__ _n_ :three::hammer:  
-__stakeout__ _n_ :three::hammer: (stakeouts)  
+__stakeout__ _n_ :four::hammer: (stakeouts)  
 __stakes__ _n_  
 __stale antiperspirant__  
 __stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
@@ -14781,7 +14788,7 @@ __ticket__ _n_ __5__ (Government, Politics & Diplomacy) chiefly US and NZ the gr
 __tickle__ _v_ :five::hammer: _Does that tickle?_ _They could tickle a man to death._  
 __tickler__ _n_ :three::hammer: _Tickler information._ _Tickler system._  
 __tickling__ _n_  
-__ticklish__ _adj_ :three: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
+__ticklish__ _adj_ :four: If you are ticklish, you quickly feel uncomfortable when someone lightly touches your skin to make you laugh.  
 __ticky-tacky__ _adj_ _The ticky-tacky plan._  
 __Tico__ _n_ A native or inhabitant of Costa Rica.  
 __tidbit__ _n_ :six::pencil2::hammer: (tidbits) _He fed the cat tidbits._  

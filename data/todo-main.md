@@ -1,18 +1,3 @@
-__chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
-__asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
-__levy__ _v_  
-__upend__ _v_ :two::hammer:  
-__ticklish__ _adj_  
-__stakeout__ _n_  
-__fatigues__ _n_  
-__guillemet__ _n_ One of two marks (« or ») used in French, Italian, and Russian printing to enclose quotations.  
-__prospective__ _adj_  
-__sauna__ _n_ :mega: /ˈsɔːnə/  
-__heedless__ _adj_ /hēd′lĭs/ Marked by or paying little heed; unmindful or thoughtless.  
-__encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
-__emollient__ _n_ (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin.  
-__discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
-__detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
 __medic__ _n_  
 __strive__ _v_ _We strive for peace._  
 __demonize__ _v tr_  
