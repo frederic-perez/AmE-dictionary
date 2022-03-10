@@ -1,18 +1,3 @@
-__medic__ _n_  
-__strive__ _v_ _We strive for peace._  
-__demonize__ _v tr_  
-__rear<sup>1</sup>__ _v tr_ :astonished: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
-__rear<sup>2</sup>__ _v intr_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
-__flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, four finger holes, and two thumbholes.  
-__recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
-__foolhardy__ _adj_ Unwisely bold or venturesome; rash.  
-__temerity__ _n_ Foolhardy disregard of danger; recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
-__lowbrow<sup>1</sup>__ _n_ One having uncultivated tastes.  
-__lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
-__kitsch__ _n_ /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
-__misanthropic__ _adj_  
-__expostulate__ _v_  
-__freshet__ _n_ /ˈfrɛʃɪt/  
 __disgruntle__ _v_ To make sulky or discontented.  
 __cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __trying__ _adj_ /ˈtraɪɪŋ/ :dart: Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  

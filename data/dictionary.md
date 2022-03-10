@@ -3741,7 +3741,7 @@ __demean__ _v_ :five::hammer: (demeaned, demeaning)
 __demeanor__ _n_  
 __demigod__  
 __demographic__ _adj_  
-__demonize__ _v_ :four::hammer: (demonizing)  
+__demonize__ _v tr_ :five::hammer: (demonizing)  
 __demonstrate__ _v_ :pencil2:  
 __demonstration__ _n_  
 __demonstrators__  
@@ -4925,7 +4925,7 @@ __exploit<sup>1</sup>__ _n_ :two::mega::astonished::hammer:
 __exploit<sup>2</sup>__ _v_ :mega:  
 __exposé__ _n_ :two: A public revelation, as of something discreditable: _a magazine exposé of political corruption._  
 __expose__ _v_  
-__expostulate__ _v_ :two::hammer:  
+__expostulate__ _v_ :three::hammer:  
 __exposure__ _n_ (exposures) _Penthouse features include multiple exposures._  
 __expound__ _v_  
 __expropriate__ _v_ To take (a property) for public use.  
@@ -5331,6 +5331,7 @@ __flag<sup>1</sup>__ _v_ :two::hammer:
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
 __flagellant__ _n_  
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
+__flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, four finger holes, and two thumbholes.  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
@@ -5517,7 +5518,7 @@ __fool’s gold__
 __fool<sup>1</sup>__ _n_  
 __fool<sup>2</sup>__ _v_ _Don’t fool yourself—that’s phony bullshit._  
 __fool<sup>3</sup>__ _adj_ _informal_  
-__foolhardy__ _adj_ :three: Unwisely bold or venturesome; rash.  
+__foolhardy__ _adj_ :four: Unwisely bold or venturesome; rash.  
 __foolproof__ _adj_ :four: Unable to fail. _A foolproof method._  
 __foosball__ _n_ :four::hammer: _Foosball table._  
 __foot-stomping__  
@@ -5689,7 +5690,7 @@ __frenetic__ _adj_
 __frenzy__ _n_ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
-__freshet__ _n_ The occurrence of a water flow resulting from sudden rain or melting snow.  
+__freshet__ _n_ :two: /ˈfrɛʃɪt/ The occurrence of a water flow resulting from sudden rain or melting snow.  
 __fret away__  
 __fret<sup>1</sup>__ _v_ :nine::m: (fretted, fretting) __1__ To distress or be distressed; worry. _He fretted over his parents._ __2__ To rub or wear away. __3__ To irritate or be irritated; feel or give annoyance or vexation.  
 __fret<sup>2</sup>__ _n_ :two: A state of irritation or anxiety.  
@@ -7895,7 +7896,7 @@ __kitchen range__
 __kitchenware__  
 __kite__ _n_ _He burned his kite at NOPD with pills and booze and by killing a government witness._  
 __kites__ _n_  
-__kitsch__  
+__kitsch__ _n_ :two::pencil2: /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
 __kitten__  
 __kiwi__  
 __kleptocracy__ _n_ :two: A government characterized by rampant greed and corruption.  
@@ -8465,7 +8466,8 @@ __low-key__ _adj_ :five::hammer: (low key) _A low-key peddler._
 __low-res__ _adj_ _informal_ Low-resolution.  
 __low-slung__ _adj_ _Low-slung school._  
 __low-tech__ _adj_ _I’m a low-tech type._  
-__lowbrow__  
+__lowbrow<sup>1</sup>__ _n_ :two: One having uncultivated tastes.  
+__lowbrow<sup>2</sup>__ _adj_ Uncultivated; vulgar.  
 __lowdown__ _n_ _slang_ :six: The real and unadorned facts; the whole truth: _gave us the lowdown on what happened at the party._ _Give me the lowdown on the situation._ _The lowdown on cycle network innovations._ _Here’s the lowdown of what you can’t afford to miss._  
 __Lower Forty-Eight__ _n_ (lower forty-eight, Lower 48, lower 48) The United States aside from Alaska and Hawaii; the 48 contiguous states of the United States.  
 __lowing__ _v_ :two::hammer:  
@@ -8798,7 +8800,7 @@ __meddlesome__ _adj_
 __meddling__ _adj_  
 __medevac helicopter__  
 __medevac__ _v_  
-__medic__ _n informal_ A doctor, medical orderly, or medical student.  
+__medic__ _n informal_ :two: A doctor, medical orderly, or medical student.  
 __medical discharge__ _n_ Patient discharge, the formal ending of inpatient care. _A medical discharge._  
 __medical school syndrome__ _n_  
 __meditate__ _v_ Reflect deeply on a subject. _Syn_ mull, muse, ponder, think over, excogitate, ruminate, speculate, contemplate  
@@ -8988,7 +8990,7 @@ __mire<sup>2</sup>__ _v_ :pencil2::nine::m: (mired) __1a__ To cause to sink or b
 __mirth__ _n_ :five: Gladness and merriment, especially when expressed by laughter. _Syn_ glee, gleefulness, hilarity, mirthfulness  
 __mirthful__  
 __misadventure__ _n_ An instance of misfortune.  
-__misanthropic__ _adj_ Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
+__misanthropic__ _adj_ :two: Characterized by a hatred or mistrustful scorn for humankind. _Syn_ cynical _Perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once._  
 __misbegotten__ _adj_ :two::hammer: /miss-bih-GAH-tun/  
 __miscarriage__ _n_ :two::hammer:  
 __miscarry__ _v_  
@@ -11610,6 +11612,8 @@ __reamer__ _n_
 __reap__ _v_ _Reaping the benefits._  
 __reapportion__ _v_  
 __reappraise__ _v_ To make a fresh appraisal or evaluation of.  
+__rear<sup>1</sup>__ _v tr_ :astonished: __1__ To care for (children or a child) during the early stages of life; bring up. __2__ To tend (growing plants or animals). __3__ To build; erect.  
+__rear<sup>2</sup>__ _v intr_ __1__ To rise on the hind legs, as a horse. __2__ To rise high in the air; tower.  
 __reasonable__  
 __reasoned__ _v_  
 __reassurance__ _n_ _Igor’s reassurances did not stifle the fear._  
@@ -11650,6 +11654,7 @@ __recollection__ _n_ :six::hammer:
 __reconcile__ _v_  
 __reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
 __recooled__  
+__recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
 __recording__ _n_ _When I call, I get a recording. There is never anyone in._  
 __recounting__ _n_ :two::hammer: _His recounting._  
 __recoup__ _v_ :six: To recoup is a kind of recovery: If you lost some money but then made that amount back, you recouped your loss.  
@@ -14085,7 +14090,7 @@ __stringer__ _n_ :four::hammer: _He has climbed from a fifth stringer to a team 
 __strip mall__ _n_  
 __strip__ _n_ __2__ A comic strip. _The Peanuts strips._  
 __stripling__ _n_  
-__strive__ _v_ :five::hammer:  
+__strive__ _v_ :six::hammer: _We strive for peace._  
 __striver__ _n_ :two: (strivers) One who is industrious and diligent in carrying out tasks or duties. _Syn_ hard worker  
 __strobe light__ _n_ _The Cubs packed up their fog machine and strobe lights._  
 __strobe__ _n_ :two::hammer: _Strobe lighting._ _Writhing in the strobe lights after dark._  
@@ -14585,7 +14590,7 @@ __telltale<sup>2</sup>__ _adj_ _I exhibit the telltale symptoms of the workaholi
 __tellurian<sup>1</sup>__ _adj_ :two: Of or characteristic of the earth of its inhabitants; terrestrial.  
 __tellurian<sup>2</sup>__ _n_ (esp in science fiction) An inhabitant of the earth.  
 __telluric__ _adj_  
-__temerity__ _n_ Excessive boldness or rashness; foolhardiness or recklessness.  
+__temerity__ _n_ :two: Excessive boldness or rashness; foolhardiness or recklessness. _Syn_ audaciousness, audacity _Everyone was shocked at her temerity in addressing the king in such a manner._  
 __temp<sup>1</sup>__ _n_ :two: (temps) __1__ A temporary worker, as in an office. __2__ Temperature. _Subzero temps._ _Temps dropped into the 30s._  
 __temp<sup>2</sup>__ _adj_ :two::hammer: _A temp job._ _A temp agency._  
 __temper__ _v_ :seven::hammer: (tempered)  
