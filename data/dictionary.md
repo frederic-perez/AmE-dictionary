@@ -383,6 +383,7 @@ __aluminum__ _n_ :four::pencil2::hammer:
 __alumni__ _n pl_ :two::hammer:  
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
+__amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambiguous__ _adj_ /am-big-yoo-uhs/  
@@ -1192,7 +1193,7 @@ __beseechingly__
 __beseechment__  
 __beset__ _v_ :nine: __1__ Annoy continually or chronically. _Suyn_ chevvy, chevy, chivvy, chivy, harass, harry, hassle, molest, plague, provoke :es: plagado _The development and approval of the Novavax vaccine has been beset by delays._ __2__ To attack on all sides _Syn_ set upon _The zebra was beset by leopards._ __3__ To surround; hem in: _a village beset by dense forest._ __4__ Decorate or cover lavishly (as with gems). To stud. _Syn_ incrust, encrust _A gold bracelet beset with jewels._  
 __besmeared__ _v_  
-__besmirch__ _v_ :six: (besmirched, besmirching) Charge falsely or with malicious intent; attack the good name and reputation of someone. To stain; sully: _a reputation that was besmirched by slander._ _Syn_ asperse, calumniate, defame, slander, denigrate, sully, smear _She denied everything the tabloids wrote about her, stating that they were only trying to besmirch her reputation._  
+__besmirch__ _v_ :seven: /bih-SMERCH/ /bɪˈsmɜrtʃ/ (besmirched, besmirching) Charge falsely or with malicious intent; attack the good name and reputation of someone. To stain; sully: _a reputation that was besmirched by slander._ _Syn_ asperse, calumniate, defame, slander, denigrate, sully, smear _She denied everything the tabloids wrote about her, stating that they were only trying to besmirch her reputation._  
 __besot__ _v_ (besotted) :six: To muddle or stupefy, as with alcoholic liquor or infatuation.  
 __bespeak__ _v_ (bespoke) :four::hammer:  
 __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and bespectacled Socialist._  
@@ -2309,7 +2310,7 @@ __ceasefire__
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
-__celery__ _n_ :seven: A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
+__celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __celibacy__ _n_  
 __cellist__ _n_ :two::hammer:  
 __cellophane__  
@@ -7512,6 +7513,7 @@ __internecine__ _adj_
 __internment__ _n_  
 __internship__  
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
+__interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine: (interspersed) __1__ To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__  
@@ -8868,7 +8870,7 @@ __merchant__
 __mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
 __mere__ _adj_ :four::hammer: _From mere $200._  
-__meretricious__ _adj_ :two::hammer:  
+__meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
 __meringue__ _n_ :five: Meringue is a very sweet dessert or dessert topping that’s made out of egg whites and sugar. Meringue is so light and airy that it melts on your tongue. _Meringue pie._  
 __merino__ _n_ __1a__ Any of a breed of sheep, originally from Spain, having long fine wool. __b__ The wool of this sheep.  
 __merit__ _n_ :two::hammer:  
@@ -10800,7 +10802,7 @@ __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also po
 __polymath__ _n_ :five::hammer:  
 __polystyrene__  
 __pomander__ _n_ :two: __1__ (Historical Terms) A mixture of aromatic substances in a sachet or an orange, formerly carried as scent or as a protection against disease.  
-__pomegranate__ _n_ :two::hammer: (pomegranates)  
+__pomegranate__ _n_ :three::hammer: /ˈpɒməgrænɪt/ (pomegranates)  
 __pompadour__ _n_ :four: A man’s hairstyle in which the hair is combed back from the forehead without a parting. _The matching pompadours of father and son._ _Pompadour permanent._  
 __pompous__ _adj_ :two::hammer:  
 __ponce__ _n_  
@@ -11548,6 +11550,7 @@ __ratched__
 __ratchet (something) up/down__ _v_ :nine::m: To increase, or make something increase, repeatedly and by small amounts. _They intend to ratchet up the pressure on Iran._ _Analysts have been ratcheting down estimates._  
 __ratchet<sup>1</sup>__ _n_ :three::hammer:  
 __ratchet<sup>2</sup>__ _v_ To cause to move by steps or degrees—usually used with up or down. _I heard the phone booth door ratchet back violently on its hinges._  
+__ratchet<sup>3</sup>__ _adj_ _slang_ Lacking in class, refinement, or good taste.  
 __rate<sup>1</sup>__ _n_ _I was falling at the same rate as the feathers._  
 __rate<sup>2</sup>__ _v_  
 __rathole__  
@@ -11954,7 +11957,7 @@ __ricochet<sup>1</sup>__ _v_ :five::mega::mute:[ricoche~~t~~]:hammer:
 __ricochet<sup>2</sup>__ _n_ :two::hammer:  
 __rictus__ _n_ __1__ A fixed or unnatural grin or grimace, as in horror or death. An expression in which someone shows their teeth in a smile, but looks strange or in pain rather than looking happy and relaxed. __2__ (Biology) The gap or cleft of an open mouth or beak.  
 __riddance__ _n_ :five::hammer: _He agreed to undertake the great riddance._  
-__riddle<sup>1</sup>__ _n_ :seven::hammer: _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
+__riddle<sup>1</sup>__ _n_ :eight: /RID-ul/ __1__ A mystifying, misleading, or puzzling question posed as a problem to be solved or guessed. _A rebus is a riddle that is made up of a representation of syllables or words by using pictures or symbols._ __2__ Something or someone difficult to understand. _The new employee doesn’t share many details about his background and personal life, so he remains something of a riddle._ _The Mad Tea-Party in Alice’s Adventures in Wonderland is famous for its riddle with no answer._  
 __riddle<sup>2</sup>__ _v_ :six::hammer: (riddled, riddling) _Chinese society is riddled with contradictions._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __riddled__ _adj_  
 __ride-along__ _n_ An arrangement for a civilian to spend a shift in the passenger seat of an emergency vehicle, observing the work day of a police officer, firefighter, alcohol salesperson, or paramedic.  
@@ -12215,6 +12218,7 @@ __rustle__ _v_ :seven::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sou
 __rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves blowing in the wind. _The rustling of forest leaves._  
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
+__rutabaga__ _n_ /ˌruːtəˈbeɪgə/ :es: nabo  
 __ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __Rx lab__  
@@ -12299,7 +12303,7 @@ __sandwich<sup>1</<up>__ _n_ :mute:[san~~d~~wich]
 __sandwich<sup>2</<up>__ _v_ :mute:[san~~d~~wich]  
 __sandy__ _adj_ :two: __3__ Of the color of sand; light yellowish brown. _Sandy hair; sandy-haired._  
 __sang-froid__ _n_ :three: (sangfroid) Coolness and composure, especially in trying circumstances.  
-__sanguine__ _adj_ :eight::astonished: /SANG-gwin/ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._  
+__sanguine__ _adj_ :nine::astonished: /SANG-gwin/ __1__ Confidently optimistic. _The young CEO is sanguine about the struggling company’s future._ __2__ Of a healthy reddish color. _Syn_ rubicund, ruddy _He had a sanguine complexion that was matched by his cheerful outlook._  
 __sanguinolency__ _n_ Addiction to bloodshed.  
 __sanitation__ _n_ _Sanitation systems._  
 __sanitize__ _v_  
@@ -14600,7 +14604,7 @@ __temperance__
 __temperate__ _adj_ _A temperate climate._  
 __tempered__ _adj_  
 __tempering__ _adj_ _A tempering experience_  
-__tempestuous__ _adj_ :two::hammer:  
+__tempestuous__ _adj_ :three: /tem-PESS-chuh-wus/ Of, relating to, or resembling a tempest. _Syn_ turbulent, stormy _Because the player’s relationship with his manager had grown more tempestuous over the course of the season, the decision to trade him benefited everyone._  
 __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)  
 __Tempranillo__  
 __tenable__ _adj_  
@@ -15828,6 +15832,7 @@ __vouch__ _v_ :two::hammer:
 __voucher__ _n_ :four: A small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services. _Syn_ coupon, token, ticket _The administration has focused its efforts with more housing vouchers._  
 __vouchsafed__  
 __vow__ _v_  
+__vulcanic__ _adj_ /vuhl-KAN-ik/ __1__ Relating to volcanoes. __2__ Fiery; explosive; full of anger, energy, etc.  
 __vulcanize__ _v_ :two: /VUHL-kuh-nyz/ [:scroll: After Vulcan, the Roman god of fire, metalworking, etc.] __1__ _v tr_ To harden or improve, for example, rubber by application of sulfur and heat. To improve the strength, resiliency, and freedom from stickiness and odor of (rubber, for example) by combining with sulfur or other additives in the presence of heat and pressure. __2__ _v intr_ To become hardened.  
 __vulnerable__ _adj_  
 __vulnerary<sup>1</sup>__ _n_ :astonished: From Latin vulnus (wound) + -ary (relating to). Something used for the healing of wounds.  
