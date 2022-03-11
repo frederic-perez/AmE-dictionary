@@ -62,7 +62,7 @@ __baneful__ _adj_ Causing harm, ruin, or death; harmful. _Syn_ pernicious, pesti
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __captious__ _adj_ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
-__hearing__ _n_ _Court hearing._   
+__hearing__ _n_ _Court hearing._  
 __constructive__ _adj_ _Constructive criticism._  
 __adage__ _n_ _The adage goes: you can’t con an honest man._  
 __fast-talk__ _v_  
@@ -72,7 +72,6 @@ __golf__ _n_ :mega:
 __escalate__ _v_  
 __cringe__ _v_  
 __critical mass__  
-__ouch__ _exclamation_  
 __native__ _n_  
 __misnomer__ _n_  
 __shell__ _v_ :two::hammer: _The Russians are shelling us._  
@@ -85,3 +84,15 @@ __pit__ _n_ _A pit of snakes._
 __akin__ _adj_ :mega:  
 __hellish__ _adj_  
 __Bennifer__ _n_ Portmanteau of Ben Affleck and Jennifer Lopez.  
+__dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
+__appraisal__ _n_  
+__waitlist<sup>1</sup>__ _n_ /ˈweɪtˌlɪst/ A waiting list.  
+__waitlist<sup>2</sup>__ _v tr_ To place on a waiting list; to create a waiting list for.  
+__baffling__ _adj_ /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling.  
+__paltry__ _adj_  
+__malnourished__ _adj_  
+__tahini__ _n_  
+__factoid__ _n_  
+__crock__ _n_  
+__chipper__ _adj_ /ˈtʃɪpə/ __1__ Cheerful; lively. __2__ Smartly dressed.  
+__Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  

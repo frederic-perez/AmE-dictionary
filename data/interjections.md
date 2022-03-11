@@ -43,6 +43,7 @@ __my ass__ :two: _chiefly US_ _informal_ _impolite_ Used to indicate that what h
 __namaste__ Used especially among Hindus to express a polite or respectful greeting or farewell.  
 __oh man__ _informal_ __1__ Used to express excitement or enthusiasm. _Oh man, the first Indiana Jones is such a great movie!_ __2__ Used to express disappointment, frustration, or overwhelm. _Oh man, Mom is going to have a fit when she sees all this mud on the carpet._  
 __oh__ :two::hammer: _You went oh for two._  
+__ouch__  
 __phew__ :two: Used to express relief, fatigue, surprise, or disgust.  
 __poof__ :three: Used to indicate a sudden vanishing: _The magician waved a wand, and poof! The birds disappeared!_  
 __roger__ __1__ _informal_ All right; OK.  
