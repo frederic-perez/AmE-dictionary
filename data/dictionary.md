@@ -219,7 +219,7 @@ __affluent__ _adj_ :six: (especially of a group or area) Having a great deal of 
 __afford__ _v_ :two::hammer: _We can’t afford it._  
 __affordable__ _adj_ :two::pencil2::hammer:  
 __afforestation__ _n_ :pencil2: The process of planting many trees on an area of land.  
-__affront__ _n_ :two::hammer:  
+__affront__ _n_ :three: A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
 __aficionado__ _n_ :two: A person who likes, knows about, and appreciates a usually fervently pursued interest or activity. _Syn_ devotee  
 __afield__  
 __afire__ _adj, adv_ :two::hammer: _The Klansmen set the bus afire._  
@@ -493,6 +493,7 @@ __antagonize__ _v_
 __ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
+__antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
 __antedate<sup>1</sup>__ _n_  
 __antedate<sup>2</sup>__ _v_ _It long antedated the plague years._  
 __antediluvian__ _adj_  
@@ -2014,6 +2015,7 @@ __cache<sup>1</sup>__ _n_ :two::mega: A secret store of valuables or money. _Syn
 __cache<sup>2</sup>__ _v_ :mega:  
 __cachet__ _n_ :three: A special quality that makes people admire someone or something, or makes people want to have something. _Sporty cars haven’t lost their cachet._  
 __cachinnate__ _v_ :two: To laugh hard, loudly, or convulsively; guffaw.  
+__cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
 __cackel__ _v_ __1__ To utter a shrill, broken cry, as of a hen. __2__ To laugh in a shrill, broken manner. __3__ To chatter noisily. __4__ To express with a cackling sound: _They cackled their disapproval._  
 __cackle__ _v_ :four::hammer: (cackling)  
 __cackleberry__ _n_ _slang_ An egg. _No cackleberries for me, please—I’ll just have pancakes._  
@@ -3988,7 +3990,7 @@ __disengage__ _v_ :two::hammer:
 __disfavor__  
 __disgorge__ _v_  
 __disgorgement__  
-__disgruntle__ _v_ Put into a bad mood or into bad humour.  
+__disgruntle__ _v_ :two::dart: Put into a bad mood or into bad humour. To make sulky or discontented.  
 __disgruntled__ _adj_ :five: Angry or dissatisfied. Feeling or expressing discontent or anger. _Judges receive letters from disgruntled members of the public._ _Syn_ dissatisfied, discontented, aggrieved, resentful  
 __disgruntlement__  
 __disguise__ _n, v_ :mute:[disg~~u~~ise]  
@@ -5138,6 +5140,7 @@ __fecklessness__
 __feel for__  
 __feel out__  
 __feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
+__feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
@@ -5736,6 +5739,7 @@ __frosted glass__ _n_ _Illuminated by domes of frosted glass._
 __frosted silver__  
 __frothy__  
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
+__frowzy__ _adj_  
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
 __frozen yogurt__  
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
@@ -6757,6 +6761,7 @@ __hemlock__ _n_ :two::hammer: :es: cicuta
 __hemmed__ _v_ :three::hammer:  
 __hemming__  
 __hemodynamic__ _adj_  
+__hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
 __henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
@@ -8896,6 +8901,7 @@ __meted out__ _v_ :two::hammer: _All the suspensions have been meted out._
 __meteor__  
 __meteoroid__ _n_  
 __meter__ _n_ _The cab driver waited with the meter running._  
+__methadone__ _n_  
 __metheglin__ _n_ :two::hammer:  
 __methinks__  
 __meticulous__ _adj_ :two: Marked by extreme or excessive care in the consideration or treatment of details.  
@@ -10391,6 +10397,7 @@ __permeate__ _v_
 __permed__  
 __permit__ _n_ _Camping permit fee._  
 __pernicious__ _adj_ :seven: /per-nish-uhs/ __1__ Having a harmful effect or influence. Causing insidious harm or ruin; ruinous; injurious; hurtful: _pernicious teachings; a pernicious lie._ _Syn_ harmful, damaging, destructive _The belief that we are just our genes is one of the most pernicious myths in modern culture._ __2__ Deadly; fatal. Tending to cause death or serious injury. _Syn_ baneful, pestilent, deadly _The pernicious effects of alcoholism are well documented in the medical literature._ _A pernicious disease._  
+__peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __peroxide__  
 __perpetrate__ _v_ Perform an act, usually with a negative connotation. _Syn_ commit, pull _Only a sadistic, depraved person could perpetrate a crime like this._  
 __perpetrator__  
@@ -11152,7 +11159,7 @@ __propped up__ _v_
 __propped__ _v_ :two::hammer:  
 __propriety__  
 __props__ _pl n_ _slang_ :three::dart: Due respect; proper recognition. Often used in expressions of gratitude: _Props to my friends for helping me out. I’d like to give props to my manager._ _Barton got props from his quarterback in his second career start._ _Martin gets props for merely staying on his bike ib this year’s Tour de France._  
-__prosaic__  
+__prosaic__ _adj_ :two: /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
 __prosecute__ _v_ _People liked news of another war successfully prosecuted._  
 __proselytism__ _n_ :astonished:  
 __proselytize__ _v_ :five::pencil2::dart: Convert or attempt to convert (someone) from one religion, belief, or opinion to another. _Syn_ evangelize, convert :es: convertir  
@@ -11224,7 +11231,7 @@ __puffy__ _adj_ :six::hammer: _Puffy snowflakes._ _His eyes were red and puffy._
 __pug__  
 __pug-nosed__ _adj_ _Pug-nosed face._  
 __pugil__  
-__pugilism__ _n_ The skill, practice, and sport of fighting with the fists; boxing.  
+__pugilism__ _n_ :two: /PYOO-juh-liz-uhm/ [:scroll: From Latin pugil (boxer), from pugnare (to fight), from pugnus (fist).] The hobby, skill, practice, and sport of fighting with the fists; boxing.  
 __pugnacity__  
 __pugs__  
 __pukka__ _adj_ _British informal_ _Turnley recreated upon the praairie a perfectly pukka England._  
@@ -13222,8 +13229,9 @@ __sloth__ _n_ :five: __1__ Aversion to work or exertion; laziness; indolence. _T
 __slouch<sup>1</sup>__ _n_ :five::hammer: _De Coubertin was no slouch._ _Slouch hat._  
 __slouch<sup>2</sup>__ _v_ :three::hammer: (slouching)  
 __slouchy__  
+__slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
 __slough<sup>1</sup>__ _n_ :four::mega::hammer:  
-__slough<sup>2</sup>__ _v_ :four::hammer: _Henry sloughs off questions about his odometer._  
+__slough<sup>2</sup>__ _v_ :five: /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._ _Henry sloughs off questions about his odometer._  
 __sloven__ _n_ One habitually negligent of neatness or cleanliness especially in personal appearance.  
 __slovenly__ _adj_ :three: Very messy.  
 __slow-as-molases__  
@@ -15217,7 +15225,7 @@ __trustworthy__ _adj_ :two::dart::hammer: _Trustworthy information._
 __truth or dare__ _n_ A game where players take it in turn to perform a dare set by the other players, or truthfully answer a question put forth by them.  
 __truthiness__ _n informal_  
 __try on__ _phr v_ :four::mega: To put clothes or shoes on to see if they fit.  
-__trying__ _adj_ :astonished: Extremely difficult and annoying, straining one’s patience and goodwill to the limit.  
+__trying__ _adj_ :two::dart::astonished: /ˈtraɪɪŋ/ Extremely difficult and annoying, straining one’s patience and goodwill to the limit. Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
 __tryst__  
 __tsuifuku__  
 __tsunami__ _n_ [:scroll: The Japanese word tsunami is formed from _tsu_ (harbor) and _nami_ (wave).]  
@@ -15323,6 +15331,7 @@ __twitch<sup>2</sup>__ _v_ :seven::hammer: (twitched) _The curtain was twitched.
 __twitchy__ _adj_ :two: __1__ Nervous, worried, and ill-at-ease: _he was twitchy with anticipation._ _Syn_ edgy, fidgety, jittery, jumpy, nervous, restive, restless, skittish, tense, uptight, a bundle of nerves, all wound up, on edge __2__ Characterized by jerky or spasmodic motion: _a cat’s twitchy whiskers._  
 __two__ _adj, n_ :mute:[t~~w~~o]  
 __two-dimensional__ _adj_ :astonished: Lacking the expected range or depth. _Syn_ flat _The actress’s two-dimensional performance was especially disappointing given the emotional complexity of the character she was playing._  
+__two-fisted__ _adj_ /to͞o′fĭs′tĭd/ [:scroll: The term describes someone using both hands, literally or figuratively, where a clenched fist alludes to vigor, resolve, etc.] __1__ Using or held by both hands: _a two-fisted backhand stroke in tennis._ __2__ _informal_ Characterized by vigor, roughness, or aggression. Strong, tough, and vigorous: _a hard-drinking two-fisted hunter; two-fisted frontier justice._  
 __two-fold__ _adj_  
 __two-time__ _v_ _informal_ :three: (two-timing, two-time someone) To deceive (someone, esp a lover) by carrying on a relationship with another.  
 __two-timer__ _n_  

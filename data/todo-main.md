@@ -1,18 +1,3 @@
-__disgruntle__ _v_ To make sulky or discontented.  
-__cack-handed__ _adj_ /kak-HAN-did, KAK-han-/ __1__ Clumsy; awkward. __2__ Left-handed.  
-__trying__ _adj_ /ˈtraɪɪŋ/ :dart: Straining one’s patience and goodwill; annoying, difficult, or irritating. Causing strain, hardship, or distress. Upsetting, difficult, or annoying: _a trying day at the office._  
-__affront__ _n_ A deliberately offensive act or something producing the effect of deliberate disrespect. _Syn_ insult _Your deliberate implication that I stole the money is an affront to my character._  
-__slough__ _v_ /SLUFF/ To cast something off or to become shed or cast off. _The snake sloughs its skin several times a year._  
-__slough off__ _v_ :dart: To get rid of something objectionable or disadvantageous. _Syn_ shed, discard, throw off, cast off _The company needed to slough off some of its old practices that were keeping it from being as competitive as possible._  
-__pugilism__ _n_ /PYOO-juh-liz-uhm/ [:scroll: From Latin pugil (boxer), from pugnare (to fight), from pugnus (fist).] The hobby or sport of fighting with fists: boxing.  
-__two-fisted__ _adj_ /to͞o′fĭs′tĭd/ [:scroll: The term describes someone using both hands, literally or figuratively, where a clenched fist alludes to vigor, resolve, etc.] __1__ Using or held by both hands: _a two-fisted backhand stroke in tennis._ __2__ _informal_ Characterized by vigor, roughness, or aggression. Strong, tough, and vigorous: _a hard-drinking two-fisted hunter; two-fisted frontier justice._  
-__prosaic__ _adj_ /proh-ZAY-ik/ Prosaic is a synonym of dull, unimaginative, everyday, or ordinary, but its original meaning is “characteristic of prose as distinguished from poetry.” _Retirement can lead to a prosaic lifestyle unless you will yourself to seek adventure._  
-__feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, pork, and beef, typically served with rice and orange slices.  
-__frowzy__ _adj_  
-__antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
-__methadone__ _n_  
-__hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
-__peroral__ _adj_ _Medicine_ Administered or performed through the mouth, as surgery or administration of a drug. Through or by way of the mouth: _a peroral infection; peroral administration of fluids._  
 __deglutition__ _n_ The act or process of swallowing.  
 __fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
 __concomitant__ _adj_  
