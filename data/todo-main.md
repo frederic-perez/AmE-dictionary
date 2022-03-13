@@ -81,3 +81,17 @@ __factoid__ _n_
 __crock__ _n_  
 __chipper__ _adj_ /ˈtʃɪpə/ __1__ Cheerful; lively. __2__ Smartly dressed.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
+__false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
+__fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
+__fast-track<sup>2</sup>__ _v tr_ :two: To speed up the progress of (a project or person).  
+__hedge__ _v_  
+__outpatient clinic__ _n_  
+__spoiled child__ _n_ (spoiled brat)  
+__Warsaw__ _n_ :mega:  
+__ruble__ _n_ /ˈruːbəl/ (rouble)  
+__rift__ _n_  
+__playbook__ _n_ :three::hammer:  
+__flashcard__ _n_ (flash card)  
+__overnight__ _adj_  
+__computer__ _n_ :mega:  
+__schwa__ _n_  

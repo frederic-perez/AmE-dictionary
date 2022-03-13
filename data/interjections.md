@@ -24,7 +24,7 @@ __ha__ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. 
 __hah__ A variant spelling of ha.  
 __heck__ :two: Used as a mild oath.  
 __hell yeah__  
-__hell yes/no__ _mainly US informal_ Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
+__hell yes/no__ _mainly US informal_ :two: Used to emphasize that you strongly agree or disagree, like or dislike something, etc.  
 __hiya__ An informal term of greeting.  
 __hmm__ :two::hammer:  
 __hmph__ A sound, usually made with a closed mouth, indicating annoyance or indignation.  
