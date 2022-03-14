@@ -33,3 +33,7 @@ __go figure__ :two::hammer:
 __cut (one) some slack__  
 __lemon__ Something that is worthless or much less valuable than one was led to believe. _It sounded like a good deal at the time, but this car he sold me is a total lemon!_  
 __beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  
+__rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
+__rip-snorting mad__ Extremely angry and agitated; infuriated. _My mom was rip-snorting mad when I came home drunk at 2 AM._ _You’ve got to learn to stay out of the boss’s way when he gets rip-snorting mad like that._  
+__cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
+__ripen up__ To grow ripe; to become mature enough to harvest or pick. _Make sure you plant your tomatoes in a spot that gets plenty of sunshine, or else it will take a whole lot longer for them to ripen up._  

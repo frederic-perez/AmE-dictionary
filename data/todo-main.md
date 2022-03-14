@@ -95,3 +95,20 @@ __flashcard__ _n_ (flash card)
 __overnight__ _adj_  
 __computer__ _n_ :mega:  
 __schwa__ _n_  
+__Cinderella__ _n_ /sin-duh-rel-uh/ __5__ A person or thing that achieves unexpected or sudden success or recognition, especially after obscurity, neglect, or misery (often used attributively): _Which team will find themselves the Cinderella of this year’s college basketball season?_  
+__antre__ _n_ /AN-tuhr/ A cave, cavern, cavity, etc.  
+__doggerel__ _n_ Crudely or irregularly fashioned verse, often of a humorous or burlesque nature. _Syn_ jingle _I want the man I love and honor to be something finer and higher than a perpetrator of jokes and doggerel._  
+__cryptography__ _n_ /krip-TAH-gruh-fee/  
+__elucidate__ _v_ /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
+__zenith__ _n_ :mega: /ˈzɛnɪθ; _US_ ˈziːnɪθ/  
+__opposition__ _n_ :mega: /ˌɒp əˈzɪʃ ən/  
+__Sagittarius__ _n_ :pencil2:  
+__equinox__ _n_ :mega:  
+__bombast__ _n_ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._  
+__conscript__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
+__walkout__ _n_  
+__bolster__ _v_ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._  
+__uncouth__ _adj_ /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
+__archetype__ _n_ /AHR-kih-type/  
+__bravado__ _n_ Defiant or swaggering behavior. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._  
+__preventative__ _adj_  
