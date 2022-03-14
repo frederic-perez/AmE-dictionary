@@ -112,3 +112,18 @@ __uncouth__ _adj_ /un-KOOTH/ Uncouth means “behaving in a rude way” or “no
 __archetype__ _n_ /AHR-kih-type/  
 __bravado__ _n_ Defiant or swaggering behavior. _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._  
 __preventative__ _adj_  
+__The More You Know__ _n_  
+__heavy bag__ _n_ _boxing_  
+__weaponize__ _v_  
+__Daddy-O__ _n_  
+__dreamy__ _adj_ :two::hammer:  
+__iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/  
+__card reader__ _n_  
+__double-check__ _v_  
+__swamp__ _v_ _Syn_ overwhelm  
+__werewolf__ _n_  
+__occasion__ _n_ :pencil2: /əˈkeɪʒən/  
+__Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/  
+__custom__ _n_ /ˈkʌstəm/  
+__sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
+__steadfast__ _adj_ _He was known for his steadfast will to live._  
