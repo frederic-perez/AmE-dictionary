@@ -191,6 +191,7 @@ __at one button__ _The Prince did not value a knight at one button._
 __at one time__ _At one time, Ms. Hardy could see the beach from her window._  
 __at one’s wit’s end__ At the limits of one’s mental resources. _I’m at my wit’s end with this problem. I cannot figure it out. Tom could do no more. He was at his wit’s end._  
 __at peace__  
+__at stake__  
 __at the buzzer__ _Durant missed a floater at the buzzer._  
 __at the end of (one’s) rope__ Having reached a point of utter exhaustion or exasperation; in a state at which one has no more patience, endurance, or energy left. _The baby’s been crying all morning, and I haven’t slept properly in days. I’m just at the end of my rope!_  
 __at the end of the day__  
@@ -287,6 +288,7 @@ __be on track__ :two: To progress or develop as planned, scheduled, or expected.
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
 __be put in (one’s) place__ To be humbled or have one’s dignity lowered (by someone); to be made aware that one is not as important, respected, influential, etc., as one thinks. _John was really put in his place by the teacher, who scolded him so harshly that he burst into tears._  
 __be put out of business__ To be caused or forced to cease carrying on commercial trading or transactions. _Our bookstore has been a part of the neighborhood for nearly 50 years, but we’re being put out of business by these new electronic books that you can download._  
+__be rained out__ To be delayed, postponed, or cancelled due to the rain. _I was really looking forward to the football match this weekend, but it was rained out._  
 __be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
@@ -533,6 +535,7 @@ __day in day out__ :two: For an indefinite number of successive days. _Syn_ time
 __day or night__ At any point in time; 24 hours a day.  
 __day tripper__ _You are funny, sitting there like a day tripper._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
+__days to come__  
 __dead asleep__ In a deep, immovable sleep.  
 __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
 __dead horse__ _n_ Something that has ceased to be useful or relevant.  
@@ -766,6 +769,7 @@ __get the better of (someone or something)__ To gain superiority, mastery, or an
 __get the drift of something__ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
 __get the gist__ To understand the central, essential, or general matter of something, such as an argument, speech, concept, process, etc., without being proficient in the more specific details.  
 __get the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal. _We’re just waiting to get the green light from our managers before we release the latest software update._  
+__get the handle of__  
 __get the knack of__ :two: To learn how to do something competently or well after a certain period of practice or development.  
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ To promptly begin or get something started.  
@@ -810,6 +814,7 @@ __go native__ :astonished: _You going native on me, Supercop?_
 __go off in a huff__ To leave in an angry, belligerent, or vexed mood.  
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
 __go off__ Of an alarm, to enter into an active state, typically resulting in a loud noise or other indication. _My alarm goes off at seven AM._  
+__go one on one__  
 __go out with a bang__ To finish or cease doing something in a spectacular, great, or exciting manner.  
 __go out with the boys__ To go and socialize somewhere with a group of exclusively male friends.  
 __go out with the girls__ To go and socialize somewhere with a group of exclusively female friends.  
@@ -830,6 +835,7 @@ __go to great lengths__ :two::hammer:
 __go to hell in a handcart__ To be in an extremely and increasingly bad or ruinous condition; to be on the inevitable path to utter failure or ruin.  
 __go to the mat for (someone or something)__ To give someone or something one’s full support; to fight for someone or something until the very end. _We firmly believe that she is in the right on this matter, and we’re ready to go to the mat for her in court if necessary._ _I’m not going to the mat for her._  
 __go to the mattresses__ To enter into or prepare for a lengthy war, battle, or conflict; to adopt a combative or warlike position. While the true origin is uncertain, the phrase was popularized in English by _The Godfather_ novel and films, where it referred to warring mafia families housing their soldiers in small, secure apartments to await orders.  
+__go to wrack and ruin__ _cliché_ To fall into severe or total decay, degradation, or ruination, as from disuse or lack of upkeep. (“Wrack,” a now-archaic word meaning wreckage or destruction, is also often spelled “rack.”) _It greatly pains me that my grandfather’s estate has been left to go to wrack and ruin. If only we’d been able to afford for someone to look after it all these years._  
 __go under the hammer__ :two: To be put up for or sold at auction.  
 __go without saying__ _It goes without saying: thinking in more effective ways about projects can make things happen more successfully._  
 __go-round__ _The fourth go-round in the_ Madagascar _franchise._  
@@ -897,6 +903,7 @@ __hang someone out to dry__ To abandon someone who is in trouble.
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
 __happy as a clam__ Very happy.  
+__hard facts__  
 __hard knocks__ :two: The real and practical experiences of life, especially those involving hardship or adversity. _The school of hard knocks._  
 __hard nut to crack__ A problem that is hard to solve or a person who is difficult to understand.  
 __hard on the eyes__ Unattractive; ugly.  
@@ -1045,6 +1052,7 @@ __hold a candle__
 __hold a grudge__ To feel angry with someone who has done something to upset you in the past.  
 __hold on to your hat__ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__  
+__hold one’s ground__  
 __hold one’s peace__ :two::dart: To stay quiet despite wanting to say something. _Just hold your peace if you don’t have anything constructive to add._ _“Oh!” She looked puzzled, but held her peace._  
 __hold that thought__ An expression used to interrupt someone mid-speech and indicate that one’s attention is being or about to be diverted. _Sorry, Janet, hold that thought—I’m getting a call on the other line._  
 __hold the reins__ To have or be in control, especially of a group, project, or situation.  
@@ -1473,6 +1481,7 @@ __make up__ __8__ _v_ To compensate for a previous discrepancy or transgression.
 __make waves__ :five: (making waves) Cause a disturbance or controversy. _We’ve finally settled our differences, so please don’t make waves._ This expression alludes to causing turbulence in the water.  
 __man the fort__ To mind or take charge of a location during the time in which it is unattended by another. _Don’t worry, honey, I’ll man the fort at home until you get back from the grocery store._  
 __man up__ To deal with something in a more brave, stoic, or masculine way than one has done so hitherto. (Usually used imperatively.) _It’s just a tiny scratch! You need to man up and quit crying about it._  
+__mansplain__  
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
 __Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
@@ -1616,6 +1625,7 @@ __on cloud nine__ :three: To be in a state of extreme happiness. _Ever since Mar
 __on edge__ :three: Highly tense or nervous; irritable. _Our youngster is just feeling on edge about the start of school._ _Tonight she felt on edge._  
 __on every level__ _That was a bad idea on every level._  
 __on fire__ :two: __1__ Something is going really well or someone is doing a fantastic job. Performing very enthusiastically, adeptly, or successfully. _The team has been on fire lately, winning 11 of its last 12 games._ __2__ Extremely sexy or attractive. _Wow babe, you are looking on fire tonight!_ __3__ Having an intense burning sensation. _My throat’s on fire from this infection—I can’t eat or drink a thing!_  
+__on fleek__  
 __on foot__ _I work to work on foot._  
 __on in years__ Advanced in age; old or becoming old. _I might be a little bit on in years, but I’m no fool when it comes to technology!_  
 __on leave__ In the midst of an official extended absence from one’s work, school, etc. _Jane just had a baby, so she’s on leave._ _I’ve been on leave for the past few weeks as my illness has gotten worse._  
@@ -1725,6 +1735,7 @@ __perfect storm__ :four: A critical or disastrous situation created by a powerfu
 __perk up__ :three: To make or become more lively, energetic, attentive, cheerful, dynamic, etc. _I wish you would perk up._ _I think I need some coffee to perk me up._ _The mint perks everything up._  
 __pester (someone) for (something)__ To continually annoy someone with requests for something. _I wish you would stop pestering me for a new bicycle; your birthday will be here soon enough!_  
 __pet hate__ A source of annoyance for one; a pet peeve. _Ugh, my pet hate is people who chew with their mouths open._  
+__phub__  
 __pick (one’s) nose__ :two::dart: __1__ Literally, to remove nasal mucus (i.e., “boogers”) with one’s finger. _Tommy! Quit picking your nose, that’s a filthy habit!_ __2__ By extension, to dawdle, fool around, or waste time idly. _No wonder we’re losing so much money—half our staff just stands around picking their noses for most of the day!_  
 __pick on (one)__ :two: To harass, bully, or tease one. _I like to pick on people that I love._  
 __pick someone or something apart__ :dart: To analyze and criticize someone or something negatively. _You didn’t review her performance; you just picked her apart._ _Stop picking yourself apart._  
@@ -1812,7 +1823,9 @@ __religious intolerance__ Intolerance of another’s religious beliefs or practi
 __rest my case__ :two::hammer: _I rest my case._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
+__rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
 __ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
+__ride the rail(s)__ To travel on a vehicle mounted on rails (especially a train or streetcar). _I know it takes a lot longer than flying, but I love riding the rail from Portland to Vancouver._  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
 __right on__ _The description of the bomb was right on._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
@@ -2145,6 +2158,7 @@ __turn up the heat (on someone or something)__ To put pressure on someone or som
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
 __two-way street__ _n_ :two: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
+__uh-huh__  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
 __uncanny valley__ :three::hammer:  
 __under (one’s) belt__ :two: __1__ In one’s scope of experience. _Once you get a few more major league games under your belt, you’ll feel more comfortable._ _I’ll have a degree under my belt._ __2__ Ingested or consumed. _He should be less cranky after he gets some food under his belt._  
@@ -2208,6 +2222,7 @@ __with a heavy hand__ In an excessive, authoritarian, or oppressive way or manne
 __with a passion__ _informal_ Used to say that someone strongly dislikes someone or something. _She hated him with a passion._ _He loved her with a passion._  
 __with a vengeance__ :three: Determinedly or passionately, perhaps fueled by anger. _After my girlfriend dumped me, I started working out with a vengeance._ _We’re going to have to clean with a vengeance to get the house ready in time._  
 __with flying colors__ :two: With an overwhelming victory, triumph, or success. With distinction. _In these respects, Delta Air Lines passed with flying colors._  
+__with reckless abandon__ With rash, unrestrained impulsiveness, enthusiasm, or zeal. _Ever since my brother got that car for his birthday, he’s been motoring around at night with reckless abandon._  
 __within reason__ Reasonable; reasonably. _You can do anything you want within reason. I’ll pay any sum you ask—within reason._  
 __without fail__ Said of something that happens regularly and predictably with no deviations. _I have passed the same woman walking her dog every day without fail for five years... but today she wasn’t there. I’m really worried about her!_  
 __without further ado__ With no more delay.  
