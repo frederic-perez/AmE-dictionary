@@ -1,18 +1,3 @@
-__deglutition__ _n_ The act or process of swallowing.  
-__fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
-__concomitant__ _adj_  
-__lousy__ _adj_  
-__dread<sup>1</sup>__ _v_  
-__dread<sup>2</sup>__ _n_  
-__dread<sup>3</sup>__ _adj_  
-__dispel__ _v_ _She dispelled the myth._  
-__myth__ _n_  
-__passionate__ _adj_  
-__hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
-__crook__ _n_  
-__fleece__ _v_  
-__high-rise__ _adj_  
-__rummy__ _n_  
 __mistress__ _n_ :mega: /ˈmɪstrɪs/  
 __bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
 __recap__ _v tr_  

@@ -2939,7 +2939,7 @@ __conciliatory__ _adj_
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
-__concomitant__ _adj_ :six::hammer:  
+__concomitant__ _adj_ :seven::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
 __concourse__ _n_ :five::hammer:  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
@@ -3346,7 +3346,7 @@ __crone__ _n_ :three: A witchlike old woman.
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __crony__ _n_ :four: A close friend or companion.  
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
-__crook__ _n_ :four::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
+__crook__ _n_ :five::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
 __crooked__ _adj_ :three::hammer: _Crooked media._  
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
@@ -3704,6 +3704,7 @@ __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._
 __deftness__ _n_  
 __defund__ _v_ To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
+__deglutition__ _n_ The act or process of swallowing.  
 __dehydration__  
 __deign__ _v_ :three::hammer: (deigned)  
 __deinstitutionalization__ _n_ The discharge of institutionalized patients from a mental hospital into treatment programs in halfway houses and other community-based programs.  
@@ -4030,7 +4031,7 @@ __disparaging__ _adj_ :two: Insulting, ridiculing.
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :eight: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate.  
+__dispel__ _v_ :nine: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
 __dispensed__ _v_  
 __dispenser__  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
@@ -4292,7 +4293,8 @@ __drawstring__ _n_
 __dray__ _n_ :two::hammer: (drays) _Dray horse._  
 __drayman__  
 __dread<sup>1</sup>__ _n_  
-__dread<sup>2</sup>__ _v_ :two::hammer:  
+__dread<sup>2</sup>__ _v_ :three::hammer:  
+__dread<sup>3</sup>__ _adj_  
 __dreamy__ _adj_ :two: __4__ _informal_ Inspiring delight; wonderful.  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
@@ -5269,6 +5271,7 @@ __finger food__ _n_ Food intended to be eaten with the fingers.
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
 __finger-waggers__  
+__fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
 __finicky__ _adj_ :three:hammer:  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
@@ -5389,7 +5392,7 @@ __flecked__ _v_ _Floor flecked with blood._
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
 __flee__ _v_ _Fleeing New York._  
-__fleece__ _v_ :eight::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
+__fleece__ _v_ :nine::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
 __fleecy__  
 __fleeting__  
 __fleetingly__  
@@ -6823,7 +6826,8 @@ __high-and-mighty__ _adj_ Offensively self-assured or given to exercising usuall
 __high-end__ _adj_  
 __high-fly__ _v_  
 __high-pressure__ _adj_ Aggressively and persistently persuasive.  
-__high-rise__ _n_ :two::hammer: _The building was a showy high-rise._  
+__high-rise<sup>1</sup>__ _adj_  
+__high-rise<sup>2</sup>__ _n_ :two::hammer: (high rise) _The building was a showy high-rise._  
 __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant  
 __high-tail__ _v_  
 __highball__ _n_ _The passengers were sipping highballs at the bar._  
@@ -7151,6 +7155,7 @@ __hyperopia__ _n_
 __hyperpnea__ _n_ Abnormally deep breathing.  
 __hypertensive__ _adj, n_ _To be hypertensive._  
 __hyperthyroidism__ _n_ (Pathology) Overproduction of thyroid hormone by the thyroid gland, causing nervousness, insomnia, sweating, palpitation, and sensitivity to heat. Also called: thyrotoxicosis.  
+__hypnopedia__ _n_ (hypnopaedia) The art or process of learning while asleep by means of lessons recorded on disk or tapes.  
 __hypocorism__ _n_ A pet name, esp one using a diminutive affix: _“Sally” is a hypocorism for “Sarah”._  
 __hypocrisy__  
 __hypocrite__  
@@ -8457,7 +8462,7 @@ __loudmouth__ _n_ :two::hammer: _informal_ _I was a loudmouth._ _He is a loudmou
 __Louisville, Kentucky__ _n_ :mega: [Common popular pronunciation: /loo-is-vil/ among others. Prevailing local pronunciations: /loo-ee-vil, loo–uh-vuhl/ :scroll: The “Louis” that gave his name to Louisville was King Louis XVI of France. The city was named after the French king out of appreciation for his support of the Americans during the American Revolution.]  
 __loup-garou__ _n_ A monster able to change appearance from human to wolf and back again. _Syn_ lycanthrope, werewolf, wolfman  
 __louse__ _n_  
-__lousy__ _adj_ _A lousy trip._  
+__lousy__ _adj_ :two::hammer: _A lousy trip._  
 __lout__ _n_ :five::hammer: _Syn_ oaf  
 __louver__ _n_ :four::camera: One of a set of parallel slats in a door or window to admit air and reject rain. _Louver shutters._ _Louver window._ _Double-wall louver baffles._  
 __lovacore__  
@@ -9305,6 +9310,7 @@ __mystery train__
 __mystified__  
 __mystify__ _v_ _He was mystified._  
 __mystique__ _n_ :pencil2:  
+__myth__ _n_  
 __mythological__  
 __mythomania__ _n_ A compulsion to embroider the truth, engage in exaggeration, or tell lies.  
 __mythos__ _n_ :three::hammer:  
@@ -10199,6 +10205,7 @@ __passage__ _n_ :two::hammer: _The passage of three supplementary budgets this y
 __passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel of ducks._  
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
+__passionate__ _adj_  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :five::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
 __pastoral__ _adj_ _A pastoral letter._  
@@ -12189,8 +12196,7 @@ __rumbling__ _n_ :two::hammer: (rumblings) _Rumblings about the trade._
 __rumdum__  
 __rumhead__ _n_ An alcoholic.  
 __rummage__ _v_ :nine::m: (rummaged, rummaging) __1__ (tr) To search thoroughly by handling, turning over, or disarranging the contents of. _She rummaged through the kitchen cutlery drawer._ __2__ (tr) To discover by searching thoroughly. __3__ (i) To make an energetic, usually hasty search.  
-__rummy__  
-__rumor has it__  
+__rummy__ _n_ :two::hammer:  
 __rumor-monger__ _n_ :two::hammer:  
 __rump__ _n_ _The archers aimed for thw horses’ unarmored rumps._  
 __rumple__ _v_ _His clothes were rumpled._  
