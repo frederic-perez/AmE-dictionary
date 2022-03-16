@@ -97,3 +97,31 @@ __Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/
 __custom__ _n_ /ˈkʌstəm/  
 __sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __steadfast__ _adj_ _He was known for his steadfast will to live._  
+__Mesmer__ _n_ Austrian physician who tried to treat diseases with a form of hypnotism. (1734-1815)  
+__bus boy__ _n_ (bus boy)  
+__light switch__ _n_  
+__belong__ _v_ /bɪˈlɒŋ/  
+__infamous__ _adj_  
+__halt__ _v_  
+__noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
+__uproot__ _v_  
+__upend__ _v_  
+__heroine__ _n_ _Heroine stories._  
+__sluggish__ _adj_  
+__juxtaposition__ _n_  
+__grenade__ _n_ _Grenade launchers._  
+__newscast__ _n_ A radio or television broadcast of the news.  
+__wastewater__ _n_ :pencil2:  
+__trite__ _adj_  
+__note__ _n_ _On a much more serious note..._  
+__Texas__ _n_ /ˈtɛksəs/  
+__dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
+__vilify__ _v tr_  
+__lawmaker__ _n_  
+__provost__ _n_  
+__screech__ _v_  
+__tacky__ _adj_ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._  
+__hummus__ _n_ :mega: /ˈhʊməs/  
+__fast-track__ _adj_  
+__Robinson__ _n_ /ˈrɒbɪnsən/  
+__fried green tomatoes__ _n_  
