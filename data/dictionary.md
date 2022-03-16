@@ -1881,6 +1881,7 @@ __bunk bed__ _n_ (bunk beds) Either of a pair of narrow beds stacked one on top 
 __bunk<sup>1</sup>__ _n_ :two: A narrow shelf-like bed, typically one of two or more arranged one on top of the other. _Syn_ berth, cot, bunk bed :es: litera  
 __bunk<sup>2</sup>__ _v_ :two: (bunked) __1a__ To sleep in a bunk or bed. __b__ To stay the night; sleep: _bunk over at a friend’s house._ __2__ To go to bed: _bunked down early._  
 __bunker oil__  
+__bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
 __bunkmates__  
 __bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
 __bunraku__  
@@ -2200,7 +2201,7 @@ __carouse__ _v_ :six: (caroused, carousing) To drink large amounts of alcohol, e
 __carousel__  
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
-__carpool__ _v_ :three::hammer:  
+__carpool__ _v_ :four::hammer:  
 __carrel__  
 __carrier pilot__ _n_  
 __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting flesh of an animal. Ever seen a dead opossum or cat in the road? You can call that road kill carrion.  
@@ -2362,6 +2363,7 @@ __chandler__
 __change of heart__ _n_ A reversal of one’s opinion, attitude, or feelings.  
 __change__ _n_ _There is change in the shower._  
 __changeover__ _n_ :two::hammer:  
+__channel__ _v_  
 __chant__ _v_  
 __chanticleer__ _n_  
 __chanting__  
@@ -5294,6 +5296,7 @@ __fireworks__ _n_ _A fireworks display will be held on Sunday._
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
 __first leg__ _n_  
+__first-hand__ _adj, adv_  
 __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
 __firstborn__  
@@ -5391,7 +5394,7 @@ __fleck__ _n_
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
 __fledgling__ _adj_ :nine::m::pencil2: __1__ A young bird that has just fledged. :es: pichón __2__ A person or organization that is immature, inexperienced, or underdeveloped. _Fledgling entrepreneurs._  
-__flee__ _v_ _Fleeing New York._  
+__flee__ _v_ :three::hammer: _He was forced to flee Ukraine._ _Fleeing New York._  
 __fleece__ _v_ :nine::dart: (fleeced) __1__ To defraud of money or property; swindle. _Those swindlers hoped to fleece Jack’s bank contacts._  
 __fleecy__  
 __fleeting__  
@@ -8570,7 +8573,7 @@ __macula__ _n_
 __madcap__  
 __madden__ _v_ :two::hammer: (maddening)  
 __madeleine__ _n_ :astonished: __1__ A small shell-shaped cake. __2__ Something that triggers memories or nostalgia.  
-__madman__ _n_ A man who is insane, esp one who behaves violently; lunatic.  
+__madman__ _n_ :two: A man who is insane, esp one who behaves violently; lunatic.  
 __madness__  
 __madrasa__ _n_ :two: (madrasah, madrassa, madrasas) An Islamic school or college.  
 __madrigal__ _n_  
@@ -9054,6 +9057,7 @@ __missus__ _n_ __1__ _informal_ Wife. __2__ The mistress of a household.
 __misting fan__ _n_  
 __mistletoe__ _n_ :two::mute:[mis~~t~~letoe]:hammer:  
 __mistook__ _v_ _One 6-year-old girl in California mistook a discarded syringe for a thermometer._  
+__mistress__ _n_ :mega: /ˈmɪstrɪs/  
 __mistrial__ _n_ :two::hammer:  
 __mistruth__ _n_ :two::hammer: (mistruths)  
 __misuse__ _v_ :two::hammer: _It results in code that is easier to understand and harder to misuse._  
@@ -10940,7 +10944,7 @@ __powermongers__ _n_
 __powwows__ _n_  
 __pox__  
 __practical effect__ _n_ (usually practical effects) A special effect that is created live on the set of a film, using real-world objects.  
-__practical joke__  
+__practical joke__ _n_ :two::hammer:  
 __practice__ _n_ _A pediatrics practice._  
 __practitioner__ _n_ _GTD practitioner._  
 __Praetorian__  
@@ -11617,6 +11621,7 @@ __readiness__ _n_ _Our career readiness software program._
 __readings__ _n_  
 __readout__ _n_ :two::hammer:  
 __ready cash__ _n_ :two: Funds for immediate use; cash. _They haven’t enough ready cash to pay the commission._  
+__ready__ _v tr_  
 __ready-room__ _n_ :two::hammer:  
 __readying__ _v_ :astonished:  
 __reaffirming__  
@@ -11650,7 +11655,7 @@ __recall<sup>2</sup>__ _v_
 __recant__ _v_ :five::hammer: (recanted) _Christianity held a tragic power indeed if the need for salvation could lead a man to recant his own creation._  
 __recantation__ _n_ :two: A statement that one no longer holds a particular opinion or belief; a retraction. _Syn_ renunciation, renouncement, disavowal, denial :es: retractación  
 __recap<sup>1</sup>__ _n informal_ :three::hammer: _The written recap of the meeting._ _A quick recap._  
-__recap<sup>2</sup>__ _v informal_ :two: Recapitulate.  
+__recap<sup>2</sup>__ _v informal_ :three: Recapitulate.  
 __recapitulate__ _v_  
 __recede__ _v_  
 __receipt__ _n_ :three::mute:[recei~~p~~t]:hammer: /rih-SEET/ _Expected items pending receipt from other sources._  
@@ -11918,7 +11923,7 @@ __returnee__
 __Reuben James__  
 __Reuben__ _n_ :mega: /ro͞o′bən/ A hot sandwich consisting of corned beef, Swiss cheese, and sauerkraut usually served on rye bread.  
 __reunion__ _n_ :two: An instance of two or more people coming together again after a period of separation.  
-__reunite__ _v_ :two::hammer:  
+__reunite__ _v_ :three::hammer:  
 __rev up__ _v_  
 __reveal__ _n_  
 __reveille__ _n_ :two::hammer: _Reveille was at 0430._  
@@ -13148,7 +13153,7 @@ __slats__ _n_ :four::hammer: _The slats in the dock._ _Wood slats._
 __slatted__ _v_ :two::hammer: _Slatted sunlight._  
 __slatternly__  
 __slaughter<sup>1</sup>__ _n_ :mute:[slau~~gh~~ter]  
-__slaughter<sup>2</sup>__ _v_ :mute:[slau~~gh~~ter]  
+__slaughter<sup>2</sup>__ _v tr_ :two::hammer::mute:[slau~~gh~~ter]  
 __slave driver__ _n_ A person who makes other people work very hard.  
 __slavishly__ _adv_ :two::hammer: _Following instructions slavishly._ :es: servilmente  
 __slay__ _v_ ;two::hammer: (slain) JFK was slain.  
@@ -14641,7 +14646,7 @@ __tenterhooks__
 __tenuous__ _adj_ :four: Having litthe substance or strength; thin; weak.  
 __tenure__ _n_ :three::hammer:  
 __tenured__  
-__tepid__ _adj_ :five::hammer:  
+__tepid__ _adj_ :six::hammer:  
 __tequila poppers__  
 __tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __teriyaki__ _n_  
@@ -14941,7 +14946,7 @@ __toilet training__ _n_ The training of a very young child to control bowel and 
 __toiletries__  
 __Tokyoites__  
 __tolerate__ _v_  
-__toll<sup>1</sup>__ _n_  
+__toll<sup>1</sup>__ _n_ :three::hammer:  
 __toll<sup>2</sup>__ _v_ :three: (tolls, tolling) If you toll a bell, or if it tolls, it makes a loud slow repeated sound. _Church bells tolling._ _The bell tolls for Ukraine._  
 __Tom and Jerry__ _n_ A hot drink consisting of rum or another liquor, a beaten egg, milk or water, sugar, and spices.  
 __Tom Thumb__ _n_ __1__ A diminutive hero of folk tales. __2__ An extremely small person; dwarf.  
@@ -15123,7 +15128,7 @@ __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ ea
 __treen__ _n_ Small woodenware.  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
-__tremendous__ _adj_  
+__tremendous__ _adj_ :two::hammer:  
 __tremor__ _n_  
 __trench coat__ _n_  
 __trenchant__ _adj_  

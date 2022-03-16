@@ -1,18 +1,3 @@
-__mistress__ _n_ :mega: /ˈmɪstrɪs/  
-__bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
-__recap__ _v tr_  
-__ready__ _v tr_  
-__tepid__ _adj_  
-__reunite__ _v_  
-__slaughter__ _v tr_  
-__madman__ _n_  
-__tremendous__ _adj_  
-__channel__ _v_  
-__toll__ _n_ :two::hammer:  
-__first-hand__ _adj, adv_  
-__flee__ _v_ :two::hammer: _He was forced to flee Ukraine._  
-__practical joke__ _n_  
-__carpool__ _v_  
 __fare<sup>1</sup>__ _v intr_  
 __fare<sup>2</sup>__ _n_  
 __enumerate__ _v tr_ __1__ To count off or name one by one; list: _A spokesperson enumerated the strikers’ demands._ __2__ To determine the number of; count.  
