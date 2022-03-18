@@ -125,3 +125,20 @@ __hummus__ _n_ :mega: /ˈhʊməs/
 __fast-track__ _adj_  
 __Robinson__ _n_ /ˈrɒbɪnsən/  
 __fried green tomatoes__ _n_  
+__shamrock__ _n_  
+__askance__ _adv_ With disapproval, suspicion, or distrust. _Syn_ sidelong _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
+__nascent__ _adj_ /NASS-unt/ Coming or having recently come into existence. _The actress is now focusing on her nascent singing career._  
+__paean<sup>1</sup>__ _n_ /PEE-uhn/ [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
+__paean<sup>2</sup>__ _v tr_ /PEE-uhn/ To make such an expression.  
+__limerick__ _n_ /LIM-uh-rik/ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._  
+__talpa__ _n_ [:scroll: From Latin talpa (mole). Because a mole burrows under the earth, the word came to be applied to a growth under the skin: a cyst or a tumor.] /TAL-puh/ __1__ A mole (the animal). __2__ A cyst.  
+__ascetic__ _n_ A person who renounces material comforts and leads a life of austere self-discipline, especially as an act of religious devotion. _Syn_ abstainer _His rough clothes and starved frame gave him the look of an ascetic, and he refused the food they tried to give him._  
+__intersperse__ _v_ /in-ter-SPERSS/ To place or insert something at intervals in or among other things. _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._  
+__vesta__ _n_ /VES-tuh/ [:scroll: After Vesta, the goddess of hearth and household in Roman mythology. Her temple had a fire tended by the vestal virgins.] A short wooden match. :es: cerilla  
+__assuage__ _v_ To make (something burdensome or painful) less intense or severe. _Syn_ alleviate, relieve, palliate _Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger._  
+__gregarious__ _adj_ /grih-GAIR-ee-us/ _Syn_ social, sociable  
+__reeve<sup>1</sup>__ _n_ A local official.  
+__reeve<sup>2</sup>__ _v tr_ To pass (a rope or the like) through.  
+__reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
+__ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
+__foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
