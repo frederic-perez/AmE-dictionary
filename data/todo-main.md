@@ -47,7 +47,7 @@ __baffling__ _adj_ /ˈbæflɪŋ/ Impossible to understand; perplexing; bewilderi
 __paltry__ _adj_  
 __malnourished__ _adj_  
 __tahini__ _n_  
-__factoid__ _n_  
+__factoid__ _n_ :two::hammer:  
 __crock__ _n_  
 __chipper__ _adj_ /ˈtʃɪpə/ __1__ Cheerful; lively. __2__ Smartly dressed.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
@@ -142,3 +142,25 @@ __reeve<sup>2</sup>__ _v tr_ To pass (a rope or the like) through.
 __reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
 __ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
 __foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
+__saint__ _n_ /seɪnt; _unstressed_ sənt/  
+__artillery__ _n_  
+__delicate__ _adj_ :mega:  
+__setback__ _n_ :pencil2:  
+__mortar__ _n_  
+__war criminal__ _n_  
+__karmic__ _adj_ _Karmic balance._  
+__latex__ _n_ :mega:  
+__behoove__ _v_  
+__sprinkle__ _n_  
+__gullible__ _adj_ :mega:  
+__weigh in__ _v_  
+__barbaric__ _adj_ :mega:  
+__engage__ _v_  
+__St. Patrick’s Day__ _n_  
+__closely__ _adv_ _Watch closely._  
+__eviction__ _n_  
+__wage__ _v_ :two::hammer:  
+__debacle__ _n_  
+__tailspin__ _n_  
+__deliver__ _v_  
+__hotboxing__  
