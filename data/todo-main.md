@@ -1,23 +1,3 @@
-__fare<sup>1</sup>__ _v intr_  
-__fare<sup>2</sup>__ _n_  
-__enumerate__ _v tr_ __1__ To count off or name one by one; list: _A spokesperson enumerated the strikers’ demands._ __2__ To determine the number of; count.  
-__sylvan<sup>1</sup>__ _adj_ (silvan)  
-__sylvan<sup>2</sup>__ _n_ (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
-__milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which something occurs or develops. The word is synonymous with environment. _The quiet suburban neighborhood provides the perfect milieu for raising a family._  
-__apropos__ _adj_ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
-__apprise__ _v_ To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._  
-__aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
-__aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
-__compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
-__huddle<sup>1</sup>__ _n_  
-__huddle<sup>2</sup>__ _v tr_  
-__huddle<sup>3</sup>__ _v intr_  
-__fester__ _v_ /FESS-ter/ Fester means “to generate puss” or “to become worse as time passes.” _Without treatment, the wound began to fester._ _The resentment between the knights festered and lead to a battle._  
-__baneful__ _adj_ Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
-__askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
-__captious__ _adj_ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
-__synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
-__hearing__ _n_ _Court hearing._  
 __constructive__ _adj_ _Constructive criticism._  
 __adage__ _n_ _The adage goes: you can’t con an honest man._  
 __fast-talk__ _v_  

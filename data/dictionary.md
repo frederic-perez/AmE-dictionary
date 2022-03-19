@@ -531,6 +531,8 @@ __apartment__ _n_
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
 __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
+__aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
+__aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
 __aping__  
@@ -580,10 +582,12 @@ __apprehension__ _n_ :three::pencil2::hammer:
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice__ _v_  
 __apprenticeship__ _n_ _Apprenticeship program._  
-__apprise__ _v_ _He was kept apprised of events by partisans in Paris._  
+__apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
 __apricate__ _v_ To bask in the sun.  
-__apropos__ _prep_ :three::mega::hammer:  
+__apropos<sup>1</sup>__ _adj_ :mega::four: /ˌæp rəˈpoʊ/ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
+__apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/  
+__apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/  
 __apt__  
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
@@ -672,6 +676,7 @@ __ask for__ _phr v_ :dart: To provoke a negative reaction.
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
 __askance__  
+__askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __aspen__  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
@@ -939,7 +944,7 @@ __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band i
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
 __bane__ _n_ :three::hammer:  
-__baneful__ _adj_ Productive of destruction or woe; seriously harmful. _A baneful influence._ _A baneful effect upon morals._  
+__baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _A baneful influence._ _A baneful effect upon morals._ _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
@@ -2156,7 +2161,7 @@ __capsize__ _v_ :three: To capsize is to overturn, and it usually happens to boa
 __capstone__ _n_  
 __captain__ _v_  
 __captaincy__ _n_ :two::hammer:  
-__captious__ _adj_ /KAP-shuss/  
+__captious__ _adj_ :two: /KAP-shuss/ Marked by a disposition to find and point out trivial faults. _Syn_ faultfinding _She found the new professor to be captious, marking all the grammatical errors in her essays while ignoring the points she had tried to make._  
 __capuchin monkey__ _n_ :mega:  
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
@@ -2891,6 +2896,7 @@ __compassionate__ _adj_ :three::hammer:
 __compatriot__  
 __compel__ _v_ :five::hammer:  
 __compelling__ _adj_ :six: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
 __complacent__ _adj_ :three: Self-satisfied; smug; unbothered: _He is too complacent to make changes._  
@@ -4745,6 +4751,7 @@ __entrenchment__
 __entrepreneur__ _n_ :pencil2:  
 __entryway__ _n_ _An entryway aquarium._  
 __entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace _He entwined his fingers with hers._  
+__enumerate__ _v tr_ __1__ To count off or name one by one; list: _A spokesperson enumerated the strikers’ demands._ __2__ To determine the number of; count.  
 __enunciation__  
 __envelop__ _v_  
 __enviable__  
@@ -5072,8 +5079,8 @@ __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
-__fare<sup>1</sup>__ _n_ :six::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v_ :eight: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
+__fare<sup>1</sup>__ _n_ :seven::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
+__fare<sup>2</sup>__ _v intr_ :nine: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_ :two::hammer:  
@@ -5181,7 +5188,7 @@ __ferreting out__ _v_
 __fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
-__fester<sup>2</sup>__ _v tr_ :eight: (festered, festering) __1__ To form pus; generate purulent matter; suppurate: _a festering wound._ __2__ To cause ulceration, as a foreign body in the flesh. :es: ulcerarse __3__ To putrefy or rot. __4__ To rankle, as resentment or bitterness: _The desire for revenge festered in her heart._ _VA’s challenges will only fester if they are kept shrouded in secrecy._  
+__fester<sup>2</sup>__ _v tr_ :nine: /FESS-ter/ (festered, festering) __1__ To form pus; generate purulent matter; suppurate: _a festering wound._ _Without treatment, the wound began to fester._ __2__ To cause ulceration, as a foreign body in the flesh. :es: ulcerarse __3__ To putrefy or rot. __4__ To rankle, as resentment or bitterness: _The desire for revenge festered in her heart._ _VA’s challenges will only fester if they are kept shrouded in secrecy._ __5__ To become worse as time passes. _The resentment between the knights festered and lead to a battle._  
 __fester<sup>3</sup>__ _v intr_ To cause to rankle: _envy festering the spirit._  
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
@@ -6680,7 +6687,7 @@ __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, oppo
 __heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
 __heap__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
-__hearing__ _n_ _law_  
+__hearing__ _n_ :two::hammer: _law_ _Court hearing._  
 __hearkened__  
 __hearsay__ _n_ :eight: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
@@ -7088,8 +7095,9 @@ __hubhub__
 __hubris__ _n_ :eight: Excessive pride or self-confidence; arrogance. _Syn_ pride, vanity, arrogance, conceit, self-importance, haughtiness, conceitedness _Intellectual hubris._  
 __huckster__ _n_ :five: /HUCK-ster/A huckster is someone who tries to sell you something that’s not very well made, or isn’t worth the price. If someone tries to sell you a bottle of Love Potion \#9, call him a huckster. A person who is aggressive or dishonest in selling. _The jewelry that the huckster was peddling was obviously imitation._  
 __huckterism__  
-__huddle<sup>1</sup>__ _n_ :three: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
-__huddle<sup>2</sup>__ _v_ :four: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
+__huddle<sup>1</sup>__ _n_ :four: __1__ A densely packed group or crowd, as of people or animals. __2__ _Football_ A brief gathering of a team’s players behind the line of scrimmage to receive instructions for the next play. __3__ A small private conference or meeting.  
+__huddle<sup>2</sup>__ _v tr_ :five: (huddled) __1__ To crowd together, as from cold or fear. __2__ To draw or curl one’s limbs close to one’s body: huddled under the blanket while watching television. __3__ _Football_ To gather in a huddle. __4__ _informal_ To gather together for conference or consultation.  
+__huddle<sup>3</sup>__ _v intr_  
 __Huey__  
 __huff<sup>1</sup>__ _n_  
 __huff<sup>2</sup>__ _v_ :nine: (huffed, huffing) To say something in a way that shows you are annoyed, often because someone has offended you.  
@@ -8954,6 +8962,7 @@ __mile-a-minute<sup>1</sup>__ _n_ Any of several species of fast-growing plants,
 __mile-a-minute<sup>2</sup>__ _adj_ At the rate of one mile per minute, 60 miles per hour. _A mile-a-minute talker._  
 __mile-a-minute<sup>3</sup>__ _adv_ Very fast. _He was all excited after the game, talking a mile-a-minute about the last-second shot._  
 __mileage__  
+__milieu__ _n_ /meel-YOO/ A milieu is the physical or social setting in which something occurs or develops. The word is synonymous with environment. _The quiet suburban neighborhood provides the perfect milieu for raising a family._  
 __military fiat__ _n_  
 __militia__ _n_ :two::hammer: (militias)  
 __militiaman__ _n_ :pencil2:  
@@ -14408,7 +14417,8 @@ __sword__ _n_ :mute:[s~~w~~ord]
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
-__sylvan__  
+__sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
+__sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
 __sympathetic__  
 __sympatric__ _adj_ /sim-PAT-rik/ [:scroll: From sym-, a form of syn- (together) + patra (homeland), from pater (father).] Occurring in the same geographical area. _The Mojave yucca is often sympatric with the Joshua tree._  
 __symposiarch__ _n_ The person who proposes toasts and introduces speakers at a banquet. _Syn_ toastmaster  
@@ -14417,7 +14427,7 @@ __syncope__ _n_ A brief loss of consciousness caused by inadequate blood flow to
 __syndicate__ _n_ :pencil2: _The national gambling syndicate._  
 __syndicated__ _adj_ :two::hammer:  
 __syndrome__ _n_  
-__synecdoche__ _n_ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
+__synecdoche__ _n_ :two: /sɪnˈɛkdəkɪ/ Synecdoche is when a part of something is used to refer to a whole. Example: The commander had an army of 10,000 swords. (The people holding the swords were there, too.)  
 __synesthesia__ _n_  
 __synod__ _n_ :pencil2:  
 __synoptic__ _adj_ :four::hammer: _Synoptic representations of wind._  
