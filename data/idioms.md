@@ -141,6 +141,7 @@ __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, 
 __all that jazz__ :three: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
+__alter ego__  
 __amateur hour__  
 __amirite__ A comical way of writing “am I right,” an interjection used to foster agreement or stimulate further conversation. _He’s a fool, amirite?_  
 __amount to nothing__ To result in no tangible or appreciable difference.  
@@ -305,6 +306,7 @@ __bean counter__ :two: __1__ A derogatory term used to describe someone who obse
 __bear fruit__ :two: (bear fruits) Yield results, have a favorable outcome. _This new idea of his is bound to bear fruit._  
 __beat around the bush__ To fail to come to the important point about something; from the idea of a hunted animal hiding in a bush while the hunter is too timorous to follow it in there.  
 __beat it__ To go away immediately.  
+__beat the bushes (for someone or something)__ To search for someone or something exhaustively and at great length. _I’ve been beating the bushes for a bigger apartment, but there’s nothing out there I can afford!_  
 __beat the clock__ :two: To finish something before the time is up.  
 __beat the shit out of (someone)__ _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ To try to do something that is hopeless.  
@@ -332,6 +334,7 @@ __bite the dust__ _In 1945, what was left of the old Science Fiction League fina
 __bitter pill to swallow__ An unpleasant fact that you must accept.  
 __black and white__ _n_ The police; a black and white police patrol car; any police car. _Call the black and whites. We got trouble here._  
 __black__ _n_ _You take sugar, cream? No, thanks, just black._  
+__blank canvas__  
 __bless your pointy little head__ A condescending phrase used to patronize someone for being foolish or not very bright. _You failed the exam because you thought the sun was a planet? Aw, bless your pointy little head._  
 __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full moon is in exact alignment with the Earth and the sun, with Earth in between the two. Light refracted off of Earth’s atmosphere appears on the moon in a dark-red hue, hence the name “blood moon.” It is referred to in the Bible (Revelation 6:12–14) as a sign of the end of the world, and so it is regarded by many as an ill omen. _The wind was howling, the sky was pitch black, and a blood moon loomed heavy over our heads. I knew something bad was coming our way._  
 __blood runs cold__ _informal_ To be very frightened.  
@@ -414,6 +417,7 @@ __can’t get enough (of something)__ To love or thoroughly enjoy something; to 
 __canary in a coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cancel out__  
 __candle in the wind__ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
+__cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
 __cap off__ _v_ Finish or complete, as with some decisive action. _He capped off the meeting with a radical proposal._  
 __cards are stacked against someone__ Luck is against someone.  
 __carp about (someone or something)__ To complain about someone or something, especially in a way that others find annoying. _If you hate your job so much, quit carping about it and look for a new one!_  
@@ -523,6 +527,7 @@ __curse (someone or something) under (one’s) breath__ To say threatening, cons
 __curtains for (someone or something)__ The end, death, or demise of someone or something. _Oh, it’ll be curtains for the informant once I find him!_ _If this generator doesn’t work, it’s curtains for us._  
 __cushy job__ A job that is easy, stress-free, and/or very well paid.  
 __cuss a blue streak__ To use profane language with great rapidity and intensity. _My dad cussed a blue streak after he found out I’d put a dent in his car._ _He gathered the players together and then commenced cussing a blue streak at very high volume._  
+__cut (one) some slack__  
 __cut and dried__ _You seem to think this is cut and dried._  
 __cut corners__ To do something in the easiest or most inexpensive way.  
 __cut from the same cloth__ To be very similar.  
@@ -671,7 +676,7 @@ __fender bender__ :three: A little car accident. _Stranded by a fender bender._
 __few and far between__ :two: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
-__fill someone in__ _Thank you for filling us in._  
+__fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
 __final cut__ The completed and finalized edited version of a film, as authorized by its director and producer.  
@@ -815,9 +820,9 @@ __go at (something)__ To engage in or undertake something with great energy, ent
 __go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
-__go figure__ :three: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
-__go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
+__go figure__ :five: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
+__go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go off in a huff__ To leave in an angry, belligerent, or vexed mood.  
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
@@ -1350,7 +1355,9 @@ __leg up__ :two: __1__ Literally, a boost from another person that enables one t
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
 __legend has it__  
+__legit__ /ləˈdʒɪt/  
 __lemon law__ :two: A law requiring an automobile manufacturer or dealer to replace, repair, or refund the cost of an automobile that proves to be defective after purchase. An American law that protects purchasers of faulty cars.  
+__lemon__ Something that is worthless or much less valuable than one was led to believe. _It sounded like a good deal at the time, but this car he sold me is a total lemon!_  
 __let (someone) loose (on something)__ To allow someone to do something as they please, without supervision or control.  
 __let (someone) off the hook__ To pardon, release, or allow someone to escape from blame, responsibility, obligation, or difficulty.  
 __let (the) perfect be the enemy of (the) good__ To allow the demand, desire, or insistence for perfection to decrease the chances of obtaining a good or favorable result in the end. (Usually used in the negative as an imperative.)  
@@ -1561,6 +1568,7 @@ __never a rose without a/the prick__ _proverb_ There is rarely a good or positiv
 __new car smell__ The scent associated with the inside of a brand new vehicle, caused by the plastics and other materials inside it. _Boy, I love that new car smell, don’t you?_  
 __new kid on the block__ Someone who is new in a place or organization.  
 __new normal__ A previously unusual occurrence that has become commonplace. _High unemployment rates have become the new normal due to the country’s economic strife._  
+__next in line__  
 __nice and (something)__ Very something. Used to emphasize how nice something is because of the particular quality named after “and.” _I love your new house! It’s nice and bright inside!_  
 __nice and easy__ _informal_ In a way that is slow, careful, gentle, or easy. _The pilot brought the plane down nice and easy._ _She hit the ball nice and easy._  
 __nice guy__ A teenaged or adult male who is dependably friendly and compassionate, to the point of being seen as too boring, unchallenging, or uninspiring to be romantically involved with. _I’m tired of just being the nice guy that no girl wants to date. I want to be seen as edgy, dangerous even—someone no girl can resist!_  
@@ -1729,6 +1737,7 @@ __paint the town red__ Have a good time.
 __paper chase__ A task that involves completing and/or going through a lot of paperwork. _After getting married and buying a house, doing my taxes has become a real paper chase._  
 __pardon my French__ :two: Excuse me for swearing.  
 __part company (with/from somebody/something)__  
+__part ways (with one)__  
 __party crasher__ One who attends a party without having been invited.  
 __party pooper__ (party poopers) A person who dislikes or refuses to participate in social events, often with the result of detracting from others’ enjoyment of such events. _Amy is such a party pooper. She thinks our company’s social functions are stupid and just stands around pouting the whole time._  
 __pass away__ _euphemism_ To die. _When I pass away, I don’t want an elaborate funeral._  
@@ -1850,7 +1859,10 @@ __ring someone’s bell__ __3__ To sexually attract or arouse someone; to bring 
 __ring true__ To seem or sound true, sincere, or authentic. _Her moans of pleasure somehow don’t ring true._  
 __ring up__ _Ringing up sales._  
 __rinse and repeat__ (rinse, repeat; lather, rinse, repeat; wash, rinse, repeat)  
+__rip-snorting mad__ Extremely angry and agitated; infuriated. _My mom was rip-snorting mad when I came home drunk at 2 AM._ _You’ve got to learn to stay out of the boss’s way when he gets rip-snorting mad like that._  
+__ripen up__ To grow ripe; to become mature enough to harvest or pick. _Make sure you plant your tomatoes in a spot that gets plenty of sunshine, or else it will take a whole lot longer for them to ripen up._  
 __rise from the ashes__ To recover after a serious failure.  
+__rob the till__ To steal the earnings of a shop or restaurant from out of its cash register. _Just remember, this place has insurance, so if anyone comes in with a gun looking to rob the till, you don’t offer up any resistance, OK?_ _I hear Janet was fired from her last job for robbing the till._  
 __rock the boat__ :five::hammer: _Please, don’t rock the boat._  
 __rocket science__ :three: A pursuit, activity, or endeavor that requires extraordinary skill or intelligence. Most often used in the negative to imply the opposite. _Look, all you need to do is reformat the hard drive on your computer. It isn’t rocket science!_  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
@@ -1896,6 +1908,7 @@ __sell (someone, something, or oneself) short__ :two: To undervalue someone, som
 __sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
+__send off__  
 __set (someone or something) off__  
 __set (something) in cement__ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
 __set about (doing something)__ To undertake a task; to begin doing something. _After the meeting, I’ll set about writing a draft of the report._  
