@@ -144,3 +144,16 @@ __debacle__ _n_
 __tailspin__ _n_  
 __deliver__ _v_  
 __hotboxing__  
+__whatnot__ _n_  
+__weather__ _v_  
+__potty training__ _n_ _informal_ Toilet training.  
+__leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/  
+__lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
+__overthinker__ _n_ _I’m a chronic overthinker._  
+__opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
+__shortchange__ _v tr_  
+__brutalize__ _v tr_  
+__assiduous__ _adj_  
+__proctor__ _n_  
+__steep__ _v_  
+__hunker__ _v_  
