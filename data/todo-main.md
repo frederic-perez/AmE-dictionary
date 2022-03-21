@@ -157,3 +157,17 @@ __assiduous__ _adj_
 __proctor__ _n_  
 __steep__ _v_  
 __hunker__ _v_  
+__intertwine__ _v_  
+__referral__ _n_  
+__ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
+__industrious__ _adj_ /ɪnˈdʌstrɪəs/  
+__squirrel__ _n_ /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/  
+__business__ _n_ /ˈbɪznɪs/  
+__reiki__ _n_ /ˈreɪkɪ/  
+__speechless__ _adj_  
+__childhood__ _n_  
+__commiserate__ _v_  
+__carsick__ _adj_ Suffering from motion sickness caused by travel in a motor vehicle.  
+__swagger stick__ _n_ [:scroll: Its use derives from the vine staff carried by Roman centurions as an emblem of office.] A short metal-tipped cane carried especially by officers in the armed forces.  
+__bush jacket__ _n_ A long, cotton shirtlike jacket usually with four flat pockets and a belt.  
+__Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
