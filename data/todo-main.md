@@ -1,18 +1,3 @@
-__constructive__ _adj_ _Constructive criticism._  
-__adage__ _n_ _The adage goes: you can’t con an honest man._  
-__fast-talk__ _v_  
-__neighbohing__ _adj_ Adjacent; adjoining.  
-__ceasefire__ _n_ :two::hammer:  
-__golf__ _n_ :mega:  
-__escalate__ _v_  
-__cringe__ _v_  
-__critical mass__  
-__native__ _n_  
-__misnomer__ _n_  
-__shell__ _v_ :two::hammer: _The Russians are shelling us._  
-__unfold__ _v_  
-__narrative__ _n_  
-__well-read__ _adj_  
 __nesting doll__ _n_  
 __pummel__ _v_  
 __pit__ _n_ _A pit of snakes._  

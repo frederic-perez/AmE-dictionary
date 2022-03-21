@@ -155,7 +155,7 @@ __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with lit
 __ad-lib<sup>3</sup>__ _n_ :six: (ad lib, ad libs) [:scroll: _Ad-lib_ is a shortening of Latin _ad libitum_, which means “in accordance with one’s wishes.” In the past, ad libitum was used to refer to any activity where the performer was free to do whatever they liked for as long as desired, whether the activity be drawing, working math problems, talking, playing music, or acting. Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. Words, music, or actions uttered, performed, or carried out extemporaneously.] _That was a Tom Hanks ad-lib._ _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
 __ad-lib<sup>4</sup>__ _v_ :three: To say, do, or perform something in an impromptu fashion, with little or no preparation beforehand. _I had forgotten to rehearse my lines for the audition, so I just decided to ad-lib the whole way through._  
 __Ada__ _n_ :mega: /ā′də/  
-__adage__ _n_ :three::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._  
+__adage__ _n_ :four::hammer: _When greed takes over, caution departs, a basis for the adage that you can’t con an honest man._ _The adage goes: you can’t con an honest man._  
 __Adam’s apple__ _n_ :two: The slight projection at the front of the throat formed by the largest cartilage of the larynx, usually more prominent in men than in women.  
 __adamant__ _adj_ :two::hammer:  
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
@@ -2314,7 +2314,7 @@ __cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __ce__  
-__ceasefire__  
+__ceasefire__ _n_ :three::hammer:  
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
@@ -3031,6 +3031,7 @@ __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.
 __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set of principles governing a state, organization, etc. __2__ Relating to someone’s physical or mental condition. __3__ Relating to the fundamental makeup of something or someone; essential.  
 __constrained__ _adj_  
 __construction paper__ _n_ A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
+__constructive__ _adj_ _Constructive criticism._  
 __construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultee__ _n_  
 __consumable__  
@@ -3328,7 +3329,7 @@ __crier__ _n_ :two: __2__ (formerly) an official who made public announcements, 
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
 __crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
-__cringe__ _v_ :eight: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
+__cringe__ _v_ :nine: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
 __crinkly__ _adv_  
@@ -3341,6 +3342,7 @@ __crisply__ _adv_ _Nuggent greeted him crisply._
 __crisscross__  
 __crisscrossed__ _adj_  
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
+__critical mass__  
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
@@ -4810,6 +4812,7 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _pref_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
+__escalate__ _v_  
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
@@ -5095,6 +5098,7 @@ __fascinate__ _v_ :mute:[fas~~c~~inate]
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
+__fast-talk__ _v_  
 __fast-track__ _v_  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
@@ -6143,6 +6147,7 @@ __golden__ _adj_ :astonished: __4__ Indicating the fiftieth event of a series.
 __goldenrod__ _n_  
 __goldfinch__ _n_ :es: jilguero  
 __goldilocks__ _n_ __4__ (Environmental Science) (modifier; sometimes capital) Not prone to extremes of temperature, volatility, etc: _a goldilocks planet; a goldilocks economy._  
+__golf__ _n_ :mega:  
 __golliwog__ _n_  
 __gomer__ _n_ _slang_ :dart: [:scroll: origin uncertain; medical sense said to be an acronym of “get out of my emergency room”] A first-year Air Force Academy cadet, esp a clumsy trainee. _Gomer Pyle._  
 __gonads__ _n_  
@@ -9049,7 +9054,7 @@ __mishap__ _n_ :mega::two::hammer:
 __mishmash__ _n_ :two::hammer:  
 __misinformation__ _n_ Information that is incorrect.  
 __mislay__ _v_ _He mislaid his keys._  
-__misnomer__ _n_ :eight: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
+__misnomer__ _n_ :nine: __1__ A wrong or inaccurate name or designation. _“King crab” is a misnomer—these creatures are not crustaceans at all._ _Syn_ inaccurate name/label/designation, wrong name/label/designation __2__ A wrong or inaccurate use of a name or term. _To call this “neighborhood policing” would be a misnomer._  
 __miso__ _n_  
 __misogynist__  
 __misogyny__ _n_ :pencil2: Hatred of, aversion to, or prejudice against women.  
@@ -9357,7 +9362,7 @@ __Narcan__ _n_ (trademark) _A state trooper administered Nascar to reverse the e
 __narcissism__ _n_  
 __narcissistic__ _adj_ :three::pencil2::hammer:  
 __narrate__ _v_ (narrated)  
-__narrative__  
+__narrative__ _n_ :two::hammer:  
 __narrow-minded__ _adj_  
 __narrowcast<sup>1</sup>__ _v_  
 __narrowcast<sup>2</sup>__ _n_  
@@ -9371,6 +9376,7 @@ __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopu
 __National Guard__  
 __nationwide__ _adj_ :two::pencil2::hammer: _Venezuelan opposition leaders callled Monday for a 24-hour nationwide strike._  
 __Native American__ _n_ _Native American reservation._  
+__native__ _n_  
 __nativism__ _n_ :two::hammer:  
 __natter__ _v_ :two: (nattering) Talk socially without exchanging too much information. _Syn_ chew the fat, chitchat, claver, confab, chat, jaw, shoot the breeze, confabulate, gossip, chaffer, chatter, visit  
 __nattily__ _adv_ :two: In a natty manner; with smartness. _Actor nattily dressed._  
@@ -9406,6 +9412,7 @@ __neglected__ _adj_ _I don’t feel neglected._
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
 __neigh<sup>2</sup>__ _v_ :three::hammer: (neighed, neighing) :es: relinchar  
+__neighbohing__ _adj_ Adjacent; adjoining.  
 __neighbor__ _n_ :mute:[nei~~gh~~bor]  
 __nekkid__ _adj_ (nonstandard) Pronunciation spelling of _naked_, representing Southern US English.  
 __nematodes__  
@@ -12816,7 +12823,8 @@ __sheikhs__
 __shekel__ _n_ (sheqel) /SHEK-uhl/ [:scroll: From Hebrew sheqel, from shaqal (to weigh). Ultimately from the Semitic root tql (to weigh), which also gave us scallion and shallot.] __1__ Money; wealth; cash. __2__ A monetary unit of Israel.  
 __shell out__ _v_ :three::hammer:  
 __shell road__  
-__shell__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
+__shell<sup>1</sup>__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
+__shell<sup>2</sup>__ _v_ :two::hammer: _The Russians are shelling us._  
 __shell-shocked__ _adj_ :two::hammer:  
 __shellfish__ _n_ _Shellfish stewed, jerked._  
 __shelling out__  
@@ -15472,7 +15480,7 @@ __unfettered__ _adj_ :nine::m: Not kept under retraint; uninhibited. _Exposed to
 __unflagging__ _adj_ :two::hammer:  
 __unflappable__ _adj_ :seven::hammer: _Jim was unflappable._ _Unflappable team._  
 __unflinching__ _adj_ :three: Showing neither fear nor indecision; resolute. _Syn_ unintimidated, unshrinking, unblinking  
-__unfold__ _v_ :four::hammer: _Mysteries unfold._  
+__unfold__ _v_ :five::hammer: _Mysteries unfold._  
 __unforeseen__ _adj_ _Unforeseen difficulties._  
 __unfrock__ _v_ To deprive of ecclesiastical rank, authority, and function; depose: _an unfrocked priest._  
 __unfurl__ _v_ :two::hammer: (unfurling)  
@@ -16056,7 +16064,7 @@ __well-founded__ _adj_ Based on sound reasoning or evidence.
 __well-heeled__ _adj_ :two: Having plenty of money.  
 __well-nigh__ _adv_ Almost. _A task that is well-nigh impossible._  
 __well-off__ _adj_  
-__well-read__ _adj_ Someone who is well-read has read many books and has a lot of knowledge.  
+__well-read__ _adj_ :two: Someone who is well-read has read many books and has a lot of knowledge.  
 __well-rounded__ _adj_ :four::hammer:  
 __wellhead__  
 __welling up__  
