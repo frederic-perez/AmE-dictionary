@@ -3675,6 +3675,7 @@ __Deep South__
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
 __deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
+__deepfake__ _n_  
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
 __defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
@@ -5815,6 +5816,7 @@ __furrier__ _n_ A person whose occupation is selling, making, dressing, or repai
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
 __further__ _v_ :two::hammer:  
+__furtive__ _adj_ /FER-tiv/  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
@@ -6731,6 +6733,7 @@ __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
 __hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)  
+__hedgehog__ _n_ :es: erizo  
 __hedonic__  
 __Hedonism__  
 __heed__ _v_ :nine::m: To pay close attention to (somebody or something.) _Trump supporters should heed calls from Democrats to limit executive power._ :es: hacer caso de  
@@ -8077,8 +8080,7 @@ __larceny__ _n_ :eight: Theft of personal property. :es: hurto
 __larder__ _n_ :four::hammer:  
 __largely__ _adv_ :two::hammer:  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
-__largess__ _n_  
-__largesse__ _n_ :five::pencil2::hammer:  
+__largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
 __larking__ _v_  
 __larvate__ _adj_ :astonished: (larvated) /ˈlɑːveɪt/ (Zoology) Masked or hidden.  
@@ -9200,7 +9202,7 @@ __mound__ _v_ __1__ (often foll by up) To gather into a mound; heap. __2__ Tto c
 __mount__ _v_ _Evidence is mounting for an ocean at Pluto._  
 __Mountain States__ _n_ (also known as the Mountain West and the Interior West) The region of the US that includes states that contain part of the Rocky Mountains.  
 __mountaintops__ _n_  
-__mountebank__ _n_ :two::hammer:  
+__mountebank__ _n_ :three: A hawker of quack medicines who attracts customers with stories, jokes, or tricks. _Syn_ charlatan  
 __mourner__ _n_  
 __mournfully__  
 __mouse potato__ _n_ [:scroll: Formed on the pattern of couch potato. Mouse refers to the electronic mouse typically used with a computer. Earliest documented use: 1993.] Someone who lives a sedentary life, spending large amounts of leisure time playing computer games, surfing the net, streaming videos, etc.  
@@ -10886,7 +10888,7 @@ __portent__ _n_ :five::hammer: (portents)
 __portentous__ _adj_ :two::hammer:  
 __porthole__ _n_ :two: __1__ _Nautical_ A small, usually circular window in a ship’s side. __2__ An opening in a fortified wall; an embrasure.  
 __portly__  
-__portmanteau__  
+__portmanteau__ _n_ :two: A large leather suitcase that opens into two hinged compartments. _Syn_ Gladstone _With both sides stuffed to capacity, he needed to sit on top of the portmanteau in order to close it._  
 __portrait__  
 __portray__ _v_  
 __portrayal__ _n_ :two::mega::hammer:  
@@ -12198,7 +12200,7 @@ __ruffles__
 __rug > sweep it under the rug__  
 __rug__ _n_ :two: Hairpiece, chignon.  
 __rugelach__ _n_ A cookie of cream-cheese dough spread with filling, such as jam or nuts, and then rolled into a crescent shape.  
-__rugged__ _adj_ :three::hammer: _He was red carded for a rugged foul._  
+__rugged__ _adj_ :four::hammer: /ˈrʌɡɪd/ _He was red carded for a rugged foul._  
 __ruinous__ _adj_  
 __rule of law__ _n_ :four::hammer:  
 __rule out__ _v_  
@@ -12240,6 +12242,7 @@ __ruse__ _n_ :eight: (ruses) An action intended to mislead, deceive, or trick; s
 __rush<sup>1</sup>__ _n_  
 __rush<sup>2</sup>__ _v_  
 __Rust Belt__ _n_ (rust belt) An area where heavy industry is in decline, esp in the Midwest of the US.  
+__rusticate__ _v_  
 __rustle up__ _v_  
 __rustle__ _v_ :seven::mute:[rus~~t~~le] (rustled, rustling) __1__ To make a sound like the one that leaves or sheets of paper make when they move. __2__ To steal farm animals such as sheep, horses, or cows. _To rustle up a dinner for 12._  
 __rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves blowing in the wind. _The rustling of forest leaves._  
@@ -14561,6 +14564,7 @@ __tassel<sup>2</sup>__ _v_ :five::hammer: (tasseled)
 __tat__ _n_ :two: __3__ _informal_ (tatt) A mark or design made on the skin; a tattoo.  
 __tater tot__ _n_ (tater tots) _(food)_ A small cylindrical piece of grated potato, generally deep-fried. The name “tater tot” is a registered trademark of the American frozen food company Ore-Ida, but is often used as a generic term. “Tater” is short for _potato_. _The refrigerated warehouse holds millions of pounds of tater tots._  
 __tatter__ _v_ :four: (tattered) To make or become ragged: _tattered jeans; a tattered reputation._  
+__tatterdemalion__ _n_ /ˌtæt ər dɪˈmeɪl yən, -ˈmæl-/ A person wearing ragged or tattered clothing. _Syn_ ragamuffin _It was a crew of tatterdemalions that limped and straggled and wandered back into Barnesdale that day._  
 __tatters__ _n_ :two::hammer::camera: (in tatters) _It is in tatters._ _Its reputation is in tatters._  
 __tatting__ _v_  
 __tattle<sup>1</sup>__ _n_  
@@ -16068,7 +16072,7 @@ __welter__ _n_ :four: A confused multitude of things. _A welter of data._ _A wel
 __welterweight__  
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
-__wend__ _v_ :five: /wɛnd/ (wending) To move or travel slowly somewhere. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _Leo wended his way home through the wet streets._ _The legal battle wends its way through the federal appeals process._ _She had to wend her way through the crowd._  
+__wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
 __werewolf__ _n_  
 __wet a line__  
 __wet__ _v_ (wetted) _A wetted wick._  
