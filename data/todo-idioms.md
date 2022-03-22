@@ -8,3 +8,18 @@ __peel off__ __3__ To deviate or depart from a group’s course or direction of 
 __left and right__  
 __turn the tables__  
 __chase the clouds away__  
+__take it away__ An invitation or instruction for someone to begin their performance. _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
+__in the thick of it__  
+__in (the) light of (something)__ Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
+__come together__  
+__churn something up__  
+__a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
+__in the back__  
+__take the gloves off__ _The gloves are coming off today._  
+__end of story__ A phrase used to end a conversation or topic of discussion, especially when one wants to discourage debate. _I didn’t do anything wrong here, OK? End of story._  
+__beat the shit out of (someone)__  
+__wrap (one’s) head around it__  
+__step in__  
+__in full swing__  
+__hands down__  
+__down the line__  

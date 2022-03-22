@@ -85,7 +85,7 @@ __vilify__ _v tr_
 __lawmaker__ _n_  
 __provost__ _n_  
 __screech__ _v_  
-__tacky__ _adj_ Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._  
+__tacky__ _adj_ :two: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._  
 __hummus__ _n_ :mega: /ˈhʊməs/  
 __fast-track__ _adj_  
 __Robinson__ _n_ /ˈrɒbɪnsən/  
@@ -120,7 +120,7 @@ __sprinkle__ _n_
 __gullible__ _adj_ :mega:  
 __weigh in__ _v_  
 __barbaric__ _adj_ :mega:  
-__engage__ _v_  
+__engage__ _v_ :two::hammer:  
 __St. Patrick’s Day__ _n_  
 __closely__ _adv_ _Watch closely._  
 __eviction__ _n_  
@@ -156,3 +156,14 @@ __carsick__ _adj_ Suffering from motion sickness caused by travel in a motor veh
 __swagger stick__ _n_ [:scroll: Its use derives from the vine staff carried by Roman centurions as an emblem of office.] A short metal-tipped cane carried especially by officers in the armed forces.  
 __bush jacket__ _n_ A long, cotton shirtlike jacket usually with four flat pockets and a belt.  
 __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
+__gripping__ _adj_ :two: /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._  
+__uplifting__ _adj_ /ʌpˈlɪftɪŋ/  
+__looting__ _n_ /ˈluːtɪŋ/ Stealing from shops or houses during a war or riot.  
+__power tool__ _n_  
+__drill__ _n_ (power tool)  
+__scramble__ _v_  
+__safety pin__ _n_  
+__paycheck__ _n_ :pencil2: _Syn_ payroll check  
+__big time__  
+__by and large__  
+__tenacity__ _n_  
