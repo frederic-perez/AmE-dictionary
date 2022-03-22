@@ -300,7 +300,7 @@ __airtight__ _adj_ :two: __1__ Impermeable by air. __2__ Having no weak points; 
 __airy__ _adj_ _The master bedroom is airy._  
 __aisle__ _n_ :mega: /īl/  
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
-__akin__ _adj_ :six: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
+__akin__ _adj_ :seven::mega: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
 __alabaster__  
@@ -572,7 +572,7 @@ __applesauce__
 __applied science__ _n_  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
 __apposition__ _n_ :two::hammer: (grammar)  
-__appraisal__ _n_ :nine: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
+__appraisal__ _n_ :nine::m: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
 __appraisingly__  
 __appreciable__ _adj_ Capable of being perceived or measured.  
@@ -888,7 +888,7 @@ __baffle__ _v_ :eight: __1__ To confuse or perplex, especially so as to frustrat
 __baffled__ _adj_  
 __bafflement__ _n_ Confusion resulting from failure to understand. :es: desconcierto, perplejidad  
 __baffles__ _n_ _Double-wall louver baffles._  
-__baffling__ _adj_ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
+__baffling__ _adj_ :two: /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling. _Baffling season._  
 __bag out__ _v_ _Why’d you bag out on me?_  
 __bag__ _v_  
 __baggie__ _n informal_ :three: (baggies) Any small bag or packet. _Take baggies for the extra goodies._  
@@ -1179,6 +1179,7 @@ __benevolent__ _adj_ /buh-nev-uh-luhnt/ :two::hammer:
 __benign__ _adj_ /bih-NYNE/ Benign means “not causing harm or injury.” In medicine, it refers to tumors that are not cancerous. _The email seemed benign, but it was discovered to be from a hacker._ _The tumor was benign._  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
+__Bennifer__ _n_ Portmanteau of Ben Affleck and Jennifer Lopez.  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
 __bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
@@ -4461,7 +4462,7 @@ __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; pain
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
-__dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
+__dysphoria__ _n_ :two: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
@@ -5011,7 +5012,7 @@ __fact checker__ _n_ Someone whose job is to make sure that facts are correct, e
 __fact sheet__  
 __faction__ _n_  
 __factious__ _adj_ Of, relating to, produced by, or characterized by internal dissension. _Syn_ divisive  
-__factoid__ _n_ /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
+__factoid__ _n_ :three: /FAK-toyd/ A brief and usually trivial fact. _On the back of baseball cards is a chart showing the player’s statistics along with one or two interesting factoids about his career._  
 __factor in__ _v_ :two::hammer:  
 __factotum__ _n_ A general assistant, engaged to do all varieties of work.  
 __factual__  
@@ -6766,6 +6767,7 @@ __heliport__
 __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: _You are one hell of a good cook._ __b__ Used as an intensive: _How the hell should I know?_ _Hell yes!_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
+__hellish__ _adj_  
 __hellscape__ _n_ An extremely unpleasant place or scene. _A war-torn hellscape._  
 __helluva__ _adj, adv_ _A helluva year._  
 __helm__ _n_ :two::hammer:  
@@ -8646,7 +8648,7 @@ __mallards__
 __malleable__ _adj_ :three: Capable of being shaped or bent or drawn out. _Syn_ tractile, ductile, pliant, tensile _The brain is malleable._  
 __mallet__ _n_  
 __mallow__ _n_ :pencil2:  
-__malnourished__ _adj_ :two: Affected by improper nutrition or an insufficient diet.  
+__malnourished__ _adj_ :three: Affected by improper nutrition or an insufficient diet.  
 __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, reek, stench, stink, mephitis _The malodor from the skunk filled the night air and sent us running indoors._  
 __mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
 __mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
@@ -9433,6 +9435,7 @@ __nervy__ _adj_ :pencil2::three::hammer:
 __nescience__ _n_  
 __Nesquik__ _n_ :mega:  
 __nest egg__ _n_ :three::hammer:  
+__nesting doll__ _n_  
 __nestle__ _v_ :nine::m: (nestled) __1__ (intr; often foll by up or down) To snuggle, settle, or cuddle closely. __2__ (intr) To be in a sheltered or protected position; lie snugly. __3__ (tr) To shelter or place snugly or partly concealed, as in a nest. _The tumbler was nestled next to the bottle._  
 __nestlings__ _n_  
 __nether__ _adj_ :two::hammer:  
@@ -10091,7 +10094,7 @@ __palpitate__ _v_ Shake with fast, tremulous movements. _Syn_ quake, quiver _The
 __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and epilepsy._  
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
-__paltry__ _adj_ :nine: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
+__paltry__ _adj_ :nine::m: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
 __pamper__ _v_ :six::hammer: (pampered)  
 __pampered__ _adj_  
 __pamphlet__ _n_  
@@ -10632,7 +10635,7 @@ __pistachios__ _n_ :two::pencil2::hammer:
 __pit latrine__ _n_  
 __pit toilet__ _n_  
 __pit wagon__  
-__pit<sup>1</sup>__ _n_ :two::hammer: _The pit of his stomach._ _Money pit._  
+__pit<sup>1</sup>__ _n_ :three::hammer: _The pit of his stomach._ _Money pit._ _A pit of snakes._  
 __pit<sup>2</sup>__ _v_ :three::hammer: _The special election pits Ed Marley against Gabriel Gomez._ _1/2 mango, peeled and pitted._ _You don’t pit amateurs against pros._  
 __pita__ _n_ A round flat bread of Middle Eastern origin that can be opened to form a pocket for filling. Also called _pocket bread_.  
 __pitch in__ _v_  
@@ -11281,7 +11284,7 @@ __pulp__ _n_ _The pulps were running out of steam._
 __pulpit__ _n_ :three::hammer:  
 __pulsating__  
 __pulse__ _n_ _A basket of pulse._  
-__pummel__ _v_ :five::hammer: (pummeled)  
+__pummel__ _v_ :six::hammer: (pummeled)  
 __pump<sup>1</sup>__ _n_ :three: __5__ _informal_ The place where consumers purchase gasoline. Used with the: _gas prices rising at the pump._ _Attractive prices at the pump._ _I have seen low gas prices at the pump._  
 __pump<sup>2</sup>__ _v_ _Curious customers would try to pump the driver._  
 __pumpkin spice__ _n_  
@@ -12823,9 +12826,9 @@ __sheikhs__
 __shekel__ _n_ (sheqel) /SHEK-uhl/ [:scroll: From Hebrew sheqel, from shaqal (to weigh). Ultimately from the Semitic root tql (to weigh), which also gave us scallion and shallot.] __1__ Money; wealth; cash. __2__ A monetary unit of Israel.  
 __shell out__ _v_ :three::hammer:  
 __shell road__  
+__shell-shocked__ _adj_ :two::hammer:  
 __shell<sup>1</sup>__ _n_ :three::hammer: _A shell corporation._ _Shell companies are easy to establish in Delaware._ _Shell company._  
 __shell<sup>2</sup>__ _v_ :two::hammer: _The Russians are shelling us._  
-__shell-shocked__ _adj_ :two::hammer:  
 __shellfish__ _n_ _Shellfish stewed, jerked._  
 __shelling out__  
 __shelling<sup>1</sup>__ _n_ :es: bombardeo  
@@ -14477,6 +14480,7 @@ __taffeta__ _n_
 __tag<sup>1</sup>__ _n_ _(baseball)_ _Vogt caught the throw home and tried to make a sweeping tag._  
 __tag<sup>2</sup>__ _v_  
 __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable phrase designed to catch attention in an advertisement. __2__ Another name for punchline.  
+__tahini__ _n_  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
 __tailspin<sup>1</sup>__ _n_ :four::hammer:  
@@ -15908,6 +15912,8 @@ __wainscoting__
 __waist band__  
 __waistcoat__ _n_  
 __wait up__ _phr v_ :two: To not go to sleep until someone comes home.  
+__waitlist<sup>1</sup>__ _n_ /ˈweɪtˌlɪst/ A waiting list.  
+__waitlist<sup>2</sup>__ _v tr_ To place on a waiting list; to create a waiting list for.  
 __waive__ _v_ :six::hammer: (waived)  
 __waiver__ _n_ :three::hammer: (waivers)  
 __wakame__ _n_  

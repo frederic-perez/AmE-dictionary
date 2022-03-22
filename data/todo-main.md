@@ -1,18 +1,3 @@
-__nesting doll__ _n_  
-__pummel__ _v_  
-__pit__ _n_ _A pit of snakes._  
-__akin__ _adj_ :mega:  
-__hellish__ _adj_  
-__Bennifer__ _n_ Portmanteau of Ben Affleck and Jennifer Lopez.  
-__dysphoria__ _n_ An emotional state characterized by anxiety, depression, or unease.  
-__appraisal__ _n_  
-__waitlist<sup>1</sup>__ _n_ /ˈweɪtˌlɪst/ A waiting list.  
-__waitlist<sup>2</sup>__ _v tr_ To place on a waiting list; to create a waiting list for.  
-__baffling__ _adj_ /ˈbæflɪŋ/ Impossible to understand; perplexing; bewildering; puzzling.  
-__paltry__ _adj_  
-__malnourished__ _adj_  
-__tahini__ _n_  
-__factoid__ _n_ :two::hammer:  
 __crock__ _n_  
 __chipper__ _adj_ /ˈtʃɪpə/ __1__ Cheerful; lively. __2__ Smartly dressed.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
