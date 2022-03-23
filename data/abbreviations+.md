@@ -162,7 +162,7 @@ __SEAL__ _n_ (Military) Sea, Air, Land. _(US Navy military special forces team m
 __Sen.__ (pl. Sens.) _Sen. Bernie Sanders._  
 __SL,UT__ Abbreviation for Salt Lake City, Utah.  
 __SMH__ Shaking my head.  
-__STI__ :four: Sexually transmitted infection.  
+__STI__ :five: Sexually transmitted infection.  
 __T__ _v_ _His car shit the bed so he’s going to have to T it._  
 __T-storm__ Thunderstorm.  
 __TBD__ To Be Determined/Defined/Decided/Done/Developed/Discussed...  

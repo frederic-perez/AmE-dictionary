@@ -23,3 +23,6 @@ __step in__
 __in full swing__  
 __hands down__  
 __down the line__  
+__scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so severely as to cause them to lose their mind. _Don’t sneak up on me like that, you scared me silly!_  
+__run wild__ To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
+__salt in the/(one’s) wound(s)__ An aggravation that makes something unpleasant, difficult, or painful even worse. _I can’t believe Sally broke up with John the day after his team lost the championship match. Talk about salt in the wounds!_  

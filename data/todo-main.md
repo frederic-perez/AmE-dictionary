@@ -152,3 +152,10 @@ __paycheck__ _n_ :pencil2: _Syn_ payroll check
 __big time__  
 __by and large__  
 __tenacity__ _n_  
+__scorecard__ _n_ /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. __2__ A card identifying the players in a sports match, esp cricket or baseball.  
+__flagellate<sup>1</sup>__ _v tr_ /FLAJ-uh-layt/ [:scroll: From Latin flagellare (to whip), from flagellum (whip), diminutive of flagrum (whip).] To punish, especially by whipping.  
+__flagellate<sup>2</sup>__ _n_ An organism having a whip-like appendage that’s used for locomotion, such as swimming.  
+__flagellate<sup>3</sup>__ _adj_ /FLAJ-uh-lit/layt/ Relating to such an organism.  
+__henchman__ _n_ /HENCH-mun/ A trusted follower who may perform unpleasant, wrong, or illegal tasks for a powerful person (such as a politician or criminal). _The play opens with the main character, a gangster, onstage surrounded by his henchmen._  
+__felicitous__ _adj_ /fɪˈlɪsɪtəs/  
+__lanceolate__ _adj_ Tapering from a rounded base toward an apex. _Syn_ lancelike _The bush had lanceolate leaves with sharp tips that could sting unwary passersby._  
