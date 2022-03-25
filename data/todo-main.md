@@ -173,3 +173,15 @@ __mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; c
 __samey__ _adj_ /seɪmi/ If you describe a set of things as samey, you mean that they are all very similar, and it would be more interesting if they were different from each other. _He has written a batch of very samey tunes._  
 __misfire__ _v intr_ /ˌmɪsˈfaɪə/  
 __flywheel__ _n_ /ˈflaɪˌhwil/ A heavy wheel in a machine or engine that keeps it operating at a steady speed.  
+__electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
+__champion__ _n_ :mega:  
+__doxing__  
+__pseudo__ _adj_ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
+__hamburger__ _n_ :mega:  
+__nosy__  
+__power storm__  
+__non sequitur__ _n_  
+__foster__ _v_  
+__differ__ _v_ :mega:  
+__fallacy__ _n_  
+__dissonance__ _n_ _Cognitive dissonance._  

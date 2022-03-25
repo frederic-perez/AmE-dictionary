@@ -22,7 +22,6 @@ __wrap (one’s) head around it__
 __step in__  
 __in full swing__  
 __hands down__  
-__down the line__  
 __scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so severely as to cause them to lose their mind. _Don’t sneak up on me like that, you scared me silly!_  
 __run wild__ To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
 __salt in the/(one’s) wound(s)__ An aggravation that makes something unpleasant, difficult, or painful even worse. _I can’t believe Sally broke up with John the day after his team lost the championship match. Talk about salt in the wounds!_  
@@ -35,3 +34,14 @@ __talking head__ _Talking head videos._
 __side hustle__ Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
 __move the needle__ :dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
+__mental vacation__  
+__down the line__ In the future.  
+__rumor mill__ :two::hammer:  
+__same here__  
+__scare the shit out of someone__  
+__call someone out__ To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
+__sit back__  
+__all over the place__  
+__pick on (someone or something)__  
+__play tricks__ :two::hammer:  
+__kick the/(one’s) door down__  
