@@ -931,6 +931,7 @@ __ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
+__Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ _The stone balustrade._  
 __balustrades__  
@@ -2494,7 +2495,7 @@ __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._
 __chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patient._ _This cup is chipped._  
 __chipped__ _adj_ :two: Damaged by having a small piece broken off. _Chipped around the edges._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
-__chipper__ _adj_ :three: Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._  
+__chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
 __chiropractor__ _n_  
@@ -3351,7 +3352,7 @@ __critters__ _n_ :three::hammer: _Garden critters._
 __croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
-__crock__  
+__crock__ _n_ :two::hammer:  
 __croft__ _n_ :three::hammer::pencil2:  
 __crone__ _n_ :three: A witchlike old woman.  
 __cronies__ _n_ :four::hammer: _Military cronies._  
@@ -5047,6 +5048,7 @@ __Fallon, NV__ _n_
 __fallout__ _n informal_ :nine::m: Side-effects; secondary consequences. _The fallout from the release of the emails threatened to undermine Mr. Christie’s carefully cultivated image._ _The Fukushima fallout._  
 __fallow ground__  
 __fallow__ _adj_ :two: marked by inactivity; plowed unseeded land: _They let the land go fallow for a season._  
+__false flag operation__ _n_ An act committed with the intent of disguising the actual source of responsibility and pinning blame on another party.  
 __false friend__  
 __falsetto__  
 __falsify__ _v_ Tamper, with the purpose of deception. _Syn_ fudge, fake, misrepresent, wangle, manipulate, cook _The researcher was tempted to falsify his data in order to secure funding for his study._  
@@ -5100,7 +5102,8 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
 __fast-talk__ _v_  
-__fast-track__ _v_  
+__fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
+__fast-track<sup>2</sup>__ _v tr_ :three: To speed up the progress of (a project or person).  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :six: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
@@ -5386,6 +5389,7 @@ __flash-bang__ _n_ :three::hammer: _The SWAT team broke down doors and detonated
 __flash-flood__  
 __flash-forward__ _n_ The insertion of a later event into the chronological structure of a novel, motion picture, play, etc. _Syn_ analepsis  
 __flashback__  
+__flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
@@ -6738,7 +6742,7 @@ __hector<sup>2</sup>__ _v tr_ :four: To intimidate or dominate in a blustering w
 __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
 __hedge fund__ _n_  
 __hedge<sup>1</sup>__ _n_  
-__hedge<sup>2</sup>__ _v_ :six::hammer: (hedging)  
+__hedge<sup>2</sup>__ _v_ :seven::hammer: (hedging)  
 __hedgehog__ _n_ :es: erizo  
 __hedonic__  
 __Hedonism__  
@@ -9932,6 +9936,7 @@ __outman__ _v_ (outmanned) _Hill was espectacular against the outmanned Thunderb
 __outmanoeuvred__  
 __outnumber__ _v_  
 __outpace__ _v_ :three::hammer: (outpacing)  
+__outpatient clinic__ _n_  
 __outpatient__ _n_ :three::hammer:  
 __outperform__ _v_ :three::hammer:  
 __outplay__ _v_ :two::hammer: (outplayed)  
@@ -9988,7 +9993,7 @@ __overkill__ _v_ _I’ll top the bill, I’ll overkill._
 __overlay__ _n_  
 __overlook__ _v_  
 __overly__ _adv_ :dart::nine::m: Excessively. _She was a jealous and overly possessive woman._ _Syn_ unduly, excessively, inordinately, too, to too great an extent/degree, immoderately, exceedingly _Well, not to be overly dramatic, but it’s one of the scariest unions of all time._ :es: demasiado  
-__overnight<sup>1</sup>__ _adj_  
+__overnight<sup>1</sup>__ _adj_ :two::hammer:  
 __overnight<sup>2</sup>__ _adv_ _The change will not happen overnight._  
 __overnight<sup>3</sup>__ _n_  
 __overpass__ _n_  
@@ -10717,7 +10722,7 @@ __play it safe__ _v_ :five::hammer: (play safe) _They choose to play it safe._
 __play second fiddle__  
 __play short__  
 __play tricks on someone__  
-__playbook__ _n_ :three::hammer: _The industry’s playbook._  
+__playbook__ _n_ :six::hammer: _The industry’s playbook._  
 __playful__ _adj_ _A playful aside._  
 __playmaker__ _n_ :two: A player who leads the offense for a team (as in basketball or hockey).  
 __playmaking__ _n_ _His playmaking ability._  
@@ -12193,7 +12198,7 @@ __rubble__ _n_ :two::hammer:
 __rube__ _n informal_ :two: A person who is not very intelligent or interested in culture. _Syn_ bumpkin, chawbacon, hayseed, hick, yahoo, yokel  
 __Rubenesque__ _adj_  
 __rubicund__ _adj_ Inclined to a healthy reddish color often associated with outdoor life. _Syn_ ruddy, sanguine, florid _“Please your honor,” answered the drum-major, whose rubicund visage had lost all its color, “the fault is none of mine.”_  
-__ruble__ _n_ (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
+__ruble__ _n_ /ˈruːbəl/ :two: (rouble in BrE) The standard unit of money in Russia and Belarus. _A copper ruble coin._  
 __rucksack__ _n_ :three: A knapsack.  
 __ruckus__ _n_ :five::hammer: _The comment caused a ruckus._  
 __ructions__ _n_  
@@ -13678,6 +13683,7 @@ __spluttering__ _n_ _A baby’s spluttering._
 __splying out__ _v_ _In the front, three men occupied the passenger seat, limbs splaying out of the open door._  
 __spoil__ _v_ :five::hammer: (spoiled, spoiling) _She loved spoiling her grandkids._ _A spoiling attack._  
 __spoilage__ _n_ :dart:  
+__spoiled child__ _n_ (spoiled brat)  
 __spoiler__ _n_ (airplane) :camera:  
 __spoils__ _n_ _Carpets, jewels, and other spoils._  
 __Spokane, Washington__ _n_ [Common popular pronunciation: /spoh-keyn/ Prevailing local pronunciation: /spoh-kan/]  
@@ -15974,6 +15980,7 @@ __warmongering__ _n_
 __warrant<sup>1</sup>__ _n_ :two: If you watch cop shows, you know that a warrant is something police need to get into your house — a permission slip from a judge. It’s a noun! It’s a verb! It’s a word that warrants our attention! As a noun, it’s the piece of paper they show you through the keyhole during an investigation. It’s also a reason for doing something, or a promise (think of the warranty on your new car, the promise that it’ll work for a certain amount of time).  
 __warrant<sup>2</sup>__ _v_ :four: As a verb, it means to make something seem reasonable or necessary, such when the ticking suitcase warrants bringing in the bomb squad, or when the teenager’s sneaking in late again warrants a stricter curfew. _The situation warranted it._  
 __warren__ _n_ :two::hammer: _A warren of hares._ _It was like a rabbit warren._  
+__Warsaw__ _n_ :mega:  
 __wary__ _adj_ :two::hammer: _He is wary of the situation._  
 __wasabi__ _n_  
 __wash out__ _phr v_ To wash the inside of something.  
