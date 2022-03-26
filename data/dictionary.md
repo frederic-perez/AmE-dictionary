@@ -364,7 +364,7 @@ __aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
 __alongside__ _prep_ :three::hammer:  
-__aloof<sup>1</sup>__ _adj_ :five: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Aloof demeanor._  
+__aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :three::hammer:  
@@ -701,7 +701,7 @@ __assist__ _n_ _Green had 14 rebounds and nine assists._
 __assistance animal__ _n_  
 __assizes__ _n_  
 __associate with__ _phr v_ To spend time with someone.  
-__assonance__ _n_ Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
+__assonance__ _n_ :two: Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __assuage__ _v_ :six::hammer: (assuaged)  
 __assurance__ _n_ :two::hammer: (assurances)  
@@ -1021,7 +1021,7 @@ __bass__ _n_ :two::hammer: (fish) _Fingerling bass._
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastille__ _n_ [:scroll: After Bastille, a fortress in Paris, that was used to hold prisoners.] A prison.  
-__bastion__ _n_ :four::hammer: _He tried to soften the National Front’s image as a bastion of xenophobes._  
+__bastion__ _n_ :five: /BAS-chun/ A place or system in which something continues to survive. _The university is a bastion of academic excellence._ _He tried to soften the National Front’s image as a bastion of xenophobes._  
 __bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
@@ -1969,6 +1969,7 @@ __button man__
 __button up__ _v_  
 __button-down<sup>1</sup>__ _adj_ __1a__ (of a collar) Having points that are fastened to the garment with buttons. __b__ (of a shirt) Having a button-down collar. __2__ (buttoned-down) Conservatively traditional or conventional, especially: adhering to conventional norms in dress and behavior. _Button-down businessmen._  
 __button-down<sup>2</sup>__ _n_ A shirt with a button-down collar. _She was wearing faded jeans and a button-down._  
+__buttoned-up__ _adj_ Coldly reserved or standoffish.  
 __buttress<sup>1</sup>__ _n_ _Lacy buttresses._  
 __buttress<sup>2</sup>__ _v_ :six: (buttressed) Increase the strength of or justification for; reinforce. _Authority was buttressed by religious belief._  
 __buttwipes__ _n_  
@@ -6755,6 +6756,7 @@ __heft<sup>1</sup>__ _n_ :two::hammer:
 __heft<sup>2</sup>__ _v_ (hefted) _He hefted the cube experimentally._  
 __hefted up__  
 __hefty__ _adj_ :two::hammer:  
+__hegemony__ _n_ The predominant influence, as of a state, region, or group, over another or others. _Syn_ domination _Many great works of art were created during the hegemony of Athens in Greece._  
 __hegira__ _n_  
 __height__ _n_ :mute:[hei~~gh~~t]  
 __heightened__ _adj_ :four::hammer:  
@@ -9113,7 +9115,7 @@ __mole grip__ _n_ :camera: Locking pliers.
 __mole wrench__ _n_ :camera: Locking pliers.  
 __mole__ _n_ :two: (moles) __2__ A spy who becomes part of and works from within the ranks of an enemy governmental staff or intelligence agency.  
 __molehill__  
-__mollify__ _v_ :eight: (mollified) To calm in temper or feeling; soothe. _Syn_ appease, assuage, conciliate, pacify, placate _She was so outraged that nothing her friends said could mollify her anger._  
+__mollify__ _v tr_ :nine: /MOL-uh-fy/ [:scroll: From Latin mollis (soft)] (mollified) To calm in temper or feeling; soothe. _Syn_ appease, assuage, conciliate, pacify, placate _She was so outraged that nothing her friends said could mollify her anger._ __1__ To pacify or appease. __2__ To soften or reduce, as in intensity.  
 __mollusks__  
 __molten lava__  
 __mom-and-pop__ _adj_ _Mom-and-pop shops._  
@@ -9670,7 +9672,7 @@ __obscure__ _v_
 __obsequious__ _adj_ :three::hammer:  
 __obsidian__  
 __obstinate__  
-__obstreperous__ _adj_ :four: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisy, clamorous, or boisterous: _obstreperous children._  
+__obstreperous__ _adj_ :five: __1__ Resisting control or restraint in a difficult manner; unruly. Noisily unruly or defiant: _The restaurant owner ejected the obstreperous customer._ __2__ Noisily and stubbornly defiant. _Syn_ unruly Noisy, clamorous, or boisterous. _Although the teacher ordered them to sit down, the obstreperous boys continued their antics._  
 __obstreperousness__  
 __obtrude__ _v_ :two::hammer:  
 __obtrusive__ _adj_  
@@ -9873,6 +9875,7 @@ __orthopnea__ _n_ Difficulty breathing except when standing or sitting up.
 __Orwellism__ _n_ Something misleading, such as a word or phrase used euphemistically or ambiguously for propaganda purposes. After George Orwell (1903-1950), whose novel 1984 depicted a futuristic totalitarian state employing misleading language for propaganda and control.  
 __oscillating fan__  
 __ossify__ _v_ :three: (ossified) __1__ (Anatomy) To convert or be converted into bone. __2__ (of habits, attitudes, etc) To become inflexible.  
+__ostensible__ _adj_ /ah-STEN-suh-bul/ Seeming or said to be true or real but very possibly not true or real. _The ostensible purpose of a filibuster is to extend debate._  
 __ostentatious__ _adj_ /os-ten-tey-shuhs, -tuhn-/  
 __osteoarthritis__ _n_ :two: A chronic disease characterized by progressive degeneration of the cartilage of the joints, occurring mainly in older persons. Also called degenerative joint disease.  
 __ostium__ _n_ _Careful attention to the ostium of the appendage also provides valuable information for catheter ablation._  
@@ -10113,7 +10116,7 @@ __panderer__ _n_
 __pang__ _n_ (pangs) :four::hammer:  
 __Panglossian<sup>1</sup>__ _adj_ :two: /pan-GLOS-ee-uhn/ [:scroll: After Dr. Pangloss, a philosopher and tutor in Voltaire’s 1759 satire _Candide_. Pangloss believes that, in spite of what happens—shipwreck, earthquake, hanging, flogging, and more—“All is for the best in the best of all possible worlds.” The name is coined from Greek panglossia (talkativeness). The word pangloss is used in the same manner.] Blindly or unreasonably optimistic. Blindly or naively optimistic.  
 __Panglossian<sup>2</sup>__ _n_ One who is optimistic regardless of the circumstances.  
-__pangram__ _n_ A sentence, verse, etc., that includes all the letters of the alphabet.  
+__pangram__ _n_ :two: A sentence, verse, etc., that includes all the letters of the alphabet, such as _the quick brown fox jumps over the lazy dog._  
 __panhandle__ _v_  
 __panhandling__  
 __panjandrum__ _n_ An important or influential (and often overbearing) person. _Syn_ dignitary, high muckamuck, high-up, very important person, VIP  
@@ -11691,6 +11694,7 @@ __recess<sup>2</sup>__ _v_
 __recidivate__ _v_ To return to a previous pattern of behavior, especially to return to criminal habits. _Syn_ relapse, retrogress, lapse, regress, fall back _I did not mean to recidivate, but burgling homes is second nature to me._  
 __recidivism__ _n_ :two: The repeating of or returning to criminal behavior by the same offender or type of offender.  
 __recidivist__ _n_ :four::hammer:  
+__reciprocate__ _v_ /rih-SIP-ruh-kayt/ To do something for or to someone who has done something similar for or to you. _It was kind of my friend to give me a ride to the airport, and on the flight I was thinking of how to reciprocate the favor._  
 __recitalist__  
 __reckless__  
 __recknit bones__  
@@ -14473,7 +14477,7 @@ __tabulator__ _n_ :pencil2: __1__ A person or thing that tabulates. _Tabulators 
 __tachometer__  
 __tachypnea__ _n_ Abnormally rapid and shallow breathing.  
 __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ understood, silent  
-__taciturn__  
+__taciturn__ _adj_ :two::hammer:  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
 __tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre  
@@ -14680,7 +14684,7 @@ __tenure__ _n_ :three::hammer:
 __tenured__  
 __tepid__ _adj_ :six::hammer:  
 __tequila poppers__  
-__tergiversate__ _v_ __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
+__tergiversate__ _v_ :two: __1__ To use evasions or ambiguities; equivocate. __2__ To change sides; apostatize.  
 __teriyaki__ _n_  
 __termagant__ _n_ :two: A quarrelsome, scolding woman. _Syn_ shrew _His aunt was such a termagant that he dreaded her annual visit._  
 __terpsichorean<sup>1</sup>__ _adj_ Of or relating to dancing.  
@@ -15420,6 +15424,7 @@ __unbridled__ _adj_ :two::hammer:
 __unburdened__  
 __Unchurched Belt__ _n_ The Unchurched Belt is the antithesis of the Bible Belt in that it is defined by a (culturally perceived) lack of a predominant religion. It’s centered around the Pacific Northwest in Oregon and Washington.  
 __Uncle Sam__ _n_ :three::dart: An extension of the common short form of the _United States_ (of America), _US_. A personification of the United States government.  
+__unclubbable__ _adj_ (unclubable) Having or showing a disinclination for social activity. _Syn_ unsociable  
 __uncongenial__  
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
