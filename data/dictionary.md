@@ -606,6 +606,7 @@ __arched__ _adj_ _Arched doorway._ :camera:
 __archenemy__ _n_ :pencil2:  
 __archeology__ _n_ :mute:[arc~~h~~eology]  
 __archetypal__  
+__archetype__ _n_ /AHR-kih-type/  
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :four::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
@@ -1662,7 +1663,7 @@ __brasserie__ _n_
 __brassiere__ _n_  
 __brassy__ _adj_ _She is brassy, funny, and smart._  
 __bratty__  
-__bravado__ _n_ :four: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _But I went into it with a certain bravado._  
+__bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
 __bravura__  
 __brawn__ _n_ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
@@ -2179,6 +2180,7 @@ __carbine__ _n_
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
 __carcass__ _n_ _A whale carcass._  
+__card reader__ _n_  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
@@ -3526,6 +3528,7 @@ __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._
 __dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
 __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _n_ _Cinematic dada._  
+__Daddy-O__ _n_  
 __daedal__ _adj_ :two: /DEE-duhl/ [:scroll: From Latin daedalus (skillful), from Greek daidalos. In Greek mythology, Daedalus was an architect and craftsman who built the labyrinth for King Minos of Crete. When the king imprisoned him so the knowledge of the labyrinth wouldn’t spread, Daedalus made wings for himself and his son Icarus. ] __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
 __daffodils__  
 __daffy__  
@@ -4219,6 +4222,7 @@ __double glazing__ _n_
 __double step__ _v_  
 __double take__ _n_ :two::hammer:  
 __double up__ _phr v_ To bend suddenly, as in pain or laughter.  
+__double-check__ _v_  
 __double-cross__ _n_  
 __double-decker__ _n_ :two::hammer: _Double-decker bus._  
 __double-dip__ _v_ _He double dips._  
@@ -4313,7 +4317,7 @@ __drayman__
 __dread<sup>1</sup>__ _n_  
 __dread<sup>2</sup>__ _v_ :three::hammer:  
 __dread<sup>3</sup>__ _adj_  
-__dreamy__ _adj_ :two: __4__ _informal_ Inspiring delight; wonderful.  
+__dreamy__ _adj_ :four: __4__ _informal_ Inspiring delight; wonderful.  
 __dredge up__ _phr v_ :five: __1__ Mention something unpleasant from the past. __2__ To unearth or bring to notice. _We dredged up some old toys from the bottom of the trunk._ __3__ To locate and reveal by painstaking investigation or search. _Biographers excel at dredging up little known facts._  
 __dredge<sup>1</sup>__ _v_ :four::hammer: (dredged) _They dredged mud._  
 __dredge<sup>2</sup>__ _n_ :two: (dredges) An apparatus for bringing up objects or mud from a river or seabed by scooping or dragging. :es: draga  
@@ -6733,6 +6737,7 @@ __heathy__
 __heatwave__ _n_  
 __heave__ _v_ :six::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
 __heavily__ _adv_ _He was drinking heavily._  
+__heavy bag__ _n_ _boxing_  
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
@@ -7631,6 +7636,7 @@ __it so happens__
 __it takes a village__ _prov_ :two: Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.” _Come on, you’ll never get this bill passed without their help. It takes a village, you know._  
 __italicize__ _v_  
 __item__ _n_ _slang_ A couple, two people who are romantically involved.  
+__iteration__ _n_ :mega: /ˌɪt əˈreɪ ʃən/  
 __itinerant__ _adj_  
 __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitty computer processors are surprisingly powerful._  
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
@@ -9685,7 +9691,7 @@ __obtuseness__
 __obverse__ _n_ :two: __1__ The side of a coin, medal, or badge that bears the principal stamp or design. _The obverse hub of a coin._  
 __obviate__ _v tr_ [:scroll: From Latin obviare (to act contrary), from ob- (against) + via (way)] To render unnecessary; to remove, avoid, or prevent.  
 __Occam’s Razor__ _n_ The principle that entities should not be multiplied needlessly; the simplest of two competing theories is to be preferred.  
-__occasion__ _n_ :four::mega::pencil2::hammer:  
+__occasion__ _n_ :five::mega::pencil2::hammer: /əˈkeɪʒən/  
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
 __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
@@ -11065,7 +11071,7 @@ __prevalence__ _n_ :two: The total number of cases of a disease in a given popul
 __prevalent__ _adj_ :two::hammer:  
 __prevaricate__ _v_ :three::dart: To speak falsely, misleadingly, or so as to avoid the truth; deliberately misstate; equivocate; lie. _Syn_ beat around the bush, palter, tergiversate  
 __preventable__  
-__preventative__ _adj_ Another form of _preventive_. _Preventative antibiotics._  
+__preventative__ _adj_ :two: Another form of _preventive_. _Preventative antibiotics._  
 __prevention is better than cure__ _prov_ It is better to try to keep a bad thing from happening than it is to fix the bad thing once it has happened. :es: _más vale prevenir que curar_  
 __preventive__ _adj_ _Preventive and corrective maintenance._  
 __prey__ _v_ :two::hammer: (preyed) _A sniper who prays on victims in broad daylight._  
@@ -14372,7 +14378,7 @@ __Swahili__
 __swain__ _n_ A young male suitor or lover.  
 __swale__  
 __swamp<sup>1</sup>__ _n_ :three: __1a__ Permanently waterlogged ground that is usually overgrown and sometimes partly forested. __b__ _(as modifier): swamp fever._ __2__ A situation or place fraught with difficulties and imponderables: _a financial swamp._ _We feel swamped by the mounting pressure to succeed at any cost._  
-__swamp<sup>2</sup>__ _v_ :six::hammer: (swamped) _The team feels swamped with work._ _Supply had swamped demand._  
+__swamp<sup>2</sup>__ _v_ :seven::hammer: (swamped) _Syn_ overwhelm _The team feels swamped with work._ _Supply had swamped demand._  
 __swampy__  
 __swan song__  
 __swank<sup>1</sup>__ _adj_ _A swank condominium complex._  
@@ -14738,6 +14744,7 @@ __the day’s full of spiders__
 __the final frontier__ _n_ Outer space, especially from the perspective of space colonization. _There is a turf war brewing in the final frontier._  
 __the final straw__  
 __the haves and the have nots__  
+__The More You Know__ _n_  
 __the name of the game__  
 __the order of the day__  
 __the writing on the wall__  
@@ -15433,7 +15440,7 @@ __uncongenial__
 __uncontested shot__ _n_ (vs contested shot)  
 __unconvinced__  
 __uncorroborated__ _adj_ Unsupported by other evidence. _Syn_ unsubstantiated  
-__uncouth__ _adj_ :five: Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._  
+__uncouth__ _adj_ :six: /un-KOOTH/ Uncouth means “behaving in a rude way” or “not polite or socially acceptable.” Lacking refinement or cultivation or taste. _Syn_ rough-cut, vulgar, coarse, common _He was an uncouth fellow, ragged and dirty and unshaven._ _Stacy realized it would be uncouth to show up to the party without a gift, so she picked up a bottle of wine on the way._  
 __uncrating__  
 __unction__ _n_  
 __unctuous__ _adj_ :four::dart: Seeming to be interested, friendly, or full of praise, but in a way that is unpleasant because it is not sincere.  
@@ -16044,7 +16051,7 @@ __weal__ _n_ __1__ Prosperity; happiness: _in weal and woe._
 __wealth__ _n_ :five::dart::hammer: _It creates a wealth of fresh energy._ _A wealth of information._ _They were furnished with a wealth of new information._ _A wealth of new data._ _A wealth of untapped data resources._  
 __wean off__ _phr v_ To slowly stop a dependency on something.  
 __wean__ _v_ :nine::m: (weaned, weaning) __1__ To accustom (the young of a mammal) to take nourishment other than by suckling. :es: destetar __2__ To detach from that to which one is strongly habituated or devoted: _She weaned herself from cigarettes._ __3__ To accustom to or familiarize with something from, or as if from, childhood. Often used with _on_. _A brilliant student weaned on the classics._  
-__weaponize__ _v_ :five::hammer:  
+__weaponize__ _v_ :six::hammer:  
 __wearily__  
 __weary__ _adj_ :three::hammer:  
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
@@ -16103,7 +16110,7 @@ __welterweight__
 __welts__ _n_ :four::hammer: _A lot of the boys had bumpy welts of acne._  
 __wen__ _n_ :camera::two::hammer:  
 __wend__ _v_ :six: /wɛnd/ (wending) __1__ To direct one’s course. To move or travel slowly somewhere. _Syn_ travel _Hikers wend along the marked trails to the top of the mountain, which provides a panoramic view of the area towns._ _Leo wended his way home through the wet streets._ _She had to wend her way through the crowd._ __2__ To proceed on. To proceed or go. _Syn_ meander, make one’s way, wind one’s way _The legal battle wends its way through the federal appeals process._  
-__werewolf__ _n_  
+__werewolf__ _n_ :two::hammer: :es: hombre lobo  
 __wet a line__  
 __wet__ _v_ (wetted) _A wetted wick._  
 __wet-nurse__ _n_ A woman hired to suckle a child of someone else.  
