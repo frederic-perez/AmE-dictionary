@@ -182,3 +182,17 @@ __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young sh
 __Welsh__  
 __syllabub__ _n_ _Syllabub of fresh fruit._  
 __pamper__ _v_  
+__address<sup>1</sup>__ _n_ :mega: /əˈdrɛs, ˈæd rɛs/  
+__address<sup>2</sup>__ _v_ :mega: /əˈdrɛs/  
+__London__ _n_ :mega: /ˈlʌndən/  
+__decypher__ _v_ :mega:  
+__twat__ _n_  
+__jarring__ _adj_  
+__Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
+__ludicrous__ _adj_ /ˈlu dɪ krəs/  
+__postscript__ _n_  
+__corny__ _adj_  
+__autism__ _n_ /ˈɔ tɪz əm/  
+__upheaval__ _n_ /ʌpˈhi vəl/  
+__loop__ _n_ /luːp/  
+__root__ _n_ __8__ _Mathematics_ __a__ A number that when multiplied by itself an indicated number of times forms a product equal to a specified number. For example, a fourth root of 4 is √2. Also called _nth root_. __b__ A number that reduces a polynomial equation in one variable to an identity when it is substituted for the variable. __c__ A number at which a polynomial has the value zero.  
