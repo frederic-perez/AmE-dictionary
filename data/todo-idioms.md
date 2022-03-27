@@ -45,3 +45,14 @@ __all over the place__
 __pick on (someone or something)__  
 __play tricks__ :two::hammer:  
 __kick the/(one’s) door down__  
+__take a deep breath__  
+__sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
+__be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
+__go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
+__laid back__ _adj_  
+__build bridges__  
+__in place__  
+__what’s the deal?__  
+__there is aomething about xyz__  
+__side track__  
+__train of thought__  

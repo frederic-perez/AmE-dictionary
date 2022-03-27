@@ -47,7 +47,7 @@ __juxtaposition__ _n_
 __grenade__ _n_ _Grenade launchers._  
 __newscast__ _n_ A radio or television broadcast of the news.  
 __wastewater__ _n_ :pencil2:  
-__trite__ _adj_  
+__trite__ _adj_ :two::hammer:  
 __note__ _n_ _On a much more serious note..._  
 __Texas__ _n_ /ˈtɛksəs/  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
@@ -170,3 +170,30 @@ __foster__ _v_
 __differ__ _v_ :mega:  
 __fallacy__ _n_  
 __dissonance__ _n_ _Cognitive dissonance._  
+__ex__ _n_  
+__sobering__ _adj_  
+__realtor__ _n_  
+__retrograde<sup>1</sup>__ _adj_  
+__retrograde<sup>2</sup>__ _v_  
+__largely__ _adv_ To a large extent; mostly.  
+__-wise__ _suffix_  
+__intervene__ _v_ :two::hammer:  
+__distrust<sup>1</sup>__ _n_  
+__distrust<sup>2</sup>__ _v_  
+__defund__ _v_ :three: To withdraw funding from.  
+__triple-check__ _v_  
+__rave__ _v_  
+__platitude__ _n_  
+__stigmatize__ _v_  
+__lunch room__ _n_  
+__fond__ _adj_ _Fond memories._  
+__carton__ _n_ _Cartons of whole/strawberry/chocolate milk._  
+__predate__ _v_ _Those commandments predate the Bible._  
+__rigged__ _adj_ _A rigged game._  
+__hard-liner__ _n_  
+__asexual__ _adj_  
+__jacket potatoes__ _n_  
+__asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
+__Welsh__  
+__syllabub__ _n_ _Syllabub of fresh fruit._  
+__pamper__ _v_  
