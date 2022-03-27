@@ -519,6 +519,7 @@ __antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a c
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
 __antler__ _n_  
 __antral__ _adj_ :two::hammer:  
+__antre__ _n_ /AN-tuhr/ A cave, cavern, cavity, etc.  
 __antsy__ _adj_ :three: Restless, impatient.  
 __anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
@@ -1506,10 +1507,10 @@ __bolony__
 __Bolshevik__  
 __bolshie__ _adj_ (bolshy) [:scroll: Abbreviation of Bolshevik (a person with radical views), from Russian Bolshevik, from bolshe (greater), referring to the faction of the Russian Social Democratic party that seized power in the October Revolution of 1917. Ultimately from the Indo-European root bel- (strong), which also gave us debility and Bolshoi Theatre (literally, Great Theater).] __1__ Difficult to manage; rebellious __2__ (Government, Politics & Diplomacy) Politically radical or left-wing. _Syn_ Bolshevik, bolshy, Marxist, red  
 __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pillows for support. _Syn_ pillow, cushion, pad, support, rest  
-__bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) Support or strengthen. _The fall in interest rates is starting to bolster confidence._ _Syn_ strengthen, support, reinforce :es: reforzar  
+__bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
-__bombast__ _n_ :five: __1__ Grandiloquent, pompous speech or writing. __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
+__bombast__ _n_ :six: __1__ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
 __bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ /BOM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_  
 __bombing__ _v_  
@@ -2575,7 +2576,7 @@ __cinch__ _n_ _slang_ :three: An easy task. _After the charade, he was a cinch._
 __Cincy__ _n_ _informal_ Clipping of Cincinnati.  
 __cinder__  
 __cinder-block town__  
-__Cinderella__ _n_ One that unexpectedly achieves recognition or success after a period of obscurity and neglect.  
+__Cinderella__ _n_ :two: /sin-duh-rel-uh/ __5__ A person or thing that achieves unexpected or sudden success or recognition, especially after obscurity, neglect, or misery (often used attributively): _Which team will find themselves the Cinderella of this year’s college basketball season?_  
 __cine__ _n_ :mega:  
 __cinephile__ _n_ :mega:  
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
@@ -2926,6 +2927,7 @@ __compulsory__ _adj_ :nine: __1__ Required by regulations or laws; obligatory: _
 __compunction__ _n_ :two::hammer:  
 __compurgator__ _n_  
 __compute__ _v_ To be reasonable, plausible, or consistent; make sense: _Your alibi doesn’t compute._  
+__computer__ _n_ :mega:  
 __comrade__  
 __con artist__ _n informal_ :five::hammer: _A pair of con artists target a noblewoman._ _Foul-mouthed con artist._  
 __con man__  
@@ -3014,7 +3016,8 @@ __consanguinity__ _n_
 __conscience__ _n_ :pencil2:  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
-__conscript__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
+__conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
+__conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
 __consecutive__  
 __consensual__  
@@ -3415,6 +3418,7 @@ __cry foul__ _v_ :three: To protest against something that has happened. _But al
 __crybaby__ _n_ :dart::three: A person given to excessive complaints and crying and whining. _Syn_ bellyacher, complainer, grumbler, moaner, sniveller, squawker, whiner  
 __cryotherapy__  
 __cryptic__ _adj_  
+__cryptography__ _n_ /krip-TAH-gruh-fee/  
 __cryptojacking__  
 __cryptomining__  
 __cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, whose existence has not been substantiated.  
@@ -4145,7 +4149,7 @@ __dog-eared__ _adj_ __1__ Having dog-ears. __2__ Shabby or worn.
 __dog-tired__ _adj_ :two: Drained of energy or effectiveness; extremely tired; completely exhausted. _Syn_ fagged, fatigued, played out, washed-out, worn out, spent _I can see myself now, worn out and dog-tired after the long day, lying on the mats of the palace veranda._  
 __dogged__ _adj_ :five::dart: Obstinately determined; wilful or tenacious. Marked by stubborn determination: _a dogged competitor; dogged devotion._ _Dogged persistence._  
 __doggedly__ _adv_ :two::hammer:  
-__doggerel__ _n_ :two: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature.  
+__doggerel__ _n_ :three: Crudely or irregularly fashioned verse, often of a humorous or burlesque nature. _Syn_ jingle _I want the man I love and honor to be something finer and higher than a perpetrator of jokes and doggerel._  
 __dogging__ _adj_ _He swung the dogging lever._  
 __doghouse__ _n_ :three::hammer: (In the UK use “kennel”) _Russia will stay stuck in track and field’s doghouse._  
 __dogleg<sup>1</sup>__ _n_  
@@ -4611,7 +4615,7 @@ __elision__
 __elite__ _n_ :two::hammer: (elites)  
 __elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
-__elucidate__ _v_ :two::hammer:  
+__elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
 __elusive__ _adj_ :two::hammer:  
 __elute__ _v_ _The future of drug-eluting stents._  
@@ -4795,7 +4799,7 @@ __equestrian<sup>1</sup>__ _adj_
 __equestrian<sup>2</sup>__ _n_  
 __equine<sup>1</sup>__ _adj_  
 __equine<sup>2</sup>__ _n_  
-__equinox__ _n_ :three::mega::hammer:  
+__equinox__ _n_ :four::mega::hammer:  
 __equip__ _v_  
 __equipment__ _n_ _The equipment was out of date._  
 __equipped__  
@@ -9831,7 +9835,7 @@ __opine__ _v_ /oh-PYNE/
 __opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
-__opposition__ _n_ :mega:  
+__opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
 __opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
@@ -12305,7 +12309,7 @@ __sage<sup>1</sup>__ _n_ :three: __1__ A man revered for his profound wisdom. __
 __sage<sup>2</sup>__ _adj_ :four: Profoundly wise or prudent. _Sage counsel._ _Toss with sage and cranberries._ _Sage advice._  
 __sagging__ _adj_ :four::hammer: _The sagging hopes of miners._ _Sagging gallery._  
 __saggy__  
-__Sagittarius__ _n_ :pencil2:  
+__Sagittarius__ _n_ :two::pencil2::hammer:  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
 __sake__ _n_ _For comparison’s sake, it hit 90 twice here all of last July._  
@@ -12480,7 +12484,7 @@ __schooling__ _n_ __3__ The training of a horse or a horse and rider in equitati
 __schoolwork__ _n_  
 __schooner__ _n_ :six::hammer: (schooners) _A frosted schooner of draft._ _A schooner of beer._  
 __schuss__  
-__schwa__ _n_ :three: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
+__schwa__ _n_ :four: (shwa) __1__ A central vowel represented in the International Phonetic Alphabet by (ə). The sound occurs in unstressed syllables in English, as in _alone_, _around_ (ə-round′), _mother_ (mŭth′ər), and _sofa_ (sō′fə). __2__ The symbol (ə) used to represent this sound.  
 __sciatic__  
 __sciatica__  
 __science__ _n_ :mute:[s~~c~~ience]  
@@ -15941,7 +15945,7 @@ __walk<sup>2</sup>__ _n_ :mute:[wa~~l~~k]
 __walkabout__  
 __walkaway__ _n_ An easy victory.  
 __walking trail__ _n_ :two::hammer: _Many airports are upping their game, adding walking trails._  
-__walkout__ _n_ :two: __1__ A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest.  
+__walkout__ _n_ :three: __1__ A strike by workers. __2__ The act of leaving or being absent from a meeting, esp. as an expression of protest.  
 __walkup__ _n_ (walkups) __1__ An apartment house or office building with no elevator. __2__ An apartment or office in a building with no elevator.  
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
@@ -16561,7 +16565,7 @@ __zeightgeist__
 __zeitgeist__ _n_ :six: /TSYTE-gyste/ Zeitgeist refers to the general intellectual, moral, and cultural climate of an era. A German word meaning time spirit, used to mean the spirit of the age. _Although set in the 1980s, the movie reflects the feelings and zeitgeist of today._  
 __Zen<sup>1</sup>__ _n_ (zen) (After Zen, a school of Mahayana Buddhism. From Japanese zen (meditation), from Chinese chan (meditation), from Pali jhanam (jhanam), from Sanskrit dhyana (meditation).) An activity, approach, state of mind, etc., emphasizing intuition and insights, instead of fixation on goals.  
 __Zen<sup>2</sup>__ _adj_ (zen) Calm, peaceful, unruffled.  
-__zenith__ _n_ :mega:  
+__zenith__ _n_ :two::mega::hammer: /ˈzɛnɪθ; _US_ ˈziːnɪθ/  
 __zephyr__ _n_ :two: /ZEF-uhr/ [:scroll: After Zephyrus, the god of the west wind in Greek mythology.] __1__ A wind blowing from the west. __2__ A gentle breeze. __3__ A soft and light garment, fabric, or yarn. __4__ Anything having a soft, fine quality.  
 __zeppelin__ _n_  
 __zero hour__  
