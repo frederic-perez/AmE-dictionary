@@ -62,3 +62,10 @@ __come to grips with (someone or something)__
 __practice makes perfect__  
 __face value__  
 __know-it-all__ A person who seems or affects to know everything about any given topic, and who makes an irritating point of demonstrating their knowledge to others. _Jim’s new boyfriend is such a know-it-all. I can’t stand having a conversation with him about anything!_  
+__ramp up__  
+__big deal__  
+__bank on__  
+__(it’s) (a)bout time__ :two: An expression used to emphasize that something should have occurred a long time ago. _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
+__the eleventh hour__ The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
+__so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
+__coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
