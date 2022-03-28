@@ -1159,6 +1159,7 @@ __bells and whistles__ _pl n_ :four: Nonessential features or enhancements inten
 __bellwether__ _n_ :two::hammer:  
 __belly flop__ _n informal_ :dart::three: (belly-flop) A dive in which the front of the body hits flat against a surface, especially of water.  
 __belly-wash__ _n_ Any kind of drink of poor quality.  
+__belong__ _v_ /bɪˈlɒŋ/  
 __belongings__ _n pl_ Personal items that one owns; possessions. _Look up to your belongings._  
 __belt out__  
 __belt socket__ _n_  
@@ -1932,7 +1933,7 @@ __burrs__ _n_
 __bursary__ _n_ :two::hammer: (bursaries)  
 __burst<sup>1</sup>__ _n_ _Quick bursts of positive emotions._  
 __burst<sup>2</sup>__ _v_ :two::hammer: (bursting)  
-__bus boy__ _n_ :two::hammer: (bus boys)  
+__bus boy__ _n_ :three::hammer: (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
 __bush jacket__ _n_ _An inmaculate bush jacket._  
@@ -3493,6 +3494,7 @@ __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of th
 __custard__ _n_ :es: natillas, flan  
 __custodian__  
 __custody__ _n_ _Finally my house returned to my custody._  
+__custom__ _n_ /ˈkʌstəm/  
 __customs__ _n_ (at airport)  
 __cut me a little slack__  
 __cut shot__ _n_ A type of shot in several sports.  
@@ -6524,6 +6526,7 @@ __hall boy__ _n_
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
 __hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
+__halt__ _v_  
 __halter__ _n_ :seven: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Citizens with halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
 __halve__ _v_ :two::hammer:  
 __halyards__ _n_  
@@ -6823,6 +6826,7 @@ __hermit__
 __Herod__ _n_  
 __Herodotus__ _n_  
 __heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
+__heroine__ _n_ _Heroine stories._  
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
 __herringbone__ _n_ _Basketball shoes with herringbone designs._  
@@ -6963,6 +6967,7 @@ __holler__ _v_ :four: (hollered) __1__ To yell or shout. __2__ _informal_ To com
 __hollow__ _n_ :three::hammer: _A church in a small hollow in Kentucky._ _The hills and hollows of Appalachia._  
 __holloware bullion__  
 __holly__ _n_ :two::astonished::pencil2: Evergreen shrub especially used for decoration at Christmas, mid-15c., earlier _holin_ (mid-12c.). :es: acebo  
+__Hollywood__ _n_ :mega: /ˈhɒlɪˌwʊd/  
 __Holy Ghost__ _n_ :two::hammer:  
 __Holy Rood__  
 __Holy See__ _n_ :two: The see of the pope. :es: Santa Sede  
@@ -8300,6 +8305,7 @@ __liftgate__
 __ligation__ _n_ __1__ The act of ligating, esp. of surgically tying up a bleeding artery. __2__ Anything that binds or ties up; ligature.  
 __ligature__ _n_  
 __liger__ _n_  
+__light switch__ _n_  
 __light up__ _v_ :two::hammer: _Megatron looks to light up scoreboard._  
 __light__ _adj, n, v_ :mute:[li~~gh~~t]  
 __light-headed__ _adj_ :two: (lightheaded) Feeling as though you might fall down or become unconscious, for example because you are drunk. _I was lightheaded part of the time._ _I feel light-headed from lack of sleep._  
@@ -8926,6 +8932,7 @@ __merman__ _n_
 __merriment__ _n_ :three: High-spirited fun and enjoyment; hilarity. _Syn_ fun, playfulness  
 __merry-go-round__  
 __mesh strainer__  
+__Mesmer__ _n_ Austrian physician who tried to treat diseases with a form of hypnotism. (1734-1815)  
 __Mesoamerica__ _n_ Another name for Central America.  
 __mesosphere__  
 __mess up__ _phr v_  
@@ -9540,6 +9547,7 @@ __noddies__ _n_
 __noetic__ _adj_ Of, relating to, originating in, or apprehended by the intellect.  
 __noggin__ _n informal_ :two: __3__ A person’s head. _Syn_ bonce, dome  
 __noir__ _adj_ _A noir novel._  
+__noise__ _n_ __5__ _informal_ __a__ A complaint or protest. __b__ Rumor; talk. __c__ (noises) Remarks or actions intended to convey a specific impression or to attract attention: _“The U.S. is making appropriately friendly noises to the new Socialist Government” (Flora Lewis)._ _There are some noises coming from the two sides._  
 __nom de guerre__  
 __nomadic__  
 __nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
@@ -12768,6 +12776,7 @@ __sewer gas__
 __sewer grate__ _n_ :two::hammer:  
 __sewer__ _n_ _A sewer pipe._  
 __sex drive__ _n_ A physiological need for sexual activity. _Testosterone is responsible for the male sex drive._  
+__sexual battery__ _n_ Sexual battery may be defined as non-consensual touching of the intimate parts of another. At least in Florida, “Sexual battery means oral, anal, or vaginal penetration by, or union with, the sexual organ of another or the anal or vaginal penetration of another by any other object.”  
 __shabbily__ _adv_ __1__ So as to appear worn and threadbare or dilapidated; “a shabbily dressed man.” __2__ In a mean and ungenerous manner; _“the two were haggling shabbily in the drawing-room.”_ _He has shabbily deceived us._  
 __shabby__ _adj_ :three::hammer:  
 __shack__ _n_ :two::hammer:  
@@ -13296,7 +13305,7 @@ __slug<sup>1</sup>__ _n_
 __slug<sup>2</sup>__ _v_ :three::hammer: (slugs)  
 __slugabed__ _n_ :astonished: __1__ A person who lazily stays in bed long after the usual time for arising. __2__ A self-indulgent person who spends time avoiding work or other useful activity.  
 __sluggard__  
-__sluggish__ _adj_ :two::hammer:  
+__sluggish__ _adj_ :three::hammer:  
 __sluice<sup>1</sup>__ _n_ _A sluice for washing gold._  
 __sluice<sup>2</sup>__ _v_ :six::hammer: (sluiced, sluicing)  
 __slum<sup>1</sup>__ _n_ :five::hammer: (slums) _A black slum area off the Loreauville Road._ _The caravan passed through a black slum far out in the parish._ _A Mumbai slum._ _A woman from the slums of Rio de Janeiro._  
@@ -13929,7 +13938,7 @@ __stay-at-home__ _adj_ _Stay-at-home dad._
 __staycation__ _n_ _This is the perfect week to take a staycation and do nothing._  
 __staying power__  
 __stead__  
-__steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
+__steadfast__ _adj_ :dart::nine::m: /STED-fast/ __1__ Fixed or unchanging; steady. _He was known for his steadfast will to live._ __2__ Firmly loyal or constant; unswerving. _Syn_ faithful  
 __steadfastly__  
 __steadily__  
 __steadiness__  
@@ -15621,7 +15630,7 @@ __upright piano__ _n_
 __upright__ _n_ _The 34 yard field goal hit the left upright._  
 __uproar__ _n_  
 __uproarious__ _adj_ Marked by or causing boisterous merriment or convulsive laughter. _Syn_ hilarious, screaming _My brother spent the evening regaling us with uproarious tales of the pranks he and his bunkmates used to play on the other campers._  
-__uproot__ _v_ :three::hammer: (uprooted) _Uprooted workers._  
+__uproot__ _v_ :four::hammer: (uprooted) _Uprooted workers._  
 __uprparious__ _adj_ _An uproarious fracas._  
 __upsale__ _n_ An act of upselling.  
 __upscale<sup>1</sup>__ _adj_ :seven: Things that are upscale are made for rich people—they are high class, well made, or just plain pricey. _In an upscale area._ _Upscale hotel._ _Upsale furnishings._  
