@@ -188,3 +188,26 @@ __relent__ _v_ /rɪˈlɛnt/
 __greenlight__ _v_  
 __acolyte__ _n_  
 __hospice care__ _n_  
+__philtrum__ _n_ __1__ A philter or love potion. __2__ The infranasal depression; the groove in the midline of the upper lip.  
+__rufescent__ _adj_ Tinged with red.  
+__cordial__ _n_ __1__ A strong, sweetened, aromatic alcoholic liquor; liqueur. __2__ A stimulating medicine.  
+__velleity__ _n_ /vɛˈliːɪtɪ/ __1__ The weakest level of desire or volition. __2__ A mere wish.  
+__jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behavior or stupidity.  
+__offal__ _n_  
+__haggis__ _n_ /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s or calf’s offal, oatmeal, suet, and seasonings boiled in a skin made from the animal’s stomach.  
+__sensibility__ _n_ Mental responsiveness; discernment; awareness. _Syn_ aesthesia _After nine months in a coma, the patient began to exhibit sensibility._  
+__palatable__ _adj_ /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
+__divest__ _v tr_ /di/duh/dy-VEST/ [:scroll: From Old French desvestir (to undress), from Latin divestire, from di- (away) + vestire (to dress), from vestis (garment).] __1__ To remove, give up, or sell off. __2__ To take away or deprive. __3__ To strip of clothing, ornament, etc.  
+__shifty-looking__ _adj_ _informal_ _censorious_ Having or of an untrustworthy, dubious, or deceptive appearance. _There are always a bunch of shifty-looking characters around this part of town at night, so let’s not linger!_  
+__paradigm__ _n_ One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
+__namesake__ _n_  
+__defrock__ _v tr_ /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
+__decimate__ _v_ :astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._  
+__plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
+__specious__ _adj_ /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._  
+__pullulate__ _v intr_  
+__vernal__ _adj_  
+__salubrious__ _adj_ Conducive or favorable to health or well-being.  
+__lugubrious__ _adj_ Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._  
+__impetus__ _n_ /IM-puh-tus/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
+__wallflower__  
