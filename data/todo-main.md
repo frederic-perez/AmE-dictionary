@@ -52,7 +52,6 @@ __eviction__ _n_
 __wage__ _v_ :two::hammer:  
 __debacle__ _n_  
 __tailspin__ _n_  
-__deliver__ _v_  
 __hotboxing__  
 __whatnot__ _n_  
 __weather__ _v_  
@@ -211,3 +210,13 @@ __salubrious__ _adj_ Conducive or favorable to health or well-being.
 __lugubrious__ _adj_ Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._  
 __impetus__ _n_ /IM-puh-tus/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __wallflower__  
+__drum break__ _n_ A short segment of a piece of music (such as a rock song or a march) in which the drummer or drummers play alone.  
+__occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
+__interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
+__impassioned__ _adj_ :two: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
+__underpin__ _v tr_  
+__deliver__ _v_ :two::hammer: _Can the recovery plan for elective care in England deliver?_  
+__retrograde__ _adj_ _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
+__chilblain__ _n_ (usually childblains) /ˈtʃɪl bleɪn/  
+__grassroots__ _n_  
+__kazillion__ _n informal_ An indefinitely large number.  

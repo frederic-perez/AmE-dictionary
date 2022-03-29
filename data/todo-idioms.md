@@ -32,7 +32,7 @@ __bar star__ Someone who has or seeks a popular reputation by frequenting bars o
 __bring (something) to the table__ To provide or offer a useful skill or attribute. _He brings years of leadership experience to the table._  
 __talking head__ _Talking head videos._  
 __side hustle__ Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
-__move the needle__ :dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
+__move the needle__ :two::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __mental vacation__  
 __down the line__ In the future.  
@@ -77,3 +77,6 @@ __sit a spell__ To sit down, relax, and socialize for a while at one’s leisure
 __send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __Tom Swifty__  
 __scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy screamed her head off when I told her she couldn’t have an ice cream cone._  
+__so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
+__a far cry from (something)__  
+__how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
