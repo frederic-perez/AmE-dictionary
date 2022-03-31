@@ -254,3 +254,4 @@ __security__ _n_ :mega:
 __lair__ _n_  
 __sponsor__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
+__wishy-washy__ _adj_  

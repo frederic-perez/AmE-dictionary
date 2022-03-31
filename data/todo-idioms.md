@@ -80,3 +80,20 @@ __scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy
 __so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __a far cry from (something)__  
 __how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
+__one for the (record) books__  
+__there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
+__there you go__  
+__fall through the cracks__  
+__walking distance__  
+__no offense__  
+__be on the same page__  
+__fighting the good fight__  
+__what if scenario__  
+__isn’t that funny?__  
+__as good as it gets__  
+__figure it out__  
+__stay strong__  
+__get under their skin__  
+__get word__  
+__nothing more, nothing less__  
+__muscle memory__  
