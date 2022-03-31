@@ -133,6 +133,7 @@ __PM__ Particulate matter. Small particles in the air, containing a variety of c
 __PMS__ :two: Premenstrual syndrome.  
 __PO__ Parole officer.  
 __POTUS__ :dart: President of the United States. _Ronald Reagan was elected governor twice and POTUS for two terms._  
+__POV__ Point of view.  
 __PPD__ Postponed. _(sporting events)_  
 __PPE__ :two: Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  

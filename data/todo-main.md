@@ -69,7 +69,7 @@ __hunker__ _v_
 __intertwine__ _v_  
 __referral__ _n_  
 __ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
-__industrious__ _adj_ /ɪnˈdʌstrɪəs/  
+__industrious__ _adj_ :two::mega: /ɪnˈdʌstrɪəs/  
 __squirrel__ _n_ /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/  
 __business__ _n_ /ˈbɪznɪs/  
 __reiki__ _n_ /ˈreɪkɪ/  
@@ -220,3 +220,37 @@ __retrograde__ _adj_ _NHS staff face unacceptable health risks as a result of �
 __chilblain__ _n_ (usually childblains) /ˈtʃɪl bleɪn/  
 __grassroots__ _n_  
 __kazillion__ _n informal_ An indefinitely large number.  
+__humor<sup>1</sup>__ _n_  
+__humor<sup>2</sup>__ _v_  
+__dramedy__ _n_  
+__snowball<sup>1</sup>__ _n_  
+__snowball<sup>2</sup>__ _v_  
+__de-escalate__ _v_  
+__unnerving__ _adj_ :astonished:  
+__emergency__ _n_ :mega:  
+__break out__  
+__lobbyist__ _n_  
+__cactus__ _n_ :mega:  
+__Good Friday__ _n_  
+__pall<sup>1</sup>__ _n_  
+__pall<sup>2</sup>__ _v_  
+__trek__ _n_ :mega:  
+__recollection__ _n_ :mega:  
+__intricacies__ _n_ :mega:  
+__trodden__ _v_  
+__frail__ _adj_ _Too frail to leave._  
+__crosshair__ _n_ (cross hair)  
+__hallmark__ _n_  
+__Arkansas__ _n_ :mega:  
+__convene__ _v_  
+__curb__ _v_  
+__cook__ _n_  
+__fave__ _n_  
+__eleven__ _n_ :mega:  
+__relapse__ _n_  
+__escalate__ _v_  
+__dirtbag__ _n slang_  
+__security__ _n_ :mega:  
+__lair__ _n_  
+__sponsor__ _n_  
+__enough__ _adj, adv, pron_ :mega:  
