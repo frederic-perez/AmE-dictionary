@@ -255,3 +255,18 @@ __lair__ _n_
 __sponsor__ _n_  
 __enough__ _adj, adv, pron_ :mega:  
 __wishy-washy__ _adj_  
+__Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
+__overtourism__ _n_ A situation in which too many tourists travel to a popular destination, causing the place to suffer negative environmental, economic, and sociocultural impacts: From packed viewpoints to water shortages, _Santorini is the most visible face of overtourism in the Greek islands._  
+__frontline__ _adj_ __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
+__jab__ _n informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_  
+__breakthrough__ _n_ __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
+__vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
+__bootstrap paradox__ _n_  
+__investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
+__potentate__ _n_ One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
+__predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
+__metaverse__ _n_ /ˈmɛtəˌvɜːs/  
+__chagrin__ _n_ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. _To the chef’s chagrin, the sauce was too sweet._  
+__travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
+__travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
+__panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
