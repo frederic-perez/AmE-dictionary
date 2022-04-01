@@ -1,18 +1,3 @@
-__juxtaposition__ _n_  
-__grenade__ _n_ _Grenade launchers._  
-__newscast__ _n_ A radio or television broadcast of the news.  
-__wastewater__ _n_ :pencil2:  
-__trite__ _adj_ :two::hammer:  
-__note__ _n_ _On a much more serious note..._  
-__Texas__ _n_ /ˈtɛksəs/  
-__dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
-__vilify__ _v tr_  
-__lawmaker__ _n_  
-__provost__ _n_  
-__screech__ _v_  
-__tacky__ _adj_ :two: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._  
-__hummus__ _n_ :mega: /ˈhʊməs/  
-__fast-track__ _adj_  
 __Robinson__ _n_ /ˈrɒbɪnsən/  
 __fried green tomatoes__ _n_  
 __shamrock__ _n_  

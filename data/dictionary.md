@@ -4211,6 +4211,7 @@ __dormant__ _adj_ :two::hammer:
 __dormer__ _n_ :camera:  
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
+__dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
 __dot__ _v_ (dotted) Mark with a dot.  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
@@ -5113,7 +5114,7 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
 __fast-talk__ _v_  
-__fast-track<sup>1</sup>__ _adj_ Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
+__fast-track<sup>1</sup>__ _adj_ :two: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
 __fast-track<sup>2</sup>__ _v tr_ :three: To speed up the progress of (a project or person).  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
@@ -6296,6 +6297,7 @@ __greensward__ _n_ Surface layer of ground containing a mat of grass and grass r
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
 __greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color between gray and beige. __2__ [:scroll: From French grège (raw, unfinished) influenced by gray/beige.] A fabric or yarn that has not undergone bleaching, dying, or other finishing processes.  
 __greige<sup>2</sup>__ _adj_ __1__ Of a gray-beige color. __2__ Unbleached, undyed, or unfinished.  
+__grenade__ _n_ _Grenade launchers._  
 __griddle__  
 __gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
@@ -7143,7 +7145,7 @@ __hummed__ _v_
 __hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vibrates their mouth by humming. _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
 __hummingbird__ _n_ :es: colibrí  
 __hummock__ _n_ :two: A small natural hill. _Syn_ hillock, knoll, mound  
-__hummus__ _n_ :mega:  
+__hummus__ _n_ :two::mega::hammer: /ˈhʊməs/  
 __humor__ _v_ :four::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
@@ -7852,6 +7854,7 @@ __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel sh
 __jut__ _v_ :four::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
+__juxtaposition__ _n_  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-pop__  
 __kabbalah__ _n_ (often Kabbalah) __1__ An esoteric theosophy of rabbinical origin based on the Hebrew scriptures and developed between the 7th and 18th centuries. __2__ An esoteric or occult matter resembling the Kabbalah that is traditionally secret.  
@@ -8160,7 +8163,7 @@ __law and order__
 __law of the land__  
 __law-and-order__ _n_ :three::hammer: _The law-and-order prime minister._  
 __lawless__ _adj_  
-__lawmaker__ _n_ :five::hammer: (lawmakers)  
+__lawmaker__ _n_ :six::hammer: (lawmakers)  
 __lawsuit__  
 __lax__ _adj_ :two::hammer: (not LAX)  
 __lay the table__  
@@ -9482,6 +9485,7 @@ __newly__ _adv_ :two::hammer: _The newly elected leader of the Senate Democrats.
 __news media outlets__  
 __news outlet__  
 __newsbreak__ _n_  
+__newscast__ _n_ A radio or television broadcast of the news.  
 __newspaper rack__  
 __newsstand__ _n_ :two::pencil2: (newsstands) _Available on newsstands and online at onlinestore.usatoday.com._  
 __newsworthy__ _adj_ Of sufficient interest to warrant press coverage.  
@@ -9603,6 +9607,7 @@ __nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._
 __not even close__ _phr_ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
+__note__ _n_ _On a much more serious note..._  
 __nothing but the best__ _phr_ :dart: _I wish her nothing but the best._  
 __notorious__  
 __Notre Dame__ _n_ Our Lady (the Virgin Mary).  
@@ -11243,7 +11248,7 @@ __provender__
 __proverb__ _n_ A short, common saying or phrase that gives advice or shares a universal truth.  
 __providence__ _n_ :three: Providence is the guardianship and care provided by a deity or god. Religious people thank their god for his providence. The word provide is a good clue to this word’s meaning: when a religious being is said to give people providence, he’s taking care of them — providing for them. For religious people, any good thing that happens to them — like landing a new job, getting healthy, or finding money on the ground — could be considered an example of providence. You can also talk about people providing providence, if they’re showing care and prudence in managing resources.  
 __proviso__ _n_  
-__provost__ _n_ :eight: A provost is an administrator at a college or university. The provost is very important to the school.  
+__provost__ _n_ :nine: A provost is an administrator at a college or university. The provost is very important to the school.  
 __prowess__ _n_ :nine::m: Prowess means exceptional skill or ability. Your sailing prowess might save your life in a storm, while someone with less experience might make mistakes. A superior skill that you can learn by study and practice and observation. __1__ Distinguished bravery, esp. military valor and skill. _It was no lack of prowess that defeated the French and allied knights._ __2__ Extraordinary ability. _His prowess on the football field._  
 __prowled__ _v_  
 __proxy__ _n_ _Syn_ representative, agent, deputy, substitute, factor, attorney, delegate, surrogate _I’m a proxy for the listener._  
@@ -12553,7 +12558,7 @@ __scrawny__ _adj_ :two::hammer: _Two scrawny containers of grape jelly._
 __scream-o-meter__  
 __screaming yellow__  
 __screech<sup>1</sup>__ _n_ :two::hammer:  
-__screech<sup>2</sup>__ _v_ :nine: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
+__screech<sup>2</sup>__ _v_ :nine::m: (screeched, screeching) __1__ (tr) To utter in a screech or high-pitched voice. __2__ (i) To cry out in a high-pitched, strident voice. __3__ To make a sound suggestive of a screech: _Tires screeched on the wet pavement._  
 __screen door__ _n_ A door that consists of a frame holding metallic or plastic netting; used to allow ventilation and to keep insects from entering a building through the open door; _“he heard the screen slam as she left.”_  
 __screen__ _v_ (screened) _The horsemen screened the advance of the column._  
 __screwball<sup>1</sup>__ _adj_ :three::hammer: _A classic screwball comedy._ _The screwball buddy comedy._  
@@ -14499,7 +14504,7 @@ __tacit__ _adj_ Implied by or inferred from actions or statements. _Syn_ underst
 __taciturn__ _adj_ :two::hammer:  
 __tack__ _n_ :two::hammer: _The GOP changed its tack._ :es: rumbo; chincheta  
 __tackle__ _v_  
-__tacky__ _adj_ :five::hammer: _The office looked tacky._ :es: cutre  
+__tacky__ _adj_ :seven::dart: Cheap, crude, and unrefined; indicating or characteristic of a lack of class, elegance, or sophistication. _He showed up in a really tacky suit._ _The office looked tacky._ :es: cutre  
 __tactful__  
 __tactfully__ _adv_ :two::hammer:  
 __tad__ _n informal_ :four::hammer:  
@@ -14725,6 +14730,7 @@ __tether<sup>2</sup>__ _v_ (tethered) To restrain or secure with a tether.
 __tethering ring__ _n_  
 __tetromino__ _n_  
 __Texas Panhandle__  
+__Texas__ _n_ /ˈtɛksəs/  
 __texcetera__  
 __textrovert__  
 __Thai__ _n_ (plural Thai or Thais) A native or inhabitant of Thailand.  
@@ -15237,7 +15243,7 @@ __triptych__
 __trireme__ _n_  
 __triskelion__ _n_ (triskele)  
 __Tristan and Isolde__ _n_ (Tristan and Isolde) A chivalric romance retold in numerous variations since the 12th century.  
-__trite__ _adj_ :eight: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning “wear out.” An old-fashioned or outdated definition of the word is “frayed or worn out by use,” and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
+__trite__ _adj_ :nine::m: When you want to indicate that something is silly or overused, you would call it trite. A love song with lyrics about holding hands in the sunshine? Totally trite. Trite has a Latin root, the past participle of terere, meaning “wear out.” An old-fashioned or outdated definition of the word is “frayed or worn out by use,” and you can see how the meaning for an object that is worn out can be applied to an idea that has been used to the point of being meaningless. The antonym of this word is original.  
 __triumvirate__ _n_ :three::hammer:  
 __trivet__ _n_ :two::mega::hammer:  
 __trochanter__ _n_ :two::hammer: _Greater trochanter._  
@@ -15844,7 +15850,7 @@ __vig__ _n_ :three::hammer:
 __vignette__ _n_ /vin-YET/ A short written description or a brief scene in a movie or play. _The documentary is a series of vignettes showing the lives of three families under quarantine during the pandemic._  
 __vigorous__ _adj_ _A vigorous intellect._  
 __vile__  
-__vilify__ _v_ :four: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
+__vilify__ _v tr_ :five: (vilifies) To make vicious and defamatory statements about. _Syn_ revile, vituperate, rail _The Nazi propaganda vilified the Jews._  
 __vilipend__ _v_ Belittle. _Syn_ deprecate _In my culture, men commonly vilipend women and treat them as second-class citizens._  
 __villa__ _n_ :two::hammer:  
 __villainy__ _n_ :two::pencil2: _A wretched hive of scum and villainy._  
@@ -16024,6 +16030,7 @@ __wassail<sup>2</sup>__ _v tr_ :dart: To drink to the health of; toast.
 __wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.  
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
+__wastewater__ _n_ :pencil2:  
 __wastrel__ _n_ :two::hammer:  
 __watch caps__  
 __watchdog__ _n_ :three: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
