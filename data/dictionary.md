@@ -663,7 +663,8 @@ __ascendancy__ _n_ _Walt is in ascendancy in his criminal enterprise._
 __ascent__ _n_ :mute:[as~~c~~ent]  
 __ascertain__ _v_ :three::hammer:  
 __ascertainment__ _n_ Something that has been discovered. _Syn_ discovery, find, finding, strike  
-__ascetic__  
+__ascetic<sup>1</sup>__ _n_ :two: A person who renounces material comforts and leads a life of austere self-discipline, especially as an act of religious devotion. _Syn_ abstainer _His rough clothes and starved frame gave him the look of an ascetic, and he refused the food they tried to give him._  
+__ascetic<sup>2</sup>__ _adj_  
 __asceticism__ _n_  
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
@@ -677,7 +678,7 @@ __ask after__ _phr v_ To ask for news about someone.
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
-__askance__  
+__askance__ _adv_ :two: With disapproval, suspicion, or distrust. _Syn_ sidelong _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __aspen__  
@@ -705,7 +706,7 @@ __assizes__ _n_
 __associate with__ _phr v_ To spend time with someone.  
 __assonance__ _n_ :two: Assonance is the repetition of the same vowel sound with different consonants. Example: She and Lee see the bees in the tree.  
 __assorted__ _adj_ _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
-__assuage__ _v_ :six::hammer: (assuaged)  
+__assuage__ _v_ :seven: (assuaged) To make (something burdensome or painful) less intense or severe. _Syn_ alleviate, relieve, palliate _Food, however, became scarce, and I often spent the whole day searching in vain for a few acorns to assuage the pangs of hunger._  
 __assurance__ _n_ :two::hammer: (assurances)  
 __assuredness__ _n_  
 __asswipe__ _n_  
@@ -5739,6 +5740,7 @@ __fretwork__
 __friar__ _n_ A member of any of various chiefly mendicant religious orders of the Roman Catholic Church, the main orders being Black Friars (Dominicans), Grey Friars (Franciscans), White Friars (Carmelites), and Austin Friars (Augustinians).  
 __friction__ _n_ _The coefficient of friction._  
 __Friday__ _n_ :mega: /’fraIdi, -deI/  
+__fried green tomatoes__ _n_  
 __frieze__ _n_  
 __frigate__ _n_ :es: fragata  
 __fright__ _n_  
@@ -6295,6 +6297,7 @@ __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the wa
 __greenhouse__ _n_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
+__gregarious__ _adj_ /grih-GAIR-ee-us/ _Syn_ social, sociable  
 __greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color between gray and beige. __2__ [:scroll: From French grège (raw, unfinished) influenced by gray/beige.] A fabric or yarn that has not undergone bleaching, dying, or other finishing processes.  
 __greige<sup>2</sup>__ _adj_ __1__ Of a gray-beige color. __2__ Unbleached, undyed, or unfinished.  
 __grenade__ _n_ _Grenade launchers._  
@@ -7568,7 +7571,7 @@ __internship__
 __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matter, especially deceptively or without authorization. _Syn_ falsify _He interpolated a lot of spurious matter into the manuscript._  
 __interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
-__intersperse__ _v_ :nine: (interspersed) __1__ To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
+__intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__  
 __intertwined__  
 __intervene__ _v_ :two::hammer:  
@@ -8335,7 +8338,7 @@ __lilt__ _n_ :two::hammer: _He talked with the Jamaican lilt._ _She spoke with a
 __lily-livered__ _adj_ :two: Weak or lacking in courage; cowardly; timid. _Syn_ chickenhearted, yellow-bellied _I have never seen such a lily-livered bunch of wimps in my life!_  
 __limb__ _n_ :two::mute:[lim~~b~~]:hammer: _Tree limb._  
 __limber__ _adj_ :astonished: __1__ Bending or flexing readily; pliable. _Limber stick._ __2__ Capable of moving, bending, or contorting easily; supple.  
-__limerick__ _n_ (poetry) :five::hammer: (limericks) _I remember a limerick I wrote._ _Even more usage limericks._  
+__limerick__ _n_ :six: /LIM-uh-rik/ (limericks) _Poetry_ A humorous rhyming poem of five lines. _The students were asked to compose limericks to help them learn about poetry’s use of meter and rhyme._ _I remember a limerick I wrote._ _Even more usage limericks._  
 __limestone__ _n_ :two::hammer:  
 __liminal__ _adj_ __1__ Of, relating to, or situated at a sensory threshold; barely perceptible or capable of eliciting a response. _Liminal visual stimuli._ __2__ Of, relating to, or being an intermediate state, phase, or condition. _Syn_ in-between, transitional _In the liminal state between life and death._  
 __limn__ _v_ :three: (limned) __1__ To draw or paint on a surface. __2__ To outline in clear sharp detail. _Syn_ delineate, outline  
@@ -9398,7 +9401,7 @@ __narrowly__ _adv_ _I narrowly escaped execution._
 __nary__ _adj_ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
-__nascent__ _adj_ :four: Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._  
+__nascent__ _adj_ :five: /NASS-unt/ Coming or having recently come into existence. Coming into existence; emerging. _Syn_ beginning _The nascent republic had to formulate its laws while continuing its war for independence._ _The nascent market._ _The actress is now focusing on her nascent singing career._  
 __nasion__ _n_  
 __nasopupillary__ _adj_ _The nasopupillary asymmetry is the difference in nasopupillary distances._  
 __National Guard__  
@@ -10073,7 +10076,8 @@ __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._
 __paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle wheel.  
 __paddock__ _n_  
 __padlock__  
-__paean__ _n_ :eight: (paeans) __1__ A happy song of praise, thanks, or victory. __2__ A fervent expression of joy or praise.  
+__paean<sup>1</sup>__ _n_:nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
+__paean<sup>2</sup>__ _v tr_ /PEE-uhn/ To make such an expression.  
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
 __page__ _n_ :three::hammer:  
@@ -11779,7 +11783,7 @@ __reel off__ _v_
 __reel<sup>1</sup>__ _n_  
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reenactment__ _n_  
-__reeve__ _n_ :four::hammer::pencil2:  
+__reeve__ _n_ :five::pencil2: A local official.  
 __ref__ _n_ A referee.  
 __refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
@@ -12109,6 +12113,7 @@ __robe<sup>1</sup>__ _n_ :two::hammer: _The judge’s robe._
 __robe<sup>2</sup>__ _v_  
 __robed__ _adj_ Dressed or clothed especially in fine attire; often used in combination. _Crimson-robed nuns._  
 __robin-breasted__  
+__Robinson__ _n_ /ˈrɒbɪnsən/  
 __robocall__ _n_ A prerecorded telephone message transmitted by an automated device, usually as part of a marketing campaign.  
 __robust__ _adj_ Marked by richness and fullness of flavor. _Syn_ full-bodied, racy, rich _There is nothing like the robust flavor of fresh-brewed coffee._  
 __rock salt__ _n_ _Rock salt is used in the UK to treat roads during the winter months._  
@@ -12813,7 +12818,7 @@ __shambling__
 __shambolic__ _adj_ Very badly organized.  
 __shame__ _v_ _He shamed me._  
 __shaming__ _adj_  
-__shamrock__  
+__shamrock__ _n_ :two::hammer:  
 __shamus__  
 __shank<sup>1</sup>__ _n_ :eight::hammer: _Roasted pork shanks._ _He grasped the shank of he lure._ _He had thin shanks and a skeletal frame._  
 __shank<sup>2</sup>__ _v_ :four: (shanked) __1__ To hit (a golf ball or shot) with the extreme heel of the club so that the ball goes off in an unintended direction; to kick (a football) in an unintended direction. __2__ _slang_ To stab (a person) with a sharp, pointed implement. To be stabbed by a homemade knife. _You shanked a guy from the Aryan Brotherhood._  
@@ -14553,6 +14558,7 @@ __tallied__
 __tallow__ _n_ :four: In the old days, candles were mostly made from tallow, a form of animal fat that provided an inexpensive way for people to light their homes at night. :es: sebo  
 __tally__ _v_  
 __talon__ _n_ (talons) _The nails were sharp as talons._ :es: garra  
+__talpa__ _n_ [:scroll: From Latin talpa (mole). Because a mole burrows under the earth, the word came to be applied to a growth under the skin: a cyst or a tumor.] /TAL-puh/ __1__ A mole (the animal). __2__ A cyst.  
 __tamale__ _n_ (tamales) A Mexican dish made of chopped meat and crushed peppers, highly seasoned, wrapped in cornhusks spread with masa, and steamed. _I’m staying away from that one—that’s a hot tamale._  
 __tamp down__ _v_ :two::hammer:  
 __tamper__ _v_ (tampering) _Tampering with a Federal grand jury._  
@@ -15817,6 +15823,7 @@ __very<sup>2</sup>__ _adv_
 __vesicle__ _n_ (vesicula)  
 __vespine__ _adj_  
 __vest__ _v_  
+__vesta__ _n_ /VES-tuh/ [:scroll: After Vesta, the goddess of hearth and household in Roman mythology. Her temple had a fire tended by the vestal virgins.] A short wooden match. :es: cerilla  
 __vested interest__ _n_ :two: A ​strong ​personal ​interest in something because you could get an ​advantage from it: _as both a ​teacher and ​parent, she had a vested ​interest in ​seeing the ​school ​remain ​open._  
 __vested__ _adj_ _Vested hostilities._  
 __vestibule__ _n_ :two::mega::hammer:  
