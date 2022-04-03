@@ -650,6 +650,7 @@ __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
+__artillery__ _n_  
 __artistry__  
 __artsy__ _adj_ :three::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
@@ -968,6 +969,7 @@ __banter<sup>2</sup>__ _v_
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __bar top__  
+__barbaric__ _adj_ :mega:  
 __barbecue<sup>1</sup>__ _n_ _Barbecue sauce._  
 __barbecue<sup>2</sup>__ _v_ (barbecueing)  
 __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack’s barbed humor._ __2__ Having a sharp point that curves backwards.  
@@ -1128,7 +1130,7 @@ __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled 
 __behold__ _v_ :five::hammer: _The wedding ceremony was a joy to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
-__behoove__ _v_ :eight: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
+__behoove__ _v_ :nine: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
 __Beige Book__ _n_ The informal name for the Federal Open Market Committee’s (FOMC) ongoing reports titled Summary of Commentary on Current Economic Decisions by Federal Reserve District.  
 __beignet__ _n_ :four: __1__ _Southern Louisiana_ A square doughnut with no hole: _“a New Orleans coffeehouse selling beignets, an insidious Louisianian cousin of the doughnut that exists to get powdered sugar on your face” (Los Angeles Times)._ __2__ A deep-fried, yeast-raised doughnut dusted with confectioners’ sugar.  
 __being on the fitz__  
@@ -2711,7 +2713,7 @@ __close in__ _v_ _Winter was closing in._
 __close the loops__  
 __closed shop__ _n_ A business establishment in which union membership is a condition of employment.  
 __closed-captioned__ _adj_ Broadcast with captions that are only visible if the viewer opts to enable them: _closed-captioned television for the hearing-impaired._  
-__closely__ _adv_ _Obama’s words are being watched closely by world leaders._  
+__closely__ _adv_ :two::hammer: _Obama’s words are being watched closely by world leaders._ _Watch closely._  
 __closeted__ _adj_ :two: Being in a state of secrecy or cautious privacy. _A closeted life._  
 __closure__ _n_ :three::hammer: _Get closure on compensation dispute with business partner._  
 __clot__  
@@ -3743,7 +3745,7 @@ __delegatable__ _adj_ _Non-delegatable actions._
 __deleterious__ _adj_ :six: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious: _the deleterious effects of smoking._  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
-__delicate__ _adj_  
+__delicate__ _adj_ :two::hammer::mega:  
 __delight<sup>1</sup>__ _n_ :two::hammer:  
 __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._  
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
@@ -4720,7 +4722,7 @@ __enervate__ _v_ :astonished: To weaken.
 __enfeeble__ _v_ To make weak; deprive of strength. _Syn_ debilitate, drain _Although his age enfeebled him, he could still walk long distances without tiring._  
 __enfeoffed__ _v_ :three::hammer:  
 __enfranchisement__ _n_ _Enfranchisement of the serfs._  
-__engage__ _v_ _I’m engaged with my work._  
+__engage__ _v_ :three::hammer: _I’m engaged with my work._  
 __engross__ _v_ :two::hammer::dart: (engrossed)  
 __engrossing__ _adj_ :astonished: Capable of arousing and holding the attention. _Syn_ absorbing, fascinating, gripping, riveting _The book was so engrossing that I did not notice when the lights were turned out in the library._  
 __engulf__ _v_  
@@ -5207,6 +5209,7 @@ __ferret-faced__
 __ferret<sup>1</sup>__ _n_ :four::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
+__ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
 __fertile__ _adj_ :mega:  
 __fervent__  
 __fester<sup>1</sup>__ _n_ A small ulcer or sore containing pus.  
@@ -5619,6 +5622,7 @@ __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall 
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
 __forester__ _n_ _All officialdom was their foe—sheriffs, foresters, tax-collectors, judges, abbots, lords, bishops, and dukes._  
 __foretell__  
+__foretoken__ _n_ An event that is experienced as indicating important things to come. _Syn_ augury, preindication, sign _He refused to think that the rain was a foretoken of gloom for his date that night._  
 __forfeit<sup>1</sup>__ _v_ :nine::m: (forfeited, forfeiting) Lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing. _Those unable to meet their taxes were liable to forfeit their estates._ _I cannot believe my soul will be forfeit._ _We actually had to forfeit a game or two for not having enough players._  
 __forfeit<sup>2</sup>__ _n_ :four: A fine or penalty for wrongdoing. _The loser must pay a forfeit._ _Syn_ penalty, financial penalty, fine, fee, charge, sanction :es: multa  
 __forfeiture__ _n_ :three: The loss or giving up of something as a penalty for wrongdoing. _A partial forfeiture of pay for two months._  
@@ -6423,7 +6427,7 @@ __Gulag__ _n_ :two::hammer:
 __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
 __gull__ _v_ _They feared being gulled._  
 __gullibility__  
-__gullible__ _adj_ :seven: Naive and easily deceived or tricked.  
+__gullible__ _adj_ :eight::mega: Naive and easily deceived or tricked.  
 __gullies__  
 __gulls__  
 __gully washer__ _n_ _We had a real gully washer in the forenoon._  
@@ -7870,6 +7874,7 @@ __kale__ _n_ :five::hammer:
 __kamikaze__ _n_ :mega:  
 __kangaroo word__ _n_  
 __karate__ _n_ [:scroll: A Japanese discipline whose name literally translates as “empty hand.”]  
+__karmic__ _adj_ _Karmic balance._  
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _n_ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
@@ -8135,6 +8140,7 @@ __latch<sup>2</sup>__ _v_ :three::hammer: (latched, latching)
 __latchkey__  
 __latecomer__ _n_ :two::hammer: _I’m somewhat of a latecomer._  
 __later on__ _adv_  
+__latex__ _n_ :mega:  
 __lath__ _n_ :three::hammer: (laths)  
 __lathe__ _n_  
 __lather__ _n_ Agitation resulting from active worry. _Syn_ fret, stew, swither, sweat _“I’m not going to get into a lather over this defeat,” said the manager._  
@@ -9202,7 +9208,7 @@ __morning glory__
 __morosely__ _adv_ :two::hammer:  
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
-__mortar__ _n_ :two::hammer: _Militants fired mortar rounds._  
+__mortar__ _n_ :three::hammer: _Militants fired mortar rounds._  
 __mortgage<sup>1</sup>__ _n_ :mute:[mor~~t~~gage]  
 __mortgage<sup>2</sup>__ _v_ :mute:[mor~~t~~gage]  
 __mortice__  
@@ -10076,7 +10082,7 @@ __paddle<sup>2</sup>__ _v_ :two::hammer: (paddled) _I got paddled at school._
 __paddleboat__ _n_ Small recreational boat powered by pedals that turn a paddle wheel.  
 __paddock__ _n_  
 __padlock__  
-__paean<sup>1</sup>__ _n_:nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
+__paean<sup>1</sup>__ _n_ :nine: /PEE-uhn/ (paeans) [:scroll: From Latin paean, from Greek paian (hymn of thanksgiving to Apollo), after Paian, Paion (epithet of Apollo in the hymn).] An expression of praise, joy, or triumph, typically in the form of a song.  
 __paean<sup>2</sup>__ _v tr_ /PEE-uhn/ To make such an expression.  
 __pagan<sup>1</sup>__ _n_ A follower of a polytheistic religion.  
 __pagan<sup>2</sup>__ _adj_  
@@ -11731,6 +11737,7 @@ __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past an
 __recollect__ _v_  
 __recollection__ _n_ :six::hammer:  
 __reconcile__ _v_  
+__reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
 __reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
 __recooled__  
 __recorder__ _n_ :astonished: __3__ (Music) A flute with eight finger holes and a whistlelike mouthpiece. :es: flauta dulce  
@@ -11783,7 +11790,8 @@ __reel off__ _v_
 __reel<sup>1</sup>__ _n_  
 __reel<sup>2</sup>__ _v_ :nine::m: (reels, reeling) __1__ To be thrown off balance or fall back. _Reeled from the sharp blow._ __2__ To stagger, lurch, or sway, as from drunkenness. _Reeled down the alley._ _Reeling economy._ _The world reels from a series of horrifying terror attacks._ :es: _tambaleante economía_ __3__ To go round and round in a whirling motion. _Gulls reeling and diving._  
 __reenactment__ _n_  
-__reeve__ _n_ :five::pencil2: A local official.  
+__reeve<sup>1</sup>__ _n_ :five::pencil2: A local official.  
+__reeve<sup>2</sup>__ _v tr_ To pass (a rope or the like) through.  
 __ref__ _n_ A referee.  
 __refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
@@ -12336,6 +12344,7 @@ __saggy__
 __Sagittarius__ _n_ :two::pencil2::hammer:  
 __saguaro__ _n_ (sahuaro) A giant cactus of desert regions of Arizona, S California, and Mexico, having white nocturnal flowers and edible red pulpy fruits.  
 __sahib__  
+__saint__ _n_ /seɪnt; _unstressed_ sənt/  
 __sake__ _n_ _For comparison’s sake, it hit 90 twice here all of last July._  
 __sakura__  
 __salability__ _adj_ :pencil2: Offered or suitable for sale; marketable.  
@@ -12771,7 +12780,7 @@ __set someone apart__
 __set the pace__  
 __set up__ _phr v_ Ready something for use. _We set up the sprinkler._  
 __set__ _v_ :dart: __10__ To appoint, establish, or determine, as: __e__ To prescribe as a time for: _set the meeting for Friday afternoon._ _Let’s set a meeting._  
-__setback__ _n_ :four::hammer: (setbacks) _It has suffered several setbacks._  
+__setback__ _n_ :five::hammer::pencil2: (setbacks) _It has suffered several setbacks._  
 __settee__ _n_ _Shaving tackle on the settee._  
 __setting__ _n_ __3__ The surroundings or environment of anything. _Picturesque setting._ :es: entorno picturesco  
 __Seussian__ _adj_ _chiefly US_ Of, relating to, or suggestive of the works of Dr. Seuss (Theodore Geisel) especially having a playfully inventive or outlandish quality typical or reminiscent of the words and images found in children’s stories like _The Cat in the Hat_ and _How the Grinch Stole Christmas._  
@@ -13753,7 +13762,7 @@ __sprigs__
 __springboard__ _n_ :three::hammer:  
 __springing__ _v_ _The T-birds are capable of springing the upset._  
 __springring clasp__  
-__sprinkle<sup>1</sup>__ _n_ :two: __2__ A light rainfall.  
+__sprinkle<sup>1</sup>__ _n_ :three: __2__ A light rainfall.  
 __sprinkle<sup>2</sup>__ _v tr_ :nine::m: (sprinkles, sprinkled, sprinkling) __1__ To scatter in drops or particles: _sprinkled sugar on the cereal._ __2__ To scatter drops or particles on: _sprinkled the buns with flour._ __3__ To intersperse with something as if by scattering: _sprinkled his speech with quotations._ __4__ To distribute or intersperse at random: _sprinkled jokes throughout the speech._  
 __sprinkle<sup>3</sup>__ _v intr_ :nine: __1__ To scatter something in drops or particles. __2__ To fall or rain in small or infrequent drops.  
 __sprinkler__ _n_ :four::camera: __1__ A device that sprays water. __2__ A device used for watering lawns. _Lawn sprinklers._ :es: aspersor __3__ An automatic fire extinguisher installed in the ceilings of a building.  
@@ -13831,6 +13840,7 @@ __squishing__
 __squishy__ _adj_  
 __sriracha__ _n_ A spicy condiment made with red chilies, sugar, salt, garlic, and vinegar.  
 __St. Bernard__  
+__St. Patrick’s Day__ _n_  
 __stab__ _n_ :two::hammer:  
 __stable condition__  
 __stable__ _n_ :two::hammer: _Pam built up a small stable of local writers._  
@@ -15996,6 +16006,7 @@ __wanting<sup>2</sup>__ _prep_ __1__ Without; missing: _a shirt wanting a button
 __wanton<sup>1</sup>__ _adj_ :eight: __1__ (of a cruel or violent action) Deliberate and unprovoked. _Sheer wanton vandalism._ _Syn_ deliberate, wilful, malicious, malevolent, spiteful, vicious _There was no justification for such wanton destruction._ _To reducethe wanton drug violence._ _The army inflicted wanton damage in order to provoke._ __2__ (especially of a woman) Sexually immodest or promiscuous. _Her cheeks burned as she recalled how forward she had been, how wanton._ _Syn_ promiscuous, immoral, loose  
 __wanton<sup>2</sup>__ _v_  
 __war correspondent__ _n_ A journalist who reports on a war from the scene of action. _Our journalists are not experienced war correspondents._  
+__war criminal__ _n_  
 __war hawk__ _n_ /WAR hawk/ One who advocates war, military intervention, or other aggressive measures.  
 __war stories__  
 __warble__ _v_ :three::hammer:  
@@ -16104,6 +16115,7 @@ __weekend__ _n_
 __weeklong__ _adj_ _A weeklong seminar._  
 __weevil__ _n_ :two::hammer: _Weevil worms._  
 __weevils__  
+__weigh in__ _v_  
 __weigh up__ _phr v_ To calculate, to estimate.  
 __weigh__ _v_ :two::mute:[wei~~gh~~] :es: pesar; sopesar, considerar  
 __weight__ _n_ :two::mute:[wei~~gh~~t] _You took some weight off your shoulders._  
