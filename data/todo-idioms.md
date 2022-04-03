@@ -97,3 +97,6 @@ __get under their skin__
 __get word__  
 __nothing more, nothing less__  
 __muscle memory__  
+__sleep like a baby__ To experience a very deep and restful sleep; to sleep soundly. _I can’t believe you finished a triathlon! You’re going to sleep like a baby tonight._  
+__not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
+__silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  

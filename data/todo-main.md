@@ -240,3 +240,19 @@ __chagrin__ _n_ /shuh-GRIN/ A distress of mind caused by humiliation, disappoint
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
+__exculpate__ _v_ /EK-skull-payt/ To clear from alleged fault or guilt.  
+__shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
+__fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
+__board__ _n_ __9__ _Basketball_ A rebound.  
+__floater__ _n_ _Basketball_  
+__contretemps__ _n_ An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
+__clod__ _n_ /klɒd/  
+__schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
+__gaffe__ _n_ /ɡæf/  
+__gelid__ _adj_ Very cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._  
+__convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
+__countenance__ _n_  
+__revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
+__ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
+__malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
+__pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
