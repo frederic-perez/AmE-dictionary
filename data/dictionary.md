@@ -698,6 +698,7 @@ __asses__ _n_ :two::hammer:
 __asset__  
 __assets__  
 __assiduity__ _n_ :two::astonished: Great and constant diligence and attention. _Syn_ concentration. _Nell immediately applied herself with great assiduity to the decoration and preparation of the room._  
+__assiduous__ _adj_  
 __assiduously__ _adv_ :pencil2::two::hammer:  
 __assign__ _n_ :two::mute:[assi~~g~~n]:hammer: _A cover assign._  
 __assimilation__ _n_  
@@ -1793,7 +1794,7 @@ __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or spee
 __brusquerie__ _n_ Curtness or bluntness of manner.  
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
 __brutal__  
-__brutalized__ _v_  
+__brutalize__ _v tr_ :two::hammer: (brutalized)  
 __brutish__ _adj_ :two::hammer:  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
@@ -3628,7 +3629,7 @@ __dearth__ _n_ :five::dart::hammer:
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
-__debacle__ _n_ :five: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
+__debacle__ _n_ :six: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
@@ -4884,7 +4885,7 @@ __evergreen__ _adj_
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict<sup>1</sup>__ _n_ :es: desahucio  
 __evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
-__eviction__ _n_ :two::hammer:  
+__eviction__ _n_ :three::hammer:  
 __Evil One__ _n_ _Ecclesiastical Terms_ (the Evil One) The devil; Satan.  
 __evildoer__ _n_  
 __evince__ _v_ :five::hammer: _To evince an interest in politics._ _She didn’t evince surprise._  
@@ -7089,6 +7090,7 @@ __hot-button__ _adj_ :two::hammer: _Hot-button political issues._
 __hot-rodder__  
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
 __hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotboxing__  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
 __hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
@@ -8230,6 +8232,7 @@ __legion__ _adj_ Very great in number: _The holy man’s followers were legion._
 __legit__ _adj_ _slang_ :four: Legitimate.  
 __legwork__ _n_  
 __lei__ _n_ :three: /lay, LAY-ee/ [:scroll: From Hawaiian lei.] (in Hawaii) A wreath of flowers, leaves, etc., worn around the neck. A garland, typically made of flowers, or leaves, shells, nuts, feathers, etc. _Scented leis._  
+__leisure__ _n_ /ˈlɛʒə; _US_ ˈliːʒər/  
 __leisurely<sup>1</sup>__ _adj_  
 __leisurely<sup>2</sup>__ _adv_ :two::hammer: _He took his coat, leisurely putting it on._  
 __leitmotif__ _n_ :two::hammer: (leitmotiv)  
@@ -8372,6 +8375,7 @@ __lint__ _n_ :three::hammer: _He had this gift for attaching himself to Jimmy li
 __lintel__ _n_ :two::hammer: _Stone lintels._ :es: dintel  
 __lionhearted__ _adj_  
 __lionized__ _v_  
+__lip out__ _v intr_ _golf_ (of a ball) To reach the edge of the hole and spin away without dropping in.  
 __lip service__ _n_ :three::dart: Insincere profession of friendship, admiration, support, etc.; service by words only. _We often only pay lip service._  
 __lipped__ _v_  
 __lippy__ _adj_  
@@ -9863,6 +9867,7 @@ __opine__ _v_ /oh-PYNE/
 __opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
+__opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
 __opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
@@ -10046,6 +10051,7 @@ __overtake<sup>1</sup>__ _n_ _He made overtakes._
 __overtake<sup>2</sup>__ _v_ :two: To move past another vehicle or person traveling in the same direction. _A video of cyclists overtaking and undertaking a horse rider._  
 __overtaxed__  
 __overthink__ _v_  
+__overthinker__ _n_ _I’m a chronic overthinker._  
 __overtime__ _n_ :es: horas extras  
 __overtly__ _adv_  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
@@ -10979,7 +10985,7 @@ __potion__ _n_
 __potluck__ _n_ :three: Comes from the practice of throwing leftovers in a pot—with luck determining how good the stew would taste. (Farlex Trivia dictionary) _A church potluck._  
 __potshot__ _n_  
 __pottering__ _v_ _She is pottering around the house._  
-__potty training__ _n_ _informal_ Toilet training.  
+__potty training__ _n informal_ :two: Toilet training.  
 __pouch__ _n_  
 __poulaine__ _n_ __1__ The toe of a shoe heavily tapered into a narrow point, fashionable in the 14th-15th centuries. __2__ A shoe made in this way.  
 __poultice__ _n_ :five: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc. _Syn_ cataplasm, plaster _Helen was deftly applying a poultice to his arm._ _Salves, poultices, and plasters._  
@@ -12960,7 +12966,7 @@ __short-charge__
 __short-handed__ _adj_ :five: Lacking the usual or necessary number of workers, employees, or assistants. _The short-handed Blue Devils._ _The Bulls beat the short-handed Wizards._  
 __short-lived__ _adj_ :two: Living or lasting only a short time; ephemeral.  
 __shortbread__ _n_ :three::hammer: [:scroll: From short (in the sense: crumbly)] _A rich crumbly biscuit made from dough with a large proportion of butter._  
-__shortchange__ _v_ :four::hammer: (shortchanged) _I think people will be shortchanged._  
+__shortchange__ _v tr_ :five::hammer: (shortchanged) _I think people will be shortchanged._  
 __shortcoming__ _n_ :two::dart::hammer: (shortcomings) :es: defecto  
 __shortening__ _n_ :two: __1__ A fat, such as butter or lard, used to make cake or pastry light or flaky. :es: manteca, grasa __2__ A shortened form of something, as a word. __3__ The act of one that shortens. __4__ The act or process of becoming shorter.  
 __shortfall__ _n_ :three::hammer: _Syn_ deficit, shortage _The oversight of risk leads to financial shortfall._  
@@ -14532,7 +14538,7 @@ __tagline__ _n_ :two: __1__ (Journalism & Publishing) An amusing or memorable ph
 __tahini__ _n_  
 __tailgate__ _v_ :two::hammer:  
 __tailor__ _v_ :seven::hammer: (tailored) _All patients with asthma should have their risk of having a future attack assessed and have their monitoring, treatment, and care tailored accordingly._  
-__tailspin<sup>1</sup>__ _n_ :four::hammer:  
+__tailspin<sup>1</sup>__ _n_ :five::hammer:  
 __tailspin<sup>2</sup>__ _v_  
 __taint__ _n_ _vulgar slang_ :two: The perineum.  
 __take a shit__ _v_  
@@ -15955,7 +15961,7 @@ __wag<sup>1</sup>__ _v_ :four::hammer: _The puppy was wagging its tail._
 __wag<sup>2</sup>__ _n_ (wags) A humorous or droll person; a wit.  
 __wage slave__ _n_ _informal_ (Industrial Relations & HR Terms) _ironic_ A person dependent on a wage or salary.  
 __wage<sup>1</sup>__ _n_ :two::hammer:  
-__wage<sup>2</sup>__ _v_ :three::hammer: (waged) _Champipns wage war to get what they want._  
+__wage<sup>2</sup>__ _v_ :five::hammer: (waged) _Champipns wage war to get what they want._  
 __wager__ _n_  
 __wagered__ _v_ :astonished: _I’d have wagered so._  
 __waging__ _v_  
@@ -16091,7 +16097,7 @@ __weary__ _adj_ :three::hammer:
 __weasel<sup>1</sup>__ _n_ :dart: __1__ Any of various carnivorous mammals of the genus _Mustela_. __2__ A person regarded as sneaky or treacherous.  
 __weasel<sup>2</sup>__ _v_ To use evasive or deliberately vague language. _Example weasel words include ‘Processor’, ‘Manager’, and ‘Super’._  
 __weather vane__  
-__weather__ _v_ :two::hammer: (weathering)  
+__weather__ _v_ :three::hammer: (weathering)  
 __weathered__ _adj_  
 __weave<sup>1</sup>__ _n_  
 __weave<sup>2</sup>__ _v_ :three::hammer: (weaving) _He was weaving through traffic._ _It is important to weave your keywords into a compelling story._  
@@ -16165,7 +16171,7 @@ __what<sup>1</sup>__ _pron_ :mute:[w~~h~~at]
 __what<sup>2</sup>__ _adj_ :mute:[w~~h~~at]  
 __what<sup>3</sup>__ _adv_ :mute:[w~~h~~at]  
 __what<sup>4</sup>__ _conj_ :mute:[w~~h~~at]  
-__whatnot__ _n_ :two::hammer:  
+__whatnot__ _n_ :three::hammer:  
 __Wheat Belt__ _n_ The part of North America where wheat is the primary crop.  
 __wheat__ _n_ :mute:[w~~h~~eat]  
 __wheedle__ _v_ :three: (wheedling) To obtain through the use of flattery or guile: _a swindler who wheedled my life savings out of me._  
