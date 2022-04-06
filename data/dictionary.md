@@ -921,6 +921,7 @@ __balk<sup>2</sup>__ _v intr_ :nine::m: /bɔːlk,bɔːk/ (balked) To stop, hesit
 __balk<sup>3</sup>__ _v tr_ To thwart or hinder.  
 __balked__ _v_  
 __ball bearings__  
+__ball boy__ _n_ (ball girl) _(in sport, esp tennis)_ A person who retrieves balls that go out of play.  
 __ball gag__ _n_ A bondage item that consists of a ball on a rope that is shoved into the victim’s mouth and tied tight. Supposedly it’s more effective at muffling yells.  
 __ball player__  
 __balladeer__  
@@ -1943,6 +1944,7 @@ __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.
 __bush jacket__ _n_ _An inmaculate bush jacket._  
 __business logic__  
 __business ties__  
+__business__ _n_ /ˈbɪznɪs/  
 __businesspeople__ _n_  
 __busker__  
 __busload__  
@@ -2226,6 +2228,7 @@ __carry the cross__
 __carry-on bag__  
 __carryout__ _n_ _A Chinese carryout._  
 __carryover__ _n_ _A carryover vehicle._  
+__carsick__ _adj_ Suffering from motion sickness caused by travel in a motor vehicle.  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
 __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._  
 __carte blanche__ _n_ :two::hammer: /KART-BLAHNCH/  
@@ -2486,6 +2489,7 @@ __chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
+__childhood__ _n_  
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
 __chime in__ _phr v_ :three::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
@@ -2880,7 +2884,7 @@ __commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job p
 __commentary__  
 __commentator__ _n_  
 __commingled__ _v_ :three::hammer:  
-__commiserate__ _v_ :five::hammer:  
+__commiserate__ _v_ :six::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
 __committal__ _n_ _A committal graveside service will be held for the family._  
@@ -7165,7 +7169,7 @@ __hundo__ _n_ _slang_ :two: __1__ A hundred. _I one hundo per cent agree._ __2__
 __hunger strike__  
 __hunk__ _n_ :two: /hʌŋk/ (hunky) __1__ _informal_ A large piece; a chunk: _a hunk of fresh bread._ _The hunk of grey rock that orbits our planet._ __2__ :dart: _slang_ A large, strong, sexually attractive man: _a Hollywood hunk._  
 __hunker down__ _v_ Take shelter.  
-__hunker__ _v_ :three::hammer: (hunkered)  
+__hunker__ _v_ :four::hammer: (hunkered)  
 __hunky-dory__ _adj_ _slang_ :five: Fine, going well. _Aside from that unfortunate business everything is hunky-dory._  
 __huramaki__ _n_  
 __hurdle__ _n_ :three::hammer: _They slew them like sheep in the hurdles._  
@@ -7431,7 +7435,7 @@ __induct__ _v_ :two: Place ceremoniously or formally in an office or position. _
 __inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscript, draftee _Before beginning basic training, each inductee was given a haircut and a uniform._  
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
-__industrious__ _adj_ :two: Always working very hard.  
+__industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
 __inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffable__ _adj_ :four::hammer:  
 __ineffectual__  
@@ -7578,8 +7582,7 @@ __interpolate__ _v_ :astonished: To alter (a text) by the insertion of new matte
 __interpunct__ _n_  
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
-__intertwine__  
-__intertwined__  
+__intertwine__ _v_ :three::hammer: (intertwined)  
 __intervene__ _v_ :two::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
@@ -11170,7 +11173,7 @@ __proclivity__ _n_ :two: A natural propensity or inclination; a predisposition: 
 __procrastinate__ _v_ /pruh-KRASS-tuh-nayt/  
 __proctocolectomy__ _n_ Surgical removal of the rectum and all or part of the colon.  
 __proctologist__ _n_ :two::hammer:  
-__proctor<sup>1</sup>__ _n_ __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
+__proctor<sup>1</sup>__ _n_ :two: __1__ (Education) A member of the teaching staff of any of certain universities having the duties of enforcing discipline. __2__ (Education) _US_ (in a college or university) A supervisor or monitor who invigilates examinations, enforces discipline, etc.  
 __proctor<sup>2</sup>__ _v tr_ (Education) _US_ To supervise (an examination).  
 __procure__ _v_ :two::hammer: (procuring)  
 __prod<sup>1</sup>__ _v_ :two::hammer: (prodded)  
@@ -11801,7 +11804,7 @@ __reeve<sup>2</sup>__ _v tr_ To pass (a rope or the like) through.
 __ref__ _n_ A referee.  
 __refectory__ _n_ :five: A communal dining hall in a religious, academic, or other institution.  
 __referenda__  
-__referral__  
+__referral__ _n_ :two::hammer:  
 __referred__ _v_ _Donovan referred to the main engine room of the destroyer._  
 __reffing__  
 __refractory__ _adj_ :five::hammer: _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._ _Refractory VT._  
@@ -11833,6 +11836,7 @@ __regulatory__
 __rehabber__ _n informal_ A person who engages in rehabilitating something. _A wildlife rehabber._  
 __rehash__ _v_ :two::hammer:  
 __reign__ _n_ :two::mute:[rei~~g~~n]:hammer:  
+__reiki__ _n_ /ˈreɪkɪ/  
 __reimagining__ _n_  
 __reindeer__  
 __reinstate__ _v_ :three::hammer:  
@@ -13663,6 +13667,7 @@ __spectate__ _v intr_ To be present as a spectator (as at a sports event). _He r
 __speculate__ _v_  
 __speculative__ _adj_ Showing curiosity. _Syn_ inquisitive, wondering, questioning _He raised a speculative eyebrow but said nothing about her earlier absence, suspecting that she would not want to discuss it in front of their hosts._  
 __Sped case__  
+__speechless__ _adj_  
 __speed demon__  
 __speed-dial__ _v_  
 __spell<sup>1</sup>__ _v_  
@@ -13841,6 +13846,7 @@ __squire<sup>2</sup>__ _v_ :pencil2::two::hammer: (squiring)
 __squirm<sup>1</sup>__ _v_ :nine::m: (squirming) To move in a twisting or contorted motion, (especially when struggling). _Syn_ twist, worm, wriggle, writhe, wrestle _He tried to squirm free, but the police officer had a firm grip on the man’s wrists._ _Squirming like a toad._ _Five-year-old Katie squirmed in her lap._  
 __squirm<sup>2</sup>__ _n_ _But his mother was holding him tight, ignoring his squirms._  
 __squirmy__  
+__squirrel__ _n_ /ˈskwɪrəl; _US_ ˈskwɜːrəl; ˈskwʌr-/  
 __squirt gun__ _n_ :two: A water pistol. _Syn_ squirter, water gun, water pistol _Super-soaker squirt guns._  
 __squishing__  
 __squishy__ _adj_  
@@ -14407,6 +14413,7 @@ __swab__ _n_ _Nasopharyngeal swabs._
 __swadding__  
 __swaddle__ _v_ To bind (a newborn infant) with swaddling clothes to prevent free movement. :es: envolver con ropa apretada a un bebé  
 __swage__ _adj_  
+__swagger stick__ _n_ [:scroll: Its use derives from the vine staff carried by Roman centurions as an emblem of office.] A short metal-tipped cane carried especially by officers in the armed forces.  
 __swagger<sup>1</sup>__ _n_ :two::hammer: _A swagger stick._  
 __swagger<sup>2</sup>__ _v_ :four::hammer:  
 __Swahili__  
