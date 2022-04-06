@@ -1,18 +1,3 @@
-__bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
-__bring (something) to the table__ To provide or offer a useful skill or attribute. _He brings years of leadership experience to the table._  
-__talking head__ _Talking head videos._  
-__side hustle__ Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
-__move the needle__ :two::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
-__spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
-__mental vacation__  
-__down the line__ In the future.  
-__rumor mill__ :two::hammer:  
-__same here__  
-__scare the shit out of someone__  
-__call someone out__ To challenge someone to a fight. _Max wanted to call him out but thought better of it._  
-__sit back__  
-__all over the place__  
-__pick on (someone or something)__  
 __play tricks__ :two::hammer:  
 __kick the/(one’s) door down__  
 __take a deep breath__  
