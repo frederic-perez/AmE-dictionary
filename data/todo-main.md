@@ -214,3 +214,20 @@ __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a 
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __alpaca__ _n_  
 __pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
+__grift__ _n, v_  
+__detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
+__druthers__ _n informal_ /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
+__flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
+__loanword__ _n_  
+__antanaclasis__ _n_  
+__sesquipedalian__ _adj, n_  
+__joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
+__kangaroo word__  
+__synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
+__adversity__ _n_ /ad-VER-suh-tee/  
+__saccade__ _n_  
+__raillery__ _n_  
+__ballyhoo__ _n_  
+__salient__ _adj_ /SAIL-yunt/  
+__thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
+__caper__ _n_ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._  
