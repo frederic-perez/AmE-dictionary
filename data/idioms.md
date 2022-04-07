@@ -301,6 +301,7 @@ __be running on fumes__ To be continuing to operate with no or very little enthu
 __be rushed off (one’s) feet__ :dart: To be exceptionally busy, especially to an exhausting or exasperating degree; to be made to work very hard and very quickly. _We have three parties of 40 scheduled for the dining room this evening, so all of our servers are going to be rushed off their feet._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
+__be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
 __be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
@@ -389,6 +390,7 @@ __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powe
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
 __buckle up__ :three::hammer: _Bucking up a seat belt._  
 __bug off__ _slang_  
+__build bridges__  
 __bull in a china shop__ :two: A clumsy person.  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
 __burn the candle at both ends__ To work or study day and night.  
@@ -837,6 +839,7 @@ __go at it hammer and tongs__ To do something or perform some task with tremendo
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
 __go figure__ :five: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
+__go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
 __go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go native__ :astonished: _You going native on me, Supercop?_  
@@ -1191,7 +1194,7 @@ __in one blow__ All at once, with a single decisive or powerful action.
 __in order that__ So that; with the particular aim or purpose of.  
 __in over (one’s) head__ Too deeply involved in or with a difficult situation, beyond the point of being able to control or cope any longer.  
 __in passing__ Casually or as an aside during a conversation. _Karen mentioned the party in passing the other day, but she didn’t go into detail._ _As we discussed why, he mentioned in passing that he committed a crime._  
-__in place__  
+__in place__ :two::hammer:  
 __in plain view__ In full, unrestricted view; visibly, openly, or publicly.  
 __in question__ Currently being discussed or under consideration. _I just don’t see how that is pertinent to the topic in question._ _The item in question is this scarf, which was discovered at the scene of the crime._  
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
@@ -1312,6 +1315,7 @@ __kick in__ :two: To start to have an effect or to happen.
 __kick the can down the road__ Especially in politics, to postpone or defer a definitive action, decision, or solution, usually by effecting a short-term one instead. _It looks as though congress is going to kick the can down the road again on the debt ceiling issue, but they’ll have to find a lasting solution eventually._  
 __kick the crap out of (someone)__  
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
+__kick the/(one’s) door down__  
 __kid around__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kill the goose that lays the golden egg(s)__ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he’ll kill the goose that lays the golden eggs._ _We’re killing the goose that laid the golden egg._  
@@ -1340,7 +1344,7 @@ __knuckle sandwich__ A punch in the face.
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
 __labor under the illusion of/that__ To live, operate, or function with the unyielding belief in something, especially that which is fanciful, unrealistic, or untrue.  
 __Lady Luck__ :two: The personification of fortune, whether good or bad. (Sometimes spelled in lowercase.) _I’m riding with Lady Luck._  
-__laid-back__ _adj_ :nine: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
+__laid-back__ _adj_ :nine::m: __1__ Calm, casual, or at ease. Unhurried and relaxed. _Syn_ mellow _Laid-back guy or people._ _Australia’s laid back lifestyle._ _Oh, I’m sure Tim isn’t worried about any of this—he’s so laid-back._ _Such a laid back place._ __2__ Intoxicated.  
 __land of plenty__ A fictional or imagined utopian place where there is an abundance of everything needed to survive and flourish.  
 __land on (one’s) feet__ To gracefully survive a bad situation.  
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
@@ -1815,6 +1819,7 @@ __play down__ To make something seem less important or remarkable. _The pharmace
 __play footsie__ To flirt with someone by secretly touching feet.  
 __play hardball__ If someone plays hardball, they will do anything that is necessary to achieve or obtain what they want, even if this involves being harsh or unfair. This term originated in baseball, where it alludes to using the standard ball as opposed to the slightly larger and minimally softer ball of softball. It was transferred to describe aggressive behavior only in the 1970s. _Defense lawyers began playing hardball._  
 __play safe__  
+__play tricks__ :two::hammer:  
 __played out__  
 __plead the Fifth (Amendment)__ __1__ To refuse to testify against oneself in court, in accordance with the rights guaranteed by the Fifth Amendment to the United States Constitution. _The alleged kingpin of the east coast drug cartel simply pled the Fifth after every question the prosecution put to him._ __2__ By extension, to refuse to answer a question or provide information, especially if doing so may incriminate or embarrass oneself. _Just plead the Fifth if your mom asks where you’ve been all night!_  
 __pocket protector__ A thin plastic sheath that fits into the breast pocket of one’s shirt to hold pens and other small instruments and protect the pocket from stains or tears. _A techno-nerd with a pocket protector who turns out to be a hero._  
@@ -1937,7 +1942,7 @@ __scare the shit out of someone__
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
 __scrounge up__ _To scrounge up the funds._  
-__second best__ (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
+__second best__ :two: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
 __second-guess__ _I started second-guessing myself._  
 __secondhand smoke__ Tobacco smoke involuntarily inhaled.  
@@ -1986,6 +1991,7 @@ __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words 
 __shy away__ _v_ :two: __1__ To retreat out of a sense of shyness: _The deer poked its head out from the bushes and then shied away when it saw me._ __2__ To avoid doing something, especially out of caution or anxiety: _The company shied away from giving raises this year._  
 __shy of (something)__ :two::hammer::astonished: _Just shy of its highest mark._  
 __side hustle__ Another source of income in addition to one’s primary or full-time job, sometimes one that serves as a creative outlet in contrast with one’s regular employment. _Almost all of the rookie reporters I know have some kind of side hustle to help them supplement their income._  
+__side track__  
 __sidle up (from someone or something)__ To move gradually, inconspicuously, or surreptitiously up to or toward someone or something. _As soon as you step foot in the city center, panhandlers begin sidling up looking for handouts._  
 __sidle up (to someone or something)__ To move close to someone or something cautiously or furtively; to move closer to someone or something gradually. _Tex sidled up to Dolly and said howdy in a soft, shy voice._ _Dolly sidled up and picked the cowboy’s pocket._ _Chuck siddled up beside his brother._  
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
@@ -2032,6 +2038,7 @@ __spell it out__ For example, “let me spell it out for you,” is another way 
 __spill the beans__ To reveal something that was meant to be a secret. _We had everything organized for Bruce’s surprise party, but Kate accidentally spilled the beans to him at work._  
 __spin (one’s) wheels__ :four: To waste one’s time or energy idly or frivolously; to neither progress nor regress, but remain in a fixed, neutral position. Expend effort with no result, as in _We’re just spinning our wheels here while management tries to make up its mind._ This idiom, with its image of a vehicle in snow or sand that spins its wheels but cannot move, dates from the mid-1900s. _Feel like you’ve been spinning your wheels in your job search?_ _It’s way too easy for this mentality to lead to spinning your wheels on something that’s not working._ _They kept me on to manage what’s left of this division, but to be honest, I’ve just been spinning my wheels here for the last couple of years._  
 __split hairs__ :two: Argue or worry about small details.  
+__sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
 __spot on__ _informal_ :five: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __spring to life__ To become suddenly alive or more alive. _The party sprang to life after midnight._ _The city sprang to life at dawn._  
@@ -2077,6 +2084,7 @@ __take (a)hold__
 __take (one’s) side__ To support or side with one in an argument.  
 __take (something) to heart__  
 __take (the) roll__ :dart: In a group setting, to call out each person’s name from a list to see if they are present or absent. _I haven’t taken roll yet, but it looks like a lot of kids are absent from school today._ _The teacher spent 10 min of class taking roll._  
+__take a deep breath__  
 __take a dive__  
 __take a hike__ __1__ Literally, to go on a hike. __2__ By extension, to get out of here; to go away; to get lost. Usually used as an imperative. _Listen, I don’t want to buy any, so why don’t you just take a hike and leave me alone!_  
 __take a leak__ :two: _vulgar_ _slang_ To urinate. (Crude. Use caution with the topic. Usually in reference to a male.)  
@@ -2164,6 +2172,7 @@ __the whole nine yards__
 __the whole shebang__  
 __then again__ :nine::m: From another standpoint; on the other hand; on second thought. An opposite possibility. _I need a vacation. Then again, so do my coworkers._  
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
+__there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
 __there you have it__ Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
@@ -2222,6 +2231,7 @@ __touch base (with someone)__ :four: To contact someone to update them or receiv
 __tough customer__ Someone who is difficult to deal with. _Walt is a tough customer. Just keep away from him._  
 __tough love__ :two: The use of strict disciplinary measures and limitations on freedoms or privileges, as by a parent or guardian, as a means of fostering responsibility and expressing care or concern.  
 __town-gown__ Relating to the two coexisting communities of a university town, i.e., the university (primarily the students) and the residents of the town where it is located, used especially in reference to tensions between the two. “Gown” is a reference to the traditional academic gown once worn by university students, now typically reserved for graduation ceremonies. _The periodic town-gown riots._  
+__train of thought__  
 __travel light__ To bring very few things with you when you go on a trip.  
 __tread water__ :three::dart: This term refers to doing the minimum amount of work to not get fired. To be active but without making progress or falling farther behind. _Sales are about the same as last year, and the company is pretty much treading water._ Etymology: Based on the literal meaning of tread water (to stay in one place in water by moving your legs quickly). Expend effort that maintains one’s status but does not make much progress toward a goal, as in _He was just treading water from paycheck to paycheck._ This idiom alludes to the term’s literal meaning, that is, “keep one’s head above water by remaining upright and pumping the legs.”  
 __true enough__ _It was true enough._  
@@ -2261,7 +2271,7 @@ __vanish into thin air__ To disappear completely, without leaving a trace.
 __verbum sap__ A shortening of the Latin phrase _verbum sapienti sat est_, literally, “a word to the wise (is sufficient),” meaning a wise or prudent person does not or should not require any further explanation. Typically used to emphasize the advice implied by one’s statement. _Repeating the same weak, debunked arguments won’t make them true, you know. Verbum sap._  
 __verge (up)on something__ :two: To be almost identical to something; to be similar to or almost the same as something. (Upon is formal and less commonly used than on.) _Your actions verge upon mutiny. What you said verges on an insult._  
 __wait for the other shoe to drop__ To wait for something bad to happen.  
-__wake-up call__ :four: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
+__wake-up call__ :five: __1__ An event that triggers a sense of urgency or the motivation to make a change. _Harold’s sudden chest pain was the wake-up call he needed to finally see his doctor._ __2__ A phone call that one schedules to be placed to one’s hotel room in order to be woken up at a certain time. _I set an alarm and scheduled a wake-up call so there’s no way I oversleep for the first conference session tomorrow._  
 __walk away__ _Knowing when to walk away is an essential life skill._  
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
@@ -2282,6 +2292,7 @@ __what do you know__ A phrase used to indicate one’s surprise upon discovering
 __what makes (one) tick__ _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
+__what’s the deal?__  
 __wheels are turning, the__ Things have begun developing, unfolding, or progressing. _That gets your wheels turning._  
 __when pigs can fly__ At a time that will never come to pass. (Used to show skepticism or cynicism over someone’s hypothetical remark.)  
 __when pigs fly__ :three: Never, impossible.  
