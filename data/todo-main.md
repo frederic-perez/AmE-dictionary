@@ -45,7 +45,7 @@ __differ__ _v_ :mega:
 __fallacy__ _n_  
 __dissonance__ _n_ _Cognitive dissonance._  
 __ex__ _n_  
-__sobering__ _adj_  
+__sobering__ _adj_ :two::hammer:  
 __realtor__ _n_  
 __retrograde<sup>1</sup>__ _adj_  
 __retrograde<sup>2</sup>__ _v_  
@@ -169,7 +169,7 @@ __fave__ _n_
 __eleven__ _n_ :mega:  
 __relapse__ _n_  
 __escalate__ _v_  
-__dirtbag__ _n slang_  
+__dirtbag__ _n slang_ :two::hammer:  
 __security__ _n_ :mega:  
 __lair__ _n_  
 __sponsor__ _n_  
@@ -231,3 +231,50 @@ __ballyhoo__ _n_
 __salient__ _adj_ /SAIL-yunt/  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __caper__ _n_ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._  
+__lateral thinking__  
+__dysfunctional__  
+__rejoice__ _v_  
+__conform__ _v_  
+__adjusted__  
+__sideburns__ _n_  
+__mallrats__  
+__smalltime__ _adj informal_ _Smalltime dealer._  
+__moody__  
+__hyperbolic__  
+__ad__ _n_ :mega:  
+__pod__ _n_ _Pea pod._  
+__advocate__ _n_ :mega:  
+__privy__  
+__backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
+__canon__ _n_  
+__backfire__ _v_  
+__chime in__  
+__scant__  
+__boilerplate__  
+__nuance__ _n_ :mega:  
+__op-ed__ :mega:  
+__teetotaler__  
+__vacuous__  
+__socialite__  
+__clingy__ _adj_  
+__Al-Anon__  
+__elderly__ _adj, n_  
+__cantankerous__ _adj_ :two::hammer:  
+__unsurmountable__ _adj_  
+__perfect__ _v_  
+__wily__  
+__yatch__ :mega:  
+__comforter__ _n_ :mega: __4__ _US_ A quilted bed covering.  
+__puree__ _n_ :mega:  
+__telethon__ _n_  
+__seesaw__  
+__oddball__ _adj, n_  
+__clippers__ _n_ :two::hammer:  
+__bolster__ _v_  
+__despise__ _v_  
+__hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
+__grazer__ _n_  
+__suburbia__ _n_  
+__strifle__ _n_  
+__ledger__ _n_  
+__catharsis__ _n_  
