@@ -252,7 +252,7 @@ __chime in__
 __scant__  
 __boilerplate__  
 __nuance__ _n_ :mega:  
-__op-ed__ :mega:  
+__op-ed__ _adj, n_ :mega:  
 __teetotaler__  
 __vacuous__  
 __socialite__  
@@ -263,7 +263,7 @@ __cantankerous__ _adj_ :two::hammer:
 __unsurmountable__ _adj_  
 __perfect__ _v_  
 __wily__  
-__yatch__ :mega:  
+__yatch__ _n_ :mega:  
 __comforter__ _n_ :mega: __4__ _US_ A quilted bed covering.  
 __puree__ _n_ :mega:  
 __telethon__ _n_  
@@ -278,3 +278,6 @@ __suburbia__ _n_
 __strifle__ _n_  
 __ledger__ _n_  
 __catharsis__ _n_  
+__scarlet letter__ _n_  
+__small-claims court__ _n_  
+__double feature__ _n_ A movie program consisting of two full-length films.  

@@ -124,7 +124,7 @@ __OT__ _n_ (o.t.) _Sports_ Overtime or extra time is an additional period of pla
 __OTL__ _n_ Emoticon/term used to express a situation where you are so upset that you feel like getting on your hands on the floor and knees down to start crying.  
 __OTT__ Over the top.  
 __PB&J__  
-__PC__ :dart::five: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._  
+__PC__ :dart::six: Politically correct. _I’m not overly PC._ _I wanted to be all PC about it._ _They’re so PC that they end up writing sanctified characters._ _PC culture._  
 __PCP__ Phencyclidine; a depressant drug used illegally as a hallucinogen. _Syn_ angel dust  
 __PCR__ Polymerase chain reaction.  
 __PDA__ Persistent ductus arteriosus. Persistent means continuing to exist. Ductus arteriosus (or arterial duct) is the name of the tube that carries blood between the aorta and the pulmonary artery in the foetus. So Persistent Ductus Arteriosus (PDA) is a tube that continues to ‘exist’ in the baby even after he or she is born.  
