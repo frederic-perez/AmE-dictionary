@@ -1262,7 +1262,7 @@ __big house__ _n_ _slang_ A high-security prison.
 __big mon__  
 __Big Pharma__  
 __Big Three__ _n_ _(automobile manufacturers)_ In the automotive industry, the term Big Three refers to a country’s three largest automobile manufacturers. The three major American automotive companies: General Motors, Ford, and Chrysler.  
-__big time__ _n informal_ :five::hammer: _He had shit himself big time._  
+__big time__ _n informal_ :six::hammer: _He had shit himself big time._  
 __big yes__  
 __big-box__ _adj_ :three: Of, relating to, or being a large chain store having a boxlike structure. _Big-box stores._ _Big-box merchandisers._  
 __bigger than life__  
@@ -1941,7 +1941,7 @@ __burst<sup>2</sup>__ _v_ :two::hammer: (bursting)
 __bus boy__ _n_ :three::hammer: (bus boys)  
 __bus__ _v_  
 __busboy__ _n_ :five: A young man who clears tables in a restaurant or cafe.  
-__bush jacket__ _n_ _An inmaculate bush jacket._  
+__bush jacket__ _n_ :two: A long, cotton shirtlike jacket usually with four flat pockets and a belt. _An inmaculate bush jacket._  
 __business logic__  
 __business ties__  
 __business__ _n_ /ˈbɪznɪs/  
@@ -1998,7 +1998,7 @@ __buzzword__
 __by all means,__  
 __by and by<sup>1</sup>__ _adv_ Presently or eventually.  
 __by and by<sup>2</sup>__ _n_ _US and Canadian_ A future time or occasion.  
-__by and large__ _adv_ :four::hammer: :es: en líneas generales, en general  
+__by and large__ _adv_ :five::hammer: :es: en líneas generales, en general  
 __by storm__  
 __by the bucketful__ _phr_ _informal_ If someone produces or gets something by the bucketful, they produce or get something in large quantities. _I was giving antidepressants by the bucketful to patients._  
 __by-and-by__ _n_ :astonished: An indefinite time in the future. _He’ll get around to it in the sweet by-and-by._  
@@ -4349,7 +4349,7 @@ __drift__ _n_ :two::hammer: _You get the drift._
 __drifter__ _n_ :seven::hammer:  
 __drifting__  
 __driftwood__ _n_ :two::hammer: _Driftwood logs._  
-__drill<sup>1</sup>__ _n_ :four::hammer: _An evacuation drill._  
+__drill<sup>1</sup>__ _n_ :five::hammer:(power tool) _An evacuation drill._  
 __drill<sup>2</sup>__ _v_ :three: __1__ Make a hole, especially with a pointed power or hand tool. __2__ :dart: Systematic training by multiple repetitions. To drill is to bore holes in a hard surface, and it’s also to teach something by repeating facts over and over: “I hate math, because my teacher just drills multiplication tables.” _And Gasol drills the ball._  
 __drink and use__  
 __drip-dry__ _adj, n, v_ :two::hammer: _Cotton drip-dry._  
@@ -5103,6 +5103,7 @@ __fantasticate__ _v_ To make fantastic.
 __fantod__ _n_ :astonished: __1__ fantods __a__ A state of nervous irritability. __b__ Nervous movements caused by tension. __2__ An outburst of emotion; a fit.  
 __fanzine__ _n_ :two::mega::hammer:  
 __far fetched__ _adj_ :seven: (far-fetched) Something that is hard to believe. _Syn_ unlikely, unbelievable, doubtful _That isn’t as far-fetched as it sounds._  
+__Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsula in the New York City borough of Queens.  
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
@@ -5377,6 +5378,9 @@ __flag-waving__ _adj_ Fanatically patriotic. _Syn_ jingoistic, ultranationalisti
 __flag<sup>1</sup>__ _v_ :two::hammer:  
 __flag<sup>2</sup>__ _n_ _They collected marshy sweet flag to fight deterioration of memory._  
 __flagellant__ _n_  
+__flagellate<sup>1</sup>__ _v tr_ /FLAJ-uh-layt/ [:scroll: From Latin flagellare (to whip), from flagellum (whip), diminutive of flagrum (whip).] To punish, especially by whipping.  
+__flagellate<sup>2</sup>__ _n_ An organism having a whip-like appendage that’s used for locomotion, such as swimming.  
+__flagellate<sup>3</sup>__ _adj_ /FLAJ-uh-lit/layt/ Relating to such an organism.  
 __flagellation__ _n_ :two: Beating with a whip or strap or rope as a form of punishment. _Syn_ flogging, lashing, tanning  
 __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, four finger holes, and two thumbholes.  
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
@@ -6334,7 +6338,7 @@ __grip-and-grin__ _n_ __1__ _colloquial_ An event at which one is expected to sm
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
-__gripping__ _adj_ :two::hammer: _A gripping contest._  
+__gripping__ _adj_ :four: /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._ _A gripping contest._  
 __grisly__ _adj_ :seven::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
 __grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
 __gristle__ _n_ :three::hammer:  
@@ -8503,6 +8507,7 @@ __loosen up__ _v_ _“Loosen up, Andy,” suggested Lazarus, “make a guess.”
 __loosen__ _v_ (loosening) _Loosening encapsulation is always a last resort._  
 __Loot__  
 __loot__ _v_ :two::hammer:  
+__looting__ _n_ /ˈluːtɪŋ/ Stealing from shops or houses during a war or riot.  
 __lop off__ _v_ _The bastard started lopping off the prisoners’ heads._  
 __lope__ _v_  
 __loped__ _v_  
@@ -10335,6 +10340,7 @@ __pay dirt__ _n_ :two::hammer:
 __pay off__ _v_  
 __pay__ _v_ _It pays to consider his words carefully._  
 __payback__ _n_ :two::hammer:  
+__paycheck__ _n_ :pencil2: _Syn_ payroll check  
 __payload__ _n_ :three::hammer:  
 __payoff__ _n_ :five::hammer: (payoffs) _The third part of this book is the payoff._  
 __paywall__ _n_ :four: (paywalls) A feature of a website, application or service that only allows access to certain pages, data or features to paid up subscribers. _From behind the paywall._  
@@ -11007,6 +11013,7 @@ __powder keg__
 __power bar__  
 __power play__  
 __power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
+__power tool__ _n_  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _“He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
 __powerbocking__ _n_ The act of powerbocking is jumping and running with elastic-like spring-loaded stilts.  
 __powerhouse__ _n_ :three::dart: A highly energetic and indefatigable person.  
@@ -12343,7 +12350,7 @@ __safeguard<sup>1</sup>__ _n_
 __safeguard<sup>2</sup>__ _v_ :two::hammer:  
 __safekeeping__ _n_ :two: The act of keeping safe or the state of being kept safe; protection. _The Cardinal put his treasure in safekeeping and fled to Avignon, never to return._  
 __safety net__  
-__safety pin__ _n_ :es: imperdible  
+__safety pin__ _n_ :two::hammer: :es: imperdible  
 __saffron__ _n_ :four::hammer: :es: azafrán  
 __sag<sup>1</sup>__ _v_ :eight: (sagged, sagging) __1__ Sink, subside, or bulge downwards under weight or pressure or through lack of strength. _Coaches sag under heavy expectations._ __2__ Decline to a lower level, usually temporarily. _Sagging economy._  
 __sag<sup>2</sup>__ _n_ A decline, especially a temporary one.  
@@ -12553,6 +12560,7 @@ __scope out__ _v_
 __scorching__  
 __score<sup>1</sup>__ _n_ :three: A group or set of twenty or about twenty. _Five score years ago._ :es: veintena  
 __score<sup>2</sup>__ _v_ Make small marks into the surface of. _Score the clay before firing it._ _What tool is used to score a loaf of bread before baking?_  
+__scorecard__ _n_ /ˈskɔːˌkɑːd/ __1__ A card on which scores are recorded in various games, esp golf. __2__ A card identifying the players in a sports match, esp cricket or baseball.  
 __scores__ _n_ A large number of something. _Syn_ a great many, a lot, a great/good deal, a large/great number/amount, great quantities, plenty _He sent scores of enthusiastic letters to friends._  
 __scorn<sup>1</sup>__ _n_ :two::hammer:  
 __scorn<sup>2</sup>__ _v_ (scorned)  
@@ -12568,7 +12576,7 @@ __scowl<sup>1</sup>__ _n_
 __scowl<sup>2</sup>__ _v_ :six::hammer: (scowled, scowling)  
 __scrabble__ _n_ /ˈskræbəl/  
 __scram__ _v_ _We better scram._  
-__scramble__ _v_ :seven: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
+__scramble__ _v_ :eight: (scrambles, scrambled, scrambling) __1__ Make one’s way quickly or awkwardly up a steep slope or over rough ground by using one’s hands as well as one’s feet. _We scrambled over the wet boulders._ _Syn_ clamber, climb __2__ Make (something) jumbled or muddled. _Maybe the alcohol has scrambled his brains._ _Syn_ muddle, confuse, mix up, disarrange, disorganize, mess up _The alcohol has scrambled his brains._  
 __scrap<sup>1</sup>__ _n_ :two: (scraps) __1__ A small piece or bit; a fragment. __2__ (scraps) Leftover bits of food. __3__ Discarded waste material, especially metal suitable for reprocessing. _Scrap iron._ __4__ (scraps) Crisp pieces of rendered animal fat; cracklings. __5__ A fight or scuffle. _He might have to look beyond the 125-pound class to find a scrap worthy of his abilities._  
 __scrap<sup>2</sup>__ _v tr_ :nine::m: (scraps, scrapped, scrapping) __1__ To break down into parts for disposal or salvage: _scrap an old stove._ __2__ To discard or abandon as useless; cancel: _scrap a plan._ _It forced oil companies to scrap planned investments._ _Ship to be scrapped had reactor built on board in 1960s._ _Scrapping the legislation._  
 __scrap<sup>3</sup>__ _v intr_ :nine::m: (scrapping) To fight, usually with the fists. _A boy spends the next four decades scrapping._ _A lifestyle of snorting and scrapping._  
@@ -14717,6 +14725,7 @@ __template__ _n_ :dart::two::mega: /ˈtɛmplɪt/ (templet)
 __Tempranillo__  
 __tenable__ _adj_  
 __tenacious__ _adj_  
+__tenacity__ _n_  
 __tenant__ _n_ :two::hammer: (tenants)  
 __tench__ _n_  
 __tender__ _n_ _The company won the tender._  
@@ -15651,7 +15660,7 @@ __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
 __upkeep__ _n_ :four: __1__ Maintenance in proper operation, condition, and repair. __2__ The cost of such maintenance.  
-__uplifting__ _adj_  
+__uplifting__ _adj_ :two::hammer: /ʌpˈlɪftɪŋ/  
 __upmarket__  
 __upmost__ _adj_ Uppermost.  
 __upped__ _v_  
