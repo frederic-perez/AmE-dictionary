@@ -606,7 +606,7 @@ __arched__ _adj_ _Arched doorway._ :camera:
 __archenemy__ _n_ :pencil2:  
 __archeology__ _n_ :mute:[arc~~h~~eology]  
 __archetypal__  
-__archetype__ _n_ /AHR-kih-type/  
+__archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
 __Archimedes__ _n_ :mega:  
 __archipelago__ _n_ :four::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
@@ -746,7 +746,7 @@ __atraumatic__ _adj_ Without injury.
 __atrium__ _n_ :two::hammer:  
 __atrocious__  
 __atrocity__  
-__atrophy__ _v_ :two::hammer: (atrophied)  
+__atrophy__ _v_ :three: (atrophied) To waste away; wither or deteriorate. _Syn_ shrivel, weaken _She had not painted in many years, and she was worried that her creativity had atrophied._  
 __attaché case__ _n_ :three: (attaché cases) A slim briefcase with flat, rigid sides, hinges, and usually a lock.  
 __attack dog__ _n_  
 __attain__ _v_ :five::hammer::pencil2: (attaining) _I wish you success in attaining your dreams._  
@@ -1501,6 +1501,7 @@ __boiler__
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
 __boilerplate__ _n_ :four::hammer:  
 __boilers__  
+__boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
 __bold-faced__ _adj_  
 __boldface name__ _n_ :dart: A well-known or famous name or person. _Hundreds of mourners, including boldface names like Paul Simon and [Billy] Joel, show up at the funeral._ _Many boldface names enabled the stratosferic rise of the start-up Theranos._  
@@ -2191,7 +2192,7 @@ __card reader__ _n_
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
 __cardiac arrest__ _n_ :two::hammer:  
-__cardinal__ _adj_ __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ __2__ Dark to deep or vivid red.  
+__cardinal__ _adj_ :two: __1__ Of foremost importance; paramount: _a cardinal rule; cardinal sins._ _Syn_ fundamental, central, primal _The cardinal rule of membership in the secret society was never to reveal its existence to outsiders._ __2__ Dark to deep or vivid red.  
 __cardioembolic__ _adj_  
 __careen__ _v_ :nine::m::camera: (careens, careened, careening) __1__ _(nautical)_ To heave a ship down on one side so as to expose the other, in order to clean it of barnacles and weed, or to repair it below the water line. __2__ _(nautical)_ To tilt on one side. __3__ To lurch or sway violently from side to side. _An open-air tour bus careened wildly out of control._ __4__ To tilt or lean while in motion. __5__ To career, to move rapidly straight ahead.  
 __career ladder__ _n_  
@@ -3049,7 +3050,7 @@ __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set o
 __constrained__ _adj_  
 __construction paper__ _n_ A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
 __constructive__ _adj_ _Constructive criticism._  
-__construe__ _v_ :eight: (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ _Syn_ explain __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
+__construe__ _v_ :nine: /kun-STROO/ (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ To understand or explain the sense or intention of something in a particular way. _Syn_ explain _The website provides medical information but that information should not be construed as a diagnosis._ __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). To analyze the arrangement and connection of words in a sentence. _The teacher asked the students to construe the Greek philosopher’s statement._ __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
@@ -3294,6 +3295,7 @@ __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._
 __crappie__  
 __crapshoot__  
 __crapulous__ _adj_ :two: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
+__crash blossom__ _n_ An ambiguously worded news headline that can have a confusing or humorous interpretation. Crash blossom examples: Doctors Help Bee Sting Victims, Dead Man Remains Discovered by Police.  
 __crash course__  
 __crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
 __crash-land__ _v_ _A jet crash-landed in the city._  
@@ -3623,6 +3625,7 @@ __dead ringer__ _n_ :two: Exact duplicate; a person or thing that seems exactly 
 __dead__ _adj_ _Dead batteries._  
 __deadbeat__ _adj_ :three::hammer: _A union deadbeat._  
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
+__deadlock__ _n_ /ˈdɛdˌlɒk/  
 __deadly__ _adv_ __1__ So as to suggest death. __2__ To an extreme: _deadly serious._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
@@ -4483,6 +4486,7 @@ __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; pain
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
+__dysphemism__ _n_  
 __dysphoria__ _n_ :two: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
@@ -4576,7 +4580,7 @@ __egg head__ _n_ _informal_ A very studious and academic person.
 __egg roll__  
 __egg white__  
 __egg__ _v_  
-__eggcorn__ _n_ :three::hammer:  
+__eggcorn__ _n_ :four: A new word or phrase that emerges from mistakenly hearing or interpreting another. Although resulting from a mistake, an eggcorn often still seems to make logical sense. Eggcorn examples: all intensive purposes (“All intents and purposes”), duck tape (duct tape), wet one’s appetite (“whet one’s appetite”)  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
@@ -7760,7 +7764,7 @@ __jigger__ _n_ :seven::hammer: _A jigger of whiskey._ _He poured into a jigger._
 __jiggle__ _v_ :two::hammer: _In moments, the spedometer jiggled back to forty-eight miles per hour._  
 __jigs__ _n_  
 __jigsaw__ _n_ :two::hammer: (jigsaws)  
-__jilt__ _v_ :five: (jilted) To deceive or drop (a lover) suddenly or callously. _Jilted at the altar._  
+__jilt__ _v_ :six: (jilted) To deceive or drop (a lover) suddenly or callously. _Syn_ forsake _Since being jilted by his fiancée, he had grown to distrust all women._ _Jilted at the altar._  
 __Jim Crow<sup>1</sup>__ _n_  
 __Jim Crow<sup>2</sup>__ _adj_ :two::hammer: _A Jim Crow county._  
 __jimmied__ _v_ :two::hammer:  
@@ -8293,7 +8297,7 @@ __lewd__ _adj_ :three::hammer:
 __lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :six::pencil2::hammer:  
+__liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _ She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
 __libation__ _n_ :three::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  
@@ -8982,6 +8986,7 @@ __metro<sup>1</sup>__ _n_ A subway system.
 __metro<sup>2</sup>__ _adj_ Metropolitan: _metro Los Angeles._ _Her products landed on the shelves of stores in metro Detroit._  
 __metronome__  
 __mettle__ _n_ :nine::m::dart: The courage to carry on: _It’s the first real test of his mettle this season._ _This was a game to test his mettle._ _The contestants proved their mettle by completing the triathlon._  
+__mettlesome__ _adj_ /MET-ul-sum/ Full of vigor and strength of spirit or temperament. _The rider was experienced and had no trouble handling the mettlesome horse._  
 __mezzanine__  
 __miasma__ _n_ :four::hammer: _An opaque miasma._  
 __mick__ _n_ :three::hammer:  
@@ -9165,7 +9170,7 @@ __momentously__ _adv_ In a momentous way.
 __momentum__  
 __monad__  
 __Monday__ _n_ :mega: /’möndi, -deI/  
-__mondegreen__ _n_ :two::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
+__mondegreen__ _n_ :three::dart: [:scroll: from the Scottish ballad _The Bonny Earl of Murray_, in which the line “laid him on the green” can be misheard as “Lady Mondegreen”] A series of words that result from the mishearing or misinterpretation of a statement or song lyric. For example, _I led the pigeons to the flag_ for _I pledge allegiance to the flag._  
 __money on the hoof__  
 __money__ _n_ :mega:  
 __moneyed__  
@@ -12785,7 +12790,7 @@ __service animal__ _n_ Any animal (often a dog) specially trained to assist a pe
 __servicers__  
 __serving__ _n_ :three: (servings) An individual portion or helping of food or drink. _Eat five servings of fruit or veg each day._  
 __sesquipedalian<sup>1</sup>__ _n_ A long word.  
-__sesquipedalian<sup>2</sup>__ _adj_ __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
+__sesquipedalian<sup>2</sup>__ _adj_ :two: __1__ Given to or characterized by the use of long words. __2__ Long and ponderous; polysyllabic.  
 __set (someone) up__ _v_ _Emile’s trying to set you up._  
 __set about__ _phr v_ Initiate or begin some action. _He set about designing his homepage._  
 __set down<sup>2</sup>__ _phr v_ :dart: Write. _I set down this account so others may benefit from my experience._  
@@ -15011,6 +15016,7 @@ __tittle__ _n_ :two::astonished::pencil2: __1__ A small diacritic mark, such as 
 __tix__ _pl n_ _informal_ Tickets.  
 __tixker__  
 __tizzy__  
+__tmesis__ _n_ The insertion of a word or part of a word in another word. Examples: another = “a whole nother” absolutely = “abso-freakin’-lutely” somewhere = “some bloody where”  
 __to be at sea__  
 __to be in the clear__  
 __to be unheard of__  
