@@ -1222,7 +1222,7 @@ __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, 
 __beta__ _n_ :mega:  
 __bethren__ _n_  
 __betoken__ _v_  
-__betray__ _v_ :two::hammer:  
+__betray__ _v_ :three::hammer: /bɪˈtreɪ/  
 __betroth__ _v_ _archaic_ To promise to marry or to give in marriage. _Syn_ affiance, plight, engage  
 __betrothal__ _n_  
 __betrothed__ _adj_ :four: Engaged to be married.  
@@ -1640,6 +1640,7 @@ __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling.
 __box score__  
 __box__ _n_ :four::hammer: (soccer) _Kyle fouled Ben in the box._ _The Etihad is the last empty box on his list._  
 __boxcars__ _n_ _My best thorw of the die kept coming back boxcars, deuces, and treys._  
+__boxwood__ _n_ /ˈbɒksˌwʊd/  
 __boycott<sup>1</sup>__ _n_ :two::astonished::hammer:  
 __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abstaining from using, buying, dealing with, or participating in as an expression of protest or disfavor or as a means of coercion: _boycott a business; boycott merchants; boycott buses; boycott an election._  
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
@@ -4218,7 +4219,7 @@ __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and 
 __Doritos__ _n_ :mega: _A bag of Doritos (corn chips)._  
 __dork__ _n_ :four: (dorks) __1__ _slang_ A stupid, inept, or foolish person. A socially awkward person. _The stupid antics of America’s favorite teen-age cartoon dorks. (Joshua Mooney)._ __2__ _Vulgar Slang_ The penis.  
 __dorm__ _n_  
-__dormant__ _adj_ :two::hammer:  
+__dormant__ _adj_ :three::hammer: /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
 __dormer__ _n_ :camera:  
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
@@ -4244,7 +4245,7 @@ __double-edged__ _adj_ _Double-edged sword._
 __double-take__ _n_ :five::hammer: _I’m sure you’ve done a double-take on an argument that was actually an output rather than an input._ _Output arguments often cause us to do a double-take._  
 __doublet__ _n_ :camera:  
 __doubly__  
-__doubt__ _n, v_ :mute:[dou~~b~~t]  
+__doubt__ _n, v_ :mute:[dou~~b~~t] /daʊt/  
 __doubting Thomas__ _n_  
 __doubtless__ _adj, adv_ :two::hammer:  
 __douche__ _n_ __4__ _vulgar_ _slang_ A foolish or contemptible person.  
@@ -4606,7 +4607,7 @@ __elaborate__ _v_ :dart:
 __élan__ _n_ :two::pencil2::hammer:  
 __elapse__ _v_ :dart: Pass by. _Syn_ glide by, go by, slide by, slip by, slip away, go along _A month has elapsed since our last meeting, so let us begin by reviewing the minutes from that session._  
 __elate__ _v_ :four::hammer: (elated) _They came to be elated and uplifted._  
-__elated__ _adj_ :three::hammer:  
+__elated__ _adj_ :four::hammer: /ɪˈleɪtɪd/  
 __elation__ _n_ :four::hammer:  
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
@@ -4757,7 +4758,7 @@ __ensnare__ _v_ :five: /ɪnˈsnɛː,ɛn-/ (ensnaring) To take or catch in or as 
 __ensue__ _v_ :seven::hammer: (ensued, ensuing) _Complications ensue._  
 __ensuite<sup>1</sup>__ _n_ :two: A bathroom connected to a bedroom; a private bathroom (as opposed to a shared, public bathroom).  
 __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.  
-__entail<sup>1</sup>__ _v_ :seven::hammer: (entails)  
+__entail<sup>1</sup>__ _v_ :eight::hammer: (entails) /ɪnˈteɪl/  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
@@ -5189,6 +5190,7 @@ __feijoada__ _n_ :astonished: A Brazilian or Portuguese stew made with beans, po
 __feint__  
 __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty man gloated._  
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
+__felicitous__ _adj_ /fɪˈlɪsɪtəs/  
 __felix culpa__ _n_ /FAY/FEE-liks KOOL/KUHL-pah/ [:scroll: From Latin felix culpa (happy fault). A related word is serendipity. Felix culpa is also known as a fortunate fall or happy accident. In Christianity, the fall of Adam and Eve is seen as a felix culpa since it resulted in the coming of Christ.] An error or disaster that has fortunate consequences.  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
@@ -6313,6 +6315,7 @@ __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks.
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :two::hammer:  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
+__greenwash__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
 __gregarious__ _adj_ /grih-GAIR-ee-us/ _Syn_ social, sociable  
 __greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color between gray and beige. __2__ [:scroll: From French grège (raw, unfinished) influenced by gray/beige.] A fabric or yarn that has not undergone bleaching, dying, or other finishing processes.  
@@ -6827,7 +6830,7 @@ __hemodynamic__ _adj_
 __hemolysis__ _n_ The destruction or dissolution of red blood cells, with subsequent release of hemoglobin.  
 __hemostasis__ _n_ (hemostasia, haemostasia) The stoppage of bleeding or cessation of the circulation of the blood; stagnation of the blood in a part of the body.  
 __hemp__ _n_ :five::hammer: _Hemp plant._ :es: cáñamo  
-__henchman__ _n_ :nine::m: (henchmen) Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._  
+__henchman__ _n_ :nine::m: (henchmen) /HENCH-mun/ A trusted follower who may perform unpleasant, wrong, or illegal tasks for a powerful person (such as a politician or criminal). Someone who assists in a plot. _Syn_ collaborator, partner in crime, confederate _The chuckling henchman showed that feeding alligators had its downfalls._ _The play opens with the main character, a gangster, onstage surrounded by his henchmen._  
 __henchwoman__ _n_  
 __henna__  
 __henpeck__ _v tr_ /HEN-pek/ [:scroll: The word hen has been used for a woman or a girl for a long time (1555). So has the verb peck for nagging (1641).] To criticize, nag, pester, etc. in a persistent manner. The word is often used in reference to a wife nagging her husband. A henpecked husband is one considered subservient to his wife and a chickenpecked parent is one nagged, harassed, or bullied by a child. _Syn_ carp at, fuss at, nag, peck at, pick on  
@@ -7279,7 +7282,7 @@ __ill__
 __ill-fated__ _adj_  
 __illation__  
 __Illini__ _n_ :three::hammer:  
-__illiterate__  
+__illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
 __illustrious__ _adj_ :five::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
@@ -8096,6 +8099,7 @@ __lampoon<sup>2</sup>__ _v_ :five: (lampooned) To make the subject of a satire. 
 __lamppost__ _n_  
 __lamprey__ _n_  
 __lance__ _v_ :two::astonished::hammer: (lanced)  
+__lanceolate__ _adj_ Tapering from a rounded base toward an apex. _Syn_ lancelike _The bush had lanceolate leaves with sharp tips that could sting unwary passersby._  
 __lances__ _n_ :four::hammer: _A small garrison of 100 lances._  
 __lancet__ _n_  
 __lancing irons__  
@@ -8703,6 +8707,8 @@ __malodor__ _n_ A distinctive odor that is offensively unpleasant. _Syn_ fetor, 
 __mamaguy<sup>1</sup>__ _v tr_ [:scroll: From Spanish mamar gallo (to suckle a rooster). It has its origins in cock-fighting, apparently referring to a rooster who is gently sucking at his opponent instead of pecking him with force.] To deceive or tease, either in jest or by deceitful flattery.  
 __mamaguy<sup>2</sup>__ _n_ An instance of such deception or flattery.  
 __mamasan__  
+__mammalian<sup>1</sup>__ _n_ /məˈmeɪ li ən, -ˈmeɪl yən/ An animal of the class Mammalia; mammal.  
+__mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; characteristic of mammals.  
 __mammonism__ _n_ The greedy pursuit of riches.  
 __man o’war__ _n_ (man-of-war, man o’ war) __1__ A warship. __2__ Portuguese man-of-war—a long tentacled jellyfish whose sting can be deadly.  
 __man-at-arms__ _n_ (men-at-arms) A soldier, especially a medieval cavalryman supplied with heavy arms.  
@@ -11853,7 +11859,7 @@ __reimagining__ _n_
 __reindeer__  
 __reinstate__ _v_ :three::hammer:  
 __reinstatement__ _n_  
-__reiterate__ _v_  
+__reiterate__ _v_ :two::hammer: /riːˈɪtəˌreɪt/  
 __reject__ _v_ :dart: __2b__ To refuse to accept (someone) as a lover, spouse, or friend; rebuff.  
 __rejigged__ _v_  
 __rejiggered__  
@@ -12394,6 +12400,7 @@ __salvo__ _n_ :six::hammer: (salvos) _A full salvo of torpedoes._ _Joe fired the
 __Sam Browne belt__  
 __Samaritan__  
 __same old, same old__ _n_ :three: A familiar, uninteresting, or tedious situation, activity, narrative, or set of facts.  
+__samey__ _adj_ /seɪmi/ If you describe a set of things as samey, you mean that they are all very similar, and it would be more interesting if they were different from each other. _He has written a batch of very samey tunes._  
 __samosas__  
 __samovar__ _n_  
 __sanctuary<sup>1</sup>__ _n_  

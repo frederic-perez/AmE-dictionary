@@ -1,18 +1,3 @@
-__henchman__ _n_ /HENCH-mun/ A trusted follower who may perform unpleasant, wrong, or illegal tasks for a powerful person (such as a politician or criminal). _The play opens with the main character, a gangster, onstage surrounded by his henchmen._  
-__felicitous__ _adj_ /fɪˈlɪsɪtəs/  
-__lanceolate__ _adj_ Tapering from a rounded base toward an apex. _Syn_ lancelike _The bush had lanceolate leaves with sharp tips that could sting unwary passersby._  
-__betray__ _v_ /bɪˈtreɪ/  
-__entail__ _v_ /ɪnˈteɪl/  
-__elated__ _adj_ /ɪˈleɪtɪd/  
-__doubt__ _v_ /daʊt/  
-__illiterate__ _adj_  
-__boxwood__ _n_ /ˈbɒksˌwʊd/  
-__dormant__ _adj_ /ˈdɔːmənt/ (dormient) __1__ Quiet and inactive, as during sleep. __2__ Latent or inoperative.  
-__reiterate__ _v_ /riːˈɪtəˌreɪt/  
-__greenwash__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
-__mammalian<sup>1</sup>__ _n_ /məˈmeɪ li ən, -ˈmeɪl yən/ An animal of the class Mammalia; mammal.  
-__mammalian<sup>2</sup>__ _adj_ Belonging or pertaining to the class Mammalia; characteristic of mammals.  
-__samey__ _adj_ /seɪmi/ If you describe a set of things as samey, you mean that they are all very similar, and it would be more interesting if they were different from each other. _He has written a batch of very samey tunes._  
 __misfire__ _v intr_ /ˌmɪsˈfaɪə/  
 __flywheel__ _n_ /ˈflaɪˌhwil/ A heavy wheel in a machine or engine that keeps it operating at a steady speed.  
 __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
