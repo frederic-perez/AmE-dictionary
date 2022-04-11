@@ -7,6 +7,7 @@ __(as) quick as a bunny__ Incredibly quickly or speedily. _Quick as a bunny, Mar
 __(as) silent as the grave__ Totally silent, especially as produces an ominous or foreboding effect. _I knew something was wrong when I walked into the meeting room and all the members of the board were silent as the grave._  
 __(deep) in the weeds__  
 __(deep) into the weeds__ :two::hammer:  
+__(it’s) (a)bout time__ :two: An expression used to emphasize that something should have occurred a long time ago. _Well, about time you got here—I’ve been waiting for over an hour!_ _It’s about time that high schools taught their students about basic banking and finance._  
 __(it’s) just as well (that) (something happened)__ It is or turned out to be beneficial (that something happened).  
 __(it’s) little wonder__ It is not at all surprising (that something is the case). _I was always terrible at math in school, so it’s little wonder that I have such trouble filing my taxes._  
 __(it’s/there’s) no use crying over spilt milk__ It does no good to get upset over a bad decision or unfortunate event that has already come to pass and cannot be changed.  
@@ -219,7 +220,7 @@ __ball and chain__ A wife.
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
-__bank on__ :four: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
+__bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
 __barking up the wrong tree__ Looking in the wrong place.  
@@ -300,6 +301,7 @@ __be rained out__ To be delayed, postponed, or cancelled due to the rain. _I was
 __be running on fumes__ To be continuing to operate with no or very little enthusiasm, energy, or resources left. _I’ve been painting the house for four hours every night after work, and I am seriously running on fumes at this point._ _We were running on fumes by the time our team made it to the championship round._  
 __be rushed off (one’s) feet__ :dart: To be exceptionally busy, especially to an exhausting or exasperating degree; to be made to work very hard and very quickly. _We have three parties of 40 scheduled for the dining room this evening, so all of our servers are going to be rushed off their feet._  
 __be shown the ropes__ To be taught how to do or perform a job, task, or activity; to have explained or demonstrated how something is done.  
+__be sick to death of (someone or something)__ To be or become exceedingly wearied by, bored of, or exasperated with someone or something. _I’m sick to death of doing my boss’s errands. If something doesn’t change soon, I’m going to quit!_  
 __be sitting pretty__ To be in an ideal living situation (typically because one is financially comfortable), or in an advantageous position. _With all the money you inherited from Aunt Myrtle, you’ll be sitting pretty for the rest of your life._  
 __be smashed to smithereens__ To be broken apart or otherwise destroyed into tiny, fragmentary pieces. _I wish I could still go visit our old family home, but it’s already been smashed to smithereens by the demolition crew._  
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
@@ -334,6 +336,7 @@ __bestie__ _slang_ One’s closest friend. _I’m so excited that my bestie is c
 __big boned__ _euphemism_ Fat or obese. Usually used as an excuse for one’s size. _I know that people think I have an eating problem, but really I’m just big boned!_  
 __big break__ A fortuitous moment, opportunity, or turn of events of great consequence, especially as relates to one’s career. _I had a big break when a movie director saw me in an improv group and offered me an audition for his new film._  
 __big cheese__ An influential person.  
+__big deal__  
 __big spender__ Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
@@ -506,10 +509,11 @@ __come into question__ To become doubted, scrutinized, or a matter of serious di
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
+__come to grips with (someone or something)__  
 __come to terms with (someone or something)__ :six::hammer:  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
-__coming-of-age__ Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
+__coming-of-age__ :two: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
 __conspicuous consumption__ :two: The lavish expenditure of money or acquisition of expensive items as a public display of one’s wealth or financial success.  
@@ -669,6 +673,7 @@ __exert (oneself)__ To make a concerted effort to do something. Put oneself to s
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
+__face value__  
 __faint of heart__ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ _You caught me fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
@@ -1342,6 +1347,7 @@ __know better (than to do something)__ To be wise enough, experienced enough, or
 __know every trick in the book__ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
 __know full well__ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
 __know the ropes__ :three: To know how to do a job or task properly.  
+__know-it-all__ A person who seems or affects to know everything about any given topic, and who makes an irritating point of demonstrating their knowledge to others. _Jim’s new boyfriend is such a know-it-all. I can’t stand having a conversation with him about anything!_  
 __know-nothing__ A completely ignorant, uninformed, or unknowledgeable person.  
 __knuckle sandwich__ A punch in the face.  
 __l’esprit de l’escalier__ :dart: (l’esprit d’escalier) A French phrase meaning “the wit of the staircase,” a perfect witty remark, retort, or rejoinder that occurs to one after the fact or too late to be used. _I was on the bus home long after being tongue-lashed by my boss when I thought of the perfect things to say that would take him down a few pegs. Ah, l’esprit de l’escalier!_  
@@ -1830,7 +1836,7 @@ __poetry in motion__ Something that is very elegant, graceful, and/or beautiful 
 __poor man’s__ :three::hammer: _She looked every bit the poor man’s Pamela Anderson._  
 __pop up__ To suddenly appear or become available. _Problems started popping up as soon as the software went live._ _He might pop up in this movie in the tail end._  
 __pounce (up)on someone or something__ :two::hammer:  
-__practice makes perfect__ _Prov. Cliché_ Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
+__practice makes perfect__ _Prov. Cliché_ :two: Doing something over and over again is the only way to learn to do it well. _Child: How come you’re so good at peeling potatoes? Father: I did it a lot in the army, and practice makes perfect._  
 __prior to__ _prep_ Before. _Prior to this episode._  
 __prop up__ _But with her leg propped up._  
 __psyched__ Extremely surprised, excited, or nervous. Feeling a very strong emotion.  
@@ -1873,6 +1879,7 @@ __quote, unquote__ :two::hammer:
 __rabbit hole__ :four::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
 __race against time__ To do something very quickly.  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun. _My uncle’s is a true rags-to-riches story. He grew up without a penny, but through sheer determination, he founded his own company and is now one of the wealthiest men in the state._  
+__ramp up__  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __rat race__ [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc.  
 __ratchet-mouth__ _n_ (motor-mouth) Someone who talks incessantly. (Also a term of address.) _Tell that ratchet-mouth to shut up! Hey, motor-mouth! Don’t you ever stop?_  
@@ -1982,12 +1989,15 @@ __shoot up__ :two::hammer: _The number of homeless families shot up during the r
 __shoot your mouth off__ To boast or talk too much, to tell secrets.  
 __shoot yourself in the foot__ To do or say something that causes problems for you.  
 __short of (something)__ _Anything short of that._  
+__short on looks__ Homely; rather plain or unattractive; not aesthetically pleasing. _Janet’s date was a little short on looks, but she said he was very nice and a true gentleman._  
 __short-order cook__ A restaurant worker whose job is to cook food that can be prepared quickly. _She worked as a short-order cook._ :es: cocinero de comida rápida  
 __shortly after__ Soon after. _Shortly after she hung up, the phone rang again._  
 __shot in the arm__ :two::hammer:  
 __shot in the dark__ An attempt to guess something when you have no information or knowledge about it.  
+__shotgun house__ _slang_ A one-story house in which each room is in a straight alignment with the others, connected by a continuous hallway running from the front to the back of the residence. Chiefly used in the Southern United States. _When our whole family goes to stay in my grandmother’s shotgun house in New Orleans, it always feels like we’re all right on top of one another._  
 __show (one’s) (true) colors__ :two::hammer: _He has shown his true colors._  
 __show someone the door__ To dismiss someone from a job.  
+__shrinking violet__ Someone who is very shy and not assertive. _I am not exactly a shrinking violet, but I don’t have the guts to say what you said to her._  
 __shut (one’s) mouth__  
 __shut down__ _San Antonio shut down Utah for its fourth straight road victory._  
 __shuteye__ _n_ _slang_ :three: (shut-eye) Sleep. (Usually qualified with words like “some,” “a little,” “a bit of,” etc.) _Hey, it’s late. We should catch some shuteye so we’re not exhausted tomorrow._ _I could use about another hour of shut-eye._ _I’m going for some shut-eye._  
@@ -2027,6 +2037,7 @@ __snatch the pebble__ _v_ :dart: To fully grasp the meaning of a concept or deve
 __snow in__ (snowed in) __2__ To cause someone or something to be unable to leave a building or area due to the snow. Often used in passive constructions. In this usage, a noun or pronoun can be used between “snow” and “in.” _We were snowed in for several days, with only a small cupboard’s worth of food to subsist on._  
 __snow on the mountain__ Silver, grey, or white hair on one’s head, as due to aging. _Sure, there’s a bit of snow on the mountain, but I still lead as adventurous a life as I ever have!_  
 __snug as a bug__  
+__so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
 __so much so that__ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ :three::hammer: _So much so that working with animals has become one of his passions._  
 __soak up__  
@@ -2142,6 +2153,7 @@ __the ball is in someone’s court__ :two: To be responsible for taking the next
 __the bigger they come, the harder they fall__ Those who are exceptionally large, powerful, or influential will have more to lose when they fail, and their failure will be all the more dramatic or spectacular because of it.  
 __the darkest hour is just before the dawn__  
 __the devil is in the detail(s)__ Plans, actions, or situations that seem sound must be carefully examined, because minor details can end up causing major, unforeseen problems.  
+__the eleventh hour__ The last possible moment or opportunity. Can be hyphenated if used as a modifier before a noun. _I was shocked that they reached an agreement at the eleventh hour after weeks of squabbling._  
 __the going thing__ The latest and most popular trend, fad, or fashion.  
 __the granddaddy of them all__ The biggest, oldest, most impressive, or most respected person or thing of his, her, or its kind.  
 __the half of it__ A portion of something, typically implied to be the most important of significant part. (Often used in the negative.)  
