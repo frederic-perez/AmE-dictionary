@@ -249,3 +249,16 @@ __catharsis__ _n_
 __scarlet letter__ _n_  
 __small-claims court__ _n_  
 __double feature__ _n_ A movie program consisting of two full-length films.  
+__obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
+__charlatan__ _n_  
+__commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
+__heist__ _n_  
+__downplay__ _v tr_  
+__lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
+__chorus__ _n_ /ˈkɔr əs, ˈkoʊr-/  
+__game__ _adj_ __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
+__Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
+__manifold__ _adj_ _Physical activity: manifold benefits for health and wellbeing._  
+__grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
+__jam-packed__ _adj_ Crowded, packed, or filled to capacity.  
+__laid-back__ _adj_  
