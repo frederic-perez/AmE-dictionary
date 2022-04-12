@@ -905,6 +905,7 @@ __bailiwick__ _n_ :four::hammer:
 __bailout__ _n_ :four::hammer:  
 __bait__ _v_ _A trap baited by a devil._  
 __bake in__ _v_  
+__bake sale__ _n_ A fund-raising event at which usually homemade foods (such as cakes and cookies) are sold.  
 __bake__ _v_ _Baking bread._  
 __baked__ _adj_ _Kevin is baked._  
 __baker’s dozen__  
@@ -3869,7 +3870,7 @@ __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let�
 __detour__  
 __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
 __detrimental__  
-__detritus__ _n_  
+__detritus__ _n_ :two: The remains of something that has been destroyed or broken up. _Syn_ debris, rubble _The streets of the new town were built over the detritus of past habitations._  
 __devastate__ _v_  
 __devastated__ _adj_ Very shocked and upset by something.  
 __develop__ _v_ :mega:  
@@ -4847,6 +4848,7 @@ __escapism__ _n_ :three::mega: The tendency to escape from daily reality or rout
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
+__esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape diverse elements or concepts into a unified whole; unifying: _the esemplastic power of the mind._  
 __Eskimo__ _n_ :two::mega:  
 __esoteric__ _adj_  
 __espadrilles__ _n_  
@@ -5430,6 +5432,7 @@ __flat-out__ _adj_ :three::hammer: _They flat-out tell us what is happening._
 __flat<sup>1</sup>__ _adj_ _Kaufusi’s jump to BYU football proves critics flat wrong._  
 __flat<sup>2</sup>__ _adv_ _We are holding the room at zero flat._  
 __flatbread__ _n_ :two::hammer: _Flatbread sandwiches._  
+__flatiron__ _n_ :dart: /ˈflætˌaɪ ərn/ An iron for pressing clothes, especially one that is heated externally, as on a hearth or stove.  
 __flats__ _n_  
 __flatter__ _v_ (flattered)  
 __flatware coins__  
@@ -10299,7 +10302,7 @@ __passersby__ _n_ :pencil2::astonished: Plural of passerby.
 __passionate__ _adj_  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :five::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
-__pastoral__ _adj_ _A pastoral letter._  
+__pastoral__ _adj_ :two: Idyllically rustic. _Syn_ arcadian, bucolic _Last I heard he bought a cottage on farmland and now leads a perfectly pastoral existence._ _A pastoral letter._  
 __pastry__ _n_ (pastries) _Items available on the buffet include assorted pastries, fresh fruit, and fruit juices._  
 __pastures__ _n_  
 __pasty__ _adj_ :two::hammer:  
@@ -11438,7 +11441,8 @@ __pyrheliometer__ _n_ :two::hammer:
 __pyrite__ _n_ /PY-ryt/ [:scroll: From Latin pyrites (flint), from Greek pyrites lithos (stone of fire, flint), from its shiny surface and its use for starting fire.] __1__ A shiny yellow mineral of iron disulfide. Also known as iron pyrites or fool’s gold. __2__ Something that appears valuable but is worthless.  
 __pyroclast__ _n_ /ˈpaɪrəʊˌklæst/ (Geological Science) A piece of lava ejected from a volcano.  
 __pyroclastic__ _adj_ :three::hammer: _Pyroclastic cloud._ _Pyroclastic flow._  
-__pyrrhic__ _adj_ :four::pencil2: (of a victory) won at too great a cost to have been worthwhile for the victor.  
+__pyrrhic__ _adj_ :four::pencil2: (of a victory) Won at too great a cost to have been worthwhile for the victor.  
+__Pyrrhonism__ _n_ /PIR-uh-niz-uhm/ [:scroll: After Pyrrho, a Greek philosopher, c. 360-270 BCE.] Extreme or absolute skepticism.  
 __q-tip__  
 __Q-tips__ _n_ :three::hammer:  
 __Q.E.D.__  
@@ -14711,6 +14715,7 @@ __teetotal__ _adj_ Practicing complete abstinence from alcoholic beverages. _Syn
 __teetotaler__ _n_ :three: One who abstains completely from alcoholic beverages. _Everybody knew Tod was a teetotaler._  
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
+__telangiectasia__ _n_  
 __telegenic__  
 __telekinesis__ _n_ :mega:  
 __televangelist__ _n_  
@@ -16565,6 +16570,7 @@ __xenophile__ _n_ A person attracted to that which is foreign, especially to for
 __xenotransplantation__ _n_ The surgical transfer of cells, tissues, or especially whole organs from an organism of one species to an organism of a different species. _Syn_ xenotransplant  
 __xeriscape__ _n_  
 __xylophilous__ _adj_ /zy-LOF-uh-luhs/ [:scroll: From Greek xylo- (wood) + -philous (liking).] Growing on or living in wood.  
+__xyst__ _n_ /zɪst/  
 __yahoo<sup>1</sup>__ _n_ A person who is boorish, loud, disruptive, etc. Etiology: After Yahoos, a race of brutish creatures in Jonathan Swift’s _Gulliver’s Travels._  
 __yakety-yak__ _n_ Noisy talk.  
 __yakisoba__ _n_  
@@ -16670,6 +16676,7 @@ __zone out__ _phr v_ :three: To lose concentration or become inattentive. To fal
 __zonk out__ _v_  
 __zonk__ _n_ :two::hammer:  
 __zoom in__ _phr v_ To focus more closely.  
+__zoomorphic__ _adj_ /zoh-uh-MOR-fik/ Having the form of an animal. _Using cookie cutters, the children made zoomorphic treats to bring to the bake sale._  
 __zoonotic__ _adj_  
 __zoophobia__ _n_ /zo-uh-FOH-bee-uh/ __1__ An unusual fear of animals. Some examples of zoophobia are acarophobia (insects), ailurophobia (cats), arachnophobia (spiders), and cynophobia (dogs). __2__ A dislike of keeping animals in captivity.  
 __zoot__ _n_ :four: (zoot suit) A zoot suit is an old fashioned men’s suit of exaggerated proportions. You will definitely get attention if you wear a zoot suit to a school dance. _Zoot pants._  
