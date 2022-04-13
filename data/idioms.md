@@ -54,6 +54,7 @@ __a catch__ __1__ A spectacular find, as in dating or marriage. __2__ A golden d
 __a dime a dozen__ Ubiquitous; so abundant or common as to hold little or no value. _In Los Angeles, waiters trying to become famous actors are a dime a dozen._  
 __a drop in the bucket__ :two: A very small amount when compared to something else.  
 __a falling out__ A severe quarrel or disagreement, especially one that leads to a temporary or permanent end of a relationship.  
+__a far cry from (something)__  
 __a fig leaf__ Something used to hide an embarrassing or shameful problem. In the Bible, Adam and Eve used fig leaves to conceal their genitals after they became ashamed of their nakedness. _Gary used humor as a fig leaf to conceal the fact that he was struggling with depression._ _Seeking a “big leaf.”_  
 __a fine line__ A very narrow division between two deceptively similar things, one of which is worse than the other. _As a new parent, you learn that there’s a fine line between looking out for your child’s welfare and being overprotective._  
 __a fine state of affairs__ A situation that has gone wrong and is very problematic. The term is an instance of irony or sarcasm.  
@@ -293,6 +294,7 @@ __be on (the) air__ To be broadcasting live, as on television or radio. _OK ever
 __be on a rampage__ To be causing great destruction, disruption, or chaos; to be behaving very violently or aggressively. _Many ancient artifacts were destroyed while enemy forces were on a rampage in the holy city._  
 __be on edge__  
 __be on the lookout__ :two::hammer:  
+__be on the same page__  
 __be on track__ :two: To progress or develop as planned, scheduled, or expected.  
 __be put behind bars__ To be arrested and held in prison; to be sentenced to serve time in prison. _Sir, I’m afraid your son has been put behind bars on a charge of drunk driving._  
 __be put in (one’s) place__ To be humbled or have one’s dignity lowered (by someone); to be made aware that one is not as important, respected, influential, etc., as one thinks. _John was really put in his place by the teacher, who scolded him so harshly that he burst into tears._  
@@ -682,6 +684,7 @@ __fall from the sky__ _This trust doesn’t fall from the sky._
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
+__fall through the cracks__  
 __false friend__ A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fan service__  
@@ -701,6 +704,7 @@ __fender bender__ :three: A little car accident. _Stranded by a fender bender._
 __few and far between__ :two: Rare or seldom-seen. _Warm days have been few and far between this winter._ _Strangely enough, the Hugo awards for_ Galaxy _were relatively few and far between._  
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
+__fighting the good fight__  
 __fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
@@ -1125,6 +1129,7 @@ __hot tip__ A piece of advice or information that is timely and helpful, especia
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
 __housewarming (party)__ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
+__how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
 __how come__ Why? Why is it that (something is the case)? _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
 __how’s life (treating you)?__ How are you? How is everything in your life? (Said as an informal greeting.)  
 __however much__ No matter how much.  
@@ -1622,7 +1627,7 @@ __no dice__
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
-__no offense__ :two: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
+__no offense__ :three: What I have said or am about to say is not meant to offend or insult you, even though it could be interpreted that way. _No offense, but I think it may be time you cleaned up your kitchen._  
 __no one in his/her/their right mind would (do something)__ No one who is sane would consider doing something; someone would have to be crazy to do something. _Everyone knows Jake is a mess—no one in her right mind would date him._  
 __no pressure__ Said ironically to emphasize that what is being discussed carries a large amount of importance or makes one feel that one must try very hard to succeed. _A: “I don’t want you to feel intimidated, but this employee review will have a huge bearing on whether or not you’re kept on at the end of the year.” B: “Wow, no pressure or anything!”_  
 __no small thing__  
@@ -1733,6 +1738,7 @@ __once and for all__ :two: Finally; permanently.
 __once in a blue moom__ Very rarely.  
 __one after another__ Consecutively and in quick succession, with one person or thing rapidly following another in order (and usually indicating a large amount altogether). (Often formulated as “one (noun) after another.”) _The children walked silently, one after another, into the schoolhouse to begin their lesson._ _When I was cooped up in the house after my surgery, I started reading one book after another._  
 __one card shy of a (full) deck__ A pejorative phrase meaning not very intelligent or of questionable mental capacity. This expression can appear in many different forms and variations (e.g., “a few sandwiches short of a picnic,” “one brick short of a load,” etc.). _He says he’s going to start a business selling bees as pets—I think he may be one card shy of a full deck._ _The new manager is nice enough, but he’s one card shy of a deck, if you ask me._  
+__one for the (record) books__  
 __one hell of__ _You are one hell of a navy wife._  
 __one side__ Move aside! Get out of the way! (Short for “move to one side.”) _One side, little man! I’m in a rush, and you’re getting in my way!_  
 __one too many__ _We drank one too many._  
@@ -1951,6 +1957,7 @@ __scare the (living) daylights out of (one)__ To shock or frighten one very sudd
 __scare the shit out of someone__  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
+__scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy screamed her head off when I told her she couldn’t have an ice cream cone._  
 __scrounge up__ _To scrounge up the funds._  
 __second best__ :two: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
@@ -1965,6 +1972,7 @@ __sell (someone, something, or oneself) short__ :two: To undervalue someone, som
 __sell like hotcakes__ To be sold quickly and in large quantities. _This record has been selling like hotcakes—I can’t keep it in stock!_ _We are selling English classes like hotcakes._ :es: vender como churros  
 __sell out__ :two::hammer:  
 __sell someone a pup__ To swindle someone by selling them something worthless.  
+__send a shiver down (one’) spine__ To cause an intense feeling of excitement, exhilaration, nervousness, or fear in someone. _The way that sonata swells always sends a shiver down my spine._  
 __send off__  
 __set (someone or something) off__  
 __set (something) in cement__ To establish something firmly or permanently; to make something unalterable or not subject to change. _The healthcare law looks promising, but we’ll have to wait until Congress sets it in cement before we know exactly what it will do._  
@@ -2010,6 +2018,7 @@ __sidle up (to someone or something)__ To move close to someone or something cau
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
+__sit a spell__ To sit down, relax, and socialize for a while at one’s leisure. _This saloon is a great place to sit a spell and catch up with old friends._ _Well hey there, honey! Now you come in here and sit a spell, we haven’t seen you in a dog’s age!_  
 __sit back__  
 __sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
 __sit in for (one)__ To act as a temporary substitute for one, especially in a meeting or discussion-based activity. _It was decided that I would sit in for the boss at the board meeting._ _I’m sitting in for Ira Glass._ _This is Alan James sitting in for Suzy Williams on the mid-morning show._  
@@ -2040,6 +2049,7 @@ __snug as a bug__
 __so be it__ I accept that this is what will happen or be the case. _If you really want to throw your career away because of some idealistic principle, so be it._  
 __so much so that__ To such an extent or large degree that. _The interest rates on the loan were exorbitantly high—so much so that I had to start selling things around the house to meet my monthly payments._  
 __so much so__ :three::hammer: _So much so that working with animals has become one of his passions._  
+__so-and-so__ :dart: __1__ Some unnamed or unknown person. _They always have some important so-and-so up on the stage giving a lecture no one cares about._ __2__ A euphemistic address for a despised or despicable person. _The rotten so-and-so stole the company’s pension fund and ran off to the Bahamas with it!_  
 __soak up__  
 __soaked to the bone__ Extremely or completely wet, especially through one’s clothing. _I can’t believe you pushed me into the pool! Now I have to walk home soaked to the bone!_  
 __something is rotten in the state of Denmark__  
@@ -2194,7 +2204,9 @@ __then again__ :nine::m: From another standpoint; on the other hand; on second t
 __there is (a) method to (one’s) madness__ There is a specific, rational purpose in what one is doing or planning, even though it may seem crazy or absurd to another person. _I know you don’t understand my motivation for this decision, but after the dust settles, you’ll see that there is a method to my madness._  
 __there is aomething about xyz__ :two::hammer:  
 __there is no way around it/that__ :two::dart::hammer: :es: no hay más remedio, no queda otro remedio  
+__there you go__  
 __there you have it__ Used to highlight or emphasize the ease or simplicity of something that has just been explained or demonstrated. _Do you understand? You just have to insert the installation disc into your computer, and there you have it! The program installs itself in a matter of minutes._  
+__there’s no other way around (it)__ There is no solution to avoid a particular outcome. _If you want to get good at English, you have to memorize a lot of idioms. There’s no way around it._  
 __there’s no such thing as a free lunch__ _prov_ :dart: (there is no free lunch, there ain’t no such thing as a free lunch) Nothing is ever really given away for free, so be wary of hidden charges, motives, or agendas. _Of course, once you’re signed up to the free program, you have to pay for all sorts of extra services to make it even worth using. There’s no such thing as a free lunch, after all._  
 __thick and thin__ :four: Good and bad times. _Supporters ready to back them through thick and thin._ _Marriages that last through thick and thin._  
 __thick skin__ :two::dart::hammer:  
@@ -2242,6 +2254,7 @@ __to that end__ :four::hammer: (to that end,)
 __to this day__ :five::hammer: _I don’t know if they still do it to this day._  
 __to this end__ _To this end he wanted to use the Pope as intermediary._  
 __toe the line__ :two: To adhere to the rules of something. _I expect you to toe the line at all times if you want to remain at this firm, Jonathan._  
+__Tom Swifty__  
 __top off__ _L.A. is topping off pools, watering lawns, washing cars._  
 __top the bill__ Be the most important item or performer in a show, play, etc: _Topping the bill tonight will be Robbie Williams._ _I’ll top the bill, I’ll overkill._  
 __toss (something)__ __1__ To dispose of something as trash. _Let’s toss these leftovers—they’ve been in here for days._ __2__ To search something or some place, especially in a rough, haphazard, or disorderly manner. _The cops came by and tossed our office in their search for incriminating evidence._  
@@ -2296,6 +2309,7 @@ __walk away__ _Knowing when to walk away is an essential life skill._
 __walk on air__ To be in a state of extreme happiness. _I’ve been walking on air ever since I got engaged!_  
 __walk on eggs__ :two: (walk on eggshells) To act or proceed with great care, caution, and consideration so as not to upset someone or trigger some imminent disaster. _The littlest thing tends to anger my mother, so I feel like I have to walk on eggs whenever I’m at her house._  
 __walk on water__ :two: To perform godlike or superhuman feats. The phrase refers to the Gospel story in which Jesus walks on water.  
+__walking distance__  
 __walls have ears__ Someone might be eavesdropping. _Let’s talk in my office—out here, the walls have ears._  
 __wash (someone’s) mouth out (with soap)__ To punish someone for using rude, vulgar, or obscene language by cleaning their mouth with soap (usually used merely as a threat).  
 __wash over (someone or something)__  
