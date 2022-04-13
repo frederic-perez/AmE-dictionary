@@ -1,18 +1,3 @@
-__misfire__ _v intr_ /ˌmɪsˈfaɪə/  
-__flywheel__ _n_ /ˈflaɪˌhwil/ A heavy wheel in a machine or engine that keeps it operating at a steady speed.  
-__electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
-__champion__ _n_ :mega:  
-__doxing__  
-__pseudo__ _adj_ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
-__hamburger__ _n_ :mega:  
-__nosy__  
-__power storm__  
-__non sequitur__ _n_  
-__foster__ _v_  
-__differ__ _v_ :mega:  
-__fallacy__ _n_  
-__dissonance__ _n_ _Cognitive dissonance._  
-__ex__ _n_  
 __sobering__ _adj_ :two::hammer:  
 __realtor__ _n_  
 __retrograde<sup>1</sup>__ _adj_  

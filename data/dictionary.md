@@ -2377,6 +2377,7 @@ __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and d
 __chamomille__  
 __champ__ _n informal_ :two: Champion.  
 __champagne flutes__ _n_ :camera:  
+__champion__ _n_ :mega:  
 __champurrado__ _n_  
 __chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
 __Chancellor__  
@@ -3915,7 +3916,7 @@ __die-hard__ _adj, n_ Person who resists change.
 __die-off__ _n_  
 __diecast__  
 __diehard__ _adj_ :two::hammer: _A diehard fan._  
-__differ__ _v_ :two::mega::hammer:  
+__differ__ _v_ :three::mega::hammer:  
 __different animal__ _n_ Something different.  
 __diffidence__ _n_ Timidity or shyness. _He spoke with a certain diffidence._  
 __diffident__ _adj_ :three::dart: Lacking or marked by a lack of self-confidence; shy and timid. _Syn_ unsure _He was too diffident to express his opinion._ _Because she was only a first-year student, she was diffident when offering a comment on the professor’s lecture._  
@@ -4101,7 +4102,7 @@ __dissipation__ _n_ :two::hammer:
 __dissociate__ _v_ :pencil2:  
 __dissolute__ _adj_ :three::hammer: _An idle and dissolute life._ _She was said to be of dissolute morals._  
 __dissolution__  
-__dissonance__  
+__dissonance__ _n_ :two::hammer: _Cognitive dissonance._  
 __dissuade__ _v_ :pencil2::five::hammer: (dissuaded)  
 __distasteful__ _adj_  
 __distemper__ _n_ :four::hammer: _An outbreak of canine distemper has killed a 12-year-old tiger._  
@@ -4619,6 +4620,7 @@ __eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of super
 __Election Day__  
 __elective__ _n_ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
+__electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
 __electrolysis__ _n_  
 __electronics__ _n pl_ (plurale tantum)  
 __elegy__ _n_ :four: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
@@ -4906,6 +4908,7 @@ __ewer__ _n_ :two::hammer:
 __ewes__ _n_  
 __ex cathedra__ _adj, adv_ With the authority derived from one’s office or position: _the pope speaking ex cathedra; ex cathedra determinations._  
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
+__ex__ _n_  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
 __exact__ _v_ :nine: (exacted, exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._  
 __exaction__ _n_  
@@ -5065,7 +5068,7 @@ __fall out of love__
 __fall over__ _v_  
 __fall__ _n_ [:scroll: The name _fall_ is thought to originate in the phrase _the fall of the leaf_, in reference to the time of year when deciduous trees shed their leaves. The name of its inverse season, _spring_, is thought to come from the phrase _spring of the leaf_—the time when everything is blossoming. The multiple senses of the word _fall_ come in handy for the helpful reminder “Spring Forward, Fall Back,” which serves as a mnemonic about how to set our clocks for daylight-saving time.]  
 __fallacious__ _adj_ Intended to deceive. _Syn_ deceitful, fraudulent _In his closing argument, the prosecutor entreated the jurors not to fall for the defendant’s fallacious testimony._  
-__fallacy__ _n_ :five::hammer: _The lump of coding fallacy._  
+__fallacy__ _n_ :six::hammer: _The lump of coding fallacy._  
 __fallback<sup>1</sup>__ _n_  
 __fallback<sup>2</sup>__ _adj_ (fall-back) Of or designating something kept in reserve or as an alternative. _The fallback option._  
 __fallible__ _adj_ :four::mega::hammer: _Managers are as fallible as the rest of us._  
@@ -5547,6 +5550,7 @@ __flyaway__ _adj_ __2__ Guided by whim and fancy. _Syn_ flighty, head-in-the-clo
 __flyboard__  
 __flyer__ _n_ :three::hammer: [:scroll: For a while in the 19th century, flier and flyer were neck-in-neck in terms of popularity, but these days flyer is by far the more common spelling.] _He caught such a flyer leaving the gate I had to take advantage of it._ _He took a flyer occasionally._  
 __flying colors__ _adj_ :three: Flags unfurled and waving in the air.  
+__flywheel__ _n_ /ˈflaɪˌhwil/ A heavy wheel in a machine or engine that keeps it operating at a steady speed.  
 __fo’c’sle__ _n_ :two::pencil2: Living quarters consisting of a superstructure in the bow of a merchant ship where the crew is housed. _Syn_ forecastle  
 __fob__ _n_ :two::hammer:  
 __focal fibrosis__  
@@ -5677,6 +5681,7 @@ __fortitudinous__ _adj_ Having or showing courage.
 __fortnight__  
 __fortune telling__ _n_  
 __foster care__ _n_ :three::hammer:  
+__foster__ _v_  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul__ _adj_ :two::hammer: _Foul language._ __1a__ Offensive to the senses; revolting. __b__ Having a bad odor or taste: _foul breath; food that tasted foul._ _Everything that issued from the body smelled foul._ __c__ Rotten or putrid: _foul meat._  
@@ -6560,6 +6565,7 @@ __halve__ _v_ :two::hammer:
 __halyards__ _n_  
 __ham hocks__ _n_ :two::hammer:  
 __ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
+__hamburger__ _n_ :mega:  
 __hamdbill__ _n_  
 __hamlet__ _n_  
 __hammam__ _n_  
@@ -9108,7 +9114,7 @@ __miserable__ _adj_ _We are miserable._
 __miserably__ _adv_ _Failed miserably._  
 __misericord__ _n_ :astonished: __1__ Compassion, pity, or mercy. __2__ Something to provide support to a standing person. __3__ A place where rules are relaxed. __4__ A dagger used to deliver the death stroke to a seriously wounded person.  
 __miserly__ _adj_ /ˈmaɪzə(r)li/ Unwilling to spend any money.  
-__misfire__ _v_ (misfiring) :two::hammer: _One misfire in the 2000s._  
+__misfire__ _v intr_ :three::hammer: /ˌmɪsˈfaɪə/ (misfiring) _One misfire in the 2000s._  
 __misfit__ _n_ :three::hammer: (misfits)  
 __misfortune__ _n_  
 __misgiving__ _n_ :seven: (misgivings) _(Often plural)_ Uneasiness about the fitness of an action. A feeling of uncertainty, apprehension, or doubt. _Syn_ unease, worry, anxiety, suspicion, reservation, hesitation, distrust, qualm, trepidation, scruple, dubiety _He granted liberty on Monday with misgivings._  
@@ -9592,7 +9598,7 @@ __nomadic__
 __nomenclature__ _n_ /NOH-mun-klay-cher/ _Starting a new job or entering a new field of study means becoming familiar with the nomenclature._  
 __nominalization__ _n_ The conversion of a word or phrase into a noun.  
 __nomophobia__ _n_ (No Mobile Phobia) The anxiety some people feel when they cannot get a signal from a cellphone tower, run out of battery or forget to take their phone.  
-__non sequitur__ _n_ :seven: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
+__non sequitur__ _n_ :eight: /NAHN-SEK-wuh-ter/ __1__ An inference or conclusion that does not follow from the premises or evidence. __2__ A statement that does not follow logically from what preceded it. A statement that either does not logically follow from or is not clearly related to what was previously said. _The host’s non sequitur about the award recipient’s unconventional dress did not go unnoticed by her fans on social media._ :es: incongruencia  
 __non-committal__  
 __non-denominational__ _adj_ Alternative spelling of nondenominational. _Non-denominational services._  
 __non-existent__ _adj_  
@@ -9638,7 +9644,7 @@ __nosological__ _adj_
 __nosology__ _n_ The branch of medicine concerned with the classification of diseases.  
 __nostalgia__ _n_ :two::hammer:  
 __nostrum__ _n_ :four:astonished: __1__ A medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness. Hypothetical remedy for all ills or diseases. _Syn_ cure-all, panacea, catholicon _Stay healthy, for science is no closer to a nostrum than alchemy was._ _It is put to work at county fairs, promoting a quack nostrum for pain relief._ __2__ A usually questionable remedy or scheme. _Syn_ panacea  
-__nosy__ _adj_ _slang_ :four: Inappropriately curious. _He’s nosy as hell._  
+__nosy__ _adj_ _slang_ :five: Inappropriately curious. _He’s nosy as hell._  
 __not even close__ _phr_ :dart:  
 __notch<sup>1</sup>__ _n_ __1a__ A V-shaped cut. __b__ Such a cut used for keeping a record. __2__ A narrow pass between mountains. __3__ _informal_ A level or degree: _a notch or two higher in quality._  
 __notch<sup>2</sup>__ _v_ :nine: (notched) __1__ To cut a notch in. __2__ To record by or as if by making notches: _notched the score on a stick._ __3__ _informal_ To achieve; score: _notched 30 wins in a single season._  
@@ -11026,6 +11032,7 @@ __powder blue__ _n_ :camera: A moderate to pale blue or purplish blue.
 __powder keg__  
 __power bar__  
 __power play__  
+__power storm__  
 __power strip__ _n_ :two: A portable device consisting of a plug, wire, and one or more rows of electrical outlets, usually activated by a power switch.  
 __power tool__ _n_  
 __power trip__ _n slang_ An action undertaken chiefly for the gratification associated with the exercise of power over another or others: _“He was giving orders, and people were taking them. He was on a power trip”._ (Nelson DeMille)  
@@ -11303,7 +11310,7 @@ __pry<sup>2</sup>__ _v tr_ :nine::m: __1__ To raise, move, or force open with a 
 __psalm<sup>1</sup>__ _n_ :mute:[psa~~l~~m, ~~p~~salm]  
 __psalm<sup>2</sup>__ _v_ :mute:[psa~~l~~m, ~~p~~salm]  
 __pseud__ _n_ _informal_ A false, artificial, or pretentious person.  
-__pseudo__ _adj_ :mute:[~~p~~seudo] /ˈsu doʊ/  
+__pseudo__ _adj_ :two::mute:[~~p~~seudo] /ˈsu doʊ/ Made-up; false, pretended, or not genuine. Almost always hyphenated before the word it modifies. _All he writes is this pretentious, pseudo-intellectual junk._ _Pseudo-listening._  
 __pseudonym__ _n_ :mute:[~~p~~seudonym] /so͞od′n-ĭm′/  
 __psyche__ _n_ :two::pencil2::mega::mute:[~~p~~syche]:hammer:  
 __psychiatrist__ _n_ :mute:[~~p~~sychiatrist]  
