@@ -1,18 +1,3 @@
-__sobering__ _adj_ :two::hammer:  
-__realtor__ _n_  
-__retrograde<sup>1</sup>__ _adj_  
-__retrograde<sup>2</sup>__ _v_  
-__largely__ _adv_ To a large extent; mostly.  
-__-wise__ _suffix_  
-__intervene__ _v_ :two::hammer:  
-__distrust<sup>1</sup>__ _n_  
-__distrust<sup>2</sup>__ _v_  
-__defund__ _v_ :three: To withdraw funding from.  
-__triple-check__ _v_  
-__rave__ _v_  
-__platitude__ _n_  
-__stigmatize__ _v_  
-__lunch room__ _n_  
 __fond__ _adj_ _Fond memories._  
 __carton__ _n_ _Cartons of whole/strawberry/chocolate milk._  
 __predate__ _v_ _Those commandments predate the Bible._  

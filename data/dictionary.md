@@ -10,6 +10,7 @@ __-plasty__ _suffix_ (Surgery) Molding or shaping of a defect to restore form an
 __-prone__ _adj_ _combining form_ Liable or disposed to suffer: _accident-prone._ _The delay-prone airports of New York, Newark and philadelphia._  
 __-rrhaphy__ _suffix_ (Surgery) Surgical suturing (the surgeon sewed something up). From Greek _rhaphē_, suture.  
 __-tomy__ _suffix_ (Surgery) Indicating a surgical cutting of a specified part or tissue (the surgeon cut something): _gastrotomy_, _lobotomy_.  
+__-wise__ _suffix_  
 __, so why (even) bother?__  
 __, to say the least.__  
 __’tis__ _contraction_ Contraction of _it is_.  
@@ -3739,7 +3740,7 @@ __defry__
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one’s movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
 __deftly__ _adv_ _Helen was deftly applying a poultice to his arm._  
 __deftness__ _n_  
-__defund__ _v_ To stop the flow of funds to.  
+__defund__ _v_ :four: To withdraw funding from. To stop the flow of funds to.  
 __defuse__ _v_ :seven::hammer: (defuses, defusing)  
 __deglutition__ _n_ The act or process of swallowing.  
 __dehydration__  
@@ -4111,6 +4112,8 @@ __distinctly__ _adv_ :two::hammer:
 __distraught__ _adj_ :two: Deeply agitated, as from worry or grief.  
 __distress__ _n_  
 __distressed__ _adj_ :two::hammer:  
+__distrust<sup>1</sup>__ _n_  
+__distrust<sup>2</sup>__ _v_  
 __disused__  
 __ditch__ _v_ _She ditched her glass and made her way through the crowded restaurant._  
 __ditches__ _n_ _The murderer dumped the bodies in the ditches around Peterborough._  
@@ -7603,7 +7606,7 @@ __interpunct__ _n_
 __interrelate__ _v_ :two::astonished::hammer:  
 __intersperse__ _v_ :nine::m: /in-ter-SPERSS/ (interspersed) __1__ To place or insert something at intervals in or among other things. To distribute among other things at intervals: _interspersed red and blue tiles on the walls; intersperse praise with constructive criticism._ _The author has interspersed the guidebook with pictures of the different animals tourists might encounter on the safari._ __2__ To supply or diversify with things distributed at intervals: _interspersed lamp fixtures on the large ceiling; a newspaper section that was interspersed with advertisements._  
 __intertwine__ _v_ :three::hammer: (intertwined)  
-__intervene__ _v_ :two::hammer:  
+__intervene__ _v_ :four::hammer:  
 __interviewees__ _n_ :pencil2:  
 __intimate__ _v_ To indicate or make known indirectly. _Syn_ hint, imply, suggest _The young gentleman smiled, as if to intimate that the latter fragments of discourse were playfully ironical._  
 __intimation__ _n_ Making known indirectly.  
@@ -8143,7 +8146,7 @@ __Laputan__ _adj_ Absurdly fanciful or impractical.
 __larcenous__ _adj_ __1__ Of, relating to, or involving larceny: a larcenous scheme; with larcenous intent. __2__ Guilty of or given to larceny.  
 __larceny__ _n_ :eight: Theft of personal property. :es: hurto  
 __larder__ _n_ :four::hammer:  
-__largely__ _adv_ :two::hammer:  
+__largely__ _adv_ :three: To a large extent; mostly.  
 __larger-than-life__ _fig_ :five: More interesting and more exciting than an ordinary person or thing. _He may not live like a rock star, but in the eyes of his fans he’s larger than life. You have to be bigger than life to make it in Times Square, and this restaurant wasn’t._  
 __largesse__ _n_ :seven::pencil2::hammer: /lahr-ZHESS/ (largess) _The families who lost their houses in the fire sincerely appreciated the largesse shown by the people from their community._  
 __lark__ _n_ :four::hammer: _Stop this jealousy lark!_  
@@ -8602,6 +8605,7 @@ __lumpy__ _adj_ :two::hammer: _Lumpy headlights._
 __lunacy__ _n_  
 __lunch lady__ _n_ A term for a woman who cooks and serves food in a school cafeteria. The role is also sometimes known as cafeteria lady. Sometimes, a lunch lady also patrols the school playgrounds during lunch breaks to help maintain order. _She worked as a lunch lady._  
 __lunch meats__ _n pl_ (cold cuts, luncheon meats, cooked meats, sliced meats, cold meats, deli meats) Precooked or cured meats that are sliced and served cold or hot. They are typically served in sandwiches or on a tray. They can be purchased pre-sliced, usually in vacuum packs, or they can be sliced to order. :es: embutidos  
+__lunch room__ _n_  
 __luncheon__ _n_ :seven: Lunch, especially a formal lunch for a lot of people.  
 __lunchpail__  
 __lunchtime__  
@@ -10779,7 +10783,7 @@ __plateau<sup>1</sup>__ _n_
 __plateau<sup>2</sup>__ _v_ :two: (plateaued, plateauing) To reach a stable level; level off.  
 __plating__ _n_ _It’s your armor plating._  
 __platinum__ _n_ :mega: /ˈplætənəm/  
-__platitude__ _n_ :four::hammer: (platitudes)  
+__platitude__ _n_ :five::hammer: (platitudes)  
 __platoon__ _v_ :two::hammer:  
 __platter__ _n_ A large shallow usually oval dish or plate, used for serving food.  
 __platypus__ _n_ :two::hammer: _Internet platypus pranks._ :es: ornitorrinco  
@@ -11690,7 +11694,7 @@ __raunchy__ _adj informal_ :five::hammer: _A raunchy comedy._
 __ravaged__ _v_ :four::hammer:  
 __ravages__ _n_ _pl_ :two: __the ravages of something__ The destructive effects of something. _The potential ravages of a man-manipulated virus at a research center._  
 __rave<sup>1</sup>__ _n_ :four: __1__ _informal_ An extremely enthusiastic recommendation or appraisal of someone or something. _The film has won raves from American reviewers._ _Syn_ enthusiastic praise, lavish praise __2__ _informal_ A lively party or gathering involving dancing and drinking. _Their annual fancy-dress rave._  
-__rave<sup>2</sup>__ _v_ :eight: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
+__rave<sup>2</sup>__ _v_ :nine: (raved) If you rave about a book you just read, you’re telling people you think it’s great, or you’re giving it a rave review. Rave has two levels, one that implies you’re very excited about something and the other that you are too excited, so you seem crazy. While raving about a movie means to talk it up, being a raving lunatic means you are engaging in a lot of crazy talk. When you rave about a performance, you talk enthusiastically about it. Take that enthusiastic talking to the next level, and you might be called raving in the crazy sense. _Readers raved about his stories._  
 __rave<sup>3</sup>__ _adj_ _informal_ :two: Relating to or being an extravagantly enthusiastic opinion or review. _She received rave reviews from that film._  
 __raven-haired__  
 __ravenous__ _adj_ :five: Extremely hungry.  
@@ -11727,7 +11731,7 @@ __readying__ _v_ :astonished:
 __reaffirming__  
 __realist__ _n_ :two::hammer: _LeBron James is a realist; at times, a cynic, but not a skeptic or a pessimist._  
 __reality check__ _n_ :two: An occasion or opportunity to consider a matter realistically or honestly.  
-__realtor__ _n_ :three::hammer:  
+__realtor__ _n_ :four::hammer:  
 __ream<sup>1</sup>__ _v_ :five::hammer: (reamed)  
 __ream<sup>2</sup>__ _n_ :pencil2::four::hammer: (reams) _He watched reams on tape._  
 __reamer__ _n_  
@@ -12021,6 +12025,8 @@ __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.
 __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retrocede__ _v_  
+__retrograde<sup>1</sup>__ _adj_  
+__retrograde<sup>2</sup>__ _v_  
 __retronym__ _n_  
 __retroscopic__  
 __returnee__  
@@ -13534,7 +13540,7 @@ __soap-spuds__ _n_
 __soapbox<sup>1</sup>__ _n_  
 __soapbox<sup>2</sup>__ _v informal_ :two::hammer:  
 __soar__ _v_  
-__sobering__  
+__sobering__ _adj_ :three::hammer:  
 __sobersides__ _n_ :astonished: A humorless or habitually serious person.  
 __sobriquet__ _n_ :four: A nickname.  
 __SoCal__ _n_ _informal_ _US_ Southern California.  
@@ -14071,7 +14077,7 @@ __stiffness__ _n_ _Stiffness in or of the neck_ :es: tortícolis _The stiffness 
 __stifle__ _v_ :nine::m::dart: (stifles, stifled, stifling) Suffocate. _It stifles productive enterprise._ _Stifling heat._  
 __stifling__ _adj_ :two: Suffocating; oppressively close. _Stifling heat._ _The stifling atmosphere of the cavern._  
 __stigma__  
-__stigmatize__ _v_  
+__stigmatize__ _v_ :two::hammer:  
 __stile__ _n_  
 __still life__ _n_ _Still life painting._  
 __stillbirth__ _n_ :three::hammer:  
@@ -15300,6 +15306,7 @@ __trip wire__ _n_ _You hit a trip wire._
 __trip-hammer<sup>1</sup>__ _n_  
 __trip-hammer<sup>2</sup>__ _adj_ Suggesting a trip-hammer in loud pounding or persistent action. _No trip-hammer questions._  
 __triple__  
+__triple-check__ _v_  
 __triplex__ _adj_ _A triplex penthouse._  
 __tripping__ _adj_ __1__ Moving quickly and lightly; nimble. __2__ Speaking or flowing easily; fluent.  
 __triptych__  
