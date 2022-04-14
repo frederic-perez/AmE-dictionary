@@ -1,18 +1,3 @@
-__what if scenario__  
-__isn’t that funny?__  
-__as good as it gets__  
-__figure it out__  
-__stay strong__  
-__get under their skin__  
-__get word__  
-__nothing more, nothing less__  
-__muscle memory__  
-__sleep like a baby__ To experience a very deep and restful sleep; to sleep soundly. _I can’t believe you finished a triathlon! You’re going to sleep like a baby tonight._  
-__not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
-__silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
-__open letter__ A letter addressed to a specific, usually prominent person and published for anyone to read. It is often done as an act of protest. _If you’re so unhappy with our mayor, why don’t you write an open letter?_  
-__hit the jackpot__  
-__clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __game changer__ (game changer)  
 __bite the dust__  
 __right on__  

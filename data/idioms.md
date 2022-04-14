@@ -170,7 +170,7 @@ __as blind as a bat__ Unable to see well.
 __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally easy to do or accomplish. _Like shooting fish in a barrel._  
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
-__as good as it gets__ :three: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._  
+__as good as it gets__ :four: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._  
 __as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -490,6 +490,7 @@ __clean (one’s) plate (up)__ To eat all of the food that is on one’s plate.
 __clean house__ To eliminate or discard what is undesirable: _The scandal forced the company to clean house._  
 __clean one’s plate__ Eat up all the food put on one’s plate.  
 __click with (one)__ __1__ To have a positive connection or friendly rapport with one, often quickly. __2__ To quickly resonate with one or a group. __3__ To make sense to one; to be able to be understood by one. _The tutor’s explanation of sine and cosine really clicked with me—I think I finally understand it now._  
+__clickbait__ Online articles (especially on social media sites) that use provocative or intriguing headlines (often in combination with images) to drive traffic to the source. _I wouldn’t put too much faith in that article about “the one food no one should ever eat”—it’s probably just clickbait._  
 __close call__  
 __close, but no cigar__ Close, but not enough to win or succeed.  
 __cloud of suspicion__ A general sentiment of suspicion of wrongdoing or illegality.  
@@ -705,6 +706,7 @@ __few and far between__ :two: Rare or seldom-seen. _Warm days have been few and 
 __fifth column__ :astonished: A clandestine group of people who work subversively within a group, organization, or country in order to betray it to an allied outside force. _In the US during the Cold War, there was constant fear and suspicion of people supposedly working in a fifth column to spread the influence of communism from within._ _A fifth column preparing to rise up and join the security forces._  
 __fight or flight__ Two possible physiological reactions to highly stressful or threatening situations: to defend oneself or to run away.  
 __fighting the good fight__  
+__figure it out__  
 __fill in__ :two: __4__ To inform one of something. In this usage, a noun or pronoun can be used between “fill” and “in.” _Fill me in—what happened at the party last night?_ _The weekly newsletter is intended to fill in everyone about company policy, but no one reads it._ _Thank you for filling us in._  
 __fill up__ __4__ To put fuel in a vehicle’s gas tank. _Let me just stop and fill up before we get on the highway._  
 __filled to the brim__ __1__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is filled to the brim!_ __2__ Intensely experiencing a particular feeling or emotion. _She is filled to the brim with nervous energy now that her performance is just a week away._  
@@ -818,9 +820,10 @@ __get this show on the road__ To promptly begin or get something started.
 __get through to (someone or something)__ To make someone understand what you are trying to say.  
 __get to know__ To start to be familiar with someone or something. If you get to know someone, you find out what they are like by spending time with them. _It took a while to get to know the city properly._ _The new neighbors were getting to know each other._  
 __get to the point__ To talk directly about the most important part or topic.  
-__get under someone’s skin__  
+__get under someone’s skin__ :two::hammer:  
 __get wind of something__ :two::hammer:  
 __get wise (to someone or something)__ :two: To find out, become aware of, more fully understand, and/or no longer be deceived (by something or someone). To become fully aware or cognizant of someone or something, especially if he, she, or it is suspicious, illegal, or malicious in nature or intention. _I’ve been taking small supplies from the office for a long time, but I think the boss is getting wise._  
+__get word__  
 __get worked up about (something)__ To enter a state of mental or emotional agitation because of something. _You’re getting worked up about nothing—I’m sure the doctor will tell you it’s nothing._  
 __get your ducks in a row__ :two: To be well organized. _And then on top of it, I have to get my ducks in a row.._  
 __get your foot in the door__  
@@ -1082,7 +1085,7 @@ __hit or miss__ :two::hammer:
 __hit the big time__ To become very famous or successful.  
 __hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the ground running__  
-__hit the jackpot__  
+__hit the jackpot__ :two::hammer:  
 __hit the road__ To leave a place or begin a journey.  
 __hit the rocks__ To encounter an especially difficult, troubled, or low point, as in a relationship or some pursuit.  
 __hit the sack__  
@@ -1256,6 +1259,7 @@ __inner circle__ A small, exclusive, and intimate group of like-minded people sh
 __inside and out__ Thoroughly; down to the last detail.  
 __insofar as__ To such an extent that; to the degree that.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
+__isn’t that funny?__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
@@ -1604,6 +1608,7 @@ __move through the gears__ To steadily increase one’s momentum, as of speed, i
 __mover and shaker__ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
+__muscle memory__  
 __mush (something) up__ To mash or crush something into a thick, soft pulp. _Make sure you mush up that banana before you give it to Katie—she’s still having trouble chewing solid food._  
 __mushhead__ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
@@ -1644,6 +1649,7 @@ __not any hard feelings__ No ill will; no resentment or anger. _I’m sorry that
 __not as black as you are painted__ _informal_ If someone is not as black as they are painted, they are not as bad as people generally consider them to be. _“I’m really not as black as I’m painted,” he said pointedly._  
 __not be lost on (someone)__ To have a significant or noticeable impact or effect on someone; to be valued, appreciated, or understood by someone. _I hope all our efforts to help your career have not been lost on you, John._  
 __not by any means__ Not in any way; not at all; absolutely not.  
+__not get a wink of sleep__ To not get any sleep. _Our newborn son is rather colicky, so my wife and I haven’t gotten a wink of sleep the last few nights._  
 __not get anywhere__ To make no progress at all; to be stuck or at an impasse. _Look, we’ve been discussing this issue all day and we haven’t gotten anywhere. Let’s take a break and start again tomorrow._  
 __not have a cent to your name__ If someone doesn’t have a penny to their name or doesn’t have a cent to their name, they are poor. _He never had a penny to his name while he was with me._  
 __not have a hope in hell (of doing something)__ To not have any chance at all of doing or achieving something.  
@@ -1659,6 +1665,7 @@ __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
+__nothing more, nothing less__  
 __now (someone) has gone and done it__ Someone has just done something very grave, foolish, and/or irreparable. _Now you’ve gone and done it! My mother’s gonna tan our hides for breaking that!_  
 __now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said.  
 __nut out__ __1__ _slang_ To discover, through careful consideration, deliberation, or investigation, the solution to something. In this usage, “nut” is slang for one’s head or brain. A noun or pronoun can be used between “nut” and “out.” _Each of us has hit the same stumbling block in the assignment, so we’re going to get together this weekend and nut it out together._ __2__ _slang_ To begin acting in a crazy, erratic, or deranged manner, especially due to extreme anger. In this usage, “nut” is a derogatory slang term meaning “a crazy person.” A noun or pronoun can be used between “nut” and “out.” _Tom totally nutted out after he found out his wife had been cheating on him._  
@@ -1752,6 +1759,7 @@ __oodles__ _slang_ A lot; a large amount or volume. _I’ll have oodles of time 
 __open (one’s) big mouth__ To say something that is meant to be a secret; to say something in an indiscreet, noisy, or boorish manner. _Why did you have to open your big mouth about my crush on Tommy? Why couldn’t you just keep it between us?_  
 __open (one’s) eyes__ __1__ To see or realize the truth about something. __2__ To cause one to see or realize the truth about something.  
 __open a can of worms__ :two: To create a situation that will cause a lot of problems.  
+__open letter__ A letter addressed to a specific, usually prominent person and published for anyone to read. It is often done as an act of protest. _If you’re so unhappy with our mayor, why don’t you write an open letter?_  
 __open sesame__  
 __other than (something)__ :three::hammer: _Other than that, blah blah blah._  
 __otherwise known as__ Used to indicate a different name that people know or that a person uses. _France’s King Louis XIV, otherwise known as the Sun King._  
@@ -2018,6 +2026,7 @@ __sidle up (to someone or something)__ To move close to someone or something cau
 __sign up__ __1__ To enlist or enroll oneself or someone in something. A noun or pronoun can be used between “sign” and “up.” _My mother signed me up for piano lessons on the weekend._ __2__ To subscribe oneself or someone to something. A noun or pronoun can be used between “sign” and “up.” _If you sign up a friend for the service, you’ll get $20 credit to your account._  
 __silver lining__ The potential for something positive or beneficial to result from a negative situation. Often used in the phrase “every cloud has a silver lining.” (A silver lining on a cloud is an indication that the sun is behind it.) _There could be a silver lining to getting laid off—you might find a job you actually like!_  
 __silver spoon__ :two: A metaphor for ample wealth that has been passed down through inheritance. (Used primarily in the phrase “born with a silver spoon in (one’s) mouth.”) _We may both be wealthy now, but I never had a silver spoon growing up. I had nothing when I was young, and all of my fortune is down to my own hard work._  
+__silver surfer__ An elderly person who is a proficient user of the Internet. _My grandmother has become a real silver surfer since we got her new computer hooked up to the Internet. She even keeps in touch with her friends on social media!_  
 __sit a spell__ To sit down, relax, and socialize for a while at one’s leisure. _This saloon is a great place to sit a spell and catch up with old friends._ _Well hey there, honey! Now you come in here and sit a spell, we haven’t seen you in a dog’s age!_  
 __sit back__  
 __sit for (some)/(one’s) exam__ To take an examination in a formal setting or situation. To take an exam to qualify for a license, such as a bar exam. _It was only when I sat for my final exam that I realized I had left my calculator at home._  
@@ -2033,6 +2042,7 @@ __skip a beat__ _His heart skipped a beat._
 __slackjawed__ _He had gone slackjawed when Jack topd him the news._  
 __slap (one) around__ To physically assault someone, especially as a means of control or intimidation. _Our dad wasn’t afraid to slap us around a bit when we got out of line as kids._  
 __slap (one) on the wrist__ To issue one with a very mild, inconsequential punishment or warning.  
+__sleep like a baby__ To experience a very deep and restful sleep; to sleep soundly. _I can’t believe you finished a triathlon! You’re going to sleep like a baby tonight._  
 __sleep the sleep of the dead__  
 __slice and dice__ :two: To divide something into many small parts especially to use the result for one’s own purposes.  
 __slightly built__ Thin and not very strong or muscular. _The slightly built, 27-year-old man._  
@@ -2083,6 +2093,7 @@ __stand to reason__ :two: To be sensible or understandable. _If her friends don�
 __stand up__ :dart: __3__ To fail to meet someone for a date, meeting, or appointment, especially without telling them. In this usage, a noun or pronoun can be used between “stand” and “up.” _I’m sorry I stood you up, but I had a family emergency last night._ _Tom is really bad about standing up his dates._  
 __starve out__ To deprive someone or something of food in order to force them to submit or surrender. A noun or pronoun can be used between “starve” and “out.” _The empire’s army began starving the rebel city out with a siege that lasted nearly eleven months._ _The Black Prince could be starved out if the French chose to surround and invest him._  
 __stay put__ :six: To not move or leave; to remain in same location or position. To remain in a fixed or established position. _Syn_ stay, stick, stay around _Gilbert, Fultz among top playets who stayed put._ _I want you kids to stay put while I go into the store, OK?_ _And you stayed put for all these years? I would have thought you’d find a different career by now._  
+__stay strong__  
 __staying power__ _This exercise has staying power._  
 __steely-eyed missile man__ An astronaut or engineer who quickly devises an ingenious solution to a tough problem while under extreme pressure.  
 __step back__  
@@ -2323,6 +2334,7 @@ __welp__ A common alternative to “well” that is used to express disappointme
 __whack-a-mole__ :astonished: __2__ By extension, a situation in which problems continue to arise faster than one is able to solve or cope with them, resulting in piecemeal, incomplete, or temporary results. _Every time we think we have the software debugged, more problems show up. We’ve just been playing whack-a-mole from day one!_  
 __whale on (someone or something)__  
 __what do you know__ A phrase used to indicate one’s surprise upon discovering something. _Well, what do you know! It says here that my ancestors first came to this country in 1857!_ :es: ¡Qué sorpresa!  
+__what if scenario__  
 __what makes (one) tick__ _We’ve never captured one of them, and consequently don’t know what makes them tick._  
 __what on earth__  
 __What’s that got to do with the price of tea in China?__ A rhetorical question calling attention to a non-sequitur or irrelevant statement or suggestion made by another person.  
