@@ -1,18 +1,3 @@
-__game changer__ (game changer)  
-__bite the dust__  
-__right on__  
-__brain surgeon__  
-__big time__  
-__fruit loop__  
-__for the birds__  
-__go over (one’s) head__  
-__go the extra mile__  
-__no kidding__  
-__cloud nine__  
-__go south__ _That’s when everything went south._  
-__close call__  
-__fight tooth and nail__  
-__stone cold__  
 __go through the roof__  
 __gush over (someone or something)__  
 __no dice__  
