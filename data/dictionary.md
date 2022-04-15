@@ -162,8 +162,8 @@ __adamant__ _adj_ :two::hammer:
 __adamantine__ _adj_ :two: __1__ Very hard; unbreakable or unyielding. Not capable of being swayed or diverted from a course; unsusceptible to persuasion. _The ushers were adamantine in their refusal to let latecomers into the theater._ __2__ Having the lustre of a diamond.  
 __add up__ _phr v_ :five::hammer: _The whole thing doesn’t add up._ _Little things add up to make a significant difference._  
 __addled__ _v_ :three::hammer: _He’s addled and we shall tend him._  
-__address<sup>1</sup>__ _n_ _The Emperor heard an address of welcome by his host._  
-__address<sup>2</sup>__ _v_ :three::hammer: _A multitude of problems need to be addressed._  
+__address<sup>1</sup>__ _n_ :two::mega: /əˈdrɛs, ˈæd rɛs/ _The Emperor heard an address of welcome by his host._  
+__address<sup>2</sup>__ _v_ :four::hammer::mega: /əˈdrɛs/ _A multitude of problems need to be addressed._  
 __adduce__ _v_ To offer as example, reason, or proof in discussion or analysis.  
 __adenoidal__  
 __adhere__ _v_  
@@ -671,6 +671,7 @@ __asceticism__ _n_
 __ascot__ _n_ :two::hammer:  
 __ascribe__ _v_ :nine: (ascribed) __1__ To refer to a supposed cause, source, or author. _These poems are usually ascribed to Homer._ __2__ To say or think that (something) is caused by, comes from, or is associated with a particular person or thing. _They ascribe most of their success to good timing and good luck._ _Which meaning were you ascribing to that word?_ _He ascribed the cause to the misery._  
 __aseptic__ _adj_ Free of or using methods to keep free of pathological microorganisms. _Syn_ sterile _The use of aseptic instruments in the operating room has significantly reduced the incidence of postsurgical infections._  
+__asexual__ _adj_  
 __ash borer__ _n_ _Emerald ash borers._  
 __ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking executives looked at me ashen-faced._  
 __ashen-faced__  
@@ -683,6 +684,7 @@ __ask over__ _phr v_ To invite people to your house.
 __askance__ _adv_ :two: With disapproval, suspicion, or distrust. _Syn_ sidelong _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
+__asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
 __aspen__  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
@@ -2238,7 +2240,7 @@ __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._
 __carte blanche__ _n_ :two::hammer: /KART-BLAHNCH/  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
-__carton__ _n_ :three::camera::hammer: _A carton of eggs._ _A carton of milk._ :camera:  
+__carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __carve out__ _v_ (carved out) :six::hammer:  
 __carveouts__  
 __cascading__  
@@ -3691,6 +3693,7 @@ __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize
 __decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
 __decussate<sup>1</sup>__ _v_  
 __decussate<sup>2</sup>__ _adj_  
+__decypher__ _v_ :mega:  
 __dedication__  
 __deduct__ _n_ _If they fall from the balance beam, a full point is deducted._  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
@@ -5575,6 +5578,7 @@ __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act o
 __foment__ _v_ To promote the growth or development of. _Syn_ rouse, incite  
 __fomite__ _n_ /FOH-myte/ Any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another. _Syn_ vehicle  
 __fomites__ _n_ :mega: _Pathology_ Surfaces, as clothing or door handles, that can become contaminated with pathogens when touched by the carrier of an infection, and can then transmit the pathogens to those who next touch the surfaces.  
+__fond__ _adj_ _Fond memories._  
 __food bank__  
 __food processor__  
 __food stall__  
@@ -6638,6 +6642,7 @@ __hard-boiled__ _adj_ :two::hammer: _Hard-boiled egg._
 __hard-core__ _adj_ :two::hammer: _Hard-core misogyny._ _The department will take a hard-core look into keys._  
 __hard-drinking__ _adj_ Used to describe a person who often drinks a lot of alcohol.  
 __hard-driving__ _adj_ _Hard-driving individuals._  
+__hard-liner__ _n_  
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
@@ -7694,6 +7699,7 @@ __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the sl
 __jack-o’-lantern__ _n_ :two::hammer:  
 __jack-straw__ _n_ _An exchange of fiefs as complicated as a game of jack-straw._  
 __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
+__jacket potatoes__ _n_  
 __jackhammer__  
 __jackpot__  
 __jackrabbit__ _n_  
@@ -8491,6 +8497,7 @@ __loll<sup>1</sup>__ _v intr_ :seven::pencil2: (lolled, lolling) __1__ To move, 
 __loll<sup>2</sup>__ _v tr_ To permit to hang or droop laxly: _lolled his head on the armrest._  
 __lollipop__ _n_ (lollypop)  
 __lollygag__ _v intr_ :two: _informal_ To waste time by puttering aimlessly; dawdle. To fool around and waste time. _Syn_ dawdle _Stop lollygagging and get to work._ _The player was kicked off the team for lollygagging during practice._  
+__London__ _n_ :mega: /ˈlʌndən/  
 __lone wolf__ _n_ _They are lone wolf attacks._  
 __lonely-hearts__ _adj_ Of or for people seeking counseling or companionship to bring love or romance into their lives.  
 __loner__ _n_ Someone who likes being alone.  
@@ -10174,7 +10181,7 @@ __palsy__ _n_ :five::hammer: _Mild cerebral palsy._ _Risks of cerebral palsy and
 __palsy-walsy<sup>1</sup>__ _n_ A friend. _I’m surprised you haven’t met Ricky’s new palsy-walsy from school yet—they’re together all the time._  
 __palsy-walsy<sup>2</sup>__ _adj_ Friendly, but (usually) disingenuous.  
 __paltry__ _adj_ :nine::m: Very small or inadequate in amount; negligible: _was paid a paltry sum for his work._  
-__pamper__ _v_ :six::hammer: (pampered)  
+__pamper__ _v_ :seven::hammer: (pampered)  
 __pampered__ _adj_  
 __pamphlet__ _n_  
 __pampling__  
@@ -11072,7 +11079,7 @@ __precisely__ _adv_ :two::hammer: _Keeping it real, or more precisely keeping it
 __precision<sup>1</sup>__ _n_  
 __precision<sup>2</sup>__ _adj_ _Precision medicine._  
 __preclude__ _v_  
-__predate__ _v_ :four::hammer: (predated) _The building predated the revolution._  
+__predate__ _v_ :five::hammer: (predated) _The building predated the revolution._ _Those commandments predate the Bible._  
 __predator__ _n_ :two::hammer:  
 __prediabetes__  
 __predicament__ _n_ :nine::m: A situation, especially an unpleasant, troublesome, or trying one, from which extrication is difficult. _I’m sorry to see you in this predicament._ _Hearsay suggests that green apples can induce such a predicament._ _She was sorry for her daughter’s predicament._  
@@ -12100,7 +12107,7 @@ __riffraff__
 __rifle__ _v_ :three: (rifling) __1__ To search (an area or container, for example) thoroughly, especially using the hands with the intent to steal or remove something: _rifled the desk, looking for the keys._ _Rifling through his case._ __2__ To rob or search with the intent to rob: _rifled the travelers of their belongings._ __3__ To steal (goods).  
 __rift__ _n_ :nine::m: __1__ A fissure or crack, _esp_ in the earth. __2__ A disruption of friendly relations between individuals, nations, etc. _Political rift._ _With deal of troops in danger, Afghan leader provokes further rifts._ _Rifts reopen after friendly trade summit._ _The rift between the two brothers._  
 __rig__ _n_ _Horse and the red wagon were a good rig._  
-__rigged__  
+__rigged__ _adj_ :two::hammer: _A rigged game._  
 __rigging__ _v_ _There were revelations of widespread exam rigging against women._  
 __right__ _n_ :three::dart::mute:[ri~~gh~~t]:hammer: _Exactly right._ _Absolutely right._  
 __righteous__ _adj_ :two::mega: /ˈraɪ tʃəs/ __1__ Morally upright; without guilt or sin: _a righteous parishioner._ __2__ In accordance with virtue or morality: _a righteous judgment._ _Syn_ moral __3__ _slang_ Absolutely genuine or wonderful: _some righteous playing by a jazz great._  
@@ -14529,6 +14536,7 @@ __swooshing__
 __sword__ _n_ :mute:[s~~w~~ord]  
 __sycophant__ _n_ :dart::five: (sycophants) A servile self-seeker who attempts to win favor by flattering influential people. _Syn_ crawler, toady, lackey _The sycophant erupted into laughter before the mayor had even finished the joke._  
 __syllable__ _n_  
+__syllabub__ _n_ _Syllabub of fresh fruit._  
 __syllogism__ _n_ :four: Syllogism is an argument based on deductive reasoning that uses generalizations to reach specific conclusions. Usually, a syllogism follows the format of “A is B. B is C. So, A is C.” Example: Dogs are mammals. Biscuit is a dog. Therefore, Biscuit is a mammal.  
 __sylvan<sup>1</sup>__ _adj_ :two::hammer: (silvan)  
 __sylvan<sup>2</sup>__ _n_ :two::hammer: (silvan) _Classical Myth & Legend_ An inhabitant of the woods, esp. a spirit.  
@@ -16189,7 +16197,7 @@ __welling up__
 __welling<sup>1</sup>__ _n_ :two::hammer: _Rob felt a welling of affection._  
 __welling<sup>2</sup>__ _v_ _His breath welling into my face._  
 __wellspring__ _n_ :two: __1__ The source of a stream, spring, etc.; fountainhead. __2__ A source of abundant and continual supply. _A wellspring of knowledge._  
-__Welsh__ _n_ __1__ The people of Wales.  
+__Welsh__ _n_ :two: __1__ The people of Wales.  
 __welsh__ _v_ _informal_ :two: (welch) __1__ To swindle a person by not paying a debt or wager: welsh on a bet. __2__ To fail to fulfill an obligation.  
 __welsher__ _n_  
 __welt__ _n_ :three::hammer:  

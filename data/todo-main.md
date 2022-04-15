@@ -1,18 +1,3 @@
-__fond__ _adj_ _Fond memories._  
-__carton__ _n_ _Cartons of whole/strawberry/chocolate milk._  
-__predate__ _v_ _Those commandments predate the Bible._  
-__rigged__ _adj_ _A rigged game._  
-__hard-liner__ _n_  
-__asexual__ _adj_  
-__jacket potatoes__ _n_  
-__asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
-__Welsh__  
-__syllabub__ _n_ _Syllabub of fresh fruit._  
-__pamper__ _v_  
-__address<sup>1</sup>__ _n_ :mega: /əˈdrɛs, ˈæd rɛs/  
-__address<sup>2</sup>__ _v_ :mega: /əˈdrɛs/  
-__London__ _n_ :mega: /ˈlʌndən/  
-__decypher__ _v_ :mega:  
 __twat__ _n_  
 __jarring__ _adj_  
 __Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
