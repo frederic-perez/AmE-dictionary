@@ -9,6 +9,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country."
 - [Bill Burr](https://www.youtube.com/results?gl=US&search_query=Bill+Burr)
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
+- [Bill Maher](https://www.youtube.com/results?gl=US&search_query=Bill+Maher) » [billmaher.com](https://billmaher.com)
 - [Bob Newhart](https://www.youtube.com/results?gl=US&search_query=Bob+Newhart)
 - [Brad Williams](https://www.youtube.com/results?gl=US&search_query=Brad+Williams) is frequently confused with Wee Man from Jackass because of their similar appearance.
 - [Bret Ernst](https://www.youtube.com/results?gl=US&search_query=Bret+Ernst)
@@ -36,6 +37,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
+- [Kathy Griffin](https://www.youtube.com/results?gl=US&search_query=Kathy+Griffin) « [kathygriffin.com](https://kathygriffin.com)
 - [Kristen Schaal](https://www.youtube.com/results?gl=US&search_query=Kristen+Schaal)
 - [Margaret Cho](https://www.youtube.com/results?gl=US&search_query=Margaret+Cho)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
