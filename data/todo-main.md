@@ -265,9 +265,7 @@ __crag__ _n_
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
-__upscale__  
 __appetizer__ _n_  
-__delectable__ _adj_  
 __decadent__ _adj_ _Known for serving award winning decadent desserts and fine wines._  
 __kiosk__ _n_ _Information kiosks._  
 __buffalo__ _n_ (_n pl_ buffalo or buffaloes or buffalos)  
@@ -275,7 +273,7 @@ __sleek__ _adj_
 __barbecue__ _n_ (barbeque)  
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __revel__ _v_  
-__flora__ _n_ /ˈflɔːrə/  
+__flora__ _n_ :two::hammer: /ˈflɔːrə/  
 __columbine__ _n_ _Columbine and Indian paintbrush._  
 __quake__ _v_ _Quaking aspen._  
 __aspen__ _n_ _Quaking aspen._ :es: chopo  
@@ -284,3 +282,60 @@ __awash__
 __fairway__ _n_  
 __cook-off__ _n_ A cooking competition. _Chili cook-offs._  
 __exhilarating__ _adj_  
+__corky__ _adj_  
+__corn__ _n_ :es: callo  
+__squats__ _n_  
+__birdie__ _n_  
+__Pluto__ _n_  
+__patronize__ _v_  
+__color wheel__  
+__neurotypical__ _adj, n_  
+__toll__ _n_ _Emotional toll._  
+__fellow__ _adj, n_ _Fellow autistics._  
+__flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
+__stem__ _v_  
+__misphrase__ _v tr_  
+__embrace__ _v_ :two::hammer: _Embrace people as they are._  
+__enrich__ _v tr_  
+__operating system__  
+__bash__ _v_  
+__super-duper__  
+__getaway__ _n_  
+__wannabe__ _adj, n_  
+__alongside__  
+__upscale__ _adj_ :two::hammer: _Upscale shops._  
+__eatery__ _n_ :two::hammer:  
+__exhibit__ _n_  
+__hatch__ _v_  
+__treetops__ _n_  
+__picknicking__ _v_  
+__cog__ _n_  
+__nestle__ _v_  
+__yogurt__ _n_ (yoghourt)  
+__unpretentious__  
+__tuition__ _n_  
+__sterling__ _adj_ _A sterling job._  
+__cog railway__  
+__preposterous__  
+__riff__ _v_  
+__schadenfreude__  
+__Kowtow__  
+__kooky__  
+__visitor__  
+__dot__ _v_ _Wooden stools dot the floor of hot spots._  
+__alcove__ _n_ _Historic alcoves._  
+__eclectic__ _adj_ :two::pencil2::hammer:  
+__lush__ _adj_ :two::hammer: _Lush garden/lawn._  
+__mosey__ _v intr_  
+__grotto__ _n_ _A rooftop grotto bar._  
+__lore__ _n_  
+__eddy__ _v_ _Water eddies and cascades._  
+__delectable__ _adj_ :two::hammer: _Delectable dining._  
+__eye-popping__ _adj_ _Eye-popping croissants._  
+__baubles__  
+__nightcaps__  
+__hayrides__ _n_  
+__hoedowns__ _n_  
+__grist__ _n_ _A water-powered grist mill._  
+__smortasbord__  
+__Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
