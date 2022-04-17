@@ -51,7 +51,7 @@ __pullulate__ _v intr_
 __vernal__ _adj_  
 __salubrious__ _adj_ Conducive or favorable to health or well-being.  
 __lugubrious__ _adj_ Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._  
-__impetus__ _n_ /IM-puh-tus/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
+__impetus__ _n_ :two: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __wallflower__  
 __drum break__ _n_ A short segment of a piece of music (such as a rock song or a march) in which the drummer or drummers play alone.  
 __occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
@@ -217,3 +217,70 @@ __manifold__ _adj_ _Physical activity: manifold benefits for health and wellbein
 __grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
 __jam-packed__ _adj_ Crowded, packed, or filled to capacity.  
 __laid-back__ _adj_  
+__dis__ _v tr_ _informal_  
+__callback__ _n_ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play.  
+__username__ _n_ ;pencil2:  
+__steak__ _n_ /steɪk/  
+__hamstring__ _n_ /ˈhæmˌstrɪŋ/  
+__juke__ _v_  
+__relatable__ _adj_  
+__anticlimax__ _n_  
+__showrunner__ _n_  
+__homophobia__ _n_  
+__defamation__ _n_ :pencil2: /ˌdɛf əˈmeɪ ʃən/  
+__shove__ _v_  
+__blackmail__ _n_  
+__prescient__ _adj_ :es: clarividente, profético  
+__bio__ _n_  
+__tribulation__ _n_  
+__unabashed__ _adj_  
+__constituency__ _n_ /kənˈstɪtʃ u ən si/  
+__woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
+__leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
+__myriad__ _adj_  
+__Romanesque__ _adj_ :es: románico  
+__courtyard__ _n_ :two::hammer: :es: patio  
+__stopover__ _n_ :es: estancia  
+__World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
+__ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
+__statuary<sup>1</sup>__ _n_ :es: estatuas  
+__statuary<sup>2</sup>__ _adj_  
+__acclimation__ _n_ :pencil2:  
+__ornamental__ _adj_  
+__tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
+__fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
+__stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
+__bas-relief__ _n_  
+__rink__ _n_  
+__nestled__ _adj_ :two: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._  
+__spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
+__tantalizing__ _adj_ :two::hammer:  
+__footpath__ _n_ A narrow path for persons on foot.  
+__estuary__ _n_  
+__mecca__ _n_ /mĕk′ə/ __1a__ A place that is regarded as the center of an activity or interest. __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
+__picturesque__ _adj_ :two::hammer:  
+__cloakroom__ _n_ :es: guardaropa  
+__deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
+__crag__ _n_  
+__scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
+__tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
+__hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
+__upscale__  
+__appetizer__ _n_  
+__delectable__ _adj_  
+__decadent__ _adj_ _Known for serving award winning decadent desserts and fine wines._  
+__kiosk__ _n_ _Information kiosks._  
+__buffalo__ _n_ (_n pl_ buffalo or buffaloes or buffalos)  
+__sleek__ _adj_  
+__barbecue__ _n_ (barbeque)  
+__pontoon__ _n_ _Pedal a pontoon boat._  
+__revel__ _v_  
+__flora__ _n_ /ˈflɔːrə/  
+__columbine__ _n_ _Columbine and Indian paintbrush._  
+__quake__ _v_ _Quaking aspen._  
+__aspen__ _n_ _Quaking aspen._ :es: chopo  
+__summertime__ _n_ :pencil2:  
+__awash__  
+__fairway__ _n_  
+__cook-off__ _n_ A cooking competition. _Chili cook-offs._  
+__exhilarating__ _adj_  
