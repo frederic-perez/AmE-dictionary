@@ -1178,7 +1178,7 @@ __beltway__ _n_ :dart:
 __belvedere__ _n_ :two::hammer: _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
-__bemuse__ _v_ (bemused)  
+__bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
 __bemused__ _adj_ :two: Preoccupied; lost in thought.  
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _n_ _Snow will dust the benches and valleys._  
@@ -2192,7 +2192,7 @@ __caravanserai__ _n_ :two: (_also_ caravansary) __1__ An inn built around a larg
 __carbine__ _n_  
 __carboy__ _n_ :camera: A large glass bottle encased in a basket or box, used esp. for holding corrosive liquids. :es: garrafón  
 __carbuncle__ _n_  
-__carcass__ _n_ _A whale carcass._  
+__carcass__ _n_ :two: Remains from which the substance or character is gone. _Syn_ remains, remnants _At one end of the camp lies the carcass of an aircraft which crashed in the mountains._ _A whale carcass._  
 __card reader__ _n_  
 __card__ _v_  
 __Cardan__ _n_ A universal joint that transmits motion unchanged. _Optional Cardan mount._  
@@ -4877,6 +4877,7 @@ __et cetera__
 __etch__ _v_ :five::hammer: (etched)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
+__ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_  
 __ethereality__ _n_  
 __ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
@@ -6530,6 +6531,7 @@ __hackle<sup>2</sup>__ _v tr_ To comb flax, hemp, or other fibers with a hackle.
 __hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._  
 __hacksaws__ _n_  
 __hackwork__ _n_  
+__Hacky Sack__ _n_ /ˈhæk i/ _Trademark_ A trademark for a footbag. A small leather beanbag juggled with the feet as a game.  
 __haematuria__ _n_ (hematuria) _n_ (Pathology) The presence of blood or red blood cells in the urine.  
 __haemodialysis__ _n_  
 __haemophilia__  
@@ -9249,6 +9251,7 @@ __moribund__
 __Mormon apostle__  
 __morning glory__  
 __morosely__ _adv_ :two::hammer:  
+__morphetic__ _adj_ /mor-FET-ik/ [:scroll: After Morpheus, the god of dreams in Greek mythology. He was the son of Hypnos, the god of sleep. The name of the drug morphine is also derived after Morpheus.] Relating to sleep or dreams.  
 __morsel__ _n_ :four: (morsels) __1__ A small piece of food. A small amount of solid food; a mouthful. __2__ A tasty delicacy; a tidbit. __3__ A small amount; a piece: _a morsel of gossip._ _A morsel of information._ __4__ One that is delightful and extremely pleasing.  
 __mortar shell__  
 __mortar__ _n_ :three::hammer: _Militants fired mortar rounds._  
@@ -9906,6 +9909,7 @@ __opine__ _v_ /oh-PYNE/
 __opinionated__ _adj_ :three: Holding stubbornly and often unreasonably to one’s own opinions.  
 __opossum__ _n_  
 __oppo__ _n_ Short for opposition research. Damaging information about a political candidate that is gathered and used or made public usually by an opponent’s camp. _They are doing extensive oppo, looking over her public financial records, getting copies of her divorce papers’._  
+__opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a particular situation. _It is an opportune time to invest in the stock market._ __2__ Occurring at an appropriate time. _The book’s publication is opportune._  
 __opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
@@ -12227,6 +12231,7 @@ __roofrack__
 __rooftop__ _n_ :seven::pencil2::hammer: _A rooftop bar._ _A rooftop garden._ _Rooftop terrace._ _The rooftop can seat 800 people._  
 __room temperature__ _n_ :three::hammer: (room temp)  
 __roomed__ _v_  
+__roorback__ _n_ /ˈrʊəˌbæk/ [:scroll: After Baron von Roorback, a fictitious author invented during the 1844 presidential elections in the US to discredit the Democratic candidate James K. Polk.] A false story or slander, especially one spread for political purposes.  
 __roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds or bats, rest or sleep.  
 __roost<sup>2</sup>__ _v_  
 __rooster__ _n_ :two::hammer:  
