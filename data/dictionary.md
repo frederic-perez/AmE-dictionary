@@ -797,6 +797,7 @@ __austere__
 __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, Texas and some of the close surrounding citys.  
 __authorial__  
 __authoritative__ _adj_  
+__autism__ _n_ /ˈɔ tɪz əm/  
 __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
 __autocracy__ _n_ :three: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
@@ -1802,6 +1803,7 @@ __brusquerie__ _n_ Curtness or bluntness of manner.
 __brussels sprout__ _n_ :two::hammer: (Brussels sprout)  
 __brutal__  
 __brutalize__ _v tr_ :two::hammer: (brutalized)  
+__brute__ _adj, n_ /bruːt/  
 __brutish__ _adj_ :two::hammer:  
 __bubba__ _n_ :two: The definition of Bubba is a name used for someone who is a brother, like a brother or a close friend, or slang for a white, uneducated and assertive man from the southern United States. _An example of Bubba is what you might call your best male friend._ _An example of Bubba is what you might call a bigoted, working-class man in the South._  
 __bubble wrap__ _n_ :camera:  
@@ -1888,6 +1890,7 @@ __bumpy__
 __bun__ _n_  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
+__Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
 __bungalow__ _n_ :two::pencil2::hammer:  
 __bungee cord__ _n_ :camera::three::hammer:  
 __bungee jumping__  
@@ -2894,6 +2897,7 @@ __commingled__ _v_ :three::hammer:
 __commiserate__ _v_ :six::hammer:  
 __commission<sup>1</sup>__ _v_ :astonished::nine: (commissioned) __1__ To grant a military commission to. __2a__ To grant authority for (something to be made or done); place an order for: _commission a new symphony for the festival._ __b__ To authorize or engage (someone to do something): _commission an architect to design a building._ __3__ To put (a ship) into active service.  
 __commission<sup>2</sup>__ _n_  
+__commitment__ _n_ /kəˈmɪt mənt/  
 __committal__ _n_ _A committal graveside service will be held for the family._  
 __commix__ _v_ To bring or combine together or with something else. _Syn_ amalgamate, mingle, unify  
 __commode__  
@@ -3173,7 +3177,7 @@ __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasone
 __cornerstone__ _n_  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
-__corny__ _adj_ :five::hammer:  
+__corny__ _adj_ :six::hammer:  
 __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
 __coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/  
 __coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
@@ -3867,7 +3871,7 @@ __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were
 __detemporalize__ _v_ To dissociate from a particular historical time. _Syn_ make timeless _There was a deep craving to detemporalize the Church._  
 __detente__  
 __détente__ _n_ :two: A relaxing of tension between major powers, especially the particular thawing of relations between the Soviet Union and the United States following the Cold War. _Can the détente be rolled back?_ _The recent détente with the United States has expanded._  
-__deter__ _v_ :two::hammer:  
+__deter__ _v_ :three::hammer: /dɪˈtɜr/  
 __detergent<sup>1</sup__ _n_ :two::hammer: _Liquid laundry detergent._  
 __detergent<sup>2</sup__ _adj_  
 __deterrence__ _n_ :two::hammer:  
@@ -7737,7 +7741,7 @@ __jar<sup>1</sup>__ _n_ _An opened jar of olives._
 __jar<sup>2</sup>__ _v_ :nine::m: (jarred, jarring) __1__ To be disturbing or irritating; grate: _The incessant talking jarred on my nerves._ __2__ To shake or shiver from impact. _His right foot jarred against the road._ __3__ To clash or conflict: _“We ourselves often jar with the landscape.” (Isak Dinesen)._ __4__ To bump or cause to move or shake from impact. __5__ To startle or unsettle; shock. _Jarring evidence._  
 __jardiniere__ _n_ __2__ A garnish for meat consisting of several cooked vegetables cut into pieces.  
 __jarhead__ _n_ _slang_ A US Marine.  
-__jarring__ _adj_ :four: Surprising, or slightly shocking.  
+__jarring__ _adj_ :five: Surprising, or slightly shocking.  
 __jaundice<sup>1</sup>__ _n_  
 __jaundice<sup>2</sup>__ _v_ :three::hammer:  
 __jaunt__ _n_ :two::hammer:  
@@ -8527,6 +8531,7 @@ __lookout__ _n_
 __lookup__ _n_ :two::hammer:  
 __loony bin__ _n_ _often offensive_ _slang_ An institution for the mentally ill. _The Count’s plot to drive her straight to the loony bin._  
 __loony__ _adj_ :three::hammer: _Every family includes someone who’s a little loony._  
+__loop__ _n_ /luːp/  
 __loophole__ _n_ :es: escapatoria  
 __loopy__ _adj_ :two::hammer: _A loopy smile._ _Trump is everybody’s loopy uncle, constantly repeating misinformation._  
 __loose strands__  
@@ -8592,7 +8597,7 @@ __lucrative__ _adj_ Producing wealth; profitable: _a lucrative income; a lucrati
 __lucubration__ _n_  
 __luculent__ _adj_ _(of language)_ Transparently clear; easily understandable. _A luculent oration._ _Syn_ lucid, perspicuous, pellucid, crystal clear, limpid  
 __luddite__ _n_ _slang_ One who fears technology (or new technology, as they seem pleased with how things currently are... why can’t everything just be the same?)  
-__ludicrous__ _adj_ :pencil2::nine::m: Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
+__ludicrous__ _adj_ :pencil2::nine::m: /ˈlu dɪ krəs/ Ludicrous things are funny, absurd, or nonsensical. If someone says something silly or far-fetched, you could say “That’s ludicrous!” :es: ridículo  
 __ludicrousness__  
 __lug nut__ _n_ :two::hammer: _NASCAR’s lug nut policy irks Stewart._  
 __lug wrench__ _n_ :two::hammer:  
@@ -11010,6 +11015,7 @@ __postiche__ _n_ __1__ Something false; a sham. __2__ A small hairpiece; a toupe
 __postmark<sup>1</sup>__ _n_ _The envelope had an Italian stamp and a postmark._  
 __postmark<sup>2</sup>__ _v_  
 __postmortem__ _n_  
+__postscript__ _n_  
 __postulate__ _v_ (postulated)  
 __pot brownies__ _n_ _Edibles like pot brownies._  
 __pot bunker__ _n_ :two::hammer: (golf) A small, circular but deep bunker with steep faces. _Avoiding pot bunkers that can ruin the scoreboard is crucial._  
@@ -12236,6 +12242,7 @@ __roost<sup>1</sup>__ _n_ __1__ A place where winged animals, especially birds o
 __roost<sup>2</sup>__ _v_  
 __rooster__ _n_ :two::hammer:  
 __root beer__  
+__root__ _n_ __8__ _Mathematics_ __a__ A number that when multiplied by itself an indicated number of times forms a product equal to a specified number. For example, a fourth root of 4 is √2. Also called _nth root_. __b__ A number that reduces a polynomial equation in one variable to an identity when it is substituted for the variable. __c__ A number at which a polynomial has the value zero.  
 __root-and-branch__ _adj_ :astonished: On a large scale or without discrimination; wholesale: _root-and-branch reforms._  
 __rooter__  
 __rootered__ _v_  
@@ -13578,7 +13585,7 @@ __soiled__
 __soiree__ _n_ An evening party or reception.  
 __sojourn<sup>1</sup>__ _n_ :seven::hammer: _The phantasmagorical sojourn along the freeways of LA._  
 __sojourn<sup>2</sup>__ _v_ :three::hammer:  
-__solace__ _n_ :five: Something that makes you feel better when you are sad or upset.  
+__solace__ _n_ :six::mega: /ˈsɒl ɪs/ Something that makes you feel better when you are sad or upset.  
 __solacing__ _v_ _Solacing her with kisses._  
 __solder__  
 __soldier of fortune__ _n_ :two: A person who seeks riches or pleasure through adventurous, often military exploits.  
@@ -13601,6 +13608,7 @@ __solipsistic__ _adj_ :four::hammer:
 __soloist__ _n_ :three::hammer:  
 __solvent__ _n_  
 __somatic__ _adj_ Affecting or characteristic of the body as opposed to the mind or spirit. _Syn_ corporeal, bodily _Though anxiety attacks are psychological in nature, they have numerous somatic effects, including palpitations, shortness of breath, and dizziness._  
+__somber__ _adj_ /ˈsɒm bər/  
 __sombrero__ _n_ :two: (sombreros) A broad-brimmed, tall-crowned hat of straw or felt worn esp. in Mexico and the southwestern U.S.  
 __somewhat__ _adv_ :two: To some extent or degree; rather.  
 __somnambulant__ _adj_  
@@ -15461,7 +15469,7 @@ __twang<sup>1</sup>__ _n_ :two::hammer:
 __twang<sup>2</sup>__ _v_ :two::hammer:  
 __twanger__ _n_  
 __twangy__  
-__twat__  
+__twat__ _n_ :two::hammer:  
 __tweak<sup>1</sup>__ _n_ :four (tweaks) __2__ A small adjustment: _made a few tweaks to the sound system._  
 __tweak<sup>2</<sup>__ _v tr_ :two: __2__ To adjust; fine-tune: _tweaked her computer setup._  
 __tweak<sup>3</<sup>__ _v intr_ _slang_ __1__ To behave in an agitated or compulsive manner, especially when under the influence of a stimulant drug. __2__ To be under the influence of a stimulant drug, especially methamphetamine.  
@@ -15700,7 +15708,7 @@ __upend__ _v_ :nine::m: (upended, upending) Become turned or set on end. _The ea
 __upended__ _adj_ :five: Turned up on end. _Syn_ perpendicular, vertical  
 __upfield__  
 __upfront__ _adj_ :two::hammer:  
-__upheaval__ _n_ :nine: A state of violent disturbance and disorder (as in politics or social conditions generally).  
+__upheaval__ _n_ :nine::m: /ʌpˈhi vəl/ A state of violent disturbance and disorder (as in politics or social conditions generally).  
 __uphill<sup>1</sup>__ _adj_ :two::hammer: _An uphill task._  
 __uphill<sup>2</sup>__ _adv_ _I didn’t have to fight uphill._  
 __uphold__ _v_ :nine: (upheld) When you uphold something, you stick up for or support it. Police officers are paid to uphold the law, and crazy Elvis fans uphold their belief that he’s still alive out there somewhere. If you reverse the two parts of this word, you get hold up. And that’s exactly what upholding is: holding up or supporting an idea or practice.  
