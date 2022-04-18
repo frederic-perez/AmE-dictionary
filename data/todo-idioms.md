@@ -30,3 +30,6 @@ __cut the spin__
 __be hard pressed__  
 __off-kilter__  
 __back out__  
+__tour de force__  
+__big spender__  
+__far and wide__ _Chicago is a destination for travelers far and wide._  

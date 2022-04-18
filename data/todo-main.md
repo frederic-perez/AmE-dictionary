@@ -237,13 +237,12 @@ __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salm
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __bas-relief__ _n_  
 __rink__ _n_  
-__nestled__ _adj_ :two: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __tantalizing__ _adj_ :two::hammer:  
 __footpath__ _n_ A narrow path for persons on foot.  
 __estuary__ _n_  
-__mecca__ _n_ /mĕk′ə/ __1a__ A place that is regarded as the center of an activity or interest. __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
-__picturesque__ _adj_ :two::hammer:  
+__mecca__ _n_ /mĕk′ə/ :two: __1a__ A place that is regarded as the center of an activity or interest. __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
+__picturesque__ _adj_ :three::hammer:  
 __cloakroom__ _n_ :es: guardaropa  
 __deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
 __crag__ _n_  
@@ -295,7 +294,6 @@ __hatch__ _v_
 __treetops__ _n_  
 __picknicking__ _v_  
 __cog__ _n_  
-__nestle__ _v_  
 __yogurt__ _n_ (yoghourt)  
 __unpretentious__  
 __tuition__ _n_  
@@ -305,14 +303,13 @@ __preposterous__
 __riff__ _v_  
 __schadenfreude__  
 __Kowtow__  
-__kooky__  
 __visitor__  
 __dot__ _v_ _Wooden stools dot the floor of hot spots._  
 __alcove__ _n_ _Historic alcoves._  
 __eclectic__ _adj_ :two::pencil2::hammer:  
 __lush__ _adj_ :two::hammer: _Lush garden/lawn._  
 __mosey__ _v intr_  
-__grotto__ _n_ _A rooftop grotto bar._  
+__grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
 __lore__ _n_  
 __eddy__ _v_ _Water eddies and cascades._  
 __delectable__ _adj_ :two::hammer: _Delectable dining._  
@@ -324,3 +321,64 @@ __hoedowns__ _n_
 __grist__ _n_ _A water-powered grist mill._  
 __smortasbord__  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
+__abound__ _v_  
+__accompaniment__  
+__amend__ _v_ _The Texas constitution was amended in 1891._  
+__balustrade__ _n_  
+__belies__ _v_  
+__blizzard__ _n_ _It burned in the blizzard of 1925._  
+__brick-a-brack__  
+__cantilevered__  
+__cast-iron__  
+__catwalk__ _n_  
+__chaperone__ _n_ _One adult chaperone is required for every ten students._  
+__cistern__ _n_  
+__clutch bags__  
+__complimentary__ _adj_ :three::hammer: _A complimentary glass of house wine._  
+__concierge__ _n_ _Ask your hotel concierge for a special value card._  
+__cornerstone__ _n_ :pencil2:  
+__covetable__ _adj_  
+__cufflinks__  
+__emporium__  
+__enclave__  
+__ethos__  
+__extravaganza__  
+__fancy__ _v_  
+__ferns__  
+__festooned__  
+__hardwood__  
+__haunts__  
+__hotbed__  
+__house wine__ _n_ :es: vino de la casa  
+__house__ _v_  
+__interspersed__ _v_  
+__kooky__ _adj_ :two::hammer:  
+__limestone__  
+__nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
+__one-off__  
+__panache__  
+__paraphernalia__  
+__parcel__ _n_  
+__pavers__ _n_  
+__pedigree__  
+__platted__ _v_  
+__quintessential__  
+__ravishing__  
+__rhododendrons__ _n_ :pencil2:  
+__rotunda__ _n_ :two::hammer:  
+__scone__ _n_ _Cookery_  
+__signage__ _n_  
+__sleuth__  
+__strain__ _n_  
+__sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
+__superintendent__  
+__sweeping__ _adj_ _A sweeping view._  
+__tartans__ _n_  
+__terrazzo__  
+__thoroughfares__ _n_ :two::hammer:  
+__throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
+__till__ _v_ (tilled)  
+__topiary__  
+__trashy__  
+__unparalleled__ _adj_  
+__yew__  
