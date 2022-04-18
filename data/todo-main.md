@@ -1,18 +1,3 @@
-__backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
-__back down__ _v_  
-__embolden__ _v_  
-__headway__ _n_ ˈhɛdˌweɪ/  
-__fast-track<sup>1</sup>__ _adj_  
-__fast-track<sup>2</sup>__ _v_  
-__stalemate__ _n_ /ˈsteɪlˌmeɪt/  
-__bonanza__ _n_  
-__cavort__ _v_ (cavorting)  
-__telecast__ _n, v_  
-__bop<sup>1</sup>__ _v tr_ To hit or strike.  
-__bop<sup>2</sup>__ _n_ A blow; a punch.  
-__behold__ _v_  
-__relent__ _v_ /rɪˈlɛnt/  
-__greenlight__ _v_  
 __acolyte__ _n_  
 __hospice care__ _n_  
 __philtrum__ _n_ __1__ A philter or love potion. __2__ The infranasal depression; the groove in the midline of the upper lip.  

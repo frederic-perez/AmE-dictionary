@@ -853,7 +853,7 @@ __bachelor party__
 __back away__  
 __back breaker__  
 __back country__ _n_  
-__back down__ _v_  
+__back down__ _v_ :two::hammer:  
 __back end__ _n_ _Dante Exi, started two games at the back end of the trip._  
 __back off__ _phr v_ :five: To retreat or draw away.  
 __back out__ _v_ :three::hammer:  
@@ -863,6 +863,7 @@ __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victorie
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
 __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._  
+__backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backhoe__ _n_ :two::hammer:  
@@ -1134,7 +1135,7 @@ __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behold__ _v_ :five::hammer: _The wedding ceremony was a joy to behold._ _Sirs, behold me here!_  
+__behold__ _v_ :six::hammer: _The wedding ceremony was a joy to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :nine: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
@@ -1533,7 +1534,7 @@ __bon ton__
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :nine: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bona fides__ _n_ /boh-nuh-FYE-deez/  
-__bonanza__ _n_ :two::hammer: _Banana bonanza._  
+__bonanza__ _n_ :three::hammer: _Banana bonanza._  
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
@@ -1596,7 +1597,8 @@ __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; boo
 __bootlegger__  
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
-__bop__ _v_  
+__bop<sup>1</sup>__ _v tr_ :two: To hit or strike.  
+__bop<sup>2</sup>__ _n_ A blow; a punch.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
@@ -2333,7 +2335,7 @@ __cave__ _v_ :five: (caved) Short for cave in below. _The tunnel walls cave in._
 __caveat emptor__  
 __caveat__ _n_ :two::hammer:  
 __cavity__ _n_ :es: caries  
-__cavort__ _v_ :five::hammer: (cavorted, cavorting) _Animals cavorting._  
+__cavort__ _v_ :six::hammer: (cavorted, cavorting) _Animals cavorting._  
 __caw<sup>1</sup>__ _n_ :two: (caws) The hoarse raucous sound that is characteristic of a crow or similar bird. _A rattling caw._  
 __caw<sup>2</sup>__ _v_ :two::hammer: (cawed, cawing)  
 __ce__  
@@ -4671,7 +4673,7 @@ __embezzler__ _n_ _Embezzlers are heading to Delaware._
 __embitterment__  
 __embodiment__  
 __embody__ _v_  
-__embolden__ _v_ :two::hammer:  
+__embolden__ _v_ :three::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
 __embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
@@ -5144,8 +5146,8 @@ __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained e
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
 __fast-talk__ _v_  
-__fast-track<sup>1</sup>__ _adj_ :two: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
-__fast-track<sup>2</sup>__ _v tr_ :three: To speed up the progress of (a project or person).  
+__fast-track<sup>1</sup>__ _adj_ :three: Denoting the quickest or most direct route or system: _fast-track executives; a fast-track procedure for libel claims._  
+__fast-track<sup>2</sup>__ _v tr_ :four: To speed up the progress of (a project or person).  
 __fasten__ _v_ :mute:[fas~~t~~en]  
 __fastening__ _n_  
 __fastidious__ _adj_ :six: /fass-TID-ee-us/ __1__ Showing extreme care when doing something. _The handbags have clearly been made with fastidious attention to detail._ __2__ Less commonly, it may be used to describe a person who is difficult to please. _The quality of food and service at the restaurant should appeal to even the most fastidious diner._  
@@ -6334,6 +6336,7 @@ __green-eyed__ _adj_ Jealous.
 __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
 __greenhouse__ _n_ :two::hammer:  
+__greenlight__ _v_  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwash__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
 __Greenwich__ _n_ :mega::mute:[green~~w~~ich]  
@@ -6754,7 +6757,7 @@ __headshot__ _n_ :dart::two::hammer:
 __headstone__ _n_ :three::hammer:  
 __headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubborn, willful, obstinate _Every man is in his youth impetuous, headstrong, and obstinate in maintaining his own opinion._  
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
-__headway__ _n_ :dart: __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
+__headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
 __heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
@@ -11905,7 +11908,7 @@ __relay<sup>1</sup>__ _n_ _A relay race._
 __relay<sup>2</sup>__ _v_ :two::hammer: (relayed) _Ed was relaying a message directly from Jane._  
 __relegate__ _v_ To assign to an obscure place, position, or condition. _Syn_ demote, bump _After allowing the other team to score on three consecutive shots, he was relegated to the bench._  
 __relegation__ _n_ _Sports_  
-__relent__ _v_ :four::hammer: (relented)  
+__relent__ _v_ :five::hammer: /rɪˈlɛnt/ (relented)  
 __relentless__ _adj_ :five::hammer: _I relentlessly go to YouTube to watch all new footage._  
 __reliable__ _adj_ _Must have reliable transportation._  
 __reliance__ _n_ :two::hammer:  
@@ -13939,6 +13942,7 @@ __stakeout__ _n_ :four::hammer: (stakeouts)
 __stakes__ _n_  
 __stale antiperspirant__  
 __stale__ _adj_ :five::hammer: _The stale remains of a cup of coffee._ _Some friendships are like stale donuts._  
+__stalemate__ _n_ /ˈsteɪlˌmeɪt/  
 __staler__ _adj_ _The air in the place grew staler._  
 __Stalin__ _n_ (originally Iosif Vissarionovich Dzhugashvili) Steel in Russian.  
 __stalk<sup>1</sup>__ _n_  
@@ -14750,6 +14754,7 @@ __teetotaler__ _n_ :three: One who abstains completely from alcoholic beverages.
 __Teflon__ _n_ :three::mega::hammer:  
 __tektite__ _n_ :pencil2:  
 __telangiectasia__ _n_  
+__telecast__ _n, v_  
 __telegenic__  
 __telekinesis__ _n_ :mega:  
 __televangelist__ _n_  
