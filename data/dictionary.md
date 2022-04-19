@@ -123,7 +123,7 @@ __Achilles’ heel__ _n_ :two: A seemingly small but actually crucial weakness.
 __achondroplasiaphobia__ _n_ Fear of little people or midgets. _Syn_ nanosophobia [:scroll:from the Greek _nanos_, meaning _dwarf_], _slang_ lollypopguildophobia [:scroll: after the trade union of munchkins in the Wizard of Oz]  
 __acme__  
 __acne__ _n_ :mega::three::hammer:  
-__acolyte__ _n_ :four::hammer: (acolytes)  
+__acolyte__ _n_ :five::hammer: (acolytes)  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
 __acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
@@ -3159,6 +3159,7 @@ __copywriter__ _n_
 __coracle__ _n_ :two: (coracles) A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain.  
 __cord blood__  
 __cord__ _n_ :two::camera: A unit of measure of dry volume used to measure firewood and pulpwood in the United States and Canada.  
+__cordial__ _n_ :astonished: __1__ A strong, sweetened, aromatic alcoholic liquor; liqueur. __2__ A stimulating medicine.  
 __cordite__ _n_  
 __cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other undesirable condition from spreading. __2__ A chain of buffer states organized around a ideologically dangerous or potentially hostile nation.  
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
@@ -4140,7 +4141,7 @@ __divert__ _v_ _Diverted flights_
 __diverticulitis__ _n_ Inflammation of a diverticulum in the intestinal tract, causing fecal stagnation and pain.  
 __diverticulum__ _n_ A blind, tubular sac or process branching off from a canal or cavity, esp. an abnormal, saclike herniation of the mucosal layer through the muscular wall of the colon.  
 __dives__ _v_  
-__divest__ _v_ :six::hammer: (divested) _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._ _Divested him of stolen lands and castles._  
+__divest__ _v tr_ :seven: /di/duh/dy-VEST/ (divested) [:scroll: From Old French desvestir (to undress), from Latin divestire, from di- (away) + vestire (to dress), from vestis (garment).] __1__ To remove, give up, or sell off. __2__ To take away or deprive. _Divested him of stolen lands and castles._ __3__ To strip of clothing, ornament, etc. _The entire company crowded into the receiving room of the morgue and divested themselves of their coveralls._  
 __divestiture__ _n_ :two::hammer:  
 __divine__ _v_ :four: (divining) __1__ To foretell, especially by divination. __2__ To guess or know by inspiration or intuition: _somehow divined the answer despite not having read the assignment._ __3__ To locate (underground water or minerals) with a divining rod; douse.  
 __diving__ _v_ _Pogba received a yellow card for diving in the first half of the match._  
@@ -6546,7 +6547,7 @@ __haft sin__
 __hag__ _n_ _Screaming histerically like Shakespearean hags._  
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
-__haggis__ _n_ :two::hammer:  
+__haggis__ _n_ :three: /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s or calf’s offal, oatmeal, suet, and seasonings boiled in a skin made from the animal’s stomach.  
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
@@ -7111,6 +7112,7 @@ __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting;
 __horticulture__  
 __horticulturist__ _n_ :mega:  
 __hosanna__ _n_ _A thousand hosannas._  
+__hospice care__ _n_  
 __hospice__  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
 __host__ _n_ :five::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
@@ -7708,6 +7710,7 @@ __Jack the Ripper__ _n_ _She was a fucking stripper, a Jack the Ripper as the sl
 __jack-o’-lantern__ _n_ :two::hammer:  
 __jack-straw__ _n_ _An exchange of fiefs as complicated as a game of jack-straw._  
 __jackass__ _n_ :two: __1__ (Animals) A male donkey. __2__ A stupid person; fool.  
+__jackassery__ _n_ /ˈdʒækˌæsərɪ/ Foolish behavior or stupidity.  
 __jacket potatoes__ _n_  
 __jackhammer__  
 __jackpot__  
@@ -9444,7 +9447,7 @@ __name-drop__ _v_ To mention casually the names of famous or important people to
 __name-dropping__ _n_  
 __nameplate__ _n_  
 __names and likeness__  
-__namesake__  
+__namesake__ _n_ :two::hammer:  
 __nana__ _n_ :two::hammer: _Her nana._  
 __Napa Valley__ _n_ _The goal is to make Denver the Napa Valley of cannabis._  
 __nape__ _n_  
@@ -9806,6 +9809,7 @@ __off<sup>1</sup>__ _adv_ :two::hammer: _He knew that from the off._
 __off<sup>2</sup>__ _adj_  
 __off<sup>3</sup>__ _prep_ :two::hammer: _She got off the train._  
 __off<sup>4</sup>__ _v_ _slang_ To murder, to kill.  
+__offal__ _n_  
 __offbeat__ _adj_ _slang_ :four: Not conforming to an ordinary type or pattern; unconventional: _offbeat humor._ _His offbet partner._ _Offbeat nature._  
 __officer__ _n_ :two::hammer:  
 __offload__ _v_  
@@ -10156,7 +10160,7 @@ __pairing__ _n_ _The final rankings and playoff pairings will be released Sunday
 __paisley__ _n_ :three::camera::hammer: _A green paisley bow tie._  
 __paladin__ _n_ Someone who fights for a cause. _Syn_ champion, fighter, hero  
 __palanquin__ _n_ :two: A closed litter carried on the shoulders of four bearers. _Syn_ palankeen  
-__palatable__ _adj_ :five::hammer:  
+__palatable__ _adj_ :six: /PAL-uh-tuh-bul/ __1__ Agreeable to one’s sense of taste or palate. _The soup was too bland for my taste, so I added some salt and pepper to make it palatable._ __2__ Agreeable or acceptable to the mind. _Those who are afraid of flying often consider traveling by train as the palatable alternative._  
 __palate__ _n_ :two::hammer: _I add a few spices to educate their palates._  
 __palaver<sup>1</sup>__ _n_ :three: Talk intended to charm or beguile. _Syn_ blandishment, cajolery _Then she would pounce upon me with a lot of that drivelling poodle palaver and kiss me on the nose—but what could I do?_  
 __palaver<sup>2</sup>__ _v_  
@@ -10240,7 +10244,7 @@ __paprika__ _n_
 __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on moral attitude, a standard of conduct, or a religious principle. _The priest opened his homily by relating the parable of the Good Samaritan from the Gospel of Luke._  
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
-__paradigm__ _n_ :two::mute:[paradi~~g~~m]:hammer:  
+__paradigm__ _n_ :three::mute:[paradi~~g~~m] One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
 __paradox__ _n_ :three: __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
 __paradoxical__ _adj_  
 __paradoxically__  
@@ -10591,7 +10595,7 @@ __Philippine__ _adj_ Of or pertaining to the Philippines or their inhabitants. _
 __Philly__ _n_ :three: Philadelphia  
 __philosopher__ _n_ _These people we call philosophers. The word comes from two Greek words, philos loving, sophos wise, and means loving wisdom._  
 __philtre__  
-__philtrum__  
+__philtrum__ _n_ :two: __1__ A philter or love potion. __2__ The infranasal depression; the groove in the midline of the upper lip.  
 __phimosis__ _n_ :mega:  
 __phlebotomist__ _n_ A nurse or other health worker trained in drawing venous blood for testing or donation.  
 __phlebotomy__ _n_ :two: (venesection) __1__ The removal of blood from a vein, usually with a needle and syringe or other container, for diagnostic or therapeutic purposes, as in the treatment of hemochomatosis. __2__ The removal of blood from a vein with a cutting instrument, formerly done to reduce blood volume as a treatment of disease.  
@@ -12317,6 +12321,7 @@ __rudiment__ _n_
 __rue__ _v_ :seven::astonished::pencil2: (rues, rued) To be sorry about something and wish that it had not happened. A more usual word is regret. _Pa. town rues sacrifice of its war dead._ _He rues the void being left in his wake._  
 __rueful__ _adj_ :five::dart::hammer: _He gave a rueful smile._  
 __ruefully__ _adv_ :seven::hammer: _Dan shook his head ruefully._  
+__rufescent__ _adj_ Tinged with red.  
 __ruffle__ _v_ :three::hammer: (ruffled, ruffling)  
 __ruffles__  
 __rug > sweep it under the rug__  
@@ -12797,6 +12802,7 @@ __Seneca__ _n_ :astonished: __1__ A member of the Iroquoian people formerly livi
 __seneschal__ _n_ :three: An official in a medieval noble household in charge of domestic arrangements and the administration of servants; a steward or major-domo.  
 __senile__  
 __senior__ _adj_ Of a more advanced age. _Sixteen years her senior._  
+__sensibility__ _n_ Mental responsiveness; discernment; awareness. _Syn_ aesthesia _After nine months in a coma, the patient began to exhibit sensibility._  
 __sensible<sup>1</sup>__ _adj_  
 __sensible<sup>2</sup>__ _n_ :three::hammer: _This C++ contructor has sensible default values._ :es: sensato  
 __sensitive__ _adj_ _Sensitive questions._  
@@ -12962,6 +12968,7 @@ __shiet__
 __shift swap__ _n_ _It can be difficult to know how to approach asking for a shift swap over the holiday period._  
 __shift__  
 __shifty__ _adj_ :five::astonished: /SHIF-tee/ __1__ Having, displaying, or suggestive of deceitful character; evasive or untrustworthy. __2__ Distinguished by frequent changes in direction: _shifty winds._ __3__ Able to accomplish what is needed; resourceful. _Jane was shifty and quick-witted._  
+__shifty-looking__ _adj_ _informal_ _censorious_ Having or of an untrustworthy, dubious, or deceptive appearance. _There are always a bunch of shifty-looking characters around this part of town at night, so let’s not linger!_  
 __shih tzu__ _n_ A toy dog breed developed in China.  
 __shill__ _n_ (shills) _Government shills._  
 __shill<sup>1</sup>__ _n_ _slang_ :two: One who poses as a satisfied customer or an enthusiastic gambler to dupe bystanders into participating in a swindle.  
@@ -15860,7 +15867,7 @@ __veil__ _v_
 __vein__ _n_ _Gold vein._  
 __velar__ _adj_ __2__ Articulated with the back of the tongue touching or near the soft palate, as (g) in good and (k) in king.  
 __Velcro__ _n_  
-__velleity__ _n_  
+__velleity__ _n_ :two: /vɛˈliːɪtɪ/ __1__ The weakest level of desire or volition. __2__ A mere wish.  
 __vellum__  
 __velvet__ _n_ :two::hammer::camera: _Velvet rose._  
 __venal__ _adj_ :five::astonished: Dishonest and ready to do anything in order to get money. _Venal ministers._ _Venal officials._  
