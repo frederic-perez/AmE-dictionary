@@ -361,6 +361,7 @@ __almond__ _adj, n_ :mute:[a~~l~~mond]
 __almoner__ _n_ :es: limosnero  
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
+__almsgiving__ _n_ /ˈɑːmzˌɡɪvɪŋ/ (alms-giving) The making of charitable donations, giving alms.  
 __aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
@@ -435,6 +436,7 @@ __analyst__ _n_ :pencil2:
 __anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
 __anastomosis__ _n_ :two: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
+__anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :six::mega::hammer: _Ancillary study end points._  
@@ -2148,6 +2150,7 @@ __canoe__ _n_ :mega:
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
+__cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
 __cantankerous__ _adj_ :four: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
@@ -2402,7 +2405,7 @@ __chantry__ _n_
 __chaos__ _n_ :mute:[c~~h~~aos]  
 __chaotic__ _adj_ :mega:  
 __chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
-__chaparral__ _n_ :three: Dense vegetation consisting of stunted trees or bushes.  
+__chaparral__ _n_ :four: Dense vegetation consisting of stunted trees or bushes. An area covered by a dense growth of mostly small-leaved evergreen shrubs, especially in central and southern California.  
 __chaperone<sup>1</sup>__ _n_ :three::hammer:  
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
@@ -2993,7 +2996,7 @@ __conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to pass
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
-__confabulate__ _v_ :three: __1__ To talk informally. _Syn_ chat __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
+__confabulate__ _v_ :four: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
 __confederacy__  
 __Confederate flag__  
@@ -3914,7 +3917,7 @@ __Diaspora__ _n_ :two::hammer: (diaspora)
 __diatribes__ _n_  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
 __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women’s situation is a bit more dicey._  
-__dichotomy__ _n_ :two::mega::hammer:  
+__dichotomy__ _n_ :three::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
 __diction__ _n_ :five::hammer: _The priest diction._  
@@ -4536,6 +4539,7 @@ __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
 __easing__  
+__Easter egg__ _n_ __1__ A dyed or decorated egg, traditionally associated with Easter. __2__ A hidden message or feature, as in a video game or DVD.  
 __Eastern Block__ _n_ (the Eastern bloc) _politics_ (formerly) The Soviet bloc.  
 __easy as can be__  
 __easy chair__ _n_ :three: A large, comfortable, upholstered chair.  
@@ -4643,7 +4647,7 @@ __elevator control box__
 __elevator operator__ _n_ :camera:  
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
 __elfin__ _adj_  
-__elicit__ _v_ :seven::hammer: (elicited)  
+__elicit__ _v_ :eight: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
 __eligibility__  
 __eligible__ _adj_  
@@ -7463,7 +7467,7 @@ __indiscretion__ _n_ A petty misdeed. _Syn_ peccadillo _He had awakened with a t
 __indispensable__  
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
-__indite__ _v_  
+__indite__ _v tr_ :two: /ɪnˈdaɪt/ __1__ _archaic_ To write. __2__ _obsolete_ To dictate.  
 __indoctrinate__ _v_  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
@@ -7589,6 +7593,7 @@ __insulation__ _n_ :four::hammer:
 __insure__ _v_ :two::hammer:  
 __insurmountable__ _adj_ _Alabama built an insurmountable 21-3 halftime lead._  
 __insurrection__ _n_ The act or an instance of open revolt against civil authority or a constituted government.  
+__intaglio__ _n_ A figure or design carved into or beneath the surface of hard metal or stone. _Syn_ diaglyph _The intaglio was so incredibly detailed that it almost looked like a photograph._  
 __intangible__  
 __integer__ _n_ :mega: /ˈɪntɪʤɚ/  
 __integument__ _n_ :pencil2: Something that covers or encloses, esp. an enveloping layer (such as a skin, membrane, or cuticle) of an organism or one of its parts.  
@@ -7858,7 +7863,7 @@ __judgmental__ _adj_ :pencil2:
 __judicious__ _adj_ _Judicious improvements._  
 __judo__ _n_ [:scroll: A Japanes discipline whose name is based on Chinese words that translate to “soft way.”]  
 __jug__ _n_ :three: A large container for liquids, with a narrow mouth and typically a stopper or cap. _We have pulled the cork out of the jug._ :camera: _There were gas jugs in the bed of the vehicle._  
-__juggernaut__ _n_ :nine::m::dart: /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
+__juggernaut__ _n_ :nine::m::dart: /ˈdʒʌɡəˌnɔːt/ /JUG-er-nawt/ Juggernaut means a massive force. If the army marching into your country is a juggernaut, you’re doomed. If you’re trying to market a new Cola product, you’re up against corporate giant Coca-Cola, a beverage juggernaut if ever there was one. A massive force, campaign, movement, or object that crushes whatever is in its path. _With the signing of a player who is possibly the best receiver in the league, the team will be an offensive juggernaut._ _Jinx-killing juggernaut._  
 __juice box__ _n_ :camera: A small disposable carton containing a single serving of fruit juice or fruit drink.  
 __juice__ _n_ _slang_ :three: Energy, power.  
 __juicy__ _adj_ :two::hammer:  
@@ -10325,6 +10330,7 @@ __party__ _n_
 __partyer__ _n_ :two::pencil2: (_or less commonly_ partier) A person who enjoys hosting or going to parties.  
 __parvenu__ _n_ :three: (parvenus) A person who has suddenly risen to a higher social and economic class and has not yet gained social acceptance by others in that class.  
 __Pascal’s wager__ _n_ An argument according to which belief in God is rational whether or not God exists, since falsely believing that God exists leads to no harm whereas correctly believing that God exists may lead to an eternal reward.  
+__paschal__ _adj_ /ˈpæskəl/ __1__ _Judaism_ Of or relating to Passover. __2__ _Ecclesiastical Terms_ Of or relating to Easter.  
 __pass out__ _phr v_ :three: To become unconscious.  
 __pass policy__  
 __pass up__  
@@ -10940,6 +10946,7 @@ __pols__ _n_
 __poltergeist__ _n_ :mega:  
 __poltroon__ _n_ An abject coward. _Syn_ craven, recreant  
 __polyadic__  
+__polyglot__ _adj, n_ /ˈpɒl iˌglɒt/  
 __polyhistor__ _n_ /pol-ee-HIS-tuhr/ A person of great or wide learning. Also polyhistorian. _Syn_ polymath  
 __polymath__ _n_ :five::hammer:  
 __polystyrene__  
@@ -11498,7 +11505,7 @@ __Quaker__
 __quakes__ _v_  
 __qualify__ _v_  
 __qualm__ _n_ :nine::m: /KWAHM/ (qualms) An uneasy feeling of doubt, worry, or fear, especially about one’s own conduct; a misgiving. _Qualm_ is often used in the plural form _qualms_ for feelings of uneasiness about whether something is right or wrong. _Cynthia’s parents had no qualms about her traveling abroad for a year after graduating high school._ _He has some serious qualms about the book._ :es: reparo; escrúpulo; duda; náusea, mareo  
-__quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._  
+__quandary__ _n_ :nine::m: A state of perplexity or doubt. A situation in which one has to choose between two or more equally unsatisfactory choices. _Syn_ catch-22, dilemma, double bind _All-Star managers face quandary._ _Mel was in a quandary._ _The situation was awkward, but nothing like the quandary they had found themselves in when their car had broken down on a deserted road._  
 __quantifiable__  
 __quarrel__ _n_  
 __quarrelsome__  
@@ -12022,6 +12029,7 @@ __restrain__ _v_ _Adding competition could restrain prices._
 __restraint__ _n_ :three: __3__ Control of the expression of one’s feelings; constraint.  
 __resumption__ _n_ :six::hammer::pencil2: _n_ _A possible resumption of talks between those countries._ _The resumption of negotiations._  
 __resurgence__  
+__resurrection__ _n_ /ˌrɛz əˈrɛk ʃən/ _The community applauded the resurrection of the commuter rail system._  
 __resuscitate__ _v_ :astonished:  
 __retailer__ _n_ :three: A retailer is a person or business that sells goods to the public. _Big retailers lik Walmart, Target, Amazon._ _Big Lots, discount retailer; Staples, office supplies retailer._  
 __retainer__ _n_ :five: __3a__ An employee, typically a long-term employee. __b__ A servant or an attendant, especially one in the household of a person of high rank. _The cardinal rented 51 houses to lodge all his retainers._  
@@ -15011,6 +15019,7 @@ __time capsule__ _n_ :five::hammer:
 __time frame__  
 __time line__ _n_ (timeline) _Can it be done in that time line?_  
 __time-resolved__ _adj_ Relating to or denoting a spectroscopic technique in which a spectrum is obtained at a series of time intervals after excitation of the sample. _SSFP cine sequences provide high resolution, time-resolved images._  
+__timeless__ _adj_ /TYME-luss/ Not restricted to a particular time or date. _Syn_ eternal, ageless _Proverbs are statements of timeless wisdom._  
 __timelessness__ _n_ :es: atemporalidad  
 __timeline__ _n_  
 __timeliness__  
