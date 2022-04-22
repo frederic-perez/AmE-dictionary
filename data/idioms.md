@@ -62,6 +62,7 @@ __a fishbowl__ A place, situation, or environment in which one has little or no 
 __a game of musical chairs__ A situation in which people or things are moved, shuffled, or rearranged from one position to another. _After the boss resigned, it was a regular game of musical chairs in the company to figure out who would take over for whom._  
 __a going concern__ A business, enterprise, or activity that has done well thus far and is expected to continue making a profit. _He sold the cafe as a going concern._  
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company.  
+__a gong show__  
 __a good turn__ An action that is beneficial to another person in some way.  
 __a great many__ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
@@ -120,6 +121,7 @@ __according to Hoyle__ In accord with the prescribed rules or regulations.
 __according to plan__ :two: In the way something is supposed to be; as expected. _If everything goes according to plan._  
 __ace in the hole__ :two::hammer:  
 __acid test__ :two: Something that shows the true worth or value of something or someone.  
+__across the board__  
 __act of Congress__ That which is extremely difficult to achieve or requires a large amount of effort or patience to enact. Primarily heard in US, South Africa. _Trying to get my doctor on the phone is like an act of Congress!_  
 __Adam’s ale__ _slang_ Water.  
 __add insult to injury__ :two: To hurt the feelings of a person who is already upset.  
@@ -210,6 +212,7 @@ __at times__ On occasion; sometimes. _There was an incredible amount of stress a
 __attaboy__ :four: (atta boy) An expression of encouragement, support, or approval toward a boy, man, or male animal, used as a standalone interjection before or after a sentence. Largely presumed to be a corruption of the expression “that’s the boy.” _You won the spelling bee? Attaboy!_  
 __auld lang syne__ [At many New Year’s Eve parties, the song “Auld Lang Syne” is played or sung at midnight, as a means of saying farewell to the old year and greeting the new.] Old times, especially those that are remembered fondly. In Scottish, the phrase means “old long since.” _Come on, you’re only in town for a few days—let’s go to dinner for auld lang syne._  
 __aye aye, sir__ _Aye aye, Captain._  
+__B-Team__  
 __back atcha__ An exclamation used to express the same sentiment back to the original speaker; same as “you too” and “same to you.” (“atcha” is a colloquial contraction of “t you.”) Primarily heard in US, South Africa. _A: “I hope you have a great day!” B: “Back atcha, buddy!”_  
 __back in the day__ :two: At a time in the past that is remembered with fondness or nostalgia.  
 __back on (one’s) feet__ :two: __1__ In good health again after a period of injury or illness. _Jill is happy to be back on her feet again after her hospital stay._ __2__ No longer in a precarious financial situation. _Now that I’ve paid off my credit card debt, I’m finally back on my feet._  
@@ -586,7 +589,7 @@ __dead on arrival__ _As pay-as-you-go subscription plan, it was dead on arrival.
 __dead set against something__ To be completely against something.  
 __deadbeat dad__ _n_ A father who doesn’t live with the family and doesn’t pay child support.  
 __deal in something__ To buy and sell something. _My uncle is a stockbroker. He deals in stocks and bonds._ _My aunt deals in antiques._  
-__dealbreaker__ :five: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
+__dealbreaker__ :six::pencil2: A specific issue or thing that will cause an agreement, deal, or relationship to fail or be terminated.  
 __Debbie Downer__ :two: A fictional Saturday Night Live character who debuted in 2004,[1] and was created and portrayed by Rachel Dratch. The character’s name, Debbie Downer, is a slang phrase which refers to someone who frequently adds bad news and negative feelings to a gathering, thus bringing down the mood of everyone around them. Dratch’s character would usually appear at social gatherings and interrupt the conversation to voice negative opinions and pronouncements. _“OK, now I really don’t want to sound like a Debbie Downer, but 2018 has not been an easy one, my friends.”—Valerie Mesa_  
 __deep dive__ :two: A thorough analysis, perhaps one that seems excessive or unwarranted for a particular topic.  
 __deepfake__ :two::hammer:  
@@ -885,6 +888,7 @@ __go stir-crazy__ To become acutely anxious, restless, irritable, irrational, an
 __go strong__ :two: To proceed energetically or successfully. _It is still going strong._  
 __go the extra mile__  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
+__go through the roof__  
 __go to bed with the chickens__ To go to bed very early.  
 __go to Canossa__ To become or make oneself humble; to do a penance or seek absolution for some wrong.  
 __go to great lengths__ :two::hammer:  
@@ -942,6 +946,7 @@ __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
+__gush over (someone or something)__  
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings.  
@@ -1206,6 +1211,7 @@ __in fee__ _law_ (specifically of land) In absolute legal ownership or subjectio
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
 __in full swing__ :two::hammer: _The conference was in full swing when I arrived._  
+__in full__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ In trouble.  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
@@ -1349,6 +1355,7 @@ __kick the/(one’s) door down__
 __kid around__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kill the goose that lays the golden egg(s)__ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he’ll kill the goose that lays the golden eggs._ _We’re killing the goose that laid the golden egg._  
+__kill two birds with one stone__  
 __killing field__  
 __kindred spirit__ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :three: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
@@ -1641,7 +1648,7 @@ __nincompoop__ _n_ A silly, foolish, or stupid person.
 __nine to fivers__  
 __no big deal__ _No big deal, but it looked sloppy._  
 __no cover__ No additional cost for entry or entertainment (called a cover charge), as at a bar, club, or restaurant. _When we were in college and money was tight, we only went out to bars and clubs that had no cover._  
-__no dice__  
+__no dice__ :two::hammer:  
 __no good deed goes unpunished__ :two: Due to the cruelty, ignorance, or selfishness of the world or others, one’s good deeds or good intentions will often result in more trouble than they are worth. An ironic and sardonic twist on the more standard moral that “no good deed goes unrewarded.”  
 __no hard feelings__ :two::hammer:  
 __no holds barred__ :three: __1__ (in wrestling) With no restrictions on the kinds of holds that are used. __2__ Used to convey that no rules or restrictions apply in a conflict or dispute. _No-holds-barred military action._ _This book takes a no-holds-barred approach to taking personal responsability._ :es: sin tabúes  
@@ -1696,7 +1703,7 @@ __off to the races__ :two: An expression characterizing the activity or exciteme
 __off-kilter__ :three::hammer:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
-__Oh, boy!__ __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
+__Oh, boy!__ :two: __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __old as the hills__ Someone who is very old.  
@@ -1822,6 +1829,7 @@ __pay (one’s) last respects__ To show or express one’s respect for someone w
 __pay homage (to someone or something)__  
 __pay the price__ To suffer the consequences for doing something or risking something. _Oh, my head! I am paying the price for drinking too much last night._  
 __pay through the nose (for something)__ :three::hammer:  
+__pearl jam__ _Syn_ man batter, semen, come, man juice  
 __pearly whites__ A person’s set of teeth. _Be sure to brush your pearly whites twice a day, or you might end up getting a cavity!_  
 __peel off__ __3__ To deviate or depart from a group’s course or direction of movement. _When he saw his parents approaching, Tom peeled off from his friends and ducked down a side alley._  
 __peeping Tom__ A person who secretly watches others, especially for sexual gratification; a voyeur.  
@@ -1902,6 +1910,7 @@ __put it there__ :astonished: Shake my hand. As in greeting or in agreement to a
 __put off by someone or something__ :four: Distressed or repelled by someone or something. _I was really put off by your behavior. We were all put off by the unfairness of the rules._  
 __put our heads together__ To discuss or plan something together with other people.  
 __put out__ :two::hammer: _Put out the fires._  
+__put that demon to rest__  
 __put the hammer down__ To press down the accelerator (of an automobile) as far as possible; to accelerate to or travel at an automobile’s maximum speed. Primarily heard in US. _It would normally take us three days driving to New York from Colorado, but with my brother putting the hammer down the whole way, we made it in two._  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
 __put up with__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
@@ -2015,6 +2024,7 @@ __shed (some) light on (something)__
 __shine (one) on__  
 __shine (someone) on__ _Don’t shine me on._  
 __shine someone__  
+__shitshow__  
 __shoot for the moon__ To set one’s goals or ambitions very high; to try to attain or achieve something particularly difficult.  
 __shoot from the hip__  
 __shoot the breeze__ _informal_ Have a casual conversation. _We’ve been shooting the breeze for well over an hour now._  
@@ -2095,7 +2105,7 @@ __spin (one’s) wheels__ :four: To waste one’s time or energy idly or frivolo
 __split hairs__ :two: Argue or worry about small details.  
 __spoiled for choice__ Having an abundance of suitable or ideal options from which to choose, such that it may be difficult to make a decision. Primarily heard in US. _Between video games, television, and the Internet, kids these days are being brought up spoiled for choice when it comes to their entertainment._  
 __sponge something up__ To absorb or take up moisture, as with a sponge. _I had to sponge the spilled milk up from the floor, the chair, the table, and the baby. What a mess! Liz sponged up the water._  
-__spot on__ _informal_ :five: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
+__spot on__ _informal_ :six: (spot-on) Exactly right; perfectly accurate. Often hyphenated when used before a noun.  
 __spray and pray__ _video games_ The act of blindly firing an automatic weapon with the intent of potentially hitting the target; tends to be ineffective.  
 __spring fever__ A feeling of often restless excitement or exuberance coinciding with the onset of warmer spring weather. _It’s hard enough keeping control of a class full of young children throughout the year, but it’s particularly difficult once spring fever starts to spread._  
 __spring to life__ To become suddenly alive or more alive. _The party sprang to life after midnight._ _The city sprang to life at dawn._  
@@ -2310,6 +2320,7 @@ __turn the tables__ :two: To change or reverse something dramatically. _Wow, the
 __turn up the heat (on someone or something)__ To put pressure on someone or something; apply additional pressure to someone or something. _The FBI turned the heat up on the gang. The police turned up the heat on the people who park illegally every day._  
 __turning the tables__ :two::hammer: _Feds turning the tables on sexual predators._  
 __twiddle one’s thumbs__ :astonished: Be bored or idle, as in _There I sat for three hours, twiddling my thumbs, while he made call after call._ This expression alludes to the habit of idly turning one’s thumbs about one another during a period of inactivity.  
+__twists and turns__ Surprising changes. _It’s hard to follow all the twists and turns of the plot._  
 __two-way street__ _n_ :two: An arrangement or a situation involving reciprocal obligation or mutual action. A situation in which both sides must put forth an equal amount of effort to achieve a desired result. _Respect is a two-way street—you have to give it if you expect to receive it._  
 __uh-huh__  
 __uh-oh__ _interj_ _Uh-oh. The cops are here._  
