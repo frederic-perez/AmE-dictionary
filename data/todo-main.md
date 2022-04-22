@@ -1,18 +1,3 @@
-__defrock__ _v tr_ /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
-__decimate__ _v_ :astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._  
-__plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
-__specious__ _adj_ /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._  
-__pullulate__ _v intr_  
-__vernal__ _adj_  
-__salubrious__ _adj_ Conducive or favorable to health or well-being.  
-__lugubrious__ _adj_ Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._  
-__impetus__ _n_ :two: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
-__wallflower__  
-__drum break__ _n_ A short segment of a piece of music (such as a rock song or a march) in which the drummer or drummers play alone.  
-__occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
-__interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
-__impassioned__ _adj_ :two: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
-__underpin__ _v tr_  
 __deliver__ _v_ :two::hammer: _Can the recovery plan for elective care in England deliver?_  
 __retrograde__ _adj_ _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
 __chilblain__ _n_ (usually childblains) /ˈtʃɪl bleɪn/  

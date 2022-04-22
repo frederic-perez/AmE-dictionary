@@ -3681,7 +3681,7 @@ __deceit__ _n_ :two::hammer:
 __decelerate__ _v_  
 __decidedly__ _adv_ Without question and beyond doubt. _It was decidedly too expensive._  
 __decidious__ _adj_  
-__decimate__ _v_ _It decimated their relationship._  
+__decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
 __deck<sup>1</sup>__ _n informal_ The ground or floor.  
@@ -3747,7 +3747,7 @@ __deflation__ _n_ :two::hammer: _After too many midnight deflations, he moved to
 __deflect__ _v_  
 __deflection__ _n_ :two::hammer:  
 __defray__ _v_  
-__defrock__ _v_  
+__defrock__ _v tr_ :two: /dee-FROK/ [:scroll: From French défroquer (to defrock), from de- (away) + froc (frock, gown, coat), alluding to frock (habit) worn by members of the clergy.] To remove from a position of authority, privilege, etc.  
 __defrost__  
 __defry__  
 __deft__ _adj_ :four: __1__ Neatly skilful and quick in one’s movements. __2__ Demonstrating skill and cleverness. _Syn_ skilful _The script was both deft and literate._  
@@ -4414,6 +4414,7 @@ __drudgery__ _n_ :six::dart: Tedious, menial, or unpleasant work. _Syn_ donkeywo
 __drug user__ _n_ :two: A person who takes drugs. _Syn_ substance abuser, user  
 __drugstore__  
 __drugwise__  
+__drum break__ _n_ A short segment of a piece of music (such as a rock song or a march) in which the drummer or drummers play alone.  
 __drum out__ _v_ _The were drummed out of the club._  
 __drum up__  
 __drum__ _v_  
@@ -7342,7 +7343,7 @@ __impaneled__ _v_
 __impart__ _v_  
 __impartible__  
 __impasse__ _n_ :six::pencil2: Deadlock or stalemate. _At impasse._  
-__impassioned__ _adj_  
+__impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _an impassioned plea for justice._  
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ _n_ :two::hammer:  
@@ -7360,7 +7361,7 @@ __imperishable__ _adj_ :astonished: Unceasing. _Syn_ abiding, enduring
 __impermissible__ _adj_ :two::hammer:  
 __impersonation__  
 __impervious__ _adj_ :eight: __1__ Incapable of being penetrated: _a material impervious to water._ __2__ Incapable of being affected: _impervious to fear._ _The donjon was impervious to time._  
-__impetus__ _n_ :four::hammer:  
+__impetus__ _n_ :six: /IM-puh-tus/ /ˈɪm pɪ təs/ A force that causes or encourages something to be done or to become more active. _The high salary and generous benefits package were impetus enough to apply for the job._  
 __impinge on/upon somebody/something__ _v_ :two: (impinging) To have a harmful effect on someone or something.  
 __impinge__ _v_ :two::hammer:  
 __impish__ _adj_ Of or befitting an imp; mischievous. _Impish sense of humor._  
@@ -7606,6 +7607,7 @@ __interdental__ _adj_ __2__ Articulated with the tip of the tongue between the u
 __interdict<sup>1</sup>__ _v tr_  
 __interdict<sup>2</sup>__ _n_  
 __interdicting__  
+__interesting__ _adj_ /ˈɪn tər ə stɪŋ, -trə stɪŋ, -təˌrɛs tɪŋ/  
 __interim__ _adj, adv, n_ :two::hammer:  
 __interject__ _v_ To insert between other elements. _Syn_ interpose, throw in, come in, inject, put in _He listened thoughtfully, interjecting only the odd word._  
 __interloper__ _n_ /in-ter-LOH-per/ _As he watched the doe and fawn grazing in the field, the photographer was struck by a feeling of being an interloper._  
@@ -8615,7 +8617,7 @@ __lug wrench__ _n_ :two::hammer:
 __lug__ _v_ :nine: (lugs, lugging) __1__ To carry or drag (something heavy) with great effort. _A passenger lugs an injured swan onto the train._ _The assistant was lugging two heavy suitcases._ __2__ _v tr_ To introduce (an irrelevant topic) into a conversation or discussion. __3__ (Nautical Terms) _v tr_ (of a sailing vessel) To carry too much (sail) for the amount of wind blowing.  
 __luge__ _n_ _Olimpic luge team._  
 __luger__ _n_ _Team USA’s best lugers._  
-__lugubrious__ _adj_ :two: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
+__lugubrious__ _adj_ :three: Lugubrious means “mournful” or “dismal.” It can also mean “very sad in an exaggerated or insincere way.” Excessively mournful; doleful. Mournful, dismal, or gloomy, especially to an exaggerated or ludicrous degree. _Syn_ dreary, woeful, morose, funereal, doleful _He was so lugubrious that he could find melancholy in a child’s birthday party._ _The lugubrious musical passages made audience members teary-eyed._ _The actor is well-known for her lugubrious facial expressions and mannerisms._  
 __lull<sup>1</sup>__ _n_ :four::hammer: (lulls) _Save meetings for the lulls._  
 __lull<sup>2</sup>__ _v_ :four::hammer: (lulled)  
 __lumber<sup>1</sup>__ _v_ :four::hammer: (lumbering) _Two elephants lumber out of the bush to drink._  
@@ -9779,6 +9781,7 @@ __occasion__ _n_ :five::mega::pencil2::hammer: /əˈkeɪʒən/
 __occasional__ _adj_ :pencil2:  
 __occasionally__ _adv_ :pencil2:  
 __occlude__ _v_ To cause to become closed. _Syn_ obturate, impede, obstruct, jam, block _The excess inventory had occluded the exit, and was deemed a hazard by the safety inspector._  
+__occupation__ _n_ /ˌɒk yəˈpeɪ ʃən/  
 __occurr__ _v intr_ :pencil2:  
 __ochlophobia__ _n_ :astonished: An abnormal fear of crowds.  
 __ocotillo__ _n_ _Syn_ coachwhip, Fouquieria splendens, Jacob’s staff, vine cactus  
@@ -10839,6 +10842,7 @@ __plead out__
 __plead__ _v_ :three: To ask for something in an urgent or emotional way. _Lee is pleading with viewers to watch hthe film with an open mind._  
 __please__ _adv_ (Use it at the end of a request/question.)  
 __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A short pleated skirt._ _The lamp is available with stretched or pleated shade._  
+__plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
 __plethora__ _n_ :six: Extreme excess.  
@@ -11391,7 +11395,7 @@ __pulled pork sandwich__
 __pulley__ _n_ :pencil2::mega:  
 __pullout<sup>1</sup>__ _n_  
 __pullout<sup>2</sup>__ _adj_ _Pullout couches._  
-__pullulate__ _v_ __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
+__pullulate__ _v intr_ :two: __1__ To germinate; sprout. __2__ To breed or increase rapidly. __3__ To swarm; teem.  
 __pulmonary embolism__ _n_ A condition in which an embolus (blood clot, formed in a vein) breaks off and blocks a pulmonary artery which supplies blood to the lungs. It can result in pain, breathlessness, and sudden death.  
 __pulp__ _n_ _The pulps were running out of steam._  
 __pulpit__ _n_ :three::hammer:  
@@ -12442,6 +12446,7 @@ __salt away__
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltines__ _n_  
 __salty__  
+__salubrious__ _adj_ Conducive or favorable to health or well-being.  
 __salutary__  
 __salute<sup>1</sup>__ _n_  
 __salute<sup>2</sup>__ _v_ To salute a person or their achievements means to publicly show or state your admiration for them.  
@@ -13732,7 +13737,7 @@ __specifically__
 __specificity__ _n_ The ability of a test to correctly identify people without the disease.  
 __specifics__ _n_ _The new project lacks many specifics at this point, including a detailed timeline and budget._  
 __specimen__ _n_ _An adequate nasopharyngeal specimen._  
-__specious__ _adj_ :three::hammer: _Specious argument._  
+__specious__ _adj_ :four: /SPEE-shuss/ __1__ Having deceptive attraction or allure. _The new streamlined design of the phone is specious: it may look new, but its innards are the same, offering no new capabilities or improvements._ __2__ Having a false look of truth or genuineness. _The suspect insisted he was telling the truth, but the detective felt his statements were specious._ _Specious argument._  
 __speck__ _n_ :two::hammer: _A speck of blood._  
 __speckled__ _v_  
 __specs__ _n_ :two: Spectacles, glasses.  
@@ -15588,7 +15593,7 @@ __undergarments__ _n_ :two::hammer:
 __undergrad__ _adj, n_ _I’m working toward my undergrad degree._ _I’m an undergrad at Stanford University._  
 __undergraduate__ _adj, n_ _I’m working toward my undergraduate degree._ _I’m an undergraduate at Stanford University._  
 __undermine__ _v_ :nine::m: (undermined) __1__ To weaken by wearing away a base or foundation: _Water has undermined the stone foundations._ __2__ To weaken, injure, or impair, often by degrees or imperceptibly; sap: _Late hours can undermine one’s health._ __3__ To dig beneath; excavate ground from under, so as to form a tunnel or mine.  
-__underpin__ _v_ :four::hammer:  
+__underpin__ _v tr_ :five::hammer:  
 __underpinning__ _n_ :three::hammer:  
 __underprivileged__  
 __underrated__ _adj_ :pencil2: Underestimated.  
@@ -15920,6 +15925,7 @@ __vermillion__
 __vermin__ _n_ :four::hammer:  
 __vermouth__ _n_  
 __vernacular__ _n_ :four::hammer:  
+__vernal__ _adj_  
 __versatile__ _adj_ :two::hammer.  
 __vertical farm__  
 __verve__ _n_ :seven::dart: /vəːv/ [:scroll: from French, ‘vigour’] Great ​energy and ​enthusiasm. Liveliness. _The Jazz quartet played with verve. Or, the lottery winner was full of verve. She ​delivered her ​speech with ​tremendous ​wit and verve._  
@@ -16085,7 +16091,7 @@ __walkup__ _n_ (walkups) __1__ An apartment house or office building with no ele
 __wall__ _n_ :es: I’d put them up against a wall and shoot them. _Yo los llevaría a todos al paredón._  
 __wall-eyed__  
 __wallboard__  
-__wallflower__  
+__wallflower__ _n_ :two::hammer:  
 __wallop__ _v_ _informal_ :five: (walloped) To beat soundly; strike or hit very hard. _Syn_ whack, wham, whop _They walloped the back of his head with a stick._ _The storm was aimed to wallop Washington, D.C., today._ :es: golpear  
 __wallow__ _v_ :nine::m: (wallows, wallowed, wallowing) __1__ _(chiefly of large mammals)_ Roll about or lie relaxed in mud or water, especially to keep cool, avoid biting insects, or spread scent. :es: revolcarse por __2__ _(of a person)_ Indulge in an unrestrained way in (something that one finds pleasurable). _I was wallowing in the luxury of the hotel._ _Syn_ luxuriate, bask, take pleasure, take satisfaction, indulge (oneself) _They tend to wallow in their sorrow._  
 __wamble__ _v_ Move unsteadily or with a weaving or rolling motion. _As John wambled into the kitchen for his morning coffee, his head pounding and stomach reeling, he made a silent vow never to get drunk again._  
