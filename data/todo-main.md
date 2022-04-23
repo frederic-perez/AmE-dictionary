@@ -1,18 +1,3 @@
-__deliver__ _v_ :two::hammer: _Can the recovery plan for elective care in England deliver?_  
-__retrograde__ _adj_ _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
-__chilblain__ _n_ (usually childblains) /ˈtʃɪl bleɪn/  
-__grassroots__ _n_  
-__kazillion__ _n informal_ An indefinitely large number.  
-__humor<sup>1</sup>__ _n_  
-__humor<sup>2</sup>__ _v_  
-__dramedy__ _n_  
-__snowball<sup>1</sup>__ _n_  
-__snowball<sup>2</sup>__ _v_  
-__de-escalate__ _v_  
-__unnerving__ _adj_ :astonished:  
-__emergency__ _n_ :mega:  
-__break out__  
-__lobbyist__ _n_  
 __cactus__ _n_ :mega:  
 __Good Friday__ _n_  
 __pall<sup>1</sup>__ _n_  

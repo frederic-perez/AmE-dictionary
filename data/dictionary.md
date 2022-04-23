@@ -1700,6 +1700,7 @@ __break down__ _v_ :two::hammer: _The Disney World ride broke down._
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
 __break into__ _phr v_ To enter some place forcibly.  
+__break out__  
 __break the mould__  
 __break up__ _v_ Of a telephone conversation, to cease to be understandable because of a bad connection. _Your phone is breaking up._  
 __break wind__ _v_  
@@ -2500,7 +2501,7 @@ __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To 
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chieftain__ _n_  
-__chilblain__ _n_ :four: An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
+__chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
 __childbirth__  
@@ -3632,7 +3633,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
-__de-escalate__ _v_  
+__de-escalate__ _v_ :two::hammer:  
 __de-facto__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
@@ -3776,7 +3777,7 @@ __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
-__deliver__ _v_ :five::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._  
+__deliver__ _v_ :seven::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_  
 __deliverance__ _n_ :five::hammer: _Hope and deliverance._  
 __delivers__  
 __delivery note__  
@@ -4329,7 +4330,7 @@ __drain board__ _n_ :three::hammer: (drainboard)
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
-__dramedy__ _n_ :two::hammer:  
+__dramedy__ _n_ :three::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
 __draper__ _n_ _Chiefly British_ A dealer in cloth or clothing and dry goods.  
@@ -4689,6 +4690,7 @@ __embryo__
 __emcee__ _n_ :three: Variation of MC, master of ceremonies. A person who acts as host at formal occasions (makes an introductory speech and introduces other speakers). _Syn_ host, master of ceremonies _An emcee leads them._  
 __emceed__ _v_  
 __emerald__ _n_ :four::hammer: _Emerald ash borers._ _Thousands of emerald and green scarves are held outstretched overhead._ :es: esmeralda  
+__emergency__ _n_ :mega:  
 __emeritus__ _adj_ :three: __1__ Holding after retirement an honorary title corresponding to that held last during active service. __2__ Retired from an office or position.  
 __emery board__ _n_ A nail file consisting of a strip of cardboard coated with powdered emery.  
 __emery__ _n_ :six::astonished: A fine-grained impure corundum used for grinding and polishing. _An emery wheel._ _Emery paper._  
@@ -6300,7 +6302,7 @@ __grappling__ _v_ _Students grappling with the same problem._
 __grapplings__ _n_  
 __grass-roots<sup>1</sup>__ _n_  
 __grass-roots<sup>2</sup>__ _adj_ _Grass-roots campaign._  
-__grassroots__ _pl n_ :two::hammer: _A grassroots effort._  
+__grassroots__ _pl n_ :three::hammer: _A grassroots effort._  
 __grate<sup>1</sup>__ _n_ :three::hammer: (grates) :camera: _Cast iron grates._ _He needed both hands to pull the stiff grate._  
 __grate<sup>2</sup>__ _v_ :six: (grates, grated, grating) Have an irritating effect. _Syn_ irritate, jar _The buzzing sound grated on her nerves._ _It also can be grating._ _Fresh grated carrots._  
 __grateful__  
@@ -7203,7 +7205,8 @@ __hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vib
 __hummingbird__ _n_ :es: colibrí  
 __hummock__ _n_ :two: A small natural hill. _Syn_ hillock, knoll, mound  
 __hummus__ _n_ :two::mega::hammer: /ˈhʊməs/  
-__humor__ _v_ :four::pencil2::hammer: _Just humor me._  
+__humor<sup>1</sup>__ _n_  
+__humor<sup>2</sup>__ _v_ :five::pencil2::hammer: _Just humor me._  
 __hump<sup>1</sup>__ _v_ :nine::m: __1__ To bend or round into a hump; arch. __2a__ _(Slang)_ To exert (oneself). __b__ _(Slang)_ To carry, especially on the back. __3__ _(Vulgar Slang)_ To engage in sexual intercourse with.  
 __hump<sup>2</sup>__ _n_ :two::hammer: (humps) _Two green humps in the mist._  
 __Humpty Dumpty__ _n_ :five: (humpty dumpty, humpty-dumpty) [:scroll: After Humpty Dumpty, a character in a nursery rhyme, who is irreparably broken after a fall. He’s typically shown as an anthropomorphic egg.] __1__ A short, rotund person. __2__ Something or someone broken beyond repair.  
@@ -7931,6 +7934,7 @@ __karmic__ _adj_ _Karmic balance._
 __kata__ _n_  
 __katabatic__ _adj_ :two: Of or relating to a cold flow of air traveling downward. _Katabatic wind._  
 __Katy__ _n_ _Got to figure the Red Rifle extracts some revenge on the team he followed while growing up in Katy._  
+__kazillion__ _n informal_ An indefinitely large number.  
 __keel<sup>1</sup>__ _v_ :three::hammer: (keeled)  
 __keel<sup>2</sup>__ _n_  
 __keen__ _adj_ :nine::m: If you have a keen interest in something, you are really, really into it. Keen is an adjective that describes something that is intense, sharp, or focused. The adjective keen comes from the Old English word cene that translates to “bold and brave” and while the spelling is now really different, the sounds are similar. Variations of keen as being “bold” and “strong” show up in other languages like Old Norse, German, Dutch, but apparently only English has the meaning of “sharp” — relating to “an edge or blade.” Keen has a lot of close — and brutal — synonyms, such as caustic, cutting, piercing, and penetrating! _Keen interest._ _The native digital companies are keen on TV._ _We are keen walkers._  
@@ -8480,6 +8484,7 @@ __loanword__ _n_ A word taken from another language and at least partly naturali
 __loath__ _adj_ Very unwilling to do something.  
 __loathe__ _v_ To dislike someone or something very much.  
 __lob__ _v_ :three::hammer: _They were lobbing rocks at the gatehouse and the wall._  
+__lobbyist__ _n_  
 __locale__ _n_ :two::hammer: _We want to recruit nationally, but in our locale we have talent._  
 __locavore__ _n_ One who mainly eats locally produced food, especially within a specified radius of one’s home.  
 __loch__ _n_  
@@ -12061,7 +12066,7 @@ __retrench__ _v_ (retrenching) To reduce (expenses, for example); cut down.
 __retrenchment__ _n_ :two::hammer: _An era of American retrenchment._  
 __retribution__  
 __retrocede__ _v_  
-__retrograde<sup>1</sup>__ _adj_  
+__retrograde<sup>1</sup>__ _adj_ :two::hammer: _NHS staff face unacceptable health risks as a result of “retrograde” changes to the government’s guidance on preventing spread of SARS-CoV-2 infection, doctors’ leaders have warned._  
 __retrograde<sup>2</sup>__ _v_  
 __retronym__ _n_  
 __retroscopic__  
@@ -13554,6 +13559,8 @@ __snot-nosed__ _adj_ (used colloquially) Overly conceited or arrogant.
 __snout__ _n_  
 __Snow Belt__ _n_ (Snowbelt) The northern parts of the U.S. that are subject to considerable snowfall.  
 __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.  
+__snowball<sup>1</sup>__ _n_  
+__snowball<sup>2</sup>__ _v_  
 __snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snowbank._  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
@@ -15664,7 +15671,7 @@ __unlike<sup>1</sup>__ _adj_
 __unlike<sup>2</sup>__ _prep_  
 __unlucky__ _adj_  
 __unmissable__ _adj_ A movie, play, etc. that is unmissable is so good that you think everyone should see it.  
-__unnerving__ _adj_ :two::hammer:  
+__unnerving__ _adj_ :three::hammer::astonished:  
 __unobstrusive__  
 __unprecedented__ _adj_ Having no previous example: _unprecedented economic growth._  
 __unprofessional__ _adj_  
