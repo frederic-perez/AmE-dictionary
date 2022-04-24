@@ -683,7 +683,7 @@ __ask after__ _phr v_ To ask for news about someone.
 __ask for__ _phr v_ :dart: To provoke a negative reaction.  
 __ask out__ _phr v_ :two: To invite (someone) to a social engagement.  
 __ask over__ _phr v_ To invite people to your house.  
-__askance__ _adv_ :two: With disapproval, suspicion, or distrust. _Syn_ sidelong _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
+__askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or distrust. _The children looked askance at their mother when she suggested they turn off their electronic devices and go play outside in the nice weather._ __2__ With a side-glance. _I glanced askance at this strange creature, and found him watching me with his queer, restless eyes._  
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
@@ -3554,7 +3554,7 @@ __D-ring inset__
 __dab<sup>1</sup>__ _v_ :nine: (dabs, dabbing) __1__ _v intr/tr_ To touch a surface gently several times with something such as a piece of cloth, in order to make it clean or dry. _Remove the stain by carefully dabbing it with a cloth._ _Marge dabbed at her eyes with a handkerchief._ _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._ __2__ _v tr_ To quickly put small amounts of a substance on a surface._ Dab some lotion onto the affected area._  
 __dab<sup>2</sup>__ _n_ :three: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
-__dabbler__ _n_ One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
+__dabbler__ _n_ :two: An amateur who engages in an activity without serious intentions and who pretends to have knowledge. One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
 __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
 __dada__ _n_ _Cinematic dada._  
 __Daddy-O__ _n_  
@@ -3945,6 +3945,7 @@ __dike__ _n_ :pencil2: (dyke)
 __dilapidate__ _v_ :three::hammer: _Dilapidated yatch._  
 __dilapidated__ _adj_ Decayed, deteriorated, or fallen into partial ruin especially through neglect or misuse.  
 __dilemma__  
+__dilettante__ _n_ A dabbler in an art or a field of knowledge. _Syn_ sciolist _He claimed to be serious about his paintings, but he was at heart a mere dilettante._  
 __diligent__ _adj_ :two::dart: Characterized by steady, earnest, and energetic effort. _Syn_ persevering  
 __dill__ _n_ :two::hammer: _A dill pickle._  
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
@@ -6908,6 +6909,7 @@ __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
 __hideout__ _n_ :two::hammer:  
+__hieratic__ _adj_ Of or associated with sacred persons or offices. _Syn_ priestly, sacerdotal _The laws did not apply to the hieratic class, whose members were held as nearly gods._  
 __higgledy-piggledy__  
 __Higgs boson__ _n_ :two: (Higgs particle, God particle) An elementary particle with zero spin and mass greater than zero, predicted to exist by electroweak theory and other gauge theories, discovered in 2012.  
 __high and dry__ _adj_ :two: Abandoned, helpless. _The consumer is left high and dry._  
@@ -7334,6 +7336,7 @@ __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness,
 __immerse__ _v_  
 __immigrated__  
 __immigration__ _n_ :mega: /ɪmɪˈɡreɪʃən/  
+__immiserate__ _v tr_ /i-MIZ-uh-rayt/ To impoverish or to make miserable.  
 __immobile__  
 __immodest__ _adj_  
 __immolate__ _v_ :mega:  
@@ -7917,6 +7920,7 @@ __jut out__ _v_ :four::hammer: _Pipes jutting out of the windows._ _The steel sh
 __jut__ _v_ :four::hammer: (jutted, jutting)  
 __juvenile<sup>1</sup>__ _adj_ _The Downeast Salmon Federation released the juvenile salmon into the river._  
 __juvenile<sup>2</sup>__ _n_ :two::hammer: _Starship Soldier was a juvenile written by Heinlein._  
+__juxtapose__ _v_ /JUK-stuh-pohz/ To place (different things) side by side (as to compare them or contrast them or to create an interesting effect). _The committee juxtaposed the proposals for the new student center, trying to determine which would better meet the needs of the university._  
 __juxtaposition__ _n_  
 __K-12__ _n_ :four: Kindergarten through 12th Grade (US). _K-12 population._ _K-12 students._  
 __K-pop__  
@@ -10347,6 +10351,7 @@ __passel__ _n_ :two: /PASS-ul/ A large number or amount of something. _A passel 
 __passerby__ _n_ (passer-by) :three: Person who passes by casually or by chance. _They were mugging passerby._  
 __passersby__ _n_ :pencil2::astonished: Plural of passerby.  
 __passionate__ _adj_  
+__Passover__  
 __pastiche__ _n_ :three::hammer:  
 __pastime__ _n_ :five::pencil2: (pastimes) An activity that occupies one’s spare time pleasantly: _Sailing is her favorite pastime._ :es: afición, diversión, pasatiempo  
 __pastoral__ _adj_ :two: Idyllically rustic. _Syn_ arcadian, bucolic _Last I heard he bought a cottage on farmland and now leads a perfectly pastoral existence._ _A pastoral letter._  
@@ -12393,6 +12398,7 @@ __rustling__ _n_ __2__ A light noise, like the noise of silk clothing or leaves 
 __rusty-dusty__ _n_ The posterior; the buttocks. _I almost kicked him in the rusty-dusty._  
 __rut__ _n_ :two::hammer: _Some guy with rut for brains._  
 __rutabaga__ _n_ /ˌruːtəˈbeɪgə/ :es: nabo  
+__ruthful__ _adj_  
 __ruthless__ _adj_ :two: Without pity or compassion; cruel; merciless. :es: despiadado, implacable  
 __RV pads__  
 __Rx lab__  
@@ -13190,6 +13196,7 @@ __simony__ _n_ :eight: /ˈsaɪmənɪ/ (Christianity) The practice, now usually r
 __simper<sup>1</sup>__ _n_ :two: A simpering smile; smirk.  
 __simper<sup>2</sup>__ _v_ :two: __1__ _intr_ To smile coyly, affectedly, or in a silly self-conscious way. __2__ _tr_ To utter (something) in a simpering manner.  
 __Simple Simon__ _n_ /SIM-puhl SYM-uhn/ [:scroll: After Simple Simon, a foolish boy in a nursery rhyme.] A simpleton.  
+__simulacrum__ _n_ /sim-yuh-LAK-rum/ A superficial likeness or representation of something. _The wax figure is a perfect simulacrum of the president._  
 __Sin City__ _n_ Urban area (a city or part of) that caters to various vices. These vices may be legal (depending on area) or illegal activities which are tolerated. Cities or areas that have this reputation include, in the US: Las Vegas, NV, and Reno, NV.  
 __Sinai__ _n_ (Mount Sinai) :mega:  
 __since forever__  
@@ -15814,7 +15821,7 @@ __V-E Day__ _n_ (V(ictory in) E(urope) Day) May 8, 1945, the day on which the Al
 __V-J Day__ _n_ :two: (V(ictory in) J(apan) Day) August 15, 1945, the day on which the Allies announced the surrender of Japanese forces during World War II.  
 __vacant__ _adj_ :two::hammer: _A vacant look._ _Adam parked in a vacant spot._  
 __vacant-eyed__  
-__vacate__ _v_  
+__vacate__ _v_ :two::hammer:  
 __vacay__ _n_ _informal_ A vacation. _I’m in France right now, on vacay._  
 __vaccination__  
 __vaccine__  
