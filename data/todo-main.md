@@ -322,3 +322,16 @@ __topiary__
 __trashy__  
 __unparalleled__ _adj_  
 __yew__  
+__spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
+__vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
+__house trailer__ _n_ A mobile home.  
+__shoulder__ _v_  
+__dope__ _n_ __3__ _Informal_ A stupid person; a dolt.  
+__plethora__  
+__La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
+__invigorating__ _adj_  
+__footing__ _n_ _I found my footing._  
+__bland__  
+__aboveboard<sup>1</<up>__ _adj_ Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
+__aboveboard<sup>2</<up>__ _adv_  
+__unforgiving__ _adj_  
