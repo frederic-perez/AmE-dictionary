@@ -176,12 +176,11 @@ __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __bas-relief__ _n_  
-__rink__ _n_  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __tantalizing__ _adj_ :two::hammer:  
 __footpath__ _n_ A narrow path for persons on foot.  
 __estuary__ _n_  
-__mecca__ _n_ /mĕk′ə/ :two: __1a__ A place that is regarded as the center of an activity or interest. __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
+__mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __picturesque__ _adj_ :three::hammer:  
 __cloakroom__ _n_ :es: guardaropa  
 __deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
@@ -190,7 +189,6 @@ __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __appetizer__ _n_  
-__decadent__ _adj_ _Known for serving award winning decadent desserts and fine wines._  
 __kiosk__ _n_ _Information kiosks._  
 __buffalo__ _n_ (_n pl_ buffalo or buffaloes or buffalos)  
 __sleek__ _adj_  
@@ -228,7 +226,6 @@ __getaway__ _n_
 __wannabe__ _adj, n_  
 __alongside__  
 __upscale__ _adj_ :two::hammer: _Upscale shops._  
-__eatery__ _n_ :two::hammer:  
 __exhibit__ _n_  
 __hatch__ _v_  
 __treetops__ _n_  
@@ -247,12 +244,11 @@ __visitor__
 __dot__ _v_ _Wooden stools dot the floor of hot spots._  
 __alcove__ _n_ _Historic alcoves._  
 __eclectic__ _adj_ :two::pencil2::hammer:  
-__lush__ _adj_ :two::hammer: _Lush garden/lawn._  
 __mosey__ _v intr_  
 __grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
 __lore__ _n_  
 __eddy__ _v_ _Water eddies and cascades._  
-__delectable__ _adj_ :two::hammer: _Delectable dining._  
+__delectable__ _adj_ :three::hammer: _Delectable dining._  
 __eye-popping__ _adj_ _Eye-popping croissants._  
 __baubles__  
 __nightcaps__  
@@ -261,7 +257,7 @@ __hoedowns__ _n_
 __grist__ _n_ _A water-powered grist mill._  
 __smortasbord__  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
-__abound__ _v_  
+__abound__ _v_ :two::hammer:  
 __accompaniment__  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __balustrade__ _n_  
@@ -275,12 +271,11 @@ __chaperone__ _n_ _One adult chaperone is required for every ten students._
 __cistern__ _n_  
 __clutch bags__  
 __complimentary__ _adj_ :three::hammer: _A complimentary glass of house wine._  
-__concierge__ _n_ _Ask your hotel concierge for a special value card._  
+__concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __cornerstone__ _n_ :pencil2:  
 __covetable__ _adj_  
 __cufflinks__  
 __emporium__  
-__enclave__  
 __ethos__  
 __extravaganza__  
 __fancy__ _v_  
@@ -288,7 +283,6 @@ __ferns__
 __festooned__  
 __hardwood__  
 __haunts__  
-__hotbed__  
 __house wine__ _n_ :es: vino de la casa  
 __house__ _v_  
 __interspersed__ _v_  
@@ -302,7 +296,6 @@ __parcel__ _n_
 __pavers__ _n_  
 __pedigree__  
 __platted__ _v_  
-__quintessential__  
 __ravishing__  
 __rhododendrons__ _n_ :pencil2:  
 __rotunda__ _n_ :two::hammer:  
@@ -327,7 +320,6 @@ __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ V
 __house trailer__ _n_ A mobile home.  
 __shoulder__ _v_  
 __dope__ _n_ __3__ _Informal_ A stupid person; a dolt.  
-__plethora__  
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
 __invigorating__ _adj_  
 __footing__ _n_ _I found my footing._  
@@ -335,3 +327,99 @@ __bland__
 __aboveboard<sup>1</<up>__ _adj_ Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
 __aboveboard<sup>2</<up>__ _adv_  
 __unforgiving__ _adj_  
+__abundant__ _adj_  
+__acclaim__ _n_  
+__alike__  
+__amp__ _n_ _Amps & alcohol._  
+__ante__ _n_  
+__apprentice__  
+__arcade game__  
+__artisanal__ _adj_  
+__barware__  
+__bawdy__  
+__blarney__ _n_  
+__bohemian__ _adj_ _Bohemian boutiques._  
+__brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
+__bustle__ _n_  
+__Chicagoland__  
+__christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
+__commonality__ _n_  
+__consignment__ _n_ :three::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._  
+__cred__ _n_  
+__dashing__ _adj_ _A dashing atmosphere._  
+__decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
+__droolworthy__ _adj_ _Droolworthy shawarna._  
+__earthy__ _adj_  
+__eatery__ _n_ :three::hammer: _Buzzing eateries._  
+__enclave__ _n_ :two::hammer:  
+__esteemed__ _adj_  
+__expansive__ _adj_ _An expansive craft beer list._  
+__fare__ _n_ :eight: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean Joho crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._  
+__Ferris wheel__ _n_  
+__finger-licking__ _adj_ _Finger-licking barbecue._  
+__funhouse__ _n_ (fun house) _Funhouse-like reflections._  
+__greasy spoon__ _n slang_ A small, inexpensive, often unsanitary restaurant. _The classic greasy spoon concept._  
+__ground-breaking__  
+__growler__ _n_  
+__grub__  
+__haunt__ _n_ _It is a favorite BYOD haunt._  
+__hearty__ _adj_ _Hearty fare._  
+__hotbed__ _n_ :two::hammer:  
+__impeccable__ _adj_ :two::pencil2::hammer:  
+__jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
+__kale__ _n_  
+__libation__ _n_  
+__low-key__ _adj_  
+__lowdown__ _n_  
+__Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
+__luscious__  
+__lush__ _adj_ :three::hammer: _Lush garden/lawn._ _Their lush outdoor patio._  
+__mainstay__  
+__merino__ _n_ _Merino wool._  
+__Moorish__ _adj_ _Moorish architecture._  
+__myopic__ _adj_  
+__negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
+__nifty__ _adj_ _Nifty gadgets._  
+__nosh__ _v_  
+__panna cotta__ _n_  
+__paper lantern__ _n_ :camera:  
+__patron__ _n_ :two::hammer:  
+__plethora__ _n_ :two::hammer:  
+__pool table__  
+__procure__ _v_  
+__punch__ _n_ :es: ponche  
+__quintessential__ _adj_ :two::hammer:  
+__rejuvenated__ _adj_  
+__remiss__ _adj_  
+__respite__ _n_  
+__rink__ _n_ :two::hammer: _A wintertime skating rink._  
+__riverfront__  
+__rowdy__  
+__sammy__ _n_ _It is known for its killer grilled cheese sammies._  
+__savory__  
+__scatting__ _v_  
+__schooner__  
+__shuffleboard__ _n_  
+__skit__ _n_ _Skit theater._  
+__slushies__ _n_ _Boozy slushies._  
+__storefront__ _n_  
+__stunning__  
+__sundae__ _n_  
+__swanky__ _adj_ _Swanky steakhouses._  
+__tabletop__ _adj, n_  
+__tap into__  
+__telly__ _n_ :dart:  
+__thrift__ _n_ _Thrift store._  
+__timepiece__ _n_  
+__tony__ _adj_ _Tony boutiques._  
+__top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
+__trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
+__trinket__ _n_ _Trinket shops._  
+__trove__ _n_ :two::hammer:  
+__tuck__ _v_ (tucked)  
+__umpteen__ _adj, n_  
+__undeniably__ _adv_ _An undeniably true Chicago snack._  
+__usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
+__wanderlust__  
+__watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
+__whimsical__ _adj_  
