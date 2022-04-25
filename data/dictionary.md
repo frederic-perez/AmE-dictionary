@@ -626,7 +626,7 @@ __argot__ _n_ A specialized vocabulary or set of idioms used by a particular gro
 __arguably__ _adv_ :two::hammer:  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
-__Arkansas__ _n_ :mega:  
+__Arkansas__ _n_ :two::mega::hammer:  
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
@@ -2056,6 +2056,7 @@ __cacography__ _n_ Poor handwriting. _Syn_ scrawl, scribble, scratch
 __cacophonous__ _adj_ :two: Having a harsh, unpleasant sound; discordant. _Syn_ jarring, grating, raucous, strident, dissonant, inharmonious _The school’s cafeteria was as cacophonous as a hen yard._  
 __cacophony__ _n_ :four Jarring, discordant sound; dissonance. Cacophony is the act of purposefully using harsh sounds. Example: The gnashing of teeth and screeching of bats kept me awake. _Syn_ blare, blaring, clamor, din _I heard a cacophony of horns during the traffic jam._  
 __cacti__ _n_ :two::hammer:  
+__cactus__ _n_ :mega:  
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
@@ -3113,7 +3114,7 @@ __conundrum__ _n_
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
-__convene__ _v_ :nine: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
+__convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
 __convenience store__  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
@@ -3127,6 +3128,7 @@ __convolution__ _n_ __2__ An intricate, involved, or confused matter or conditio
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
+__cook__ _n_  
 __cook-off__  
 __cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
 __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
@@ -3405,6 +3407,7 @@ __cross<sup>3</sup>__ _adj_ _No one heard her say a cross word about anyone else
 __crossbar__ _n_  
 __crossbeam__ _n_  
 __crossbow__ _n_  
+__crosshair__ _n_ (cross hair)  
 __crossover<sup>1</sup>__ _n_  
 __crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
 __crossroad__ _n_ _He is at a significant crossroads in his career._  
@@ -3493,7 +3496,7 @@ __cupping__ _n_ :pencil2:
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
-__curb<sup>2</sup>__ _v_ :three::hammer: _Curb drug resistance._  
+__curb<sup>2</sup>__ _v_ :four::hammer: _Curb drug resistance._  
 __curdle__ _v_  
 __curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
@@ -5735,7 +5738,7 @@ __fractional__ _adj_ _A fractional line of block._
 __fractious__ _adj_ _His fractious temperament._  
 __fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
-__frail<sup>1</sup>__ _adj_  
+__frail<sup>1</sup>__ _adj_ :two::hammer: _Too frail to leave._  
 __frail<sup>2</sup>__ _n_  
 __frame grab__  
 __frame__ _v_ _He framed Roger Rabbit._  
@@ -6227,7 +6230,7 @@ __goo__ _n informal_ :two: Sticky substance.
 __Good Book__ _n_  
 __good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
-__Good Friday__  
+__Good Friday__ _n_ :two::hammer:  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :three: __1__ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._ __2__ Of fine appearance. _Goodly castles._  
@@ -6582,7 +6585,7 @@ __halfback__
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
 __hall boy__ _n_  
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
-__hallmark__ _n_ :five: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
+__hallmark__ _n_ :six: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halt__ _v_  
 __halter__ _n_ :seven: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Citizens with halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  
@@ -7645,7 +7648,7 @@ __intramural__
 __intransigence__ _n_ Unwillingness to compromise, especially from an extreme position.  
 __intransigent__ _adj_ :two: /in-TRAN-suh-junt/ Refusing to moderate a position, especially an extreme position; uncompromising. _Syn_ adamant, inexorable, adamantine  
 __intrepid__ _adj_ Invulnerable to fear or intimidation. _Syn_ audacious, dauntless, fearless, brave, hardy  
-__intricacy__ _n_ :two::hammer: (intricacies)  
+__intricacy__ _n_ :three::mega::hammer: (intricacies)  
 __intricate__ _adj_ :two::hammer:  
 __intrusive__ _adj_  
 __intuit__ _v_ :four: To know or understand by intuition.  
@@ -10186,7 +10189,8 @@ __paleo__
 __palfrey__ _n_ :two: A palfrey is a type of horse that was highly valued as a riding horse in the Middle Ages. It was a lighter-weight horse, usually a smooth gaited one that could amble, suitable for riding over long distances. _Six little palfreys caparisoned in green velvet with crimson tassels._  
 __palindrome__ _n_ /PAL-un-drohm/  
 __palisade__ _n_ /pal-uh-SAYD/ :two::hammer: _The iron palisade surrounding the decrepit mansion stood strong._  
-__pall__ _n_ :five::hammer: _The tragedy casts a pall over Austin._  
+__pall<sup>1</sup>__ _n_ :six::hammer: _The tragedy casts a pall over Austin._  
+__pall<sup>2</sup>__ _v_  
 __palladium__  
 __pallbearer__ _n_ :two: One of several persons who carry or attend the coffin at a funeral.  
 __palled__ _v_  
@@ -11822,7 +11826,7 @@ __reckon__ _v_ :three::hammer:
 __reckoning__ _n_  
 __reclaimed wood__ _n_ (reclaimed lumber) Reclaimed Wood or Lumber has a past and has been used for buildings and structures from the 18th to the early 20th century. The wood is recycled and reused to meet today’s ever-growing need for sustainable and eco-friendly homes and businesses. _Antique doors and beams made of reclaimed wood._  
 __recollect__ _v_  
-__recollection__ _n_ :six::hammer:  
+__recollection__ _n_ :seven::hammer::hammer:  
 __reconcile__ _v_  
 __reconnoiter__ _v_ /ˌri kəˈnɔɪ tər, ˌrɛk ə-/  
 __reconvene__ _v_ :six::hammer: (reconvenes, reconvened) _Kubiak and Manning will reconvene next week._  
@@ -15318,6 +15322,7 @@ __treat<sup>2</sup>__ _n_ :two::hammer:
 __treble<sup>1</sup>__ _adj_ :three: __1__ Threefold; triple. _A treble hook._  
 __treble<sup>2</sup>__ _v_ :four::dart: To make or become triple. _Doctors’ early retirement has trebled since 2008._  
 __treen__ _n_ Small woodenware.  
+__trek__ _n_ :mega:  
 __trellis__ _n_ :seven::hammer: (trellises) _A series of couches shaded by trellises._  
 __trellising__ _v_ :astonished: _You’re re-trellising vines in the scorching sun._  
 __tremendous__ _adj_ :two::hammer:  
@@ -15379,7 +15384,7 @@ __triumvirate__ _n_ :three::hammer:
 __trivet__ _n_ :two::mega::hammer:  
 __trochanter__ _n_ :two::hammer: _Greater trochanter._  
 __trodden down__ _v_  
-__trodden__  
+__trodden__ _v_ :two::hammer:  
 __troglodyte__ _n_ :two::hammer:  
 __Trojan__ _n_ :astonished: After Troy, an ancient city in modern-day Turkey. From the reputation of Trojans in defending their city. The computing sense is from Trojan horse. __1__ A person from Troy. __2__ One who exhibits great stamina, energy, and hard work. __3__ A merry fellow. __4__ In computing, a piece of malware that appears harmless, but causes damage.  
 __troll<sup>1</sup>__ _v_ :two::hammer: _Kim may see these dual transitions as an opening to troll world powers._  

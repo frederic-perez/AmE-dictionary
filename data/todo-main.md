@@ -1,18 +1,3 @@
-__cactus__ _n_ :mega:  
-__Good Friday__ _n_  
-__pall<sup>1</sup>__ _n_  
-__pall<sup>2</sup>__ _v_  
-__trek__ _n_ :mega:  
-__recollection__ _n_ :mega:  
-__intricacies__ _n_ :mega:  
-__trodden__ _v_  
-__frail__ _adj_ _Too frail to leave._  
-__crosshair__ _n_ (cross hair)  
-__hallmark__ _n_  
-__Arkansas__ _n_ :mega:  
-__convene__ _v_  
-__curb__ _v_  
-__cook__ _n_  
 __fave__ _n_  
 __eleven__ _n_ :mega:  
 __relapse__ _n_  
