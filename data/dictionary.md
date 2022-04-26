@@ -1712,7 +1712,7 @@ __breaking character__
 __breakneck__ _adj_ :two: __1__ Dangerously fast: _a breakneck pace._ _Forcing defenses to react on the fly to a breakneck tempo._ __2__ Likely to cause an accident: _a breakneck curve._  
 __breakout<sup>1</sup>__ _n_ :four: An escape from jail.  
 __breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
-__breakthrough__ _n_  
+__breakthrough__ _n_ :two: __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
 __breakup__ _n_ :three: The termination or disintegration of a relationship (between persons or nations). _Sharing breakup stories._  
 __breakwater__ _n_  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
@@ -3995,7 +3995,7 @@ __dirigiste__
 __dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
 __dirt bike__ _n_ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
-__dirtbag__ _n_ _slang_ :four: A filthy or disreputable person.  
+__dirtbag__ _n slang_ :six: A filthy or disreputable person.  
 __dirtdobbers__  
 __dirty boogie__  
 __dirty-mouth__  
@@ -4652,6 +4652,7 @@ __elevator boy__
 __elevator control box__  
 __elevator operator__ _n_ :camera:  
 __elevator__ _n_ :two::hammer: __2__ A movable control surface, usually attached to the horizontal stabilizer of an aircraft, that is used to produce motion up or down.  
+__eleven__ _n_ :mega:  
 __elfin__ _adj_  
 __elicit__ _v_ :eight: /ih-LISS-it/ (elicited) To get (a response, information, etc.) from someone. _The final amount raised by the charity walk elicited cheers from the crowd._ _The teacher’s question elicited no response._  
 __elide__ _v_ :three: To suppress; omit; ignore; pass over. _Why do you elide your feelings?_  
@@ -4772,6 +4773,7 @@ __enlivened__
 __enmity__ _n_ :eight: A feeling or condition of hostility; hatred; ill will; animosity. _Syn_ hostility, antagonism  
 __ennui__ _n_ :two::hammer:  
 __enormous__ _adj_ :mega: /ɪˈnɔːməs/  
+__enough__ _adj, adv, pron_ :mega:  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
 __enrichment__ _n_  
@@ -4866,7 +4868,7 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _pref_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
-__escalate__ _v_  
+__escalate__ _v_ :two::hammer:  
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
@@ -5189,7 +5191,8 @@ __faux pas__ _n_ :two: A social blunder.
 __faux__ _adj_ Artificial; fake: _faux pearls._ _Three faux tombstones._  
 __faux-pas__  
 __fava beans__  
-__fave__ _v_ _informal_ :two::hammer:  
+__fave<sup>1</sup>__ _n_  
+__fave<sup>2</sup>__ _v_ _informal_ :two::hammer:  
 __favor__ _v_ :dart:two: (favored) _Would you favor or oppose sending ground troops to Mars?_ _San Lorenzo of Argentina is the team favored by Pope Francis._  
 __favored__ _adj_ Preferred above all others and treated with partiality. _Syn_ best-loved, pet, preferred, favorite _My sister is clearly the favored child—she has a later curfew and gets away with things I never could!_  
 __favoritism__ _n_  
@@ -5820,7 +5823,7 @@ __front runner__ _n_ :three::hammer: (front-runner, frontrunner)
 __front-end__ _adj_ _The processing fee must be paid in advance by the mark to the swindler and this is why it is variously known as the advance fee or front-end scam._  
 __frontispiece__ _n_  
 __frontline<sup>1</sup>__ _n_ (front line)  
-__frontline<sup>2</sup>__ _adj_ (front-line)  
+__frontline<sup>2</sup>__ _adj_ :two: (front-line) __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
@@ -7716,7 +7719,7 @@ __itty-bitty__ _adj_ _informal_ Very small. _Syn_ teensy-weensy _These itty-bitt
 __Ivy League__ _n_ :two::hammer: _Ivy League school._  
 __ivy__ _n_ :five::hammer: :es: hiedra  
 __J-strokes__  
-__jab<sup>1</sup>__ _n_ :six: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection. _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
+__jab<sup>1</sup>__ _n_ :seven: __1__ A quick, sharp blow, especially with the fist. _A jab in the stomach._ _Syn_ poke, prod __3__ _informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_ _The flu jab could prove ineffective._ _People should aim to protect their health by getting a flu jab._  
 __jab<sup>2</sup>__ _v_ :nine: (jabbed, jabbing) Poke roughly or quickly, especially with something sharp or pointed. _She jabbed him in his ribs._ _Syn_ poke, prod  
 __jabber__ _v_ :four: (jabbered, jabbering) Talk in a noisy, excited, or declamatory manner. _Syn_ mouth off, rabbit on, rant, rave, spout _The instant I walked through the door, my sister began to jabber about her latest preteen crisis-something to do with wearing the wrong color of nail polish to school on a Wednesday._  
 __jabberwocky__ _n_ Nonsensical language (according to Lewis Carroll).  
@@ -8131,7 +8134,7 @@ __lagoon__ _n_ _The Venetian lagoon._
 __lahar__ _n_ :three: An avalanche of volcanic water and mud down the slopes of a volcano.  
 __laid back attitude__  
 __lain__  
-__lair__ _n_ :three::hammer: _A tiger’s lair._ _Like a coyote sleeping in its lair._  
+__lair__ _n_ :four::hammer: _A tiger’s lair._ _Like a coyote sleeping in its lair._  
 __lairy__ _adj_ :two: Gaudy or flashy.  
 __lalochezia__ _n_ :astonished: Emotional discharge gained by uttering indecent or filthy words.  
 __lam__ _v_  
@@ -9867,6 +9870,7 @@ __olericulture__ _n_ The cultivation of vegetables for the home or market.
 __oligarch__ _n_ :three: One of the rulers in an oligarchy.  
 __oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
+__Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
 __omelets__  
 __omen__ _n_ :six::hammer:  
@@ -10130,6 +10134,7 @@ __overthinker__ _n_ _I’m a chronic overthinker._
 __overtime__ _n_ :es: horas extras  
 __overtly__ _adv_  
 __overtone__ _n_ :two::hammer: (overtones) _Overtones of alien menace._  
+__overtourism__ _n_ A situation in which too many tourists travel to a popular destination, causing the place to suffer negative environmental, economic, and sociocultural impacts: From packed viewpoints to water shortages, _Santorini is the most visible face of overtourism in the Greek islands._  
 __overtures__ _n_  
 __overturn__ _v_ (overturning) _It is part and parcel of overturning obstacles._  
 __overweenimg__ _adj_ :two::hammer: _An overweening pride._  
@@ -11931,6 +11936,7 @@ __rejoice__ _v_ :three::pencil2::hammer: (rejoiced, rejoicing)
 __rejoinder__ _n_ :four: An answer, especially to a reply.  
 __rejuvenate__ _v_ /rih-JOO-vuh-nayt/  
 __rekindle__ _v_ :two::hammer: _We must rekindle the fire of idealism in this country._  
+__relapse__ _n_  
 __relatable__ _adj_ :four: __2__ _informal_ Easy to relate to, sympathize with, or identify with: _a novel with relatable characters._  
 __relate__ _v_ :two::hammer: _I don’t relate._  
 __relay<sup>1</sup>__ _n_ _A relay race._  
@@ -12766,7 +12772,7 @@ __secrete__ _v_ Place out of sight; keep secret. _The money was secreted from hi
 __secular__ _adj_ :four::hammer: /SEK-yuh-ler/  
 __secularist__  
 __secure__ _v_ _Go online now to secure your seat._  
-__security__ _n_ :mega:  
+__security__ _n_ :two::mega::hammer:  
 __sedan chair__ _n_  
 __sedative__ _n_ _Not the strongest sedative._  
 __sedentary__ _adj_ /SED-un-tair-ee/ Sedentary describes an activity in which much sitting is involved. _Editorial work is chiefly sedentary._  
@@ -13843,7 +13849,7 @@ __spoliator__ _n_ A plunderer.
 __spondulicks__ _n_ _old-fashioned_ _slang_ Money; cash.  
 __sponge bulllets__  
 __sponsee__ _n_ One who is sponsored.  
-__sponsor<sup>1</sup>__ _n_ :two: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
+__sponsor<sup>1</sup>__ _n_ :three: __1__ One who assumes responsibility for another person or a group during a period of instruction, apprenticeship, or probation. __2__ One who vouches for the suitability of a candidate for admission, as to an organization. __3__ A legislator who proposes and urges adoption of a bill.  
 __sponsor<sup>2</sup>__ _v_  
 __spontaneous__ _adj_ :mega:  
 __spook__ _n_ __2__ _slang_ A secret agent; a spy. _Now I’m a spook, so look out._  
@@ -16491,7 +16497,7 @@ __wish list__ _n_ :three::hammer: _The community’s wish list._ _A $100 million
 __wishbone__  
 __wishful thinking__ _n_ :two: Thinking in which what one wishes were the case is believed to be real or likely to become real.  
 __wishing well__ _n_ _A well or pool of water supposed to grant the wish of one who tosses a coin into it._ :es: pozo de los deseos  
-__wishy-washy__ _adj_ :two: __1__ informal Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
+__wishy-washy__ _adj_ :three: __1__ _informal_ Irresolute, indecisive, or wavering. _Right now is not the time to be wishy-washy about this. We need to act, and now! Martha always gets so wishy-washy when I ask her to make a decision about the project._ __2__ _informal_ Spineless, weak-willed, or ineffectual; lacking courage, resilience, or strength of character. _He always talks big when we’re on our own, but he turns into a wishy-washy wimp whenever the boss calls him up on something. The senator was elected for his strength and determination, but he’s proven to be very wishy-washy in office._ __3__ _informal_ Weak, watery, or thin. _I don’t know why you drink this wishy-washy beer. Why not get something with a bit more kick to it, something you can actually taste?_  
 __wisk__ _v_  
 __wisp__ _n_ :eight::hammer: (wisps) _A wisp of dust._ _Wisps of her hair had fallen loose from her barrette._ _Wisps of rain._ _A wisp of a mustache._  
 __wispy__ _adj_ :four::hammer: _Wispy hair._  

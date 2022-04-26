@@ -1,18 +1,3 @@
-__fave__ _n_  
-__eleven__ _n_ :mega:  
-__relapse__ _n_  
-__escalate__ _v_  
-__dirtbag__ _n slang_ :two::hammer:  
-__security__ _n_ :mega:  
-__lair__ _n_  
-__sponsor__ _n_  
-__enough__ _adj, adv, pron_ :mega:  
-__wishy-washy__ _adj_  
-__Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
-__overtourism__ _n_ A situation in which too many tourists travel to a popular destination, causing the place to suffer negative environmental, economic, and sociocultural impacts: From packed viewpoints to water shortages, _Santorini is the most visible face of overtourism in the Greek islands._  
-__frontline__ _adj_ __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
-__jab__ _n informal_ A hypodermic injection, especially of a vaccine: _Have you gotten your flu jab yet?_  
-__breakthrough__ _n_ __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __bootstrap paradox__ _n_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
