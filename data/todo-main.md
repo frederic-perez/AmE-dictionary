@@ -1,18 +1,3 @@
-__abound__ _v_ :two::hammer:  
-__aboveboard<sup>1</<up>__ _adj_ Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
-__aboveboard<sup>2</<up>__ _adv_  
-__abundant__ _adj_  
-__acclaim__ _n_  
-__acclimation__ _n_ :pencil2:  
-__accompaniment__  
-__acuity__ _n_ /əˈkjuːɪtɪ/  
-__ad__ _n_ :mega:  
-__adjusted__  
-__adversity__ _n_ /ad-VER-suh-tee/  
-__advocate__ _n_ :mega:  
-__Al-Anon__  
-__alcove__ _n_ _Historic alcoves._  
-__alike__  
 __alongside__  
 __alpaca__ _n_  
 __amend__ _v_ _The Texas constitution was amended in 1891._  

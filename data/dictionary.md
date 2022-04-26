@@ -62,9 +62,10 @@ __abominable__ _adj_ Unequivocally detestable; loathsome. _Syn_ odious, execrabl
 __abomination__ _n_ :three::hammer: _I’ve written several nasty 3,000-line abominations._  
 __aboriginal__  
 __aborigine__ _n_ :pencil2: (Aborigine)  
-__abound__ _v_ :three::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
+__abound__ _v_ :five::hammer: _Deceptive design patterns abound on shopping sites to manipulate you into buying or signing up for things._  
 __about-face__  
-__aboveboard__  
+__aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
+__aboveboard<sup>2</<up>__ _adv_  
 __abracadabra__ _n_  
 __abrade__ _v_  
 __abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
@@ -82,7 +83,7 @@ __absolve__ _v_
 __abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
 __abstruse__ _adj_ Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
-__abundant__  
+__abundant__ _adj_ :two::hammer:  
 __abut__ _v_ (abutted, abutting) _Bungalows abutting._  
 __abutting__ _adj_  
 __abuzz__ _adj_ :two::hammer:  
@@ -94,10 +95,13 @@ __accessory__ _adj, n_ :pencil2:
 __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncontrolled or involuntary act or instance of urination or defecation (as by a baby or a pet).  
 __accidental__ _adj, n_ _Ottolenghi is an accidental chef._  
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
+__acclaim__ _n_  
 __acclaimed__  
+__acclimation__ _n_ :pencil2:  
 __accolade__ _n_ :eight: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
 __accommodate__ _v_ :three::pencil2::hammer:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
+__accompaniment__  
 __accompanist__  
 __accompany__ _v_  
 __accomplice__  
@@ -145,12 +149,12 @@ __act up__ _phr v_ :three: __1__ To misbehave. __2__ To malfunction. __3__ _info
 __activate__ _v_ _Gonzalez was activated from the disabled list._  
 __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics and uses them to calculate insurance risks and premiums. _The actuaries for the Center for Medicare credited the law for some of the reduced increases in costs._  
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
-__acuity__ _n_ :three: Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
+__acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
-__ad__ _n informal_ Advertisement.  
+__ad__ _n informal_ :two::mega: Advertisement.  
 __ad-lib<sup>1</sup>__ _adj_ Of or characterized by an impromptu fashion, with little or no preparation beforehand. _Jazz improv is always a bit ad-lib by design; you can’t plan what you might play!_  
 __ad-lib<sup>2</sup>__ _adv_ Done in an impromptu or free-hand fashion, with little or no preparation beforehand. _His comedy is always so unique; I hear he does the whole thing ad-lib._  
 __ad-lib<sup>3</sup>__ _n_ :six: (ad lib, ad libs) [:scroll: _Ad-lib_ is a shortening of Latin _ad libitum_, which means “in accordance with one’s wishes.” In the past, ad libitum was used to refer to any activity where the performer was free to do whatever they liked for as long as desired, whether the activity be drawing, working math problems, talking, playing music, or acting. Shortened from _ad libitum_, a Latin phrase meaning at your pleasure, used to mean spontaneous or improvised. Something, usually performative in nature, that is done with little or no preparation beforehand. Words, music, or actions uttered, performed, or carried out extemporaneously.] _That was a Tom Hanks ad-lib._ _His speech this morning felt like it was a bit of an ad-lib. I don’t think he prepared any notes ahead of time._  
@@ -177,6 +181,7 @@ __adjudicator__
 __adjunct__ _adj, n_ _Adjunct professors._  
 __adjunctive__ _adj_  
 __adjure__ _v_ _Syn_ command  
+__adjusted__  
 __adjuvant__ _adj_ :three::hammer: _The adjuvant setting._ _Adjuvant chemotherapy._  
 __admin<sup>1</sup>__ _n_ _informal_ Short for administration.  
 __admin<sup>2</sup>__ _adj_ Short for administrative. _I was doing just admin stuff._  
@@ -196,6 +201,7 @@ __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured so
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
+__adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
 __advice__ _n_ _This is my unsolicited advice._  
 __advisedly__  
@@ -203,6 +209,7 @@ __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The peti
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
 __advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
+__advocate__ _n_ :mega:  
 __aegis__  
 __aerials__  
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
@@ -304,13 +311,14 @@ __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.
 __akin__ _adj_ :seven::mega: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
 __al fresco__  
+__Al-Anon__  
 __alabaster__  
 __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
 __Alas!__  
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
-__alcove__ _n_ _The elevator alcove._  
+__alcove__ _n_ :two::hammer: _Historic alcoves._ _The elevator alcove._  
 __alder__ _n_ :pencil2::two::hammer:  
 __alderman__ _n_ :four::hammer: (aldermen)  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
@@ -325,6 +333,7 @@ __alienated__ _adj_ Feeling that you do not belong in a particular society, plac
 __alienist__ _n_ :two: A psychiatrist and specialist in the legal aspects of mental illness.  
 __alighted__ _v_ :two::hammer:  
 __align__ _v_ :mute:[ali~~g~~n]  
+__alike__  
 __all in all,__ _phr_ :five: __1__ Generally; taking everything into account. __2__ Supremely important.  
 __all of a sudden__ _adv_ Without warning.  
 __all righty__  
