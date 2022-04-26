@@ -59,3 +59,16 @@ __clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
+__Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
+__eye-to-eye__ _You can get eye-to-eye with a dolphin._  
+__up-and-coming__ _Up-and-coming writers and artists._  
+__run an errand__  
+__oh, my__  
+__one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
+__at someone’s disposal__  
+__made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
+__larger-than-life__  
+__drop by__  
+__all-you-can-eat__  
+__front and center__  
+__a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
