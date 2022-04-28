@@ -2019,7 +2019,9 @@ __set the table__
 __seventh heaven__ :astonished: A state of bliss or extreme happiness. _A spa treatment in a luxury hotel with no kids—this is seventh heaven!_  
 __shake a leg__ :two::hammer:  
 __shake off__ Free oneself or get rid of something or someone, as in _I’ve had a hard time shaking off this cold_, or _She forged ahead, shaking off all the other runners._  
+__shaken up__ Greatly startled, shocked, or upset. _I was very shaken up after the car accident. I couldn’t even speak properly to the police for about an hour._  
 __shame on (one)__ An expression of condemnation, often an angry or disappointed one. _Shame on her for taking advantage of your feelings like that!_ _Fool me once, shame on you. Fool me twice, shame on me._  
+__shank’s nag__ :dart: One’s legs and feet, used for walking; travel by foot. Also “shanks’ nag.” A reference to the shank—the lower leg between the knee and the ankle—and the use of ponies or horses for travel. _My bicycle fell apart three miles away from home, so I had to use shank’s nag to go the rest of the way._  
 __shed (some) light on (something)__  
 __shine (one) on__  
 __shine (someone) on__ _Don’t shine me on._  

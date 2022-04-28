@@ -2371,6 +2371,7 @@ __censure motion__
 __centennial__  
 __centerpiece__  
 __centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__cerebral__ _adj_ /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
@@ -3474,7 +3475,7 @@ __cuckolded__ _adj_ :three::hammer:
 __cuckoldry__ _n_  
 __cud__ _n_ :three::hammer:  
 __cuddly__ _adj_ :four: Suitable for or inviting cuddling. _Cuddly teddy bear._  
-__cudgel__ _n_ :five::hammer: (cudgels)  
+__cudgel__ _n_ :six: /ˈkʌdʒəl/ (cudgels) A short heavy stick. _Syn_ bastinado, club _She woke up with her head hurting as though it had been hit with a cudgel._  
 __cue ball__ _n_ :four: The ball a player strikes with the cue, as distinguished from the other balls on the table. The white ball that is propelled with the cue in billiards and pool.  
 __cue card__ _n_  
 __cue<sup>1</sup>__ _n_ Sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards.  
@@ -12473,6 +12474,7 @@ __sallow__ _adj_ :seven: Of a sickly yellowish hue or complexion. Sallow skin is
 __sally out__ _v_  
 __salmon__ _n_ :mega::mute:[sa~~l~~mon]:astonished::six:  
 __salt away__  
+__salt junk__ _n_ /SAWLT-JUNK/ Dried salted beef. _In the past, sailors survived long voyages eating salt junk._  
 __saltigrade__ _adj_ Having the feet or legs adapted to leaping—usually used of spiders (such as members of the family Salticidae).  
 __saltines__ _n_  
 __salty__  
@@ -12836,7 +12838,7 @@ __seltzer__ _n_ __1__ A natural effervescent spring water of high mineral conten
 __semester__ _n_ A semester is half of a school year. In September of your first year of high school, you could describe yourself as “a first-semester freshman.” The noun semester comes up often when you’re in high school and college. It’s an easy way to divide the school year, into two equal halves, or semesters. Sometimes a class lasts for the whole year, and sometimes for just one semester. Occasionally schools split the year into three trimesters just to make things interesting. Originally, semester meant “six months,” from the Latin root of the same meaning, semestris.  
 __semi__ _n_ _informal_ __1a__ A semitrailer. __b__ A tractor-trailer.  
 __semi-finished__ _adj_ _Semi-finished lens._  
-__seminal__ _adj_ _That was a seminal game._  
+__seminal__ _adj_ :two: Highly influential in an original way; constituting or providing a basis for further development. _Syn_ germinal, originative _He prepared a speech describing his experiment, never realizing that his presentation would be the seminal event in the development of a new theory._  
 __seminoles__  
 __sempiternal__ _adj_ Enduring forever; eternal.  
 __send-of__  
@@ -16699,6 +16701,8 @@ __yelp<sup>1</sup>__ _v_ :seven::hammer: (yelps, yelped) :es: gañir
 __yelp<sup>2</sup>__ _n_  
 __yen__ _n_ A strong desire, urge, or craving for something. _After dinner, the family went out for ice cream to satisfy their yen for something sweet._ _Students with a yen to travel should consider studying abroad._  
 __yeoman__ _n_ :five::hammer: (yeomen)  
+__yestereve<sup>1</sup>__ _n_ /YES-tuh-reev/ [:scroll: From yester- (a time one period before the present one), from Old English giestran (previous day) + eve/even (evening).] Yesterday evening.  
+__yestereve<sup>2</sup>__ _adv_ During yesterday evening.  
 __yesternight__ _n_ Last night.  
 __yesteryear__ _n_ :four: The time that has elapsed. _Syn_ past _The teen idols of yesteryear are now middle-aged has-beens._  
 __yew root__ _n_ _Yew root would help a pregnant woman to hold back her fetus._  
