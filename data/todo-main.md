@@ -1,18 +1,3 @@
-__alongside__  
-__alpaca__ _n_  
-__amend__ _v_ _The Texas constitution was amended in 1891._  
-__amp__ _n_ _Amps & alcohol._  
-__ample__ _adj_ _Ample outdoor seating._  
-__antanaclasis__ _n_  
-__ante__ _n_  
-__anticlimax__ _n_  
-__appetizer__ _n_  
-__apprentice__  
-__Arapahoe__  
-__arcade game__  
-__artisanal__ _adj_  
-__artsy__  
-__aspen__ _n_ _Quaking aspen._ :es: chopo  
 __awash__  
 __baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
 __backfire__ _v_  

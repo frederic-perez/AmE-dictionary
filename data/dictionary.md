@@ -374,11 +374,11 @@ __almsgiving__ _n_ /ˈɑːmzˌɡɪvɪŋ/ (alms-giving) The making of charitable 
 __aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
-__alongside__ _prep_ :three::hammer:  
+__alongside__ _prep_ :four::hammer:  
 __aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indifferent: _an aloof manner._ __2__ Distant or uninvolved: _remained aloof from political movements._ Not friendly or forthcoming; cool and distant. _Syn_ distant, detached, unresponsive _They were courteous but faintly aloof._ _Aloof demeanor._  
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
-__alpaca__ _n_ :three::hammer:  
+__alpaca__ _n_ :four::hammer:  
 __also-ran__ _n_ _To become an also-ran._  
 __also-run__  
 __altar boy__  
@@ -411,6 +411,7 @@ __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
 __amenable__ _adj_ :dart::three: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
+__amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
 __Ames__ _n_ _Ames, Iowa._  
@@ -430,9 +431,10 @@ __amnesty player__
 __amnesty__ _n_ :pencil2:  
 __amok__ _adv_ __1__ In a violently raging, wild, or uncontrolled manner. __2__ In a murderously frenzied state.  
 __amp up__ _phr v_ :two::hammer: (amped up, amping up)  
+__amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __amphibian__ _n_ :pencil2:  
-__ample__ _adj_ :seven: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare  
+__ample__ _adj_ :eight: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -502,7 +504,8 @@ __anoxic__ _adj_ Relating to or marked by a severe deficiency of oxygen in tissu
 __answer for__ _phr v_ To be responsible for something bad.  
 __answer__ _n, v_ :mute:[ans~~w~~er]  
 __antagonize__ _v_  
-__ante__ _n_ :five::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
+__antanaclasis__ _n_  
+__ante__ _n_ :six::hammer: _It just ups the ante in the game._ _He upped the ante._ _The new Hero4 Black ups the ante in a big way._  
 __antebellum__ _adj_ :two: Of or during the period before a war, esp the American Civil War: _the antebellum South._  
 __antecede__ _v_ Be earlier in time; go back further. _Syn_ antedate, forego, precede, predate _Even though it was found in a higher stratum, the stone tool antecedes the bronze one unearthed nearby._  
 __antecedent__ _n_ Anything that precedes something similar in time. _Syn_ forerunner _This era is one of heedless consumption, but perhaps you can blame that on its antecedent._  
@@ -521,6 +524,7 @@ __antibiotic<sup>2</sup>__ _adj_ :two::mega: \[ˈæntɪbaɪˈɒtɪk\]
 __antic__  
 __anticipate__ _v_ (anticipated)  
 __anticlimactic__ _adj_ :pencil2:  
+__anticlimax__ _n_  
 __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_ capers, amusing behavior, pranks _The two are known by their antics._ :es: payasadas, travesuras  
 __antidepressant__ _adj_  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
@@ -578,7 +582,7 @@ __appease__ _v_ :four: __1__ Pacify or placate (someone) by acceding to their de
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
-__appetizer__ _n_ :pencil2: :es: _(drink)_ aperitivo, _(food)_ tapas  
+__appetizer__ _n_ :two::pencil2::hammer: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from fruit harvesters using long sticks to dislodge the hanging crop.] A country bumpkin. One of the many terms that city slickers applied to less sophisticated rural dwellers (“rube,” “hayseed,” and “Gomer” are others). Someone who hails from a rural place and is regarded as unworldly. _Ugh, those apple-knockers move too slow for life here in the big city._ __2__ An ignorant or unsophisticated person. __3__ A baseball player, especially a batter. __4__ A fruit picker, farmer, or seller.  
 __applesauce__  
@@ -593,7 +597,8 @@ __appreciate__ _v_ :pencil2: _I appreciate it._
 __apprehend__ _v_  
 __apprehension__ _n_ :three::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
-__apprentice__ _v_  
+__apprentice<sup>1</sup>__ _n_  
+__apprentice<sup>2</sup>__ _v_  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
@@ -606,10 +611,12 @@ __aquanaut__ _n_
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquifer__ _n_ :two::hammer:  
 __arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
+__Arapahoe__  
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__  
+__arcade game__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch__ _adj_ :two::hammer: _Her character is arch and fake._  
@@ -663,8 +670,9 @@ __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or othe
 __artifact__ _n_ :four::hammer: (artifacts)  
 __artificer__ _n_ A skilled worker who practices some trade or handicraft. _Syn_ artisan, journeyman, craftsman _There are native tanners, shoemakers, weavers, blacksmiths, stonecutters, and other artificers attached to each establishment._  
 __artillery__ _n_  
+__artisanal__ _adj_  
 __artistry__  
-__artsy__ _adj_ :three::hammer: (arty in BrE)  
+__artsy__ _adj_ :four::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
 __artwork__ _n_ :pencil2:  
 __as a general rule__  
@@ -696,7 +704,7 @@ __askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or dist
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
-__aspen__  
+__aspen__ _n_ :two::hammer: _Quaking aspen._ :es: chopo  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
