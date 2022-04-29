@@ -135,6 +135,7 @@ __ahead of the curve__ :four:
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __alive and kicking__  
+__all aboard__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
 __all downhill from here__  
 __all ears__ Ready and eager to hear what one has to say; prepared to listen intently. _Tell me about your first day at the new job—I’m all ears!_  
@@ -146,8 +147,9 @@ __all over the place<sup>1</sup>__ _adj_ Inconsistent; lacking a clear pattern; 
 __all over the place<sup>2</sup>__ _adv_ :two: __1__ Thoroughly; completely. _I took a big piece of paper and then just painted flowers all over the place._ __2__ In multiple directions, sometimes in a random or near random pattern. _They started firing all over the place._ _He poured a big glass of milk but then it spilled all over the place._  
 __all over__ _Dick jokes all over._  
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
-__all that jazz__ :three: All that stuff; all that nonsense.  
+__all that jazz__ :four: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
+__all things considered__  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __alter ego__  
 __amateur hour__  
@@ -263,6 +265,7 @@ __be given no quarter__ To be offered no mercy, concession, or indulgence. _This
 __be glad to see the back of__ Be happy when a person leaves.  
 __be hard hit (by something)__ To be adversely affected (by something) to a great degree; to suffer financial losses (as the result of something).  
 __be hard on (one)__  
+__be hard pressed__  
 __be here to stay__ :two: (is here to stay) To become permanent or firmly established; to be a normal part of everyday life, especially after once being abnormal or unusual.  
 __be honor-bound to do (something)__ To be or feel obliged to do something because it is morally correct or required by one’s sense of duty or integrity, even if one does not desire to do so.  
 __be hounded (by someone or something)__ To be pursued, chased, badgered, or pestered (by someone or something), especially persistently or relentlessly.  
@@ -358,6 +361,7 @@ __blood moon__ Earth’s moon during a total lunar eclipse, that is, when a full
 __blood runs cold__ _informal_ To be very frightened.  
 __blood, sweat, and tears__ A lot of effort and suffering.  
 __bloodshot eyes__ :camera: Eyes in which the sclera (the whites of the eye) and/or conjunctiva (the inside of the eyelid) are colored red due to the prominence of superficial blood vessels. Bloodshot eyes can be the result of a wide range of conditions, including tiredness, eyestrain, irritation, conjunctivitis, injury, or more serious inflammatory conditions. _I’ve got these really bloodshot eyes from studying all night long._  
+__blow someone out of the water__  
 __blow your top__ To become very angry.  
 __blue in the face__ Showing signs of exhaustion or strain. Often used in the phrase “till (one) (is) blue in the face. This expression alludes to the bluish skin color resulting from lack of oxygen, which presumably might result from talking until one was breathless _You can complain about it till you’re blue in the face, but we’re going to your grandmother’s whether you like it or not._  
 __blue pill__  
@@ -397,6 +401,7 @@ __bring the house down__ __1__ Literally, to raze or demolish a house so that no
 __bring to an end__  
 __bristle with something__ _phr v_ :nine::m: (bristled, bristling) Be covered with or abundant in. _Syn_ abound, swarm, teem, crawl, overflow _The roof bristled with antennae._ _He bristled with news reporters in South Africa._ :es: estar repleto  
 __broken record__ :two: A person or thing that repeats itself over and over again, causing annoyance. Likened to vinyl records that when severely scratched (i.e., “broken”) can loop over the same recorded segment endlessly.  
+__bromance__ _slang_ A very close friendship between two men. The word is a portmanteau of “bro” and “romance.” _My brother has quite a bromance with his best friend—they do everything together._  
 __brood over__ To worry anxiously or be despondent about something or someone, especially at great length and in isolation.  
 __brown noser__ _n idiom_ (brown-noser) Someone who pleases an important or powerful person in order to get a benefit.  
 __bubble over__ Of an emotion, to be too strong for one to contain or refrain from expressing. _Her enthusiasm for the subject she teaches just bubbles over in the classroom._  
@@ -435,7 +440,7 @@ __calm before the storm__ :two: A peaceful and quiet period before a period of a
 __can (someone)__ To summarily dismiss or oust someone from employment; to fire someone. _They’ll can me if they ever find out I came into work drunk yesterday._  
 __can’t be bothered__ Unwilling or disinclined to make the effort necessary to do or accomplish something.  
 __can’t get enough (of something)__ To love or thoroughly enjoy something; to desire a large or constant amount of something. _This sushi is delicious—I can’t get enough!_ _I can’t get enough of this new TV show._  
-__canary in a coal mine__ Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
+__canary in a/the coal mine__ :two: Something or someone who, due to sensitivity to his, her, or its surroundings, acts as an indicator and early warning of possible adverse conditions or danger.  
 __cancel out__  
 __candle in the wind__ Something that is particularly vulnerable, weak, fragile, or precarious and likely to fail, perish, or be eliminated at any moment.  
 __cannon fodder__ Troops that are deemed expendable and thus given the most dangerous assignments (in which they are likely to be killed by artillery fire). _I refuse to be sent to the front lines as cannon fodder!_  
@@ -516,6 +521,7 @@ __come close to blows__ To nearly devolve into a physical fight.
 __come down the pike__ :dart: Appear, become prominent, as in _He was the best writer to come down the pike in a long time._ The noun pike here is short for “turnpike” or “road.” _You should take this job offer—who knows when another will come down the pike?_  
 __come into play__ To become a factor in a particular situation. _Once personal insults come into play, it’s very hard to resolve a situation calmly._  
 __come into question__ To become doubted, scrutinized, or a matter of serious discussion.  
+__come out__  
 __come to a close__ _The fifty-year reign of incessant warring was coming to a close._  
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
@@ -565,6 +571,7 @@ __cut from whole cloth__ Completely fictional or utterly false; totally made up.
 __cut it close__ To do or complete something very near to its limit, especially of time.  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
+__cut the spin__  
 __cut ties with (someone)__ :three::hammer: _I was cutting ties without even knowing._  
 __damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
 __dark days__ Times of extreme misfortune or difficult.  
@@ -637,6 +644,7 @@ __down the pike__ :dart: In the future. _I do want to get married, but down the 
 __down the road__ _informal_ In the future; later on.  
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
 __down-to-earth__ _adj_ :four: Sensible and realistic.  
+__doxxing__  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
 __drag (someone) kicking and screaming__ To force someone to go somewhere or do something against their will, especially when they protest against it vehemently and/or at great length.  
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
@@ -1277,6 +1285,7 @@ __inner circle__ A small, exclusive, and intimate group of like-minded people sh
 __inside and out__ Thoroughly; down to the last detail.  
 __insofar as__ To such an extent that; to the degree that.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
+__iron out__  
 __isn’t that funny?__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
@@ -1436,6 +1445,7 @@ __let go and let God__ To give up one’s self-determination and yield to the te
 __let it rest__ To cease discussing or dwelling upon a given subject. _Look, we can’t afford a new car right now, so just let it rest already!_  
 __let it slip__ To accidentally or inadvertently reveal a given secret or important piece of information.  
 __let me tell you__ Used to emphasize a statement.  
+__let one’s guard on__  
 __let somebody down__ To disappoint someone.  
 __let someone go__ _euphemism_ To fire someone. _They let Jane go from her job._ _I’m afraid we’re going to have to let you go._  
 __let the dust settle__ To allow for things return to normal after a period of excitement, a high level of activity, etc.  
@@ -1903,6 +1913,7 @@ __put (one’s) money where (one’s) mouth is__ :two::hammer:
 __put (or set) the record straight__ To make things clear, to explain something.  
 __put (someone or something) to bed__ __1__ To help someone, typically a child, prepare for and get into bed at night. _I’ll give you a call after I put the kids to bed._ __2__ To complete something or some initial preparatory phase. _I thought you’d put the proofreading for that edition to bed weeks ago!_ __3__ To stop discussing, thinking about, or focusing on something. _OK, I think we have to agree to disagree. Let’s just put the issue to bed and stop arguing._  
 __put (something) on the back burner__ :dart: To establish something as being a low priority; to give something less or little thought or attention; to postpone, suspend, or hold off on doing something. _It has put the needs of farmers on the back burner in favor of its own interests._  
+__put a foot on my mouth__  
 __put a gun to (someone’s) head__ To force someone to do something he or she does not want to do, especially by the use of threats or intimidation (not necessarily with an actual gun).  
 __put food on the table__ To earn enough money to provide the basic necessities for oneself and (often) one’s family. _With my hours at work being cut so dramatically, I just don’t know how I’ll be able to put food on the table._  
 __put in (one’) two cents’ worth__ To share one’s opinion or point of view for whatever it may be worth, generally when it is unasked for. _I find Jeff’s husband a bit trying at times. He always insists on putting in his two cents’ worth whether we want his opinion or not!_  
@@ -2098,6 +2109,7 @@ __sort it out__ :three: __2__ _Fig._ To study a problem and figure it out. _I ca
 __sort out__ __2__ To understand or resolve a problem or conflict. A noun or pronoun can be used between “sort” and “out.” _I’ve spent nearly an hour on this math problem, but I still can’t sort it out._  
 __sounding board__ A person or group with whom one discusses an idea, plan, or suggestion in order to evaluate its strengths, acceptability, feasibility, practicality, etc. _My friend John and I really know each other’s skills and interests, so whenever one of us has an idea for a new project, we use the other as a sounding board._  
 __sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
+__spare a thought for__ To think about. _You should spare a thought for those who are less fortunate than you._  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
 __speak up__ __1__ To speak loud enough to be audible: _Speak up—I can’t hear you._ __2__ To speak without fear or hesitation: _You have to speak up if you want something._  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
@@ -2285,6 +2297,7 @@ __to (one’s) heart’s desire__ As much as or to the point that one wants; to 
 __to (one’s) name__ _Bernie died with $1.09 to his name._  
 __to be on a mission__  
 __to be on edge__ _You seem on edge._  
+__to be on the spectrum__  
 __to date__ :three: Until now. _To date, no winners have attended._  
 __to have someone pegged__ _Ed had him pegged as a skinflint._  
 __to hell and back__ :three: Through a difficult, trying, or perilous situation and having overcome it. _I’d go to hell and back for him._  
