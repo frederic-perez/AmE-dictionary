@@ -1,18 +1,3 @@
-__awash__  
-__baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
-__backfire__ _v_  
-__backlash__ _n_ /ˈbækˌlæʃ/  
-__backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
-__ballyhoo__ _n_  
-__balustrade__ _n_  
-__barbecue__ _n_ (barbeque)  
-__barware__  
-__bas-relief__ _n_  
-__bash__ _v_  
-__baubles__  
-__bawdy__  
-__belies__ _v_  
-__bio__ _n_  
 __birdie__ _n_  
 __blackmail__ _n_  
 __bland__  

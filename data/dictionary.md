@@ -842,7 +842,7 @@ __avow__ _v_ :two::hammer: (avowed)
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
 __awakening__ _n_  
-__awash__ _adj, adv_ :nine: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ _adj, adv_ :nine::m: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
@@ -856,6 +856,7 @@ __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by se
 __azure__ _n_ :two::hammer:  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
+__baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
 __babushka__ _n_ :two: __1__ A headscarf, folded triangularly and tied under the chin, traditionally worn by women in eastern Europe. __2__ An elderly Russian or Polish woman, especially one who is a grandmother.  
@@ -885,13 +886,15 @@ __backcountry__ _n_ _Utah ski resorts offering backcountry adventures._
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
+__backfire__ _v_  
 __backhoe__ _n_ :two::hammer:  
-__backlash<sup>1</sup>__ _n_ :five::hammer: _It leads to backlash._  
+__backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
 __backlit__  
 __backlog__ _n_ :seven: An accumulation of uncompleted work or matters needing to be dealt with. _The company took on extra staff to clear the backlog of work._ _Thousands of doctors feel under pressure to work extra shifts to help tackle the backlog of care caused by the covid pandemic._  
 __backpedal__ _v_ :two::hammer:  
 __backslid__ _v_  
+__backslide__ _v_ To relapse into bad habits, sinful behavior, or undesirable activities.  
 __backsplash__ _n_ An upright surface or border, as of tile, that protects the wall behind a sink or stove. _A new tile backsplash._  
 __backstop__ _n_ (baseball)  
 __backtrack__ _n_ :two::hammer:  
@@ -958,13 +961,14 @@ __balloon__ _n_ :two::hammer: _The dog balloon is a fundamental sculpture in the
 __ballot__ _n_ :two::hammer: _A lot of guys who did steroids are on the ballot._ _Over half of general practices in England would quit primary care networks, indicative ballot shows._  
 __ballpark<sup>1</sup>__ _n_ :two::hammer:  
 __ballpark<sup>2</sup>__ _adj_ :two::hammer:  
-__ballyhoo__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
+__ballyhoo<sup>1</sup>__ _n_  
+__ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
-__balustrade__ _n_ _The stone balustrade._  
+__balustrade__ _n_ :two::hammer: _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :five: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
@@ -997,7 +1001,7 @@ __banzai__ _n_ _They tried a banzai._
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __bar top__  
 __barbaric__ _adj_ :mega:  
-__barbecue<sup>1</sup>__ _n_ _Barbecue sauce._  
+__barbecue<sup>1</sup>__ _n_ :two::hammer: (barbeque) _Barbecue sauce._  
 __barbecue<sup>2</sup>__ _v_ (barbecueing)  
 __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack’s barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
@@ -1038,11 +1042,13 @@ __barrister__ _n_ :two::hammer:
 __barrow__ _n_  
 __barter<sup>1</sup>__ _n_  
 __barter<sup>2</sup>__ _v_ :three::hammer: (bartered)  
+__barware__  
+__bas-relief__ _n_  
 __base__ _adj_ __1__ Having or showing a lack of decency; contemptible, mean-spirited, or selfish. _This film is base, moronic, insulting, and vulgar._ __2a__ Being a metal that is of little value. __b__ Containing such metals: _base coins._  
 __baseline__ _n_ _We can permanently raise our happiness baseline._  
 __basement__  
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
-__bash<sup>2</sup>__ _v_  
+__bash<sup>2</sup>__ _v_ :two::hammer:  
 __bashful__  
 __basil__ _n_ :es: albahaca  
 __basin__ _n_ :two::hammer:  
@@ -1070,10 +1076,10 @@ __batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swin
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
-__bauble__ _n_ :five: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
+__bauble__ _n_ :six: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
 __bawdiness__  
-__bawdy__ _adj_ :two::hammer: _Bawdy humor._  
+__bawdy__ _adj_ :three::hammer: _Bawdy humor._  
 __bawl__ _v_ :two::hammer: (bawling) _I was bawling my eyes._  
 __bay leaves__  
 __bays__ _n_  
@@ -1173,7 +1179,7 @@ __belch<sup>2</sup>__ _n_
 __beleaguer__ _v_ :two::hammer: /bih-LEE-gur/  
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
-__belie__ _v_ :nine: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
 __bellboy__ _n_  
@@ -1321,7 +1327,7 @@ __bindle__ _n_ _Drug bindles._
 __binging__ _v_  
 __binocular__ _adj_ :mega: Adapted for or using both eyes.  
 __binoculars__ _n pl_ (plurale tantum)  
-__bio__ _n_  
+__bio__ _n_ :two::hammer:  
 __biomass__  
 __biopic__  
 __bipartisan__  
