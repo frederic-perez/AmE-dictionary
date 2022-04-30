@@ -1,18 +1,3 @@
-__birdie__ _n_  
-__blackmail__ _n_  
-__bland__  
-__blarney__ _n_  
-__blizzard__ _n_ _It burned in the blizzard of 1925._  
-__board__ _n_ __9__ _Basketball_ A rebound.  
-__bohemian__ _adj_ _Bohemian boutiques._  
-__boilerplate__  
-__bolster__ _v_  
-__bootstrap paradox__ _n_  
-__Boulder__ _n_ :mega:  
-__brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
-__brick-a-brack__  
-__buffalo__ _n_ (_n pl_ buffalo or buffaloes or buffalos)  
-__buffs__ _n_  
 __buskers__ _n_  
 __bustle__ _n_  
 __callback__ _n_ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play.  

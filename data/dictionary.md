@@ -1335,6 +1335,7 @@ __birch__ _n_ (birches) _Birch and oak in stock._
 __bird dog__ _n_ A gun dog trained to locate or retrieve birds. _I’m going to be your fuckin’ bird dog._  
 __bird__ _v_ __1__ To catch or shoot birds. __2__ To bird-watch.  
 __birdbrain__ _n_ _slang_ :two: A silly or stupid person.  
+__birdie__ _n_  
 __birds of the same feather__  
 __birdseed__ _n_ Seeds that you give to birds as food.  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
@@ -1377,17 +1378,19 @@ __blackjack<sup>1</sup>__ _n_
 __blackjack<sup>2</sup>__ _v_ :two::hammer:  
 __blacklist<sup>1</sup>__ _n_  
 __blacklist<sup>2</sup>__ _v_  
+__blackmail__ _n_  
 __blackout__ _n_ :two::hammer: _Blackout dates._ _Blackout curtain._  
 __blackpool__  
 __blah story__  
 __blanched__ _v_  
-__bland__ _adj_ :seven: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
+__bland__ _adj_ :eight: __1__ Characterized by a moderate, unperturbed, or tranquil quality, especially: __a__ Pleasant in manner; smooth: _a bland smile._ __b__ Not irritating or stimulating; soothing: _a bland diet._ __c__ Exhibiting no personal worry, embarrassment, or concern: _told a series of bland lies._ __2a__ Dull and insipid: _a bland little drama._ __b__ Having little or no distinctive flavor: _bland cooking._  
 __blandish__ _v_ To coax by flattery or wheedling; cajole.  
 __blandishment__ _n_ :three: (Often, blandishments.) Something, as an action or speech, that tends to entice. Flattery intended to persuade. _Syn_ cajolery, palaver _Not even his favorite daughter’s blandishment could persuade him to submit to her whims._  
 __blank__ _n_ (blank cartridge) A gun cartridge with a charge of powder but no bullet. _The shooter fired blanks._  
 __blanket__ _n_ :two::hammer: _The security blanket._  
 __blanketed__ _v_ :five::hammer: (blanketing)  
-__blarney__ _adj_ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
+__blarney<sup>1</sup>__ _n_ :two::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
+__blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
 __blast__ _n_ _slang_ A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
@@ -1437,7 +1440,7 @@ __blithesome__ _adj_
 __Blitz__ _n_ _(Historical Terms)_ (the Blitz) The systematic night-time bombing of Britain in 1940–41 by the German Luftwaffe.  
 __blitz<sup>1</sup>__ _n_ :six: [:scroll: Short for blitzkrieg, from German Blitzkrieg, from Blitz (lightning) + Krieg (war). Earliest documented use: 1939.] __1__ A swift, sudden military attack, especially aerial bombardment. __2__ An intense campaign, for example, an ad blitz. __3__ _informal_ A sudden concerted effort to deal with something. _Syn_ effort, exertion, endeavour _Katrina and I had a blitz on the cleaning._  
 __blitz<sup>2</sup>__ _v tr_ :three: (blitzed, blitzing) To attack, destroy, conquer, etc.  
-__blizzard__ _n_ :two::hammer:  
+__blizzard__ _n_ :three::hammer: _It burned in the blizzard of 1925._  
 __bloat__ _n_ A group of hippos.  
 __bloc__ _n_ :six::pencil2: A group of countries or people with the same political aims. _The Soviet bloc._ _The troubled currency bloc._  
 __block letter__ _n_ __1__ A plain capital letter written or printed unjoined to a following or preceding letter. Block letters (known as printscript, manuscript, print writing or ball and stick in academics) are a sans-serif (or “gothic”) style of writing Latin script in which the letters are individual glyphs, with no joining. _She wrote something in block letters._  
@@ -1497,7 +1500,7 @@ __blurt__ _v_ :four: (blurting) /bləːt/ To say something suddenly and without 
 __bluster<sup>1</sup>__ _v_  
 __bluster<sup>2</sup>__ _n_ :two: __1__ Boisterous talk or action; swagger. __2__ Empty threats or protests. __3__ A strong wind; gale.  
 __blustery__ _adj_ :eight: __1__ (of weather) Characterized by strong winds. _A gusty, blustery day._ __2__ (of a wind) Blowing in strong gusts. _A blustery wind was sending flurries of rain against the window._  
-__board__ _n_ :three: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
+__board__ _n_ :four: __6a__ A table at which official meetings are held; a council table. __b__ An organized body of administrators or investigators: _a board of trustees; a board of directors._ _Encouraging Amazon’s board (member) diversity._ __9__ _Basketball_ A rebound. _Green finished with 10 points and 11 boards for the warriors._  
 __boarding kennel__ _n_ _British_ A place in which dogs are kept and fed, typically while their owners are on vacation. _Mike was running a boarding kennels._  
 __boarding school__ _n_ :dart: A school that provides meals and lodging.  
 __boardrooms__  
@@ -1526,11 +1529,12 @@ __bogged down__ _phr v_
 __boggles__ _v_  
 __bogs__  
 __bogus__ _adj_ __1__ Counterfeit or fake; not genuine: _bogus money; bogus tasks._ _The art dealer proved the painting to be bogus._  
+__bohemian__ _adj_ _Bohemian boutiques._  
 __boil__ _n_ :three: __2__ A painful, circumscribed pus-filled inflammation of the skin and subcutaneous tissue usually caused by a local staphylococcal infection. Also called _furuncle._ _An ugly purple boil on the right cheek of his arse._  
 __boiler room__ _n_  
 __boiler__  
 __boilermaker__ _n_ :two: __2__ _slang_ A drink of whiskey with a beer chaser.  
-__boilerplate__ _n_ :four::hammer:  
+__boilerplate__ _n_ :five::hammer:  
 __boilers__  
 __boiling point__ _n_ /BOI-ling point/ [:scroll: From Old French boillir, from Latin bullire (to bubble), from bulla (bubble).] __1__ The point at which a situation turns into a crisis. __2__ The point at which one loses one’s temper. __3__ The temperature at which a liquid boils.  
 __boisterous__ _adj_ :two::hammer:  
@@ -1620,6 +1624,7 @@ __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding lugg
 __boot<sup>2</sup>__ _v_ :three::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
+__bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __bop<sup>1</sup>__ _v tr_ :two: To hit or strike.  
@@ -1650,6 +1655,7 @@ __boudoir__ _n_ :two::hammer:
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
+__Boulder__ _n_ :mega: /ˈboʊl dər/  
 __boule__ _n_ __2__ A round loaf of bread.  
 __Bouncing Betty__  
 __bouncy house__ _n_  
@@ -1695,6 +1701,7 @@ __braise__ _v_ :three: (braised) To cook slowly in fat and a small amount of liq
 __brambles__ _n_ :six::hammer: :es: zarza  
 __Branch Davidians__  
 __branch__ _v_ (branched)  
+__brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
@@ -1752,6 +1759,7 @@ __briar__ _n_ :three::hammer: _Briar patch._
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
+__brick-a-brack__  
 __brickbats__  
 __bridal gown__ _n_  
 __bridesmaid__  
@@ -1860,10 +1868,10 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
-__buff<sup>1</sup>__ _n informal_ :nine: One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>1</sup>__ _n informal_ :nine::m: (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
-__buffalo__ _n pl_ (also buffaloes, buffalos)  
+__buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
 __buffer__ _v_  
 __buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
