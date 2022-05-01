@@ -203,7 +203,8 @@ __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chanc
 __adverse__ _adj_  
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
-__advice__ _n_ _This is my unsolicited advice._  
+__advice__ _n_ :two: [:reminder_ribbon: You can remember that advice is a noun spelled with the ending _-ice_ because it also rhymes with _ice_, which is also a noun.] _This is my unsolicited advice._  
+__advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
 __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To take an advisory period._  
@@ -258,6 +259,7 @@ __ageless__
 __agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
 __agent provocateur__ _n_ A secret agent employed to provoke suspected persons to commit illegal acts and so be discredited or liable to punishment.  
+__aggiornamento__ _n_ /uh-johr-nuh-MEN-toh/ A process of modernization or bringing up to date.  
 __aggravate__ _v_ (aggravated) :two::hammer:  
 __aggravation__  
 __aggravator__ _n_ An unpleasant person who is annoying or exasperating.  
@@ -3948,7 +3950,7 @@ __diadem__ _n_ :two: An ornamental jeweled headdress signifying sovereignty.
 __dialectic<sup>1</sup>__ _n_ [:scroll: From Greek dia- (between) + legein (to speak)] A discussion employed in investigating the truth of a thesis.  
 __dialectic<sup>2</sup>__ _adj_ Relating to such a discussion.  
 __dialysis__ _n_ :three::hammer:  
-__diaphanous__ _adj_ Very sheer and light; almost completely transparent or translucent. _The morning sunrise glowed through the diaphanous curtains._  
+__diaphanous__ _adj_ :two: Very sheer and light; almost completely transparent or translucent. Of such fine texture as to be transparent or translucent. _Syn_ filmy, gauzy, sheer, vaporous _She wore a hat with a diaphanous veil that did not obscure her features._ _The morning sunrise glowed through the diaphanous curtains._  
 __Diaspora__ _n_ :two::hammer: (diaspora)  
 __diatribes__ _n_  
 __dibs__ _n_ _slang_ :three: __3__ _(foll by on)_ _informal_ Tights (to) or claims (on): used mainly by children. _Catalina once tried to kiss Earl, but he said they could not as Randy had called “dibs” on her._  
@@ -5587,7 +5589,7 @@ __fluffy slippers__ _n_ :camera:
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
-__flummox__ _v_ :five::hammer: (flummoxed)  
+__flummox__ _v_ :six::dart: /FLUM-uks/ (flummoxed) To confuse. _Why the error message kept popping up flummoxed the computer tech._  
 __flummoxed__ _adj_ Perplexed or bewildered.  
 __flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
@@ -7624,6 +7626,7 @@ __insolent__ _adj_
 __insolvency__  
 __insomniac__ _n_  
 __insouciant__ _adj_ Marked by blithe unconcern. _Syn_ casual, nonchalant _He showed an insouciant disregard for cold weather, wearing only a T-shirt in the show._  
+__inspissate__ _v_ To undergo thickening or cause to thicken, as by boiling or evaporation. _Syn_ condense, thicken _The recipe then instructed the cook to inspissate the sauce by adding flour._  
 __instability__ _n_ :three::hammer::pencil2:  
 __installment__ _n_ :three::dart: A part of a broadcast serial. _Customers can pay monthly installments of $15._ _In final installment, celebrity chef grills up some steak frites._  
 __instating__  
@@ -8063,7 +8066,7 @@ __kites__ _n_
 __kitsch__ _n_ :two::pencil2: /KITCH/ Something that appeals to popular or lowbrow taste and is often of poor quality. _Kitsch and tacky but collectable items can be found at the flea market._  
 __kitten__  
 __kiwi__  
-__kleptocracy__ _n_ :two: A government characterized by rampant greed and corruption.  
+__kleptocracy__ _n_ :three: /ˌklɛpˈtɒkrəsɪ/ (cleptocracy) A government characterized by rampant greed and corruption.  
 __klutz__ _n_ :three::hammer:  
 __knack__ _n_ :three::mute:[~~k~~nack]:hammer: _She’s got a knack for it._  
 __knacker__ _n_ __1__ A person who buys up old horses for slaughter.  
@@ -8375,7 +8378,7 @@ __levelheaded__ _adj_ :two: Exercising or showing good judgment. _Syn_ sound, in
 __lever__ _v_  
 __leverage<sup>1</sup>__ _n_ :two::hammer: _To exert leverage._ _He had no leverage over her just as she had none over him._  
 __leverage<sup>2</sup>__ _v_ :five::hammer:  
-__leviathan__ _n_ :two::hammer:  
+__leviathan__ _n_ :three: /luh-VYE-uh-thun/ Something large or formidable. _Towering leviathans of the forest, these giant sequoias often reach heights of more than 200 feet._  
 __levied__ _v_ :five::hammer: _The NFL has levied $50,000 in fines to Sanders for faking an injury during an Oct. 21 game in Cincinatti._  
 __levity__ _n_ :three::hammer: _His levity faded._ _The most potent antidote for stress is levity._  
 __levy<sup>1</sup>__ _v_ :six::hammer: (levying) _The levy of taxes on clerical income._  
@@ -8853,6 +8856,7 @@ __maraud__ _v_
 __marauder__ _n_ :two::hammer:  
 __marauding__ _adj_ :three: (of people or animals) Wandering or raiding in search of plunder or victims. Going around a place in search of things to steal or people to attack: _Gangs of marauding youths filled the streets._  
 __marcel__ _v_ (marcelled) To style (the hair) with deep regular waves, using a curling iron. _His marcelled hair gleamed like liquid plastic._  
+__marcescence__ _n_ /mahr-SES-uhns/ [:scroll: From Latin marcescere (to wither), from marcere (to wither).] The retention of dead leaves, etc., as opposed to shedding.  
 __march__ _n_ _Demonstrators ona marchin Athens._  
 __Mardi Gras__ _n_ :mega:  
 __mardy__ _adj_  
@@ -9555,7 +9559,7 @@ __needlepoint__ _v_ _The hand needlepointed Christmas Stockings made for her fam
 __needless to say,__  
 __needlestick__ _n_ :pencil2:  
 __needy__ _adj_ :two::hammer:  
-__nefarious__ _adj_ :seven: Evil; wicked; sinful. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._  
+__nefarious__ _adj_ :eight: /nih-FAIR-ee-us/ __1__ Evil. _Syn_ villainous _The impenetrable and inescapable prison housed the most nefarious criminals._ _Unsurprisingly, the movie’s villain has a nefarious plot to dominate the world._ __2__ Flagrantly wicked or impious; sinful.  
 __neglected__ _adj_ _I don’t feel neglected._  
 __negotiate__ _v_ /nih-GOH-shee-ayt/  
 __neigh<sup>1</sup>__ _n_ :es: relincho  
@@ -10896,6 +10900,7 @@ __pleat__ _v_ :five: (pleated) Fold into pleats. _Syn_ fold, tuck, crease _A sho
 __plectrum__ _n_ A small thin piece of metal, plastic, bone, or similar material, used to pluck the strings of certain instruments, such as the guitar or lute. _Syn_ pick _When he first struck the guitar’s strings with his plectrum, we knew we were in for a great performance._  
 __pledge__ _n_ :three::hammer:  
 __plenty of (something)__  
+__pleonastic__ _adj_ Characterized by the repetition of the same sense in different words. _Syn_ redundant, tautological _“A true fact” and “a free gift” are pleonastic expressions._  
 __plethora__ _n_ :six: Extreme excess.  
 __pleurisy__ _n_ _He pounded Frost’s back hard enough to cause pleurisy._  
 __pliable__ _adj_ _The pliable GOP._  
@@ -11551,7 +11556,7 @@ __quadroons__
 __quaff__ _v_ :two: _(chiefly literary)_ To swallow hurriedly or greedily or in one draught. _Syn_ gulp, swig _Recently returned to port, the sailors quaffed their ale with gusto._  
 __quaffable__  
 __quaffing__ _adj_ Quaffable. _Quaffing tequila shooters on ser with Darth Vader._  
-__quagmire__ _n_ :four: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
+__quagmire__ _n_ :five: __1__ Soft spongy wet ground that shakes or gives way under the foot. _Syn_ swamp, morass, bog _Torrential rain turned the building site into a quagmire._ :es: cenagal __2__ An awkward, complex, or hazardous situation. A difficult situation from which it is hard to escape. _Syn_ mix-up, mess _A legal quagmire._ _Local journalists are caught in the quagmire._ :es: atolladero  
 __quail<sup>1</sup>__ _n_ :two::hammer:  
 __quail<sup>2</sup>__ _v_ :four: (quailed) To shrink back in fear; cower.  
 __quaint__ _adj_ :nine::m: __1__ Pleasingly or strikingly old-fashioned or unusual. __2__ Unfamiliar or different in character or appearance; odd. _Quaint town._ _Quaint streets._  
