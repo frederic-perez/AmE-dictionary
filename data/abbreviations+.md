@@ -73,6 +73,7 @@ __HIV__
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __ICU__ Intensive care unit.  
+__ICYMI__ An abbreviation for “in case you missed it,” alerting someone to something that they might not have seen or heard about. _ICYMI, these are the five biggest fashion trends for summer._  
 __ie.__ That is to say.  
 __IFU__ Instructions for use.  
 __IIRC__ _chat_ If I recall correctly.  

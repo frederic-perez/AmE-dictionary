@@ -5,6 +5,7 @@ __aviary__ _n_
 __behold__ _v_ _They are a genuine delight to behold._  
 __bluebell__ _n_  
 __bog__ _n_ _Bog garden._  
+__bucktooth__ _n_ /ˈbʌkˌtuːθ/  
 __buskers__ _n_  
 __bustle__ _n_  
 __butt__ _n_ _Rainwater butts._  
@@ -57,6 +58,7 @@ __cook-off__ _n_ A cooking competition. _Chili cook-offs._
 __corky__ _adj_  
 __corn__ _n_ :es: callo  
 __cornerstone__ _n_ :pencil2:  
+__count__ _n_ __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._  
 __countenance__ _n_  
 __courtyard__ _n_ :two::hammer: :es: patio  
 __covetable__ _adj_  
@@ -91,6 +93,7 @@ __downplay__ _v tr_
 __droolworthy__ _adj_ _Droolworthy shawarna._  
 __druthers__ _n informal_ /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
 __dysfunctional__  
+__dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
 __earthy__ _adj_  
 __eatery__ _n_ :three::hammer: _Buzzing eateries._  
 __eclectic__ _adj_ :two::pencil2::hammer:  
@@ -182,6 +185,7 @@ __house wine__ _n_ :es: vino de la casa
 __house__ _v_  
 __hydroponic__ _adj_  
 __hyperbolic__  
+__idiopathic__  
 __idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :pencil2:  
 __ilk__  
 __impeccable__ _adj_ :two::pencil2::hammer:  
@@ -313,6 +317,7 @@ __pylon__ _n_
 __quake__ _v_ _Quaking aspen._  
 __quintessential__ _adj_ :two::hammer:  
 __raillery__ _n_  
+__rampant__ _adj_  
 __ravishing__  
 __Red Cross__ _n_  
 __rejoice__ _v_  
@@ -351,6 +356,8 @@ __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
 __seating__ _n_ _Plenty of garden seating._  
 __seesaw__  
+__sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
+__sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __sesquipedalian__ _adj, n_  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
@@ -358,6 +365,7 @@ __shoulder__ _v_
 __shove__ _v_  
 __showrunner__ _n_  
 __shuffleboard__ _n_  
+__sickbed__ _n_ A sick person’s bed.  
 __sideburns__ _n_  
 __signage__ _n_  
 __simulcast__  
@@ -376,6 +384,7 @@ __splurge__ _v_
 __sprite__ _n_ _Mischievous sprites._  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __squats__ _n_  
+__stance__ _n_  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __steak__ _n_ /steɪk/  
@@ -423,6 +432,7 @@ __thyme__ _n_ :two::mega::hammer:
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __till__ _v_ (tilled)  
 __timepiece__ _n_  
+__timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __tix__ _n pl_ _informal_ Tickets.  
 __toll__ _n_ _Emotional toll._  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
@@ -443,6 +453,7 @@ __tuition__ _n_
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_  
+__unapologetic__ _adj_  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
