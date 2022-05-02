@@ -381,6 +381,7 @@ __aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indi
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :four::hammer:  
+__alpine__ _n_ :three::hammer:  
 __also-ran__ _n_ _To become an also-ran._  
 __also-run__  
 __altar boy__  
@@ -494,6 +495,7 @@ __annihilate__ _v_
 __annihilation__ _n_ :two::pencil2::mega:  
 __anniversary__ _adj, n_ :pencil2::mega:  
 __annoying__ _adj_ :dart: _Your dad’s so annoying!_ :es: ¡Qué pesado es tu padre!  
+__annual__ _n_ __2__ _Botany_ A plant that completes its entire life cycle in a single growing season.  
 __annuity__ _n_ :four::hammer: (annuities)  
 __annum__ _n_  
 __annus horribilis__ _n_  
@@ -617,7 +619,7 @@ __Arapahoe__
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__  
+__arboretum__ _n_ :two::hammer:  
 __arcade game__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
@@ -836,7 +838,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
-__aviary__ _n_  
+__aviary__ _n_ :two::hammer:  
 __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
@@ -1162,7 +1164,7 @@ __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
-__behold__ _v_ :six::hammer: _The wedding ceremony was a joy to behold._ _Sirs, behold me here!_  
+__behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
 __behoove__ _v_ :nine: (behooves) To be necessary or proper for: _It behooves you at least to try._ _It behooves us to reconsider._  
@@ -1486,6 +1488,7 @@ __blue string__
 __blue-blood__  
 __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
 __blue-collar men__  
+__bluebell__ _n_  
 __bluegill__  
 __bluegrass__  
 __blueprint__ _n_ :seven::hammer: (blueprints)  
@@ -1523,7 +1526,7 @@ __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Ind
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __body odor__ _n_  
-__bog<sup>1</sup>__ _n_ :four::hammer: :es: ciénaga  
+__bog<sup>1</sup>__ _n_ :five::hammer: _Bog garden._ :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
 __bogeyman__ _n_ Variant of boogeyman.  
@@ -1863,6 +1866,7 @@ __buckle down (to something)__ _v informal_ :seven::dart: To apply oneself with 
 __buckle__ _v_ :nine::m: (buckled) Bend and give way under pressure or strain. _The earth buckled under the titanic stress._ _My knees buckle with fright._ _Syn_ warp, bend  
 __buckshot__ _n_ :two: Large lead shot for shotgun shells, used especially in hunting big game.  
 __buckskin__ _n_ :two::hammer: (buckskins)  
+__bucktooth__ _n_ /ˈbʌkˌtuːθ/  
 __buckwheat__ _n_  
 __buckwheats__  
 __budding__  
@@ -1993,14 +1997,14 @@ __business logic__
 __business ties__  
 __business__ _n_ /ˈbɪznɪs/  
 __businesspeople__ _n_  
-__busker__  
+__busker__ _n_ :two::hammer: (buskers)  
 __busload__  
 __bust<sup>1</sup>__ _n_ :three::hammer: _A dusty bust of Shakespeare._ _Painful housing busts._  
 __bust<sup>2</sup>__ _v_ :three::hammer: (busting) _Busting out ideas._ _All I can tell you is as a 49er, he’s busting his tail on everything._  
 __busticate__ _v_ _informal US_ To break.  
 __bustiers__ _n_  
 __bustle<sup>1</sup>__ _v_  
-__bustle<sup>2</sup>__ _n_ :two::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
+__bustle<sup>2</sup>__ _n_ :three::mute:[bus~~t~~le]:hammer: _The bustle of daily life._  
 __bustling__ _adj_ :nine::dart: __1__ Full of energetic and noisy activity. _A bustling tapas bar._ _The bustling dining room scene from the movie._ __2__ Very crowded. _The sidewalks are bustling with people._  
 __busy bee__ _n_ An alert and energetic person.  
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
@@ -2009,6 +2013,7 @@ __butcher paper__
 __butt crust__  
 __butt out__ _v_ :two::hammer:  
 __butt up__ _v_ _Butt up against obstacles._  
+__butt__ _n_ _Rainwater butts._  
 __butt-fumble__  
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
@@ -2134,7 +2139,7 @@ __call the shots__
 __call to action__  
 __call<sup>1</sup>__ _n_ :five::hammer: _It’s your call._ _It would’ve been a difficult call to eject Landry._ _Adam made a deal with starter Anderson: Gain at least 4 yards, and he’d call another run play._ _It was a very questionable call._  
 __call<sup>2</sup>__ _v_ :five::hammer: _Allen has called Oregon games for 29 years._ _The group calls on its members to consider the risks._ _Shi and Zhou call Dayton Flyers games in Mandarin Chinese._ _Union calls off strike in Brazil before Cup._  
-__callback__ _n_ _That was a callback to a previous episode._  
+__callback__ _n_ :two::hammer: __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play. _That was a callback to a previous episode._  
 __calling card__  
 __calling hours__  
 __calling__ _n_ :six: (callings) __1__ A strong inner urge to follow an occupation, etc; vocation. _She served in many callings._ _She did it in response to an inner calling._ __2__ An occupation, profession, or trade. _He served in many callings for the LDS Church._  
@@ -2182,11 +2187,12 @@ __cannibalize__ _v_
 __cannolis__  
 __canny__ _adj_ Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
+__canon__ _n_  
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
-__cantankerous__ _adj_ :four: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
+__cantankerous__ _adj_ :six: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
@@ -2195,7 +2201,7 @@ __canter up__ _v_
 __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
-__cantilever__ _v_ :two::hammer: (cantilevered)  
+__cantilever__ _v_ :three::hammer: (cantilevered)  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
 __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  

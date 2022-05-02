@@ -1,18 +1,3 @@
-__alpine__ _n_ :three::hammer:  
-__annual__ _n_ __2__ _Botany_ A plant that completes its entire life cycle in a single growing season.  
-__arboretum__ _n_  
-__aviary__ _n_  
-__behold__ _v_ _They are a genuine delight to behold._  
-__bluebell__ _n_  
-__bog__ _n_ _Bog garden._  
-__bucktooth__ _n_ /ˈbʌkˌtuːθ/  
-__buskers__ _n_  
-__bustle__ _n_  
-__butt__ _n_ _Rainwater butts._  
-__callback__ _n_ __2__ A second or follow-up audition, especially as one of a set of such auditions for a role in a play.  
-__canon__ _n_  
-__cantankerous__ _adj_ :two::hammer:  
-__cantilevered__  
 __canyoned__ _adj_ _Canyoned city streets._  
 __caper__ _n_ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._  
 __caramel apple__  
