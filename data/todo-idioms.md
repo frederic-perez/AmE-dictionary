@@ -57,3 +57,9 @@ __drop by__
 __all-you-can-eat__  
 __front and center__  
 __a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
+__weather pemitting__  
+__in its/their own right__ :two::hammer:  
+__at ots best__ _An excellent tribute to nature at its best._  
+__foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
+__ground zero__  
+__melting pot__  
