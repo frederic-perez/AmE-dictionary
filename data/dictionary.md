@@ -2203,6 +2203,7 @@ __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city
 __Canterbury tale__ _n_ A story that is long, tedious, or absurdly implausible. Any tale told by travelers to pass away the time. After _The Canterbury Tales_ c. 1400 by Geoffrey Chaucer. It’s a collection of 24 stories told in verse by a group of pilgrims as they travel from London to Canterbury.  
 __cantilever__ _v_ :three::hammer: (cantilevered)  
 __canvass__ _v_ :three::hammer::astonished: (canvassing)  
+__canyoned__ _adj_ _Canyoned city streets._  
 __cap<sup>1</sup>__ _n informal_ :three: __2__ A capital letter—usually plural.  
 __cap<sup>2</sup>__ _v_ :nine::m: (capped, capping) __1__ _informal_ To capitalize. __2__ Lie at the top of. _Snow capped the mountains._ __3__ Restrict the number or amount of. _We had to cap the number of people we can accept into our club._ __4__ Provide a fitting climax or conclusion to. _The most capped player._  
 __capable__  
@@ -2210,7 +2211,7 @@ __capacious__ _adj_ Capable of containing a large quantity; spacious or roomy: _
 __caparison<sup>1</sup>__ _n_  
 __caparison<sup>2</sup>__ _v_ __1__ To outfit (a horse) with an ornamental covering. __2__ To dress (another) in rich clothing. _A host of richly caparisoned men._  
 __cape__ _n_ (housing)  
-__caper<sup>1</sup>__ _n_ :seven: __1__ A playful leap or hop. __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
+__caper<sup>1</sup>__ _n_ :eight: __1__ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._ __2__ A frivolous escapade or prank. __3__ _slang_ An illegal plot or enterprise, especially one involving theft. __4__ A usually spiny Mediterranean shrub. __5__ A pickled flower bud of this plant, used as a pungent condiment in sauces, relishes, and various other dishes. _1 tbsp capers._ :es: alcaparra  
 __caper<sup>2</sup>__ _v_  
 __capers__ _n pl_  
 __capful__  
@@ -2233,6 +2234,7 @@ __capuchin monkey__ _n_ :mega:
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
+__caramel apple__  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
 __carapace__ _n_ :five: From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
 __carat__  
@@ -2266,7 +2268,7 @@ __carnation__ _n_ :pencil2::four: A double-flowered cultivated variety of clove 
 __carnie__ _n_ _Carnie man._  
 __carnival__  
 __carny__ _n_  
-__carol__ _v_ (caroling) (vs Christmas carol)  
+__carol__ _v_ :two::hammer: (caroling) (vs Christmas carol) _Join others caroling at Cloud Gatw (aka “The Bean”)._  
 __carolers__ _n_  
 __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)  
 __carom<sup>2</sup>__ _n_ (caroms)  
@@ -2313,7 +2315,7 @@ __casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa
 __casserole<sup>2</sup>__ _v_  
 __cassock__ _n_ :two::hammer:  
 __cast a pall__  
-__cast-iron__  
+__cast-iron__ _adj_ :two::hammer:  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
 __castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
@@ -2355,12 +2357,12 @@ __caterpillar__ _n_
 __caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
-__catharsis__  
+__catharsis__ _n_ :two::hammer:  
 __cathartic__  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
-__catwalk__ _n_ :two::hammer:  
+__catwalk__ _n_ :three::hammer:  
 __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
 __Caucasian<sup>1</sup>__ _adj_ :pencil2:  
 __Caucasian<sup>2</sup>__ _n_ :two::pencil2::hammer:  
@@ -2415,7 +2417,7 @@ __chads__ _n_
 __chafe<sup>1</sup>__ _v_ :eight: (chafes, chafed, chafing) If a part of your body chafes or if something chafes it, it becomes sore because of something rubbing against it. _Her bare ankles chafing against the tops of her tennis shoes._  
 __chafe<sup>2</sup>__ _n_  
 __chafer__ _n_  
-__chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._  
+__chagrin<sup>1</sup>__ _n_ :nine::m: /ʃəˈgrɪn/ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. A feeling of vexation, marked by disappointment or humiliation. _Syn_ annoyance, irritation, vexation, exasperation _To my chagrin, he was nowhere to be seen._ _She later rooted for the Universiity of Texas, much to the chagrin of her husband and son, both alumni of rival schools._ _To the chef’s chagrin, the sauce was too sweet._  
 __chagrin<sup>2</sup>__ _v_ :three: (chagrined) Cause to feel shame; hurt the pride of.  
 __chain letter__ _n_  
 __chain mail__ _n_ :two: Flexible armor of interlinked metal rings.  
@@ -2448,7 +2450,7 @@ __chaos__ _n_ :mute:[c~~h~~aos]
 __chaotic__ _adj_ :mega:  
 __chap__ _v_ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __chaparral__ _n_ :four: Dense vegetation consisting of stunted trees or bushes. An area covered by a dense growth of mostly small-leaved evergreen shrubs, especially in central and southern California.  
-__chaperone<sup>1</sup>__ _n_ :three::hammer:  
+__chaperone<sup>1</sup>__ _n_ :four::hammer: _One adult chaperone is required for every ten students._  
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :six::mega::hammer:  
@@ -2465,7 +2467,7 @@ __chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargr
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
 __charisma__ _n_ :mute:[c~~h~~arisma]  
-__charlatan__ _n_ :two: A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._  
+__charlatan__ _n_ :three: A person who makes elaborate, fraudulent, and often voluble claims to skill or knowledge; a quack or fraud. _Syn_ mountebank _In a somber tone, the charlatan proclaimed that he could cure the woman with only a banana peel-for a small fee, of course._  
 __charnel__ _adj_ :five: Gruesomely indicative of death or the dead. _Syn_ ghastly, sepulchral _The charnel smell coming from the suspect’s basement left little doubt that he was the killer we were seeking._ _It served as the hospital’s charnel house._ _The charnel wagon._  
 __charred__ _adj_ :two: Burnt and blackened.  
 __charted__  
@@ -2528,6 +2530,7 @@ __chevron__ _n_
 __chewed up__  
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
+__Chicagoland__  
 __chicanery__ _n_ :five: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
@@ -2548,7 +2551,7 @@ __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a 
 __childbirth__  
 __childhood__ _n_  
 __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly accurate._  
-__chime in__ _phr v_ :three::hammer:  
+__chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
@@ -2599,10 +2602,11 @@ __chord__ _n, v_ :mute:[c~~h~~ord]
 __choreography__ _n_ :mute:[c~~h~~oreography]  
 __chortle<sup>1</sup>__ _n_ A snorting, joyful laugh or chuckle.  
 __chortle<sup>2</sup>__ _v_ :six: (chortled, chortles) To utter a chortle or express with a chortle.  
-__chorus__ _n, v_ :mute:[c~~h~~orus]  
+__chorus__ _n, v_ :mute:[c~~h~~orus] /ˈkɔr əs, ˈkoʊr-/  
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
+__christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
 __Christendom__ _n_  
 __christening__ _n_  
 __Christian__ _adj, n_ :mute:[C~~h~~ristian]  
@@ -2662,7 +2666,7 @@ __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences;
 __circumsphere__  
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
-__cistern__ _n_ :two::hammer: _More than a hundred households depend on cisterns and wells._  
+__cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
 __citadel__ _n_ :two::hammer: _This glass citadel of capitalism._  
 __citizenry__  
 __City__ _n_ :two: Short for City of London.  

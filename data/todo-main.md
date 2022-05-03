@@ -1,18 +1,3 @@
-__canyoned__ _adj_ _Canyoned city streets._  
-__caper__ _n_ A playful leap or hop. _Syn_ capriole _The child’s playfulness was amusing at first, but they soon grew tired of his capers._  
-__caramel apple__  
-__carol__ _v_ _Join others caroling at Cloud Gatw (aka “The Bean”)._  
-__cast-iron__  
-__catharsis__ _n_  
-__catwalk__ _n_  
-__chagrin__ _n_ /shuh-GRIN/ A distress of mind caused by humiliation, disappointment, or failure. _To the chef’s chagrin, the sauce was too sweet._  
-__chaperone__ _n_ _One adult chaperone is required for every ten students._  
-__charlatan__ _n_  
-__Chicagoland__  
-__chime in__  
-__chorus__ _n_ /ˈkɔr əs, ˈkoʊr-/  
-__christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
-__cistern__ _n_  
 __clematis__ _n_ :two::hammer:  
 __clingy__ _adj_  
 __clippers__ _n_ :two::hammer:  
