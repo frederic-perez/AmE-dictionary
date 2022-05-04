@@ -1,18 +1,3 @@
-__abeyance__ _n_ /uh-BAY-unss/ A state of temporary inactivity. (The word itself is commonly preceded by the preposition in.) _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
-__clematis__ _n_ :two::hammer:  
-__clingy__ _adj_  
-__clippers__ _n_ :two::hammer:  
-__cloakroom__ _n_ :es: guardaropa  
-__clod__ _n_ /klɒd/  
-__clothiers__ _n_  
-__Cloud Gate__ _n_ (Chicago)  
-__clutch bags__  
-__cog railway__  
-__cog__ _n_  
-__color wheel__  
-__columbine__ _n_ _Columbine and Indian paintbrush._  
-__comforter__ _n_ :mega: __4__ _US_ A quilted bed covering.  
-__commonality__ _n_  
 __commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
 __complimentary__ _adj_ :three::hammer: _A complimentary glass of house wine._  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  

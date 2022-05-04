@@ -47,7 +47,7 @@ __abecedarian<sup>2</sup>__ _adj_ Alphabetically arranged.
 __aberrant__ _adj_ :two::hammer:  
 __aberration__ _n_ :two: __1__ A deviation from what is typical or normal: _an election that was an aberration from usual state politics._ _Syn_ deviation  
 __abet__ _v_ :five: (abetted, abetting) To help someone do something wrong or illegal.  
-__abeyance__ _n_ :four: The condition of being temporarily set aside. _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._  
+__abeyance__ _n_ :five::dart: /uh-BAY-unss/ A state of temporary inactivity. The condition of being temporarily set aside. (The word itself is commonly preceded by the preposition in.) _Syn_ suspension _Every other feeling as it rushed upon him was thrown into abeyance by pity, deep respectful pity, for the man who sat before him._ _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __abhor__ _v_ :pencil2:  
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
@@ -2735,6 +2735,7 @@ __cleat<sup>2</sup>__ _v_ :two::hammer: (cleated) _Cleated horseshoes._ To get s
 __cleave__ _v_ _The court often cleaves along predictable lines._  
 __cleaver__ _n_ :four::hammer: _A butcher’s cleaver._ _Meat cleaver._  
 __cleft__  
+__clematis__ _n_ :two::hammer:  
 __clemency__ _n_ :two: A disposition to show mercy, especially toward an offender or enemy. _Syn_ mercy _He was willing to show clemency, promising not to report the theft if his property was returned._  
 __clement__ _adj_  
 __clench__ _n_ :two::hammer:  
@@ -2757,20 +2758,22 @@ __climbing__ _n_ :mute:[clim~~b~~ing]
 __clinch__ _v_ :nine::m: (clinched) __1__ To secure (a driven nail) by bending the protruding point over. __2a__ To settle (an argument, bargain, etc.) definitely. _Only two places seem clinched._ __b__ To make sure of winning; win conclusively. _A 45-yarder clinched the game._ __3__ _US, boxing_ Grapple at close quarters, especially (of boxers) so as to be too closely engaged for full-arm blows. _Syn_ grapple, wrestle, struggle with each other  
 __clincher__ _n_ :six: An argument that is conclusive. _Syn_ determiner _My final point was the clincher and won me the debate._  
 __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his clingching._  
+__clingy__ _adj_  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :three::hammer: _A better newspaper clip._ _Here is a clip from her most recent article._  
 __clipped grass__  
+__clippers__ _n_ :two::hammer:  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
 __clique__ _n_ :seven: (cliques) A narrow exclusive circle or group of persons (friends or associates), esp. one held together by common interests, views, or purposes. :es: camarilla  
 __cloak<sup>1</sup>__ _n_ :two::hammer: :es: capa, manto  
 __cloak<sup>2</sup>__ _v_ :two::hammer: _Syn_ disguise  
-__cloakroom__ _n_ :two::hammer:  
+__cloakroom__ _n_ :three::hammer: :es: guardaropa  
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __cloche__ _n_ A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clockwork__ _n_  
-__clod__ _n_ :four::hammer: _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
+__clod__ _n_ :five::hammer: /klɒd/ _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clogging__ _v_  
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
 __close > not even close__  
@@ -2785,7 +2788,9 @@ __closure__ _n_ :three::hammer: _Get closure on compensation dispute with busine
 __clot__  
 __clothesline__ _n_ :two::hammer:  
 __clothespin__ _n_ :two::camera::hammer:  
+__clothiers__ _n_  
 __cloture__  
+__Cloud Gate__ _n_ (Chicago)  
 __cloud seeding__ _n_ :two::hammer:  
 __cloud__ _v_ :two::hammer: _Distance clouds perspective._ _To cloud my judgement._  
 __clough__ _n_ :three::hammer:  
@@ -2802,7 +2807,7 @@ __clump__ _n_ :three::hammer: _The clump of footsteps._
 __clunker__ _n informal_ :five: (clunkers) __1__ An old, run-down vehicle or machine. _Syn_ jalopy, lemon, rustbucket, bucket of bolts, hooptie, crate _He’s got loads of money, but he still drives an old clunker._ __2__ A thing that is totally unsuccessful. _Novel after novel and not a clunker among them._ _Syn_ failure, flop, bust  
 __clunking__  
 __clunky__ _adj_ :three::hammer:  
-__clutch bag__  
+__clutch bag__ _n_ :two::hammer:  
 __clutch player__  
 __clutch<sup>1</sup>__ _n_ :four::hammer: _It fosters a clutch of promising innovations._ _The clutches of the Brussels bureaucrats._ _He was a dominant player in the clutch._ _Clutches for iPhone._  
 __clutch<sup>2</sup>__ _v_ :six::astonished::hammer: (clutching) _Butler and Wade were both clutch._ _She was clutching her hands._ _Steve was clutching notes outlining possible line-ups._  
@@ -2850,7 +2855,8 @@ __coffee mill__ _n_ _Syn_ coffee grinder
 __coffee-table book__  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The coffee shop down this street is my coffice for 3 hours every day._  
-__cog__ _n_ :seven: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
+__cog railway__  
+__cog__ _n_ :eight: A wheel or bar with a series of projections on its edge, which transfers motion by engaging with projections on another wheel or bar. _The cogs and springs of a watch._ :es: diente de rueda  
 __cogency__  
 __cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convincing. _Syn_ weighty _Having put forth an indisputably cogent argument, Sally won the debate._  
 __cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
@@ -2904,11 +2910,13 @@ __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogan
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
 __colophon__ _n_  
+__color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
 __colorful__ _adj_ _The colorful lawyer is up for the challenges of the task._  
 __colossal__ _adj_ :two::hammer:  
 __colossus__  
 __colostomy bag__  
+__columbine__ _n_ _Columbine and Indian paintbrush._  
 __column__ _n_ :mute:[colum~~n~~]  
 __coma__ _n_ :two::hammer: _Medically induced coma._ _Schumacher out of coma._  
 __comatose__  
@@ -2930,7 +2938,7 @@ __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible
 __comeuppance__  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
-__comforter__ _n_ :five: (comforters) A quilt. A quilted bedcover. _Sheets and comforters._  
+__comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
@@ -2955,7 +2963,7 @@ __commode__
 __commodious__ _adj_ :two::hammer: /kuh-MOH-dee-us/  
 __commoditization__  
 __common__ _adj_ :mega: (kŏm′ən)  
-__commonality__ _n_ (commonalities)  
+__commonality__ _n_ :two::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  
 __commonwealth__ _n_  
 __Commonwealth__ _n_  
