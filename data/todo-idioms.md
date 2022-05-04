@@ -63,3 +63,7 @@ __at ots best__ _An excellent tribute to nature at its best._
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
 __ground zero__  
 __melting pot__  
+__squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
+__cottage industry__  
+__stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
+__steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  

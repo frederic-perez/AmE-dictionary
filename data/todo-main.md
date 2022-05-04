@@ -1,3 +1,4 @@
+__abeyance__ _n_ /uh-BAY-unss/ A state of temporary inactivity. (The word itself is commonly preceded by the preposition in.) _The misdemeanor charges are in abeyance while the suspect is being prosecuted for the felony._  
 __clematis__ _n_ :two::hammer:  
 __clingy__ _adj_  
 __clippers__ _n_ :two::hammer:  
@@ -132,6 +133,7 @@ __grotto__ _n_ :two::hammer: _A rooftop grotto bar._
 __ground-breaking__  
 __growler__ _n_  
 __grub__  
+__guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
 __hamstring__ _n_ /ˈhæmˌstrɪŋ/  
 __hardwood__  
 __hardy__ _adj_ :three::hammer: _Hardy plants._  
@@ -184,6 +186,7 @@ __leisurely<sup>2</sup>__ _adv_
 __libation__ _n_ :three::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__  
+__listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
 __loanword__ _n_  
 __loggery__ _n_  
@@ -246,16 +249,19 @@ __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _Th
 __paper lantern__ _n_ :camera:  
 __paraphernalia__  
 __parcel__ _n_  
+__parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __patron__ _n_ :two::hammer:  
 __patronize__ _v_  
 __pavers__ _n_  
 __peat__ _n_ _Peat bed._  
 __pedigree__  
+__pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __perfect__ _v_  
 __pergola__ _n_  
 __pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
 __picturesque__ _adj_ :three::hammer:  
+__piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
 __planter__ _n_  
 __plantman__ _n_  
 __plantwoman__ _n_  
@@ -321,6 +327,7 @@ __scarlet letter__ _n_
 __scatting__ _v_  
 __schadenfreude__  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
+__schmooze__ _v_ /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schooner__  
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
@@ -435,6 +442,7 @@ __username__ _n_ ;pencil2:
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __vacuous__  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
+__vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __visitor__  
 __wanderlust__  
