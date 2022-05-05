@@ -2968,6 +2968,7 @@ __commoner__ _n_ __1__ A member of the commonalty; a person without a title of n
 __commonwealth__ _n_  
 __Commonwealth__ _n_  
 __commotion__ _n_  
+__commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
 __communicant__ _n_ _Even the Eucharist might be withheld unless the communicant produced an offering which made a mockery of the ritual._  
 __communion wafers__  
 __communiqué__ _n_ :two: (communiqués) An official statement.  
@@ -2990,7 +2991,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :three::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._  
+__complimentary__ _adj_ :six::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -3029,6 +3030,7 @@ __concertmaster__
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
 __conch__ _n_ _A conch farm._  
+__concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __conciliatory__ _adj_  
 __concise__  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
@@ -3043,7 +3045,7 @@ __concussive__
 __condemn__ _v_ :mute:[condem~~n~~]  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
-__condo__  
+__condo__ _n_ :two::hammer: (condos)  
 __condominium__ _n_ _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to passing._  
@@ -3066,6 +3068,7 @@ __config__ _n_ :mega: _A config file._
 __conflagration__ _n_ :three: A very intense and uncontrolled fire. _Syn_ inferno _All the stock was destroyed in a warehouse conflagration._ _An astonishing conflagration of biodiversity._  
 __conflate__ _v_ :two: Mix together different elements. _Syn_ coalesce, fuse, mix, merge, commingle, flux, blend, meld, combine _He conflates two images from Kipling’s short stories in the film._  
 __confluence__ _n_  
+__conform__ _v_  
 __confort food__ _n_ Food that you enjoy very much and often eat when you are feeling sad.  
 __confound__ _v_ :nine::m: /kən-found′, kŏn-/ (confounded, confounding) __1__ To astound or perplex; bewilder. __2__ To mix up; confuse. __3__ To treat mistakenly as similar to or identical with (one or more other things). __4__ To curse or damn (usually as an expletive in the phrase confound it!). __5__ To contradict or refute (an argument, etc). __6__ To rout or defeat (an enemy).  
 __confrerie__ _n_ :two::pencil2::hammer: (confreries)  
@@ -3105,14 +3108,17 @@ __consensual__
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
+__conservatory__ _n_ :two: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
+__consign__ _v_ (consigned) _Fashionable consigned clothes._  
+__consignment__ _n_ :four::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
 __consonance__ _n_ Consonance is a repetition of consonants or consonant sounds. Example: Mike likes Ike’s bike.  
 __consort__ _v_ (consorting)  
 __conspicuous__ _adj_ :seven: /kuhn-spik-yoo-uhs/ (conspicuously) __1__ Obvious or easy to notice. _A conspicuous flaw in the construction._ _Conspicuously absent was Iran._ __2__ Noticeable or attracting attention, especially if unattractive.  
-__constituency__ _n_ :six::hammer: (constituencies)  
+__constituency__ _n_ :seven::hammer: /kənˈstɪtʃ u ən si/ (constituencies)  
 __constituent__ _n_ :six::hammer: (constituents)  
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
 __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set of principles governing a state, organization, etc. __2__ Relating to someone’s physical or mental condition. __3__ Relating to the fundamental makeup of something or someone; essential.  
@@ -3154,7 +3160,7 @@ __contranym__ _n_ :two: A word that has opposite or nearly opposite meanings, as
 __contraption__  
 __contrarian__  
 __contrarious__ _adj_ Difficult to deal with. _Syn_ cross-grained _I do not know how people tolerate teenage girls; they are the most contrarious creatures ever to walk the Earth!_  
-__contretemps__  
+__contretemps__ _n_ :two: An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
 __contrite__ _adj_ :eight: __1__ Caused by or showing sincere remorse. __2__ Filled with a sense of guilt and the desire for atonement; penitent: a contrite sinner. :es: arrepentido  
 __contrition__ _n_ :three::hammer:  
 __contrivance__ _n_ :six: An elaborate or deceitful plan or expedient. _Syn_ stratagem, plan, design, measure, scheme, trick, plot, dodge, expedient, ruse, artifice, machination _This “shortage” is nothing more than a contrivance to raise prices._  
@@ -3168,6 +3174,7 @@ __convection__ _n_
 __convective__ _adj_ _Convective cloud._  
 __convene__ _v_ :nine::m: (convenes, convened) Come or bring together for a meeting or activity; assemble. _He had convened a secret meeting of military personnel._ _Syn_ summon, call, call together, order :es: convocar; reunirse a; encontrarse _People convened in the lobby._ _A War Council was convened._  
 __convenience store__  
+__conventioneer__ _n_  
 __conversely__ _adv_ :three: _(sentence modifier)_ In a contrary or opposite way; on the other hand.  
 __convertible__  
 __convey__ _v_ :two::hammer: (conveyed)  
@@ -3176,12 +3183,13 @@ __conveyor belt__ _n_ A continuous, moving belt that transports materials or pac
 __conviction__ _n_  
 __convivial__ _adj_ :four: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._  
 __convoke__ _v_ To call together to a meeting.  
+__convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
 __conwise__  
 __coo__ _v_ :six: (cooed) __1__ _(of a pigeon or dove)_ Make a soft murmuring sound. _Ringdoves cooed among the branches._ __2__ _(of a person)_ Speak in a soft gentle voice. _She cooed with delight as he unpacked the bags._  
 __cooing__ _n_  
 __cook__ _n_  
-__cook-off__  
+__cook-off__ _n_ :two: A cooking competition. _Chili cook-offs._  
 __cookie__ _n_ [:scroll: from Dutch koekje, diminutive of koek _cake_, so it essentially means a “small cake”]  
 __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.  
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
@@ -3228,11 +3236,13 @@ __corduroys__ _n_ Pants made of corduroy.
 __core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
+__corky__ _adj_  
 __cormorants__  
 __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned beef  
 __Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
 __corn fritters__  
 __corn salad__ _n_ _Syn_ mache :es: canónigo  
+__corn__ _n_ :es: callo  
 __cornball__  
 __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
 __cornerstone__ _n_  

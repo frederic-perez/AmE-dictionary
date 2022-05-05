@@ -1,18 +1,3 @@
-__commune__ _v_ __1__ To be in a state of intimate, heightened sensitivity and receptivity, as with one’s surroundings: _hikers communing with nature._ __2__ To receive the Eucharist.  
-__complimentary__ _adj_ :three::hammer: _A complimentary glass of house wine._  
-__concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
-__condo__ _n_ (condos)  
-__conform__ _v_  
-__conservatory__ _n_ :two: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
-__consign__ _v_ (consigned) _Fashionable consigned clothes._  
-__consignment__ _n_ :four::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
-__constituency__ _n_ /kənˈstɪtʃ u ən si/  
-__contretemps__ _n_ An unforeseen event that disrupts the normal course of things; an inopportune occurrence. _Syn_ mishap, predicament, calamity _His cross-country tour had its full share of comic contretemps._  
-__conventioneer__ _n_  
-__convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
-__cook-off__ _n_ A cooking competition. _Chili cook-offs._  
-__corky__ _adj_  
-__corn__ _n_ :es: callo  
 __cornerstone__ _n_ :pencil2:  
 __count__ _n_ __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._  
 __countenance__ _n_  
