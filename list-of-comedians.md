@@ -31,6 +31,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Groucho Marx](https://www.youtube.com/results?gl=US&search_query=Groucho+Marx)
 - [Jack Benny](https://www.youtube.com/results?gl=US&search_query=Jack+Benny) portrayed "that great, great Polish actor Joseph Tura."
 - [James Corden](https://www.youtube.com/results?gl=US&search_query=James+Corden) battled Adam Lambert to become Queen frontman.
+- [Jason Mantzoukas](https://www.youtube.com/results?gl=US&search_query=Jason+Mantzoukas)
 - [Jeff Ross](https://www.youtube.com/results?gl=US&search_query=Jeff+Ross), the "Roastmaster General."
 - [Jim Gaffigan](https://www.youtube.com/results?gl=US&search_query=Jim+Gaffigan)
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
@@ -46,6 +47,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
+- [Paul Scheer](https://www.youtube.com/results?gl=US&search_query=Paul+Scheer)
 - [Rachel Feinstein](https://www.youtube.com/results?gl=US&search_query=Rachel+Feinstein)
 - [Ralphie May](https://www.youtube.com/results?gl=US&search_query=Ralphie+May)
 - [Rita Rudner](https://www.youtube.com/results?gl=US&search_query=Rita+Rudner)
