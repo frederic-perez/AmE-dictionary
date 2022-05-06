@@ -1,3 +1,12 @@
+__ample__ _adj_ _Ample public seating areas._  
+__apprentice__ _v_ (apprenticed)  
+__archway__ _n_  
+__brownstone__ _n_ _Elegant multi-million dollar brownstones._  
+__bunny__ _n_ _Hugh Hefner and his bunnies._  
+__clip-clop__ _n_ _The sound made by a horse’s hooves._  
+__condo__ _n_ _Luxury condos._  
+__condominium__ _n_  
+__conservatory__ _n_  
 __cornerstone__ _n_ :pencil2:  
 __count__ _n_ __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._  
 __countenance__ _n_  
@@ -54,7 +63,7 @@ __ethos__
 __evensong__ _n_  
 __exculpate__ _v_ /EK-skull-payt/ To clear from alleged fault or guilt.  
 __exhibit__ _n_  
-__exhilarating__ _adj_ :two::hammer:  
+__exhilarating__ _adj_ :three::hammer:  
 __expansive__ _adj_ _An expansive craft beer list._  
 __extravaganza__  
 __eye-popping__ _adj_ _Eye-popping croissants._  
@@ -113,6 +122,7 @@ __haunts__
 __hayrides__ _n_  
 __hearty__ _adj_ _Hearty fare._  
 __heather__ _n_ :es: brezo  
+__hectic__ _adj_ _The hectic pace of the city._  
 __heist__ _n_  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
@@ -138,6 +148,7 @@ __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __juke__ _v_  
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
+__junkjard__ _n_  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
 __kale__ _n_  
 __kangaroo word__  
@@ -185,6 +196,7 @@ __minimalist__ _adj_
 __mischievous__ _adj_  
 __misphrase__ _v tr_  
 __moated__ _adj_ _The moated palace of King Edwin._  
+__mogul__ _n_  
 __monolith__ _n_  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
@@ -207,11 +219,14 @@ __nuance__ _n_ :mega:
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oddball__ _adj, n_  
+__offbeat__ _adj_  
 __one-off__  
 __op-ed__ _adj, n_ :mega:  
 __operating system__  
 __orderliness__ _n_  
+__oregano__ _n_ :mega: _Fresh hand rubbed oregano._  
 __ornamental__ _adj_  
+__ornate__ _adj_ /ɔrˈneɪt/  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __panache__  
 __panna cotta__ _n_  
@@ -219,8 +234,9 @@ __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _Th
 __paper lantern__ _n_ :camera:  
 __paraphernalia__  
 __parcel__ _n_  
+__parishioner__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
-__patron__ _n_ :two::hammer:  
+__patron__ _n_ :four::hammer: (patrons) _This concert venue can hold 11,000 patrons._  
 __patronize__ _v_  
 __pavers__ _n_  
 __peat__ _n_ _Peat bed._  
@@ -236,8 +252,11 @@ __planter__ _n_
 __plantman__ _n_  
 __plantwoman__ _n_  
 __platted__ _v_  
+__plentiful__  
+__plenty__ _n_ _There are plenty of shops._  
 __plethora__ _n_ :two::hammer:  
 __plot__ _n_ _Vegetable plot._  
+__plush__ _n_ _A plush booth in the bar._  
 __Pluto__ _n_  
 __pod__ _n_ _Pea pod._  
 __pontoon__ _n_ _Pedal a pontoon boat._  
@@ -246,6 +265,7 @@ __potentate__ _n_ One who has the power and position to rule over others. _Syn_ 
 __potsticker__ _n_  
 __poutine__  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
+__premier__ _adj_ _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
 __prescient__ _adj_ :es: clarividente, profético  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
@@ -253,6 +273,7 @@ __primrose__ _n_
 __privy__  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
 __procure__ _v_  
+__promenade__ _n_  
 __prowess__  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
@@ -260,12 +281,16 @@ __pupil__ _n_ /ˈpjuːpəl/
 __purebred__  
 __puree__ _n_ :mega:  
 __pylon__ _n_  
+__quaint__ _adj_ :two::hammer: _Quaint neighborhood shops._  
 __quake__ _v_ _Quaking aspen._  
 __quintessential__ _adj_ :two::hammer:  
 __raillery__ _n_  
 __rampant__ _adj_  
+__rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __Red Cross__ _n_  
+__refreshment__ _n_  
+__regiment__ _n_ _Several regiments of soldiers._  
 __rejoice__ _v_  
 __rejuvenated__ _adj_  
 __relatable__ _adj_  
@@ -283,7 +308,7 @@ __rink__ _n_ :two::hammer: _A wintertime skating rink._
 __riverfront__  
 __rockery__ _n_ :four::hammer:  
 __rollicking__  
-__Romanesque__ _adj_ :es: románico  
+__Romanesque__ _adj_ :two::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
 __rotunda__ _n_ :two::hammer:  
 __rowdy__  
@@ -291,6 +316,7 @@ __runway__ _n_
 __saccade__ _n_  
 __salient__ _adj_ /SAIL-yunt/  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
+__sangria__ _n_  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __scant__  
 __scarlet letter__ _n_  
@@ -302,10 +328,12 @@ __schooner__
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
 __seating__ _n_ _Plenty of garden seating._  
+__secluded__ _adj_  
 __seesaw__  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __sesquipedalian__ _adj, n_  
+__shanty__ _n_ __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work.  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoulder__ _v_  
@@ -316,6 +344,7 @@ __sickbed__ _n_ A sick person’s bed.
 __sideburns__ _n_  
 __signage__ _n_  
 __simulcast__  
+__sit__ _v_ _The nightlife district sits just north of the Chicago River._  
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skit__ _n_ :two::hammer: _Skit theater._  
 __sleek__ _adj_  
@@ -326,6 +355,7 @@ __smalltime__ _adj informal_ _Smalltime dealer._
 __smortasbord__  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
 __socialite__  
+__sought-after__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __splurge__ _v_  
 __sprite__ _n_ _Mischievous sprites._  
@@ -369,7 +399,7 @@ __telly__ _n_ :dart:
 __terra cotta__ _n_ :pencil2:  
 __terrazzo__  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
-__thoroughfare__ _n_ _A major shopping thoroughfare._  
+__thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._  
 __thoroughfares__ _n_ :two::hammer:  
 __thought-provoking__  
 __thrift__ _n_ _Thrift store._  
@@ -393,11 +423,14 @@ __treetops__ _n_
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
 __tribulation__ _n_  
 __trinket__ _n_ _Trinket shops._  
+__troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
 __trove__ _n_ :two::hammer:  
 __tub__ _n_  
+__tuck away__ _v_  
 __tuck__ _v_ (tucked)  
 __tuition__ _n_  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
+__typify__ _v_ (typifies)  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_  
 __unapologetic__ _adj_  
@@ -407,6 +440,7 @@ __unforgiving__ _adj_
 __unparalleled__ _adj_ :two::hammer:  
 __unpretentious__  
 __unsurmountable__ _adj_  
+__unwind__ _v_ _The lounge is the perfect place to unwind with a martini._  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
