@@ -437,7 +437,7 @@ __amp up__ _phr v_ :two::hammer: (amped up, amping up)
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __amphibian__ _n_ :pencil2:  
-__ample__ _adj_ :eight: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._  
+__ample__ _adj_ :nine: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
 __ampoule__ _n_ (ampul, ampule) A glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped. _Syn_ phial, vial  
@@ -602,7 +602,7 @@ __apprehend__ _v_
 __apprehension__ _n_ :three::pencil2::hammer:  
 __apprehensive__ _adj_ :two::dart: Very nervous.  
 __apprentice<sup>1</sup>__ _n_  
-__apprentice<sup>2</sup>__ _v_  
+__apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)  
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
@@ -636,6 +636,7 @@ __architect__ _n, v_ :mute:[arc~~h~~itect]
 __archivist__  
 __archpriest__ _n_  
 __archrival__ _n_  
+__archway__ _n_  
 __arctophile__ _n_ :astonished: A person who collects or is very fond of teddy bears. _Tom is an arctophile._  
 __ardent__ _adj_ :two::hammer: _He was one of her most ardent suitors._  
 __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, or devotion. _Syn_ passion Feelings of great warmth and intensity. _Syn_ fervency, fire _He spoke with great ardor at the rally, inspiring the crowd with his passionate words._  
@@ -1830,7 +1831,7 @@ __brown shirt__ _n_ Soldiers in Hitler’s storm trooper army, SA during the Naz
 __Brownie__ _n_ A member of a Guiding organization for girls aged seven years old to ten years old. Brownies were first organized by Lord Baden-Powell in 1914, to complete the range of age groups for girls in Scouting. _Brownie salute._  
 __brownnose__ _v_ (brownnosing) :pencil2:  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
-__brownstones__ _n_  
+__brownstone__ _n_ :two: __2__ A brick or stone townhouse, especially one faced with reddish-brown sandstone. _Elegant multi-million dollar brownstones._  
 __browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
 __bruin__  
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
@@ -1950,6 +1951,7 @@ __bunker oil__
 __bunker__ _n_ [:scroll: Scots bonker, _chest_] __1__ A large bin or receptacle; a fixed chest or box: _a coal bunker._ __2__ A partially underground chamber, often of reinforced concrete, built as a bomb shelter or as part of a fortification.  
 __bunkmates__  
 __bunkum__ _n_ :two: __1__ Empty talk; nonsense. __2__ Empty or insincere speechmaking by a politician to please voters or gain publicity.  
+__bunny__ _n_ __2__ _Professions_ A night-club hostess whose costume includes a rabbit-like tail and ears. _Syn_ bunny girl _Hugh Hefner and his bunnies._  
 __bunraku__  
 __bunt__ _v_ :two::hammer: (bunted) _Hamels batted in the third inning and tried to bunt._  
 __bunting__ _n_  
@@ -2761,6 +2763,7 @@ __clinching__ _v_ _(Boxing)_ _A lot of people complain about it, along with his 
 __clingy__ _adj_  
 __clinics__ _n_ :three::hammer: _Wang conducted hockey clinics through an initiativee called Project Horse._  
 __clip__ _n_ :three::hammer: _A better newspaper clip._ _Here is a clip from her most recent article._  
+__clip-clop__ _n_ _The sound made by a horse’s hooves._  
 __clipped grass__  
 __clippers__ _n_ :two::hammer:  
 __clipping__ _n_ :two::hammer: (clippings) _He had the newspaper clipping to prove he was a hero._  
@@ -3045,8 +3048,8 @@ __concussive__
 __condemn__ _v_ :mute:[condem~~n~~]  
 __condition__ _n_ :two::hammer:  
 __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of conditional discharge._  
-__condo__ _n_ :two::hammer: (condos)  
-__condominium__ _n_ _First-floor condominium._  
+__condo__ _n_ :three::hammer: (condos) _Luxury condos._  
+__condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
 __conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
@@ -3108,7 +3111,7 @@ __consensual__
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
-__conservatory__ _n_ :two: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
+__conservatory__ _n_ :three: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
 __consign__ _v_ (consigned) _Fashionable consigned clothes._  
 __consignment__ _n_ :four::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
@@ -3245,7 +3248,7 @@ __corn salad__ _n_ _Syn_ mache :es: canónigo
 __corn__ _n_ :es: callo  
 __cornball__  
 __corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
-__cornerstone__ _n_  
+__cornerstone__ _n_ :two::pencil2::hammer:  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :six::hammer:  
@@ -3296,8 +3299,8 @@ __councilor__ _n_ :two::hammer: (councillor)
 __counsel__ _n_ :two::hammer:  
 __counselor__ _n_  
 __count on__ _phr v_ To rely or depend on (someone) to do something.  
-__count__ _n_ :four::hammer: _He entered guilty pleas to two manslaughter counts._  
-__countenance<sup>1</sup>__ _n_ :six::hammer: _His countenance was pale and sunken._  
+__count__ _n_ :five: __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._ _He entered guilty pleas to two manslaughter counts._  
+__countenance<sup>1</sup>__ _n_ :seven::hammer: _His countenance was pale and sunken._  
 __countenance<sup>2</sup>__ _v_ :two::hammer:  
 __counter__ _n_ :four::hammer: _A lot of counter space._ _The list is on your dressing-room counter._ _A counter-depth fridge._ :es: encimera  
 __counterbalance__ _v_ Oppose and mitigate the effects of by contrary actions.  
@@ -3317,7 +3320,7 @@ __coupon__ _n_
 __course<sup>1</sup>__ _n_ _The course features dishes such as lobster, four gras and mushroom pie._  
 __course<sup>2</sup>__ _v_ :astonished: _Cy felt stress coursing through his body._  
 __coursework__  
-__courtyards__ _n_  
+__courtyard__ _n_ :three::hammer: :es: patio  
 __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn_ agreement, bond, compact, contract, convention, pact _He generally doesn’t buy so-called “covenant lite” deals._ __2__ An agreement, especially one involving a sale or exchange. _Syn_ bargain, compact, contract, deal, transaction __3__ A declaration that one will or will not do a certain thing. _Syn_ assurance, engagement, guarantee, guaranty, pledge, plight, promise, solemn word, vow, warrant, word, word of honor _It has nothing to do with the covenant of Abraham._  
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
@@ -3326,7 +3329,8 @@ __cover charge__
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
-__coveted<sup>1</sup>__ _adj_ :two: Sought-after. _A coveted item._  
+__covetable__ _adj_  
+__coveted<sup>1</sup>__ _adj_ :three: Sought-after. _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__ _adj_ :two::hammer:  
 __covey__  

@@ -1,18 +1,3 @@
-__ample__ _adj_ _Ample public seating areas._  
-__apprentice__ _v_ (apprenticed)  
-__archway__ _n_  
-__brownstone__ _n_ _Elegant multi-million dollar brownstones._  
-__bunny__ _n_ _Hugh Hefner and his bunnies._  
-__clip-clop__ _n_ _The sound made by a horse’s hooves._  
-__condo__ _n_ _Luxury condos._  
-__condominium__ _n_  
-__conservatory__ _n_  
-__cornerstone__ _n_ :pencil2:  
-__count__ _n_ __3__ _Law_ Any of the separate and distinct charges or causes of action in an indictment or complaint. _A cardiologist was charged with three counts of healthcare fraud for an alleged scheme involving office visits that never occurred._  
-__countenance__ _n_  
-__courtyard__ _n_ :two::hammer: :es: patio  
-__covetable__ _adj_  
-__coveted__ _adj_  
 __crag__ _n_  
 __cred__ _n_  
 __crossroads__ _n_ _At crossroads turn R onto B1233 towards Cottingham._  
