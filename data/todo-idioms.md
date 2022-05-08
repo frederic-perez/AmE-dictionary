@@ -67,3 +67,5 @@ __squashed (in) like sardines__ Very tightly or snugly packed together, especial
 __cottage industry__  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
+__give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
+__storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  

@@ -1,9 +1,11 @@
+__circumlocution__ _n_ The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
 __crag__ _n_  
 __cred__ _n_  
 __crossroads__ _n_ _At crossroads turn R onto B1233 towards Cottingham._  
 __cufflinks__  
 __daffodil__ _n_ :two::hammer:  
 __dais__ _n_ _It is full of unusual plants surrounding a central stone dais._  
+__darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
 __dashing__ _adj_ _A dashing atmosphere._  
 __dazzling__  
 __decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
@@ -75,6 +77,7 @@ __footing__ _n_ _I found my footing._
 __footpath__ _n_ A narrow path for persons on foot.  
 __forager__ _n_  
 __foreshadow__ _v_  
+__fractious__ _adj_ /FRAK-shus/ Troublesome, unruly, quarrelsome, or irritable. _The political party is more organized and coherent and less fractious._  
 __french fries__ _n_ (French fries)  
 __frozen yogurt__ _n_ _Non-fat frozen yogurt._  
 __fudge__ _n_  
@@ -135,6 +138,7 @@ __juke__ _v_
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
 __junkjard__ _n_  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
+__K-pop__ _n_ _The characteristic pop music of South Korea._  
 __kale__ _n_  
 __kangaroo word__  
 __kiddo__ _n_ _Bring the kiddos._  
@@ -155,6 +159,7 @@ __limestone__
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
 __loanword__ _n_  
+__lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
 __loggery__ _n_  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
 __lore__ _n_ :two::hammer: _Crazy folk lore._  
@@ -182,6 +187,7 @@ __mischievous__ _adj_
 __misphrase__ _v tr_  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __mogul__ _n_  
+__mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __monolith__ _n_  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
@@ -192,6 +198,7 @@ __myopic__ _adj_
 __myriad__ _adj_  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neophyte__ _n_  
+__nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
 __newts__ _n_ _A pond teeming with frogs and newts._  
@@ -212,6 +219,7 @@ __orderliness__ _n_
 __oregano__ _n_ :mega: _Fresh hand rubbed oregano._  
 __ornamental__ _adj_  
 __ornate__ _adj_ /ɔrˈneɪt/  
+__overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __panache__  
 __panna cotta__ _n_  
@@ -221,14 +229,17 @@ __paraphernalia__
 __parcel__ _n_  
 __parishioner__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
+__parsec__ _n_ [:scroll: C20: from parallax + second]  
 __patron__ _n_ :four::hammer: (patrons) _This concert venue can hold 11,000 patrons._  
 __patronize__ _v_  
 __pavers__ _n_  
+__paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __pedigree__  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __perfect__ _v_  
 __pergola__ _n_  
+__phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
 __picturesque__ _adj_ :three::hammer:  
@@ -299,6 +310,7 @@ __rotunda__ _n_ :two::hammer:
 __rowdy__  
 __runway__ _n_  
 __saccade__ _n_  
+__sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
 __salient__ _adj_ /SAIL-yunt/  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __sangria__ _n_  
@@ -311,6 +323,7 @@ __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept pe
 __schmooze__ _v_ /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schooner__  
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
+__scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
 __seating__ _n_ _Plenty of garden seating._  
 __secluded__ _adj_  
@@ -347,6 +360,7 @@ __sprite__ _n_ _Mischievous sprites._
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __squats__ _n_  
 __stance__ _n_  
+__stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __steak__ _n_ /steɪk/  
@@ -358,7 +372,9 @@ __stopover__ _n_ :es: estancia
 __storefront__ _n_  
 __strain__ _n_  
 __strifle__ _n_  
+__stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stunning__  
+__subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __suburbia__ _n_  
 __summertime__ _n_ :pencil2:  
 __sumptuous__ _adj_ _A sumptuous Sunday feast._  
