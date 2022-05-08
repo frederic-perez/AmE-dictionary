@@ -1,4 +1,9 @@
+__amicably__ _adv_ :mega: /ˈæmɪkəblɪ/  
+__break character__ _v intr_ To fail to act as a certain character; to be or act out of character.  
+__buzzkiller__ _n_  
+__cadence__ _n_  
 __circumlocution__ _n_ The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
+__compartmentalize__ _v_  
 __crag__ _n_  
 __cred__ _n_  
 __crossroads__ _n_ _At crossroads turn R onto B1233 towards Cottingham._  
@@ -66,6 +71,7 @@ __ferns__
 __Ferris wheel__ _n_  
 __festooned__  
 __finger-licking__ _adj_ _Finger-licking barbecue._  
+__first mate__ _n_  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __fishpond__ _n_  
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
@@ -78,13 +84,16 @@ __footpath__ _n_ A narrow path for persons on foot.
 __forager__ _n_  
 __foreshadow__ _v_  
 __fractious__ _adj_ /FRAK-shus/ Troublesome, unruly, quarrelsome, or irritable. _The political party is more organized and coherent and less fractious._  
+__fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
 __french fries__ _n_ (French fries)  
 __frozen yogurt__ _n_ _Non-fat frozen yogurt._  
 __fudge__ _n_  
 __funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __fuschia__ _n_ (fuschias)  
 __gaffe__ _n_ /ɡæf/  
+__galley__ _n_  
 __game__ _adj_ __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
+__garb__ _n_ :es: atuendo  
 __gazebo__ _n_ :two::hammer:  
 __gelid__ _adj_ Very cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._  
 __getaway__ _n_  
@@ -125,14 +134,17 @@ __house wine__ _n_ :es: vino de la casa
 __house__ _v_  
 __hydroponic__ _adj_  
 __hyperbolic__  
+__identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __idiopathic__  
 __idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :pencil2:  
 __ilk__  
 __impeccable__ _adj_ :two::pencil2::hammer:  
+__instill__ _v_  
 __interspersed__ _v_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
+__jarring__ _adj_  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __juke__ _v_  
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
@@ -170,17 +182,20 @@ __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch bre
 __lurks__ _v_  
 __luscious__  
 __lush__ _adj_ :three::hammer: _Lush garden/lawn._ _Their lush outdoor patio._  
+__magical thinking__ _n_  
 __mainstay__  
 __majestic__ _adj_  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
+__manic episode__ _n_  
 __manifold__ _adj_ _Physical activity: manifold benefits for health and wellbeing._  
 __marjoram__ _n_  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __meerkats__ _n_  
 __merino__ _n_ _Merino wool._  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
+__Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __microbrew__ _n_ :two::hammer:  
 __minimalist__ _adj_  
 __mischievous__ _adj_  
@@ -194,6 +209,7 @@ __Moon bounce__ _n_ A radio communications technique that relies on the propagat
 __Moorish__ _adj_ _Moorish architecture._  
 __mosey__ _v intr_  
 __moveable__ _adj_ _Moveable bridges._  
+__murky__ _adj_  
 __myopic__ _adj_  
 __myriad__ _adj_  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
@@ -331,7 +347,7 @@ __seesaw__
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __sesquipedalian__ _adj, n_  
-__shanty__ _n_ __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work.  
+__shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoulder__ _v_  
@@ -359,6 +375,7 @@ __splurge__ _v_
 __sprite__ _n_ _Mischievous sprites._  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
 __squats__ _n_  
+__staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stance__ _n_  
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
@@ -382,6 +399,7 @@ __sundae__ _n_
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
 __super-duper__  
 __superintendent__  
+__survival skills__ _n_  
 __swanky__ _adj_ _Swanky steakhouses._  
 __sweeping__ _adj_ _A sweeping view._  
 __sycamore__ _n_  
@@ -440,6 +458,7 @@ __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderst
 __unforgiving__ _adj_  
 __unparalleled__ _adj_ :two::hammer:  
 __unpretentious__  
+__unscathed__ _adj_  
 __unsurmountable__ _adj_  
 __unwind__ _v_ _The lounge is the perfect place to unwind with a martini._  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  

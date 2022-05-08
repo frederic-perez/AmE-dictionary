@@ -69,3 +69,14 @@ __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our
 __steely-eyed__ With or having a fierce intensity in one’s expression. _The teacher fixed a steely-eyed gaze upon me when I started joking around during class._  
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
+__a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
+__blow (one’s) mind__  
+__come to terms__  
+__house of cards__  
+__other than (something)__ Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
+__quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
+__roll with it__  
+__safety net__  
+__step up__  
+__uncanny valley__  
+__up and running__  
