@@ -1,18 +1,3 @@
-__amicably__ _adv_ :mega: /ˈæmɪkəblɪ/  
-__break character__ _v intr_ To fail to act as a certain character; to be or act out of character.  
-__buzzkiller__ _n_  
-__cadence__ _n_  
-__circumlocution__ _n_ The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
-__compartmentalize__ _v_  
-__crag__ _n_  
-__cred__ _n_  
-__crossroads__ _n_ _At crossroads turn R onto B1233 towards Cottingham._  
-__cufflinks__  
-__daffodil__ _n_ :two::hammer:  
-__dais__ _n_ _It is full of unusual plants surrounding a central stone dais._  
-__darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
-__dashing__ _adj_ _A dashing atmosphere._  
-__dazzling__  
 __decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
 __deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  

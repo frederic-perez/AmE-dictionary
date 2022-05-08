@@ -422,6 +422,7 @@ __amethyst__ _n_ :three::pencil2::hammer:
 __ametropia__ _n_  
 __amiable__  
 __amicable__ _adj_  
+__amicably__ _adv_ :mega: /ˈæmɪkəblɪ/  
 __amid__  
 __Amish__ _n_ _Amish country._  
 __amiss<sup>1</sup>__ _adj_ :four: _Jack had sensed something amiss._  
@@ -1732,6 +1733,7 @@ __breadcrumb__ _n_
 __breadcrumbing__ _n_ _slang_ When the “crush” has no intentions of taking things further, but they like the attention. So they flirt here or there, send dm/texts just to keep the person interested, knowing damn well they’re staying single.  
 __breadcrumbs__ _n_ :two::pencil2::camera: Very tiny pieces of bread. _Dip the fish in egg and breadcrumbs._ :es: pan rallado  
 __break (one’s) neck__  
+__break character__ _v intr_ To fail to act as a certain character; to be or act out of character.  
 __break down__ _v_ :two::hammer: _The Disney World ride broke down._  
 __break ground__ _v_ To initiate a new venture, or to advance beyond previous achievements.  
 __break in__ _phr_ __3__ To enter premises forcibly or illegally: _a prowler who was trying to break in._ _Stop breaking in here._  
@@ -2047,7 +2049,7 @@ __buzz<sup>1</sup>__ _n_ :three::hammer: _The buzz is really high now._
 __buzz<sup>2</sup>__ _v_ :three::hammer: _Sending submarines to buzz Europe._ _For 12 years the spacecraft has been buzzing about Saturn._  
 __buzzard__ _n_ :camera::five::hammer: (buzzards)  
 __buzzkill__ _n_ _slang_ :four: (buzz kill) Someone or something that ruins enjoyment or pleasure.  
-__buzzkiller__  
+__buzzkiller__ _n_ :two::hammer:  
 __buzzword__  
 __by all means,__  
 __by and by<sup>1</sup>__ _adv_ Presently or eventually.  
@@ -2100,7 +2102,7 @@ __cactus__ _n_ :mega:
 __cadaver__ _n_ :four::mega:  
 __caddish__ _adj_ :two::hammer:  
 __Caddy__ _n_ A Cadillac car.  
-__cadence__ _n_ :two::hammer:  
+__cadence__ _n_ :three::hammer:  
 __cadged__ _v_ :two: To cadge is to plead or beg for something. A hungry child might cadge an extra cookie from her dad while he’s baking. _He cadged money and bribed guards._  
 __cadre__ _n_ :six::hammer: _The collectible cadre of brands._ _Party cadres._ _A cadre of layers._  
 __caduceus__ _n_ An insignia used by the medical profession; modeled after the staff of Hermes.  
@@ -2661,7 +2663,7 @@ __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._
 __circuit__ _n_ :mute:[circ~~u~~it]  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
-__circumlocution__ _n_  
+__circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
 __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the earth._ __2__ To go around; circumvent: _circumnavigate the downtown traffic._  
 __circumradius__  
 __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
@@ -2980,7 +2982,7 @@ __comp__ _n_ (comps) __4__ A competition.
 __comp<sup>1</sup>__ _n_ _Workers’ comp cases._  
 __comp<sup>2</sup>__ _v_ :two::hammer: _Comp at $34.95_  
 __company__ _n_ _Joe-Jim, Bobo and company are back._  
-__compartmentalize__ _v_  
+__compartmentalize__ _v_ :two::hammer:  
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
@@ -3367,7 +3369,7 @@ __craft beer money__
 __craft__ _n_ :three::hammer: (crafts) _Craft sake._  
 __craftman__  
 __crafty__  
-__crag__ _n_ _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
+__crag__ _n_ :two::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
 __craggy__ _adj_ :three::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
@@ -3402,7 +3404,7 @@ __creaking__ _n_ A squeaking sound. _Door creakings._
 __creaky__ _adj_ _Creaky infrastructure._  
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
 __crease<sup>2</sup>__ _v_ :two::hammer:  
-__cred__ _n informal_ :six: (creds) Short for credibility: _street cred._  
+__cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :six::hammer:  
 __credenza__ _n_  
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
@@ -3476,8 +3478,7 @@ __crossbow__ _n_
 __crosshair__ _n_ (cross hair)  
 __crossover<sup>1</sup>__ _n_  
 __crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
-__crossroad__ _n_ _He is at a significant crossroads in his career._  
-__crossroads__ _n_ _I’m at a career crossroads._  
+__crossroads__ _n_ :three::hammer: _At crossroads turn R onto B1233 towards Cottingham._ _I’m at a career crossroads._ _He is at a significant crossroads in his career._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
 __crouch<sup>2</sup>__ _n_  
@@ -3542,6 +3543,7 @@ __cues__ _n_
 __cuff links__  
 __cuffed__ _v_  
 __cuffing season__ _n_ A period during the fall and winter seasons, including holidays from Thanksgiving to Valentine’s Day, when people are more inclined to pair up in committed romantic relationships: _I’m sitting out cuffing season this year—I was miserable tied down like that last winter._  
+__cufflinks__  
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
@@ -3628,7 +3630,7 @@ __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of th
 __dada__ _n_ _Cinematic dada._  
 __Daddy-O__ _n_  
 __daedal__ _adj_ :two: /DEE-duhl/ [:scroll: From Latin daedalus (skillful), from Greek daidalos. In Greek mythology, Daedalus was an architect and craftsman who built the labyrinth for King Minos of Crete. When the king imprisoned him so the knowledge of the labyrinth wouldn’t spread, Daedalus made wings for himself and his son Icarus. ] __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
-__daffodils__  
+__daffodil__ _n_ :three::hammer:  
 __daffy__  
 __daft__ _adj_ :four::hammer:  
 __dafter__  
@@ -3637,7 +3639,7 @@ __daguerreotypes__
 __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._  
 __dainty__ _adj_ _Dainty eyebrows._  
 __daiquiri__ _n_ :mega:  
-__dais__ _n_ :four: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand  
+__dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
 __dalliance__  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
@@ -3671,12 +3673,13 @@ __dare__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dar
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daresay__ _v_  
 __daring__ _adj_ Bold or adventurous; reckless. _A daring quality._  
+__darling__ _n_ /DAHR-ling/ __1__ A dearly loved person. _The youngest child is the grandparents’ little darling._ __2__ A person who is a favorite. _The actor is a darling of the entertainment industry in both film and music._  
 __darn<sup>2</sup>__ _v_ :three::hammer: (darned, darning) :es: zurcir  
 __darnedest__  
 __dart__ _v_ :three::hammer: (darting)  
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
-__dashing__ _adj_ _I think I look rather dashing._  
+__dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather dashing._  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -3700,7 +3703,7 @@ __daybeds__ _n_
 __dayglow__  
 __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
-__dazzling__ _adj_ :nine::m: (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
+__dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
 __de-escalate__ _v_ :two::hammer:  
 __de-facto__  
