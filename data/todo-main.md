@@ -1,9 +1,14 @@
+__bout__ _n_ _Martial arts bout._  
+__champ__ _n informal_ /tʃæmp/ Short for champion.  
+__chip__ _v intr_ __1__ To become broken off into small pieces. _The blue paint was chipping._  
 __decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
 __deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
 __defamation__ _n_ :pencil2: /ˌdɛf əˈmeɪ ʃən/  
 __delectable__ _adj_ :four::hammer: _Delectable dining._  
+__deliver__ _v intr_ :dart: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ __2__ To give birth: _She expects to deliver in late August._  
 __delphinium__ _n_  
+__depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted.  
 __despise__ _v_  
 __detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
 __dis__ _v tr_ _informal_  
@@ -13,6 +18,7 @@ __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a 
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __dive bar__  
 __docent__ _n_ :two::hammer:  
+__dodgy__ _adj_ /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. _They try to protect members from dodgy sites._  
 __dope__ _n_ __3__ _Informal_ A stupid person; a dolt.  
 __dot__ _v_ _Wooden stools dot the floor of hot spots._  
 __double feature__ _n_ A movie program consisting of two full-length films.  
@@ -31,6 +37,7 @@ __emporium__
 __enclave__ _n_ :two::hammer:  
 __enrich__ _v tr_  
 __ephemera__  
+__epicurean__ _adj, n_ /ɛpɪkjʊˈriːən/  
 __ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
 __espalier__ _n_ _Espalier fruit trees._  
 __espresso__ _n_ :pencil2:  
@@ -39,6 +46,7 @@ __estuary__ _n_
 __ethos__  
 __evensong__ _n_  
 __exculpate__ _v_ /EK-skull-payt/ To clear from alleged fault or guilt.  
+__exertion__ _n_  
 __exhibit__ _n_  
 __exhilarating__ _adj_ :three::hammer:  
 __expansive__ _adj_ _An expansive craft beer list._  
@@ -124,6 +132,7 @@ __idiopathic__
 __idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :pencil2:  
 __ilk__  
 __impeccable__ _adj_ :two::pencil2::hammer:  
+__incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __instill__ _v_  
 __interspersed__ _v_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
@@ -183,6 +192,7 @@ __metaverse__ _n_ /ˈmɛtəˌvɜːs/
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __microbrew__ _n_ :two::hammer:  
 __minimalist__ _adj_  
+__mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
 __mischievous__ _adj_  
 __misphrase__ _v tr_  
 __moated__ _adj_ _The moated palace of King Edwin._  
@@ -202,6 +212,7 @@ __neophyte__ _n_
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
+__newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nibble on__  
 __nifty__ _adj_ _Nifty gadgets._  
@@ -221,6 +232,8 @@ __oregano__ _n_ :mega: _Fresh hand rubbed oregano._
 __ornamental__ _adj_  
 __ornate__ _adj_ /ɔrˈneɪt/  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
+__overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
+__overhaul__ _n_  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __panache__  
 __panna cotta__ _n_  
@@ -277,6 +290,7 @@ __punch__ _n_ :es: ponche
 __pupil__ _n_ /ˈpjuːpəl/  
 __purebred__  
 __puree__ _n_ :mega:  
+__pustule__ _n_  
 __pylon__ _n_  
 __quaint__ _adj_ :two::hammer: _Quaint neighborhood shops._  
 __quake__ _v_ _Quaking aspen._  
@@ -316,6 +330,7 @@ __salient__ _adj_ /SAIL-yunt/
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __sangria__ _n_  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
+__scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scant__  
 __scarlet letter__ _n_  
 __scatting__ _v_  
@@ -334,6 +349,7 @@ __sequelae__ _n pl_ The consequences of a particular condition or therapeutic in
 __sesquipedalian__ _adj, n_  
 __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
+__shenanigan__ _n informal_ _Pulling shenanigans._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoulder__ _v_  
 __shove__ _v_  
@@ -407,6 +423,7 @@ __thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._
 __thoroughfares__ _n_ :two::hammer:  
 __thought-provoking__  
 __thrift__ _n_ _Thrift store._  
+__throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thyme__ _n_ :two::mega::hammer:  
@@ -458,6 +475,7 @@ __wanderlust__
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
+__wheelbarrow__ _n_  
 __whimsical__ _adj_  
 __white-knuckled__  
 __wily__  
