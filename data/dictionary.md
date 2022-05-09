@@ -1672,6 +1672,7 @@ __bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful
 __bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
+__bout__ _n_ _Martial arts bout._  
 __bovarism__ _n_  
 __bovine<sup>1</sup>__ _adj_ Relating to a cow or cattle.  
 __bovine<sup>2</sup>__ _n_ An animal belonging to the genus (Bos) of ruminant mammals that includes the cow, wild ox, and yak.  
@@ -2434,7 +2435,7 @@ __chalky__ _adj_ _Chalky skin._
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
 __chamomille__  
-__champ__ _n informal_ :two: Champion.  
+__champ__ _n informal_ :three: /tʃæmp/ Short for champion.  
 __champagne flutes__ _n_ :camera:  
 __champion__ _n_ :mega:  
 __champurrado__ _n_  
@@ -2566,10 +2567,10 @@ __chip apart__
 __chip away__ _v_ :two::hammer:  
 __chip in__ _v_ :four::hammer: (chipped in)  
 __chip shot__ _n_ A short lofted golf stroke, used in approaching the green. _The golfer was hitting some horrible chip shots._  
-__chip__ _v_ :three::hammer: (chipped, chipping)  
 __chip-off__  
 __chip<sup>1</sup>__ _n_ _I played with a little chip on my shoulder this year._  
-__chip<sup>2</sup>__ _v_ :three::hammer: (chipped) _We had to chip and be patient._ _This cup is chipped._  
+__chip<sup>2</sup>__ _v tr_ :three::hammer: (chipped)  
+__chip<sup>3</sup>__ _v intr_ :four: (chipped) __1__ To become broken off into small pieces. _The blue paint was chipping._ _This cup is chipped._  
 __chipped__ _adj_ :two: Damaged by having a small piece broken off. _Chipped around the edges._  
 __Chippendale__ _adj_ Of or relating to an 18th century English furniture style characterized by graceful outline and often ornate rococo ornamentation.  
 __chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
@@ -3743,6 +3744,7 @@ __deburr__ _v_
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
 __decadence__ _n_ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation  
+__decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
@@ -3778,7 +3780,7 @@ __decussate<sup>1</sup>__ _v_
 __decussate<sup>2</sup>__ _adj_  
 __decypher__ _v_ :mega:  
 __dedication__  
-__deduct__ _n_ _If they fall from the balance beam, a full point is deducted._  
+__deduct__ _v_ :two::hammer: /dɪˈdʌkt/ (deducted) _If they fall from the balance beam, a full point is deducted._ _When hit, your pack is de-activated for a few seconds and points are deducted._  
 __deductible__ _adj, n_ :three::hammer: (deductibles) _The deductible, $3,000 a year, makes it impossible to actually go to the doctor._ _High deductibles hurt the health care plan._  
 __deed__ _n_ _The deed is set in motion._  
 __deedee__ _v_  
@@ -3789,11 +3791,12 @@ __deep pockets__
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
 __deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
+__deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deepfake__ _n_  
 __deer__ _adj_ _A deer survey._  
 __deface__ _v_ :two::hammer: _Defacing two murals._  
-__defamation__ _n_ :dart::pencil2: Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
+__defamation__ _n_ :dart::two::pencil2: /ˌdɛf əˈmeɪ ʃən/ Defamation is a dirty trick against someone’s reputation. If you were so furious at your friend that you spread a rumor that he was still wetting his bed, that would be defamation of your friend. The noun defamation describes something very mean and completely deliberate, essentially a false accusation against someone or an attack on a person’s good reputation. The terms libel and slander — written or spoken lies about a person, group, or business — both fall under the category of defamation. Sometimes defamation is even a punishable crime, and in every instance it’s unkind and malicious.  
 __defanging__ _n_  
 __default<sup>1</sup>__ _n_  
 __default<sup>2</sup>__ _v_ :five::hammer: _The Solar Energy company defaulted._  
@@ -3836,7 +3839,7 @@ __deist__ _adj_
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :six::hammer: _Syn_ delicious  
+__delectable__ _adj_ :seven::hammer: _Syn_ delicious _Delectable dining._  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -3849,12 +3852,14 @@ __delight<sup>2</sup>__ _v_ _It delighted me even though I expected it._
 __delimit__ _v_ Set, mark, or draw the boundaries of something. _Syn_ demarcate _This map that my mother drew delimits how far from home I am allowed to wander without an adult._  
 __delirium tremens__ _n_ An acute, sometimes fatal episode of delirium usually caused by withdrawal or abstinence from alcohol following habitual excessive drinking. It also may occur during an episode of heavy alcohol consumption.  
 __delisted__ _v_  
-__deliver__ _v_ :seven::hammer: _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_  
+__deliver<sup>1</sup>__ _v tr_ :two::hammer:  
+__deliver<sup>2</sup>__ _v intr_ :dart::six: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ _Al was a man who could deliver._ _Republicans apparently cannot deliver._ _There is a hundred grand if you can deliver._ _Can the recovery plan for elective care in England deliver?_ __2__ To give birth: _She expects to deliver in late August._  
 __deliverance__ _n_ :five::hammer: _Hope and deliverance._  
 __delivers__  
 __delivery note__  
 __dell__ _n_ A small secluded wooded valley.  
 __delouse__ _v_ :two::hammer: _They’re deloused once a month._  
+__delphinium__ _n_  
 __delude__ _v_ :four::hammer: (deluded)  
 __deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
@@ -3893,7 +3898,8 @@ __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures
 __deontology__ _n_  
 __departed__  
 __dependable__ _adj_ :two::hammer: _Applicants are required to have a dependable vehicle._  
-__depleted__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume _It also helps restore depleted neurotransmitter levels._  
+__deplete__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
+__depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted. _It also helps restore depleted neurotransmitter levels._  
 __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
 __depolarize__ _v_  
 __deposit__ _n_  
@@ -3938,6 +3944,7 @@ __desolate<sup>1</sup>__ _adj_ :three: /des-uh-lit/ __1__ Empty of people.
 __desolate<sup>2</sup>__ _v_ /des-uh-leyt/ __1__ To lay waste; devastate. __2__ To deprive of inhabitants; depopulate.  
 __despair__ _n_ :two::hammer:  
 __despicable__  
+__despise__ _v_  
 __despoil__ _v_ :three::hammer: (despoiled, despoiling)  
 __despondency__  
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
@@ -3957,6 +3964,7 @@ __deterrence__ _n_ :two::hammer:
 __deterrent__ _n_ :nine::m: A deterrent makes you not want to do something. Let’s say there’s a giant pile of cookies being guarded by an angry dog — the dog is a deterrent. People talk about deterrents most often when discussing crime. The death penalty is supposed to be a deterrent — the idea is that people will be so scared of the death penalty that they won’t commit certain crimes. Jail is another deterrent. Teachers also use deterrents — the possibility of getting detention is a deterrent that should encourage students to behave. A deterrent is the opposite of a reward. A reward encourages you to do the right thing, while a deterrent discourages you from doing the wrong thing.  
 __detour__  
 __detractor__ _n_ :two::astonished: One who disparages or belittles the worth of something. _Syn_ depreciator, disparager, knocker _His stellar performance silenced many of his detractors._  
+__detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
 __detrimental__  
 __detritus__ _n_ :two: The remains of something that has been destroyed or broken up. _Syn_ debris, rubble _The streets of the new town were built over the detritus of past habitations._  
 __devastate__ _v_  
@@ -4069,7 +4077,7 @@ __dirtdobbers__
 __dirty boogie__  
 __dirty-mouth__  
 __dis<sup>1</sup>__ _n_ :two::hammer:  
-__dis<sup>2</sup>__ _v_ :two::hammer:  
+__dis<sup>2</sup>__ _v tr_ _informal_ :three::hammer:  
 __disabuse__ _v_ :dart::four: (disabused) To make someone realize that they were wrong to believe something.  
 __disaffect__ _v_ Arouse hostility or indifference in where there had formerly been love, affection, or friendliness. _Syn_ alienate, estrange _She loved him, but the sweaty gym clothes he left behind every time he borrowed her car began to seriously disaffect her._  
 __disaffected__ _adj_ :three::hammer:  
@@ -4083,6 +4091,7 @@ __disbar<sup>2</sup>__ _v_ :three::hammer: (disbarred)
 __disbelief__ _n_  
 __disbeliever__ _n_ Someone who refuses to believe (as in a divinity).  
 __discectomy__ _n_ The partial or complete excision of an intervertebral disk.  
+__discerning__ _adj_ :dart: _Downtown Boulder has everything a discerning diner could ask for and more._  
 __discharge__ _v_ :nine::m::dart: (discharged) To discharge is to fire a gun or an employee, or to set someone free from a hospital or jail. You’d probably like being discharged from jail, but not from your job, unless you really hate it. _Hospitals and jails provide homeless with a list of places where they can get help after discharge._ _Discharge policies._ _His honorable discharge in 1974._ _An officer discharged his weapon._ _The patient was discharged the day after the operation._  
 __discharged__ _adj_ Having lost your job. _He was discharged from the Air Force._ _Syn_ dismissed, fired, laid-off, pink-slipped  
 __disciple__ _n_ :two::mute:[dis~~c~~iple] One who embraces and assists in spreading the teachings of another. _Syn_ adherent  

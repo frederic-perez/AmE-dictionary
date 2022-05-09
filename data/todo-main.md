@@ -1,18 +1,3 @@
-__bout__ _n_ _Martial arts bout._  
-__champ__ _n informal_ /tʃæmp/ Short for champion.  
-__chip__ _v intr_ __1__ To become broken off into small pieces. _The blue paint was chipping._  
-__decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
-__deduct__ _v_ (deducted) _When hit, your pack is de-activated for a few seconds and points are deducted._  
-__deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
-__defamation__ _n_ :pencil2: /ˌdɛf əˈmeɪ ʃən/  
-__delectable__ _adj_ :four::hammer: _Delectable dining._  
-__deliver__ _v intr_ :dart: __1__ To produce or achieve what is desired or expected; make good: _The senator delivered on her pledge._ _He is a manager who just can’t seem to deliver._ __2__ To give birth: _She expects to deliver in late August._  
-__delphinium__ _n_  
-__depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted.  
-__despise__ _v_  
-__detriment__ _n_ A damage or loss. _Syn_ hurt _Her employers were understanding, and she was able to take a long leave of absence without detriment to her career._  
-__dis__ _v tr_ _informal_  
-__discerning__ _adj_ :dart: _Downtown Boulder has everything a discerning diner could ask for and more._  
 __discriminating__ _adj_ _Each room will impress even the most discriminant traveler._  
 __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
