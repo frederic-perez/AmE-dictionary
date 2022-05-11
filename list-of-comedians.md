@@ -45,6 +45,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Mike Hanford](https://www.youtube.com/results?gl=US&search_query=Mike+Hanford) plays John Lennon after coming back to life in 1984.
 - [Mo Welch](https://www.youtube.com/results?gl=US&search_query=Mo+Welch)
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
+- [Nick Kroll](https://www.youtube.com/results?gl=US&search_query=Nick+Kroll)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
 - [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
 - [Paul Scheer](https://www.youtube.com/results?gl=US&search_query=Paul+Scheer)
