@@ -98,7 +98,7 @@ __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.
 __acclaim__ _n_  
 __acclaimed__  
 __acclimation__ _n_ :pencil2:  
-__accolade__ _n_ :eight: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._  
+__accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
 __accommodate__ _v_ :three::pencil2::hammer:  
 __accommodation__ _n_ :two::pencil2: Accommodation is all about making room — it can mean a room or place where you will stay or an agreement about sharing something.  
 __accompaniment__  
@@ -398,6 +398,7 @@ __alumni__ _n pl_ :two::hammer:
 __amalgam__  
 __amass__ _v_ :five::hammer::pencil2: (amassed, amassing) :es: amontonar, acumular  
 __amatory__ _adj_ Of, relating to, or expressive of love, especially sexual love. _Syn_ amorous, romantic _She showed her friends the stack of old love letters and read them excerpts from the couple’s amatory correspondence._  
+__ambiance__ _n_ _Relaxing ambiance._  
 __ambidexter__ _adj_ _archaic_ Ambidextrous.  
 __ambient__ _adj_ __1__ Surrounding; encircling: _ambient sound; ambient air._  
 __ambiguous__ _adj_ /am-big-yoo-uhs/  
@@ -466,6 +467,7 @@ __anecdotal__ _adj_ :mega:
 __anecdotally__  
 __anecdote__ _n_ An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
+__anemomes__ _n_  
 __anemometer__ _n_ :two::hammer:  
 __anergy__ _n_ /AN-uhr-jee/ [:scroll: From an- (not) + ergon (work). The opposite of sense 1 is energy and the opposite of sense 2, allergy.] __1__ Lack of energy. __2__ The lack of an immune response to a foreign substance.  
 __anew__ _adv_ :four::hammer:  
@@ -558,7 +560,7 @@ __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.
 __aphrodite__ _n_ /af-ruh-DY-tee/ [:scroll: After Aphrodite, the Greek goddess of love and beauty.] A beautiful woman.  
 __apiary__ _n_ A place where bees and beehives are kept, especially a place where bees are raised for their honey.  
 __aping__  
-__aplenty__ _adj, adv_ :two::hammer:  
+__aplenty__ _adj, adv_ :three::hammer:  
 __aplomb__ _n_ :six: Self-confidence or assurance, especially when in a demanding situation. Self-confident assurance; poise. _Syn_ assuredness, sang-froid, cool _Diana passed the test with aplomb._ _The defense attorney smiled with an air of aplomb, knowing that his client’s acquittal was all but assured._ :es: aplomo  
 __apnea__ _n_ :two: Temporary cessation of breathing.  
 __apocryphal__ _adj_ :three::pencil2: /uh-PAH-kri-fuhl/ [:scroll: From Latin apocryphus (secret), from Greek apokruphos (secret, hidden), from apokruptein (to hide away), from apo- (away) + kruptein (to hide).] __1__ Of dubious authorship or authenticity. Of doubtful authenticity: spurious. __2__ False; erroneous; fictitious.  
@@ -1560,8 +1562,8 @@ __bolster<sup>1</sup>__ _n_ A long, thick pillow that is placed under other pill
 __bolster<sup>2</sup>__ _v_ :nine::m: (bolstered) __1__ Support or strengthen. _Syn_ strengthen, support, reinforce :es: reforzar __2__ To buoy up or hearten. _Syn_ boost _Visitors bolstered the patient’s morale._ _The fall in interest rates is starting to bolster confidence._  
 __bolt__ _v_ :three::hammer: (bolted) _The windows were closed and bolted._ _Bolted onto the ISS._  
 __bomb__ _v_ :four::mute:[bom~~b~~]:hammer: (bombing)  
-__bombast__ _n_ :six: __1__ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
-__bombastic__ _adj_ To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
+__bombast__ _n_ :seven: __1__ Grandiloquent, pompous speech or writing. _Syn_ claptrap, fustian _He found that he could look back upon the brass and bombast of his earlier gospels and see them truly._ __2__ _Obsolete_ Material used for padding. _Let’s drop the bombast and look at the evidence._  
+__bombastic__ _adj_ :two: To be bombastic is to be full of hot air — like a politician who makes grand promises and doesn’t deliver. What does cotton padding have to do with the word bombastic? Bombast was cotton padding or stuffing in the 1500s. Bombastic evolved as an adjective to describe something (or someone!) that is overly wordy, pompous, or pretentious, but the adjective is most often used to describe language (speech or writing). Still not seeing the connection to cotton padding? Think of writing or speech that is overly padded and you’ll understand how the meaning came about.  
 __bombinate__ _v intr_ /BOM-buh-nayt/ [:scroll: From Latin bombinare, from bombilare (to hum, buzz), from Latin bombus (humming), from Greek bombos (booming, humming)] To buzz or hum. _Syn_ bombilate _When the bees all bombinate like that, it makes me nervous!_  
 __bombing__ _v_  
 __bombshell__ _n_  
@@ -1756,7 +1758,7 @@ __breakup__ _n_ :three: The termination or disintegration of a relationship (bet
 __breakwater__ _n_  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
-__breather__ _n_ :three::hammer:  
+__breather__ _n_ :four::hammer:  
 __breathing room__  
 __breech__ _n_ :five::hammer: (breeches)  
 __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._  
@@ -2288,7 +2290,7 @@ __carrion__ _n_ :dart::six: The noun carrion refers to the dead and rotting fles
 __carry a torch__  
 __carry the cross__  
 __carry-on bag__  
-__carryout__ _n_ _A Chinese carryout._  
+__carryout__ _n_ :two::hammer: _A Chinese carryout._ _It focuses on delivery and carryout._  
 __carryover__ _n_ _A carryover vehicle._  
 __carsick__ _adj_ Suffering from motion sickness caused by travel in a motor vehicle.  
 __cart<sup>1</sup>__ _n_ _Kuechly left the field on a cart._  
@@ -2468,6 +2470,7 @@ __charade__ _n_ :four::hammer:
 __charcuterie__ _n_ :pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
 __chard__  
 __charge__ _v_ Accuse formally.  
+__chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
 __chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
@@ -2601,6 +2604,7 @@ __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
 __chop__ _v_  
+__chophouse__ _n_ A restaurant that specializes in serving steaks and chops of meat.  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
 __chord__ _n, v_ :mute:[c~~h~~ord]  
@@ -2640,6 +2644,7 @@ __churn rate__ _n_ The annual percentage rate at which customers stop subscribin
 __churn__ _v_  
 __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking milk or cream. __2__ Short for churn rate. The time when a consumer switches his/her service provider.  
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
+__churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
@@ -2781,6 +2786,7 @@ __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction z
 __clockwork__ _n_  
 __clod__ _n_ :five::hammer: /klɒd/ _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
 __clogging__ _v_  
+__cloisonné__ _adj, n_ _Cloisonné vases._  
 __cloistered__ _adj_ Secluded from the world; sheltered. _Syn_ sequestered  
 __close > not even close__  
 __close call__ _n informal_ :four::dart: A narrow escape from danger or trouble. _Syn_ a close shave, narrow escape _Phew, that was a close shave._  
@@ -2997,7 +3003,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :six::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._  
+__complimentary__ _adj_ :seven::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._ _Complimentary parking._  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -3117,7 +3123,7 @@ __conservancies__
 __conservatory__ _n_ :three: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
 __consign__ _v_ (consigned) _Fashionable consigned clothes._  
-__consignment__ _n_ :four::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
+__consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
 __consilience__ _n_ /kənˈsɪlɪəns/ Agreement between inductions drawn from different sets of data or from different academic disciplines.  
 __consist__ _n_ :two::hammer: (trains) _A long consist._ _A consist of eight passenger cars._  
 __consoled__ _v_  
@@ -3250,7 +3256,7 @@ __corn fritters__
 __corn salad__ _n_ _Syn_ mache :es: canónigo  
 __corn__ _n_ :es: callo  
 __cornball__  
-__corned beef__ _n_ :two: Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine.  
+__corned beef__ _n_ :three: [:scroll: [From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
 __cornerstone__ _n_ :two::pencil2::hammer:  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  

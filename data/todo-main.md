@@ -1,18 +1,3 @@
-__accolade__ _n_ _This restaurant has received accolades from_ Esquire.  
-__ambiance__ _n_ _Relaxing ambiance._  
-__anemomes__ _n_  
-__aplenty__  
-__bombast__  
-__bombastic__  
-__breather__ _n_  
-__carryout__ _n_ _It focuses on delivery and carryout._  
-__chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
-__chophouse__  
-__churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
-__cloisonné__ _adj, n_ _Cloisonné vases._  
-__complimentary__ _adj_ _Complimentary parking._  
-__consignment__ _n_ _Consignment boutique._  
-__corned beef__ _n_ _Corned beef sandwiches._  
 __coromandel__  
 __cover charge__  
 __critter__ _n_ _Flying critters._  
