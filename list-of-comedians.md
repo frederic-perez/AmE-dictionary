@@ -36,6 +36,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Jim Gaffigan](https://www.youtube.com/results?gl=US&search_query=Jim+Gaffigan)
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
 - [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
+- [John Mulaney](https://www.youtube.com/results?gl=US&search_query=John+Mulaney)
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
 - [Kathy Griffin](https://www.youtube.com/results?gl=US&search_query=Kathy+Griffin) « [kathygriffin.com](https://kathygriffin.com)
