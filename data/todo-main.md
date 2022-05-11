@@ -1,3 +1,26 @@
+__accolade__ _n_ _This restaurant has received accolades from_ Esquire.  
+__ambiance__ _n_ _Relaxing ambiance._  
+__anemomes__ _n_  
+__aplenty__  
+__bombast__  
+__bombastic__  
+__breather__ _n_  
+__carryout__ _n_ _It focuses on delivery and carryout._  
+__chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
+__chophouse__  
+__churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
+__cloisonné__ _adj, n_ _Cloisonné vases._  
+__complimentary__ _adj_ _Complimentary parking._  
+__consignment__ _n_ _Consignment boutique._  
+__corned beef__ _n_ _Corned beef sandwiches._  
+__coromandel__  
+__cover charge__  
+__critter__ _n_ _Flying critters._  
+__Cronuts__ _n_ _trademark_  
+__crossover<sup>1</sup>__ _n_  
+__crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión _Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre.  
+__curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  
+__dazzling__ _adj_  
 __discriminating__ _adj_ _Each room will impress even the most discriminant traveler._  
 __disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
 __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
@@ -10,12 +33,15 @@ __double feature__ _n_ A movie program consisting of two full-length films.
 __downplay__ _v tr_  
 __droolworthy__ _adj_ _Droolworthy shawarna._  
 __druthers__ _n informal_ /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
+__duck reuben sandwich__  
+__dye__ _v_ _Sail the dyed green waters of the Chicago River._  
 __dysfunctional__  
 __dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
 __earthy__ _adj_  
 __eatery__ _n_ :three::hammer: _Buzzing eateries._  
 __eclectic__ _adj_ :two::pencil2::hammer:  
 __eddy__ _v_ _Water eddies and cascades._  
+__eggs benedict__  
 __elderly__ _adj, n_  
 __embrace__ _v_ :two::hammer: _Embrace people as they are._  
 __emporium__  
@@ -24,6 +50,7 @@ __enrich__ _v tr_
 __ephemera__  
 __epicurean__ _adj, n_ /ɛpɪkjʊˈriːən/  
 __ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
+__erstwhile__  
 __espalier__ _n_ _Espalier fruit trees._  
 __espresso__ _n_ :pencil2:  
 __esteemed__ _adj_  
@@ -37,6 +64,7 @@ __exhilarating__ _adj_ :three::hammer:
 __expansive__ _adj_ _An expansive craft beer list._  
 __extravaganza__  
 __eye-popping__ _adj_ _Eye-popping croissants._  
+__face off__ _v_ _(sports)_  
 __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
 __fairway__ _n_  
 __fancy__ _v_  
@@ -54,9 +82,11 @@ __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salm
 __fishpond__ _n_  
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
+__flight__ _n_ _Guests can choose three for a $9.50 flight._  
 __floater__ _n_ _Basketball_  
 __flora__ _n_ :two::hammer: /ˈflɔːrə/  
 __flown__ _v_ _Fresh fish is flown in daily from all over the globe._  
+__fluffy__ _adj_ _Fluffy omelets and giant salads._  
 __footing__ _n_ _I found my footing._  
 __footpath__ _n_ A narrow path for persons on foot.  
 __forager__ _n_  
@@ -76,6 +106,8 @@ __gazebo__ _n_ :two::hammer:
 __gelid__ _adj_ Very cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._  
 __getaway__ _n_  
 __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
+__gnocchi__ _n_ :pencil2: _Homemade gnocchi._  
+__Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
 __grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
 __grazer__ _n_  
 __greasy spoon__ _n slang_ A small, inexpensive, often unsanitary restaurant. _The classic greasy spoon concept._  
@@ -95,6 +127,8 @@ __hatch__ _v_
 __haunt__ _n_ _It is a favorite BYOD haunt._  
 __haunts__  
 __hayrides__ _n_  
+__headbanger__  
+__headboard__ _n_  
 __hearty__ _adj_ _Hearty fare._  
 __heather__ _n_ :es: brezo  
 __hectic__ _adj_ _The hectic pace of the city._  
@@ -110,6 +144,7 @@ __hotspot__
 __house trailer__ _n_ A mobile home.  
 __house wine__ _n_ :es: vino de la casa  
 __house__ _v_  
+__humidor__ _n_ _(cigars, pipes)_  
 __hydroponic__ _adj_  
 __hyperbolic__  
 __identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
@@ -119,10 +154,12 @@ __ilk__
 __impeccable__ _adj_ :two::pencil2::hammer:  
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __instill__ _v_  
+__insulated__ _adj_ _Insulated coffee pitcher._  
 __interspersed__ _v_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
+__Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __jarring__ _adj_  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __juke__ _v_  
@@ -158,6 +195,7 @@ __low-key__ _adj_
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
+__luncheon__  
 __lurks__ _v_  
 __luscious__  
 __lush__ _adj_ :three::hammer: _Lush garden/lawn._ _Their lush outdoor patio._  
@@ -170,12 +208,13 @@ __mallrats__
 __manic episode__ _n_  
 __manifold__ _adj_ _Physical activity: manifold benefits for health and wellbeing._  
 __marjoram__ _n_  
+__meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __meerkats__ _n_  
 __merino__ _n_ _Merino wool._  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
-__microbrew__ _n_ :two::hammer:  
+__microbrew__ _n_ :three::hammer:  
 __minimalist__ _adj_  
 __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
 __mischievous__ _adj_  
@@ -189,6 +228,7 @@ __Moon bounce__ _n_ A radio communications technique that relies on the propagat
 __Moorish__ _adj_ _Moorish architecture._  
 __mosey__ _v intr_  
 __moveable__ _adj_ _Moveable bridges._  
+__munch__ _v_  
 __murky__ _adj_  
 __myopic__ _adj_  
 __myriad__ _adj_  
@@ -202,8 +242,10 @@ __newts__ _n_ _A pond teeming with frogs and newts._
 __nibble on__  
 __nifty__ _adj_ _Nifty gadgets._  
 __nightcaps__  
+__no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __nosh<sup>1</sup>__ _n_  
 __nosh<sup>2</sup>__ _v tr_  
+__noshing__ _v_  
 __nuance__ _n_ :mega:  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
@@ -236,8 +278,10 @@ __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or se
 __peat__ _n_ _Peat bed._  
 __pedigree__  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
+__penned__ _v_  
 __perfect__ _v_  
 __pergola__ _n_  
+__peristyle__  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
@@ -269,6 +313,7 @@ __privy__
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
 __procure__ _v_  
 __promenade__ _n_  
+__promo__  
 __prowess__  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
@@ -297,8 +342,10 @@ __respite__ _n_
 __revel__ _v_  
 __revelry__  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
+__revue__ _n_ _Improv revues._  
 __rhododendrons__ _n_ :pencil2:  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
+__ribeye__ _n_ /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __riff__ _v_  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __riverfront__  
@@ -306,11 +353,14 @@ __rockery__ _n_ :four::hammer:
 __rollicking__  
 __Romanesque__ _adj_ :two::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
+__rosewood__  
 __rotunda__ _n_ :two::hammer:  
+__rousing__ _adj_ :two::hammer:  
 __rowdy__  
 __runway__ _n_  
 __saccade__ _n_  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
+__sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __salient__ _adj_ /SAIL-yunt/  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __sangria__ _n_  
@@ -336,13 +386,17 @@ __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. 
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __shenanigan__ _n informal_ _Pulling shenanigans._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
+__shoppe__ _n_ Variant of shop.  
 __shoulder__ _v_  
 __shove__ _v_  
 __showrunner__ _n_  
 __shuffleboard__ _n_  
 __sickbed__ _n_ A sick person’s bed.  
+__side-splitting__ _adj_ _Side-splitting laughs._  
 __sideburns__ _n_  
 __signage__ _n_  
+__signature<sup>1</sup>__ _n_  
+__signature<sup>2</sup>__ _adj_ Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._  
 __simulcast__  
 __sit__ _v_ _The nightlife district sits just north of the Chicago River._  
 __skate__ _n_ _Need skates? Rent them for $10._  
@@ -367,6 +421,8 @@ __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __steak__ _n_ /steɪk/  
+__steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
+__steed__ _n_ _Epic battles of steel and steed._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stem__ _v_  
 __sterling__ _adj_ _A sterling job._  
@@ -396,7 +452,8 @@ __tantalize__ _v_ _A plethora of delectable options tantalize your taste buds._
 __tantalizing__ _adj_ :two::hammer:  
 __tap into__  
 __tartans__ _n_  
-__taste buds__ _n_ Tiny sensory organs of the tongue and palate.  
+__taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
+__technical__ _adj_ _Technical garments._  
 __teeming__ _v_ _A pond teeming with frogs and newts._  
 __teetotaler__  
 __telethon__ _n_  
@@ -411,6 +468,7 @@ __thrift__ _n_ _Thrift store._
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
+__thru__  
 __thyme__ _n_ :two::mega::hammer:  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __till__ _v_ (tilled)  
@@ -422,6 +480,7 @@ __tombola__ _n_ _The green fingered young lady of the house runs a great tombola
 __tony__ _adj_ _Tony boutiques._  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
+__toppings__ _n_  
 __trashy__  
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
@@ -435,10 +494,11 @@ __tub__ _n_
 __tuck away__ _v_  
 __tuck__ _v_ (tucked)  
 __tuition__ _n_  
+__twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
 __umpteen__ _adj, n_  
-__unabashed__ _adj_  
+__unabashed__ _adj_ :two::hammer: _Unabashed humor._  
 __unapologetic__ _adj_  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
@@ -454,6 +514,7 @@ __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its e
 __vacuous__  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
+__vie__ _v_  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __visitor__  
 __wanderlust__  
@@ -465,8 +526,10 @@ __whimsical__ _adj_
 __white-knuckled__  
 __wily__  
 __windchimes__ _n_  
+__witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
+__yarns__ _n_  
 __yatch__ _n_ :mega:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  

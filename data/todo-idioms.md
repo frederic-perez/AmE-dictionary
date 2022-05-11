@@ -95,3 +95,4 @@ __take a toll (on someone or something)__ To cause damage or deleterious effects
 __down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __hell no__  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
+__tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
