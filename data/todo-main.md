@@ -1,3 +1,6 @@
+__bloviate__ _v intr_ /ˈbləʊvɪˌeɪt/ To speak or write verbosely and windily. To talk at length, esp in an insubstantial but inflated manner. _Pundits bloviating on the radio._  
+__cognomen__ _n_  
+__conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
 __coromandel__  
 __cover charge__  
 __critter__ _n_ _Flying critters._  
@@ -64,6 +67,7 @@ __festooned__
 __finger-licking__ _adj_ _Finger-licking barbecue._  
 __first mate__ _n_  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
+__fish__ _n_ (_n pl_ fish or fish·es)  
 __fishpond__ _n_  
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
@@ -85,6 +89,7 @@ __funhouse__ _n_ (fun house) _Funhouse-like reflections._
 __fuschia__ _n_ (fuschias)  
 __gaffe__ _n_ /ɡæf/  
 __galley__ _n_  
+__gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __game__ _adj_ __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
 __garb__ _n_ :es: atuendo  
 __gazebo__ _n_ :two::hammer:  
@@ -118,6 +123,7 @@ __hearty__ _adj_ _Hearty fare._
 __heather__ _n_ :es: brezo  
 __hectic__ _adj_ _The hectic pace of the city._  
 __heist__ _n_  
+__hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
 __homophobia__ _n_  
@@ -196,6 +202,8 @@ __marjoram__ _n_
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __meerkats__ _n_  
+__meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
+__meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __merino__ _n_ _Merino wool._  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
@@ -207,6 +215,7 @@ __misphrase__ _v tr_
 __moated__ _adj_ _The moated palace of King Edwin._  
 __mogul__ _n_  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
+__moniker__ _n informal_  
 __monolith__ _n_  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
@@ -233,6 +242,7 @@ __nosh<sup>2</sup>__ _v tr_
 __noshing__ _v_  
 __nuance__ _n_ :mega:  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
+__nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oddball__ _adj, n_  
 __offbeat__ _adj_  
@@ -297,6 +307,7 @@ __primrose__ _n_
 __privy__  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
 __procure__ _v_  
+__prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __promenade__ _n_  
 __promo__  
 __prowess__  
@@ -312,6 +323,7 @@ __quake__ _v_ _Quaking aspen._
 __quintessential__ _adj_ :two::hammer:  
 __raillery__ _n_  
 __rampant__ _adj_  
+__ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __Red Cross__ _n_  
@@ -393,6 +405,7 @@ __small-claims court__ _n_
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smortasbord__  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
+__sobriquet__ _n_ (soubriquet)  
 __socialite__  
 __sought-after__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
@@ -438,6 +451,7 @@ __tantalizing__ _adj_ :two::hammer:
 __tap into__  
 __tartans__ _n_  
 __taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
+__tatterdemalion__ _n_ _rare_  
 __technical__ _adj_ _Technical garments._  
 __teeming__ _v_ _A pond teeming with frogs and newts._  
 __teetotaler__  
@@ -475,6 +489,7 @@ __tribulation__ _n_
 __trinket__ _n_ _Trinket shops._  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
 __trove__ _n_ :two::hammer:  
+__tryst__ _n_ An agreement, as between lovers, to meet at a certain time and place. _Syn_ assignation, rendezvous _They tried to keep their weekly meetings a secret, but soon neighbors began to whisper about their trysts._  
 __tub__ _n_  
 __tuck away__ _v_  
 __tuck__ _v_ (tucked)  
