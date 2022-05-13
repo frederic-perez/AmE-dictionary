@@ -33,6 +33,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [James Corden](https://www.youtube.com/results?gl=US&search_query=James+Corden) battled Adam Lambert to become Queen frontman.
 - [Jason Mantzoukas](https://www.youtube.com/results?gl=US&search_query=Jason+Mantzoukas)
 - [Jeff Ross](https://www.youtube.com/results?gl=US&search_query=Jeff+Ross), the "Roastmaster General."
+- [Jen Kirkman](https://www.youtube.com/results?gl=US&search_query=Jen+Kirkman)
 - [Jim Gaffigan](https://www.youtube.com/results?gl=US&search_query=Jim+Gaffigan)
 - [Jimmy Fallon](https://www.youtube.com/results?gl=US&search_query=Jimmy+Fallon) impersonates Neil Young, and Bruce Springsteen, among others.
 - [Jimmy Kimmel](https://www.youtube.com/results?gl=US&search_query=Jimmy+Kimmel)
