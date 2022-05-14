@@ -1467,7 +1467,7 @@ __blotched__ _v_
 __blotches__ _n_  
 __blotter__ _n_ :five: __1__ Desk pad (or desk blotter), a table protector used when work such as painting or writing would otherwise damage the table or desk. _Desk blotter._ __2__ Police blotter, a daily record of arrests and other events at a police station. _Police blotters._ __3__ Blotting paper, used to absorb ink or oil from writing materials, particularly when quill or fountain pens were popular.  
 __blotting__ _v_  
-__bloviate__ _v_  
+__bloviate__ _v intr_ :two: /ˈbləʊvɪˌeɪt/ To speak or write verbosely and windily. To talk at length, esp in an insubstantial but inflated manner. _Pundits bloviating on the radio._  
 __blow away__ _phr v_ To surprise or amaze someone.  
 __blow it off__  
 __blow off__ _v_ _slang_ Slang To choose not to attend or accompany. _Those mornings you slept in and blew off the gym? That was the rest you needed._  
@@ -2874,6 +2874,7 @@ __cogent__ _adj_ :four: Appealing to the intellect or powers of reasoning; convi
 __cogitate__ _v_ To take careful thought or think carefully about; ponder. _Syn_ cerebrate _You must earnestly cogitate before making this decision, and not simply flip a coin._  
 __cognate__  
 __cognizant__ _adj_ :two: Fully informed; conscious. _Syn_ aware _Tarzan, although cognizant of his mighty powers, realized also his limitations._  
+__cognomen__ _n_  
 __cognoscente__ _n_ A person with superior, usually specialized knowledge or highly refined taste; a connoisseur.  
 __cogwheel__  
 __cohesive__ _adj_ :dart::three: Combining well to form a strong well-organized unit. _A more cohesive layout._  
@@ -3045,6 +3046,7 @@ __conch__ _n_ _A conch farm._
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __conciliatory__ _adj_  
 __concise__  
+__conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
 __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan). _His cronies concocted a simple plan._ _Syn_ make up, think up, dream up, fabricate  
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :seven::hammer:  
@@ -3256,11 +3258,12 @@ __corn fritters__
 __corn salad__ _n_ _Syn_ mache :es: canónigo  
 __corn__ _n_ :es: callo  
 __cornball__  
-__corned beef__ _n_ :three: [:scroll: [From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
+__corned beef__ _n_ :three: [:scroll: From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
 __cornerstone__ _n_ :two::pencil2::hammer:  
 __cornstarch__  
 __cornucopia__ _n_ The property of being extremely abundant. _Syn_ profuseness, richness _The cornucopia of job opportunities overwhelmed the immigrants, who had come from a town with only one employer._  
 __corny__ _adj_ :six::hammer:  
+__coromandel__  
 __coronal__ _n_ Flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes. _Syn_ chaplet, lei, wreath, garland _Instead of a veil, the bride chose to adorn her head with an elaborate coronal of purple hydrangeas and pink roses._  
 __coronary<sup>1</sup>__ _adj_ :mega: /ˈkɒrənəri $ ˈkɔːrəneri, ˈkɑː-/  
 __coronary<sup>2</sup>__ _n_ __1__ A heart attack, esp. a coronary thrombosis. __2__ A coronary artery.  
@@ -3334,7 +3337,7 @@ __covenant__ _n_ :six: __1__ A legally binding arrangement between parties. _Syn
 __Coventrate__ _v_ To devastate, such as by heavy bombing. After Coventry, a city in central England, that was devastated in German bombing during WWII, Nov 14-15, 1940. The Germans coined the verb coventrieren (to coventrate) after the city to describe any heavy bombing, and the term was adopted in English as well.  
 __Coventry__ _n_ A state of ostracism or exile. After Coventry, a city in central England. It’s unclear how Coventry developed this sense. One conjecture is that Royalist prisoners were sent there during the English Civil War. _“It.s not that smoke-filled rooms are back; smokers huddle in Coventry these days.” (Flora Lewis)._  
 __cover all bases__  
-__cover charge__  
+__cover charge__ _n_ :two: A fixed amount paid when arriving or added to the bill at a nightclub or restaurant for entertainment or services.  
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
@@ -3459,7 +3462,7 @@ __critical mass__
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
-__critters__ _n_ :three::hammer: _Garden critters._  
+__critters__ _n_ :four::hammer: _Garden critters._ _Flying critters._  
 __croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
@@ -3467,6 +3470,7 @@ __crock__ _n_ :two::hammer:
 __croft__ _n_ :three::hammer::pencil2:  
 __crone__ _n_ :three: A witchlike old woman.  
 __cronies__ _n_ :four::hammer: _Military cronies._  
+__Cronuts__ _n_ _trademark_  
 __crony__ _n_ :four: A close friend or companion.  
 __cronyism__ _n_ :dart::seven: When someone hires a friend to do a job, whether or not she’s the best candidate, that’s cronyism. A governor appointing his inexperienced daughter to an important staff position is one example of cronyism. You’re most likely to find the word cronyism in political discussions. It’s not necessarily considered cronyism for a public figure to hire, promote, or appoint her friends or colleagues. However, if the person isn’t as qualified as other candidates but gets the job anyway, it’s a clear case of cronyism. The original meaning of cronyism was simply “friendship,” from crony, Cambridge student slang for “old friend” from the Greek khronios, “long-lasting.” :es: amiguismo  
 __crook__ _n_ :five::hammer: (crooks) _They carried long crooks._ _The crook of her arm._  
@@ -3483,8 +3487,8 @@ __crossbar__ _n_
 __crossbeam__ _n_  
 __crossbow__ _n_  
 __crosshair__ _n_ (cross hair)  
-__crossover<sup>1</sup>__ _n_  
-__crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
+__crossover<sup>1</sup>__ _n_ :two::hammer:  
+__crossover<sup>2</sup>__ _adj_ :two: __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre._Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre. _Crossover zone._  
 __crossroads__ _n_ :three::hammer: _At crossroads turn R onto B1233 towards Cottingham._ _I’m at a career crossroads._ _He is at a significant crossroads in his career._  
 __crotchety__ _adj_ :two: __1__ _informal_ Cross; irritable; contrary.  
 __crouch<sup>1</sup>__ _v_ :two::hammer:  
@@ -3581,6 +3585,7 @@ __Curie__ _n_ :two::hammer::mega:
 __curios__  
 __curlicue<sup>1</sup>__ _n_ :two::hammer:  
 __curlicue<sup>2</sup>__ _v_ (curlicued)  
+__curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  
 __curmudgeon__ _n_ :eight: An ill-tempered person full of resentment and stubborn notions. :es: cascarrabias  
 __curriculum vitae__ _n_  
 __curriculum__ _n_ _The math curriculum of the school is pretty useless._  
@@ -4117,6 +4122,7 @@ __discourse__
 __discrepancy__ _n_  
 __discretion__ _n_  
 __discretionary__ _adj_ _Things to do when you have discretionary time._  
+__discriminating__ _adj_ _Each room will impress even the most discriminant traveler._  
 __discus__ _n_  
 __disdain<sup>1</sup>__ _v_  
 __disdain<sup>2</sup>__ _n_  
@@ -4146,6 +4152,8 @@ __dishwasher__ _n_ _I worked as a dishwasher._
 __dishy__  
 __disillusioned__  
 __disillusionment__  
+__disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
+__disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
@@ -4226,6 +4234,7 @@ __ditty bags__ _n_
 __ditty__ _n_ :three::hammer:  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
+__dive bar__  
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
 __diversion__ _n_  

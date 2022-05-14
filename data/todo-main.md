@@ -1,18 +1,3 @@
-__bloviate__ _v intr_ /ˈbləʊvɪˌeɪt/ To speak or write verbosely and windily. To talk at length, esp in an insubstantial but inflated manner. _Pundits bloviating on the radio._  
-__cognomen__ _n_  
-__conclave__ _n_ /KAHN-klayv/ A private meeting, a secret assembly, or a general gathering. _A conclave of regional leaders of the international organization is meeting in June._  
-__coromandel__  
-__cover charge__  
-__critter__ _n_ _Flying critters._  
-__Cronuts__ _n_ _trademark_  
-__crossover<sup>1</sup>__ _n_  
-__crossover<sup>2</sup>__ _adj_ __1__ (of music, fashion, art, etc) Combining two distinct styles. :es: fusión _Superstar crossover violinist._ __2__ (of a performer, writer, recording, book, etc) Having become popular in more than one genre.  
-__curly__ _adj_ /ˈkɜr li/ The Three Little Pigs _is a curly tail for the whole family._  
-__dazzling__ _adj_  
-__discriminating__ _adj_ _Each room will impress even the most discriminant traveler._  
-__disincentive<sup>1</sup>__ _n_ /ˌdɪsɪnˈsɛntɪv/ Something that acts as a deterrent.  
-__disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect on productivity._  
-__dive bar__  
 __docent__ _n_ :two::hammer:  
 __dodgy__ _adj_ /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. _They try to protect members from dodgy sites._  
 __dope__ _n_ __3__ _Informal_ A stupid person; a dolt.  
