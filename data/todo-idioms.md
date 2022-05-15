@@ -1,18 +1,4 @@
-__a joy to behold__ A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
-__a little from column A, a little from column B__ Having been formed from two distinct factors, elements, or reasons. _She asked me if I drew more from real life or from my imagination when writing; in truth, it’s a little from column A and a little from column B._  
-__a people person__ Someone who is particularly gregarious, affable, or outgoing; someone with great interpersonal communication skills. _The new manager is a real people person, there’s no doubting that; I just hope his management skills are up to snuff as well._  
-__a stone’s throw__ _Just a stone’s throw from Wrigley Field._  
-__all-you-can-eat__  
-__amped-up__ _Amped-up crowd._  
-__at ots best__ _An excellent tribute to nature at its best._  
-__at someone’s disposal__  
-__back out__  
-__be full of shit__  
-__big spender__  
-__blow (one’s) mind__  
-__buff up__  
-__call (all) the shots__  
-__clutch (one’s)/the pearls__ To react in a scandalized or mortified manner to once-salacious but now relatively common things, events, situations, etc. _Parents should try not to clutch the pearls every time their teenagers come out of their room dressed outrageously—it only makes them want to push the envelope even further._  
+
 __come to terms__  
 __come-one-come-all__  
 __cottage industry__  
