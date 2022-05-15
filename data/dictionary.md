@@ -4258,7 +4258,7 @@ __do-gooder__
 __doable__ _adj_ _It was not a lot of time but it was doable._  
 __Doberman__ _n_ A large dog of a German breed with powerful jaws and a smooth coat, typically black with tan markings.  
 __doc__ _n_ _informal_ :two::hammer: (doc)  
-__docent__ _n_ :two: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
+__docent__ _n_ :four: (docents)__2__ A knowledgeable guide, esp. one who conducts visitors through a museum, cathedral, art gallery, etc.  
 __docile__ _adj_ __1__ Easily taught. __2__ Easily led or managed.  
 __docked__ _v_  
 __docket__ _n_ :five::hammer:  
@@ -4266,7 +4266,7 @@ __doctor__ _v_ :four::hammer: (doctored) _Imagine if a doctored video of a polit
 __dodder__ _v_ :two: (doddering) Walk unsteadily. _Syn_ coggle, totter _The two elderly ladies were slowly doddering along, minding their own business, when a bike messenger sped by them on the sidewalk and nearly knocked them over._  
 __doddle__ _n_ _informal Brit_ something easily accomplished. Something easily done, fixed, etc.  
 __dodges__ _n_  
-__dodgy__ _adj_ _slang_ :three: Dishonest or unreliable. Marked by skill in deception.  
+__dodgy__ _adj_ _slang_ :four::dart: /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. Dishonest or unreliable. Marked by skill in deception. _They try to protect members from dodgy sites._  
 __dodo__ _n_ _informal_ :two: A stupid person; an idiot. Extinct flightless bird whose name has become synonymous with stupidity.  
 __doe__ _n_ :three::hammer::pencil2: _The young doe will be moved to the E.L. Johnson Nature Center._  
 __doer__ _n_  
@@ -4328,7 +4328,7 @@ __doorpost__
 __doorsill__ _n_  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :two::mega::hammer:  
-__dope<sup>1</sup>__ _n_ :two::hammer: _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
+__dope<sup>1</sup>__ _n_ :three::hammer: __3__ _Informal_ A stupid person; a dolt. _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
 __dope<sup>2</sup>__ _adj_ _informal_ :five: Very good. A slang word that is used to define someone or something great, wonderful, fantastic. _He is dope._  
 __doper__ _n_  
 __dopey__ _adj_ :two::hammer: _It helped to give them dopey names: Big Wolf and Greasy Wolf._  
@@ -4340,7 +4340,7 @@ __dormer__ _n_ :camera:
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
-__dot__ _v_ (dotted) Mark with a dot.  
+__dot__ _v_ :two: (dotted) Mark with a dot. _Wooden stools dot the floor of hot spots._  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -4349,6 +4349,7 @@ __double bill__
 __double crossing__  
 __double dip__  
 __double down__ _v_ :nine::m: To become more tenacious, zealous, or resolute in a position or undertaking. _Doubling down on sanctions._  
+__double feature__ _n_ A movie program consisting of two full-length films.  
 __double glazing__ _n_  
 __double step__ _v_  
 __double take__ _n_ :two::hammer:  
@@ -4393,7 +4394,7 @@ __downhearted__ _adj_
 __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. __2__ Toward a lower or worse condition: _The alcoholic’s health went downhill fast._ _David Bowie dead, and it was all downhill from there._  
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
-__downplay__ _v_ :six::hammer: (downplayed)  
+__downplay__ _v tr_ :seven::hammer: (downplayed)  
 __downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
 __downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
@@ -4490,6 +4491,7 @@ __droit du seigneur__
 __droll__ _adj_ :six: Curious or unusual in a way that provokes dry amusement. _There is room for droll comedy._ _Droll comic moments._ _A droll sense of humor._  
 __drone<sup>1</sup>__ _n_ _The drone of an outboard motor reverberated._  
 __drone<sup>2</sup>__ _v_  
+__droolworthy__ _adj_ _Droolworthy shawarna._  
 __droop__ _n_ /dro͞op/ A fleshy fruit, such as a peach, plum, or cherry, usually having a single hard stone that encloses a seed. Also called stone fruit.  
 __drop by__ _phr v_ :two: To stop in for a short visit.  
 __drop dead__  
@@ -4519,7 +4521,7 @@ __drum__ _v_
 __drumbeat__ _n_ _Their drumbeat of criticism._  
 __drumfire__ _n_ Heavy, rapid, and continuous gunfire, the sound of which resembles rapid drumbeats.  
 __drumstick__ _n_ :astonished: __1__ A stick for beating a drum. __2__ The meaty leg of a chicken, turkey, or other fowl.  
-__druthers__  
+__druthers__ _n informal_ :two: /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
 __dry age__ _v_  
 __dry goods__ _n pl_ Textiles, clothing, and related articles of trade. Also called _soft goods._ _Dry goods store._  
 __dry humor__  
@@ -4533,6 +4535,7 @@ __dubious__ _adj_ :five::hammer:
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
 __duchy__ _n_ :two::hammer:  
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
+__duck reuben sandwich__  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
 __duckboard__ _n_ :two: (duckboards) A board or boards laid so as to form a floor or path over wet or muddy ground.  
 __duckling__ _n_ (ducklings) A young duck.  
@@ -4597,17 +4600,19 @@ __dwelling__ _n_
 __dwindle__ _v_ :nine::m: (dwindled, dwindling) __1__ To decrease, shrink, diminish, reduce in size. __2__ To fall away in quality; degenerate, sink.  
 __dyad__  
 __dyadic__  
-__dye__ _v_ (dyes, dyed, dyeing) :pencil2:  
+__dye__ _v_ (dyes, dyed, dyeing) :two::pencil2::hammer: _Sail the dyed green waters of the Chicago River._  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :three::pencil2::hammer:  
 __dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
+__dysfunctional__  
 __dyslipidemia__ _n_ An abnormal concentration of lipids or lipoproteins in the blood.  
 __dysphemism__ _n_  
 __dysphoria__ _n_ :two: An emotional state characterized by anxiety, depression, or unease.  
 __dysplasia__ _n_ Abnormal development or growth of tissues, organs, or cells. _Canine hip dysplasia._  
 __dyspnea__ _n_ :three: Difficulty in breathing, often associated with lung or heart disease and resulting in shortness of breath. Difficult or labored breathing. Also called _air hunger_.  
+__dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
 __dystopia__ _n_ _Philip K. Dick story takes place in an alternate dystopia in which the Nazis and Japanese won Worls War II._  
 __dystopian__ _adj_  
 __dystrophy__ _n_ :pencil2:  
@@ -4634,6 +4639,7 @@ __Earthling__ _n_
 __earthquake drill__  
 __earthshine__ _n_ :two: The sunlight reflected from the earth’s surface that illuminates part of the moon not directly lighted by the sun. Also called earthlight.  
 __earthworks__ _n_  
+__earthy__ _adj_  
 __earworm__ _n_ A song that gets stuck in your head; also called sticky tune.  
 __ease__ _v_ :astonished: _He started easing a set of levers._  
 __easement__  
@@ -4645,7 +4651,7 @@ __easy chair__ _n_ :three: A large, comfortable, upholstered chair.
 __easy-chair__  
 __easy-to-use__ _adj_ Straightforward and simple to use. _An easy-to-use disposable camera._  
 __easygoing__ _adj_ :four::hammer: (easy-going) _Easygoing people._  
-__eatery__ _n informal_ :two: (eateries) A restaurant.  
+__eatery__ _n informal_ :five: (eateries) A restaurant. _Buzzing eateries._  
 __eating disorder__  
 __ebb and floor__  
 __ebb and flow__ _n_ :seven: (ebbed and flowed, ebbs and flows) Used to describe something that changes in a regular and repeated way. _The ebbs and flows of life._  
@@ -4660,6 +4666,7 @@ __echo__ _n, v_ :mute:[ec~~h~~o]
 __echoism__ _n_ /EK-oh-iz-uhm/ The formation of words by imitating sounds; also a word created in this manner.  
 __eclampsia__  
 __éclat__ _n_  
+__eclectic__ _adj_ :two::pencil2::hammer:  
 __ecliptic__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  

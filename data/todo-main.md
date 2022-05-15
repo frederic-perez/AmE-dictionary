@@ -1,18 +1,3 @@
-__docent__ _n_ :two::hammer:  
-__dodgy__ _adj_ /ˈdɒdʒɪ/ __1__ Risky, difficult, or dangerous. __2__ Uncertain or unreliable; tricky. _They try to protect members from dodgy sites._  
-__dope__ _n_ __3__ _Informal_ A stupid person; a dolt.  
-__dot__ _v_ _Wooden stools dot the floor of hot spots._  
-__double feature__ _n_ A movie program consisting of two full-length films.  
-__downplay__ _v tr_  
-__droolworthy__ _adj_ _Droolworthy shawarna._  
-__druthers__ _n informal_ /ˈdrʌð ərz/ One’s own way, choice, or preference. A free choice or preference. It is often used in the phrase _if one had one’s druthers._ _If I had my druthers, I’d dance all night._  
-__duck reuben sandwich__  
-__dye__ _v_ _Sail the dyed green waters of the Chicago River._  
-__dysfunctional__  
-__dystonia__ _n_ [:scroll: dys- + G. tonos, tension] A syndrome of abnormal muscle contraction that produces repetitive involuntary twisting movements and abnormal posturing of the neck, trunk, face, and extremities.  
-__earthy__ _adj_  
-__eatery__ _n_ :three::hammer: _Buzzing eateries._  
-__eclectic__ _adj_ :two::pencil2::hammer:  
 __eddy__ _v_ _Water eddies and cascades._  
 __eggs benedict__  
 __elderly__ _adj, n_  
