@@ -1,18 +1,3 @@
-__ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
-__deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
-__eddy__ _v_ _Water eddies and cascades._  
-__eggs benedict__  
-__elderly__ _adj, n_  
-__ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
-__embrace__ _v_ :two::hammer: _Embrace people as they are._  
-__emporium__  
-__enclave__ _n_ :two::hammer:  
-__enrich__ _v tr_  
-__ephemera__  
-__ephemeral<sup>1</sup>__ _adj_ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory.  
-__ephemeral<sup>2</sup>__ _n_ Anything short-lived.  
-__epicurean__ _adj, n_ /ɛpɪkjʊˈriːən/  
-__epithet__ _n_ /EP-uh-thet/ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
 __ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
 __erstwhile__  
 __espalier__ _n_ _Espalier fruit trees._  

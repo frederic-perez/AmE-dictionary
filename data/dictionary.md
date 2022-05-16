@@ -2410,6 +2410,7 @@ __censure motion__
 __centennial__  
 __centerpiece__  
 __centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
+__ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
 __cerebral__ _adj_ /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
@@ -3730,6 +3731,7 @@ __deadlock__ _n_ /ˈdɛdˌlɒk/
 __deadly__ _adv_ __1__ So as to suggest death. __2__ To an extreme: _deadly serious._  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
+__deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
 __deafening__ _adj_  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
@@ -4675,6 +4677,7 @@ __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly b
 __ED prescription__  
 __edacious__ _adj_ Characterized by voracity; devouring. _Syn_ ravenous, voracious, wolfish, esurient, rapacious, ravening _The edacious vultures soon devoured the animal’s remains._  
 __edamame__ _n_  
+__eddy__ _v_ _Water eddies and cascades._  
 __edema__ _n_ An excessive accumulation of serous fluid in tissue spaces or a body cavity.  
 __edge__ _v_ :three::hammer: _Musketeers edge Missouri 83-82._  
 __edgy__ _adj_ :five::hammer: _Aaron has got a style that’s humble but edgy._  
@@ -4709,6 +4712,7 @@ __egg__ _v_
 __eggcorn__ _n_ :four: A new word or phrase that emerges from mistakenly hearing or interpreting another. Although resulting from a mistake, an eggcorn often still seems to make logical sense. Eggcorn examples: all intensive purposes (“All intents and purposes”), duck tape (duct tape), wet one’s appetite (“whet one’s appetite”)  
 __egghead__ _n informal_ :three: An overly intellectual person.  
 __eggnog__ _n_ :three: A drink made of milk or cream, sugar, eggs, and flavorings that are beaten together and often mixed with a liquor such as rum or brandy. _A big eggnog party._  
+__eggs benedict__  
 __egoist__ _n_ A conceited and self-centered person. _Syn_ swellhead _There is nothing in this world that the egoist loves more than himself._  
 __egomaniac__  
 __egotistical__ _adj_ :two::hammer:  
@@ -4737,7 +4741,7 @@ __elation__ _n_ :four::hammer:
 __elbow__ _v_ (elbowing) _Elbowing your way through crowds._  
 __elderberry__  
 __elderflower__  
-__elderly__ _adj, n_ :es: tercera edad  
+__elderly__ _adj, n_ :two::hammer: :es: tercera edad  
 __eldest__ _adj_  
 __eldritch__ _adj_ :two: Eerie; weird; spooky. Suggesting the operation of supernatural influences. _Syn_ uncanny, weird, unearthly  
 __Election Day__  
@@ -4760,6 +4764,7 @@ __eligibility__
 __eligible__ _adj_  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
+__ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
@@ -4787,7 +4792,7 @@ __embodiment__
 __embody__ _v_  
 __embolden__ _v_ :three::hammer:  
 __embolic__ _adj_ :two: __1__ Of, relating to, or caused by an embolus or an embolism. __2__ Of or relating to emboly.  
-__embrace__ _v_ :four::hammer: (embraced) _The best role models embrace their flaws._  
+__embrace__ _v_ :six::hammer: (embraced) _The best role models embrace their flaws._ _Embrace people as they are._  
 __embrasure__ _n_ An opening (in a wall or ship or armored vehicle) for firing through.  
 __embroider__ _v_ :two: (embroidered) To make a story or an account of an event more interesting by adding details you have invented. _Ted embroidered the details._  
 __embroil__ _v_ (embroiled)  
@@ -4811,7 +4816,7 @@ __emphasis__
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :two::hammer::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ _n_ The U.S. State of New York.  
-__emporium__ _n_ :two::astonished: A large retail store, especially one selling a great variety of articles.  
+__emporium__ _n_ :three::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre_, meaning “to undertake.’] An adventurous, daring, or chivalric enterprise.  
 __empty-handed__ _adj_  
@@ -4827,7 +4832,7 @@ __enamel__ _n_ :two::hammer: :es: esmalte
 __enamored__  
 __encampment__ _n_ :two::hammer:  
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
-__enclave__ _n_ /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
+__enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
 __encompass__ _v_ :five::hammer: (encompasses)  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
@@ -4876,6 +4881,7 @@ __enormous__ _adj_ :mega: /ɪˈnɔːməs/
 __enough__ _adj, adv, pron_ :mega:  
 __enquiry__  
 __enrapture__ _v_ :four: (enraptured) To fill with rapture or delight. _Syn_ enchant, enthrall, ravish, transport _The Harry Potter books have enraptured millions of young readers._  
+__enrich__ _v tr_  
 __enrichment__ _n_  
 __enrol__ _v_  
 __ensconce__ _v_ :four: (ensconced) Establish or settle (someone) in a comfortable, safe place. _Agnes ensconced herself in their bedroom._  
@@ -4921,10 +4927,12 @@ __envision__ _v_ :four::hammer:
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
 __epaulets__  
 __epee__  
-__ephemeral<sup>1</sup>__ _adj_ :three: /ih-fem-er-uhl/ Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
-__ephemeral<sup>2</sup>__ _n_ /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
+__ephemera__  
+__ephemeral<sup>1</sup>__ _adj_ :four: /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
+__ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
-__epicurean__ _adj_ :four: (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
+__epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
+__epicurean<sup>2</sup>__ _n_ /ɛpɪkjʊˈriːən/  
 __epidemic__ _n_ Notice: _n_!  
 __epigram__ _n_  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
@@ -4932,7 +4940,7 @@ __epiphany__
 __Episcopalian__  
 __epistaxis__ _n_ A nosebleed.  
 __epistolary__ _adj_ Relating to the writing of letters.  
-__epithet__ _n_ :seven: (epithets) An epithet is a nickname or descriptive term used to refer to someone. Example: You need to listen to me and not Clueless Kevin over there. _Walmart removed the racial epithet from the headline._  
+__epithet__ _n_ :nine: /EP-uh-thet/ (epithets) __1__ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ An epithet is a nickname or descriptive term used to refer to someone. _You need to listen to me and not Clueless Kevin over there._ _Walmart removed the racial epithet from the headline._ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
 __epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a particular quality or type. _Syn_ personification, embodiment, incarnation _She looked the epitome of elegance and good taste._  
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
