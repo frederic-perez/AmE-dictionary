@@ -1,4 +1,5 @@
-
+__beef up__ o increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
+__catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __come to terms__  
 __come-one-come-all__  
 __cottage industry__  
@@ -20,6 +21,7 @@ __get a kick__
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
 __green thumb__ _Practical ideas for novice green thumbs and expert gardeners alike._  
 __ground zero__  
+__hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _ The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
 __hell no__  
 __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows. _After two degrees in literature, Stanley insists on reading only highbrow books._ __2__ _n_ A person who has or affects heightened intellectualism or superior learning or culture, often in a pretentious or elitist manner. _Of course, a book like this won’t be given the time of day by literary highbrows, but it nevertheless provides an engaging and—dare I say it—entertaining read._  
 __house of cards__  
@@ -73,6 +75,10 @@ __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
 __take a bawling out__ To receive a very severe rebuke, chastisement, or scolding (from someone). _I sure took a bawling out from my parents after I smashed up their car._  
 __take a breath__ To inhale and then exhale. _I can tell that you’re just a bit too upset to talk about this. Why don’t you take a breath, calm down a bit, and then we’ll discuss it._  
+__take a breather__ To take a short pause or hiatus (from something). _You can go ahead on the hike if you want, I•m going to stop here and take a breather._ _The senator is taking a breather from his campaign to spend some time with his family._  
+__take a catnap__ To sleep for a very brief but restful period of time. _I’m going to try to take a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._ _Julie gets up really early to do her writing before the kids wake up, then takes little catnaps throughout the day._  
+__take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
+__take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  

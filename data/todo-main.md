@@ -1,12 +1,18 @@
+__ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
+__deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
 __eddy__ _v_ _Water eddies and cascades._  
 __eggs benedict__  
 __elderly__ _adj, n_  
+__ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __embrace__ _v_ :two::hammer: _Embrace people as they are._  
 __emporium__  
 __enclave__ _n_ :two::hammer:  
 __enrich__ _v tr_  
 __ephemera__  
+__ephemeral<sup>1</sup>__ _adj_ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory.  
+__ephemeral<sup>2</sup>__ _n_ Anything short-lived.  
 __epicurean__ _adj, n_ /ɛpɪkjʊˈriːən/  
+__epithet__ _n_ /EP-uh-thet/ A characterizing word or phrase that accompanies, or occurs in place of, the name of a person or thing. _Richard the First is frequently referred to by the epithet “Lionheart.”_ __2__ A disparaging or abusive word or phrase. _The school’s policy makes it clear that derogatory epithets will not be tolerated._  
 __ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
 __erstwhile__  
 __espalier__ _n_ _Espalier fruit trees._  
@@ -15,6 +21,7 @@ __esteemed__ _adj_
 __estuary__ _n_  
 __ethos__  
 __evensong__ _n_  
+__excoriate__ _v_ To censure strongly. _Syn_ abrade, condemn, denounce _The newspaper printed an editorial that excoriated the administration for its inaction._  
 __exculpate__ _v_ /EK-skull-payt/ To clear from alleged fault or guilt.  
 __exertion__ _n_  
 __exhibit__ _n_  
@@ -77,6 +84,7 @@ __gripping__ _adj_ _Gripping performances._
 __grist__ _n_ _A water-powered grist mill._  
 __grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
 __ground-breaking__  
+__grovel__ _v_ To lie or creep in a prostrate position, as in subservience or humility. _Syn_ cower, cringe, fawn _The prisoners groveled before the emperor, hoping that he would commute their sentences._  
 __growler__ _n_  
 __grub__  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
@@ -263,6 +271,7 @@ __plot__ _n_ _Vegetable plot._
 __plush__ _n_ _A plush booth in the bar._  
 __Pluto__ _n_  
 __pod__ _n_ _Pea pod._  
+__pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __pool table__  
 __potentate__ _n_ One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
@@ -455,6 +464,7 @@ __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or gr
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
 __treetops__ _n_  
 __trellis__ _n_ _A trellis of steel pipes carries a state-of-the-art sound system._  
+__trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidation, the children approached the haunted house._  
 __tribulation__ _n_  
 __trinket__ _n_ _Trinket shops._  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
@@ -464,6 +474,7 @@ __tub__ _n_
 __tuck away__ _v_  
 __tuck__ _v_ (tucked)  
 __tuition__ _n_  
+__turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
@@ -483,6 +494,7 @@ __username__ _n_ ;pencil2:
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __vacuous__  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
+__verdant__ _adj_ /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vie__ _v_  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
