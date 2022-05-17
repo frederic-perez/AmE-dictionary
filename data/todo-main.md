@@ -1,18 +1,3 @@
-__ersatz__ _adj_ Being an imitation or a substitute, usually an inferior one; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._  
-__erstwhile__  
-__espalier__ _n_ _Espalier fruit trees._  
-__espresso__ _n_ :pencil2:  
-__esteemed__ _adj_  
-__estuary__ _n_  
-__ethos__  
-__evensong__ _n_  
-__excoriate__ _v_ To censure strongly. _Syn_ abrade, condemn, denounce _The newspaper printed an editorial that excoriated the administration for its inaction._  
-__exculpate__ _v_ /EK-skull-payt/ To clear from alleged fault or guilt.  
-__exertion__ _n_  
-__exhibit__ _n_  
-__exhilarating__ _adj_ :three::hammer:  
-__expansive__ _adj_ _An expansive craft beer list._  
-__extravaganza__  
 __eye-popping__ _adj_ _Eye-popping croissants._  
 __face off__ _v_ _(sports)_  
 __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  

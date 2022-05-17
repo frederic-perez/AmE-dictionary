@@ -4969,8 +4969,8 @@ __ergomania__ _n_ An excessive desire to work or exercise.
 __ermine__ _n_  
 __errand__ _n_ _He had an errand to run._  
 __errata__  
-__ersatz__ _adj_ :two: __1__ Being a usually inferior imitation or substitute; artificial: _ersatz coffee made of chicory._ __2__ Not genuine; fake.  
-__erstwhile__ _adj_ :five::hammer:  
+__ersatz__ _adj_ :three: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
+__erstwhile__ _adj_ :six::hammer:  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
@@ -4988,18 +4988,21 @@ __esemplastic__ _adj_ /ˌɛs ɛmˈplæs tɪk, -əm-/ Having the ability to shape
 __Eskimo__ _n_ :two::mega:  
 __esoteric__ _adj_  
 __espadrilles__ _n_  
+__espalier__ _n_ _Espalier fruit trees._  
 __esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
-__espresso__ _n_ A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
+__espresso__ _n_ :two::pencil2: A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
 __essence__ _n_ :pencil2:  
 __essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
 __essential<sup>2</sup>__ _n_  
 __establish__ _v_ _Established 1978._  
-__esteemed__ _v_ _Our esteemed allies._  
+__esteem__ _v_ _Our esteemed allies._  
+__esteemed__ _adj_  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
+__estuary__ _n_  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
 __etch__ _v_ :five::hammer: (etched)  
@@ -5008,7 +5011,7 @@ __etchings__
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
 __ethereal__ _adj_  
 __ethereality__ _n_  
-__ethos__ _n_ :nine::m: The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
+__ethos__ _n_ :nine::m: /ˈi θɒs, ˈi θoʊs, ˈɛθ ɒs, -oʊs/ The disposition, character, or fundamental values peculiar to a specific person, people, culture, or movement. _They cultivated a subversive alternative ethos._ _The ethos of employees helping one another has stayed strong._ _The D.I.Y. ethos._ _The militaristic ethos of SWAT._ :es: espíritu, escala de valores  
 __etiquette__  
 __etymological__ _adj_ _Etymological dictionaries show how languages borrow words from each other._  
 __etymology__ _n_ :astonished: Study of the sources and development of words.  
@@ -5028,6 +5031,7 @@ __evangelist__ _n_ Someone who is very enthusiastic about something and likes to
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
 __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent near the western horizon shortly after sunset. _The evening star was out and the moon rising._  
+__evensong__ _n_  
 __eventual__ _adj_  
 __evergreen__ _adj_  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
@@ -5058,13 +5062,13 @@ __excise<sup>1</sup>__ _n_ :two::hammer: _Excise tax._ _The new law imposes an e
 __excise<sup>2</sup>__ _v_ (excised) To remove by or as if by cutting: _excised the tumor; excised two scenes from the film._  
 __excommunicate__ _v_  
 __excommunication__  
-__excoriate__ _v_ :five::hammer: (excoriated, excoriating) _Gay rights advocates excoriated the state’s actions._  
+__excoriate__ _v_ :six: (excoriated, excoriating) To censure strongly. _Syn_ abrade, condemn, denounce _The newspaper printed an editorial that excoriated the administration for its inaction._ _Gay rights advocates excoriated the state’s actions._  
 __excoriation__  
 __excrescence__ _n_ Something that bulges out or is protuberant or projects from its surroundings. _Syn_ extrusion, gibbosity, hump, jut, bulge, protrusion, protuberance, swelling, bump, prominence  
 __excruciate__  
 __excruciating__ _adj_ :three: Very painful.  
 __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._  
-__exculpate__ _v_ To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
+__exculpate__ _v_ :two: /EK-skull-payt/ To clear from alleged fault or guilt. To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
@@ -5073,13 +5077,14 @@ __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent 
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :seven::hammer: _Her face was bright with exertion._  
+__exertion__ _n_ :eight::hammer: _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
+__exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
-__exhilarating__ _adj_ :three: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
+__exhilarating__ _adj_ :six: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
 __exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
@@ -5088,7 +5093,7 @@ __existential__ _n_ :pencil2:
 __exodus__ _n_ :two: __1__ _capitalized_ The mainly narrative second book of canonical Jewish and Christian Scripture. __2__ A mass departure.  
 __exonerate__ _v_ :six: (exonerating) __1__ To clear from accusation, guilt, or blame. Pronounce not guilty of criminal charges. _Syn_ acquit, exculpate, discharge, clear _After the long trial, the suspect was exonerated of the murder charges, much to his relief._ __2__ To relieve from an obligation, duty, or task.  
 __exoteric__ _adj_ :three: __1a__ Suitable to be imparted to the public. __b__ Belonging to the outer or less initiate circle. __2__ Relating to the outside: external. The antonym of exoteric is esoteric, meaning “designed for or understood by the specially initiated alone.”  
-__expansive__ _adj_ :three::hammer: _He became expansive and revealed some facts._  
+__expansive__ _adj_ :four::hammer: _An expansive craft beer list._ _He became expansive and revealed some facts._  
 __expansively__ _adv_ _He sucked expansively on his cigar._  
 __expat__ _n_ _Chiefly British_ :four: An expatriate. _Baroque debut for Moscow expat choir._  
 __expatiate__ _v_ :two::hammer:  
@@ -5126,6 +5131,7 @@ __extoll__ _v_ :five::hammer: (extolled, extolling)
 __extort__ _v_  
 __extradite__ _v_  
 __extraneous__  
+__extravaganza__  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
