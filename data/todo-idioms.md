@@ -1,18 +1,3 @@
-__beef up__ o increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
-__catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
-__come to terms__  
-__come-one-come-all__  
-__cottage industry__  
-__cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
-__cut ties with (someone)__  
-__dive bar__  
-__down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
-__draw a line in the sand__  
-__drop by__  
-__eye-opening__ Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
-__eye-to-eye__ _You can get eye-to-eye with a dolphin._  
-__fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
-__far and wide__ _Chicago is a destination for travelers far and wide._  
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
 __for good__ _She left him for good this time._  
 __front and center__  

@@ -338,6 +338,7 @@ __beat the clock__ :two: To finish something before the time is up.
 __beat the shit out of (someone)__ :two::hammer: _I expect them to beat the shit out of the Eagles._  
 __beat your head against the wall__ To try to do something that is hopeless.  
 __beauty is in the eye of the beholder__ Different people have different opinions about what or who is beautiful.  
+__beef up__ To increase something, often in strength. _With all these protestors here, we definitely need to beef up security._ _My boyfriend has been going to the gym every day for months in hopes of beefing up his frame._  
 __been there, done that__  
 __beer muscles__ An inflated notion of one’s strength, ego, or bravado due to excess consumption of alcohol (not necessarily beer).  
 __beg the question__ :two::hammer: _All of this begs the question of Gallego’s own voting record._  
@@ -482,6 +483,7 @@ __catch one’s breath__ To pause or rest before continuing an activity or begin
 __catch onto (something)__  
 __catch some Zs__ To go to sleep, to take a nap.  
 __catch wind of (something)__ :two: (get wind of something, caught wind) To learn of something; to hear about something.  
+__catnap__ A very brief but restful period of sleep. _I’m going to try to squeeze in a catnap before my next shift starts, or else I’ll be feeling sluggish for the entire evening._  
 __caught on the hop__ Caught unawares or in a state of unpreparedness. _Please forgive my distracted attention—I’m afraid I was caught on the hop by your sudden arrival._  
 __caught with your pants down__ To be found in an embarrassing situation.  
 __chafe at the bit__ To be impatient and/or eager for something to happen or over some delay. Used to liken someone to an overexcited horse straining against its bit (the metal piece of the harness that fits between its jaws).  
@@ -538,9 +540,10 @@ __come to a close__ _The fifty-year reign of incessant warring was coming to a c
 __come to a stop__ To stop, cease, or conclude. _Every driver came to a stop as the police car, with its flashing lights and siren, sped by._ _Our research came to a stop after a sudden reduction in funding._  
 __come to fruition__ To successfully be brought into existence or to completion.  
 __come to grips with (someone or something)__  
-__come to terms with (someone or something)__ :six::hammer:  
+__come to terms with (someone or something)__ :seven::hammer:  
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
+__come-one-come-all__  
 __coming-of-age__ :two: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -554,9 +557,11 @@ __coop up__ To restrict someone or something to a particular, usually small, spa
 __corporate ladder__  
 __cost an arm and a leg__ To be extremely expensive.  
 __cost the earth__ To be exorbitant or burdensome in expense.  
+__cottage industry__  
 __count your blessings__ :six: (count (one’s) blessings) To be grateful for the good things in your life, often to stop yourself becoming too unhappy about the bad things.  
 __crack open__  
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
+__cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
 __crash course__ A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
 __creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior.  
@@ -584,7 +589,7 @@ __cut it close__ To do or complete something very near to its limit, especially 
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
 __cut the spin__  
-__cut ties with (someone)__ :three::hammer: _I was cutting ties without even knowing._  
+__cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
 __damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
 __dark days__ Times of extreme misfortune or difficult.  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
@@ -619,6 +624,7 @@ __die hard__ __2__ To resist against overwhelming, hopeless odds: _radicalism th
 __die with your boots on__ To die while you are still actively involved in your work.  
 __dig your own grave__ To do something stupid that will cause problems for you in the future.  
 __Ding, ding, ding, we have a winner!__ _cliché_ A humorous exclamation said when someone answers or guesses something correctly or is considered the best in some competition. Often used sarcastically. _A: “We’re trying to think of the worst baby names.” B: “My cousin George named his baby ‘Seven.’” A: “Ding, ding, ding! We have a winner! Gosh, what on earth were they thinking?”_  
+__dive bar__  
 __do (one) wrong__ _slang_ To mistreat, deceive, or betray one. _I can’t believe that you’re the one who did me wrong and sabotaged my presentation!_  
 __do a runner__ To leave a place quickly in order to escape trouble or to avoid paying for something.  
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
@@ -655,6 +661,7 @@ __down the line__ In the future.
 __down the pike__ :dart: In the future. _I do want to get married, but down the pike, not any time soon._ _You can handle whatever comes down the pike._  
 __down the road__ _informal_ In the future; later on.  
 __down to the wire__ (_Down to the wire_ originally comes from the practice of stretching a literal wire above the finish line of a horse racing track. The first horse to break through that wire was the one that won, and a close race that was _down to the wire_ would be one that’s decided at or near the very end.)  
+__down__ __1__ _v_ To eat or drink something very quickly. _Wow, you guys really downed that dish—I guess you liked it!_ _You downed a bottle of wine after swearing off alcohol for a month!_  
 __down-to-earth__ _adj_ :four: Sensible and realistic.  
 __doxxing__  
 __drag (one’s) feet__ :two: To move slowly and reluctantly because one does not want to do something. _We can’t be late for the dentist, so quit dragging your feet and get in the car!_  
@@ -662,11 +669,13 @@ __drag (someone) kicking and screaming__ To force someone to go somewhere or do 
 __dragon breath__ Particularly foul-smelling breath. _I know I tend to have dragon breath when I wake up, so I usually brush my teeth before I do anything else._ _My date was really attractive and very funny, but good lord, she had horrible dragon breath._  
 __drain the swamp__ To get rid of the root causes of problems, especially to rid politics and government of evils, such as corruption and bureaucracy.  
 __draw a blank__ :two: To fail to find or remember something.  
+__draw a line in the sand__  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
 __drop a bombshell__ To announce shocking news.  
+__drop by__  
 __drop in the bucket__ :two: A very small or unimportant amount.  
 __drop the ball__ :two: To make a mistake, to fail.  
 __dumb bunny__ Stupid, silly, or naïve person, usually used in an affectionate or endearing (if condescending) manner. _Oh, my darling! You are the sweetest dumb bunny I’ve ever known._  
@@ -703,6 +712,8 @@ __exert (oneself)__ To make a concerted effort to do something. Put oneself to s
 __explore every avenue__ To investigate or pursue every possible means to find a solution to a given problem or to achieve a desired outcome.  
 __extra pair of hands__ Additional help or assistance provided by another person. _Don’t you want to hire an extra pair of hands?_  
 __eye candy__ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
+__eye-opening__ Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
+__eye-to-eye__ _You can get eye-to-eye with a dolphin._  
 __face value__  
 __faint of heart__ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :two: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
@@ -713,12 +724,14 @@ __fall off the back of a truck__ Of goods or merchandise, to be acquired by ille
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
 __fall through the cracks__  
+__fall through__ :dart: To not be completed or come to fruition; to fail due to some outside circumstances. _Oh, we’re not going away next week after all—our vacation plans fell through._  
 __false friend__ A phrase, word, or letter that sounds or looks similar to one in another language or dialect but has a significantly different meaning.  
 __false modesty__ A vain or hypocritical pretense of holding a low or humble opinion of oneself, one’s abilities, or one’s circumstance so as to encourage others to say the opposite.  
 __fam__ An abbreviation for “family that can be used to refer to one’s blood relatives or close friends. Despite the plural connotation of “family,” it can also be applied to an individual. _I’d love to go out tonight, but I’m having dinner with the fam—my mom’s making her famous meatballs!_ _Of course I’ll help you, fam. You’re my best friend!_  
 __fan service__  
 __fancy-pants__ :two: Pretentious or fancy in an extreme or excessive way. Use of this phrase often indicates the speaker’s annoyance. _I’d rather go to a ball game than another one of your fancy-pants corporate events._  
 __far and away__ :astonished:  
+__far and wide__ _Chicago is a destination for travelers far and wide._  
 __far cry (from something)__ :nine::m: A thing that is very different from something else. _It is a far cry from the 1970s._ _The office was a far cry from Pete’s domains._  
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
