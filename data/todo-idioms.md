@@ -1,9 +1,16 @@
+__as good as it gets__ _Customer service is as good as it gets._  
+__bargain store__  
+__best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
+__blow someone away__  
+__dance the night away__ To dance the entire evening. _We danced the night away._  
+__dead on__  
 __foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
 __for good__ _She left him for good this time._  
 __front and center__  
 __garbage in, garbage out__  
 __get a kick__  
 __give (someone) the stink eye__ To make a facial expression of unreserved disgust, contempt, disapproval, distrust, or general ill will toward someone. _Some guy across the bar has been giving me the stink eye since we came in. It must be something to do with my outfit._  
+__grande dame__ _n_  
 __green thumb__ _Practical ideas for novice green thumbs and expert gardeners alike._  
 __ground zero__  
 __hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _ The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
@@ -11,11 +18,14 @@ __hell no__
 __highbrow__ __1__ _adj_ Of or pertaining to heightened intellectualism or superior learning or culture; especially erudite or sophisticated; appealing or suited to highbrows. _After two degrees in literature, Stanley insists on reading only highbrow books._ __2__ _n_ A person who has or affects heightened intellectualism or superior learning or culture, often in a pretentious or elitist manner. _Of course, a book like this won’t be given the time of day by literary highbrows, but it nevertheless provides an engaging and—dare I say it—entertaining read._  
 __house of cards__  
 __I hear you__  
+__in its entirety__  
 __in its/their own right__ :two::hammer:  
 __iron out__  
 __keep above water__  
 __killer__ _adj_ _It is known for its killer grilled cheese sammies._  
+__knockout__  
 __laid-back__  
+__larger than life__  
 __larger-than-life__  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __melting pot__  
@@ -34,7 +44,9 @@ __Potemkin village__ Something that is made to seem very grand, elaborate, or pr
 __push the envelope__  
 __put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
+__revel in__  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
+__right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __roll with it__  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
@@ -73,9 +85,11 @@ __to no end__ Greatly; very much. _I was pleased to no end when you wrote of mak
 __to the core__ _Charming to the core._  
 __touch base__  
 __tour de force__  
+__treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __uncanny valley__  
 __up and running__  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __weather pemitting__  
+__while supplies last__ :two::hammer:  
 __within walking distance__  
