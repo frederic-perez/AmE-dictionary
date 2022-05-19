@@ -1,10 +1,17 @@
 __acupunture__ _n_ :pencil2:  
 __avalanche__ _n_  
+__bauble__ _n_ _A jazzy musical bauble._  
 __Big A__ _n_ Big Apple, nickname for New York City.  
 __Big Apple__  
 __borough__ _n_  
+__bouillabaisse__ _n_  
+__branzino__  
+__brassy__  
 __broadloom__ _n_  
 __bruschetta__  
+__bruschetta__ _n_ _Ostrich bruschetta._  
+__cassoulet__ _n_  
+__catchy__ _adj_ _Catchy songs._  
 __cater__ _v_ _Catered dinner._  
 __cavalcade__ _n_ _A cavalcade of bribes._  
 __chaps__ _n_  
@@ -12,11 +19,14 @@ __chargrilled__
 __chenille throws__  
 __collar__ _n_ _Accessories include collars, scarves, gloves and more._  
 __concourse__ _n_ :two::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._  
+__coriander__  
 __critter__ _n_ _The little anime critters at the Pokémon Center._  
 __crumble__ _v_ _A crumbling Germany at the start of the Third Reich._  
 __dazzling__ _adj_ _Dazzling gifts._  
 __deep__ _adj_ _Deep discounted prices._  
+__demeanor__  
 __devote__ _v_ (devoted)  
+__dim sum__ _n_  
 __dress shoes__  
 __driver__ _n_ _(golf)_  
 __drop-by__ _n_ A brief visit, especially (politics) for the purpose of attracting voters or motivating one’s staff. _Drop-by performers._  
@@ -75,6 +85,7 @@ __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero
 __gnocchi__ _n_ :pencil2: _Homemade gnocchi._  
 __Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
 __grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
+__gratuity__ _n_  
 __gratuity__ _n_ (gratuities)  
 __grazer__ _n_  
 __greasy spoon__ _n slang_ A small, inexpensive, often unsanitary restaurant. _The classic greasy spoon concept._  
@@ -98,12 +109,15 @@ __haunts__
 __hayrides__ _n_  
 __headbanger__  
 __headboard__ _n_  
+__hearty__ _adj_ _A hearty steakhouse menu._  
 __hearty<sup>1</sup>__ _adj_ :three::hammer: _Hearty fare._  
 __hearty<sup>2</sup>__ _n_  
 __heather__ _n_ :es: brezo  
 __hectic__ _adj_ _The hectic pace of the city._  
 __heist__ _n_  
+__hemlines__ _n_  
 __hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
+__hickory__ _n_ _Hickory charcoal-grilled steaks._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
 __homophobia__ _n_  
@@ -134,6 +148,7 @@ __invigorating__ _adj_
 __iron__ _n_ _(golf)_  
 __jack cheeses__  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
+__jambalaya__ _n_  
 __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __jarring__ _adj_  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
@@ -157,10 +172,12 @@ __ledger__ _n_
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_  
+__lemongrass__  
 __libation__ _n_ :three::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__  
 __line up__ _v_ _Huge crowds are lining up._  
+__lintel__ _n_  
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
 __loanword__ _n_  
@@ -178,6 +195,7 @@ __luscious__ _adj_ :two::hammer: _Luscious burgers._
 __lush__ _adj_ :three::hammer: _Lush garden/lawn._ _Their lush outdoor patio._  
 __luxurious__ _adj_ _Luxurious furs._  
 __magical thinking__ _n_  
+__mahogany__ _n_ _The mahogany bar._  
 __mainstay__  
 __majestic__ _adj_  
 __mallards__ _n_  
@@ -212,6 +230,7 @@ __moody__
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __Moorish__ _adj_ _Moorish architecture._  
 __mosey__ _v intr_  
+__mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
 __munch__ _v_  
 __murky__ _adj_  
@@ -249,10 +268,14 @@ __ornament__ _n_
 __ornamental__ _adj_  
 __ornate__ _adj_ :two::hammer: /ɔrˈneɪt/  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
+__ostrich__ _n_ _Ostrich bruschetta._  
+__outrageous__ _adj_ _Outrageous innovations._  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul__ _n_  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
+__oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
+__Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
 __panache__  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
@@ -305,6 +328,7 @@ __prescient__ _adj_ :es: clarividente, profético
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __primrose__ _n_  
 __privy__  
+__prix fixe__ _n_ :three::hammer: _Prix fixe dinner._  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
 __procure__ _v_  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
@@ -340,6 +364,7 @@ __respite__ _n_
 __revel__ _v_  
 __revelry__  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
+__revue__ _n_ _A musical revue._  
 __revue__ _n_ _Improv revues._  
 __rhododendrons__ _n_ :pencil2:  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
@@ -364,10 +389,12 @@ __salient__ _adj_ /SAIL-yunt/
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __sangria__ _n_  
 __Saratoga__ _n_  
+__sassy__  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scant__  
 __scarlet letter__ _n_  
+__scarlet__ _n_  
 __scatting__ _v_  
 __schadenfreude__  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
@@ -376,6 +403,7 @@ __schooner__
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ Extremely pleasing, esp. to the taste; delectable.  
+__seafood__ _n_  
 __seating__ _n_ _Plenty of garden seating._  
 __secluded__ _adj_  
 __seesaw__  
@@ -393,6 +421,7 @@ __shoulder__ _v_
 __shove__ _v_  
 __showrunner__ _n_  
 __showstopper__  
+__showstopping__  
 __shuffleboard__ _n_  
 __sickbed__ _n_ A sick person’s bed.  
 __side-splitting__ _adj_ _Side-splitting laughs._  
@@ -401,6 +430,7 @@ __signage__ _n_
 __signature<sup>1</sup>__ _n_  
 __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
 __simulcast__  
+__sinfully__ _adv_ _Sinfully delicious desserts._  
 __sit__ _v_ _The nightlife district sits just north of the Chicago River._  
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skit__ _n_ :two::hammer: _Skit theater._  
@@ -415,6 +445,7 @@ __sobriquet__ _n_ (soubriquet)
 __socialite__  
 __sought-after__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
+__speakeasy__  
 __splurge__ _v_  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
@@ -443,6 +474,7 @@ __stunning__
 __stylesetter__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __suburbia__ _n_  
+__suitor__ _n_  
 __summertime__ _n_ :pencil2:  
 __sumptuous__ _adj_ _A sumptuous Sunday feast._  
 __sundae__ _n_  
@@ -521,6 +553,7 @@ __umpteen__ _adj, n_
 __unabashed__ _adj_ :two::hammer: _Unabashed humor._  
 __unapologetic__ _adj_  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
+__underbelly__ _n_ _The seedy underbelly of New York City._  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
 __unparalleled__ _adj_ :two::hammer:  
