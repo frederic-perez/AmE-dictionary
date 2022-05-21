@@ -1,18 +1,3 @@
-__acupunture__ _n_ :pencil2:  
-__ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
-__armagnac__  
-__avalanche__ _n_  
-__Babar the elephant__  
-__bauble__ _n_ _A jazzy musical bauble._  
-__befuddled__ _adj_  
-__behest__ _n_  
-__Big A__ _n_ Big Apple, nickname for New York City.  
-__Big Apple__  
-__bodywork__ _n_ _A certified therapist of massage and bodywork._  
-__bookcase__ _n_  
-__borough__ _n_  
-__bouillabaisse__ _n_  
-__bountiful__  
 __brainchild__  
 __branzino__  
 __brassy__  

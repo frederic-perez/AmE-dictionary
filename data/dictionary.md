@@ -151,6 +151,7 @@ __actuary__ _n_ :two: (actuaries) A person who compiles and analyses statistics 
 __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, prompt, propel, move  
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
+__acupunture__ _n_ :pencil2:  
 __ad hoc__  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
@@ -255,6 +256,7 @@ __agave__ _n_
 __Age of Aquarius__ _n_ (Aquarian Age) __1__ _informal_ The period, roughly from the mid-1960s to the early-1970s, when New Age culture and the hippie movement were at their peaks, associated with belief in enhanced spiritual enlightenment, universal love, and personal liberation. __2__ _astrology_ A historical period corresponding to the astrological sign of Aquarius, concerning the timing of which (past, present, or future) there is a wide range of views.  
 __age<sup>1</sup>__ _n_ :four::hammer:  
 __age<sup>2</sup>__ _v_  
+__ageism__ _n_ /ˈeɪ dʒɪz əm/ (agism) Discrimination based on age, especially prejudice against the elderly.  
 __ageless__  
 __agency__ _n_ :three::hammer::astonished: _We still have some agency over our situation._ _A young man slowly realizing his own trauma and agency over the course of a single football game._ _They take agency over their lives._  
 __agendum__  
@@ -653,6 +655,7 @@ __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden che
 __Arkansas__ _n_ :two::mega::hammer:  
 __arm bands__ _n_ :es: manguitos  
 __armageddon__  
+__armagnac__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
 __armistice__ _n_ :two::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
@@ -836,7 +839,7 @@ __autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a
 __autorickshaw__ _n_ (in South Asia) A motorized, three-wheeled rickshaw for public hire.  
 __autumn__ _n_ :two::hammer::mute:[autum~~n~~]  
 __avail__ _v_ :three::hammer: _Nothing avails against the Death._  
-__avalanche__ _n_  
+__avalanche__ _n_ :two::hammer:  
 __aver__ _v_ :two::hammer:  
 __average citizens__  
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
@@ -865,6 +868,7 @@ __azure__ _n_ :two::hammer:
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
 __baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
+__Babar the elephant__  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
 __baboon__ _n_ :two::hammer:  
 __babushka__ _n_ :two: __1__ A headscarf, folded triangularly and tied under the chin, traditionally worn by women in eastern Europe. __2__ An elderly Russian or Polish woman, especially one who is a grandmother.  
@@ -1084,7 +1088,7 @@ __batting cage__ _n_ _Baseball_ _The rookie suffered an injury while taking swin
 __battledore and shuttlecock__ _n_ An ancient racket game.  
 __battlement__ _n_ :three: (battlements) A notched parapet built on top of a wall, with alternating merlons and crenels for decoration or defense. Also called embattlement.  
 __batty__  
-__bauble__ _n_ :six: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
+__bauble__ _n_ :seven: (baubles) A small, showy ornament of little value. _Syn_ fallal, gaud, gewgaw, trinket, bangle, novelty _The tacky bauble she wore around her neck was intended to attract attention, but it mostly drew snickers._  
 __bawd__ _n_ __1__ A woman who keeps a brothel; a madam. __2__ A woman prostitute.  
 __bawdiness__  
 __bawdy__ _adj_ :three::hammer: _Bawdy humor._  
@@ -1160,6 +1164,7 @@ __before you know it__
 __beforehand__ _adj, adv_ :dart: _The driver and the victim had exchanged words beforehand._  
 __befouled__  
 __befuddle__ _v_ :eight: (befuddled, befuddling) __1__ To cause (someone) to be unable to think clearly; confuse. __2__ To stupefy with alcohol; intoxicate.  
+__befuddled__ _adj_  
 __beggar__ _n_ :two::hammer:  
 __beggar-thy-neighbor__  
 __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I begrudge him his success._  
@@ -1167,7 +1172,7 @@ __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
-__behest__ _n_ :five::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
+__behest__ _n_ :six::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
@@ -1291,6 +1296,8 @@ __bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collect
 __bide__ _v_  
 __biennium__ _n_ :three: Two years.  
 __bier__ _n_ :pencil2:  
+__Big A__ _n_ Big Apple, nickname for New York City.  
+__Big Apple__  
 __big brother__  
 __Big C__ _n_ _slang_ The disease cancer. Used with _the_.  
 __big cat__ _n_ :es: felino  
@@ -1530,6 +1537,7 @@ __bode__ _v_ :nine::m: (bodes, boding) Be a portent of a particular outcome. Ind
 __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __2__ A wineshop. __3__ A warehouse for storing or aging wine.  
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __body odor__ _n_  
+__bodywork__ _n_ _A certified therapist of massage and bodywork._  
 __bog<sup>1</sup>__ _n_ :five::hammer: _Bog garden._ :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
@@ -1599,7 +1607,7 @@ __Book of Hours__
 __book of matches__ _n_ :dart::two::camera: _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __book<sup>1</sup>__ _n_ _According to the book._  
 __book<sup>2</sup>__ _v_ _I’ll book us a table._  
-__bookcase__ _n_ :three: (bookcases) A piece of furniture with shelves for holding books. :es: librería, estantería  
+__bookcase__ _n_ :four: (bookcases) A piece of furniture with shelves for holding books. :es: librería, estantería  
 __bookend__ _n_  
 __bookend<sup>1</sup>__ _n_ :two::hammer:  
 __bookend<sup>2</sup>__ _v_ :four::hammer:  
@@ -1645,7 +1653,7 @@ __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She 
 __boreal__ _adj_ /BOH-ree-uhl/ [:scroll: From Boreas, the god of the north wind in Greek mythology.] Northern; relating to the north, north wind, northern regions, etc.  
 __boredom__ _n_ :two::hammer:  
 __borne__ _v_ :five::hammer:  
-__borough__ _n_ :mute:[borou~~gh~~]  
+__borough__ _n_ :two::hammer::mute:[borou~~gh~~]  
 __bosom__ _n_ :two::hammer:  
 __bossdom__ _n_  
 __bossy__ _adj_  
@@ -1662,6 +1670,7 @@ __bottom-line__ _adj_ _Fun also leads to bottom-line results._
 __boudin__ _n_ :two: A highly seasoned link sausage of pork, pork liver, and rice that is a typical element of Louisiana Creole cuisine. _A length of white boudin in a saucer._  
 __boudoir__ _n_ :two::hammer:  
 __bough__ _n_ :three: (boughs) A tree branch, especially a large or main branch.  
+__bouillabaisse__ _n_  
 __bouillon cube__ _n_  
 __bouillon__ _n_ A clear thin broth made typically by simmering beef or chicken in water with seasonings.  
 __Boulder__ _n_ :mega: /ˈboʊl dər/  
@@ -1670,7 +1679,7 @@ __Bouncing Betty__
 __bouncy house__ _n_  
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
-__bountiful__ _adj_ :two: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
+__bountiful__ _adj_ :three: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
 __bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
