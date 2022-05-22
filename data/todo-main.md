@@ -1,18 +1,3 @@
-__brainchild__  
-__branzino__  
-__brassy__  
-__brick oven__ _n_ _Brick-oven pizza._  
-__broadloom__ _n_  
-__bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
-__camouflage__  
-__capitulate__ _v_  
-__cassoulet__ _n_  
-__catchy__ _adj_ _Catchy songs._  
-__cater__ _v_ _Catered dinner._  
-__catskills__  
-__cavalcade__ _n_ _A cavalcade of bribes._  
-__cerebral__ _adj_ :mega:  
-__chaps__ _n_  
 __chargrilled__  
 __chenille throws__  
 __chicken pot pie__  

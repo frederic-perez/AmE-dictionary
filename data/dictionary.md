@@ -1712,7 +1712,7 @@ __bradypnea__ _n_ Abnormally slow breathing.
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
-__brainchild__ _n_ :four::hammer:  
+__brainchild__ _n_ :five::hammer:  
 __brainiac__ _n_ :two: A very intelligent person. As Superman fans know, Brainiac was the superintelligent villain in the _Action Comics_ series and its spin-offs. His name is a portmanteau of _brain_ and _maniac_.  
 __brainpan__  
 __brainpower__ _n_  
@@ -1725,11 +1725,12 @@ __branch__ _v_ (branched)
 __brandade__ _n_ A seasoned purée of Provençal origin prepared from salted cod, olive oil, milk or cream, and sometimes potatoes.  
 __brander__  
 __branding iron__ _n_ :camera:  
+__branzino__  
 __brash__ _adj_ :four: Behaving and talking in a loud and confident way that annoys other people. _Brash talk._ _It sounded brash._ _Brash confidence._  
 __brass__ _n_ _informal_ :six: Important and powerful people. _The ceremony was attended by a stunning array of military brass._ _The top brass of the Bureau._ _She’ll be manipulated by the police brass._ _The military brass._ _The top brass of the executive tem._ _The brass guild._  
 __brasserie__ _n_  
 __brassiere__ _n_  
-__brassy__ _adj_ _She is brassy, funny, and smart._  
+__brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
 __bratty__  
 __bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
 __bravura__  
@@ -1780,6 +1781,7 @@ __brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, bla
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
+__brick oven__ _n_ _Brick-oven pizza._  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brick-a-brack__  
 __brickbats__  
@@ -1813,6 +1815,7 @@ __brittle<sup>2</sup>__ _n_ Caramelized sugar cooled in thin sheets. _Clean the 
 __broach__ _v_ :eight: (broached) To bring up (a subject) for discussion or debate. _Syn_ initiate _To broach a conversation._ _He broached the subject._ _The King does not wish the marriage to be broached on his part._  
 __broad<sup>1</sup>__ _n_ :two: __2__ _offensive_ _slang_ A woman or girl.  
 __broad<sup>2</sup>__ _adj_ :two: __2__ Extending far and wide. _The nine S&P 500 stocks with the greatest exposure to Europe didn’t fall apart but still did worse than the broad market._ (vs abroad) Full; open. _In broad daylight._  
+__broadloom__ _n_  
 __broadsided__  
 __brocade__  
 __broccoli__ _n_ :three::pencil2::hammer:  
@@ -1854,6 +1857,7 @@ __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnor
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
 __brush__ _n_ _The goats cleared brush._  
 __brusque__ _adj_ __1__ Markedly short and abrupt. __2__ Blunt in manner or speech often to the point of ungracious harshness.  
@@ -2177,6 +2181,7 @@ __cameleer__
 __camellia__  
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
+__camouflage__  
 __camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __camper shell__  
@@ -2235,7 +2240,7 @@ __capers__ _n pl_
 __capful__  
 __capitalize__ _v_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
-__capitulate__ _v_ :two: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
+__capitulate__ _v_ :three: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
 __caplet__ _n_ :two::hammer: (caplets)  
 __capon__ _n_ :two: A male chicken castrated when young to improve the quality of its flesh for food.  
@@ -2332,6 +2337,7 @@ __cassava__ _n_
 __casserole<sup>1</sup>__ _n_ :two: Casserole comes from the Middle French cassa meaning “melting pan.”  
 __casserole<sup>2</sup>__ _v_  
 __cassock__ _n_ :two::hammer:  
+__cassoulet__ _n_  
 __cast a pall__  
 __cast-iron__ _adj_ :two::hammer:  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
@@ -2367,10 +2373,10 @@ __catch-all__ _n_
 __catch-up schedule__  
 __catchall__ _n_ _A catchall phrase._  
 __catchpenny__  
-__catchy__ _adj_ Having concealed difficulty. _Syn_ tricky _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._  
+__catchy__ _adj_ :two: __1__ Attractive or appealing: _a catchy idea for a new television series._ __2__ Easily remembered: _a song with a catchy tune._ __3__ Tricky; deceptive. Having concealed difficulty. _Syn_ tricky _A catchy question on an exam._ _Despite Ms. Brown’s assurances to the contrary, her exam was surprisingly catchy, and many students received a failing grade._ __4__ Fitful or spasmodic: _catchy breathing._  
 __catechism__ _n_ :two::hammer::pencil2:  
 __categorical__ _adj_  
-__cater__ _v_ :three::hammer:  
+__cater__ _v_ :four:hammer: _Catered dinner._  
 __caterpillar__ _n_  
 __caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__  
@@ -2379,6 +2385,7 @@ __catharsis__ _n_ :two::hammer:
 __cathartic__  
 __cathedral ceiling__ _n_ :camera::two: A high ceiling, especially one that rises to a peak in the center.  
 __catnip__ _n_ :three: A plant of the mint family, with downy leaves, purple-spotted white flowers, and a pungent smell attractive to cats. _He’s catnip to women._ _Syn_ catmint  
+__catskills__  
 __cattail__ _n_ :six: Any of various perennial herbs of the genus Typha, widespread in marshy places and having long straplike leaves and a dense cylindrical cluster of minute flowers and fruits. Also called reed mace.  
 __catwalk__ _n_ :three::hammer:  
 __catwalker__ _n_ __1__ A model who walks along a catwalk in a fashion show. __2__ A fashion model. _Piles of hair extensions, scads of makeup, and rows of leggy catwalkers._  
@@ -2392,6 +2399,7 @@ __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that a
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :five::hammer:  
+__cavalcade__ _n_ _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
@@ -2422,7 +2430,7 @@ __centennial__
 __centerpiece__  
 __centrifuge__ _n_ _Iran is using centrifuges to enrich uranium into fuel for an atomic bomb._  
 __ceraceous__ _adj_ /suh-RAY-shuhs/ [:scroll: From Latin cera (wax) + -aceous (resembling or relating to).] Waxy.  
-__cerebral__ _adj_ /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
+__cerebral__ _adj_ :two::mega: /suh-REE-brul/ __1__ Of or relating to the brain or intellect. _The study is on the cerebral functions of infants._ __2__ Primarily intellectual in nature. _The movie is a cerebral thriller that rewards the viewer’s careful attention with intricate plot turns._  
 __cerebrate__ _v_ (usually facetious) To use the mind; think; ponder; consider.  
 __certainly__ _adv_  
 __cerulean<sup>1</sup>__ _adj_ :four: /suh-ROO-lee-un/ Of a deep somewhat purplish blue color similar to that of a clear October sky. _Cerulean basins and Marco Polo blue lips and splash fights._ _The painting depicts autumnal trees bordering a cerulean lake._  
@@ -2473,6 +2481,7 @@ __chaperone<sup>1</sup>__ _n_ :four::hammer: _One adult chaperone is required fo
 __chaperone<sup>2</sup>__ _v_  
 __chapfallen__ _adj_ __1__ Having the lower jaw hanging loosely. __2__ Cast down in spirit. _Syn_ depressed  
 __chaplain__ _n_ :six::mega::hammer:  
+__chaps__ _n_  
 __chapter house__ _n_ _They met in the chapter house of the abbey._  
 __chapter__ _n_ _To the east was the chapter house._  
 __char__ _v_ (charred)  
