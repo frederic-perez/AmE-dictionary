@@ -1,8 +1,11 @@
+__cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
+__cavalcade__ _n_  
 __chargrilled__  
 __chenille throws__  
 __chicken pot pie__  
 __clientele__  
 __collar__ _n_ _Accessories include collars, scarves, gloves and more._  
+__coming of age__ _n_  
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __concourse__ _n_ :two::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._  
 __congenial__ _adj_ _Everybody will feel at home with the congenial waitresses and bartenders._  
@@ -18,6 +21,7 @@ __delectable__ _adj_ _Delectable desserts._
 __demeanor__  
 __devote__ _v_ (devoted)  
 __dim sum__ _n_  
+__disinherited__ _adj_ _Deprived of your rightful heritage._  
 __dollhouse__  
 __dress shoes__  
 __driver__ _n_ _(golf)_  
@@ -35,6 +39,7 @@ __fairway__ _n_
 __fancy__ _v_  
 __fare__ _n_ :nine: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean Joho crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._  
 __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
+__faun__ _n_ Any of a class of ancient Roman deities of the countryside, identified with the satyrs of Greek myth.  
 __feast__ _v_  
 __featuring__ _v_  
 __fellow__ _adj, n_ _Fellow autistics._  
@@ -100,6 +105,7 @@ __grub__
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
 __hamstring__ _n_ /ˈhæmˌstrɪŋ/  
 __hangout__ _n_  
+__hardship__ _n_  
 __hardwood__  
 __hardy__ _adj_ :three::hammer: _Hardy plants._  
 __hatch__ _v_  
@@ -145,6 +151,7 @@ __illustrious__ _adj_
 __immaculate__ _adj_ _An immaculate pharmacy._  
 __impeccable__ _adj_ :two::pencil2::hammer:  
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
+__inconspicuous__ _adj_  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __interspersed__ _v_  
@@ -173,6 +180,7 @@ __Kowtow__
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
 __Lady Liberty__ _n_ :two::hammer:  
 __laid-back__ _adj_  
+__lampoon__ _n_ _All get a solid lampooning._  
 __lateral thinking__  
 __ledger__ _n_  
 __legit__ _adj_ _informal_  
@@ -207,12 +215,14 @@ __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogan
 __mainstay__ _n_ :three::hammer:  
 __mainstream__  
 __majestic__ _adj_  
+__makeover__ _n_ _The ultimated makeover story of a maid-turned-princess._  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
 __manic episode__ _n_  
 __manifold__ _adj_ _Physical activity: manifold benefits for health and wellbeing._  
 __marjoram__ _n_  
+__mashup__ _n_ _A fantastic mashup of illuminated characters._  
 __matron__ _n_ _A jailhouse matron._  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
@@ -249,6 +259,7 @@ __munch__ _v_
 __murky__ _adj_  
 __myopic__ _adj_  
 __myriad__ _adj_  
+__mythical__ _adj_  
 __namesake__  
 __necklace__ _n_  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
@@ -317,6 +328,7 @@ __peristyle__
 __pewter__ _n_  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
+__Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
 __pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
 __pico de gallo__  
@@ -372,6 +384,7 @@ __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to 
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __rebuke__ _v_  
+__recount__ _v_  
 __Red Cross__ _n_  
 __red snapper__ _n_  
 __refreshment__ _n_  
@@ -470,6 +483,7 @@ __sleek__ _adj_
 __sleuth__ _n_ :two::hammer:  
 __slushies__ _n_ _Boozy slushies._  
 __small-claims court__ _n_  
+__small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smortasbord__  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
@@ -504,6 +518,7 @@ __strain__ _n_
 __strifle__ _n_  
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stunning__  
+__sturdy__ _adj_  
 __stylesetter__  
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __suburbia__ _n_  
@@ -515,6 +530,7 @@ __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneou
 __sundry__ _n_ _Unique selection of sundries and cosmetics._  
 __super-duper__  
 __superintendent__  
+__supreme__ _adj_ /səˈprim, sʊ-/  
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __survival skills__ _n_  
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
@@ -531,6 +547,7 @@ __tartans__ _n_
 __taste buds__ _n_ :two: Tiny sensory organs of the tongue and palate.  
 __tatterdemalion__ _n_ _rare_  
 __technical__ _adj_ _Technical garments._  
+__tedium__ _n_ _The bitter tedium of his daily life._  
 __teeming__ _v_ _A pond teeming with frogs and newts._  
 __teetotaler__  
 __telethon__ _n_  
@@ -544,6 +561,7 @@ __thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._
 __thoroughfares__ _n_ :two::hammer:  
 __thought-provoking__  
 __thrift__ _n_ _Thrift store._  
+__throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
@@ -559,6 +577,7 @@ __tkt__ _n_ Ticket.
 __toll__ _n_ _Emotional toll._  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
 __tony__ _adj_ _Tony boutiques._  
+__tootsie__ _n_ /ˈtʊtsɪ/  
 __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-drawer treatment._  
 __top-flight__ _adj_ _Top-flight restaurant._  
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
@@ -623,6 +642,7 @@ __watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water 
 __wedding band__ _n_  
 __wheelbarrow__ _n_  
 __whimsical__ _adj_  
+__whiplash__ _n_ _An amazing, whiplash-inducing performance._  
 __white-knuckled__  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
