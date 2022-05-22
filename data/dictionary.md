@@ -55,6 +55,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ _adj_ :five: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
+__abligurition__ _n_ /uh-blig-yoo-RISH-uhn/ [:scroll: From Latin abligurire (to squander on delicacies), from ab- (away) + ligurire (to be dainty), from lingere (to lick).] Extravagance, especially in matters of food and drink. Prodigal expense for food.  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
 __abode__ _n_ __1__ A dwelling place; a home. __2__ The act of abiding; a sojourn.  
@@ -152,7 +153,8 @@ __actuate__ _v_ To motivate or incite into action. _Syn_ incite, motivate, promp
 __acuity__ _n_ :four: /əˈkjuːɪtɪ/ Sharpness; acuteness; keenness. _Acuity of mind._ _Visual acuity._ :es: agudeza  
 __acumen__ _n_ :five::reminder_ribbon: acumen/acute/agudo [:scroll: from Latin, ‘sharpness, point’, from acuere ‘sharpen’; acute] The ability to make good judgments and take quick decisions. _Syn_ astuteness, awareness, shrewdness _She hides a shrewd business acumen._ :es: agudeza  
 __acupunture__ _n_ :pencil2:  
-__ad hoc__  
+__ad hoc<sup>1</sup>__ _adv_ :two: For the specific purpose, case, or situation at hand and for no other: _a committee formed ad hoc to address the issue of salaries._  
+__ad hoc<sup>2</sup>__ _adj_ __1__ Formed for or concerned with one specific purpose: _an ad hoc compensation committee._ __2__ Improvised and often impromptu.  
 __ad infinitum__ _adv_ :three::hammer: _Functions at the top call functions below them, which call more functions below them, ad inﬁnitum._  
 __ad nauseam__ _adv_ To a disgusting or ridiculous degree; to the point of nausea. _Psychology graduate students are taught to repeat ad nauseam: “Correlation is not causation.”_  
 __ad__ _n informal_ :two::mega: Advertisement.  
@@ -2625,6 +2627,7 @@ __chorus__ _n, v_ :mute:[c~~h~~orus] /ˈkɔr əs, ˈkoʊr-/
 __chouse<sup>1</sup>__ _n_ __1__ A person who deceives, defrauds, or tricks. __2__ A deception or trick.  
 __chouse<sup>2</sup>__ _v_ __1__ To deceive, defraud, or trick (a person). _Syn_ chicane, jockey, cheat, shaft, screw __2__ To worry or badger.  
 __chow down__ _v_ _informal_ To eat heartily.  
+__chowder__ _n_ /ˈtʃaʊ dər/ A thick soup of clams, fish, or vegetables, usu. with potatoes, milk, and various seasonings.  
 __christen__ _v_ _Arthur Rubloff christened it the “Magnificent Mile,” and it has lived up to the moniker ever since._  
 __Christendom__ _n_  
 __christening__ _n_  
@@ -5678,9 +5681,8 @@ __fluffy slippers__ _n_ :camera:
 __fluffy__  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
-__flummox__ _v_ :six::dart: /FLUM-uks/ (flummoxed) To confuse. _Why the error message kept popping up flummoxed the computer tech._  
-__flummoxed__ _adj_ Perplexed or bewildered.  
-__flumoxed__ _adj_ Bewildered or perplexed. _He became flummoxed and speechless._  
+__flummox__ _v_ :seven::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
+__flummoxed__ _adj_ :two: Perplexed or bewildered. _He became flummoxed and speechless._  
 __flung__ _v_ :two::hammer:  
 __flunk__ _v_ :three: To fail an exam or a course of study. _John flunked maths._  
 __flunky__ _n_ :four: (flunkie) __1a__ A liveried servant. __b__ One performing menial or miscellaneous duties. _You’re just another flunkie for the state._  
@@ -6933,6 +6935,7 @@ __heavy bag__ _n_ _boxing_
 __heavy water__ _n_ Water containing a substantial proportion of deuterium atoms, used in nuclear reactors.  
 __heavy-duty__ _adj_ :three::hammer: _Heavy-duty stapler._  
 __heavy-handed__  
+__hebdomadal__ _adj_ /heb-DOM-uh-duhl/ [:scroll: From Latin hebdomas, from Greek hepta (seven).] Weekly. A rare word for weekly. _A hebdomadal journal._  
 __hecatombs__  
 __heckle__ _v_ :three::hammer: (heckled)  
 __heckler__ _n_ :four::hammer:  
@@ -9367,6 +9370,7 @@ __moniker__ _n_ :three::hammer:
 __monkey business__ _n_ _informal_ :two: Silly or dishonest behaviour.  
 __monkey suit__  
 __monkey wrench__  
+__monkeypox__ _n_  
 __monogramming__  
 __mononyms__  
 __monophobia__ _n_ An abnormal fear of being alone.  
@@ -9786,7 +9790,8 @@ __nondescript__ _adj_ :four::hammer:
 __nonesuch__ _n_ (nonsuch)  
 __nonexempt__ _adj_ /ˌnɒnɪɡˈzɛmpt/ _Nonexempt position._  
 __nonlinear__ _adj_  
-__nonpareil__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
+__nonpareil<sup>1</sup>__ _adj_ /nahn-puh-REL/ Having no equal. _The singer’s stunning performance was nonpareil._  
+__nonpareil<sup>2</sup>__ _n_ A person or thing that is unsurpassed or unmatched; peerless example. _Syn_ nonesuch, apotheosis, ideal, paragon, saint  
 __nonpartisan__ _adj_  
 __nonpliable__ _adj_ Not pliable. _Nonpliable products._  
 __nonplus__ _v_ :two: To put at a loss as to what to think, say, or do. _Syn_ bewilder, dumbfound, flummox, baffle, mystify, perplex, puzzle, stupefy, amaze, gravel, vex, pose, stick, beat, get _He was nonplussed by the sudden announcement that the company where he had worked for the past 20 years was declaring bankruptcy and shutting its doors._  
@@ -9938,6 +9943,7 @@ __oddyssey__ _n_ :pencil2: _A harrowing oddyssey._
 __odious__ _adj_ :three: /OH-dee-us/ Arousing or meriting strong dislike, aversion, or intense displeasure. _Syn_ abominable, detestable, execrable _Pray do not talk of that odious man._  
 __odium__ _n_  
 __odometer__ _n_ :two::hammer:  
+__odontalgia__ _n_ /oh-don-TAL-juh -jee-uh/ [:scroll::astonished: From Greek odont- (tooth) + -algia (pain).] Toothache.  
 __odyssey__ _n_ :pencil2:  
 __oeuvre__ _n_ The total output of a writer or artist (or a substantial part of it). _Syn_ body of work _The musicologist studied the entire Wagnerian oeuvre._  
 __of sorts__ _phr_ :four: Having inferior, mediocre, or incomplete characteristics of something. _“The 13 clocks” is a poem of sorts._ _A contest of sorts._ _He wanted to make the scene a lesson of sorts._ _A celebrity of sorts._  
@@ -10396,7 +10402,7 @@ __parable__ _n_ /PAIR-uh-bul/ A parable is a story having an ending based on mor
 __paracetamol__ _n_ :dart::mega: /ˌpærəˈsiːtəˌmɒl; -ˈsɛtə-/  
 __parade rest__ _n_ A position of rest for soldiers, in which, however, they are required to be silent and motionless. _He stood at parade rest._  
 __paradigm__ _n_ :three::mute:[paradi~~g~~m] One that serves as a pattern or model. _Syn_ epitome, prototype _Their company is a paradigm of the small high-tech firms that have recently sprung up in this area._  
-__paradox__ _n_ :three: __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._  
+__paradox__ _n_ :four: /ˈpær əˌdɒks/ __1__ In rhetoric, the word paradox refers to making a statement that seems self-contradictory or impossible but actually makes sense. Example: Youth is wasted on the young. A statement that seems to contradict itself but may nonetheless be true: _the paradox that standing is more tiring than walking._ _The statement “less is more” is a common paradox._  
 __paradoxical__ _adj_  
 __paradoxically__  
 __paraglider__ _n_ :es: parapente; parapentista  
@@ -13589,7 +13595,7 @@ __small potatoes__ _pl n_ _informal_ :two: Something insignificant or unimportan
 __small print__  
 __small__ _n_ __1__ A part that is smaller or narrower than the rest: _the small of the back._  
 __smallpox__ _n_ :two::hammer: :es: viruela  
-__smarmy__ _adj_ :two: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. _Syn_ unctuous _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
+__smarmy__ _adj_ :three: /SMAR-mee/ __1__ Excessively ingratiating or insincerely earnest. Hypocritically, complacently, or effusively earnest. _Syn_ fulsome, oleaginous, unctuous _His smarmy speech left no doubt that he actually felt superior to those he was meant to be praising._ _Online reviews of the resort warned of smarmy street vendors when wandering from the tourist areas._ __2__ Relating to or indulging in lewd conduct; smutty: _smarmy jokes._  
 __smart aleck__ _n informal_ A person who thinks he is very smart and demonstrates this fact to others.  
 __smart case__  
 __smart meter__ _n_ _Customers do not want to make the switch from old mechanical metets to smart meters._  
@@ -15602,7 +15608,7 @@ __tuppence__
 __turbid__ _adj_  
 __turbocharge__ _v_ __1__ To equip with a turbocharger __2__ _informal_ To speed up; accelerate.  
 __turducken__ _n_ :two: [:scroll: from tur(key) + du(ck) + (chi)cken] A dish consisting of a deboned chicken stuffed into a deboned duck, further stuffed into a deboned turkey. Outside of the United States and Canada, it is known as a three-bird roast.  
-__turgid__ _adj_ :three::hammer:  
+__turgid__ _adj_ :four: Excessively ornate or complex in style or language. _Syn_ bombastic, declamatory, orotund, tumid, large _Growing impatient with the politician’s turgid prose, she turned off her television._  
 __Turkey day__  
 __turkey drumstick__ _n_  
 __turkey trot__ _n_ _(Dancing)_ An early ragtime one-step, popular in the period of World War I.  
@@ -16303,7 +16309,7 @@ __wassail<sup>3</sup>__ _v intr_ To engage in or drink a wassail.
 __wastebasket__ _n_ :two::hammer:  
 __wasted__ _adj_ :two: __5__ _slang_ Drunk or intoxicated.  
 __wastewater__ _n_ :pencil2:  
-__wastrel__ _n_ :two::hammer:  
+__wastrel__ _n_ :three: One who wastes, especially one who wastes money; an idler or a loafer. _Syn_ prodigal, profligate _Despite his parents’ best efforts to teach him responsibility, Sam grew up to be a wastrel who squandered his entire fortune._  
 __watch caps__  
 __watchdog__ _n_ :three: __1__ A dog kept to guard property. __2a__ A person or group of persons that acts as a protector or guardian against inefficiency, illegal practices, etc. _A safety watchdog._ _Privacy watchdogs are calling on the Federal Trade Commission to investigate._ __b__ (as modifier): _a watchdog committee._  
 __watchword__ _n_ :three::hammer: _“Quick and dirty” was the watchword._  
@@ -16484,6 +16490,7 @@ __whit__ _n_ :two: _(usually used with a negative)_ The smallest particle; iota;
 __white elephant__ _n_ :two: A possession that provides few benefits and is an inconvenience or a financial burden to maintain.  
 __white line__ _n_ (appliances)  
 __white paper__  
+__white supremacist__ _n_ One who believes that white people are racially superior to others and should therefore dominate society.  
 __white whale__ _n_ Small northern whale that is white when adult.  
 __white-hot__ _adj_ :two::hammer: _Gustafson will be at the white-hot center of that quest._  
 __white-knuckle ride__  
