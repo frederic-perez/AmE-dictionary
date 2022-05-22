@@ -1,18 +1,3 @@
-__cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
-__cavalcade__ _n_  
-__chargrilled__  
-__chenille throws__  
-__chicken pot pie__  
-__clientele__  
-__collar__ _n_ _Accessories include collars, scarves, gloves and more._  
-__coming of age__ _n_  
-__compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
-__concourse__ _n_ :two::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._  
-__congenial__ _adj_ _Everybody will feel at home with the congenial waitresses and bartenders._  
-__coriander__  
-__corn__ _v tr_ :astonished: __1__ To cause to form hard particles; granulate. __2a__ To season and preserve with granulated salt. __b__ To preserve (beef, for example) in brine. __3__ To feed (animals) with corn or grain.  
-__critter__ _n_ _The little anime critters at the Pokémon Center._  
-__cromagnon__ _n_ :mega:  
 __crumble__ _v_ _A crumbling Germany at the start of the Third Reich._  
 __dazzling__ _adj_ _Dazzling gifts._  
 __deck__ _n_ _An enticing outdoor deck._  

@@ -2350,6 +2350,7 @@ __castoff__ _n_
 __casual__ _adj_ _He put on casual clothes._  
 __casualties__  
 __cat__ _n informal_  
+__cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
 __catacombs__ _n_ :two::hammer:  
@@ -2399,7 +2400,7 @@ __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that a
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :five::hammer:  
-__cavalcade__ _n_ _A cavalcade of bribes._  
+__cavalcade__ _n_ :two::hammer: _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
 __cavalry__ _n_ :two: __1__ A highly mobile army unit using vehicular transport, such as light armor and helicopters. __2__ Troops trained to fight on horseback.  
@@ -2492,7 +2493,7 @@ __charcuterie__ _n_ :pencil2: __1__ Sausages, ham, pâtés, and other cooked or 
 __chard__  
 __charge__ _v_ Accuse formally.  
 __chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
-__chargrilled__ _adj_ (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
+__chargrilled__ _adj_ :two: (of meat) Grilled over charcoal. _Syn_ charbroiled _Chargrilled chicken._  
 __charientism__ _n_ /KAR-ee-uhn-tiz-uhm/ An insult disguised as a jest or a compliment.  
 __charily__  
 __charisma__ _n_ :mute:[c~~h~~arisma]  
@@ -2550,6 +2551,7 @@ __cheesy__ _adj_
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
 __chenier__  
+__chenille throws__  
 __cherimoya__ _n_ (chirimoya)  
 __cherry blossoms__ _n_  
 __cherry pick__ _v_ (cherrypick)  
@@ -2565,6 +2567,7 @@ __chicken > game of chicken__
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
 __Chicken Little__ _n_ :dart: (Chicken Littles) An alarmist or person who panics easily. _Chicken Little travel agents say the place is dangerous._  
+__chicken pot pie__  
 __chicken pox__  
 __chicken run__  
 __chicken wire__ _n_ :two::hammer:  
@@ -2783,6 +2786,7 @@ __clicker training__ _n_ A nickname given to an animal training method based on 
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
+__clientele__  
 __climactic__ _adj_ _The battle reached climactic fury._  
 __climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
@@ -2927,6 +2931,7 @@ __colicky__ _adj_ Relating to or suffering from colic.
 __collage__ _v_  
 __collapse__ _v_ :pencil2:  
 __collapsible__ _adj_ :dart: Able to be folded into a more compact shape. :es: plegable _Collapsible shutters._  
+__collar__ _n_ _Accessories include collars, scarves, gloves and more._  
 __collarbone__ _n_ :three: The clavicle.  
 __collard greens__ _n_ _dialect_ :three: A cabbage of a variety that does not develop a heart. _Take the collard greens out of your mouth._ :es: berzas  
 __collateral damage__  
@@ -2975,6 +2980,7 @@ __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/
 __comforter sets__  
 __comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
 __comfy__ _adj informal_ :five: Comfortable. _The Comfy Cow ice cream._ _Comfy clothes._  
+__coming of age__ _n_  
 __coming up__  
 __comity__ _n_ :five: __1__ Mutual civility; courtesy. A state or atmosphere of harmony or mutual civility and respect. :es: cortesía  
 __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolon, colon, or period, to separate related main clauses not joined by a conjunction.  
@@ -3034,6 +3040,7 @@ __composting__ _n_ The activity or practice of converting garden and kitchen was
 __composure__  
 __compound<sup>1</sup>__ _n_ :two::hammer:  
 __compound<sup>2</sup>__ _v_ :three::hammer: _The pandemic has compounded this scandal._ _The danger is compounded by the prevalence of alcohol and drug abuse as well as mental health conditions._ _Compounding the situation._  
+__compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
 __comprise__ _v_  
@@ -3073,7 +3080,7 @@ __concoct__ _v_ :three::pencil2: (concocted) Create or devise (a story or plan).
 __concoction__ _n_ :two::hammer:  
 __concomitant__ _adj_ :seven::hammer:  
 __concordant__ _adj_ Being in agreement: harmonious. _Syn_ accordant, agreeable, consonant, conformable  
-__concourse__ _n_ :five::hammer:  
+__concourse__ _n_ :seven::hammer: _Enjoy casual fare inthe lower level dining concourse._ _Main concourse._  
 __concrete__ _n_ :two::hammer: _A concrete wall._  
 __concur__ _v_  
 __concussion__ _n_ :two: _He recovers from the concussion he sustained on June 15._  
@@ -3113,7 +3120,7 @@ __confuzzle<sup>1</sup>__ _n_ _slang, childish_ A state of confusion or puzzleme
 __confuzzle<sup>2</sup>__ _v_ _slang, childish_ To confuse or puzzle.  
 __conga line__ _n_ A line of people in single file performing the conga dance.  
 __conga__ _n_ __1__ A dance of Latin-American origin in which the dancers form a long winding line. __2__ The music for this dance. __3__ A conga drum.  
-__congenial__ _adj_ :four: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ __3__ Suitable. _The grapes thrive in the congenial climate._  
+__congenial__ _adj_ :five: /kun-JEEN-yul/ __1__ Pleasant. _The office is a congenial place to work._ __2__ Friendly. _The tour guide was very congenial._ _Everybody will feel at home with the congenial waitresses and bartenders._ __3__ Suitable. _The grapes thrive in the congenial climate._  
 __conglomerate__  
 __conglomerates__  
 __congrats__ _n pl_ _Congrats on your wedding._  
@@ -3271,6 +3278,7 @@ __corduroy__ _n_ :two: A durable cut-pile fabric, usually made of cotton, with v
 __corduroys__ _n_ Pants made of corduroy.  
 __core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
+__coriander__  
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __corky__ _adj_  
 __cormorants__  
@@ -3278,7 +3286,8 @@ __corn beef__ _n_ :two: Beef cured or pickled in brine. _Syn_ bully beef, corned
 __Corn Belt__ _n_ A region in the midwestern U.S., esp. Iowa, Illinois, and Indiana, excellent for raising corn and cornfed livestock.  
 __corn fritters__  
 __corn salad__ _n_ _Syn_ mache :es: canónigo  
-__corn__ _n_ :es: callo  
+__corn<sup>1</sup>__ _n_ :es: callo  
+__corn<sup>2</sup>__ _v tr_ :astonished: __1__ To cause to form hard particles; granulate. __2a__ To season and preserve with granulated salt. __b__ To preserve (beef, for example) in brine. __3__ To feed (animals) with corn or grain.  
 __cornball__  
 __corned beef__ _n_ :three: [:scroll: From corn, _to preserve with granulated salt or brine._] Beef, usually brisket, round, or rump, that is seasoned with spices and cured in brine. _Syn_ bully beef, corn beef :es: carne de vaca en conserva _Corned beef sandwiches._  
 __cornerstone__ _n_ :two::pencil2::hammer:  
@@ -3484,12 +3493,13 @@ __critical mass__
 __criticize__ _v_  
 __critique<sup>1</sup>__ _n_ :two::mega::hammer:  
 __critique<sup>2</sup>__ _v_ :three::hammer:  
-__critters__ _n_ :four::hammer: _Garden critters._ _Flying critters._  
+__critters__ _n_ :five::hammer: _Garden critters._ _Flying critters._ _The little anime critters at the Pokémon Center._  
 __croak__ _v_ _slang_ :five: (croaked) __1__ To kill. __2__ To die. _Tim croaked gayly._  
 __Croat__  
 __crochet__ _v_ :five::hammer: (crocheting)  
 __crock__ _n_ :two::hammer:  
 __croft__ _n_ :three::hammer::pencil2:  
+__cromagnon__ _n_ :mega:  
 __crone__ _n_ :three: A witchlike old woman.  
 __cronies__ _n_ :four::hammer: _Military cronies._  
 __Cronuts__ _n_ _trademark_  
