@@ -1131,7 +1131,7 @@ __bedding__ _n_ Bedclothes. _A bedding brand._
 __bedeck__ _v_ (bedecked)  
 __bedevil__ _v_ :six: (bedeviled) __1__ _(of something bad)_ Cause great and continual trouble to. _Projects like this are bedevilled by a shortage of cash._ Be confusing or perplexing to; cause to be unable to think clearly. _Syn_ befuddle, confound, discombobulate, fox, throw _Jerry frequently bedevils his conversation partners by rapidly and abruptly changing topics._ __2__ _(of a person)_ Torment or harass. _He bedeviled them with petty practical jokes._ _Syn_ afflict, torment, beset  
 __bedfellow__  
-__bedlam__ _n_ :three: Scene of loud confusion.  
+__bedlam__ _n_ :four: Scene of loud confusion.  
 __Bedouin__  
 __bedpan__ _n_  
 __bedraggled__ _adj_ In deplorable condition. _Syn_ broken-down, dilapidated, ramshackle, tatterdemalion, derelict  
@@ -1436,6 +1436,7 @@ __blend__ _n_ __5__ A mixture which is mingled inseparably. _Blend of coffee; of
 __blight<sup>1</sup>__ _n_ :three::hammer:  
 __blight<sup>2</sup>__ _v_ :three::hammer: (blighted)  
 __blimp__ _n_ :two: __1__ A small nonrigid airship, esp one used for observation or as a barrage balloon. :es: dirigible _A blimp hangar._  
+__blin__ _n_ (blinis)  
 __blind as a bat__  
 __blind date__  
 __blinders__ _n_  
@@ -1681,7 +1682,7 @@ __Bouncing Betty__
 __bouncy house__ _n_  
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
-__bountiful__ _adj_ :three: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). __2__ Giving freely; generous.  
+__bountiful__ _adj_ :four: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
 __bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
@@ -1777,7 +1778,7 @@ __breed__ _v_ :two::hammer: _It can breed suspicion._ _Breeding fear._
 __breezy__ _adj_ :four::hammer: _The breezy tone of the readout._ _Breezy confidence._  
 __brethren__ _n_ :three::hammer: _Political brethren._  
 __breviary__ _n_ A book containing the hymns, offices, and prayers for the canonical hours.  
-__brew__ _n_ __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_  
+__brew__ _n_ :two: __1__ Coffee; occasionally, tea. _This is my kind of brew, hot, black, and arA book containing the hymns, offices, and prayers for the canonical hours.omatic._ __2__ Beer; a can, bottle, or glass of beer. _Hey, give me a cold brew, will ya?_ _They stop in after work for one or more brews._  
 __briar__ _n_ :three::hammer: _Briar patch._  
 __bric-a-brac stores__  
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
@@ -2316,6 +2317,7 @@ __carted__ _v_
 __cartel__ _n_ :three::hammer:  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __carve out__ _v_ (carved out) :six::hammer:  
+__carve__ _v_ _Feast on oversized hand-carved sandwiches._  
 __carveouts__  
 __cascading__  
 __case at hand__  
@@ -2586,6 +2588,7 @@ __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly 
 __chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
 __chimera__ _n_ (chimeras) :two::hammer:  
+__chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __china__ _n_ _Delicate, translucent china._  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
@@ -2788,6 +2791,7 @@ __clicktivism__ _n_ A policy of using the internet to take direct and often mili
 __clicky__  
 __clientele__  
 __climactic__ _adj_ _The battle reached climactic fury._  
+__climate-controlled__ _adj_ :two::hammer:  
 __climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
 __climb__ _v_ :two::mute:[clim~~b~~]:hammer:  
 __climbing__ _n_ :mute:[clim~~b~~ing]  
@@ -3389,7 +3393,7 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
-__cozy__  
+__cozy__ _adj_ :two::hammer: _A modern, cozy oasis of culinary delights._  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
@@ -3542,7 +3546,7 @@ __cruft__ _n_ :two::hammer:
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
 __crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
-__crumbling__ _adj_ _Crumbling sidewalk._  
+__crumbling__ _adj_ :two::hammer: _Crumbling sidewalk._ _A crumbling Germany at the start of the Third Reich._  
 __crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
 __crumple<sup>1</sup>__ _v_ :four::hammer: (crumpled, crumpling) _Is that my suit crumpled in a ball?_  
@@ -3589,7 +3593,7 @@ __cuffing season__ _n_ A period during the fall and winter seasons, including ho
 __cufflinks__  
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
-__cull__ _v_ :four::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__cull__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
@@ -3667,7 +3671,7 @@ __cytometer__
 __cytometry__  
 __D-ring inset__  
 __dab<sup>1</sup>__ _v_ :nine: (dabs, dabbing) __1__ _v intr/tr_ To touch a surface gently several times with something such as a piece of cloth, in order to make it clean or dry. _Remove the stain by carefully dabbing it with a cloth._ _Marge dabbed at her eyes with a handkerchief._ _He dab his eyes with the back of his left hand._ _He dabbed his mouth with a napkin._ _He took a handkerchief and dabbed his brow._ __2__ _v tr_ To quickly put small amounts of a substance on a surface._ Dab some lotion onto the affected area._  
-__dab<sup>2</sup>__ _n_ :three: A small amount.  
+__dab<sup>2</sup>__ _n_ :four: A small amount.  
 __dabble__ _v_ :six::hammer: (dabbled, dabbling) _He was dabbled in zoology._  
 __dabbler__ _n_ :two: An amateur who engages in an activity without serious intentions and who pretends to have knowledge. One not deeply engaged in or concerned with something. _He saw the donors as superrich dabblers._  
 __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of the former Soviet Union. _Molecular engineering will make wonders possible, such as luminescent trees for your dacha._  
@@ -3747,7 +3751,7 @@ __daybeds__ _n_
 __dayglow__  
 __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the wall in a daze of half sleep._  
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
-__dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
+__dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
 __de-escalate__ _v_ :two::hammer:  
 __de-facto__  
@@ -3803,7 +3807,7 @@ __decidious__ _adj_
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
-__deck<sup>1</sup>__ _n informal_ The ground or floor.  
+__deck<sup>1</sup>__ _n informal_ :two: The ground or floor. _An enticing outdoor deck._  
 __deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
@@ -3834,7 +3838,7 @@ __deep freezers__
 __deep pockets__  
 __Deep South__  
 __deep trouble__ _n_ _You’re in deep trouble._ “Deep, Deep Trouble”, song from the album The Simpsons Sing the Blues.  
-__deep__ _adj_ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
+__deep__ _adj_ :two::hammer: _Deep discounted prices._ __1g__ (Sports) Located or taking place near the outer boundaries of the area of play: _deep left field._ _Tyron Taylor throws a nice deep ball._  
 __deep-dish pie__ _n_ (Cookery) _chiefly US and Canadian_ A pie baked in a deep dish and having only a top crust.  
 __deep-six__ _v informal_ :two: Destroy or dispose of (something) irretrievably. _Someone had deliberately deep-sixed evidence._  
 __deepfake__ _n_  
