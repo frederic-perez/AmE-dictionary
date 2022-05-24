@@ -214,7 +214,7 @@ __advisory<sup>1</sup>__ _adj_ :four::hammer: _Advisory committee meeting._ _To 
 __advisory<sup>2</sup>__ _n_ :two::astonished: (advisories) A report giving information, especially a warning: _a weather advisory._ _Read the full FDA advisory here._  
 __advocacy__ _n_ :two::hammer: :es: apoyo; defensa  
 __advocate__ _n_ :mega:  
-__aegis__  
+__aegis__ _n_ :two: /ˈiːdʒɪs/ (egis) __1__ Sponsorship or protection; auspices (esp in the phrase _under the aegis of_). __2__ (Greek myth) The shield of Zeus, often represented in art as a goatskin.  
 __aerials__  
 __aerie__ _n_ __1__ The nest of a bird, such as an eagle, built on a cliff or other high place. __2__ A house or stronghold perched on a height.  
 __aero-hydroponics__  
@@ -2519,7 +2519,7 @@ __chastise__ _v_ :three: /chass-TYZE/ (chastize) Censure severely. _Syn_ castiga
 __chastisement__ _n_  
 __chasuble__ _n_ :two::hammer:  
 __chatelaine__ _n_  
-__chattel__ _n_ :two::hammer:  
+__chattel__ _n_ :three: An article of movable personal property. _Syn_ personalty _Slaves were treated as chattel by plantation owners, who bought, sold, and even bet them in poker games._  
 __chatter<sup>1</sup>__ _n_ _A machine-gun chatter._  
 __chatter<sup>2</sup>__ _v_  
 __chatterbox__ _n informal_ :four::dart: A person who talks constantly, especially about trivial matters. _Syn_ babbler, prater, spouter, magpie  
@@ -3708,6 +3708,7 @@ __damsel__ _n_ _The damsel in distress Snow White in 1937._
 __dance the night away__  
 __dandelion thistle__  
 __dandelion__ _n_ :six: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
+__dander__ _n informal_ Temper or anger: _What got their dander up?_  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
 __dandy__ _adj_ :two::hammer:  
@@ -6095,7 +6096,7 @@ __galloping__
 __gallows__ _n_ :two::hammer:  
 __galore__ _adv_  
 __galoshes__ _n_  
-__galumph__ _v_  
+__galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
 __galvanize__ _v_ :nine: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
@@ -7630,7 +7631,7 @@ __indispensable__
 __indisposed__ _adj_ :two: __1__ Sick or ill, esp. slightly. __2__ Disinclined or unwilling; averse: _indisposed to help._  
 __indissoluble__ _adj_ Not dissoluble; esp. incapable of being annulled, undone, or broken. _Syn_ permanent  
 __indite__ _v tr_ :two: /ɪnˈdaɪt/ __1__ _archaic_ To write. __2__ _obsolete_ To dictate.  
-__indoctrinate__ _v_  
+__indoctrinate__ _v_ :two: /in-DAHK-truh-nayt/ To teach (someone) to fully accept the ideas, opinions, and beliefs of a particular group and to not consider other ideas, opinions, and beliefs. _The goal of the professor is to teach politics, rather than to indoctrinate students with a narrow set of political beliefs._  
 __indolence__ _n_ :dart: Inactivity resulting from a dislike of work. _Syn_ laziness  
 __indolent__ _adj_ :two: Very lazy, slothful.  
 __indomitable__ _adj_ :six: Very determined and impossible to defeat. Incapable of being overcome, subdued, or vanquished. _Syn_ never-say-die, invincible, unconquerable _Indomitable will._ _An indomitable force._  
@@ -9159,7 +9160,7 @@ __mercantile__ _adj_ :two::hammer:
 __merch__ _n_ _informal_ :three: Merchandise.  
 __merchant prince__ _n_ A very wealthy or influential merchant.  
 __merchant__  
-__mercurial__ _adj_ :three: Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
+__mercurial__ _adj_ :four: /mer-KYUR-ee-ul/ Liable to sudden unpredictable change. _The mercurial Kim Jong-un took over the country._  
 __Mercurochrome__  
 __mere__ _adj_ :four::hammer: _From mere $200._  
 __meretricious__ _adj_ :three: Attracting attention in a vulgar manner. _Syn_ flashy, garish, gaudy, tawdry, trashy, tacky _The town’s tasteful welcome sign was replaced with a meretricious monstrosity, a blinking neon tower._  
@@ -9395,7 +9396,7 @@ __monkey suit__
 __monkey wrench__  
 __monkeypox__ _n_  
 __monogramming__  
-__mononyms__  
+__mononym__ _n_ :two::hammer:  
 __monophobia__ _n_ An abnormal fear of being alone.  
 __monopoly__ _n_ :mega: /mə-nŏp′ə-lē/  
 __monotonous__ _adj_ Tediously repetitious or lacking in variety. _Syn_ humdrum _Spending eight hours a day on an assembly line is monotonous work, but I am grateful to have a job._  
@@ -9635,6 +9636,7 @@ __narrow-minded__ _adj_
 __narrowcast<sup>1</sup>__ _v_  
 __narrowcast<sup>2</sup>__ _n_  
 __narrowly__ _adv_ _I narrowly escaped execution._  
+__narwal__ _n_  
 __nary__ _adj_ _Nary a chance of rain throughout the tournament._  
 __nasal passages__  
 __nascence__  
@@ -9872,6 +9874,7 @@ __nub__ _n_ :two::hammer: _A punched nub._
 __nubby__ _adj_ _Nubby sole design._  
 __nubile__ _adj_  
 __nucleotide__ _n_  
+__nudum pactum__ _n_ /ˈnjuːdʊm ˈpæktʊm/ (Law) An agreement made without consideration and void unless made under seal.  
 __nugatory__ _adj_  
 __nugget__ _n_ :four::dart: (nuggets) __2__ A small piece of information or advice that can be useful or important. A small compact portion or unit: _nuggets of information._ _A nugget of reality._  
 __nuisance__  
@@ -10103,6 +10106,7 @@ __opportune__ _adj_ /ˌɒp ərˈtun, -ˈtyun/ __1__ Suitable or convenient for a
 __opportunity__ _n_ /ˌɒp ərˈtu nɪ ti, -ˈtyu-/  
 __opposition__ _n_ :two::mega: /ˌɒp əˈzɪʃ ən/  
 __oppress__ _v_ Come down on or keep down by unjust use of one’s authority. _Syn_ crush, suppress  
+__opprobrious__ _adj_ Expressing contemptuous reproach; bringing disgrace. _Syn_ abusive, scornful, shameful, ignominious _His opprobrious conduct during an assembly earned him a series of Saturday detentions._  
 __opprobrium__ _n_ :two: Disgrace arising from exceedingly shameful conduct; ignominy. _Syn_ obloquy _The candidate’s racist comments attracted public opprobrium._  
 __opt in__ _v_ _People opt in to send us their pressure data from their smartphones._  
 __opt out__ _v_  
@@ -13000,7 +13004,7 @@ __sensitivity__ _n_ The ability of a test to correctly identify patients with a 
 __sentence__ _n_ _A sentence of judges._  
 __sententious__ _adj_ :two: Concise and full of meaning. _Syn_ pithy _He was a man of few words, but when he did speak, his sententious statements struck at the very heart of the matter._  
 __sentience__  
-__sentient__ _adj_ :five::hammer:  
+__sentient__ _adj_ :six: Endowed with feeling and unstructured consciousness. _Syn_ animate _The living knew themselves just sentient puppets on God’s stage._  
 __sentiment__ _n_ :two::hammer: _A sentiment which I heartily applaud._  
 __sentry__ _n_ (sentries)  
 __separate__ _adj_ :two::hammer:  
@@ -14988,6 +14992,7 @@ __tender__ _n_ _The company won the tender._
 __tenderize__ _v_ To make (meat) tender, as by marinating, pounding, or applying a tenderizer.  
 __tendinitis__  
 __tendrils__ _n_  
+__tenebrific__ _adj_ /ˌtɛnɪˈbrɪfɪk/  
 __tenement__ _n_ __1__ A building for human habitation, especially one that is rented to tenants. __2__ A rundown, low-rental apartment building whose facilities and maintenance barely meet minimum standards. _Kids from the tenements._  
 __tenet__ _n_ :seven::hammer: (tenets) :es: principio  
 __Tennessee Honey__ _n_ Honey liqueur blended with less than 20% whiskey.  
@@ -15265,6 +15270,7 @@ __titration__ _n_ _Lesion titration._
 __titter__ _v_ :two::hammer:  
 __titters__  
 __tittle__ _n_ :two::astonished::pencil2: __1__ A small diacritic mark, such as an accent, vowel mark, or dot over an _i_. __2__ The tiniest bit; an iota.  
+__titubation__ _n_ /ˌtɪtjʊˈbeɪʃən/ __1__ (Pathology) Adisordered gait characterized by stumbling or staggering, often caused by a lesion of the cerebellum. _He walked hesitatingly to a chair, his titubation increasing._ __2__ (Pathology) Stuttering or stammering. _Syn_ lingual titubation  
 __tix__ _pl n_ _informal_ Tickets.  
 __tixker__  
 __tizzy__  

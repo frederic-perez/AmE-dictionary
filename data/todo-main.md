@@ -1,18 +1,3 @@
-__basketball tosses__ _n_ (attraction)  
-__bedlam__  
-__blinis__ _n_  
-__bountiful__ _adj_ _Bountiful buffets._  
-__brew__ _n_ _They stop in after work for one or more brews._  
-__carve__ _v_ _Feast on oversized hand-carved sandwiches._  
-__chimichanga__  
-__climate-controlled__ _adj_ :two::hammer:  
-__cozy__ _adj_ _A modern, cozy oasis of culinary delights._  
-__crumble__ _v_ _A crumbling Germany at the start of the Third Reich._  
-__cull__ _v_  
-__dab__ _n_  
-__dazzling__ _adj_ _Dazzling gifts._  
-__deck__ _n_ _An enticing outdoor deck._  
-__deep__ _adj_ _Deep discounted prices._  
 __delectable__ _adj_ _Delectable desserts._  
 __demeanor__  
 __devote__ _v_ (devoted)  
