@@ -325,6 +325,7 @@ __be smashed to smithereens__ To be broken apart or otherwise destroyed into tin
 __be something to (something)__ To have some degree of importance, truth, or value. _You know, there might be something to all this “positive thinking” you keep going on about._ _The detective initially brushed off the pattern as nothing but coincidence, but after it started appearing at each and every crime scene, he began to think there was something to it._  
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
+__be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
 __be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
@@ -804,6 +805,7 @@ __forty winks__ :three: A short sleep during the day. A short nap.
 __freak flag__ Any unconventional, nonconformist, or uninhibited behavior, convictions, opinions, or lifestyle choices that are unique to an individual.  
 __freak out__ (freak someone out)  
 __free bit of advice__ A suggestion, opinion, or piece of advice that was unrequested or unsolicited by the recipient.  
+__free lunch__ [:scroll: This expression, dating from the early 1800s, alludes to the practice of taverns offering free food to their customers to induce them to buy more drinks.] A gift or benefit for which no return is expected.  
 __free-wheeling__ Lacking restraint; flamboyant and uncontrolled. _His free-wheeling life-style was prohibitely expensive._  
 __freebooter__ _n_ A person who pillages and plunders, especially a pirate.  
 __fresh-faced__ Of or having an appearance of health, vitality, and/or youthfulness.  
@@ -853,7 +855,9 @@ __get out of town__ :two::hammer:
 __Get outta here!__  
 __get over it__ To move on and accept things the way they are; to stop being concerned by or with something that is in the past or can’t be changed. Often used as an imperative. _Look, I’m going to marry him whether you want me to or not. Get over it!_  
 __get over someone or something__ _They’re getting over their heads._  
+__get someone’s dander up__ To make someone get angry. _ Now, don’t get your dander up. Calm down._ _The customer’s disrespectful attitude got the waitstaff’s dander up._  
 __get someone’s goat__ (It’s believed that the phrase comes from actual goats and their effect on race horses. Goats are thought to calm down anxious or energy-filled thoroughbreds, so owners would put a goat in the horse’s stall for the night before the race. Stealing that goat out of the pen would thus upset the horse and make it perform poorly on the big day.)  
+__get taken to task (by someone)__ To be scolded, rebuked, reprimanded, or criticized (by someone). _I got taken to task by the headmaster for disrupting class again._  
 __get the axe__ To lose your job.  
 __get the better of (someone or something)__ To gain superiority, mastery, or an advantage over someone or something; to get control over someone or something. _I knew I shouldn’t be meddling in other people’s business, but my curiosity got the better of me._  
 __get the drift of something__ To understand the general idea of something. _I knew enough German to get the drift of this article. I don’t get the drift of what you’re trying to tell me._  
@@ -899,6 +903,7 @@ __go at it hammer and tongs__ To do something or perform some task with tremendo
 __go back to square one__ To start from the beginning.  
 __go ballistic__ :two::hammer:  
 __go figure__ :five: Used when you tell someone a fact and you then want to say that the fact is surprising, strange or stupid: _It’s a terrible movie and it made $200 million. Go figure!_  
+__go for a spin (to some place)__ To go for a brief, leisurely drive (to some place). _Hey Noah, fancy going for a spin to the grocery store with me?_ _Jenny just got a new car for her birthday, so I think we’re going to go for a spin after school._  
 __go for broke__ :dart: To give something one’s full effort. _We have to go for broke with this marketing campaign if we want our product launch to be successful._  
 __go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
@@ -1951,6 +1956,7 @@ __put our heads together__ To discuss or plan something together with other peop
 __put out__ :two::hammer: _Put out the fires._  
 __put that demon to rest__  
 __put the hammer down__ To press down the accelerator (of an automobile) as far as possible; to accelerate to or travel at an automobile’s maximum speed. Primarily heard in US. _It would normally take us three days driving to New York from Colorado, but with my brother putting the hammer down the whole way, we made it in two._  
+__put the kibosh on (something)__ To impede, spoil, or prevent something from happening or continuing. _News of unrest in the area really put the kibosh on our plans to vacation there._ _The manager put the kibosh on our staff party, saying it would cost too much._  
 __put the wind up (someone)__ To make someone very anxious, upset, or frightened.  
 __put up with__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
@@ -2013,6 +2019,7 @@ __run an errand__ :two::hammer:
 __run errands__  
 __run for the hills__  
 __run wild__ To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
+__saber rattling__ :dart: (saber-rattling) A show or threat of military power. Words and actions that seek to convey anger, power, and intimidation, often in a military setting. _The leaders of these countries need to quit their saber rattling before we end up at war._  
 __salt in the/(one’s) wound(s)__ An aggravation that makes something unpleasant, difficult, or painful even worse. _I can’t believe Sally broke up with John the day after his team lost the championship match. Talk about salt in the wounds!_  
 __salt of the earth__ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __salty dog__ A sailor, especially a man, who is older and has had a lot of experience on the seas. _The bar was packed with old salty dogs who’d traveled all across the world, sharing stories of their adventures._  
@@ -2140,6 +2147,7 @@ __sounding board__ A person or group with whom one discusses an idea, plan, or s
 __sour grapes__ Criticism or disparagement of that which one cannot have. The phrase originated in one of Aesop’s fables, in which a fox that cannot reach some grapes deems them sour and therefore undesirable. _He always mocks sports cars as being really impractical, but it’s just sour grapes, if you ask me._  
 __spare a thought for__ To think about. _You should spare a thought for those who are less fortunate than you._  
 __speak of the devil__ _v_ :dart: Mention someone’s name who just then appears.  
+__speak of the devil, and he shall appear__ _proverb_ An acknowledgment of a person who has arrived just as or after they were being discussed.  
 __speak up__ __1__ To speak loud enough to be audible: _Speak up—I can’t hear you._ __2__ To speak without fear or hesitation: _You have to speak up if you want something._  
 __speak volumes__ :two: To reveal or indicate a great deal about someone or something. _How you react to challenges speaks volumes about your character._  
 __spell it out__ For example, “let me spell it out for you,” is another way to say “let me make it very clear and easy to understand.”  
@@ -2207,6 +2215,7 @@ __take comfort in (something)__ To be soothed or calmed by something. _When thin
 __take heart__ :four::dart: To be confident or courageous.  
 __take it away__ :two: _informal_ An invitation or instruction for someone to begin their performance. Start up the performance!; Let the show begin! (Typically a public announcement of the beginning of a musical performance.) _And now, here is the band playing “Song of Songs.” Take it away!_ _We’ve brought in a very talented young band to entertain you this evening. Take it away, girls!_  
 __take it to the bank__  
+__take no notice of (something or someone)__ To not pay any attention to someone or something; to ignore or disregard someone or something. _Take no notice of those troublemakers, they’re only trying to provoke you._  
 __take no prisoners__ To be utterly ruthless, uncompromising, or unyielding in the pursuit of one’s agenda or goal. _The new manager doesn’t take any prisoners when a project needs to get done._  
 __take over__ Assume control, management, or possession of, as in _The pilot told his copilot to take over the controls_, or _There’s a secret bid to take over our company._ _Kyle took over in the first half and finished with 23 points._  
 __take pains__  
@@ -2217,11 +2226,13 @@ __take the Fifth (amendment)__ Refuse to answer on the grounds that one may incr
 __take the gloves off__ _The gloves are coming off today._  
 __take the high road__ :two: To choose the most noble, ethical, or diplomatic course or method, especially after or in the face of negativity or ill treatment. _Strive to always take the high road when dealing with others, even if they’ve treated you unfairly in the past. Life has a habit of rewarding those who learn to turn the other cheek._  
 __take the hit (for someone or something)__ To face punishment, blame, censure, or arrest for someone else’s crime or misdeed. _We’ve made it look like he withdrew the money, so when the police start investigating, he’ll be the one to take the hit._  
+__take the weight off (one’s) feet__ To lie or (especially) sit down, generally after being upright for a long period of time. _We’ve been walking all over town today, so I think we’re just going to head back to the hotel and take the weight off our feet for a while._  
 __take turns__ To alternate doing something; to do something in succession, one person or thing after another. _Please take turns instead of everyone talking at once._  
 __take umbrage__ To become offended or angered by something. _Hey, I take umbrage at the idea that I didn’t put my full effort into this project._  
 __take up__ To begin doing something as a habit, hobby, pastime, or steady practice. _My husband has taken up gardening now that he’s retired._  
 __take wing__ _Then again, my thoughts took wing._  
 __take your mind off something__ To do something to help you forget about something else.  
+__talk a mile a minute__ To speak in a very quick or hurried manner; to talk very fast. _When the boss gets excited, she starts talking a mile a minute, and I can never follow everything she’s trying to say!_  
 __talk back__  
 __talk in riddles__ To speak in a (perhaps intentionally) convoluted way.  
 __talking head__ :dart::two: _slang_ A person who is filmed in closeup while talking about some topic, especially for an interview, documentary, news report, etc. _He always has the same talking heads on his show to talk about recent political events._ _Talking head videos._  
