@@ -6039,6 +6039,7 @@ __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or i
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny money__ _n_  
+__funny papers__ _n_ :two: A section of a newspaper containing comics and humorous matter. _Scott nodded and turned to go back to his funny papers and the sports news._  
 __funny stomach__  
 __fur-ternity leave__  
 __furbish__ _v_  

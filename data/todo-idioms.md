@@ -1,18 +1,3 @@
-__a numbers game__  
-__as good as it gets__ _Customer service is as good as it gets._  
-__bargain store__  
-__best of all__ Used to refer to the most important or appealing part of something that has many good parts. _The machine is easy to use, easy to clean, and best of all, it’s absolutely free when you order these books._  
-__blow someone away__  
-__butt heads__ _Sullivan butted heads with Standards and Practices._  
-__by the glass__ _A wine list with over 80 wines by the glass._  
-__can’t get a break__  
-__dance the night away__ To dance the entire evening. _We danced the night away._  
-__dead on__  
-__fair and square__  
-__foot and mouth__ _Gardens in 2001 were unfortunately cancelled due to the outbreak of foot and mouth._  
-__for good__ _She left him for good this time._  
-__front and center__  
-__funny papers__ :two::hammer:  
 __garbage in, garbage out__  
 __gaslighting__  
 __get a kick__  
