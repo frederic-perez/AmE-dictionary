@@ -3888,7 +3888,7 @@ __deist__ _adj_
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :seven::hammer: _Syn_ delicious _Delectable dining._  
+__delectable__ _adj_ :eight::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -3920,7 +3920,7 @@ __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudic
 __demagogy__  
 __démarche__ _n_  
 __demean__ _v_ :five::hammer: (demeaned, demeaning)  
-__demeanor__ _n_  
+__demeanor__ _n_ :two::hammer:  
 __demigod__  
 __demographic__ _adj_  
 __demonize__ _v tr_ :five::hammer: (demonizing)  
@@ -4030,7 +4030,7 @@ __devoid__ _adj_ :two::hammer:
 __devoir__ _n_ :two::hammer:  
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
-__devote__ _v_ _We’re devoting this episode to his paintings._  
+__devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
 __devout__ _adj_  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _v tr_ To cure (an animal) of worms; worm.  
@@ -4080,6 +4080,7 @@ __dill__ _n_ :two::hammer: _A dill pickle._
 __dilly__ _n_ _slang_ One that is remarkable or extraordinary, as in size or quality: _had a dilly of a fight._  
 __dilly-dally__ _v_ To waste time, especially in indecision; dawdle or vacillate. _Syn_ drag one’s feet, procrastinate, stall, shillyshally. _If you continue to dilly-dally, we will be late for choir practice._  
 __dilutive__  
+__dim sum__ _n_ /ˈdɪm ˈsʌm/  
 __dim<sup>1</sup>__ _n_ _He had taken a dim view of many a patient whose breathing sounded better than his own._  
 __dim<sup>2</sup>__ _v_ (dimmed) :two::hammer:  
 __dime > on the dime__  
@@ -4119,6 +4120,7 @@ __direction__ _n_ :two::mega:
 __dirge__ _n_ :three::hammer:  
 __dirigiste__  
 __dirk__ _n_ :astonished: A long straight-bladed dagger. :es: puñal  
+__dirndl__ _n_ :es: falda acampanada  
 __dirt bike__ _n_ :camera:  
 __dirt road__ _n_ :two::hammer: (dirt roads)  
 __dirtbag__ _n slang_ :six: A filthy or disreputable person.  
@@ -4195,6 +4197,7 @@ __disincentive<sup>2</sup>__ _adj_ Acting as a deterrent: _a disincentive effect
 __disinfectant__ _n_ :pencil2: An agent, such as heat, radiation, or a chemical, that destroys, neutralizes, or inhibits the growth of disease-carrying microorganisms: _household disinfectant_.  
 __disingenuous__ _adj_ :five: Not really honest or sincere, and only pretending to be.  
 __disingenuousness__  
+__disinherited__ _adj_ Deprived of your rightful heritage.  
 __disinhibition__ _n_ :pencil2:  
 __disinterest__ _n_ :three::pencil2::hammer:  
 __disinterested__ _adj_  
@@ -4337,6 +4340,7 @@ __doldrums__ _n pl_ (plurale tantum)
 __dole out__ _v_ :nine::m: (doled out, doling out) To give or deliver in small portions. _Pringles will dole out thousands of speakers that fit atop Pringles cans and amplify music from MP3 players._ _Doling out a familiar meal._  
 __dole__ _n_  
 __dolirometer__  
+__dollhouse__  
 __dollop__ _n_ :six::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
 __dolt__ _n_ :two: A stupid person; a dunce.  
 __domestic__ _adj_  
@@ -4498,6 +4502,7 @@ __drench__ _v_ :four::hammer: (drenched)
 __drenched__ _adj_  
 __drenches__ _v_  
 __dress rehearsal__  
+__dress shoes__  
 __dress up__ _v_  
 __dressed to the nines__  
 __dressing room__ _n_ :two::hammer: _(vs fitting room)_  
@@ -4519,6 +4524,7 @@ __drive-by<sup>2</sup>__ _n_
 __drive-up__ _adj_ Designed to permit customers to remain in their motor vehicles while being accommodated: _a drive-up window at the bank._ _Drive-up motels._  
 __drivel__ _n_ :dart::four: /ˈdrɪvəl/ __1__ Foolish or senseless talk. _Syn_ nonsense, rubbish, garbage _I was hoping my teacher would not actually listen to my presentation, because I knew it was absolute drivel, but the “F” on my transcript was proof that I had not fooled anyone._ __2__ Saliva spilling from the mouth. _Syn_ slobber, dribble, drool  
 __driven snow__ _n_ Snow which has been moved by wind and collected into snowdrifts. _His nephew was pure as the driven snow._  
+__driver__ _n_ _(golf)_  
 __drivetrains__  
 __driveway__  
 __drizzle<sup>1</sup>__ _v_ :two::hammer: (drizzled)  
@@ -4535,6 +4541,7 @@ __drop by__ _phr v_ :two: To stop in for a short visit.
 __drop dead__  
 __drop out__  
 __drop__ _n_  
+__drop-by__ _n_ A brief visit, especially (politics) for the purpose of attracting voters or motivating one’s staff. _Drop-by performers._  
 __drop-in__ _adj_ Provided for short-term use: _a drop-in center for runaways._  
 __dropout__ _n_  
 __dropping hands__  
@@ -4566,6 +4573,7 @@ __dry humor__
 __dry run__ _n_ :two::hammer:  
 __dry spel__  
 __dry wall__ _n_ :three: A wide flat board used to cover walls or partitions; made from plaster or wood pulp or other materials and used primarily to form the interior walls of houses. :es: _Pladur_  
+__dry-aged beef__ _n_ Beef that has been hung or placed on a rack to dry for several weeks.  
 __dryly__ _adv_ :two::hammer::astonished:  
 __drywall__ _n_ A building material consisting of rectangular sections usually made of a gypsum plaster core bonded between layers of heavy paper, used especially in the construction of interior walls and ceilings. :es: _Pladur&copy;_  
 __dub__ _v_ (dubbed)  
@@ -4591,6 +4599,7 @@ __due<sup>2</sup>__ _n_
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
 __duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
+__duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
 __dulcet__ _adj_ :four: __1__ Sweet to the taste. _Dulcet icing._ __2__ Pleasing to the ear. _Syn_ mellifluous, honeyed, sweet _I turned on the record, closed my eyes, and allowed the dulcet tones of the cello to melt away the stress of my day._ __3__ Generally pleasing or agreeable.  
@@ -4667,10 +4676,10 @@ __earlocks__ _n_
 __early__ _adj, adv_ _I always get off the bus a stop early on the way to work._  
 __Early-onset Alzheimer’s disease__ _n_ (younger-onset Alzheimer’s disease, early-onset AD)  
 __earmark__ _v_ :eight: (earmarked) __1__ To set aside for a specific purpose, use, or recipient: _to earmark goods for export._ _Syn_ allocate __2__ To mark the ear of (a domestic animal) for identification. __3__ To specify or allocate (funds) to be spent in a legislative earmark.  
-__earmuffs__  
+__earmuffs__ _n_ :two::hammer:  
 __earnest__ _adj_ :five::hammer:  
 __earnestly__  
-__earrings__  
+__earring__ _n_ :two::pencil2: An ornament worn on or suspended from the ear, especially the earlobe.  
 __earth-shattering__  
 __earthing__ _n_ Fastening electrical equipment to earth.  
 __Earthling__ _n_  
@@ -4784,7 +4793,7 @@ __Election Day__
 __elective__ _n_ _Other students can take up to four fine arts electives._  
 __electrical flex__ _n_  
 __electrical outlet__ _n_ (outlet, electrical socket, plug, wall plug)  
-__electrolysis__ _n_  
+__electrolysis__ _n_ :two::pencil2::hammer:  
 __electronics__ _n pl_ (plurale tantum)  
 __elegy__ _n_ :four: A mournful poem; a lament for the dead. _Syn_ lament, requiem, dirge _Standing beside his departed friend’s casket, Mike delivered a moving elegy that brought everyone in the room to tears._  
 __elephantine__ _adj_ :mega: Of great mass; huge and bulky. _Syn_ gargantuan, giant, jumbo  

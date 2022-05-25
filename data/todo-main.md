@@ -1,18 +1,3 @@
-__delectable__ _adj_ _Delectable desserts._  
-__demeanor__  
-__devote__ _v_ (devoted)  
-__dim sum__ _n_  
-__dirndl__ _n_ :es: falda acampanada  
-__disinherited__ _adj_ _Deprived of your rightful heritage._  
-__dollhouse__  
-__dress shoes__  
-__driver__ _n_ _(golf)_  
-__drop-by__ _n_ A brief visit, especially (politics) for the purpose of attracting voters or motivating one’s staff. _Drop-by performers._  
-__dry-aged__ _adj_  
-__duffle bag__ _n_  
-__earmuffs__  
-__earring__ _n_ :pencil2:  
-__electrolysis__ _n_ :pencil2:  
 __enticing__ _adj_ _An enticing outdoor deck._  
 __epaulets__ _n_ _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __esplanade__ _n_  
