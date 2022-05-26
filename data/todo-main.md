@@ -1,7 +1,16 @@
+__advisable__ _adj_ /ædˈvaɪ zə bəl/  
+__buff__ _n informal_  
+__butte__ _n_ /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._  
+__comfort__ _n_ :pencil2:  
+__connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
+__crisscross__ _v_  
+__decadent__ _adj_  
+__deluxe__ _adj_ _Deluxe hotels._  
 __enticing__ _adj_ _An enticing outdoor deck._  
 __epaulets__ _n_ _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __esplanade__ _n_  
 __eye-popping__ _adj_ _Eye-popping croissants._  
+__facade__ _n_ (façade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
 __face off__ _v_ _(sports)_  
 __fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
 __fairway__ _n_  
@@ -23,6 +32,7 @@ __first mate__ _n_ :two::hammer:
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __fish__ _n_ (_n pl_ fish or fish·es)  
 __fishpond__ _n_  
+__fixture__ _n_ _The bar is a neighborhood fixture since 1972._  
 __flagship__ _adj_ :two::hammer: _The flagship store._  
 __flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
@@ -33,6 +43,7 @@ __flora__ _n_ :two::hammer: /ˈflɔːrə/
 __flotation tank__ _n_ _(Pseudomedicine)_  
 __flown__ _v_ _Fresh fish is flown in daily from all over the globe._  
 __fluffy__ _adj_ _Fluffy omelets and giant salads._  
+__flutist__ _n_  
 __flutter__ _v_ _Butterflies fluttering._  
 __foldout__ _n_ _Foldout map of NYC._  
 __footing__ _n_ _I found my footing._  
@@ -40,6 +51,7 @@ __footpath__ _n_ A narrow path for persons on foot.
 __footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
 __forager__ _n_  
 __foreshadow__ _v_  
+__fortuitous__ _adj_ :pencil2:  
 __fractious__ _adj_ /FRAK-shus/ Troublesome, unruly, quarrelsome, or irritable. _The political party is more organized and coherent and less fractious._  
 __fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
 __freak out__  
@@ -104,6 +116,7 @@ __hoedowns__ _n_
 __homophobia__ _n_  
 __hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
 __hone__ _v_ _Visitors can hone their skills on classic games._  
+__Hopi__ _n_  
 __horsewares__ _n_  
 __host__ _n_ _A host of amphibians._  
 __hostas__ _n_  
@@ -134,6 +147,7 @@ __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to c
 __invigorating__ _adj_  
 __iron__ _n_ _(golf)_  
 __jack cheeses__  
+__jaded__ _adj_ _A jaded traveler._  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
 __jambalaya__ _n_  
 __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
@@ -149,7 +163,7 @@ __kangaroo word__
 __kiddo__ _n_ _Bring the kiddos._  
 __kiosk__ _n_ _Information kiosks._  
 __kitchen garden__  
-__knowledgeable__ _adj_  
+__knowledgeable__ _adj_ :two::hammer:  
 __kooky__ _adj_ :two::hammer:  
 __Kowtow__  
 __La Croix Sparkling Water__ _n_ Beverage brand of Sundance Beverage Company.  
@@ -163,7 +177,7 @@ __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ H
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
 __leisurely<sup>2</sup>__ _adv_  
 __lemongrass__  
-__libation__ _n_ :three::hammer:  
+__libation__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__  
 __line up__ _v_ _Huge crowds are lining up._  
@@ -179,11 +193,12 @@ __low-key__ _adj_
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerative.  
+__luminaria__ _n_  
 __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch break._  
 __luncheon__  
 __lurks__ _v_  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
-__lush__ _adj_ :three::hammer: _Lush garden/lawn._ _Their lush outdoor patio._  
+__lush__ _adj_ :four::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._  
 __luxurious__ _adj_ _Luxurious furs._  
 __magical thinking__ _n_  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
@@ -209,6 +224,7 @@ __merchant__ _n_ _The merchants listed are easy to find on our map._
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __merino__ _n_ _Merino wool._  
+__mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __mezzanine__  
@@ -317,6 +333,7 @@ __planter__ _n_
 __plantman__ _n_  
 __plantwoman__ _n_  
 __platted__ _v_  
+__plenteous__ _adj_  
 __plentiful__  
 __plenty__ _n_ _There are plenty of shops._  
 __plethora__ _n_ :two::hammer:  
@@ -389,6 +406,7 @@ __ribeye__ _n_ /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib s
 __riff__ _v_  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
+__riparian__ _adj_ :two: Of, on, or relating to the banks of a natural course of water.  
 __riverfront__  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
 __rockery__ _n_ :four::hammer:  
@@ -460,6 +478,7 @@ __sickbed__ _n_ A sick person’s bed.
 __side-splitting__ _adj_ _Side-splitting laughs._  
 __sideburns__ _n_  
 __sidesplitting__ _adj_ _A sidesplitting ceremony._  
+__sightsee__ _v_  
 __signage__ _n_  
 __signature__ _adj_ :two::hammer: _Signature dishes._  
 __signature<sup>1</sup>__ _n_  
@@ -473,6 +492,7 @@ __skeeball__ _n_
 __skit__ _n_ :two::hammer: _Skit theater._  
 __sleek__ _adj_  
 __sleuth__ _n_ :two::hammer:  
+__slick__ _adj_ _A natural water slide eroded into slick rock._  
 __slushies__ _n_ _Boozy slushies._  
 __small-claims court__ _n_  
 __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
@@ -533,7 +553,8 @@ __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main cou
 __survival skills__ _n_  
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
 __sweeping__ _adj_ _A sweeping view._  
-__sycamore__ _n_  
+__switchback__ _n_  
+__sycamore__ _n_ :two::hammer:  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
 __tabletop__ _adj, n_  
 __Tahitian__  
@@ -575,6 +596,7 @@ __timepiece__ _n_
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
+__toil__ _v_ _Artisans toil in fascinating foundries._  
 __toll__ _n_ _Emotional toll._  
 __tombola__ _n_ _The green fingered young lady of the house runs a great tombola._  
 __tony__ _adj_ _Tony boutiques._  
@@ -618,7 +640,7 @@ __unparalleled__ _adj_ :two::hammer:
 __unpretentious__  
 __unscathed__ _adj_  
 __unsurmountable__ _adj_  
-__unwind__ _v_ :two::hammer: _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
+__unwind__ _v_ :three: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __username__ _n_ ;pencil2:  

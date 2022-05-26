@@ -20,6 +20,7 @@ __gee__ _informal_ A mild expression, typically of surprise, enthusiasm, or symp
 __giddy up__ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __golly__ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __Good golly[, Miss Molly!]__ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
+__gramercy__ _interj_ _Archaic_ _The Gramercy section of NYC._  
 __ha__ :three: Used to express surprise, wonder, triumph, puzzlement, or pique. _Ha! I was right all along!_  
 __hah__ A variant spelling of ha.  
 __heck__ :two: Used as a mild oath.  
