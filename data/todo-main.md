@@ -1,18 +1,3 @@
-__advisable__ _adj_ /ædˈvaɪ zə bəl/  
-__buff__ _n informal_  
-__butte__ _n_ /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._  
-__comfort__ _n_ :pencil2:  
-__connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
-__crisscross__ _v_  
-__decadent__ _adj_  
-__deluxe__ _adj_ _Deluxe hotels._  
-__enticing__ _adj_ _An enticing outdoor deck._  
-__epaulets__ _n_ _The spiffy waiters wear sharp formal jackets with gold epaulets._  
-__esplanade__ _n_  
-__eye-popping__ _adj_ _Eye-popping croissants._  
-__facade__ _n_ (façade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
-__face off__ _v_ _(sports)_  
-__fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
 __fairway__ _n_  
 __fancy__ _v_  
 __fare__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_  

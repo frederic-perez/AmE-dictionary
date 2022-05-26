@@ -207,6 +207,7 @@ __adverse__ _adj_
 __adversity__ _n_ /ad-VER-suh-tee/  
 __advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
 __advice__ _n_ :two: [:reminder_ribbon: You can remember that advice is a noun spelled with the ending _-ice_ because it also rhymes with _ice_, which is also a noun.] _This is my unsolicited advice._  
+__advisable__ _adj_ /ædˈvaɪ zə bəl/  
 __advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
 __advisedly__  
 __advisement__ _n_ Careful consideration. _Syn_ weighing, deliberation _The petition was taken under advisement._  
@@ -1896,7 +1897,7 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
-__buff<sup>1</sup>__ _n informal_ :nine::m: (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
@@ -2041,6 +2042,7 @@ __butt-fumble__
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
+__butte__ _n_ /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
 __butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
@@ -2980,6 +2982,7 @@ __comeliness__ _n_
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
+__comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
 __comforter__ _n_ :six::mega: (comforters) __4__ _US_ A quilted bed covering. A quilt. A quilted bedcover. _Sheets and comforters._  
@@ -3141,6 +3144,7 @@ __Connecticut__ _n_ :pencil2:
 __connective tissue__ _n_  
 __connivance__ _n_ :four: Agreement on a secret plot.  
 __connive__ _v_ :six::hammer: (connived, conniving)  
+__connoisseur__ _n_ :pencil2::mega: /ˌkɒn əˈsɜr, -ˈsʊər/  
 __connotation__ _n_ Connotation is using words to suggest a social or emotional meaning rather than a literal one. Example: This is a house, but I want a home.  
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
@@ -3490,7 +3494,7 @@ __crisp<sup>2</sup>__ _v_
 __crisp<sup>3</sup>__ _n_  
 __crisper__ _n_ :dart: A compartment at the bottom of a refrigerator for storing fruit and vegetables. _Our dishes and crisper trays._  
 __crisply__ _adv_ _Nuggent greeted him crisply._  
-__crisscross__  
+__crisscross__ _v_ :two::hammer:  
 __crisscrossed__ _adj_  
 __critcal condition__ _n_ Very sick or injured and likely to die. _Critical to serious condition, fair condition._  
 __critical mass__  
@@ -3793,7 +3797,7 @@ __deburr__ _v_
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
 __decadence__ _n_ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation  
-__decadent__ _adj_ :two::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
+__decadent__ _adj_ :three::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
@@ -3913,7 +3917,7 @@ __delude__ _v_ :four::hammer: (deluded)
 __deluge<sup>1</sup>__ _n_ :six: A lot of things all happening or arriving at the same time, especially if they are hard to deal with. _The deluge is not over._ _A digital deluge._  
 __deluge<sup>2</sup>__ _v_ :four: (deluged) To overwhelm with a large number or amount; swamp: _The press secretary was deluged with requests for information._  
 __delusional__ _adj_ Suffering from or characterized by delusions. _Syn_ psychoneurotic, neurotic  
-__deluxe__ _adj_ _Deluxe album._  
+__deluxe__ _adj_ :two::hammer: _Deluxe album._ _Deluxe hotels._  
 __delve__ _v_ :two::dart::hammer:  
 __Dem__ _n_ _slang_ __1__ A politician belonging to the Democratic Party. __2__ One who votes for candidates of or supports the Democratic Party.  
 __demagogue__ _n_ :two: /DEM-uh-gahg/ A leader who makes use of popular prejudices and false claims and promises in order to gain power. A leader who obtains power by means of impassioned appeals to the emotions and prejudices of the populace. _Syn_ rabble-rouser _The country’s voters ousted the demagogue who capitalized on the fears of the people._  
@@ -4945,7 +4949,7 @@ __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enth
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
 __entice__ _v_ :two::hammer: (enticing)  
-__enticing__ _adj_  
+__enticing__ _adj_ :two::hammer: _An enticing outdoor deck._  
 __entitle__ _v_ :five::hammer: (entitled) _They are entitled to know that._ _We are soft, entitled, and scared of conflict._ _Treatments you’re no longer entitled to on the NHS._ _His brothers were entitled to express their opinions._  
 __entitlement__ _n_ :four::hammer: _Entitlement programs._  
 __entourage__ _n_ :two::hammer: :es: séquito  
@@ -4970,7 +4974,7 @@ __environs__ _n pl_
 __envisage__ _v_ :three: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :four::hammer:  
 __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
-__epaulets__  
+__epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
 __ephemera__  
 __ephemeral<sup>1</sup>__ _adj_ :four: /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
@@ -5034,7 +5038,7 @@ __Eskimo__ _n_ :two::mega:
 __esoteric__ _adj_  
 __espadrilles__ _n_  
 __espalier__ _n_ _Espalier fruit trees._  
-__esplanade__ _n_ A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
+__esplanade__ _n_ :two: A flat open stretch of pavement or grass, especially one designed as a promenade along a shore.  
 __espouse__ _v_ :three::hammer: (espousing) _Espousing warm ties with Russia._  
 __espresso__ _n_ :two::pencil2: A strong coffee prepared by forcing live steam under pressure, or boiling water, through ground dark-roast coffee beans. The word itself comes from the Italian _caffè espresso_, which roughly means pressed coffee. Though espresso is also known for its bold, bitter flavor, it actually has less caffeine than a cup of drip coffee, contrary to popular belief.  
 __esprit de corps__ _n_ A common spirit of comradeship, enthusiasm, and devotion to a cause among the members of a group.  
@@ -5189,7 +5193,7 @@ __Eye of Providence__ _n_ (all-seeing eye of God)
 __eye patch__  
 __eye raiser__  
 __eye socket__ _n_ (Anatomy) The nontechnical name for orbit. :es: órbita del ojo  
-__eye-popping__ _adj_ :two: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._  
+__eye-popping__ _adj_ :three: Amazingly impressive; suggestive of the flashing of lightning. _Rob Nail displayed eye-popping videos of new robots._ _Eye-popping croissants._  
 __eye-watering__ _adj_  
 __eyeball<sup>1</sup>__ _n_ :two:  
 __eyeball<sup>2</sup>__ _v_ _slang_ To stare at.  
@@ -5213,8 +5217,9 @@ __fabric__ _n_ :two::hammer: _The fabric of time and space._
 __fabricate__ _v_ _Fabricated stories._  
 __fabricator__  
 __façade__ _n_ :two::hammer:  
+__facade__ _n_ (façade) _Behind the facade of the gallery scene, Sedona is humming with artisans._  
 __face left__ _n_ (vs face right) _Two admirals did a left face and screwed everything up._  
-__face off__ _v_  
+__face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
 __face-lift__  
@@ -5235,6 +5240,7 @@ __factotum__ _n_ A general assistant, engaged to do all varieties of work.
 __factual__  
 __faculty__ _n_ :three::astonished: __1__ A group of similarly trained or educated individuals.  
 __fad__ _n_  
+__fadeaway__ _n_ /ˈfeɪdəˌweɪ/ __2__ _Basketball_ A basketball shot made while jumping back from the direction of the basket in order to evade an opponent.  
 __faeces__ _n_  
 __faggot__ _n_ :two: (fagot) __1__ A bundle of twigs, sticks, or branches bound together. _The faggots flamed._ __2__ A bundle of pieces of iron or steel to be welded or hammered into bars.  
 __fail__ _v_ _I’m trying—and failing—to work out the logic of this._  
