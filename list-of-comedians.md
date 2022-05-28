@@ -23,6 +23,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Christi Chiello](https://www.youtube.com/results?gl=US&search_query=Christi+Chiello) is a roastmaster.
 - [Conan O'Brien](https://www.youtube.com/results?gl=US&search_query=Conan+O'Brien)
 - [Dana Carvey](https://www.youtube.com/results?gl=US&search_query=Dana+Carvey) won a Primetime Emmy Award from five consecutive nominations.
+- [Dane Cook](https://www.youtube.com/results?gl=US&search_query=Dane+Cook)
 - [Don Rickles](https://www.youtube.com/results?gl=US&search_query=Don+Rickles)
 - [Fred Armisen](https://www.youtube.com/results?gl=US&search_query=Fred+Armisen)
 - [Gabriel Iglesias](https://www.youtube.com/results?gl=US&search_query=Gabriel+Iglesias) is not fat but fluffy.
@@ -40,7 +41,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [John Mulaney](https://www.youtube.com/results?gl=US&search_query=John+Mulaney)
 - [Jordan Klepper](https://www.youtube.com/results?gl=US&search_query=Jordan+Klepper)
 - [Julia Louis-Dreyfus](https://www.youtube.com/results?gl=US&search_query=Julia+Louis+Dreyfus)
-- [Kathy Griffin](https://www.youtube.com/results?gl=US&search_query=Kathy+Griffin) « [kathygriffin.com](https://kathygriffin.com)
+- [Kathy Griffin](https://www.youtube.com/results?gl=US&search_query=Kathy+Griffin) » [kathygriffin.com](https://kathygriffin.com)
 - [Kristen Schaal](https://www.youtube.com/results?gl=US&search_query=Kristen+Schaal)
 - [Margaret Cho](https://www.youtube.com/results?gl=US&search_query=Margaret+Cho)
 - [Maria Bamford](https://www.youtube.com/results?gl=US&search_query=Maria+Bamford)
@@ -49,7 +50,8 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Natasha Leggero](https://www.youtube.com/results?gl=US&search_query=Natasha+Leggero)
 - [Nick Kroll](https://www.youtube.com/results?gl=US&search_query=Nick+Kroll)
 - [Oscar Montoya](https://www.youtube.com/results?gl=US&search_query=Oscar+Montoya+comedian)
-- [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins)
+- [Patton Oswalt](https://www.youtube.com/results?gl=US&search_query=Patton+Oswalt)
+- [Paul F. Tompkins](https://www.youtube.com/results?gl=US&search_query=Paul+F.+Tompkins) » [paulftompkins.com](https://paulftompkins.com)
 - [Paul Scheer](https://www.youtube.com/results?gl=US&search_query=Paul+Scheer)
 - [Rachel Feinstein](https://www.youtube.com/results?gl=US&search_query=Rachel+Feinstein)
 - [Ralphie May](https://www.youtube.com/results?gl=US&search_query=Ralphie+May)
@@ -65,6 +67,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Steven Wright](https://www.youtube.com/results?gl=US&search_query=Steven+Wright) won the Oscar (with Dean Parisot) for the 1988 short film "The Appointments of Dennis Jennings."
 - [Thomas Middleditch](https://www.youtube.com/results?gl=US&search_query=Thomas+Middleditch)
 - [Tig Notaro](https://www.youtube.com/results?gl=US&search_query=Tig+Notaro) is known for her deadpan comedy.
+- [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Tracy Morgan](https://www.youtube.com/results?gl=US&search_query=Tracy+Morgan)
 - [Wayne Brady](https://www.youtube.com/results?gl=US&search_query=Wayne+Brady)
 - [Whitney Cummings](https://www.youtube.com/results?gl=US&search_query=Whitney+Cummings)
