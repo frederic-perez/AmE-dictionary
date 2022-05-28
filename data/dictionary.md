@@ -5252,6 +5252,7 @@ __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condi
 __fair shake__  
 __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
+__fairway__ _n_ The long part of a golf course that you hit the ball along to get to the hole.  
 __fait accompli__  
 __fall for__ _phr v_  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
@@ -5292,7 +5293,7 @@ __fancied__ _v_
 __fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
-__fancy<sup>2</sup>__ _v_ :two: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fancy<sup>2</sup>__ _v_ :three: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
@@ -5309,9 +5310,10 @@ __Far Rockaway__ _n_ A neighborhood on the eastern part of the Rockaway peninsul
 __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flung roster of clients in bribery and corruption cases._ _Far-flung operations and profits._  
 __far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
-__fare<sup>1</sup>__ _n_ :seven::hammer: _Banderas branched out with such diverse fare as Philadelphia, Desperado, Evita, and The mask of Zorro._ _A dinner different from our usual fare._  
+__fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
 __fare<sup>2</sup>__ _v intr_ :nine: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
+__farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
 __faro__ _n_ _A farol dealer._  
 __farouche__ _adj_ :two::hammer:  
 __farraginous__ _adj_ Composed of a variety of substances. Heterogeneous; mixed.  
@@ -5350,6 +5352,7 @@ __fatwa__ _n_ :two: Religious edict.
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
+__faun__ _n_ Any of a class of ancient Roman deities of the countryside, identified with the satyrs of Greek myth.  
 __fauna__ _n_  
 __Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as power, money, fame, etc. _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
@@ -5369,13 +5372,12 @@ __fealty__ _n_ :three::hammer: :es: lealtad (feudal)
 __fear mongering__ _n_ Fear mongering or scaremongering is the deliberate use of fear based tactics including exaggeration and usually repetition to influence the public in order to achieve a desired outcome.  
 __fearless__ _adj_  
 __feasible__ _adj_  
-__feast__ _v_ :two::hammer:  
+__feast__ _v_ :three::hammer:  
 __feature film__ _n_ A full-length film intended as the main item in a cinema programme. :es: largometraje  
 __feature movie__  
 __feature-length__ _adj_ (Film) (of a film or programme) similar in extent to a feature although not classed as such. _A feature-length animation._  
 __feature<sup>1</sup>__ _n_ __1__ A distinctive attribute or aspect of something. __2__ A newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length. _A special feature on children’s reference books._ _Syn_ article, piece, item, report, story, column __3__ A full-length film intended as the main item in a cinema programme (feature film).  
-__feature<sup>2</sup>__ _v_  
-__featuring__  
+__feature<sup>2</sup>__ _v_ :three::hammer: (featuring)  
 __febrifuge__ _n_ Any medicine that lowers body temperature to prevent or alleviate fever. _Syn_ antipyretic _The doctor gave me a febrifuge to take if my temperature spiked._  
 __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.  
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
@@ -5392,7 +5394,7 @@ __felicitous__ _adj_ /fɪˈlɪsɪtəs/
 __felix culpa__ _n_ /FAY/FEE-liks KOOL/KUHL-pah/ [:scroll: From Latin felix culpa (happy fault). A related word is serendipity. Felix culpa is also known as a fortunate fall or happy accident. In Christianity, the fall of Adam and Eve is seen as a felix culpa since it resulted in the coming of Christ.] An error or disaster that has fortunate consequences.  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
-__fellow__ _adj, n_ _I am a fellow student._  
+__fellow__ _adj, n_ :two::hammer: _Fellow autistics._ _I am a fellow student._  
 __felon__ _n_ :nine::m: A person who has committed a felony. _Hairston has been tied to a felon through rental cars._  
 __felony__ _n_ A crime regarded in the US and many other judicial systems as more serious than a misdemeanor. _He pleaded guilty to six felonies._  
 __felt pen__  
@@ -5412,6 +5414,8 @@ __feral__ _adj_ :eight: Of or suggestive of a wild animal. _Syn_ savage _The mug
 __Ferberization__  
 __Ferberizing__  
 __fern__ _n_ :four::hammer: (ferns) _Fern garden._ :es: helecho  
+__fernery__ _n_  
+__ferns__  
 __ferny__  
 __ferocious__ _adj_ :two::hammer:  
 __ferret out__ _v_ :two::hammer:  
@@ -5419,6 +5423,7 @@ __ferret-faced__
 __ferret<sup>1</sup>__ _n_ :four::hammer:  
 __ferret<sup>2</sup>__ _v_ __1__ To hunt game with ferrets. __2__ To drive out of a hiding place. __3__ To find and bring to light by searching — usually used with out.  
 __ferreting out__ _v_  
+__Ferris wheel__ _n_  
 __ferrule__ _n_ (ferule) __1__ A metal ring or cap placed around a pole or shaft for reinforcement or to prevent splitting. __2__ A bushing used to secure a pipe joint.  
 __fertile__ _adj_ :mega:  
 __fervent__  
@@ -5491,6 +5496,7 @@ __file a case__ _v_
 __file suit__ _v_  
 __file<sup>1</sup>__ _n_  
 __file<sup>2</sup>__ _v_ :two: To smooth, reduce, or remove with or as if with a file.  
+__filet of sole__  
 __filial__ _adj_  
 __filibuster__ _n_ :three::hammer:  
 __filigree__ _n_ :three::hammer: _The maidens scattered flowers of gold and silver filigree over the riders._  
@@ -5501,6 +5507,7 @@ __filler__ _n_ _Some pills use fillers made up of rice, or worse, black walnut._
 __filling__  
 __fillip__ _n_ :three::hammer:  
 __filly__ _n_ A young female horse, especially one less than four years old. _The filly had to be euthanized when she suffered an unspecified fracture._ :es: potra  
+__film noir__ _n_  
 __filmmaker__ _n_ :two: One who directs or produces movies.  
 __filthy__ _adj_  
 __finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful methods.  
@@ -5514,6 +5521,7 @@ __finesse<sup>2</sup>__ _v_ :two: /fuh-NESS/ To handle, deal with, or do (someth
 __finger food__ _n_ Food intended to be eaten with the fingers.  
 __finger stick__ _n_ :camera::two: (fingerstick, finger prick) The drawing of blood from the fingertip, usually with a thin blade and a micropipette, for diagnostic testing. _Testing blood from a finger prick to diagnose malaria._ _Blood tests on a microsample from a finger prick._  
 __finger__ _v_  
+__finger-licking__ _adj_ _Finger-licking barbecue._  
 __finger-waggers__  
 __fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
 __finicky__ _adj_ :three:hammer:  

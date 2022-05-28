@@ -1,18 +1,3 @@
-__fairway__ _n_  
-__fancy__ _v_  
-__fare__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_  
-__farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
-__faun__ _n_ Any of a class of ancient Roman deities of the countryside, identified with the satyrs of Greek myth.  
-__feast__ _v_  
-__featuring__ _v_  
-__fellow__ _adj, n_ _Fellow autistics._  
-__fernery__ _n_  
-__ferns__  
-__Ferris wheel__ _n_  
-__festooned__  
-__filet of sole__  
-__film noir__ _n_  
-__finger-licking__ _adj_ _Finger-licking barbecue._  
 __first mate__ _n_ :two::hammer:  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __fish__ _n_ (_n pl_ fish or fish·es)  
