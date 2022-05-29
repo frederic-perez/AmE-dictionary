@@ -1,3 +1,6 @@
+__balustrade__ _n_ A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._  
+__benevolent__ _adj_ /buh-NEV-uh-lunt/  
+__fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
 __first mate__ _n_ :two::hammer:  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __fish__ _n_ (_n pl_ fish or fish·es)  
@@ -125,6 +128,7 @@ __jarring__ _adj_
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __juke__ _v_  
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
+__junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
 __junkjard__ _n_  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
 __K-pop__ _n_ _The characteristic pop music of South Korea._  
@@ -191,6 +195,7 @@ __meerkats__ _n_
 __megalomaniac__ _adj_  
 __megastore__ _n_ :mega:  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
+__mercurial__ _adj_ Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._  
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __merino__ _n_ _Merino wool._  
@@ -207,6 +212,7 @@ __misphrase__ _v tr_
 __mixologist__  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __mogul__ _n_  
+__moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __moniker__ _n informal_  
 __monolith__ _n_  
@@ -285,6 +291,7 @@ __peat__ _n_ _Peat bed._
 __pedestal__ _n_  
 __pedigree__  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
+__penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penned__ _v_  
 __perfect__ _v_  
 __pergola__ _n_  
@@ -299,6 +306,7 @@ __pico de gallo__
 __picturesque__ _adj_ :three::hammer:  
 __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
 __pinstripes__ _n_  
+__piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __planter__ _n_  
 __plantman__ _n_  
 __plantwoman__ _n_  
@@ -332,6 +340,7 @@ __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive len
 __promenade__ _n_  
 __promo__  
 __prompt__ _adj_ _Prompt, safe, and reliable._  
+__propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __prowess__  
 __psyched__ _v_  
 __pulmonarias__ _n_  
@@ -409,6 +418,7 @@ __scarlet letter__ _n_
 __scarlet__ _n_  
 __scatting__ _v_  
 __schadenfreude__  
+__schism__ _n_ A separation or division into factions. _Syn_ discord, split _Heretics were burned for attempting to create a schism in the Catholic Church._  
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __schmooze__ _v_ /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schooner__  
@@ -479,6 +489,7 @@ __splurge__ _v_
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
+__spurious__ _adj_ Lacking authenticity or validity in essence or origin; not genuine. _Syn_ specious, unauthentic _The professor explained to the student that her essay had received a “C” due to numerous examples of spurious reasoning._  
 __squats__ _n_  
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stage show__  
@@ -496,6 +507,7 @@ __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._
 __stem__ _v_  
 __sterling__ _adj_ _A sterling job._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
+__stew__ _v_  
 __stopover__ _n_ :es: estancia  
 __storefront__ _n_  
 __strain__ _n_  
@@ -595,6 +607,7 @@ __tuck away__ _v_
 __tuck__ _v_ (tucked)  
 __tuition__ _n_  
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  
+__twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.  
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
@@ -624,6 +637,7 @@ __verdant__ _adj_ /VER-dunt/ __1__ Green in tint or color. __2__ Green with grow
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vie__ _v_  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
+__virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __visitor__  
 __voucher__ _n_ _A lunch voucher._  
 __waffle__  
