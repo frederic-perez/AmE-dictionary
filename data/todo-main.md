@@ -1,18 +1,3 @@
-__balustrade__ _n_ A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._  
-__benevolent__ _adj_ /buh-NEV-uh-lunt/  
-__fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
-__first mate__ _n_ :two::hammer:  
-__fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
-__fish__ _n_ (_n pl_ fish or fish·es)  
-__fishpond__ _n_  
-__fixture__ _n_ _The bar is a neighborhood fixture since 1972._  
-__flagship__ _adj_ :two::hammer: _The flagship store._  
-__flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
-__flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
-__flea market__ _n_  
-__flight__ _n_ _Guests can choose three for a $9.50 flight._  
-__floater__ _n_ _Basketball_  
-__flora__ _n_ :two::hammer: /ˈflɔːrə/  
 __flotation tank__ _n_ _(Pseudomedicine)_  
 __flown__ _v_ _Fresh fish is flown in daily from all over the globe._  
 __fluffy__ _adj_ _Fluffy omelets and giant salads._  

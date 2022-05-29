@@ -983,7 +983,7 @@ __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
-__balustrade__ _n_ :two::hammer: _The stone balustrade._  
+__balustrade__ _n_ :three: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
 __balustrades__  
 __bamboozle__ _v_ :five: /bam-BOO-zul/ To deceive, trick, or confuse. To take in by elaborate methods of deceit. _Syn_ lead by the nose, play false, snow, hoodwink _I don’t know how he did it, but Johnny managed to bamboozle me into swapping my pudding for his carrot sticks._ _The legal advisor bluntly said to his client, “Don’t be bamboozled into saying ‘yes’ to something you don’t agree with.”_ _Inexperienced investors are often bamboozled by the volatility of the stock market._  
 __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, threadbare, hackneyed, old-hat, well-worn, tired _By his twelfth book, his plots had become downright banal._  
@@ -1231,7 +1231,7 @@ __benefic__ _adj_ A rare word for beneficent.
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
 __beneficent__ _adj_ Characterized by or performing acts of kindness or charity. _Syn_ benevolent _In 1909, nuns were running more than 1,000 beneficent institutions._  
 __benefit__ _n_ _He stays out late at a benefit or dinner, comes come, pulls out a cot and goes to sleep._  
-__benevolent__ _adj_ /buh-nev-uh-luhnt/ :two::hammer:  
+__benevolent__ _adj_ :three::hammer: /buh-nev-uh-luhnt/ /buh-NEV-uh-lunt/  
 __benign__ _adj_ /bih-NYNE/ Benign means “not causing harm or injury.” In medicine, it refers to tumors that are not cancerous. _The email seemed benign, but it was discovered to be from a hacker._ _The tumor was benign._  
 __benignant__ _adj_ Characterized by kindness and warm courtesy, especially of a king to his subjects. _Syn_ gracious _Through just and even-handed governance, the benignant sovereign earned the loyalty of his subjects._  
 __benison__ _n_  
@@ -5438,6 +5438,7 @@ __fetal__ _adj_
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
 __feted__ _v_ :four::hammer:  
+__fetter__ _n_ __1__ A chain or shackle for the feet. __2__ Something that confines or restrains someone in some way. _John keeps his smartphone with him when he goes hiking, but Linda leaves hers at home, preferring to free herself temporarily of the fetters of technology._  
 __fettered__ _v_  
 __fetus__ _n_  
 __feud<sup>1</sup>__ _n_ :four::hammer:  
@@ -5546,6 +5547,7 @@ __fireworks__ _n_ _A fireworks display will be held on Sunday._
 __firm__ _n_ :dart::mega: /fûrm/  
 __firmament__ _n_ :two: /ˈfɜːməmənt/ The expanse of the sky; heavens. The vault or expanse of the heavens; the sky.  
 __first leg__ _n_  
+__first mate__ _n_ :two::hammer:  
 __first-hand__ _adj, adv_  
 __first-in-class<sup>1</sup>__ _adj_ :two: (first in class) First-in-class drugs are ones that use a new and unique mechanism of action for treating a medical condition. These products are often referred to as innovative and cited as offering new treatment options for patients.  
 __first-in-class<sup>2</sup>__ _n_ Drugs that use a new and unique mechanism of action for treating a medical condition according to FDA 2011 Novel New Drugs.  
@@ -5553,9 +5555,10 @@ __firstborn__
 __firsthand__ _n_ :two::hammer:  
 __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Geography_ A relatively narrow inlet of the sea, esp in Scotland.  
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
-__fish__ _pl n_ :two:  
+__fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
+__fish__ _n_ :three: (_n pl_ fish or fishes)  
 __fishmonger__ _n_  
-__fishpond__ _n_ _A rainwater fishpond on the roof._  
+__fishpond__ _n_ :two::hammer: _A rainwater fishpond on the roof._  
 __fissile__ _adj_ _Fissile material._  
 __fissure vent__ _n_ :three::hammer:  
 __fissure__ _n_ :pencil2: A long narrow opening. _Syn_ crevice, crack, cleft  
@@ -5572,7 +5575,7 @@ __fivesomes__
 __fix__ _n_ _A quick fix of French fries._  
 __fixable__ _adj_ _A lot of that is fixable._  
 __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
-__fixture__ _n_ :four::hammer: _A Premier League fixture._ _He had been a fixture and a legend._  
+__fixture__ _n_ :five::hammer: _A Premier League fixture._ _He had been a fixture and a legend._ _The bar is a neighborhood fixture since 1972._  
 __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
 __fizz<sup>2</sup>__ _v_ (fizzing)  
 __fizzle up__  
@@ -5598,7 +5601,7 @@ __flageolet__ _n_ A small flutelike instrument with a cylindrical mouthpiece, fo
 __flagged__ _v_ :two::hammer: _His appetite had flagged._  
 __flagon__ _n_ :three::hammer: (flagons) _A flagon of ale._ _A flagon of wine._  
 __flagrant__ _adj_ :four::hammer: _A flagrant foul._  
-__flagship__ _n_ :three: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things.  
+__flagship__ _n_ :five: __1__ A ship that carries the fleet commander and flies the commander’s flag. __2__ The best or the most important of a group of things. _The flagship store._  
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
@@ -5617,6 +5620,7 @@ __flank<sup>2</sup>__ _v_
 __flanker__ _n_ (football/rubgy/soccer position)  
 __flap__ _n_ :four::hammer: _A flap of skin._ _There have been flaps over allowing scouts in press boxes._ _The sound of paper flaps on bicycle spokes._  
 __flapjack__ _n_  
+__flapping__ _n_ :two: The motion made by flapping up and down. _Syn_ fluttering, flap, flutter  
 __flare-up__ _v_ :four::hammer: (flare up, flare-ups)  
 __flare<sup>1</sup>__ _n_ :two::hammer: _He took an emergency flare from the glove box._ _Flares fitted to aircraft._  
 __flare<sup>2</sup>__ _v_ :three::hammer: _The injury flared._ _The rising quickly flared and was soon suppressed._  
@@ -5628,6 +5632,7 @@ __flash-forward__ _n_ The insertion of a later event into the chronological stru
 __flashback__  
 __flashcard__ _n_ (flash card)  
 __flashlight__ _n_  
+__flashpoint__ _n_ /FLASH-point/ __1__ The point at which a situation turns critical, for example, resulting in violence. __2__ A location or situation where conflict, violence, etc., flare up. __3__ The lowest temperature at which a substance’s vapors ignite in the presence of an ignition source.  
 __flat out__ _adv_ :two::hammer: _informal_ _She flat out told me about it._  
 __flat white__ _n_ (Cookery) A drink prepared by pouring steamed milk over espresso coffee. _The flat white, prepared by pouring bubbly steamed milk over a shot of espresso, has become synonymous with breakfast culture in Australia._  
 __flat-chested__ _adj_ _Flat-chested bodies._  
@@ -5645,6 +5650,7 @@ __flaunt__ _v_ :four::hammer: (flaunting)
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
+__flea market__ _n_  
 __fleck__ _n_  
 __flecked__ _v_ _Floor flecked with blood._  
 __fledging__ _n_ :two::hammer:  
@@ -5664,7 +5670,7 @@ __flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor wh
 __flickered__ _v_ _The man flickered the reins._  
 __fliddle__ _v_  
 __Flight into Egypt__ _n_  
-__flight__ _n_ :dart::four::mute:[fli~~gh~~t] A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._  
+__flight__ _n_ :dart::four::mute:[fli~~gh~~t] __9__ A series of stairs rising from one landing to another. _A flight of steps._ _He climbed four flights of stairs._ __11__ A selection of alcoholic drinks (such as wines, beers, or whiskeys) for tasting as a group. _Guests can choose three for a $9.50 flight._  
 __flimflam<sup>1</sup>__ _n_ :dart::two::hammer:  
 __flimflam<sup>2</sup>__ _v_ To deceive, mislead, or trick someone. The word is thought to be of Scandinavian origin. _I wish I’d realized that guy was flimflamming me before I gave him the last of my money._  
 __flimsy__ _adj_ :two::hammer:  
@@ -5690,7 +5696,7 @@ __flitter__ _v_ :four: (flitting) Move back and forth very rapidly. _Syn_ flicke
 __flitty__  
 __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a huge traditional float during the Yamahoko parade._  
 __float<sup>2</sup>__ _v_ :four::hammer:  
-__floater__ _n_ :three::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
+__floater__ _n_ :four::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
 __flock__ _n_  
 __floe__ _n_ :two::hammer: _Ice floe._  
@@ -5708,6 +5714,7 @@ __flop<sup>1</sup>__ _n_ :five::hammer: _You stay at the flop he’s got rented 
 __flop<sup>2</sup>__ _v_ :four::dart: (flops, flopping) __5__ (Sports) To exaggerate or simulate a fall after contact or near-contact with an opposing player in order to induce a referee to call a penalty; to dive. _Flopping—pretending to have been fouled by an opponent—is an unfortunate aspect of many sports._  
 __flopper__ _n_ :three::hammer: _Try keeping your flopper in your pants for a change._  
 __floppy > floppy socks__  
+__flora__ _n_ :two::hammer: /ˈflɔːrə/  
 __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
 __flotation tank__  
