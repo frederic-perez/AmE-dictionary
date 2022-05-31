@@ -5717,7 +5717,7 @@ __floppy > floppy socks__
 __flora__ _n_ :two::hammer: /ˈflɔːrə/  
 __floret__ _n_ :pencil2::two::hammer: (florets) _Your dinner is two florets of broccoli._  
 __florid__  
-__flotation tank__  
+__flotation tank__ _n_ :two::hammer: _(Pseudomedicine)_  
 __flotilla__ _n_ :three::mega: __1__ A fleet of ships or boats, esp. a navy organizational unit consisting of two or more squadrons of small warships. __2__ An indefinite large number: _a flotilla of changes._ _A flotilla of rather mature-looking male models._ __3__ _informal_ A group of vehicles owned or operated as a unit: _a flotilla of limousines._  
 __flotsam__ _n_ :four: __1__ (Nautical Terms) Wreckage from a ship found floating. __2__ Useless or discarded objects; odds and ends (esp in the phrase flotsam and jetsam). __3__ Vagrants.  
 __flounder__ _v_ :nine::m: /floun′dər/ (floundered, floundering) __1__ To stagger or thrash about ineffectually in soft mud or water. _Floundering in and out of deep pools._ __2__ To behave or speak in a blundering or incompetent way, as a result of being at a loss.  
@@ -5726,13 +5726,13 @@ __flourish<sup>2</sup>__ _v_ _The trumpeters were flourishing bright pennants fr
 __flout__ _v_ :nine::m: (flouts, flouted, flouting) /flaʊt/ To ignore or disregard (a rule or convention, for example) in an open or defiant way. _Syn_ defy, refuse to obey, go against, rebel against, scorn, disdain _Objections by businesses and the agriculture community, which flouted the law._ _Illegal campers who persist in flouting the law._ _Public flouting of ordinances was to blame._  
 __flowerpot__ _n_ _Clay flowerpot._  
 __flowing__ _adj_ __3__ Hanging freely or loosely. _Three people in flowing black robes._  
-__flown__ _v_ _The flag was flown at half mast._  
+__flown__ _v_ :two::hammer: _Fresh fish is flown in daily from all over the globe._ _The flag was flown at half mast._  
 __flub<sup>1</sup>__ _v_ :five: (flubbed) Botch or bungle (something). An embarrassing mistake. _Syn_ blooper, blunder, boner, boo-boo, botch, bungle, foul-up, fuckup, pratfall, bloomer _She glanced at her notes and flubbed her lines._  
 __flub<sup>2</sup>__ _n_ :two: (flubs) A thing badly or clumsily done; a blunder. _The textbooks are littered with flubs._ _Political flubs._  
 __fluctuate__ _v_ :mega:  
 __fluff__ _n_ :three::hammer: _I am talking about the tools in my real-life, absolutely ZERO-fluff kinda way._  
 __fluffy slippers__ _n_ :camera:  
-__fluffy__  
+__fluffy__ _adj_ :two::hammer: _Fluffy omelets and giant salads._  
 __fluke__ _n_ :eight: An unlikely chance occurrence, especially a surprising piece of luck. _Syn_ chance, coincidence, accident _His recent victory against Silva was no fluke._  
 __fluky__ _adj_  
 __flummox__ _v_ :seven::dart: /FLUM-uks/ (flummoxed) To confuse; perplex. _Syn_ baffle, bewilder, nonplus, puzzle _The game was designed to flummox its players, presenting them with a series of complex riddles._ _Why the error message kept popping up flummoxed the computer tech._  
@@ -5747,7 +5747,8 @@ __flurry__ _n_ :nine::m: __1__ An occasion when there is a lot of activity, inte
 __flushed complexion__  
 __fluster__ _v_ :eight: (flustered) Make (someone) agitated or confused. _Syn_ unsettle, make nervous, unnerve _Rosamund seemed rather flustered this morning._ :es: aturdir, confundir, poner nervioso  
 __fluted__ _v_  
-__flutist__  
+__flutist__ _n_ :two::hammer:  
+__flutter__ _v_ _Butterflies fluttering._  
 __flutter<sup>1</sup>__ _v_ :nine::m: (fluttered, flutters, fluttering) __1__ To wave or flap rapidly in an irregular manner: _curtains that fluttered in the breeze._ _Banners fluttering in the wind._ __2a__ To fly by a quick light flapping of the wings. __b__ To flap the wings without flying. __3__ To move or fall in a manner suggestive of tremulous flight: _“Her arms rose, fell, and fluttered with the rhythm of the song”_ (Evelyn Waugh). _One hand fluttering under the water._ _Two pieces of paper fluttered to the floor._ __4__ To vibrate or beat rapidly or erratically: _My heart fluttered wildly._ __5__ To move quickly in a nervous, restless, or excited fashion; flit.  
 __flutter<sup>2</sup>__ _n_  
 __fluttering__ _n_  
@@ -5773,6 +5774,7 @@ __fold<sup>1</sup>__ _v_ :five: __8a__ _Informal_ To discontinue operating; clos
 __fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livestock, especially sheep. _They kept the devious students in the fold._ _It brought many viewers into the fold._ _Mowcow organized rallies to welcome Crimea into the fold._  
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __foldout chair__ _n_  
+__foldout__ _n_ _Foldout map of NYC._  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
@@ -5800,9 +5802,11 @@ __foot<sup>2</sup>__ _v_ :three::hammer: _Are you prepared to foot the extra cos
 __footage__ _n_ :two::mega: /ˈfʊtɪdʒ/  
 __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.  
 __foothold__ _n_ :four::hammer: _A foothold._  
-__footing__ _n_ _Last year a student died after losing her footing here._  
+__footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
 __footloose__ _adj_ :three::pencil2::hammer: _Footloose knights._  
+__footpath__ _n_ A narrow path for persons on foot.  
+__footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
 __footwork__ _n_ :two::hammer:  
 __foozle__ _v_  
 __foppish__ _adj_ Affecting extreme elegance in dress and manner. _Syn_ dandyish _Though not foppish, he appreciated fine clothes._  
@@ -5816,7 +5820,7 @@ __for__ _prep_ __32__ (used to indicate the number of successes out of a specifi
 __for-profit__  
 __forage<sup>1</sup>__ _n_ :three::hammer: _Horses’ forage._  
 __forage<sup>2</sup>__ _v_ :two::hammer: (foraged)  
-__forager__ _n_ :three::hammer: (foragers)  
+__forager__ _n_ :four::hammer: (foragers)  
 __foray__ _n_ :seven: /ˈfɒreɪ/ A venture or an initial attempt, especially outside one’s usual area. _Syn_ raid, attack, assault, incursion, swoop, strike, charge _An actor’s foray into politics._ :es: incursión  
 __forbear__ _v_ :two::hammer:  
 __forbearance__  
@@ -5846,7 +5850,7 @@ __forensics__ _n_ :two::hammer:
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
 __foreseeable__  
-__foreshadow__ _v_ :two::hammer:  
+__foreshadow__ _v_ :three::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
@@ -5887,6 +5891,7 @@ __fortify__ _v_ To strengthen physically, mentally, or morally. _Syn_ sustain, e
 __fortitude__ _n_ :three: Strength of mind that enables a person to encounter danger or bear pain or adversity with courage. _Mental fortitude._  
 __fortitudinous__ _adj_ Having or showing courage.  
 __fortnight__  
+__fortuitous__ _adj_ :pencil2:  
 __fortune telling__ _n_  
 __foster care__ _n_ :three::hammer:  
 __foster__ _v_  
@@ -5917,7 +5922,7 @@ __foyer__ _n_ :three::hammer:
 __fracas__ _n_ :six::astonished: Noisy quarrel. _An uproarious fracas._ _An English squire was killed in a fracas._  
 __fracking__ _n_ Hydraulic fracturing.  
 __fractional__ _adj_ _A fractional line of block._  
-__fractious__ _adj_ _His fractious temperament._  
+__fractious__ _adj_ :two::hammer: /FRAK-shus/ Troublesome, unruly, quarrelsome, or irritable. _The political party is more organized and coherent and less fractious._ _His fractious temperament._  
 __fragrancy__ _n_ A pleasingly sweet olfactory property. _Syn_ redolence, bouquet, sweetness _The fragrancy of her perfume seemed to attract every man in the room, drawing them to her like flies to honey._  
 __frags__ _n_ _They taped frags to the tops of the drums._  
 __frail<sup>1</sup>__ _adj_ :two::hammer: _Too frail to leave._  
@@ -5932,6 +5937,7 @@ __frankincense__ _n_ :two::astonished: :es: incienso
 __Frappuccino__  
 __frat house__  
 __frat__ _n_ _informal_ A college fraternity. _A frat house._  
+__fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
 __frats__ _n_  
 __fraudulent__ _adj_  
 __fraught__ _adj_ :nine::m: __1__ (of a situation or course of action) Filled with (something undesirable). _Marketing any new product is fraught with danger._ __2__ Causing or affected by anxiety or stress. _One of the most fraught jobs in goverment._  
@@ -5942,7 +5948,7 @@ __frazzle<sup>1</sup>__ _v_ :two: (frazzled) __1__ To wear away along the edges;
 __frazzle<sup>2</sup>__ _n_ __1__ A frayed or tattered condition. __2__ A condition of exhaustion: _worked themselves to a frazzle._  
 __frazzled__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
-__freak out<sup>2</sup>__ _v_  
+__freak out<sup>2</sup>__ _v_ :two::hammer:  
 __freak__ _adj_ _A freak chemistry lab experiment._  
 __free commune__ _n_ :es: municipio libre  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  

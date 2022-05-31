@@ -1,18 +1,3 @@
-__flotation tank__ _n_ _(Pseudomedicine)_  
-__flown__ _v_ _Fresh fish is flown in daily from all over the globe._  
-__fluffy__ _adj_ _Fluffy omelets and giant salads._  
-__flutist__ _n_  
-__flutter__ _v_ _Butterflies fluttering._  
-__foldout__ _n_ _Foldout map of NYC._  
-__footing__ _n_ _I found my footing._  
-__footpath__ _n_ A narrow path for persons on foot.  
-__footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
-__forager__ _n_  
-__foreshadow__ _v_  
-__fortuitous__ _adj_ :pencil2:  
-__fractious__ _adj_ /FRAK-shus/ Troublesome, unruly, quarrelsome, or irritable. _The political party is more organized and coherent and less fractious._  
-__fraternal twin__ _n_ One of a pair of twins, not necessarily resembling each other or of the same sex, that develop from two separately fertilized ova. Compare _identical twin._  
-__freak out__  
 __french fries__ _n_ (French fries)  
 __frenching__ _v_ _(kissing)_  
 __frozen yogurt__ _n_ _Non-fat frozen yogurt._  
