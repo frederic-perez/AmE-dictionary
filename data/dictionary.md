@@ -2994,6 +2994,7 @@ __comma splice__ _n_ (comma fault) The misuse of a comma, rather than a semicolo
 __command__ _v_ _Those who graduate with degrees in STEM fields are expected to command the highest salaries._  
 __commandeered__ _v_ :astonished::two::hammer:  
 __commander in chief__  
+__commemorate__ _v_ /kuh-MEM-uh-rayt/  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
 __commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
@@ -3067,7 +3068,7 @@ __con<sup>1</sup>__ _n_ :six::hammer: Short for convention. _Comic con._ _Con ga
 __con<sup>2</sup>__ _v_ :four::hammer: (conned) _He was conned beyond redemption._ _Now Biff, don’t con me!_  
 __Concacaf__  
 __concede__ _v_ _A total of 44 goals scored and 48 conceded last year._  
-__conceit<sup>1</sup>__ _n_ :two::hammer:  
+__conceit<sup>1</sup>__ _n_ :dart::three: A favorable and especially unduly high opinion of one’s own abilities or worth. _Syn_ amour-propre, vanity _She was convinced that she was worthy of marrying royalty, but her vanity and conceit only made her less attractive to the prince._  
 __conceit<sup>2</sup>__ _v_ (Obsolete) To understand; conceive.  
 __conceited__ _adj_ :three: Holding or characterized by an unduly high opinion of oneself. _Syn_ swollen-headed, egotistical, vain _She was a conceited, boastful old thing, and even misfortune could not humble her._ _Conceited delusion._  
 __conceivably__  
@@ -3979,6 +3980,7 @@ __derringer__ _n_ :two::hammer: _A single-shot derringer, in case the enemy capt
 __dervish__ _n_  
 __Des Moines, Iowa__ _n_ :mega: [Common popular pronunciation: /duh–moinz, dez-moins/ Prevailing local pronunciation: /duh–moin/]  
 __descamisado__ _n_ __2__ An Argentine worker especially when poor and underprivileged. __3__ A very poor person. _They walked past cardboard and blanket in a dry outflow wall-pipe, which was some descamisado’s home._  
+__descant__ _v intr_ __1__ To comment at length; discourse: _“He used to descant critically on the dishes which had been at table.” (James Boswell)._  
 __descent__ _n_ :mute:[des~~c~~ent]  
 __descry__ _v_ :two: _literary_ To catch sight of (something difficult to discern). _Syn_ spot, spy _From the top of the hill I descried a solitary rider._ _She descried two figures._ :es: divisar  
 __desecrate__ _v_ :four::hammer: _Desecrating the flag._  
@@ -4977,7 +4979,7 @@ __eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
 __ephemera__  
-__ephemeral<sup>1</sup>__ _adj_ :four: /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
+__ephemeral<sup>1</sup>__ _adj_ :five: /ih-FEM-uh-rul/ /ih-fem-er-uhl/ [:scroll: From Greek ephemeros (short-lived), from epi- (upon) + hemera (day).] Lasting a very short time; transitory. Lasting a very short time. _Syn_ fugacious, passing, short-lived, transitory, transient _Spare me in my ephemeral happiness, leave it to me for a few days, for a few minutes._  
 __ephemeral<sup>2</sup>__ _n_ :two: /ih-fem-er-uhl/ Anything short-lived, as certain insects.  
 __epicure__ _n_ One with sensitive and discriminating tastes especially in food or wine.  
 __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ Devoted to sensual pleasures, esp food and drink; hedonistic. __2__ Suitable for an epicure: _an epicurean feast._ Displaying luxury and furnishing gratification to the senses. _Syn_ sybaritic, luxuriant, voluptuous _I starved myself all day to make sure I would have room for the epicurean feast that was to be my dinner._  
@@ -5967,6 +5969,7 @@ __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
 __Frenchman__  
+__frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A supposed friend who behaves in a treacherous manner. __2__ A person who is considered as both a friend and a rival.  
 __frenetic__ _adj_  
 __frenzy__ _n_ :two::hammer:  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
@@ -6311,6 +6314,7 @@ __glabella__ _n_ The smooth area between the eyebrows just above the nose.
 __glad-hand__ _v_  
 __gladdened__  
 __glades__ _n_ _Heathy glades._  
+__glamping__ _n informal_ [:scroll: Back-formation from glamping, a blend of glamorous + camping] Camping in glamorous or luxurious conditions. Outdoor camping with amenities and comforts (such as beds, electricity, and access to indoor plumbing) not usually used when camping.  
 __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
@@ -8272,7 +8276,7 @@ __Kool-Aid__
 __Kosher salt__  
 __kosher<sup>1</sup>__ _n_ _informal_  
 __kosher<sup>2</sup>__ _adj_ :three: __1__ _(Judaism)_ __a__ Fit or allowed to be eaten or used, according to the dietary or ceremonial laws: _kosher meat; kosher dishes; a kosher tallith._ __b__ Adhering to the laws governing such fitness: _a kosher restaurant._ __2__ _informal_ __a__ Proper; legitimate. _Is it kosher to wear jeans in the office?_ __b__ Genuine; authentic.  
-__kowtow__ _v_ :three::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
+__kowtow__ _v_ :four::astonished: (kowtowing) The word kowtow derives from Chinese _koutou_, formed by combining the verb _kou_ (“to knock”) with the noun _tou_ (“head”). __1__ To touch the forehead to the ground as a sign of deference: a former Chinese custom. __2__ (often foll by to) To be servile or obsequious (towards). To be too eager to obey or be polite to someone in authority.  
 __krauts__  
 __krinkled__  
 __kroop__  
@@ -8872,6 +8876,7 @@ __macaronic__ _adj_ __2__ Of or involving a mixture of two or more languages.
 __macaroon__ _n_ :three: A cookie made with egg whites, sugar, and ground almonds or coconut.  
 __Mace<sup>1</sup>__ _n_ _A can of Mace._  
 __Mace<sup>2</sup>__ _v_  
+__macerate__ _v_ To make soft, usually by steeping in liquid, and cause to disintegrate as a result. _Syn_ soften _The stale bread was left to macerate in a bowl of milk for a few hours._  
 __Mach number__ _n_ :pencil2:  
 __Machiavellian__ _adj_ :pencil2:  
 __machinate__ _v_  
@@ -12905,6 +12910,7 @@ __scrummy__ _adj_ :three: Delicious; lovely.
 __scrumptious__  
 __scrunch__ _v_ :three::hammer: (scrunched, scrunching) :two::hammer:  
 __scrunchy__ _n_ (scrunchies) An elastic band covered with gathered fabric, used to fasten the hair, as in a ponytail.  
+__scruple__ _n_ An uneasy feeling arising from conscience or principle that tends to hinder action. _Syn_ misgiving, qualm _Lady Macbeth is impatient with her husband’s scruples and goads him into killing the king._  
 __scrupulously__  
 __scrutinize__ _v_  
 __scrutiny__ _n_ :two::hammer:  
