@@ -5968,6 +5968,8 @@ __freewheeling__ _adj_ :nine::m: _informal_ Unrestrained in manner, actions, etc
 __freezer__ _n_ :two::hammer: _Chest/Upright freezer._ :camera:  
 __freight train__ _n_ (vs passenger train)  
 __French door__ _n_ :four: (French doors) A door, usually one of a pair, of light construction with glass panes extending for most of its length. _French door fridge._  
+__french fries__ _n_ (French fries)  
+__frenching__ _v_ _(kissing)_  
 __Frenchman__  
 __frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A supposed friend who behaves in a treacherous manner. __2__ A person who is considered as both a friend and a rival.  
 __frenetic__ _adj_  
@@ -6022,7 +6024,7 @@ __frothy__
 __frowsty__ _adj_ Stale and unclean smelling. _Syn_ fusty, musty _As a college student, all I could afford was a frowsty basement apartment, but it served its purpose._  
 __frowzy__ _adj_  
 __frozen custard__ _n_ Dessert resembling ice cream but with a boiled custard base.  
-__frozen yogurt__  
+__frozen yogurt__ _n_ :two::hammer: _Non-fat frozen yogurt._  
 __frugal__ _adj_ :three: __1__ Practicing or marked by economy, as in the expenditure of money or the use of material resources. __2__ Simple or costing little; meager or inexpensive: _a frugal lunch._  
 __frugivorous__ _adj_ Feeding on fruit.  
 __fruit basket__ _n_ A basket containing a variety of fruits sent as a gift. _California’s Central Valley, fruit basket to the nation._  
@@ -6033,7 +6035,7 @@ __frumpy__
 __fuchsia__ _n_ :three::mega::pencil2::hammer:  
 __fucko__ _n_ A jackass, dumbshit sort of person, who although tries to be smart about things ends up with their head up their ass.  
 __fuddy-duddy__  
-__fudge<sup>1</sup>__ _n_  
+__fudge<sup>1</sup>__ _n_ :two::hammer:  
 __fudge<sup>2</sup>__ _adj_  
 __fudge<sup>3</sup>__ _v_ :four::hammer: _You can’t fudge this thinking._ _Fudging statistics._  
 __fugacious__ _adj_ Passing away quickly; evanescent. _Syn_ ephemeral, passing, short-lived, transitory, transient  
@@ -6065,6 +6067,7 @@ __funambulist__ _n_ An acrobat who performs on a tightrope or slack rope. _Syn_ 
 __fundraiser__ _n_ _They were at a fundraiser._  
 __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, and onions, in a creamy soup or sauce, often served at large family gatherings in the Midwest and especially in the Mormon Church. _Syn_ Mormon funeral potatoes, Mormon potatoes, party potatoes  
 __funereal__ _adj_ :pencil2: _Funereal tone._  
+__funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
@@ -6085,6 +6088,7 @@ __furrow<sup>1</sup>__ _n_ :six::hammer:
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
 __further__ _v_ :two::hammer:  
 __furtive__ _adj_ /FER-tiv/  
+__fuschia__ _n_ (fuschias)  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
 __fuselage__  
 __fusillade__ _n_ :two::hammer:  
@@ -6111,7 +6115,7 @@ __Gabor__ _n_ :mega:
 __gadabout__ _n_ A person who goes from place to place in social activity.  
 __gadfly__ _n_ :two: __1__ Any of various flies, as a horsefly or warble fly, that bite or annoy livestock. __2__ A person who persistently annoys or stirs up others, esp. with provocative criticism.  
 __gaff__ _n_  
-__gaffe__ _n_ :seven: /ɡæf/ __1__ A clumsy social error, esp a tactless remark; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._ __2__ A blatant mistake or misjudgment.  
+__gaffe__ _n_ :eight: /ɡæf/ __1__ A clumsy social error, esp a tactless remark; a faux pas. _Syn_ slip, solecism, gaucherie _He knew by the silence that greeted his speech that he had made some kind of gaffe._ __2__ A blatant mistake or misjudgment.  
 __gaffer__ _n_ _Br_ :two: Boss.  
 __gag__ _n_ _The cases’s gag order._  
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
@@ -6128,8 +6132,9 @@ __gallant__ _adj_
 __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
-__galleys__ _n_  
+__galley__ _n_ :two::hammer:  
 __Gallicism__ _n_  
+__gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __galloping__  
@@ -6141,7 +6146,7 @@ __galvanize__ _v_ :nine: (galvanized) /GAL-vuh-nyze/ To startle into sudden acti
 __gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
-__game__ _n_ (hunting)  
+__game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
 __gamine__  
@@ -6154,7 +6159,7 @@ __Ganjapreneur__
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
 __gar__ _n_  
-__garb__ _n_ :four::hammer: _They wore medical garb of some variety._ _In a prison garb._  
+__garb__ _n_ :five::hammer: _They wore medical garb of some variety._ _In a prison garb._ :es: atuendo  
 __garbage chute__ _n_ :camera:  
 __garbage island__  
 __garbed__ _v_ :two::hammer:  
@@ -6205,7 +6210,7 @@ __gauzy__ _adj_ :two::hammer:
 __gavel__ _n_ :six::hammer: _The judge’s gavel._  
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
-__gazebo__  
+__gazebo__ _n_ :four::mega::hammer:  
 __gazette__ _n_  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
@@ -6213,7 +6218,7 @@ __geezer__ _n_ :three::hammer: (geezers) _derogatory_ _A lightsaber battle where
 __Geiger counter__ _n_ An instrument for detecting ionizing radiations.  
 __gel__ _v_ (gelled) _His hair was neatly gelled._  
 __gelding__ _n_ :three:hammer:  
-__gelid__ _adj_ Extremely cold. _Gelid water._ _A man of gelid reserve._  
+__gelid__ _adj_ :two: Extremely cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._ _Gelid water._ _A man of gelid reserve._  
 __gelt__  
 __gemstone__ _n_ :es: piedra preciosa  
 __gender dysphoria__ _n_  
@@ -6254,7 +6259,7 @@ __get wind__
 __get your act together__  
 __get-go__ _n informal_ :four: The beginning; outset. _I’ve been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
 __getaway day__  
-__getaway__ _n_ :four::hammer: (getaways) _Weekend getaways._  
+__getaway__ _n_ :five::hammer: (getaways) _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
 __ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ _A ghastly affair._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
@@ -6318,6 +6323,7 @@ __glamping__ _n informal_ [:scroll: Back-formation from glamping, a blend of gla
 __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
 __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
+__glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glib__ _adj_ :six::hammer: _A glib reply to his remark._ _A glib tongue._ _Jack was glib._  

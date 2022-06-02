@@ -1,18 +1,3 @@
-__french fries__ _n_ (French fries)  
-__frenching__ _v_ _(kissing)_  
-__frozen yogurt__ _n_ _Non-fat frozen yogurt._  
-__fudge__ _n_  
-__funhouse__ _n_ (fun house) _Funhouse-like reflections._  
-__fuschia__ _n_ (fuschias)  
-__gaffe__ _n_ /ɡæf/  
-__galley__ _n_  
-__gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
-__game__ _adj_ __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
-__garb__ _n_ :es: atuendo  
-__gazebo__ _n_ :three::mega::hammer:  
-__gelid__ _adj_ Very cold; icy. _Syn_ arctic, frigid, glacial, polar _After only a few minutes in the gelid wind, they were shivering too hard to speak._  
-__getaway__ _n_  
-__glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
 __gloat__ _v_  
 __gnocchi__ _n_ :pencil2: _Homemade gnocchi._  
 __Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
