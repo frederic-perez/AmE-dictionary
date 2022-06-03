@@ -1,18 +1,3 @@
-__gloat__ _v_  
-__gnocchi__ _n_ :pencil2: _Homemade gnocchi._  
-__Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
-__grace__ _v_ _Priceless pieces from The Beatles grace the walls._  
-__grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
-__gratuity__ _n_ :two::hammer: (gratuities)  
-__grazer__ _n_  
-__greasy spoon__ _n slang_ A small, inexpensive, often unsanitary restaurant. _The classic greasy spoon concept._  
-__greenhouse__ _n_ :es: invernadero  
-__grift__ _n, v_  
-__gripping__ _adj_ _Gripping performances._  
-__grist__ _n_ _A water-powered grist mill._  
-__grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
-__ground-breaking__  
-__grovel__ _v_ To lie or creep in a prostrate position, as in subservience or humility. _Syn_ cower, cringe, fawn _The prisoners groveled before the emperor, hoping that he would commute their sentences._  
 __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
 __grub__  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  

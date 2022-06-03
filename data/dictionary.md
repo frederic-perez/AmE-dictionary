@@ -6341,7 +6341,7 @@ __glitterati__ _pl n_ _informal_ :two: Highly fashionable celebrities: _“priva
 __glitz__ _n_ :two::hammer:  
 __glitzy__  
 __gloaming__ _n_ _poetic_ :three: Twilight or dusk.  
-__gloat<sup>1</sup>__ _v_ :seven::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
+__gloat<sup>1</sup>__ _v_ :eight::hammer: (gloated, gloating) _I could not gloat._ _The feisty man gloated._  
 __gloat<sup>2</sup>__ _n_  
 __glob__ _n_ :five::hammer: _A glob of spit._ _A glob of phlegm._ _A glob of chicken salad._ _The camel spat ropy globs at him._  
 __globetrot__ _v_ (globetrotting) To travel often and widely, especially for sightseeing.  
@@ -6367,6 +6367,7 @@ __gnash<sup>1</sup>__ _v_ :three::hammer: _Gnashing teeth._
 __gnash<sup>2</sup>__ _n_  
 __gnat__ _n_ :four: Any of various small usually biting dipteran flies. :es: (British usage) mosquito  
 __gnaw__ _v_ :nine::m::mute:[~~g~~naw] /nɔː/ (gnawed, gnaw out) To erode or diminish gradually as if by gnawing. _Syn_ chew, bite, nibble _Waves gnawing the rocky shore; watching a dog gnaw at a big bone._ _A demographic crisis gnawing at the industry._  
+__gnocchi__ _n_ :pencil2: _Homemade gnocchi._  
 __gnome__ _n_ :mute:[~~g~~nome]  
 __gnostic__ _adj_ Of, relating to, or possessing intellectual or spiritual knowledge.  
 __gnu__ _n_ :mute:[~~g~~nu]  
@@ -6408,6 +6409,7 @@ __godsend__ _n_ :two: An unexpected thing or event that is particularly welcome 
 __Godspeed__ _n_ _And Godspeed to you all._  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
+__Gold Coast__ _n_ _(Chicago)_ _Gold Coast neighborhood._  
 __gold digger__ _n_ _informal_ A woman who has relationships with rich men so that they will give her money.  
 __gold rush__  
 __gold-digger__ _n_ One who forms a romantic relationship with a rich person for money. From the metaphorical use of the term for someone who digs for gold. In the beginning, the terms gold-digger and gold-miner were synonymous. Then came the metaphorical sense of the term gold-digger, someone forming a relationship for money, instead of love. Originally, a gold-digger was a woman and a gold-miner a man. Traditional boundaries are blurred now.  
@@ -6470,7 +6472,7 @@ __gourmand__ _n_ :two: __1__ One who is excessively fond of eating and drinking.
 __gout__ _n_ :two::hammer:  
 __goy__ _n_ (Often Offensive) A person who is not Jewish.  
 __grab__ _v_ _Come here and grab a comic book._  
-__grace__ _v_ :two::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._  
+__grace__ _v_ :three::hammer: (graced) _If you never have to deal with this issue, you’re truly graced._ _Priceless pieces from The Beatles grace the walls._  
 __gracious__ _adj_ :six::hammer: _He was very gracious._ _An attitude of gravious humility._  
 __graciousness__  
 __grad__ _adj, n_ _Congrats, grads!_ _Grad program._  
@@ -6503,6 +6505,7 @@ __grapple<sup>1</sup>__ _v_ :dart::nine::m: (grapples, grappled, grappling) __1_
 __grapple<sup>2</sup>__ _n_ :two::hammer: _A thin cord hooked to a grapple._  
 __grappling__ _v_ _Students grappling with the same problem._  
 __grapplings__ _n_  
+__grasp__ _v tr_ __3__ To take hold of intellectually; comprehend.  
 __grass-roots<sup>1</sup>__ _n_  
 __grass-roots<sup>2</sup>__ _adj_ _Grass-roots campaign._  
 __grassroots__ _pl n_ :three::hammer: _A grassroots effort._  
@@ -6513,6 +6516,7 @@ __gratify__ _v_ Yield (to); give satisfaction to. _Syn_ pander, indulge _No rule
 __gratin__ _n_ _Sweet potato gratin._  
 __grating<sup>1</sup>__ _n_ :three::hammer: _A bright green screen of thick metal grating sat solidly on the counter._ _A piece of old iron grating._  
 __grating<sup>2</sup>__ _adj_ _A grating sound._  
+__gratuity__ _n_ :two::hammer: (gratuities)  
 __graupel__ _n_ Precipitation consisting of snow pellets.  
 __grave liner__ _n_ (burial vault, burial liner, grave vault) A container, formerly made of wood or brick but more often today made of metal or concrete, that encloses a coffin to help prevent a grave from sinking. _Grave liners are stored at the Travis County cemetery._  
 __grave__  
@@ -6530,8 +6534,10 @@ __gravy__ _n_ :three::hammer:
 __graybeard__ _n_ :two: A man who is very old. _Syn_ old man, Methuselah _Senate graybeards._  
 __grayling__  
 __graze__ _v_ :nine::m: (grazed, grazing) __1__ To feed on growing grasses and herbage. _Some species can graze on the extra algae._ __2__ To scrape or touch something lightly in passing. _Police confirm a young girl was grazed by a bullet._ __3__ To break the skin of (a part of the body) by scraping.  
+__grazer__ _n_  
 __grazing land__ _n_ :hammer::camera: A field covered with grass or herbage and suitable for grazing by livestock.  
 __greaseball__ _n_ __2__ _offensive_ _slang_ Used as a disparaging term for a person of Latin and especially Italian descent.  
+__greasy spoon__ _n slang_ A small, inexpensive, often unsanitary restaurant. _The classic greasy spoon concept._  
 __Great Dane__  
 __Great War__  
 __great-grandchild__ _n_ (great grandchildren)  
@@ -6546,7 +6552,7 @@ __green-behimd-the-ears__
 __green-eyed__ _adj_ Jealous.  
 __greenback__ _n_ :three: A note of US currency. :es: billete _Green greenbacks._  
 __greenhorn__ _n_ :two: A newcomer, especially one who is unfamiliar with the ways of a place or group. _Syn_ novice, beginner, apprentice, naïf, learner, ingénue, tyro, newbie, neophyte _I am a bit of a greenhorn in the kitchen, but I am a fast learner and expect to be cooking like a pro in no time._  
-__greenhouse__ _n_ :two::hammer:  
+__greenhouse__ _n_ :three::hammer: :es: invernadero  
 __greenlight__ _v_  
 __greensward__ _n_ Surface layer of ground containing a mat of grass and grass roots. _Syn_ sod, turf  
 __greenwash__ _v tr_ To launder money; to obliterate the illegal sources of money by moving it through a variety of financial institutions. _It was shown in court that the mayor had been involved in greenwashing some of the bribe money._  
@@ -6560,7 +6566,7 @@ __gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed
 __gridlock__  
 __grievance__ _n_ :two::hammer:  
 __grievously__  
-__griff__  
+__grift__ _n, v_ :two::hammer:  
 __grifter__ _n_ :three: A person who swindles another out of money.  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grilling__  
@@ -6579,9 +6585,9 @@ __grip-and-grin__ _n_ __1__ _colloquial_ An event at which one is expected to sm
 __gripe<sup>1</sup>__ _n_ :astonished::five::hammer: _Not a single gripe._ _Syn_ complaint  
 __gripe<sup>2</sup>__ _v_ :three::hammer: (griping) _Syn_ complain  
 __gripped__ _v_ :two::hammer: _That 1995 murder trial gripped USA._ _The disappearance had gripped the city._  
-__gripping__ _adj_ :four: /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._ _A gripping contest._  
+__gripping__ _adj_ :five: /ˈgrɪp ɪŋ/ Holding the attention or interest intensely: _a gripping drama._ _A gripping contest._ _Gripping performances._  
 __grisly__ _adj_ :seven::hammer: /GRIZ-lee/ _A grisly synagogue assault._  
-__grist__ _n_ :three::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._  
+__grist__ _n_ :four::hammer: _Grist mill._ _Plastic wrapping becomes grist for composite decking._ _A water-powered grist mill._  
 __gristle__ _n_ :three::hammer:  
 __grit__ _n informal_ :eight: (gritty, grittier) Indomitable courage, toughness, or resolution. _A gritty 101-97 overtime win against the Memphis Grizzlies._ :es: (courage) valor  
 __grits__ _n_ :three: A dish of coarsely ground maize kernels boiled with water or milk. _I eat grits and baby food and get up in the morning with barbed wire in my stomach._ _The grits on the stove._ _Make mine scrambled eggs, sausage, grits, and coffee._  
@@ -6604,11 +6610,13 @@ __grope (somebody)__ _v informal_ :two: To touch somebody sexually, especially w
 __grope__ _v_ :two::hammer: _The precautions, though groping in the right direction, failed to stop the carrier of the Black Death._  
 __gross__ _n_ __2__ A group of 144 items; 12 dozen.  
 __grotesque__ _adj_  
+__grotto__ _n_ :two::hammer: _A rooftop grotto bar._  
 __grouch__ _v_ Show one’s unhappiness or critical attitude. _Syn_ grumble, scold _He always grouches about his job, but deep down he really loves it._  
 __grouchy__ _adj_  
 __ground chuck steak__  
 __ground game__  
 __ground zero__ _n_ :two::hammer:  
+__ground-breaking__  
 __groundbreaker__ _n_ :three::hammer:  
 __groundbreaking__ _adj_ _Groundbreaking science._  
 __Groundhog Day__  
@@ -6623,7 +6631,7 @@ __grouse<sup>1</sup>__ _v intr_ :seven: /grous/ To complain or to grumble. _We g
 __grouse<sup>2</sup>__ _n_ /grous/ A complaint.  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
 __grove__ _n_ :two::hammer:  
-__grovel__ _v_ :five::hammer: (groveling)  
+__grovel__ _v_ :six: (groveling) To lie or creep in a prostrate position, as in subservience or humility. _Syn_ cower, cringe, fawn _The prisoners groveled before the emperor, hoping that he would commute their sentences._  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
 __growl<sup>2</sup>__ _v_ :seven::hammer: (growled, growling) _The dogs were growling in repulsion._  
