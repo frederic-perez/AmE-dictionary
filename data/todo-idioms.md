@@ -1,18 +1,3 @@
-__hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
-__hold fast to something__ _A pair of friends holding fast to their dreams._  
-__house of cards__  
-__I hear you__  
-__in its entirety__  
-__in its/their own right__ :two::hammer:  
-__iron out__  
-__it speaks for itself__  
-__keep above water__  
-__killer__ _adj_ _It is known for its killer grilled cheese sammies._  
-__knockout__  
-__laid-back__  
-__larger than life__  
-__larger-than-life__  
-__leave someone in its wake__ _The speedboat leaves all others in its wake._  
 __like no other__  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __make amends__  

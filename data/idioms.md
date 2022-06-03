@@ -1161,6 +1161,7 @@ __hit on (one)__ To show one’s romantic or sexual interest in one; to flirt wi
 __hit on all cylinders__ To operate, perform, function, or proceed exceptionally well or at the greatest possible speed or efficiency.  
 __hit or miss__ :two::hammer:  
 __hit the big time__ To become very famous or successful.  
+__hit the fan__ To become more of a problem or more widespread or publicized. _Once this scandal hits the fan, all of our investors are liable to pull out of the company._  
 __hit the gas__ :two: To move quickly; to accelerate or go faster. Used especially while riding in an automobile.  
 __hit the ground running__  
 __hit the jackpot__ :two::hammer:  
@@ -1180,6 +1181,7 @@ __hold (one’s) water__ To be calm or patient; to stop making pressing demands,
 __hold (someone) in good stead__ Especially of a talent, ability, or experience, to prove particularly useful or beneficial to someone in the future.  
 __hold a candle__  
 __hold a grudge__ To feel angry with someone who has done something to upset you in the past.  
+__hold fast to something__ _A pair of friends holding fast to their dreams._  
 __hold on to your hat__ Get ready for what’s coming or about to happen! _Hold on to your hats, everybody—we’re about to see what these fireworks can do!_  
 __hold on__  
 __hold one’s ground__  
@@ -1209,6 +1211,7 @@ __hot potato__ Something that is difficult or dangerous to deal with. _Gun contr
 __hot tip__ A piece of advice or information that is timely and helpful, especially if acted upon quickly.  
 __hothead__ A person with an excitable, fiery, or impetuous temper or disposition; one who is quick to get angry or act rashly. _That lady in the car behind me is a real hothead, honking and shouting at me every time I slow down!_  
 __house cooling party__ A party thrown to commemorate when someone leaves an apartment, flat, or house.  
+__house of cards__  
 __housewarming (party)__ A party thrown to celebrate when someone moves into a new apartment, flat, or house.  
 __how about that__ :two: That is very interesting, impressive, exciting, surprising, or respectable. Said as an exclamation, rather than a question. _A: “I heard Janet is running for a seat in the senate.” B: “Wow, how about that!”_ _How about that. Have you ever seen such a thing?_  
 __how come__ Why? Why is it that (something is the case)? _A: “I’m sorry, but I’m not letting you go to the party tonight.” B: “Aw, Mom! How come?”_ _How come Bobby gets ice cream but I don’t?_  
@@ -1221,7 +1224,7 @@ __hunt where the ducks are__ To pursue or look for one’s objectives, results, 
 __hustle (one’s) bustle__ To increase one’s pace or sense of urgency; to hurry up; to get moving quickly.  
 __hustle and bustle__ Busy and frenetic activity or excitement. _I love living among the hustle and bustle of the city._ _I avoid the hustle and bustle of malls and shopping centers whenever I can._  
 __I feel you/that__ _slang_ I understand, agree with, or can relate to what you’re saying. _No, I feel you, that’s too much money to pay for a concert. I’m OK with skipping it._  
-__I hear you__ :two: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
+__I hear you__ :three: I acknowledge what you have said and am sympathetic to it. The phrase is sometimes used as a prelude to disagreeing with what has been said. _I hear you, honey. I know you’re in a lot of pain right now._ _I hear you, but we just can’t afford to make any big changes like that at this time._  
 __I rest my case__  
 __I see what you did there__ An expression used to acknowledge that one understands a joke made by someone else, and to either show appreciation or a lack thereof for the wit employed.  
 __I suppose (so)__ An expression of vague affirmation or assent.  
@@ -1278,7 +1281,9 @@ __in full swing__ :two::hammer: _The conference was in full swing when I arrived
 __in full__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ In trouble.  
+__in its entirety__  
 __in its infancy__ In the early, nascent period of development or implementation. (Typically of an area of activity, interest, research, etc.)  
+__in its/their own right__ :two::hammer:  
 __in jest__ As a joke; not seriously. _Speaking in jest._ :es: en broma  
 __in layman’s terms__ In words that can be understood by people outside of a given profession or field of expertise, i.e., without the use of jargon or highly technical terms.  
 __in leaps and bounds__ By very large degrees; rapidly or in quick progress forward. _What was once a tiny local choir club has expanded in leaps and bounds over the years._  
@@ -1341,12 +1346,13 @@ __inner circle__ A small, exclusive, and intimate group of like-minded people sh
 __inside and out__ Thoroughly; down to the last detail.  
 __insofar as__ To such an extent that; to the degree that.  
 __intestinal fortitude__ Strong courage, conviction, or determination; gumption; guts. _Not everyone has the intestinal fortitude necessary to survive in the world of politics._  
-__iron out__  
+__iron out__ :two::hammer:  
 __isn’t that funny?__  
 __it ain’t over till/until the fat lady sings__ The final outcome cannot be assumed or determined until a given situation, event, etc., is completely finished. It is often used in reference to organized competitions, such as sporting events, political elections, or the like.  
 __it figures__ :three: It makes sense; it is as I expected or might have guessed. _A: “Sally already broke up with that new boyfriend of hers.” B: “Yeah, it figures. The dude looked like a total creep!”_  
 __it goes without saying__ It is unambiguous, perfectly clear, or self-evident (that something is the case); it is already widely acknowledged, established, or accepted (that something is the case).  
 __it is what it is__ The situation, circumstance, or outcome has already happened or been decided or established, so it must be accepted even if it is undesirable. _Look, we lost the game, but it is what it is. All we can do is work even harder for the next one._  
+__it speaks for itself__  
 __it takes a village__ _proverb_ Many people’s help or involvement is needed to achieve some goal. A shortening of the proverb, “It takes a village to raise a child.”  
 __it takes two to tango__ :two::hammer:  
 __it wouldn’t do (someone) any harm (to do something)__ It would or may be good, pragmatic, or beneficial for someone (to do something).  
@@ -1391,7 +1397,7 @@ __keep a close eye on (someone or something)__ To monitor someone or something c
 __keep a cool head__ To maintain a calm demeanor and think clearly in a difficult, stressful, or troubling situation.  
 __keep a lid on (something)__ __1__ To keep the level of something from increasing drastically or beyond what is undesirable or dangerous. _They were one of the few countries in the EU able to keep a lid on unemployment during the recession._ __2__ To not allow something to become known to other people; to keep something a secret or classified. _No one else knows about it yet, so keep a lid on it for now._  
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
-__keep above water__ :two::hammer: _This is keeping myself above water._  
+__keep above water__ :three::hammer: _This is keeping myself above water._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep from (doing something)__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
@@ -1421,6 +1427,7 @@ __kid around__
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kill the goose that lays the golden egg(s)__ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he’ll kill the goose that lays the golden eggs._ _We’re killing the goose that laid the golden egg._  
 __kill two birds with one stone__  
+__killer__ _adj_ _It is known for its killer grilled cheese sammies._  
 __killing field__  
 __kindred spirit__ :nine::m: (kindred spirits) An individual with the same beliefs, attitudes or feelings as oneself. _Dean and I are kindred spirits when it comes to spending money-we’re both tight._ _Syn_ kindred soul _A kindred spirit._ :es: almas gemelas  
 __king of the hill__ :three: The most powerful, successful, or authoritative person in a group or organization _After years of slowly moving up the ranks, Joe finally became king of the hill in his office._  
@@ -1435,6 +1442,7 @@ __knock on wood__
 __knock the socks off (someone or something)__  
 __knocked up__ _rude slang_ Become pregnant.  
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
+__knockout__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
 __know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better (than to do something)__ To be wise enough, experienced enough, or well trained enough not to have done something wrong. _Mary should have known better than to accept a lift from a stranger._ _Children should know better than to play in the road._  
@@ -1453,6 +1461,8 @@ __land on (one’s) feet__ To gracefully survive a bad situation.
 __land-poor__ Owning a large amount of land that is unprofitable and being without the means to maintain it or capitalize on its fertility.  
 __lap dog__ :dart: __1__ Literally, a dog that is small enough and temperamentally incline to sit comfortably upon one’s lap. __2__ A person who is readily inclined to submit to, seek the favor of, or agree with someone else, especially a person of higher authority. _It sickens me to see you be a lap dog of your boss like that. Have a little self-respect!_ :es: perro faldero  
 __lap of the gods__ A state beyond possible human control, intervention, or responsibility; a state or condition that is or will be decided by nature or fate. Usually used in the phrase “in the lap of the gods.”  
+__larger than life__  
+__larger-than-life__  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something.  
 __last hurrah__ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
@@ -1483,6 +1493,7 @@ __leave (something) out of account__ To ignore something; to pay little or no he
 __leave home__ To cease living with one’s parents; to strike out on one’s own. _I regret leaving home at such a young age, but it did teach me some good lessons about self-reliance._  
 __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to lack a large amount of what is desired or required. _The film has a very interesting premise, but the final product leaves much to be desired._  
 __leave no stone unturned__ :two::hammer: _We are leaving no stone unturned._  
+__leave someone in its wake__ _The speedboat leaves all others in its wake._  
 __left and right__ :three::hammer:  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
