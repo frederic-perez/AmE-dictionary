@@ -1,3 +1,18 @@
+__a great deal__  
+__all things considered__  
+__as if to say__  
+__bats in the belfry__  
+__cut the line__  
+__do the trick__  
+__entry level__  
+__go over the top__  
+__got them covered__  
+__heart skips a beat__  
+__honest mistake__  
+__in all__  
+__in denial__  
+__kid in a candy store__  
+__left in the dark__  
 __like no other__  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __make amends__  
@@ -12,13 +27,18 @@ __off-kilter__
 __oh, my__  
 __one of a kind__  
 __one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
+__open mike__  
 __other than (something)__ Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
+__out of the blue__  
+__pass on__  
 __pass with flying colors__  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
+__pull tabs__ (casino)  
+__push back__ :two::hammer:  
 __push the envelope__  
 __put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
@@ -27,19 +47,25 @@ __revel in__
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __roll with it__  
+__rubb elbows__  
+__rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
+__run (one’s) mouth (off)__  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __safety net__  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
+__save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
 __schmooze__  
 __score big__ _Come in and score big._  
 __second-guess__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
+__set the pace__  
 __shoot for the stars__  
 __shoot the breeze__  
 __sing along__  
+__sleep in__  
 __sneeze at__  
 __spin the beans__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
@@ -65,6 +91,8 @@ __that’s a given__
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __then again__  
+__tick someone off__  
+__to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to the core__ _Charming to the core._  
@@ -77,6 +105,7 @@ __up and running__
 __up-and-coming__ _Up-and-coming writers and artists._  
 __wash something down__ _Wash it down with a glass of milk._  
 __weather pemitting__  
+__weather permitting__  
 __while supplies last__ :two::hammer:  
 __wipe the floor__  
 __with a twist__  
