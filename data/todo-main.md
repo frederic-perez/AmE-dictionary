@@ -1,6 +1,76 @@
+__acclaimed__ _adj_ :two::hammer:  
+__accrue__ _v_  
+__al fresco__  
+__amble__ _v_ (ambling)  
+__amphitheater__  
+__antler__ _n_ _Antler chandelier._  
+__aquaria__  
+__arboretum__ _n_  
+__arguably__ _adv_  
+__avoidance__ _n_  
+__beech__ _n_ _Beech woods._  
+__berated__ _v_  
+__biome__ _n_  
+__Birkenstock__ _n_  
+__bog__ _n_  
+__bonkers__  
+__borderline__  
+__bracing swim__  
+__Brothers Grimm__ _n_  
+__buff__ _n_ _A history buff._  
+__building__ _n_ _A state building._  
+__bullion__  
+__burgundy__  
+__canopy__  
+__carillon__ _n_ _Sounds of bubbling founyains and carillons._  
+__Chick-fil-A__ _n_  
+__chuck-wagon__ _n_ _Chuck-wagon supper._  
+__circa__  
+__cleanliness__ _n_  
+__coastline__  
+__college__ _n_ :mega:  
+__compelling__ _adj_  
+__consecrate__ _v_  
+__construction paper__  
+__consultation__ _n_ _Call for a consultation._  
+__crimson__ _n_ _Soar among the spectacular crimson mesas._  
+__dappled__ _v_ _Trees cast their dappled shade._  
+__dastard__ _adj_  
+__debacle__  
+__deck__ _n_ _An elevated deck with with mountain views._  
+__developer__ _n_ _This land attracts developers, architects, builders and brokers._  
+__devilment__ _n_  
+__disenchanted__  
+__dive bars__  
+__downright__  
+__downtime__ _n_  
+__dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
+__enthralling__  
+__enthralling__ _adj_  
+__enviable__ _adj_  
+__exalt__ _v_  
+__exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
+__extolled__ _v_  
+__fairground attraction__  
+__faiway__ _n_ _The turf of the lush green fairways._  
+__fancy__ _v_  
+__fibromyalgia__ _n_ :dart::pencil2:  
+__fireplace__ _n_ _Gas fireplaces._  
+__flail__ _v_  
+__flint__ _n_ _You’ll discover ancient villages of brick and flint._  
+__freak out__  
+__frequent__ _v_  
+__galore__  
+__gambit__ _n_  
+__gated community__ _n_ :two::hammer:  
+__gatekeeper__ _n_  
+__gateway__  
+__glens__ _n_  
 __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
 __grub__  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
+__gunpowder__  
+__hamlet__ _n_  
 __hamstring__ _n_ /ˈhæmˌstrɪŋ/  
 __hangout__ _n_  
 __hardship__ _n_  
@@ -12,9 +82,13 @@ __haunts__
 __hayrides__ _n_  
 __headbanger__  
 __headboard__ _n_  
+__headland__  
+__headline__ _v_ _Prize-winning steaks headline the menu._  
+__heady__ _adj_ _Heady events._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heather__ _n_ :es: brezo  
+__heathland__ _n_ :two::hammer:  
 __hectic__ _adj_ _The hectic pace of the city._  
 __heist__ _n_  
 __Hell’s Kitchen__ _n_  
@@ -24,11 +98,16 @@ __Hershey kisses__
 __heyday__ _n_  
 __hibachi__ _n_  
 __hickory__ _n_ _Hickory charcoal-grilled steaks._  
+__hiker__ _n_ :two::hammer:  
+__hip__ _adj_ _Hip restaurants._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
+__home furnishing__ _n_  
+__homesite__ _n_ :two::hammer:  
 __homophobia__ _n_  
 __hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
 __hone__ _v_ _Visitors can hone their skills on classic games._  
+__hop__ _n_ _Hop hardens._  
 __Hopi__ _n_  
 __horsewares__ _n_  
 __host__ _n_ _A host of amphibians._  
@@ -53,12 +132,16 @@ __impresario__ _n_
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __incidentally__  
 __inconspicuous__ _adj_  
+__inoculation__ _n_  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
+__intersperse__ _v_  
 __interspersed__ _v_  
 __investiture__ _n_ /in-VES-ti-choor/chuhr/ [:scroll: From Latin investire (to cloth, install), from vestis (garment).] A formal ceremony in which someone is given an official title, rank, honors, etc.  
 __invigorating__ _adj_  
 __iron__ _n_ _(golf)_  
+__islander__  
+__islet__  
 __jack cheeses__  
 __jaded__ _adj_ _A jaded traveler._  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -66,6 +149,7 @@ __jambalaya__ _n_
 __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.  
 __jarring__ _adj_  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
+__jouster__ _n_  
 __juke__ _v_  
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
 __junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
@@ -74,9 +158,13 @@ __jus__ _n_ _Cookery_ A sauce. _Verbena jus._
 __K-pop__ _n_ _The characteristic pop music of South Korea._  
 __kale__ _n_  
 __kangaroo word__  
+__keno__ _n_ A game of chance, similar to lotto, that uses balls rather than counters.  
 __kiddo__ _n_ _Bring the kiddos._  
 __kiosk__ _n_ _Information kiosks._  
+__kipper__ _n_  
 __kitchen garden__  
+__kitchenette__ _n_ :pencil2:  
+__kiva__ _n_ _A Native American kiva._  
 __knowledgeable__ _adj_ :two::hammer:  
 __kooky__ _adj_ :two::hammer:  
 __Kowtow__  
@@ -85,7 +173,10 @@ __Lady Liberty__ _n_ :two::hammer:
 __laid-back__ _adj_  
 __lampoon__ _n_ _All get a solid lampooning._  
 __lateral thinking__  
+__lauded__ _v_  
+__lavish__ _adj_ :two::hammer:  
 __ledger__ _n_  
+__legit__  
 __legit__ _adj_ _informal_  
 __leisure<sup>2</sup>__ _adj_ __1__ Free or unoccupied: _leisure hours._ __2__ Having leisure; not required to work for a living: _the leisure class._ __3__ Designed for recreational use: _video games and other leisure products._ _Leisure sports._  
 __leisurely<sup>1</sup>__ _adj_ :two::hammer: _A leisurely weekend stroll._  
@@ -93,6 +184,7 @@ __leisurely<sup>2</sup>__ _adv_
 __lemongrass__  
 __libation__ _n_ :four::hammer:  
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
+__limestone__  
 __limestone__  
 __line up__ _v_ _Huge crowds are lining up._  
 __lintel__ _n_  
@@ -103,6 +195,7 @@ __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projecti
 __loggery__ _n_  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
 __lore__ _n_ :two::hammer: _Crazy folk lore._  
+__lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
 __low-key__ _adj_  
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
@@ -113,9 +206,11 @@ __luncheon__
 __lurks__ _v_  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
 __lush__ _adj_ :four::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._  
+__luxuriate__ _v_ _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __magical thinking__ _n_  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
+__mainline__  
 __mainstay__ _n_ :three::hammer:  
 __mainstream__  
 __majestic__ _adj_  
@@ -125,15 +220,22 @@ __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or control
 __mallrats__  
 __manic episode__ _n_  
 __manifold__ _adj_ _Physical activity: manifold benefits for health and wellbeing._  
+__maritime__  
 __marjoram__ _n_  
+__martyrdom__  
 __mashup__ _n_ _A fantastic mashup of illuminated characters._  
+__masterpieces__ _n_  
 __matinee__  
 __matron__ _n_ _A jailhouse matron._  
+__mayo__ _n_ :mega:  
+__meander__ _v_  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __meerkats__ _n_  
 __megalomaniac__ _adj_  
 __megastore__ _n_ :mega:  
+__memento__ _n_ (mementoes)  
+__menagerie__  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
 __mercurial__ _adj_ Quick and changeable in temperament. _Syn_ quicksilver, erratic, fickle, volatile _Her mercurial nature made it difficult to gauge how she would react._  
 __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien, from Latin meridianus, from meridies (noon), from medius (mid) + dies (day)] __1__ A line connecting the North Pole to the South Pole or a circle passing through the two poles. __2__ Midday. __3__ :astonished: The highest point, as of power, prosperity, development, etc.  
@@ -151,6 +253,7 @@ __misconstrue__ _v tr_
 __misphrase__ _v tr_  
 __mixologist__  
 __moated__ _adj_ _The moated palace of King Edwin._  
+__Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
@@ -160,21 +263,27 @@ __moody__
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
+__mortgage__ _n_ :mega:  
+__mortified__  
 __mosey__ _v intr_  
 __mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
 __munch__ _v_  
 __murky__ _adj_  
+__myofascial__ _adj_  
 __myopic__ _adj_  
+__myriad__  
 __myriad__ _adj_  
 __mythical__ _adj_  
 __naan bread__ _n_  
 __namesake__  
+__narrowboat__  
 __necklace__ _n_  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
 __neophyte__ _n_  
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
+__nerve-racking__ _adj_  
 __nestled__ _adj_ :four: Drawn or pressed close to someone or something for or as if for affection or protection; _saw a number of small houses nestled against the hillside._ _Nestled in the heart of the city._  
 __neurotypical__ _adj, n_  
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
@@ -183,7 +292,9 @@ __nibble on__
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
 __nightcap__ _n_ _A romantic nightcap._  
 __nightcaps__  
+__nitty-gritty__ _n_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
+__nomadic__  
 __nosh<sup>1</sup>__ _n_  
 __nosh<sup>2</sup>__ _v tr_ :two::hammer:  
 __noshing__ _v_  
@@ -192,7 +303,9 @@ __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oddball__ _adj, n_  
+__off-color__ _adj_ _An off-color remark._  
 __offbeat__ _adj_  
+__omelet__ _n_ :mega: (omelette)  
 __one-off__  
 __op-ed__ _adj, n_ :mega:  
 __operating system__  
@@ -200,10 +313,12 @@ __orderliness__ _n_
 __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._  
 __ornament__ _n_  
 __ornamental__ _adj_  
+__ornate__  
 __ornate__ _adj_ :two::hammer: /ɔrˈneɪt/  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __ostrich__ _n_ _Ostrich bruschetta._  
 __outcry__ _n_  
+__outfitter__ _n_ _Horseback outfitter._  
 __outrageous__ _adj_ _Outrageous innovations._  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
@@ -212,11 +327,16 @@ __overly__
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
 __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
+__pageantry__ _n_  
+__painstakingly__  
 __pamper__ _v_  
 __panache__  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
+__pantomime__ _v_  
 __paper lantern__ _n_ :camera:  
+__paradoxical__ _adj_ :two::hammer:  
+__Paralympic Games__  
 __paraphernalia__  
 __parcel__ _n_  
 __parishioner__ _n_  
@@ -226,10 +346,12 @@ __patron__ _n_ :six::hammer: (patrons) _This concert venue can hold 11,000 patro
 __patronize__ _v_  
 __pavers__ _n_  
 __pavilion__  
+__pavilion__ _n_  
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __pedestal__ _n_  
 __pedigree__  
+__peerless__ _adj_ _Peerless scenic beauty._  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penned__ _v_  
@@ -248,6 +370,7 @@ __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjuncti
 __pinstripes__ _n_  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __planter__ _n_  
+__planters__ _n_  
 __plantman__ _n_  
 __plantwoman__ _n_  
 __platted__ _v_  
@@ -259,11 +382,14 @@ __plot__ _n_ _Vegetable plot._
 __plush__ _n_ _A plush booth in the bar._  
 __Pluto__ _n_  
 __pod__ _n_ _Pea pod._  
+__Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
 __pompous__ _adj_ Characterized by excessive self-esteem or exaggerated dignity. _Syn_ overblown, grandiloquent, portentous _He read the proclamation aloud in a pompous voice, although nobody was paying attention._  
 __pontoon__ _n_ _Pedal a pontoon boat._  
 __pool table__  
+__pool__ _n_ :two::hammer: _Heated pool._  
 __potentate__ _n_ One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
 __potsticker__ _n_  
+__potty-train__ _v_  
 __poutine__  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ _Chicago is one of the premier dining destinations in the country._  
@@ -273,14 +399,18 @@ __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need
 __prime__ _adj_ _Prime steaks._  
 __primrose__ _n_  
 __privy__  
+__prix fixe__ _n_ _A la carte or elegant prix fixe dining._  
 __prix fixe__ _n_ :six::hammer: _Prix fixe dinner._ _Prix-fixe specials._  
 __proceeds__ _n_ _Proceeds of refreshments to the British Red Cross._  
 __procure__ _v_  
+__produce__ _n_ Farm products, especially fresh fruits and vegetables, considered as a group. _The freshest and finest seasonal organic produce._  
+__profound__ _adj_ :mega:  
 __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive length. _Syn_ voluble, wordy _She was engaged in editing a prolix manuscript, trying to cut the length by at least a third._  
 __promenade__ _n_  
 __promo__  
 __prompt__ _adj_ _Prompt, safe, and reliable._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
+__protracted__ _adj_ _A protracted discussion._  
 __prowess__  
 __psyched__ _v_  
 __pulmonarias__ _n_  
@@ -291,11 +421,14 @@ __puree__ _n_ :mega:
 __purveyor__  
 __pustule__ _n_  
 __pylon__ _n_  
+__quaint__ _adj_ _Quaint bridges._  
 __quaint__ _adj_ :two::hammer: _Quaint neighborhood shops._  
 __quake__ _v_ _Quaking aspen._  
 __quintessential__ _adj_ :two::hammer:  
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
+__radar__ _n_ :mega:  
+__rafting__ _n_ _River rafting._  
 __raillery__ _n_  
 __rampant__ _adj_  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
@@ -306,6 +439,7 @@ __recount__ _v_
 __Red Cross__ _n_  
 __red snapper__ _n_  
 __refreshment__ _n_  
+__regatta__ _n_  
 __regiment__ _n_ _Several regiments of soldiers._  
 __rejoice__ _v_  
 __rejuvenated__ _adj_  
@@ -314,6 +448,7 @@ __remiss__ _adj_
 __rendition__ _n_  
 __reputedly__ _adv_ /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __respite__ _n_  
+__retrace__ _v_  
 __revel__ _v_  
 __revelry__  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
@@ -322,14 +457,19 @@ __rhododendrons__ _n_ :pencil2:
 __rib eye__ _n_ _Rib eye steaks._  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
 __ribeye__ _n_ /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
+__ridicule__ _v_  
 __riff__ _v_  
 __rink__ _n_ :two::hammer: _A wintertime skating rink._  
 __rip-roaring__ _adj_ _Rip-roaring German beer._  
 __riparian__ _adj_ :two: Of, on, or relating to the banks of a natural course of water.  
+__riparian__ _adj_ :two::hammer: _Riparian sanctuary._ _Refreshing riparian areas._  
 __riverfront__  
+__riverside__  
 __roaring__ _adj_ :two::hammer: _A roaring marble fireplace._  
+__Robert Burns__ _n_  
 __rockery__ _n_ :four::hammer:  
 __rollicking__  
+__rolling hills__ _n_ :two::hammer:  
 __Romanesque__ _adj_ :two::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
 __rosewood__  
@@ -340,6 +480,7 @@ __rowdy__ _adj_ :two::hammer: _A rowdy guilty pleasure._
 __rummage__ _v_  
 __running shoes__ _n_  
 __runway__ _n_  
+__rut__ _n_  
 __sable__ _n_ (animal)  
 __saccade__ _n_  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
@@ -348,11 +489,13 @@ __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented
 __salient__ _adj_ /SAIL-yunt/  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __samurai__ _n_ :mega:  
+__sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __Saratoga__ _n_  
 __sassy__  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
+__scant__  
 __scant__  
 __scarlet letter__ _n_  
 __scarlet__ _n_  
@@ -372,15 +515,20 @@ __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; hig
 __seating__ _n_ _Plenty of garden seating._  
 __secluded__ _adj_  
 __seesaw__  
+__seethe__ _v_  
 __segue__ _v_ (segues)  
+__self-serving__ _adj_  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
 __serigraph__ _n_  
 __sesquipedalian__ _adj, n_  
+__Shangri-la__ _n_ :mega:  
 __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
 __shaved ice__ _n_ _Glacee flavored shaved ice._  
 __sheared__ _adj_ _Sheared mink._  
+__shearing__ _n_ _Sheep shearing._  
 __shearling__ _n_ _Luxurious shearlings._  
+__sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ _Pulling shenanigans._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
@@ -413,10 +561,12 @@ __skit__ _n_ :two::hammer: _Skit theater._
 __sleek__ _adj_  
 __sleuth__ _n_ :two::hammer:  
 __slick__ _adj_ _A natural water slide eroded into slick rock._  
+__sliver__ _n_  
 __slushies__ _n_ _Boozy slushies._  
 __small-claims court__ _n_  
 __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
 __smalltime__ _adj informal_ _Smalltime dealer._  
+__smattering__  
 __smortasbord__  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
 __sobriquet__ _n_ (soubriquet)  
@@ -425,7 +575,11 @@ __sought-after__
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __speakeasy__  
 __spiffy__ _adj_ _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__spire__ _n_ :three::hammer:  
+__splashdown__ _n_ :dart: The landing of a crewed spacecraft in the ocean.  
+__splurge__ _n_  
 __splurge__ _v_  
+__sprawling__ _adj_ _A sprawling cabin of rustic elegance._  
 __sprightly__ _adj, adv_ _Sprightly salads._  
 __sprite__ _n_ _Mischievous sprites._  
 __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountain or mountain range.  
@@ -438,16 +592,20 @@ __standee__
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
 __stardom__ _n_  
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
+__statesman__  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __steed__ _n_ _Epic battles of steel and steed._  
+__steeped__ _v_ _Steeped in history._  
+__steeped__ _v_ _This region is steeped in history._  
 __stele__ _n_ Stone marker or monument: _an ancient stele marked the grave._  
 __stem__ _v_  
 __sterling__ _adj_ _A sterling job._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
 __stew__ _v_  
+__stooges__ _n_  
 __stopover__ _n_ :es: estancia  
 __storefront__ _n_  
 __strain__ _n_  
@@ -464,6 +622,7 @@ __succint__
 __suitor__ _n_  
 __summertime__ _n_ :pencil2:  
 __sumptuous__ _adj_ _A sumptuous Sunday feast._  
+__suncatcher__ _n_  
 __sundae__ _n_  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
 __sundry__ _n_ _Unique selection of sundries and cosmetics._  
@@ -474,10 +633,13 @@ __surefire__ _n_ _A surefire way to see the secrets of the Park._
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
+__swath__ _n_ (swathes)  
 __sweeping__ _adj_ _A sweeping view._  
+__sweeping__ _adj_ _The sweeping sandy beaches of Broadstairs._  
 __switchback__ _n_  
 __sycamore__ _n_ :two::hammer:  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
+__tab__ _v_ _It has been tabbed the no. 2 French restaurant in Arizona._  
 __tabletop__ _adj, n_  
 __Tahitian__  
 __talented__ _adj_  
@@ -491,6 +653,7 @@ __tatterdemalion__ _n_ _rare_
 __technical__ _adj_ _Technical garments._  
 __tedium__ _n_ _The bitter tedium of his daily life._  
 __teeming__ _v_ _A pond teeming with frogs and newts._  
+__teethe__ _v_  
 __teetotaler__  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
@@ -516,6 +679,7 @@ __timeless__
 __timely__ _adv_ _In a timely manner._  
 __timepiece__ _n_  
 __timesaving__ _adj_ (of methods, devices, etc.) Reducing the time spent or required to do something.  
+__timeshare__  
 __tix__ _n pl_ _informal_ Tickets.  
 __tkt__ _n_ Ticket.  
 __toil__ _v_ _Artisans toil in fascinating foundries._  
@@ -528,6 +692,7 @@ __top-flight__ _adj_ _Top-flight restaurant._
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __toppings__ _n_  
 __tote bag__ _n_  
+__trailhead__ _n_ :two::hammer:  
 __trashy__  
 __travesty<sup>1</sup>__ _n_ /TRAV-uh-stee/ __1__ Mockery. __2__ A debased or grotesque imitation.  
 __travesty<sup>2</sup>__ _v tr_ /TRAV-uh-stee/ __1__ To represent in a false or absurd manner. __2__ To caricature or parody.  
@@ -538,6 +703,7 @@ __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidat
 __tribulation__ _n_  
 __trinket__ _n_ _Trinket shops._  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
+__trove__  
 __trove__ _n_ :two::hammer:  
 __truffles__ _n_ :pencil2:  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
@@ -563,9 +729,11 @@ __unparalleled__ _adj_ :two::hammer:
 __unpretentious__  
 __unscathed__ _adj_  
 __unsurmountable__ _adj_  
+__unwind__ _v_  
 __unwind__ _v_ :three: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
+__uptown__ _adj, adv, n_ :two::hammer:  
 __username__ _n_ ;pencil2:  
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __V8__ _n_ _(beverage)_  
@@ -573,6 +741,7 @@ __vacuous__
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
+__verdant__ _adj_  
 __verdant__ _adj_ /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vie__ _v_  
@@ -587,8 +756,11 @@ __walk-up__ _n_ _Bike rental for walk-ups._
 __wanderlust__  
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
+__watchword__  
 __watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
+__wellrounded__  
+__wet bar__ _n_ :astonished:  
 __wheelbarrow__ _n_  
 __whimsical__ _adj_  
 __whiplash__ _n_ _An amazing, whiplash-inducing performance._  
@@ -596,12 +768,17 @@ __white-knuckled__
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
 __wily__  
+__wind chimes__ _n pl_  
 __windchimes__ _n_  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
+__wondrous__  
+__workforce__ _n_ (work force)  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
+__wow__ _v_  
 __yarns__ _n_ :two::hammer:  
 __yatch__ _n_ :mega:  
+__yesteryear__  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  
 __zero in__  

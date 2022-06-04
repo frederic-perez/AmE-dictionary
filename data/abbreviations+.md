@@ -176,7 +176,7 @@ __TMI__ Too much information.
 __tn__ Trillion. _US $2.4tn._  
 __TOEFL__ (ToEFL) Test of English as a Foreign Language, is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities.  
 __UNESCO__ United Nations Educational, Scientific and Cultural Organization.  
-__USDA__ :three: United States Department of Agriculture. _Dry-aged USDA Prime cuts of beef._  
+__USDA__ :four: United States Department of Agriculture. _Dry-aged USDA Prime cuts of beef._ _USDA choice certified Angus steaks._  
 __VA__ __1__ (Military) (in the US) Veterans’ Administration. _VA medical centers._  
 __VAR__ Video Assistant Referee.  
 __VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. _(aka keyhole surgery of the chest)_  
