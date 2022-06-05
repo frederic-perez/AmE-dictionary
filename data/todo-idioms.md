@@ -1,19 +1,26 @@
 __a great deal__  
+__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
+__above board__  
 __all things considered__  
 __as if to say__  
 __bats in the belfry__  
+__chances are__  
 __cut the line__  
 __do the trick__  
 __entry level__  
+__give something/it a shot__  
 __go over the top__  
 __got them covered__  
+__Happily Ever After__  
 __heart skips a beat__  
 __honest mistake__  
 __in all__  
 __in denial__  
 __kid in a candy store__  
+__know a thing or two__  
 __left in the dark__  
 __like no other__  
+__look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __make amends__  
 __mark__ _n_ _(sucker)_  
@@ -22,6 +29,7 @@ __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always 
 __mover and shaker__  
 __my lucky star__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
+__nothing short of__  
 __objection hearsay__  
 __off-kilter__  
 __oh, my__  
@@ -64,6 +72,7 @@ __set (someone) by the ears__ To cause (someone, generally a group of two or mor
 __set the pace__  
 __shoot for the stars__  
 __shoot the breeze__  
+__simply put__  
 __sing along__  
 __sleep in__  
 __sneeze at__  
@@ -85,9 +94,12 @@ __take a catnap__ To sleep for a very brief but restful period of time. _I’m g
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
+__take pride__  
 __take the edge off__  
 __tap into__  
 __that’s a given__  
+__the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
+__the lion’s den__  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __then again__  
@@ -100,6 +112,7 @@ __touch base__
 __tour de force__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
+__turn (one’s) back on (someone or something)__ To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __uncanny valley__  
 __up and running__  
 __up-and-coming__ _Up-and-coming writers and artists._  

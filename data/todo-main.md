@@ -8,6 +8,7 @@ __aquaria__
 __arboretum__ _n_  
 __arguably__ _adv_  
 __avoidance__ _n_  
+__bastion__ _n_  
 __beech__ _n_ _Beech woods._  
 __berated__ _v_  
 __biome__ _n_  
@@ -18,6 +19,7 @@ __borderline__
 __bracing swim__  
 __Brothers Grimm__ _n_  
 __buff__ _n_ _A history buff._  
+__buffet__ _n_ _A ten-dollar buffet._  
 __building__ _n_ _A state building._  
 __bullion__  
 __burgundy__  
@@ -36,15 +38,18 @@ __consultation__ _n_ _Call for a consultation._
 __crimson__ _n_ _Soar among the spectacular crimson mesas._  
 __dappled__ _v_ _Trees cast their dappled shade._  
 __dastard__ _adj_  
+__de-escalate__ _v_ :two::pencil2::hammer:  
 __debacle__  
 __deck__ _n_ _An elevated deck with with mountain views._  
 __developer__ _n_ _This land attracts developers, architects, builders and brokers._  
 __devilment__ _n_  
+__devotee__ _n_ _Burning Man devotees._  
 __disenchanted__  
 __dive bars__  
 __downright__  
 __downtime__ _n_  
 __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
+__Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __enthralling__  
 __enthralling__ _adj_  
 __enviable__ _adj_  
@@ -54,6 +59,7 @@ __extolled__ _v_
 __fairground attraction__  
 __faiway__ _n_ _The turf of the lush green fairways._  
 __fancy__ _v_  
+__Federal lands__ _n_  
 __fibromyalgia__ _n_ :dart::pencil2:  
 __fireplace__ _n_ _Gas fireplaces._  
 __flail__ _v_  
@@ -70,6 +76,7 @@ __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container broug
 __grub__  
 __guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
 __gunpowder__  
+__hacky__ _adj_ _A hacky cough._  
 __hamlet__ _n_  
 __hamstring__ _n_ /ˈhæmˌstrɪŋ/  
 __hangout__ _n_  
@@ -251,6 +258,7 @@ __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.
 __mischievous__ _adj_  
 __misconstrue__ _v tr_  
 __misphrase__ _v tr_  
+__misstep__ _n_ :pencil2:  
 __mixologist__  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
@@ -270,6 +278,7 @@ __mousy__ _adj_ _A mousy accountant._
 __moveable__ _adj_ _Moveable bridges._  
 __munch__ _v_  
 __murky__ _adj_  
+__mushy__ _adj_  
 __myofascial__ _adj_  
 __myopic__ _adj_  
 __myriad__  
@@ -367,6 +376,7 @@ __picknicking__ _v_
 __pico de gallo__  
 __picturesque__ _adj_ :three::hammer:  
 __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
+__pin__ _v_ _Pinned it against the wall._  
 __pinstripes__ _n_  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __planter__ _n_  
@@ -412,6 +422,7 @@ __prompt__ _adj_ _Prompt, safe, and reliable._
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __protracted__ _adj_ _A protracted discussion._  
 __prowess__  
+__prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
 __psyched__ _v_  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
@@ -532,6 +543,7 @@ __sheet__ _n_ _A three-sheeted bed._
 __shenanigan__ _n informal_ _Pulling shenanigans._  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
+__short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
 __shoulder__ _v_  
 __shove__ _v_  
 __showbiz__ _n_  
@@ -575,6 +587,7 @@ __sought-after__
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __speakeasy__  
 __spiffy__ _adj_ _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__spiral__ _v_ _It spirals out of control._  
 __spire__ _n_ :three::hammer:  
 __splashdown__ _n_ :dart: The landing of a crewed spacecraft in the ocean.  
 __splurge__ _n_  
@@ -666,6 +679,7 @@ __thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._
 __thoroughfares__ _n_ :two::hammer:  
 __thought-provoking__  
 __thrift__ _n_ _Thrift store._  
+__throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throughout__  
@@ -732,6 +746,7 @@ __unsurmountable__ _adj_
 __unwind__ _v_  
 __unwind__ _v_ :three: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
+__upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
 __uptown__ _adj, adv, n_ :two::hammer:  
 __username__ _n_ ;pencil2:  
@@ -759,6 +774,7 @@ __wares__ _n_ _The retailers showcase their wares on the runway._
 __watchword__  
 __watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
+__well versed__ _adj_  
 __wellrounded__  
 __wet bar__ _n_ :astonished:  
 __wheelbarrow__ _n_  
