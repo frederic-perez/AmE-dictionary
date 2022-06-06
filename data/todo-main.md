@@ -10,6 +10,7 @@ __arguably__ _adv_
 __avoidance__ _n_  
 __bastion__ _n_  
 __beech__ _n_ _Beech woods._  
+__behest__ _n_ /bih-HEST/ An authoritative order or an urgent prompting. _The committee met again at the behest of the senator._  
 __berated__ _v_  
 __biome__ _n_  
 __Birkenstock__ _n_  
@@ -35,12 +36,14 @@ __compelling__ _adj_
 __consecrate__ _v_  
 __construction paper__  
 __consultation__ _n_ _Call for a consultation._  
+__coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
 __crimson__ _n_ _Soar among the spectacular crimson mesas._  
 __dappled__ _v_ _Trees cast their dappled shade._  
 __dastard__ _adj_  
 __de-escalate__ _v_ :two::pencil2::hammer:  
 __debacle__  
 __deck__ _n_ _An elevated deck with with mountain views._  
+__decry__ _v_ /dih-KRY/ To express strong disapproval of. _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._  
 __developer__ _n_ _This land attracts developers, architects, builders and brokers._  
 __devilment__ _n_  
 __devotee__ _n_ _Burning Man devotees._  
@@ -50,6 +53,7 @@ __downright__
 __downtime__ _n_  
 __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
+__empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __enthralling__  
 __enthralling__ _adj_  
 __enviable__ _adj_  
@@ -61,16 +65,20 @@ __faiway__ _n_ _The turf of the lush green fairways._
 __fancy__ _v_  
 __Federal lands__ _n_  
 __fibromyalgia__ _n_ :dart::pencil2:  
+__fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
 __fireplace__ _n_ _Gas fireplaces._  
 __flail__ _v_  
 __flint__ _n_ _You’ll discover ancient villages of brick and flint._  
 __freak out__  
 __frequent__ _v_  
+__fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
 __galore__  
 __gambit__ _n_  
 __gated community__ _n_ :two::hammer:  
 __gatekeeper__ _n_  
 __gateway__  
+__ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
+__glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
 __glens__ _n_  
 __growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
 __grub__  
@@ -140,6 +148,7 @@ __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/
 __incidentally__  
 __inconspicuous__ _adj_  
 __inoculation__ _n_  
+__insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
 __intersperse__ _v_  
@@ -241,6 +250,7 @@ __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center 
 __meerkats__ _n_  
 __megalomaniac__ _adj_  
 __megastore__ _n_ :mega:  
+__meld__ _v_ /MELD/ To blend or mix together. _The sauce cooks slowly, allowing the flavors to meld together._  
 __memento__ _n_ (mementoes)  
 __menagerie__  
 __merchant__ _n_ _The merchants listed are easy to find on our map._  
@@ -276,6 +286,7 @@ __mortified__
 __mosey__ _v intr_  
 __mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
+__mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __munch__ _v_  
 __murky__ _adj_  
 __mushy__ _adj_  
@@ -365,6 +376,7 @@ __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhan
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penned__ _v_  
 __perfect__ _v_  
+__perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._  
 __pergola__ _n_  
 __peristyle__  
 __pewter__ _n_  
@@ -377,6 +389,7 @@ __pico de gallo__
 __picturesque__ _adj_ :three::hammer:  
 __piggyback__ _v_ /PIG-ee-bak/ __1__ To set up or cause to function in conjunction with something larger, more important or already in existence or operation. _The legislation is being piggybacked on another bill._ __2__ To function or be carried on or as if on the back of another. _The relief pitcher piggybacked off the the starter and won the ballgame._  
 __pin__ _v_ _Pinned it against the wall._  
+__pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
 __pinstripes__ _n_  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __planter__ _n_  
@@ -426,6 +439,7 @@ __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anythi
 __psyched__ _v_  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
+__punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __pupil__ _n_ /ˈpjuːpəl/  
 __purebred__  
 __puree__ _n_ :mega:  
@@ -635,6 +649,7 @@ __succint__
 __suitor__ _n_  
 __summertime__ _n_ :pencil2:  
 __sumptuous__ _adj_ _A sumptuous Sunday feast._  
+__sumptuous__ _adj_ /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._  
 __suncatcher__ _n_  
 __sundae__ _n_  
 __sundries__ _n pl_ Articles too small or numerous to be specified; miscellaneous items. Small, miscellaneous items of little value.  
@@ -731,6 +746,7 @@ __twattle__ _n_ /ˈtwɒtəl/ A rare word for twaddle.
 __twist__ _n_ :three::hammer: _An innovative twist._  
 __tympanum__ _n_ :two::hammer: _Architecture_ _A colored ceramic tympanum._  
 __typify__ _v_ (typifies)  
+__ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_ :three::hammer: _Unabashed humor._  
 __unapologetic__ _adj_  
