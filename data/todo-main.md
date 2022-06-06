@@ -3,8 +3,10 @@ __accrue__ _v_
 __al fresco__  
 __amble__ _v_ (ambling)  
 __amphitheater__  
+__anastomosis__ _n_  
 __antler__ _n_ _Antler chandelier._  
 __aquaria__  
+__Aragon__ _n_ :mega: /ˈærəɡən/  
 __arboretum__ _n_  
 __arguably__ _adv_  
 __avoidance__ _n_  
@@ -14,6 +16,7 @@ __behest__ _n_ /bih-HEST/ An authoritative order or an urgent prompting. _The co
 __berated__ _v_  
 __biome__ _n_  
 __Birkenstock__ _n_  
+__blast__ _n_ __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party.  
 __bog__ _n_  
 __bonkers__  
 __borderline__  
@@ -49,6 +52,7 @@ __devilment__ _n_
 __devotee__ _n_ _Burning Man devotees._  
 __disenchanted__  
 __dive bars__  
+__downpour__ _n_ /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. :es: aguacero, chubasco, chaparrón  
 __downright__  
 __downtime__ _n_  
 __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
@@ -100,6 +104,7 @@ __headboard__ _n_
 __headland__  
 __headline__ _v_ _Prize-winning steaks headline the menu._  
 __heady__ _adj_ _Heady events._  
+__heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heather__ _n_ :es: brezo  
@@ -635,6 +640,7 @@ __stew__ _v_
 __stooges__ _n_  
 __stopover__ _n_ :es: estancia  
 __storefront__ _n_  
+__stow__ _v tr_  
 __strain__ _n_  
 __strifle__ _n_  
 __strobe lights__  

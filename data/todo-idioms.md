@@ -5,6 +5,7 @@ __all things considered__
 __as if to say__  
 __bats in the belfry__  
 __chances are__  
+__crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __cut the line__  
 __do the trick__  
 __entry level__  
@@ -20,6 +21,7 @@ __kid in a candy store__
 __know a thing or two__  
 __left in the dark__  
 __like no other__  
+__lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __make amends__  
@@ -45,6 +47,7 @@ __Peter Pan syndrome__ A psychological state or condition in which a grown perso
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
+__pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __pull tabs__ (casino)  
 __push back__ :two::hammer:  
 __push the envelope__  
@@ -52,20 +55,24 @@ __put up with (someone or something)__
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
 __revel in__  
+__ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __roll with it__  
 __rubb elbows__  
+__rubber jungle__ An aviation term among pilots and airline crew for the effect created when the rubber oxygen masks in a commercial aircraft deploy from its ceiling. _Everyone started to panic when the rubber jungle appeared, so I had to reassure them that it was just a minor hiccup and that we were all perfectly safe._  
 __rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
 __run (one’s) mouth (off)__  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __safety net__  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
+__same same__  
 __save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
 __schmooze__  
 __score big__ _Come in and score big._  
+__screw (one’s) courage to the sticking place__ To remain bold, resolute, determined, and courageous, especially in the face of possible danger, difficulty, hardship, or adversity. Taken from a line in Shakespeare’s _Macbeth_: “We fail! But screw your courage to the sticking-place, and we’ll not fail.” _Men, some of us may not make it back alive, but such is the nature of war; so screw your courage to the sticking place and show them what you’re made of!_  
 __second-guess__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
@@ -97,6 +104,7 @@ __take a toll (on someone or something)__ To cause damage or deleterious effects
 __take pride__  
 __take the edge off__  
 __tap into__  
+__tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __that’s a given__  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the lion’s den__  
