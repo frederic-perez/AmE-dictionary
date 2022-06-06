@@ -1,29 +1,39 @@
 __a great deal__  
 __a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
+__a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
 __above board__  
+__ahoy there, me hearties__  
 __all things considered__  
 __as if to say__  
 __bats in the belfry__  
 __chances are__  
 __crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __cut the line__  
+__dance the night away__  
 __do the trick__  
 __entry level__  
+__fear not__  
+__get to grips__  
 __give something/it a shot__  
 __go over the top__  
 __got them covered__  
 __Happily Ever After__  
+__hard pressed__ _You’ll be hard pressed to visit them._  
 __heart skips a beat__  
 __honest mistake__  
 __in all__  
 __in denial__  
+__in full swing__  
 __kid in a candy store__  
 __know a thing or two__  
+__last but certainly not least__  
+__leap of faith__  
 __left in the dark__  
 __like no other__  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
+__make a splash__  
 __make amends__  
 __mark__ _n_ _(sucker)_  
 __melting pot__  
@@ -44,6 +54,8 @@ __pass on__
 __pass with flying colors__  
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
+__picture perfect__  
+__place your bets__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
@@ -77,6 +89,7 @@ __second-guess__
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set the pace__  
+__seventh heaven__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__  
@@ -107,11 +120,13 @@ __tap into__
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __that’s a given__  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
+__the likes of__  
 __the lion’s den__  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __then again__  
 __tick someone off__  
+__til you drop__  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
@@ -127,7 +142,10 @@ __up-and-coming__ _Up-and-coming writers and artists._
 __wash something down__ _Wash it down with a glass of milk._  
 __weather pemitting__  
 __weather permitting__  
+__well in advance__ _Book tickets well in advance._  
 __while supplies last__ :two::hammer:  
 __wipe the floor__  
 __with a twist__  
 __within walking distance__  
+__yake your pick__  
+__young at heart__  
