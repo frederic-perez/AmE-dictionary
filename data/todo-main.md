@@ -1,18 +1,3 @@
-__acclaimed__ _adj_ :two::hammer:  
-__accrue__ _v_  
-__al fresco__  
-__amble__ _v_ (ambling)  
-__amphitheater__  
-__anastomosis__ _n_  
-__angling__ _n_  
-__Anne Boleyn__ _n_  
-__antler__ _n_ _Antler chandelier._  
-__anvil__ _n_  
-__aquaria__  
-__Aragon__ _n_ :mega: /ˈærəɡən/  
-__arboretum__ _n_ :three::hammer:  
-__archipelago__  
-__arguably__ _adv_  
 __arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
 __avoidance__ _n_  
 __bastion__ _n_  

@@ -97,7 +97,7 @@ __accident__ _n_ __2d__ _US, informal_ Used euphemistically to refer to an uncon
 __accidental__ _adj, n_ _Ottolenghi is an accidental chef._  
 __accidie__ _n_ (acedia) _Theology_ Spiritual sloth; apathy; indifference.  
 __acclaim__ _n_  
-__acclaimed__  
+__acclaimed__ _adj_ :three::hammer:  
 __acclimation__ _n_ :pencil2:  
 __accolade__ _n_ :nine: An award or privilege granted as a special honour or as an acknowledgement of merit. _Syn_ honour, recognition _The hotel has won numerous accolades._ _This restaurant has received accolades from_ Esquire.  
 __accommodate__ _v_ :three::pencil2::hammer:  
@@ -118,7 +118,7 @@ __accounts__ _n_ _By some accounts._
 __accoutrement__ _n_ :six::hammer: (accouterment, accouterments, accoutrement, accoutrements)  
 __accrete__ _v_ :six: (accretes, accreted) To make larger or greater, as by increased growth. _Once details are mixed with essential concepts, more and more details tend to accrete within the function._  
 __accretion__ _n_ :two::hammer: _Ice accretion._  
-__accrue__ _v_ :five: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
+__accrue__ _v_ :six: (accrued) To increase in value or amount gradually as time passes; to grow or build up slowly. _Even if banana sales languish, other benefits may accrue._  
 __acerbic__ _adj_ :four::hammer:  
 __acetate__ _n_  
 __achalasia__ _n_  
@@ -317,7 +317,7 @@ __aisle__ _n_ :mega: /īl/
 __AK-47__ _n_ A kalashnikov assault rifle first made in 1947.  
 __akin__ _adj_ :seven::mega: __1__ Related by blood; of the same kin. __2__ (often foll by to) Having similar characteristics, properties, etc. Similar in quality or character. _Syn_ kindred _The students watched the principal approaching with a feeling akin to terror._  
 __akinesia__ _n_ Loss of normal motor function, resulting in impaired muscle movement.  
-__al fresco__  
+__al fresco__ _adj, adv_ :two::hammer:  
 __Al-Anon__  
 __alabaster__  
 __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
@@ -413,7 +413,7 @@ __ambitious__ _adj_ :two::hammer:
 __ambivalence__  
 __ambivalent__ _adj_ Having mixed feelings or contradictory ideas about something or someone.  
 __ambivert__ _adj_ A person who is intermediate between an extrovert and an introvert.  
-__amble__ _v_ :six::hammer: (ambled) _Giraffes amble along the savannah._  
+__amble__ _v_ :seven::hammer: (ambled, ambling) _Giraffes amble along the savannah._  
 __ambulate__ _v_ :two: To walk from place to place; move about.  
 __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulation._  
 __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
@@ -444,6 +444,7 @@ __amp up__ _phr v_ :two::hammer: (amped up, amping up)
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __amphibian__ _n_ :pencil2:  
+__amphitheater__  
 __ample__ _adj_ :nine: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
@@ -455,7 +456,7 @@ __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
-__anastomosis__ _n_ :two: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
+__anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
 __anchor__ _n, v_ :mute:[anc~~h~~or]  
@@ -482,7 +483,7 @@ __angle iron__
 __angle__ _v_  
 __angler fish__ _n_ :camera:  
 __angler__ _n_ :five::hammer: (anglers)  
-__angling__ _v_ :three::hammer: _Giuliani seemed to be angling for secretary of state._  
+__angling__ _v_ :four::hammer: _Giuliani seemed to be angling for secretary of state._  
 __angst__ _n_ :nine::m: A feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general. _Syn_ anxiety, fear, dread, apprehension, worry _The existential angst of the middle classes._  
 __angsty__ _adj_ :two::hammer:  
 __anguish<sup>1</sup>__ _n_  
@@ -496,6 +497,7 @@ __animus__ _n_ :seven::pencil2: __1__ Strong dislike or enmity; animosity. _The 
 __aniseed__ _n_  
 __anissete__ _n_ _Jack passed out anissete-soaked cigars._  
 __ankle-biter__ _n_ _slang_ :two: Child.  
+__Anne Boleyn__ _n_  
 __annelida__ _n_ Segmented worms: earthworms; lugworms; leeches.  
 __annex__ _n_  
 __annexe__ _n_ _Chiefly British_ Variant of annex.  
@@ -545,11 +547,11 @@ __antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._
 __antiquity__ _n_ _The wise men of antiquity._  
 __antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
-__antler__ _n_  
+__antler__ _n_ :two::hammer: _Antler chandelier._  
 __antral__ _adj_ :two::hammer:  
 __antre__ _n_ /AN-tuhr/ A cave, cavern, cavity, etc.  
 __antsy__ _adj_ :three: Restless, impatient.  
-__anvil__ _n_ :five: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
+__anvil__ _n_ :six: (anvils) A heavy block of iron or steel on which hot metals are shaped by hammering. :es: yunque  
 __any longer__  
 __anybody’s guess__  
 __anytime__  
@@ -621,13 +623,15 @@ __apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/
 __apt__  
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
+__aquaria__  
 __aquifer__ _n_ :two::hammer:  
 __arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
+__Aragon__ _n_ :mega: /ˈærəɡən/  
 __Arapahoe__  
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :two::hammer:  
+__arboretum__ _n_ :five::hammer:  
 __arcade game__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
@@ -639,7 +643,7 @@ __archeology__ _n_ :mute:[arc~~h~~eology]
 __archetypal__  
 __archetype__ _n_ :two::hammer: /ˈɑr kɪˌtaɪp/ /AHR-kih-type/  
 __Archimedes__ _n_ :mega:  
-__archipelago__ _n_ :four::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
+__archipelago__ _n_ :five::hammer::mega::pencil2: _Archipelago nation._ _The Philippine archipelago._  
 __architect__ _n, v_ :mute:[arc~~h~~itect]  
 __archivist__  
 __archpriest__ _n_  
@@ -652,7 +656,7 @@ __arduous__ _adj_ :two: Very difficult.
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _n_ _The pope is an Argentine._  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
-__arguably__ _adv_ :two::hammer:  
+__arguably__ _adv_ :three::hammer:  
 __argy-bargy__ _n_  
 __Ark of the Covenant__ _n_ The Ark of the Covenant is a gold-covered wooden chest described in the Book of Exodus as containing the two stone tablets of the Ten Commandments.  
 __Arkansas__ _n_ :two::mega::hammer:  
