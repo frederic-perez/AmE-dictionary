@@ -64,8 +64,10 @@ __a going concern__ A business, enterprise, or activity that has done well thus 
 __a golden hello__ A sum of money paid to a new employee as a benefit for being recruited by a company.  
 __a gong show__  
 __a good turn__ An action that is beneficial to another person in some way.  
+__a great deal__  
 __a great many__ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
+__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
 __a hill of beans__ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ A continuous period of great success, luck, or fortune; a winning streak.  
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
@@ -109,12 +111,14 @@ __a stab at (someone or something)__
 __a stab in the back__ A betrayal; an act of treachery. _It felt like a stab in the back to hear that Paul was going out with my ex-girlfriend._  
 __a stone’s throw__ :two: A very short distance. _The shore house is a stone’s throw from the ocean!_ _Just a stone’s throw from Wrigley Field._  
 __a walk in the park__  
+__a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
 __a whole lot__ _informal_ To a very great degree or extent; a lot. _I’m feeling a whole lot better._ _The kids enjoyed the show a whole lot._ _Not by a whole lot!_  
 __a wild goose never laid a tame egg__ Something will not be spontaneously different from that which came before. The phrase is used to describe things that are determined by nature and the environment, or else inherited from the generation before.  
 __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually in the negative.) _I couldn’t get a wink of sleep because of the noise._  
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abide by__ To conform to; comply with: _abide by the rules._  
 __above and beyond__ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
+__above board__  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute.  
 __absence makes the heart grow fonder__ _proverb_ A separation causes one to feel even more positive about the absent person or thing. _Ever since Carla’s boyfriend moved away, she can’t stop thinking about him. Absence makes the heart grow fonder._  
 __absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
@@ -137,6 +141,7 @@ __against the clock__ :two: Rushed and short on time.
 __ahead of the curve__ :four:  
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
+__ahoy there, me hearties__  
 __alive and kicking__  
 __all aboard__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
@@ -152,7 +157,7 @@ __all over__ _Dick jokes all over._
 __all sizzle and no steak__ Disappointing or anticlimactic. Having an exciting, promising, important, or aggrandizing buildup that proves to be unwarranted.  
 __all that jazz__ :four: All that stuff; all that nonsense.  
 __all the difference in the world__ The greatest degree of difference that is possible or conceivable. Without the verbs “mean” or “make,” it is used to compare two disparate things.  
-__all things considered__  
+__all things considered__ :two::hammer:  
 __all-out war__ Unrestricted fighting or conflict. This phrase can be used literally or hyperbolically. _I fear that an invasion will lead to all-out war._ _It is all-out war right now for that empty corner office._  
 __all-you-can-eat__  
 __alter ego__  
@@ -182,6 +187,7 @@ __as easy as shooting fish in a barrel__ Of some task or activity, exceptionally
 __as far as__ _As far as I’m concerned, if you can’t do the crawl you can’t swim._  
 __as good as (something)__ In every practical or functional sense; almost certainly. _If you stay out past curfew tonight, you’re as good as grounded, young lady!_  
 __as good as it gets__ :five: As good as is possible; impossible to improve upon. _This neighborhood is as good as it gets—why would we ever move?_ _Right now, Djokovic is about as good as it gets on a tennis court._ _Customer service is as good as it gets._  
+__as if to say__  
 __as it happens,__ :three: Coincidentally; surprisingly; as a matter of fact. Often said of an unlikely or unusual fact, event, or circumstance.  
 __as many as__ _As many as five terror plots were foiled last year._  
 __as much as__ _Inside today’s Stateman as much as $215 in coupon savings._  
@@ -244,6 +250,7 @@ __barnburner__ :three: Any thing, event, or occasion that is especially exciting
 __barrel of laugh__ :two: Someone who is very funny.  
 __barrel of laughs__ Fun, funny, and pleasant. Often used sarcastically to indicate that someone is unpleasant or not enjoyable to be around.  
 __bat an eye__ :two: To display a subtle emotional reaction, such as consternation, annoyance, sadness, joy, etc. Generally used in the negative to denote that the person in question did not display even a hint of an emotional response. _Mary didn’t even bat an eye when I told her I was moving out._  
+__bats in the belfry__  
 __batten down the hatches__ To prepare for a challenging situation. While this originated as a nautical phrase, it is now used for any sort of imminent problem. _There’s a tornado coming—batten down the hatches!_  
 __bazillion__ A very large, nonspecific number or quantity. _Why do you insist on buying new shoes when you have a bazillion pairs already?_  
 __be (all) set (to do something)__ To be ready or about to do something. _I was set to get in the shower when the phone rang._  
@@ -496,6 +503,7 @@ __chain reaction__ /CHAYN ree-ak-shuhn/ A series of events wherein the outcome o
 __chalk and cheese__ A phrase used to emphasize that two people or things are very different from one another. _Good luck getting those two to talk to each other—they’re like chalk and cheese._  
 __chalk it up__ To link something that has happened to a particular reason or circumstance. _Don’t get too down on yourselves after this loss, boys. Let’s just chalk it up to inexperience and move on._  
 __chance of a lifetime__ An extremely important and/or fortuitous opportunity, especially one that is not likely to ever present itself again. Often (but not always) used hyperbolically.  
+__chances are__  
 __change tack__ To employ a different method or approach in addressing a particular situation. _They have not been receptive to our offers thus far, so we need to change tack._  
 __chase the clouds away__  
 __check all the boxes__ _The movie _Thor_ checks all the boxes._  
@@ -570,6 +578,7 @@ __crack open__
 __crack someone up__ :three: To make someone laugh very hard; to make someone break out laughing. _You and your jokes really crack me up._ _That comedian really knows how to crack up an audience._ _The lecturer would talk along sort of boring like, and then all of a sudden he would crack up everybody with a joke._  
 __cradle-to-grave__ (used as a modifier before a noun) Lasting the full spectrum of life, existence, or a given process; that is, from the first point to the very last. Derived from the phrase “from the cradle to the grave” (or “from cradle to grave”).  
 __crash and burn__ To fail spectacularly. _Poor Chuck really crashed and burned when he made his presentation at the sales meeting._  
+__crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
 __crash course__ A rapid and intense course of training or research (usually undertaken in an emergency). _He took a crash course in Italian on his way to Italy._  
 __creature of habit__ One who prefers the comfort and reliability of routine and habitual behavior.  
 __creep out__ __2__ _slang_ To make someone feel nervous, uncomfortable, and slightly frightened. In this usage, a noun or pronoun is commonly used between “creep” and “out.” _I’m OK with most bugs, but centipedes just creep me out, man._  
@@ -595,10 +604,11 @@ __cut from whole cloth__ Completely fictional or utterly false; totally made up.
 __cut it close__ To do or complete something very near to its limit, especially of time.  
 __cut one’s eyes at someone or something__ :two: To glance at someone or something. _He cut his eyes at me to see if I was looking._ _She cut her eyes at the TV for a second._ _Carmen cut her eyes at her brother, but he ignored her._  
 __cut someone some slack__ _Cut her some slack—she’s nervous!_  
+__cut the line__  
 __cut the spin__  
 __cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
 __damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
-__dance the night away__ To dance the entire evening. _We danced the night away._  
+__dance the night away__ :two: To dance the entire evening. _We danced the night away._  
 __dark days__ Times of extreme misfortune or difficult.  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
@@ -639,6 +649,7 @@ __do a runner__ To leave a place quickly in order to escape trouble or to avoid 
 __do an about-face__ (do a flip-flop, do a one-eighty) Reverse one’s opinion or course of action. _She did an about-face and walked back up the steps once she saw that the subway wasn’t running._  
 __do over__  
 __do the dishes__ Wash dishes.  
+__do the trick__  
 __Do your magic__  
 __doctors make the worst patients__ It is difficult to give people help or advice on something in which they are professionals, because they often feel as though they already know better than anyone else how to handle the situation or perform a given task.  
 __dodge a bullet__ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
@@ -706,6 +717,7 @@ __end of story__ A phrase used to end a conversation or topic of discussion, esp
 __end run__ :two: An evasive or diversionary action or maneuver around some obstacle or difficulty. An allusion to a play in American football, in which the carrier of the ball runs wide to evade the defensive line. _Many wealthy citizens try to perform an end run around their country’s tax laws by filtering their money in offshore accounts._  
 __endgame__ :three: The final stages of a process, development, or activity.  
 __engine room__ The main source of talent, power, or ability in a team or group, likened to the room that houses a ship’s engine. _Sarah is our engine room, so with her injured, I’m not sure how we’ll be able to win on Saturday._  
+__entry level__  
 __envelope > push the envelope__ To go beyond established limits; to pioneer.  
 __eureka moment__ A moment or instance at which a sudden, revelatory idea, realization, or solution to a problem comes to mind.  
 __ever since__ :dart::two::hammer: _I’ve been a fan ever since._  
@@ -746,6 +758,7 @@ __far cry (from something)__ :nine::m: A thing that is very different from somet
 __Fart, Barf, and Itch__ :two: Jocular interpretation of the acronym FBI.  
 __faster than you can say Jack Robinson__ Extremely quickly; almost immediately; suddenly or in a very short space of time.  
 __Faustian bargain__ An agreement, bargain, or deal in which a person sacrifices or abandons their moral, ethical, or spiritual values in favor of wealth, power, or other benefits. A reference to the legend of Faust, who sold his soul to the devil for unlimited knowledge and power.  
+__fear not__  
 __feather your own nest__ To use your position or your job to get a lot of money for yourself.  
 __feed (someone) to the wolves__ To sacrifice someone to ruin, destruction, or hostility from others, especially for one’s own benefit or survival.  
 __feel all the feels__ To experience a range of strong emotions. _Oh man, that video for the animal shelter made me feel all the feels. I want to adopt 10 puppies now!_  

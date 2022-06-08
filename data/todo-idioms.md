@@ -1,18 +1,3 @@
-__a great deal__  
-__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
-__a wee dram__ A small amount of liquor, often whisky. Primarily heard in Scotland. _How about a wee dram of whisky for the road?_  
-__above board__  
-__ahoy there, me hearties__  
-__all things considered__  
-__as if to say__  
-__bats in the belfry__  
-__chances are__  
-__crash cart__ The cart of medical equipment used when a patient “crashes” (experiences cardiac arrest). _Get a crash cart in here, this patient needs immediate attention!_  
-__cut the line__  
-__dance the night away__  
-__do the trick__  
-__entry level__  
-__fear not__  
 __get to grips__  
 __give something/it a shot__  
 __go over the top__  
