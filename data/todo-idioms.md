@@ -1,35 +1,57 @@
+__balancing act__  
+__Band E__  
+__bigger fish to fry__  
+__bounce back__  
+__by and large__  
+__days on end__  
+__F-ing__  
+__fall in place__  
 __get to grips__  
 __give something/it a shot__  
+__go a long way__  
 __go over the top__  
 __got them covered__  
 __Happily Ever After__  
 __hard pressed__ _You’ll be hard pressed to visit them._  
+__head on shoulders__  
+__head-spinning__ Incredible, overwhelming.  
 __heart skips a beat__  
 __honest mistake__  
 __in all__  
 __in denial__  
 __in full swing__  
+__in the know__  
+__in the thick of it__  
+__keep balls in the air__  
 __kid in a candy store__  
 __know a thing or two__  
 __last but certainly not least__  
+__laugh lines__  
 __leap of faith__  
 __left in the dark__  
 __like no other__  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
+__look at that__  
 __look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  
+__lose it__  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
+__magick thinking__  
 __make a splash__  
 __make amends__  
+__make bank__ To make a gratuitous amount of money, in preferably a short period of time. _He’s making bank._  
 __mark__ _n_ _(sucker)_  
 __melting pot__  
+__mop-top__  
 __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
 __mover and shaker__  
 __my lucky star__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
+__nothing but__ _I’m nothing but tired._  
 __nothing short of__  
 __objection hearsay__  
 __off-kilter__  
 __oh, my__  
+__on location__ _Filmed on location._  
 __one of a kind__  
 __one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
 __open mike__  
@@ -51,6 +73,7 @@ __push the envelope__
 __put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
+__reset button__  
 __revel in__  
 __ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
 __right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
@@ -89,6 +112,7 @@ __steely-eyed__ With or having a fierce intensity in one’s expression. _The te
 __step up__  
 __sticky fingers__  
 __storming mad__ Exceptionally or uncontrollably angry. _Chris’s comments made me storming mad, so I had to go for a walk alone to settle down._  
+__stow away__  
 __stuffed to the gills__ Completely full; teeming; having no room to spare. _I’ve got so many meetings and deadlines these days that my schedule is stuffed to the gills!_  
 __Swiss Army Knife__ _The Swiss Army Knife of cultural attractions in Chicago._  
 __table talk__ The conversation that takes place during a meal. _Once politics and religion enter table talk, it’s time to finish the meal as quickly as possible._  
@@ -107,16 +131,19 @@ __that’s a given__
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the likes of__  
 __the lion’s den__  
+__the spur of the moment__  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __then again__  
+__throw a party__  
+__throw hands__  
 __tick someone off__  
 __til you drop__  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to the core__ _Charming to the core._  
-__touch base__  
+__touch base__ :two::hammer:  
 __tour de force__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
@@ -125,6 +152,7 @@ __uncanny valley__
 __up and running__  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __wash something down__ _Wash it down with a glass of milk._  
+__water torture__  
 __weather pemitting__  
 __weather permitting__  
 __well in advance__ _Book tickets well in advance._  
