@@ -138,7 +138,7 @@ __acquisitive__ _adj_
 __acquisitiveness__ _n_  
 __acquit__ _v_ :five: (acquitted) To relieve from a charge of fault or crime; declare not guilty. _If it doesn’t fit, you must acquit._  
 __acquittal__ _n_ :three::hammer:  
-__acreage__ _n_ :two: Area of land measured in acres. _Syn_ land area  
+__acreage__ _n_ :three: Area of land measured in acres. _Syn_ land area  
 __acrid__ _adj_  
 __acrimonious__ _adj_ :three::hammer:  
 __acrimony__ _n_ :three: Bitterness or ill feeling. _Syn_ bitterness, rancour, resentment  
@@ -677,7 +677,9 @@ __arrangement__ _n_
 __array__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
 __arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
+__arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
 __arrive__ _v_ _He arrived in England in April 1376._  
+__arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
 __arson__ _n_  
 __artery__ _n_ :mega:  
@@ -823,6 +825,7 @@ __Augean__ _adj_ :astonished: __1__ Resembling the Augean stables; filthy; rotte
 __augur__ _v_  
 __augury__ _n_ A sign of something coming; an omen. _Syn_ foretoken, preindication  
 __august__ _adj_ :two: Inspiring reverence or admiration; of supreme dignity or grandeur.  
+__Augustinian__ _adj_  
 __auld lang syne__ _n_ [:scroll: Scottish, literally: old long since] Old times; times past, esp those remembered with affection or nostalgia.  
 __Auld Man’s Milk__ _n_  
 __aum__  
@@ -856,11 +859,12 @@ __aviary__ _n_ :two::hammer:
 __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
+__avoidance__ _n_  
 __avow__ _v_ :two::hammer: (avowed)  
 __avowal__ _n_ An open statement of affirmation; frank acknowledgment or admission. _Syn_ avouchment _He had no right to extort a confession of attachment from me when he had made no correspondent avowal himself._  
 __avuncular__ _adj_ :five: Everyone likes an avuncular guy, that is someone who is kind and patient and generally indulgent with people younger than he is. The Dalai Lama is an avuncular fellow. So is Santa Claus. Unless you haven’t been good. Resembling a uncle in kindness or indulgence. __1__ Of or concerned with an uncle. __2__ Resembling an uncle; friendly; helpful.  
 __awakening__ _n_  
-__awash__ _adj, adv_ :nine::m: __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
+__awash__ _adj, adv_ :nine::m: /əˈwɒʃ, əˈwɔʃ/ __1__ Covered or flooded with water, especially seawater or rain. _The boat rolled violently, her decks awash._ _The boat was almost awash._ _Syn_ flooded, covered with water, under water __2__ Submerged, engulfed, submersed. _The road was awash and impassable in places._ __3__ Containing large numbers or amounts of someone or something. _The city was awash with journalists._ _Market awash with coal._ __4__ Level with the surface of water so that it just washes over. _A rock awash outside the reef entrance._  
 __awe walk__  
 __awe__ _n_ :four::hammer: _Rob regarded the complex systems with awe._ _Jane sat back in awe._  
 __awestruck__ _adj_  
@@ -1074,11 +1078,12 @@ __basin__ _n_ :two::hammer:
 __basing__  
 __basket case__  
 __basketful__ _n_ __1__ A sufficient quantity to fill a basket; the amount contained in a basket. __2__ Any considerable quantity. _Teachers once received apples by the basketful._ _Ed scored great goals by the basketful._  
+__basketry__ _n_  
 __bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
 __bastille__ _n_ [:scroll: After Bastille, a fortress in Paris, that was used to hold prisoners.] A prison.  
-__bastion__ _n_ :five: /BAS-chun/ A place or system in which something continues to survive. _The university is a bastion of academic excellence._ _He tried to soften the National Front’s image as a bastion of xenophobes._  
+__bastion__ _n_ :six: /BAS-chun/ A place or system in which something continues to survive. _The university is a bastion of academic excellence._ _He tried to soften the National Front’s image as a bastion of xenophobes._  
 __bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
 __batch__ _n_ A quantity or consignment of goods produced at one time. _A lethal batch of the infectious agent._  
 __bate__ _v_ (bated) _They watched with bated breath._  
@@ -1149,7 +1154,7 @@ __bedstead__
 __bee eater__ _n_ :es: abejaruco  
 __bee__ _n_ A social gathering to carry out some communal task or to hold competitions. _A quilting bee._ _Spelling bee._  
 __bee’s knees__  
-__beech__ _n_ :two::hammer:  
+__beech__ _n_ :three::hammer: _Beech woods._  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
@@ -1179,7 +1184,7 @@ __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
 __behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
-__behest__ _n_ :six::dart: A person’s orders or command. _They had assembled at his behest._ _Syn_ Instruction, bidding, request  
+__behest__ _n_ :seven::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
 __beholder__ _n_ :two: A person who becomes aware (of things or events) through the senses. _Beauty is in the eye of the beholder._  
@@ -1242,7 +1247,7 @@ __benison__ _n_
 __Bennifer__ _n_ Portmanteau of Ben Affleck and Jennifer Lopez.  
 __bent__ _n_ :two::hammer: _Apple wasn’t known for his altruistic bent._  
 __bento__ _n_ Boxed meals.  
-__bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
+__bequeath__ _v_ :nine::m: (bequeathed) __1__ _Law_ To leave or give (personal property) by will. _A collection of 9,000 artworks bequeathed to Glasgow by Sir William Burrell._ :es: legar __2__ To pass (something) on to another; hand down: bequeathed to their children a respect for hard work.  
 __bequest__ _n_ :nine::m: /bɪˈkwɛst/ __1__ (Law) The act of giving or leaving personal property by a will. __2__ Something that is bequeathed; a legacy. _Syn_ legacy, gift, settlement, heritage, trust, endowment, estate, inheritance, dower, bestowal _Bequests to religious institutions._ _A dark bequest of Nazism._  
 __berate__ _v_ :nine::m: (berated, berating) Scold or criticize (someone) angrily. To scold or condemn vehemently and at length. _Syn_ chew out, chide, rebuke, reproof, scold, lambast, reprimand, remonstrate _The coach berated the players for their lackluster performance on the field._ _She started berating black and Latino nannies, who, she said, can’t even take care of their own children._ _Sam’s lawyer berated Dogan for half a day._  
 __bereave__ _v_ :three::hammer: (bereaved) _Some four million people have died as a result of the pandemic, and over 35 million have been bereaved._  
@@ -1297,7 +1302,7 @@ __bickering__ _n_ A quarrel about petty points. _Everyday bickering._
 __bicyclist__  
 __bid farewell__  
 __bid<sup>1</sup>__ _v_ :six: __1__ Offer (a certain price) for something, especially at an auction. __2__ To utter (a greeting or salutation). _She didn’t bid him farewell._  
-__bid<sup>2</sup>__ _n_ :five::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
+__bid<sup>2</sup>__ _n_ :six::hammer: _Bid rigging._ _The highest ranked team earns an automatic bid to one of the New Year’s six bowls._  
 __bidding war__  
 __bidding__ _n_ :two::hammer: _The bidding for the lucrative post of tax-collector was held behind closed doors in the Chatelet._  
 __bide__ _v_  
@@ -1351,6 +1356,7 @@ __binocular__ _adj_ :mega: Adapted for or using both eyes.
 __binoculars__ _n pl_ (plurale tantum)  
 __bio__ _n_ :two::hammer:  
 __biomass__  
+__biome__ _n_  
 __biopic__  
 __bipartisan__  
 __birch__ _n_ (birches) _Birch and oak in stock._  
@@ -1360,6 +1366,7 @@ __birdbrain__ _n_ _slang_ :two: A silly or stupid person.
 __birdie__ _n_  
 __birds of the same feather__  
 __birdseed__ _n_ Seeds that you give to birds as food.  
+__Birkenstock__ _n_  
 __birther__ _n_ A person who denies that Barack Obama was born in the United States and asserts that he therefore became president in violation of the requirements of the US Constitution.  
 __birthing__ _n_ :two::hammer:  
 __birthstone__ _n_ A gemstone associated with a particular month and customarily worn by persons born during that month.  

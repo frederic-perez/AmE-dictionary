@@ -1,18 +1,3 @@
-__acreage__  
-__arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
-__arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
-__Augustinian__ _adj_  
-__avoidance__ _n_  
-__awash__  
-__basketry__ _n_  
-__bastion__ _n_  
-__beech__ _n_ _Beech woods._  
-__behest__ _n_ /bih-HEST/ An authoritative order or an urgent prompting. _The committee met again at the behest of the senator._  
-__bequeath__ _v_ _A collection of 9,000 artworks bequeathed to Glasgow by Sir William Burrell._  
-__berated__ _v_  
-__bid__ _n_  
-__biome__ _n_  
-__Birkenstock__ _n_  
 __blast__ _n_ __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party.  
 __bog__ _n_  
 __bonkers__  
