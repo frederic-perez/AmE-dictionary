@@ -1,5 +1,6 @@
 __acreage__  
 __arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
+__arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __Augustinian__ _adj_  
 __avoidance__ _n_  
 __awash__  
@@ -32,6 +33,7 @@ __cable car__ _n_ _A cable car is on hand to take you to the top._
 __cablecar__ _n_  
 __canopy__  
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
+__caterwaul__ _n, v_  
 __causeway__ _n_  
 __Chick-fil-A__ _n_  
 __China virus__ _n_  
@@ -77,12 +79,14 @@ __dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial d
 __duchy__ _n_  
 __dumb__ _adj_ _Dumb jokes._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
+__emollient__ _adj_ Softening and soothing, especially to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._  
 __empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __enthralling__ _adj_ :two::hammer:  
 __enviable__ _adj_  
 __escarpment__ _n_  
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __estuary__ _n_  
+__evanescent__ _adj_ /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
 __exact__ _v_ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exalt__ _v_  
 __exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
@@ -266,6 +270,7 @@ __loggery__ _n_
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
 __lore__ _n_ :two::hammer: _Crazy folk lore._  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
+__lout__ _n_ /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __low-key__ _adj_  
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
@@ -331,6 +336,7 @@ __misconstrue__ _v tr_
 __misphrase__ _v tr_  
 __misstep__ _n_ :pencil2:  
 __mixologist__  
+__mnemonic__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
 __mogul__ _n_  
@@ -543,6 +549,7 @@ __recount__ _v_
 __Red Cross__ _n_  
 __red snapper__ _n_  
 __refreshment__ _n_  
+__refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __regatta__ _n_  
 __regiment__ _n_ _Several regiments of soldiers._  
 __rejoice__ _v_  
@@ -871,12 +878,14 @@ __veneer__ _n_ _Porcelain veneers._
 __venerable__ _adj_ _Venerable institution._  
 __venison__ _n_  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
+__verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
 __vie__ _v_  
 __Viking__ _n_ :pencil2:  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
 __virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __visitor__  
+__vocation__ _n_ /voh-KAY-shun/  
 __voucher__ _n_ _A lunch voucher._  
 __waffle__  
 __wainscoting__ _n_  
