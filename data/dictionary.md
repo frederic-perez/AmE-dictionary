@@ -1421,7 +1421,7 @@ __blanketed__ _v_ :five::hammer: (blanketing)
 __blarney<sup>1</sup>__ _n_ :two::dart: /ˈblɑr ni/ __1__ Smooth, flattering talk. __2__ Deceptive nonsense.  
 __blarney<sup>2</sup>__ _v_  
 __blasé__ _adj_ :two::hammer:  
-__blast__ _n_ _slang_ A great experience, a very enjoyable time.  
+__blast__ _n_ :two: __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party. A great experience, a very enjoyable time.  
 __blatant__ _adj_ :three::hammer:  
 __blatantly__  
 __blather__ _v_ :two: To talk foolishly. _Syn_ smatter, babble  
@@ -1553,7 +1553,7 @@ __bodega__ _n_ __1__ (esp. among Spanish-speaking Americans) A grocery store. __
 __body blow__ _n_ A severe setback or disappointment. The term is from boxing, referring to a blow to the torso which can be incapacitating due to its proximity to internal organs.  
 __body odor__ _n_  
 __bodywork__ _n_ _A certified therapist of massage and bodywork._  
-__bog<sup>1</sup>__ _n_ :five::hammer: _Bog garden._ :es: ciénaga  
+__bog<sup>1</sup>__ _n_ :six::hammer: _Bog garden._ :es: ciénaga  
 __bog<sup>2</sup>__ _v_  
 __bogart__ _v_ :astonished::two: __1__ To cause (someone) to do something by means of force or coercion. _Syn_ bully __2__ _slang_ To use or ingest (something, especially a marijuana cigarette) without sharing with others.  
 __bogeyman__ _n_ Variant of boogeyman.  
@@ -1606,7 +1606,7 @@ __bonebreaker__ _n_ Any of several large birds (such as the giant petrel, the la
 __bonfire__ _n_ :two::hammer:  
 __bonged__ _v_  
 __bonked__ _v_ _The stadium lights bonked out._  
-__bonkers__ _adj_ _informal_ :five: Crazy. _That’s bonkers!_  
+__bonkers__ _adj_ _informal_ :six: Crazy. _That’s bonkers!_  
 __bonnie blue flag__  
 __bonobo__  
 __bonus__ _n_ :mega: /bō′nəs/  
@@ -1659,10 +1659,12 @@ __bootlegger__
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
+__boozer__  
 __bop<sup>1</sup>__ _v tr_ :two: To hit or strike.  
 __bop<sup>2</sup>__ _n_ A blow; a punch.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
+__borderline__  
 __bore<sup>1</sup>__ _v_ :three::hammer: (boring) _Boring a tunnel._ _He began throwing two touchdown passes, boring through traffic._ _The interior of the wooden shaft was riddled with the trail of boring insects._  
 __bore<sup>2</sup>__ _n_ :three::hammer: _She once was into a stone bore._ _She just went full bore._  
 __boreal__ _adj_ /BOH-ree-uhl/ [:scroll: From Boreas, the god of the north wind in Greek mythology.] Northern; relating to the north, north wind, northern regions, etc.  
@@ -1718,6 +1720,7 @@ __boycott<sup>2</sup>__ _v_ :astonished: To abstain from or act together in abst
 __bozo__ _n_ _slang_ :two: (bozos) A man, esp a stupid one.  
 __brabble__ _v_ Argue over petty things. _Syn_ bicker, pettifog, squabble, quibble, niggle  
 __brace__ _v_ :nine::m::astonished: (braces, braced, bracing) A brace is a support that helps to steady or strengthen, and to brace is to prepare for something hard. _So brace yourself for that impromptu meeting with your boss if you haven’t been performing well._ _Online media companies are bracing for change._ _Residents brace themselves for more rain._  
+__bracing swim__  
 __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public transport by people in the older age bracket._ _I want to break into that world-class bracket._  
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :three: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
@@ -1746,8 +1749,9 @@ __brassiere__ _n_
 __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
 __bratty__  
 __bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
+__brave__ _v_ :two::hammer:  
 __bravura__  
-__brawn__ _n_ Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
+__brawn__ _n_ :two: Physical strength in contrast to intelligence. _Commando work required as much brain as brawn._ _Syn_ physical strength, muscle  
 __bray__ _v_ :three::hammer: (brayed, braying) _Donkey’s braying._  
 __brazen__ _adj_ :four: With brazen disregard for the sign that said “no cellphones please” the woman took a long call in the doctor’s office waiting room. Brazen refers to something shocking, done shamelessly. _Brazen lyrics._  
 __brazenly__ _adv_ :two::hammer:  
@@ -1832,6 +1836,7 @@ __broadloom__ _n_
 __broadsided__  
 __brocade__  
 __broccoli__ _n_ :three::pencil2::hammer:  
+__broch__ _n_ _An Iron Age broch._  
 __brogue__ _n_ :four: __1__ A sturdy shoe typically with ornamental perforations and a wing tip. __2__ A heavy shoe of untanned leather. __3__ A strong accent, especially Irish or Scottish when speaking English.  
 __broil__ _v_ :two::hammer:  
 __broiler__ _n_ _An infrared broiler._  
@@ -1855,6 +1860,7 @@ __brooding<sup>2</sup>__ _v_ _I was brooding._
 __brook__ _v_  
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
+__Brothers Grimm__ _n_  
 __brouhaha__ _n_ :three::hammer:  
 __brow__ _n_ The projecting upper edge of a steep place. _On the brow of a sloping hill._  
 __browbeat__ _v_ Discourage or frighten with threats or a domineering manner; intimidate. _Syn_ bully, swagger _The police attempted to browbeat me into revealing my accomplices, but I would never squeal on my friends._  
@@ -1908,12 +1914,13 @@ __buddy__
 __budge__ _v_ :three::hammer: (budged)  
 __budget line__ _n_ _I had already sent my editor a budget line on the story._  
 __budget__ _n_ :two::hammer: _The surface energy budget._  
-__buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ :es: entusiasta  
+__buff<sup>1</sup>__ _n informal_ :nine::m: /bʌf/ (buffs) One who is enthusiastic and knowledgeable about a subject. _A Civil War buff._ _Some folks are movie buffs._ _He appears buff._ _Culture buffs._ _A history buff._ :es: entusiasta  
 __buff<sup>2</sup>__ _adj informal_ :three: _(of a person or their body)_ In good physical shape with well-developed muscles. _The driver was a buff blond named March._ _Images of buff biceps._ _The buff athletes who strutted._  
 __buff<sup>3</sup>__ _v_ :three::hammer: (buffed) _Joel placed the award on his piano and buffed it._  
 __buffalo__ _n_ :two::hammer: (_n pl_ buffalo or buffaloes or buffalos)  
 __buffer__ _v_  
-__buffet__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
+__buffet<sup>1</sup>__ _n_ _A ten-dollar buffet._  
+__buffet<sup>2</sup>__ _v_ :five::hammer: (buffeted) _The country has been buffeted by civil unrest._  
 __buffoon__ _n_ :two::hammer:  
 __bug spray__ _n_ An insecticide for killing household pests. _Bug spray with DEET to ward off mosquitoes._  
 __bug__ _v informal_ :eight: (bugging) Annoy or bother (someone). _A persistent reporter was bugging me._ _Bug me not!_ _That bugs me._ _You’re bugging me._  
@@ -1927,6 +1934,7 @@ __build a future__ _phr_ :es: labrarse un futuro
 __build up__  
 __build__ _n, v_ :mute:[b~~u~~ild]  
 __build-up__ _n_ :six::hammer: (buildup) _Buildup play._  
+__building__ _n_ _A state building._  
 __built-ins__ _n_ Appliances, machinery, and other equipment installed as part of a building rather than left freestanding.  
 __bulbous__ _adj_ _A bulbous man._  
 __bulk up__ _v_  
@@ -1940,7 +1948,7 @@ __bulletin__ _n_
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
 __bullhorn__ _n_ :dart::two: A portable device consisting of a microphone attached to a loudspeaker, used especially to amplify the voice.  
-__bullion__  
+__bullion__ _n_ :two::hammer:  
 __bullpen__ _n_  
 __bullshitter__ _n_ :dart: _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __bullwhip__  
@@ -2001,7 +2009,7 @@ __bureaucracy__
 __burgeon__ _v_  
 __burgeoning__ _adj_ :nine: Rapidly developing or growing; flourishing.  
 __burgermeister__  
-__burgundy__ _n_ :two: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
+__burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
 __burly__ _adj_ :seven: Strongly and heavily built. _A burly man._  
@@ -8569,7 +8577,7 @@ __lewd__ _adj_ :three::hammer:
 __lexical__ _adj_  
 __liability__ _n_ :seven::hammer: _Certainly this power and ﬂexibility is useful, but it can also be a liability._ _He was a liability, an accident waiting to happen._  
 __liable__ _adj_ :two::hammer: _He is liable to be mistaken._ _They are liable to break if not handled properl byy._  
-__liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _ She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
+__liaison__ _n_ :seven::pencil2: /lee-AY-zahn/ __1__ A person who helps organizations or groups to work together and provide information to each other. _She acts as a liaison between the mayor’s office and city schools._ __2__ A close bond or connection. _The Human Resources Department has a close liaison with employees._  
 __libation__ _n_ :three::hammer: (libations) _Dutch libations, like ciders, gins and liqueurs._  
 __libel__ _n_ :six::hammer: _Libel laws._ :es: calumnia  
 __liberalization__  

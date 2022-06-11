@@ -1,18 +1,3 @@
-__blast__ _n_ __9__ _slang_ A highly exciting or pleasurable experience or event, such as a big party.  
-__bog__ _n_  
-__bonkers__  
-__boozer__  
-__borderline__  
-__bracing swim__  
-__brave__ _v_ :two::hammer:  
-__brawn__ _n_  
-__broch__ _n_ _An Iron Age broch._  
-__Brothers Grimm__ _n_  
-__buff__ _n_ :three::hammer: _Culture buffs._ _A history buff._  
-__buffet__ _n_ _A ten-dollar buffet._  
-__building__ _n_ _A state building._  
-__bullion__  
-__burgundy__  
 __butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
 __cable car__ _n_ _A cable car is on hand to take you to the top._  
 __cablecar__ _n_  
