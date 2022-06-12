@@ -1,18 +1,3 @@
-__antique__ _n_  
-__balsa__ _n_  
-__bonanza__ _n_  
-__butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
-__cable car__ _n_ _A cable car is on hand to take you to the top._  
-__cablecar__ _n_  
-__canopy__  
-__carillon__ _n_ _Sounds of bubbling founyains and carillons._  
-__carthorse__ _n_  
-__caterwaul__ _n, v_  
-__causeway__ _n_  
-__Chick-fil-A__ _n_  
-__China virus__ _n_  
-__chlamydia__ _n_ :pencil2:  
-__chuck-wagon__ _n_ _Chuck-wagon supper._  
 __circa__  
 __circuit__ _n_ _Chester retains the full circuit of its ancient defensive walls._  
 __cleanliness__ _n_  

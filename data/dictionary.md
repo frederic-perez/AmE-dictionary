@@ -543,7 +543,7 @@ __antics__ _n_ _(plural)_ :five: Foolish, outrageous, or amusing behavior. _Syn_
 __antidepressant__ _adj_  
 __antipathy__ _n_ A strong feeling of aversion or repugnance. _Syn_ aversion, distaste  
 __antiquated__ _adj_ :three::hammer:  
-__antique__ _n_ :four::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
+__antique__ _n_ :five::mute:[antiq~~u~~e]:hammer: (antiques) _Antiques dealer._  
 __antiquity__ _n_ _The wise men of antiquity._  
 __antithesis__ _n_ Antithesis is using parallel sentences or clauses to make a contrast. Example: No pain, no gain.  
 __antithetical__ _adj_ /an-tuh-THET-ih-kul/  
@@ -990,6 +990,7 @@ __balm__ _n_ :two::hammer::mute:[ba~~l~~m]
 __balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
+__balsa__ _n_  
 __balter__ _v tr_ _archaic_ To dance or tread clumsily.  
 __balustrade__ _n_ :three: A rail and the row of balusters or posts that support it, as along the front of a gallery. _Syn_ banister, handrail _She leaned over the balustrade, trying to see what was happening below._ _The stone balustrade._  
 __balustrades__  
@@ -1595,7 +1596,7 @@ __bon ton__
 __bon vivant__ _n_ A person who lives luxuriously and enjoys good food and drink.  
 __bona fide__ _adj_ :nine: (bona fides) Something bona fide is the real deal, the real McCoy, genuine — it’s not a fake or a counterfeit. We talk about things being bona fide when we’re interested in how real or genuine they are. A counterfeit hundred dollar bill is not bona fide. When you earn your college diploma you’re a bona fide college graduate. If you spend your whole life studying music, you’re a bona fide musician. The opposite of bona fide is fake. We also say people make a bona fide effort: they’re making a true, sincere attempt to do something. Good faith; absence of fraud or deceit; the state of being exactly as claims or appearances indicate. _The Cougars might be a bona fide contender for the national championship._ __1__ Not counterfeit or copied. _They are bona fide superstars._ __2__ Undertaken in good faith. _His father was a bona fide fucking nut-job._  
 __bona fides__ _n_ /boh-nuh-FYE-deez/  
-__bonanza__ _n_ :three::hammer: _Banana bonanza._  
+__bonanza__ _n_ :four::hammer: _Banana bonanza._  
 __bonbonnière__ _n_ __1__ A small, ornate box or dish for candy. __2__ A confectioner’s store.  
 __bondage__  
 __bone > funny bone__ _n informal_ :two: (funny bones) The part of the elbow over which passes the ulnar nerve, which may cause numbness and pain along the forearm and hand if knocked. _She banged her funny bone on the doorpost._  
@@ -2053,6 +2054,7 @@ __busy bee__ _n_ An alert and energetic person.
 __busybody__ _n_ :two: A person who is too interested in the lives of others.  
 __but then again__ _adv_ Alternative form of _then again_.  
 __butcher paper__  
+__butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
 __butt crust__  
 __butt out__ _v_ :two::hammer:  
 __butt up__ _v_ _Butt up against obstacles._  
@@ -2121,6 +2123,7 @@ __cabinet<sup>1</sup>__ _n_
 __cabinet<sup>2</sup>__ _adj_ :two::hammer: _A top cabinet job._  
 __cabinetry__  
 __cable bookers__  
+__cable car__ _n_ :two::hammer: _A cable car is on hand to take you to the top._  
 __cable__ _n_ _Altogether, five cables were damaged Friday, each containing 2,400 pairs of lines._  
 __cabochon__ _n_ (Jewellery) A smooth domed gem, polished but unfaceted.  
 __caboodle__ _n_ _informal_ __1__ The lot, group, or bunch: _donated the whole caboodle._ __2__ A crowd or collection of people.  
@@ -2234,7 +2237,7 @@ __canny__ _adj_ Astute; shrewd, knowing; sagacious.
 __canoe__ _n_ :mega:  
 __canon__ _n_  
 __canonization__ _n_ _The canonization of the King._  
-__canopy__ _n_ _A dense canopy of snow._  
+__canopy__ _n_ :two::hammer: _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
 __cantankerous__ _adj_ :six: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
@@ -2306,6 +2309,7 @@ __caretaker__ _n_ :two::hammer: _A caretaker government._
 __cargo pants__  
 __cargo-pocket__ _n_ (cargo pocket) _A nice cargo-pocket handbook._  
 __caribou__  
+__carillon__ _n_ _Sounds of bubbling founyains and carillons._  
 __Carioca__  
 __carjack__ _v_ :two: To commit forcible theft of (a vehicle) from its users.  
 __carnage__ _n_ :three::hammer:  
@@ -2336,6 +2340,7 @@ __cart<sup>2</sup>__ _v_ _Quincy was carted off the field._
 __carte blanche__ _n_ :two::hammer: /KART-BLAHNCH/  
 __carted__ _v_  
 __cartel__ _n_ :three::hammer:  
+__carthorse__ _n_  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __carve out__ _v_ (carved out) :six::hammer:  
 __carve__ _v_ _Feast on oversized hand-carved sandwiches._  
@@ -2402,7 +2407,8 @@ __catechism__ _n_ :two::hammer::pencil2:
 __categorical__ _adj_  
 __cater__ _v_ :four:hammer: _Catered dinner._  
 __caterpillar__ _n_  
-__caterwaul__ _v_ __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
+__caterwaul<sup>1</sup>__ _n_  
+__caterwaul<sup>2</sup>__ _v_ :two: __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__ _n_ :two::hammer:  
@@ -2422,7 +2428,7 @@ __cauldron__ _n_
 __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that are roasted in the oven.  
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
-__causeway__ _n_ :five::hammer:  
+__causeway__ _n_ :six::hammer:  
 __cavalcade__ _n_ :two::hammer: _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
@@ -2586,6 +2592,7 @@ __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phras
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
 __Chicagoland__  
 __chicanery__ _n_ :five: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
+__Chick-fil-A__ _n_  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
 __chicken feet__ _n_ The feet of a chicken, stripped of their outer layer of skin, and cooked.  
@@ -2611,6 +2618,7 @@ __chime__ _v_ :two::hammer: (chiming)
 __chimera__ _n_ (chimeras) :two::hammer:  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
+__China virus__ _n_  
 __china__ _n_ _Delicate, translucent china._  
 __chinos__ _n_ :pencil2::three::hammer: _Brown chinos._ _The starch crackled gently in his chinos._  
 __chintzy__ _adj_ Embarrassingly stingy. _Syn_ cheap  
@@ -2639,6 +2647,7 @@ __Chiuaua__
 __chivalry__ _n_ :four::hammer:  
 __chive__ _n_ :two::hammer: :es: cebollino, cebolleta  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
+__chlamydia__ _n_ :pencil2:  
 __chlorophyll__ _n_ :three::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
@@ -2674,6 +2683,7 @@ __chrome__ _n_
 __chronic__ _adj_ __1__ Of long duration; continuing: _chronic money problems._ _Chronic use._  
 __chuck out__ _v_  
 __chuck__ _v_ :nine: (chucked, chucking) __1__ To pat or squeeze fondly or playfully, especially under the chin. __2a__ To throw or toss: _chucked stones into the water._ _When the quarterback chucks a pass with the game on the line._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __b__ _informal_ To throw out; discard: _chucked my old sweater._ _In “Network,” viewers were persuaded to chuck their TVs out the window._ __c__ _informal_ To force out; eject: _chucking out the troublemakers._ _We couldn’t be domesticated, so they chucked us out._ __3__ _informal_ To give up; quit: _chucked her job._  
+__chuck-wagon__ _n_ _Chuck-wagon supper._  
 __chuckholes__ _n_  
 __chuckle__ _v_ :three::hammer: (chuckled)  
 __chucklers__  
