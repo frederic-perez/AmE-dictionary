@@ -4,6 +4,7 @@ __aw__ :three: Used to express sympathy, tenderness, disapproval, or disbelief. 
 __bam__ :two: __1__ Representing a loud noise or heavy impact. Used to indicate the sound of a blow or a collision. __2__ Representing a sudden or abrupt occurrence. Used to indicate a sudden or unexpected occurrence. _BAM!_  
 __big deal<sup>2</sup>__ :dart::five: Used ironically to indicate that something is unimportant or unimpressive. _Big deal._  
 __boo<sup>2</sup>__  
+__boom__  
 __d’oh__ :dart: Used to express sudden recognition of a foolish blunder or an ironic turn of events. Exclamation used when you realize that you did something stupid.  
 __dang__ :three: Used to express dissatisfaction or annoyance. A euphemistic word for damn. _But, dang marketers go crazy._  
 __darn<sup>1</sup>__ _(also adjective and adverb)_ :eight: A euphemistic word for damn. _That’s pretty darn good._  
@@ -65,6 +66,7 @@ __what<sup>5</sup>__ :mute:[w~~h~~at]
 __whee__ :two: Used to express extreme pleasure or enthusiasm.  
 __whew__ :two: Used to express strong emotion, such as relief or amazement.  
 __whoa__ :two: __1__ Used as a command to stop, as to a horse. __2__ Used to express surprise, amazement, or great pleasure.  
+__why__  
 __woohoo__ _informal_ (woo hoo, woo-hoo) An exclamation of joy, approval, etc.  
 __yahoo<sup>2</sup>__ Expressing excitement, delight, or triumph.  
 __yay__ :six: Used as an exclamation of pleasure, approval, elation, or victory. _Yay, Giants!_ _Syn_ hooray, hurrah  

@@ -183,7 +183,7 @@ __VAR__ Video Assistant Referee.
 __VATS__ Video-assisted thoracic surgery. Video-Assisted Thoracoscopic Surgery. _(aka keyhole surgery of the chest)_  
 __VC__ :two::hammer: _A blindfolded VC suspect._  
 __VTOL__ Vertical Take-Off & Landing. A vertical take-off and landing aircraft.  
-__w/__ _abbr_ With.  
+__w/__ :two: With. On drawings, abbr. for “with.”  
 __w/o__ _abbr_ Without.  
 __WFH__  
 __WHO__ World Health Organization.  

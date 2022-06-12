@@ -1,16 +1,21 @@
+__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
+__above board__  
 __balancing act__  
 __Band E__  
 __bigger fish to fry__  
 __bounce back__  
 __by and large__  
+__comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
 __days on end__  
 __F-ing__  
 __fall in place__  
 __get to grips__  
-__give something/it a shot__  
+__give something/it a shot__ :two::hammer:  
 __go a long way__  
 __go over the top__  
+__go strong__  
 __got them covered__  
+__Happily Ever After__  
 __Happily Ever After__  
 __hard pressed__ _You’ll be hard pressed to visit them._  
 __head on shoulders__  
@@ -24,7 +29,7 @@ __in the know__
 __in the thick of it__  
 __keep balls in the air__  
 __kid in a candy store__  
-__know a thing or two__  
+__know a thing or two__ :two::hammer:  
 __last but certainly not least__  
 __laugh lines__  
 __leap of faith__  
@@ -47,7 +52,7 @@ __mover and shaker__
 __my lucky star__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __nothing but__ _I’m nothing but tired._  
-__nothing short of__  
+__nothing short of__ :two::hammer:  
 __objection hearsay__  
 __off-kilter__  
 __oh, my__  
@@ -100,7 +105,7 @@ __set the pace__
 __seventh heaven__  
 __shoot for the stars__  
 __shoot the breeze__  
-__simply put__  
+__simply put__ :two::hammer:  
 __sing along__  
 __sleep in__  
 __sneeze at__  
@@ -123,7 +128,7 @@ __take a catnap__ To sleep for a very brief but restful period of time. _I’m g
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
-__take pride__  
+__take pride__ :two::hammer:  
 __take the edge off__  
 __tap into__  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
@@ -151,7 +156,7 @@ __touch base__ :two::hammer:
 __tour de force__  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
-__turn (one’s) back on (someone or something)__ To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
+__turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __uncanny valley__  
 __up and running__  
 __up-and-coming__ _Up-and-coming writers and artists._  

@@ -1,12 +1,17 @@
+__antique__ _n_  
+__balsa__ _n_  
+__bonanza__ _n_  
 __butcher__ _n_ _Lindsay makes championship haggis at her family butchers._  
 __cable car__ _n_ _A cable car is on hand to take you to the top._  
 __cablecar__ _n_  
 __canopy__  
 __carillon__ _n_ _Sounds of bubbling founyains and carillons._  
+__carthorse__ _n_  
 __caterwaul__ _n, v_  
 __causeway__ _n_  
 __Chick-fil-A__ _n_  
 __China virus__ _n_  
+__chlamydia__ _n_ :pencil2:  
 __chuck-wagon__ _n_ _Chuck-wagon supper._  
 __circa__  
 __circuit__ _n_ _Chester retains the full circuit of its ancient defensive walls._  
@@ -21,6 +26,7 @@ __construction paper__
 __consultation__ _n_ _Call for a consultation._  
 __cooperage__  
 __coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
+__coriander__ _n_ :es: cilantro  
 __Cottonopolis__ _n_ Manchester, UK.  
 __covetable__ _adj_  
 __crag__ _n_  
@@ -28,6 +34,7 @@ __craggy__ _adj_ :two::hammer:
 __cram__ _v_ :dart: _A calendar crammed woth events._  
 __crimson__ _n_ _Soar among the spectacular crimson mesas._  
 __curt__ _adj_ (Mr Wolf’s sentence.)  
+__custard__ _n_ :es: natillas  
 __daffodil__ _n_  
 __dale__ _n_ _Secluded dales._  
 __dappled__ _v_ _Trees cast their dappled shade._  
@@ -41,7 +48,9 @@ __developer__ _n_ _This land attracts developers, architects, builders and broke
 __devilment__ _n_  
 __devotee__ _n_ _Burning Man devotees._  
 __disenchanted__  
+__dispel__ _v tr_  
 __dive bars__  
+__doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
 __downpour__ _n_ /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. :es: aguacero, chubasco, chaparrón  
 __downright__  
 __downtime__ _n_  
@@ -62,15 +71,19 @@ __exalt__ _v_
 __exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
 __extolled__ _v_  
 __Fab Four__ _n_  
+__facetious__ _adj_ /fəˈsi ʃəs/  
 __faint-hearted__  
 __fairground attraction__  
 __faiway__ _n_ _The turf of the lush green fairways._  
 __fancy__ _v_  
+__fare__ _v_ _How would you fare against the world’s top athletes?_  
 __fashionista__ _n_  
 __Federal lands__ _n_  
 __fell__ _n_  
+__fennel__ _n_ :es: hinojo  
 __fibromyalgia__ _n_ :dart::pencil2:  
 __fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
+__finery__ _n_ Elaborate or showy decoration, esp clothing and jewelry.  
 __fireplace__ _n_ _Gas fireplaces._  
 __fixer__ _n_ _Political fixers._  
 __flail__ _v_  
@@ -88,6 +101,7 @@ __ghost gun__ _n_ A gun that lacks a serial number by which it can be identified
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
 __glen__ _n_ :three::hammer:  
+__globetrotting__ _adj_ Traveling or involving travel to a lot of different countries.  
 __gondola__ _n_ _The gondola carries visitors from the base to the top station._  
 __gory__ _adj_  
 __graffiti__ _n_ :pencil2:  
@@ -102,6 +116,8 @@ __gulch__ _n_
 __gunpowder__  
 __hacky__ _adj_ _A hacky cough._  
 __haggis__ _n_ _Lindsay makes championship haggis at her family butchers._  
+__halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
+__halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
 __hamlet__ _n_  
 __hamstring__ _n_ /ˈhæmˌstrɪŋ/  
 __hangout__ _n_  
@@ -183,6 +199,7 @@ __invigorating__ _adj_
 __iron__ _n_ _(golf)_  
 __islander__  
 __islet__  
+__ivy__ _n_ :es: hiedra  
 __jack cheeses__  
 __jaded__ _adj_ _A jaded traveler._  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
@@ -298,6 +315,7 @@ __metaverse__ _n_ /ˈmɛtəˌvɜːs/
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __mezzanine__  
 __microbrew__ _n_ :three::hammer:  
+__midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
 __minimalist__ _adj_  
 __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
@@ -328,6 +346,7 @@ __mousy__ _adj_ _A mousy accountant._
 __moveable__ _adj_ _Moveable bridges._  
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __munch__ _v_  
+__murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
 __mushy__ _adj_  
 __myofascial__ _adj_  
@@ -366,6 +385,7 @@ __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attenti
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oddball__ _adj, n_  
 __off-color__ _adj_ _An off-color remark._  
+__offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
 __omelet__ _n_ :mega: (omelette)  
@@ -389,7 +409,7 @@ __overly__
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
 __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
-__pageantry__ _n_  
+__pageantry__ _n_ :two::hammer:  
 __painstakingly__  
 __pamper__ _v_  
 __panache__  
@@ -440,8 +460,7 @@ __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort o
 __pinstripes__ _n_  
 __piquancy__  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
-__planter__ _n_  
-__planters__ _n_  
+__planter__ _n_ :three: __3__ An early settler or colonist.  
 __plantman__ _n_  
 __plantwoman__ _n_  
 __platted__ _v_  
@@ -488,6 +507,7 @@ __protracted__ _adj_ _A protracted discussion._
 __provider__ _n_  
 __prowess__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
+__prudery__ _n_  
 __psyched__ _v_  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
@@ -649,6 +669,7 @@ __sizzle__ _v_ :two::hammer: _Sizzling burgers/soups._
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skeeball__ _n_  
 __skit__ _n_ :two::hammer: _Skit theater._  
+__sleazy__ _adj_  
 __sleek__ _adj_ :two::hammer: _A sleek shopping center._  
 __sleuth__ _n_ :two::hammer:  
 __slice__ _n_ _A taste of a very diverse slice of East of England life._  
@@ -687,6 +708,7 @@ __standee__
 __starcrossed__ _adj_ _The world’s most famous starcrossed lovers._  
 __stardom__ _n_  
 __stare decisis__ _n_ [:scroll: The term comes from Latin, in which it means “to stand by decided matters.”] A doctrine or policy of following rules or principles laid down in previous judicial decisions unless they contravene the ordinary principles of justice.  
+__stargaze__ _v_  
 __statesman__  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
