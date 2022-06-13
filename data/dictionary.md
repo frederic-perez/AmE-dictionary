@@ -2010,6 +2010,7 @@ __bureaucracy__
 __burgeon__ _v_  
 __burgeoning__ _adj_ :nine: Rapidly developing or growing; flourishing.  
 __burgermeister__  
+__burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
 __burgundy__ _n_ :three: A dark grayish or blackish red to dark purplish red or reddish brown. _Burgundy outfit._  
 __burkini__  
 __burlap__ _n_ :four::hammer: _A burlap bag._  
@@ -2723,9 +2724,10 @@ __cinephile__ _n_ :mega:
 __cineplex__ _n_ _Sequels ruled the cineplex this weekend._  
 __cipher<sup>1</sup>__ _n_ (cypher)  
 __cipher<sup>2</sup>__ _v_ (cypher) _They often cipher._  
+__circa__  
 __circadian__ _adj_ :three::hammer:  
 __circlet__ _n_ :two::hammer: _A circlet of red-hot iron._ _A jeweled circlet._  
-__circuit__ _n_ :mute:[circ~~u~~it]  
+__circuit__ _n_ :two::mute:[circ~~u~~it]:hammer: _Chester retains the full circuit of its ancient defensive walls._  
 __circumambulate__ _v_ :pencil2:  
 __circumcircle__  
 __circumlocution__ _n_ :two: The use of unnecessarily wordy and indirect language. _Syn_ ambage, periphrasis, evasion _He is long-winded and prone to circumlocution in his public speeches._  
@@ -2789,7 +2791,7 @@ __claw<sup>2</sup>__ _v_ :two::hammer:
 __clawback__  
 __clawed__ _v_  
 __clean his clock__  
-__cleanliness__  
+__cleanliness__ _n_ :two::hammer:  
 __cleanse__ _v_  
 __cleanser__ _n_  
 __clear air__  
@@ -2843,6 +2845,7 @@ __cloakroom__ _n_ :three::hammer: :es: guardaropa
 __clobber__ _v_ :three::hammer:: (clobbered, clobbering) _Uber threatens to clobber the media._  
 __cloche__ _n_ A low transparent cover put over young plants to protect them from cold.  
 __clock in__ _v_  
+__clock out__ _v_  
 __clock__ _v_ :two::hammer: _He was clocked at 95 mph in a 55-mph construction zone._ _Clock him._  
 __clockwork__ _n_  
 __clod__ _n_ :five::hammer: /klɒd/ _A dirt clod._ _Dry clods of dirt rattling like rocks under the fender._  
@@ -2892,7 +2895,9 @@ __co-sleeping__
 __coach__ _n_ :two: __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
 __coast__ _v_ :two::hammer:  
+__coasteering__ _n_  
 __coaster brakes__  
+__coastline__  
 __coat of arms__ _n_ _Heraldry_ :four::hammer: _The village coat of arms._  
 __coat__ _n_ The fur of an animal: _A Dalmatian is a large dog with a white coat and black spots._  
 __coats-of-arms__ _n pl_  
@@ -2973,6 +2978,7 @@ __collateral damage__
 __colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
 __collect__ _v_ _Click and collect._  
 __collectible__ _n_  
+__college__ _n_ :mega:  
 __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
 __collinear__ _adj_ :pencil2:  
 __Collins glass__  
@@ -3059,7 +3065,7 @@ __compartmentalize__ _v_ :two::hammer:
 __compassionate__ _adj_ :three::hammer:  
 __compatriot__  
 __compel__ _v_ :five::hammer:  
-__compelling__ _adj_ :six: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
+__compelling__ _adj_ :seven: Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.  
 __compendious__ _adj_ /kum-PEN-dee-us/ __1__ Concise. _The book is fairly short and provides a compendious account of the war._ __2__ Comprehensive. _The teacher has a compendious knowledge of the subject._  
 __compensable__ _adj_ Being such as to entitle or warrant compensation. _Syn_ remunerative, paying, salaried, stipendiary _Once I traded my unpaid internship for a compensable job, I was able to move out of my parents’ house into a place of my own._  
 __complacency__  
@@ -3184,6 +3190,7 @@ __consciousness__ _n_
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
 __conscript<sup>2</sup>__ _v_ :five::hammer: (conscripted) _I was conscripted into the army._  
 __conscription__ _n_ :two::hammer:  
+__consecrate__ _v_  
 __consecutive__  
 __consensual__  
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
@@ -3204,9 +3211,10 @@ __constituent__ _n_ :six::hammer: (constituents)
 __constitutional<sup>1</sup>__ _n_ :astonished: A walk taken for one’s health.  
 __constitutional<sup>2</sup>__ _adj_ __1__ Relating to the constitution, a set of principles governing a state, organization, etc. __2__ Relating to someone’s physical or mental condition. __3__ Relating to the fundamental makeup of something or someone; essential.  
 __constrained__ _adj_  
-__construction paper__ _n_ A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
+__construction paper__ _n_ :two: A heavy paper produced in many colors and used in artwork especially for making folded or cutout designs. _A heart made of construction paper._  
 __constructive__ _adj_ _Constructive criticism._  
 __construe__ _v_ :nine: /kun-STROO/ (construed) __1__ To understand or explain the meaning of (something), especially in a particular way; interpret: _The waiter construed my smile as assent._ To understand or explain the sense or intention of something in a particular way. _Syn_ explain _The website provides medical information but that information should not be construed as a diagnosis._ __2__ _grammar_ __a__ To analyze the structure of (a clause or sentence). To analyze the arrangement and connection of words in a sentence. _The teacher asked the students to construe the Greek philosopher’s statement._ __b__ To use syntactically: _The noun fish can be construed as singular or plural._ __3__ To translate, especially aloud.  
+__consultation__ _n_ _Call for a consultation._  
 __consultee__ _n_  
 __consumable__  
 __consumer electronics__  
@@ -3281,6 +3289,8 @@ __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term
 __coop<sup>1</sup>__ _n_ :three::hammer: :es: gallinero _Chicken coops._  
 __coop<sup>2</sup>__ _v_ :two::hammer: (cooped)  
 __cooper__ _n_ :two::astonished: A person who makes or repairs wooden barrels and tubs.  
+__cooperage__  
+__coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
 __coos__ _v_  
 __cooze__ _n_ :two::hammer:  
 __cop out__ _v_ :seven: (copped out) Choose not to do something, as out of fear of failing: _She copped out when she was supposed to get into the hang glider._  
@@ -3316,7 +3326,7 @@ __corduroy__ _n_ :two: A durable cut-pile fabric, usually made of cotton, with v
 __corduroys__ _n_ Pants made of corduroy.  
 __core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
-__coriander__  
+__coriander__ _n_ :two::hammer: :es: cilantro  
 __cork sun helmet__ _n_ :two: Pith helmet.  
 __corky__ _adj_  
 __cormorants__  

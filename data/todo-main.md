@@ -1,18 +1,3 @@
-__burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
-__circa__  
-__circuit__ _n_ _Chester retains the full circuit of its ancient defensive walls._  
-__cleanliness__ _n_  
-__clock out__ _v_  
-__coasteering__ _n_  
-__coastline__  
-__college__ _n_ :mega:  
-__compelling__ _adj_  
-__consecrate__ _v_  
-__construction paper__  
-__consultation__ _n_ _Call for a consultation._  
-__cooperage__  
-__coopetition__ _n_ :astonished: [:scroll: A blend of cooperative + competition] Collaboration between business competitors, in the hope of mutually beneficial results.  
-__coriander__ _n_ :es: cilantro  
 __Cottonopolis__ _n_ Manchester, UK.  
 __covetable__ _adj_  
 __crag__ _n_  
