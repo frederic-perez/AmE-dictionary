@@ -1,3 +1,4 @@
+__burgle__ _v_ /BER-gul/ To break into and steal from (a home, business, etc.). _The broken window alerted the security guard that the office may have been burgled._  
 __circa__  
 __circuit__ _n_ _Chester retains the full circuit of its ancient defensive walls._  
 __cleanliness__ _n_  
@@ -73,6 +74,7 @@ __fireplace__ _n_ _Gas fireplaces._
 __fixer__ _n_ _Political fixers._  
 __flail__ _v_  
 __flint__ _n_ _You’ll discover ancient villages of brick and flint._  
+__folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __freak out__  
 __frequent__ _v_  
 __fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
@@ -82,6 +84,7 @@ __gambit__ _n_
 __gated community__ _n_ :two::hammer:  
 __gatekeeper__ _n_  
 __gateway__  
+__geotag__ _n, v_  
 __ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
 __gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
@@ -118,6 +121,7 @@ __headbanger__
 __headboard__ _n_  
 __headland__  
 __headline__ _v_ _Prize-winning steaks headline the menu._  
+__headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is most often used figuratively to describe something done either in a reckless manner or without pause or delay. _He’s impulsive and often rushes headlong into new endeavors, giving little thought to long-term viability._  
 __heady__ _adj_ _Heady events._  
 __heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
@@ -383,6 +387,7 @@ __ornament__ _n_
 __ornamental__ _adj_  
 __ornate__ _adj_ :three::hammer: /ɔrˈneɪt/  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
+__ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __outcry__ _n_  
 __outfitter__ _n_ _Horseback outfitter._  
@@ -407,6 +412,7 @@ __paradoxical__ _adj_ :two::hammer:
 __Paralympic Games__  
 __paraphernalia__  
 __parcel__ _n_  
+__pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __parishioner__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
@@ -455,6 +461,7 @@ __plenty__ _n_ _There are plenty of shops._
 __plethora__ _n_ :two::hammer:  
 __plot__ _n_ _Vegetable plot._  
 __plush__ _n_ _A plush booth in the bar._  
+__plushy__ _adj_  
 __Pluto__ _n_  
 __pod__ _n_ _Pea pod._  
 __Poe, Edgar Allan__ _n_ :mega: /pəʊ/  
@@ -579,6 +586,7 @@ __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand di
 __saint__ _v_ (sainted) _The chef should be sainted._  
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
 __salient__ _adj_ /SAIL-yunt/  
+__samara__ _n_  
 __sammy__ _n_ _It is known for its killer grilled cheese sammies._  
 __samurai__ _n_ :mega:  
 __sandcastle__ _n_ _Have a sandcastle building competition._  
@@ -801,6 +809,7 @@ __top-drawer__ _adj_ Of the highest importance, rank, privilege, or merit. _Top-
 __top-flight__ _adj_ _Top-flight restaurant._  
 __topiary__ _adj, n_ :three::hammer: _Topiary garden._  
 __toppings__ _n_  
+__torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __tote bag__ _n_  
 __trailhead__ _n_ :two::hammer:  
 __trashy__  

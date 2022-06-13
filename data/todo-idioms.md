@@ -9,14 +9,14 @@ __comfort food__ Particular dishes or food items that are meant to ease emotiona
 __days on end__  
 __F-ing__  
 __fall in place__  
+__from bad to worse__  
 __get to grips__  
 __give something/it a shot__ :two::hammer:  
 __go a long way__  
 __go over the top__  
 __go strong__  
 __got them covered__  
-__Happily Ever After__  
-__Happily Ever After__  
+__Happily Ever After__ :two::hammer:  
 __hard pressed__ _You’ll be hard pressed to visit them._  
 __head on shoulders__  
 __head-spinning__ Incredible, overwhelming.  
@@ -136,6 +136,8 @@ __temper tantrum__ An extreme and childish display of unreasonable anger, frustr
 __thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
+__the butt of the joke__ Someone or something at whose expense an insulting or mocking joke is made. _I like hanging out with my brother and his friends, even though he likes to make me the butt of his jokes._  
+__the end of (one’s) rope__ A point of utter exhaustion or exasperation; a point or state at which one has no more patience, endurance, or energy left. _Joshua started throwing a tantrum this afternoon, and with all the other things I have to get done, I’ve just reached the end of my rope!_  
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the likes of__  
 __the lion’s den__  
