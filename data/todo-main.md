@@ -1,18 +1,3 @@
-__Cottonopolis__ _n_ Manchester, UK.  
-__covetable__ _adj_  
-__crag__ _n_  
-__craggy__ _adj_ :two::hammer:  
-__cram__ _v_ :dart: _A calendar crammed woth events._  
-__crimson__ _n_ _Soar among the spectacular crimson mesas._  
-__curt__ _adj_ (Mr Wolf’s sentence.)  
-__custard__ _n_ :es: natillas  
-__daffodil__ _n_  
-__dale__ _n_ _Secluded dales._  
-__dappled__ _v_ _Trees cast their dappled shade._  
-__dastard__ _adj_  
-__de-escalate__ _v_ :two::pencil2::hammer:  
-__dealbreaker__  
-__debacle__  
 __deck__ _n_ _An elevated deck with with mountain views._  
 __decry__ _v_ /dih-KRY/ To express strong disapproval of. _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._  
 __developer__ _n_ _This land attracts developers, architects, builders and brokers._  

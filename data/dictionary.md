@@ -3376,6 +3376,7 @@ __cotton candy__ _n_ :two::hammer:
 __cotton dry__  
 __cotton gin__ _n_ A machine that separates the seeds, seed hulls, and other small objects from the fibers of cotton.  
 __cotton swabs__  
+__Cottonopolis__ _n_ Manchester, UK.  
 __couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
 __couch-ridden__  
@@ -3420,7 +3421,7 @@ __cover charge__ _n_ :two: A fixed amount paid when arriving or added to the bil
 __covertly__  
 __covertness__ _n_ __1__ The state of being covert and hidden. _Syn_ hiddenness __2__ The habit, practice, or policy of keeping secrets. _Syn_ clandestineness, clandestinity, concealment, huggermugger, huggermuggery, secrecy, secretiveness, secretness  
 __coverup__ _n_  
-__covetable__ _adj_  
+__covetable__ _adj_ :two::hammer:  
 __coveted<sup>1</sup>__ _adj_ :three: Sought-after. _A coveted item._  
 __coveted<sup>2</sup>__ _v_ :two::hammer:  
 __covetous__ _adj_ :two::hammer:  
@@ -3458,9 +3459,9 @@ __craft beer money__
 __craft__ _n_ :three::hammer: (crafts) _Craft sake._  
 __craftman__  
 __crafty__  
-__crag__ _n_ :two::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
+__crag__ _n_ :three::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
-__craggy__ _adj_ :three::hammer:  
+__craggy__ _adj_ :five::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ _A late-night cram session._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :five::hammer: (cramps, cramped)  
@@ -3523,7 +3524,7 @@ __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_
 __crier__ _n_ :two: __2__ (formerly) an official who made public announcements, esp in a town or court. _Public criers._  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
 __crimp<sup>2</sup>__ _v_ :nine::m: (crimped) To press or pinch into small regular folds or ridges: _crimp a pie crust._  
-__crimson__ _n_ :three::hammer: _Crimson cereal._ _Her face went crimson._  
+__crimson__ _n_ :four::hammer: _Crimson cereal._ _Her face went crimson._ _Soar among the spectacular crimson mesas._  
 __cringe__ _v_ :nine: (cringed) __1__ To shrink back, as in fear; cower. _I cringed and rolled my eyes._ :es: to cringe with fear > encogerse de miedo; to cringe with embarrassment > morirse de vergüenza __2__ To behave in a servile way; fawn. :es: it makes me cringe > me da horror  
 __cringingly__  
 __crinkle__ _v_ (crinked, crinkling) :five::hammer:  
@@ -3672,7 +3673,7 @@ __curriculum__ _n_ _The math curriculum of the school is pretty useless._
 __curry__ _v_ :four::hammer: _A blatant effort to curry favor._  
 __cursive__ _adj_ :two: /ˈkəːsɪv/ [:scroll: from Latin curs, ‘run’] Written with the characters joined. _I can’t give autographs right now, ‘cause I don’t know cursive._  
 __cursory__ _adj_ :seven: Performed with haste and scant attention to detail: _a cursory glance at the headlines._  
-__curt__ _adj_ :two: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
+__curt__ _adj_ :three: __1__ Rudely blunt and brief; abrupt: _a curt reply._ _His curt answer._ __2__ Short or concise.  
 __curtail__ _v_ :nine::m: (curtailed) Reduce in extent or quantity; impose a restriction on. _He must curtail the mistakes._ _The government is conspiring to curtail liberties._ :es: hacer restringir  
 __curtailment__  
 __curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. _Six curtained-off beds._  
@@ -3681,7 +3682,7 @@ __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disru
 __cushy__ _n_ _A cushy modern life._  
 __cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
-__custard__ _n_ :es: natillas, flan  
+__custard__ _n_ :two::hammer: :es: natillas, flan  
 __custodian__  
 __custody__ _n_ _Finally my house returned to my custody._  
 __custom__ _n_ /ˈkʌstəm/  
@@ -3722,7 +3723,7 @@ __dacha__ _n_ A vacation cottage or country villa in Russia or other parts of th
 __dada__ _n_ _Cinematic dada._  
 __Daddy-O__ _n_  
 __daedal__ _adj_ :two: /DEE-duhl/ [:scroll: From Latin daedalus (skillful), from Greek daidalos. In Greek mythology, Daedalus was an architect and craftsman who built the labyrinth for King Minos of Crete. When the king imprisoned him so the knowledge of the labyrinth wouldn’t spread, Daedalus made wings for himself and his son Icarus. ] __1__ Ingenious and complex in design or function; intricate. __2__ Finely or skillfully made or employed; artistic.  
-__daffodil__ _n_ :three::hammer:  
+__daffodil__ _n_ :four::hammer:  
 __daffy__  
 __daft__ _adj_ :four::hammer:  
 __dafter__  
@@ -3732,6 +3733,7 @@ __daintily__ _adv_ _The little person broke one off and nibbled at it daintily._
 __dainty__ _adj_ _Dainty eyebrows._  
 __daiquiri__ _n_ :mega:  
 __dais__ _n_ :five: A low platform for a lectern or throne. _Syn_ platform, stage, podium, stand _It is full of unusual plants surrounding a central stone dais._  
+__dale__ _n_ _Secluded dales._  
 __dalliance__  
 __dally__ _v_ :six::hammer: (dallied, dallying)  
 __Dalmatian__ _n_ A dog of a large, white short-haired breed with dark spots.  
@@ -3761,7 +3763,7 @@ __dank__ _adj_ :five: Unpleasantly damp and cold. _Huge dank caverns._ _Syn_ dam
 __dankness__ _n_ :two::hammer:  
 __danse macabre__ _n_ (Art Terms) Another name for dance of death.  
 __dapper__ _adj_ :six: (of a man) Neat and trim in dress and appearance. Marked by up-to-dateness in dress and manners. _Syn_ jaunty, natty, raffish, rakish, spiffy, spruce, dashing, snappy _He smiled pleasantly upon her, looking very dapper in evening dress and a silk hat._ _The dapper lead singer._  
-__dappled__ _adj_ :six: Marked with spots of colour, light, or shade. _A dappled horse._  
+__dappled__ _adj_ :seven: Marked with spots of colour, light, or shade. _A dappled horse._ _Trees cast their dappled shade._  
 __dare__ _n_ :two: An act of daring; a challenge. _I applied to Harvard on a dare._  
 __daredevil__ _n_ :three::hammer: _The daredevils of the group._  
 __daresay__ _v_  
@@ -3773,6 +3775,7 @@ __dart__ _v_ :three::hammer: (darting)
 __dash<sup>1</sup>__ _n_ _The stupid dog made a dash across the road._  
 __dash<sup>2</sup>__ _v_ _Dashed No. 3 Louisville’s playoff hopes._  
 __dashing__ _adj_ :two::hammer: _A dashing atmosphere._ _I think I look rather dashing._  
+__dastard__ _adj_  
 __datalogger__ _n_ :two::hammer:  
 __datalogging__ _n_ :two: The use of a datalogger  
 __date<sup>1</sup>__ _n_ :three::pencil2: The sweet, edible, oblong or oval fruit of the date palm, containing a narrow, hard seed. _It would be like eating a single date._ :es: dátil  
@@ -3798,7 +3801,7 @@ __daze__ _n_ _Exhausted beyond his endurance, the Deacon sank down against the w
 __dazzle__ _v_ :three::hammer: (dazzled) _He had dazzled a businessman._  
 __dazzling__ _adj_ :nine::m: /ˈdæzlɪŋ/ (dazzlingly) __1__ Extremely bright, especially so as to blind the eyes temporarily. _The sunlight was dazzling._ _Syn_ extremely bright, blinding, glaring __2__ Extremely impressive, beautiful, or skilful. _A dazzling display of football._ _Dazzling gifts._ _Syn_ impressive, remarkable, extraordinary, outstanding, exceptional  
 __de facto__ _adj_  
-__de-escalate__ _v_ :two::hammer:  
+__de-escalate__ _v_ :four::pencil2::hammer:  
 __de-facto__  
 __deactivate__ _v_ _The team deactivated Peterson for a game._  
 __dead bolt__ _n_  
@@ -3813,13 +3816,14 @@ __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
 __deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
 __deafening__ _adj_  
+__dealbreaker__  
 __dean__ _n_ :four: A senior official at a college or university. _He served as dean._  
 __dear__ _adj_ __1__ Bearing a high price; high-priced; costly; expensive. __2__ Marked by scarcity or dearth, and exorbitance of price. _Though bread and cheese were available from the inhabitants, provision and other supplies were dear._ __3__ Highly valued; greatly beloved; cherished; precious.  
 __dearth__ _n_ :five::dart::hammer:  
 __death toll__ _n_ The number of deaths resulting from some particular cause such as an accident or a battle or a natural disaster.  
 __deathbed__ _n_ :two::hammer:  
 __deathless__  
-__debacle__ _n_ :six: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
+__debacle__ _n_ :seven: A sudden, disastrous collapse, downfall, or defeat; a rout. _Syn_ fiasco _The team had had high hopes before the debacle of their final game, in which they did not manage to score any points._  
 __debasing__ _v_  
 __debatable__  
 __debauchee__ _n_ A man who leads a life of reckless drinking, promiscuity, and self-indulgence. _Syn_ libertine, rounder  
