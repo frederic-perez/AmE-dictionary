@@ -1,18 +1,3 @@
-__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
-__above board__  
-__balancing act__  
-__Band E__  
-__bigger fish to fry__  
-__bounce back__  
-__by and large__  
-__comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
-__days on end__  
-__F-ing__  
-__fall in place__  
-__from bad to worse__  
-__get to grips__  
-__give something/it a shot__ :two::hammer:  
-__go a long way__  
 __go over the top__  
 __go strong__  
 __got them covered__  

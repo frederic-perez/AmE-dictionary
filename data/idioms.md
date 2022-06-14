@@ -67,7 +67,7 @@ __a good turn__ An action that is beneficial to another person in some way.
 __a great deal__  
 __a great many__ A very large number of (people, things, etc.).  
 __a hard pill to swallow__ Something, especially a fact or piece of news, that is unpleasant or difficult but which is unavoidable or must be accepted.  
-__a heartbeat away__ :two::hammer: _Located a heartbeat away from the Buzz of Broadway._  
+__a heartbeat away__ :four::hammer: _Located a heartbeat away from the Buzz of Broadway._  
 __a hill of beans__ Something of little or no importance, value, or worth. _For all the congressman’s posturing about overhauling the tax system, his plan to do so is just a hill of beans._  
 __a hot hand__ A continuous period of great success, luck, or fortune; a winning streak.  
 __a joy to behold__ :two: A thing, event, or experience that creates a profound sense of joy or elation in the spectator. _The spring flowers in this part of the country are truly a joy to behold._  
@@ -118,7 +118,7 @@ __a wink of sleep__ _n_ A bit of sleep; the smallest amount of sleep. (Usually i
 __a woman of her word__ A woman who can be expected to keep or follow through with her promises or intentions; a truthful, trustworthy, or reliable person. (Masculine: “man of his word.”) _Bob, I’m a woman of my word. If I tell you I’ll be at your house tomorrow morning at 10, then that’s when I’ll be there._  
 __abide by__ To conform to; comply with: _abide by the rules._  
 __above and beyond__ Exceeding expectations or requirements. _I will award extra credit to anyone who does research above and beyond the parameters of the assignment._  
-__above board__  
+__above board__ :two::hammer:  
 __above the salt__ Of or in a position of high standing, rank, regard, or repute.  
 __absence makes the heart grow fonder__ _proverb_ A separation causes one to feel even more positive about the absent person or thing. _Ever since Carla’s boyfriend moved away, she can’t stop thinking about him. Absence makes the heart grow fonder._  
 __absorbed in thought__ Fully and deeply engrossed in a thought or idea, often to such a degree as to be unaware of or insensitive to the outside world.  
@@ -238,10 +238,12 @@ __bad press__ Negative or unflattering coverage by the media. _Drones get a lot 
 __bad word__ A euphemism for profanity. A curse or swear word. _You just said a bad word! I’m telling mom!_ _Cat says bad words._  
 __badgering the witness__ Term used when an attorney is questioning a witness on the stand, and is being unduly snide or pushy, or bullies the witness to answer the question. When an attorney badgers a witness, the other side will use an objection to seek the judge’s intervention.  
 __bag of tricks__ All the clever methods by which someone achieves something.  
+__balancing act__  
 __ball and chain__ A wife.  
 __ball is in your court__ It is up to you to make the next decision or step.  
 __ballpark figure__ :two: A rough numerical estimate.  
 __banana oil__ _n_ /buh-NAN-uh oyl/ [:scroll: It’s not known why the banana oil earned this sense, although “to go bananas” means to be crazy or wildly enthusiastic. Perhaps the sense arose because the liquid known as banana oil does not involve bananas at all. Instead, it’s a mixture of amyl acetate and cellulose that has a banana-like odor and is used as food flavoring and a solvent. ] __1__ Nonsense. __2__ Insincere talk or flattery.  
+__Band E__  
 __bank on__ :five: Rely on, count on. For example, _You can bank on Molly’s caterer to do a good job._ This expression alludes to _bank_ as a reliable storage place for money. To have confidence in; to rely on somebody or something. _Ted was banking on that._ _Fillon can beat Le Pen, but don’t bank on it._  
 __bar star__ Someone who has or seeks a popular reputation by frequenting bars or night clubs. Primarily heard in US, South Africa. _Though he does not have a vibrant social life during the week, during the weekend he is something of a bar star._  
 __bare (one’s) teeth__ To display an angry, violent, and/or threatening reaction to or against something or someone, as does a dog or wolf when threatened.  
@@ -368,6 +370,7 @@ __big cheese__ An influential person.
 __big deal__  
 __big spender__ :two: Someone who spends money freely and in great amounts, especially on nonessential things or events. Can also be used sarcastically to refer to someone who is reluctant to spend money, or who offers to spend only a small amount. _There are a certain few big spenders who always come through the casino, so we try to make sure they have the best experience possible._ _You’re only willing to pay for my soda? Wow, you’re a real big spender._  
 __big time__  
+__bigger fish to fry__  
 __bite (one’s) head off__ To respond to someone with anger that is often sudden or unprovoked. _What’s wrong with the boss today? I just tried to ask him a question, and he totally bit my head off!_  
 __bite off more than one can chew__ To attempt to take on a task that is too much for you to handle.  
 __bite the dust__ :two::hammer: _In 1945, what was left of the old Science Fiction League finally bit the dust._  
@@ -393,6 +396,7 @@ __born to the purple__ _Both were born to the purple._
 __bottom of the barrel__ :two::hammer: _That’s the tip of the iceberg, or, better, the bottom of the barrel._  
 __bottom of the ninth__ The final and critical moment or moments of a tense, important, or desperate situation. It refers to the ninth inning of baseball, the “bottom” of which is batted by the home team as their last chance to win the game. Primarily heard in US, South Africa. _It came down to the bottom of the ninth, but I managed to finish my report in time for the big meeting._  
 __bottom out__ _Europe is bottomed out._  
+__bounce back__  
 __bow out__ Depart, withdraw, resign, as in _After five years as chairman, I felt it was time I bowed out,_ or _We’ll have to beat them; they’ll never bow out._ _I was so sick I just pulled the shades and bowed out for half the month._  
 __boy oh boy__ :four: An expression said when one is excited, pleased, or pleasantly surprised. _Boy oh boy, that was a delicious birthday cake!_  
 __brace yourself__ Prepare yourself mentally or emotionally for hearing something unpleasant, out of place or inappropriate.  
@@ -442,6 +446,7 @@ __butter up__ [:scroll: This term transfers the oily, unctuous quality of butter
 __butterfingers__ A person who frequently drops things, clumsy person.  
 __buy the farm__ To die.  
 __by all accounts__ :dart::three: From all the reports (that are available); according to what everyone is saying. _According to all accounts, the police were on the scene immediately._ _By all accounts, it was a very poor performance._  
+__by and large__  
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
@@ -559,6 +564,7 @@ __come to terms with (someone or something)__ :seven::hammer:
 __come to think of it__ _Come to think of it, I haven’t seen too many bullshitters since the war started._  
 __come together__ :three::hammer:  
 __come-one-come-all__  
+__comfort food__ Particular dishes or food items that are meant to ease emotional pain upon consumption, as by reminding one of home or childhood. Often, such food is high in calories or carbohydrates. _Did Mom make mac and cheese tonight? I’m definitely in need of some comfort food._  
 __coming-of-age__ :two: Describing something, such as a book or film, that focuses on a character’s maturation to adulthood. _Her coming-of-age novel focuses on a child born into poverty who goes on to be a Harvard graduate._  
 __comparisons are odious__ It is unhelpful, unfair, or misleading to draw comparisons between people or things, especially when done flippantly or inappropriately. _A: “How would you compare Sarah’s current boyfriend with her last?” B: “Comparisons are odious, dear. Let’s not go down that road.”_  
 __concrete jungle__ An overcrowded, unsafe and/or crime-ridden urban environment or city, characterized by the congestion of large buildings and roads.  
@@ -618,6 +624,7 @@ __day lark__ A person who is more energetic and active during the day than at ni
 __day or night__ At any point in time; 24 hours a day.  
 __day tripper__ _You are funny, sitting there like a day tripper._  
 __day/moment/time in the sun__ A period of being popular or getting a lot of attention. _Bates was to have his day in the sun with the sale of several stories to the new_ Astounding.  
+__days on end__  
 __days to come__  
 __dead asleep__ In a deep, immovable sleep.  
 __dead duck__ _n_ A person or thing that is doomed or in big trouble. _Never waste powder on a dead duck._  
@@ -735,12 +742,14 @@ __extra pair of hands__ Additional help or assistance provided by another person
 __eye candy__ :two: A person or thing that is nice to look at, but has very little substance, meaning, or purpose.  
 __eye-opening__ Causing or resulting in a shocking or startling revelation. _Learning that John had been dealing with an opioid addiction for all those years was really eye-opening for me._  
 __eye-to-eye__ _You can get eye-to-eye with a dolphin._  
+__F-ing__  
 __face value__  
 __faint of heart__ :two: Lacking the courage to face something difficult or dangerous—usually used in the phrase _not for the faint of heart_.  
 __fair and square__ :three: Completely fair(ly); justly; within the rules. _She won the game fair and square._ _The division of the money should be fair and square._  
 __fair enough__ _informal_ __1__ Used for accepting a suggestion, etc. _I think £200 is a reasonable price. Fair enough. Can I pay you at the end of the week?_ __2__ Used for showing that you think that something is reasonable. _Letting the students work the machines on their own is fair enough, but they do need some training first._  
 __fair-weather fan__ A person who is supportive of and enthusiastic about a sports team only when that team is performing well.  
 __fall from the sky__ _This trust doesn’t fall from the sky._  
+__fall in place__  
 __fall off the back of a truck__ Of goods or merchandise, to be acquired by illegal or dubious means; to come into (someone’s) possession without being paid for.  
 __fall out__ :dart: __5__ To have one’s relationship with someone completely diminished, typically due to an argument or unpleasant incident. _Apparently, Gina fell out with Dave last week, and now they’re not talking to each other at all._  
 __fall short__ :eight: __1__ To fail to attain a specified amount, level, or degree: _an athlete whose skill fell far short of expectations._ __2__ To prove inadequate: _Food supplies fell short._ _He has fallen short as an exec._  
@@ -835,6 +844,7 @@ __fresh-faced__ Of or having an appearance of health, vitality, and/or youthfuln
 __Freudian slip__ Any inadvertent verbal or written mistake that reveals, or can be construed as revealing, an unconscious or repressed intention, belief, thought, attitude, etc.  
 __Friendsgiving__ A Thanksgiving celebration among friends. It often takes place near Thanksgiving, rather than on the actual holiday. _I always have Friendsgiving with my college roommates the week before Thanksgiving._  
 __from a mile away__ Well or far in advance; exceptionally easily. _That movie was so corny, you could tell what was going to happen from a mile away!_  
+__from bad to worse__  
 __from rags to riches__ From being poor to being wealthy.  
 __front and center__ :three::hammer:  
 __frost the cake__  
@@ -893,6 +903,7 @@ __get the knack of__ :two: To learn how to do something competently or well afte
 __get the the green light__ To receive permission to proceed with some action or task. Likened to the green light of a traffic signal.  
 __get this show on the road__ To promptly begin or get something started.  
 __get through to (someone or something)__ To make someone understand what you are trying to say.  
+__get to grips__  
 __get to know__ To start to be familiar with someone or something. If you get to know someone, you find out what they are like by spending time with them. _It took a while to get to know the city properly._ _The new neighbors were getting to know each other._  
 __get to the point__ To talk directly about the most important part or topic.  
 __get under someone’s skin__ :two::hammer:  
@@ -918,12 +929,13 @@ __give someone a piece of your mind__ To speak angrily to someone because they h
 __give someone some lip__ _informal_ To speak rudely or disrespectfully to someone; to sass someone. _Billy gave me some lip, so I whupped him. Jane is always giving the teacher some lip._  
 __give someone the creeps__ To make you feel frightened or nervous.  
 __give someone the finger__  
+__give something/it a shot__ :two::hammer:  
 __give up on (someone or something)__  
 __glad tidings__ Favorable, beneficial, or happy news. Usually used with the verbs “give” or “bring.”  
 __glass ceiling__ A glass ceiling is a metaphor used to represent an invisible barrier that keeps a given demographic (typically applied to minorities) from rising beyond a certain level in a hierarchy. The metaphor was first coined by feminists in reference to barriers in the careers of high-achieving women.  
 __glimmer of hope__ :two: A minute indication that something may improve, succeed, or turn out for the best in the end. _Fans clung to a glimmer of hope that their team might score a last-minute touchdown to tie the game._  
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
-__go a long way__ :dart::four: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
+__go a long way__ :dart::five: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
