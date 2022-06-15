@@ -126,6 +126,8 @@ __the end of (one’s) rope__ A point of utter exhaustion or exasperation; a poi
 __the floor is yours__ You can talk now. _That’s all I have to say—the floor is yours._  
 __the likes of__  
 __the lion’s den__  
+__the next best thing__ Something that is as good a substitute as possible for that which is really desired or best suited. _My walking shoes have a hole in them, so I’ve been using the next best thing—my hiking boots._  
+__the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in which the urine of a woman thought to be pregnant was injected into a female rabbit; if the woman was pregnant, the rabbit’s ovaries would react. A common misconception at the time was that the rabbit would die if the woman was pregnant, hence the expression.] The woman to whom we are referring is pregnant; the pregnancy test was positive. _I saw Carol shopping for maternity clothes in the mall the other day. I guess the rabbit died!_  
 __the spur of the moment__  
 __the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the whole shebang__  

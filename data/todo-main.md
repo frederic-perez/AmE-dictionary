@@ -5,6 +5,7 @@ __devilment__ _n_
 __devotee__ _n_ _Burning Man devotees._  
 __disenchanted__  
 __dispel__ _v tr_  
+__disperse__ _v_ To drive off or scatter in different directions. _Syn_ dissipate, spread, dispel _When it seemed that a riot was about to start, the police arrived to disperse the crowd._  
 __dive bars__  
 __doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
 __downpour__ _n_ /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. :es: aguacero, chubasco, chaparrón  
@@ -18,6 +19,7 @@ __emollient__ _adj_ Softening and soothing, especially to the skin. _Syn_ demulc
 __empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __enthralling__ _adj_ :two::hammer:  
 __enviable__ _adj_  
+__eolian__ _adj_ /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind.  
 __escarpment__ _n_  
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __estuary__ _n_  
@@ -37,6 +39,7 @@ __fashionista__ _n_
 __Federal lands__ _n_  
 __fell__ _n_  
 __fennel__ _n_ :es: hinojo  
+__festoon__ _v_ /fess-TOON/ __1__ To cover or decorate (something) with many small objects, pieces of paper, etc. _Tiny wildflowers festooned the meadow._ __2__ To hang decorative chains or strips on. _The students festooned the gymnasium with streamers and bunting for the dance._  
 __fibromyalgia__ _n_ :dart::pencil2:  
 __fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
 __finery__ _n_ Elaborate or showy decoration, esp clothing and jewelry.  
@@ -112,6 +115,7 @@ __hiker__ _n_ :two::hammer:
 __hip__ _adj_ _Hip restaurants._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
+__hokum__ _n_ __1__ Utter nonsense; bunkum.  
 __home furnishing__ _n_  
 __home school__ _v_  
 __homesite__ _n_ :two::hammer:  
@@ -356,6 +360,7 @@ __oregano__ _n_ :two::mega::hammer: _Fresh hand rubbed oregano._
 __ornament__ _n_  
 __ornamental__ _adj_  
 __ornate__ _adj_ :three::hammer: /ɔrˈneɪt/  
+__Orphean__ _adj_ /ˈɔːfɪən/ __1__ Of or relating to Orpheus. __2__ Melodious or enchanting.  
 __orthotic__ _n_ :two::hammer: _Shoes designed to accommodate orthotics._  
 __ossify__ _v_ To change into bone; to become set in a rigidly conventional pattern. _Syn_ rigidify, petrify _It takes millions of years for organic remains to ossify and turn into fossils._  
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
@@ -372,6 +377,7 @@ __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._
 __pageantry__ _n_ :two::hammer:  
 __painstakingly__  
 __pamper__ _v_  
+__panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
@@ -465,7 +471,9 @@ __promenade__ _n_
 __promo__  
 __prompt__ _adj_ _Prompt, safe, and reliable._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
+__Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
 __protracted__ _adj_ _A protracted discussion._  
+__providence__ _n_ Prudent management; economy. _Syn_ foresight, prudence, economy _Because of Father’s providence, we were all able to go to college._  
 __provider__ _n_  
 __prowess__  
 __prude__ _n_ /prud/ Someone who is very easily shocked or embarrassed by anything relating to sex. This word shows that you think people like this are silly. _Sun_ prig, puritan, goody-goody (informal), old maid (informal), stuffed shirt (informal), Holy Joe (informal), Holy Willie (informal) _I’m no prude but I’ve never heard such filth._  
@@ -493,6 +501,7 @@ __rambler__ _n_
 __rampant__ _adj_  
 __rampart__ _n_  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
+__rathskeller__ _n_ A restaurant or bar located below street level.  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
