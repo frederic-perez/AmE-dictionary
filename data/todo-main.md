@@ -1,18 +1,3 @@
-__deck__ _n_ _An elevated deck with with mountain views._  
-__decry__ _v_ /dih-KRY/ To express strong disapproval of. _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._  
-__developer__ _n_ _This land attracts developers, architects, builders and brokers._  
-__devilment__ _n_  
-__devotee__ _n_ _Burning Man devotees._  
-__disenchanted__  
-__dispel__ _v tr_  
-__disperse__ _v_ To drive off or scatter in different directions. _Syn_ dissipate, spread, dispel _When it seemed that a riot was about to start, the police arrived to disperse the crowd._  
-__dive bars__  
-__doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
-__downpour__ _n_ /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. :es: aguacero, chubasco, chaparrón  
-__downright__  
-__downtime__ _n_  
-__dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
-__duchy__ _n_  
 __dumb__ _adj_ _Dumb jokes._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __emollient__ _adj_ Softening and soothing, especially to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._  

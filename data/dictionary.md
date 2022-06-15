@@ -3856,7 +3856,7 @@ __decidious__ _adj_
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
 __deck railing__  
-__deck<sup>1</sup>__ _n informal_ :two: The ground or floor. _An enticing outdoor deck._  
+__deck<sup>1</sup>__ _n informal_ :three: The ground or floor. _An enticing outdoor deck._ _An elevated deck with with mountain views._  
 __deck<sup>2</sup>__ _v_ :four::hammer: :es: adornar, engalanar _Those are just a few of the things that deck the halls of the raunchy comedy._  
 __declaim__ _v_  
 __declamatory__ _adj_ Ostentatiously lofty in style. _Syn_ bombastic, orotund, tumid, turgid, large _He has a reputation for making bold, declamatory statements._  
@@ -3872,7 +3872,7 @@ __decorated__ _adj_ :two::hammer: _A decorated veteran._ _He is one of Seattle�
 __decreed__ _v_  
 __decrepit__ _adj_ :two::hammer:  
 __decriminalize__ _v_ Make legal. _Syn_ legalize, legitimize  
-__decry__ _v_ :nine::m: (decried; decrying) Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._  
+__decry__ _v_ :nine::m: (decried; decrying) /dih-KRY/ To express strong disapproval of. Publicly denounce. _They decried human rights abuses._ _Ms. Le Pen decried the family subsidies that immigrants receive just as native-born French people do._ _Democrats were decrying what they called a war on women._ _The editorial decried the shuttering of the movie theater, which has been a local landmark for many years._  
 __decussate<sup>1</sup>__ _v_  
 __decussate<sup>2</sup>__ _adj_  
 __decypher__ _v_ :mega:  
@@ -4068,11 +4068,13 @@ __detritus__ _n_ :two: The remains of something that has been destroyed or broke
 __devastate__ _v_  
 __devastated__ _adj_ Very shocked and upset by something.  
 __develop__ _v_ :mega:  
+__developer__ _n_ _This land attracts developers, architects, builders and brokers._  
 __development__ _n_ :three: A district that has been developed to serve some purpose; _“such land is practical for small park developments.”_ _Choose your home from 8 new developments across London._  
 __deviancy__  
 __deviate__ _v_ :mega:  
 __devil-may-care style__  
 __deviled egg__ _n_ :camera::four: (deviled eggs, also known as stuffed eggs, Russian eggs, or dressed eggs) Halved hard-cooked egg with the yolk mashed with mayonnaise and seasonings and returned to the white. _Syn_ stuffed egg  
+__devilment__ _n_  
 __deviltry__  
 __devious__ _adj_  
 __devoid__ _adj_ :two::hammer:  
@@ -4080,6 +4082,7 @@ __devoir__ _n_ :two::hammer:
 __devolve__ _v_ _The party must devolve power._  
 __devolved__ _v_  
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
+__devotee__ _n_ _Burning Man devotees._  
 __devout__ _adj_  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _v tr_ To cure (an animal) of worms; worm.  
@@ -4219,6 +4222,7 @@ __disdrometer__
 __disembarrass__ _v_ Relieve from. _Syn_ rid, free  
 __disembodied__ _v_ :two::hammer:  
 __disembody__ _v_ (disembodied)  
+__disenchanted__  
 __disendowment__ _n_  
 __disenfranchise__  
 __disenfranchised__  
@@ -4269,9 +4273,10 @@ __disparaging__ _adj_ :two: Insulting, ridiculing.
 __dispassionate__ _adj_ :dart: Devoid of or uninfluenced by emotion or prejudice. _Syn_ unemotional, cool, collected, calm, unmoved, unfazed, unruffled, imperturbable, unexcitable _You are not impulsive, you are not romantic, you are accustomed to view everything from the strong dispassionate ground of reason and calculation._  
 __dispatch__ _v_  
 __dispatcher__ _n_ :two::hammer:  
-__dispel__ _v_ :nine: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
+__dispel__ _v tr_ :nine::m: (dispelled) __1__ To drive off in various directions; disperse; dissipate. __2__ To cause to vanish; alleviate. _She dispelled the myth._  
 __dispensed__ _v_  
 __dispenser__  
+__disperse__ _v_ To drive off or scatter in different directions. _Syn_ dissipate, spread, dispel _When it seemed that a riot was about to start, the police arrived to disperse the crowd._  
 __dispirit__ _v_ :four: (dispirited) Lower someone’s spirits; make downhearted. _Syn_ cast down, deject, depress, dismay, demoralize _I try to maintain a positive outlook, but the sad stories that are often featured on the nightly news inevitably dispirit me._  
 __dispiriting__ _adj_ _Dispiriting results._  
 __disposable__ _adj_ _A disposable lighter._  
@@ -4324,7 +4329,7 @@ __ditty bags__ _n_
 __ditty__ _n_ :three::hammer:  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
-__dive bar__  
+__dive bar__ _n_ :two::hammer:  
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
 __diversion__ _n_  
@@ -4417,6 +4422,7 @@ __doorman building__ _n_
 __doormat__ _n_ _slang_ :two: One who submits meekly to domination or mistreatment by others.  
 __doorpost__  
 __doorsill__ _n_  
+__doorway__ _n_ The entranceway to a room, building, or passage. :es: entrada, portal, puerta _Garlands hang down doorways and balconies._  
 __doozy__ _n informal_ :five: Something extraordinary, impressive, or unique: _a doozy of a hailstorm._ Something outstanding or unique of its kind. _It’s gonna be a doozy of a black eye._ _A doozy of a hailstorm._  
 __dopamine__ _n_ :two::mega::hammer:  
 __dope<sup>1</sup>__ _n_ :three::hammer: __3__ _Informal_ A stupid person; a dolt. _It has everything you want to know ... with 200 photos, complete rosters ond schedules of oil major-league teams, inside dope about each club and player in the league._  
@@ -4486,14 +4492,14 @@ __downhill<sup>1</sup>__ _adv_ :camera::three: __1__ Down the slope of a hill. _
 __downhill<sup>2</sup>__ _adj_ Sloping downward; descending.  
 __downline__ _n_  
 __downplay__ _v tr_ :seven::hammer: (downplayed)  
-__downpour__ _n_ :seven::hammer: (downpours) _Torrential downpours._ _Heavy downpours can cause flash flooding._  
-__downright__ _adv_ :dart::five::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
+__downpour__ _n_ :eight: /ˈdaʊnˌpɔː/ /ˈdaʊnˌpɔr, -ˌpoʊr/ A heavy, drenching rain. A heavy continuous fall of rain. _Torrential downpours._ _Heavy downpours can cause flash flooding._ :es: aguacero, chubasco, chaparrón  
+__downright__ _adv_ :dart::six::hammer: _Not to mention, just downright good looking._ _Downright goofy._ _It is downright fun._  
 __downside__ _n_ :two::hammer: (downsides)  
 __downsize__ _v_  
 __downslope__ _n_  
 __downspout__ _n_  
 __downswing__ _n_ A worsening of business or economic activity. _Syn_ downturn  
-__downtime__ _n_ :three::hammer:  
+__downtime__ _n_ :four::hammer:  
 __downtrodden__ _adj_ :seven::hammer: _The Clippers were the victims, the downtrodden, the doormats._ _Riots rocked downrodden urban areas across the country._  
 __downturn__ _n_ :three::hammer: (downturns)  
 __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, with the hands and feet on the floor, and the buttocks pointing upward. _Just because you’re not in a yoga studio, it doesn’t mean you can’t practice your downward dog._  
@@ -4518,6 +4524,7 @@ __dragnet__
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
+__dramatic__ _adj_ :two::hammer: _Dramatic landscapes._ _Watch dramatic aerial displays._  
 __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright  
 __dramedy__ _n_ :three::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
@@ -4628,7 +4635,7 @@ __drywall__ _n_ A building material consisting of rectangular sections usually m
 __dub__ _v_ (dubbed)  
 __dubious__ _adj_ :five::hammer:  
 __dubitable__ _adj_ Open to doubt or suspicion. _Syn_ doubtful, in question, dubious _Tom insists that his business is doing well, but from the looks of his threadbare suit and worn shoes, his success is dubitable._  
-__duchy__ _n_ :two::hammer:  
+__duchy__ _n_ :three::hammer:  
 __duck down__ _n_ Down of the duck. _The pillow contains 30 percent duck down and 70 percent duck feathers._  
 __duck reuben sandwich__  
 __duck__ _v_ __1__ Lower the head or the body quickly to avoid a blow or missile or so as not to be seen. _Spectators ducked for cover._ _Syn_ bob down, bend (down) __2__ _informal_ Evade or avoid (an unwelcome duty or undertaking). _A responsibility which a less courageous man might well have ducked._ _Syn_ shirk, dodge, evade, avoid __3__ :dart: Push or plunge (someone) under water, either playfully or as a punishment. _Rufus grabbed him from behind to duck him under the surface._ _Syn_ dip, dunk, plunge, immerse, submerge, lower, sink :es: hacer ahogadillas  
