@@ -1,18 +1,3 @@
-__advert__ _n informal_ _(Chiefly Brit)_ Advertisement.  
-__almshouses__ _n_  
-__anecdote__ _n_  
-__atelier__ _n_  
-__bangle__ _n_  
-__bar__ _prep_ _Chiefly British_ Except for; excluding: _This was your best performance, bar none._ _Every King and Queen of England (bar two) has been crowned here since William the Conqueror in 1066._  
-__bargain__ _n_  
-__behemoth__  
-__brick-a-brac__ _n_  
-__brimful__  
-__Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/  
-__bruncher__ _n_ _Sunday brunchers._  
-__bumbling__ _adj_  
-__buttermilk__ _n_ _Buttermilk pancakes._  
-__canteen__ _n_  
 __catacomb__ _n_  
 __caterwaul__ _v_ _Caterwauling divas._  
 __chiffon__ _n_  

@@ -205,7 +205,7 @@ __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someo
 __adventitious__ _adj_ :two: /ad-ven-TISH-us/ Associated with something by chance rather than as an integral part; extrinsic.  
 __adverse__ _adj_  
 __adversity__ _n_ /ad-VER-suh-tee/  
-__advert__ _n_ :two: _informal_ _Brit_ short for advertisement.  
+__advert__ _n informal_ :three: _Brit_ Short for advertisement.  
 __advice__ _n_ :two: [:reminder_ribbon: You can remember that advice is a noun spelled with the ending _-ice_ because it also rhymes with _ice_, which is also a noun.] _This is my unsolicited advice._  
 __advisable__ _adj_ /ædˈvaɪ zə bəl/  
 __advise__ _v_ [:reminder_ribbon: You can remember that advise is a verb because it rhymes with _advertise_, which is also a verb.]  
@@ -378,6 +378,7 @@ __almoner__ _n_ :es: limosnero
 __almost surely__ _adv_ _(probability theory)_ With probability equal to one. _Apple almost surely will succeed in upgrading its security._  
 __alms__ _n pl_ :three: Money or goods given as charity to the poor.  
 __almsgiving__ _n_ /ˈɑːmzˌɡɪvɪŋ/ (alms-giving) The making of charitable donations, giving alms.  
+__almshouses__ _n_  
 __aloft__ _adv_ :five::hammer: _Dwyane Wade raised three fingers aloft._ _Simply believing we can fly won’t set us aloft._  
 __alone__ _adj_ :mega: /ə-lōn′/  
 __along with__  
@@ -471,7 +472,7 @@ __andragogy__ _n_ The art or science of teaching adults. The methods or techniqu
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
 __anecdotal__ _adj_ :mega:  
 __anecdotally__  
-__anecdote__ _n_ An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
+__anecdote__ _n_ :two: An anecdote is a brief story about something that happened to the speaker, usually something funny or interesting. Example: Five years ago, I went to the store and met some clowns. Those clowns gave me the advice I am sharing with you now.  
 __anemia__ _n_ [:scroll: C19: from New Latin, from Greek _anaimia_ lack of blood] (Pathology) The usual US spelling of anaemia.  
 __anemomes__ _n_  
 __anemometer__ _n_ :two::hammer:  
@@ -773,6 +774,7 @@ __at the very least__
 __ataraxia__ _n_ (ataraxy) (Medicine) Calmness or peace of mind; emotional tranquillity.  
 __atavism__ _n_  
 __atavistic__ _adj_ :four: Are you scared of the dark? It’s okay. That is quite a natural atavistic fear — that is, a fear related to an ancient way of thinking or behaving. Something atavistic doesn’t have to be a feeling; it can be anything that’s a throwback to an earlier form of life or way of looking at things. For example, a new building can be atavistic if it contains strong elements of ancient architectural styles. A physical genealogical trait handed down from many generations is also atavistic. For example, the pointed canine teeth in humans, originally used to tear meat apart when hunting, is an atavistic trait in mankind.  
+__atelier__ _n_  
 __atheist__ _adj_  
 __athenaeum__ _n_  
 __atherectomy__ _n_ Surgical removal of atherosclerotic plaque from an artery using a catheter fitted with a cutting device.  
@@ -1007,6 +1009,7 @@ __bane__ _n_ :three::hammer:
 __baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _A baneful influence._ _A baneful effect upon morals._ _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
+__bangle__ _n_  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
 __banister__ _n_ :three::hammer: _Polished mahogany banisters._  
@@ -1024,6 +1027,7 @@ __banter<sup>2</sup>__ _v_
 __banzai__ _n_ _They tried a banzai._  
 __Baptist__ _adj, n_ _A Baptist preacher._  
 __bar top__  
+__bar__ _prep_ _Chiefly British_ Except for; excluding: _This was your best performance, bar none._ _Every King and Queen of England (bar two) has been crowned here since William the Conqueror in 1066._  
 __barbaric__ _adj_ :mega:  
 __barbecue<sup>1</sup>__ _n_ :two::hammer: (barbeque) _Barbecue sauce._  
 __barbecue<sup>2</sup>__ _v_ (barbecueing)  
@@ -1036,7 +1040,7 @@ __barefaced__ _adj_ With no effort to conceal. _Syn_ bald _They attacked him in 
 __barf bag__  
 __barf bucket__  
 __barf__ _v_  
-__bargain__ _n_ :two::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
+__bargain__ _n_ :three::hammer: _He poured red wine to seal their bargain._ _I have fulfilled my end of the bargain._  
 __barge<sup>1</sup>__ _n_ :two::hammer: _A wrecked tow barge._  
 __barge<sup>2</sup>__ _v_ (barging) :three::hammer:  
 __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a person with extreme obesity lose weight.  
@@ -1184,7 +1188,7 @@ __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I beg
 __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
-__behemoth__ _n_ :six: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behemoth__ _n_ :seven: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
 __behest__ _n_ :seven::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
@@ -1801,6 +1805,7 @@ __bric-a-brac stores__
 __bric-a-brac__ _n_ Small, usually ornamental objects valued for their antiquity, rarity, originality, or sentimental associations. _Syn_ knickknackery, whatnot  
 __brick oven__ _n_ _Brick-oven pizza._  
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
+__brick-a-brac__ _n_  
 __brick-a-brack__  
 __brickbats__  
 __bridal gown__ _n_  
@@ -1814,9 +1819,11 @@ __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A b
 __bright__ _adj, adv, n_ :mute:[bri~~gh~~t]  
 __brighten up__ _phr v_ To make a place more colourful and attractive.  
 __brim__ _v_ :four::hammer: (brimmed, brimming) _Grocery stores in St. Petersburg brim with colorful drinks, pickled goodies, fresh produce, and friendly locals._ _He is brimming with confidence._  
+__brimful__  
 __brindle__ _adj_ Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats. _Syn_ brinded, brindled, tabby _A brindle cur._  
 __bring off__ _phr v_ :two: To succeed in doing something difficult; to accomplish: _bring off a successful advertising campaign._  
 __briny__ _adj_  
+__Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/  
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
 __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
@@ -1877,6 +1884,7 @@ __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnor
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
 __brumal__ _adj_ Of, characteristic of, or relating to winter; wintry.  
 __brumation__ _n_ A state or condition of sluggishness, inactivity, or torpor exhibited by reptiles (such as snakes or lizards) during winter or extended periods of low temperature.  
+__bruncher__ _n_ _Sunday brunchers._  
 __bruschetta__ _n_ :two::hammer: _Ostrich bruschetta._  
 __brush fire__ _n_ _Brush fires in California._  
 __brush__ _n_ _The goats cleared brush._  
@@ -1962,6 +1970,7 @@ __bum<sup>3</sup>>__ _n_ :three: (bums) __1__ A tramp; a vagrant. :dart: __2__ A
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
+__bumbling__ _adj_  
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
@@ -2068,6 +2077,7 @@ __butte__ _n_ /bjuːt/ _Visitors are amazed at the sight of giant buttes and mes
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
 __butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
+__buttermilk__ _n_ _Buttermilk pancakes._  
 __butternut__  
 __buttery__ _adj_ :dart: __3__ Marked by effusive and insincere flattery. Unpleasantly and excessively suave or ingratiating in manner or speech. _Syn_ fulsome, oleaginous, smarmy, unctuous, soapy, oily “buttery praise”; “gave him a fulsome introduction”; “an oily sycophantic press agent”; “oleaginous hypocrisy”; “smarmy self-importance”; “the unctuous Uriah Heep”; “soapy compliments”  
 __butting head__  
@@ -2245,7 +2255,7 @@ __cantankerous__ _adj_ :six: Always complaining or arguing and easily annoyed. I
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
-__canteen__ _n_ :two::hammer: (canteens) (flask)  
+__canteen__ _n_ :three::hammer: (canteens) (flask)  
 __canter up__ _v_  
 __canter<sup>1</sup>__ _n_ :three: __1__ An easy pace. __2__ A three-beat gait of a horse. _Cato urged his mount into an easy canter._  
 __canter<sup>2</sup>__ _v_ :five: (cantered, cantering) After Canterbury, a city in England, the home of Thomas Becket’s shrine, toward which medieval pilgrims supposedly rode at an easy pace. __1__ To move at an easy pace. __2__ To ride a horse at a canter.  
