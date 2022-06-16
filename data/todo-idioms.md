@@ -1,6 +1,12 @@
+__anything goes__  
+__by the dozen__  
+__dance the night away__  
+__double entendre__  
+__full package__  
 __go over the top__  
 __go strong__  
 __got them covered__  
+__hands down__ :two::hammer: _It beats other cinemas hands down._  
 __Happily Ever After__ :two::hammer:  
 __hard pressed__ _You’ll be hard pressed to visit them._  
 __head on shoulders__  
@@ -10,8 +16,9 @@ __honest mistake__
 __in all__  
 __in denial__  
 __in full swing__  
-__in the know__  
+__in the know__ :two::hammer:  
 __in the thick of it__  
+__juggling act__  
 __keep balls in the air__  
 __kid in a candy store__  
 __know a thing or two__ :two::hammer:  
@@ -26,7 +33,7 @@ __look at that!__ Used to tell someone to look at something that you think is in
 __lose it__  
 __made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
 __magick thinking__  
-__make a splash__  
+__make a splash__ :two::hammer:  
 __make amends__  
 __make bank__ To make a gratuitous amount of money, in preferably a short period of time. _He’s making bank._  
 __mark__ _n_ _(sucker)_  
@@ -36,6 +43,7 @@ __more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always 
 __mover and shaker__  
 __my lucky star__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
+__not to mention__  
 __nothing but__ _I’m nothing but tired._  
 __nothing short of__ :two::hammer:  
 __objection hearsay__  
@@ -75,6 +83,7 @@ __rubber match__ _sports_ The final, tie-breaking game that determines the victo
 __run (one’s) mouth (off)__  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
+__run guns__  
 __safety net__  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
 __same same__  
@@ -141,6 +150,7 @@ __to be taken aback__
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to the core__ _Charming to the core._  
+__tongue-in-cheek__  
 __touch base__ :two::hammer:  
 __tour de force__  
 __treasure hunt__  
@@ -155,6 +165,7 @@ __weather pemitting__
 __weather permitting__  
 __well in advance__ _Book tickets well in advance._  
 __while supplies last__ :two::hammer:  
+__while the night__ _Anyone who is anyone has whiled the night away here._  
 __wipe the floor__  
 __with a twist__  
 __within walking distance__  
