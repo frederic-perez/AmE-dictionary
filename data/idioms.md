@@ -173,7 +173,7 @@ __an/the olive branch__ A symbol, expression, or gesture of peace, reconciliatio
 __anonymous tip__ Information about something (typically criminal or illegal activity) that is offered by an anonymous source.  
 __anti-vax__ Opposed to the administering of vaccines, especially to children. “Vax” is short for “vaccine.”  
 __anything but__ :two: By no means, not at all. _It is anything but sweet._  
-__anything goes__ :two::hammer:  
+__anything goes__ :three::hammer:  
 __apple of (one’s) eye__ :two::hammer:  
 __arm candy__ An especially attractive person who acts as a romantic escort or date to social events, but who is not romantically attached to or involved with the person he or she is accompanying.  
 __arm in arm__ _They were arm in arm, singing with the band._  
@@ -450,6 +450,7 @@ __by and large__
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
+__by the dozen__  
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :two::hammer:  
 __by trade__ :three: By professional training, experience, and/or expertise. _I want to be a writer by trade._ _I’m an engineer by trade._  
@@ -614,7 +615,7 @@ __cut the line__
 __cut the spin__  
 __cut ties with (someone)__ :four::hammer: _I was cutting ties without even knowing._  
 __damn the torpedoes__ To press on with a task or current course of action regardless of apparent risks or dangers.  
-__dance the night away__ :two: To dance the entire evening. _We danced the night away._  
+__dance the night away__ :three: To dance the entire evening. _We danced the night away._  
 __dark days__ Times of extreme misfortune or difficult.  
 __dark horse__ :four: (It probably shouldn’t be a surprise that the first _dark horses_ were, well, horses. They didn’t have dark coats, however. The horses were simply ones that bettors and fans didn’t know much about before the horse unexpectedly won a race.) __1__ One who achieves unexpected support and success as a political candidate, typically during a party’s convention. __2__ A little-known, unexpectedly successful entrant, as in a horserace.  
 __date with destiny__ A future event, circumstance, or situation that will or could prove to be of momentous significance or importance.  
@@ -681,6 +682,7 @@ __dot (one’s) i’s and cross (one’s) t’s__ To do something carefully and 
 __dote on (someone or something)__ To give a lot of love and attention to someone or something, perhaps to excess. _I can’t help but dote on my kids whenever they’re home from college—I just miss them so much when they’re away!_  
 __double back__ To return to some thing or place after moving away from it, especially by following the same path taken when leaving. _I was walking to my car when I realized I’d forgotten my lunch on the kitchen counter and doubled back to get it._  
 __double down__ To significantly increase or strengthen effort, investment, or resolve toward some goal, strategy, or action so as to maximize the potential yield as a result.  
+__double entendre__  
 __double talk__  
 __double whammy__ A situation in which two negative things happen at the same time or in rapid succession. _Jack suffered a double whammy when his car broke down the same day he lost his job._  
 __down the drain__ :two: Wasted or lost. This metaphoric term alludes to water going down a drain and being carried off.  
@@ -854,6 +856,7 @@ __full as a tick__ Having consumed large quantities of food or drink. A referenc
 __full of beans__ :two: To have a lot of energy.  
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
+__full package__  
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
 __game changer__  
@@ -958,6 +961,7 @@ __go out with the boys__ To go and socialize somewhere with a group of exclusive
 __go out with the girls__ To go and socialize somewhere with a group of exclusively female friends.  
 __go out__ __1__ To go on a date with someone. _Those two have such an obvious chemistry that I’m surprised they’ve never gone out._  
 __go over (one’s) head__ :two: __1__ To speak to one’s superior rather than talking to one directly. _She just wouldn’t listen to me, so I had to go over her head to her boss and complain about it._ __2__ To not be understood by one because it is too complex or subtle for their comprehension. _My jokes always seem to go over Stephanie’s head, so I’m glad you think I’m funny at least._  
+__go over the top__  
 __go overboard__ :dart::two: To do too much; to be extravagant; show excessive enthusiasm, act in an excessive way; to act without restraint in some area. _Did I go overboard with the Christmas decorations? I’m worried I bought enough Christmas lights to light up Times Square._  
 __go places__ :two::hammer: _This kid is going places._  
 __go potty__ _He has to go potty._  
@@ -965,7 +969,7 @@ __go soft on (someone)__ To treat someone delicately, gently, or leniently; to n
 __go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ :seven::hammer: _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
 __go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison.  
-__go strong__ :two: To proceed energetically or successfully. _It is still going strong._  
+__go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
 __go the distance__ :dart: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
 __go the extra mile__  
 __go the way of the dinosaur(s)__ To become extinct, obsolete, old-fashioned, or no longer in common use.  
@@ -1006,6 +1010,7 @@ __goodbye, cruel world__ _cliché_ An exclamation, note, or statement made immed
 __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation. _Goodness gracious, look at the time! How is it nearly midnight already?_  
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _informal_  
+__got them covered__  
 __grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
 __grande dame__ _n_  
@@ -1040,7 +1045,7 @@ __haha__ _informal_ Used as a written expression of laughter, or more generally 
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
-__hands down__ :four::hammer: _Hands down, best episode ever._  
+__hands down__ :six::hammer: _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
@@ -1048,12 +1053,13 @@ __hang one’s head__ Express shame or contrition. For example, _No need to hang
 __hang someone out to dry__ To abandon someone who is in trouble.  
 __hangdog look__ A self-pitying expression of abjection, defeat, shame, or guilt.  
 __hanging offense__ A crime, misdeed, or impropriety that is (hyperbolically) perceived to warrant death by hanging. Primarily heard in US.  
+__Happily Ever After__ :two::hammer:  
 __happy as a clam__ Very happy.  
 __hard facts__  
 __hard knocks__ :two: The real and practical experiences of life, especially those involving hardship or adversity. _The school of hard knocks._  
 __hard nut to crack__ A problem that is hard to solve or a person who is difficult to understand.  
 __hard on the eyes__ Unattractive; ugly.  
-__hard pressed__ :two: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._  
+__hard pressed__ :three: Overburdened, put upon, as in _With all these bills to pay we find ourselves hard pressed._ _You’ll be hard pressed to visit them._  
 __hard-luck story__ A typically self-pitying tale of misfortune, hardship, adversity, etc., told especially to gain sympathy or charity from others.  
 __hardliner__ :three: Someone who has an unyielding, inflexible belief in some person or thing. _Susan’s not a hardliner, so I really think she’ll listen to your views on the matter._  
 __hark(en) back to (something)__ __1__ To cause one to think of or recall something. (The spelling “harken” is actually a variant of the archaic word “hearken,” which originally meant “to listen” but is more commonly used in place of “hark” in this idiomatic phrase.) _That song harkens back to an earlier time in my life._ __2__ To have originated or begun as something. To go back to something as an origin or source. _You know, our modern cell phones hark back to those old rotary phones you like to make fun of._ _The diner’s interior harks back to the 1950s._ __3__ To revisit or recall something mentioned earlier. _Before we get too upset, let’s all harken back to the real reason we’re here today._  
@@ -1142,11 +1148,13 @@ __have/put skin in the game__
 __hawks and doves__ Respectively, those who favor or support aggressive military action, especially regarding foreign policy, versus those who are inclined to more peaceful, diplomatic solutions.  
 __he-man__ A particularly strong, tough, and/or virile male, especially one who likes to flaunt his strength.  
 __head and shoulders above someone or something__  
+__head on shoulders__  
 __head over heels__ :five: __1__ Rolling, as in a somersault: _tripped and fell head over heels._ __2__ To be very much in love with someone. Completely; hopelessly: _head over heels in love._  
 __head-scratching__ (head scratching) Very confusing or perplexing. Usually used before a noun. _I don’t know what to make of his head-scratching reaction. I didn’t expect him to get so angry about such a minor request._ _In many places, there is still much head scratching over Mr. Trump._  
-__headspinning__ (head-spinning) Incredible, overwhelming.  
+__headspinning__ :two: (head-spinning) Incredible, overwhelming.  
 __hear a pin drop, one/you could__ :two: Complete silence.  
 __heart sinks, one’s__ One’s courage or hope fails; one is very disappointed or dejected. Used to say that you suddenly feel sad or depressed about something. _My heart sank when I saw that the meal I’d spent all day preparing had burned in the oven._  
+__heart skips a beat__  
 __heat wave__ A period of time in which the weather is unusually and persistently hot. _Our summers are usually very mild here, but we’ve been in the midst of a heat wave recently that’s made it feel like the tropics!_  
 __heave into view__ (heave into sight) To move or rise into sight, especially from a distance. _We’d been walking for hours in the barren desert when a small town finally heaved into view._ To rise or seem to rise over the horizon into view, as a ship.  
 __heaven knows__  
@@ -1221,6 +1229,7 @@ __home, James (, and don’t spare the horses)__ A humorous directive for a driv
 __homeboy__ _n_ (homegirl) [:scroll: Originally between blacks. Also a term of address. Homeboy is for males and homegirl is for females.] A buddy; a pal. _Come on, homeboy. Help out a friend._ _Tsup, homegirl?_  
 __homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ _Hey homie, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
 __honest injun__ An expression used to emphasize the veracity of one’s statement. Based on a colloquial spelling of “Indian” (i.e., Native American). One of many expressions often considered offensive for making reference to Native American stereotypes or tropes. Primarily heard in US. _I swear it wasn’t me who broke the lamp, honest injun!_  
+__honest mistake__  
 __honest to Pete__ Honestly; truly; genuinely. An expression used to emphasize the veracity of one’s statement, “Pete” here is a substitution of the word “God,” so as to avoid potential blasphemy.  
 __honey-do list__ A list or collection of tasks or jobs one has been requested to perform or undertake, especially household duties or jobs, given to a person by their spouse or romantic partner.  
 __honey-mouthed__ Smooth, soothing, and sweet in voice, especially in a persuasive or seductive manner or intent.  

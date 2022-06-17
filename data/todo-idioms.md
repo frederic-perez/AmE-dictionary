@@ -1,18 +1,3 @@
-__anything goes__  
-__by the dozen__  
-__dance the night away__  
-__double entendre__  
-__full package__  
-__go over the top__  
-__go strong__  
-__got them covered__  
-__hands down__ :two::hammer: _It beats other cinemas hands down._  
-__Happily Ever After__ :two::hammer:  
-__hard pressed__ _You’ll be hard pressed to visit them._  
-__head on shoulders__  
-__head-spinning__ Incredible, overwhelming.  
-__heart skips a beat__  
-__honest mistake__  
 __in all__  
 __in denial__  
 __in full swing__  
