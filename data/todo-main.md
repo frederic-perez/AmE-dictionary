@@ -1,18 +1,3 @@
-__catacomb__ _n_  
-__caterwaul__ _v_ _Caterwauling divas._  
-__chiffon__ _n_  
-__chiropody__ _n_  
-__clientele__ _n_  
-__coda__ _n_  
-__commendable__  
-__conducive__ _adj_  
-__conservatory__ _n_ :three::hammer: (restaurant)  
-__convivial__ _adj_  
-__cuppa__  
-__dandelion__ _n_  
-__decadence__ _n_ _Enjoy elegant decadence._  
-__decadent__ _adj_ :two::hammer: _Decadent glory._  
-__dowdy__ _adj_  
 __dumb__ _adj_ _Dumb jokes._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __eerie__ _adj_  

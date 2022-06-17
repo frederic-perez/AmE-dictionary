@@ -2392,7 +2392,7 @@ __cat__ _n informal_
 __cat-and-mouse__ _adj_ _A psychological cat-and-mouse thriller._  
 __cat’s-paw__ _n_ :two: A person used to serve the purposes of another; tool.  
 __cataclysm__ _n_ :pencil2:  
-__catacombs__ _n_ :two::hammer:  
+__catacomb__ _n_ :three::hammer:  
 __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:  
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
 __catalyst__ _n_ :three::hammer:  
@@ -2419,7 +2419,7 @@ __categorical__ _adj_
 __cater__ _v_ :four:hammer: _Catered dinner._  
 __caterpillar__ _n_  
 __caterwaul<sup>1</sup>__ _n_  
-__caterwaul<sup>2</sup>__ _v_ :two: __1__ To cry or screech like a cat in heat. __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
+__caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
 __caterwauling__  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__ _n_ :two::hammer:  
@@ -2618,6 +2618,7 @@ __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To 
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chieftain__ _n_  
+__chiffon__ _n_  
 __chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
@@ -2646,6 +2647,7 @@ __Chippendale__ _adj_ Of or relating to an 18th century English furniture style 
 __chipper__ _adj_ :four: /ˈtʃɪpə/ __1__ Cheerful; lively. Having a cheerful, lively, and self-confident air. _Syn_ debonair, jaunty _If I seem chipper today, it is because I found a $50 bill on my walk to work this morning._ __2__ Smartly dressed.  
 __chippy<sup>1</sup>__ _adj_  
 __chippy<sup>2</sup>__ _n_ :three::hammer: (chippies) _informal_ _chiefly US and Canadian_ A promiscuous woman.  
+__chiropody__ _n_  
 __chiropractor__ _n_  
 __chirp away__ _v_  
 __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in hockey, and it can be pretty nasty at times._  
@@ -2832,7 +2834,7 @@ __clicker training__ _n_ A nickname given to an animal training method based on 
 __clicker__ _n_ _slang_ The remote-control device used to change settings on a television set, VCR, or other electronic equipment.  
 __clicktivism__ _n_ A policy of using the internet to take direct and often militant action to achieve a political or social aim.  
 __clicky__  
-__clientele__  
+__clientele__ _n_ :two::hammer:  
 __climactic__ _adj_ _The battle reached climactic fury._  
 __climate-controlled__ _adj_ :two::hammer:  
 __climax__ _n_ In rhetoric, climax is ordering words so that they build up in intensity. Example: Look at the sky! It’s a bird! A plane! Superman!  
@@ -2928,7 +2930,7 @@ __cockle__ _n_ :es: berberecho
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
-__coda__ _n_ :two::hammer: _The novel ends with a wordless coda._  
+__coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
 __codify__ _v_ _Such a freeze would codify the advantage extreme forces have gained._  
@@ -3041,7 +3043,7 @@ __commandeered__ _v_ :astonished::two::hammer:
 __commander in chief__  
 __commemorate__ _v_ /kuh-MEM-uh-rayt/  
 __commend__ _v_ :three::hammer: (commended) _The King commended to his brothers his twelve-year-old son._  
-__commendable__ _adj_ :three: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
+__commendable__ _adj_ :four: Worthy of commendation; deserving praise; admirable, creditable or meritorious.  
 __commendation__ _n_ :three::hammer: (commendations) _He earned two commendation medals._ _He received two commendations._  
 __commensurate__ _adj_ :three: /kuh-MEN-suh-rut/ __1__ Proportionate. _The job posting states that salary will be commensurate with experience._ __2__ Having the same measure.  
 __commentary__  
@@ -3144,7 +3146,7 @@ __conditional discharge__ _n_ _An Urbana man has been sentenced to 30 months of 
 __condo__ _n_ :three::hammer: (condos) _Luxury condos._  
 __condominium__ _n_ :two::hammer: _First-floor condominium._  
 __condone__ _v_ :two::hammer:  
-__conducive__ _adj_ :four::hammer: _The vehicle doesn’t seem conducive to passing._  
+__conducive__ _adj_ :five::hammer: _The vehicle doesn’t seem conducive to passing._  
 __conduct__ _n_ _Suspended two games for violating the league’s personal conduct policy._  
 __conduit__ _n_ :six::hammer:  
 __coneys__  
@@ -3206,7 +3208,7 @@ __consensual__
 __consensus__ _n_ :four: General or widespread agreement (esp in the phrase consensus of opinion). _Hinton is a consensus three-star recruit._ _I’ve learned to build consensus and work with the other side._  
 __consequently__  
 __conservancies__  
-__conservatory__ _n_ :three: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
+__conservatory__ _n_ :six: __1__ A greenhouse, especially one in which plants are arranged aesthetically for display, as at a botanical garden; a greenhouse, esp one attached to a house. :es: invernadero  
 __consigliere__ _n_ An adviser, especially to a leader of an organized crime syndicate. _Our family consigliere._  
 __consign__ _v_ (consigned) _Fashionable consigned clothes._  
 __consignment__ _n_ :five::hammer: _Consignment shop._ _Consignment threads._ _Consignment boutique._ _Accepting consignments daily._  
@@ -3280,7 +3282,7 @@ __convey__ _v_ :two::hammer: (conveyed)
 __conveyance__ _n_  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
-__convivial__ _adj_ :four: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._  
+__convivial__ _adj_ :five: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._  
 __convoke__ _v_ To call together to a meeting.  
 __convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
@@ -3661,7 +3663,7 @@ __cuneiform__
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupidity__ _n_ :three::astonished::hammer:  
 __cupolas__ _n_  
-__cuppa__ _n_ :two: A cup of tea.  
+__cuppa__ _n_ :three: A cup of tea.  
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -3763,7 +3765,7 @@ __dampness__
 __damsel__ _n_ _The damsel in distress Snow White in 1937._  
 __dance the night away__  
 __dandelion thistle__  
-__dandelion__ _n_ :six: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
+__dandelion__ _n_ :seven: (dandelions) A wild plant with a bright yellow flower which later becomes a white ball of seeds that are blown away in the wind. _Dandelion seeds._ :es: diente de león  
 __dander__ _n informal_ Temper or anger: _What got their dander up?_  
 __dandle__ _v_  
 __dandruff__ _n_ :two: A scaly scurf formed on and shed from the scalp, sometimes caused by seborrhea. :es: caspa  
@@ -3850,8 +3852,8 @@ __debunk__ _v_ :two::hammer:
 __deburr__ _v_  
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
-__decadence__ _n_ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation  
-__decadent__ _adj_ :three::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._  
+__decadence__ _n_ :two: __1__ A process, condition, or period of deterioration or decline, as in morals or art. _Syn_ degeneracy, degradation __2a__ Behavior that is considered immoral because it concentrates too much on pleasure. _A life of sexual decadence._ __b__ So much pleasure that it almost seems morally wrong. _Eating like that every night is pure decadence._ _Enjoy elegant decadence._  
+__decadent__ _adj_ :five::hammer: _Decadent dessert crepes._ _Known for serving award winning decadent desserts and fine wines._ _Decadent glory._  
 __decaf__ _n_ Decaffeinated coffee.  
 __decal__ _n_ :two::hammer:  
 __decals__  
@@ -4482,7 +4484,7 @@ __dove__ _v_
 __dovecote__ _n_ (dovecot) /DUHV-koht or DUHV-kot/ [:scroll: From dove, from Old English dufe + cote (shelter, coop), from Old English cote.] __1__ A structure with holes for housing domestic pigeons. __2__ A settled group, especially one of a quiet, conservative nature.  
 __dovetail__ _v_ (dovetails) :three::hammer:  
 __dowager__  
-__dowdy__ _adj_  
+__dowdy__ _adj_ :two::hammer:  
 __down pat__ _adj_ Understood perfectly. _Sun_ mastered _Cy already had the presentation down pat._  
 __down payment__ _n_ :three: A partial payment made at the time of purchase, with the balance to be paid later. _Syn_ deposit _A down payment for his role as a recruitment of muscle for the operation._  
 __down time__ _n_  
