@@ -1,18 +1,3 @@
-__dumb__ _adj_ _Dumb jokes._  
-__Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
-__eerie__ _adj_  
-__emollient__ _adj_ Softening and soothing, especially to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._  
-__empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
-__enthralling__ _adj_ :two::hammer:  
-__enviable__ _adj_  
-__eolian__ _adj_ /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind.  
-__escarpment__ _n_  
-__estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
-__estuary__ _n_  
-__evacuee__  
-__evanescent__ _adj_ /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
-__exact__ _v_ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
-__exalt__ _v_  
 __exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
 __extolled__ _v_  
 __extravaganza__ _n_  

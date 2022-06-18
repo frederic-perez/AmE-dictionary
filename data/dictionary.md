@@ -4677,7 +4677,7 @@ __dullard__
 __dully__ _adv_  
 __duly__ _adv_ :five::hammer: _Couples duly married._ _Duly noted._ (:es: correctly or appropriately recorded)  
 __Dum Dums__ _n_ Spherical lollipops, invented in 1924.  
-__dumb__ _adj_ :two::hammer::mute:[dum~~b~~]  
+__dumb__ _adj_ :three::hammer::mute:[dum~~b~~] _Dumb jokes._  
 __dumbbells__ _n_ :two: (dumbbell, dumb-bell) A short bar with a weight at each end, used typically in pairs for exercise or muscle-building. :es: mancuernas  
 __dumbfound__ _v_ :four::hammer: (dumbfounded) _This swaggering gesture by a petty German prince, ruler of a narrow territory, dumbfounded the court._  
 __dumbstruck__ _adj_ :two::hammer:  
@@ -4785,6 +4785,7 @@ __eclectic__ _adj_ :two::pencil2::hammer:
 __ecliptic__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
+__Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
 __ecumenical__ _adj_ :two: Of worldwide scope or applicability. _Syn_ universal _The movement against violence is intended to be an ecumenical one, applicable to all nations._  
 __eczema__ _n_ A noncontagious inflammation of the skin, characterized chiefly by redness, itching, and the outbreak of lesions that may discharge serous matter and become encrusted and scaly.  
 __ED prescription__  
@@ -4801,7 +4802,7 @@ __edify__ _v_ :two::hammer: /ED-uh-fye/
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
 __eel__  
-__eerie__ _adj_ :seven::hammer:  
+__eerie__ _adj_ :eight::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effect__ _v_  
 __effete__ _adj_ :two: Weak, ineffectual, or decadent as a result of overrefinement. _Syn_ weak, feeble, ineffectual  
@@ -4922,13 +4923,14 @@ __emissary__ _n_ :two: __1__ One designated as the agent of another. _Syn_ repre
 __emmetropia__ _n_  
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
-__emollient__ _adj_ :four: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
 __emote__ _v_  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
 __emphasize__ _v_ :three::astonished::hammer:  
 __emphysema__ _n_ :two::hammer::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ _n_ The U.S. State of New York.  
+__empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  
 __emporium__ _n_ :three::astonished: A large retail store, especially one selling a great variety of articles.  
 __Empress__  
 __emprise__ _n_ [:scroll: Emprise descends from the Anglo-French word _emprendre_, meaning “to undertake.’] An adventurous, daring, or chivalric enterprise.  
@@ -5009,6 +5011,7 @@ __ensuite<sup>2</sup>__ _adj_ Connected to a bedroom.
 __entail<sup>1</sup>__ _v_ :eight::hammer: (entails) /ɪnˈteɪl/  
 __entail<sup>2</sup>__ _n_  
 __enthrall__ _v_ :five: (enthralled, enthralling) To hold spellbound; captivate: _The magic show enthralled us._  
+__enthralling__ _adj_ :two::hammer:  
 __enthuse__ _v_ :nine::m: (enthused, enthusing) __1__ To speak with or show enthusiasm. __2__ To cause to become enthusiastic. _It has enthused fans._  
 __enthused__ _adj_ Having been filled with enthusiasm.  
 __enthusiasm__  
@@ -5032,12 +5035,12 @@ __entwine__ _v_ :two: (entwined) Spin, wind, or twist together. _Syn_ interlace 
 __enumerate__ _v tr_ __1__ To count off or name one by one; list: _A spokesperson enumerated the strikers’ demands._ __2__ To determine the number of; count.  
 __enunciation__  
 __envelop__ _v_  
-__enviable__  
+__enviable__ _adj_ :two::hammer:  
 __environ__ _v_ Extend on all sides of simultaneously; encircle. _Syn_ border, surround, skirt, ring _They are everywhere, above us, on our left, on our right; they environ us on all sides._  
 __environs__ _n pl_  
 __envisage__ _v_ :three: __1__ To view or regard in a certain way. __2__ To have a mental picture of especially in advance of realization.  
 __envision__ _v_ :four::hammer:  
-__eolian__ _adj_ Borne, deposited, produced, or eroded by the wind.  
+__eolian__ _adj_ :two: /ee-O-lee-uhn/ (aeolian) [:scroll: After Aeolus, god of the winds in Greek mythology. As keeper of the winds, he gave a bag containing winds to help with Odysseus’s sailing.] Relating to or caused by the wind. Borne, deposited, produced, or eroded by the wind.  
 __epaulets__ _n_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __epee__  
 __ephemera__  
@@ -5094,6 +5097,7 @@ __escalation__ _n_ :two::hammer:
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
+__escarpment__ _n_  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -5110,12 +5114,13 @@ __essence__ _n_ :pencil2:
 __essential<sup>1</sup>__ _adj_ _Special K - 8 essential vitamins._  
 __essential<sup>2</sup>__ _n_  
 __establish__ _v_ _Established 1978._  
+__estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __esteem__ _v_ _Our esteemed allies._  
 __esteemed__ _adj_  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
-__estuary__ _n_  
+__estuary__ _n_ :two::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
 __etch__ _v_ :five::hammer: (etched)  
@@ -5138,8 +5143,9 @@ __eurythmics__ _n_ :astonished: The interpretation in harmonious bodily movement
 __euryvocalic<sup>1</sup>__ _adj_ :dart: Containing each of the six vowels once. “Euryvocalic” is coined here to refer to these words; “eury-” meaning “broad”, referring to the broad range of vowels. Euryvocalics are a subset of panvocalics (which can have repeated vowels) and of euvocalics (which need not have a “y”).  
 __euryvocalic<sup>2</sup>__ _n_ A word that contains each of the six vowels once.  
 __Euskara__ _n_ :astonished: The Basque language.  
+__evacuee__  
 __evanesce__ _v_ :two::mute:[evanes~~c~~e]:hammer:  
-__evanescent__ _adj_  
+__evanescent__ _adj_ :two: /ev-uh-NESS-unt/ Something that is evanescent vanishes quickly like a vapor. _The joy of winning the last game was evanescent, as the team quickly turned its focus to the upcoming championships._  
 __evangelist__ _n_ Someone who is very enthusiastic about something and likes to tell other people how good it is.  
 __even__ _adv_ _Syn_ indeed, actually _Is this even our house?_  
 __evened__ _v_  
@@ -5162,9 +5168,10 @@ __ex cathedra__ _adj, adv_ With the authority derived from one’s office or pos
 __ex libris__ _n_ (bookplate) A label identifying the owner of a book in which it is pasted.  
 __ex__ _n_  
 __exacerbate__ _v_ :nine::m: (exacerbated, exacerbating) Make (a problem, bad situation, or negative feeling) worse. _Rising inflation was exacerbated by the collapse of oil prices._ _Syn_ aggravate, make worse, worsen  
-__exact__ _v_ :nine: (exacted, exacting) __2__ To demand and obtain by force or authority. _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._  
+__exact__ _v tr_ :nine::m: (exacted, exacting) __1__ To force or compel (payment or performance); extort: _to exact tribute._ __2__ To demand and obtain by force or authority. To demand as a right; insist upon: _to exact respect from one’s employees._ _A harsh leader who exacts obedience._ _Tales of Christie exacting revenge._ _They exacted all the spare parts from him._ __3__ To call for or require: _this work exacts careful effort._ _It serves fine local produce, cooked to chef Jane’s exacting standards._  
 __exaction__ _n_  
 __exaggeration__ _n_ :pencil2:  
+__exalt__ _v_  
 __exasperate__ _v_ /ig-ZASS-puh-rayt/ _The flight delays began to exasperate people in the airport._  
 __exasperation__ _n_ :two::hammer:  
 __exceed__ _v_  
