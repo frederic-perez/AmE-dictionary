@@ -1,3 +1,12 @@
+__ableism__  
+__adulation__ _n_ /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
+__apoplexy__ _n_ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._  
+__cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
+__cant<sup>2</sup>__ _v intr_ To speak in or use cant.  
+__chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
+__credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
+__emancipation__ _n_ /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
+__execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
 __extolled__ _v_  
 __extravaganza__ _n_  
@@ -136,6 +145,7 @@ __impresario__ _n_
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __incidentally__ _adv_ :two::hammer:  
 __inconspicuous__ _adj_  
+__inebriated__  
 __inglenook__  
 __inoculation__ _n_  
 __inroads__ _n_  
@@ -162,6 +172,7 @@ __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young anima
 __jouster__ _n_  
 __juke__ _v_  
 __junction__ _n_ _At 1st junction turn R & head to E to Hapton on Burnley Road._  
+__Juneteenth__  
 __junket__ _n_ /JUNK-ut/ __1__ A trip that is paid for by someone else, such as a promotional trip made at another’s expense. _The cast of the widely-acclaimed movie is making press junkets to major cities._ __2__ An official’s trip made at public expense. _The officials are being criticized for going on expensive, and unnecessary, junkets to foreign countries._  
 __junkjard__ _n_  
 __jus__ _n_ _Cookery_ A sauce. _Verbena jus._  
@@ -201,12 +212,14 @@ __libation__ _n_ :four::hammer:
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :two::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
+__lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __lintel__ _n_  
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
 __loanword__ _n_  
 __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
 __loggery__ _n_  
+__logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
 __lore__ _n_ :two::hammer: _Crazy folk lore._  
@@ -229,6 +242,7 @@ __macaw__ _n_ :es: guacamayo
 __Madchester__ _n_ Manchester, UK.  
 __magical thinking__ _n_  
 __Magna Carta__  
+__magnum opus__ _n_ A great work, especially a literary or artistic masterpiece. _Syn_ masterpiece Paradise Lost _is generally considered to be Milton’s magnum opus._  
 __mahogany__ _n_ :two::hammer: _Dining room w/ mahogany bookcases._ _The mahogany bar._  
 __mainline__  
 __mainstay__ _n_ :three::hammer:  
@@ -345,6 +359,8 @@ __nuance__ _n_ :mega:
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
+__oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
+__obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __oddball__ _adj, n_  
 __off-color__ _adj_ _An off-color remark._  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
@@ -381,6 +397,7 @@ __pamper__ _v_
 __pan out__ _v_  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__  
+__panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
 __pansexual__  
@@ -392,6 +409,7 @@ __paraphernalia__
 __parcel__ _n_  
 __pariah__ _n_ A social outcast. _Syn_ castaway, leper, untouchable _The rumors of his traitorous actions were enough to make him a pariah among his peers, though nothing was ever proven._  
 __parishioner__ _n_  
+__parlance__ _n_  
 __parochial__ _adj_ Narrowly restricted in scope or outlook. _Syn_ insular _After moving to a big city, she had little patience for what she considered to be her parents’ parochial attitudes._  
 __parsec__ _n_ [:scroll: C20: from parallax + second]  
 __parterre__ _n_ _A rose parterre._  
@@ -516,6 +534,7 @@ __rebuke__ _v_
 __recount__ _v_  
 __Red Cross__ _n_  
 __red snapper__ _n_  
+__redolent__ _adj_ /RED-uh-lunt/ As a synonym of _aromatic_, the word _redolent_ can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by _of_ or _with_ and means “full of a specified fragrance,” as in “redolent with smoke.” _No matter what time of year he visited, his grandmother’s house was always redolent of cloves and other warm spices._  
 __refectory__ _n_  
 __refreshment__ _n_  
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
@@ -673,6 +692,7 @@ __socialite__
 __sonnet__ _n_  
 __sought-after__  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
+__spaz__  
 __speakeasy__  
 __spiffy__ _adj_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __spiral__ _v_ _It spirals out of control._  
@@ -911,6 +931,7 @@ __witty__ _adj_ _A witty cast of characters that serve and entertain._
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __wondrous__ _adj_ :two::hammer:  
 __wonky__ _adj_  
+__word-hoard__ _n_ :dart: A person’s vocabulary.  
 __workforce__ _n_ (work force)  
 __World Heritage sites__ _n_ :three: Designated natural and cultural sites internationally recognized as of outstanding importance.  
 __wow__ _v_  
