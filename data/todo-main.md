@@ -1,18 +1,3 @@
-__ableism__  
-__adulation__ _n_ /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
-__apoplexy__ _n_ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._  
-__cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
-__cant<sup>2</sup>__ _v intr_ To speak in or use cant.  
-__chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
-__credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
-__emancipation__ _n_ /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
-__execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
-__exhilarating__ _adj_ :two::hammer: _Exhilarating adventure._  
-__extolled__ _v_  
-__extravaganza__ _n_  
-__exude__ _v_  
-__Fab Four__ _n_  
-__fab__ _adj_ _Check out fab store._  
 __facelift__ _n_ (face-lift)  
 __facetious__ _adj_ /fəˈsi ʃəs/  
 __faint-hearted__  

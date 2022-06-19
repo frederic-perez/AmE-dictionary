@@ -55,6 +55,7 @@ __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._
 __abject__ _adj_ :five: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
+__ableism__  
 __abligurition__ _n_ /uh-blig-yoo-RISH-uhn/ [:scroll: From Latin abligurire (to squander on delicacies), from ab- (away) + ligurire (to be dainty), from lingere (to lick).] Extravagance, especially in matters of food and drink. Prodigal expense for food.  
 __abnegate__ _v_ __1__ To give up (rights or a claim, for example); renounce. __2__ To deny (something) to oneself: _The minister abnegated the luxuries of life._  
 __abnegation__ _n_ Renunciation of your own interests in favor of the interests of others.  
@@ -198,7 +199,7 @@ __adorn__ _v_ _The pictures adorn the innards of each chapter._
 __adroit__ _adj_ :three::hammer:  
 __adroitly__ _adj_ :three: With expert or dexterous use of the hands or body; nimbly. In an adroit manner. _He handled the situation adroitly._  
 __adulate__ _v_ :mega:  
-__adulation__  
+__adulation__ _n_ :two: /aj-uh-LAY-shun/ Extreme or excessive admiration or flattery. _The movie star basked in the adulation of her many fans as she walked down the red carpet._  
 __adulterate__ _v_  
 __Advent calendar__ _n_ _Brit_ :camera: A large card with a brightly coloured sometimes tinselled design on it that contains small numbered doors for children to open on each of the days of Advent, revealing pictures beneath them.  
 __advent__ _n_ :nine::m::mega: __1__ The coming or arrival of something or someone that is important or worthy of note: _the advent of the computer._ _The advent of social media._  
@@ -576,7 +577,7 @@ __apogee__ _n_ :three: __1__ [:scroll: from apogaios away from the earth, from a
 __apologetic__ _adj_ :five: Very sorry. _That’s what I call apologetic hand raise._  
 __apologist__ _n_ :two::hammer:  
 __apoplectic__  
-__apoplexy__ _n_ :two: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
+__apoplexy__ _n_ :three: __1__ Sudden impairment of neurological function, especially that resulting from a cerebral hemorrhage; a stroke. _Syn_ stroke, cerebrovascular accident _The medical evidence showed conclusively that death was due to apoplexy._ __2__ A sudden effusion of blood into an organ or tissue. __3__ A fit of extreme anger; rage.  
 __aposematic__ _adj_  
 __apostasy__ _n_ :two::hammer:  
 __apostate<sup>1</sup>__ _n_ :four: A person who abandons his religion, party, cause, etc. _Syn_ deserter, ratter, turncoat, recreant, renegade _He was an early apostate, leaving the party last year._  
@@ -2250,6 +2251,8 @@ __canon__ _n_
 __canonization__ _n_ _The canonization of the King._  
 __canopy__ _n_ :two::hammer: _A dense canopy of snow._  
 __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, my off-key caterwauling takes on a surprisingly canorous tone._  
+__cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
+__cant<sup>2</sup>__ _v intr_ To speak in or use cant.  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
 __cantankerous__ _adj_ :six: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
@@ -2628,6 +2631,7 @@ __chillingly__ _adv_ _His prediction of mass murder of Tutsis proved chillingly 
 __chime in__ _phr v_ :four::hammer:  
 __chime__ _v_ :two::hammer: (chiming)  
 __chimera__ _n_ (chimeras) :two::hammer:  
+__chimeric__ _adj_ /KY/KI-mer-ik/ [:scroll: After Chimera, a fire-breathing female monster in Greek mythology who had a lion’s head, a goat’s body, and a serpent’s tail.] __1__ Made up of parts that are very different. __2__ Fanciful; imaginative; illusory.  
 __chimichanga__  
 __chin-up__ _n_ :two: (gimnastics; also known as a chin or chinup) The act or an instance of chinning oneself, practiced especially as a fitness exercise. Also called pull-up.  
 __China virus__ _n_  
@@ -3511,6 +3515,7 @@ __credence__ _n_ :six::hammer:
 __credenza__ _n_  
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
+__credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
 __creek__ _n_ :two::hammer: _An older house on a creek._  
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
@@ -4889,7 +4894,7 @@ __elysian__ _adj_ Blissful, delightful. Resembling paradise; causing happiness: 
 __emaciate__ _v_ :six::hammer: (emaciated) _Emaciated cancer patient._  
 __emaciated__ _adj_ Abnormally thin.  
 __emancipate__ _v_ :two: Free from slavery or servitude.  
-__emancipation__  
+__emancipation__ _n_ :two: /ih-man-suh-PAY-shun/ Emancipation is the act of freeing someone from the restraint, control, or power of another. It is especially used for the act of freeing someone from slavery. _Jomo Kenyatta played a key role in the emancipation of Kenya from European rule in the 1960s and became the first president of the newly independent nation._  
 __emasculated__ _adj_ (of a male animal) Having the testicles removed.  
 __embankment__  
 __embargo__ _n_  
@@ -5191,6 +5196,7 @@ __excruciatingly__ _adv_ _The code in each class becomes excruciatingly simple._
 __exculpate__ _v_ :two: /EK-skull-payt/ To clear from alleged fault or guilt. To clear of guilt or blame. _Syn_ acquit, assoil, exonerate, discharge, clear _He was exculpated from the charge when the real criminal confessed._  
 __exculpatory__ _adj_ Tending to clear someone, especially a suspect, of guilt or blame; exonerative.  
 __exec__ _n informal_ :six: (execs) __1__ An executive. _I’m a retired tech exec._ __2__ The executive officer of a unit of the armed forces. _He has fallen short as an exec._  
+__execrable__ _adj_ Of very poor quality; unequivocally detestable. _Syn_ hateful, odious, deplorable _The meal they were served was execrable from beginning to end, but they were too hungry to care._  
 __execrate__ _v_ Find repugnant. _Syn_ abhor, abominate, loathe  
 __exemplary__ _adj_ :two::hammer: _Less-than-exemplary antifouling efforts._  
 __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent _Her character exemplifies the emotional turmoil of many women._  
@@ -5204,7 +5210,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
-__exhilarating__ _adj_ :six: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._  
+__exhilarating__ _adj_ :eight: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
 __exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
@@ -5247,16 +5253,17 @@ __extensively__ _adv_ _She’s been working extensively._
 __extent__ _n_  
 __extenuate__ _v_ :astonished:  
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
-__extoll__ _v_ :five::hammer: (extolled, extolling)  
+__extoll__ _v_ :six::hammer: (extolled, extolling)  
 __extort__ _v_  
 __extradite__ _v_  
 __extraneous__  
-__extravaganza__  
+__extravaganza__ _n_ :two::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
 __extremes__  
 __extricate__ _v_ :nine: (extricated) To remove or free from complication, hindrance, or difficulty. To free or remove someone or something from an entanglement or difficulty. _Syn_ disencumber, disentangle _It will take quite a hefty sum to extricate me from my financial difficulties._ _Rescue crews extricated him from the car._ _Firefighters extricated the passengers from the wreckage._  
 __exudate<sup>1</sup>__ _n_ :astonished: An exuded substance.  
 __exudate<sup>2</sup>__ _v_ Release (a liquid) in drops or small quantities. _Exude sweat through the pores._  
+__exude__ _v_  
 __exult__ _v intr_ :two: (Not to be confused with ‘exalt’) Rejoice exceedingly; delight; revel.  
 __eye dropper__ _n_  
 __eye mask__ _n_ (to sleep)  
@@ -5280,8 +5287,8 @@ __eyewear__
 __F-bomb__  
 __f-ing__  
 __f-word__ _n_ (sometimes capital) A euphemistic way of referring to the word fuck.  
-__Fab Four__ _n_ The Beatles.  
-__fab__ _adj_ _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._  
+__Fab Four__ _n_ :two: The Beatles.  
+__fab__ _adj_ :two: _slang_ A shortening of “fabulous,” meaning great or outstanding. _Wow, you look fab—that dress is gorgeous._ _Check out fab store._  
 __fabled__  
 __fabric softener__  
 __fabric__ _n_ :two::hammer: _The fabric of time and space._  
