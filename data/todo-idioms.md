@@ -1,18 +1,3 @@
-__in all__  
-__in denial__  
-__in full swing__  
-__in the know__ :two::hammer:  
-__in the thick of it__  
-__in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
-__juggling act__  
-__keep balls in the air__  
-__kid in a candy store__  
-__know a thing or two__ :two::hammer:  
-__last but certainly not least__  
-__laugh lines__  
-__leap of faith__  
-__left in the dark__  
-__like no other__  
 __lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __look at that__  
 __look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  

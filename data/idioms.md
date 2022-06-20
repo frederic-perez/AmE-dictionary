@@ -1296,6 +1296,7 @@ __in all honesty__ In one’s sincere opinion; without any disingenuousness.
 __in all likelihood__  
 __in all seriousness__ In one’s sincere opinion; without any disingenuousness.  
 __in all truthfulness__ In one’s sincere opinion; without any disingenuousness.  
+__in all__  
 __in and of itself__ Considering it alone.  
 __in any event__ :three: In any case: _In any event, the audience seemed pleased with your performance._  
 __in bits and pieces__ In many small fragments. _Look what you.ve done! My favorite lamp is in bits and pieces on the floor!_  
@@ -1303,6 +1304,7 @@ __in broad daylight__ Out in the open during the daytime, when anyone can see wh
 __in check__ Under control; contained or restrained. _Keep those emotions in check._  
 __in deep water__ To be in a difficult situation.  
 __in default of (something)__ Due to the absence or lack of something; through the failure of something. _Though it was only a speeding ticket, Janet was imprisoned in default of paying the fine._ _In default of concrete evidence, the jury was obligated to acquit the defendant of murder._  
+__in denial__  
 __in donkeys__ In an exceptionally long period of time. The phrase likely originated as the rhyming slang, shortened to simply “donkeys,” of “donkey’s ears” -where “ears” rhymes with “years” and alludes to the length of a donkey’s ears.  
 __in droves__ :two: In large numbers. _It was a beautiful day, but the bees were out in droves._ _They will come in droves._ _They buy tickets in droves._  
 __in due time__  
@@ -1311,7 +1313,7 @@ __in favor (with someone)__ Highly regarded (by someone); widely accepted or enj
 __in fee__ _law_ (specifically of land) In absolute legal ownership or subjection. _The courts have found that as the estate is in fee by Mrs. Williams, as arranged in the prenuptial agreement, Mr. Williams has no legal claim to the grounds or anything built thereon._  
 __in front of (one’s) nose__ Immediately obvious or clearly apparent.  
 __in full gear__ At the highest or maximum level of function, operation, or performance.  
-__in full swing__ :two::hammer: _The conference was in full swing when I arrived._  
+__in full swing__ :three::hammer: _The conference was in full swing when I arrived._  
 __in full__  
 __in his own right__ :two: By reason of one’s own ability or ownership etc. _She’s a rich woman in her own right rather than by inheritance._ _An excellent novel in its own right._  
 __in hot water__ In trouble.  
@@ -1348,6 +1350,7 @@ __in the event that__ If it should happen or be the case that.
 __in the eye of (something)__ At, in, or amidst the central or focal point of something.  
 __in the heat of (something)__ During a time of extreme action, emotion, or agitation. _Soldiers have to train themselves not to feel fear in the heat of battle._  
 __in the hope that__ With the expectation, intention, or desire that (something will happen).  
+__in the know__ :two::hammer:  
 __in the lap of the gods__ Decided upon or controlled by luck, chance, or fate; outside of one’s control or influence.  
 __in the last analysis__ When everything has been considered; when all the facts are known or the truth has come to light.  
 __in the least__ _Apparently you didn’t understand me in the least._  
@@ -1362,7 +1365,8 @@ __in the offing__ :dart::two: __1__ In the near or immediate future; soon to com
 __in the pocket of (someone)__ Under the direct control or influence of someone or some group.  
 __in the same mold__ Of or in the same or similar style, fashion, or manner.  
 __in the sticks__ In the countryside, especially in a rustic or particularly unsophisticated area.  
-__in the thick of it/(something)__ :nine: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of it/(something)__ :nine::m: Very busy; in the middle of or preoccupied with something or several things. _Utah Clean Energy has been in the thick of it._ _When you are in the thick of it, that is sometimes the last thing you want to hear._  
+__in the thick of things__ Very busy; in the middle of or preoccupied with something or several things. _Sorry I couldn’t make it to your birthday lunch on Wednesday—I’m afraid I’m really in the thick of things at the moment._  
 __in the unlikely event (that) (something) happens__ If a very improbable outcome turns out to be the case.  
 __in the view of (someone)__ In someone’s or some group’s opinion.  
 __in the wake of (something)__ __1__ In the aftermath of something, often as a consequence. _In the wake of the scandal, several committee members resigned._ __2__ Coming immediately after something. _In the wake of the final scene, the audience burst into applause._  
@@ -1407,6 +1411,7 @@ __jollies__ _slang_ Gun, thrills, enjoyment.
 __jolly (someone) along__ To encourage someone (to do something), especially in a positive, cheerful manner.  
 __jolly (someone) up__ To make (someone) happier or more cheerful; to cheer (someone) up.  
 __jug-eared__ :astonished: Having ears that stick out markedly from the side of the head, thus resembling the handles of a jug.  
+__juggling act__  
 __jump at the chance (to do something)__ To accept or seize with alacrity an opportunity (to do something).  
 __jump for joy__ To be very happy about something.  
 __jump in (one’s) skin__ To start or recoil, as from shock, surprise, or fear.  
@@ -1433,6 +1438,7 @@ __keep a lid on (something)__ __1__ To keep the level of something from increasi
 __keep a sharp lookout (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
 __keep above water__ :three::hammer: _This is keeping myself above water._  
 __keep an eye peeled (for something or someone)__ To remain vigilant or carefully watchful (for something or someone).  
+__keep balls in the air__  
 __keep from (doing something)__ To stop oneself or another from (doing something). _I could hardly keep from hitting him._ _You honestly think that’s gonna keep the Joker from killing people?_ :es: abstenerse de  
 __keep in step with the times__ To be, strive to be, or appear to be contemporary, fashionable, and/or relevant in modern times.  
 __keep it under wraps__ Keep it a secret.  
@@ -1458,6 +1464,7 @@ __kick the crap out of (someone)__
 __kick the tires__ To inspect or test something or someone to ensure that he, she, or it meets the required or expected standard of quality. Primarily heard in US, Canada. _The boss always assigns difficult projects as a way of kicking the tires of new employees._ _We should hire a few interns to kick the tires on this app before we release it to the public._  
 __kick the/(one’s) door down__  
 __kid around__  
+__kid in a candy store__  
 __kids will be kids__ Kids behave childishly or immaturely by nature, so it is unrealistic to expect otherwise.  
 __kill the goose that lays the golden egg(s)__ Destroy a source of riches through stupidity or greed, as in _If he never gives his loyal customers a break on some items in his store, he’ll kill the goose that lays the golden eggs._ _We’re killing the goose that laid the golden egg._  
 __kill two birds with one stone__  
@@ -1478,7 +1485,7 @@ __knocked up__ _rude slang_ Become pregnant.
 __knocking on heaven’s door__ :dart: To be dying, to be close to death.  
 __knockout__  
 __know (one’s) own mind__ To be firmly resolute and confident in one’s ideas, intentions, plans, or opinions.  
-__know a thing or two__ To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
+__know a thing or two__ :three: To be knowledgeable about something. The phrase is usually used to indicate that one knows more about something than someone thinks. _Hey, I know a thing or two about art—I was an art history major in college, you know!_  
 __know better (than to do something)__ To be wise enough, experienced enough, or well trained enough not to have done something wrong. _Mary should have known better than to accept a lift from a stranger._ _Children should know better than to play in the road._  
 __know every trick in the book__ To be aware of or knowledgeable in every possible way to do or achieve something, especially ways that are clever, cunning, or ethically questionable.  
 __know full well__ To know or be aware of something without any possible doubt. _You know full well why I’m upset with you, so there’s no use playing dumb!_  
@@ -1498,6 +1505,7 @@ __lap of the gods__ A state beyond possible human control, intervention, or resp
 __larger than life__  
 __larger-than-life__  
 __last burst of fire__ A final effort or attempt, especially as before failure or defeat. _The home team has unleashed one last burst of fire in the final seconds of the game to try and force an overtime showdown._  
+__last but certainly not least__  
 __last chance (for/at/to do something)__ The last or final opportunity to get, have, do, or achieve something.  
 __last hurrah__ (final hurrah) A final moment of glory; last notable achievement. _This was his own last hurrah._  
 __last straw__ :two: The final problem in a series of problems.  
@@ -1508,6 +1516,7 @@ __late bloomer__ _n_
 __late model__ Especially regarding an automobile, of a relatively recent design or model.  
 __lather, rinse, (and) repeat__ :two::dart: A sarcastic metaphor for following instructions or procedures slavishly without critical thought. _Lather. Rinse. Repeat._  
 __laugh in (one’s) sleeve__ To rejoice or be amused secretly and/or contemptuously, as at another’s mistakes or misfortunes.  
+__laugh lines__  
 __laugh off__  
 __laughing in the aisles__ Laughing uproariously or hysterically. (Used especially in the phrase “have someone laughing in the aisles.”)  
 __lay (one’s) life on the line__ To put oneself in harm’s way (to achieve something), especially at the risk of losing one’s life. (Sometimes used hyperbolically.)  
@@ -1519,6 +1528,7 @@ __laze about__ To relax or spend time idly; to do nothing or very little. _It’
 __lazy-bones__ A particularly lazy or indolent person. _Come on, lazy-bones, you’ve spent half the day in bed. Time to get up and be productive!_  
 __lead nowhere__ To ultimately yield or achieve no useful, beneficial, or successful result or outcome. _This meeting is leading nowhere. We’ve been here for over two hours now and haven’t even been able to come up with a name for our product!_  
 __lean and mean__ :dart: Fit and ready for hard, efficient work. _Companies are running lean and mean these days._  
+__leap of faith__  
 __leap to (someone’s) mind__ To suddenly or immediately materialize in someone’s mind. _A: “What would you like to have for dinner?” B: “I’m not sure, nothing’s really leaping to mind.”_  
 __leaps and bounds__ :dart: __2__ Very large degrees of or rapid progress forward. (Used especially in the phrases “by/in leaps and bounds” and “make leaps and bounds.”) _Samantha’s delivery business has been growing by leaps and bounds recently._  
 __learn the ropes__ :two::hammer:  
@@ -1529,6 +1539,7 @@ __leave much to be desired__ :dart: To be very inadequate or unsatisfactory; to 
 __leave no stone unturned__ :two::hammer: _We are leaving no stone unturned._  
 __leave someone in its wake__ _The speedboat leaves all others in its wake._  
 __left and right__ :three::hammer:  
+__left in the dark__  
 __leg up__ :two: __1__ Literally, a boost from another person that enables one to reach something that one could not reach on one.s own. _Give me a leg up so I can reach the dishes on the top shelf._ __2__ An advantage in a situation or over another person. _Getting certifications will definitely give you a leg up in the IT industry._ _Area’s 2 reigning congressmen have leg up on funding._ _That might give me a leg up._  
 __leg work__ :two::hammer:  
 __legal eagle__ An especially clever, aggressive, or skillful attorney. _I might be considered something of a legal eagle now, but I had to work for years to get enough experience to build my reputation._  
@@ -1564,6 +1575,7 @@ __like (two) peas in a pod__ Said of two people who are very similar in interest
 __like a chicken with the pip__ In low spirits; in a weak or sickened state or manner. _Poor little Johnny’s been feeling like a chicken with the pip lately. I think he must have picked up a bug at school._  
 __like attracts like__ People tend to seek out or be attracted to those that are similar or like-minded. _I guess I shouldn’t be surprised that John wants to find other Americans to hang out with. Like attracts like, after all._  
 __like death warmed up__ In a state or appearance of extreme ill health. (Often preceded by “look” or “feel.”)  
+__like no other__  
 __like pulling teeth__  
 __like rats abandoning a sinking ship__ With great haste and having only personal wellbeing in mind. (Typically said of people who begin abandoning something or someone that is failing or about to fail.) _I knew the business was doomed when employees started quitting en masse, like rats abandoning a sinking ship._  
 __like there were no tomorrow__ Very rapidly and eagerly; without restraint or thought (i.e., as if there won’t be another opportunity, so one must do something as much or as quickly as possible). _Every time Kevin goes out shopping, he starts spending money like there were no tomorrow._  
