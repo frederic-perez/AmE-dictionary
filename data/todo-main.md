@@ -1,18 +1,3 @@
-__facelift__ _n_ (face-lift)  
-__facetious__ _adj_ /fəˈsi ʃəs/  
-__faint-hearted__  
-__fairground attraction__  
-__faiway__ _n_ _The turf of the lush green fairways._  
-__fancy__ _v_ :two::hammer:  
-__fare__ _v_ _How would you fare against the world’s top athletes?_  
-__fashionista__ _n_  
-__Federal lands__ _n_  
-__fell__ _n_  
-__fennel__ _n_ :es: hinojo  
-__festoon__ _v_ /fess-TOON/ __1__ To cover or decorate (something) with many small objects, pieces of paper, etc. _Tiny wildflowers festooned the meadow._ __2__ To hang decorative chains or strips on. _The students festooned the gymnasium with streamers and bunting for the dance._  
-__fibromyalgia__ _n_ :dart::pencil2:  
-__fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
-__finery__ _n_ Elaborate or showy decoration, esp clothing and jewelry.  
 __fireplace__ _n_ _Gas fireplaces._  
 __fishing tackle__  
 __fixer__ _n_ _Political fixers._  

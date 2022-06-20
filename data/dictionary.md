@@ -5300,8 +5300,8 @@ __face left__ _n_ (vs face right) _Two admirals did a left face and screwed ever
 __face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
-__face-lift__  
-__facetious__ _adj_ :five::astonished::pencil2: /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
+__facelift__ _n_ :two::hammer: (face-lift)  
+__facetious__ _adj_ :six::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
 __facile__ _adj_ :three: /FASS-ul/ Too easily accomplished or attained. _She’s an extremely facile actress._  
 __facioscapulohumeral__ _adj_ Referring to the face, shoulder and arm.  
@@ -5325,13 +5325,16 @@ __fail__ _v_ _I’m trying—and failing—to work out the logic of this._
 __failover__ _n_  
 __fain__ _adv_ :two: In a willing manner. _I would fain do it._  
 __faint__ _adj_ :two::hammer: _Faint irony._  
+__faint-hearted__  
 __fair and square__  
 __fair condition__ _n_ :four::hammer: _Critical to serious condition, fair condition._ _She was listed in fair condition Tuesday evening at an area hospital._  
 __fair shake__  
 __fair__ _adj_ :three::hammer: (fairest) _The fairest lady in all the kingdom of England._ :fr: belle _To be fair to Jim, he didn’t cause the problem but inherited it._  
+__fairground attraction__  
 __fairly__ _adv_ :three::hammer: _I realized it fairly quickly._ _I’m fairly tidy._  
 __fairway__ _n_ The long part of a golf course that you hit the ball along to get to the hole.  
 __fait accompli__  
+__faiway__ _n_ _The turf of the lush green fairways._  
 __fall for__ _phr v_  
 __fall guy__ _n slang_ __1__ A person who is the victim of a confidence trick. A gullible victim; a dupe. __2__ A scapegoat _A fall guy for his boss’s errors._  
 __fall into place__  
@@ -5371,7 +5374,7 @@ __fancied__ _v_
 __fanciful__  
 __fancy-schmancy__  
 __fancy<sup>1</sup>__ _n_  
-__fancy<sup>2</sup>__ _v_ :three: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
+__fancy<sup>2</sup>__ _v_ :five: __1a__ To have a liking or enthusiasm for: _He fancies sports cars._ __b__ To have a desire or inclination for: _Would you fancy a cup of coffee?_ __c__ To take a romantic interest in (someone): _Do you think he fancies her?_ __2__ To imagine or suppose: _I fancy she is an exceedingly proud woman._  
 __fandom__ _n_ :two::hammer:  
 __fang__ _n_ :pencil2::three::hammer: (fangs)  
 __fannies__  
@@ -5389,7 +5392,7 @@ __far-flung__ _adj_ :six::hammer: _A far-flung town._ _He represented a far-flun
 __far-reaching__ _adj_  
 __farce__ _n_ :three::hammer:  
 __fare<sup>1</sup>__ _n_ :nine::m: __1__ A transportation charge, as for a bus. __2__ A passenger transported for a fee. __3__ Food and drink; diet: _simple home-cooked fare._ _Irish fare._ _Atwood Café is a favorite for comfort food fare._ _Master chef Jean crafts beautiful, regional and seasonal French fare._ _Fare from the plethora of roving food trucks._ _Pan-Asian fare._ _Hearty fare._ _Enjoy casual fare in the lower level dining concourse._ _Are you looking for a late-night fare?_ _A dinner different from our usual fare._  
-__fare<sup>2</sup>__ _v intr_ :nine: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ __b__ To happen. __2__ _archaic_ To travel.  
+__fare<sup>2</sup>__ _v intr_ :nine::m: (fares, fared, faring) __1__ _formal_ __a__ To get along; to succeed or do. _Mrs. Clinton fared well in California._ _Investment banks have fared particularly well._ _These models fare much better than I would have predicted._ _How would you fare against the world’s top athletes?_ __b__ To happen. __2__ _archaic_ To travel.  
 __farfetch__ _v_ (farfetched)  
 __farmstead__ _n_ A farm, including its land and buildings. _Farmstead cheeses._  
 __faro__ _n_ _A farol dealer._  
@@ -5401,6 +5404,7 @@ __farther__ _adv_ :two::hammer:
 __farthing__  
 __fascia__ _n_ :two::hammer: _The car dashboard fascias._  
 __fascinate__ _v_ :mute:[fas~~c~~inate]  
+__fashionista__ _n_  
 __fast and furious__ _adj_ :four: _Cliché_ Very rapidly and with unrestrained energy. _Her work in the kitchen was fast and furious, and it looked lovely when she finished. Everything was going so fast and furious at the store during the Christmas rush that we never had time to eat lunch._  
 __fast food__ _n_ :mega: Inexpensive food (hamburgers or chicken or milkshakes) prepared and served quickly.  
 __fast track__ _n_  
@@ -5461,6 +5465,7 @@ __febrile__ _adj_ Of, relating to, or characterized by fever; feverish.
 __February__ _n_ :mega: (fĕb′ro͞o-ĕr′ē, fĕb′yo͞o-)  
 __feckless__ _adj_ :six: /ˈfɛk lɪs/ __1__ Ineffective; incompetent; futile. Weak, ineffective. _A feckless campaign._ __2__ Having no sense of responsibility; indifferent; lazy. Worthless, irresponsible.  
 __fecklessness__  
+__Federal lands__ _n_  
 __feel for__  
 __feel out__  
 __feign__ _v_ :four::mute:[fei~~g~~n] /FAYN/ To give a false appearance of. _Syn_ sham, simulate, assume _When confronted about the crime, the suspect feigned ignorance of even the most general details._  
@@ -5470,6 +5475,7 @@ __feisty__ _adj_ :eight: Full of energy and lively determination. _The feisty ma
 __felicitate__ _v_ To offer congratulations to. _Syn_ congratulate _I felicitate you on your memory, sir._  
 __felicitous__ _adj_ /fɪˈlɪsɪtəs/  
 __felix culpa__ _n_ /FAY/FEE-liks KOOL/KUHL-pah/ [:scroll: From Latin felix culpa (happy fault). A related word is serendipity. Felix culpa is also known as a fortunate fall or happy accident. In Christianity, the fall of Adam and Eve is seen as a felix culpa since it resulted in the coming of Christ.] An error or disaster that has fortunate consequences.  
+__fell__ _n_  
 __fella__ _n informal_ (fellas)  
 __felled__ _v_ _He felled a giant._  
 __fellow__ _adj, n_ :two::hammer: _Fellow autistics._ _I am a fellow student._  
@@ -5484,7 +5490,7 @@ __fence-sitter__ _n_ :two::hammer: _Now more than ever, there is little room for
 __fencers__ _n_  
 __fend off__ _phr v_ :five: Prevent the occurrence of; prevent from happening.  
 __fend__ _v_ (fending)  
-__fennel__ _n_ :two::hammer: :es: hinojo  
+__fennel__ _n_ :three::hammer: :es: hinojo  
 __fenny__ _adj_ _A fenny marsh._  
 __Fentanyl__ _n_ Trade names of a narcotic analgesic that can be inhaled and that acts on the central nervous system and may become addictive; used as a veterinary anesthetic and with other drugs before, during, and after surgery; also used as a nonlethal gas to incapacitate people in hostage situations; also abused as a recreational drug.  
 __fenugreek__  
@@ -5511,7 +5517,7 @@ __fester<sup>3</sup>__ _v intr_ To cause to rankle: _envy festering the spirit._
 __festering__ _adj_ :two::hammer:  
 __festinate__ _v_ To hurry, hasten.  
 __festoon<sup>1</sup>__ _n_ From French feston, from Italian festone, from festa (festival), from Latin festa, plural of festum (festival). A decorative chain or string, of flowers, leaves, ribbons, etc., hanging between two points.  
-__festoon<sup>2</sup>__ _v_ :nine::m: (festooned) __1__ To hang or form festoons round (a room, etc.) __2__ To cover (something) profusely and gaily with decorations. _His podium was festooned with a sign._  
+__festoon<sup>2</sup>__ _v_ :nine::m: /fess-TOON/ (festooned) __1__ To hang or form festoons round (a room, etc.). To hang decorative chains or strips on. _The students festooned the gymnasium with streamers and bunting for the dance._ __2__ To cover (something) profusely and gaily with decorations. To cover or decorate (something) with many small objects, pieces of paper, etc. _Tiny wildflowers festooned the meadow._ _His podium was festooned with a sign._  
 __fetal__ _adj_  
 __fetch__ _v_ _The drawing is expected to fetch £500,000._  
 __fetching__ _adj_ Very attractive; charming: _a fetching new hairstyle._  
@@ -5536,12 +5542,14 @@ __fiber__
 __fiberglass__  
 __fibril__ _n_ __2__ _Anatomy_ A threadlike fiber or filament, such as a myofibril or neurofibril, that is a constituent of a cell or larger structure.  
 __fibrillation__ _n_  
+__fibromyalgia__ _n_ :dart::pencil2:  
 __fibroplasia__ _n_  
 __fickle__ _adj_ :two::hammer: _A fickle ally._  
 __ficus__ _n_ :mega:  
 __fiddle-faddle__  
 __fiddle-footed__ _adj_ __1__ Excitable or nervous: _fiddle-footed ponies._ __2__ Inclined to roam or wander.  
 __fiddled__ _v_  
+__fidelity__ _n_ /fuh-DELL-uh-tee/ _The movie takes full advantage of the film medium while maintaining fidelity to the book._  
 __fidget spinner__ _n_  
 __fidget__ _v_ :three::hammer:  
 __fidgety__  
@@ -5594,7 +5602,7 @@ __finalize__ _v_
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
 __fine-tune__ _v_  
-__finery__ _n_ :two: Beautiful clothes and jewelry, especially the type that people wear only on special occasions.  
+__finery__ _n_ :three: Beautiful clothes and jewelry, especially the type that people wear only on special occasions. Elaborate or showy decoration, esp clothing and jewelry.  
 __finesse<sup>1</sup>__ _n_ :two::hammer:  
 __finesse<sup>2</sup>__ _v_ :two: /fuh-NESS/ To handle, deal with, or do (something) in an indirect and skillful or clever way. _The forward finessed the ball past two defenders and powered it to the left of the goalie for a score._  
 __finger food__ _n_ Food intended to be eaten with the fingers.  
