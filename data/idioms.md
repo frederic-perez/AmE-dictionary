@@ -1586,6 +1586,7 @@ __liken (someone or something) to (someone or something else)__ To represent or 
 __line in the sand__ A figurative boundary that someone or some group refuses to cross or beyond which no further advance or compromise is accepted. (Used especially in the phrase “draw a line in the sand.”) _I don’t mind my roommate being a bit messy, but leaving dirty dishes for me to clean up is where I draw a line in the sand!_  
 __lingua franca__ Any language used to bridge the gap between people who do not speak the same language. _English is the lingua franca in many foreign tourist destinations._  
 __lion’s share__ :two: The greatest or best part.  
+__lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
 __liquid courage__ _slang_ The decrease in timidity or inhibition that comes from imbibing alcoholic beverages. _I’m planning on proposing to Mary tonight, but I think I need a little liquid courage first!_  
 __live and kicking__ Alive, healthy, and alert. (A truncated version of “alive and kicking.”) _Sam: “How are you feeling, John? I heard you were quite sick recently.” John: “I’m still live and kicking!”_  
 __live in an/(one’s) ivory tower__ To reside or exist in a place or among a social circle that is characterized by effete academic intelligence and thus is out of touch with or aloof from the realities of life. _I don’t put much weight in the advice of a bunch of economists living in their ivory towers who’ve never worked a real job in their lives._  
@@ -1618,6 +1619,7 @@ __long time no see__ A phrase used when one encounters someone after having not 
 __long-run__ Involving, maturing after, or lasting for a long period of time. Used before a noun. _If you’re thinking of starting a savings account, it’s good to have some long-run goals for how much you want to put aside each month._  
 __look (at something) through rose-colored glasses__ To assume a generally optimistic and cheerful attitude (toward something); to focus on the positive aspects (of something). Primarily heard in US. _I know nostalgia can be misleading, but I really look at my childhood through rose-colored glasses._  
 __look askance upon (someone or something)__ To view or regard someone or something in a disapproving or distrustful manner. _I know that the Ivy League students may look askance upon a country bumpkin such as myself, but I will show them that I have the mettle to be their equal._  
+__look at that!__ :two: Used to tell someone to look at something that you think is interesting, bad, etc.  
 __look for a dog to kick__ To seek out someone to blame or castigate, especially someone who is not at fault. (Usually said in the continuous tense.) _My dad had a famously short fuse when we were growing up, so we soon learned to get out of his way when he was looking for a dog to kick._  
 __look off__ In sports, especially American football, to mislead an opponent with one’s eyes as to one’s intentions in a given play. A noun or pronoun can be used between “look” and “off.” _Looking off the free safety, the quarterback made an incredible pass to his wide receiver down the center of the field._ _I looked the defender off and hucked it to the end zone._  
 __look on the sunny side (of life/things)__ To view one’s life, situation, or circumstances with a generally optimistic and cheerful attitude; to focus on what is positive in life. _Life’s too short to worry about every little detail; I say, just look on the sunny side and have a bit of fun!_  
@@ -1634,7 +1636,7 @@ __lose (one’s) buttons__ To be or become mentally deficient, incompetent, or d
 __lose (one’s) faith (in something or someone)__ To stop believing (in someone or something); to become disillusioned, embittered, or doubtful (about something or someone). _The staff have started losing faith in John’s ability to manage the restaurant properly._  
 __lose (one’s) spirit__ To lose one’s vigor, energy, hope, or resolve; to become resigned or complacent. _The underdog team had a shot at winning the game early on, but they seem to have lost their spirit at this point._  
 __lose (one’s)/the way__ To become lost; to become unable to find the correct course forward. _I feel like I’ve been losing my way in life ever since I lost my job._  
-__lose it__  
+__lose it__ :two::hammer:  
 __lose no time (in) (doing something)__ To do something immediately or as expediently as possible. _Wow, Sarah lost no time finding a new boyfriend after she and Rob split up._  
 __lose track of (someone or something)__  
 __lose your train of thought__ To forget what you were talking or thinking about.  
@@ -1650,6 +1652,8 @@ __lucky devil__ Someone who has just experienced particularly good fortune, gene
 __lust for life__ :two: Intense eagerness to experience all that life has to offer. _I don’t mind growing old, but I sometimes miss that boundless lust for life I had when I was younger._  
 __lust for power__ Intense, insatiable desire to attain power and control. _My brother’s lust for power in our company has created some deep and bitter divisions between him and the rest of the family._  
 __made of money__ To be very rich.  
+__made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
+__magick thinking__  
 __make (one’s) bones__  
 __make (one’s) own way__ To advance or progress, especially through life, according to one’s own efforts, inclinations, or designs. _This country prides itself on letting people make their own way, relying on no one else’s work but their own._  
 __make (oneself or something) ready (for someone or something)__ To become or make something prepared for something or someone. _I don’t think I’ll have enough time to make myself ready for the gala this evening!_  
@@ -1666,12 +1670,14 @@ __make a mark__ To do something that makes one famous or successful; to do somet
 __make a run for (someone or something)__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for the train when we get to the station!_  
 __make a run for it__ To run in order to escape something or to reach a destination quickly, perhaps before a certain time or before something happens. _Our taxi was late picking us up, so we’re going to have to make a run for it when we get to the station._  
 __make a scene__ (create a scene) To create a loud, typically angry disturbance or display in public, such that it draws attention to those involved.  
+__make a splash__ :two::hammer:  
 __make a wide stride__ To make great and rapid progress or advancement. _The one-time political advisor has been making a wide stride toward absolute control of the country._  
 __make advances at (one)__ To approach one in a flirtatious, amorous, or sexual manner; to try or begin to seduce one. _Terry was fired after he began making advances at his secretary._  
-__make amends__ :three: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
+__make amends__ :four: To provide restitution or attempt to reconcile or resolve the situation after a wrong one has done. _I’m not sure I can make amends for all the times I’ve let you down, but I want to try to be better for you._  
 __make an end of (something)__ To stop, cease, or conclude something. _I’m going to make an end of the corruption in this department once and for all!_  
 __make an impression__  
 __make as though__ To behave as if; to pretend or make it appear that. _Samantha’s been making as though she’s writing the next great American novel, but it’s just some trashy thriller._  
+__make bank__ To make a gratuitous amount of money, in preferably a short period of time. _He’s making bank._  
 __make faces (at someone)__ To make distorted, silly, or humorous facial expressions (at someone), usually for one’s own or someone else’s amusement, or as a show of disgust.  
 __make fast work of (someone or something)__ __1__ To deal with, finish, or dispose of someone or something very quickly or handily. _We’ll make fast work of this project now that you’ve joined the team._ __2__ To consume something quickly. _I was so hungry that I made fast work of that steak._  
 __make game of (someone or something)__ To ridicule, mock, or tease someone or something; to make fun of someone or something. _I really don’t appreciate you making game of my disability like that._  
@@ -1697,7 +1703,7 @@ __mansplain__
 __many happy returns of the day__ I wish you a very happy birthday and many more like it in the future. _Hey Jack, many happy returns of the day! Are you going to do anything special to celebrate the occasion?_  
 __march to (the beat of) a different drum__ To do something, act, or behave in a manner that does not conform to the standard, prevalent, or popular societal norm. _My brother’s eschewed the idea of a full-time career and has had every oddball job you could think of, but then he’s always been happy marching to the beat of a different drum._  
 __Marie Celeste__ A place, location, or high-occupancy vehicle (especially a ship) that is inexplicably deserted or abandoned. An allusion to the Mary Celeste, an American merchant brigantine that was discovered floating off the Azores Islands in 1872 with no one on board and still in seaworthy condition. _We came upon a house in the woods, empty as the Marie Celeste, but left otherwise untouched._  
-__mark__ _n_ A dupe; a victim selected for a theft or a swindle.  
+__mark__ _n_ :two: A dupe; a victim selected for a theft or a swindle.  
 __marry (someone) for (his or her) money__ To marry someone solely or primarily to have access to their personal wealth. _Given the extreme age difference between them, a lot of people speculated that she was simply marrying Donald for his money._  
 __marry above (one’s) station__ To marry someone who is of a higher social class or standing than oneself. _A: “I hear that the local fishmonger’s daughter is betrothed to a rich foreign lawyer!” B: “My word, she’s certainly marrying above her station, isn’t she?”_  
 __marry beneath (oneself)__ To marry someone who is of a lower social class or standing than oneself _Janet has a bright future with one of the best law firms in town, so it’s beyond me why she’s marrying beneath herself with some fast food worker._  
@@ -1712,6 +1718,7 @@ __meet (someone’s) expectations__ To be as good as or have the qualities that 
 __meet trouble halfway__ :dart: To worry, grow anxious, or distress oneself unnecessarily over something that has yet to happen. _You can’t go through life meeting trouble halfway, or you’ll end up paralyzed with indecision and anxiety._  
 __meet-and-greet__ A session where a celebrity, etc, is introduced to or questioned by members of the public or journalists.  
 __melee__ _n_ A quarrel, fight, or disturbance marked by very noisy, disorderly, and often violent behavior. _Syn_ affray, brawl, broil, donnybrook, fray, free-for-all, riot, row, ruction, tumult  
+__melting pot__  
 __memory lane__ A set or series of memories of one’s past life, likened to a roadway that one may visit or take a tour of. (Used primarily in the phrase “stroll/take a trip/walk etc. down memory lane.”) _My grandmother spends more time strolling down memory lane these days than conversing about the present._  
 __mental vacation__  
 __mess around__  
@@ -1739,7 +1746,9 @@ __money pit__ :three: A business, possession, or other financial commitment that
 __money talks__ Rich people can get what they want.  
 __monkey off one’s back__ A persistent burden or problem one no longer has to deal with. _I can’t wait until I’m done paying my student loans—that will be a monkey off my back!_ _The win did remove the major monkey off his back._  
 __mooch off (of) (someone or something)__ To ask for or obtain (something) through the charity of someone or something; to sponge off someone or something else. _My brother has been mooching off me and my wife ever since he lost his job._  
+__mop-top__  
 __moral compass__ :three: That which serves or guides a person’s knowledge, sense, or intuition of correct virtues, morals, or ethics. _Our country’s moral compass has surely gone awry in recent times, as our priorities seem now to favor the wealthy accumulating more wealth at the expense of any other concern._  
+__more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
 __more often than not__ :two: Usually; as a rule. _Syn_ by and large, generally, mostly  
 __more sinned against than sinner__ Less guilty or worthy of blame than others, especially those who have injured or laid such blame or guilt upon one. _I may be exploiting a loophole in how much I receive in social welfare payments, but given that my retirement fund was stolen from me by fraudulent investors, I’d say I’m more sinned against than sinner._  
 __most of the time__ _Most of the time I do my breakfast._  
@@ -1748,7 +1757,7 @@ __mouth-watering__ Delicious; particularly appetizing in appearance, aroma, or d
 __move heaven and earth__ To do everything that one can to make something happen.  
 __move the needle__ :two::dart: To cause a noticeable change in something. The imagery refers to the pointer (“needle”) on a measuring instrument, which moves to indicate the level that has been reached. _It seems all my efforts to get in good with the CEO have done little to move the needle in my favor._  
 __move through the gears__ To steadily increase one’s momentum, as of speed, intensity, progress, or success. _With a lot of hard work and perseverance, our little business is finally starting to move through the gears!_  
-__mover and shaker__ A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
+__mover and shaker__ :two: A person who wields power and influence; _“a shaker of traditional beliefs”; “movers and shakers in the business world”_  
 __much obliged__ __1__ Indebted to someone for their generosity, kindness, or favor. _We are much obliged for all you have done on behalf of our father._ __2__ Thank you very much. _A: “Here’s your jacket, sir.” B: “Much obliged, son.”_  
 __muddy the water(s)__ To introduce something, typically information, to an issue or situation that makes it less clear or more confusing.  
 __mull over__ :dart: To ponder or consider something. A noun or pronoun can be used between “mull” and “over.” _I need some time to mull over the options before I pick one._  
@@ -1756,6 +1765,7 @@ __muscle memory__
 __mush (something) up__ To mash or crush something into a thick, soft pulp. _Make sure you mush up that banana before you give it to Katie—she’s still having trouble chewing solid food._  
 __mushhead__ _slang_ A foolish, idiotic person; someone lacking basic intelligence or common sense. _Why they hired a mushhead like him to look after the accounts is beyond me!_  
 __my hands are tied__ You are not free to behave in the way that you would like for some reason.  
+__my lucky star__  
 __narrow down__ To pare the number of people or things on a list down to a more manageable or select number. A noun or pronoun can be used between “narrow” and “down.” _Let’s narrow it down to just our very top choices, otherwise we’ll never pick a place to go._  
 __narrow escape__ :two::hammer:  
 __narrow something down__ If you narrow something down, you reduce the number of possibilities.  

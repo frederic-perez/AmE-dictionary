@@ -1,18 +1,3 @@
-__lipstick on a pig__ Some superficial or cosmetic change to something so that it seems more attractive, appealing, or successful than it really is. _This new operating system is just lipstick on a pig, if you ask me. It’s still just as buggy and unintuitive as the last one they released._  
-__look at that__  
-__look at that!__ Used to tell someone to look at something that you think is interesting, bad, etc.  
-__lose it__  
-__made to order__ _Everything on our menu is fresh, made from scratch, and made to order._  
-__magick thinking__  
-__make a splash__ :two::hammer:  
-__make amends__  
-__make bank__ To make a gratuitous amount of money, in preferably a short period of time. _He’s making bank._  
-__mark__ _n_ _(sucker)_  
-__melting pot__  
-__mop-top__  
-__more fun than a barrel of monkeys__ Very fun, enjoyable, and funny. _I always have a great time when Katie’s around—she’s more fun than a barrel of monkeys!_  
-__mover and shaker__  
-__my lucky star__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not to mention__  
 __nothing but__ _I’m nothing but tired._  
