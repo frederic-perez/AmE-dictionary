@@ -5627,6 +5627,7 @@ __firebug__ _n_
 __firefly__ _n_ (fireflies) :es: luciérnaga  
 __firehouse__ _n_ :two::hammer:  
 __fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  
+__fireplace__ _n_ _Gas fireplaces._  
 __fireplug__ _n_  
 __firewall__ _v_ :camera: _The pilot firewalled the throttles._  
 __fireworks__ _n_ _A fireworks display will be held on Sunday._  
@@ -5643,6 +5644,7 @@ __firth__ _n_ (frith) [:scroll: C15: from Old Norse fjörthr fiord] _Physical Ge
 __fiscal__ _adj_ __1__ Of or relating to taxation, public revenues, or public debt. __2__ Of or relating to financial matters.  
 __fish ladder__ _n_ :two: A series of ascending pools constructed to enable salmon or other fish to swim upstream around or over a dam.  
 __fish__ _n_ :three: (_n pl_ fish or fishes)  
+__fishing tackle__  
 __fishmonger__ _n_  
 __fishpond__ _n_ :two::hammer: _A rainwater fishpond on the roof._  
 __fissile__ _adj_ _Fissile material._  
@@ -5660,6 +5662,7 @@ __fittingly__ _adv_ :two::hammer:
 __fivesomes__  
 __fix__ _n_ _A quick fix of French fries._  
 __fixable__ _adj_ _A lot of that is fixable._  
+__fixer__ _n_ _Political fixers._  
 __fixer-upper__ _n_ A house or other dwelling that is badly in need of repair, usually for sale at a low price. _Don’t be afraid to take on a fixer-upper._  
 __fixture__ _n_ :five::hammer: _A Premier League fixture._ _He had been a fixture and a legend._ _The bar is a neighborhood fixture since 1972._  
 __fizz<sup>1</sup>__ _n_ :three::hammer: _Pepsi Strong 5.0 GV has extra fizz._  
@@ -5691,7 +5694,7 @@ __flagship__ _n_ :five: __1__ A ship that carries the fleet commander and flies 
 __flagstaff__  
 __flagstone__ _n_ :two::hammer: _Flagstone terraces._  
 __flah point__  
-__flail__ _v_ :seven::hammer: (flailed, flailing)  
+__flail__ _v_ :eight::hammer: (flailed, flailing)  
 __flair__ _n_ :nine::m: __1__ A special or instinctive aptitude or ability for doing something well. _Syn_ aptitude, talent, gift, knack _She had a flair for languages._ __2__ Stylishness and originality. _Syn_ style _He hopes to bring back that flair._  
 __flak vest__  
 __flak__ _n_ :seven: If you’re taking flak, chances are you’re in a bad situation and taking fire from an enemy. Flak can refer to criticism — or worse, shots at airplanes. Artillery designed to shoot upward at airplanes. _Flak juice._ _Lynch took flak for staying on the bench._ _You’re going to get so much (flak)._  
@@ -5763,7 +5766,7 @@ __flimsy__ _adj_ :two::hammer:
 __flinch__ _v_  
 __flinch<sup>2</sup>__ _v_ :six: (flinching) __1__ To draw back suddenly, as from pain, shock, etc; wince: _he flinched as the cold water struck him._ __2__ (often foll by from) To avoid contact (with); shy away: _he never flinched from his duty._  
 __fling__ _v_ :nine: (flinging, flung) __1__ To throw something carelessly or with a lot of force. Fling something over/across/onto etc.: _She flung a book across the room at me._ _His coat had been flung over the back of a chair._ _He was flinging the ball hither and thither, chucking it five feet over his receiver’s heads._ __2__ To move your body or part of your body quickly, and with a lot of force. Fling something around/up/back etc.: _I flung my arms around him._ Fling yourself down/into/onto/to something: _Martin flung himself to the ground to stop the ball._ __3__ :dart: To quickly open a door, window, or curtain. Fling something open/back/off: _She flung open the curtains to let in the sunlight._ __4__ To say something to someone that is intended to hurt them. _Don’t start flinging accusations just because you’re upset._ __5__ To place or send suddenly and unceremoniously: _He was arrested and flung into prison._ __6__ To give unrestrainedly: _flung himself into music._  
-__flint__ _n_ :two::hammer: :es: sílex; piedra de encendedor  
+__flint__ _n_ :three::hammer: _You’ll discover ancient villages of brick and flint._ :es: sílex; piedra de encendedor  
 __flintily__  
 __flintlock__ _n_ :two::hammer: (flintlocks)  
 __flinty__ _adj_ :three: __1__ A flinty expression is unfriendly and without emotion. Showing unfeeling resistance to tender feelings. _Syn_ granitic, obdurate, stony __2__ Composed of, containing, or resembling flint, esp. in hardness. _Flinty soil._  
@@ -5861,6 +5864,7 @@ __fold<sup>2</sup>__ _n_ _n_ :three::hammer: __1__ A fenced enclosure for livest
 __foldaway__ _adj_ :dart::two: Designed to be folded up for easy storage: _a foldaway bed._ _Foldaway cot._  
 __foldout chair__ _n_  
 __foldout__ _n_ _Foldout map of NYC._  
+__folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
 __folk__ _n_ _n pl_ :five::hammer::mute:[fo~~l~~k]  
 __follow-up__ _n_ :two::astonished::hammer:  
 __folly__ _n_ :seven: (follies) __1__ Lack of good sense; foolishness. _An act of sheer folly._ __2__ A foolish act, idea, or practice. _The follies of youth._ _Syn_ foolishness, foolhardiness, stupidity, idiocy  
@@ -5890,7 +5894,8 @@ __foothill__ _n_ :two: A low hill at the base of a mountain or mountain range.
 __foothold__ _n_ :four::hammer: _A foothold._  
 __footing__ _n_ :two::hammer: _I found my footing._ _Last year a student died after losing her footing here._  
 __footling__ _adj_ _informal_ Small and of little importance. _Syn_ fiddling, niggling, picayune, piddling, piffling, trivial, petty, lilliputian, little _His footling gestures were insufficient to win back my favor._  
-__footloose__ _adj_ :three::pencil2::hammer: _Footloose knights._  
+__footloose<sup>1</sup>__ _adj_ :three::pencil2::hammer: _Footloose knights._  
+__footloose<sup>2</sup>__ _n_ _Travel clothes for the footloose._  
 __footpath__ _n_ A narrow path for persons on foot.  
 __footprint__ _n_ _Two pools set in the footprints of the Twin Towers._  
 __footwork__ _n_ :two::hammer:  
@@ -5930,7 +5935,7 @@ __foregone__ _adj_ :two::hammer:
 __forehead__ _n_ :mute:[fore~~h~~ead] :es: frente  
 __foreign__ _adj_ :mute:[forei~~g~~n]  
 __foreman__ _n_ :three::hammer: _He was a foreman at the munitions factory._  
-__foremost__ _adj_  
+__foremost__ _adj_ :two::hammer: _One of the world’s foremost modern art museums._  
 __forenoon__ _n_ :two::astonished::hammer: _We had a real gully washer in the forenoon._  
 __forensics__ _n_ :two::hammer:  
 __foreplay__  
@@ -6034,7 +6039,7 @@ __frazzle<sup>1</sup>__ _v_ :two: (frazzled) __1__ To wear away along the edges;
 __frazzle<sup>2</sup>__ _n_ __1__ A frayed or tattered condition. __2__ A condition of exhaustion: _worked themselves to a frazzle._  
 __frazzled__ _adj_ :five::hammer: _Sexist ads banned: No fumbling dads, frazzled wives._  
 __freak out<sup>1</sup>__ _n_ :three::hammer: (freak-out)  
-__freak out<sup>2</sup>__ _v_ :two::hammer:  
+__freak out<sup>2</sup>__ _v_ :three::hammer:  
 __freak__ _adj_ _A freak chemistry lab experiment._  
 __free commune__ _n_ :es: municipio libre  
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
@@ -6058,6 +6063,7 @@ __Frenchman__
 __frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A supposed friend who behaves in a treacherous manner. __2__ A person who is considered as both a friend and a rival.  
 __frenetic__ _adj_  
 __frenzy__ _n_ :two::hammer:  
+__frequent__ _v_  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ :two: /ˈfrɛʃɪt/ The occurrence of a water flow resulting from sudden rain or melting snow.  
@@ -6082,6 +6088,7 @@ __fringe__
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
 __frisson__ _n_ :three: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
 __frites__ _n pl_ Chipped potatoes. _Steak frites._  
+__fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
 __fritter<sup>1</sup>__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
 __fritter<sup>2</sup>__ _n_ _Corn fritters._  
 __frizzle__ _v_ _Frizzled beard._  
@@ -6099,6 +6106,7 @@ __frontispiece__ _n_
 __frontline<sup>1</sup>__ _n_ (front line)  
 __frontline<sup>2</sup>__ _adj_ :two: (front-line) __1__ Located or designed to be used at a military front line: _a frontline ambulance helicopter._ __2__ Of, relating to, or involving the forefront in any action, activity, or field: _a frontline TV reporter._ __3__ Highly experienced or proficient in the performance of one’s duties. __4__ Of or relating to essential work that depends on in-person interactions and may involve some risk, especially policing, healthcare, emergency services, public transit, grocery, warehouse, and delivery work: _Congress is taking up a bill that would guarantee sick leave and hazard pay to frontline workers._  
 __frontliner__ _n_ A frontliner is a frontline worker, especially in healthcare and other essential, often public-facing jobs.  
+__frontrunner__ _n_  
 __frosh__  
 __Frost Belt__ _n_ (Frostbelt) The north-central and northeast United States.  
 __frostbite__ _n_ :seven::hammer:  
@@ -6223,11 +6231,12 @@ __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Caus
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
-__galore__ _adv_  
+__galore<sup>1</sup>__ _adj_ :three::hammer: _The terrace offers sunbathing opportunities galore._  
+__galore<sup>2</sup>__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
 __galvanize__ _v_ :nine: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
-__gambit__ _n_ :four: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
+__gambit__ _n_ :five: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
 __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __2__ _(usually foll by for)_ _informal_ Having the required spirit or will (often fol. by for or an infinitive). Prepared or ready; willing: _I’m game for a try._ _Who’s game for a hike through the woods?_ __3__ Pertaining to or composed of animals hunted or taken as game or to their flesh.  
@@ -6279,6 +6288,7 @@ __gasket__ _n_ :three::hammer: :es: junta
 __gasolene__ _n_ :two::hammer::pencil2: _Syn_ gasoline, petrol, gas  
 __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._  
 __gat__  
+__gated community__ _n_ :two::hammer:  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
 __gatekeeper__ _n_  
 __gathering__ _n_ _Family gathering._  

@@ -1,18 +1,3 @@
-__fireplace__ _n_ _Gas fireplaces._  
-__fishing tackle__  
-__fixer__ _n_ _Political fixers._  
-__flail__ _v_  
-__flint__ _n_ _You’ll discover ancient villages of brick and flint._  
-__folie à deux__ _n_ Mental illness occurring simultaneously in two intimately related persons who share some of the elements of the illness, such as delusions.  
-__footloose__ _n_ _Travel clothes for the footloose._  
-__foremost__ _adj_ _One of the world’s foremost modern art museums._  
-__freak out__  
-__frequent__ _v_  
-__fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
-__frontrunner__ _n_  
-__galore__ _adj_ :three::hammer: _The terrace offers sunbathing opportunities galore._  
-__gambit__ _n_  
-__gated community__ _n_ :two::hammer:  
 __gatekeeper__ _n_  
 __gateway__  
 __geotag__ _n, v_  
