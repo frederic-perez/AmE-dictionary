@@ -1,18 +1,3 @@
-__acorn__ _n_  
-__argonaut__  
-__artichoke__ _n_  
-__banger__ _n_ __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._  
-__bop__ _v_ (bopping)  
-__brickbat__ _n_  
-__brooding__ _adj_  
-__canny__  
-__celeriac__ _n_  
-__circus__ _n_ [:scroll: Middle English, _round arena_, from Latin, _circus_, _circle_]  
-__convivial__ _adj_ _Convivial atmosphere._  
-__delectable__ _adj_ _The Malaysian cuisine is absolutely delectable._  
-__dependable__ _adj_  
-__drab__ _adj_  
-__drizzle__ _v_ _Chicken pieces drizzled in a spicy coconut sauce._  
 __exhilarating__ _adj_  
 __flair__ _n_ _Modern food cooked with great flair._  
 __frisson__  

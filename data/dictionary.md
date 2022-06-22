@@ -131,7 +131,7 @@ __acme__
 __acne__ _n_ :mega::three::hammer:  
 __acolyte__ _n_ :five::hammer: (acolytes)  
 __acorn worm__ _n_ Any of a class (Enteropneusta) of burrowing wormlike marine animals having an acorn-shaped proboscis and classified with the hemichordates.  
-__acorn__ _n_ :three: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
+__acorn__ _n_ :four::hammer: _The acorn don’t fall far from the tree._ _Mighty oaks from little acorns grow._ :es: bellota  
 __acquaintance__ _n_ :pencil2:  
 __acquiesce__ _v tr_ :six: /ak-wee-es/ To agree to something or to accept something, although you do not want to.  
 __acquiescence__ _n_ :three::hammer:  
@@ -657,6 +657,7 @@ __ardor__ _n_ :two: Intensity of emotion, especially strong desire, enthusiasm, 
 __arduous__ _adj_ :two: Very difficult.  
 __arena__ _n_ _In the professional and personal arenas._  
 __Argentine__ _n_ _The pope is an Argentine._  
+__argonaut__  
 __argot__ _n_ A specialized vocabulary or set of idioms used by a particular group. _Syn_ jargon, lingo, patois, vernacular, slang, cant  
 __arguably__ _adv_ :three::hammer:  
 __argy-bargy__ _n_  
@@ -685,7 +686,7 @@ __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a
 __arrowroot__  
 __arson__ _n_  
 __artery__ _n_ :mega:  
-__artichoke__ _n_  
+__artichoke__ _n_ :two::hammer:  
 __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
@@ -1010,6 +1011,7 @@ __bane__ _n_ :three::hammer:
 __baneful__ _adj_ :two: Productive of destruction or woe; seriously harmful. Causing harm, ruin, or death; harmful. _Syn_ pernicious, pestilent, deadly _A baneful influence._ _A baneful effect upon morals._ _He instructed him in the poisonous qualities of arsenic, and furnished him with an ample supply of that baneful drug._  
 __bang for our buck__ _v informal_ :five::hammer: (bang for your buck, bang-for-the-buck, [get] a bigger/better etc bang for your buck) _We need to get all the bang for our buck._  
 __bang-up__ _adj_ _I’m sure you’ll do a bang-up job._  
+__banger__ _n_ __1__ _British slang_ A sausage. _Fish and chips, pies and bangers._  
 __bangle__ _n_  
 __bangs__ _n_ :two::hammer: _She wore her hair in bangs._  
 __banish__ _v_ :two::hammer: (banished) :es: desterrar  
@@ -1666,7 +1668,7 @@ __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an 
 __bootstrap__ _v_ __1__ To promote and develop by use of one’s own initiative and work without reliance on outside help.  
 __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.  
 __boozer__  
-__bop<sup>1</sup>__ _v tr_ :two: To hit or strike.  
+__bop<sup>1</sup>__ _v tr_ :three: To hit or strike.  
 __bop<sup>2</sup>__ _n_ A blow; a punch.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
@@ -1808,7 +1810,7 @@ __brick oven__ _n_ _Brick-oven pizza._
 __brick__ _n_ :two: _basketball_ A badly missed shot in basketball. _He threw up a brick._  
 __brick-a-brac__ _n_  
 __brick-a-brack__  
-__brickbats__  
+__brickbat__ _n_ :two::hammer:  
 __bridal gown__ _n_  
 __bridesmaid__  
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
@@ -1864,7 +1866,7 @@ __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._
 __brood<sup>2</sup>__ _v_ :two::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
-__brooding<sup>1</sup>__ _adj, n_ :seven: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
+__brooding<sup>1</sup>__ _adj, n_ :eight: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broth__  
@@ -2245,7 +2247,7 @@ __canister__ _n_ :five::hammer: _Organic coffee canisters._
 __cannibalization__ _n_  
 __cannibalize__ _v_  
 __cannolis__  
-__canny__ _adj_ Astute; shrewd, knowing; sagacious.  
+__canny__ _adj_ :two: Astute; shrewd, knowing; sagacious.  
 __canoe__ _n_ :mega:  
 __canon__ _n_  
 __canonization__ _n_ _The canonization of the King._  
@@ -2459,6 +2461,7 @@ __ceasefire__ _n_ :three::hammer:
 __cede__  
 __ceilometer__ _n_ :four::hammer:  
 __cel__ _n_ A piece of celluloid on which has been drawn a frame of an animated film. _A Bugs Bunny production cel, by Chuck Jones._  
+__celeriac__ _n_  
 __celery__ _n_ :eight: /ˈselərɪ/ A biennial European plant _(Apium graveolens var. dulce)_ in the parsley family, having edible roots, leafstalks, leaves, and fruits. _Celery roots._ _Celery stalk._ :es: apio  
 __celibacy__ _n_  
 __cellist__ _n_ :two::hammer:  
@@ -2751,6 +2754,7 @@ __circumnavigate__ _v_ __1__ To proceed completely around: _circumnavigating the
 __circumradius__  
 __circumspect__ _adj_ :two: Heedful of circumstances and potential consequences; prudent. Cautious, prudent, or discreet. _Syn_ discreet _Because the drug was shown to have adverse side effects, physicians are now more circumspect about recommending its use._  
 __circumsphere__  
+__circus__ _n_ [:scroll: Middle English, _round arena_, from Latin, _circus_, _circle_]  
 __cisgender__ _n_  
 __Cistercian__ _n_ :pencil2: A member of a contemplative monastic order founded by reformist Benedictines in France in 1098. _Cistercian monks._  
 __cistern__ _n_ :three::hammer: _More than a hundred households depend on cisterns and wells._  
@@ -3286,7 +3290,7 @@ __convey__ _v_ :two::hammer: (conveyed)
 __conveyance__ _n_  
 __conveyor belt__ _n_ A continuous, moving belt that transports materials or packages from one place to another.  
 __conviction__ _n_  
-__convivial__ _adj_ :five: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._  
+__convivial__ _adj_ :six: Fond of feasting, drinking, and good company; sociable. _Syn_ jolly, merry, festive, jovial _Weston was chatty and convivial, and no friend to early separations of any sort._ _Convivial atmosphere._  
 __convoke__ _v_ To call together to a meeting.  
 __convoluted__ _adj_ :dart: /KAHN-vuh-loo-tud/ Very complicated and difficult to understand. _Syn_ involved, intricate _The textbook has a detailed drawing of the convoluted surface of the brain._ _The author goes on detours and tangents and his reasoning is convoluted._  
 __convolution__ _n_ __2__ An intricate, involved, or confused matter or condition.  
@@ -3953,7 +3957,7 @@ __deist__ _adj_
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :eight::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._  
+__delectable__ _adj_ :nine::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -4011,7 +4015,7 @@ __dentifrice__ _n_
 __dentures__ _n pl_ :two::dart: A set of artificial teeth. _Do you wear dentures._ :es: dentadura postiza  
 __deontology__ _n_  
 __departed__  
-__dependable__ _adj_ :two::hammer: _Applicants are required to have a dependable vehicle._  
+__dependable__ _adj_ :three::hammer: _Applicants are required to have a dependable vehicle._  
 __deplete__ _v_ :four: Use up the supply or resources of. _Syn_ exhaust, use up, consume  
 __depleted__ _adj_ /dɪˈpliːtɪd/ Reduced or exhausted. _It also helps restore depleted neurotransmitter levels._  
 __deplorable__ _adj_ Worthy of severe condemnation or reproach. _Syn_ condemnable, criminal, reprehensible, vicious _He had committed a deplorable act of violence, and the judge gave him the maximum sentence for his crime._  
@@ -4526,7 +4530,7 @@ __dowry__ _n_ :six::hammer: (dowries) :es: dote
 __doyenne__  
 __doze__ _v_  
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
-__drab<sup>1</sup>__ _adj_ :five: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
+__drab<sup>1</sup>__ _adj_ :six: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
 __draconian__ _adj_ :six: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
 __draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
@@ -4600,7 +4604,7 @@ __driven snow__ _n_ Snow which has been moved by wind and collected into snowdri
 __driver__ _n_ _(golf)_  
 __drivetrains__  
 __driveway__  
-__drizzle<sup>1</sup>__ _v_ :two::hammer: (drizzled)  
+__drizzle<sup>1</sup>__ _v_ :three::hammer: (drizzled) _Chicken pieces drizzled in a spicy coconut sauce._  
 __drizzle<sup>2</sup>__ _n_  
 __drizzly__ _adj_ :two::hammer:  
 __drogue parachute__ _n_  
