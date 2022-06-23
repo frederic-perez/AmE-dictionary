@@ -5,7 +5,7 @@ Alphabetically sorted (there is a much larger list of comedians on [Wikipedia](h
 - [Amy Schumer](https://www.youtube.com/results?gl=US&search_query=Amy+Schumer)
 - [Andy Daly](https://www.youtube.com/results?gl=US&search_query=Andy+Daly)
 - [Andy Richter](https://www.youtube.com/results?gl=US&search_query=Andy+Richter) asks "The Three Questions."
-- [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy.
+- [Anthony Jeselnik](https://www.youtube.com/results?gl=US&search_query=Anthony+Jeselnik), one of the members of the Titans of Comedy. » [Thoughts and Prayers](https://www.youtube.com/watch?v=GiQfb-FZMUI&list=PLqSGXD25g6PspFfkBG8xT-Kx_8wq5xd7y)
 - [Bert Kreischer](https://www.youtube.com/results?gl=US&search_query=Bert+Kreischer+the+machine), "The Machine," is "the top partyer at the Number One Party School in the country."
 - [Bill Burr](https://www.youtube.com/results?gl=US&search_query=Bill+Burr)
 - [Bill Hader](https://www.youtube.com/results?gl=US&search_query=Bill+Hader)
