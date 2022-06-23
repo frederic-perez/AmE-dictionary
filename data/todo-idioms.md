@@ -1,3 +1,10 @@
+__a bird’s eye view__  
+__bridge the gap__  
+__cry foul__  
+__dressed to kill__  
+__go head to head__  
+__grab a bite__  
+__make a splash__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not to mention__  
 __nothing but__ _I’m nothing but tired._  
@@ -16,10 +23,12 @@ __pass with flying colors__
 __pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
 __Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
 __picture perfect__  
+__pit stop__  
 __place your bets__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
+__prick up (one’s) ears__  
 __pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __pull tabs__ (casino)  
 __push back__ :two::hammer:  
@@ -40,6 +49,7 @@ __run (one’s) mouth (off)__
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __run guns__  
+__run wild__  
 __safety net__  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
 __same same__  
@@ -60,6 +70,7 @@ __sing along__
 __sleep in__  
 __sneeze at__  
 __spin the beans__  
+__spot-on__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
 __stack Z’s__ To get some sleep. _We’ve got a pretty long layover before our next flight, so I’m going to try to stack some Z’s at the gate._  
 __stamp of approval__ An indication of endorsement or authorization of something. _No, you can’t start that construction project until the boss gives it his stamp of approval._  
@@ -80,6 +91,8 @@ __take a seat__ To be seated; to select a place to sit. (Often an invitation or 
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take pride__ :two::hammer:  
 __take the edge off__  
+__tall order__  
+__tall tale__  
 __tap into__  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
@@ -108,6 +121,7 @@ __til you drop__
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
+__to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  
 __tongue-in-cheek__  
 __touch base__ :two::hammer:  
