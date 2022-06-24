@@ -1,7 +1,11 @@
+__abstruse__ _adj_ /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure.  
+__azure__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
+__barker__ _n_ __2__ A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __exhilarating__ _adj_  
 __flair__ _n_ _Modern food cooked with great flair._  
 __frisson__  
 __funky__ _adj_ _A funky dining room._  
+__garrulous__ _adj_ /GAIR-uh-lus/  
 __gatekeeper__ _n_  
 __gateway__  
 __geotag__ _n, v_  
@@ -16,6 +20,7 @@ __gondola__ _n_ _The gondola carries visitors from the base to the top station._
 __gory__ _adj_  
 __graffiti__ _n_ :pencil2:  
 __grandeur__ _n_  
+__grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
 __grate__ _v_ _Grated horseradish._  
 __griffins__ _n_  
 __groove__ _n_  
@@ -112,6 +117,7 @@ __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/
 __incidentally__ _adv_ :two::hammer:  
 __inconspicuous__ _adj_  
 __inebriated__  
+__ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__  
 __inoculation__ _n_  
 __inroads__ _n_  
@@ -334,6 +340,7 @@ __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attenti
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
+__obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __oddball__ _adj, n_  
 __off-color__ _adj_ _An off-color remark._  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
@@ -407,6 +414,7 @@ __performative__ _adj, n_ :two::hammer:
 __perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy or enthusiasm, as a duty or out of habit. _Clearly exhausted after a long day on her feet, our server gave us only a perfunctory greeting before taking our drink orders._  
 __pergola__ _n_  
 __peristyle__  
+__perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -452,6 +460,7 @@ __poutine__
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
+__prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
 __prescient__ _adj_ :es: clarividente, profético  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
 __prickly__ _adj_  
@@ -493,6 +502,7 @@ __pylon__ _n_
 __quail__ _n_ :two::hammer: _Quails marinated in yoghurt._  
 __quaint__ _adj_ :four::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
 __quake__ _v_ _Quaking aspen._  
+__quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quintessential__ _adj_ :three::hammer:  
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
@@ -596,6 +606,7 @@ __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive man
 __schnitzel__ _n_ :es: escalope  
 __schooner__  
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
+__scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :two: Extremely pleasing, esp. to the taste; delectable.  
 __scumbag__  
@@ -661,6 +672,7 @@ __sleuth__ _n_ :two::hammer:
 __slice__ _n_ _A taste of a very diverse slice of East of England life._  
 __slick__ _adj_ :two::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
 __sliver__ _n_  
+__slough__ _n_  
 __slushies__ _n_ _Boozy slushies._  
 __small-claims court__ _n_  
 __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  

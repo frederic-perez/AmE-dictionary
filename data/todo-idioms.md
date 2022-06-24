@@ -1,7 +1,10 @@
 __a bird’s eye view__  
+__be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
+__be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
 __bridge the gap__  
 __cry foul__  
 __dressed to kill__  
+__get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
 __go head to head__  
 __grab a bite__  
 __make a splash__  
@@ -114,6 +117,7 @@ __the wrong crowd__ A group of people, typically peers, who partake in and elici
 __then again__  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
+__this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
 __throw a party__  
 __throw hands__  
 __tick someone off__  
