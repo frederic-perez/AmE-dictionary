@@ -83,7 +83,7 @@ __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got 
 __absinthe__ _n_ __1__ _(Brewing)_ A potent green alcoholic drink, technically a gin, originally having high wormwood content. __2__ _(Plants)_ Another name for wormwood.  
 __absolve__ _v_  
 __abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To refrain deliberately and often with an effort of self-denial from an action or practice. __2__ To choose not to vote.  
-__abstruse__ _adj_ Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
+__abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__ _adj_ :two::hammer:  
 __abut__ _v_ (abutted, abutting) _Bungalows abutting._  
@@ -879,7 +879,8 @@ __ax__
 __axle__ _n_  
 __ayahuasca__ _n_ A psychedelic brew made out of Banisteriopsis caapi vine alone or in combination with various plants.  
 __aye__ _adv_ __2__ (Nautical Terms) an expression of compliance, esp used by seamen.  
-__azure__ _n_ :two::hammer:  
+__azure<sup>1</sup>__ _n_ :two::hammer:  
+__azure<sup>2</sup>__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
 __baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
@@ -1050,7 +1051,7 @@ __bariatric surgery__ _n_ Surgery on the stomach and/or intestines to help a per
 __bariatric__ _adj_ Of or relating to the treatment of obesity.  
 __bariatrics__ _n_ The branch of medicine that deals with the causes, prevention, and treatment of obesity. From the Greek root bar- (“weight” as in barometer), suffix -iatr (“treatment,” as in pediatrics), and suffix -ic (“pertaining to”).  
 __bark__ _v_ :two::hammer: (barked) _His forehead was barked._ _Barked area._  
-__barker__ _n_ :astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel.  
+__barker__ _n_ :two::astonished: __2__ An employee who stands before the entrance to a show, as at a carnival, and solicits customers with a loud sales spiel. A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
 __Barmecidal__ _adj_ Plentiful or abundant in appearance only; illusory: _a Barmecidal feast._  
 __barn__ _n_ _Out of the barn._  
 __barnacle__ _n_ __2__ A person or thing that is difficult to get rid of.  
@@ -5214,7 +5215,7 @@ __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]
 __exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
 __exhilarated__ _adj_ Very happy and excited.  
-__exhilarating__ _adj_ :eight: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
+__exhilarating__ _adj_ :nine: Causing strong feelings of excitement and happiness: _an exhilarating helicopter trip._ _It is an exhilarating thought._ _Exhilarating adventure._  
 __exhilaration__ _n_  
 __exhort__ _v_ __1__ To incite by argument or advice; urge strongly. __2__ To give warnings or advice; make urgent appeals.  
 __exhortation__ _n_  
@@ -6090,7 +6091,7 @@ __frilled__ _adj_ Having decorative ruffles or frills. _Frilled apron._
 __frilly__  
 __fringe__  
 __frisk__ _v_ :six::hammer: (frisked, frisking) _I have to frisk you._  
-__frisson__ _n_ :three: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
+__frisson__ _n_ :four: A sudden strong feeling of excitement, fear, or pleasure. _Syn_ shudder, thrill  
 __frites__ _n pl_ Chipped potatoes. _Steak frites._  
 __fritinancy__ _n_ A chirping or creaking, as of a cricket. _Syn_ chirping _As night fell, the fritinancy of insects outside their open window grew loud enough to keep them awake._  
 __fritter<sup>1</sup>__ _v_ :four::hammer: _Parents worried that their kids off at college will fritter away time and money on Internet gambling._ _Fritter away time._ _To fritter away money._  
@@ -6165,6 +6166,7 @@ __funeral potatoes__ _n_ A casserole of hash browns or cubed potatoes, cheese, a
 __funereal__ _adj_ :pencil2: _Funereal tone._  
 __funhouse__ _n_ (fun house) _Funhouse-like reflections._  
 __funk__ _n informal_ :eight: __1__ A state of paralysing fear. __2__ A fit or inability to face difficulty. _She breathed the funk that rose from her armpits._ _I started to emerge from my Catholic funk._ _The Packers offense are in full-fledged funk._  
+__funky__ _adj_ _A funky dining room._  
 __funnel__ _v_ :two::hammer:  
 __funny farm__ _n slang_ _offensive_ A mental health facility or hospital.  
 __funny money__ _n_  
@@ -6278,7 +6280,7 @@ __garnish__ _v_ :four: __1a__ Decorate, embellish. __b__ To add decorative or sa
 __garrison cap__ _n_ :three::hammer: _He removed his garrison cap._  
 __garrison__ _n_ :two::hammer: _A small garrison of 100 lances._  
 __garroted__ _v_  
-__garrulous__ _adj_ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
+__garrulous__ _adj_ :two: /GAIR-uh-lus/ Given to excessive and often trivial or rambling talk. _Syn_ chatty, gabby, loquacious, talkative, talky _One day the elder Pokrovski came to see us, and chattered in a brisk, cheerful, garrulous sort of way._  
 __gars__ _n_ :three::hammer: _Alligator gars._  
 __garter__ _n_ :three: (garters) __1a__ An elasticized band worn around the leg to hold up a stocking or sock. :es: liguero __b__ A suspender strap with a fastener attached to a girdle or belt to hold up a stocking or sock. __c__ An elasticized band worn around the arm to keep the sleeve pushed up.  
 __gas gauge__  
@@ -6294,7 +6296,8 @@ __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._
 __gat__  
 __gated community__ _n_ :two::hammer:  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
-__gatekeeper__ _n_  
+__gatekeeper__ _n_ :two::hammer:  
+__gateway__  
 __gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
 __gauche__ _adj_ Lacking social polish; tactless. _Syn_ unpolished, graceless _Wendy was quite friendly, but her lack of manners made her seem gauche in formal settings._  
@@ -6337,6 +6340,7 @@ __gentrify__ _v_ (gentrifying)
 __gentry__ _n_ :two::hammer:  
 __genuflects__ _v_  
 __genuine__ _adj_ :two::hammer::mega:  
+__geotag__ _n, v_  
 __German shepherd__ _n_ An Alsatian.  
 __Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety slide or a line from the derrickman’s platform to the ground, used in an emergency.  
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
@@ -6365,12 +6369,13 @@ __ghastly<sup>2</sup>__ _adv_ Unhealthily; sickly: _ghastly pale._
 __ghee__ _n_ Butter which has been clarified by boiling and is totally free of milk solids. It has a nutty flavor and is used in Indian dishes.  
 __ghetto__ _n_ :mute:[g~~h~~etto]  
 __ghibli__ _n_ :astonished: (gibli) (Physical Geography) A fiercely hot wind of North Africa.  
+__ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
 __ghost kitchen__ _n_ (delivery-only restaurant, virtual kitchen, shadow kitchen, commissary kitchen, cloud kitchen, dark kitchen) A professional food preparation and cooking facility set up for the preparation of delivery-only meals.  
 __ghost word__ _n_ A word form that has entered the language through the perpetuation of an error.  
 __ghost__ _v_ :two::mute:[g~~h~~ost] __1__ To ignore someone until they go away, rather than directly expressing one’s disinterest, especially in virtual communications. This phrase is often applied to failed love connections. _That guy I went out with last week kept texting me, but I just wasn’t interested, so I had to ghost him._ __2__ To kill someone. _The boss told Ray to ghost the informant._  
 __ghosting__ _n_ Ending a relationship without any explanation, typically a romantic relationship.  
 __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)  
-__ghoulish__ _adj_ :three: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
+__ghoulish__ _adj_ :four: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
 __gibe__ _n_ :two: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
@@ -6391,6 +6396,8 @@ __gimbal__ _n_ _A sensor on a pivoting gimbal._
 __gimmick__ _n_ :three::hammer: (gimmicks) _No “get in the door” gimmicks._  
 __gimmicky__  
 __gimpy__ _adj_ :two::hammer: _A gimpy angle._ _Gimpy gait._  
+__gin and tonic__ _n_ :pencil2:  
+__gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __gin rummy__ _n_ _(Card Games)_ A version of rummy in which a player may go out if the odd cards outside his sequences total less than ten points. Often shortened to: gin. _The two men sat in the back of the bar and played gin rummy and kept their score in pencil on the back of a napkin._  
 __gingerly<sup>1</sup>__ _adv_ :four::hammer: _Walking gingerly behind the pack._  
 __gingerly<sup>2</sup>__ _adj_  

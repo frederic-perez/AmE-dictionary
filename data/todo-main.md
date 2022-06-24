@@ -1,18 +1,3 @@
-__abstruse__ _adj_ /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure.  
-__azure__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
-__barker__ _n_ __2__ A person who stands at a show, fair booth, etc, and loudly addresses passers-by to attract customers.  
-__exhilarating__ _adj_  
-__flair__ _n_ _Modern food cooked with great flair._  
-__frisson__  
-__funky__ _adj_ _A funky dining room._  
-__garrulous__ _adj_ /GAIR-uh-lus/  
-__gatekeeper__ _n_  
-__gateway__  
-__geotag__ _n, v_  
-__ghost gun__ _n_ A gun that lacks a serial number by which it can be identified and that is typically assembled by the user (as from purchased or homemade components).  
-__ghoulish__  
-__gin and tonic__ _n_ :pencil2:  
-__gin palace__ _n_ (gin house, gin shop) An English name originally for a lavish bar selling gin, later transferred by association to late Victorian pubs designed in a similar style. _It is a former Victorian gin palace._  
 __glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
 __glen__ _n_ :three::hammer:  
 __globetrotting__ _adj_ Traveling or involving travel to a lot of different countries.  
