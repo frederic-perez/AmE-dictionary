@@ -1,18 +1,3 @@
-__glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
-__glen__ _n_ :three::hammer:  
-__globetrotting__ _adj_ Traveling or involving travel to a lot of different countries.  
-__gondola__ _n_ _The gondola carries visitors from the base to the top station._  
-__gory__ _adj_  
-__graffiti__ _n_ :pencil2:  
-__grandeur__ _n_  
-__grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
-__grate__ _v_ _Grated horseradish._  
-__griffins__ _n_  
-__groove__ _n_  
-__growler__ _n_ :two: __2__ _informal_ A pitcher, pail, or other container brought by a customer for beer.  
-__grub__ _n_ :two::hammer: _English grub._  
-__guerdon__ _n_ /ˈgɜr dn/ A reward, recompense, or requital.  
-__guesthouse__ _n_  
 __guillemots__ _n_  
 __guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
 __guitar__ _n_ :mega:  
