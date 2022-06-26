@@ -1,18 +1,3 @@
-__armistice__ _n_  
-__artwork__ _n_ :two::hammer:  
-__big cat__ _n_  
-__browse__ _v_  
-__camp__ _adj_ _A classic camp comedy._  
-__castanet__ _n_ (often _castanets_)  
-__catamaran__ _n_  
-__caterwauling__ _adj_ _Caterwauling choristers._  
-__conundrum__ _n_ /kəˈnʌndrəm/  
-__craft__ _n_  
-__Cultural Olympiad__ _n_  
-__cutting edge__ _n_  
-__cutting-edge__ _adj_  
-__delectable__ _adj_ _A delectable range of bath treats._  
-__exertion__ _n_ /ɪgˈzɜr ʃən/  
 __fiend__ _n_  
 __further__ _v tr_ To help the progress of; promote.  
 __girdle__ _n_ __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  

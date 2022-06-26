@@ -667,7 +667,7 @@ __arm bands__ _n_ :es: manguitos
 __armageddon__  
 __armagnac__  
 __armful__ _n_ The amount of something that you can carry in your arms. _An armful of packages._  
-__armistice__ _n_ :two::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
+__armistice__ _n_ :three::mega: A temporary cessation of fighting by mutual consent; a truce. Armistice descends from Latin _sistere_, meaning “to come to a stand” or “to cause to stand or stop,” combined with _arma_, meaning “weapons.”  
 __armload__  
 __armory__ _n_ :three::hammer: _His armory of weapons._  
 __arms embargo__  
@@ -697,7 +697,7 @@ __artisanal__ _adj_
 __artistry__  
 __artsy__ _adj_ :four::hammer: (arty in BrE)  
 __artsy-fartsy__ _adj_ _vulgar_ Pretentiously or affectedly artistic.  
-__artwork__ _n_ :pencil2:  
+__artwork__ _n_ :three::pencil2::hammer:  
 __as a general rule__  
 __as if__ _conj_ :two::hammer:  
 __as of today__  
@@ -1321,7 +1321,7 @@ __Big A__ _n_ Big Apple, nickname for New York City.
 __Big Apple__  
 __big brother__  
 __Big C__ _n_ _slang_ The disease cancer. Used with _the_.  
-__big cat__ _n_ :es: felino  
+__big cat__ _n_ :two::hammer: :es: felino  
 __big deal<sup>1</sup>__ _n_ :four: __1__ Something of great importance or consequence: made a big deal out of getting there on time; losing one penny was no big deal. _It’s not a big deal._ __2__ An important person: She was a big deal in local politics.  
 __big dog__ _n informal_ A notably prominent, important, or powerful person, organization, etc.  
 __big fish in a small pond__  
@@ -1882,7 +1882,7 @@ __Brownie__ _n_ A member of a Guiding organization for girls aged seven years ol
 __brownnose__ _v_ (brownnosing) :pencil2:  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstone__ _n_ :two: __2__ A brick or stone townhouse, especially one faced with reddish-brown sandstone. _Elegant multi-million dollar brownstones._  
-__browse__ _v_ To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
+__browse__ _v_ :two: To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
 __bruin__  
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
@@ -2222,7 +2222,8 @@ __camellia__
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
 __camouflage__  
-__camp__ _n_ :three::hammer: _The Pacquiao camp did not object._  
+__camp<sup>1</sup>__ _n_ :three::hammer: _The Pacquiao camp did not object._  
+__camp<sup>2</sup>__ _adj_ _A classic camp comedy._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __camper shell__  
 __camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
@@ -2387,7 +2388,7 @@ __cast a pall__
 __cast-iron__ _adj_ :two::hammer:  
 __cast<sup>1</sup>__ _v_ _Votes cast._  
 __cast<sup>2</sup>__ _n_ :two::astonished: _A growing cast of lawyers is signing up to defend President Donald Trump and his associates._  
-__castanets__ _n pl_ A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
+__castanet__ _n_ :two: (often _castanets_) A musical instrument made of two small round pieces of wood or plastic that you hold in one hand and knock together, used especially by Spanish dancers.  
 __castigate__ _v_ Censure severely. _Syn_ chasten, chastise, objurgate _ften he would look back on his day of toil, and castigate himself for failing to fulfill his true purpose of the day._  
 __castigation__ _n_  
 __castle__ _n, v_ :mute:[cas~~t~~le]  
@@ -2403,6 +2404,7 @@ __catalog<sup>1</sup>__ _n_ (_BrE_ catalogue) :three::hammer:
 __catalog<sup>2</sup>__ _v_ (_BrE_ catalogue)  
 __catalyst__ _n_ :three::hammer:  
 __catalyze__ _v_ :pencil2:  
+__catamaran__ _n_  
 __catamounts__  
 __catapult<sup>1</sup>__ _n_ __3__ A slingshot. :es: tirachinas  
 __catapult<sup>2</sup>__ _v_ :two::hammer: (catapulted)  
@@ -2426,7 +2428,7 @@ __cater__ _v_ :four:hammer: _Catered dinner._
 __caterpillar__ _n_  
 __caterwaul<sup>1</sup>__ _n_  
 __caterwaul<sup>2</sup>__ _v_ :three: __1__ To cry or screech like a cat in heat. _Caterwauling divas._ __2__ To make a shrill, discordant sound. __3__ To have a noisy argument.  
-__caterwauling__  
+__caterwauling__ _adj_ :two::hammer: _Caterwauling choristers._  
 __catfish__ _n_ :five: A person who sets up a false personal profile on a social networking site for fraudulent or deceptive purposes.  
 __catharsis__ _n_ :two::hammer:  
 __cathartic__  
@@ -3278,7 +3280,7 @@ __contrive__ _v_ :two::hammer: (contriving)
 __contrived__ _adj_ :three: /kən-trīvd′/ Deliberately created rather than arising naturally or spontaneously. Obviously planned or calculated; not spontaneous or natural; labored: _a novel with a contrived ending._ _Syn_ forced, strained, studied, artificial _The ending of the novel is too pat and contrived._ :es: artificial  
 __controversial__  
 __contumacious__ _adj_ Obstinately disobedient or rebellious; insubordinate.  
-__conundrum__ _n_  
+__conundrum__ _n_ :two::hammer: /kəˈnʌndrəm/  
 __convalesce__ _v_ :three: (convalescing) To return to health and strength after illness. _Syn_ recover, recuperate _After two weeks in the hospital, I was sent home to convalesce for three months._  
 __convection__ _n_  
 __convective__ _adj_ _Convective cloud._  
@@ -3477,7 +3479,7 @@ __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas.
 __crackpot<sup>1</sup>__ _n_  
 __crackpot<sup>2</sup>__ _adj_  
 __craft beer money__  
-__craft__ _n_ :three::hammer: (crafts) _Craft sake._  
+__craft__ _n_ :four::hammer: (crafts) _Craft sake._  
 __craftman__  
 __crafty__  
 __crag__ _n_ :three::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
@@ -3665,6 +3667,7 @@ __culpability__ _n_ The condition of blameworthiness, criminality, censurability
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
+__Cultural Olympiad__ _n_  
 __culvert__ _n_ _A dry culvert._  
 __cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
@@ -3724,7 +3727,8 @@ __cutter__ _n_ _A Coast Guard cutter._
 __cutthroat<sup>1</sup>__ _n_  
 __cutthroat<sup>2</sup>__ _adj_ :pencil2: Ruthless in competition. _Cutthroat competition._ _Cutthroat tactics._  
 __cuttin’ a rug__  
-__cutting edge__ _adj_ :three::hammer: (cutting-edge) _Cutting-edge research._  
+__cutting edge__ _n_  
+__cutting-edge__ _adj_ :four::hammer: _Cutting-edge research._  
 __cuttlefish__ _n_ _Cuttlefish bones._  
 __cwm__ _n_ :astonished: /ko͞om/ [:scroll: From Welsh cwm (valley)] _geology_ A steep bowl-shaped mountain basin, carved by glaciers. Also known as a cirque. _Often, the water gathered in the cwms before overflowing to the valley below._  
 __cyanide__ _n_ A very strong poison.  
@@ -3958,7 +3962,7 @@ __deist__ _adj_
 __dejected__ _adj_ :two: Being in low spirits; depressed. Depressed in spirits; disheartened; low-spirited.  
 __deking__  
 __dekulakization__ _n_  
-__delectable__ _adj_ :nine::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._  
+__delectable__ _adj_ :nine::m::hammer: _Syn_ delicious _Delectable dining._ _Delectable desserts._ _The Malaysian cuisine is absolutely delectable._ _A delectable range of bath treats._  
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
@@ -5208,7 +5212,7 @@ __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent 
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :eight::hammer: _Her face was bright with exertion._  
+__exertion__ _n_ :nine::hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
