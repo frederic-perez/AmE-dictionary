@@ -1,8 +1,30 @@
+__armistice__ _n_  
+__artwork__ _n_ :two::hammer:  
+__big cat__ _n_  
+__browse__ _v_  
+__camp__ _adj_ _A classic camp comedy._  
+__castanet__ _n_ (often _castanets_)  
+__catamaran__ _n_  
+__caterwauling__ _adj_ _Caterwauling choristers._  
+__conundrum__ _n_ /kəˈnʌndrəm/  
+__craft__ _n_  
+__Cultural Olympiad__ _n_  
+__cutting edge__ _n_  
+__cutting-edge__ _adj_  
+__delectable__ _adj_ _A delectable range of bath treats._  
+__exertion__ _n_ /ɪgˈzɜr ʃən/  
+__fiend__ _n_  
+__further__ _v tr_ To help the progress of; promote.  
+__girdle__ _n_ __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  
+__godsend__ _n_  
+__groundbreaking__ _adj_  
 __guillemots__ _n_  
 __guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
 __guitar__ _n_ :mega:  
 __gulch__ _n_  
 __gunpowder__  
+__haberdasher__ _n_ __1__ _Brit_ A dealer in small articles for sewing, such as buttons, zips, and ribbons. __2__ _US_ A men’s outfitter.  
+__haberdashery__ _n_  
 __hacky__ _adj_ _A hacky cough._  
 __haddock__ _n_  
 __haggis__ _n_ _Lindsay makes championship haggis at her family butchers._  
@@ -41,6 +63,7 @@ __hectic__ _adj_ _The hectic pace of the city._
 __heist__ _n_  
 __Hell’s Kitchen__ _n_  
 __hemlines__ _n_  
+__herald__ _v tr_  
 __hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
 __Hershey kisses__  
 __heyday__ _n_  
@@ -263,6 +286,7 @@ __mortgage__ _n_ :mega:
 __mortified__  
 __mosey__ _v intr_  
 __motif__ _n_  
+__mousetrap__ _n_  
 __mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
@@ -270,6 +294,7 @@ __munch__ _v_
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
 __mushy__ _adj_ :two::hammer: _Mushy peas._  
+__myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
 __myofascial__ _adj_  
 __myopic__ _adj_  
 __myriad__ _adj_ :two::hammer:  
@@ -303,7 +328,9 @@ __nosh<sup>1</sup>__ _n_
 __nosh<sup>2</sup>__ _v tr_ :two::hammer:  
 __noshing__ _v_  
 __nosy__  
+__noticeboard__ _n_  
 __notoriously__ _adv_ :two::hammer:  
+__novella__ _n_  
 __nuance__ _n_ :mega:  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
@@ -333,7 +360,9 @@ __ossify__ _v_ To change into bone; to become set in a rigidly conventional patt
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __outcry__ _n_  
 __outfitter__ _n_ _Horseback outfitter._  
+__outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ _Outrageous innovations._  
+__outshine__ _v_  
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul__ _n_  
@@ -470,7 +499,7 @@ __purveyor__
 __pustule__ _n_  
 __pylon__ _n_  
 __quail__ _n_ :two::hammer: _Quails marinated in yoghurt._  
-__quaint__ _adj_ :four::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
+__quaint__ _adj_ :five::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
 __quake__ _v_ _Quaking aspen._  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quintessential__ _adj_ :three::hammer:  
@@ -562,6 +591,7 @@ __sandcastle__ _n_ _Have a sandcastle building competition._
 __sangria__ _n_  
 __Saratoga__ _n_  
 __sassy__  
+__savage__  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
 __scant__ _adj_ :two::hammer:  
@@ -616,6 +646,7 @@ __showplace__ _n_
 __showrunner__ _n_  
 __showstopper__  
 __showstopping__  
+__shrunken head__ _n_  
 __shuffleboard__ _n_  
 __shun__ _v_  
 __shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._  
@@ -630,6 +661,7 @@ __signature<sup>1</sup>__ _n_
 __signature<sup>2</sup>__ _adj_ :four: Serving to identify or distinguish a person, group, etc.: _a signature tune._ _Signature cocktails._ _A signature gift._  
 __simulcast__  
 __sinfully__ _adv_ _Sinfully delicious desserts._  
+__sing-along__ _n_  
 __sit__ _v_ _The nightlife district sits just north of the Chicago River._  
 __sizzle__ _v_ :two::hammer: _Sizzling burgers/soups._  
 __skate__ _n_ _Need skates? Rent them for $10._  
@@ -701,6 +733,7 @@ __stopover__ _n_ :two::hammer: :es: estancia
 __storefront__ _n_  
 __stow__ _v tr_  
 __strain__ _n_  
+__strife__ _n_  
 __strifle__ _n_  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
 __strobe lights__  
@@ -731,6 +764,7 @@ __surefire__ _n_ _A surefire way to see the secrets of the Park._
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
+__swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
 __sweeping__ _adj_ :two::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._  
 __sweet-tooth__  
@@ -766,12 +800,14 @@ __telly__ _n_ :dart:
 __terra cotta__ _n_ :pencil2:  
 __terrazzo__  
 __thalis__  
+__The Crown__ _n_  
 __theatregoer__ _n_  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thoroughbred__  
 __thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._  
 __thoroughfares__ _n_ :two::hammer:  
 __thought-provoking__  
+__thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
 __throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
@@ -782,6 +818,7 @@ __thru__
 __thyme__ _n_ :two::mega::hammer:  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __tight__ _adj_ _Are you on a tight schedule?_  
+__til__ _conj, prep_  
 __till__ _v_ (tilled)  
 __timeless__  
 __timely__ _adv_ _In a timely manner._  
@@ -844,6 +881,7 @@ __unkempt__ _adj_
 __unmissable__  
 __unparalleled__ _adj_ :two::hammer:  
 __unpretentious__  
+__unsavory__ _adj_ /ʌnˈseɪ və ri/  
 __unscathed__ _adj_  
 __unsurmountable__ _adj_  
 __unwind__ _v_ :four: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
@@ -893,6 +931,7 @@ __wherry__ _n_
 __whimsical__ _adj_  
 __whiplash__ _n_ _An amazing, whiplash-inducing performance._  
 __white-knuckled__  
+__whodunnit__ _n informal_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
 __wholesome__  
 __wide-eyed__ _adj_ _Wide-eyed ingenue._  
@@ -913,6 +952,7 @@ __wreak-havoc__ _v_
 __yakisoba__ _n_  
 __yarns__ _n_ :two::hammer:  
 __yatch__ _n_ :mega:  
+__yearn__ _v_  
 __yesteryear__  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  
