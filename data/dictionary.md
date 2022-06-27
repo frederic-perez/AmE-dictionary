@@ -52,7 +52,7 @@ __abhor__ _v_ :pencil2:
 __abhorrence__ _n_ Hate coupled with disgust. _Syn_ detestation, execration, loathing, odium, abomination  
 __abhorrent__ _adj_ :five::hammer:  
 __abide__ _v_ :four::hammer: (abiding) _Abiding trepidation._  
-__abject__ _adj_ :five: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
+__abject__ _adj_ :six: /ˈabdʒɛkt/ __1__ _(of something bad)_ Experienced or present to the maximum degree. _His letter plunged her into abject misery._ _I am stunned by the abject stupidity that was shown here._ __2__ _(of a person or their behavior)_ Completely without pride or dignity; self-abasing. _An abject apology._  
 __abjection__ _n_  
 __abjure__ _v_ :four: To renounce under oath; forswear. _Syn_ recant, retract, resile _For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain “Mr.”_  
 __ableism__  
@@ -767,6 +767,7 @@ __astray<sup>2</sup>__ _adj_
 __astride__ _adj, adv, prep_ :four::hammer:  
 __astringent__  
 __astronomical unit__ _n_ A unit of length used in measuring astronomical distances within the solar system or other planetary system equal to the mean distance from Earth to the sun, approximately 150 million kilometers (93 million miles).  
+__Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
 __astute__ _adj_ :two::hammer: /uh-STOOT/  
 __asunder__ _adv_ :five::hammer: _A world torn asunder by evil and hate._  
 __asyndeton__ _n_ The removal of conjunctions from a sentence. Example: Get in, cause a distraction, get out.  
@@ -847,6 +848,7 @@ __autocracy__ _n_ :three: /ɔːˈtɒkrəsi/ _n_ A system of government by one pe
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
+__autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
 __autolysis__ _n_  
 __automaton__ _n_ __1__ Someone who behaves like a machine and shows no feelings. __2__ A mechanical figure or contrivance constructed to act as if by its own motive power. _Syn_ robot _The automaton was considered a feat of engineering until it broke down on its second day of operation._  
 __autonym__ _n_ /O-tuh-nim/ __1__ A person’s own name, as distinguished from a pseudonym. __2__ A work published under the real name of the author.  
@@ -1817,6 +1819,7 @@ __bridesmaid__
 __bridle__ _n_ :two::pencil2: __1__ A harness, consisting of a headstall, bit, and reins, fitted about a horse’s head and used to restrain or guide the animal.  
 __briers__  
 __brig__ _n_ :four::hammer:  
+__brigading__ _n_ In online contexts, the word brigading refers to a practice in which people join together to perform a coordinated action, such as rigging an online poll, downvoting or disliking content, or harassing a specific individual or group. Brigading is similar to the online practice known as _dogpiling_, which involves many people joining in on the act of insulting or harassing someone. Unlike dogpiling, which may be spontaneous, brigading typically follows a coordinated plan.  
 __brigand__ _n_ :seven: A robber or bandit, especially one of an outlaw band.  
 __brigandage__ _n_ :four: Plundering by brigands. :es: bandidaje, bandolerismo  
 __bright orange__ _n_ A variable color averaging a strong and vivid orange. _A bright orange construction jumpsuit._  
@@ -3663,6 +3666,7 @@ __cufflinks__
 __cul-de-sac__ _n_ :two::hammer:  
 __culinary__ _adj_ Of or relating to a kitchen or to cookery.  
 __cull__ _v_ :five::hammer: _Cowboys have to cull a steer from the herd._ _Culling of online images._ _The prefectural government began culling all the 230.000 chickens on the farm._  
+__culminate__ _v_ /ˈkʌlmɪˌneɪt/ /ˈkʌl məˌneɪt/ /KUL-muh-nayt/  
 __culpability__ _n_ The condition of blameworthiness, criminality, censurability.  
 __culpable__ _adj_ :astonished:  
 __culprit__ _n_  
@@ -4532,6 +4536,7 @@ __downward dog__ _n_ A yoga pose in which the body assumes an inverted V shape, 
 __downward__ _adj, adv_ _A downward spiral._  
 __downy__ _adj_ __1__ Made of or covered with down. _Downy coat._  
 __dowry__ _n_ :six::hammer: (dowries) :es: dote  
+__doxing__ _n_ (doxxing) [:scroll: From the word _docs_ (short for _documents_)] The act of publishing someone’s personal information or revealing their identity without their consent. Doxing is often done in an attempt to intimidate someone by invading their privacy and causing them to fear for their safety, especially due to the threats they often receive after having been doxed.  
 __doyenne__  
 __doze__ _v_  
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
@@ -5569,7 +5574,7 @@ __fiefdom__ _n_ :two::hammer:
 __field day__  
 __field trip__ _n_  
 __field__ _v_ :nine::m: (fielded, fielding) __1__ _cricket, baseball_ Attempt to catch or stop the ball and return it after it has been hit by the batsman or batter, thereby preventing runs being scored or base runners advancing. __2__ Send out (a team or individual) to play in a game. __3__ Answer adequately or successfully. _To field questions._ _Fielding emails._ _Fielding offers._ _The press office fielded numerous calls from the media._  
-__fiend__ _n_  
+__fiend__ _n_ :two::hammer:  
 __fiendish__  
 __fierce__ _adj_ :two::hammer:  
 __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._  
@@ -5634,6 +5639,7 @@ __firebrand__
 __firebrick__ _n_  
 __firebug__ _n_  
 __firefly__ _n_ (fireflies) :es: luciérnaga  
+__firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
 __firehouse__ _n_ :two::hammer:  
 __fireman__ _n_ __3__ An enlisted man in the US Navy or Coast Guard engaged in the operation of engineering machinery.  
 __fireplace__ _n_ _Gas fireplaces._  
@@ -6188,7 +6194,7 @@ __furor__ _n_ _Social media furor._
 __furrier__ _n_ A person whose occupation is selling, making, dressing, or repairing fur garments.  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
 __furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
-__further__ _v_ :two::hammer:  
+__further__ _v tr_ :three: To help the progress of; promote.  
 __furtive__ _adj_ /FER-tiv/  
 __fuschia__ _n_ (fuschias)  
 __fuse__ _n_ _Diabetes is like a time bomb with a long fuse._  
@@ -6412,8 +6418,9 @@ __ginning__
 __gird__ _v_ :eight: (girds, girded, girding) Two encircle or bind with a flexible band, e.g. a belt.  
 __girders__ _n_ :two: A horizontal main structural member, e.g. in a building or bridge, tht supports vertical loads.  
 __girdle<sup>1</sup>__ _v_ (girdled)  
-__girdle<sup>2</sup>__ _n_  
+__girdle<sup>2</sup>__ _n_ :two: __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  
 __giridon__  
+__girth__ _n_ The distance around something; the circumference. _Syn_ circumference, perimeter _It was an enormous tree, its girth twice as great as what a man could embrace._  
 __gist__ _n_ :mega:  
 __git__ _n_ _Chiefly British slang_ A fool, a stupid person.  
 __Gitmo__ _n_ _informal_ _chiefly US_ Guantánamo  
@@ -6517,7 +6524,7 @@ __goblin__ _n_ :three::hammer: (goblins)
 __gobs__ _n_ _He vomited gobs of saliva._  
 __gobsmacked__ _adj_ _Chiefly British Slang_ Extremely surprised or shocked.  
 __godmother__ _n_ :two::hammer: _A fairy godmother._  
-__godsend__ _n_ :two: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
+__godsend__ _n_ :three: An unexpected thing or event that is particularly welcome and timely, as if sent by God.  
 __Godspeed__ _n_ _And Godspeed to you all._  
 __gofer__ _n_ _slang_  
 __goggle__ _v_ Look with amazement; look stupidly. _Syn_ gape, gawk, gawp _He goggled at her in astonishment._  
@@ -6734,7 +6741,7 @@ __ground game__
 __ground zero__ _n_ :two::hammer:  
 __ground-breaking__  
 __groundbreaker__ _n_ :three::hammer:  
-__groundbreaking__ _adj_ _Groundbreaking science._  
+__groundbreaking__ _adj_ :two::hammer: _Groundbreaking science._  
 __Groundhog Day__  
 __groundnut__ _n_  
 __groundskeeper__  
@@ -6794,8 +6801,10 @@ __guild__ _n_ :mega: _The brass guild._
 __guile__ _n_ :five: __1__ Treacherous cunning; skillful deceit. _Navarre preferred guile and treachery._ __2__ A trick or stratagem.  
 __guileless__ _adj_ :two: Free of deceit. _Syn_ transparent _She was so guileless that he had no option but to believe her._  
 __guillemet__ _n_ One of two marks (« or ») used in French, Italian, and Russian printing to enclose quotations.  
+__guillemots__ _n_  
 __guillotine__ _n_ :mega:  
 __guilt__ _n_ :mute:[g~~u~~ilt]  
+__guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
 __guinea pig__ _n_ :mega:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ _n_ :camera:  

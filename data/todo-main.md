@@ -1,18 +1,3 @@
-__abject__ _adj_  
-__Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
-__autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
-__brigading__ _n_ In online contexts, the word brigading refers to a practice in which people join together to perform a coordinated action, such as rigging an online poll, downvoting or disliking content, or harassing a specific individual or group. Brigading is similar to the online practice known as _dogpiling_, which involves many people joining in on the act of insulting or harassing someone. Unlike dogpiling, which may be spontaneous, brigading typically follows a coordinated plan.  
-__culminate__ _v_ /ˈkʌlmɪˌneɪt/ /ˈkʌl məˌneɪt/ /KUL-muh-nayt/  
-__doxing__ _n_ (doxxing) [:scroll: From the word _docs_ (short for _documents_)] The act of publishing someone’s personal information or revealing their identity without their consent. Doxing is often done in an attempt to intimidate someone by invading their privacy and causing them to fear for their safety, especially due to the threats they often receive after having been doxed.  
-__fiend__ _n_  
-__firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
-__further__ _v tr_ To help the progress of; promote.  
-__girdle__ _n_ __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  
-__girth__ _n_ The distance around something; the circumference. _Syn_ circumference, perimeter _It was an enormous tree, its girth twice as great as what a man could embrace._  
-__godsend__ _n_  
-__groundbreaking__ _adj_  
-__guillemots__ _n_  
-__guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_  
 __guitar__ _n_ :mega:  
 __gulch__ _n_  
 __gunpowder__  
