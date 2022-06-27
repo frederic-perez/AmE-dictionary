@@ -1,6 +1,14 @@
+__abject__ _adj_  
+__Astroturfing__ _n_ /as-truh-turf-ing/ __1__ The act or process of installing Astroturf on a surface. __2__ (usually lowercase) A deception tactic in which an organized effort is used to create the illusion of widespread, spontaneous support for something. The goal of astroturfing is to give the false impression that something has wide support from a passionate grassroots campaign when in reality the effort is (secretly) motivated by a person or group’s personal interest.  
+__autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
+__brigading__ _n_ In online contexts, the word brigading refers to a practice in which people join together to perform a coordinated action, such as rigging an online poll, downvoting or disliking content, or harassing a specific individual or group. Brigading is similar to the online practice known as _dogpiling_, which involves many people joining in on the act of insulting or harassing someone. Unlike dogpiling, which may be spontaneous, brigading typically follows a coordinated plan.  
+__culminate__ _v_ /ˈkʌlmɪˌneɪt/ /ˈkʌl məˌneɪt/ /KUL-muh-nayt/  
+__doxing__ _n_ (doxxing) [:scroll: From the word _docs_ (short for _documents_)] The act of publishing someone’s personal information or revealing their identity without their consent. Doxing is often done in an attempt to intimidate someone by invading their privacy and causing them to fear for their safety, especially due to the threats they often receive after having been doxed.  
 __fiend__ _n_  
+__firehosing__ _n_ A propaganda tactic that involves releasing a large amount of false information in a very short amount of time. Due to the resources often needed to pull off such an expansive disinformation strategy, the term firehosing is most often used to refer to the alleged actions of large organizations or governments.  
 __further__ _v tr_ To help the progress of; promote.  
 __girdle__ _n_ __1a__ A belt or sash worn around the waist. __b__ Something that encircles like a belt. __c__ An elasticized, flexible undergarment worn over the waist and hips to give the body a more slender appearance.  
+__girth__ _n_ The distance around something; the circumference. _Syn_ circumference, perimeter _It was an enormous tree, its girth twice as great as what a man could embrace._  
 __godsend__ _n_  
 __groundbreaking__ _adj_  
 __guillemots__ _n_  
@@ -118,6 +126,7 @@ __Jane Addams__ _n_ The first American woman to win a Nobel Peace Prize.
 __jarring__ _adj_  
 __jaunt__ _n_ :two::hammer:  
 __javelin__ _n_ :mega:  
+__jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
 __jostle__ _v_  
 __jouster__ _n_  
@@ -202,6 +211,7 @@ __mainline__
 __mainstay__ _n_ :three::hammer:  
 __mainstream__  
 __majestic__ _adj_  
+__makebate__ _n_ /ˈmeɪkˌbeɪt/ A person who makes trouble or invites quarrels.  
 __makeover__ _n_ _The ultimated makeover story of a maid-turned-princess._  
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
@@ -244,6 +254,7 @@ __microbrew__ _n_ :three::hammer:
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
 __minimalist__ _adj_  
+__Miranda rights__ _n_  
 __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
 __mischievous__ _adj_  
 __misconstrue__ _v tr_  
@@ -308,6 +319,7 @@ __nightcaps__
 __nimrod__ _n_  
 __nitty-gritty__ _n_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
+__noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
 __nosh<sup>1</sup>__ _n_  
 __nosh<sup>2</sup>__ _v tr_ :two::hammer:  
@@ -483,7 +495,8 @@ __purport__ _v_
 __purveyor__  
 __pustule__ _n_  
 __pylon__ _n_  
-__quail__ _n_ :two::hammer: _Quails marinated in yoghurt._  
+__quail<sup>1</sup>__ _n_ :two::hammer: _Quails marinated in yoghurt._  
+__quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
 __quaint__ _adj_ :five::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
 __quake__ _v_ _Quaking aspen._  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
@@ -492,6 +505,7 @@ __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
 __rafting__ _n_ _River rafting._  
+__rage farming__ _n slang_ The practice of posting intentionally provocative political content in order to take advantage of a negative reaction that garners exposure and media attention.  
 __raillery__ _n_  
 __rambler__ _n_  
 __rampant__ _adj_  
@@ -575,6 +589,7 @@ __samurai__ _n_ :mega:
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __Saratoga__ _n_  
+__sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sassy__  
 __savage__  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
@@ -599,6 +614,7 @@ __sea bass__ _n_ _Chilean sea bass._
 __seafaring<sup>1</sup>__ _n_  
 __seafaring<sup>2</sup>__ _adj_ _A seafaring connection._  
 __seafood__ _n_  
+__sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
 __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
 __seat sticks__  
 __seating__ _n_ _Plenty of garden seating._  
@@ -751,6 +767,7 @@ __survival skills__ _n_
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
+__swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sweeping__ _adj_ :two::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._  
 __sweet-tooth__  
 __switchback__ _n_  
