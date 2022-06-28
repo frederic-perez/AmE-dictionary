@@ -1,19 +1,3 @@
-__bison__ _n_ (_n pl_) _A herd of 500 bison._  
-__browse__ _v_ _Visitors can browse museums and galleries._  
-__fire engine__ _n_ (fire truck) _You can ride a train, pony or fire engine._  
-__gazebo__  
-__grove__ _n_  
-__guitar__ _n_ :mega:  
-__gulch__ _n_  
-__gunpowder__  
-__haberdasher__ _n_ __1__ _Brit_ A dealer in small articles for sewing, such as buttons, zips, and ribbons. __2__ _US_ A men’s outfitter.  
-__haberdashery__ _n_  
-__hacky__ _adj_ _A hacky cough._  
-__haddock__ _n_  
-__haggis__ _n_ _Lindsay makes championship haggis at her family butchers._  
-__hairspray__ _n_ (hair spray)  
-__halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
-__halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
 __halcyon__ _adj_  
 __hamlet__ _n_  
 __hamper__ _n_  

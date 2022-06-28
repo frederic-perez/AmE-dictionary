@@ -1384,6 +1384,7 @@ __birthstone__ _n_ A gemstone associated with a particular month and customarily
 __biscotto__ _n_ [Italian, from Medieval Latin bis coctus, _twice cooked_] A crisp Italian cookie traditionally flavored with anise and often containing almonds or filberts.  
 __biscuit__ _n_ :mute:[bisc~~u~~it]  
 __bishop’s benches__  
+__bison__ _n_ (_n pl_) _A herd of 500 bison._  
 __bitch<sup>1</sup>__ _n_ :two::hammer: :es: perra  
 __bitch<sup>2</sup>__ _v_  
 __bitching__ _n_ _Quit your bitching!_  
@@ -1885,7 +1886,7 @@ __Brownie__ _n_ A member of a Guiding organization for girls aged seven years ol
 __brownnose__ _v_ (brownnosing) :pencil2:  
 __brownout__ _n_ :two: A reduction or cutback in electric power, especially as a result of a shortage, a mechanical failure, or overuse by consumers.  
 __brownstone__ _n_ :two: __2__ A brick or stone townhouse, especially one faced with reddish-brown sandstone. _Elegant multi-million dollar brownstones._  
-__browse__ _v_ :two: To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._  
+__browse__ _v_ :three: To look through or over (something) casually: _browsed the newspaper; browsing the gift shops for souvenirs._ _Oh, I’m just looking, I’m browsing._ _Visitors can browse museums and galleries._  
 __bruin__  
 __bruit<sup>1</sup>__ _n_ __1__ Rumor. __2__ Report. __3__ Noise. __4__ An abnormal sound heard in internal organs in the body during auscultation.  
 __bruit<sup>2</sup>__ _v_ :two: (bruited) __1__ To report. __2__ To repeat. __3__ To spread a rumor.  
@@ -5630,6 +5631,7 @@ __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool 
 __fintech__  
 __fir__ _n_ :two::hammer: :es: abeto  
 __fire drill__ _n_ An exercise intended to train people in duties and escape procedures to be followed in case of fire.  
+__fire engine__ _n_ (fire truck) _You can ride a train, pony or fire engine._  
 __fire irons__  
 __fire retardant__  
 __fire sale__ _n_ :three::hammer:  
@@ -6321,7 +6323,7 @@ __gauzy__ _adj_ :two::hammer:
 __gavel__ _n_ :six::hammer: _The judge’s gavel._  
 __gaze<sup>1</sup>__ _n_  
 __gaze<sup>2</sup>__ _v_  
-__gazebo__ _n_ :four::mega::hammer:  
+__gazebo__ _n_ :five::mega::hammer:  
 __gazette__ _n_  
 __gear__ _n_ :three::hammer: _You can’t control the weather, but you control the clothes and gear you use to deal with it._  
 __gearbox__  
@@ -6753,7 +6755,7 @@ __groupie__ _n_ :two::hammer: (groupies)
 __grouse<sup>1</sup>__ _v intr_ :seven: /grous/ To complain or to grumble. _We groused about the uncomfortable seating._  
 __grouse<sup>2</sup>__ _n_ /grous/ A complaint.  
 __grout__ _n_ :two::hammer: _Tile and grout cleaning._  
-__grove__ _n_ :two::hammer:  
+__grove__ _n_ :three::hammer:  
 __grovel__ _v_ :six: (groveling) To lie or creep in a prostrate position, as in subservience or humility. _Syn_ cower, cringe, fawn _The prisoners groveled before the emperor, hoping that he would commute their sentences._  
 __growing pains__ _n_ :five: __1__ Neuralgic pains which occur in the limbs of some young children. __2__ The difficulties experienced in the early stages of an enterprise. _Teams are expecting short-term growing pains._  
 __growl<sup>1</sup>__ _n_ :three::hammer: _He spoke in a growl._  
@@ -6808,8 +6810,9 @@ __guilt-free__ _adj_ _Enjoy a guilt-free snack anytime!_
 __guinea pig__ _n_ :mega:  
 __guise__ _n_ :two::hammer: (guises) _The office is committed to diversity in all its guises._  
 __guitar case__ _n_ :camera:  
-__guitar__ _n_ :mute:[g~~u~~itar]  
+__guitar__ _n_ :two::mega::mute:[g~~u~~itar]:hammer:  
 __Gulag__ _n_ :two::hammer:  
+__gulch__ _n_  
 __gulf__ _n_ :four::hammer: _A gulf between campaign methodic and actual plans._ _The gulf grew grew wider._ _The gulf of privilege that lies between them._ _A widening social gulf._  
 __gull__ _v_ _They feared being gulled._  
 __gullibility__  
@@ -6839,6 +6842,7 @@ __gung-ho__ _adj informal_ :six::hammer:
 __gunman__ _n_ :two::hammer:  
 __gunnel__ _n_ _The reel clanked once against the aluminium gunnel._  
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
+__gunpowder__  
 __gunship__ _n_ _Helicopter gunships._  
 __gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwale__ _n_ :four::mega: /ˈɡʌnəl, ˈgʌn l/ (gunnel) [:scroll: From gun + wale (a plank along the side of a ship), from its use as a support for guns in earlier times.] The upper edge of the side of a ship or a boat. The word is often used in the idiom “to the gunwales” meaning to be full, almost overflowing.  
@@ -6872,6 +6876,8 @@ __gyrate__ _v_ :two::hammer:
 __gyroscopic__ _adj_ :mega: _Gyroscopic effect._  
 __H174cm x W82.5cm x D44cm__ _phr_ _This space-saving piece measures a generous H174cm x W82.5cm x D44cm._  
 __habeas corpus__ _n_  
+__haberdasher__ _n_ __1__ _Brit_ A dealer in small articles for sewing, such as buttons, zips, and ribbons. __2__ _US_ A men’s outfitter.  
+__haberdashery__ _n_  
 __habiliment__ _n_ A covering designed to be worn on a person’s body. _Synonyms_ clothing, wearable, vesture, wear  
 __habitant__ _n_ A person who inhabits a particular place. _Syn_ denizen, dweller  
 __habitation__ _n_ :astonished:  
@@ -6886,6 +6892,8 @@ __hackneyed__ _adj_ :three::hammer: _The hackneyed metaphor made him smile._
 __hacksaws__ _n_  
 __hackwork__ _n_  
 __Hacky Sack__ _n_ /ˈhæk i/ _Trademark_ A trademark for a footbag. A small leather beanbag juggled with the feet as a game.  
+__hacky__ _adj_ _A hacky cough._  
+__haddock__ _n_  
 __haematuria__ _n_ (hematuria) _n_ (Pathology) The presence of blood or red blood cells in the urine.  
 __haemodialysis__ _n_  
 __haemophilia__  
@@ -6893,7 +6901,7 @@ __haft sin__
 __hag__ _n_ _Screaming histerically like Shakespearean hags._  
 __haggard<sup>1</sup>__ _adj_ :five: __1__ Exhausted or distraught and often gaunt in appearance. __2__ Wild and intractable. Used of a hawk in falconry.  
 __haggard<sup>2</sup>__ _n_ An adult hawk captured for training.  
-__haggis__ _n_ :three: /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s or calf’s offal, oatmeal, suet, and seasonings boiled in a skin made from the animal’s stomach.  
+__haggis__ _n_ :four: /ˈhæɡɪs/ _Cookery_ A Scottish dish made from sheep’s or calf’s offal, oatmeal, suet, and seasonings boiled in a skin made from the animal’s stomach. _Lindsay makes championship haggis at her family butchers._  
 __haggle__ _v_ :three::hammer: (haggling)  
 __haggling__ _n_ :two::hammer:  
 __hagiography__  
@@ -6907,7 +6915,10 @@ __hair clippers__ _n_ :camera:
 __hair-trigger__ _adj_ Responding to the slightest provocation or stimulation: a hair-trigger temper; a hair-trigger reaction.  
 __hairline__  
 __hairpiece__ _n_  
+__hairspray__ _n_ (hair spray)  
 __haking__  
+__halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
+__halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
 __halcyon__ _adj_ :five::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
