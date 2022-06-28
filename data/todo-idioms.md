@@ -1,14 +1,17 @@
 __a bird’s eye view__  
+__al fresco__  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
 __bridge the gap__  
 __cry foul__  
 __dressed to kill__  
+__far and wide__  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
 __go head to head__  
 __grab a bite__  
 __make a splash__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
+__not hold water__ _Fortunately, most of those tales don’t hold water._  
 __not to mention__  
 __nothing but__ _I’m nothing but tired._  
 __nothing short of__ :two::hammer:  
@@ -95,10 +98,11 @@ __take a toll (on someone or something)__ To cause damage or deleterious effects
 __take pride__ :two::hammer:  
 __take the edge off__  
 __tall order__  
-__tall tale__  
+__tall tale__ :two::hammer:  
 __tap into__  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
+__test (one’s) mettle__  
 __thanks for nothing__ An expression of annoyance, exasperation, or disappointment when someone does something unhelpful or disagreeable. _Thanks for nothing, Dan. Now I have to go get all these posters reprinted because of your stupid typo._  
 __that’s a given__  
 __that’s my girl__ An expression used to express praise or pride for a female with whom one has a close relationship, especially one.s daughter. _That’s my girl, another report card with straight A’s!_  
@@ -138,6 +142,7 @@ __up and running__
 __up-and-coming__ _Up-and-coming writers and artists._  
 __wash something down__ _Wash it down with a glass of milk._  
 __water torture__  
+__watering hole__ _Revelers can move around watering holes with impunity._  
 __weather pemitting__  
 __weather permitting__  
 __well in advance__ _Book tickets well in advance._  

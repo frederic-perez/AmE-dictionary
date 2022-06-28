@@ -1,3 +1,8 @@
+__bison__ _n_ (_n pl_) _A herd of 500 bison._  
+__browse__ _v_ _Visitors can browse museums and galleries._  
+__fire engine__ _n_ (fire truck) _You can ride a train, pony or fire engine._  
+__gazebo__  
+__grove__ _n_  
 __guitar__ _n_ :mega:  
 __gulch__ _n_  
 __gunpowder__  
@@ -168,7 +173,7 @@ __loggery__ _n_
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
-__lore__ _n_ :two::hammer: _Crazy folk lore._  
+__lore__ _n_ :three::hammer: _Crazy folk lore._  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
 __lout__ _n_ /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
 __low-key__ _adj_  
@@ -208,6 +213,7 @@ __maritime__
 __marjoram__ _n_  
 __martyrdom__  
 __mashup__ _n_ _A fantastic mashup of illuminated characters._  
+__mason__ _n_ :astonished:  
 __masterpieces__ _n_  
 __matinee__ _n_ :two::hammer:  
 __matron__ _n_ _A jailhouse matron._  
@@ -267,6 +273,7 @@ __mortgage__ _n_ :mega:
 __mortified__  
 __mosey__ _v intr_  
 __motif__ _n_  
+__mountain range__ _n_ :two::hammer: :es: cordillera, sierra  
 __mousetrap__ _n_  
 __mousy__ _adj_ _A mousy accountant._  
 __moveable__ _adj_ _Moveable bridges._  
@@ -296,8 +303,8 @@ __neurotypical__ _adj, n_
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nibble on__  
-__nibble__ _n_ _Tasty oriental nibbles._  
-__nibbling__ _v_ (nibbling)  
+__nibble<sup>1</sup>__ _n_ _Tasty oriental nibbles._  
+__nibble<sup>2</sup>__ _v_ :two::hammer: (nibbling) _You were nibbling on housemade pastries._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
 __nightcap__ _n_ _A romantic nightcap._  
 __nightcaps__  
@@ -320,6 +327,7 @@ __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
+__odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
 __off-color__ _adj_ _An off-color remark._  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
@@ -327,6 +335,7 @@ __offbeat__ _adj_
 __offhandedly__ _adj_  
 __omelet__ _n_ :mega: (omelette)  
 __omnibus__ _n_  
+__one-of-a-kind__ _adj_ Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __op-ed__ _adj, n_ :mega:  
 __operating system__  
@@ -356,6 +365,7 @@ __pageantry__ _n_ :two::hammer:
 __painstakingly__  
 __pamper__ _v_  
 __pan out__ _v_  
+__pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
 __panache__ _n_ :two::hammer:  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
@@ -526,13 +536,14 @@ __resplendent__ _adj_ :pencil2:
 __restaurateur__ _n_  
 __retrace__ _v_  
 __retsina__ _n_  
-__revel__ _v_  
+__revel__ _v intr_ :two::hammer:  
 __revelry__ _n_ :two::hammer:  
 __revet__ _v tr_ /ri-VET/ __1__ To cover a wall, embankment, etc., with masonry or other supporting material. __2__ To recheck or reexamine.  
 __revue__ _n_ :two::hammer: _A musical revue._ _Improv revues._  
 __rhododendrons__ _n_ :pencil2:  
 __rib eye__ _n_ _Rib eye steaks._  
 __ribbed__ _adj_ /rɪbd/ _The ribbed vaults._  
+__ribbing__ _n_ __3__ _informal_ The act or an instance of joking or teasing.  
 __ribeye__ _n_ /ˈrɪbˌaɪ/ _(Cookery)_ A cut of beef from the animal’s rib section.  
 __rickshaw__  
 __ridicule__ _v_  
@@ -552,7 +563,7 @@ __rooftop deck__ _n_ :two::hammer:
 __rosewood__  
 __rosy__  
 __Rottweiler__ _n_  
-__rotunda__ _n_ :two::hammer:  
+__rotunda__ _n_ :three::hammer:  
 __rousing__ _adj_ :three::hammer: _A rousing crowd._  
 __rowdy__ _adj_ :two::hammer: _A rowdy guilty pleasure._  
 __rugged__ _adj_ :two::hammer:  
@@ -667,6 +678,7 @@ __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smattering__  
 __smortasbord__  
+__snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
 __sobriquet__ _n_ (soubriquet)  
 __socialite__  
@@ -755,7 +767,7 @@ __swath__ _n_ (swathes)
 __swatting__ _n_ [:scroll: Based on the term SWAT, referring to the special police tactical units that respond to emergencies] The practice of initiating a law enforcement response on an unsuspecting victim. Though swatting results in real-world actions, it often originates online or with the aid of digital means, such as by using software to anonymously contact 911 and report a threat or illegal activity at the target’s residence. The practice is especially used to target public figures.  
 __sweeping__ _adj_ :two::hammer: _A sweeping view._ _The sweeping sandy beaches of Broadstairs._  
 __sweet-tooth__  
-__switchback__ _n_  
+__switchback__ _n_ :two::hammer:  
 __sycamore tree__  
 __sycamore__ _n_ :two::hammer:  
 __synecdoche__ _n_ /sɪnˈɛkdəkɪ/  
@@ -782,6 +794,7 @@ __tedium__ _n_ _The bitter tedium of his daily life._
 __teeming__ _v_ _A pond teeming with frogs and newts._  
 __teethe__ _v_  
 __teetotaler__  
+__teetotaling__ _n_  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
 __terra cotta__ _n_ :pencil2:  
@@ -862,6 +875,7 @@ __unapologetic__ _adj_
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
+__unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
 __unkempt__ _adj_  
@@ -890,6 +904,7 @@ __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, di
 __vie__ _v_  
 __Viking__ _n_ :pencil2:  
 __vindicative__ _adj_ /ˈvɪndɪˌkeɪtɪv; vɪnˈdɪkətɪv/ __1__ _obsolete_ Vindictive; vengeful. __2__ Tending to vindicate.  
+__vintner__ _n_  
 __virid__ _adj_ Bright green with or as if with vegetation. _Syn_ verdant _The lake was virid with bright algae on the surface._  
 __visitor__  
 __vocation__ _n_ /voh-KAY-shun/  
