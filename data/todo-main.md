@@ -1,18 +1,3 @@
-__Alpine slide__ _n_  
-__anchor__ _v_ _Does your kid aspire to anchor the evening news?_  
-__Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
-__aspen__ _n_  
-__catch__ _n_  
-__complimentary__ _adj_ _Many hotels provide complimentary airport shuttle service._  
-__concession__ _n_ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
-__cooler__ _n_  
-__gestalt__ _n_  
-__halcyon__ _adj_  
-__hamlet__ _n_  
-__hamper__ _n_  
-__hamstring__ _n_ /ˈhæmˌstrɪŋ/  
-__handicap__ _v_ _All entrants are handicapped according to the potential performance of their boats._  
-__hangout__ _n_  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  

@@ -388,6 +388,7 @@ __aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indi
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :four::hammer:  
+__Alpine slide__ _n_  
 __alpine__ _n_ :three::hammer:  
 __also-ran__ _n_ _To become an also-ran._  
 __also-run__  
@@ -461,13 +462,15 @@ __anaphora__ _n_ Anaphora is the repetition of a word or words at the start of p
 __anastomosis__ _n_ :three: __2__ (Medicine) The surgical connection of separate or severed tubular hollow organs to form a continuous channel, as between two parts of the intestine.  
 __anathema__ _n_ :nine::m: /ə-ˈna-thə-mə/ Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf. A person or thing detested or loathed. _Syn_ bete noire _Because of what he did to Sam, he is anathema to me now._  
 __anathematize__ _v tr_ /uh-NATH-uh-muh-tyz/ [:scroll: From Middle French anathematiser, from Latin anathematizare (to ban, curse, or detest), from Greek anathematizein (to curse), from anathema (something devoted to evil).] To denounce, condemn, or curse. Curse or declare to be evil or anathema or threaten with divine punishment.  
-__anchor__ _n, v_ :mute:[anc~~h~~or]  
+__anchor<sup>1</sup>__ _n_ :mute:[anc~~h~~or]  
+__anchor<sup>2</sup>__ _v_ :mute:[anc~~h~~or] _Does your kid aspire to anchor the evening news?_  
 __anchovies__  
 __ancillary<sup>1</sup>__ _adj_ :six::mega::hammer: _Ancillary study end points._  
 __ancillary<sup>2</sup>__ _n_ :mega::hammer:  
 __and how!__  
 __and so it goes__  
 __and-a-one, and-a-two...__  
+__Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
 __andirons__  
 __andragogy__ _n_ The art or science of teaching adults. The methods or techniques used to teach adults.  
 __anecdata__ _n_ An ad hoc portmanteau for anecdotal evidence that is used as data in an attempt to prove a hypothesis.  
@@ -727,7 +730,7 @@ __askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or dist
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
-__aspen__ _n_ :two::hammer: _Quaking aspen._ :es: chopo  
+__aspen__ _n_ :three::hammer: _Quaking aspen._ :es: chopo  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
@@ -2419,7 +2422,7 @@ __catatonic__ _adj_ __1__ Characterized by catatonia especially either rigidity 
 __catcall<sup>1</sup>__ _n_ :seven::hammer: (catcalls) _A pack of men on motorbikes left a wake of catcalls._  
 __catcall<sup>2</sup>__ _v_ :two::hammer: (catcalled, catcalling) _Some catcalling builders shouted abuse at him._  
 __catch up__ _v_ :two::hammer: _We can catch up in person._  
-__catch__ _n_ :three: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
+__catch__ _n_ :four: __2c__ _informal_ A person considered to be an attractive or admirable romantic partner. _A good catch._ __3__ A tricky or previously unsuspected condition or drawback: _It sounds like a good offer, but there may be a catch._ _What’s the catch?_  
 __Catch-22__ _n_ :two::hammer: _It’s a real Catch-22 situation._  
 __catch-all__ _n_  
 __catch-up schedule__  
@@ -3102,7 +3105,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :seven::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._ _Complimentary parking._  
+__complimentary__ _adj_ :eight::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -3141,6 +3144,7 @@ __concertina__
 __concertmaster__  
 __concertmistress__ _n_ A woman who is the first violinist in a symphony orchestra. _The orchestra concertmistress._  
 __concession stand__ _n_ A place where patrons can purchase snacks or food at a cinema, amusement park, zoo, aquarium, circus, fair, stadium, beach, swimming pool, concert, sporting event, or other entertainment venue. _A new concession stand with a real popcorn machine._  
+__concession__ _n_ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __conch__ _n_ _A conch farm._  
 __concierge__ _n_ :two::hammer: _Ask your hotel concierge for a special value card._  
 __conciliatory__ _adj_  
@@ -3311,6 +3315,7 @@ __cookout__ _n_ A social gathering at which a meal is cooked and eaten outdoors.
 __cooktop__ _n_ :six::hammer: _Ceramic/Electric/Gas cooktop._  
 __cookware__  
 __cool your jets__  
+__cooler__ _n_  
 __coolie hat__ _n_ A conical-shaped usually straw hat worn especially to protect the head from the heat of the sun.  
 __coonass__ _n_ _offensive_ _slang_ :two: (coonasses) Used as a disparaging term for a Cajun.  
 __coop<sup>1</sup>__ _n_ :three::hammer: :es: gallinero _Chicken coops._  
@@ -6358,7 +6363,7 @@ __Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_  
+__gestalt__ _n_ :two::hammer:  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -6919,7 +6924,7 @@ __hairspray__ _n_ (hair spray)
 __haking__  
 __halal<sup>1</sup>__ _n_ (Islam) Meat from animals that have been killed according to Muslim law.  
 __halal<sup>2</sup>__ _adj_ (Islam) Of or relating to such meat: _a halal butcher._  
-__halcyon__ _adj_ :five::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
+__halcyon__ _adj_ :six::hammer::pencil2: _Halcyon time of romance._ _The halcyon weather made for a perfect day at the beach._  
 __hale__ _adj_ :two: __1__ Free from defect, disease, or infirmity. _Syn_ healthy, sound _A real hale-and-hearty type with a warm smile._ __2__ Retaining exceptional health and vigor.  
 __half sibling__  
 __half__ _adj, adv, n_ :mute:[ha~~l~~f]  
@@ -6941,18 +6946,19 @@ __ham hocks__ _n_ :two::hammer:
 __ham-and-egger__ _n_ _informal US_ An ordinary person of little consequence.  
 __hamburger__ _n_ :mega:  
 __hamdbill__ _n_  
-__hamlet__ _n_  
+__hamlet__ _n_ :two::hammer:  
 __hammam__ _n_  
 __hammy__ _adj_ :two: Marked or characterized by overacting; affectedly humorous or dramatic.  
-__hamper<sup>1</sup>__ _n_ :two::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
+__hamper<sup>1</sup>__ _n_ :three::dart::hammer: _This square rattan hamper comes with a washable cotton drill liner._  
 __hamper<sup>2</sup>__ _v_ :astonished::five::hammer: (hampered)  
 __hamster angle__ _n_ _slang_ A novelty term for when a selfie makes your face look chubby, like a hamster’s.  
-__hamstring__ _n_ :three::hammer:  
+__hamstring__ _n_ :four::hammer: /ˈhæmˌstrɪŋ/  
 __hand blender__ _n_  
 __hand-pick__ _v_ :two::hammer:  
 __handcuff__ _v_ _It is handcuffed by lack of funds._  
 __handglider__  
 __handgun__ _n_ _Officers found a small silver handgun under the passenger seat._  
+__handicap__ _v_ _All entrants are handicapped according to the potential performance of their boats._  
 __handicraft__ _n_  
 __handily__ _adv_ :two::hammer: _Hondurans trump Chileans handily._  
 __handiwork__ _n_ :three::hammer:  
@@ -6975,7 +6981,7 @@ __hang-up__ _n_ :astonished: An unforeseen obstacle. _Syn_ rub, hitch, snag _My 
 __hangdog__ _adj_ Downcast, furtive, or guilty in appearance or manner. _Syn_ guilty, shamefaced _His hangdog look and shamed silence were proof enough of his guilt._  
 __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coat._ _You left some hangers at my place._  
 __hangnail__ _n_ :two::hammer:  
-__hangout__ _n_ _informal_ :three: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
+__hangout__ _n_ _informal_ :four: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __Hangul__ _n_ /häng′go͞ol/ The alphabetic system of writing used in Korea, invented in the 1400s.  
 __hank__ _n_ :three::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
