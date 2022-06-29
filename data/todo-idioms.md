@@ -1,14 +1,20 @@
 __a bird’s eye view__  
+__a laundry list of (something)__ :dart: A very lengthy, thorough list of items. _I have a laundry list of projects I need to get done before Friday._  
 __al fresco__  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
 __bridge the gap__  
+__bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __cry foul__  
 __dressed to kill__  
 __far and wide__  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
 __go head to head__  
 __grab a bite__  
+__hands down__  
+__homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
+__homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
+__in the know__  
 __make a splash__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not hold water__ _Fortunately, most of those tales don’t hold water._  
@@ -19,6 +25,7 @@ __objection hearsay__
 __off-kilter__  
 __oh, my__  
 __on location__ _Filmed on location._  
+__on the go__  
 __one of a kind__  
 __one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
 __open mike__  

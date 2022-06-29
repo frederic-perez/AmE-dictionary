@@ -1,3 +1,12 @@
+__Alpine slide__ _n_  
+__anchor__ _v_ _Does your kid aspire to anchor the evening news?_  
+__Andean condor__ _n_ A very large vulture found in the Andes Mountains.  
+__aspen__ _n_  
+__catch__ _n_  
+__complimentary__ _adj_ _Many hotels provide complimentary airport shuttle service._  
+__concession__ _n_ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
+__cooler__ _n_  
+__gestalt__ _n_  
 __halcyon__ _adj_  
 __hamlet__ _n_  
 __hamper__ _n_  
@@ -91,6 +100,7 @@ __invigorating__ _adj_
 __iron__ _n_ _(golf)_  
 __islander__  
 __islet__  
+__itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
 __jaded__ _adj_ _A jaded traveler._  
@@ -311,12 +321,14 @@ __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
+__octopi__ _n pl_ A plural of octopus.  
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
 __off-color__ _adj_ _An off-color remark._  
 __offal__ _n_ __1__ Waste parts, esp. the viscera or inedible remains of a butchered animal. __2__ Refuse or rubbish; garbage.  
 __offbeat__ _adj_  
 __offhandedly__ _adj_  
+__ollie__ _n_  
 __omelet__ _n_ :mega: (omelette)  
 __omnibus__ _n_  
 __one-of-a-kind__ _adj_ Unique.  
@@ -383,6 +395,7 @@ __peerless__ _adj_ _Peerless scenic beauty._
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penned__ _v_  
+__peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perennial__ _adj_ :two::hammer: _A perennial favorite._  
 __perfect__ _v_  
 __performative__ _adj, n_ :two::hammer:  
@@ -605,6 +618,7 @@ __segue__ _v_ (segues)
 __self-serving__ _adj_  
 __sequela__ _n_ A morbid condition following or occurring as a consequence of another condition or event.  
 __sequelae__ _n pl_ The consequences of a particular condition or therapeutic intervention.  
+__Serengeti__ _n_ :pencil2:  
 __serigraph__ _n_  
 __sesquipedalian__ _adj, n_  
 __shallot__ _n_  
@@ -647,6 +661,7 @@ __sit__ _v_ _The nightlife district sits just north of the Chicago River._
 __sizzle__ _v_ :two::hammer: _Sizzling burgers/soups._  
 __skate__ _n_ _Need skates? Rent them for $10._  
 __skeeball__ _n_  
+__skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
 __skit__ _n_ :two::hammer: _Skit theater._  
 __sleazy__ _adj_  
 __sleek__ _adj_ :two::hammer: _A sleek shopping center._  
@@ -894,6 +909,7 @@ __visitor__
 __vocation__ _n_ /voh-KAY-shun/  
 __voles__ _n_ _Water voles._  
 __voucher__ _n_ _A lunch voucher._  
+__wade__ _v_  
 __waffle__  
 __wainscoting__ _n_  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
@@ -903,7 +919,7 @@ __wannabe__ _adj, n_
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __watchword__ _n_ :two::hammer:  
 __water flumes__ _n_  
-__watering hole__ _n_ :three: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
+__watering hole__ _n_ :four: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
 __well versed__ _adj_  
 __wellrounded__  
@@ -945,3 +961,4 @@ __yogurt__ _n_ (yoghourt)
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zero in__  
 __zinch__  
+__zipline__ _n_  
