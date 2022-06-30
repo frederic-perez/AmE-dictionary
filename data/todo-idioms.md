@@ -3,6 +3,7 @@ __a laundry list of (something)__ :dart: A very lengthy, thorough list of items.
 __al fresco__  
 __be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
 __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
+__be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
 __bridge the gap__  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __cry foul__  
@@ -15,6 +16,7 @@ __hands down__
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
 __in the know__  
+__light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __make a splash__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not hold water__ _Fortunately, most of those tales don’t hold water._  
@@ -130,8 +132,10 @@ __there and back__ Taking the distances to the end point and back to the beginni
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
 __throw a party__  
+__throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw hands__  
 __tick someone off__  
+__tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __til you drop__  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
@@ -145,6 +149,7 @@ __treasure hunt__
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
 __uncanny valley__  
+__until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __wash something down__ _Wash it down with a glass of milk._  

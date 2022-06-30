@@ -1,3 +1,7 @@
+__confidant__ _n_ /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
+__duress__ _n_ /dur-RESS/ Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful constraint. _The defense asserts that the defendant’s confession was made under duress._  
+__escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
+__fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  
@@ -319,6 +323,7 @@ __omnibus__ _n_
 __one-of-a-kind__ _adj_ Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __op-ed__ _adj, n_ :mega:  
+__openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __operating system__  
 __opulent__ _adj_  
 __orderliness__ _n_  
@@ -348,7 +353,7 @@ __pamper__ _v_
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
-__panache__ _n_ :two::hammer:  
+__panache__ _n_ :three: Distinctive and stylish elegance. _Syn_ dash, elan, flair, style _He wooed her with the confident panache of a cavalry officer._  
 __panderer__ _n_ /PAN-duhr-uhr/ [:scroll: After Pandarus, a Trojan warrior in Greek mythology. He was known for his skill in archery. In later accounts, such as Chaucer’s and Shakespeare’s, he acts as a go-between in the love affair of Troilus and Cressida. This resulted in his reputation as a procurer in the English language.] One who caters to the base desires, whims, or prejudices of others.  
 __panna cotta__ _n_  
 __panorama__ _n_ An unbroken view of an entire surrounding area. _Syn_ vista _The panorama from the summit, with glistening lakes and green forests in every direction, is unmatched in the east._  
@@ -388,6 +393,7 @@ __perfunctory__ _adj_ /per-FUNK-tuh-ree/ Something that is done without energy o
 __pergola__ _n_  
 __peristyle__  
 __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
+__perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -493,6 +499,7 @@ __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved abo
 __ravishing__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
+__recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
 __Red Cross__ _n_  
 __red snapper__ _n_  
@@ -583,6 +590,7 @@ __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept pe
 __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schnitzel__ _n_ :es: escalope  
 __schooner__  
+__scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -606,6 +614,7 @@ __sequelae__ _n pl_ The consequences of a particular condition or therapeutic in
 __Serengeti__ _n_ :pencil2:  
 __serigraph__ _n_  
 __sesquipedalian__ _adj, n_  
+__sesquipedalianism__ _n_ /ses-kwi-pi-DAYL-yuh-niz-uhm/ [:scroll: From Latin sesqui- (one and a half) + ped- (foot).] __1__ The practice of using big words. __2__ A very long word.  
 __shallot__ _n_  
 __Shangri-la__ _n_ :mega:  
 __shanty__ _n_ :two: __1__ A roughly built, often ramshackle building; a shack. __2__ A song originally sung by sailors, esp a rhythmic one forming an accompaniment to work. _Sea shanty._  
