@@ -1,7 +1,12 @@
+__aspen__ _n_ _Aspens turn the canyon golden by the end of September._  
+__backcountry__ _n_  
 __confidant__ _n_ /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
 __duress__ _n_ /dur-RESS/ Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful constraint. _The defense asserts that the defendant’s confession was made under duress._  
+__elk__ _n_ (_n pl_ elk or elks)  
 __escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
+__gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
+__gridiron__ _n_  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  
@@ -11,6 +16,7 @@ __hardy__ _adj_ :four::hammer: _Hardy plants._ _The hardy can climb the 627 step
 __hatch__ _v_  
 __haunt__ _n_ _It is a favorite BYOD haunt._  
 __haunts__  
+__hayride__ _n_ A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __hayrides__ _n_  
 __headbanger__  
 __headboard__ _n_  
@@ -74,6 +80,7 @@ __impresario__ _n_
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __incidentally__ _adv_ :two::hammer:  
 __inconspicuous__ _adj_  
+__Indian paintbrush__ _n_  
 __inebriated__  
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
 __inglenook__  
@@ -92,6 +99,7 @@ __islet__
 __itty-bitty__ _adj_ _informal_ Very small.  
 __ivy__ _n_ :es: hiedra  
 __jack cheeses__  
+__Jacob’s ladder__ _n_  
 __jaded__ _adj_ _A jaded traveler._  
 __jam-packed__ _adj_ :two: Crowded, packed, or filled to capacity.  
 __jambalaya__ _n_  
@@ -122,6 +130,7 @@ __kitchen garden__
 __kitchenette__ _n_ :pencil2:  
 __kiva__ _n_ _A Native American kiva._  
 __knowledgeable__ _adj_ :two::hammer:  
+__koi pond__ _n_ Ponds used for holding koi carp, usually as part of a garden.  
 __kooky__ _adj_ :two::hammer:  
 __Kowtow__  
 __kung flu__ _n_ Racist name for the COVID-19 coronavirus.  
@@ -224,10 +233,12 @@ __metaverse__ _n_ /ˈmɛtəˌvɜːs/
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
 __mezzanine__ _n_ :two::hammer:  
+__michelada__ _n_  
 __microbrew__ _n_ :three::hammer:  
 __midday__ _n_ The middle of the day; noon.  
 __middle school__ _n_  
 __minimalist__ _adj_  
+__minnow__ _n_ _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __Miranda rights__ _n_  
 __mirth__ _n_ /mɜrθ/ Gaiety or jollity, esp. when accompanied by laughter.  
 __mischievous__ _adj_  
@@ -286,6 +297,7 @@ __neurotypical__ _adj, n_
 __newbie__ _n_ /ˈnu bi, ˈnyu-/ :es: principiante  
 __newts__ _n_ _A pond teeming with frogs and newts._  
 __nibble on__  
+__nibble__ _v_  
 __nibble<sup>1</sup>__ _n_ _Tasty oriental nibbles._  
 __nibble<sup>2</sup>__ _v_ :two::hammer: (nibbling) _You were nibbling on housemade pastries._  
 __nifty__ _adj_ :two::hammer: _Nifty gadgets._ _Nifty little passport pouches._  
@@ -385,6 +397,8 @@ __peerless__ _adj_ _Peerless scenic beauty._
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
 __penned__ _v_  
+__penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
+__penstemon__ _n_  
 __peoples__ _n pl_ A body of persons sharing a common religion, culture, or language: _the peoples of central Asia._  
 __perennial__ _adj_ :two::hammer: _A perennial favorite._  
 __perfect__ _v_  
@@ -394,6 +408,7 @@ __pergola__ _n_
 __peristyle__  
 __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
+__pet__ _v_ _Petting the farm animals._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
@@ -520,7 +535,7 @@ __remiss__ _adj_
 __remix__ _n, v_ :mega:  
 __rendition__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
-__respite__ _n_  
+__respite__ _n_ :two::hammer:  
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
 __retrace__ _v_  
@@ -624,6 +639,7 @@ __shearing__ _n_ _Sheep shearing._
 __shearling__ _n_ _Luxurious shearlings._  
 __sheet__ _n_ _A three-sheeted bed._  
 __shenanigan__ _n informal_ _Pulling shenanigans._  
+__shoe leather__ _n_  
 __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-range shots.  
 __shoppe__ _n_ Variant of shop.  
 __short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  

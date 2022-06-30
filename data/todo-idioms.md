@@ -7,6 +7,7 @@ __be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about 
 __bridge the gap__  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __cry foul__  
+__dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
 __dressed to kill__  
 __far and wide__  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
