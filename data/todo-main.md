@@ -1,12 +1,29 @@
+__arboretum__ _n_  
 __aspen__ _n_ _Aspens turn the canyon golden by the end of September._  
 __backcountry__ _n_  
+__Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
+__Beehive State__ _n_  
+__blow-out__  
+__bratwurst__ _n_  
+__brisket__ _n_  
+__bumper boat__ _n_  
+__bungee cord__ _n_  
 __confidant__ _n_ /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
+__dine__ _v_  
+__dive__ _n_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
 __duress__ _n_ /dur-RESS/ Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful constraint. _The defense asserts that the defendant’s confession was made under duress._  
 __elk__ _n_ (_n pl_ elk or elks)  
 __escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
+__ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
+__fare__ _n_  
+__flaunt__ _v_  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
+__gladiola__ _n_  
+__grana padano__  
 __gridiron__ _n_  
+__gritty__ _adj_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
+__gussied up__ _v_  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  
@@ -15,6 +32,7 @@ __hardwood__
 __hardy__ _adj_ :four::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._  
 __hatch__ _v_  
 __haunt__ _n_ _It is a favorite BYOD haunt._  
+__haunting__ _adj_  
 __haunts__  
 __hayride__ _n_ A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __hayrides__ _n_  
@@ -26,6 +44,7 @@ __headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is
 __headroom__ _n_  
 __heady__ _adj_ :two::hammer: _Heady events._  
 __heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
+__hearty__ _adj_ _Hearty portions._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
 __hearty<sup>2</sup>__ _n_  
 __heather__ _n_ :two::hammer: _Heather-filled moors._ :es: brezo  
@@ -49,11 +68,13 @@ __hokum__ _n_ __1__ Utter nonsense; bunkum.
 __home furnishing__ _n_  
 __home school__ _v_  
 __homesite__ _n_ :two::hammer:  
+__homestead__ _n_  
 __homophobia__ _n_  
 __hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
 __hone__ _v_ _Visitors can hone their skills on classic games._  
 __hop__ _n_ _Hop hardens._  
 __Hopi__ _n_  
+__hops__ _n_ _Climbing plant used for giving taste to beer._  
 __horsewares__ _n_  
 __host__ _n_ _A host of amphibians._  
 __hostas__ _n_  
@@ -161,6 +182,7 @@ __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured i
 __living statue__  
 __loanword__ _n_  
 __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
+__lodge__ _n_  
 __loggery__ _n_  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
@@ -198,12 +220,14 @@ __makeover__ _n_ _The ultimated makeover story of a maid-turned-princess._
 __mallards__ _n_  
 __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or controlled by outside forces or influences. _Let the cookie dough thaw so it is malleable._ _Students’ minds are malleable and they need positive influences and guidance._  
 __mallrats__  
+__malt__ _n_ :mega:  
 __Mancunian__ _adj, n_  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
 __maritime__  
 __marjoram__ _n_  
 __martyrdom__  
+__mash__ _n_ _Used mash goes to feed a local farmer’s pigs._  
 __mashup__ _n_ _A fantastic mashup of illuminated characters._  
 __mason__ _n_ :astonished:  
 __masterpieces__ _n_  
@@ -211,7 +235,7 @@ __matinee__ _n_ :two::hammer:
 __matron__ _n_ _A jailhouse matron._  
 __mayo__ _n_ :mega:  
 __maypole__ _n_ _Maypole and morris dancers._  
-__meander__ _v_  
+__meander__ _v_ :two::hammer:  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
 __meerkats__ _n_  
@@ -258,6 +282,7 @@ __moniker__ _n informal_
 __monolith__ _n_  
 __moody__  
 __Moon bounce__ _n_ A radio communications technique that relies on the propagation of radio waves from an Earth-based transmitter directed via reflection from the surface of the Moon back to an Earth-based receiver.  
+__Moor__ _n_  
 __moor__ _n_ :two::hammer: _Heather-filled moors._  
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
@@ -316,6 +341,7 @@ __noticeboard__ _n_
 __notoriously__ _adv_ :two::hammer:  
 __novella__ _n_  
 __nuance__ _n_ :mega:  
+__nubbly__  
 __nursery__ _n_ (Plants) _Nursery with thousands of plant varieties available._  
 __nurturance__ _n_ /ˈnɜr tʃər əns/ The providing of loving care and attention.  
 __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/  
@@ -349,6 +375,7 @@ __ossify__ _v_ To change into bone; to become set in a rigidly conventional patt
 __ostrich__ _n_ :two::hammer: _Ostrich bruschetta._  
 __outcry__ _n_  
 __outfitter__ _n_ _Horseback outfitter._  
+__outing__ _n_  
 __outrage__ _n_ /ˈaʊt reɪdʒ/  
 __outrageous__ _adj_ _Outrageous innovations._  
 __outshine__ _v_  
@@ -358,10 +385,11 @@ __overhaul__ _n_
 __overly__  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
+__pachyderm__  
 __Pacific Rim__ _n_ _Creative Pacific Rim cuisine._  
 __pageantry__ _n_ :two::hammer:  
 __painstakingly__  
-__pamper__ _v_  
+__pamper__ _v_ :two::hammer:  
 __pan out__ _v_  
 __pan__ _v_ _Try your hand at milking a cow, panning for gold or spinning wool._  
 __panacea__ _n_ /pan-uh-SEE-uh/ Something that is regarded as a cure-all—that is, a remedy for all ills or difficulties. _The new program should help with the city’s housing crisis, but it’s no panacea._  
@@ -429,6 +457,7 @@ __planter__ _n_ :three: __3__ An early settler or colonist.
 __plantman__ _n_  
 __plantwoman__ _n_  
 __platted__ _v_  
+__pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
 __plenteous__ _adj_  
 __plentiful__  
 __plenty__ _n_ _There are plenty of shops._  
@@ -454,6 +483,7 @@ __poutine__
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
+__preprandial__ _adj_ _Preprandial drinkers._  
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
 __prescient__ _adj_ :es: clarividente, profético  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
@@ -493,9 +523,10 @@ __purport__ _v_
 __purveyor__  
 __pustule__ _n_  
 __pylon__ _n_  
+__quaff__ _v_  
 __quail<sup>1</sup>__ _n_ :two::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
-__quaint__ _adj_ :five::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
+__quaint__ _adj_ :six::hammer: _Quaint neighborhood shops._ _Quaint bridges._  
 __quake__ _v_ _Quaking aspen._  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quintessential__ _adj_ :three::hammer:  
@@ -534,6 +565,7 @@ __remarkably__
 __remiss__ _adj_  
 __remix__ _n, v_ :mega:  
 __rendition__ _n_  
+__renewal__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __respite__ _n_ :two::hammer:  
 __resplendent__ _adj_ :pencil2:  
@@ -568,6 +600,7 @@ __rosewood__
 __rosy__  
 __Rottweiler__ _n_  
 __rotunda__ _n_ :three::hammer:  
+__round out__ _v_ _Alluring martinis round out the experience._  
 __rousing__ _adj_ :three::hammer: _A rousing crowd._  
 __rowdy__ _adj_ :two::hammer: _A rowdy guilty pleasure._  
 __rugged__ _adj_ :two::hammer:  
@@ -591,6 +624,7 @@ __sangria__ _n_
 __Saratoga__ _n_  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sassy__  
+__sauerkraut__ _n_  
 __savage__  
 __savory__ _adj_ :two::hammer: _Savory menu items._  
 __scabbard__ _n_ ˈskæb ərd/ A sheath for a sword or the like. :es: vaina  
@@ -604,10 +638,11 @@ __schism__ _n_ A separation or division into factions. _Syn_ discord, split _Her
 __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept person who fails at everything. A person with no luck, someone who tends to do everything wrong.  
 __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schnitzel__ _n_ :es: escalope  
-__schooner__  
+__schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scone__ _n_ :three::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
+__scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :two: Extremely pleasing, esp. to the taste; delectable.  
 __scumbag__  
@@ -652,7 +687,7 @@ __showrunner__ _n_
 __showstopper__  
 __showstopping__  
 __shrunken head__ _n_  
-__shuffleboard__ _n_  
+__shuffleboard__ _n_ :two::hammer:  
 __shun__ _v_  
 __shutterbug__ _n_ _Shutterbugs will be intrigued by the Canon camera._  
 __sickbed__ _n_ A sick person’s bed.  
@@ -679,6 +714,7 @@ __sleepover__ _n_
 __sleuth__ _n_ :two::hammer:  
 __slice__ _n_ _A taste of a very diverse slice of East of England life._  
 __slick__ _adj_ :two::hammer: _A natural water slide eroded into slick rock._ _Slick dance arrangements._  
+__slider__ _n_ _Enjoy Asian inspired sliders, salads amd more._  
 __sliver__ _n_  
 __slough__ _n_  
 __slushies__ _n_ _Boozy slushies._  
@@ -689,6 +725,7 @@ __smattering__
 __smortasbord__  
 __snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowdrop__ _n_ :two::hammer: :es: campanilla de invierno  
+__snowmobile__ _n_  
 __sobriquet__ _n_ (soubriquet)  
 __socialite__  
 __sonnet__ _n_  
@@ -696,7 +733,9 @@ __sought-after__
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spaz__  
 __speakeasy__  
-__spiffy__ _adj_ :two::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__speedway__ _n_  
+__spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
+__spinner__ _n_  
 __spiral__ _v_ _It spirals out of control._  
 __spire__ _n_ :three::hammer:  
 __splashdown__ _n_ :dart: The landing of a crewed spacecraft in the ocean.  
@@ -711,6 +750,7 @@ __spurious__ _adj_ Lacking authenticity or validity in essence or origin; not ge
 __squats__ _n_  
 __squeamish__ _adj_  
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
+__stage play__  
 __stage show__  
 __stance__ _n_  
 __standee__  
@@ -737,6 +777,7 @@ __stilt__ _n_
 __stoneware__ _n_  
 __stooges__ _n_  
 __stopover__ _n_ :two::hammer: :es: estancia  
+__stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle._  
 __storefront__ _n_  
 __stow__ _v tr_  
 __strain__ _n_  
@@ -827,6 +868,7 @@ __thru__
 __thyme__ _n_ :two::mega::hammer:  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __tight__ _adj_ _Are you on a tight schedule?_  
+__tikkamassala__ _n_  
 __til__ _conj, prep_  
 __till__ _v_ (tilled)  
 __timeless__  
@@ -860,6 +902,7 @@ __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidat
 __tribulation__ _n_  
 __trinket__ _n_ :two::hammer: _Trinket and tartan shops._  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
+__trout__ _n_ (_n pl_ trout or trouts)  
 __trove__ _n_ :three::hammer:  
 __truffles__ _n_ :pencil2:  
 __trunk__ _n_ _Leatherbound Tibetan trunks._  
@@ -942,6 +985,7 @@ __wheelhouse__ _n_
 __wherry__ _n_  
 __whimsical__ _adj_  
 __whiplash__ _n_ _An amazing, whiplash-inducing performance._  
+__whisk__ _v_  
 __white-knuckled__  
 __whodunnit__ _n informal_  
 __wholesale__ _adj, adv, n, v_ _The largest wholesale jewelry center open to the public._  
@@ -965,6 +1009,7 @@ __yakisoba__ _n_
 __yarns__ _n_ :two::hammer:  
 __yatch__ _n_ :mega:  
 __yearn__ _v_  
+__yeast__ _n_  
 __yesteryear__  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  

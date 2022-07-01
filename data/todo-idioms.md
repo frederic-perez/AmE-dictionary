@@ -48,7 +48,7 @@ __prick up (one’s) ears__
 __pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
 __pull tabs__ (casino)  
 __push back__ :two::hammer:  
-__push the envelope__  
+__push the envelope__ :two::hammer: _Pushing the envelope of contemporary Japanese cuisine._  
 __put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
@@ -162,7 +162,7 @@ __well in advance__ _Book tickets well in advance._
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __wipe the floor__  
-__with a twist__  
+__with a twist__ :two::hammer:  
 __within walking distance__  
 __yake your pick__  
 __young at heart__  
