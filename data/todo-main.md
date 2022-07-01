@@ -1,18 +1,3 @@
-__arboretum__ _n_  
-__aspen__ _n_ _Aspens turn the canyon golden by the end of September._  
-__backcountry__ _n_  
-__Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
-__Beehive State__ _n_  
-__blow-out__  
-__bratwurst__ _n_  
-__brisket__ _n_  
-__bumper boat__ _n_  
-__bungee cord__ _n_  
-__confidant__ _n_ /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
-__dine__ _v_  
-__dive__ _n_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
-__duress__ _n_ /dur-RESS/ Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful constraint. _The defense asserts that the defendant’s confession was made under duress._  
-__elk__ _n_ (_n pl_ elk or elks)  
 __escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
 __fare__ _n_  

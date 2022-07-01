@@ -636,7 +636,7 @@ __Arapahoe__
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
 __arbitration__ _n_ _Arbitration clause._  
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
-__arboretum__ _n_ :five::hammer:  
+__arboretum__ _n_ :six::hammer:  
 __arcade game__  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
@@ -730,7 +730,7 @@ __askance__ _adv_ :three::astonished: /uh-SKANSS/ __1__ With disapproval or dist
 __askew__ _adj_ /uh-SKYOO/ Askew means “out of line” or “not straight.” _Sam noticed the picture hanging on the wall was askew so she straightened it._  
 __asp__ _n_  
 __asparagus spears__ _n_ _BrE_ /əˈspærəɡəs spɪəz/ The succulent young shoots _of Asparagus officinalis_, which may be cooked and eaten.  
-__aspen__ _n_ :three::hammer: _Quaking aspen._ :es: chopo  
+__aspen__ _n_ :four::hammer: _Quaking aspen._ _Aspens turn the canyon golden by the end of September._ :es: chopo  
 __asperity__ _n_ Harshness of manner; ill temper or irritability. _Syn_ sharpness  
 __aspersion__ _n_  
 __asphalt__ _n_ _Asphalt rafts floating in the shore._ :es: chapapote  
@@ -915,7 +915,7 @@ __back-office__ _adj_ Of or relating to the inner workings of a business or inst
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
-__backcountry__ _n_ _Utah ski resorts offering backcountry adventures._  
+__backcountry__ _n_ :two::hammer: _Utah ski resorts offering backcountry adventures._  
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
@@ -1042,6 +1042,7 @@ __barbecue<sup>1</sup>__ _n_ :two::hammer: (barbeque) _Barbecue sauce._
 __barbecue<sup>2</sup>__ _v_ (barbecueing)  
 __barbed__ _adj_ __1__ Unkind and criticizing. _He was a targed for Jack’s barbed humor._ __2__ Having a sharp point that curves backwards.  
 __barbells__  
+__Barbershop music__ _n_ Barbershop vocal harmony, as codified during the barbershop revival era (1930s–present), is a style of a cappella close harmony, or unaccompanied vocal music, characterized by consonant four-part chords for every melody note in a primarily homorhythmic texture.  
 __barbs__ _n_ :two::hammer: _His sharp barbs._  
 __barded__ _v_  
 __bare-bones__ _adj_ Basic or simple; no-frills. _A bare-bones lab._  
@@ -1173,7 +1174,7 @@ __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger
 __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
 __beefy__ _adj_ :three: __1__ Of or like beef. __2__ _informal_ Muscular; brawny; thickset; heavy. __3__ Obese.  
-__Beehive State__ _n_ :three: Utah.  
+__Beehive State__ _n_ :four: Utah.  
 __beeline__  
 __beep-de-beep__  
 __beer gut__  
@@ -1512,6 +1513,7 @@ __blow one’s top at someone__
 __blow someone’s mind__  
 __blow torch__ _n_ :two::hammer:  
 __blow up__ _phr v_ To fill with air; inflate: _blow up a tire._ Inflate is a formal or technical word. In conversation, you usually say that you blow up a tyre, balloon, or airbed.  
+__blow-out__  
 __blowflies__ _n_  
 __blowgun__ _n_  
 __blowhard__ _n_ :two: A very boastful and talkative person. _Syn_ braggart, line-shooter, vaunter  
@@ -1763,6 +1765,7 @@ __brasserie__ _n_
 __brassiere__ _n_  
 __brassy__ _adj_ :two::hammer: _She is brassy, funny, and smart._  
 __bratty__  
+__bratwurst__ _n_  
 __bravado__ _n_ :five: If you act with bravado, you are making a bold showy statement. Picture a cowboy bursting through saloon doors in an old western, and you can picture bravado. The noun bravado is derived from the French and Italian words meaning “bragging and boasting,” and it is related to the word bravo. Today, the word means an almost-over-the-top amount of courage, but it can also be used (often with the word false) to mean a false show of bravery: “It was her first day in the classroom and she was almost shaking with fear, but with false bravado — she took a deep breath and turned to face her students — 20 kindergartners.” _Syn_ bluster _In a moment it was hand-to-hand fighting, and Trent was cursing already the bravado which had brought him out to the open._ _But I went into it with a certain bravado._  
 __brave__ _v_ :two::hammer:  
 __bravura__  
@@ -1838,7 +1841,7 @@ __Brisbane__ _n_ :mega: /ˈbrɪz beɪn, -bən/
 __brise-soleil__ _n_ (Architecture) a structure used in hot climates to protect a window from the sun, usually consisting of horizontal or vertical strips of wood, concrete, etc. _Brise-soleil shading._  
 __brisk__ _adj_ :five::hammer: _Brisk pace._ _A brisk walk._  
 __brisker__  
-__brisket__ _n_ :three::hammer:  
+__brisket__ _n_ :four::hammer:  
 __briskly__  
 __bristle<sup>1</sup>__ _n_ :four::mute:[bris~~t~~le]:hammer: (bristles)  
 __bristle<sup>2</sup>__ _v_ :six::mute:[bris~~t~~le] To behave in a way that shows you are very angry or annoyed: _bristle with rage._  
@@ -1985,6 +1988,7 @@ __bumbling__ _adj_
 __bumfuzzle__ _v_ _(Chiefly Southern US)_  
 __bummer__ _n_ _slang_ :four: A disappointing or unpleasant situation or experience.  
 __bump__ _n_ _A bump free flight._  
+__bumper boat__ _n_  
 __bumper cars__ _n_ :two::hammer:  
 __bumper__  
 __bumpers__ _n_ _The bumpers of vehicles._  
@@ -1997,7 +2001,7 @@ __bunch<sup>1</sup>__ _n_ _Bunches of grapes._
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
 __Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
 __bungalow__ _n_ :two::pencil2::hammer:  
-__bungee cord__ _n_ :camera::three::hammer:  
+__bungee cord__ _n_ :camera::four::hammer:  
 __bungee jumping__  
 __bungee rope__  
 __bungee running__  
@@ -3178,7 +3182,7 @@ __confederate<sup>2</sup>__ _n_
 __confer__ _v_ :two::hammer: (conferred)  
 __conference call__  
 __conferred__ _v_  
-__confidant__ _n_ :seven::hammer: (also confidante)  
+__confidant__ _n_ :eight: (also confidante) /KAHN-fuh-dahnt/ A confidant is someone to whom secrets are entrusted, and especially a very close friend. _She told only her closest confidant where she had buried the money._ _The longtime confidant of the disgraced mayor was also brought in for questioning._  
 __confide__ _v_ :five::hammer: (confided)  
 __confidence__  
 __config__ _n_ :mega: _A config file._  
@@ -4181,6 +4185,7 @@ __dimply__
 __dimwit__ _n_ :four::hammer: (dimwits)  
 __dimwitted__ _adj_ _slang_ Lacking in intelligence.  
 __din__ _n_ :nine::m: A loud, unpleasant, and prolonged noise. _The fans made an awful din._ _Those voices are lost in the din._ _Syn_ noise, racket, rumpus, ruckus, cacophony, babel :es: estruendo, ruido, estrépito, jaleo  
+__dine__ _v_  
 __ding up__ _v_ :two::hammer:  
 __ding__ _v_ :four::hammer: (dinged) _I am also getting tired of my property taxes being dinged._ _They were dinging me on their way out._  
 __dingbat__ _n_  
@@ -4366,6 +4371,7 @@ __ditty__ _n_ :three::hammer:
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
 __dive bar__ _n_ :two::hammer:  
+__dive__ _n_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
 __diversion__ _n_  
@@ -4725,7 +4731,7 @@ __duplicitous__ _adj_ :four: Given to or marked by deliberate deceptiveness in b
 __durable<sup>1</sup>__ _adj_ :three::hammer: _The end of durable Red John story line is a new beginning._  
 __durable<sup>2</sup>__ _n_  
 __duration__  
-__duress__ _n_ :nine: __1__ Compulsion by use of force or threat; constraint; coercion (often in the phrase _under duress_). _The ability to think under duress._ __2__ (Law) The illegal exercise of coercion. __3__ Confinement; imprisonment.  
+__duress__ _n_ :nine::m: /dur-RESS/ __1__ Compulsion by use of force or threat; constraint; coercion (often in the phrase _under duress_). _The ability to think under duress._ _The defense asserts that the defendant’s confession was made under duress._ __2__ (Law) The illegal exercise of coercion. __3__ Confinement; imprisonment.  
 __dust devils__  
 __dust jacket__ _n_ (dust cover, book jacket, jacket) A removable paper cover used to protect the binding of a book. _A wraparound dust jacket._  
 __dusters__ _n_ _My grandad sold dusters._  
@@ -4903,6 +4909,7 @@ __eligibility__
 __eligible__ _adj_  
 __elision__  
 __elite__ _n_ :two::hammer: (elites)  
+__elk__ _n_ (_n pl_ elk or elks)  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
 __elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
