@@ -11,8 +11,11 @@ __dog day afternoon__ An afternoon in the part of the summer often thought to be
 __dressed to kill__  
 __far and wide__  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
+__get a kick out of something__  
 __go head to head__  
 __grab a bite__  
+__greasy spoon__ A small restaurant or diner, especially one that serves fried foods. _Every time I go on a road trip, I make it a point to stop at a greasy spoon for at least one of my meals._ _Specialties at this greasy spoon include scones resembling fry bread with honey butter._  
+__gut bomb__ Any greasy, filling junk food.  
 __hands down__  
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
@@ -49,6 +52,7 @@ __pull an all-nighter__ To remain awake all night long, especially so as to stud
 __pull tabs__ (casino)  
 __push back__ :two::hammer:  
 __push the envelope__ :two::hammer: _Pushing the envelope of contemporary Japanese cuisine._  
+__put on a show__  
 __put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
@@ -159,6 +163,7 @@ __watering hole__ _Revelers can move around watering holes with impunity._
 __weather pemitting__  
 __weather permitting__  
 __well in advance__ _Book tickets well in advance._  
+__while away__  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
 __wipe the floor__  

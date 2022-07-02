@@ -70,6 +70,7 @@ __GWB__ George Washington Bridge.
 __GWTW__ Gone With The Wind.  
 __HDL-C__ High-density-lipoprotein cholesterol.  
 __HIV__  
+__HSIA__ High speed Internet access.  
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
 __ICU__ Intensive care unit.  
