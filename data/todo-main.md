@@ -1,18 +1,3 @@
-__alpine slide__ _n_  
-__amphitheater__ _n_ _Wind and water are responsible for the natural amphitheater._  
-__appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
-__appointed__ _adj_ :three: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
-__blue-ribbon__ _adj_ _Blue-ribbon fisheries._  
-__bookworm__ _n_  
-__brokerage__ _n_  
-__buttes__ _n_ _Colorful canyons, mesas and buttes._  
-__campground__  
-__capitol__ _n_  
-__caramel apple__ _n_  
-__chiffon__ _n_ _Try the heavenly lemon chiffon cake._  
-__coach__ _n_ _Deluxe motor coaches._  
-__coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
-__colander__ _n_  
 __collector__ _n_  
 __complimentary__ _adj_ _A complimentary breakfast buffet._  
 __cozies__ _n_ _Teapots, infusers, and cozies._  

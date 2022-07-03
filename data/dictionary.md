@@ -388,7 +388,7 @@ __aloof<sup>1</sup>__ _adj_ :six: /əˈluːf/ __1__ Emotionally reserved or indi
 __aloof<sup>2</sup>__ _adv_ In an aloof manner. _Held aloof._  
 __aloofness__  
 __alpaca__ _n_ :four::hammer:  
-__Alpine slide__ _n_  
+__alpine slide__ _n_ :two::hammer:  
 __alpine__ _n_ :three::hammer:  
 __also-ran__ _n_ _To become an also-ran._  
 __also-run__  
@@ -447,7 +447,7 @@ __amp up__ _phr v_ :two::hammer: (amped up, amping up)
 __amp__ _n_ _Amps & alcohol._  
 __amped-up__ _adj informal_ :four: (amped up) Filled with intense energy and excitement.  
 __amphibian__ _n_ :pencil2:  
-__amphitheater__  
+__amphitheater__ _n_ :two::hammer: _Wind and water are responsible for the natural amphitheater._  
 __ample__ _adj_ :nine: __1__ Enough or more than enough. _Ample evidence._ _There is ample time for discussion._ __2__ Fairly large or extensive. _Syn_ enough, sufficient, adequate, plenty of, abundant, more than enough, enough and to spare _Ample outdoor seating._ _Ample public seating areas._  
 __amplification__ _n_ __2__ Material added to a statement, story, etc, in order to expand or clarify it. _Corrections & Amplifications (newspaper section)._  
 __amply__  
@@ -606,6 +606,8 @@ __apple cart__
 __apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from fruit harvesters using long sticks to dislodge the hanging crop.] A country bumpkin. One of the many terms that city slickers applied to less sophisticated rural dwellers (“rube,” “hayseed,” and “Gomer” are others). Someone who hails from a rural place and is regarded as unworldly. _Ugh, those apple-knockers move too slow for life here in the big city._ __2__ An ignorant or unsophisticated person. __3__ A baseball player, especially a batter. __4__ A fruit picker, farmer, or seller.  
 __applesauce__  
 __applied science__ _n_  
+__appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
+__appointed__ _adj_ :three: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
 __apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine::m: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
@@ -1531,6 +1533,7 @@ __blue string__
 __blue-blood__  
 __blue-chip__ _adj_ :four::hammer: _A blue-chip airline._ _The blue-chip Dow Jones industrial aberage._  
 __blue-collar men__  
+__blue-ribbon__ _adj_ _Blue-ribbon fisheries._  
 __bluebell__ _n_  
 __bluegill__  
 __bluegrass__  
@@ -1653,7 +1656,7 @@ __bookplate__
 __bookrunner__  
 __bookshop__ _n_ :two: A bookstore.  
 __bookstall__ _n_  
-__bookworm__ _n_ Someone who enjoys reading books and spends a lot of time doing it.  
+__bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
 __boom__ _n_ :four::hammer: _Cargo booms._ _Log boom._  
@@ -1867,6 +1870,7 @@ __broken English__ _n_
 __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._  
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
+__brokerage__ _n_  
 __bromance__ _n_ :two::hammer:  
 __bromide__ _n_ __2a__ A commonplace remark or notion; a platitude. _Syn_ cliché __b__ A tiresome person; a bore.  
 __bronc__ _n_ A bronco. _Bull and bronc riding._  
@@ -2088,7 +2092,7 @@ __butt-fumble__
 __butt-strap__ _n_  
 __butt<sup>1</sup>__ _v_  
 __butt<sup>2</sup>__ _n_ A person or thing that is the object of abuse, criticism, or ridicule. _I was the butt of their jokes._  
-__butte__ _n_ /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._  
+__butte__ _n_ :two::hammer: /bjuːt/ _Visitors are amazed at the sight of giant buttes and mesas._ _Colorful canyons, mesas and buttes._  
 __butter pat__ _n_ a piece of butter formed into a ball or other ornamental shape for table use or an individual square cut from a quarter-pound stick of commercial butter. _Jack was mounding butter pats on his fourth hard roll._  
 __buttercups__  
 __butterfingered__ _adj_ Clumsy or careless, especially frequently dropping things.  
@@ -2238,7 +2242,7 @@ __camp<sup>2</sup>__ _adj_ _A classic camp comedy._
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __camper shell__  
 __camper__ _n_ :three::hammer: (campers) _Cars, trailers, boats & campers $45/month._  
-__campground__ _n_ :two: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
+__campground__ _n_ :three: An area used for setting up a camp or holding a camp meeting. _Leave the campground cleaner than you find it._ _Inshallah was a campground for indians, most likely Tonkawas but also possibly Comanches._  
 __camphor__ _n_ :two::hammer:  
 __campier__ _adj_ _Campier presentations._  
 __campiest__ _adj_ _Birdcage was probably Nichol’s campiest comedy._  
@@ -2293,6 +2297,7 @@ __caper<sup>2</sup>__ _v_
 __capers__ _n pl_  
 __capful__  
 __capitalize__ _v_  
+__capitol__ _n_  
 __Capitol__ _n_ The government building in Washington where the United States Senate and the House of Representatives meet.  
 __capitulate__ _v_ :three: (capitulated) __1__ To surrender under specified conditions: _The garrison capitulated after the bombardment._ __2__ To give up all resistance; acquiesce: _capitulate to the pressure of public opinion._ _Syn_ yield  
 __capitulation__  
@@ -2311,7 +2316,7 @@ __capuchin monkey__ _n_ :mega:
 __car sickness__  
 __carabiner__ _n_ :camera::three::hammer: :es: mosquetón  
 __carafe__ _n_ :two: The word carafe comes from the Arabic word “gharrafah” meaning “dipper” or “drinking vessel.”  
-__caramel apple__  
+__caramel apple__ _n_ :two::hammer:  
 __caramel corn__ _n_ Popcorn that has been mixed with a caramel topping.  
 __carapace__ _n_ :five: From French carapace (shell), from Spanish carapacho (shell). __1__ A hard shell on the back of animals such as turtles, crabs, etc. __2__ An attitude developed as a protective measure against something. _No one, not even Challenger, would see what lay beneath its stony carapace._  
 __carat__  
@@ -2638,7 +2643,7 @@ __chide__ _v_ :eight: (chided, chiding) __1__ To rebuke or scold. __2__ (tr) To 
 __chief<sup>1</sup>__ _adj_  
 __chief<sup>2</sup>__ _n_ (chiefs)  
 __chieftain__ _n_  
-__chiffon__ _n_  
+__chiffon__ _n_ :two::hammer: _Try the heavenly lemon chiffon cake._  
 __chilblain__ _n_ :five::mega: /ˈtʃɪl bleɪn/ (usually childblains) An inflammatory swelling or sore caused by exposure (as of the feet or hands) to cold.  
 __child rearing__ _n_ The process of taking care of and raising children. _Her husband is actively involved in child-rearing._  
 __child’s play__ _n_ _informal_ :two: Something that is easy to do. _It’s a child’s play._  
@@ -2926,7 +2931,7 @@ __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, ag
 __co-opted__ _v_  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
-__coach__ _n_ :two: __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
+__coach__ _n_ :three::hammer: _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
@@ -2965,6 +2970,7 @@ __coeval__
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee-table book__  
+__coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
 __coffers__ _n_ :seven: Financial resources; funds. _San Francisco city coffers._ _State’s coffers._ :es: arcas  
 __coffice__ _n_ _informal_ A coffee shop used as if it is one’s office. _The coffee shop down this street is my coffice for 3 hours every day._  
 __cog railway__  
@@ -2992,7 +2998,7 @@ __coincidental__
 __coincidentally__  
 __coir__ _n_ The fiber obtained from the husk of a coconut, used in making rope and matting and as a medium for cultivating plants. _Coir matting._ :camera:  
 __coke-bottle glasses__  
-__colander__ _n_ :two::hammer:  
+__colander__ _n_ :three::hammer:  
 __cold duck__  
 __cold shoulder__  
 __cold turkey__ _n_ :three: __1__ Complete and abrupt withdrawal of all addictive drugs or anything else on which you have become dependent. _He quit smoking cold turkey._ _She quit her job cold turkey._ __2__ A blunt expression of views. _I told him cold turkey._  
