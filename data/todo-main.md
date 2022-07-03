@@ -1,17 +1,24 @@
 __alpine slide__ _n_  
 __amphitheater__ _n_ _Wind and water are responsible for the natural amphitheater._  
+__appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
+__appointed__ _adj_ :three: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
 __blue-ribbon__ _adj_ _Blue-ribbon fisheries._  
 __bookworm__ _n_  
+__brokerage__ _n_  
 __buttes__ _n_ _Colorful canyons, mesas and buttes._  
 __campground__  
 __capitol__ _n_  
 __caramel apple__ _n_  
 __chiffon__ _n_ _Try the heavenly lemon chiffon cake._  
+__coach__ _n_ _Deluxe motor coaches._  
+__coffeemaker__ _n_ :two: (coffee maker) An apparatus used to brew coffee.  
 __colander__ _n_  
 __collector__ _n_  
 __complimentary__ _adj_ _A complimentary breakfast buffet._  
 __cozies__ _n_ _Teapots, infusers, and cozies._  
+__cradle__ _v_ (cradling)  
 __crag__ _n_  
+__creek__ _n_  
 __cuppa__ _n_  
 __dazzling__ _adj_  
 __decidedly__ _adv_ _It’s offering a decidely fresh atmosphere._  
@@ -26,9 +33,11 @@ __fare__ _n_
 __flaunt__ _v_  
 __flock__ _v_  
 __forklift__ _n_  
+__free range__  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __gestalt__  
+__getaway__ _n_ __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation.  
 __gladiola__ _n_  
 __gnarly__ _adj_ _Mountain bikers pedal gnarly mountain bike routes._  
 __grana padano__  
@@ -74,7 +83,7 @@ __hibachi__ _n_
 __hickory__ _n_ _Hickory charcoal-grilled steaks._  
 __highlands__  
 __hiker__ _n_ :two::hammer:  
-__hip__ _adj_ _Hip restaurants._  
+__hip__ _adj_ :two::hammer: _Hip restaurants._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
 __hokum__ _n_ __1__ Utter nonsense; bunkum.  
@@ -115,6 +124,7 @@ __impresario__ _n_
 __incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
 __incidentally__ _adv_ :two::hammer:  
 __inconspicuous__ _adj_  
+__indelible__ _adj_  
 __Indian paintbrush__ _n_  
 __inebriated__  
 __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
@@ -369,6 +379,7 @@ __obese__ _adj_ /əʊˈbiːs/ /oʊˈbis/
 __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help organizing the event, and I was happy to oblige._ __2__ To do something as a favor, or as though it is a favor. __3__ To force or require someone to do something. _The law obliges the government to make this information public._  
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
+__occasion__ _n_ An event that occurs at a critical time. _It was needed only on special occasions._  
 __octopi__ _n pl_ A plural of octopus.  
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
@@ -676,6 +687,7 @@ __seafaring<sup>2</sup>__ _adj_ _A seafaring connection._
 __seafood__ _n_  
 __sealioning__ _n_ A critical term for a form of trolling that involves relentlessly pestering someone with questions and requests (such as for evidence or sources), typically with the goal of upsetting them and making their position or viewpoint seem weak or unreasonable. _Scientists with prominent social media presences know that sealioning is a very common way for trolls to try to fluster them and waste their time._  
 __searing__ _adj_ /ˈsɪərɪŋ/ __1__ Burning. __2__ Intense. __3__ Fierce; highly critical. _Shakespeare’s searing tragedy._  
+__seasonal pool__ _n_ A pool that is opened for a few months during the calendar year, is then closed and reopens the next year during the same approximate time period.  
 __seat sticks__  
 __seating__ _n_ _Plenty of garden seating._  
 __secluded__ _adj_  
@@ -732,6 +744,7 @@ __skate__ _n_ _Need skates? Rent them for $10._
 __skeeball__ _n_  
 __skeleton__ _n_ __6a__ A sport in which a person glides down an icy track head-first lying on one’s stomach on a compact, simple sled that lacks steering or brakes. __b__ The sled used in such a sport.  
 __skewer__ _n_ _Skewers of meats, vegetables, and fruits._  
+__ski-in/ski-out resort__ _n_ :two: A ski-in ski-out resort is basically one that borders a mountain. It’s where skiers are able to ski in and out of the resort without having to use any form of transportation.  
 __skit__ _n_ :two::hammer: _Skit theater._  
 __sleazy__ _adj_  
 __sleek__ _adj_ :two::hammer: _A sleek shopping center._  
@@ -760,6 +773,7 @@ __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not excl
 __spaz__  
 __speakeasy__ _n_ :two::hammer:  
 __speedway__ _n_  
+__sphinx__ _n_  
 __spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
 __spinner__ _n_  
 __spiral__ _v_ _It spirals out of control._  
@@ -814,6 +828,7 @@ __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches e
 __strife__ _n_  
 __strifle__ _n_  
 __stripy__ _adj_ Marked with or suggestive of stripes; striped.  
+__strive__ _v_  
 __strobe lights__  
 __stuck-up__ _adj_ _informal_ Conceited, arrogant, or snobbish. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __stuffed__ _adj_ _Even if you’re stuffed, dessert is a must._  
@@ -890,6 +905,7 @@ __thoroughfares__ _n_ :two::hammer:
 __thought-provoking__  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
+__thrifty__ _adj_ _Thrifty car rental._  
 __throat__ _n_ _Throat clearing._  
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
@@ -943,6 +959,7 @@ __tuck away__ _v_
 __tuck__ _v_ (tucked)  
 __tuition__ _n_  
 __turmeric__ _n_ :two::hammer:  
+__turndown service__ _n_ The practice of staff entering a guest’s room and “turning down” the bed linen of the bed in the room, preparing the bed for use.  
 __turntable__ _n_  
 __turntables__ _n_  
 __turpitude__ _n_ /TER-puh-tood/ Turpitude refers to inherent lack of integrity or morality, or to an evil or immoral act. It is frequently used in legal contexts in the phrase “moral turpitude.” _Crimes such as theft and perjury may involve moral turpitude._  

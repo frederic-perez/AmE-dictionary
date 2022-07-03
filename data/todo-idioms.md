@@ -1,3 +1,4 @@
+__411__ (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
 __a bird’s eye view__  
 __a laundry list of (something)__ :dart: A very lengthy, thorough list of items. _I have a laundry list of projects I need to get done before Friday._  
 __al fresco__  
@@ -9,17 +10,21 @@ __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it
 __cry foul__  
 __dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
 __dressed to kill__  
+__fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __far and wide__  
+__float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
 __get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
 __get a kick out of something__  
+__go along__  
 __go head to head__  
 __grab a bite__  
 __greasy spoon__ A small restaurant or diner, especially one that serves fried foods. _Every time I go on a road trip, I make it a point to stop at a greasy spoon for at least one of my meals._ _Specialties at this greasy spoon include scones resembling fry bread with honey butter._  
+__ground zero__ __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __gut bomb__ Any greasy, filling junk food.  
 __hands down__  
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
-__in the know__  
+__in the know__ :two::hammer:  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __make a splash__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
@@ -31,6 +36,7 @@ __objection hearsay__
 __off-kilter__  
 __oh, my__  
 __on location__ _Filmed on location._  
+__on par (with someone or something)__  
 __on the go__  
 __one of a kind__  
 __one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
@@ -44,6 +50,7 @@ __Peter Pan syndrome__ A psychological state or condition in which a grown perso
 __picture perfect__  
 __pit stop__  
 __place your bets__  
+__play it straight__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
 __popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
 __Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
@@ -81,14 +88,17 @@ __screw (one’s) courage to the sticking place__ To remain bold, resolute, dete
 __second-guess__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
+__set (something) out__  
 __set the pace__  
 __seventh heaven__  
+__shed (some) light on (something)__  
 __shoot for the stars__  
 __shoot the breeze__  
 __simply put__ :two::hammer:  
 __sing along__  
 __sleep in__  
 __sneeze at__  
+__social hour__ :two: Time spent talking and hanging out with people.  
 __spin the beans__  
 __spot-on__  
 __squashed (in) like sardines__ Very tightly or snugly packed together, especially in a small space. Alludes to the way in which sardines are packed closely together during canning. _We didn’t want to take more than one car, so we had to drive for about four hours squashed like sardines in Jeff’s little sedan._  
@@ -132,7 +142,7 @@ __the terrible twos__ A developmental stage of children, generally at or around 
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  
-__then again__  
+__then again__ :two::hammer:  
 __there and back__ Taking the distances to the end point and back to the beginning together as a single sum. _Look, the hike is nearly 12 miles there and back, so we’d better get going if we want to be home before dark._  
 __things that go bump in the night__ Frightful, deadly, and usually supernatural things or events that one imagines in the dark of night. _When I was a kid, I hated staying in my grandparents’ spooky old house because I was always kept awake by thoughts of ghosts, axe murderers, and other things that go bump in the night._  
 __this, that, and the other__ Miscellany; a lot of different, varying things. _I really need to sort through this drawer. It has this, that, and the other in it, but I can never find what I’m actually looking for!_  
@@ -149,7 +159,7 @@ __to perfection__ In a way or to a degree that is exactly right. _Cooked to perf
 __to the core__ _Charming to the core._  
 __tongue-in-cheek__  
 __touch base__ :two::hammer:  
-__tour de force__  
+__tour de force__ :two::hammer:  
 __treasure hunt__  
 __tricks up one’s sleeve__ _Chicago has a few tricks up its sleeve._  
 __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or exclude someone or something; to abandon, give up on, or forsake someone or something. _It’s clear that the company has turned its back on customers._  
@@ -163,6 +173,7 @@ __watering hole__ _Revelers can move around watering holes with impunity._
 __weather pemitting__  
 __weather permitting__  
 __well in advance__ _Book tickets well in advance._  
+__what’s up with__  
 __while away__  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
