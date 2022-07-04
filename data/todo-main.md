@@ -1,3 +1,5 @@
+__backcountry__ _n_  
+__champagne powder__ _n_  
 __collector__ _n_  
 __complimentary__ _adj_ _A complimentary breakfast buffet._  
 __cozies__ _n_ _Teapots, infusers, and cozies._  
@@ -21,7 +23,7 @@ __forklift__ _n_
 __free range__  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
-__gestalt__  
+__gestalt__ _n_ :two::hammer:  
 __getaway__ _n_ __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation.  
 __gladiola__ _n_  
 __gnarly__ _adj_ _Mountain bikers pedal gnarly mountain bike routes._  
@@ -97,6 +99,7 @@ __humidor__ _n_ _(cigars, pipes)_
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hydroponic__ _adj_  
 __hyperbolic__  
+__ice-cold__ _adj_  
 __icicles__ _n_  
 __identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __idiopathic__  
@@ -317,6 +320,7 @@ __munitions__ _n_
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
 __mushy__ _adj_ :two::hammer: _Mushy peas._  
+__mussel__ _n_ :pencil2:  
 __myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
 __myofascial__ _adj_  
 __myopic__ _adj_  
@@ -346,6 +350,7 @@ __nightcap__ _n_ _A romantic nightcap._
 __nightcaps__  
 __nimrod__ _n_  
 __nitty-gritty__ _n_  
+__no-frills__ _adj_ _informal_  
 __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._  
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
@@ -499,6 +504,7 @@ __potentate__ _n_ One who has the power and position to rule over others. _Syn_ 
 __potsticker__ _n_  
 __potty-train__ _v_  
 __poutine__  
+__powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
@@ -589,6 +595,7 @@ __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se di
 __respite__ _n_ :two::hammer:  
 __resplendent__ _adj_ :pencil2:  
 __restaurateur__ _n_  
+__retiree__ _n_  
 __retrace__ _v_  
 __retsina__ _n_  
 __revel__ _v intr_ :two::hammer:  
@@ -830,6 +837,7 @@ __Sullivan__ _n_ :mega:
 __sultry__ _adj_  
 __sum up__  
 __summertime__ _n_ :pencil2:  
+__summiteer__ _n_ :astonished: An official who takes part in a summit conference.  
 __sumptuous__ _adj_ :two: /SUMP-shuh-wus/ Things that are extremely costly, rich, luxurious, or magnificent. _The hotel’s most sumptuous suite overlooks the lush gardens and includes a palatial marble bathroom with a spa and a commodious, intricately tiled walk-in shower._ _A sumptuous Sunday feast._  
 __suncatcher__ _n_  
 __sundae__ _n_  
@@ -885,9 +893,9 @@ __The Crown__ _n_
 __theatregoer__ _n_  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thoroughbred__  
-__thoroughfare__ _n_ :two::hammer: _A vibrant shopping thoroughfare._  
-__thoroughfares__ _n_ :two::hammer:  
+__thoroughfare__ _n_ :five::hammer: _A vibrant shopping thoroughfare._  
 __thought-provoking__  
+__thoughtful__ _adj_  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
 __thrift__ _n_ _Thrift store._  
 __thrifty__ _adj_ _Thrifty car rental._  
@@ -898,6 +906,7 @@ __throughout__
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
 __thyme__ _n_ :two::mega::hammer:  
+__ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
 __tight__ _adj_ _Are you on a tight schedule?_  
 __tikkamassala__ _n_  
@@ -922,6 +931,7 @@ __topiary__ _adj, n_ :three::hammer: _Topiary garden._
 __toppings__ _n_  
 __torrid__ _adj_ Scorching; burning. _Syn_ fervent, fiery, ardent, burning _The torrid noonday sun shone down on the travelers in the desert._  
 __tote bag__ _n_  
+__tout__ _v tr_  
 __towpath__  
 __trailhead__ _n_ :two::hammer:  
 __trashy__  
@@ -1020,7 +1030,7 @@ __wherry__ _n_
 __whimsical__ _adj_  
 __whiplash__ _n_ _An amazing, whiplash-inducing performance._  
 __whirlpool__ _n_  
-__whisk__ _v_  
+__whisk__ _v_ :two::hammer: _The Aerial Tram whisks skiers up 2,900 feet in just 10 minutes._  
 __whiskey sour__ _n_ A cocktail made with whiskey, lemon juice, and sugar.  
 __white-knuckled__  
 __whodunnit__ _n informal_  

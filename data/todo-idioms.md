@@ -7,9 +7,11 @@ __be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was 
 __be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
 __bridge the gap__  
 __bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
+__by the bucketful__  
 __cry foul__  
 __dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
 __dressed to kill__  
+__elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
 __fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __far and wide__  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
@@ -25,8 +27,10 @@ __hands down__
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
 __in the know__ :two::hammer:  
+__knuckle-dragger__ A stupid, oafish person, especially a large man. An allusion to an ape. Often spelled without a hyphen. _My sister has started dating some knuckle-dragger she met down at the gym, much to my parents’ chagrin._  
 __light-fingered__ Adept at or given to thievery (as or as if due to having dexterous, nimble fingers). _Oh yeah, Joss was light-fingered as a teen. She got busted for shoplifting twice!_  
 __make a splash__  
+__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not hold water__ _Fortunately, most of those tales don’t hold water._  
 __not to mention__  
@@ -177,6 +181,7 @@ __what’s up with__
 __while away__  
 __while supplies last__ :two::hammer:  
 __while the night__ _Anyone who is anyone has whiled the night away here._  
+__white-knuckle__  
 __wipe the floor__  
 __with a twist__ :two::hammer:  
 __within walking distance__  
