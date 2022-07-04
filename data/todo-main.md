@@ -1,18 +1,3 @@
-__backcountry__ _n_  
-__champagne powder__ _n_  
-__collector__ _n_  
-__complimentary__ _adj_ _A complimentary breakfast buffet._  
-__cozies__ _n_ _Teapots, infusers, and cozies._  
-__cradle__ _v_ (cradling)  
-__crag__ _n_  
-__creek__ _n_  
-__cuppa__ _n_  
-__dazzling__ _adj_  
-__decidedly__ _adv_ _It’s offering a decidely fresh atmosphere._  
-__dnowbird__ _n_  
-__duffer__ _n_  
-__Dutch oven__ _n_ :two::hammer:  
-__Dutch__ _adj_ _Dutch licorice._  
 __eccentricity__ _n_  
 __escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  

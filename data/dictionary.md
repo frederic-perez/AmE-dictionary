@@ -917,7 +917,7 @@ __back-office__ _adj_ Of or relating to the inner workings of a business or inst
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
-__backcountry__ _n_ :two::hammer: _Utah ski resorts offering backcountry adventures._  
+__backcountry__ _n_ :three::hammer: _Utah ski resorts offering backcountry adventures._  
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
@@ -2525,6 +2525,7 @@ __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and d
 __chamomille__  
 __champ__ _n informal_ :three: /tʃæmp/ Short for champion.  
 __champagne flutes__ _n_ :camera:  
+__champagne powder__ _n_  
 __champion__ _n_ :mega:  
 __champurrado__ _n_  
 __chance__ _v_ _A: No, I couldn’t let you do that—you might get killed or badly hurt. B: I’ll chance it._  
@@ -3018,6 +3019,7 @@ __collateral damage__
 __colleague__ _n_ :three::mega::mute:[colleag~~u~~e] /KAH-leeg/  
 __collect__ _v_ _Click and collect._  
 __collectible__ _n_  
+__collector__ _n_  
 __college__ _n_ :mega:  
 __collimate__ _v_ __1__ To make parallel; line up. __2__ To adjust the line of sight of (an optical device).  
 __collinear__ _adj_ :pencil2:  
@@ -3115,7 +3117,7 @@ __complex__ _adj, n, v_ :mega:
 __compliance__ _n_ :three::hammer: _Compliance guy._  
 __compliant__  
 __complicit__  
-__complimentary__ _adj_ :eight::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
+__complimentary__ _adj_ :nine::pencil2::hammer: _Complimentary rooms._ _Complimentary popcorn._ _Notice the complimentary nature of the two deﬁnitions._ _A complimentary breakfast buffet._ _A complimentary glass of house wine._ _Complimentary parking._ _Many hotels provide complimentary airport shuttle service._  
 __comply__ _v_ :two::hammer:  
 __composite__ _adj_ :two::mega::hammer: _Composite decking._  
 __compost__ _v_  
@@ -3480,7 +3482,8 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
-__cozy__ _adj_ :two::hammer: _A modern, cozy oasis of culinary delights._  
+__cozy<sup>1</sup>__ _adj_ :two::hammer: _A modern, cozy oasis of culinary delights._  
+__cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
 __crabwise__ _adv_ __1__ Sideways. __2__ In a sidling or cautiously indirect manner.  
@@ -3497,11 +3500,12 @@ __cracklings__ _n_
 __crackpot__ _n_ :three: An eccentric person, especially one with bizarre ideas. _A reputation as a ridiculous crackpot._  
 __crackpot<sup>1</sup>__ _n_  
 __crackpot<sup>2</sup>__ _adj_  
+__cradle__ _v_ (cradling)  
 __craft beer money__  
 __craft__ _n_ :four::hammer: (crafts) _Craft sake._  
 __craftman__  
 __crafty__  
-__crag__ _n_ :three::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
+__crag__ _n_ :four::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
 __craggy__ _adj_ :five::hammer:  
 __crakle__ _v_ _The phone collection crackles._  
@@ -3542,7 +3546,7 @@ __credenza__ _n_
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
 __credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
-__creek__ _n_ :two::hammer: _An older house on a creek._  
+__creek__ _n_ :three::hammer: _An older house on a creek._  
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated weir__  
@@ -3696,7 +3700,7 @@ __cuneiform__
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupidity__ _n_ :three::astonished::hammer:  
 __cupolas__ _n_  
-__cuppa__ _n_ :three: A cup of tea.  
+__cuppa__ _n_ :four: A cup of tea.  
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
@@ -3897,7 +3901,7 @@ __decanter__ _n_ :two::hammer:
 __decathlon__  
 __deceit__ _n_ :two::hammer:  
 __decelerate__ _v_  
-__decidedly__ _adv_ Without question and beyond doubt. _It was decidedly too expensive._  
+__decidedly__ _adv_ :pencil2: Without question and beyond doubt. _It was decidedly too expensive._ _It’s offering a decidely fresh atmosphere._  
 __decidious__ _adj_  
 __decimate__ _v_ :two::astonished::mega: /DESS-uh-mayt/ __1__ To reduce drastically especially in number. _Budget cuts have decimated public services throughout the state._ __2__ To cause great destruction or harm to. _The landscape is decimated by pollution._ _It decimated their relationship._  
 __decimation__ _n_ :two::hammer: (Roman army punishment)  
@@ -4703,7 +4707,7 @@ __due<sup>1</sup>__ _adj_
 __due<sup>2</sup>__ _n_  
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
 __duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
-__duffer__ _n informal_ :five: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
+__duffer__ _n informal_ :six: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __dug__ _n_  
 __dugout__ _n_ :two::hammer:  
@@ -4745,6 +4749,8 @@ __dustman__
 __dustpan__ _n_ :two::hammer: :es: recogedor  
 __dustup__ _n_ An angry dispute. _Syn_ quarrel, run-in, wrangle, row, words _The teacher put a stop to the boys’ dustup before it could come to blows._  
 __dusty__ _adj_ _A dusty brand._  
+__Dutch oven__ _n_ :two::hammer:  
+__Dutch__ _adj_ _Dutch licorice._  
 __duty__ _n_ :two::hammer: _Characteristic Roman inventions were concrete for building and the import duty, the last having originated as a piece of emergency taxation during the Second Punic War._  
 __dwadle__ _v_ __1__ Walk slowly, lag behind. __2__ To spend time idly.  
 __dwell__ _v_ :two::hammer:  
@@ -13954,6 +13960,7 @@ __snow monkey__ _n_ The Japanese macaque, Macaca fuscata.
 __snowball<sup>1</sup>__ _n_  
 __snowball<sup>2</sup>__ _v_  
 __snowbank__ _n_ A pile or heap of snow. _He was driving and crashed into a snowbank._  
+__snowbird__ _n_  
 __snowcat__ _n_ :two::hammer: _Snowcat ride._  
 __snowdrifts__  
 __snowflake__ _n_ __4__ _slang_ A person who is considered to be overly sensitive or too easily offended, especially as a result of believing himself or herself to be unique or special.  
