@@ -1,18 +1,3 @@
-__abracadabra__ _n_  
-__analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
-__apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
-__crapulous__  
-__debunk__ _v_ :two: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. _The article thoroughly debunks the notion that life exists on Mars._  
-__diminution__ _n_ Change toward something smaller or lower. _Syn_ decline _The thermometer indicated a certain diminution of temperature._  
-__draconian__ _adj_  
-__eccentricity__ _n_  
-__escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
-__escarpment__ _n_ A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
-__ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
-__fare__ _n_  
-__flaunt__ _v_  
-__flock__ _v_  
-__forklift__ _n_  
 __free range__  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  

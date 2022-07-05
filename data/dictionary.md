@@ -68,7 +68,7 @@ __abound__ _v_ :five::hammer: _Deceptive design patterns abound on shopping site
 __about-face__  
 __aboveboard<sup>1</<up>__ _adj_ :two: Without concealment or deception; honest. _Aboveboard person._ _Their business was open and aboveboard._  
 __aboveboard<sup>2</<up>__ _adv_  
-__abracadabra__ _n_  
+__abracadabra__ _n_ :two::hammer:  
 __abrade__ _v_  
 __abrasive__ _adj_ /uh-BRAY-siv/ _Customer service requires being able to satisfy the polite subscribers but also the abrasive ones who argue with the terms of agreement._  
 __abreast__ _adv_ :seven: Side by side and facing the same way. _The path was wide enough for two people to walk abreast._ _Syn_ in a row, side by side, alongside :es: de frente, a la par, en la fila, uno al lado de otro _They rode three abreast back through the city to the palace._  
@@ -456,6 +456,7 @@ __amusement park__ _n_ :two::hammer:
 __anachronism__  
 __anal bleaching__ _n_  
 __analgesic__ _n_ A medicine used to relieve pain. _Syn_ anodyne, painkiller _An over-the-counter analgesic is not going to suffice for this pain._  
+__analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
 __analogy__ _n_ An analogy is a comparison between two similar things, typically using figurative language. Metaphors and similes—more on them later—are usually considered to be types of analogies. Sometimes, analogies are considered to be a unique device that is a comparison that explains itself; basically, a complex metaphor or long simile. Example: Life is like a box of chocolates: you never know what you are going to get.  
 __analyst__ _n_ :pencil2:  
 __anaphora__ _n_ Anaphora is the repetition of a word or words at the start of phrases, clauses, or sentences. Example: I came, I saw, I conquered. Martin Luther King Jr’s “I Have A Dream” speech is a classic example of anaphora.  
@@ -609,6 +610,7 @@ __applied science__ _n_
 __appoint__ _v_ __3__ To furnish; equip: _a house that is comfortably appointed._  
 __appointed__ _adj_ :three: __3__ Provided with furnishing and accessories (especially of a tasteful kind). _A house that is beautifully appointed._ _155 well appointed guestrooms._  
 __apportion__ _v_ :three: (apportioned) Give out as one’s portion or share. _Syn_ divvy up, share, deal  
+__apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
 __apposition__ _n_ :two::hammer: (grammar)  
 __appraisal__ _n_ :nine::m: (appraisals) __1__ A statement or opinion judging the worth, value, or condition of something. __2__ An expert or official valuation, as for taxation. _An insurance appraisal._ _Free appraisals._  
 __appraise__ _v_ :two::hammer: (appraised) _The home was appraised in 2007._  
@@ -3517,7 +3519,7 @@ __crank<sup>1</sup>__ _n_ :four::hammer: _informal_ _A fringe crank._ _Try a tel
 __crank<sup>2</sup>__ _v_ :three::hammer: _Cranked the engine._  
 __crappie__  
 __crapshoot__  
-__crapulous__ _adj_ :two: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
+__crapulous__ _adj_ :three: __1__ Marked by intemperance especially in eating or drinking. __2__ Sick from excessive indulgence in liquor.  
 __crash blossom__ _n_ An ambiguously worded news headline that can have a confusing or humorous interpretation. Crash blossom examples: Doctors Help Bee Sting Victims, Dead Man Remains Discovered by Police.  
 __crash course__  
 __crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
@@ -3886,7 +3888,7 @@ __debriefing__ _n_ :seven::hammer: _You must show up at least 15 minutes early f
 __debris__  
 __debt__ _n_ :three::mega::mute:[de~~b~~t]:hammer:  
 __debtor__ _n_  
-__debunk__ _v_ :two::hammer:  
+__debunk__ _v_ :four: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. _The article thoroughly debunks the notion that life exists on Mars._  
 __deburr__ _v_  
 __debut__ _adj, n, v_ :mute:[debu~~t~~]  
 __debutante__  
@@ -4188,6 +4190,7 @@ __dim<sup>2</sup>__ _v_ (dimmed) :two::hammer:
 __dime > on the dime__  
 __diminish__ _v_  
 __diminishing returns__  
+__diminution__ _n_ Change toward something smaller or lower. _Syn_ decline _The thermometer indicated a certain diminution of temperature._  
 __dimly__ _adv_ _He was dimly aware of it._  
 __dimpled__ _v_ :five::hammer:  
 __dimples__ _n_ :three::hammer: _They look like dimples in oatmeal now._  
@@ -4564,7 +4567,7 @@ __doze__ _v_
 __Dr. Seuss__ _n_ United States writer of children’s books (1904-1991).  
 __drab<sup>1</sup>__ _adj_ :six: (drabber jobs) Dull or commonplace in character; dreary: _a drab personality._ _Drab cities._ _A drab office._  
 __drab<sup>2</sup>__ _n_  
-__draconian__ _adj_ :six: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
+__draconian__ _adj_ :seven: /dray-KOH-nee-un/ Draconian means “cruel“ or “severe.” It is usually used to describe harsh laws, rules, or regulations. Extremely strict and severe. _Small businesses believe that the new tax is draconian._  
 __draft__ _v_ :three::astonished::hammer: _Please, draft two messages._ _Drafting the Defense Ministry’s basic policy._ _Pam spent some time drafting the latest e-mail._  
 __drafter__ _n_  
 __drag > in drag__ _n_ The clothing characteristic of one sex when worn by a member of the opposite sex: _an actor in drag._ _This memorable and controversial video [I want to break free] (which was banned by MTV in the U.S. until 1991) was a parody of UK soap opera Coronation Street. All of the band members dressed in drag._  
@@ -4818,6 +4821,7 @@ __ebb<sup>2</sup>__ _v_
 __ebullience__ _n_  
 __ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
+__eccentricity__ _n_  
 __echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
 __echo__ _n, v_ :mute:[ec~~h~~o]  
@@ -5136,12 +5140,12 @@ __erupt__ _v_ :two::hammer: (erupted)
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
 __erythro-__ _pref_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
-__escalate__ _v_ :two::hammer:  
+__escalate__ _v_ :three: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
-__escarpment__ _n_  
+__escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __eschatology__ _n_ :astonished: /es-kuh-TOL-uh-jee/ [:scroll: From Greek eschatos (last) + -logy (study).] The doctrine or the study of final or ultimate matters, such as, death, judgment, end of the world, etc. _He wished to learn the eschatology of the world; he dared to contemplate the Mind of God._  
 __eschew__ _v_ :two: (Formal) To deliberately avoid or keep away from something: _He had eschewed politics in favour of a life practising law._ _Eschewing commas._  
 __escrow__ _n_ :four: __1__ A deposit or fund held in trust or as a security. _An escrow account._ __2__ The state of being kept in custody or trust until a specified condition has been fulfilled. _The board holds funds in escrow._ :es: depósito, garantía  
@@ -5161,6 +5165,7 @@ __establish__ _v_ _Established 1978._
 __estate__ _n_ _A lavish castle surrounded by 600 acres of state._  
 __esteem__ _v_ _Our esteemed allies._  
 __esteemed__ _adj_  
+__ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
@@ -5776,7 +5781,7 @@ __flats__ _n_
 __flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
-__flaunt__ _v_ :four::hammer: (flaunting)  
+__flaunt__ _v_ :five::hammer: (flaunting)  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
@@ -5828,7 +5833,8 @@ __float<sup>1</sup>__ _n_ :four::hammer: _The float of the firm._ _People pull a
 __float<sup>2</sup>__ _v_ :four::hammer:  
 __floater__ _n_ :four::hammer: (floaters) _(Basketball)_ _I wonder how I missed so many floaters._  
 __floaties__  
-__flock__ _n_  
+__flock<sup>1</sup>__ _n_  
+__flock<sup>2</sup>__ _v_  
 __floe__ _n_ :two::hammer: _Ice floe._  
 __flog a dead horse__  
 __flog__ _v_ :four::hammer: (flogged, flogging)  
@@ -6001,7 +6007,7 @@ __forgiving__ _adj_
 __forgo__ _v_ :nine::m: (forgoes) Go without (something desirable). _Syn_ do without, go without, give up _Iran could simply forgo all indigenous nuclear power development._ _The Black Prince refused to forgo the battle._ :es: abstenerse de  
 __forgone__  
 __fork__ _n, v_ _Gordon at fork in the road._  
-__forklift__  
+__forklift__ _n_ :two::hammer:  
 __forlorn__ _adj_ :nine::m: __1__ Pitifully sad and abandoned or lonely. _Forlorn figures at bus stops._ _Syn_ unhappy, sad __2__ (of an aim or endeavour) Unlikely to succeed or be fulfilled. _A forlorn attempt to escape._ _A forlorn dream._ _Syn_ hopeless, with no chance of success, beyond hope  
 __forlornly__  
 __formals__ _n_  
