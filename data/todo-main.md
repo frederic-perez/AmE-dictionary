@@ -1,5 +1,13 @@
+__abracadabra__ _n_  
+__analogue__ _n_ Something that bears an analogy to something else. _Syn_ parallel _Surimi is marketed as an analogue of crabmeat._  
+__apposite__ _adj_ Appropriate or relevant: _chose an apposite name for the dog; felt the comments were not apposite to the discussion._  
+__crapulous__  
+__debunk__ _v_ :two: /dee-BUNK/ To debunk something, such as a story, theory, or idea, is to show or expose the falseness of it. _The article thoroughly debunks the notion that life exists on Mars._  
+__diminution__ _n_ Change toward something smaller or lower. _Syn_ decline _The thermometer indicated a certain diminution of temperature._  
+__draconian__ _adj_  
 __eccentricity__ _n_  
 __escalate__ _v_ To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
+__escarpment__ _n_ A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
 __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._  
 __fare__ _n_  
 __flaunt__ _v_  
@@ -8,6 +16,7 @@ __forklift__ _n_
 __free range__  
 __fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
+__galvanize__ _v_  
 __gestalt__ _n_ :two::hammer:  
 __getaway__ _n_ __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation.  
 __gladiola__ _n_  
@@ -15,6 +24,7 @@ __gnarly__ _adj_ _Mountain bikers pedal gnarly mountain bike routes._
 __grana padano__  
 __granddaddy__ _n_ :pencil2:  
 __gridiron__ _n_  
+__grimoire__ _n_ A book of magical knowledge, especially one containing spells.  
 __gritty__ _adj_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
 __gussied up__ _v_  
 __hallmark__ _n_ _High fashion is the hallmark of that boutique._  
@@ -37,6 +47,7 @@ __headline__ _v_ _Prize-winning steaks headline the menu._
 __headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is most often used figuratively to describe something done either in a reckless manner or without pause or delay. _He’s impulsive and often rushes headlong into new endeavors, giving little thought to long-term viability._  
 __headroom__ _n_  
 __heady__ _adj_ :two::hammer: _Heady events._  
+__hearsay__ _n_ __1__ Unverified information heard or received from another; rumor. __2__ (Law) A statement made out of court and not under oath which is offered as proof that what is stated is true.  
 __heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
 __hearty__ _adj_ _Hearty portions._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
@@ -180,6 +191,7 @@ __line up__ _v_ _Huge crowds are lining up._
 __lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __lintel__ _n_  
 __liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
+__lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
 __loanword__ _n_  
@@ -277,8 +289,9 @@ __mixologist__
 __mnemonic__ _n_ A device, such as a formula or rhyme, used as an aid in remembering. _Syn_ aide-memoire _The students came up with a mnemonic to help themselves remember the colors of the rainbow._  
 __moated__ _adj_ _The moated palace of King Edwin._  
 __Mogollon Rim__ _n_ A rugged escarpment of east-central Arizona forming the southern edge of the Colorado Plateau.  
-__mogul__ _n_  
+__mogul__ _n_ :two::hammer:  
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
+__mojo__ _n_  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
 __moniker__ _n informal_  
@@ -368,6 +381,7 @@ __omnibus__ _n_
 __one-of-a-kind__ _adj_ Unique.  
 __one-off__ _adj_ :two::hammer: _One-off handcrafted pieces._  
 __op-ed__ _adj, n_ :mega:  
+__open sesame__ _n_ __1__ Any very successful means of achieving a result. __2__ A magical command; used by Ali Baba.  
 __openhanded__ _adj_ [:scroll: The figurative meaning alludes to someone giving money or other things away with an open hand.] __1__ Done with or having an open hand: _an openhanded karate chop._ __2__ Giving freely; generous. _Syn_ liberal  
 __operating system__  
 __opulent__ _adj_  
@@ -746,6 +760,7 @@ __sobriquet__ _n_ (soubriquet)
 __socialite__  
 __sonnet__ _n_  
 __sought-after__  
+__southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spaz__  
 __speakeasy__ _n_ :two::hammer:  
@@ -781,6 +796,8 @@ __statesman__ _n_ :two::hammer:
 __stationer__ _n_  
 __statuary<sup>1</sup>__ _n_ :es: estatuas  
 __statuary<sup>2</sup>__ _adj_  
+__staycation<sup>1</sup>__ _n_ /STAY-kay-shuhn/ A vacation spent at home or close to home.  
+__staycation<sup>2</sup>__ _v intr_ /STAY-kay-shuhn/ To vacation at or close to home.  
 __steak__ _n_ /steɪk/  
 __steakhouse__ _n_ :pencil2: /ˈsteɪkˌhaʊs/ A restaurant specializing in beefsteak.  
 __steed__ _n_ _Epic battles of steel and steed._  
@@ -890,6 +907,7 @@ __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in th
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
+__thumbsucker__ _n_ /THUHM-suhk-uhr/ __1__ Someone who likes to suck their thumb. __2__ A journalistic piece that deals with the background and interpretation of events instead of hard news.  
 __thyme__ _n_ :two::mega::hammer:  
 __ticket window__ _n_ A window through which tickets are sold (as from a ticket booth). _Ticket window prices._  
 __tidbit__ _n_ /ˈtɪdˌbɪt/ :dart:  
@@ -1028,6 +1046,7 @@ __wily__
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
 __wishy-washy__  
+__witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
 __wondrous__ _adj_ :three::hammer:  
@@ -1038,6 +1057,7 @@ __World Heritage sites__ _n_ :three: Designated natural and cultural sites inter
 __wow__ _v_  
 __wreak-havoc__ _v_  
 __yakisoba__ _n_  
+__Yankee__ _n_ /YANG-kee/ Yankee can refer broadly to anyone born or living in the U.S., or it can refer more narrowly only to those in the northern U.S., or even more narrowly, only to those in the states of New England. The broadest use is especially common outside the U.S. _It took the children some time to adjust to being the only Southerners in a classroom full of Yankees._  
 __yarns__ _n_ :two::hammer:  
 __yatch__ _n_ :mega:  
 __yearn__ _v_  
