@@ -41,10 +41,13 @@ __(the) next thing (one) knows__ All of a sudden; out of nowhere; without warnin
 __(there’s) no comparison__ This person or thing is clearly and inarguably better than any other. _This place serves the best pizza in town—no comparison!_  
 __(well) what do you know__ :two: A phrase used to indicate one’s surprise upon discovering something. _Hey, what do you know—we have chocolate chips in the cabinet after all._ _Well, what do you know! It says here that my ancestors first came to this country in 1857!_  
 __(with) kind regards__ A common, semi-formal valediction used to at the end of a letter or other written message to express well wishes to the recipient. _I hope I’ll have the chance of meeting with you again soon. Kind regards, Brian_  
+__411__ (4-1-1, four-one-one) Information, knowledge, or details. In the US and Canada, “4-1-1” is the telephone number for Information. _There’s plenty of options to get the 411 on the Beehive State._ _OK, who’s got the 4-1-1 on the cute new guy in our English class?_  
 __800-pound gorilla__ :two: /ɡəˈrɪlə/ (also six-hundred-pound gorilla, eight-hundred-pound gorilla or nine-hundred-pound gorilla) A person, group, or organization so powerful (either by size or by influence) that it does not need to heed the rules or threats of others. It refers to the riddle “Where does an 800-pound gorilla sit?” (Answer: “Wherever it likes.”) Primarily heard in US. _Don’t mess with that guy; he’s like an 800-pound gorilla!_  
+__a (real) frog-choker__ A particularly heavy or torrential downpour of rain. (Chiefly heard in the southern United States.) _It’s a real frog-choker out there today—looks like we’ll have to have our barbecue another day._ _There’s no way I’m biking to work in a frog-choker like this!_  
 __a bad apple__ A troublemaker. A person whose own words or actions negatively impacts an entire group of people. Taken from the proverb “a bad apple spoils the bunch.”  
 __a bad penny__ A person with no value. Typically used in the proverb _“A bad penny always turns up.”_  
 __a balancing act__ A situation in which one must accomplish a number of tasks at the same time. _Mary quickly discovered that working full-time while going to school was going to be quite the balancing act._  
+__a bird’s eye view__  
 __a bit dicey__ Carrying a certain degree of risk or danger; uncertain of a favorable outcome.  
 __a bit obtuse__ Coming across as dull, thick-witted, or stupid; unable to grasp or understand a situation or concept. _I feel like I’m a bit too obtuse to understand what these people are talking about._  
 __a bit of a stretch__ A mild exaggeration beyond the truth or what is likely the case.  
@@ -75,6 +78,7 @@ __a juggling act__ A difficult and/or precarious situation in which several thin
 __a kernel of truth__ A singular element of truth or wisdom within a greater story, narrative, speech, or claim, especially when most or all other elements are fictitious or of questionable veracity.  
 __a knee-slapper__ A hilarious joke, especially one that evokes loud and prolonged laughter.  
 __a knife in the back__ A grievous or supreme act of treachery or betrayal. (Usually preceding “of/for (someone).”)  
+__a laundry list of (something)__ :dart: A very lengthy, thorough list of items. _I have a laundry list of projects I need to get done before Friday._  
 __a lean patch__ A period of failure, decline, or poor performance or results.  
 __a legend in (one’s) own lifetime__ A person who has an extraordinary level of fame or reputation while he or she is still alive.  
 __a legend in (one’s) own mind__ A person who affects or believes him- or herself to be of greater importance or notoriety than is actually the case. A humorous, ironic twist on the phrase “a legend in one’s own lifetime.”  
@@ -142,6 +146,7 @@ __ahead of the curve__ :four:
 __ahead of time__ :two::hammer: _A day ahead of time._ _I apology ahead of time._  
 __ahead of__ _Energy talks look likely this week, ahead of the Monday deadline._  
 __ahoy there, me hearties__  
+__al fresco__  
 __alive and kicking__  
 __all aboard__  
 __all bark and no bite__ Full of talk that is more threatening or impressive than that which one can or will actually do.  
@@ -336,6 +341,9 @@ __be something to (something)__ To have some degree of importance, truth, or val
 __be square (with one)__ To no longer be in dispute or disagreement with one; to not be indebted to one anymore. _Look, if you just help me get this job, we’ll be square._  
 __be still in the game__ To remain a contender for success despite setbacks or difficulties.  
 __be taken by surprise__ To be happened upon when one is not ready, prepared, or on guard; to be shocked or startled by someone or something. _I was taken completely by surprise when you showed up at my office this afternoon for lunch. I wish you would have called ahead!_  
+__be the pits__ To be particularly bad, unfortunate, or awful, especially of a situation or outcome. _Well, this is the pits. I absolutely cannot believe such a huge thunderstorm came through just as we were getting our picnic set up._  
+__be thrilled to death__ To be ecstatic; to be very pleased and excited. _I was thrilled to death to hear that I’d been selected for a literary award in New York City._  
+__be tied (up) in knots__ To be confused, anxious, worried, and/or upset (about something). _I’ve been tied up in knots trying to come up with a good topic for my term paper, but I just can’t think of anything!_  
 __be two/three etc years someone’s junior__ :three: To be younger than someone else by a particular amount. _Diane is 12 years her husband’s junior._ _His remarriage at the age of 46 to a girl some thirty years his junior took place in February 1386._  
 __be two/three etc years someone’s senior__ To be two/three etc years older than someone. _Her husband is fifteen years her senior._  
 __be warned__ _Be warned, Commander, I didn’t make this coffee._  
@@ -412,6 +420,7 @@ __break your back__ To work extremely hard.
 __break your duck__ To do something for the first time.  
 __breaking point__ :two: The point at which an overworked or overburdened person, system, organization, etc., fails, give ups, or collapses. _I was already fed up with my husband’s lazy, selfish ways, but his refusal to come with me to my mother’s funeral was the breaking point._  
 __brick wall__ _The 49ers continue to be a brick wall for opposing RBs._  
+__bridge the gap__  
 __bright spark__ (Primarily heard in UK, Australia, New Zealand.) A clever person.  
 __bring (one) to one’s feet__ To make someone or an audience rise up applauding or cheering in approval or in salute to someone or something. (Usually refers to an audience.) _The finale brought the audience to its feet. Liz was brought to her feet by the playing of the national anthem._  
 __bring (someone) to terms__ To compel a person or group to agree to or do something, especially a set of demands or conditions. _The rebels’ unflinching siege of the king’s palace eventually brought the government to terms._  
@@ -432,6 +441,7 @@ __bubble over__ Of an emotion, to be too strong for one to contain or refrain fr
 __buckle up__ :three::hammer: _Bucking up a seat belt._  
 __buff up__  
 __bug off__ _slang_  
+__bug__ __7__ _v_ To annoy, pester, or irritate someone. _I don’t know what it is about Tom, but he just bugs me whenever I’m around him._ _Your kids will be too busy bugging you to buy them cotton candy at the concession._  
 __build bridges__  
 __bull in a china shop__ :two: A clumsy person.  
 __bump and grind__ __3__ _v_ To dance in a manner characterized by aggressive and overtly sexualized hip movements, either by a single dancer or between two dance partners. _It was a little disconcerting to see teenagers bumping and grinding at the prom._  
@@ -450,6 +460,7 @@ __by and large__
 __by any chance__ Used especially in questions, to ask whether something is true, possible, etc: _Are you in love with him, by any chance?_  
 __by hell or high water__ By any means necessary; regardless of any difficulty, problem, or obstacle.  
 __by the book__ :three: In a way that strictly adheres to the established rules (as recorded in writing).  
+__by the bucketful__  
 __by the dozen__  
 __by the numbers__ _The boxing sequences are by the numbers._  
 __by the same token__ :two::hammer:  
@@ -597,6 +608,7 @@ __cross that bridge later__ To deal with a problem, issue, or situation at anoth
 __cross that bridge when one comes to it__ :two: To delay dealing with a problem until it happens.  
 __crushing blow__ A major defeat or setback that is devastating to the goals of a person, group, or organization.  
 __crux of the matter__ _She saw the crux of the matter in seconds._  
+__cry foul__  
 __cry over spilled milk__ To be unhappy about what cannot be undone.  
 __crystal__ _slang_ A stimulant drug in powdered form, often methamphetamine. _Where can we score some crystal around here?_  
 __curse (someone or something) under (one’s) breath__ To say threatening, consternated, or disgruntled remarks (toward someone or something) in a very soft or indistinct voice, such that no one else can hear or understand them clearly. _Steven stormed off to his room, cursing his parents under his breath._  
@@ -663,6 +675,7 @@ __doctors make the worst patients__ It is difficult to give people help or advic
 __dodge a bullet__ :two: To narrowly avoid something or some situation that turns out to be undesirable, disastrous, dangerous, or otherwise harmful.  
 __doesn’t hold water__ Not true or not reasonable.  
 __dog and pony show__ a presentation which designed to impress an audience but has no real content.  
+__dog day afternoon__ An afternoon in the part of the summer often thought to be hottest, usually considered to be July 3 to August 11. As such, it is often related to feelings of lethargy. In ancient times, people associated the heat during this period with the concurrent rising of Sirius, nicknamed “the dog star.” _As a kid, I loved lounging in the swimming pool on dog day afternoons._  
 __dog-and-pony show__ :two::hammer: (dog and pony show)  
 __dog-eat-dog__ _adj_ :three: A very competitive situation in which people will do anything to survive and be successful, even if it harms other people. _It is not dog-eat-dog here._  
 __doggone__ A mild substitution for “goddamn” or “damn.” _I have so much doggone homework tonight, ugh._ _I can’t believe we lost that doggone game._  
@@ -700,6 +713,7 @@ __drain the swamp__ To get rid of the root causes of problems, especially to rid
 __draw a blank__ :two: To fail to find or remember something.  
 __draw a line in the sand__  
 __dress to the nines__ Wearing very fashionable or expensive clothes.  
+__dressed to kill__  
 __drink like a fish__ To drink too much alcohol.  
 __drive (one) batty__ :two: (drive someone nuts) To annoy or frustrate one to the point of exasperation. _A week on vacation with my relatives is enough to drive me batty._ _That loud beeping noise is driving me batty!_ _You are certainly annoying! You’re going to drive me batty. These tax forms are driving me nuts._  
 __drop (someone or something) like a hot potato__ To abandon someone or something suddenly and completely, sometimes to avoid potential problems.  
@@ -717,6 +731,7 @@ __easier than falling off a log__ Extremely easy; very intuitive; requiring litt
 __easy street, on__ A secure and comfortable financial situation. _Grandpa will be on easy street once his pension checks start rolling in._  
 __echo chamber__  
 __elbow grease__ :four: Hard physical effort. _I tend to rely on elbow grease and hotel room sinks._  
+__elbow room__ __1__ Enough space to move around an area easily. _Ugh, the mall is so crowded today that there’s hardly any elbow room at all!_ __2__ The freedom and ability to act as one wants. _Well, you’re her cabinet—if you’re worried about her having too much elbow room as student council president, you should impose limitations._  
 __elephant in the room__ :two: An obvious problem that people do not want to talk about.  
 __Elvis has left the building__ :three: Said when an event or performance has come to an end, or when someone or something has left a place, especially in a dramatic fashion. The phrase refers to an announcement famously made at the end of Elvis Presley concerts alerting people that he vacated the premises and no further encores would be played.  
 __empty nester__ _n_ A parent whose children have grown and moved away from home. _He and wife Bekki are empty nesters._  
