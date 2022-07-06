@@ -4383,7 +4383,7 @@ __ditty bags__ _n_
 __ditty__ _n_ :three::hammer:  
 __diva__  
 __divagate__ _v_ To wander or stray from a course or subject. _Syn_ diverge, digress  
-__dive bar__ _n_ :two::hammer:  
+__dive bar__ _n_ :three::hammer: _A gritty dive bar._  
 __dive__ _n_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
 __dive-bomb__ _v_ To bomb from an airplane at the end of a steep dive toward the target.  
 __diverse__  
@@ -6092,7 +6092,7 @@ __free commune__ _n_ :es: municipio libre
 __free estimate__ _n_ :three::hammer: _Call now for your free estimate._  
 __free fall__ _n_  
 __free lunch__  
-__free range__ _n_ Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
+__free range__ _n_ :two: Supposed to mean that poultry is allowed to roam without being confined and is fed naturally grown crops, consuming only a vegetarian diet.  
 __free rein__  
 __free ride__ _n_ _informal_ :two: Something that is obtained or granted without cost to or effort by the recipient.  
 __free-for-all__ _n informal_ :dart: A disorganized brawl or argument, usually involving all those present.  
@@ -6193,7 +6193,7 @@ __fullback__ _n_ _football_ :two::hammer: (fullbacks)
 __fuller__ _n_ _A crowd of fullers and weavers._  
 __fullness__  
 __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
-__fulsome__ _adj_ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. _Our guests were fulsome in their compliments about the food._  
+__fulsome__ _adj_ :two: /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. Excessively or insincerely lavish: _fulsome admiration._ _Our guests were fulsome in their compliments about the food._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
 __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumble<sup>2</sup>__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -6277,13 +6277,14 @@ __Gallicism__ _n_
 __gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
 __Gallionic__ _adj_ Indifferent or uncaring. After Gallio, a Roman senator, who refused to take action in a dispute.  
+__gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
 __galloping__  
 __gallows__ _n_ :two::hammer:  
 __galore<sup>1</sup>__ _adj_ :three::hammer: _The terrace offers sunbathing opportunities galore._  
 __galore<sup>2</sup>__ _adv_  
 __galoshes__ _n_  
 __galumph__ _v intr_ :two: /ɡəˈlʌmpf; -ˈlʌmf/ _informal_ [:scroll: C19 (coined by Lewis Carroll): probably a blend of gallop + triumph] To leap or move about clumsily or joyfully.  
-__galvanize__ _v_ :nine: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
+__galvanize__ _v_ :nine::m: (galvanized) /GAL-vuh-nyze/ To startle into sudden activity; stimulate. To cause (people) to take action on something that they are excited or concerned about. _The council’s proposal to close the library has galvanized the town’s residents._  
 __gambit__ _n_ :five: A maneuver, stratagem, or ploy, especially one used at an initial stage. _Syn_ tactic, move, policy, scheme, strategy, trick, device, manoeuvre, ploy, stratagem _They said the plan was no more than a clever political gambit._  
 __Game of the Goose__ _n_ (Goose game) :es: el juego de la oca  
 __game plan__ _n_ :six::hammer: _My game plan is “failure is not an option.”_  
@@ -6388,7 +6389,7 @@ __Geronimo line__ _n_ :two: In the context of a rig, a geronimo line is a safety
 __gerrymander<sup>1</sup>__ _v_ :six: (gerrymandering) Manipulate the boundaries of (an electoral constituency) so as to favour one party or class. From the name of Governor Elbridge Gerry of Massachusetts + salamander, [...] a map was published with the title _The Gerry-Mander._  
 __gerrymander<sup>2</sup>__ _n_  
 __gest__ _n_ (geste) A great or heroic deed. _Syn_ achievement, exploit, feat, masterstroke, stunt, tour de force  
-__gestalt__ _n_ :two::hammer:  
+__gestalt__ _n_ :four::hammer:  
 __get ahold__  
 __get away with__  
 __get enough__  
@@ -6403,7 +6404,7 @@ __get wind__
 __get your act together__  
 __get-go__ _n informal_ :four: The beginning; outset. _I’ve been your friend from the get-go._ _They wanted him to be Superman from the get-go._  
 __getaway day__  
-__getaway__ _n_ :five::hammer: (getaways) _Weekend getaways._  
+__getaway__ _n_ :six: (getaways) __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation. _Weekend getaways._  
 __gewgaw__ _n_ Cheap showy jewelry or ornament on clothing. _Syn_ fallal, gaud, trinket, bangle, bauble, novelty  
 __geyser__ _n_  
 __ghastly<sup>1</sup>__ _adj_ :nine::m::mute:[g~~h~~astly] __1__ _informal_ Very bad or unpleasant. _Distract yourself from this ghastly thing we call 2020._ _A ghastly affair._ __2__ Deathly pale; wan. __3__ _informal_ Extremely unwell; ill: _they felt ghastly after the party._ __4__ Terrifying; horrible.  
@@ -6467,6 +6468,7 @@ __glabella__ _n_ The smooth area between the eyebrows just above the nose.
 __glad-hand__ _v_  
 __gladdened__  
 __glades__ _n_ _Heathy glades._  
+__gladiola__ _n_  
 __glamazon__ _n informal_ /GLA-muh-zon/ [:scroll: A blend of glamor + amazon.] An exceptionally glamorous, tall, and self-assured woman.  
 __glamping__ _n informal_ [:scroll: Back-formation from glamping, a blend of glamorous + camping] Camping in glamorous or luxurious conditions. Outdoor camping with amenities and comforts (such as beds, electricity, and access to indoor plumbing) not usually used when camping.  
 __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leadership roles, such as executives in the corporate world and female political election candidates, being likelier than men to achieve leadership roles during periods of crisis or downturn, when the chance of failure is highest.  
@@ -6513,7 +6515,7 @@ __glut<sup>2</sup>__ _v_
 __glutton__ _n_ A person who eats and drinks excessively or voraciously. _Syn_ gourmand, gorger, gannet, gobbler, pig _He is a real glutton when it comes to junk food, but somehow he stays skinny as a toothpick._  
 __glycemic__  
 __gnarled__ _v_ :two::hammer: _Gnarled fingers._  
-__gnarly__ _adj_ _slang_ :two::astonished: __1__ Intense; awesome. _That party was totally gnarly._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
+__gnarly__ _adj_ _slang_ :three::astonished: __1__ Intense; awesome. _That party was totally gnarly._ _Mountain bikers pedal gnarly mountain bike routes._ __2__ Gruesome; extremely unpleasant. _First steps tackling gnarly code._  
 __gnash<sup>1</sup>__ _v_ :three::hammer: _Gnashing teeth._  
 __gnash<sup>2</sup>__ _n_  
 __gnat__ _n_ :four: Any of various small usually biting dipteran flies. :es: (British usage) mosquito  
@@ -6640,11 +6642,13 @@ __graft<sup>1</sup>__ _v_
 __graft<sup>2</sup>__ _n_ :four::hammer: _A graft scandal._ _Usual wealth, the euphemism for suspected graft, is everywhere._ _He was indicted on graft charges._ :es: injerto  
 __gramogram__ _n_ (grammagram, letteral word) A letter or group of letters which can be pronounced to form one or more words, as in “CU” for “See you.” They are a subset of rebuses, and are commonly used as abbreviations.  
 __gramps__  
+__grana padano__  
 __Grand Guignol<sup>1</sup>__ _n_ An event, entertainment, etc., of a sensational or horrific nature. [:scroll: From Le Grand Guignol (literally, The Great Puppet), a theater in Paris that specialized in such entertainment.]  
 __Grand Guignol<sup>2</sup>__ _adj_ Gruesome, grotesque, or horrifying.  
 __grand jury__  
 __grand theft auto__ _n_ The criminal act of stealing or attempting to steal a motor vehicle.  
 __grand__ _n_ :three: __2__ _n pl_ _slang_ A thousand dollars: _sold the car for six grand._ _I nicked him for ten grand [notice: not ten grands]._  
+__granddaddy__ _n_ :pencil2:  
 __grandeur__ _n_  
 __grandiloquence__ _n_ A lofty, extravagantly colorful, pompous, or bombastic style, manner, or quality especially in language.  
 __grandiloquent__ _adj_ /gran-DIL-uh-kwuhnt/ [:scroll: From Latin grandis (grand) + loqui (to speak).] High-flown or pompous.  
@@ -6716,7 +6720,7 @@ __greige<sup>1</sup>__ _n_ __1__ [:scroll: A blend of gray + beige.] A color bet
 __greige<sup>2</sup>__ _adj_ __1__ Of a gray-beige color. __2__ Unbleached, undyed, or unfinished.  
 __grenade__ _n_ _Grenade launchers._  
 __griddle__  
-__gridiron__ _n_ :eight: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
+__gridiron__ _n_ :nine: __1__ A framework of metal bars on which food is placed to be cooked; a grill. __2__ Any arrangement of horizontal and perpendicular lines or elements; a grid. __3__ _informal_ __a__ An Americal football field. __b__ The game of American football.  
 __gridlock__  
 __grievance__ _n_ :two::hammer:  
 __grievously__  
@@ -6729,6 +6733,7 @@ __grim__ _adj_ :four::hammer:
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
+__grimoire__ _n_ A book of magical knowledge, especially one containing spells.  
 __grimy__ _adj_  
 __grinch__ _n_  
 __grind<sup>1</sup>__ _n_ :two::hammer: _Most of us are more focused on the daily grind._ _The grind of life on the road._  
@@ -6886,6 +6891,7 @@ __gushing__ _adj_
 __gushy__  
 __gusseted__ _adj_ _Gusseted underarms._  
 __gussets__  
+__gussied up__ _v_  
 __gussy__ _v_ _slang_ To dress or decorate elaborately; adorn or embellish: _gussied herself up in sequins and feathers._  
 __gusted__ _v_ _The rain gusted against the windows._  
 __gusto__ _n_ :two::hammer:  
@@ -6961,7 +6967,7 @@ __halfback__
 __halfhearted__ _adj_ Feeling or showing little interest or enthusiasm. _Syn_ lukewarm, tepid _I made a halfhearted attempt to start a conversation with him and gave up as soon as it became clear he was not really interested in talking to me either._  
 __hall boy__ _n_  
 __Halligan bar__ _n_ _They had Halligan bars for smashing windows._  
-__hallmark__ _n_ :six: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic.  
+__hallmark__ _n_ :seven: /HAHL-mark/ [:scroll: After Goldsmiths’ Hall in London, where articles of gold and silver were appraised and stamped.] __1__ A mark of quality, genuineness, or excellence. __2__ A distinguishing feature or characteristic. _High fashion is the hallmark of that boutique._  
 __hallowed__ _adj_ :six::hammer: _The hallowed walls of Neptune Mountaineering reverberated with history._ _The hallowed seats of of power._  
 __halt__ _v_  
 __halter__ _n_ :seven: __1__ A device made of rope or straps that fits around the head of an animal and is used to lead or secure the animal. __2__ (Archaic) __a__ A rope with a noose used for execution by hanging. _Citizens with halters around their necks._ __b__ Death or execution by hanging. __3__ A garment having a front supported by a strap or straps running behind the neck, leaving the arms, shoulders, and back bare. _The black woman wore a halter and a pair of shorts._  

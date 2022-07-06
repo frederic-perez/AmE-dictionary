@@ -1,18 +1,3 @@
-__free range__  
-__fulsome__ _adj_ /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Excessively or insincerely lavish: _fulsome admiration._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
-__gallons__ _n pl_ Great quantities. _Things get interesting at feeding time, when gallons of minnows are tossed in the pool._  
-__galvanize__ _v_  
-__gestalt__ _n_ :two::hammer:  
-__getaway__ _n_ __3__ A place where one escapes for relaxation, vacation, etc., or a period of time for such recreation.  
-__gladiola__ _n_  
-__gnarly__ _adj_ _Mountain bikers pedal gnarly mountain bike routes._  
-__grana padano__  
-__granddaddy__ _n_ :pencil2:  
-__gridiron__ _n_  
-__grimoire__ _n_ A book of magical knowledge, especially one containing spells.  
-__gritty__ _adj_ _O’Shucks is an unusual combo of gritty dive and sushi bar._  
-__gussied up__ _v_  
-__hallmark__ _n_ _High fashion is the hallmark of that boutique._  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  
