@@ -1,3 +1,10 @@
+__Baader-Meinhof effect__ _n_  
+__bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
+__cantankerous__ _adj_ /kan-TANK-uh-rus/  
+__crass__ _adj_ So crude and unrefined as to be lacking in discrimination and sensibility. _Syn_ unrefined _Jenny’s mother was horrified by the crass behavior of the young man whom her daughter had befriended._  
+__CSI effect__ _n_ The CSI effect most often refers to the belief that jurors have come to demand more forensic evidence in criminal trials, thereby raising the effective standard of proof for prosecutors.  
+__flexitarian<sup>1</sup>__ _n_ /flek-suh-TAYR-ee-uhn/ One who follows a primarily vegetarian diet but occasionally consumes animal products.  
+__flexitarian<sup>2</sup>__ _adj_ /flek-suh-TAYR-ee-uhn/ Primarily but not completely vegetarian.  
 __hank__ _n_  
 __hankering__ _n_  
 __hardhat__ _n_  
@@ -70,6 +77,7 @@ __icicles__ _n_
 __identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __idiopathic__  
 __idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :two::pencil2::hammer: _An idyllic setting for romantic dinners._  
+__IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__  
 __illustrious__ _adj_  
 __immaculate__ _adj_ _An immaculate pharmacy._  
@@ -85,6 +93,7 @@ __ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike sim
 __inglenook__  
 __inoculation__ _n_  
 __inroads__ _n_  
+__inscrutable__ _adj_ /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
@@ -206,6 +215,7 @@ __malleable__ _adj_ /MAL-ee-uh-bul/ Capable of being shaped, altered, or control
 __mallrats__  
 __malt__ _n_ :mega:  
 __Mancunian__ _adj, n_  
+__Mandela effect__ _n_ A phenomenon involving a large group of people all incorrectly remembering a past event or fact. The phrase is named for the purportedly widespread misconception that Nelson Mandela died in the 1980s while in prison.  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
 __maritime__  
@@ -416,6 +426,7 @@ __pedigree__
 __peerless__ _adj_ _Peerless scenic beauty._  
 __pendent__ _adj_ :astonished: Hanging down; projecting. _Syn_ dangling, overhanging, suspended _An examination of the cave revealed nothing but hundreds of sleeping bats pendent from the ceiling._  
 __penetralia__ _n_ [:scroll: From Latin penetralia, from penetrare (to penetrate), from penitus (interior) + intrare (to enter).] __1__ The innermost parts of a building, especially the sanctuary of a temple. __2__ The most private or secret parts; recesses: _the penetralia of the soul._  
+__pennant__ _n_ /PEN-uhnt/ __1__ A long tapering flag. __2__ A flag symbolizing a sports championship or another achievement. __3__ A victory, championship, etc.  
 __penned__ _v_  
 __penny candy__ _n_ Inexpensive candy originally costing a penny apiece.  
 __penstemon__ _n_  
@@ -534,11 +545,13 @@ __rambler__ _n_
 __rampant__ _adj_  
 __rampart__ _n_  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
+__Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
 __rebuke__ _v_  
+__recidivism__ _n_ /rih-SID-uh-viz-um/ Relapse into criminal behavior, or more broadly, a tendency to relapse into a previous condition or mode of behavior. _The county’s new program has been very successful in reducing recidivism rates._  
 __recluse__ _n_ A person who withdraws from the world to live in seclusion and often in solitude. _Syn_ solitudinarian, troglodyte, hermit, solitary _He was regarded by the townspeople as a recluse, since no one ever saw him receive visitors._  
 __recount__ _v_  
 __Red Cross__ _n_  
@@ -787,6 +800,7 @@ __stopper__ _v_ To close with or as if with a stopper. _A stoppered glass bottle
 __storefront__ _n_ :two::hammer:  
 __stow__ _v tr_  
 __strain__ _n_  
+__Streisand effect__ _n_ A phenomenon in which attempting to suppress an item of information attracts even more unwanted attention, thus furthering its dissemination.  
 __stretch<sup>1</sup>__ _n_  
 __stretch<sup>2</sup>__ _adj_ __1__ Made of an elastic material that stretches easily: _stretch pants._ __2__ Of, relating to, or being a vehicle, such as a limousine or passenger jet, having an extended seating area that provides extra space for more passengers, leg room, or amenities. _Stretch limousines._  
 __strife__ _n_  
@@ -939,6 +953,7 @@ __uber__
 __ultramarine__ _n_ :astonished: A blue pigment made from powdered lapis lazuli; a vivid or strong blue to purplish blue. _Syn_ indigo, French blue _She found a piece of fabric dyed ultramarine, which would make a perfect sash for the light blue dress she was making._  
 __umpteen__ _adj, n_  
 __unabashed__ _adj_ :three::hammer: _Unabashed humor._  
+__unadulterated__ _adj_ Not mingled or diluted with extraneous matter. _Syn_ pure  
 __unapologetic__ _adj_  
 __undeniably__ _adv_ _An undeniably true Chicago snack._  
 __underbelly__ _n_ _The seedy underbelly of New York City._  

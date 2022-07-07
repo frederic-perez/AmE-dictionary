@@ -1,3 +1,4 @@
+__curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
 __fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
 __far and wide__  
 __float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
@@ -151,6 +152,7 @@ __to no end__ Greatly; very much. _I was pleased to no end when you wrote of mak
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  
 __tongue-in-cheek__  
+__torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
 __tour de force__ :two::hammer:  
 __treasure hunt__  
