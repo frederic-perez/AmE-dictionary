@@ -1,18 +1,3 @@
-__alloy__ _n, v_  
-__arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
-__best__ _v_  
-__bleeding__ _adj, adv_ _Brit. slang_ Used as an intensifier: _a bleeding silly idea._  
-__bounty__ _n_  
-__brood__ _v_  
-__cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
-__chicanery__ _n_  
-__chitchat__ _n, v_  
-__duel__ _n_ :mega:  
-__flip-flop__ _v_  
-__foreshadow__ _v_  
-__fume__ _v_ _My father was fuming._  
-__glaucoma__ _n_ :mega:  
-__grim__ _adj_  
 __gunslinger__ _n_  
 __haunting__ _adj_  
 __haunts__  

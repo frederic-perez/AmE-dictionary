@@ -370,7 +370,8 @@ __allot__ _v_
 __allotment__ _n_ :two::hammer:  
 __allotted__  
 __allowance__ _n_ :three::hammer:  
-__alloy__ _v_ :dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
+__alloy<sup>1</sup>__ _n_  
+__alloy<sup>2</sup>__ _v_ :two::dart: (alloyed) __2__ To combine; mix. _These signs of hope are real but alloyed with the hard realities of dark days ahead._  
 __allusion__ _n_ :two: Allusion is the act of casually referencing something, usually a work of popular culture. Example: Finishing his memoir was his white whale.  
 __alma mater__ _n_ A school, college, or university at which one has studied and, usu., from which one has graduated.  
 __almanac__ _n_ An annual publication devoted to the facts and statistics of a given subject. You might consult a sports almanac for the coming year’s scheduled games, or information on your favorite (or least favorite) player.  
@@ -642,6 +643,7 @@ __arbitration__ _n_ _Arbitration clause._
 __arbor__ _n_ :two::hammer: _An arbor of live oaks._  
 __arboretum__ _n_ :six::hammer:  
 __arcade game__  
+__arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
 __arch__ _adj_ :two::hammer: _Her character is arch and fake._  
@@ -1292,7 +1294,7 @@ __bespectacled__ _adj_ :two: Wearing eyeglasses. _Hollande, an unassuming and be
 __bespoke<sup>1</sup>__ _adj_ :nine::m: Custom-made. _Bespoke clothing._ _They provide bespoke forecast for London Heathrow Airport._  
 __bespoke<sup>2</sup>__ _v_ :three: Past tense and a past participle of bespeak.  
 __best in show__  
-__best__ _v_ :four: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
+__best__ _v_ :five: (bested) To get the better of; beat. _Bivalirudin bests heparin for treating heart attack patients undergoing PCI._  
 __bestiary__ _n_ A book consisting of a collection of descriptions of real and fabulous animals, often including a moral or allegorical interpretation of each animal’s behavior. Bestiaries were particularly popular in medieval Europe.  
 __bestow__ _v_ :nine::m: /bɪˈstəʊ/ (bestowed) Confer or present (an honour, right, or gift). _Syn_ confer on, present to, award to, give, grant _The award has been bestowed on luminaries like Daw Aung San Suu Kyi and Nelson Mandela._  
 __beta__ _n_ :mega:  
@@ -1462,6 +1464,7 @@ __bleating__ _n_ :two::hammer: _The bleating of a few sheep._
 __bled__ _v_  
 __bleed blue__  
 __bleeding heart__ _n_ _A radical Jewish lawyer with a beard and a bleeding heart._  
+__bleeding__ _adj, adv_ _Brit. slang_ Used as an intensifier: _a bleeding silly idea._  
 __bleep__ _v_ _We’ll bleep your name out._  
 __blemish__ _n_ :six::hammer: (blemishes)  
 __blemished__ _v_  
@@ -1720,7 +1723,7 @@ __bouncy house__ _n_
 __bouncy__  
 __bounteous__ _adj_ Existing in, characterized by, or producing abundance: _bounteous harvests; bounteous land._  
 __bountiful__ _adj_ :four: __1__ Plentiful; ample (esp in the phrase _a bountiful supply_). _Bountiful buffets._ __2__ Giving freely; generous.  
-__bounty__ _n_ :three: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
+__bounty__ _n_ :four: [:scroll: From the Latin _bonitās_, meaning “goodness.” _Bounty_ comes from the Latin word _bonus_, meaning good.] __1__ Generosity in giving to others; liberality. __2__ A generous gift; something freely provided. __3__ A payment made by a government, as, formerly, to a sailor on enlisting or to a soldier after a campaign. _To fight under the banner and bounty of the grand seigneur._ __4__ Any reward or premium: _a bounty of 20p for every rat killed._  
 __bouquet__ _n_ :two::pencil2: A whiskey distilled from a fermented mash containing not less than 51 percent corn in addition to malt and rye.  
 __bouree__ _n_ :four: AKA Bourré (also commonly known as Bouré and Boo-Ray) is a trick-taking gambling card game primarily played in the Acadiana region of Louisiana. _I watched some old men playing bouree._ _Bouree dealer._  
 __bout__ _n_ _Martial arts bout._  
@@ -1881,7 +1884,7 @@ __bronchus__ _n_ Either of two main branches of the trachea, leading directly to
 __bronco__ _n_ :camera:  
 __broncobusting__  
 __brood<sup>1</sup>__ _n_ :two::hammer: _A brood of chickens._  
-__brood<sup>2</sup>__ _v_ :two::hammer: (brooded)  
+__brood<sup>2</sup>__ _v_ :three::hammer: (brooded)  
 __brood<sup>3</sup>__ _adj_ Kept for breeding: _a brood hen._  
 __brooder house__  
 __brooding<sup>1</sup>__ _adj, n_ :eight: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
@@ -2468,6 +2471,7 @@ __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that a
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
 __causeway__ _n_ :six::hammer:  
+__cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :two::hammer: _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
 __cavalier<sup>2</sup>__ _n_ __1__ A gallant or chivalrous man, especially one serving as escort to a woman of high social position; a gentleman. __2__ A mounted soldier; a knight.  
@@ -2632,7 +2636,7 @@ __chewed up__
 __chiasmus__ _n_ Reversing the grammatical order in two otherwise parallel phrases or sentences. Example: Dog owners own dogs and cats own cat owners.  
 __chic__ _adj_ _Target has been trying to gain back the chic status._  
 __Chicagoland__  
-__chicanery__ _n_ :five: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
+__chicanery__ _n_ :six: The use of clever plans or actions to deceive people. Deception by trickery or sophistry. _Syn_ guile _The trial revealed a world of crime, corruption and political chicanery._  
 __Chick-fil-A__ _n_  
 __chicken > game of chicken__  
 __chicken coop__ _n_ :two: A farm building for housing poultry. _Syn_ coop, hencoop, henhouse  
@@ -2685,7 +2689,8 @@ __chirping__ _n_ High pitched, repeated noises. _There’s a lot of chirping in 
 __chisel__ _n_  
 __chiseled__  
 __chit__ _n_  
-__chit-chat__ _n_ An informal conversation about things that are not important.  
+__chit-chat<sup>1</sup>__ _n_ :two: (chit chat) An informal conversation about things that are not important.  
+__chit-chat<sup>2</sup>__ _v_  
 __chitterlings__ _n_ The small intestines of pigs, especially when cooked and eaten as food. _Duck with roast chitterlings._  
 __Chiuaua__  
 __chivalry__ _n_ :four::hammer:  
@@ -4712,6 +4717,7 @@ __due diligence__ _n_ :eight: The detailed examination of a company and its fina
 __due<sup>1</sup>__ _adj_  
 __due<sup>2</sup>__ _n_  
 __due<sup>3</sup>__ _adv_ :two: Straight; directly. _Go due west._ _They travelled due south._  
+__duel__ _n_ :mega:  
 __duffel bag__ _n_ :four::dart::camera: (duffle bag) A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
 __duffer__ _n informal_ :six: An incompetent or stupid person. _A complete duffer at languages._ _Syn_ bungler, blunderer, incompetent, fool, idiot _Wealthy duffers._  
 __duffle bag__ _n_ :dart: A large cylindrical cloth bag of canvas or duck for carrying personal belongings.  
@@ -5826,7 +5832,7 @@ __flip out__ _phr v_ __1__ To react strongly; become excited, upset, or angry. _
 __flip side__ _n_ A different aspect of something (especially the opposite aspect).  
 __flip the bird__  
 __flip-flop<sup>1</sup>__ _n_  
-__flip-flop<sup>2</sup>__ _v_ :two: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
+__flip-flop<sup>2</sup>__ _v_ :three: Reverse (a direction, attitude, or course of action). _Larry may promise you a ticket now, but I would not be surprised if he flip-flops on that decision later._ _Politicians who flip-flop get mocked._  
 __flippant__ _adj_ :seven::astonished: / FLIP-unt / Lacking proper respect or seriousness. Marked by disrespectful levity or casualness. _Syn_ frivolous, irreverent, saucy, glib, pert, impertinent, impudent _The coach made a flippant response to the media’s questions about the unexpected loss._  
 __flipper__  
 __flippers__ _n_ :camera:  
@@ -5993,7 +5999,7 @@ __forensics__ _n_ :two::hammer:
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
 __foreseeable__  
-__foreshadow__ _v_ :three::hammer:  
+__foreshadow__ _v_ :four::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
@@ -6203,7 +6209,7 @@ __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._
 __fumble<sup>2</sup>__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
 __fume<sup>1</sup>__ _n_  
-__fume<sup>2</sup>__ _v_ :two::hammer:  
+__fume<sup>2</sup>__ _v_ :three::hammer: _My father was fuming._  
 __fumitory__  
 __fun and games__ _n_ _facetious ironic_ Amusement; frivolous activity. _It’s all fun and games until someone loses an eye._  
 __fun house__ _n_  
@@ -6480,6 +6486,7 @@ __glass cliff__ _n_ The glass cliff is the supposed phenomenon of women in leade
 __glass slipper__ _n_ An imaginary ladies’ shoe made of glass, as worn by Cinderella in the fairy tale of that name.  
 __glasses__ _n pl_ (plurale tantum)  
 __glasshouse__ _n_ :two: __2__ _Chiefly British_ A greenhouse. :es: invernadero  
+__glaucoma__ _n_ :mega:  
 __glazing__ _n_ :two::hammer: _A full range of door furniture and glazing._  
 __glean__ _v_ :six: __1__ To gather grain or other produce left by reapers. __2__ To gather information or material bit by bit. __3a__ To pick up after a reaper. __b__ To strip of the leavings of reapers. __4a__ To gather (something, such as information) bit by bit. __b__ To pick over in search of relevant material. __5__ Find out.  
 __glen__ _n_ :three: A small, narrow, secluded valley.  
@@ -6734,7 +6741,7 @@ __grift__ _n, v_ :two::hammer:
 __grifter__ _n_ :three: A person who swindles another out of money.  
 __grille__ _n_ :two::hammer: _The grille of a semi truck._  
 __grilling__  
-__grim__ _adj_ :four::hammer:  
+__grim__ _adj_ :five::hammer:  
 __grime__ _n_ :three::camera::hammer:  
 __grimed__ _v_ :two::hammer: _Her pink shorts were grimed with dirt._  
 __grimly__  
