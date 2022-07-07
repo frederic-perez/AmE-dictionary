@@ -1,18 +1,3 @@
-__Baader-Meinhof effect__ _n_  
-__bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
-__cantankerous__ _adj_ /kan-TANK-uh-rus/  
-__crass__ _adj_ So crude and unrefined as to be lacking in discrimination and sensibility. _Syn_ unrefined _Jenny’s mother was horrified by the crass behavior of the young man whom her daughter had befriended._  
-__CSI effect__ _n_ The CSI effect most often refers to the belief that jurors have come to demand more forensic evidence in criminal trials, thereby raising the effective standard of proof for prosecutors.  
-__flexitarian<sup>1</sup>__ _n_ /flek-suh-TAYR-ee-uhn/ One who follows a primarily vegetarian diet but occasionally consumes animal products.  
-__flexitarian<sup>2</sup>__ _adj_ /flek-suh-TAYR-ee-uhn/ Primarily but not completely vegetarian.  
-__hank__ _n_  
-__hankering__ _n_  
-__hardhat__ _n_  
-__hardship__ _n_  
-__hardwood__  
-__hardy__ _adj_ :four::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._  
-__hatch__ _v_  
-__haunt__ _n_ _It is a favorite BYOD haunt._  
 __haunting__ _adj_  
 __haunts__  
 __hayride__ _n_ A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  

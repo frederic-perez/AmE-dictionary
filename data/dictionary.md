@@ -892,6 +892,7 @@ __azure<sup>1</sup>__ _n_ :two::hammer:
 __azure<sup>2</sup>__ _adj_ A light purplish blue. _Syn_ cerulean, lazuline, sapphire, sky-blue _The large silver kite gleamed against the azure expanse of sky._  
 __b-word__ _n_ :two: _euphemistic_ The word bitch, regarded as a vulgar or taboo word.  
 __b’day__ _n_ _informal_ (b-day) :mega: Birthday. _When’s her b-day?_  
+__Baader-Meinhof effect__ _n_  
 __baba ghanoush__ _n_ A purée of roasted eggplant and tahini, flavored with garlic and lemon juice.  
 __Babar the elephant__  
 __babblermouth__ _n informal_ A person who talks too much, often telling secrets to other people.  
@@ -2139,6 +2140,7 @@ __bylaws__
 __byline__ _n_ :six: (bylines) A line at the head of a newspaper or magazine article carrying the writer’s name.  
 __bypast__ _adj_ Well in the past; former. _Syn_ bygone, departed, foregone, gone  
 __byproduct__ _n_  
+__bystander effect__ _n_ A social psychological theory that states that individuals are less likely to offer help to a victim when there are other people present.  
 __byword__ _n_ A condensed but memorable saying embodying some important fact of experience that is taken as true by many people. _Syn_ adage, proverb, saw  
 __byzantine__ _adj_ :pencil2: (of a system or situation) Excessively complicated, and typically involving a great deal of administrative detail. _The byzantine nature of health care pricing._  
 __C-rations__  
@@ -2275,7 +2277,7 @@ __canorous__ _adj_ Richly melodious. _Syn_ songful _When I sing in the shower, m
 __cant<sup>1</sup>__ _n_ __1__ Insincere talk, esp concerning religion or morals; pious platitudes. __2__ Stock phrases that have become meaningless through repetition. __3__ Specialized vocabulary of a particular group, such as thieves, journalists, or lawyers; jargon. __4__ Singsong whining speech, as used by beggars.  
 __cant<sup>2</sup>__ _v intr_ To speak in or use cant.  
 __cantabile__ _adj_ In a smooth, lyrical, flowing style. _Syn_ singing _The last part of the movement, a sweet, cantabile passage, resonated with the young audience._  
-__cantankerous__ _adj_ :six: Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
+__cantankerous__ _adj_ :seven: /kan-TANK-uh-rus/ Always complaining or arguing and easily annoyed. Ill-tempered and quarrelsome; disagreeable. _Syn_ bloody-minded  
 __cantata__ _n_ :three: A musical composition for voices and orchestra based on a religious text. _Batch cantatas._  
 __canté__ _n_  
 __canted__ _v_ :three::hammer:  
@@ -3524,7 +3526,7 @@ __crash blossom__ _n_ An ambiguously worded news headline that can have a confus
 __crash course__  
 __crash__ _v_ __3__ _informal_ To join or enter (a party, for example) without invitation.  
 __crash-land__ _v_ _A jet crash-landed in the city._  
-__crass__ _adj_ :four: So crude and unrefined as to be lacking in discrimination and sensibility. _Crass attitudes._  
+__crass__ _adj_ :five: So crude and unrefined as to be lacking in discrimination and sensibility. _Syn_ unrefined _Jenny’s mother was horrified by the crass behavior of the young man whom her daughter had befriended._ _Crass attitudes._  
 __crate__ _n_ :three::hammer: _A crate of tomatoes._  
 __cratered__ _v_ _Cratered streets._  
 __cratering__ _n_ :two::hammer: _Cratering car sales._  
@@ -3666,6 +3668,7 @@ __cryptozoology__ _n_ The study of creatures, such as the Loch Ness monster, who
 __crystal clear__  
 __crystal meth__  
 __crystalline__ _adj_ _Cristalline lens._  
+__CSI effect__ _n_ The CSI effect most often refers to the belief that jurors have come to demand more forensic evidence in criminal trials, thereby raising the effective standard of proof for prosecutors.  
 __cubbyhole__ _n_ (cubby-hole) :two::hammer:  
 __cuckold<sup>1</sup>__ _n_ :three::hammer:  
 __cuckold<sup>2</sup>__ _v_ :three::hammer:  
@@ -5799,6 +5802,8 @@ __Flemish__ _adj_
 __flesh out__ _phr v_ :six::hammer: (fleshed out)  
 __flex__ _v_ :pencil2::three::hammer: _Broncos flex muscle to win._  
 __flex<sup>1</sup>__ _adj_ _Flex time and equal pay are important._  
+__flexitarian<sup>1</sup>__ _n_ /flek-suh-TAYR-ee-uhn/ One who follows a primarily vegetarian diet but occasionally consumes animal products.  
+__flexitarian<sup>2</sup>__ _adj_ /flek-suh-TAYR-ee-uhn/ Primarily but not completely vegetarian.  
 __flick knife__ _n_  
 __flick<sup>1</sup>__ _n_ _slang_ As slang for “film,” it is first attested 1926, a back-formation from flicker (v.), from their flickering appearance.  
 __flick<sup>2</sup>__ _v_ :two::hammer: _One room has burn marks on the floor where Ruth flicked cigar ashes._ _It flicks charged particles into Earth’s magnetic field._  
@@ -7014,9 +7019,9 @@ __hanger__ _n_ :two: A frame for hanging clothes: _Here is a hanger for your coa
 __hangnail__ _n_ :two::hammer:  
 __hangout__ _n_ _informal_ :four: A place where a person frequently visits, esp. for socializing or recreation. _This was a hangout._  
 __Hangul__ _n_ /häng′go͞ol/ The alphabetic system of writing used in Korea, invented in the 1400s.  
-__hank__ _n_ :three::pencil2::hammer: _Stringy hanks of blond hair._  
+__hank__ _n_ :four::pencil2::hammer: _Stringy hanks of blond hair._  
 __hanker__ _v_ To have a strong, often restless desire.  
-__hankering__ _n_ :four: (hankerings) Craving.  
+__hankering__ _n_ :five: (hankerings) Craving.  
 __hankies__ _n_  
 __hanky panky__  
 __hanky-panky__ _n informal_ :two: __1__ Unethical behavior; mischief; deceit. __2__ Illicit sexual relations.  
@@ -7050,18 +7055,19 @@ __hard-liner__ _n_
 __hard-nose__  
 __hard-nosed__ _adj_ :three: Strict and/or unfeeling. _Hard-nosed approach._ _The hard-nosed day-to-dy world of work._  
 __hardball__  
+__hardhat__ _n_  
 __hardier__  
 __hardihood__ _n_ The trait of being willing to undertake things that involve risk or danger. _Syn_ boldness, daring  
 __hardline__ _adj_ :three::hammer: (hard-line) _The US hardline policy on illegal immigration._ _A more hard-line position._  
 __hardly ever__  
 __hardpan__ _n_ :two::hammer: _Hardpan dirt yards._  
 __hardscrabble__ _adj_ Providing or yielding meagerly in return for much effort: _a hardscrabble existence._  
-__hardship__ _n_ :six: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
+__hardship__ _n_ :seven: (hardships) Severe suffering or privation. _Intolerable levels of hardship._ _Syn_ privation, deprivation, destitution, poverty, austerity, penury :es: privación, sufrimiento, penas  
 __hardtack__ _n_ Very hard unsalted biscuit or bread; a former ship’s staple. _Syn_ pilot bread, sea biscuit _When we dock, the first thing I am going to do is toss the rest of my hardtack into the water and get myself a loaf of fresh, crusty bread at the nearest bakery._  
 __hardware__ _n_  
-__hardwood<sup>1</sup>__ _n_ :two::hammer:  
+__hardwood<sup>1</sup>__ _n_ :three::hammer:  
 __hardwood<sup>2</sup>__ _adj_ :two::hammer: _The hardwood floor._  
-__hardy__  
+__hardy__ _adj_ :five::hammer: _Hardy plants._ _The hardy can climb the 627 steps to the dome for an unparalleled view over the city._  
 __hare__ _v_ To move hurriedly, as if hunting a swift quarry.  
 __harebrained__ _adj_ :three::hammer: _A harebrained idea._  
 __hares__ _n_  
@@ -7094,7 +7100,7 @@ __hat off__ _n_ (hats off) _Hats off to Jane._
 __hat tip__ _n_ (tipping hat) An act of tipping or doffing one’s hat as a cultural expression of recognition, respect, gratitude, greeting, or simple salutation and acknowledgement between two persons.  
 __Hatch Act__  
 __hatch<sup>1</sup>__ _n_ _Hatch of insects._  
-__hatch<sup>2</sup>__ _v_ :seven: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
+__hatch<sup>2</sup>__ _v_ :eight: (hatches, hatched) To contrive or devise (a scheme, plot, etc). _I hatched a crazy passion project 6 months ago._ _A plan hatched during a road trip._ _Hatching tech secrets._ _The Play hatched plans at picnics._  
 __hatcheck girl__  
 __hatchery__ _n_ _A fish hatchery._ :es: criadero, vivero  
 __hatchet__ _n_ :two::hammer:  
@@ -7105,7 +7111,8 @@ __haul<sup>1</sup>__ _n_ :six::hammer: _A record haul of assets seized by Scotla
 __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passes._ _VAR failed to act as Tunisa hauled Harry Kane down twice following corners last night._  
 __hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
-__haunt__ _v_  
+__haunt<sup>1</sup>__ _v_  
+__haunt<sup>2</sup>__ _n_ _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
 __haunting__ _adj_ :dart: Continually recurring to the mind; unforgettable: _a haunting melody._  
 __hauteur__  
