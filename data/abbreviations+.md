@@ -33,6 +33,7 @@ __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).
 __COVID__ Short for coronavirus disease.  
 __CPR__ :two: Cardiopulmonary resuscitation.  
 __CVD__ Cardiovascular disease.  
+__CVS__ _n_ CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963.  
 __CVS__ Computer Vision Syndrome.  
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
