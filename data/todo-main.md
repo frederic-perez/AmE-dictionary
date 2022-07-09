@@ -1,18 +1,3 @@
-__gunslinger__ _n_  
-__haunting__ _adj_  
-__haunts__  
-__Hawkeye__ _n_ :astonished::mega: A native or inhabitant of Iowa (used as a nickname).  
-__hayride__ _n_ A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
-__hayrides__ _n_  
-__headbanger__  
-__headboard__ _n_  
-__headdress__ _n_ :pencil2:  
-__headland__  
-__headline__ _v_ _Prize-winning steaks headline the menu._  
-__headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is most often used figuratively to describe something done either in a reckless manner or without pause or delay. _He’s impulsive and often rushes headlong into new endeavors, giving little thought to long-term viability._  
-__headroom__ _n_  
-__heady__ _adj_ :two::hammer: _Heady events._  
-__hearsay__ _n_ __1__ Unverified information heard or received from another; rumor. __2__ (Law) A statement made out of court and not under oath which is offered as proof that what is stated is true.  
 __heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
 __hearty__ _adj_ _Hearty portions._  
 __hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  

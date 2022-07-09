@@ -6891,7 +6891,7 @@ __gunnel__ _n_ _The reel clanked once against the aluminium gunnel._
 __gunnysack__ _n_ :three: (gunnysacks) A bag made of burlap.  
 __gunpowder__  
 __gunship__ _n_ _Helicopter gunships._  
-__gunslinger__ _n_ __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
+__gunslinger__ _n_ :two: __1__ One who is armed with a gun, especially an outlaw. :es: _pistolero_ __2__ :two: A quarterback who plays the position in a decisive, aggressive manner. In order to be a gunslinger you must have the ability to throw deep, accurate passes. _The speed of a gunslinger._  
 __gunwale__ _n_ :four::mega: /ˈɡʌnəl, ˈgʌn l/ (gunnel) [:scroll: From gun + wale (a plank along the side of a ship), from its use as a support for guns in earlier times.] The upper edge of the side of a ship or a boat. The word is often used in the idiom “to the gunwales” meaning to be full, almost overflowing.  
 __guppy__ _n_ :four: Small freshwater fish of South America and the West Indies; often kept in aquariums.  
 __gurgle__ _v_ :two::hammer: (gurgled, gurgling) _He gurgled._  
@@ -7119,9 +7119,9 @@ __haul<sup>2</sup>__ _v_ :four::hammer: _Jacob and Davis each hauled in 10 passe
 __hauler__ _n_ :two::hammer: (or haulier)  
 __haunch__ _n_ :nine::m::camera: (haunches) __1__ _Anatomy_ The human hip or fleshy hindquarter of an animal, _esp_ a horse or similar quadruped. __2__ _Cookery_ The leg and loin of an animal, used for food: _a haunch of venison._ _Haunches of antelope._  
 __haunt<sup>1</sup>__ _v_  
-__haunt<sup>2</sup>__ _n_ _It is a favorite BYOD haunt._  
+__haunt<sup>2</sup>__ _n_ :two::hammer: _It is a favorite BYOD haunt._  
 __haunted__ _adj_ :two::hammer: _Haunted expression._ _Billy Lynn’s haunted face._  
-__haunting__ _adj_ :dart: Continually recurring to the mind; unforgettable: _a haunting melody._  
+__haunting__ _adj_ :dart::two: Continually recurring to the mind; unforgettable: _a haunting melody._  
 __hauteur__  
 __have someone’s back__  
 __have-not__ _n_ A person with few or no possessions.  
@@ -7130,6 +7130,7 @@ __Hawaiian<sup>1</sup>__ _adj_ :pencil2: Of or relating to or characteristic of 
 __Hawaiian<sup>2</sup>__ _n_ :pencil2: A native or resident of Hawaii.  
 __hawing__  
 __hawk__ _v_ :seven::hammer: (hawked) _Vendors hawk greeting cards and inexpensive artwork._ __2__ To clear or attempt to clear the throat by or as if by coughing up phlegm.  
+__Hawkeye__ _n_ :astonished::mega: A native or inhabitant of Iowa (used as a nickname).  
 __hawkish__ _adj_ :seven::hammer: _Hawkish views._ _Hawkish national security team._  
 __hawks__ _n_ _Hawks dream of airstrikes on Pyongyang._  
 __hawser__ _n_  
@@ -7137,6 +7138,7 @@ __hawthorn__ _n_ :four::hammer:
 __Hawthorne effect__ _n_ [:scroll: After Hawthorne Works, a factory complex of the Western Electric Company, where this effect was observed.] (Sociology) Improvement in the performance of employees, students, etc, brought about by making changes in working methods, resulting from research into means of improving performance.  
 __hay fever__ _n_ :three::hammer: (hayfever) _I suffer from hay fever congestions._  
 __haymaker__ _n_ _slang_ :three: A powerful blow with the fist.  
+__hayride__ _n_ :two: A pleasure ride or outing, esp. at night, by a group in an open wagon or truck partly filled with hay.  
 __haywire__ _adj_ :four::hammer: _To go haywire._  
 __hazard__ _n_ :two::hammer: _A 465-yard par with a water hazard._  
 __hazardous__ _adj_ :two::mega::hammer:  
@@ -7152,12 +7154,18 @@ __head__ _v_ _Head to Freakonomics.com._
 __head-butt__ _v_ _I head-butted, and I ended up paying ugly._  
 __head-spinning__ _adj_ :two: Dizzying, bewildering. _A head-spinning thing._  
 __head-to-head__ _adj_  
+__headbanger__  
+__headboard__ _n_  
 __headcheese__ _n_ (head cheese) _(Cookery) US and Canadian_ A seasoned jellied loaf made from the head and sometimes the feet of a pig or calf.  
-__headdress__ _n_ :three::pencil2::hammer: _The pharaoh’s headdress._  
+__headdress__ _n_ :four::pencil2::hammer: _The pharaoh’s headdress._  
 __header__ _n_ :three::hammer: _He scored with a header._  
 __headiest__  
-__headline__ _n_  
+__headland__  
+__headline<sup>1</sup>__ _n_  
+__headline<sup>2</sup>__ _v_ _Prize-winning steaks headline the menu._  
+__headlong__ _adv_ /HED-LAWNG/ Headlong can be a synonym of headfirst, but it is most often used figuratively to describe something done either in a reckless manner or without pause or delay. _He’s impulsive and often rushes headlong into new endeavors, giving little thought to long-term viability._  
 __headquarters__ _n pl_ (used with a sing. or pl. verb)  
+__headroom__ _n_  
 __heads up__ _n_ :three: A tip-off or small amount of information given in advance. _I appreciate the heads up._  
 __heads-up<sup>1</sup>__ _n_ _informal_ Information or notification; a warning message: _sending a heads-up to the Pentagon about possible attacks._  
 __heads-up<sup>2</sup>__ _adj_ Showing an alert, competent style: _play heads-up basketball._  
@@ -7168,12 +7176,12 @@ __headstrong__ _adj_ :two::dart: Determined to have one’s own way. _Syn_ stubb
 __headway > make headway__ _v_ :hammer::three: _Secetary Kerry has made headway against the odds._ _Yesterday I made a lot of headway._  
 __headway__ _n_ :two::dart: /ˈhɛdˌweɪ/ __2__ Progress or rate of progress: _he made no headway with the problem._ _Earl was making headway with the Mustang._  
 __headwind__ _n_ :seven: (headwinds) A wind blowing from directly in front, opposing forward motion. :es: viento en contra  
-__heady__ _adj_ :four: __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
+__heady__ _adj_ :six::hammer: _Heady events._ __4__ Showing intelligence and good judgment; prudent: _heady tactics._ _John was heady game._  
 __health condition__  
 __heap__ _n_ __1__ _informal_ A large amount (of something). _We’ve had a heap of problems getting our product out to market._  
 __hearing__ _n_ :two::hammer: _law_ _Court hearing._  
 __hearkened__  
-__hearsay__ _n_ :eight: Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._  
+__hearsay__ _n_ :nine: /ˈhɪəˌseɪ/ /ˈhɪərˌseɪ/ __1__ Unverified information heard or received from another; rumor. Something heard from another person, rumor. _Hearsay suggests that green apples can induce such a predicament._ __2__ (Law) A statement made out of court and not under oath which is offered as proof that what is stated is true.  
 __hearse__ _n_ :three: A vehicle for carrying a coffin to a church or a cemetery; formerly drawn by horses but now usually a motor vehicle. :es: coche fúnebre  
 __heart and soul__  
 __heartedly__  
