@@ -1,18 +1,3 @@
-__(Are) you kidding (me)?__  
-__as of today__  
-__beef up__  
-__call to action__  
-__check out__ __9__ _v_ _slang_ To die. _Doctor, I’m not ready to check out yet, so I’m willing to try your most aggressive approach._  
-__chip on one’s shoulder__  
-__curse a blue streak__ To use profane language with great rapidity and intensity. _My dad cursed a blue streak after he found out I’d put a dent in his car._  
-__don’t get me started__  
-__fall for (someone or something)__ _A mysterious phantom falls for a beautiful singer._  
-__far and wide__  
-__first things first__  
-__float (one’s) boat__ To make someone happy. Often used in the phrase “whatever floats (one’s) boat.” _A: “What do you want for dinner?” B: “Whatever floats your boat, I’m not even hungry.”_ _I think this new job in the lab will really float Isabel’s boat._  
-__frenemy__  
-__gender fluid__ Not strictly identifying as one distinct gender, perhaps identifying as a different gender at different times, or identifying as more than one gender at once. _My sex is male, but I’m gender fluid, and I feel more feminine than masculine some days._  
-__get (one’s) thinking cap on__ To begin thinking or considering very carefully and seriously (about something), often to solve a problem. _OK, fellas, if we all get our thinking caps on, I’m sure we can come up with a way to earn enough money to go to the baseball game this weekend._  
 __get a kick out of something__  
 __go along__  
 __go head to head__  
