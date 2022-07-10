@@ -7187,14 +7187,15 @@ __heart and soul__
 __heartedly__  
 __hearten__ _v_  
 __heartening__ _adj_ :dart: Causing cheerfulness; encouraging. _A heartening supper._ :es: alentador  
-__heartfelt__  
+__heartfelt__ _adj_ :two: /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
 __hearth__ _n_ :nine::m: __1__ The floor of a fireplace in a house and the area around it. _A log fire roaring in the hearth._ _Hearth repair._ __2__ Home symbolized as a part of the fireplace. _The fishing port of Jonqueres had 354 taxable hearths._ _Hearth tax._  
 __heartily__ _adv_ _A sentiment which I heartily applaud._  
 __heartland__ _n_ :two: The central or most important part of a country, area, or field of activity. _The nation’s heartland._  
 __heartstrings__ _pl n_ _often facetious_ Deep emotions or feelings. _To tug at one’s heartstrings._  
 __heartthrob__ _n_ :five::hammer::pencil2: (heart-throb)  
 __heartworm__  
-__hearty__ _adj_ :two::astonished: __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._  
+__hearty<sup>1</sup>__ _adj_ :eight::astonished:hammer: _Hearty fare._ __4a__ Enjoying or requiring much food: _a hearty appetite._ __b__ Providing abundant nourishment; substantial: _a hearty meal._ _Hearty food._ _Hearty portions._ _A hearty steakhouse menu._  
+__hearty<sup>2</sup>__ _n_  
 __heat > to catch a lot of heat__  
 __heatedly__ _adv_ _Clashed heatedly._  
 __heath__ _n_ :two::hammer: _Heath land._  
@@ -7202,8 +7203,9 @@ __heathen<sup>1</sup>__ _adj_
 __heathen<sup>2</sup>__ _n_ :five::hammer: _They were declared guilty of heathen practice._ :es: pagano  
 __heathenish__  
 __heathenism__  
-__heather__  
+__heather__ _n_ :three::hammer: _Heather-filled moors._ :es: brezo  
 __heathern__ _adj, n_  
+__heathland__ _n_ :two::hammer:  
 __heathy__  
 __heatwave__ _n_  
 __heave__ _v_ :six::hammer: _She felt her stomach heaving._ _She produced a school-record heave of 43’6.25 in taking the title._ _He walked over the heaving earth away from the hated sea._  
@@ -7218,7 +7220,7 @@ __heckle__ _v_ :three::hammer: (heckled)
 __heckler__ _n_ :four::hammer:  
 __heckling__ _n_ :two: The practice of calling out comments to interrupt a person making a speech.  
 __hectare__ _n_  
-__hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ :es: agitado  
+__hectic__ _adj_ :nine::m::dart: Characterized by intense activity, confusion, or haste. _Syn_ frantic, chaotic, frenzied, heated, wild, excited, furious, fevered, animated, turbulent, flurrying, frenetic, boisterous, feverish, tumultuous, flustering, riotous, rumbustious _The two days we spent there were enjoyable but hectic._ _The hectic pace of the city._ :es: agitado  
 __hector<sup>1</sup>__ _n_ A bully.  
 __hector<sup>2</sup>__ _v tr_ :four: To intimidate or dominate in a blustering way. _Chávez hectored the United States often._  
 __hector<sup>3</sup>__ _v intr_ To behave like a bully; swagger.  
@@ -7246,12 +7248,13 @@ __heir__ _n_ :mute:[~~h~~eir]
 __heirloom__ _n_ :five::hammer: _Family heirlooms._  
 __heisenbug__ _n_  
 __heist capers__  
-__heist__ _n_ :five: A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
+__heist__ _n_ :six: A robbery; a burglary. _A train heist._ _A jewelry heist._ _A true-life heist drama._  
 __heliacal__ _adj_ [:scroll: From Late Latin hēliacus, from Greek hēliakos, from hēlios, _sun_] Of or relating to the sun, especially rising and setting with the sun.  
 __heliograph__  
 __helipad__ _n_ :two::hammer:  
 __heliport__  
 __hell__ _n_ :two: __7__ _informal_ __a__ An outstanding or noteworthy example: _You are one hell of a good cook._ __b__ Used as an intensive: _How the hell should I know?_ _Hell yes!_  
+__Hell’s Kitchen__ _n_  
 __hellbent__ _adj_ :four::hammer: (hell-bent)  
 __hellbound__ _adj_ Bound for Hell; damned.  
 __hellish__ _adj_  
@@ -7266,7 +7269,7 @@ __helter-skelter__ _adv_ :two: In headlong and disorderly haste. _Syn_ wildly, r
 __hem<sup>1</sup>__ _n_ :three: __1__ An edge or border on a piece of cloth, especially a finished edge, as for a garment or curtain, made by folding an edge under and stitching it down. :es: dobladillo  
 __hem<sup>2</sup>__ _v_  
 __hemiparesis__ _n_ Paresis (paralysis) affecting one side of the body.  
-__hemlines__ _n_  
+__hemlines__ _n_ :two::hammer:  
 __hemlock__ _n_ :two::hammer: :es: cicuta  
 __hemmed__ _v_ :three::hammer:  
 __hemming__  
@@ -7280,7 +7283,7 @@ __henna__
 __henpeck__ _v tr_ /HEN-pek/ [:scroll: The word hen has been used for a woman or a girl for a long time (1555). So has the verb peck for nagging (1641).] To criticize, nag, pester, etc. in a persistent manner. The word is often used in reference to a wife nagging her husband. A henpecked husband is one considered subservient to his wife and a chickenpecked parent is one nagged, harassed, or bullied by a child. _Syn_ carp at, fuss at, nag, peck at, pick on  
 __Henrietta Lacks__ _n_  
 __Henry__ _adj_ (urban dictionary) Word that can be used to describe somebody who is incredibly attractive and good looking and with amazing body and hair.  
-__herald__ _v_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
+__herald__ _v tr_ :nine::m::mega: /HAIR-uld/ (heralded) __1__ To proclaim, especially with enthusiasm; announce or acclaim: _cheers that heralded the team’s arrival._ _The community heralded his work._ _They have a heralded arrival to Coney Island on the “bus of champions.”_ __2__ To be a sign of; foreshadow: _The discovery heralds a new era in drug treatment._  
 __herd immunity__ _n_  
 __herdsman__ _n_  
 __here’s looking at you__  
@@ -7292,6 +7295,7 @@ __heriot__ _n_
 __herky-jerky__ _adj_ Spasmodic, irregular, and unpredictable, as in movement or manner. _Herky-jerky driving._  
 __hermeneutic__ _adj_  
 __hermit__  
+__hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
 __Herod__ _n_  
 __Herodotus__ _n_  
 __heroics__ _n_ Ostentatious or vainglorious or extravagant or melodramatic conduct. _DH David Ortiz will be remembered for his postseason heroics._  
@@ -7299,6 +7303,7 @@ __heroine__ _n_ _Heroine stories._
 __heron__ _n_ :three::hammer: (herons)  
 __herring__ _n_ :two::hammer:  
 __herringbone__ _n_ _Basketball shoes with herringbone designs._  
+__Hershey kisses__  
 __Hershey, PA__ _n_ Hershey is an unincorporated community and census-designated place in Derry Township, Dauphin County, Pennsylvania, US. Hershey’s chocolates are made in Hershey, which was founded by candy magnate Milton S. Hershey. It is popularly called “Chocolatetown, USA.” Hershey is also referred to as “The Sweetest Place on Earth.”  
 __hesitant__  
 __hesperidium__ _n_ The fruit of a citrus plant, as an orange.  
@@ -7307,9 +7312,9 @@ __hex key__ _n_ Allen key. _Hex key set._
 __hex<sup>1</sup>__ _n_ :astonished: _Looking for a hex-breaking sign._  
 __hex<sup>2</sup>__ _v_ __1__ To put a hex on. __2__ To bring or wish bad luck to.  
 __hey__  
-__heyday__ _n_ :seven: The period of one’s greatest popularity, vigor, or prosperity.  
+__heyday__ _n_ :eight: The period of one’s greatest popularity, vigor, or prosperity.  
 __hi-rail truck__ _n_ :camera:  
-__hibachi__  
+__hibachi__ _n_ :two::hammer:  
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  

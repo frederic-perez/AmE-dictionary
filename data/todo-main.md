@@ -1,18 +1,3 @@
-__heartfelt__ _adj_ /ˈhɑrtˌfɛlt/ Deeply or sincerely felt: _heartfelt sympathy._  
-__hearty__ _adj_ _Hearty portions._  
-__hearty<sup>1</sup>__ _adj_ :five::hammer: _Hearty fare._ _A hearty steakhouse menu._  
-__hearty<sup>2</sup>__ _n_  
-__heather__ _n_ :two::hammer: _Heather-filled moors._ :es: brezo  
-__heathland__ _n_ :two::hammer:  
-__hectic__ _adj_ _The hectic pace of the city._  
-__heist__ _n_  
-__Hell’s Kitchen__ _n_  
-__hemlines__ _n_  
-__herald__ _v tr_  
-__hermitage__ _n_ /ˈhɜr mɪ tɪdʒ/ The habitation of a hermit or group of hermits. _Syn_ abbey, monastery, retreat _He spent two years in his hermitage near the lake, pondering the mysteries of the universe._  
-__Hershey kisses__  
-__heyday__ _n_  
-__hibachi__ _n_  
 __hickory__ _n_ _Hickory charcoal-grilled steaks._  
 __highlands__  
 __hiker__ _n_ :two::hammer:  
