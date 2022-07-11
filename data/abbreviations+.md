@@ -33,8 +33,7 @@ __COPD__ Chronic Obstructive Pulmonary Disease (emphysema).
 __COVID__ Short for coronavirus disease.  
 __CPR__ :two: Cardiopulmonary resuscitation.  
 __CVD__ Cardiovascular disease.  
-__CVS__ _n_ CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963.  
-__CVS__ Computer Vision Syndrome.  
+__CVS__ __1__ Computer Vision Syndrome. __2__ CVS Pharmacy, Inc. is an American retail corporation. A subsidiary of CVS Health, it is headquartered in Woonsocket, Rhode Island. It was also known as, and originally named, the Consumer Value Store and was founded in Lowell, Massachusetts, in 1963.  
 __D&D__ :three: Dungeons and Dragons.  
 __DAX__ The DAX (Deutscher Aktienindex (German stock index)) is a blue chip stock market index consisting of the 30 major German companies trading on the Frankfurt Stock Exchange.  
 __DEA__  
@@ -71,6 +70,7 @@ __GWB__ George Washington Bridge.
 __GWTW__ Gone With The Wind.  
 __HDL-C__ High-density-lipoprotein cholesterol.  
 __HIV__  
+__HMS__ Her (or His) Majesty’s Ship.  
 __HSIA__ High speed Internet access.  
 __HVAC__  
 __hx__ Medical history. _The only relevant hx is WPW ablation 20 years prior._  
@@ -80,7 +80,7 @@ __ie.__ That is to say.
 __IFU__ Instructions for use.  
 __IIRC__ _chat_ If I recall correctly.  
 __INRI__ _Latin_ Iesus Nazarenus Rex Iudaeorum. Latin for “Jesus of Nazareth, King of the Jews.” These words were hung above Jesus during the crucifixion. These words were hung over Jesus as a mockery.  
-__intl__ International.
+__intl__ International.  
 __IOU__ _n_ :two: (I.O.U.) [:scroll: C17: representing _I owe you_] A paper that has on it the letters IOU, a stated sum, and a signature and that is given as an acknowledgment of debt. _Um, this is just a dirty sneaker and an I.O.U._ _He has written IOUs, but never paid._  
 __IP__ Intelectual property.  
 __IRS__ _n_ :five: _Internal Revenue Service_  
@@ -144,6 +144,7 @@ __PPD__ Postponed. _(sporting events)_
 __PPE__ :two: Personal protective equipment: clothing and equipment used to ensure personal safety in the workplace.  
 __PPG__ (ppg) Points per game. _Sanders is averaging 13.3 ppg._  
 __ppl__ _informal_ People.  
+__pppn__ _abbr_ Per person per night.  
 __PR__ _The PR version of my life._  
 __PTO__ Parent Teacher Organization.  
 __PTSD__ :four: Post-traumatic stress disorder.  
@@ -175,6 +176,7 @@ __T__ _v_ _His car shit the bed so he’s going to have to T it._
 __T-storm__ Thunderstorm.  
 __TBD__ To Be Determined/Defined/Decided/Done/Developed/Discussed...  
 __TBH__ To be honest.  
+__TFG__ Abbreviation of “The Former Guy.” The use of “The Former Guy” as a way of referring to Donald Trump was inspired by President Joe Biden dismissively referring to him as “the former guy” when pivoting away from questions about his predecessor during a February 2021 town hall.  
 __TLA__ Three letter acronym. _Digital clinical safety (DCS—yes, another TLA) refers to the systems set up to prevent patients and staff from being harmed as a result of digital technologies used in healthcare._  
 __TM__ :three: Trascendental meditation.  
 __TMI__ Too much information.  

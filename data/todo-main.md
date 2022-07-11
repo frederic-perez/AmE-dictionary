@@ -1,5 +1,6 @@
 __basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
 __behemoth__ _n_ /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
+__belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __bromance__ _n_ /BRO-mans/ A close friendship between men.  
 __calamitous__ _adj_ Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
 __carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
@@ -191,6 +192,7 @@ __Mandela effect__ _n_ A phenomenon involving a large group of people all incorr
 __maneurisms__ _n_  
 __manic episode__ _n_  
 __manifold__ _adj_ :two::hammer: _Eating and relaxing opportunities are manifold._ _Physical activity: manifold benefits for health and wellbeing._  
+__marinate__ _v_  
 __maritime__  
 __marjoram__ _n_  
 __marquee__  
@@ -421,7 +423,7 @@ __pewter__ _n_ :two::hammer:
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
 __phenom__  
 __Philly__ _n_ _The small-time Philly boxer Rocky Balboa._  
-__pickleball__ _n_ A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
+__pickleball__ _n_ :two: A paddleball sport (similar to a racquet sport) that combines elements of badminton, table tennis, and tennis.  
 __picknicking__ _v_  
 __pico de gallo__ _n_ :two::hammer:  
 __picturesque__ _adj_ :four::hammer:  
@@ -433,6 +435,7 @@ __pine nuts__
 __pinguid__ _adj_ Fat; oily. _Syn_ oily _His car was splattered with some sort of pinguid substance, and trying to wash it away only seemed to spread the mess._  
 __pinstripes__ _n_  
 __piquancy__  
+__pique__ _v_ _The video piqued your interest._  
 __piscine__ _adj_ :astonished: /ˈpɪsaɪn/ (Zoology) Of, relating to, or resembling a fish.  
 __pizzeria__ _n_ :mega:  
 __planter__ _n_ :three: __3__ An early settler or colonist.  
@@ -601,6 +604,7 @@ __running shoes__ _n_
 __runway__ _n_  
 __Russian salad__ _n_  
 __rut__ _n_  
+__s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usually toasted over a campfire, and thin slabs of chocolate, which are then sandwiched together between graham crackers.  
 __sable__ _n_ (animal)  
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  

@@ -18,7 +18,7 @@ __fiddlesticks__ Used to express mild annoyance or impatience. _Syn_ nonsense :e
 __fucking A__ _taboo_ _slang_ :two::hammer:  
 __gah__ An interjection denoting frustration and/or excitement. _Gah! I scored only 95 on my last science exam. They’ll never let me back into the science club again._  
 __gee__ _informal_ A mild expression, typically of surprise, enthusiasm, or sympathy. _Gee, Linda looks great at fifty!_  
-__giddy up__ Said to make a horse start moving or go faster. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
+__giddy up__ :two: (giddyup) Said to make a horse start moving or go faster. Used to command a horse to go ahead or go at a faster pace. _‘Giddy-up!’ he cried and cracked his whip._ :es: arre  
 __golly__ Used to express mild surprise or wonder. Originally a euphemism for God.  
 __Good golly[, Miss Molly!]__ _informal_ An exclamation of surprise. Popularized by Little Richard’s 1958 song of the same name. _Good golly, Miss Molly—you scared me!_  
 __gramercy__ _interj_ _Archaic_ _The Gramercy section of NYC._  
