@@ -9,6 +9,7 @@ __hands down__
 __heavy-duty__  
 __homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homespun<sup>2</sup>__ _n_ Homemade liquor or beer. _Jed offered a little of his homespun round the table._  
+__in front of (one’s) very eyes__ Right in plain sight or while one is watching. _Someone smashed into my parked car in front of my very eyes._  
 __in the know__ :two::hammer:  
 __knocked out of the park__  
 __knuckle-dragger__ A stupid, oafish person, especially a large man. An allusion to an ape. Often spelled without a hyphen. _My sister has started dating some knuckle-dragger she met down at the gym, much to my parents’ chagrin._  
@@ -126,6 +127,7 @@ __take a seat__ To be seated; to select a place to sit. (Often an invitation or 
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
 __take pride__ :two::hammer:  
 __take the edge off__  
+__talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :two::hammer:  
 __tap into__  
@@ -146,6 +148,7 @@ __the rabbit died__ [:scroll: From an early pregnancy test developed in 1931 in 
 __the spur of the moment__  
 __the terrible twos__ A developmental stage of children, generally at or around the age of two, marked by increased rebelliousness and frequent tantrums. _Becca’s been having really bad temper tantrums lately and just keeps saying “no” to everything we say to her. I guess she’s going into the terrible twos._  
 __the toast of (the town)__ Someone who is especially well-liked, regarded, or admired in a certain place. _The young entrepreneur’s new tech innovation has made him the toast of the town in Silicon Valley._  
+__the unwashed masses__ The broader general public, especially those of the lower and lower-middle classes. _The film didn’t cause too great a stir with the unwashed masses, but it has been considered a milestone in cinematic achievement among film critics._  
 __the whole shebang__  
 __the witching hour__ __1__ A late time of night, most often midnight, sometimes associated with the appearance of supernatural forces or entities. _Halloween was the only night of the year that our parents would let us stay up until the witching hour._ __2__ The time just before bedtime when children become overactive or overly excited. _Sorry for all the noise, we’re heading into the witching hour with the kids now._  
 __the wrong crowd__ A group of people, typically peers, who partake in and elicit immoral, criminal, and/or dangerous behavior and attitudes. _Mary had been a model student all her life, but when she got to senior year of high school, she started hanging out with the wrong crowd, and her grades suffered as a result._  

@@ -1,3 +1,13 @@
+__basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
+__behemoth__ _n_ /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
+__bromance__ _n_ /BRO-mans/ A close friendship between men.  
+__calamitous__ _adj_ Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
+__carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
+__deadname<sup>1</sup>__ _n_ (dead name) The name that a transgender person was given at birth and no longer uses upon transitioning. _“Bruce” is Caitlyn Jenner’s dead name._  
+__deadname<sup>2</sup>__ _v tr_ (dead name) To speak of or address (someone) by their deadname. _Please stop dead naming Caitlyn Jenner as “Bruce.”_  
+__derecho__ _n_ /də-rā′chō/  
+__fifth__ _adj, adv, n_ :mega: /fɪfθ or, often, fɪθ/  
+__gibbous__ _adj_ /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
 __hickory__ _n_ _Hickory charcoal-grilled steaks._  
 __highlands__  
 __hiker__ _n_ :two::hammer:  
@@ -134,13 +144,14 @@ __liquidate__ _v_ _The store liquidates overstocks and discontinued items._
 __lissome__ _adj_ Easily bent; supple. _Syn_ lithe, supple, slender _There was a grace, which no austerity could diminish, about every movement of her lissome, slender form._  
 __listicle__ _n_ /LIS-ti-kuhl/ An article or other piece of writing structured in the form of a list.  
 __living statue__  
-__loanword__ _n_  
+__loanword__ _n_ :two::hammer:  
 __lobe__ _n_ A rounded projection, especially an anatomical part. _Syn_ projection _She fastened her earrings, three brilliant pendants that glistened most beautifully, through the pierced lobes of her ears._  
 __lodge__ _n_ :two::hammer: _Sit on the lodge’s back patio._  
 __loggery__ _n_  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
+__loquacious__ _adj_ :astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __lore__ _n_ :three::hammer: _Crazy folk lore._  
 __lot__ _n_ :two::hammer: _Every choice of lot is imaginable._  
 __lout__ _n_ /LOUT/ A lout is a person who is both awkward and brutish. A clumsy, boorish person; oaf. _To get away from the obnoxious louts they’d been seated near, Jared and Fiona asked the waiter if they could be moved to another table._  
@@ -447,6 +458,7 @@ __pontoon__ _n_ _Pedal a pontoon boat._
 __pool table__  
 __pool__ _n_ :two::hammer: _Heated pool._  
 __pork pie__ _n_  
+__postulate__ _v_ /PAHSS-chuh-layt/ To assume or claim something (such as an idea or theory) as true especially for the purposes of starting a discussion. _The famous science-fiction author often postulates in interviews that we live in but one of an infinite number of parallel universes._  
 __potentate__ _n_ One who has the power and position to rule over others. _Syn_ dictator _She was a potentate in her home, all her relatives being too cowed to protest her decisions._  
 __potsticker__ _n_  
 __potty-train__ _v_  
@@ -513,6 +525,7 @@ __rampant__ _adj_
 __rampart__ _n_  
 __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to be repaired. _The company was contracted to demolish the ramshackle apartments._ __2__ Carelessly or loosely constructed. _The reviewer of the book said it had a ramshackle plot that was confusing and unbelievable._  
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
+__raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
@@ -601,6 +614,7 @@ __samurai__ _n_ :mega:
 __sandcastle__ _n_ _Have a sandcastle building competition._  
 __sangria__ _n_  
 __Saratoga__ _n_  
+__sardonic__ _adj_ Scornfully or cynically mocking. _Syn_ wry _He continued to grin with a sardonic humor, with a cynical mockery and defiance._  
 __sari__ _n_ /ˈsɑːrɪ/ (saree) An Indian or Pakistani women’s garment consisting of a length of cloth wrapped around the waist like a skirt then draped over the shoulder and sometimes the head.  
 __sassy__  
 __sauerkraut__ _n_  
@@ -738,6 +752,7 @@ __spur__ _n_ 7. _Physical Geography_ A ridge projecting laterally from a mountai
 __spurious__ _adj_ Lacking authenticity or validity in essence or origin; not genuine. _Syn_ specious, unauthentic _The professor explained to the student that her essay had received a “C” due to numerous examples of spurious reasoning._  
 __squats__ _n_  
 __squeamish__ _adj_  
+__staddle__ _n_ /ˈstædəl/ __1__ A support or prop, esp a low flat-topped stone structure for supporting hay or corn stacks about two feet above ground level. _Staddle stones are mushroom-shaped stones on which granaries are rested. This helps keep the grain dry and stops rodents from climbing in._ __2__ A supporting frame for such a stack __3__ The lower part of a hay or corn stack.  
 __staffer__ _n_ A member of a staff: _White House staffers._ _Campaign staffer._  
 __stage play__  
 __stage show__  
@@ -1013,6 +1028,7 @@ __wishy-washy__
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  
 __woad__ _n_ :two: __1__ A European herb (_Isatis tinctoria_) of the mustard family formerly grown for the blue dyestuff yielded by its leaves. __2__ The blue dye obtained from the dried, fermented leaves of such plants. :es: pastel  
+__womance__ _n_ A close friendship between women.  
 __wondrous__ _adj_ :three::hammer:  
 __wonky__ _adj_  
 __word-hoard__ _n_ :dart: A person’s vocabulary.  
