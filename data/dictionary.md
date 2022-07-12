@@ -1095,6 +1095,7 @@ __basement__
 __bash<sup>1</sup>__ _n_ :two::hammer: _A company anniversary bash._ _A pre-movie bash of magical proportions._  
 __bash<sup>2</sup>__ _v_ :two::hammer:  
 __bashful__  
+__basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
 __basil__ _n_ :es: albahaca  
 __basin__ _n_ :two::hammer:  
 __basing__  
@@ -1205,7 +1206,7 @@ __begrudge__ _v_ :six: To envy the possession or enjoyment of. _Syn_ envy _I beg
 __begrudgingly__ _adv_ :two::hammer: :es: de mala gana, a regañadientes  
 __beguile__ _v_ :eight: (beguiled, beguiling) __1__ To deceive by guile or charm: _beguiled unwary investors._ __2__ To deprive (someone) of something by guile or deceit; cheat: _a disease that has beguiled me of strength._ __3__ To distract the attention of; divert: _“to beguile you from the grief of a loss so overwhelming”_ (Abraham Lincoln). __4__ To amuse or charm; delight or fascinate. __5__ To pass (time) pleasantly.  
 __beguiling__ _adj_ :four: Agreeably or charmingly attractive or pleasing. _The Artist has an utterly beguiling purity._  
-__behemoth__ _n_ :seven: (behemoths) __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization.  
+__behemoth__ _n_ :eight: /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] __1__ A huge or monstrous creature. __2__ Something enormous, especially a large and powerful organization. Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
 __behest__ _n_ :seven::dart: /bih-HEST/ An authoritative order or an urgent prompting. A person’s orders or command. _Syn_ Instruction, bidding, request _They had assembled at his behest._ _The committee met again at the behest of the senator._  
 __behold__ _v_ :seven::hammer: _The wedding ceremony was a joy to behold._ _They are a genuine delight to behold._ _Sirs, behold me here!_  
 __beholden__ _adj_ :nine::m: Owing thanks or having a duty to someone in return for help or a service. _Syn_ indebted, obligated, under an obligation, obliged, bound _I don’t like to be beholden to anybody._  
@@ -1248,6 +1249,7 @@ __belt out__
 __belt socket__ _n_  
 __belt__ _n_ A swallow or a gulp of an alcoholic drink.  
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
+__belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
 __belvedere__ _n_ :two::hammer: _Towers with belvederes and balconies._  
 __belying__ _v_  
@@ -1877,7 +1879,7 @@ __broken__ _adj_ :two::dart: Lacking fluency. _Broken English._
 __broker<sup>1</sup>__ _n_  
 __broker<sup>2</sup>__ _v_ :seven::hammer: (brokered) _The secretary-general brokered a truce that did not hold._ _Failure to broker a deal means a recession is imminent._ _Negotiations brokered by the Vatican._ _They brokered deals for new business ventures._  
 __brokerage__ _n_  
-__bromance__ _n_ :two::hammer:  
+__bromance__ _n_ :three: /BRO-mans/ A close friendship between men.  
 __bromide__ _n_ __2a__ A commonplace remark or notion; a platitude. _Syn_ cliché __b__ A tiresome person; a bore.  
 __bronc__ _n_ A bronco. _Bull and bronc riding._  
 __bronchus__ _n_ Either of two main branches of the trachea, leading directly to the lungs.  
@@ -2200,7 +2202,7 @@ __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or p
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
 __cake__ _n_ :two::dart: __1__ Money. (From bread, dough.) _I can’t scrape together enough cake to do the job._ _They cost a lot of cake._  
 __cakewalk__  
-__calamitous__ _adj_ :mega: Causing or involving calamity; disastrous.  
+__calamitous__ _adj_ :two::mega: Causing or involving calamity; disastrous. Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
 __calamity__ _n_ :two::mega::hammer:  
 __calcareous__ _adj_ Of, containing, or resembling calcium carbonate. _Syn_ chalky  
 __calendar girl__  
@@ -2364,6 +2366,7 @@ __carom<sup>1</sup>__ _v_ :five::hammer: (caromed, caroming)
 __carom<sup>2</sup>__ _n_ (caroms)  
 __carouse__ _v_ :six: (caroused, carousing) To drink large amounts of alcohol, especially in boisterous merrymaking. _Syn_ roister _They were so happy to be finished with exams that they continued to carouse until morning, when the bartender finally asked them to leave._  
 __carousel__  
+__carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
 __carpet bombing__  
 __carping__ _adj_ :two: Naggingly critical or complaining. _Carping and critical wives._  
 __carpool__ _v_ :four::hammer:  
@@ -3872,6 +3875,8 @@ __deadbeat__ _adj_ :three::hammer: _A union deadbeat._
 __deadline__ _n, v_ _He will put France out of NATO by the deadline of April 4, 1969._  
 __deadlock__ _n_ /ˈdɛdˌlɒk/  
 __deadly__ _adv_ __1__ So as to suggest death. __2__ To an extreme: _deadly serious._  
+__deadname<sup>1</sup>__ _n_ (dead name) The name that a transgender person was given at birth and no longer uses upon transitioning. _“Bruce” is Caitlyn Jenner’s dead name._  
+__deadname<sup>2</sup>__ _v tr_ (dead name) To speak of or address (someone) by their deadname. _Please stop dead naming Caitlyn Jenner as “Bruce.”_  
 __deadpan<sup>1</sup>__ _adj_ _Deadpan delivery of nonsensical jokes._  
 __deadpan<sup>2</sup>__ _v_ :two: (deadpanned) To express in an impassive, matter-of-fact way. To behave or perform in a deadpan manner.  
 __deafblind__ _adj_ (deaf-blind) Being both deaf and blind.  
@@ -4071,7 +4076,7 @@ __derail__ _v_
 __derange__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derangement__ _n_  
-__derecho__ _n_ :two: A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
+__derecho__ _n_ :three: /də-rā′chō/ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__ _n_ :two::hammer:  
 __deride__ _v tr_ __1__ To laugh at or insult contemptuously: _got derided by a carnival clown._ __2a__ To subject to usually bitter or contemptuous ridicule or criticism: _politicians deriding their opponents._ __b__ To express a lack of respect or approval of: _were derided as the weaker sex._  
@@ -5620,6 +5625,7 @@ __fiery__ _adj_ :three::hammer: _A fiery Tabasco-ish sauce._
 __fife__ _n_ :two::camera: A small, high-pitched, transverse flute used primarily to accompany drums in a military or marching band.  
 __fifer__  
 __fifth wheels__  
+__fifth__ _adj, adv, n_ :mega: /fɪfθ or, often, fɪθ/  
 __figgy pudding__ _n_ A type of Christmas pudding which was originally made with figs.  
 __fight club__  
 __fight tooth and nail__  
@@ -6432,6 +6438,7 @@ __ghoul__ _n_ :six::mute:[g~~h~~oul]::mega::hammer: (ghouls)
 __ghoulish__ _adj_ :four: Strangely diabolical or cruel; monstrous. Of or relating to ghouls; morbid or disgusting; unhealthily interested in death.  
 __gibbet__ _n_ :two::hammer: :es: horca  
 __gibblets__ _n_  
+__gibbous__ _adj_ /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
 __gibe__ _n_ :two: A derisive or provoking remark. _Syn_ barb, dig, shot _The referee heard the gibes from the crowd, but, ever the professional, ignored them._ _Many seigneurs returned to face gibes or sudden hostility._  
 __gibed__ _v_  
 __gibes__  
@@ -7318,7 +7325,7 @@ __hibachi__ _n_ :two::hammer:
 __hick__ _n_ :two::hammer: _A collection of web-toed hicks._  
 __hickey__ _n_ :two: A love bite, a mark on the neck or face caused by a lover biting or sucking the skin.  
 __hickory shaft__  
-__hickory__  
+__hickory__ _n_ :two::hammer: _Hickory charcoal-grilled steaks._  
 __hideaway__ _n_ :two: An area where you can be alone. _Syn_ retreat  
 __hidebound__ _adj_ :four: Stubbornly conservative and narrow-minded. _Syn_ traditionalist _It is no use trying to reason with your grandfather, he is a hidebound old man who will never understand your position on the matter._  
 __hideous__ _adj_ :four: Very ugly. _A hideous practice._  
@@ -7346,6 +7353,7 @@ __high-spirited__ _adj_ Joyously unrestrained. _Syn_ ebullient, exuberant
 __high-tail__ _v_  
 __highball__ _n_ _The passengers were sipping highballs at the bar._  
 __highfalutin__ _adj_  
+__highlands__  
 __highlight__ _v_  
 __highly__ _adv_ _I highly recommend it._  
 __hightail__ _v intr_ [:scroll: From reference to animals such as cows, rabbits, and deer that raise their tails when fleeing.] To move quickly, especially in retreat or in fleeing.  
@@ -7353,6 +7361,7 @@ __hijab__ _n_ :four::camera::hammer: (hijabs)
 __hijinks__ _n_ :two: Noisy and mischievous merrymaking. _Syn_ high jinks, high jinx, jinks _Adolescent hijinks._  
 __hike<sup>1</sup>__ _n_ :four::hammer: _A hike in base wages._  
 __hike<sup>2</sup>__ _v_ :two::hammer: _Hiked prices._  
+__hiker__ _n_ :two::hammer:  
 __hilarious__ _adj_ Very funny.  
 __hilarity__ _n_ Great merriment. _Syn_ glee, mirthfulness  
 __hillbilly__ _n_ :two::hammer:  
@@ -7365,6 +7374,7 @@ __hinge__ _v_
 __hinky__  
 __hinterland__ _n_ :five: /ˈhɪntəland/ [:scroll: from German, from hinter ‘behind’ + ‘land’] The remote areas of a country away from the coast or the banks of major rivers. _Syn_ the back of beyond, the middle of nowhere, the backwoods, the wilds _The hinterland of southern Italy._  
 __hip flask__ _n_ :camera:  
+__hip__ _adj_ :three::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._  
 __hipper__ _adj_ :two::hammer: _Hipper Nancy Drew._  
 __hippocampus__ _n_ :pencil2:  
 __hippocras__ _n_ (in the Middle Ages) A medicinal cordial of spiced wine.  

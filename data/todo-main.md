@@ -1,18 +1,3 @@
-__basically__ _adj_ :mega: /ˈbeɪsɪklɪ/  
-__behemoth__ _n_ /bih-HEE-muth/ [:scroll: Behemoth (usually capitalized) is the name of a mighty animal described in the biblical book of Job.] Something of monstrous size, power, or appearance. _The town will be voting on whether or not to let the retail behemoth build a store on the proposed site._  
-__belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
-__bromance__ _n_ /BRO-mans/ A close friendship between men.  
-__calamitous__ _adj_ Having extremely unfortunate or dire consequences; bringing ruin. _Syn_ disastrous, fatal, fateful, black _Sire, I ask your majesty’s pardon for the calamitous news which I bring._  
-__carp__ _v_ /KAHRP/ To carp means “to complain in an annoying way,” and often suggests that such complaining is habitual. _He carps too much about the umpire’s bad calls when he should be focused on improving his swing._  
-__deadname<sup>1</sup>__ _n_ (dead name) The name that a transgender person was given at birth and no longer uses upon transitioning. _“Bruce” is Caitlyn Jenner’s dead name._  
-__deadname<sup>2</sup>__ _v tr_ (dead name) To speak of or address (someone) by their deadname. _Please stop dead naming Caitlyn Jenner as “Bruce.”_  
-__derecho__ _n_ /də-rā′chō/  
-__fifth__ _adj, adv, n_ :mega: /fɪfθ or, often, fɪθ/  
-__gibbous__ _adj_ /JIB-us/ Gibbous is most often used to describe a moon or planet that is seen with more than half, but not all, of the apparent disk illuminated. _The lake’s calm surface glistened under the light of the waxing gibbous moon._  
-__hickory__ _n_ _Hickory charcoal-grilled steaks._  
-__highlands__  
-__hiker__ _n_ :two::hammer:  
-__hip__ _adj_ :three::hammer: _Hip restaurants._ _Gotta find a new place where the kids are hip._  
 __hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoedowns__ _n_  
 __hokum__ _n_ __1__ Utter nonsense; bunkum.  
