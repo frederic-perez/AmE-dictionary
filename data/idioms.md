@@ -587,6 +587,7 @@ __conspicuous consumption__ :two: The lavish expenditure of money or acquisition
 __contend with (someone or something) for (something)__ To compete against someone or something for something. _Andy hasn’t trained enough to contend with other swimmers his age for a win. If you push him to enter this race, he’ll just end up disappointed._  
 __control freak__ :two::hammer:  
 __cool (one’s) heels__ To wait, sometimes so that one becomes calmer or more composed.  
+__cool head__ The ability to remain calm and rational during stressful situations. _The successful outcome of the hostage situation was due to the police officer°s cool head._  
 __cool it__  
 __cool your jets!__ Calm down! This caution began with air force pilots reducing their jet planes’ air speed and, by so doing, reducing strain on the engine caused by excess heat. Among similar “relax!” phrases are “hold your horses!” “chill out!” “keep your pants on!” and “don’t get your bowels in an uproar!”  
 __coop up__ To restrict someone or something to a particular, usually small, space for a length of time. A noun or pronoun can be used between “coop” and “up.” _Just let the dogs run in the yard—they’ve been cooped up all day._ _After that snowstorm cooped us up for days, we were thrilled to leave the house again._  
@@ -880,6 +881,7 @@ __full of beans__ :two: To have a lot of energy.
 __full of hot air__ :dart: Full of lies, exaggerations, or nonsense. _Oh, you can’t believe a word that guy says—he’s full of hot air._  
 __full of shit__ :two: _slang_ _rude_ Unreliable or ridiculous; saying unfounded, incorrect, or nonsensical things. _You can’t listen to Sean, he’s full of shit! He doesn’t know any more about robotics than we do. All these new touchy-feely parenting books are full of shit, if you ask me._  
 __full package__  
+__full stop__  
 __funny feeling__ An intuition or premonition about something; a sense of foreknowledge about a situation, condition, or set of circumstances.  
 __gag me with a spoon__ An expression of disgust or annoyance.  
 __game changer__  
@@ -898,10 +900,11 @@ __get a grip__ :two::hammer:
 __get a handle on (something)__ _UAVs are used to get a handle on what’s going on._  
 __get a hold on/of (oneself)__  
 __get a jump on (someone or something)__  
-__get a kick out of (someone or something)__ :seven: To get a sense of enjoyment, amusement, or excitement from someone or something. _Even as an adult, I still get a kick out of building sandcastles at the beach._ _You’ll get a kick out of this!_  
+__get a kick out of (someone or something)__ :eight: To get a sense of enjoyment, amusement, or excitement from someone or something. _Even as an adult, I still get a kick out of building sandcastles at the beach._ _You’ll get a kick out of this!_  
 __get ahead of (oneself)__ To plan or become overly excited for a possible future event.  
 __get along with__ To have a good relationship with someone.  
 __get around to__ :dart: (get round to) Find the time or occasion for, as in _Dean never gets around to cleaning up the garage._ _Dreams and goals I might get around to at some time._  
+__get around__  
 __get down to work__ To begin being serious about something; to begin attending to business or work at hand.  
 __get going__  
 __get in the last word__ To express the final point or opinion in an argument or discussion, especially in a way that decisively or conclusively ends it.  
@@ -965,6 +968,7 @@ __glimmer of hope__ :two: A minute indication that something may improve, succee
 __go (one’s) (own) way__ To proceed, act, or do things in a direction or manner as one so chooses or desires, especially as is distinct, separate, or different from that of others.  
 __go a long way__ :dart::five: __1__ To achieve much success. _You’ll go a long way if you learn to never quit._ __2__ To be very useful or helpful. _Don’t do anything rash—patience will go a long way toward bringing you allies in this situation._ _Go a long way toward minimizing damage._ _Good looks and youth went a long way._  
 __go after (someone or something)__  
+__go along__  
 __go at (something)__ To engage in or undertake something with great energy, enthusiasm, or vigor.  
 __go at it hammer and tongs__ To do something or perform some task with tremendous fervor, determination, energy, or forcefulness. An allusion to the force with which a blacksmith strikes metal using a hammer and tongs.  
 __go back to square one__ To start from the beginning.  
@@ -976,6 +980,7 @@ __go for broke__ :dart: To give something one’s full effort. _We have to go fo
 __go Galt__ To reduce, restrict, or cease one’s work or productivity as a means of social protest against increased marginal tax rates, limits on tax deductions, or the use of tax income for purposes one finds morally objectionable. Taken from the name John Galt, a character in Ayn Rand’s novel _Atlas Shrugged_. Primarily heard in US, South Africa. _Living abroad, I only have to pay U.S. taxes if my income exceeds $95,000 a year, so I’ll just go Galt if I ever come close to earning that amount._  
 __go great lengths__ :two::hammer: _Emotionally intelligent leaders go to great lengths not to be bowled over by their emotions, let alone spread the negative ones._  
 __go halfsies__ _slang_ To share something, especially the cost of something, in equal proportion between two people. _You wanna go halfsies on the bill?_ _I don’t feel like cooking tonight, let’s go halfsies on a pizza instead._  
+__go head to head__  
 __go native__ :astonished: _You going native on me, Supercop?_  
 __go off in a huff__ To leave in an angry, belligerent, or vexed mood.  
 __go off the handle__ To become uncontrollably angry; to lose control of one’s temper. _It’s a shame the candidate allowed himself to go off the handle like that during the debate, as it undermines a lot of the really solid arguments he’d been making up to that point._ _I know you’re upset, but there’s no point going off the handle like that. It was just an honest mistake._  
@@ -993,6 +998,7 @@ __go potty__ _He has to go potty._
 __go soft on (someone)__ To treat someone delicately, gently, or leniently; to not criticize, punish, or berate someone too harshly.  
 __go soft__ To become overly lenient, easily manipulated, or apathetic; to lose strength or determination.  
 __go south__ :seven::hammer: _That’s when things start going south._ _You’ve got a career there, if all this goes south._ _This one went south on me._ _That’s when everything went south._  
+__go steady (with someone)__ To date someone exclusively. _Don’t ask Jill out—she’s already going steady with Bobby._ _Are those two really going steady?_  
 __go stir-crazy__ To become acutely anxious, restless, irritable, irrational, and/or depressed from remaining for too long in an unstimulating, confined, and/or isolated environment. “Stir” in this usage is a slang word for prison.  
 __go strong__ :three: To proceed energetically or successfully. _It is still going strong._  
 __go the distance__ :dart: To persist with some activity or goal until its completion. _I think this team is good enough to go the distance and win the championship, don’t you?_  
@@ -1036,6 +1042,7 @@ __goodness gracious__ :two: A mild exclamation of surprise, alarm, dismay, annoy
 __goodness me__ A mild exclamation of surprise, alarm, dismay, annoyance, or exasperation.  
 __goody two-shoes__ _informal_  
 __got them covered__  
+__grab a bite__  
 __grand poobah__ The most important or powerful person in a group, organization, business, or movement (e.g., the boss, leader, etc.).  
 __grand scheme__ :two: The long term; the complete picture of something. Typically used in the phrase “in the grand scheme of things.” _I know you’re worried about getting a bad grade on this test, but you’re such a great student that I doubt it will matter in the grand scheme of things._  
 __grande dame__ _n_  
@@ -1043,6 +1050,7 @@ __grasp at straws__ To make a desperate attempt to salvage a bad situation.
 __grasp in the dark__ To seek out a solution, meaning, or sense of purpose in a blind, aimless, or uncertain manner.  
 __grassy knoll__ A metaphor and a source of irony when referring to a suspicion, conspiracy, or a cover-up of some type. The word knoll is associated with the tragic assassination of President John F. Kennedy, who was shot in Dallas just as his motorcade passed a grassy knoll.  
 __grease payment__ A sum of money, typically a bribe, paid to a government official or business person so as to facilitate or expedite some decision or transaction.  
+__greasy spoon__ A small restaurant or diner, especially one that serves fried foods. _Every time I go on a road trip, I make it a point to stop at a greasy spoon for at least one of my meals._ _Specialties at this greasy spoon include scones resembling fry bread with honey butter._  
 __great (_or_ much) cry and little wool__ [:scroll: This expression comes from the idea of shearing pigs, where the result could be expected to be _great cry and little wool._] A great deal of fuss, noise, fanfare, or protestation over something of little or no substance, importance, or relevance. _My opponent has been making outlandish claims about my track record so as to foment distrust in the public, but I assure you, he is offering great cry and little wool._  
 __great balls of fire__ An exclamation of surprise and amazement. Good heavens!; Wow! _Did you see that game? Great balls of fire—the Yankees tied it up with two outs in the bottom of the ninth!_  
 __great deal__ :dart: (often followed by \`of’) a large number or amount or extent. Much, a lot.  
@@ -1055,12 +1063,13 @@ __grifter__ Someone who swindles other people. _Mom, don’t be a fool and give 
 __grill (someone) (about something)__ To question or interrogate someone intensely and relentlessly (about something).  
 __grind (someone’s) gears__ To greatly or specifically irritate or annoy someone.  
 __gripe about (someone or something)__ To complain, often continually and in an irritating manner, about someone or something. _I turned the thermostat up, so you all can stop griping about how cold it is in here, thanks._  
-__ground zero__  
+__ground zero__ :two: __4__ :dart: The earliest possible starting point; the most basic, fundamental, or preliminary level. _The folder with my outline and notes got deleted, so now I have to start the whole project again from ground zero._  
 __GTFO__ _abbr_ :two: __1__ _rude slang_ An abbreviation for “get the fuck out,” an angry imperative for someone to leave, leave one alone, or stop what they are doing. _If she’s going to make snarky comments about my food, then she can just GTFO._ __2__ _rude slang_ An abbreviation for “get the fuck out” used to express surprise at what one has just been told. Although the use of “fuck” can be offensive, this usage of the phrase is not intended to be rude. _You got the job? GTFO!_  
 __guilt complex__ A very strong and persistent feeling of guilt regarding something or some event.  
 __guilty pleasure__ :two: Something that one enjoys or finds pleasurable but knows or feels to be bad, inferior, aberrant, or lowbrow, especially as might be perceived or judged by other people.  
 __gun it__ To accelerate or increase speed suddenly or rapidly; to travel or move very quickly. Usually said while traveling in an automobile.  
 __gush over (someone or something)__  
+__gut bomb__ Any greasy, filling junk food.  
 __gut feeling__ An intuition, an instinctive feeling about something.  
 __gut-bucket__ __1__ _offensive slang_ A derogatory term for a fat or obese person. _We left the bar when we realized it was seedy and filled with nothing but old gut-buckets looking for easy women._ __2__ A free-spirited style of jazz or blues music. _The band surprised the audience by playing a few of their songs in a gut-bucket style._ _A gut-bucket string band._ __3__ A stringed instrument used in folk music that is made from a metal washtub . _Grandpop brought out his old gut-bucket and started playing folk songs beside the fire._  
 __gut-wrenching__ Agonizing; extremely distressing, unpleasant, or emotionally disturbing; having a severe effect on one’s feelings.  
@@ -1069,8 +1078,9 @@ __H-E-double-hockey-sticks__ A euphemistic spelling of “hell,” referring to 
 __haha__ _informal_ Used as a written expression of laughter, or more generally to indicate that the writer finds something humorous. Also commonly written as “ha ha” or “ha-ha.” Greater degrees of laughter or humor can be represented by more instances of “ha.”  
 __hair-splitting__  
 __hair-splittingly__ With extremely minute, unimportant, or imperceptible differences or details. (Used before an adjective.)  
+__half-baked__  
 __halfway decent__ Somewhat good, useful, or enjoyable, but not very; passable.  
-__hands down__ :six::hammer: _Hands down, best episode ever._ _It beats other cinemas hands down._  
+__hands down__ :seven::hammer: _Hands down, best episode ever._ _It beats other cinemas hands down._  
 __hands off__ :two: An instruction for one to refrain from touching or handling (something or someone). (Usually said imperatively.) _Hey, hands off those cookies, they’re for after dinner!_  
 __handwaving__ _n_ :astonished: Actions, words, or ideas that are meant to impress or appear convincing but which are in reality insubstantial or inconsequential.  
 __hang on (someone’s) words__ To listen very closely, intently, or with obsequious attention to what someone is saying.  
@@ -1185,6 +1195,7 @@ __heave into view__ (heave into sight) To move or rise into sight, especially fr
 __heaven knows__  
 __heavy handed__  
 __heavy lifting__ :dart: Any serious, difficult, or arduous work or activities. Difficult work. _The boss hoped the plan would succeed but he wasn’t willing to do the heavy lifting._  
+__heavy-duty__  
 __heavy-footed__ Clumsy, ponderous, or lumbering in gait or tread.  
 __heavy-hearted__ Sorrowful; melancholy; depressed.  
 __heck of a__ _He’s doing a heck of a job._  
@@ -1252,6 +1263,7 @@ __holy smoke__ What a surprise. _Holy smoke! Look at all of those geese!_
 __home skillet__ __1__ _slang_ A friendly term of address. _What’s up, home skillet?_ _Hey home skillet, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my home skillet—he’ll help us out._  
 __home, James (, and don’t spare the horses)__ A humorous directive for a driver to take one home directly and without delay.  
 __homeboy__ _n_ (homegirl) [:scroll: Originally between blacks. Also a term of address. Homeboy is for males and homegirl is for females.] A buddy; a pal. _Come on, homeboy. Help out a friend._ _Tsup, homegirl?_  
+__homespun<sup>1</sup>__ _adj_ Unpretentious and unsophisticated. _Oh, I had a great time—it was a homespun event, very casual and friendly._  
 __homie__ __1__ _slang_ A friendly term of address. _What’s up, homie?_ _Hey homie, how’re you doing?_ __2__ _slang_ A friend. _Teddy’s my homie—he’ll help us out._  
 __honest injun__ An expression used to emphasize the veracity of one’s statement. Based on a colloquial spelling of “Indian” (i.e., Native American). One of many expressions often considered offensive for making reference to Native American stereotypes or tropes. Primarily heard in US. _I swear it wasn’t me who broke the lamp, honest injun!_  
 __honest mistake__  
