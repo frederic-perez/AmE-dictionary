@@ -7400,7 +7400,7 @@ __hives__ _n_ _Allergic reactions include rash, hives, and swelling of the face.
 __HMOs__  
 __ho__  
 __ho-hum__ _adj informal_ :four: So lacking in interest as to cause mental weariness; dull; mediocre. _Syn_ boring, deadening, irksome, tedious, tiresome, wearisome, dull, slow _Lectures on human psychology always pique my interest, but this ho-hum speaker put me right to sleep._ _A ho-hum speaker who couldn’t capture the attention of the conventioneers._ _A ho-hum album._ _The Panthers won again. 9-0. Ho-hum._  
-__hoagie__  
+__hoagie__ _n_ :two: /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
 __hoard__ _v_  
 __hoarsely__  
 __hoary__ _adj_ :two::hammer:  
@@ -7415,6 +7415,7 @@ __hock__ _n_ :two::hammer: (hocks) _The horse struggled to stand on a broken hoc
 __hod__ _n_  
 __hoe<sup>1</sup>__ _n_ :two: A hoe is a gardening tool made up of a long handle with a sharp metal blade at the end, used to stab the ground and loosen it. :es: azada  
 __hoe<sup>2</sup>__ _v_ (hoeing) :two: _Hoeing soybeans._  
+__hoedowns__ _n_  
 __hog cracklings__  
 __hog the sofa__  
 __hog<sup>1</sup>__ _n_ :two: (hogged) _slang_ A big, heavy motorcycle.  
@@ -7425,7 +7426,7 @@ __hoist<sup>1</sup>__ _n_ :es: montacargas
 __hoist<sup>2</sup>__ _v_ :three::hammer: (hoisted) :es: alzar  
 __hoity-toity__ _adj_ /hoy-tee-TOY-tee/ _The guidance counselor emphasized that students do not need to go to a hoity-toity college to achieve success._  
 __hokey__ _adj_ :two::hammer: _It may sound hokey._  
-__hokum__ _n_ :four::hammer: _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
+__hokum__ _n_ :five: __1__ Utter nonsense; bunkum. _Starry _Love the Coopers_ is a bunch of ho-ho-hokum._  
 __hold a referendum__  
 __hold back__ _v_ :three::hammer: _Yew root would help a pregnant woman to hold back her fetus._  
 __hold down__ _phr v_ Restrain; to check. _You hold him down while I search him._  
@@ -7460,6 +7461,8 @@ __Holy Sepulcher__ _n_ The sepulcher in which Christ’s body lay between burial
 __Holy Writ__ _n_  
 __homage__ _n_ :two: __1__ Formal acknowledgment by a vassal of allegiance to his lord under feudal law. __2__ Respect; reverence: _to pay homage to one’s forebears._  
 __hombre__ _n_ _informal_ :two: An informal term for a youth or man. A man; a fellow.  
+__home furnishing__ _n_  
+__home school__ _v_  
 __home-delivery__  
 __homebody__ _n_ :two: A person who prefers staying at home.  
 __homecoming__ _n_ :two::hammer: _She had been homecoming queen._  
@@ -7470,25 +7473,30 @@ __homely__ _adj_ :three::hammer:
 __homeowner__  
 __homesick__ _adj_ :two::hammer:  
 __homesickness__ _n_  
+__homesite__ _n_ :two::hammer:  
 __homespun<sup>1</sup>__ _adj_ :two::hammer:  
 __homespun<sup>2</sup>__ _n_  
 __homestand__ _n_ :five: A series of games played at a team’s home field.  
-__homestead<sup>1</sup>__ _n_ :five::hammer:  
+__homestead<sup>1</sup>__ _n_ :six::hammer:  
 __homestead<sup>2</sup>__ _v_  
 __homestretch__ _n_ :three::hammer: (In horse racing, the _homestretch_ is the straight part of a racetrack from the last turn to the finish line. It’s often the most exciting part of the race, and excitement or anxiety can sometimes make the _homestretch_ feel like it’s the longest despite it being no longer than any other stretches.)  
 __homie__ _n_ _slang_ _chiefly US_ Short for homeboy or homegirl. _Homies for life._  
 __homogenized milk__ _n_ Milk with the fat particles broken up and dispersed uniformly so the cream will not rise.  
 __homologate__ _v_ To approve, especially to confirm officially.  
+__homophobia__ _n_  
 __homophobic__  
 __homophones__ _n_ :two::hammer:  
 __honcho__ _n_ :four::hammer: (honchos)  
+__hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
+__hone__ _v_ _Visitors can hone their skills on classic games._  
 __honest__ _adj_ :two::mute:[~~h~~onest]:hammer: _Syn_ straight, frank, blunt, sincere, up front  
 __honeycomb__ _n_ _The legs had honeycomb aluminum shock absorbers to soften the landing._  
 __honeypot__  
 __honeysuckle__  
 __Hong Kong__ _n_ _“Fragrant harbor” is the literal translation of Hong Kong._  
 __honk__ _n_  
-__honky tonk__ _n_  
+__honky tonk__ _n_ :two::hammer:  
+__honky-tonk__  
 __honor<sup>1</sup>__ _n_ _The magazine saw seven issues and then was interred with honors._  
 __honor<sup>2</sup>__ _v_ :two::hammer::mute:[~~h~~onor]  
 __honorary__ _adj_ _Honorary consul._  
@@ -7520,8 +7528,9 @@ __hootenanny__ _n_
 __hoover<sup>1</sup>__ _n_ /HOO-vuhr/ [:scroll: After the industrialist William Henry Hoover (1849-1932).] A vacuum cleaner.  
 __hoover<sup>2</sup>__ _v tr_ __1__ _informal_ To clean, especially with a vacuum cleaner. __2__ _slang_ To consume entirely; devour. Often used with _up_ or _down_. To consume or acquire quickly, eagerly, or in large amounts.  
 __hoover<sup>3</sup>__ _v intr_ _informal_ To use a vacuum cleaner: _needs to hoover before the guests arrive._  
+__hop__ _n_ :two: Climbing plant used for giving taste to beer. _Hop gardens._  
 __hopeful__ _n_ :two::hammer: (hopefuls) _Shanice Williams beat outhundreds of hopefuls to take lead role in_ _The Wiz Live!_  
-__Hopi__ _n_  
+__Hopi__ _n_ :two::hammer:  
 __hopped cars__  
 __hopscotch__ _n_ :two: A children’s game in which players toss a small object into the numbered spaces of a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.  
 __horn button__ _n_ :camera: A button that you press to activate the horn of an automobile.  
@@ -7540,6 +7549,7 @@ __horseradish__ _n_ :two::hammer:
 __horseshit__ _n_ _That’s like horseshit squared!_  
 __horseshoe__ _n_ :two::hammer: (horseshoes) :es: herradura  
 __horsetails__ _n_  
+__horsewares__ _n_  
 __horsey__ _adj_ (horsy)  
 __hortatory__ _adj_ :two: Urging to some course of conduct or action; exhorting; encouraging: _a hortatory speech._  
 __horticulture__  

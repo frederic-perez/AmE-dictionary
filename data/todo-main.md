@@ -1,18 +1,3 @@
-__hoagie__ _n_ /ˈhəʊɡɪ/ A sandwich made with a long, narrow bread roll. _Syn_ submarine sandwich  
-__hoedowns__ _n_  
-__hokum__ _n_ __1__ Utter nonsense; bunkum.  
-__home furnishing__ _n_  
-__home school__ _v_  
-__homesite__ _n_ :two::hammer:  
-__homestead__ _n_  
-__homophobia__ _n_  
-__hondo__ _n_ One hundred. _I got this bycicle for a hondo._  
-__hone__ _v_ _Visitors can hone their skills on classic games._  
-__honky-tonk__  
-__hop__ _n_ _Hop hardens._  
-__Hopi__ _n_  
-__hops__ _n_ _Climbing plant used for giving taste to beer._  
-__horsewares__ _n_  
 __host__ _n_ _A host of amphibians._  
 __hostas__ _n_  
 __hotbed__ _n_ :three::hammer:  
