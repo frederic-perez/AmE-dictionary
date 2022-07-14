@@ -154,6 +154,7 @@ __turn (one’s) back on (someone or something)__ :two: To ignore, disregard, or
 __uncanny valley__  
 __until all hours (of the day and night)__ Until a very late hour of the night or early hour of the morning. _Johnny keeps taking the car and staying out until all hours, and I just don’t know what to do anymore!_ _She sat up till all hours trying to finish her essay._  
 __up and running__  
+__up to (one’s) eyeballs (in something)__ :astonished: Extremely busy (with something); deeply or overly involved (in something); possessing, filled up with, or overwhelmed by an excessive amount (of something). _There’s no way I can take a vacation right now, I’m up to my eyeballs in work at the moment!_  
 __up-and-coming__ _Up-and-coming writers and artists._  
 __wash something down__ _Wash it down with a glass of milk._  
 __water torture__  

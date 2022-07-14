@@ -1,3 +1,8 @@
+__borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
+__destitute__ _adj_ Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._  
+__dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
+__eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
+__ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
 __host__ _n_ _A host of amphibians._  
 __hostas__ _n_  
 __hotbed__ _n_ :three::hammer:  
@@ -297,6 +302,7 @@ __oblige__ _v_ /uh-BLYJE/ __1__ To do a favor for someone. _They needed help org
 __obtrude__ _v_ To impose (oneself or one’s ideas) on others with undue insistence or without invitation. _Syn_ push out, thrust out _He never hesitated to obtrude his opinion on others, believing that everyone must value what he had to say._  
 __obviate__ _v_ To anticipate and dispose of effectively; render unnecessary. _Syn_ rid of, eliminate _Her discovery of an old wedding dress in the attic obviated the need for her to buy a costume for the party._  
 __occasion__ _n_ An event that occurs at a critical time. _It was needed only on special occasions._  
+__occult__ _adj_ Of, relating to, or dealing with supernatural influences, agencies, or phenomena. _Syn_ supernatural _His superstitions led him to the study of occult subjects, much to the dismay of his highly rational parents._  
 __octopi__ _n pl_ A plural of octopus.  
 __odd__ _adj_ _Bikes are allowed in City Creek Canyon on odd days._  
 __oddball__ _adj, n_  
@@ -578,6 +584,7 @@ __s’more__ _n_ (often s’mores) A dessert or snack made of marshmallows, usua
 __sable__ _n_ (animal)  
 __saccade__ _n_  
 __sacrifice__ _n_ :mega:  
+__saga__ _n_ /SAH-guh/ A long and complicated story or series of events. Saga first referred to ancient Icelandic narratives that tell of legendary figures and events of the heroic age of Norway and Iceland. _What was supposed to be an easy return from the airport turned into quite a saga._  
 __sagacious__ _adj_ /suh-GAY-shus/ Having or showing an ability to understand difficult ideas and situations and to make good decisions. (It implies being wise or discerning.) _Student reviews paint the writing professor as a sagacious mentor and a compassionate teacher._  
 __saint__ _v_ (sainted) _The chef should be sainted._  
 __sake__ _n_ /ˈsækɪ/ (saki) A Japanese alcoholic beverage made from fermented rice.  
@@ -709,6 +716,7 @@ __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball p
 __spanko__ _n_ _slang_ A person with a fetish for spanking, usually but not exclusively sexual.  
 __spaz__  
 __speakeasy__ _n_ :two::hammer:  
+__specie__ _n_ /SPEE-shee/-see/ __1__ Money, especially in a form that has an intrinsic value (for example, coins made from precious metals as opposed to paper money). __2__ Type or kind (used in the phrase “in specie” meaning “in a similar manner”).  
 __speedway__ _n_  
 __sphinx__ _n_  
 __spiffy__ _adj_ :three::hammer: _The spiffy waiters wear sharp formal jackets with gold epaulets._  
@@ -783,6 +791,7 @@ __subdued__ _adj_ _The subdued dining room._
 __subsist__ _v_ Support oneself. _Syn_ exist, survive, live _I was more agile than they and could subsist upon coarser diet._  
 __suburbia__ _n_  
 __succint__  
+__sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
 __suitor__ _n_  
 __Sullivan__ _n_ :mega:  
 __sultry__ _adj_  
@@ -944,6 +953,7 @@ __username__ _n_ ;pencil2:
 __usher__ _v_ _Usher in the global Irish holiday and watch as Chicago dyes its eponymous river green._  
 __V8__ _n_ _(beverage)_  
 __vacuous__  
+__validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
