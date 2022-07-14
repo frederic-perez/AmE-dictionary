@@ -1,18 +1,3 @@
-__borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
-__destitute__ _adj_ Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._  
-__dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
-__eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
-__ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
-__host__ _n_ _A host of amphibians._  
-__hostas__ _n_  
-__hotbed__ _n_ :three::hammer:  
-__hotfoot__ _v_  
-__hotspot__  
-__hound__ _n_ _A technology hound’s paradise._  
-__house trailer__ _n_ A mobile home.  
-__house wine__ _n_ :es: vino de la casa  
-__house__ _v_  
-__humidor__ _n_ _(cigars, pipes)_  
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hydroponic__ _adj_  
 __hyperbolic__  

@@ -1690,6 +1690,7 @@ __boozehound__ _n_ _slang_ :two: Someone who drinks a lot of alcohol.
 __boozer__  
 __bop<sup>1</sup>__ _v tr_ :three: To hit or strike.  
 __bop<sup>2</sup>__ _n_ A blow; a punch.  
+__borborygmi__ _n pl_ :astonished: [:scroll:: From the Greek verb _borboryzein_, which means “to rumble.” It is believed that the Greek verb was coined to imitate the digestive noises made by a stomach.] Bowel noises caused by the gurgling of gas through the almost liquid contents of the small bowel as they are passed along by the process of peristalsis.  
 __bordello__  
 __border on__ _phr v_ To be very near to a particular quality, feeling, state, etc.  
 __borderline__  
@@ -4113,7 +4114,7 @@ __despondency__
 __despondent__ _adj_ :six: Feeling or showing profound hopelessness, dejection, discouragement, or gloom. _Syn_ heartsick  
 __despotism__ _n_ Rule by or as if by a despot; absolute power or authority. _Syn_ authoritarianism, Caesarism, dictatorship, monocracy, one-man rule, totalitarianism, tyranny, absolutism  
 __destigmatize__ _v_  
-__destitute__ _adj_ :six::astonished: In great need of food, shelter etc. _They were left destitute when he died._ :es: indigente _Destitute peasants._  
+__destitute__ _adj_ :seven::astonished: In great need of food, shelter etc. Lacking resources or the means of subsistence; completely impoverished. _Syn_ impoverished, indigent, necessitous, needy, poverty-stricken _Though they were poor and destitute, they refused to ask others for help or charity._ _They were left destitute when he died._ :es: indigente _Destitute peasants._  
 __desultory__ _adj_ :three: __1__ Lacking in consistency, method, purpose, or visible order; disconnected: _desultory conversation._ __2__ Digressing from or unconnected with the main subject: _a desultory remark._  
 __detail__ _n_ :three::mega: __7a__ A group of military personnel assigned to a particular duty, usually a fatigue duty. _A member of the team’s security detail._ __b__ The duty assigned: _garbage detail._  
 __detain__ _v_ __1__ To keep from proceeding; delay or retard: _Our friends were detained by heavy traffic._ __2__ To keep in custody or confinement: _The police detained several suspects for questioning._  
@@ -4590,6 +4591,7 @@ __drag<sup>1</sup>__ _v_ (dragging)
 __drag<sup>2</sup>__ _n_  
 __drag<sup>3</sup>__ _adj_ :two: Of, relating to, or being a person wearing clothing characteristic of the opposite sex: _a drag performer; a drag show._  
 __dragnet__  
+__dragoon__ _v tr_ /druh-GOON/ To force someone to do something; coerce.  
 __drain board__ _n_ :three::hammer: (drainboard)  
 __drain<sup>1</sup>__ _v_ :six::hammer: (drained) _They laughed and drained their cups of wine._ _They drained their canteens too quickly._  
 __drain<sup>2</sup>__ _n_ A pipe or channel by which liquid is drawn off.  
@@ -4835,6 +4837,7 @@ __ebb<sup>2</sup>__ _v_
 __ebullience__ _n_  
 __ebullient__ _adj_ :six: Overflowing with fervor, enthusiasm, or excitement; high-spirited. Very happy and enthusiastic. Zestfully enthusiastic. _Syn_ exuberant, high-spirited _The ebullient young scientist couldn’t wait to share their latest discovery._  
 __ebullition__ _n_ An unrestrained expression of emotion. _Syn_ effusion, outburst, blowup, gush  
+__eccentric__ _adj_ /ik-SEN-trik/ __1__ People and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. _Down the road from us lives an eccentric old man who claims that he can communicate with the birds that roost in his yard._ __2__ Deviating from a circular path. _The dwarf planet Pluto has a particularly eccentric orbit._ __3__ Located elsewhere than at the geometric center.  
 __eccentricity__ _n_  
 __echelon__ _n_ :two::hammer: /ESH-uh-lahn/ _The upper echelons of the State Security force._  
 __echo chamber__ _n_ :three: __2__ An institution or environment in which one set of views predominates and dissenting viewpoints are squelched, ridiculed, or ignored. __3__ A group of bloggers that repeat and reinforce each others opinions.  
@@ -6309,6 +6312,7 @@ __game__ _adj_ :two: __1__ _informal_ Full of fighting spirit; plucky; brave. __
 __game-changer__ _n_ :three: (game changer) An idea or event that significantly changes the way something is done or thought about.  
 __gamely__  
 __gamine__  
+__ganache__ _n_ A smooth mixture of chocolate and cream, used in cakes, truffles, and chocolates.  
 __gander__ _n_ _Take a gander at the college girls._  
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
@@ -7558,8 +7562,9 @@ __hosanna__ _n_ _A thousand hosannas._
 __hospice care__ _n_  
 __hospice__  
 __hoss__ _n_ (Animals) _dialect informal US_ A horse.  
-__host__ _n_ :five::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
+__host__ _n_ :six::astonished: __1__ An army. __2__ A great number; a multitude. _A host of grandchildren and great-grandchildren._ _It provides a host of vaccines._ _A host of data._ _A whole host of consequences._  
 __hostage__ _n_ :mega: (ˈhɒstɪdʒ)  
+__hostas__ _n_  
 __hostler__ _n_ Someone employed in a stable to take care of the horses. _Syn_ stableboy, groom  
 __hot air__ _n_ Loud and confused and empty talk.  
 __hot buttered rum__ _n_  
@@ -7575,25 +7580,30 @@ __hot__ _adj_ _We’ve got a hot crowd tonight._
 __hot-button__ _adj_ :two::hammer: _Hot-button political issues._  
 __hot-rodder__  
 __hot-wire__ _v_ :two: (hot-wired) To start the engine of (a car, for example) without a key, as by short-circuiting the ignition system. _Hot-wire cars._  
-__hotbed__ _n_ :four: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
+__hotbed__ _n_ :seven: A situation that is ideal for rapid development (especially of something bad). _It was a hotbed of vice._ :es: semillero  
 __hotboxing__  
 __hotdog__ _v_ To perform in a conspicuous or often ostentatious manner; esp. to perform fancy stunts and maneuvers (as while surfing or skiing).  
+__hotfoot__ _v_  
 __hothead__ _n_ :three::hammer:  
 __hotly__ _adv_ In an intense or fiery way: _a hotly contested will._ _The hotly debated opening line of Tolstoy’s_ Anna Karenina.  
 __hots d’oeuvres__ _n_ /or-DERVEs/  
+__hotspot__  
 __hotspur<sup>1</sup>__ _n_ /HOT-spuhr/ A rash, hotheaded person.  
 __hotspur<sup>2</sup>__ _adj_ /HOT-spuhr/ Having a rash, hotheaded temperament.  
 __hottie__ _n_ _slang_ A beautiful, attractive woman.  
 __Houdini<sup>1</sup>__ _n_ An escape artist.  
 __Houdini<sup>2</sup>__ _v intr_ To escape.  
-__hound__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
-__hounds__ _n_  
+__hound<sup>1</sup>__ _n_ :two::hammer: _A technology hound’s paradise._  
+__hound<sup>2</sup>__ _v_ :three::hammer: (hounding) _She was hounded by the media and online trolls until she could take no more._  
 __hour__ _n_ :mute:[~~h~~our]  
 __hourlong__ _adj_ Lasting an hour: _an hourlong television episode._ _The hourlong meeting._  
 __house > take it to the house__  
 __house husband__ _n_ A man who stays at home cleaning the house, taking care of children, etc. while his wife, husband or partner goes out to work. _Karl is a house hisband._  
 __house of cards__ _n_ __1__ An unstable construction with playing cards. __2__ A speculative scheme that depends on unstable factors that the planner cannot control. _His proposal was nothing but a house of cards._  
 __House Speaker__  
+__house trailer__ _n_ A mobile home.  
+__house wine__ _n_ :es: vino de la casa  
+__house__ _v_  
 __house-sit__ _v_ _Misty Henderson was house-sitting for aunt when she disappeared._  
 __house<sup>1</sup>__ _n_ __9__ (often House) A family line including ancestors and descendants, especially a royal or noble family: _the House of Orange._ _The houses of Navarre, Castile, and Aragon._  
 __house<sup>2</sup>__ _v_  
@@ -7634,7 +7644,7 @@ __huh__
 __humble__ _v_ :two::hammer: _Another setback humbles NFL’s most prolific passer._  
 __humdinger__ _n_ _informal_ :two: A person or thing of remarkable excellence or effect.  
 __humdrum__ _adj_ :five::hammer: _A humdrum office building._  
-__humidor__ _n_  
+__humidor__ _n_ :two::hammer: _(cigars, pipes)_  
 __humiliating__ _adj_ Causing awareness of your shortcomings.  
 __hummed__ _v_  
 __hummer__ _n_ __4__ _slang_ Fellatio in which the person performing the act vibrates their mouth by humming. _Maybe Dave was just getting a hummer in his car, doesn’t want the wife to find out._  
