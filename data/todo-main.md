@@ -1,3 +1,9 @@
+__après__ _prep_ :three: After. Often used in combination: _an après-dinner entertainment; a concert après dinner._  
+__balmy__ _adj_ _A balmy day._  
+__bowl__ _n_ :two: A large structure for open-air sports or entertainments.  
+__bum__ _n_ __3__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._  
+__chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
+__cozy__ _adj_  
 __hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hydroponic__ _adj_  
 __hyperbolic__  
@@ -99,6 +105,7 @@ __libations__ _n_
 __lighthouse__ _n_ /ˈlaɪtˌhaʊs/  
 __limestone__ _n_ :two::hammer:  
 __line up__ _v_ _Huge crowds are lining up._  
+__lingonberry__ _n_ :es: arándano rojo _Swedish meatballs with lingonberry sauce._  
 __lingua franca__ _n_ [:scroll: Italian: lingua, _language_ + franca, _Frankish (that is, European)_.]  
 __lintel__ _n_  
 __liquidate__ _v_ _The store liquidates overstocks and discontinued items._  
@@ -474,10 +481,11 @@ __pylon__ _n_
 __quaff__ _v_  
 __quail<sup>1</sup>__ _n_ :two::hammer: _Quails marinated in yoghurt._  
 __quail<sup>2</sup>__ _v_ To shrink back in fear; cower. _Syn_ cringe, flinch, recoil, wince _The little boy quailed at the teacher’s angry voice._  
-__quaint__ _adj_ :seven::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._  
+__quaint__ _adj_ :eight::hammer: _Quaint neighborhood shops._ _Quaint bridges._ _Quaint residential area._  
 __quake__ _v_ _Quaking aspen._  
 __quibble__ _v_ /KWIB-ul/ __1__ To argue or complain about small, unimportant things. _The siblings often quibbled over whose turn it was to sit in the front seat of the car._ __2__ To evade the point of an argument by making trivial or frivolous objections. _If I may quibble for a moment with your description of the uniforms: they are navy blue, not royal blue._  
 __quintessential__ _adj_ :three::hammer:  
+__quirk__ _n_ _A gleeful roast of Utah’s cultural quirks._  
 __racket__ _n_ __5__ _slang_ __a__ An occupation, livelihood, or business. __b__ An easy or profitable source of livelihood.  
 __raconteur__ _n_  
 __radar__ _n_ :mega:  
@@ -491,6 +499,7 @@ __ramshackle__ _adj_ /RAM-shak-ul/ __1__ In a very bad condition and needing to 
 __Rashomon effect__ _n_ The situation in which an event is given contradictory interpretations or descriptions by the individuals involved, and is a storytelling and writing method in cinema meant to provide different perspectives and points of view of the same incident.  
 __raspberry__ _n_ :mega: /ˈræzˌbɛr i, -bə ri, ˈrɑz-/  
 __rathskeller__ _n_ A restaurant or bar located below street level.  
+__raucous__ _adj_ :two::hammer:  
 __rave__ _v_ __2__ To talk or write with extravagant enthusiasm: _They raved about the performance._  
 __ravishing__  
 __rear__ _v_ _Free-range deer have been reared for some 30 years._  
@@ -520,6 +529,7 @@ __remiss__ _adj_
 __remix__ _n, v_ :mega:  
 __rendition__ _n_  
 __renewal__ _n_  
+__repertoire__ _n_  
 __reputedly__ _adv_ :two::hammer: /rɪˈpjuːtɪdlɪ/ :es: se dice; según se dice  
 __respite__ _n_ :two::hammer:  
 __resplendent__ _adj_ :pencil2:  
@@ -599,6 +609,7 @@ __schlimazel__ _n slang_ /ʃlɪˈmɑːzəl/ _Yiddish_ A very unlucky or inept pe
 __schmooze__ _v_ :two::hammer: /SHMOOZ/ To chat in a friendly and persuasive manner especially so as to gain favor, business, or connections. _The event gives an opportunity for local business owners to network and schmooze._  
 __schnitzel__ _n_ :es: escalope  
 __schooner__ _n_ :two: __2__ A large beer glass, generally holding a pint or more. _A schooner of brew._  
+__schuss__ _v_  
 __scintillate__ _v_ /SIN-tuh-layt/ To dazzle or impress with liveliness or wit. _Her hilarious and topical standup routine absolutely scintillated; the audience brought her back for two encores._  
 __scone__ _n_ :four::hammer: (scones) _Cookery_ :es: bollo  
 __scoot__ _v intr_ To move or go suddenly and speedily; hurry.  
@@ -794,6 +805,7 @@ __supreme__ _adj_ /səˈprim, sʊ-/
 __surefire__ _n_ _A surefire way to see the secrets of the Park._  
 __surf and turf__ _n_ :two::hammer: Seafood and beefsteak served as the main course of a meal, as in a restaurant.  
 __survival skills__ _n_  
+__sustenance__ _n_  
 __swanky__ _adj_ :two::hammer: _Swanky steakhouses._  
 __swashbuckling__ _adj_  
 __swath__ _n_ (swathes)  
@@ -839,7 +851,7 @@ __theatregoer__ _n_
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thoroughbred__  
 __thoroughfare__ _n_ :five::hammer: _A vibrant shopping thoroughfare._  
-__thought-provoking__  
+__thought-provoking__ _adj_ :two: Challenging or causing someone to think, esp about things they have not thought about before.  
 __thoughtful__ _adj_  
 __three ring circus__  
 __thrift store__ _n_ (thrift shop) A shop that sells used articles, especially clothing, as to benefit a charitable organization.  
@@ -965,7 +977,7 @@ __wannabe__ _adj, n_
 __wares__ _n_ _The retailers showcase their wares on the runway._  
 __watchword__ _n_ :two::hammer:  
 __water flumes__ _n_  
-__watering hole__ _n_ :four: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
+__watering hole__ _n_ :five: __1__ _Zoology_ A pool where animals drink; water hole. __2__ _Brewing_ _facetious_ _slang_ A pub.  
 __wedding band__ _n_  
 __wee__ _n_  
 __well versed__ _adj_  
@@ -1014,7 +1026,7 @@ __yeast__ _n_
 __yesteryear__ _n_ :two::hammer:  
 __yew__ _n_ :three::hammer: _Yew hedges._ _A restful yew square._  
 __yogurt__ _n_ (yoghourt)  
-__yurt__ _n_ A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
+__yurt__ _n_ :two: A circular, domed, portable tent used by nomadic peoples of central Asia. _Custom yurt excursions._  
 __yuzu__ _n_ (A Japanese citrus fruit.)  
 __zero in__  
 __zinch__  
