@@ -1,18 +1,3 @@
-__après__ _prep_ :three: After. Often used in combination: _an après-dinner entertainment; a concert après dinner._  
-__balmy__ _adj_ _A balmy day._  
-__bowl__ _n_ :two: A large structure for open-air sports or entertainments.  
-__bum__ _n_ __3__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._  
-__chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
-__cozy__ _adj_  
-__hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
-__hydroponic__ _adj_  
-__hyperbolic__  
-__ice-cold__ _adj_  
-__icicles__ _n_  
-__identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
-__idiopathic__  
-__idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :two::pencil2::hammer: _An idyllic setting for romantic dinners._  
-__IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__  
 __illustrious__ _adj_  
 __imagination__ _n_ :mega:  

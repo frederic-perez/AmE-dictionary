@@ -626,6 +626,7 @@ __apprentice<sup>2</sup>__ _v_ :two::hammer: (apprenticed)
 __apprenticeship__ _n_ _Apprenticeship program._  
 __apprise__ _v_ :two: To give notice to; inform. _Syn_ notify, advise _During the drive home from the airport, they had time to apprise her of everything that had changed since she had been gone._ _He was kept apprised of events by partisans in Paris._  
 __approval rating__ _n_ :dart: A rating based on a percentage of people (as voters) who think someone (as a politician) is doing a good job. _The governor’s approval rating is going up._ _Park’s approval rating has plummeted._  
+__après__ _prep_ :three: After. Often used in combination: _an après-dinner entertainment; a concert après dinner._  
 __apricate__ _v_ To bask in the sun.  
 __apropos<sup>1</sup>__ _adj_ :mega::four: /ˌæp rəˈpoʊ/ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
 __apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/  
@@ -1004,7 +1005,7 @@ __ballpark<sup>2</sup>__ _adj_ :two::hammer:
 __ballyhoo<sup>1</sup>__ _n_  
 __ballyhoo<sup>2</sup>__ _v_ :four: (ballyhooed) Praise or publicize extravagantly. _A much-ballyhooed musical extravaganza._ _Syn_ hyped, promoted, praised, acclaimed  
 __balm__ _n_ :two::hammer::mute:[ba~~l~~m]  
-__balmy__ _adj_ :two::hammer: _The air was sweet and balmy._  
+__balmy__ _adj_ :three::hammer: _The air was sweet and balmy._ _A balmy day._  
 __baloney__ _n_ :three: __1__ (less common spelling of ‘bologna’) A large smoked sausage of beef, veal, and pork. __2__ _informal_ Pretentious nonsense—often used as a generalized expression of disagreement.  
 __Baloo__ _n_ In the _Author’s Notes in the Jungle Books_, Kipling gives the pronunciation of the name as /ˈbɑːluː/ although it is common also /bəˈluː/.  
 __balsa__ _n_  
@@ -1738,6 +1739,7 @@ __bowdlerize__ _v_ :three: To remove the parts of a book, movie, or play that ar
 __bowel movement__ _n_ (BM) A euphemism for defecation; _“he had a bowel movement.”_  
 __bowie knife__ _n_ :two::hammer:  
 __bowl over__ _phr v_ __1__ To take by surprise. __2__ To make a powerful impression on; overwhelm.  
+__bowl__ _n_ :two: A large structure for open-air sports or entertainments.  
 __bowler hats__ _n_ A hard felt hat with a rounded crown, originally created by the London hat-makers Thomas and William Bowler in 1849. _Syn_ billycock, bob hat, bombín, derby  
 __bowling alley__ _n_ :three: __1__ A smooth, level wooden lane used in bowling. __2__ A building or room containing lanes for bowling.  
 __box score__  
@@ -1993,7 +1995,7 @@ __bulrush__ _n_ A tall strong water plant. :es: junco
 __bulwark__ _n_ :nine::m: __1__ A defensive wall or rampart. __2__ A defense or safeguard. quotations __3__ A breakwater. _Acting as a bulwark against mass deportations._  
 __bum<sup>1</sup>__ _adj informal_ :three: Bad, wrong, or worthless: _bad advice._ _A bum foot._ _A bum deal._ _A bum knee._  
 __bum<sup>2</sup>__ _v_ :two::hammer:  
-__bum<sup>3</sup>>__ _n_ :three: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
+__bum<sup>3</sup>>__ _n_ :four: (bums) __1__ A tramp; a vagrant. :dart: __2__ A lazy or shiftless person, especially one who seeks to live solely by the support of others. :dart: __3__ An incompetent, insignificant, or obnoxious person: _The batter called the pitcher a bum._ __4__ _informal_ A single-minded enthusiast of a specific sport: _a ski bum._ One who spends a lot of time doing a particular recreational activity: _a beach bum; a ski bum._  
 __bumbershoot__ _n_ _old-fashioned_ _informal US_ [:scroll: 1915–20; bumber-, alter. of umbrella + -shoot, resp. of -chute in parachute] An umbrella.  
 __bumble__ _v_ :nine: (bumbling) __1__ To speak in a faltering or rambling manner. __2__ To move or act in a clumsy or incompetent manner.  
 __bumblebee__ _n_ :two::hammer: (bumblebees)  
@@ -2758,6 +2760,7 @@ __churn<sup>1</sup>__ _n_ :two: __1__ A machine for making butter by shaking mil
 __churn<sup>2</sup>__ _v_ :nine::m: (churned, churning) __1__ If your stomach churns or something churns your stomach, you feel sick from nervousness, disgust, etc. _Just thinking about the test made my stomach churn._ _The violence in the movie churned my stomach._ __2__ To agitate in order to make into butter: _to churn cream._ __3__ To make (butter) by the agitation of cream. __4__ To shake or agitate: _The storm churned the sea._ _Churning sand._ _A surge of churning water._ _The hype machine churning into overdrive._  
 __churrascaria__ _n_ A restaurant serving churrasco, often featuring all-you-can-eat service and having waiters who carry skewered meat to the diners’ tables and cut slices upon request.  
 __churrigueresque__ _adj_ Of or relating to a style of baroque architecture of Spain and its Latin-American colonies, characterized by elaborate and extravagant decoration. The name is a reference to José Churriguera, a baroque architect and sculptor. The Cathedral Basilica of Zacatecas in Mexico is just one example of a churrigueresque building.  
+__chute__ _n_ :two: __2__ (Individual Sports, other than specified) A steep slope, used as a slide as for toboggans.  
 __chutney__ _n_ :two: (chutneys) A cold food made from fruit, spices, and vinegar, eaten with meat or cheese.  
 __chutzpah__ _n_ (chutzpa) Shameless boldness; brazen nerve; gall.  
 __chyron__ _n_ :dart::two: A graphic that is digitally superimposed over the lower portion of a broadcast television image or a video frame, often in the form of a banner of scrolling text providing supplementary information or of an animated graphic designed to attract the viewer’s attention.  
@@ -3495,7 +3498,7 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
-__cozy<sup>1</sup>__ _adj_ :two::hammer: _A modern, cozy oasis of culinary delights._  
+__cozy<sup>1</sup>__ _adj_ :three::hammer: _A modern, cozy oasis of culinary delights._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
@@ -7686,19 +7689,21 @@ __husk<sup>2</sup>__ _v_
 __husky__ _adj_ :three::hammer: _Husky voice._  
 __hustle__ _v_ :three::mute:[hus~~t~~le]:hammer:  
 __hustler__ _n_ _slang_ :three::hammer: A person, usually male, who has sex for money. _An elderly mortgage hustler._  
+__hut__ _n_ _Beach huts._ _Hire one of the multicolored huts that line the sandy beach._  
 __hutch__ _n_ :two::hammer: _The rabbit hutch._  
 __hyacinth__ _n_ :pencil2:  
 __Hydra__  
 __hydrate__ _v_ :two::hammer: _Make sure you hydrate._  
 __hydrology__  
 __hydrometeors__ _n_  
+__hydroponic__ _adj_  
 __hyetal__ _adj_ Of or relating to rain or rainy regions.  
 __hygroscopic__  
 __hymn__ _n, v_ :mute:[hym~~n~~]  
 __hymnal__ _n_ :pencil2: (hymnals) A book or a collection of church hymns. _The party hymnal._  
 __hymnals__  
 __hyperbole__ _n_ A hyperbole is an intentional exaggeration. Example: The plate exploded into a million pieces.  
-__hyperbolic__ _adj_ :five: Exaggerated.  
+__hyperbolic__ _adj_ :six: Exaggerated.  
 __hypermnesia__ _n_ Exceptionally exact or vivid memory, especially as associated with certain mental illnesses.  
 __hyperopia__ _n_  
 __hyperpnea__ _n_ Abnormally deep breathing.  
@@ -7730,9 +7735,10 @@ __ice house__ _n_ _Insulated ice houses._
 __ice pick__ _n_ :three: A pointed awl for chipping or breaking ice.  
 __ice__ _n_ _slang_ :two: Expensive jewelry, especially diamonds.  
 __ice-breaker__ _n_ __3__ Something intended to relieve mutual shyness at a gathering of strangers.  
+__ice-cold__ _adj_  
 __ice-slick chain__  
 __icebox__ _n_  
-__icicles__  
+__icicles__ _n_ :two::hammer:  
 __icing__ _n_ :three::hammer: _Mansions are found on the icing._  
 __icky__ _adj_ :three::hammer:  
 __iconoclasm__  
@@ -7741,17 +7747,18 @@ __iconoclastic__
 __ID window__  
 __id__ _n_  
 __ideation__ _n_ :two::hammer:  
+__identical twin__ _n_ Either of a pair of twins who develop from a single fertilized ovum and therefore have the same genotype, are of the same sex, and usu. resemble each other closely. Compare _fraternal twin._  
 __ides__ _n_  
 __idiocracy__ _n_ (humorous) A government run by idiots. _Frank is sick and tired of how America has become a state of idiocracy._  
 __idiolect__ _n_ The variety or form of a language used by an individual.  
-__idiopathic__ _adj_ :two: Of, relating to, or designating a disease having no known cause.  
+__idiopathic__ _adj_ :three: Of, relating to, or designating a disease having no known cause.  
 __idiosyncrasy__ _n_ A structural or behavioral characteristic peculiar to an individual or group. _Syn_ peculiarity _Of all her idiosyncrasies, I find her tendency to dance while cooking the most charming._  
 __idiosyncratic__ _adj_ :two::hammer:  
 __idiot box__  
 __idle__ _v_  
 __idolatry__ _n_ :three::hammer:  
 __idyll__ _n_ :mega: /ˈī-dᵊl/ (just like _idle_!)  
-__idyllic__ _adj_ :three::pencil2: Excellent and delightful in all respects.  
+__idyllic__ _adj_ /ɪˈdɪlɪk; aɪ-/ :five::pencil2: Excellent and delightful in all respects. _An idyllic setting for romantic dinners._  
 __iffy__ _adj_ _slang_ :seven: Uncertain or doubtful. _I feel a bit iffy._ _The chances of getting the three astronauts home were iffy._  
 __igloo__ _n_ :mega:  
 __ignition interlocks__  
@@ -7759,6 +7766,7 @@ __IgNobel prize__ _n_
 __ignoble__ _adj_ :two::hammer:  
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
+__IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
 __ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
 __ill__  
 __ill-fated__ _adj_  
