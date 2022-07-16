@@ -7767,14 +7767,15 @@ __ignoble__ _adj_ :two::hammer:
 __ignominious__ _adj_ :dart::two: Very embarrassing, especially because of making you seem very unsuccessful or unimportant. _An ignominious defeat_ Marked by shame or disgrace. _Syn_ inglorious, shameful, opprobrious, disgraceful, black  
 __ignominy__ _n_ :two::hammer:  
 __IKEA effect__ _n_ A cognitive bias in which consumers place a disproportionately high value on products they partially created.  
-__ilk__ _n_ :three: Type or kind: _can’t trust people of that ilk._  
+__ilk__ _n_ :four: Type or kind: _can’t trust people of that ilk._  
 __ill__  
 __ill-fated__ _adj_  
 __illation__  
 __Illini__ _n_ :three::hammer:  
 __illiterate__ _adj_ :two::hammer:  
 __illusory__ _adj_ _Illusory boundaries._  
-__illustrious__ _adj_ :five::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
+__illustrious__ _adj_ :six::hammer::pencil2: _An illustrious career._ _The illustrious Count of Savoy._  
+__imagination__ _n_ :mega:  
 __imagineer__ _n_ A person who is skilled in devising or implementing creative ideas.  
 __imam__  
 __imbalance__ _n_  
@@ -7783,6 +7784,7 @@ __imbibe__ _v_ :four: (imbibing) To take in or assimilate (ideas, facts, etc.). 
 __imbroglio__ _n_ :two: A difficult or intricate situation; an entanglement. _Syn_ embroilment _And then there’s a general imbroglio, everyone standing up and the kid hollering and the dog barking._  
 __imbrue__ _v_ __1__ To stain, esp with blood. __2__ To permeate or impregnate.  
 __imbue__ _v_ :five: (imbued) __1__ To inspire or influence thoroughly; pervade: _work imbued with the revolutionary spirit._ __2__ To saturate, impregnate, or dye.  
+__immaculate__ _adj_ _An immaculate pharmacy._  
 __immanent__ _adj_  
 __immensity__ _n_ Unusual largeness in size or extent or number. _Syn_ vastness, enormousness, grandness, greatness, wideness _This projectile was but an atom in the immensity of the ocean._  
 __immerse__ _v_  
@@ -7805,7 +7807,7 @@ __impassioned__ _adj_ :three: /ɪmˈpæʃ ənd/ Filled with passion; fervent: _a
 __impassively__  
 __impeach__ _v_ :two::hammer:  
 __impeachment__ _n_ :two::hammer:  
-__impeccable__ _adj_ :three: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
+__impeccable__ _adj_ :six::pencil2: __1__ Free from fault or blame. _Syn_ flawless __2__ Not capable of sinning or liable to sin.  
 __impeccably__ _adv_ :two::hammer:  
 __impecunious__ _adj_ :two: Lacking money; penniless. _Syn_ penniless, indigent, penurious  
 __impede__ _v_ :six: (impeded) Be a hindrance or obstacle to. _Syn_ hinder _By questioning every proposal, she is impeding the progress of our project._  
@@ -7833,7 +7835,7 @@ __impoverished__ _v_
 __impracticable__ _adj_ Not capable of being carried out or put into practice. _Syn_ unfeasible, unworkable _Refloating the sunken ship intact proved impracticable because of its fragility._  
 __imprecation__ _n_ :two: A curse.  
 __impregnable__ _adj_ :two: (Remarkably, _impregnable_ has a different origin from the similar-looking word _pregnant_.) Immune to attack; incapable of being tampered with.  
-__impresario__ _n_ :pencil2:  
+__impresario__ _n_ :two::pencil2::hammer:  
 __impression__ _n_ :two::hammer:  
 __imprint<sup>1</sup>__ _n_ :two::hammer:  
 __imprint<sup>2</sup>__ _v_  
@@ -7878,7 +7880,7 @@ __incel__ _n_ A person who is involuntarily celibate; the state or condition of 
 __incendiary__ _adj_ :two: Arousing to action or rebellion. _Syn_ inflammatory, incitive, instigative, rabble-rousing, seditious _The incendiary remarks in the pamphlet spurred the villagers to revolt._ _He launched an incendiary attack._  
 __incense__ _v_ (incensed)  
 __incensed__ _adj_  
-__incentivize__ _v_  
+__incentivize__ _v tr_ :two::hammer: /ɪnˈsɛn tɪˌvaɪz/  
 __inception__ _n_ :three::hammer:  
 __incessant__ _adj_ _The fifty-year reign of incessant warring was coming to a close._  
 __incessantly__ _adv_ :two::hammer:  
@@ -7889,7 +7891,7 @@ __incident<sup>1</sup>__ _n_
 __incident<sup>2</sup>__ _adj_ _A stroke incident to pancreatic cancer._  
 __incidental<sup>1</sup>__ _adj_  
 __incidental<sup>2</sup>__ _n_  
-__incidentally__ _adv_ :six::hammer:  
+__incidentally__ _adv_ :eight::hammer:  
 __incipient__ _adj_ _An incipient building._  
 __inclement__ _adj_ __1__ (of weather) Stormy, severe, or tempestuous. __2__ Harsh, severe, or merciless.  
 __inclined__ _adj_  
@@ -7899,7 +7901,7 @@ __incongruities__ _n_
 __incongruous__ _adj_  
 __incongruously__  
 __inconsequential__ _adj_ :two: Lacking worth or importance. _His work seems trivial and inconsequential._ _Syn_ inconsequent  
-__inconspicuous__  
+__inconspicuous__ _adj_ :two::hammer:  
 __incontrovertible__ _adj_ :two: Not open to question. _Syn_ indisputable  
 __incorporated__ _v_ _Nearly half of all public corporations in the U.S. Are incorporated in Delaware._  
 __incrementally__ _adv_ _Make it incrementally better._  
@@ -7913,10 +7915,11 @@ __incur__ _v_
 __indecorous__ _adj_  
 __indefatigable__ _adj_ :six::pencil2: Incapable or seemingly incapable of being fatigued; tireless. Never showing signs of getting tired.  
 __indefinite__  
-__indelible__ _adj_ :seven::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
+__indelible__ _adj_ :eight::pencil2: Impossible to remove, erase, or wash away; permanent. _Syn_ permanent, lasting, enduring, ineradicable, ineffaceable, inexpungible, inextirpable _Before I left for camp, my mother wrote my name inside all of my clothes with indelible ink._ _An indelible mark._  
 __indenture__ _v_  
 __indentured__  
 __index card__ _n_  
+__Indian paintbrush__ _n_  
 __indict__ _v_ :seven::hammer: (indicted :mega:)  
 __indictment__ _n_ :seven::hammer::mega: /ɪnˈdaɪtmənt/  
 __indigenous__ _adj_ _Indigenous people._  
@@ -7938,7 +7941,7 @@ __inductee__ _n_ Someone who is drafted into military service. _Synonyms_ conscr
 __induction__ _n_ :four::hammer: _Induction hall._  
 __indurate__ _adj_ Emotionally hardened. _Syn_ callous, pachydermatous _My father was once an affectionate man, but he returned from the war cold and indurate._  
 __industrious__ _adj_ :four::mega: /ɪnˈdʌstrɪəs/ Always working very hard.  
-__inebriate__ _v_ :two: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
+__inebriate__ _v_ :three: (inebriated) __1__ Fill with sublime emotion. _Syn_ beatify, exhilarate, tickle pink, exalt, thrill _He was inebriated by his phenomenal success._ __2__ Become drunk or drink excessively.  
 __ineffable__ _adj_ :four::hammer:  
 __ineffectual__  
 __inefficacious__ _adj_  
@@ -7981,6 +7984,8 @@ __infotainment system__
 __infrangible__ _adj_ Not capable of being violated or infringed. _Syn_ inviolable, absolute _These rights we consider infrangible, no matter what else you may take away from us._  
 __infrasound__ _n_ :two::hammer: _Infrasound can be detected in excess of 100 miles._  
 __infusion__ _n_ :two::hammer: _Drug infusions._ _(vs drug injections)_  
+__ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
+__inglenook__  
 __ingots__ _n_ :two::hammer::pencil2::  
 __ingrain__ _v_ :two: To fix deeply or indelibly, as in the mind.  
 __ingrained__ _adj_ :four::hammer: _Speeding is deeply ingrained in American culture._  
@@ -8012,6 +8017,7 @@ __innocuous__ _adj_ :two: Having no adverse effect. _Syn_ harmless _That mushroo
 __innumerate__  
 __inobvious__  
 __inoculate__ _v_  
+__inoculation__ _n_  
 __inordinate__ _adj_ :seven::hammer: _An inordinate amount of information._ _An inordinate amount of time._ _Inordinate length._  
 __inordinately__ _adv_ :three: _He was inordinately proud of the Roman legions._  
 __inotropic__ _adj_ Affecting the contraction of muscle, especially heart muscle: an inotropic drug.  

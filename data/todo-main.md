@@ -1,18 +1,3 @@
-__ilk__  
-__illustrious__ _adj_  
-__imagination__ _n_ :mega:  
-__immaculate__ _adj_ _An immaculate pharmacy._  
-__impeccable__ _adj_ :three::pencil2::hammer:  
-__impresario__ _n_  
-__incentivize__ _v tr_ /ɪnˈsɛn tɪˌvaɪz/  
-__incidentally__ _adv_ :two::hammer:  
-__inconspicuous__ _adj_  
-__indelible__ _adj_  
-__Indian paintbrush__ _n_  
-__inebriated__  
-__ingenuous__ _adj_ /in-JEN-yuh-wus/ Someone who shows innocent or childlike simplicity and candidness. _The ingenuous enthusiasm shown by several of the older campers was contagious, and soon everyone was excited about the project._  
-__inglenook__  
-__inoculation__ _n_  
 __inroads__ _n_  
 __inscrutable__ _adj_ /in-SKROO-tuh-bul/ Not readily investigated, interpreted, or understood. (It often describes what is mysterious or difficult to comprehend.) _The famously reclusive author remains an inscrutable figure even after the publication of some of her personal correspondence._  
 __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuendo.] An assertion or hint that’s disparaging and suggestive.  
