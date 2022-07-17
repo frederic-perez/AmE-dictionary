@@ -1,8 +1,19 @@
+__according to legend__  
+__bells and whistles__  
+__belly up__ __3__ Drunk. _Do you remember last night at the bar at all? You were really belly up!_  
+__child’s play__  
+__come across__  
+__crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
+__food for thought__ Something to consider. _That meeting really gave me food for thought—I might invest in their company after all._  
+__for that matter__  
+__in (one’s) own right__  
 __kick back__  
+__laundry list__  
 __no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
+__no-no__  
 __not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
 __not hold water__ _Fortunately, most of those tales don’t hold water._  
-__not to mention__  
+__not to mention__ :two::hammer:  
 __nothing but__ _I’m nothing but tired._  
 __nothing short of__ :two::hammer:  
 __now we are talking__  
@@ -13,6 +24,7 @@ __OK Corral__
 __on location__ _Filmed on location._  
 __on my end__  
 __on par (with someone or something)__  
+__on tap__ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on the go__  
 __on thin ice__  
 __one of a kind__  
@@ -58,6 +70,7 @@ __run (one’s) mouth (off)__
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __run guns__  
+__run the place__ _The baby African elephant born at the zoo basically runs the place._  
 __run wild__  
 __safety net__  
 __salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
@@ -102,7 +115,7 @@ __take a catnap__ To sleep for a very brief but restful period of time. _I’m g
 __take a fit__ To become very or unreasonably angry or upset; to have an outburst of rage, frustration, or ill temper. _My mom’s going to take a fit when she sees what happened to the car!_ _I was so embarrassed when Danny started taking a fit in the grocery store._  
 __take a seat__ To be seated; to select a place to sit. (Often an invitation or request.) _Hi, Sean, thank you for coming to see me, please take a seat._ _I was running a bit late to class, so I just took a seat at the back._  
 __take a toll (on someone or something)__ To cause damage or deleterious effects gradually or through constant action or use. _The inclement weather in these parts really takes a toll on the exteriors of the buildings._  
-__take pride__ :two::hammer:  
+__take pride in someone or something__ :three::hammer:  
 __take the edge off__  
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
@@ -161,8 +174,7 @@ __up-and-coming__ _Up-and-coming writers and artists._
 __wash something down__ _Wash it down with a glass of milk._  
 __water torture__  
 __watering hole__ _Revelers can move around watering holes with impunity._  
-__weather pemitting__  
-__weather permitting__  
+__weather permitting__ :two::hammer:  
 __well in advance__ _Book tickets well in advance._  
 __what’s up with__  
 __while away__  
