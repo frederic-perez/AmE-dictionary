@@ -1,18 +1,3 @@
-__according to legend__  
-__bells and whistles__  
-__belly up__ __3__ Drunk. _Do you remember last night at the bar at all? You were really belly up!_  
-__child’s play__  
-__come across__  
-__crash__ __3__ _v intr_ To sleep. _If I don’t crash pretty soon, I’m going to die!_ _At most ski destinations, the drill goes like this: wake up, ski all day, have a fes drinks with dinner and crash by 2200._  
-__food for thought__ Something to consider. _That meeting really gave me food for thought—I might invest in their company after all._  
-__for that matter__  
-__in (one’s) own right__  
-__kick back__  
-__laundry list__  
-__no nonsense__ _adj_ Totally serious; with no tricks or deceit. Hyphenated before a noun. _The new manager is very no nonsense in how he deals with customer complaints._ _We’re going to start adopting a no-nonsense approach to the problem._  
-__no-no__  
-__not do a stroke (of work)__ To not do any work at all. _Now that Jim’s retired, he just spends all day on the couch watching television. He won’t do a stroke of work around the house!_  
-__not hold water__ _Fortunately, most of those tales don’t hold water._  
 __not to mention__ :two::hammer:  
 __nothing but__ _I’m nothing but tired._  
 __nothing short of__ :two::hammer:  
