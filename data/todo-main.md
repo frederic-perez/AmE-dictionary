@@ -1,18 +1,3 @@
-__a great deal__ _adv_  
-__African American__ _adj_ _As many as one third of the cowboys on the great cattle drives were African American._  
-__agritourism__ _n_  
-__Apennines__ _n_ :pencil2:  
-__appetizer__ _n_  
-__aqueduct__ _n_  
-__arabesque__ _adj_  
-__arch__ _n_ (arches _n pl_)  
-__autograph tree__ _n_ :astonished:  
-__aviary__ _n_  
-__backcountry__ _n_ :two::hammer: _Guided backcountry skiing._  
-__bell tower__ _n_  
-__belvedere__ _n_  
-__berg__ _n_  
-__bookshop__ _n_  
 __bookstall__ _n_  
 __booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
 __bossom__ _n_  

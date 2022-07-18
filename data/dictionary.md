@@ -27,6 +27,7 @@ __8-track__ _n_ (eight-track) A form of magnetic tape technology for audio stora
 __a bird in the hand is worth two in the bush__  
 __a fool and his money are soon parted__ _prov_ Foolish people make purchases without consideration; it is easy to sell something to someone foolish. _As soon as Greg won the big lottery jackpot, he turned around and spent it all at the casino. A fool and his money are soon parted._  
 __à gogo__ _adj, adv_ _informal_ As much as one likes; galore: _wine à gogo._  
+__a great deal__ _adv_  
 __A list__ _n informal_ (A-list) A list or group of the most admired or desirable people, as for a job or social gathering: _a private party for Hollywood’s A list._  
 __A-list__  
 __A4__ _adj, n_ :astonished: _A4 stainless steel._  
@@ -242,6 +243,7 @@ __afoot__ _adj, adv_ :three: __1__ Happening. _There is a mystery afoot at Bemen
 __aforementioned__ _adj_ :two::hammer:  
 __afoul__ _adj_ :two::hammer:  
 __afresh__ _adv_ Once more; anew; again: _They had to start afresh._  
+__African American__ _n_ _As many as one third of the cowboys on the great cattle drives were African American._  
 __Afrikaans__ _n_ A language that developed from 17th-century Dutch and is an official language of South Africa.  
 __aft__ _adj, adv_ :seven: At, in, toward, or close to the stern of a vessel or the rear of an aircraft or spacecraft. _He ended up in the aft gun turret._ _Aft compartment._ :es: en popa  
 __after-dark__ _adj_ Occurring in the hours after nightfall—always used before a noun after-dark activities. _An after-dark stroll._ _After-dark entertainment._  
@@ -283,6 +285,7 @@ __agonistic__ _adj_ :pencil2: Striving to overcome in argument.
 __Agpar__ _n_ (Agpar score) A method of assessing a newborn’s health. Also known as Apgar score. After anesthesiologist Virginia Apgar (1909-1974) who devised it.  
 __agrarian__  
 __agribusiness__ _n_  
+__agritourism__ _n_  
 __agronomy__ _n_  
 __aground__ _adj, adv_ :three: __1__ With the bottom stuck on the ground beneath a body of water; stranded. In a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough. _The ghost ship ran aground._ __2__ On or onto the ground.  
 __ague__ _n_ :two::hammer: (agues)  
@@ -568,6 +571,7 @@ __apartheid__ _n_ :mega:
 __apartment__ _n_  
 __apathetic__ _adj_ :three::hammer:  
 __ape__ _v_ :two::hammer: (aped)  
+__Apennines__ _n pl_ :pencil2:  
 __aphorism__ _n_ :four: An aphorism is a short sentence that presents truth or opinion, usually in a witty or clever manner. Example: A penny saved is a penny earned. A terse saying embodying a general truth or astute observation, as “Art is long, life is short.”  
 __aphrodisiac<sup>1</sup>__ _n_ /af-ruh-DEE-zee-ak, -DIZ-ee-ak/ Something, such as a food or drug, that increases sexual desire.  
 __aphrodisiac<sup>2</sup>__ _adj_ Arousing sexual desire.  
@@ -603,7 +607,7 @@ __appease__ _v_ :four: __1__ Pacify or placate (someone) by acceding to their de
 __appeasement__  
 __appeases__ _v_  
 __appellate__ _adj_ :three::hammer:  
-__appetizer__ _n_ :two::pencil2::hammer: :es: _(drink)_ aperitivo, _(food)_ tapas  
+__appetizer__ _n_ :three::pencil2::hammer: :es: _(drink)_ aperitivo, _(food)_ tapas  
 __apple cart__  
 __apple-knocker__ _n_ /AP-uhl nok-uhr/ __1__ [:scroll: The phrase came from fruit harvesters using long sticks to dislodge the hanging crop.] A country bumpkin. One of the many terms that city slickers applied to less sophisticated rural dwellers (“rube,” “hayseed,” and “Gomer” are others). Someone who hails from a rural place and is regarded as unworldly. _Ugh, those apple-knockers move too slow for life here in the big city._ __2__ An ignorant or unsophisticated person. __3__ A baseball player, especially a batter. __4__ A fruit picker, farmer, or seller.  
 __applesauce__  
@@ -635,8 +639,9 @@ __apt__
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
+__aqueduct__ _n_  
 __aquifer__ _n_ :two::hammer:  
-__arabesques__ _n_ _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
+__arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
 __Arapahoe__  
 __arbitrary__ _adj_ /AHR-buh-trair-ee/ Determined, planned, or chosen seemingly at random or by chance. _People often make arbitrary decisions on where to go out to eat._  
@@ -647,7 +652,8 @@ __arcade game__
 __arcade__ _n_ _Catering capabilities, 2 bars, billards and an arcade._  
 __Arcadian<sup>1</sup>__ _n_ :two: __2__ (often arcadian) One who leads or prefers a simple, rural life. Rustic, peaceful, and simple; pastoral: _a country life of arcadian contentment._  
 __arcane__ _adj_ :five: Known or knowable only to a few people. Mysterious and secret. _This function appends arcane strings._  
-__arch__ _adj_ :two::hammer: _Her character is arch and fake._  
+__arch<sup>1</sup>__ _n_ (arches _n pl_)  
+__arch<sup>2</sup>__ _adj_ :two::hammer: _Her character is arch and fake._  
 __archaea__ _n_  
 __arched__ _adj_ _Arched doorway._ :camera:  
 __archenemy__ _n_ :pencil2:  
@@ -857,6 +863,7 @@ __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing o
 __autocracy__ _n_ :three: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
 __autocratic__ _adj_ :three::hammer:  
+__autograph tree__ _n_ :astonished:  
 __autokinesy__ _n_ Self-propelled or self-directed motion or energy.  
 __autological__ _adj_ /ô′tə-lŏj′ĭkəl/ Being a word that possesses the characteristic it describes. The word _polysyllabic_ is autological, since it is itself polysyllabic. _The word level is both a palindrome and an autological word. The see-saw “v” in the middle makes it extra special._  
 __autolysis__ _n_  
@@ -871,7 +878,7 @@ __average citizens__
 __average Joe__ _n_ _slang_ :two: An ordinary man.  
 __averse__ _adj_ :three::hammer: _He was not averse to using the news media._ _We are not averse to moving._  
 __avert__ _v_ :five::hammer: (averted) _Tom made a show of averting his eyes._  
-__aviary__ _n_ :two::hammer:  
+__aviary__ _n_ :three::hammer:  
 __avid__ _adj_ :four::hammer: _I’m an avid listener of Beautiful Anonymous._  
 __avocado__ _n_  
 __avocation__ _n_ :two::pencil2: An activity taken up in addition to one’s regular work or profession, usually for enjoyment; a hobby. _Her detective avocation._ :es: (= minor occupation) > diversión, distracción; (= employment) > vocación  
@@ -923,7 +930,7 @@ __back-office__ _adj_ Of or relating to the inner workings of a business or inst
 __back-to-back__ _adj_ _informal_ :five: Consecutive. _His back-to-back victories in the Hungarian and Belgian Grands Prix._  
 __backache__ _n_ :dart:  
 __backbencher__ _n_ :three::hammer: _A Tory backbencher._  
-__backcountry__ _n_ :three::hammer: _Utah ski resorts offering backcountry adventures._  
+__backcountry__ _n_ :five::hammer: _Utah ski resorts offering backcountry adventures._ _Guided backcountry skiing._  
 __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, esp. in the face of superior power or upon further consideration. _Syn_ climb-down, withdrawal  
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
@@ -1231,6 +1238,7 @@ __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to ano
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
+__bell tower__ _n_  
 __bellboy__ _n_  
 __bellhop__ _n_ A person who is employed, esp. by a hotel, to carry guests’ luggage and run errands.  
 __bellicose__  
@@ -1252,7 +1260,7 @@ __belt__ _n_ A swallow or a gulp of an alcoholic drink.
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
-__belvedere__ _n_ :two::hammer: _Towers with belvederes and balconies._  
+__belvedere__ _n_ :three::hammer: _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
@@ -1281,6 +1289,7 @@ __bereavement__ _n_ :eight: State of sorrow over the death or departure of a lov
 __bereft<sup>1</sup>__ _adj_ :six: Suffering the death of a loved one; bereaved. _Syn_ grief-stricken, grieving, mourning _Mourn not for those who have died, but for those who are bereft._  
 __bereft<sup>2</sup>__ _v_ :two::hammer:  
 __beret__ _n_ :two::hammer::mute:[bere~~t~~]  
+__berg__ _n_  
 __berm__ _n_ :two::hammer:  
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
@@ -1663,7 +1672,7 @@ __bookmarker__ _n_
 __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile lending library.  
 __bookplate__  
 __bookrunner__  
-__bookshop__ _n_ :two: A bookstore.  
+__bookshop__ _n_ :three: A bookstore.  
 __bookstall__ _n_  
 __bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
