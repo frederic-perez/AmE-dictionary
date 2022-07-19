@@ -1,18 +1,3 @@
-__abscission__ _n_ The act of cutting off. _ Syn_ cutting off _He had surgery for the abscission of a malignancy._  
-__Bastille Day__ _n_ July 14, a French national holiday commemorating the fall of the Bastille in 1789.  
-__bookstall__ _n_  
-__booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
-__bossom__ _n_  
-__bradyseism__ _n_ :two::hammer:  
-__broom shrubs__ _n_  
-__bullet__ _v_ _Watch the pros bullet down the icy bobsled track._  
-__bun__ _n_ _All that on a a sesame seed bun._  
-__burrow__ _n_  
-__caisson__ _n_  
-__calzone__ _n_ (food)  
-__camp__ _n_ _Available May-August for groups, camps, and conferences._  
-__carve__ _v_ _Grilled meats carved tableside._  
-__carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._  
 __casement__ _n_ :es: ventana de bisagras _Casement window._  
 __causeway__ _n_  
 __chalkboard__ _n_ _Check the chalkboard for daily specials._  

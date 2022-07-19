@@ -78,6 +78,7 @@ __abrogation__ _n_ :two::hammer:
 __abrupt__ _adj_ /uh-BRUPT/  
 __abruptly__  
 __abs__ _n_ :two::hammer: _Six-pack abs._  
+__abscission__ _n_ The act of cutting off. _ Syn_ cutting off _He had surgery for the abscission of a malignancy._  
 __abscond__ _v_ :three: (absconded) To leave quickly and secretly and hide oneself, often to avoid arrest or prosecution. _Syn_ go off, run off, decamp, bolt _Just as the case was about to go to trial, the lawyer panicked and absconded with his client’s money._  
 __absent-minded__ _adj_  
 __absenteeism__ _n_ :four::pencil2: Habitual absence from work. If you’ve got no reason to skip school or work but you do it all the time anyway, you’ve go a bad case of absenteeism.  
@@ -1113,6 +1114,7 @@ __basketry__ _n_
 __bass__ _n_ :two::hammer: (fish) _Fingerling bass._  
 __baste__ _v_ :camera::five::hammer: (basting) _To baste, brine and bicker._  
 __baster__ _n_  
+__Bastille Day__ _n_ July 14, a French national holiday commemorating the fall of the Bastille in 1789.  
 __bastille__ _n_ [:scroll: After Bastille, a fortress in Paris, that was used to hold prisoners.] A prison.  
 __bastion__ _n_ :six: /BAS-chun/ A place or system in which something continues to survive. _The university is a bastion of academic excellence._ _He tried to soften the National Front’s image as a bastion of xenophobes._  
 __bat__ _v_ _My community has really gone to bat for my family and I over and over and over._  
@@ -1673,7 +1675,7 @@ __bookmobile__ _n_ :two: A truck, trailer, or van equipped to serve as a mobile 
 __bookplate__  
 __bookrunner__  
 __bookshop__ _n_ :three: A bookstore.  
-__bookstall__ _n_  
+__bookstall__ _n_ :two::hammer:  
 __bookworm__ _n_ :two: Someone who enjoys reading books and spends a lot of time doing it.  
 __boom and bust__  
 __boom box__  
@@ -1692,6 +1694,7 @@ __booster__ _n_ :two: (boosters) An enthusiastic promoter, as of a sports team o
 __boot camp__ _n_  
 __boot<sup>1</sup>__ _n_ :two: An enclosed compartment of a car for holding luggage, etc, usually at the rear. US and Canadian name: trunk. _He loaded their cases into the boot._ _The boot is a still-generous 17.7 cubic feet._  
 __boot<sup>2</sup>__ _v_ :three::hammer: _She’d keep the golden tooth to boot._ _Now the Eagles have a postseason victory to boot._  
+__booties__ _n_ _Pick up some booties at_ Babinski’s Baby.  
 __bootleg__ _adj_ Produced, distributed, or sold illicitly: _bootleg whisky; bootleg tapes._  
 __bootlegger__  
 __bootstrap paradox__ _n_ A time travel paradox in which the consequences of an event in the future travel back in time and cause an event in the past or present, which in turn is among the causes of the first event, forming a causal loop in which each event is caused by the other.  
@@ -1712,6 +1715,7 @@ __borne__ _v_ :five::hammer:
 __borough__ _n_ :two::hammer::mute:[borou~~gh~~]  
 __bosom__ _n_ :two::hammer:  
 __bossdom__ _n_  
+__bossom__ _n_  
 __bossy__ _adj_  
 __bosun__ _n_ :two::hammer: _Bosun’s chairs._ _The aviation bosun._  
 __bot__ _n_  
@@ -1765,6 +1769,7 @@ __bracket__ _n_ :two::hammer: _Free bus travel led to greater use of public tran
 __bracketology__ _n_ _Daily bracketology updates._  
 __brackish__ _adj_ :three: __1__ Slightly salty (especially from containing a mixture of seawater and fresh water). _Syn_ briny _A brackish lagoon._ _Brackish water._ __2__ Distasteful and unpleasant; spoiled by mixture. _A thin brackish gruel._  
 __bradypnea__ _n_ Abnormally slow breathing.  
+__bradyseism__ _n_ :two::hammer:  
 __braggadocio__ _n_ :two: __1a__ Empty boasting. __b__ Arrogant pretension. _Syn_ cockiness __2__ A person given to arrogant boasting. _Syn_ braggart  
 __braggart__ _n_ One given to loud, empty boasting; a bragger. _Syn_ blowhard, boaster, bragger, line-shooter, vaunter _He was generally considered a braggart, and others found it hard to be excited about his self-proclaimed successes._  
 __brain drain__  
@@ -1904,6 +1909,7 @@ __brooder house__
 __brooding<sup>1</sup>__ _adj, n_ :eight: When you’re dwelling on something, you’re brooding about it — this can be thoughtful or morbidly obsessed. When you’re brooding, you might be depressed about something you just can’t stop thinking about—like the lead character in Hamlet. Brooding can also mean you’re being extremely thoughtful, contemplative, meditative, musing, reflective, or ruminative — those are all good things. You have to look at the context to see if someone is brooding in a positive or negative way. This is also a word for what chickens and other egg-laying animals do: sitting on eggs to help them hatch.  
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
+__broom shrubs__ _n_  
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
@@ -1991,6 +1997,7 @@ __Bull__ _n_
 __bull__ _n_ :three: __1a__ An adult male bovine mammal. __b__ The uncastrated adult male of domestic cattle. __c__ The adult male of certain other large animals, such as alligators, elephants, moose, or whales. __6__ (Bull) An official document issued by the pope and sealed with a bulla. :es: bula _Papal Bull._ _No Pope ever issued a Bull to approve of something._  
 __bulldozing__ _v_ _Henry was bulldozing for 201 yards._  
 __bullet point__ _n_ :three::hammer: _Give me the bullet points._  
+__bullet__ _v_ _Watch the pros bullet down the icy bobsled track._  
 __bulletin__ _n_  
 __bulletproof__ _adj_ _A bulletproof relationship._  
 __bullfrog__ _n_ Largest North American frog; highly aquatic with a deep-pitched voice.  
@@ -2020,7 +2027,7 @@ __bumpkin__
 __bumps in the road__  
 __bumptious__ _adj_ Crudely or loudly assertive. _Syn_ cocky, forward, arrogant, brash, swaggering, vaunting, pushy _I could hardly believe that the bumptious young suitor I had once turned away had grown into the polite, refined gentleman standing before me._  
 __bumpy__  
-__bun__ _n_  
+__bun__ _n_ :two::hammer: _All that on a a sesame seed bun._  
 __bunch<sup>1</sup>__ _n_ _Bunches of grapes._  
 __bunch<sup>2</sup>__ _v_ :camera::seven::hammer: (bunched, bunching) _Organic bunched carrots, 98¢ per pound._ _Bunched together far behind Trump are Sens. Rubio and Cruz._ _Placing the satellites at safe intervals to avoid bunching._ _Bunching socks._  
 __Bund__ _n_ __2__ (Historical Terms) Short for German American Bund, an organization of US Nazis and Nazi sympathizers in the 1930s and 1940s.  
@@ -2076,7 +2083,7 @@ __burqa__
 __burr haircut__  
 __burr__ _n_  
 __burrhead__ _n_  
-__burrow<sup>1</sup>__ _n_ :four::hammer:  
+__burrow<sup>1</sup>__ _n_ :five::hammer:  
 __burrow<sup>2</sup>__ _v_ :three::hammer:  
 __burrs__ _n_  
 __bursary__ _n_ :two::hammer: (bursaries)  
@@ -2209,6 +2216,7 @@ __cagey__ _adj_ :three: __1__ Wary; careful: _a cagey avoidance of a definite an
 __cagily__ _adv_  
 __cagy__ _adj_ :two: Variant of cagey.  
 __cahoots__  
+__caisson__ _n_  
 __caitiff__ _adj_ _Caitiff nobles._  
 __cajole__ _v_ :nine: (cajoled, cajoling) To persuade (someone) by flattery or pleasing talk to do what one wants; wheedle; coax.  
 __cajolery__ _n_ Flattery intended to persuade. _Syn_ blandishment, palaver _She used every possible means of cajolery to persuade her father to take her to the circus._  
@@ -2251,6 +2259,7 @@ __caltrops__ _n_
 __calumniate__ _v_ To make maliciously or knowingly false statements about. _Syn_ asperse, besmirch, defame, slander, smirch, denigrate, sully, smear  
 __calumny__ _n_ __1__ A false statement maliciously made to injure another’s reputation. __2__ The utterance of maliciously false statements; slander.  
 __calves__  
+__calzone__ _n_ (food)  
 __camaraderie__ _n_ :two::hammer: /kahm-RAH-duh-ree/  
 __Cambodia__  
 __cameleer__  
@@ -2258,7 +2267,7 @@ __camellia__
 __cameo__ _n_ __1__ A small sculpture carved in relief on a background of another color. __2__ A short description, literary sketch, etc., that effectively presents the subject. __3__ A very brief appearance by a well-known actor or celebrity in a film, typically in a non-speaking role. __4__ A brief appearance or a minor role.  
 __camo__  
 __camouflage__  
-__camp<sup>1</sup>__ _n_ :three::hammer: _The Pacquiao camp did not object._  
+__camp<sup>1</sup>__ _n_ :four::hammer: _The Pacquiao camp did not object._ _Available May-August for groups, camps, and conferences._  
 __camp<sup>2</sup>__ _adj_ _A classic camp comedy._  
 __campaign__ _n, v_ :mute:[campai~~g~~n]  
 __camper shell__  
@@ -2399,8 +2408,9 @@ __cartel__ _n_ :three::hammer:
 __carthorse__ _n_  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
 __carve out__ _v_ (carved out) :six::hammer:  
-__carve__ _v_ _Feast on oversized hand-carved sandwiches._  
+__carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grilled meats carved tableside._  
 __carveouts__  
+__carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._  
 __cascading__  
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
