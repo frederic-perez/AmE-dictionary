@@ -1,18 +1,3 @@
-__casement__ _n_ :es: ventana de bisagras _Casement window._  
-__causeway__ _n_  
-__chalkboard__ _n_ _Check the chalkboard for daily specials._  
-__chalkstone__ _n_ A deposit of urates around a joint or in the external ear; diagnostic of advanced or chronic gout. _Syn_ tophus _Once the doctor saw the chalkstone, he knew his patient was suffering from gout._  
-__charcuterie__ _n_  
-__charter__ _n_ _Private jet charter._  
-__chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
-__chukar__ _n_  
-__coach__ _n_ __1a__ A bus, especially one designed for long-distance passenger service.  
-__Coca-Cola pork loin__ _n_ (recipe)  
-__colonnade__  
-__comfort food__  
-__confectionery__ _n_  
-__corduroy__  
-__cottage__ _n_ _Cottage on premises._  
 __cotton-wood__  
 __cozy__ _adj_ _Cozy cottages._  
 __crease__ _v_  

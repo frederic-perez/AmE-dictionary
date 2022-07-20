@@ -2418,6 +2418,7 @@ __case study__
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
+__casement__ _n_ :es: ventana de bisagras _Casement window._  
 __caseous__ _adj_ Resembling cheese.  
 __cash bar__ _n_ A bar (as at a reception) at which drinks are sold. (compare _open bar_) _The cost is $30 per person with a cash bar._  
 __cash flow__  
@@ -2495,7 +2496,7 @@ __cauldron__ _n_
 __cauliflower steak__ _n_ :camera: It’s simply thick cauliflower slices that are roasted in the oven.  
 __caulking__  
 __cause célèbre__ _n_ Any controversy that attracts great public attention.  
-__causeway__ _n_ :six::hammer:  
+__causeway__ _n_ :seven::hammer:  
 __cautiously__ _adv_ _Consume alcohol cautiously as it has more effect at ski area altitudes._  
 __cavalcade__ _n_ :two::hammer: _A cavalcade of bribes._  
 __cavalier<sup>1</sup>__ _adj_ :astonished: __1__ Showing arrogant or offhand disregard; dismissive: a cavalier attitude toward the suffering of others. __2__ Carefree and nonchalant; jaunty.  
@@ -2551,7 +2552,8 @@ __chain smoker__
 __chaise__  
 __chalets__ _n_ _Dozens of homes, rental cabins and chalets have been destroyed._  
 __chalk__ _v_ :four::hammer::mute:[cha~~l~~k] (chalked) _Chalk it up._  
-__chalkboard__ _n_ :two: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard.  
+__chalkboard__ _n_ :three: (Education) _US and Canadian_ A hard or rigid surface made of a smooth usually dark substance, used for writing or drawing on with chalk, esp in teaching. Also called (in Britain and certain other countries): blackboard. _Check the chalkboard for daily specials._  
+__chalkstone__ _n_ A deposit of urates around a joint or in the external ear; diagnostic of advanced or chronic gout. _Syn_ tophus _Once the doctor saw the chalkstone, he knew his patient was suffering from gout._  
 __chalky__ _adj_ _Chalky skin._  
 __chamber of horrors__ _n_ [:scroll: After the Chamber of Horrors, a room in Madame Tussaud’s waxwork exhibition in London. It displayed waxworks of notorious criminals and other infamous historical figures.] A collection of horrifying things, ideas, people, etc.  
 __chamber pot__ _n_ :two::dart::astonished: A portable container for urine and defecation, used in bedrooms.  
@@ -2588,7 +2590,7 @@ __char__ _v_ (charred)
 __character actor__  
 __character__ _n_ :mute:[c~~h~~aracter]  
 __charade__ _n_ :four::hammer:  
-__charcuterie__ _n_ :pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
+__charcuterie__ _n_ :two::pencil2: __1__ Sausages, ham, pâtés, and other cooked or processed meat foods. __2__ A delicatessen specializing in such foods.  
 __chard__  
 __charge__ _v_ Accuse formally.  
 __chargrill__ _v_ (chargrilled) _Mouthwatering chargrilled burgers._  
@@ -2602,7 +2604,7 @@ __charred__ _adj_ :two: Burnt and blackened.
 __charted__  
 __Charter of Liberties__ _n_  
 __charter school__ _n_ An experimental public school for kindergarten through grade 12; created and organized by teachers and parents and community leaders; operates independently of other schools.  
-__charter<sup>1</sup>__ _n_ :two::hammer:  
+__charter<sup>1</sup>__ _n_ :three::hammer: _Private jet charter._  
 __charter<sup>2</sup>__ _v_  
 __chartered__ _adj_ A chartered professional person has passed examinations in their profession.  
 __chartreuse__ _n_ :two: A strong to brilliant greenish yellow to moderate or strong yellow green. The color takes its name from the trademarked liqueur _Chartreuse_, which comes in green and yellow varieties and has been made since 1737 by Carthusian monks, whose monastery is located in the Chartreuse Mountains in the Grenoble region of France.  
@@ -2647,6 +2649,7 @@ __cheese-eater__
 __cheesecake__ _n_ __2__ _slang_ (vs beefcake) Women displayed for their sex appeal, as in photographs in magazines, newspapers, or films.  
 __cheesecloth__ _n_ :three::hammer:  
 __cheesy__ _adj_  
+__chef__ _n_ A cook, especially the chief cook of a large kitchen staff. _Your dinner is cooked by your own chef in front of you._  
 __chemistry__ _n_ :mute:[c~~h~~emistry]  
 __chemtrail__ _n_ :camera:  
 __chenier__  
@@ -2765,6 +2768,7 @@ __chuff__ _v_ :two: To produce or move with noisy puffing or explosive sounds. _
 __chug<sup>1</sup>__ _n_ __1__ A large swig of liquid: _a chug of beer._ __2__ A short dull sound, esp one that is rapidly repeated, such as that made by an engine: _the chug of an engine._  
 __chug<sup>2</sup>__ _v_ :four: To swallow liquid, such as beer, without pausing. To swallow (a liquid) in one continuous action: _chugged beer; chugged a beer; chugged a can of beer._ _A cocktail to chug._ _We’re chugging along._  
 __Chugging beers__  
+__chukar__ _n_  
 __chum__ _n_ :five: (chums) __1__ An intimate friend or companion. _Two college chums._ _We’re old school chums._ __2__ Bait usually consisting of oily fish ground up and scattered on the water. _Fish chum._  
 __chummy__ _adj_ _informal_ Associated on close terms. _Syn_ buddy-buddy, thick _The bartender is chummy with his regular customers._  
 __chump__ _n_ A stupid person, especially a dupe; sucker.  
@@ -2967,7 +2971,7 @@ __co-op__ _n_ :nine::m: Any co-operative, including housing, retail, utility, ag
 __co-opted__ _v_  
 __co-pilot__ _n_ A relief pilot on an airplane.  
 __co-sleeping__  
-__coach__ _n_ :three::hammer: _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
+__coach__ _n_ :four: __1a__ A bus, especially one designed for long-distance passenger service. _Deluxe motor coaches._ __3__ A class of airline travel less luxurious and less expensive than first class. :es: clase turista _You’re flying coach._ _A standard coach cabin._  
 __coalesce__ _v_ :pencil2::four::hammer: (coalescing) :es: fundirse  
 __coast__ _v_ :two::hammer:  
 __coasteering__ _n_  
@@ -2984,6 +2988,7 @@ __cobble up__ _phr v_
 __cobble__ _v_ :two::hammer: (cobbled)  
 __cobbler__ _n_ :two::hammer:  
 __cobweb__ _n_ :six::hammer: (cobwebs)  
+__Coca-Cola pork loin__ _n_ (recipe)  
 __cochineal__ _n_  
 __cock-a-hoop__ _adj_ Exhibiting self-importance. _Syn_ boastful, braggart, crowing, self-aggrandizing, big _I didn’t mean to be cock-a-hoop about my promotion, but I couldn.t help telling everyone I encountered!_  
 __cockcrow__  
@@ -3067,6 +3072,7 @@ __collude__ _v_ :three: Act in unison or agreement and in secret towards a decei
 __collusion__ _n_ :six: Boldness or daring, especially with confident or arrogant disregard for personal safety, conventional thought, or other restrictions.  
 __colocation > data colocation__  
 __colonel__ _n_ :two::mega::hammer:  
+__colonnade__  
 __colophon__ _n_  
 __color wheel__  
 __color__ _n_ :mega: /ˈkʌl ər/  
@@ -3094,6 +3100,7 @@ __comeliness__ _n_
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
+__comfort food__  
 __comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
 __comforter sets__  
@@ -3218,6 +3225,7 @@ __conduit__ _n_ :six::hammer:
 __coneys__  
 __confabulate__ _v_ :four: __1__ To talk informally. To talk casually. _Syn_ chat, natter _Three old friends met in a café to confabulate together._ __2__ To hold a discussion. _Syn_ confer __3__ To fill in gaps in memory by fabrication.  
 __confection__ _n_ :three: __2__ :astonished: A sweet prepared food, such as candy or cake. _Syn_ sweet _One of the perks of working in a candy shop is getting to try all the new confections._  
+__confectionery__ _n_  
 __confederacy__  
 __Confederate flag__  
 __confederate<sup>1</sup>__ _adj_  
@@ -3401,7 +3409,7 @@ __cordon sanitaire__ _n_ __1__ A barrier designed to prevent a disease or other 
 __cordon__ _n_ :two::hammer: _A wide cordon of police._  
 __cordonef off__ _v_ _The police had cordonex off the site of the bombing._  
 __corduroy pants__  
-__corduroy__ _n_ :two: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
+__corduroy__ _n_ :three: A durable cut-pile fabric, usually made of cotton, with vertical ribs. :es: pana  
 __corduroys__ _n_ Pants made of corduroy.  
 __core dump__ _n_ _The book goes on like this, a chronological core dump of facts._  
 __corgi__  
@@ -3449,7 +3457,7 @@ __costliest__ _adj_ :two::hammer:
 __costumier__ _n_  
 __cot__ _n_ :two::hammer: _Ryan chooses to bed down in a cot in his office every night the House is in session._  
 __coterie__ _n_ :two::hammer: (coteries)  
-__cottage__ _n_ :two::astonished::hammer:  
+__cottage__ _n_ :three::astonished::hammer: _Cottage on premises._  
 __Cotton Belt__ _n_ (cotton belt) A belt of land in the southeastern US that specializes in the production of cotton.  
 __cotton candy__ _n_ :two::hammer:  
 __cotton dry__  
