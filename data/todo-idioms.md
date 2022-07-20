@@ -1,15 +1,3 @@
-__one of a kind__  
-__one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
-__open mike__  
-__other than (something)__ Besides or excluding something. _Other than having a view of the parking lot, his apartment is great._  
-__out of the blue__  
-__pass on__  
-__pass with flying colors__  
-__pay dirt__ Something very, particularly, or abundantly valuable or useful, especially that which has been discovered after a long or arduous search. Used especially in the phrase “hit/strike pay dirt.” _I was combing through books in the library for hours trying to find material for my thesis, when finally I hit pay dirt with an old collection of literary criticisms from the 1970s._  
-__Peter Pan syndrome__ A psychological state or condition in which a grown person cannot or refuses to act like an adult; a stubborn and persistent immaturity found in an adult person. _I seem cursed to only find men who have some damned Peter Pan syndrome. I’m tired of going out with guys who act like children!_  
-__pick your poison__  
-__picture perfect__  
-__pit stop__  
 __place your bets__  
 __play it straight__  
 __play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
@@ -92,7 +80,7 @@ __take the edge off__
 __talk twenty to the dozen__ To talk (to someone) very rapidly, hurriedly, and/or energetically. _My aunt can get talking twenty to the dozen if you get her on a topic she’s passionate about._  
 __tall order__  
 __tall tale__ :two::hammer:  
-__tap into__  
+__tap into__ :two::hammer: _Tap into the dark side of the Force._  
 __teem with (someone or something)__ To overflow or swarm with people or things; to have a huge abundance of people or things. _The trash was teeming with cockroaches._ _The city positively teemed with tourists ahead of the annual festival._  
 __tell (someone’s) fortune__ To (profess to) anticipate and inform someone about certain outcomes or events in their near or distant future. _This old lady in the apartment next to mine offered to tell my fortune for ten bucks. I never go in for stuff like that, but I’ll admit that I’m a bit curious._  
 __temper tantrum__ An extreme and childish display of unreasonable anger, frustration, or distemper. _I can’t believe you threw a temper tantrum like that just because I didn’t want to go see some movie with you!_  
