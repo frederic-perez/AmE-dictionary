@@ -1877,15 +1877,21 @@ __not know (someone) from a bar of soap__ To be completely unaware of or know no
 __not know someone from Adam__ Not to know someone by sight at all. _I wouldn’t recognize John if I saw him up close. I don’t know him from Adam._  
 __not the full shilling__ (UK) Rather stupid or unintelligent; slightly crazy or unhinged. _He’s not the full shilling if he thinks that plan is going to work._ _Of course he’s not the full shilling—he’s wearing pajamas at the beach!_ _I’m not quite the shillin (from the_ I’m going slightly _mad song)._  
 __not to give a shit (about something)__ _rude_ _slang_ To not care in the slightest (about something); to attach no importance to something. _I haven’t given a shit for the show ever since they killed off my favorite character._ _No-one gave a shit._  
+__not to mention__ :two::hammer:  
+__not utter a word__ To be completely silent; to remain discreet (about something); to not tell anyone (about something). _All the while our father was shouting at us, my sister and I didn’t utter a word._  
 __not your father’s__ Very modern or updated; no longer what an older generation would expect or be used to. _With every building now featuring wireless Internet and touch-screen monitors integrated into the desks in each classroom, this is certainly not your father’s high school anymore._  
+__nothing but__ _I’m nothing but tired._  
 __nothing less than (something)__ (Having) an extreme quality, trait, or characteristic demonstrated in absolute terms. _The instructor demands nothing less than perfection from her pupils._  
 __nothing more, nothing less__  
+__nothing short of__ :two::hammer:  
 __nothing to sneeze at__ Not something that should be ignored, dismissed, or treated with disdain; something that is not inconsequential. _She never really had a chance of winning, but the amount of votes she managed to muster is truly nothing to sneeze at._  
 __now (someone) has gone and done it__ Someone has just done something very grave, foolish, and/or irreparable. _Now you’ve gone and done it! My mother’s gonna tan our hides for breaking that!_  
 __now (that) you mention it__ An expression used when one remembers or realizes something because of what the other person has just said.  
+__now we are talking__  
 __nut out__ __1__ _slang_ To discover, through careful consideration, deliberation, or investigation, the solution to something. In this usage, “nut” is slang for one’s head or brain. A noun or pronoun can be used between “nut” and “out.” _Each of us has hit the same stumbling block in the assignment, so we’re going to get together this weekend and nut it out together._ __2__ _slang_ To begin acting in a crazy, erratic, or deranged manner, especially due to extreme anger. In this usage, “nut” is a derogatory slang term meaning “a crazy person.” A noun or pronoun can be used between “nut” and “out.” _Tom totally nutted out after he found out his wife had been cheating on him._  
 __nuts and bolts__ :three: The basic, practical details of a job or other activity. (the nuts and bolts of something)  
 __oat opera__ A film or theatrical production about the American West (i.e., a western), especially one that is clichéd or formulaic. _My grandfather and I had a tradition of watching old oat operas every Sunday on TV._  
+__objection hearsay__  
 __OD__ _v_  
 __odd duck__ A rather unusual, strange, or peculiar person. _His new girlfriend is nice enough, but she’s a bit of an odd duck, don’t you think?_  
 __of a kind__ _You are two of a kind._  
@@ -1893,10 +1899,12 @@ __of late__ _adv_ :four: In recent times; lately. You use of late to refer to an
 __of no account__ :two: Of no or very little importance, significance, or worth. _Sure, his writing is OK, but he only published a few articles in some tiny magazine of no account._  
 __of one’s own accord__ Voluntarily.  
 __off to the races__ :two: An expression characterizing the activity or excitement that is just beginning; [we are] leaving for something interesting or exciting. _The tour bus is out in front waiting and we’ve said goodbye to everyone. Looks like we’re off to the races._  
-__off-kilter__ :three::hammer:  
+__off-kilter__ :four::hammer:  
 __office drone__ A nickname given to the laziest person in the cube farm, or the one who tries to pass off as much work as possible while still maintaining the semblance of productivity. _Sara and I met as office drones in 1999._  
 __offs and ends__ __1a__ Miscellaneous articles. __b__ Miscellaneous small matters (as of business) to be attended to. __2__ Miscellaneous remnants or leftovers odds and ends of food.  
 __Oh, boy!__ :two: __1__ An expression said when one is excited, pleased, or pleasantly surprised. Wow! _Oh, boy! What a mess!_ __2__ An expression said when one is frustrated by, exasperated about, resigned to something bad or unpleasant. _Oh boy, another surprise inspection. I sure do love these._  
+__oh, my__  
+__OK Corral__  
 __okay dokay__ Another way of saying okeydoke, okey, sure, alright, sure thing.  
 __okey-dokey__ An informal variation of OK. _A: “Come on, Tom. We’re ready to go to the park!” B: “Okey-dokey!”_  
 __old as the hills__ Someone who is very old.  
@@ -1919,13 +1927,16 @@ __on fleek__ _slang_ :two: A phrase said of something that looks good or is perf
 __on foot__ _I work to work on foot._  
 __on in years__ Advanced in age; old or becoming old. _I might be a little bit on in years, but I’m no fool when it comes to technology!_  
 __on leave__ In the midst of an official extended absence from one’s work, school, etc. _Jane just had a baby, so she’s on leave._ _I’ve been on leave for the past few weeks as my illness has gotten worse._  
+__on location__ _Filmed on location._  
+__on my end__  
 __on occasion__ Once in a while; occasionally. _I don’t really drink, but I do enjoy a nice glass of wine with a meal on occasion._  
 __on opposite sides of the barricade(s)__ Occupying conflicting, opposing, and/or contrary positions on some issue or in some situation. _Unfortunately, it seems more and more to be the case that those who would see the economy recover and those who strive for social equality find themselves on opposite sides of the barricade._  
+__on par (with someone or something)__  
 __on pins and needles__ Worried or excited about something.  
 __on point__ __1__ Focused on or related to the crux or essence of a particular topic. _Nothing that you’re saying is on point! You’re just wasting time with mindless rambling._ __2__ _informal_ Outstanding or perfect. _Ooh, your eyebrows are on point today! Did you use a brow filler?_ __3__ In slang, the expression often describes someone as “on their game” or “looking sharp.”  
 __on someone’s dime__ _I was living on my mother’s dime._  
 __on steroids__ :four::mega: In a very large, enhanced, or exaggerated form.  
-__on tap__ __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_  
+__on tap__ :two: __1__ Ready to be drawn; in a tapped cask: _beer on tap._ Having to do with beer served from a barrel or keg. _Do you have any imported beers on tap here? I like beer on tap. The canned stuff tastes funny to me._ __2__ Available for immediate use; ready: _extra personnel on tap._ __3__ Scheduled or expected: _What’s on tap for the weekend?_ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
 __on tenterhooks__ In a state of suspense or anxiety about something; from the idea of cloth being suspended on a tenter (frame for stretching cloth while it is drying).  
 __on the attack__ _He couldn’t stand being criticized any longer and went on the attack._ :es: entrar al trapo  
 __on the back burner__ :two::hammer:  
@@ -1937,6 +1948,7 @@ __on the down low__ __1__ In a state of secrecy or minimal public knowledge; bei
 __on the fence__ Unable to make a decision.  
 __on the fiddle__ Engaged in deceitful, fraudulent, or dishonest means of obtaining money. _My career will be over if anyone ever finds out I was on the fiddle during my time as the company treasurer._  
 __on the flip side__ :two::hammer:  
+__on the go__  
 __on the grapevine__ :two::hammer: _Al must have heard something on the grapevine._  
 __on the gravy train__ In a state, position, or job where one makes an excessive amount of money without expending much or any effort. _I’ll be on the gravy train once I get paid from the settlement of the lawsuit!_  
 __on the hush-hush__ In a state of secrecy or minimal public knowledge; being known only by a select few people. _I need to tell you some important news, but you have to keep it on the hush-hush, OK?_  
@@ -1950,7 +1962,7 @@ __on the sly__ _adv_ :five: Slyly, in an inconspicuous manner, so as not to be s
 __on the tip of your tongue__ About to be said or almost remembered.  
 __on the upswing__ Showing or experiencing a noticeable or conspicuous increase, improvement, or expansion. _The last few years were hard on our company, but we’re finally starting to get back on the upswing._  
 __on the whole__ :two: Considering everything together; in general or for the most part. _On the whole, the performance was bland and uninspired._ _On the whole, this was a very good day._  
-__on thin ice__ :two: In a risky position, in a dangerous situation.  
+__on thin ice__ :three: In a risky position, in a dangerous situation.  
 __on top of that__ :five: Additionally; furthermore. _On top of that, ..._  
 __on track__ :dart: Progressing or developing as planned, scheduled, or expected. _The project was on track before the boss up and quit, but who knows when we’ll get it finished now!_  
 __On your mark(s), get set, go!__  

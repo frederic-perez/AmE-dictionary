@@ -1,18 +1,3 @@
-__not to mention__ :two::hammer:  
-__not utter a word__ To be completely silent; to remain discreet (about something); to not tell anyone (about something). _All the while our father was shouting at us, my sister and I didn’t utter a word._  
-__nothing but__ _I’m nothing but tired._  
-__nothing short of__ :two::hammer:  
-__now we are talking__  
-__objection hearsay__  
-__off-kilter__  
-__oh, my__  
-__OK Corral__  
-__on location__ _Filmed on location._  
-__on my end__  
-__on par (with someone or something)__  
-__on tap__ The Magic Flute _and_ The Barber of Seville _are just a few of the classics on tap this season._  
-__on the go__  
-__on thin ice__  
 __one of a kind__  
 __one-of-a-kind__ :two::hammer: _One-of-a-kind experience._  
 __open mike__  
