@@ -1,18 +1,3 @@
-__alert__ _n_ :mega:  
-__apse__ _n_ :es: ápside  
-__aqueduct__ _n_ :two::hammer:  
-__arrest__ _v_ :astonished:  
-__artichoke__ _n_  
-__believer__ _n_ :mega:  
-__belvedere__ _n_  
-__broomstick__ _n_  
-__clamber__ _v_ :two::hammer:  
-__coeval__ _adj, n_  
-__comfit__ _n_  
-__cotton-wood__  
-__cozy__ _adj_ _Cozy cottages._  
-__craggy__ _adj_ _Craggy shore._  
-__crease__ _v_  
 __creek__ _n_  
 __crib__ _n_ :two::hammer:  
 __cross-country__ _adj_ :two::hammer:  

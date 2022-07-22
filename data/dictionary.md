@@ -335,6 +335,7 @@ __alder__ _n_ :pencil2::two::hammer:
 __alderman__ _n_ :four::hammer: (aldermen)  
 __aleatory__ _adj_ /AY-lee-uh-tor-ee/  
 __alembic__ _n_ :two: __2__ Anything that transforms, purifies, or refines.  
+__alert__ _n_ :mega:  
 __Aleut__ _n_  
 __alfresco<sup>1</sup>__ _adv_ :two: In the fresh air. _Syn_ outdoors _Dining alfresco is one of my great summer pleasures._  
 __alfresco<sup>2</sup>__ _adj_ :two::hammer: _It had two small terraces for alfresco dining._  
@@ -636,11 +637,12 @@ __apricate__ _v_ To bask in the sun.
 __apropos<sup>1</sup>__ _adj_ :mega::four: /ˌæp rəˈpoʊ/ Being at once opportune and to the point. _Syn_ relevant, timely _His book about safe investment, published right before the stock market crash, was more apropos than he expected._  
 __apropos<sup>2</sup>__ _adv_ /ˌæp rəˈpoʊ/  
 __apropos<sup>3</sup>__ _prep_ /ˌæp rəˈpoʊ/  
+__apse__ _n_ :es: ápside  
 __apt__  
 __aquanaut__ _n_  
 __aquaponics__ _n_ _(used with singular verb)_  
 __aquaria__  
-__aqueduct__ _n_  
+__aqueduct__ _n_ :three::hammer:  
 __aquifer__ _n_ :two::hammer:  
 __arabesque__ _adj, n_ :two::hammer: _They were heavily coated with arabesques of frost which scintillated with the silver sparks of outer sunshine._  
 __Aragon__ _n_ :mega: /ˈærəɡən/  
@@ -696,14 +698,14 @@ __arrange__ _v_
 __arrangement__ _n_  
 __array__ _v_ (arrayed)  
 __arrears__ _n pl_ :three::pencil2::hammer: :es: atrasos _The ransom was in arrears._ _She let her servant’s wages fall into arrears._  
-__arrested__ _v_ :astonished: _While others are arrested by discouragement, we are not._  
+__arrest__ _v_ :two::astonished::hammer: _While others are arrested by discouragement, we are not._  
 __arresting__ _adj_ _The arresting Gothic mansion of Mount Stuart._  
 __arrive__ _v_ _He arrived in England in April 1376._  
 __arrogate__ _v_ /AIR-uh-gayt/ To take or claim (something, such as a right or a privilege) in a way that is not fair or legal. _The city council has accused the mayor of arrogating to himself decision-making authority that rightly belongs with the council._  
 __arrowroot__  
 __arson__ _n_  
 __artery__ _n_ :mega:  
-__artichoke__ _n_ :two::hammer:  
+__artichoke__ _n_ :three::hammer:  
 __articulate<sup>1</sup>__ _adj_ :four::hammer: _A clearly articulate project._  
 __articulate<sup>2</sup>__ _v_ :six::hammer: (articulated)  
 __articulated__ _adj_ _(of a vehicle)_ Built in sections that are hinged or otherwise connected so as to allow flexibility of movement.  
@@ -1238,6 +1240,7 @@ __beleaguer__ _v_ :two::hammer: /bih-LEE-gur/
 __beleaguered__ _adj_ :nine::m: Put in a very difficult situation. _The board is supporting the beleaguered director._ _Syn_ hard-pressed, troubled  
 __belfry__ _n_ __1__ A bell tower; especially one surmounting or attached to another structure. __2__ A room or framework for enclosing a bell. __3__ The seat of the intellect: head. Someone who has “bats in the belfry” is insane or eccentric. This phrase is responsible for the use of bats for “insane” (as in “Are you completely bats?”) and the occasional use of belfry for “head” (“He’s not quite right in the belfry”).  
 __belie__ _v_ :nine::m: (belies, belied) __1__ (of an appearance) fail to give a true impression of (something). _Syn_ contradict _His lively, alert manner belied his years._ __2__ Fail to fulfil or justify (a claim or expectation). _The quality of the music seems to belie the criticism._ :es: desmentir; engañar  
+__believer__ _n_ :mega:  
 __belittle__ _v_ :five: (belittling) Dismiss (someone or something) as unimportant. _Syn_ disparage, denigrate, run down, deprecate, depreciate _He belittles her._  
 __bell pepper__ _n_ :camera: _1 yellow or red bell pepper._  
 __bell tower__ _n_  
@@ -1262,7 +1265,7 @@ __belt__ _n_ A swallow or a gulp of an alcoholic drink.
 __belted__ _v_ :three::hammer: (belting) _An old woman belted out, “We are tired!”_ _He belted his new tunes into the hallway._  
 __belter__ _n_ __1__ An event, person, quality, etc, that is admirable, outstanding, or thrilling: _a real belter of a match._ _This weeks winner is an absolute belter from a recruiter._  
 __beltway__ _n_ :dart:  
-__belvedere__ _n_ :three::hammer: _Towers with belvederes and balconies._  
+__belvedere__ _n_ :four::hammer: _Towers with belvederes and balconies._  
 __belying__ _v_  
 __bemoan__ _v_ :nine::m: (bemoaned, bemoaning) To moan or complain about; be dismayed or worried about something.  
 __bemuse__ _v_ :two: /bih-MYOOZ/ (bemused) __1__ To bewilder. _The actor was bemused by all the attention she was receiving for her role in the movie._ __2__ To confuse. _The contestant seemed somewhat bemused by the question; however, she gave the correct answer._  
@@ -1910,6 +1913,7 @@ __brooding<sup>1</sup>__ _adj, n_ :eight: When you’re dwelling on something, y
 __brooding<sup>2</sup>__ _v_ _I was brooding._  
 __brook__ _v_  
 __broom shrubs__ _n_  
+__broomstick__ _n_  
 __broth__  
 __brother-in-arms__ _n_ :two: (brothers in arms) A fellow soldier or comrade in a shared struggle. _I serve Rome, my officers, and my brothers-in-arms._  
 __Brothers Grimm__ _n_  
@@ -3007,7 +3011,7 @@ __coequality__ _n_ The state of being equal with one another, as in rank, power,
 __coerce__ _v_  
 __coerced__  
 __coercion__ _n_  
-__coeval__  
+__coeval__ _adj, n_ :two::hammer:  
 __coffee grinder__ _n_ A mill that grinds roasted coffee beans.  
 __coffee mill__ _n_ _Syn_ coffee grinder  
 __coffee-table book__  
@@ -3100,6 +3104,7 @@ __comeliness__ _n_
 __comely__ _adj_ :six: __1__ Pleasing and wholesome in appearance; attractive. _Syn_ beautiful. _literary old-fashioned_ Very pleasing to the eye. _Syn_ bonny, sightly, fair _A comely smile._ __2__ Suitable; seemly: _comely behavior._  
 __comestible__ _n_ Any substance that can be used as food. _Syn_ eatable, edible, pabulum, victual  
 __comeuppance__  
+__comfit__ _n_  
 __comfort food__  
 __comfort__ _n_ :pencil2:  
 __comfortable__ _adj_ :dart::mega:/ˈkʌmftəbəl/  
@@ -3463,6 +3468,7 @@ __cotton candy__ _n_ :two::hammer:
 __cotton dry__  
 __cotton gin__ _n_ A machine that separates the seeds, seed hulls, and other small objects from the fibers of cotton.  
 __cotton swabs__  
+__cotton-wood__  
 __Cottonopolis__ _n_ Manchester, UK.  
 __couch potato__  
 __couch__ _v_ _He couched the eyes of a dead cat._  
@@ -3525,7 +3531,7 @@ __coxswain__
 __coy__ _adj_ :six: __1__ Shy or pretending to be shy and innocent, especially about love or sex, and sometimes in order to make people more interested in you. __2__ (coy about something) Not willing to give information about something, or answer questions that tell people too much about you. :es: recatado  
 __coyly__ _adv_ :two: In a coy manner. _She pouted and looked at him coyly._  
 __cozen__ _v_ :three::hammer: (cozened) /KUZ-un/  
-__cozy<sup>1</sup>__ _adj_ :three::hammer: _A modern, cozy oasis of culinary delights._  
+__cozy<sup>1</sup>__ _adj_ :four::hammer: _A modern, cozy oasis of culinary delights._ _Cozy cottages._  
 __cozy<sup>2</sup>__ _n_ A padded covering for a teapot, chocolate pot, etc., to retain the heat. _Teapots, infusers, and cozies._  
 __crab lice__ _n_  
 __crabbed__ _adj_ Irritable and perverse in disposition; ill-tempered. _Syn_ fussy, grouchy, grumpy, cross _I first put out my tacky lawn ornaments as a practical joke, but after my persnickety, crabbed neighbor lodged a complaint about them, I dug my heels in and refused to take them down._  
@@ -3550,7 +3556,7 @@ __craftman__
 __crafty__  
 __crag__ _n_ :four::hammer: _Syn_ rock, peak, bluff, pinnacle, tor, aiguille _The castle sits on a rocky crag above the town._ :es: peñasco  
 __cragginess__  
-__craggy__ _adj_ :five::hammer:  
+__craggy__ _adj_ :six::hammer: _Craggy shore._  
 __crakle__ _v_ _The phone collection crackles._  
 __cram__ _v_ :nine::m: (crammed, cramming) __1__ To force (people, material, etc) into (a room, container, etc) with more than it can hold; stuff. _On the weekends, she crams in as much physical activity as she can._ _A cram year._ _Cramming new tests into the suite._ _A late-night cram session._ __2__ To eat or cause to eat more than necessary. __3__ _(Education)_ _informal_ To study or cause to study (facts, etc), _esp_ for an examination, by hastily memorizing.  
 __cramp__ _n_ :five::hammer: (cramps, cramped)  
@@ -3582,7 +3588,7 @@ __creak__ _v_ :three::hammer: (creaked)
 __creaking__ _n_ A squeaking sound. _Door creakings._  
 __creaky__ _adj_ _Creaky infrastructure._  
 __crease<sup>1</sup>__ _n_ :two::hammer: (creases) _There are creases in the cover._  
-__crease<sup>2</sup>__ _v_ :two::hammer:  
+__crease<sup>2</sup>__ _v_ :three::hammer:  
 __cred__ _n informal_ :seven: (creds) Short for credibility: _street cred._  
 __credence__ _n_ :six::hammer:  
 __credenza__ _n_  
