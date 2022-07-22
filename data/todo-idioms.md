@@ -1,18 +1,3 @@
-__place your bets__  
-__play it straight__  
-__play phone tag__ To engage in a series of telephone calls with another person in which each time one party calls, the other is not available to answer. _Hi Mary, just leaving you another message. We’ve been playing a bit of phone tag today, huh? Just give me a call back whenever you get this, thanks!_  
-__play smart__  
-__popcorn flick__ A film that is entertaining to watch but is generally not of a very high quality or rich in emotional or intellectual depth. _A: “So what movie do you want to go see later?” B: “I don’t feel like watching anything too heavy or complex—let’s just see whatever popcorn flick is out.”_  
-__Potemkin village__ Something that is made to seem very grand, elaborate, or prosperous for the purposes of impressing others, but which in reality has no real worth or substance.  
-__prick up (one’s) ears__  
-__pull an all-nighter__ To remain awake all night long, especially so as to study or to complete something. _I was a bit of a procrastinator in college, so I tended to pull a lot of all-nighters._  
-__pull something off__  
-__pull tabs__ (casino)  
-__push back__ :two::hammer:  
-__push the envelope__ :two::hammer: _Pushing the envelope of contemporary Japanese cuisine._  
-__push your buttons__  
-__put on a show__  
-__put up with (someone or something)__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
 __reset button__  
