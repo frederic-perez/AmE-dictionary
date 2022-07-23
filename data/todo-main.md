@@ -1,18 +1,3 @@
-__creek__ _n_  
-__crib__ _n_ :two::hammer:  
-__cross-country__ _adj_ :two::hammer:  
-__crucifix__ _n_  
-__crucifixion__ _n_  
-__crumble__ _v_  
-__culverts__ _n_  
-__cupola__ _n_ :three::hammer: :es: cúpula  
-__curassow__ _n_ :pencil2:  
-__cure-all__ _n_  
-__cusp__ _n_  
-__deleterious__ _adj_ Having a harmful effect; injurious. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._  
-__denizens__  
-__Deseret__ _n_ _Desered alphabet._  
-__devout__ _n_  
 __diocese__ _n_  
 __diorama__ _n_  
 __dome__ _n_  

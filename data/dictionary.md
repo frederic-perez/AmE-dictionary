@@ -3595,7 +3595,7 @@ __credenza__ _n_
 __credit__ _n_ _Presidents don’t deserve full credit or blame for the economy’s performance._  
 __creditor__ _n_  
 __credulous__ _adj_ /KREJ-uh-lus/ A credulous person is ready to believe things based on slight or uncertain evidence. A credulous thing, such as a report or statement, likewise shows that same readiness to believe. _Margo smiled as she watched her credulous siblings listening with rapt attention to their aunt’s tall tales._  
-__creek__ _n_ :three::hammer: _An older house on a creek._  
+__creek__ _n_ :four::hammer: _An older house on a creek._  
 __creep<sup>1</sup>__ _n_ :two::hammer: _The upward creep._  
 __creep<sup>2</sup>__ _v_ :two::hammer: (crept) _Defeated, Urban crept back to Avignon._  
 __crenelated weir__  
@@ -3615,7 +3615,7 @@ __crevasse__ _n_
 __crevice__ _n_ :four: (crevices) A narrow opening or fissure, especially in a rock or wall. _Many creatures hide in crevices in the rock._ _Syn_ crack, fissure, cleft, chink, interstice, cranny, nook :es: resquicio, hoyo  
 __crew cut__ _n_ :three::hammer: _A tall crew cut._  
 __crewcats__  
-__crib__ _n informal_ :four: A literal translation used in studying a foreign language (often used illicitly).  
+__crib__ _n_ :six: __2a__ A small building, usually with slatted sides, for storing corn. __b__ A rack or trough for fodder; a manger. __c__ A stall for cattle. __10__ _n informal_ A literal translation used in studying a foreign language (often used illicitly).  
 __cribbage__ _n_ :mega: /ˈkrɪbɪdʒ/ _game_  
 __crier__ _n_ :two: __2__ (formerly) an official who made public announcements, esp in a town or court. _Public criers._  
 __crimp<sup>1</sup>__ _n_ __1__ Usually, crimps. waves or curls, especially in hair that has been crimped or that displays a crimped pattern. __2__ The waviness imparted to natural or synthetic fibers by weaving, knitting, plaiting, or other processes. __3__ A crease formed in sheet metal or plate metal to make the material less flexible or for fastening purposes.  
@@ -3655,6 +3655,7 @@ __crooked__ _adj_ :three::hammer: _Crooked media._
 __crop-duster__ _n_ :camera: _The crop-duster attack in North by Northwest._  
 __crosbar__ _n_ _soccer_  
 __cross oneself__ _v_ Make the sign of the cross; in the Catholic religion. :es: santiguarse  
+__cross-country__ _adj_ :two::hammer:  
 __cross-examination__ _n_  
 __cross-eyed__ _adj_ :two::hammer: _An infamous cros-eyed burglar._  
 __cross-grained__ _adj_ Difficult to deal with.  
@@ -3675,7 +3676,8 @@ __crowbar__ _n_ :three::hammer: (crowbars)
 __crown cork__ _n_ _Syn_ crown seal, crown cap, cap :es: chapa  
 __crown jewel__ _n_ __2__ The most prized asset or possession in a group.  
 __crucible__ _n_ :seven::hammer:  
-__crucifix__ _n_  
+__crucifix__ _n_ :two::hammer:  
+__crucifixion__ _n_  
 __cruciverbalist__ _n_ A person who compiles or solves crossword puzzles.  
 __crud__  
 __crude__ _adj_ :two::hammer: _Crude humor._  
@@ -3686,7 +3688,7 @@ __cruffy__
 __cruft__ _n_ :two::hammer:  
 __crufty__ _adj_ :three::hammer: _A crufty comment._  
 __crumb__ _n_ :six::mute:[crum~~b~~] (crumbs) A very small amount of something. _Tim sighed deeply and accepted the crumb._ _Potato chip crumb._  
-__crumble__ _v_ :seven::hammer: (crumbled, crumbling)  
+__crumble__ _v_ :eight::hammer: (crumbled, crumbling)  
 __crumbling__ _adj_ :two::hammer: _Crumbling sidewalk._ _A crumbling Germany at the start of the Third Reich._  
 __crummy__ _adj_ :two::hammer: _Crummy Bears vs crummy Vikings._ _He had a crummy life._  
 __crump__ _v_ :two: __1__ To crush or crunch with the teeth. __2__ To strike heavily with a crunching sound. __3__ To make a crunching sound, especially in walking over snow.  
@@ -3742,23 +3744,25 @@ __culpable__ _adj_ :astonished:
 __culprit__ _n_  
 __cult__ _n_ :two::hammer:  
 __Cultural Olympiad__ _n_  
-__culvert__ _n_ _A dry culvert._  
+__culvert__ _n_ :two::hammer: _A dry culvert._  
 __cumbersome__ _adj_ _Warfarin is a cumbersome 60-year-old drug used to prevent strokes._  
 __cummerbund__  
 __cunctator__ _n_ Someone who postpones work (especially out of laziness or habitual carelessness).  
 __cuneiform__  
 __cupboard__ _n_ :two::hammer::camera::mute:[cu~~p~~board] (cupboards) _My father rebuilt cupboards._  
 __cupidity__ _n_ :three::astonished::hammer:  
-__cupolas__ _n_  
+__cupola__ _n_ :four::hammer: :es: cúpula  
 __cuppa__ _n_ :four: A cup of tea.  
 __cupping__ _n_ :pencil2:  
 __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._  
+__curassow__ _n_ :pencil2:  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
 __curb<sup>2</sup>__ _v_ :four::hammer: _Curb drug resistance._  
 __curdle__ _v_  
 __curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
+__cure-all__ _n_  
 __curfew__ _n_ :three: A regulation requiring people to remain indoors between specified hours, typically at night. _Her parents raised her with early curfews and well-defined rules._ :es: toque de queda  
 __Curia__ _n_ :four: (Roman Catholic Church) The central administration governing the Church.  
 __Curie__ _n_ :two::hammer::mega:  
@@ -3779,7 +3783,7 @@ __curtained-off__ _adj_ Separated from the rest of a room or area by a curtain. 
 __curtly__ _adv_ :two::hammer: _“I don’t know,” she said curtly._  
 __curveball__ _n_ _informal_ Something which is unexpected, surprising, or disruptive. _There’s always a curveball on every mission._  
 __cushy__ _n_ _A cushy modern life._  
-__cusp__ _n_ :three: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
+__cusp__ _n_ :four: A pointed end where two curves meet. Each of the pointed ends of the crescent moon. _The cusp of the largest immigration wave._ _The regulations are on the cusps of changing._  
 __cuss__ _v_ :seven::hammer: (cussed, cussing) _Other kids cussed in front of their parents._ _He gathered the players together and then commenced cussing a blue streak at very high volume._ _The cussing preacher._  
 __custard__ _n_ :two::hammer: :es: natillas, flan  
 __custodian__  
@@ -4042,7 +4046,7 @@ __delectable__ _adj_ :nine::m::hammer: _Syn_ delicious _Delectable dining._ _Del
 __delectation__ _n_  
 __delegacy__ _n_ A group of representatives or delegates.  
 __delegatable__ _adj_ _Non-delegatable actions._  
-__deleterious__ _adj_ :six: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious: _the deleterious effects of smoking._  
+__deleterious__ _adj_ :seven: Harmful often in a subtle or unexpected way. Having a harmful effect; injurious. _Syn_ injurious, hurtful _A guest speaker came to the high school to warn the students about the deleterious effects of smoking._  
 __deli__ _n_ :two::hammer:  
 __deliberate__  
 __delicate__ _adj_ :two::hammer::mega:  
@@ -4089,7 +4093,7 @@ __dengue fever__
 __dengue__  
 __denier__ _n_ :two: A small coin of varying composition and value current in western Europe from the eighth century until the French Revolution.  
 __denigrate__ _v_ :two: To disparage; belittle. _Syn_ derogate _He helped you a great deal on this project, so don’t take all the credit and denigrate his influence._ _It denigrates your performance considerably._  
-__denizen__ _n_ :five: (denizens) An inhabitant; a resident. _Syn_ dweller _I wandered through the empty streets, looking for a single denizen of this hamlet, but found not one._  
+__denizen__ _n_ :six: (denizens) An inhabitant; a resident. _Syn_ dweller _I wandered through the empty streets, looking for a single denizen of this hamlet, but found not one._  
 __denouement__ _n_ :nine::m: __1__ The final resolution of a plot, as of a drama or novel. _Syn_ climax, conclusion, finale, termination, culmination _The book’s sentimental denouement._ __2__ The outcome or resolution of a doubtful series of occurrences. _Syn_ outcome, end, result, consequence, resolution, conclusion, end result, upshot _An unexpected denouement to the affair._  
 __dent__ _v_ (denting) :four: __1__ Mark with a dent. _The drawer was dented by a kick._ _He hit a concrete bollard, denting the wing._ _Syn_ make a dent in, make an indentation in, dint, indent, mark _He grumbled that Jamie had dented his bike._ __2__ Have an adverse effect on; diminish. _This neither deterred him nor dented his enthusiasm._ _Syn_ diminish, reduce, lessen, shrink, weaken  
 __dentifrice__ _n_  
@@ -4131,6 +4135,7 @@ __descry__ _v_ :two: _literary_ To catch sight of (something difficult to discer
 __desecrate__ _v_ :four::hammer: _Desecrating the flag._  
 __desecration__ _n_ :two::hammer:  
 __desensitize__ _v_  
+__Deseret__ _n_ An area proposed by the Mormons in 1849 as an independent state or a state of the Union. Deseret would have included much of the southwest United States, with a capital at Salt Lake City. Congress refused to recognize the provisional state and created the Utah Territory in 1850. _Desered alphabet._  
 __desert__ _v_ _Bob’s father deserted him and his mother when Bob was a baby._  
 __deserted__ _adj_ _Most of the desks were deserted._  
 __desiccate__ _v_ :two: __1__ To dry up or become dried up. __2__ To preserve (a food) by drying. _Syn_ dehydrate __3__ To drain of emotional or intellectual vitality.  
@@ -4185,7 +4190,7 @@ __devolve__ _v_ _The party must devolve power._
 __devolved__ _v_  
 __devote__ _v_ :two::hammer: (devoted) _We’re devoting this episode to his paintings._  
 __devotee__ _n_ _Burning Man devotees._  
-__devout__ _adj_  
+__devout__ _adj_ :two::hammer:  
 __dewlaps__ _n_ :two::hammer:  
 __deworm__ _v tr_ To cure (an animal) of worms; worm.  
 __dexterous__ _adj_  
