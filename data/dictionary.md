@@ -326,7 +326,7 @@ __al fresco__ _adj, adv_ :two::hammer:
 __Al-Anon__  
 __alabaster__  
 __alacrity__ _n_ :five: /əˈlakrɪti/ __1__ Cheerful readiness, promptness, or willingness: _to do a favor with alacrity._ _Syn_ eagerness, enthusiasm, willingness, readiness, speed, zeal, gaiety, alertness, hilarity, cheerfulness, quickness, liveliness, briskness, promptness, avidity, joyousness, sprightliness _As you can imagine, I accepted with alacrity._ __2__ Speed or quickness; celerity.  
-__Alas!__  
+__alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
 __Alaskan__  
 __albatross__ _n_ :pencil2::three::mega::hammer:  
 __alchy__ _n_ (alkie, alky) __1__ Alcohol; an alcoholic beverage. __2__ A drunkard.  
@@ -428,7 +428,7 @@ __ambulation__ _n_ :three: Walking about. _The hospital encouraged early ambulat
 __ambulatory__ _adj, n_ _Hakan Erdem, 12, wasn’t ambulatory._  
 __amelia__ _n_ :astonished: (pathology) Congenital absence of an arm or leg.  
 __ameliorate__ _v_ :two::hammer:  
-__amenable__ _adj_ :dart::three: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
+__amenable__ _adj_ :dart::four::astonished: __1__ Open or susceptible to suggestion; likely to listen, cooperate, etc. _The team leader was amenable to any reasonable suggestion._ __2__ Accountable for behavior to some authority; answerable. __3__ Capable of being or liable to be tested, judged, etc.  
 __amend__ _v_ _The Texas constitution was amended in 1891._  
 __amends__ _n pl_ :three: (plurale tantum)  
 __amenity__ _n_ :two::hammer: _Amenity kits._  
@@ -736,6 +736,7 @@ __asexual__ _adj_
 __ash borer__ _n_ _Emerald ash borers._  
 __ashen__ _adj_ :three::hammer::pencil2: _His face turned ashen._ _Tired-looking executives looked at me ashen-faced._  
 __ashen-faced__  
+__ashlar__ _n_ :es: sillar  
 __aside__ _n_ :two::hammer: _First, a personal aside._ _A playful aside._  
 __asinine__ _adj_ :pencil2::five: Utterly stupid or silly. _Syn_ fatuous, inane, vacuous, mindless _The class clown’s asinine behavior in the classroom landed him, once again, in detention._ _To have him not get his chances is asinine for us._ _Asinine questions._  
 __ask after__ _phr v_ To ask for news about someone.  
@@ -862,6 +863,7 @@ __Austinite__ _n_ :two: (Austinites) A person Who lives in the city of Austin, T
 __authorial__  
 __authoritative__ _adj_  
 __autism__ _n_ /ˈɔ tɪz əm/  
+__autochthonous__ _adj_ :pencil2:  
 __autoclaving__ _n_ (science and technology) Heating of liquids or sterilizing of equipment at high steam pressure.  
 __autocracy__ _n_ :three: /ɔːˈtɒkrəsi/ _n_ A system of government by one person with absolute power. _Syn_ absolutism  
 __autocrat__ _adj_ :two::hammer:  
@@ -1027,7 +1029,7 @@ __banal__ _adj_ Drearily commonplace and often predictable; trite. _Syn_ stock, 
 __banalize__ _v_  
 __bandanna__ _n_ :two::hammer:  
 __bandit__ _n_ :two::hammer:  
-__banditry__ _n_ The activities of bandits.  
+__banditry__ _n_ :two: The activities of bandits.  
 __bandwagon__ _n_ __1__ (especially formerly) A wagon used for carrying a band in a parade or procession. _The colorful bandwagon was later purchased for use in circus parades._ __2__ An activity or cause that has suddenly become fashionable or popular. _Companies sought to strengthen their share prices by jumping on the dot-com bandwagon._ :es: _Jump on the bandwagon_ subirse al carro  
 __bandwidth__ _n_ _I can offer more bandwidth than detectives._  
 __bandy__ _v_ (bandied) Pass on or discuss (an idea or rumour) in a casual or uninformed way. _Names that have been bandied about._  
@@ -1083,7 +1085,7 @@ __barnstorm__ _v_ :two: To tour rural districts making speeches in a political c
 __barnyard__ _n_ :pencil2: The area surrounding a barn, often enclosed by a fence.  
 __baron__  
 __baronial__ _adj_ Impressive in appearance. _Syn_ imposing, noble, stately  
-__barrack__ _n_ :astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
+__barrack__ _n_ :two::astonished: _(often barracks)_ __1__ A building or group of buildings used to house military personnel. :es: cuartel __2__ A large, unadorned building used for temporary occupancy.  
 __barrage<sup>1</sup>__ _n_ :five: __1__ A concentrated discharge or bombardment of artillery, missiles, or firearms. __2__ An overwhelming, concentrated outpouring, as of words or requests: _a barrage of criticism._  
 __barrage<sup>2</sup>__ _v_  
 __barre__  
@@ -1189,7 +1191,7 @@ __bedstead__
 __bee eater__ _n_ :es: abejaruco  
 __bee__ _n_ A social gathering to carry out some communal task or to hold competitions. _A quilting bee._ _Spelling bee._  
 __bee’s knees__  
-__beech__ _n_ :three::hammer: _Beech woods._  
+__beech__ _n_ :four::hammer: _Beech woods._ _Beech tree._ _Beech groves._  
 __beef up__ _phr v_ :seven: __1__ To cause someone or something to become bigger, stronger, or bulkier. _We had to beef up the beam._ _You should beef up your travel report with more descriptions of what you saw. The soup tastes good, but we could beef it up by adding some spices._ __2__ To become bigger, stronger, or bulkier. _The actor beefed up over a couple of months so that he could play the part of a boxer._  
 __beef__ _n_ :two: __2__ _informal_ Human muscle; brawn. _He is trying to build some beef and muscle._  
 __beefcake__ _n_ _slang_ (vs cheesecake) Men displayed for their muscular bodies, esp in photographs.  
@@ -1273,6 +1275,7 @@ __bemused__ _adj_ :two: Preoccupied; lost in thought.
 __ben trovato__ _adj_ Appropriate even if untrue; happily invented: _a story that is ben trovato._  
 __bench__ _n_ _Snow will dust the benches and valleys._  
 __benchmark__ _n_ :three::hammer: _The price of benchmark West Texas Intermediate crude has dropped._  
+__benchmarking__ _n_  
 __bender__ _n_ :three: __2__ _slang_ A spree, especially a drinking spree. _His mother was on a bender._ _You can die on a bender._  
 __benefic__ _adj_ A rare word for beneficent.  
 __benefice__ _n_ _The cardinal had held nine English benefices in London, York, Lincoln, and Canterbury, making him a principal target of English resentment._  
@@ -1298,7 +1301,8 @@ __berg__ _n_
 __berm__ _n_ :two::hammer:  
 __berserk__ _adj_ :eight: (usually used in the phrase “go berserk”) __1__ Very angry, often in a violent or uncontrolled way: _He went berserk when he found out where I’d been._ __2__ Very excited: _People were going berserk with excitement._  
 __berserkers__ _n_ :two::hammer:  
-__berth__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
+__berth<sup>1</sup>__ _n_ :five::hammer: _Sho Sakai secured an Olympic berth._  
+__berth<sup>2</sup>__ _v_  
 __beseech__ _v_ :seven: Ask for or request earnestly. _Syn_ adjure, entreat, conjure, bid, press _Daddy, I beseech you to stop smoking before it is too late._  
 __beseechingly__  
 __beseechment__  
@@ -1833,7 +1837,7 @@ __breakout<sup>1</sup>__ _n_ :four: An escape from jail.
 __breakout<sup>2</sup>__ _adj_ :nine: __1__ Characterized by a sudden significant improvement or increase in popularity. _A ballplayer having a breakout season. A band with a breakout album._ __2__ Conducted separately from a larger group or meeting. _Attended several breakout sessions at the conference._ _A breakout product._  
 __breakthrough__ _n_ :two: __4__ _Medicine_ An infection, disease, disorder, or condition that occurs in an individual despite their having received a vaccine, medication, or treatment: _Covid breakthroughs are usually less severe than infections in unvaccinated people, indicating that the vaccine is still doing its job of combating the virus._  
 __breakup__ _n_ :three: The termination or disintegration of a relationship (between persons or nations). _Sharing breakup stories._  
-__breakwater__ _n_  
+__breakwater__ _n_ :two::hammer: :es: rompeolas  
 __bream__ _n_ :seven: A greenish-bronze deep-bodied freshwater fish native to Europe. _Fishing for bream._  
 __breaststroke__ _n_ _She won the 200 freestyle, 200 breaststroke and 400 individual medley._  
 __breather__ _n_ :four::hammer:  
@@ -2418,9 +2422,10 @@ __carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._
 __cascading__  
 __case at hand__  
 __case in point__ _n_ :nine: An example that is used to justify similar occurrences at a later time. _Those comments are a case in point._  
-__case study__  
+__case study__ _n_ :two::hammer:  
 __case__ _n_ :two::hammer: _Pascal case means only upper Camel case._ _XML tags are case sensitive._  
 __caseate__ _v_ To undergo cheesy degeneration, as in certain necroses. _Noncaseating granulomas._  
+__casemates__ _n_  
 __casement windows__ _n_ :camera: A window with one or more casements. _A metal casement window._ :es: ventana a bisagra, ventana batiente  
 __casement__ _n_ :es: ventana de bisagras _Casement window._  
 __caseous__ _adj_ Resembling cheese.  
@@ -2741,7 +2746,8 @@ __choker__ _n_ _A velvet choker._
 __choler__ _n_ __1__ An irritable petulant feeling. _Syn_ crossness, fretfulness, fussiness, peevishness _I felt quite amused at his unwarranted choler, and while he stumped indignantly up and down I fell to dwelling upon the romance of the fog._ __2__ A strong emotion; a feeling that is oriented toward some real or supposed grievance. _Syn_ anger, ire  
 __chomp__ _v_ :two::hammer: _He chomped his cigar._  
 __chomping__ _n_ :two::hammer:  
-__chop__ _v_  
+__chop<sup>1</sup>__ _n_ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
+__chop<sup>2</sup>__ _v_  
 __chophouse__ _n_ A restaurant that specializes in serving steaks and chops of meat.  
 __choppy__ _adj_ :four: (choppier) _(of a sea, lake, or river)_ Having many small waves. _Before the waters get choppier._ _Choppy waters._  
 __chops__ _n informal_ :eight: A person’s or animal’s mouth or jaws. _Acting chops._ _Truly pro-level video chops._ _In six months inmates will have the coding chops to land work as entry-level Web developers._ _Nichols honed his comedy chops._ _Their songwriting chops._  
@@ -3002,6 +3008,7 @@ __cockle__ _n_ :es: berberecho
 __cockpit__ _n_ _The charged particles can enter the cabin or cockpit._  
 __cocoon<sup>1</sup>__ _n_  
 __cocoon<sup>2</sup>__ _v_ To wrap or envelop in or as if in a cocoon.  
+__cod__ _n_ :es: bacalao  
 __coda__ _n_ :three::hammer: _The novel ends with a wordless coda._  
 __coddle__ _v_ :four: (coddled) Treat with excessive indulgence. _Syn_ baby, cocker, cosset, featherbed, mollycoddle, pamper, spoil, indulge _I have warned her not to spoil the children, but she chooses to coddle them anyway._  
 __codicil__ _n_ :two::hammer: _A codicil to a previous will._  
@@ -3135,6 +3142,7 @@ __commix__ _v_ To bring or combine together or with something else. _Syn_ amalga
 __commode__  
 __commodious__ _adj_ :two::hammer: /kuh-MOH-dee-us/  
 __commoditization__  
+__commodity__ _n_ _Communication on a commodity cluster._  
 __common__ _adj_ :mega: (kŏm′ən)  
 __commonality__ _n_ :two::hammer: (commonalities)  
 __commoner__ _n_ __1__ A member of the commonalty; a person without a title of nobility.  

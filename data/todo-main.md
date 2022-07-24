@@ -1,18 +1,3 @@
-__alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
-__amenable__ _adj_ :astonished: _The communication is predictable and thus amenable to acceleration._  
-__ashlar__ _n_ :es: sillar  
-__autochthonous__ _adj_ :pencil2:  
-__banditry__ _n_  
-__barrack__ _n_  
-__beech__ _n_ _Beech tree._ _Beech groves._  
-__benchmarking__ _n_  
-__berth__ _v_  
-__breakwater__ _n_ :es: rompeolas  
-__case study__ _n_  
-__casemates__ _n_  
-__chop__ _n_ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
-__cod__ _n_ :es: bacalao  
-__commodity__ _n_ _Communication on a commodity cluster._  
 __curb__ _v_  
 __dictate__ _v_  
 __diocese__ _n_  
