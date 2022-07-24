@@ -1,3 +1,5 @@
+__in (the) light of (something)__  
+__keep pace__  
 __quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __rain or shine__ _Market open rain or shine._  
 __reset button__  
@@ -100,6 +102,7 @@ __til you drop__
 __to a turn__ For exactly the right amount of time necessary or desired. (Used almost exclusively in reference to how well meat is cooked). _My goodness, these steaks are so flavorful and have been cooked to a turn!_ _Jeff is always the one manning the grill, because he makes sure everything on there is done to a turn!_  
 __to be taken aback__  
 __to boot__ :two::hammer: _Delectable game-focused menu to boot._  
+__to name (but) a few__  
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  

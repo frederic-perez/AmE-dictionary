@@ -204,6 +204,7 @@ VALID_PARTS_OF_SPEECH = [ \
     '_prep_', \
     '_pron_', \
     '_prov_', \
+    '_sentence connector_', \
     '_suffix_', \
     '_trademark_', \
     '_v informal_', \

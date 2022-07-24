@@ -1,3 +1,20 @@
+__alas__ _sentence connector_ Unfortunately; regrettably: _there were, alas, none left._  
+__amenable__ _adj_ :astonished: _The communication is predictable and thus amenable to acceleration._  
+__ashlar__ _n_ :es: sillar  
+__autochthonous__ _adj_ :pencil2:  
+__banditry__ _n_  
+__barrack__ _n_  
+__beech__ _n_ _Beech tree._ _Beech groves._  
+__benchmarking__ _n_  
+__berth__ _v_  
+__breakwater__ _n_ :es: rompeolas  
+__case study__ _n_  
+__casemates__ _n_  
+__chop__ _n_ __3__ A piece that has been chopped off, especially a cut of meat, usually taken from the rib, shoulder, or loin and containing a bone. _The famous chops from Berriz._  
+__cod__ _n_ :es: bacalao  
+__commodity__ _n_ _Communication on a commodity cluster._  
+__curb__ _v_  
+__dictate__ _v_  
 __diocese__ _n_  
 __diorama__ _n_  
 __dome__ _n_  
@@ -11,20 +28,25 @@ __ecosystem__ _n_
 __eel__ _n_ _Electric eels._  
 __emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
 __emphasize__ _v_  
-__encompass__ _v_  
+__encompass__ _v_ :two::hammer: _Very large-scale computing encompasses a varied range of systems._  
 __endangered__ _adj_ :mega:  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __erstwhile__  
 __escalator__ _n_  
+__estuary__ _n_  
 __etch__ _v_ (etching)  
+__exertion__ _n_  
 __exhedra__ _n_  
 __faun__ _n_  
 __figure skating__  
+__fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in the context of parallel computing)._  
 __finicky__ _adj_ /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
 __flaunt__ _v_  
 __fodder__ _n_ _A fodder for scientific research._  
 __foreshadow__ _v_  
+__foster__ _v_ _It will foster further technology development._  
 __fresco__ _n_ (frescoes, or frescos _n pl_) :two::hammer:  
+__fulling mill__ _n_ A mill for fulling cloth as by means of pesties or stampers, which alternately fall into and rise from troughs where the cloth is placed with hot water and fuller’s earth, or other cleansing materials.  
 __fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
 __furrow__ _v_  
 __gaiter__ _n_  
@@ -38,7 +60,7 @@ __grandiose__ _adj_
 __grapevine__ _n_  
 __grove__ _n_ :two::hammer:  
 __gullies__ _n_  
-__hamlet__ _n_ :two::hammer:  
+__hamlet__ _n_ :three::hammer:  
 __hang-glider__ _n_  
 __hard pressed__  
 __heifer__ _n_  
@@ -158,6 +180,7 @@ __lodge__ _n_ :two::hammer: _Sit on the lodge’s back patio._
 __loggery__ _n_  
 __logomachist__  
 __longboat__ _n_ _A Viking longboat._  
+__loophole__ _n_ __2__ A small hole or slit in a wall, especially one through which small arms may be fired.  
 __loose leaf tea__ _n_ _Loose leaf tea menu._  
 __loquacious__ _adj_ :astonished: Very talkative; garrulous. _Syn_ chatty, gabby, garrulous, talkative, talky _The loquacious woman was often mocked by neighborhood children for her incessant talking._  
 __lore__ _n_ :three::hammer: _Crazy folk lore._  
@@ -174,7 +197,7 @@ __lunch break__ _n_ _The plaza is a favorite spot for workers 0n their lunch bre
 __luncheon__  
 __lurks__ _v_  
 __luscious__ _adj_ :two::hammer: _Luscious burgers._  
-__lush__ _adj_ :five::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
+__lush__ _adj_ :six::hammer: _Lush garden/lawn/vegetation._ _Their lush outdoor patio._ _A lush tropical forest._  
 __luxuriate__ _v_ :two::hammer: _Luxuriate and pamper yourself._  
 __luxurious__ _adj_ _Luxurious furs._  
 __macaw__ _n_ :es: guacamayo  
@@ -311,6 +334,7 @@ __Neapolitan__ _adj, n_ :two::pencil2:
 __necklace__ _n_ :two::hammer:  
 __needlepoint__ _n_ _A needlepoint enthusiast._  
 __negroni__ _n_ A cocktail containing vermouth, gin, and Campari.  
+__neocortex__ _n_  
 __neophyte__ _n_  
 __Nepalese__ _adj_  
 __nerfherder__ _n_ [:scroll: Coined by American filmmaker George Lucas in the 1980 film _The Empire Strikes Back._] _(derogatory, fandom slang)_ A term of abuse. An insult in the Star Wars trilogy. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
@@ -339,6 +363,7 @@ __nosh<sup>2</sup>__ _v tr_ :two::hammer:
 __noshing__ _v_  
 __nosy__  
 __not-for-profit__ _adj_  
+__noteworthy__  
 __noticeboard__ _n_  
 __notoriously__ _adv_ :two::hammer:  
 __novella__ _n_  
@@ -396,6 +421,7 @@ __outshine__ _v_
 __overeducated__ _adj_ Having too much academic education; more educated than is practical or useful.  
 __overgrown__ _adj_ __1__ Covered with growing plants. __2__ Abounding in usually unwanted vegetation.  
 __overhaul__ _n_  
+__overlay__ _v_ _Overlay relevant metadata on the cellphone’s screen._  
 __overly__  
 __oxygen bar__ _n_ (Complementary Medicine) An establishment where customers pay to inhale pure oxygen in order to combat the effects of air pollution.  
 __oyster__ _n_ :pencil2: _A vast selection of oysters and seafood._  
@@ -436,6 +462,7 @@ __patronize__ _v_
 __patty__ _n_ _Two beef patties topped with knockwurst._  
 __pavers__ _n_  
 __pavilion__ _n_ :two::hammer:  
+__payload__ _n_  
 __paywall__ _n_ /PAY-wal/ A system of restricting access to online content or services, making them accessible only upon payment.  
 __peat__ _n_ _Peat bed._  
 __pedestal__ _n_  
@@ -458,6 +485,7 @@ __pergola__ _n_
 __peristyle__  
 __perspicacious__ _adj_ Having or showing penetrating mental discernment; clear-sighted. _Syn_ sagacious, sapient _She was much too perspicacious to be taken in by such a spurious argument._  
 __perturbing__ _adj_ Causing distress or worry or anxiety. _Syn_ distressful, disturbing, worrisome _The kindergarten teacher found her student’s erratic behavior to be perturbing, and she resolved to consult with the child’s parents._  
+__pervasive__  
 __pet__ _v_ _Petting the farm animals._  
 __pewter__ _n_ :two::hammer:  
 __phalanx__ _n_ A compact or close-knit body of people. _Syn_ crowd, unit _The party members disagreed on many topics, but when it came to social issues, they formed a solid phalanx._  
@@ -481,6 +509,7 @@ __pizzeria__ _n_ :mega:
 __planter__ _n_ :three: __3__ An early settler or colonist.  
 __plantman__ _n_  
 __plantwoman__ _n_  
+__Plateresque__ _adj_ :two: Of or relating to a style of 16th-century Spanish architecture characterized by lavish ornamentation in a variety of motifs, especially Gothic, Renaissance, and Moorish.  
 __platted__ _v_  
 __pleather__ _n_ A petroleum-based synthetic fabric designed to resemble leather.  
 __plenteous__ _adj_  
@@ -538,6 +567,7 @@ __prolix__ _adj_ Tediously prolonged; tending to speak or write at excessive len
 __promenade__ _n_  
 __promo__  
 __prompt__ _adj_ _Prompt, safe, and reliable._  
+__proof__ _n_ _The wine of La Rioja is eleven to fourteen degrees proof._  
 __propagate__ _v_ /PRAH-puh-gayt/ __1__ To produce offspring. _The tree is readily propagated by grafting._ __2__ To make (something, such as an idea or belief) known to or accepted by many people. _The group’s members increasingly rely on social media to propagate their ideas._  
 __Proteus__ _n_ /PRO-tee-uhs, -tyoos/ [:scroll: After Proteus, a sea god in Greek mythology, who could assume different forms. He got his name from Greek protos (first) as he was one of the earliest sea gods.] One who can easily change appearance, form, character, principles, etc.  
 __protracted__ _adj_ _A protracted discussion._  
@@ -602,7 +632,7 @@ __refreshment__ _n_
 __refulgent__ _adj_ Shining radiantly; resplendent. _Syn_ effulgent, radiant, beaming _Standing by the edge of the sea, they witnessed a refulgent sunset._  
 __refurbish__ _v_ :two::hammer: (refurbished)  
 __refurbishment__  
-__regatta__ _n_  
+__regatta__ _n_ :two::hammer:  
 __regiment__ _n_ _Several regiments of soldiers._  
 __reindeer__ _n pl_ :two::hammer:  
 __rejoice__ _v_  
@@ -646,7 +676,7 @@ __rockery__ _n_ :four::hammer:
 __roll call__ _n_ _A unique roll call of featured designers._  
 __rollicking__  
 __rolling hills__ _n_ :three::hammer:  
-__Romanesque__ _adj_ :two::hammer: :es: románico  
+__Romanesque__ _adj_ :three::hammer: :es: románico  
 __rooftop deck__ _n_ :two::hammer:  
 __rosette__ _n_  
 __rosewood__  
@@ -810,6 +840,7 @@ __sobriquet__ _n_ (soubriquet)
 __social hour__ _n_  
 __socialite__  
 __sonnet__ _n_  
+__sorely__ _adv_ _Sorely needed._  
 __sought-after__  
 __southpaw__ _n slang_ A left-handed person, especially a left-handed baseball pitcher.  
 __souvenir__ _n_ _Souvenir items._  
@@ -871,8 +902,9 @@ __stellar__ _adj_ _Stellar events._
 __stem__ _v_  
 __sterling__ _adj_ :two::hammer: _A sterling job._  
 __Stetson__ _n_ A trademark for a hat having a high crown and wide brim.  
-__stew__ _v_  
-__stilt__ _n_  
+__stew<sup>1</sup>__ _n_  
+__stew<sup>2</sup>__ _v_  
+__stilt__  
 __stockfish__ _n_  
 __stodgy__ _n_  
 __stoneware__ _n_  
@@ -976,7 +1008,7 @@ __theatregoer__ _n_
 __thicket__ _n_  
 __thither__ _adv_ To or toward that place; in that direction. _Syn_ there _Let us stroll thither, and examine the matter nearer._  
 __thoroughbred__  
-__thoroughfare__ _n_ :five::hammer: _A vibrant shopping thoroughfare._  
+__thoroughfare__ _n_ :six::hammer: _A vibrant shopping thoroughfare._  
 __thoughout__  
 __thought-provoking__ _adj_ :two: Challenging or causing someone to think, esp about things they have not thought about before.  
 __thoughtful__ _adj_  
@@ -999,6 +1031,7 @@ __tight__ _adj_ _Are you on a tight schedule?_
 __tikkamassala__ _n_  
 __til__ _conj, prep_  
 __till__ _v_ (tilled)  
+__time-consuming__ _adj_  
 __timeless__  
 __timely__ _adv_ _In a timely manner._  
 __timepiece__ _n_  
@@ -1022,6 +1055,7 @@ __tote bag__ _n_
 __tout__ _v tr_  
 __towpath__  
 __traboule__ _n_  
+__trade-off__ _n_ :two::hammer: (trade-offs)  
 __trail__ _n_ :three::hammer:  
 __trailhead__ _n_ :two::hammer:  
 __trashy__  
@@ -1096,12 +1130,14 @@ __valet__ _n_
 __validate__ _v_ /VAL-uh-dayt/ To validate something means to “recognize, establish, or illustrate” its worthiness or legitimacy. _He validated his daughter’s safety concerns by covering her head to toe with protective padding for her bicycle riding lessons._  
 __vaxxer__ _n informal_ A person who trusts vaccines or is in favor of vaccination.  
 __veal__ _n_  
+__vein__ _n_ :two::hammer: (not vessel)  
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
 __venison__ _n_  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
+__vicissitudes__ _n pl_  
 __vie__ _v_  
 __Viking__ _n_ :pencil2:  
 __villa__ _n_  
@@ -1133,6 +1169,7 @@ __wellrounded__
 __wet bar__ _n_ :astonished:  
 __wet suit__ _n_  
 __wetback__  
+__wharf__ _n_ __1__ A pier where ships or boats are tied up and loaded or unloaded. _Among factories and wharves._ :es: muelle, embarcadero  
 __wharfs__ _n_  
 __wheelbarrow__ _n_  
 __wheelhouse__ _n_  
@@ -1151,6 +1188,7 @@ __wide-eyed__ _adj_ _Wide-eyed ingenue._
 __wildflowers__ _n_ :two::hammer:  
 __wildfowl__  
 __wily__  
+__wimpy__ _adj_  
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
 __wishy-washy__  
