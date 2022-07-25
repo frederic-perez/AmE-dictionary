@@ -1329,7 +1329,7 @@ __in (or out of) someone’s hair__ _informal_ :two: [:scroll: This expression a
 __in (someone’s) view__ In someone’s opinion.  
 __in (someone’s) wheelhouse__ In, related to, or matching someone’s general interests, abilities, or area of familiarity; in someone’s comfort zone.  
 __in (the) bud__ In an undeveloped, immature, or incipient state. _Tommy has become quite a little painter in bud recently._  
-__in (the) light of (something)__ Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
+__in (the) light of (something)__ :two: Considering (something); given (something). Typically refers to a new revelation or piece of information that affects some situation. _In light of this new evidence, we are reopening the investigation._  
 __in a bad light__ Negatively; under unfavorable circumstances. (Typically used with the verbs “see” or “show,” or some similar variation.)  
 __in a big way__ Very much; badly- _She wanted to go in a big way._ _He wants to win in a big way._  
 __in a flutter__ In a nervous, confused, or agitated state.  
@@ -1494,6 +1494,7 @@ __keep one’s countenance__ Maintain one’s composure, especially by refrainin
 __keep one’s eyes peeled__ (keep one’s eyes skinned) To watch vigilantly (for).  
 __keep one’s word__ To uphold one’s promise; to do as one says. (The opposite of break one’s word.) _I told her I’d be there to pick her up, and I intend to keep my word._  
 __keep out of sight__ To remain unseen, as by hiding or evasion.  
+__keep pace__  
 __keep tab(s) (on someone or something)__ :nine::m: (keep track (of someone or something)) To monitor someone or something; to follow the activities of someone or something. :es: vigilar _Keep close tabs on problems as they occur._ _I don’t keep tabs on him._ _Ed kept close tabs on his brother._ _Is May keeping nervous tabs on her rivals?_  
 __keep the ball rolling__  
 __keep the lid on (something)__ To quash or suppress something; to control something so as to keep it from flourishing, increasing, or succeeding.  
@@ -2149,10 +2150,12 @@ __put the wind up (someone)__ To make someone very anxious, upset, or frightened
 __put up with (someone or something)__ :nine::m: To endure without complaint: _We had to put up with the inconvenience._ _They don’t put up with bullshit._ _We’re not going to put up with this anymore._ _People put up with it._ _I can put up with the injury._ _She put up with the men in her life because she had to._  
 __quake like a leaf__ To tremble violently with fear or nervousness. _My brother is so strong and scary-looking that he leaves people quaking like a leaf when he threatens them._ _I was quaking like a leaf when I went up to deliver my speech._  
 __quite a few__ (quite a lot, quite a bit, quite a number) _Quite a few of them came to the party._ :es: bastante  
+__quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
 __quote, unquote__ :two::hammer:  
 __rabbit hole__ :four::hammer: _We fell into the poop rabbit hole again in this episode._ _We are falling down the rabbit hole._  
 __race against time__ To do something very quickly.  
 __rags to riches__ Characterized by a rise from poverty to great or exceptional wealth. Hyphenated if used as a modifier before a noun. _My uncle’s is a true rags-to-riches story. He grew up without a penny, but through sheer determination, he founded his own company and is now one of the wealthiest men in the state._  
+__rain or shine__ _Market open rain or shine._  
 __ramp up__ :two::hammer:  
 __rarer than hens’ teeth__ Incredibly scarce or rare; extremely difficult or impossible to find.  
 __rat race__ [:scroll: The term started out as a literal racing of rats (earliest use 1783). Then it was used as military slang (1931) to refer to planes or ships chasing each other or racing. Eventually the term evolved into its current sense. Imagine a rat running through a laboratory maze to find another piece of cheese or an employee hoping to climb the next rung of the corporate ladder while sacrificing personal health and peace and you’d have a good idea of the term rat race.] A repetitive competitive activity, such as the modern working life in which one constantly struggles to attain wealth, status, etc.  
@@ -2167,14 +2170,19 @@ __red hot__ :two::hammer: _Now the market is red hot._
 __red pill__  
 __reinvent (oneself)__ To create a new style or persona for oneself; to change one’s pursuits, career, way of life, etc. _If you’re feeling stuck in a rut with your job, maybe it’s time to reinvent yourself._  
 __religious intolerance__ Intolerance of another’s religious beliefs or practices or lack thereof. _Religious intolerance waxed._  
+__reset button__  
 __rest my case__ :two::hammer: _I rest my case._  
 __revamp<sup>1</sup>__ _v tr_ To renovate, refurnish, revise, etc.  
 __revamp<sup>2</sup>__ _n_ An instance of renovation, refurnishing, etc.  
+__revel in__  
 __rid out__ _(chiefly Midwestern United States)_ To clean, empty, or clear out (something or some space). Primarily heard in US. _You’ve got to learn to rid out some of these negative thoughts you’ve been having, and make room for some positive emotions._ _I’ll be spending this weekend ridding out the garage._  
 __ride or die__ _n_ :astonished: One’s closest, most reliable or trustworthy friends. _Liz is my ride or die—I can totally count on her to be there for me in any situation._  
+__ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
 __ride the rail(s)__ To travel on a vehicle mounted on rails (especially a train or streetcar). _I know it takes a lot longer than flying, but I love riding the rail from Portland to Vancouver._  
 __ride__ _n_ One’s vehicle, especially an automobile. _You can park your ride in our driveway, if you want._ _Whoa, nice ride! Is that a Corvette?_  
+__right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
 __right on__ :two::hammer: _The description of the bomb was right on._  
+__right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
 __right up (one’s) alley__ Ideally suited to one’s interests. _This course seemed right up my alley when I signed up for it, but it ended up being dreadfully boring._  
 __ring a bell__  
 __ring someone’s bell__ __3__ To sexually attract or arouse someone; to bring someone sexual gratification or satisfaction. _That redhead from across the bar has been ringing my bell all night._ _He looks mighty fine, all right. I’d like to take him home and ring his bell!_  
@@ -2190,17 +2198,21 @@ __rocket science__ :three: A pursuit, activity, or endeavor that requires extrao
 __roll (one’s) eyes__ To turn one’s eyes upward or around in a circle, usually as an expression of exasperation, annoyance, impatience, or disdain. _I just rolled my eyes as my dad told another one of his corny jokes._  
 __roll of the dice__ :dart: A risky attempt to do or achieve something. _The merger was their last roll of the dice, and it failed miserably._  
 __roll the dice__ To take some risk on the hope or chance of a fortunate outcome. _He rolled the dice again in movie production._  
-__roll with it__ To adapt to a situation despite unexpected circumstances or challenges.  
+__roll with it__ :two: To adapt to a situation despite unexpected circumstances or challenges.  
 __roll with the punches__ Cope with and withstand adversity, especially by being flexible. For example, _She’d had three different editors for her book, each with a different style, but she’d learned to roll with the punches._ This term alludes to the boxer’s ability to deflect the full force of an opponent’s blow by adroitly moving his body.  
 __rolling in dough__ Exceptionally wealthy; having large amounts of money to spend. _I hear her father is rolling in dough, so I wouldn’t be too worried about her future._  
 __round the bend__ :two: Crazy, insane.  
 __round the clock__ (around the clock) Nonstop. _There are sirens round the clock._  
+__rub elbows__  
 __rub off on (someone)__ To have one’s characteristics, mannerisms, or behavior be adopted by someone with whom one has spent a lot of time. _Peter’s been very unruly lately. I think that new kid is rubbing off on him._  
 __rubber chichen dinner__ A dinner served at a large catered event, especially a political or corporate fundraising event, in which many people must be served simultaneously and the quality of food suffers as a result. (“Rubber chicken” is sometimes hyphenated.) _I’ll tell you, though: more than the long hours on the road, the repetitive speeches, or the manic workload, I cannot stand the rubber chicken dinners when I’m on the campaign trail._  
+__rubber jungle__ An aviation term among pilots and airline crew for the effect created when the rubber oxygen masks in a commercial aircraft deploy from its ceiling. _Everyone started to panic when the rubber jungle appeared, so I had to reassure them that it was just a minor hiccup and that we were all perfectly safe._  
+__rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
 __rue the day (that something happened)__ To curse or bitterly regret a point in time (in which something happened or one did something).  
 __rug rat__ :two: (rugrat, ankle biter) A baby or young child, especially one that is not walking fully or at all (i.e. one that is still crawling on the rug). _How are your two rugrats doing, Tom?_  
-__rumor has it__ People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
+__rumor has it__ :two: People say rumour has it when they are telling you something that they have heard, but do not necessarily think is true. _Rumour has it that tickets were being sold for £300._  
 __rumor mill__ :three: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
+__run (one’s) mouth (off)__  
 __run a fever__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
 __run amok__ :two::hammer:  
 __run an errand__ :two::hammer:  

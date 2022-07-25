@@ -1,18 +1,3 @@
-__in (the) light of (something)__  
-__keep pace__  
-__quitter__ One who gives up, especially before or without putting forth the maximum amount of effort possible. _The sport is too hard for you, is it? Well, good riddance—we don’t need a quitter like you on our team._  
-__rain or shine__ _Market open rain or shine._  
-__reset button__  
-__revel in__  
-__ride the pine__ In sports (especially baseball), to remain sitting on the bench, rather than be an active participant in the game. _I’m not going to play next year if coach makes me ride the pine again this season._  
-__right away__ Immediately; at once; without delay. _Right away, I could tell that the plan had no chance of success._ _Sarah’s parents took to her new girlfriend right away._  
-__right the wrong__ _Don Quixote believes he’s destined to right the wrongs of the world._  
-__roll with it__  
-__rubb elbows__  
-__rubber jungle__ An aviation term among pilots and airline crew for the effect created when the rubber oxygen masks in a commercial aircraft deploy from its ceiling. _Everyone started to panic when the rubber jungle appeared, so I had to reassure them that it was just a minor hiccup and that we were all perfectly safe._  
-__rubber match__ _sports_ The final, tie-breaking game that determines the victor of a series. _The Astros have won their rubber match against the Titans, meaning they will advance to the next round of the playoffs. If they can win four more matches there, they will be in the running for the championship title._  
-__rumor has it__  
-__run (one’s) mouth (off)__  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __run guns__  
