@@ -3766,7 +3766,7 @@ __cur__ _n_ :five::hammer: _A brindle cur._ _The barking of cur dogs._
 __curassow__ _n_ :pencil2:  
 __curator__ _n_ One who manages or oversees, as the administrative director of a museum collection or a library.  
 __curb<sup>1</sup>__ _n_ :three: __4__ Something that checks or restrains: _High interest rates put a curb on spending._ _This has created curbs on admission._  
-__curb<sup>2</sup>__ _v_ :four::hammer: _Curb drug resistance._  
+__curb<sup>2</sup>__ _v_ :five::hammer: _Curb drug resistance._  
 __curdle__ _v_  
 __curdled__ _adj_ _There has always been a curdled heart at pop’s center._  
 __curds__ _n_ _Clouds like curds of smoke._  
@@ -4217,6 +4217,7 @@ __dicey__ _adj_ _informal_ :eight::dart: Risky; unpredictable. _The women’s si
 __dichotomy__ _n_ :three::mega: Division into two usually contradictory parts or opinions. _Syn_ duality _One of the novel’s themes is the dichotomy of Eastern and Western culture._  
 __dickens__ _n_ _Psychosomatic afflictions hurt like the dickens._  
 __Dickensian__  
+__dictate__ _v_  
 __diction__ _n_ :five::hammer: _The priest diction._  
 __diddle-shit__  
 __diddle-squat__  
@@ -4271,7 +4272,9 @@ __dingly__ _n_ A small boat used for pleasure or for sailing to land from a larg
 __dingy__ _adj_  
 __dinking<sup>2</sup>__ _v_  
 __dinky__ _adj_ :four: Of small size or consequence; insignificant. _A dinky little community._  
+__diocese__ _n_  
 __diopter__ _n_ :two: A unit of measurement of the refractive power of lenses equal to the reciprocal of the focal length in meters.  
+__diorama__ _n_  
 __dip<sup>1</sup>__ _n_ __3__ A savory creamy mixture into which crackers, raw vegetables, or other foods may be dipped.  
 __dip<sup>2</sup>__ _v_ :astonished::three::hammer: (dipping) _Unemployment dipped to 5%._ _Sales dip during the summer months._  
 __diphthong__ _n_  
@@ -4515,6 +4518,7 @@ __dolirometer__
 __dollhouse__  
 __dollop__ _n_ :six::dart: (dollops) A dollop is a small, indefinite amount of something. People often ask for dollops of food. English has many words for amounts of something that aren’t exact. For example, a load is a lot of something, but a dollop is a little. If you’re watching your weight, you may only want a dollop of dressing on your salad. Most people use a dollop of shampoo when washing their hair. You can’t measure a dollop, but it’s should be a fairly small amount. If you use a whole bottle of ketchup, that’s far more than a dollop. _An extra dollop of drama._  
 __dolt__ _n_ :two: A stupid person; a dunce.  
+__dome__ _n_  
 __domestic__ _adj_  
 __domicile__  
 __dominatrix__ _n_  
@@ -4522,7 +4526,7 @@ __domino effect__ _n_ A cumulative effect produced when one event sets off a cha
 __don__ _v_ Put on (an item of clothing).  
 __don’t tell me it’s raining__  
 __doneness__ _n_ :two::pencil2::hammer: _Steak doneness: Rare, medium rare, medium, medium well, well done._  
-__donjon__ _n_ :three::hammer: _The donjon was impervious to time._  
+__donjon__ _n_ :four::hammer: _The donjon was impervious to time._  
 __donkey__ _n_ _slang_ A stupid or silly person.  
 __donned__ _v_ _They donned masks._  
 __donnybrook__ _n_ [:scroll: After _Donnybrook Fair_, an annual event until 1855 near Dublin.] A melee; a free-for-all. _Syn_ brawl  
@@ -4555,7 +4559,7 @@ __dormer__ _n_ :camera:
 __dornick__ _n_ A small stone that is easy to throw.  
 __dorsal__ _adj_ Relating to or found on the back of a fish or animal.  
 __dossier__ _n_ :mega: /ˈdɒs iˌeɪ, ˈdɔ siˌeɪ/  
-__dot__ _v_ :two: (dotted) Mark with a dot. _Wooden stools dot the floor of hot spots._  
+__dot__ _v_ :three: (dotted) Mark with a dot. _Wooden stools dot the floor of hot spots._  
 __dotage__ _n_ __1__ Feebleness of mind, esp as a result of old age. __2__ Foolish infatuation.  
 __dote__ _v_ (doted) To show excessive fondness or love: doted on their only child.  
 __dotting__  
@@ -4649,7 +4653,8 @@ __dramatist__ _n_ :two: Someone who writes plays. _Syn_ playwright
 __dramedy__ _n_ :three::hammer:  
 __drape<sup>1</sup>__ _n_ :three: Long curtains. _Katherine pulled back the heavy velvet drapes._ _Silk drape._  
 __drape<sup>2</sup>__ _v_ :seven::hammer: (draped, draping)  
-__draper__ _n_ _Chiefly British_ A dealer in cloth or clothing and dry goods.  
+__draper__ _n_ :two: _Chiefly British_ A dealer in cloth or clothing and dry goods.  
+__drapery__ _n_  
 __draught beer__ _n_ Beer drawn from a keg.  
 __draught__ _n_ :astonished: __1__ A current of air, esp one intruding into an enclosed space.  
 __draw a line__  
@@ -4765,9 +4770,10 @@ __duckweed__
 __ducky__ _adj_ _slang_ Excellent; fine.  
 __duct__ _n_ _They damaged a very large AT&T phone duct._  
 __ductile__ _adj_ :two::hammer:  
-__dud<sup>1</sup>__ _n informal_ :six: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ :es: prendas de vestir  
+__dud<sup>1</sup>__ _n informal_ :eight: (duds, dudly) __1__ A thing that fails to work properly or is otherwise unsatisfactory or worthless. _The winners and the duds._ _A high-grade collection, not a dud in the lot._ __2__ Clothes. _Buy yourself some new duds._ _Contemporary duds for women and men alike._ _Stylish duds._ :es: prendas de vestir  
 __dud<sup>2</sup>__ _v_  
 __dude__ _n_ Man, guy, friend.  
+__dudettes__  
 __dudgeon__ _n_  
 __due diligence__ _n_ :eight: The detailed examination of a company and its financial records, done before becoming involved in a business arrangement with it. _These types of investment require lots of due diligence._ _Siemens has completed due diligence of Alstom._  
 __due<sup>1</sup>__ _adj_  
@@ -4896,6 +4902,7 @@ __eclampsia__
 __éclat__ _n_  
 __eclectic__ _adj_ :two::pencil2::hammer:  
 __ecliptic__ _n_  
+__ecosystem__ _n_  
 __ecstatic__ _adj_  
 __ectopic__ _adj_ _Ectopic pregnancy._  
 __Ecuadorian__ _n_ A native or inhabitant of Ecuador.  
@@ -4914,7 +4921,7 @@ __edict__ _n_ :two::hammer:
 __edify__ _v_ :two::hammer: /ED-uh-fye/  
 __Edo__ _n_ The former name of Tokyo. It was the seat of power for the Tokugawa shogunate, which ruled Japan from 1603 to 1868.  
 __educated guess__ _n_ :three::hammer:  
-__eel__  
+__eel__ _n_ :two::hammer: _Electric eels._  
 __eerie__ _adj_ :eight::hammer:  
 __eerily__ _adv_ :three::hammer:  
 __effect__ _v_  
@@ -5038,10 +5045,11 @@ __emmetropia__ _n_
 __emo__ _n_ :three: Rock music characterized by confessional lyrics about emotional topics.  
 __emoji__ _n pl_  
 __emollient__ _adj_ :five: (Medicine) Any preparation or substance that has a softening or soothing effect, esp when applied to the skin. _Syn_ demulcent, salving, softening _In the winter, she applied emollient cream to her hands to prevent the skin from cracking._ _These are the lips of a boy who presented with a two year history of angular stomatitis and chapping refractory to topical corticosteroid or emollient treatment._  
+__emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
 __emote__ _v_  
 __empennage__ _n_ The rear part of an airplane or airship, usu. comprising the stabilizer, elevator, vertical fin, and rudder. _Syn_ tail _The pop superstar is so vain that she had her likeness plastered across her private jet’s empennage._  
 __emphasis__  
-__emphasize__ _v_ :three::astonished::hammer:  
+__emphasize__ _v_ :four::pencil2::hammer:  
 __emphysema__ _n_ :two::hammer::mega: /ˌɛmfɪˈsiːmə/ /ĕm′fĭ-sē′mə, -zē′-/  
 __Empire State__ _n_ The U.S. State of New York.  
 __empirical__ _adj_ Relying on or derived from observation or experiment. _Syn_ objective _Scientists insist on empirical results, not mere speculation, to support their theories._  

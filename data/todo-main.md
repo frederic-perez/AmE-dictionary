@@ -1,18 +1,3 @@
-__curb__ _v_  
-__dictate__ _v_  
-__diocese__ _n_  
-__diorama__ _n_  
-__dome__ _n_  
-__donjon__ _n_  
-__dot__ _v_  
-__draper__  
-__drapery__ _n_  
-__dud__ _n_ :two::hammer: _Contemporary duds for women and men alike._ _Stylish duds._  
-__dudettes__  
-__ecosystem__ _n_  
-__eel__ _n_ _Electric eels._  
-__emolument__ _n_ /ih-MAHL-yuh-munt/ An emolument refers to money, gifts, or perquisites that someone receives due to their job or position. _Jenna has contributed countless volunteer hours to the organization and continues to refuse any emolument for her work._  
-__emphasize__ _v_  
 __encompass__ _v_ :two::hammer: _Very large-scale computing encompasses a varied range of systems._  
 __endangered__ _adj_ :mega:  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
