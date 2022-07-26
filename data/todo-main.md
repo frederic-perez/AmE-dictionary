@@ -245,11 +245,11 @@ __meridian<sup>1</sup>__ _n_ /muh-RID-ee-uhn/ [:scroll: From Old French meridien
 __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to midday. __3__ :astonished: Relating to the highest point of someone’s power, prosperity, development, etc.  
 __merino__ _n_ _Merino wool._  
 __mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
-__meso__ _pref_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
+__meso__ _prefix_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
 __meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
 __meta<sup>2</sup>__ _adv_ In a self-referential manner.  
 __meta<sup>3</sup>__ _n_ Something that is self-referential.  
-__meta<sup>4</sup>__ _pref_ Denoting transformation, transcending, going beyond, etc.  
+__meta<sup>4</sup>__ _prefix_ Denoting transformation, transcending, going beyond, etc.  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  

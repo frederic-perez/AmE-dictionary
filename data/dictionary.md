@@ -4835,7 +4835,7 @@ __dyadic__
 __dye__ _v_ (dyes, dyed, dyeing) :two::pencil2::hammer: _Sail the dyed green waters of the Chicago River._  
 __dyke__ _n informal_ :four: A lesbian. _She wasn’t a dyke, either._  
 __dynasty__ _n_ :three::pencil2::hammer:  
-__dys-__ _pref_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
+__dys-__ _prefix_ __1__ Abnormal; impaired: _dysfunctional._ __2__ Difficult; painful: _dysmenorrhea._  
 __dysentery__ _n_ :two: Infection of the intestine with bacteria or amoebae, marked chiefly by severe diarrhoea with the passage of mucus and blood.  
 __dysfunction__ _n_ :pencil2: (dysfunctional)  
 __dysfunctional__  
@@ -5213,7 +5213,7 @@ __erudite__ _adj_ Having or showing knowledge that is gained by studying.
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
 __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inflammation.  
-__erythro-__ _pref_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
+__erythro-__ _prefix_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
 __escalate__ _v_ :three: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __escalation__ _n_ :two::hammer:  
 __escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
@@ -10382,7 +10382,7 @@ __oleaginous__ _adj_ __1__ Extremely polite, kind, or helpful in a false way tha
 __olefin__ _n_  
 __olericulture__ _n_ The cultivation of vegetables for the home or market.  
 __oligarch__ _n_ :three: One of the rulers in an oligarchy.  
-__oligo-__ _pref_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
+__oligo-__ _prefix_ A combining form meaning “few,” “little,” “scant”: _oligopoly_.  
 __oligopoly__ _n_ [From Medieval Latin _oligopolium_, from Greek _oligos_ “little, small,” in plural, “the few” (a word of uncertain origin) + _pōlein_ “to sell.”] A market situation in which prices and other factors are controlled by a few sellers.  
 __Olimpico__ _n_ (Olimpico goal) A goal scored directly from a corner kick without being touched by another player.  
 __omega__ _n_ /oʊˈmi gə, oʊˈmeɪ-, oʊˈmɛg ə/ [:scroll: Middle English, from Greek ō mega, _large o (from its being a long vowel in Greek)_]  
