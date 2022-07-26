@@ -1,12 +1,20 @@
+__aguacate__ _n_ /ˌɑːɡwəˈkɑːteɪ/ An avocado. _Syn_ alligator pear, avocado, avocado pear _Jim prepared his special aguacate dip and served it with tortilla chips._  
+__chlorophyll__ _n_ :pencil2:  
+__conscientious__ _adj_ :dart: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
+__elope__ _v_  
 __encompass__ _v_ :two::hammer: _Very large-scale computing encompasses a varied range of systems._  
 __endangered__ _adj_ :mega:  
 __epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
+__epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
 __erstwhile__  
 __escalator__ _n_  
 __estuary__ _n_  
 __etch__ _v_ (etching)  
+__evergreen__ _adj_ __2__ Perennially fresh or interesting; enduring.  
 __exertion__ _n_  
 __exhedra__ _n_  
+__extradite__ _v_ /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
+__face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __faun__ _n_  
 __figure skating__  
 __fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in the context of parallel computing)._  
@@ -37,11 +45,13 @@ __heifer__ _n_
 __hemicycle__ _n_  
 __heydays__  
 __hinterland__ _n_  
+__histrionics__ _n_ Theatrical arts or performances. _Syn_ theatrical performance, representation _They had lunch, then went to the theater to enjoy an hour of histrionics._  
 __hive__ _n_ _A hive of art in the center of downtown._  
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __homespun__  
 __honeymoon__ _n_  
 __house__ _v_  
+__iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __imbue__ _v_  
 __impervious__ _adj_  
 __impost__ _n_ __2__ The uppermost part of a column or pillar supporting an arch.  
@@ -76,6 +86,7 @@ __javelin__ _n_ :mega:
 __jazzed__  
 __jingoism__ _n_ /JING-goh-iz-im/ Excessive patriotism or nationalism, especially when marked by a belligerent foreign policy. _When the war began many people were caught up in a wave of jingoism._  
 __joey__ _n_ /ˈdʒəʊɪ/ __1__ A young kangaroo or possum. __2__ A young animal or child.  
+__John Henry__ _n_ /jon HEN-ree/ [:scroll: From the name John Henry, from confusion with John Hancock. Hancock’s signature was the most prominent on the United States Declaration of Independence and his name became a synonym for a signature.] A person’s signature. _Joe scribbled his John Henry on the card._  
 __jostle__ _v_  
 __jouster__ _n_  
 __juke__ _v_  
@@ -160,6 +171,7 @@ __low-key__ _adj_
 __lowdown__ _n_  
 __Lucite__ _n_ A trademark for a thermoplastic acrylic resin used as a substitute for glass and in paints and enamels.  
 __lucrative__ _adj_ /ˈluːkrətɪv/ Producing a profit; profitable; remunerative.  
+__Luddite__ _n_ /LUH-dyte/ Luddite refers to someone who is opposed to change, and especially to technological change. _Call me a Luddite, but I enjoy the sense of privacy that comes with not owning a smartphone._  
 __luge__ _n_  
 __luminaria__ _n_  
 __luminary__ _n_ _The luminary Charles Darwin._  
@@ -234,6 +246,10 @@ __meridian<sup>2</sup>__ _adj_ __1__ Relating to a meridian. __2__ Relating to m
 __merino__ _n_ _Merino wool._  
 __mesa__ _n_ _Visitors are amazed at the sight of giant buttes and mesas._  
 __meso__ _pref_ __1__ In the middle; middle: _mesoderm._ __2__ Intermediate: _mesophyte._  
+__meta<sup>1</sup>__ _adj_ /ME-tuh/ __1__ Self-referential. __2__ Relating to members of its own category.  
+__meta<sup>2</sup>__ _adv_ In a self-referential manner.  
+__meta<sup>3</sup>__ _n_ Something that is self-referential.  
+__meta<sup>4</sup>__ _pref_ Denoting transformation, transcending, going beyond, etc.  
 __metaverse__ _n_ /ˈmɛtəˌvɜːs/  
 __Methodist__ _n_ /ˈmɛθ ə dɪst/ __1__ A member of a Protestant denomination that developed out of John Wesley’s religious revival and has an Arminian doctrine and, in the U.S., a modified episcopal polity.  
 __meze__ _n_ :two::hammer: _Typical Greek mezes._  
@@ -259,6 +275,8 @@ __mogul__ _n_ :two::hammer:
 __moire__ _adj_ Having a wavy or rippled surface pattern. Used of fabric. _Syn_ watered _As the lady sat down, the folds of her moire silk dress rustled about her._  
 __mojo__ _n_  
 __mollify__ _v_ /MAH-luh-fye/ __1__ To soothe in temper or disposition. _The company attempted to mollify its employees by offering them more flexible work schedules._ __2__ To reduce in intensity. _The explanation was intended to mollify the manager’s anger._  
+__mollycoddle<sup>1</sup>__ _v tr_ [:scroll: From Molly (a nickname for Mary) + coddle (to treat or boil gently), from caudle (a warm drink for the sick), from Latin caldum (hot drink), from calidus (warm).] To be overprotective and indulgent toward. _Syn_ pamper  
+__mollycoddle<sup>2</sup>__ _n_ A person, especially a man or a boy, who is pampered and overprotected.  
 __molt<sup>1</sup>__ _v_  
 __molt<sup>2</sup>__ _n_ An act, process, or an instance of molting. _Penguins, like other birds, regularly shed their feathers (molt)._  
 __momo__ _n_ _(Tibetan cooking)_ A steamed dumpling filled with meat or vegetables.  
@@ -283,10 +301,12 @@ __mousy__ _adj_ _A mousy accountant._
 __moveable__ _adj_ _Moveable bridges._  
 __mucilage__ _n_ A sticky substance used as an adhesive. _Syn_ glue, gum _They wanted to make a model airplane, but lacked the mucilage needed to hold the pieces together._  
 __muddle__ _v_ :two::hammer: _Muddled lime with whiskie on the rocks._  
+__mumblecore__ _n_ A genre of narrative film focusing primarily on the intimate lives of young characters and featuring scenes of ample dialogue and minimal action. Example films include _Manhattan_, and _Clerks_.  
 __munch__ _v_  
 __munitions__ _n_  
 __murderess__ _n_ :astonished: A woman who commits murder.  
 __murky__ _adj_  
+__muse__ _v_ /MYOOZ/ To muse about something is to think about it carefully and thoroughly. The word can also mean “to become absorbed in thought,” or “to think or say something in a thoughtful way.” _The conversation meandered, as the cousins mused about what had changed and what had remained the same since the last family reunion._  
 __mushy__ _adj_ :two::hammer: _Mushy peas._  
 __mussel__ _n_ :two::pencil2::hammer:  
 __myalgia__ _n_ :dart: /maɪˈæl dʒi ə, -dʒə/ Pain in the muscles; muscular rheumatism.  
@@ -327,6 +347,7 @@ __no-holds-barred__ _adj_ _A no-holds-barred battle of comedy._
 __noisome__ _adj_ /noi′səm/ __1__ Offensive to the point of arousing disgust; foul: _a noisome odor._ __2__ Harmful or dangerous: _noisome fumes._  
 __nomadic__  
 __Nordic jumps__ _n_  
+__normcore__ _n_ A fashion aesthetic consisting of particularly nondescript, unadorned casual clothing items. _The model gravitates toward normcore when she’s not on the runway, and I saw this tendency firsthand when she arrived for this interview in a plain sweatshirt and relaxed jeans._  
 __nosh__ _n_  
 __nosh<sup>1</sup>__ _n_  
 __nosh<sup>2</sup>__ _v tr_ :two::hammer:  
@@ -426,7 +447,7 @@ __parterre__ _n_ _A rose parterre._
 __partridge__ _n_  
 __partygoer__ _n_  
 __pastime__ _n_ :two::hammer:  
-__pathos__ _n_  
+__pathos__ _n_ :two: /PAY-thahss/ Pathos refers to some element of an experience or of an artistic representation that evokes compassion or pity. The word also refers to a feeling of sympathetic pity. _Our knowledge of the hero’s tragic end adds an element of pathos to the story of his early success._  
 __patron__ _n_ :seven::hammer: (patrons) _This concert venue can hold 11,000 patrons._ _Chef Jeff is often seen in the dining room conversing with patrons._ _During the current season patrons can enjoy Mozart and Mahler._  
 __patronize__ _v_  
 __patty__ _n_ _Two beef patties topped with knockwurst._  
@@ -519,9 +540,11 @@ __presbytery__ _n_
 __prescience__ _n_ :mega: /PRESH-ee-unss/ The ability to see or anticipate what will or might happen in the future. _Stacy had the prescience to know that the stock’s value wasn’t going to remain high forever, and she managed to sell it just before it started to decrease._  
 __prescient__ _adj_ :es: clarividente, profético  
 __pressing__ _adj_ __1__ Demanding immediate attention; urgent: _a pressing need._ _Syn_ urgent __2__ Very earnest or insistent: _a pressing invitation._ _Pressing questions._  
+__prick__ _v_  
 __prickly__ _adj_  
 __priestess__ _n_  
 __prime__ _adj_ _Prime steaks._  
+__primo__ _adj, adv, n_  
 __primrose__ _n_  
 __pristine__ _adj_  
 __privacy lock__  
@@ -549,6 +572,7 @@ __prudery__ _n_
 __psyched__ _v_  
 __pulmonarias__ _n_  
 __punch__ _n_ :es: ponche  
+__punctilious__ _adj_ :dart: /pʌŋkˈtɪlɪəs/  
 __punitive damages__ _n pl_ Damages awarded in cases of serious or malicious wrongdoing to punish or deter the wrongdoer or deter others from behaving similarly.  
 __punt__ _v_ _Punting on the river._  
 __punting__ _n_  
@@ -713,6 +737,7 @@ __scrumptious__ _adj_ :two: Extremely pleasing, esp. to the taste; delectable.
 __scumbag__  
 __sea bass__ _n_ _Chilean sea bass._  
 __seabed__ _n_  
+__seafarer__ _n_ A sailor or mariner. _Syn_ old salt, Jack-tar, mariner, sea dog, seaman, gob, Jack, tar _Then he arose quickly, like a seafarer who all at once seeth the land; and he shouted for joy: for he saw a new truth._  
 __seafaring<sup>1</sup>__ _n_  
 __seafaring<sup>2</sup>__ _adj_ _A seafaring connection._  
 __seafood__ _n_  
@@ -797,6 +822,7 @@ __small-claims court__ _n_
 __small-time__ _adj_ _informal_ Insignificant; minor: _a small-time criminal._ _The small-time Philly boxer Rocky Balboa._  
 __smalltime__ _adj informal_ _Smalltime dealer._  
 __smattering__  
+__smilet /ˈsmaɪlɪt/ A little smile.  
 __smortasbord__  
 __snarky__ _adj_ _Take Wasatch Brewery’s iconic beverage “Polygamy Porter” and its snarky slogan: “Why have just one?”_  
 __snowcat__ _n_ :two::hammer:  
@@ -910,7 +936,7 @@ __succulent__ _n_ A succulent plant, such as a sedum or cactus.
 __suckle__ _v_  
 __sufferance__ _n_ A disposition to tolerate or accept people or situations. _Syn_ toleration, acceptance _Everyone admired her sufferance in the face of a number of unfortunate events._  
 __sugar beet__ _n_  
-__suitor__ _n_  
+__suitor__ _n_ :two: A man who is courting a woman. _Syn_ suer, wooer _The princess had many suitors, but the only man she was interested in was a poor farmhand._  
 __Sullivan__ _n_ :mega:  
 __sultry__ _adj_  
 __sum up__  
@@ -969,6 +995,7 @@ __teetotaler__
 __teetotaling__ _n_  
 __telethon__ _n_  
 __telly__ _n_ :dart:  
+__tergiversation__ _n_ /tuhr-ji-vuhr-SAY-shuhn/ __1__ Misleading, evasive, or ambiguous speech or action. __2__ Desertion of a party, position, cause, etc.  
 __terra cotta__ _n_ :pencil2:  
 __terrazzo__  
 __testament__ _n_  
@@ -1077,6 +1104,7 @@ __undeniably__ _adv_ _An undeniably true Chicago snack._
 __underbelly__ _n_ _The seedy underbelly of New York City._  
 __undercroft__ _n_ _The cathedral’s undercroft._  
 __underdog__  
+__underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _After they removed the underlayment, the young cousins were able to slide the rug across the hardwood floor as though it were a sled on ice._  
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
@@ -1104,6 +1132,7 @@ __vein__ _n_ :two::hammer: (not vessel)
 __veneer__ _n_ _Porcelain veneers._  
 __venerable__ _adj_ _Venerable institution._  
 __venison__ _n_  
+__ventail__ _n_ A medieval hood of mail suspended from a basinet to protect the head and neck. _Syn_ camail _The sword caught him just below the jaw, but the ventail protected his neck._  
 __verdant__ _adj_ :two: /VER-dunt/ __1__ Green in tint or color. __2__ Green with growing plants. _The golf course is noted for its tricky hazards and lush, verdant borders along its fairways._ __3__ Unripe in experience or judgment.  
 __verisimilitude__ _n_ The quality of appearing to be true or real. _Syn_ vraisemblance _While recounting the preposterous tale, he threw in a few convincing details to add verisimilitude to the narrative._  
 __vertiginous__ _adj_ Having or causing a whirling sensation. _Syn_ whirling, dizzy _At the end of the trail, they still faced a vertiginous climb up the face of the cliff._  
@@ -1122,6 +1151,7 @@ __voles__ _n_ _Water voles._
 __voucher__ _n_ _A lunch voucher._  
 __wade__ _v_  
 __waffle__  
+__waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic of a wag”—a wag being a clever person who is prone to joking—and is also a synonym of humorous. _With a wink and a waggish grin she emptied the sugar bowl and refilled it with salt._  
 __wainscoting__ _n_  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
 __walk-up__ _n_ _Bike rental for walk-ups._  
