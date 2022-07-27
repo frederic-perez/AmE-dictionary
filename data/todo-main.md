@@ -1,18 +1,3 @@
-__abutting__ _v_  
-__aguacate__ _n_ /ˌɑːɡwəˈkɑːteɪ/ An avocado. _Syn_ alligator pear, avocado, avocado pear _Jim prepared his special aguacate dip and served it with tortilla chips._  
-__backhaul__ _n, v_  
-__carve out__ _v_  
-__chlorophyll__ _n_ :pencil2:  
-__comprise__ _v_  
-__conscientious__ _adj_ :dart: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
-__contention__ _n_  
-__derated__ _v_ _A derated estimation of the actual peak power consumption._  
-__elope__ _v_  
-__encompass__ _v_ :two::hammer: _Very large-scale computing encompasses a varied range of systems._  
-__endangered__ _adj_ :mega:  
-__epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
-__epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
-__erstwhile__  
 __escalator__ _n_  
 __estuary__ _n_  
 __etch__ _v_ (etching)  

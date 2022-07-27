@@ -88,7 +88,7 @@ __abstain__ _v_ :three::pencil2: __1__ To choose not to do or have something. To
 __abstruse__ _adj_ :two: /ab-STROOS/ [:scroll: From Latin abstrudere (to hide), from ab- (away) + trudere (to push).] Hard to understand; obscure. Difficult to understand; recondite: _The students avoided the professor’s abstruse lectures._  
 __abubble__ _adj_ __1__ Bubbling, as while cooking or boiling. __2__ Characterized by intense enthusiasm or activity. _The store was abubble with last-minute shoppers._  
 __abundant__ _adj_ :two::hammer:  
-__abut__ _v_ (abutted, abutting) _Bungalows abutting._  
+__abut__ _v_ :two::hammer: (abutted, abutting) _Bungalows abutting._  
 __abutting__ _adj_  
 __abuzz__ _adj_ :two::hammer:  
 __abysmal__ _adj_ :three: Extremely or hopelessly bad or severe. _Syn_ dreadful, terrible, awful, appalling, dismal, dire, ghastly, hideous, atrocious, godawful _We have been having abysmal weather lately, but the Sun is finally expected to make an appearance next week!_  
@@ -289,6 +289,7 @@ __agribusiness__ _n_
 __agritourism__ _n_  
 __agronomy__ _n_  
 __aground__ _adj, adv_ :three: __1__ With the bottom stuck on the ground beneath a body of water; stranded. In a stranded condition or state. If a ship runs aground, it becomes stuck on a piece of ground under the water, where the water is not deep enough. _The ghost ship ran aground._ __2__ On or onto the ground.  
+__aguacate__ _n_ /ˌɑːɡwəˈkɑːteɪ/ An avocado. _Syn_ alligator pear, avocado, avocado pear _Jim prepared his special aguacate dip and served it with tortilla chips._  
 __ague__ _n_ :two::hammer: (agues)  
 __ah__  
 __aha__  
@@ -940,6 +941,7 @@ __backdown__ _n_ /ˈbækˌdaun/ A withdrawal from a previously held position, es
 __backdrop__ _n_ :nine::m: __1__ A painted cloth hung at the back of a stage set. Also called backcloth. __2__ The setting, as of a historical event; the background. _These massacres took place against the backdrop of a war._  
 __backfill__  
 __backfire__ _v_  
+__backhaul__ _n, v_  
 __backhoe__ _n_ :two::hammer:  
 __backlash<sup>1</sup>__ _n_ :six::hammer: /ˈbækˌlæʃ/ _It leads to backlash._  
 __backlash<sup>2</sup>__ _v_  
@@ -2415,7 +2417,7 @@ __carted__ _v_
 __cartel__ _n_ :three::hammer:  
 __carthorse__ _n_  
 __carton__ _n_ :four::camera::hammer: _A carton of eggs._ _Cartons of whole/strawberry/chocolate milk._  
-__carve out__ _v_ (carved out) :six::hammer:  
+__carve out__ _v_ :seven::hammer: (carved out)  
 __carve__ _v_ :two::hammer: _Feast on oversized hand-carved sandwiches._ _Grilled meats carved tableside._  
 __carveouts__  
 __carver__ _n_ _Cuts of beef served tableside by a parade of roaming carvers._  
@@ -2734,7 +2736,7 @@ __chivalry__ _n_ :four::hammer:
 __chive__ _n_ :two::hammer: :es: cebollino, cebolleta  
 __chivvy__ _v_ :two: (chivvied) Annoy continually or chronically. _Syn_ beset, harass, harry, hassle, molest, plague, provoke _The senator is very demanding and is reputed to endlessly chivvy her staff to work harder._  
 __chlamydia__ _n_ :pencil2:  
-__chlorophyll__ _n_ :three::pencil2::hammer:  
+__chlorophyll__ _n_ :four::pencil2::hammer:  
 __chocolate-box__ _adj_ Excessively decorative and sentimental, like the pictures on some boxes of chocolate candy.  
 __choice__ _v_ _Pick your choice._  
 __choir__ _n_ :mega:  
@@ -3183,7 +3185,7 @@ __compound<sup>2</sup>__ _v_ :three::hammer: _The pandemic has compounded this s
 __compounding__ _n_ __2__ The combining of elements or substances to make something, esp a drug. _Custom medication compounding._  
 __comprehend__ _v_  
 __comprehensible__ _adj_ _Syn_ clear, intelligible, understandable, apprehensible  
-__comprise__ _v_  
+__comprise__ _v_ :two::hammer:  
 __Comptometer__ _n_ _trademark_ (comptometer) A desktop calculating machine used before World War II.  
 __comptroller__ _n_ :three: Variant of controller, used _esp_ as a title of any of various financial executives.  
 __compulsory school__  
@@ -3284,6 +3286,7 @@ __connotation__ _n_ Connotation is using words to suggest a social or emotional 
 __connubial__ _adj_ :two: Relating to marriage or the married state; conjugal. _An active connubial career._  
 __consanguinity__ _n_  
 __conscience__ _n_ :pencil2:  
+__conscientious__ _adj_ :dart: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
 __conscious__ _adj_ /kon-shuhs/  
 __consciousness__ _n_  
 __conscript<sup>1</sup>__ _n_ One compulsorily enrolled for service, especially in the armed forces; a draftee.  
@@ -4125,6 +4128,7 @@ __derail__ _v_
 __derange__ _v_  
 __deranged__ _adj_ :four::hammer: _A deranged man._  
 __derangement__ _n_  
+__derated__ _v_ _A derated estimation of the actual peak power consumption._  
 __derecho__ _n_ :three: /də-rā′chō/ A widespread and severe windstorm that moves rapidly along a fairly straight path and is associated with bands of rapidly moving thunderstorms.  
 __derelict__ _adj_ :three::hammer: _Derelict buildings._  
 __dereliction__ _n_ :two::hammer:  
@@ -5000,7 +5004,7 @@ __elision__
 __elite__ _n_ :two::hammer: (elites)  
 __elk__ _n_ (_n pl_ elk or elks)  
 __ellipsis__ _n_ /ɪˈlɪp sɪs/ An ellipsis is a series of three consecutive periods known as ellipsis points ( . . . ) used to indicate where words have been omitted from quoted text, or (informally) to represent a pause, hesitation, or trailing-off in thought or speech.  
-__elope__ _v intr_ :eight::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
+__elope__ _v intr_ :nine::dart: (elopes, eloped) Run away secretly in order to get married. _Later he eloped with one of the housemaids._ _Katie was planning to elope with Brendan._  
 __eloquent__ _adj_ :two::hammer: /EL-uh-kwunt/  
 __elucidate__ _v_ :three: /ih-LOO-suh-dayt/ To make something that is hard to understand clear or easy to understand. _The author elucidates complex ideas to a general audience._  
 __elude__ _v_ :two::astonished::hammer: (eluding)  
@@ -5071,7 +5075,7 @@ __encampment__ _n_ :two::hammer:
 __encephalopathy__ _n_ /ɛnˌsɛfəˈlɒpəθɪ/ (Pathology) Any degenerative disease of the brain, often associated with toxic conditions.  
 __enclave__ _n_ :three: /EN-klayv/ An enclave is an area inhabited by people who are different in some way from the people in the surrounding areas. A distinct territorial, cultural, or social unit enclosed within or as if within foreign territory. _The district includes an enclave in which students of the university reside._  
 __encomium__ _n_ :two: (Literary & Literary Critical Terms) A formal expression of praise; a tribute. _Syn_ eulogy, paean, panegyric _We stand humbled by his heroics, and cannot help feeling that this encomium is inadequate to extol his virtue._  
-__encompass__ _v_ :five::hammer: (encompasses)  
+__encompass__ _v_ :seven::hammer: (encompasses) _Very large-scale computing encompasses a varied range of systems._  
 __encore<sup>1</sup>__ _n_ :six: __1__ A demand by an audience for a repetition of a song or act, performance of an additional piece, etc. __2__ The performance in response to such a demand. _An encore performance._  
 __encore<sup>2</sup>__ _v_ To demand an extra or repeated performance of (a work, piece of music, etc) by a performer.  
 __encourage__ _v_ _The Austin American-Statesman encourages feedback from readers._  
@@ -5082,6 +5086,7 @@ __encumbrance__ _n_ :four::dart: Any obstruction that impedes or is burdensome. 
 __end game__ _n_ :three::hammer: _Lockdown is the end game, the last resort before we are overwhelmed by a virus that has escaped the pandemic policy._  
 __end product__  
 __end result__  
+__endangered__ _adj_ :mega:  
 __endangerment__  
 __endarterectomy__ _n_ :mega:  
 __endear__ _v_ :two: (endeared) To make beloved or very sympathetic: _a couple whose kindness endeared them to friends._  
@@ -5173,6 +5178,7 @@ __epicurean<sup>1</sup>__ _adj_ :five: /ɛpɪkjʊˈriːən/ (Epicureans) __1__ D
 __epicurean<sup>2</sup>__ _n_ /ɛpɪkjʊˈriːən/  
 __epidemic__ _n_ Notice: _n_!  
 __epigram__ _n_  
+__epigraph__ _n_ An inscription on a building or statue; quotation at the beginning of a book or chapter.  
 __epilepsy__ _n_ _Risks of cerebral palsy and epilepsy._  
 __epiphany__  
 __Episcopalian__  
@@ -5183,6 +5189,7 @@ __epitome__ _n_ :nine::m::mega: A person or thing that is a perfect example of a
 __epitomize__ _v_ :seven: (epitomized) Be a perfect example of.  
 __eponym__ _n_ :three: An eponym can refer to “a word based on or derived from a person’s name,” such as the Gallup poll, named after statistician G.H. Gallup, or Reagonomics (a combination of the last name Reagan and economics). As a rhetorical device, an eponym can be an allusion to a famous person. Example: He is the LeBron James of chess.  
 __eponymous__ _adj_ :eight: (eponymously) __1__ _(of a person)_ Being the person after whom a literary work, film, etc, is named: _the eponymous heroine in the film of Jane Eyre._ __2__ _(of a literary work, film, etc)_ Named after its central character or creator: _the Stooges’ eponymous debut album._  
+__epoxy__ _n_ [:scroll: Epoxy literally translates to “near-acid.”]  
 __Epsom salts__ _n_ Hydrated magnesium sulfate that is taken orally to treat heartburn and constipation and injected to prevent seizures. _Syn_ bitter salts  
 __equaled__ _v_  
 __Equality State__ _n_ WY, Wyoming.  
@@ -5208,7 +5215,7 @@ __ermine__ _n_
 __errand__ _n_ _He had an errand to run._  
 __errata__  
 __ersatz__ _adj_ :three: __1__ Being a usually inferior imitation or substitute; artificial. _Syn_ imitation _He was fairly sure that no coffee beans had been involved in its production, but he was tired enough to drink the ersatz coffee anyway._ _Ersatz coffee made of chicory._ __2__ Not genuine; fake.  
-__erstwhile__ _adj_ :six::hammer:  
+__erstwhile__ _adj_ :seven::hammer:  
 __erudite__ _adj_ Having or showing knowledge that is gained by studying.  
 __erupt__ _v_ :two::hammer: (erupted)  
 __erupted__ _v_  
