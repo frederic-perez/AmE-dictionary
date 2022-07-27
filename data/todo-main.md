@@ -1,6 +1,12 @@
+__abutting__ _v_  
 __aguacate__ _n_ /ˌɑːɡwəˈkɑːteɪ/ An avocado. _Syn_ alligator pear, avocado, avocado pear _Jim prepared his special aguacate dip and served it with tortilla chips._  
+__backhaul__ _n, v_  
+__carve out__ _v_  
 __chlorophyll__ _n_ :pencil2:  
+__comprise__ _v_  
 __conscientious__ _adj_ :dart: /kahn-shee-EN-shus/ Conscientious often describes those who are concerned with doing things correctly. It can be used as a synonym for both meticulous and careful. _Although Marvin was brilliant, he was not a very conscientious student, and he frequently lost points for forgetting to turn in his homework._  
+__contention__ _n_  
+__derated__ _v_ _A derated estimation of the actual peak power consumption._  
 __elope__ _v_  
 __encompass__ _v_ :two::hammer: _Very large-scale computing encompasses a varied range of systems._  
 __endangered__ _adj_ :mega:  
@@ -11,6 +17,7 @@ __escalator__ _n_
 __estuary__ _n_  
 __etch__ _v_ (etching)  
 __evergreen__ _adj_ __2__ Perennially fresh or interesting; enduring.  
+__exacerbate__ _v_  
 __exertion__ _n_  
 __exhedra__ _n_  
 __extradite__ _v_ /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
@@ -30,8 +37,11 @@ __furrow__ _v_
 __gaiter__ _n_  
 __galley__ _n_ :es: galera  
 __gangway__ _n_  
+__gatekeeper__ _n_  
+__genetic algorithm__ _n_  
 __glacis__ _n_  
 __Good Friday__  
+__Gordian__ _adj_ _Gordian legal knot._  
 __gorge__ _n_  
 __Goth__ _n_  
 __grandiose__ _adj_  
@@ -41,6 +51,7 @@ __gullies__ _n_
 __hamlet__ _n_ :three::hammer:  
 __hang-glider__ _n_  
 __hard pressed__  
+__heap__ _v_ (heaped)  
 __heifer__ _n_  
 __hemicycle__ _n_  
 __heydays__  
@@ -50,6 +61,7 @@ __hive__ _n_ _A hive of art in the center of downtown._
 __holm__ _n_ __1__ Short for holm oak. _Holm-oak stands._  
 __homespun__  
 __honeymoon__ _n_  
+__hotspot__ _n_  
 __house__ _v_  
 __iconoclast__ _n_ /eye-KAH-nuh-klast/ Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who attacks widely accepted beliefs or institutions. _The comedian had developed a reputation as a contrarian and an iconoclast for whom no topic was off-limits._  
 __imbue__ _v_  
@@ -64,6 +76,7 @@ __insinuendo__ _n_ /in-sin-yuh-EN-doh/ [:scroll: A blend of insinuation + innuen
 __inspirit__ _v tr_ To instill courage or life into.  
 __instill__ _v_  
 __insulated__ _adj_ _Insulated coffee pitcher._  
+__intemperate__ _adj_  
 __intersperse__ _v_  
 __interspersed__ _v_  
 __intricacy__ _n_  
@@ -228,6 +241,7 @@ __maypole__ _n_ _Maypole and morris dancers._
 __meander__ _v_ :two::hammer:  
 __meatless__ _adj_ _Meatless Fridays._  
 __mecca__ _n_ /mĕk′ə/ :three: __1a__ A place that is regarded as the center of an activity or interest. _It’s a shopping mecca._ __b__ A goal to which adherents of a religious faith or practice fervently aspire. __2__ A place visited by many people: _a mecca for tourists._ _The City is also a mecca for antique lovers and collectors._  
+__mediocre__  
 __meerkats__ _n_  
 __megalomaniac__ _adj_  
 __megastore__ _n_ :mega:  
@@ -289,6 +303,7 @@ __moor__ _n_ :two::hammer: _Heather-filled moors._
 __Moorish__ _adj_ _Moorish architecture._  
 __mop top hair__  
 __moreish__ _adj_ :two::hammer: _Moreish cocktails._  
+__moreover__ _adv_ _Syn_ furthermore, also, further, in addition, too, as well, besides, likewise, what is more, to boot, additionally, into the bargain, withal  
 __morganatic__ _adj_  
 __morris__ _n_ An English folk dance in which a story is enacted by costumed dancers. _Maypole and morris dancers._  
 __mortgage__ _n_ :mega:  
@@ -315,6 +330,7 @@ __myopic__ _adj_
 __myriad__ _adj_ :two::hammer:  
 __mythical__ _adj_  
 __naan bread__ _n_  
+__nameplate__ _n_  
 __namesake__  
 __narcissistic__ _adj_ :pencil2:  
 __narrowboat__  
@@ -532,6 +548,7 @@ __potsticker__ _n_
 __potty-train__ _v_  
 __poutine__  
 __powder__ _n_ :two: __4__ Light dry snow. _Powder skiing._  
+__powermark__ _n_  
 __predilection__ _n_ /pred-uh-LEK-shun/ __1__ A natural liking for something. _The restaurant’s chef has a predilection for creating spicy new dishes._ __2__ A tendency to do or to be attracted to something. _The program is geared toward students who have predilections for learning a skilled trade._  
 __premier__ _adj_ :two::hammer: _Chicago is one of the premier dining destinations in the country._  
 __preposterous__  
@@ -734,6 +751,7 @@ __scoot__ _v intr_ To move or go suddenly and speedily; hurry.
 __scrub__ _n_ _Trails winding through scrub oak stands._  
 __scruffy__ _adj_ /ˈskrʌfɪ/ Unkempt or shabby. _Why, you stuck-up, half-witted, scruffy-looking nerfherder!_  
 __scrumptious__ _adj_ :two: Extremely pleasing, esp. to the taste; delectable.  
+__scrutiny__ _n_  
 __scumbag__  
 __sea bass__ _n_ _Chilean sea bass._  
 __seabed__ _n_  
@@ -771,6 +789,7 @@ __shooting guard__ _n_ _Basketball_ The player responsible for attempting long-r
 __shoppe__ _n_ Variant of shop.  
 __shoreline__ _n_  
 __short break__ _n_ A UK social services term of art for a brief respite during which a carer spends time away from their ward or patient to recuperate.  
+__shortcoming__ _n_  
 __shoulder__ _v_  
 __shove__ _v_  
 __showbiz__ _n_  
@@ -1017,6 +1036,7 @@ __throat__ _n_ _Throat clearing._
 __throbbing__ _adj_ _A throbbing dance club atmosphere._  
 __throes__ _n pl_ A condition of extreme difficulty or trouble: _a country in the throes of economic collapse._  
 __throng__  
+__throttle__ _v_ _Most work has focused on throttling throughput._  
 __throughout__  
 __throws__ _n_ __2__ _informal_ A chance, venture, or try. __3__ _(Games, other than specified)_ An act or result of throwing dice.  
 __thru__  
@@ -1067,6 +1087,7 @@ __trepidation__ _n_ A state of alarm or dread. _Syn_ apprehension _With trepidat
 __tribulation__ _n_  
 __tributary__ _n_  
 __trinket__ _n_ :three::hammer: _Trinket and tartan shops._  
+__trip__ _v_ _Tripping the fuses._  
 __trompe-l’oeil__  
 __troop__ _n_ _Wells Street is home to the famed Second City comedy troop._  
 __trotter__ _n_ __1__ A horse that trots, especially one trained for harness racing. __2__ _informal_ A foot, especially the foot of a pig or sheep prepared as food. _Sheep’s trotters._  
@@ -1108,6 +1129,7 @@ __underlayment__ _n_ A pad placed under a carpet. _Syn_ carpet pad, rug pad _Aft
 __unequaled__ _adj_  
 __unequivocal__ _adj_ /ˌʌnɪˈkwɪvəkəl/ Admitting of no doubt or misunderstanding; clear and unambiguous: _an unequivocal success._  
 __unforgiving__ _adj_  
+__unheeded__  
 __unkempt__ _adj_  
 __unmissable__  
 __unparalleled__ _adj_ :two::hammer:  
@@ -1116,6 +1138,7 @@ __unsavory__ _adj_ /ʌnˈseɪ və ri/
 __unscathed__ _adj_  
 __unsurmountable__ _adj_  
 __unwind__ _v_ :four: __5__ To become relieved of tension; relax. _Come play, dine and unwind!_ _The lounge is the perfect place to unwind with a martini._ _The perfect place to unwind and mingle._  
+__unwittingly__  
 __upbeat__ _adj_ _The atmosphere is upbeat and fun._  
 __upmost__ _adj_ &ˈʌpˌməʊst/ Another word for uppermost.  
 __upscale__ _adj_ :three::hammer: _Upscale shops._  
@@ -1155,6 +1178,7 @@ __waggish__ _adj_ :dart: /WAG-ish/ Waggish means “resembling or characteristic
 __wainscoting__ _n_  
 __walk-in__ _n_ _Appointments or walk-ins are welcome!_  
 __walk-up__ _n_ _Bike rental for walk-ups._  
+__wall clock time__ _n_  
 __wanderlust__  
 __wannabe__ _adj, n_  
 __wares__ _n_ _The retailers showcase their wares on the runway._  
@@ -1191,6 +1215,7 @@ __wily__
 __wimpy__ _adj_  
 __wind chimes__ _n pl_  
 __windchimes__ _n_  
+__wishful__ _adj_ _A wishful thought._  
 __wishy-washy__  
 __witness tampering__ _n_ The act of attempting to improperly influence, alter or prevent the testimony of witnesses within criminal or civil proceedings.  
 __witty__ _adj_ _A witty cast of characters that serve and entertain._  

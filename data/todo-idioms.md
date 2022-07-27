@@ -1,3 +1,4 @@
+__in spades__ _No carrier has ever blocked or discriminated in spades._  
 __run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run an errand__  
 __run guns__  
@@ -81,6 +82,7 @@ __this, that, and the other__ Miscellany; a lot of different, varying things. _I
 __throw a party__  
 __throw an eye on (something)__ To inspect something casually and quickly but with attention to detail. _Tom, would you mind just throwing an eye on these reports before you leave? I just want to be sure I didn’t make any mistakes._  
 __throw hands__  
+__throw out the baby with the bath water__ _HR 37 disapproves of everything, throwing out several babies with the bathwater._  
 __tick someone off__  
 __tickle (one’s) funny bone__ To make one laugh; to be humorous or amusing to one. _There’s this silly statue on campus that never fails to tickle my funny bone when I walk past it._  
 __til you drop__  
@@ -91,6 +93,7 @@ __to name (but) a few__
 __to no end__ Greatly; very much. _I was pleased to no end when you wrote of making several new friends at the university._ _I’m an editor, so it irritates me to no end when people use “their” or “there” when they should be using “they’re.”_  
 __to perfection__ In a way or to a degree that is exactly right. _Cooked to perfection._  
 __to the core__ _Charming to the core._  
+__to the fullest__  
 __tongue-in-cheek__  
 __torqued off__ Particularly irritated, frustrated, or exasperated. _It’s no use getting torqued off just because you don’t like your professor’s style of teaching._  
 __touch base__ :two::hammer:  
