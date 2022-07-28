@@ -5223,7 +5223,7 @@ __erythema__ _n_ Abnormal redness of the skin due to local congestion, as in inf
 __erythro-__ _prefix_ (eryth-) __1__ Red: _erythrocyte._ __2__ Erythrocyte: _erythropoiesis._  
 __escalate__ _v_ :three: To increase, enlarge, or intensify. _Syn_ intensify, step up _Tensions escalated as the politicians refused to compromise._  
 __escalation__ _n_ :two::hammer:  
-__escalator__ _n_ :two: A continuously moving stairway on an endless loop for carrying passengers up or down.  
+__escalator__ _n_ :three: A continuously moving stairway on an endless loop for carrying passengers up or down.  
 __escapade__ _n_ :dart::three: (escapades) A usually adventurous action that runs counter to approved or conventional conduct.  
 __escapism__ _n_ :three::mega: The tendency to escape from daily reality or routine by indulging in daydreaming, fantasy, or entertainment.  
 __escarpment__ _n_ :two: A steep slope or long cliff that results from erosion or faulting and separates two relatively level areas of differing elevations. _Syn_ scarp  
@@ -5250,10 +5250,10 @@ __ester__ _n_ _He can identify all the esters and other flavor-makers im beer._
 __estival__ _adj_ Of or relating to the summer.  
 __estivate__ _v_ To spend the summer, especially at a different place from one’s usual residence.  
 __estrange__ _v_ :two: (estranged) __1__ (often followed by: _from_) To separate and live apart from (one’s spouse): _he is estranged from his wife._  
-__estuary__ _n_ :two::hammer:  
+__estuary__ _n_ :three::hammer:  
 __esurient__ _adj_ :two::hammer:  
 __et cetera__  
-__etch__ _v_ :five::hammer: (etched)  
+__etch__ _v_ :six::hammer: (etched, etching)  
 __etched__ _adj_ __1__ If something is etched on your mind or memory, you can still remember it very clearly, sometimes when you would prefer to forget it. __2__ If a feeling is etched on someone’s face, their expression shows clearly what they are feeling.  
 __etchings__  
 __ether__ _n_ The element believed in ancient and medieval civilizations to fill all space above the sphere of the moon and to compose the stars and planets. _Syn_ quintessence _The stars, the ancients believed, both inhabited and were composed of the ether._  
@@ -5282,7 +5282,7 @@ __evened__ _v_
 __evening star__ _n_ A planet, especially Venus or Mercury, that is prominent near the western horizon shortly after sunset. _The evening star was out and the moon rising._  
 __evensong__ _n_  
 __eventual__ _adj_  
-__evergreen__ _adj_  
+__evergreen__ _adj_ :two: __2__ Perennially fresh or interesting; enduring.  
 __everyday__ _adj_ :three::pencil2: Very common or completely normal, and often not very interesting.  
 __evict<sup>1</sup>__ _n_ :es: desahucio  
 __evict<sup>2</sup>__ _v tr_ :nine::m: (evicted) To force out or expel, especially to remove (a tenant) from rented accommodation or land by a legal process. :es: desahuciar, desalojar  
@@ -5328,9 +5328,10 @@ __exemplify__ _v_ To furnish or serve as an example of; typify. _Syn_ represent 
 __exempt__ _v_ :two::hammer:  
 __exemption__ _n_ :three::hammer: _Dru earned an exemption into the tournament._  
 __exert__ _v_ :eight: (exerted) To use your authority, power, influence, etc. to make something happen. _To exert due diligence._  
-__exertion__ _n_ :nine::hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
+__exertion__ _n_ :nine::m:hammer: /ɪgˈzɜr ʃən/ _Her face was bright with exertion._  
 __exhaust<sup>1</sup>__ _v_ :two::mute:[ex~~h~~aust]:hammer: (exhausted) _Exhaust fans._ _All the resources have been exhausted._  
 __exhaust<sup>2</sup>__ _n_ :mute:[ex~~h~~aust] _Car exhaust._  
+__exhedra__ _n_  
 __Exhibit A__ _n_ :three::mute:[ex~~h~~ibit]  
 __exhibit__ _n_  
 __exhilarate__ _v_ :three::mute:[ex~~h~~ilarate] /ig-ZIL-uh-rayt/ To make (someone) very happy and excited or elated. Fill with sublime emotion. _Syn_ beatify, inebriate, tickle pink, exalt, thrill _The beauty of the art exhibit exhilarated me so much that I could not wait to get home and paint._  
@@ -5380,7 +5381,7 @@ __extenuate__ _v_ :astonished:
 __extol__ _v_ :three::hammer: (extols) _But he extols running as what helps him stay clean._  
 __extoll__ _v_ :six::hammer: (extolled, extolling)  
 __extort__ _v_  
-__extradite__ _v_  
+__extradite__ _v_ :two: /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
 __extraneous__  
 __extravaganza__ _n_ :two::hammer:  
 __extreme unction__ _n_ _The King received extreme unction._  
@@ -5425,6 +5426,7 @@ __face left__ _n_ (vs face right) _Two admirals did a left face and screwed ever
 __face off__ _v_ :two::hammer: _(sports)_  
 __face time__ _n_ :dart: __1__ Time that you spend at your job because you want other people, especially your manager, to see you there, whether or not you are actually doing good work. _Here we reward performance, not face time._ __2__ Time that you spend talking to someone when you are with them, rather than on the telephone.  
 __face value__ _n_ :three::hammer:  
+__face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
 __facelift__ _n_ :two::hammer: (face-lift)  
 __facetious__ _adj_ :six::astonished::pencil2: /fəˈsi ʃəs/ /fuh-SEE-shuss/ Not to be taken seriously; amusing; humorous; frivolous: _I was only being facetious._  
 __facetiousness__  
@@ -5559,7 +5561,7 @@ __fatwa__ _n_ :two: Religious edict.
 __Fauci-ing__ _n_ _slang_ One of the hippest, newest dating trends where one rejects a date because they think the other person is not taking COVID-19 protocols seriously.  
 __fault__ _v_  
 __faulty__ _adj_ :two::hammer::dart: _Faulty software._  
-__faun__ _n_ Any of a class of ancient Roman deities of the countryside, identified with the satyrs of Greek myth.  
+__faun__ _n_ :two: Any of a class of ancient Roman deities of the countryside, identified with the satyrs of Greek myth.  
 __fauna__ _n_  
 __Faustian__ _adj_ :two: Surrendering one’s integrity for something, such as power, money, fame, etc. _Faustian device._  
 __faux pas__ _n_ :two: A social blunder.  
@@ -5701,6 +5703,7 @@ __figments__
 __figuratively__ _adv_  
 __figure out__ _phr v_ :two::hammer:  
 __figure skates__ _n_  
+__figure skating__  
 __figure<sup>1</sup>__ _n_ _5-figure price tag._  
 __figure<sup>2</sup>__ _v_ _informal_  
 __figurehead__ _n_ :three::hammer:  
@@ -5727,6 +5730,7 @@ __finagle__ _v_ :three: To obtain or achieve by indirect, usually deceitful meth
 __finalize__ _v_  
 __finch__ _n_ Any of numerous small songbirds with short stout bills adapted for crushing seeds.  
 __fine print__  
+__fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in the context of parallel computing)._  
 __fine-tune__ _v_  
 __finery__ _n_ :three: Beautiful clothes and jewelry, especially the type that people wear only on special occasions. Elaborate or showy decoration, esp clothing and jewelry.  
 __finesse<sup>1</sup>__ _n_ :two::hammer:  
@@ -5737,7 +5741,7 @@ __finger__ _v_
 __finger-licking__ _adj_ _Finger-licking barbecue._  
 __finger-waggers__  
 __fingerprint__ _n_ __2__ A distinctive or identifying mark or characteristic.  
-__finicky__ _adj_ :three:hammer:  
+__finicky__ _adj_ :four: /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
 __fink__ _n_ Someone acting as an informer or decoy for the police. _Syn_ stool pigeon, canary, snitch _Family man to some, fink to others._  
 __fintech__  
 __fir__ _n_ :two::hammer: :es: abeto  
@@ -5863,7 +5867,7 @@ __flats__ _n_
 __flatter__ _v_ (flattered)  
 __flatware coins__  
 __flatware__ _n_  
-__flaunt__ _v_ :five::hammer: (flaunting)  
+__flaunt__ _v_ :six::hammer: (flaunting)  
 __flawless__ _adj_ :hammer::two: _It is not flawless._  
 __flaxen__ _adj_ _Flaxen cord._ :es: muy rubio  
 __flay__ _v_ :three::hammer: (flayed)  
@@ -5983,7 +5987,7 @@ __fo’c’sle__ _n_ :two::pencil2: Living quarters consisting of a superstructu
 __fob__ _n_ :two::hammer:  
 __focal fibrosis__  
 __focus__ _n_ :mega:  
-__fodder__ _n_ :six: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_  
+__fodder__ _n_ :seven: /ˈfɒdə/ Food, especially dried hay or straw, for cattle and other livestock; a person or thing regarded only as material for a specific use. _Young people ending up as factory fodder. Ever feel like cannon fodder?_ _A fodder for scientific research._  
 __foe__ _n_  
 __fogy__ _n_ An extremely old-fashioned or conservative person (usu. prec. by old). _An old fogy of thirty-two._  
 __foible__ _n_ :six: A minor weakness or failing of character. A behavioral attribute that is distinctive and peculiar to an individual. :es: manía _Syn_ fault, defect, imperfection _His father’s foibles did not prevent his son from loving and honoring him._  

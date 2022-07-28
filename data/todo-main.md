@@ -1,18 +1,3 @@
-__escalator__ _n_  
-__estuary__ _n_  
-__etch__ _v_ (etching)  
-__evergreen__ _adj_ __2__ Perennially fresh or interesting; enduring.  
-__exacerbate__ _v_  
-__exertion__ _n_  
-__exhedra__ _n_  
-__extradite__ _v_ /EK-struh-dyte/ To extradite someone who has been accused of a crime is to send that person to the state or country that has jurisdiction to try them for that crime. _The U.S. has rejected the country’s request to extradite the journalist because of concerns that she will be subjected to an unfair trial there._  
-__face-off__ _n_ A hostile disagreement face-to-face. _Syn_ confrontation, encounter, showdown _The relationship between the two officers deteriorated until they had a noisy face-off at the chief’s office._  
-__faun__ _n_  
-__figure skating__  
-__fine-grained__ _adj_ (versus coarse-grained) _Fine-grained communication (in the context of parallel computing)._  
-__finicky__ _adj_ /FIN-ih-kee/ Very particular in tastes or standards. _The young boy was a finicky eater, and his parents found it challenging to come up with ideas for healthy meals that he would enjoy._  
-__flaunt__ _v_  
-__fodder__ _n_ _A fodder for scientific research._  
 __foreshadow__ _v_  
 __foster__ _v_ _It will foster further technology development._  
 __fresco__ _n_ (frescoes, or frescos _n pl_) :two::hammer:  
