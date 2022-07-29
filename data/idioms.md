@@ -1385,6 +1385,7 @@ __in question__ Currently being discussed or under consideration. _I just don’
 __in retrospect__ :two: Considering or analyzing the past, with the knowledge that one has now.  
 __in short order__ :four: With no delay; quickly. Quickly, efficiently, and without any delays. _The repair shouldn’t take long at all. We’ll get you on the road in short order._ _Bob is the best trainer. He’ll whip you into shape in short order._  
 __in someone’s shoes__ If you talk about being in someone’s shoes, you are describing how you would feel or act if you were in the same situation as them. _Stop and think how you would feel if you were in his shoes._ _If I were in her shoes, I’d probably want an explanation._ _If you were in his shoes what would you do?_  
+__in spades__ :dart: In large quantity or to an extreme degree. _A con artist needs charm, and she had it in spades._ _No carrier has ever blocked or discriminated in spades._  
 __in stitches__  
 __in tall cotton__ In a time or period of great success or wellbeing; doing very well.  
 __in the back__ In the back part of a building; in the back room of a building. _He’s not in the shop right now. I’ll see if he’s in the back._  
@@ -2214,35 +2215,46 @@ __rumor has it__ :two: People say rumour has it when they are telling you someth
 __rumor mill__ :three: The source from, or process by, which rumors are generated, spread, and perpetuated among a group of people. Primarily heard in US. _Listen, Barry, you can’t believe everything that comes out of the rumor mill. I can guarantee you that there will be no layoffs this year._  
 __run (one’s) mouth (off)__  
 __run a fever__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness; to have a fever. _After my toddler was lethargic all day, I begin to worry that she was running a fever._  
+__run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
 __run amok__ :two::hammer:  
-__run an errand__ :two::hammer:  
+__run an errand__ :three::hammer:  
 __run errands__  
 __run for the hills__  
-__run wild__ To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
+__run guns__  
+__run the place__ _The baby African elephant born at the zoo basically runs the place._  
+__run wild__ :two: To behave or run around in a wild, unruly, out-of-control manner; to be or become crazy or chaotic. _We tried to have some organized games for the kids, but they all started running wild as soon as they got here._  
 __saber rattling__ :dart: (saber-rattling) A show or threat of military power. Words and actions that seek to convey anger, power, and intimidation, often in a military setting. _The leaders of these countries need to quit their saber rattling before we end up at war._  
+__safety net__  
+__salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
 __salt in the/(one’s) wound(s)__ An aggravation that makes something unpleasant, difficult, or painful even worse. _I can’t believe Sally broke up with John the day after his team lost the championship match. Talk about salt in the wounds!_  
 __salt of the earth__ :two: (salt-of-the-earth) If you describe someone as the salt of the earth, you have a lot of respect for them as the type of person who deals with difficult or demanding situations without making any unnecessary fuss. A person or group considered as embodying simplicity and moral integrity. _A quiet, hardworking, salt-of-the-earth little man._  
 __salty dog__ A sailor, especially a man, who is older and has had a lot of experience on the seas. _The bar was packed with old salty dogs who’d traveled all across the world, sharing stories of their adventures._  
 __same here__  
 __same old same old__ The same thing that is always done or that always happens. It often implies that such a thing is boring or monotonous. The phrase is duplicated for emphasis. _We always sit around and do the same old same old. Let’s go out this week._  
+__same same__  
 __sanctum sanctorum__  
 __sass back__ To talk back to someone in a rude, impertinent, and disrespectful manner. A noun or pronoun can be used between “sass” and “back.” _Don’t you dare sass me back like that, son, or I’ll tan your hide!_ _He got suspended for school for sassing back to the teacher again._  
 __save (one’s) bacon__ :two: To rescue one from failure, danger, or disaster; to prevent something bad from happening to one. _Thanks for bringing me some extra cash—you really saved my bacon._  
+__save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
 __save the day__ :two: To produce a good result when a bad result was expected. _The team was expected to lose, but Sally made three points and saved the day._  
 __save your breath__ Stop useless talk.  
 __saved by the bell__ Saved or spared from difficulty or misfortune by some intervention at the very last moment. An allusion to the bell that ends the round in a boxing match saving a boxer from being counted out.  
 __Say again?__ Could you please repeat what you just said? _Sorry, Mike, say again? I’m getting bad reception here._  
 __Says who?__  
 __scare (one) silly__ To shock or frighten one very suddenly or severely. Hyperbolically alludes to frightening one so severely as to cause them to lose their mind. _Don’t sneak up on me like that, you scared me silly!_  
+__scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
 __scare the (living) daylights out of (one)__ To shock or frighten one very suddenly or severely. _Don’t sneak up on me like that—you scared the living daylights out of me!_  
 __scare the shit out of someone__  
+__schmooze__  
+__score big__ _Come in and score big._  
 __score<sup>2</sup>__ __6__ To have sex with someone, especially with a new partner. _Ted can’t think about anything but scoring with Martha._ _It had been nearly six months since I broke up with my boyfriend, so I was really in the mood to score when I went to the club with my friends._  
 __scowl at (someone or something)__ To contort one’s face into an expression of anger, disdain, or disapproval at and because of someone or something. _I always make a point of waving to my neighbor each morning, but all he ever does is scowl at me from his porch._  
 __scream (one’s) head off__ To scream or yell very loudly and lengthily. _Suzy screamed her head off when I told her she couldn’t have an ice cream cone._  
+__screw (one’s) courage to the sticking place__ To remain bold, resolute, determined, and courageous, especially in the face of possible danger, difficulty, hardship, or adversity. Taken from a line in Shakespeare’s _Macbeth_: “We fail! But screw your courage to the sticking-place, and we’ll not fail.” _Men, some of us may not make it back alive, but such is the nature of war; so screw your courage to the sticking place and show them what you’re made of!_  
 __scrounge up__ _To scrounge up the funds._  
 __second best__ :two: (Describing) someone or something that is one step below or slightly inferior to the person or thing that is considered the best, especially in a formal ranking. _Even though I’d spent weeks working on my project for the science fair, I still came off second best._  
 __second to none__ The best; without rival. _Of course my daughter will go to Harvard—it’s second to none!_  
-__second-guess__ _I started second-guessing myself._  
+__second-guess__ :two::hammer: _I started second-guessing myself._  
 __secondhand smoke__ Tobacco smoke involuntarily inhaled.  
 __security blanket__ :dart: That which gives one a feeling of comfort, confidence, and safety. An allusion to the common practice of children to carry around blankets or stuffed animals to give them a feeling of safety. _His beard had long been his form of security blanket—something he could hide behind, something he could change at will, something he could fiddle with when he felt nervous or uncomfortable._  
 __see eye to eye__ :three: To concur, agree. To agree (with someone); to share the same position or opinion (as someone else). _Chester and I see eye to eye._  

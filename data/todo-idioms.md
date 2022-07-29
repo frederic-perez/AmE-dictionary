@@ -1,18 +1,3 @@
-__in spades__ _No carrier has ever blocked or discriminated in spades._  
-__run a temperature__ To have an abnormally high body temperature (a fever), which is indicative of or caused by illness. _I think I’ve started running a temperature. Maybe I should go lie down._  
-__run an errand__  
-__run guns__  
-__run the place__ _The baby African elephant born at the zoo basically runs the place._  
-__run wild__  
-__safety net__  
-__salad years__ A carefree time of youthful innocence, ingenuousness, and inexperience. A variant of the more common term “salad days,” which comes from Shakespeare’s _Antony and Cleopatra._ _I thought that I had experienced true romantic love back in my salad years, before I graduated. Now, however, I think love is largely an elaborate delusion._  
-__same same__  
-__save face__ To try to regain favorable standing after something embarrassing has happened. _I was late to the meeting but tried to save face by blaming an urgent call._  
-__scare story__ A story or rumor that makes something seem more serious, dreadful, or terrifying than it really is. _Every year around Halloween, there’s some scare story in the news about razor blades being found in candy._  
-__schmooze__  
-__score big__ _Come in and score big._  
-__screw (one’s) courage to the sticking place__ To remain bold, resolute, determined, and courageous, especially in the face of possible danger, difficulty, hardship, or adversity. Taken from a line in Shakespeare’s _Macbeth_: “We fail! But screw your courage to the sticking-place, and we’ll not fail.” _Men, some of us may not make it back alive, but such is the nature of war; so screw your courage to the sticking place and show them what you’re made of!_  
-__second-guess__  
 __set (someone or something) loose__ To make free or give up control of something or someone; to release or discharge something or someone, as from confinement. _Due to a lack of evidence, the suspects were set loose by police._  
 __set (someone) by the ears__ To cause (someone, generally a group of two or more people) to engage in a squabble, dispute, or altercation. _The entire town was set by the ears when it was announced that a giant megastore would be replacing many of its local shops and grocery marts._  
 __set (something) out__  
