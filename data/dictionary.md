@@ -6076,7 +6076,7 @@ __forensics__ _n_ :two::hammer:
 __foreplay__  
 __forerunner__ _n_ :two::hammer:  
 __foreseeable__  
-__foreshadow__ _v_ :four::hammer:  
+__foreshadow__ _v_ :five::hammer:  
 __Forest Recreation Park__  
 __forestall__ _v_ :eight: (forestalled) It takes a bit of planning to forestall something, meaning stop it from happening. _To forestall the effects of aging, exercise and take care of your health all your life._  
 __forested__ _adj_ Covered with forest. :es: arbolado _A forested park rich in game._  
@@ -6120,7 +6120,7 @@ __fortnight__
 __fortuitous__ _adj_ :pencil2:  
 __fortune telling__ _n_  
 __foster care__ _n_ :three::hammer:  
-__foster__ _v_  
+__foster__ _v_ :two::hammer: _It will foster further technology development._  
 __foul language__  
 __foul play__ _n_ :eight::dart: Violence, _esp_ murder.  
 __foul__ _adj_ :two::hammer: _Foul language._ __1a__ Offensive to the senses; revolting. __b__ Having a bad odor or taste: _foul breath; food that tasted foul._ _Everything that issued from the body smelled foul._ __c__ Rotten or putrid: _foul meat._  
@@ -6199,6 +6199,7 @@ __frenemy__ _n_ /ˈfrɛnəmɪ/ [:scroll: A blend of friend + enemy.] __1__ A sup
 __frenetic__ _adj_  
 __frenzy__ _n_ :two::hammer:  
 __frequent__ _v_  
+__fresco__ _n_ :two::hammer: (frescoes, or frescos _n pl_)  
 __fresh__ _adj_ :three::hammer: _Fresh towels._ _Leo took out his pad, finding a fresh page._  
 __freshen__ _v_ :two::hammer: (freshened, freshening) _Eve was freshening drinks and handing out cigars._  
 __freshet__ _n_ :two: /ˈfrɛʃɪt/ The occurrence of a water flow resulting from sudden rain or melting snow.  
@@ -6279,9 +6280,11 @@ __full-fledged__ _adj_ :two::hammer: _Full-fledged work._
 __full-mask helmet__ _n_  
 __fullback__ _n_ _football_ :two::hammer: (fullbacks)  
 __fuller__ _n_ _A crowd of fullers and weavers._  
+__fulling mill__ _n_ A mill for fulling cloth as by means of pesties or stampers, which alternately fall into and rise from troughs where the cloth is placed with hot water and fuller’s earth, or other cleansing materials.  
 __fullness__  
 __fulminate__ _v_ /ˈfʌlmɪˌneɪt; ˈfʊl-/ __1__ (often foll by: against) To make criticisms or denunciations; rail. __2__ To explode with noise and violence.  
 __fulsome__ _adj_ :two: /ˈfʊl səm, ˈfʌl-/ __1__ Offensive to good taste, esp. as being excessive; overdone: _fulsome décor._ __2__ Disgusting; sickening; repulsive: _fulsome mounds of greasy foods._ __3__ Expressing a lot of admiration or praise for someone, often too much, in a way that does not sound sincere. Excessively or insincerely lavish: _fulsome admiration._ _Our guests were fulsome in their compliments about the food._ _While most of the speeches expressed sincere appreciation for the outgoing CEO’s leadership, some were dense with fulsome and cringeworthy accolades._ __4__ Encompassing all aspects; comprehensive. __5__ Abundant or copious. _The photographs celebrate the island’s fulsome biodiversity._  
+__fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
 __fumble<sup>1</sup>__ _n_ _Cole returned a fumble 52 yards for a touchdown._  
 __fumble<sup>2</sup>__ _v_ _She fumbled a Lucky Strike from a pack and worked at a book of matches._  
 __fumbling__ _adj_ Showing lack of skill or aptitude. _Sexist ads banned: No fumbling dads, frazzled wives._  
@@ -6313,7 +6316,7 @@ __furnishing__ _n_ :two::hammer: (furnishings) _Home furnishings._ _Upscale furn
 __furor__ _n_ _Social media furor._  
 __furrier__ _n_ A person whose occupation is selling, making, dressing, or repairing fur garments.  
 __furrow<sup>1</sup>__ _n_ :six::hammer:  
-__furrow<sup>2</sup>__ _v_ :two::hammer: (furrowed) _His brow was furrowed._  
+__furrow<sup>2</sup>__ _v_ :three::hammer: (furrowed) _His brow was furrowed._  
 __further__ _v tr_ :three: To help the progress of; promote.  
 __furtive__ _adj_ /FER-tiv/  
 __fuschia__ _n_ (fuschias)  
@@ -6349,6 +6352,7 @@ __gag__ _n_ _The cases’s gag order._
 __gaggle__ _n informal_ :nine: A disorderly group of people. _A gaggle of Phillies fans taunted him._ _The media gaggle._ _A gaggle of students._ _A gaggle of geese._ _A gaggle of businessmen._ _A gaggle of mystery digests._  
 __gaiety__ _n_ _Frenetic gaiety._  
 __gait__ _n_ :two::hammer: _A pretty boy with a swing in his gait._  
+__gaiter__ _n_  
 __gal__  
 __gala__ _n_ :two: __1__ A festive occasion, especially a lavish social event or entertainment.  
 __Galahad__ _n_ __1__ In Arthurian legend, the purest of the Knights of the Round Table who alone succeeded in the quest for the Holy Grail. __2__ One considered to be noble, pure, or chivalrous. _I’m not a Galahad. I’m a bully, too._  
@@ -6360,7 +6364,7 @@ __gallant__ _adj_
 __gallantry__ _n_ _He was awarded the Silver Star Medal for Gallantry in Action._  
 __gallbladder__  
 __galleon__ _n_  
-__galley__ _n_ :two::hammer:  
+__galley__ _n_ :three::hammer: :es: galera  
 __Gallicism__ _n_  
 __gallimaufry__ _n_ A jumble; a hodgepodge. _Syn_ patchwork, melange, ragbag _Inside the chest, he found a gaudy gallimaufry of old dresses, feathers, and sequins._  
 __galling__ _adj_ :five: Irritating, exasperating, or bitterly humiliating. Causing extreme irritation or chagrin; vexing: _a galling delay; a galling setback to their plans._ _A galling loss._  
@@ -6385,7 +6389,7 @@ __gander__ _n_ _Take a gander at the college girls._
 __gangbangers__  
 __gangly__ _adj_ :two: Tall and thin and having long slender limbs. _Syn_ lanky, rangy _The gangly man’s suit sleeves and pant legs flapped like empty fire hoses as he walked._  
 __gangrene__ _n_ :pencil2:  
-__gangway__ _n_ :four::hammer:  
+__gangway__ _n_ :five::hammer:  
 __Ganjapreneur__  
 __gantlet__ _n_ :two::hammer: _A media gantlet._  
 __gaping__ _adj_ :three: Deep and wide open. _A gaping psychological hole._  
@@ -6428,7 +6432,7 @@ __gasp__ _v_ :four::hammer: (gasped) _The audience gasped._
 __gat__  
 __gated community__ _n_ :two::hammer:  
 __gatehouse__ _n_ _They were lobbing rocks at the gatehouse and the wall._  
-__gatekeeper__ _n_ :two::hammer:  
+__gatekeeper__ _n_ :three::hammer:  
 __gateway__  
 __gathering__ _n_ _Family gathering._  
 __Gatling gun__ _n_  
@@ -6462,6 +6466,7 @@ __Generation Xers__
 __Generation Yers__  
 __Generation Z__ _n_ :two: Label given to those born since 1995.  
 __generic__ _adj, n_ _A generic diet cola._  
+__genetic algorithm__ _n_  
 __genial__ _adj_ :two::astonished: __1__ Cheerful, easy-going, and warm in manner or behavior. __2__ Pleasantly warm, so as to give life, growth, or health: _the genial sunshine._  
 __genie__ _n_ :two::mega:/jē′nē/:hammer:  
 __genteel__ _adj_ :two::hammer:  
@@ -6555,6 +6560,7 @@ __give-and-take__ _n_ An exchange of views on some topic. _Syn_ discussion, word
 __giveaway__ _n_ :four::hammer: _Holiday giveaway._  
 __giveback__ _n_  
 __glabella__ _n_ The smooth area between the eyebrows just above the nose.  
+__glacis__ _n_  
 __glad-hand__ _v_  
 __gladdened__  
 __glades__ _n_ _Heathy glades._  
@@ -6675,7 +6681,7 @@ __goo__ _n informal_ :two: Sticky substance.
 __Good Book__ _n_  
 __good egg__ _n_ _A heel who learns how to be a good egg._  
 __good for you__  
-__Good Friday__ _n_ :two::hammer:  
+__Good Friday__ _n_ :three::hammer:  
 __good Samaritan__  
 __goodliest__ _adj_ :two::hammer:  
 __goodly__ _adj_ :three: __1__ Large in amount or extent or degree. _I was ravenous, so I heaped a goodly portion of mashed potatoes onto my plate and started eating._ __2__ Of fine appearance. _Goodly castles._  
@@ -6691,9 +6697,10 @@ __goomey__
 __goop__ _n_  
 __goose__ _v_ :three::hammer: (goosing) _Goosing the economy._  
 __goosebump__ _n_  
-__Gordian knot__ _n_ :two::hammer:  
+__Gordian knot__ _n_ :three::hammer: _Gordian legal knot._  
 __gore__ _n_ :two: __3__ Blood, especially coagulated blood from a wound. _Spittle and gore clogged his throat._  
-__gorge__ _v_ :two::hammer: (gorging)  
+__gorge<sup>1</sup>__ _n_  
+__gorge<sup>2</sup>__ _v_ :two::hammer: (gorging)  
 __gorget__ _n_ __1__ A piece of armor protecting the throat.  
 __gorgonize__ _v tr_ :three: /GOR-guh-nyz/ [:scroll: After Gorgon, any of the three monstrous sisters in Greek mythology: Stheno, Euryale, and Medusa. They had snakes for hair and turned into stone anyone who looked into their eyes (apparently it was OK to objectify people in those days).] To paralyze, petrify, or hypnotize. To affect as a Gorgon might; hypnotize; petrify.  
 __gormandize__ _v_ :two: Overeat or eat immodestly; make a pig of oneself. To eat greedily, gluttonously, or ravenously. _Syn_ devour  

@@ -1,18 +1,3 @@
-__foreshadow__ _v_  
-__foster__ _v_ _It will foster further technology development._  
-__fresco__ _n_ (frescoes, or frescos _n pl_) :two::hammer:  
-__fulling mill__ _n_ A mill for fulling cloth as by means of pesties or stampers, which alternately fall into and rise from troughs where the cloth is placed with hot water and fuller’s earth, or other cleansing materials.  
-__fumarole__ _n_ A hole in a volcanic area from which hot smoke and gases escape.  
-__furrow__ _v_  
-__gaiter__ _n_  
-__galley__ _n_ :es: galera  
-__gangway__ _n_  
-__gatekeeper__ _n_  
-__genetic algorithm__ _n_  
-__glacis__ _n_  
-__Good Friday__  
-__Gordian__ _adj_ _Gordian legal knot._  
-__gorge__ _n_  
 __Goth__ _n_  
 __grandiose__ _adj_  
 __grapevine__ _n_  
